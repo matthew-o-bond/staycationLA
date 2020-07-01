@@ -1,0 +1,591 @@
+tag,place,user
+"""want""","Hanoi, Vietnam",AliciaBoy
+"""been""","Puerto Penasco, Mexico",AliciaBoy
+"""been""","Morelia, Mexico",AliciaBoy
+"""want""","Ho Chi Minh City, Vietnam",AliciaBoy
+"""been""","Zacatecas, Mexico",AliciaBoy
+"""been""","Colima, Mexico",AliciaBoy
+"""been""","Tlalpujahua, Mexico",AliciaBoy
+"""been""","Puebla, Mexico",AliciaBoy
+"""been""","Puerto Angel, Mexico",AliciaBoy
+"""been""","Whistler, British Columbia, Canada",AliciaBoy
+"""been""","Hermosillo, Mexico",AliciaBoy
+"""been""","Tlacotalpan, Mexico",AliciaBoy
+"""been""","Anaheim, CA, USA",AliciaBoy
+"""been""","Xpujil Town, Mexico",AliciaBoy
+"""been""","Sun City, South Africa",AliciaBoy
+"""been""","Everglades City, FL, USA",AliciaBoy
+"""been""","Dover, UK",AliciaBoy
+"""been""","Fribourg, Switzerland",AliciaBoy
+"""been""","Houston, TX, USA",AliciaBoy
+"""been""","Cape Town Central, South Africa",AliciaBoy
+"""been""","Sonoma, CA, USA",AliciaBoy
+"""been""","Miami, FL, USA",AliciaBoy
+"""been""","Zipolite, Mexico",AliciaBoy
+"""been""","Miami Beach, FL, USA",AliciaBoy
+"""been""","Solvang, CA, USA",AliciaBoy
+"""been""","New Orleans, LA, USA",AliciaBoy
+"""been""","Tampa, FL, USA",AliciaBoy
+"""want""","Boston, MA, USA",AliciaBoy
+"""been""","Bandar Seri Begawan, Brunei Darussalam",AliciaBoy
+"""want""","Honolulu, HI, USA",AliciaBoy
+"""been""","Fortin de las Flores, Mexico",AliciaBoy
+"""been""","Puerto Aventuras, Mexico",AliciaBoy
+"""been""","Tlalnepantla, Mexico",AliciaBoy
+"""been""","Xilitla, Mexico",AliciaBoy
+"""been""","San Felipe del Agua, Mexico",AliciaBoy
+"""been"",""fave""","Florence, Italy",AliciaBoy
+"""been""","McAllen, TX, USA",AliciaBoy
+"""been""","Pisa, Italy",AliciaBoy
+"""been""","Ios, Greece",AliciaBoy
+"""been""","Progreso, Mexico",AliciaBoy
+"""been""","San Antonio, TX, USA",AliciaBoy
+"""been""","Naples, FL, USA",AliciaBoy
+"""been""","Islamorada, FL, USA",AliciaBoy
+"""been"",""fave""","San Francisco, CA, USA",AliciaBoy
+"""been""","Spokane, WA, USA",AliciaBoy
+"""been""","Page, AZ, USA",AliciaBoy
+"""been""","Fort Lauderdale, FL, USA",AliciaBoy
+"""been""","Gustavus, AK, USA",AliciaBoy
+"""been""","Orofino, ID, USA",AliciaBoy
+"""been""","Halifax, Nova Scotia, Canada",AliciaBoy
+"""been""","Calkini, Mexico",AliciaBoy
+"""been""","Ngorongoro Conservation Area, Tanzania",AliciaBoy
+"""been""","Chobe National Park, Botswana",AliciaBoy
+"""been""","Carmel, CA, USA",AliciaBoy
+"""been""","Desert Hot Springs, CA, USA",AliciaBoy
+"""been""","Fort Walton Beach, FL, USA",AliciaBoy
+"""been""","Denver, CO, USA",AliciaBoy
+"""been""","San Jose, CA, USA",AliciaBoy
+"""been""","Fort Myers, FL, USA",AliciaBoy
+"""been""","Palmer, AK, USA",AliciaBoy
+"""been""","Fort Myers Beach, FL, USA",AliciaBoy
+"""been""","Kissimmee, FL, USA",AliciaBoy
+"""been""","Ulaanbaatar, Mongolia",AliciaBoy
+"""been""","Moab, UT, USA",AliciaBoy
+"""been""","Weott, CA, USA",AliciaBoy
+"""been""","Chignahuapan, Mexico",AliciaBoy
+"""been""","Playa Conchal, Costa Rica",AliciaBoy
+"""want""","Yokohama, Japan",AliciaBoy
+"""been""","Venice, Italy",AliciaBoy
+"""been""","Key Biscayne, FL, USA",AliciaBoy
+"""been""","Flamingo, FL, USA",AliciaBoy
+"""been""","Key Largo, FL, USA",AliciaBoy
+"""been""","Key West, FL, USA",AliciaBoy
+"""been""","Madrid, Spain",AliciaBoy
+"""been""","Colombo, Sri Lanka",AliciaBoy
+"""been""","West Hollywood, CA, USA",AliciaBoy
+"""been""","Shanghai, China",AliciaBoy
+"""want""","Savannah, GA, USA",AliciaBoy
+"""been""","Talkeetna, AK, USA",AliciaBoy
+"""been""","Laguna Beach, CA, USA",AliciaBoy
+"""been""","Tempe, AZ, USA",AliciaBoy
+"""been""","Manzanillo, Mexico",AliciaBoy
+"""been""","Banff, Alberta, Canada",AliciaBoy
+"""been""","Zihuatanejo, Mexico",AliciaBoy
+"""been""","Calgary, Alberta, Canada",AliciaBoy
+"""been""","Puerto Vallarta, Mexico",AliciaBoy
+"""been""","Lake Louise, Alberta, Canada",AliciaBoy
+"""been""","Mazatlan, Mexico",AliciaBoy
+"""been""","Guanajuato, Mexico",AliciaBoy
+"""been""","Guadalajara, Mexico",AliciaBoy
+"""been""","Aurora, IL, USA",AliciaBoy
+"""been""","Cuernavaca, Mexico",AliciaBoy
+"""been""","Tierra del Fuego National Park, Argentina",AliciaBoy
+"""been""","Huatulco, Mexico",AliciaBoy
+"""been""","Campeche, Mexico",AliciaBoy
+"""been"",""fave""","Kruger National Park, South Africa",AliciaBoy
+"""been""","Ushuaia, Argentina",AliciaBoy
+"""been""","Juneau, AK, USA",AliciaBoy
+"""been""","Haines, AK, USA",AliciaBoy
+"""been""","La Jolla, CA, USA",AliciaBoy
+"""been""","Orlando, FL, USA",AliciaBoy
+"""been""","Fredericksburg, VA, USA",AliciaBoy
+"""been""","Milan, Italy",AliciaBoy
+"""been""","Brooklyn, NY, USA",AliciaBoy
+"""been""","Fairbanks, AK, USA",AliciaBoy
+"""been""","Erfoud, Morocco",AliciaBoy
+"""been""","Homer, AK, USA",AliciaBoy
+"""been""","Havana, Cuba",AliciaBoy
+"""been""","Irapuato, Mexico",AliciaBoy
+"""been"",""fave""","Santiago de Cuba, Cuba",AliciaBoy
+"""been""","Alto Jahuel, Chile",AliciaBoy
+"""been""","Jasper, Alberta, Canada",AliciaBoy
+"""been""","Buenos Aires, Argentina",AliciaBoy
+"""been""","Auckland Central, New Zealand",AliciaBoy
+"""been""","Edmonton, Alberta, Canada",AliciaBoy
+"""been"",""fave""","Jasper National Park, Alberta, Canada",AliciaBoy
+"""been""","Napier, New Zealand",AliciaBoy
+"""been""","Grande Prairie, Alberta, Canada",AliciaBoy
+"""been""","Varadero, Cuba",AliciaBoy
+"""been""","Glenelg, Australia",AliciaBoy
+"""been""","Melbourne, Australia",AliciaBoy
+"""been""","Providenciales, Turks and Caicos",AliciaBoy
+"""want""","Turin, Italy",AliciaBoy
+"""been""","Perth, Australia",AliciaBoy
+"""been"",""fave""","Edinburgh, UK",AliciaBoy
+"""want""","San Pedro, Belize",AliciaBoy
+"""been""","Broome, Australia",AliciaBoy
+"""want""","Dublin, Ireland",AliciaBoy
+"""been""","Lake Powell, UT, USA",AliciaBoy
+"""been""","Tlaquepaque, Mexico",AliciaBoy
+"""been""","Papantla, Mexico",AliciaBoy
+"""been""","Catemaco, Mexico",AliciaBoy
+"""been""","Cabo San Lucas, Mexico",AliciaBoy
+"""want""","Siem Reap, Cambodia",AliciaBoy
+"""been""","Vevey, Switzerland",AliciaBoy
+"""been""","Moscow, Russia",AliciaBoy
+"""been""","Zapopan, Mexico",AliciaBoy
+"""been""","Bacalar, Mexico",AliciaBoy
+"""been""","Dawson City, Yukon, Canada",AliciaBoy
+"""been""","Wasilla, AK, USA",AliciaBoy
+"""been""","Coronado, CA, USA",AliciaBoy
+"""been""","Mesa, AZ, USA",AliciaBoy
+"""been""","Izmir, Turkey",AliciaBoy
+"""been""","Tallahassee, FL, USA",AliciaBoy
+"""been""","Genoa, Italy",AliciaBoy
+"""been""","Whittier, AK, USA",AliciaBoy
+"""been""","Austin, TX, USA",AliciaBoy
+"""been""","Pensacola, FL, USA",AliciaBoy
+"""been""","Breckenridge, CO, USA",AliciaBoy
+"""been""","Jacksonville, FL, USA",AliciaBoy
+"""want""","Taipei, Taiwan",AliciaBoy
+"""been""","Punta Allen, Mexico",AliciaBoy
+"""been""","Punta Cana, Dominican Republic",AliciaBoy
+"""been""","Chiang Mai, Thailand",AliciaBoy
+"""been""","Bangkok, Thailand",AliciaBoy
+"""been""","Vancouver, British Columbia, Canada",AliciaBoy
+"""been""","Aguascalientes, Mexico",AliciaBoy
+"""been""","Durango, Mexico",AliciaBoy
+"""been""","Calais, France",AliciaBoy
+"""been""","Greenbush, MN, USA",AliciaBoy
+"""been""","San Jose del Cabo, Mexico",AliciaBoy
+"""been""","Isla Aguada, Mexico",AliciaBoy
+"""been""","San Carlos de Bariloche, Argentina",AliciaBoy
+"""been""","Panama City, FL, USA",AliciaBoy
+"""been""","Panama City Beach, FL, USA",AliciaBoy
+"""been""","Brownsville, TX, USA",AliciaBoy
+"""been""","Mornington, Australia",AliciaBoy
+"""been""","Toluca, Mexico",AliciaBoy
+"""been""","St. Pete Beach, FL, USA",AliciaBoy
+"""been""","Haines Junction, Yukon, Canada",AliciaBoy
+"""been""","St. Petersburg, FL, USA",AliciaBoy
+"""been""","Masterton, New Zealand",AliciaBoy
+"""been""","Uruapan, Mexico",AliciaBoy
+"""been""","Mesquite, NV, USA",AliciaBoy
+"""been""","Ciudad Valles, Mexico",AliciaBoy
+"""been""","Denpasar, Indonesia",AliciaBoy
+"""been""","Guerrero Negro, Mexico",AliciaBoy
+"""been""","Kuta, Indonesia",AliciaBoy
+"""been"",""fave""","Kuching, Malaysia",AliciaBoy
+"""been""","Bologna, Italy",AliciaBoy
+"""been"",""fave""","Portland, OR, USA",AliciaBoy
+"""been""","Kota Kinabalu, Malaysia",AliciaBoy
+"""been""","Los Angeles, CA, USA",AliciaBoy
+"""been""","The Woodlands, TX, USA",AliciaBoy
+"""been"",""want""","Chicago, IL, USA",AliciaBoy
+"""been""","Tula de Allende, Mexico",AliciaBoy
+"""been""","Mesa Verde National Park, CO, USA",AliciaBoy
+"""been""","Keystone, CO, USA",AliciaBoy
+"""been""","Aspen, CO, USA",AliciaBoy
+"""been""","Atotonilco El Grande, Mexico",AliciaBoy
+"""been""","La Paz, Bolivia",AliciaBoy
+"""been""","Las Vegas, NV, USA",AliciaBoy
+"""been"",""fave""","Seoul, South Korea",AliciaBoy
+"""been"",""fave""","Gruyeres, Switzerland",AliciaBoy
+"""been""","Chengdu, China",AliciaBoy
+"""been""","Kunming, China",AliciaBoy
+"""been""","Xi'an, China",AliciaBoy
+"""been""","Guilin, China",AliciaBoy
+"""been""","Guangzhou, China",AliciaBoy
+"""been""","Dungun, Malaysia",AliciaBoy
+"""been""","Kununurra, Australia",AliciaBoy
+"""been""","Tequila, Mexico",AliciaBoy
+"""been""","Seldovia, AK, USA",AliciaBoy
+"""been""","Winter Garden, FL, USA",AliciaBoy
+"""been""","San Marcos, TX, USA",AliciaBoy
+"""been""","La Paz, Mexico",AliciaBoy
+"""been""","Martinborough, New Zealand",AliciaBoy
+"""been""","Ensenada, Mexico",AliciaBoy
+"""been""","Tijuana, Mexico",AliciaBoy
+"""been""","Rosarito, Mexico",AliciaBoy
+"""want""","Sapporo, Japan",AliciaBoy
+"""want""","Cartagena, Colombia",AliciaBoy
+"""been"",""fave""","Kyoto, Japan",AliciaBoy
+"""been"",""fave""","Kuala Terengganu, Malaysia",AliciaBoy
+"""want""","Kobe, Japan",AliciaBoy
+"""been"",""fave""","Big Sur, CA, USA",AliciaBoy
+"""want""","Osaka, Japan",AliciaBoy
+"""been""","Marree, Australia",AliciaBoy
+"""been""","Malibu, CA, USA",AliciaBoy
+"""been""","Shangri-La County, China",AliciaBoy
+"""been""","Puerto Juarez, Mexico",AliciaBoy
+"""been""","Elizabeth, IL, USA",AliciaBoy
+"""been""","Puerto Morelos, Mexico",AliciaBoy
+"""been"",""fave""","Lijiang, China",AliciaBoy
+"""been""","Izamal, Mexico",AliciaBoy
+"""been""","Monterrey, Mexico",AliciaBoy
+"""been""","Culiacan, Mexico",AliciaBoy
+"""been""","Careyes, Mexico",AliciaBoy
+"""been""","Sarasota, FL, USA",AliciaBoy
+"""been""","Acapulco, Mexico",AliciaBoy
+"""been""","Reno, NV, USA",AliciaBoy
+"""been""","Kuala Lumpur, Malaysia",AliciaBoy
+"""been""","Minneapolis, MN, USA",AliciaBoy
+"""been""","Chachapoyas, Peru",AliciaBoy
+"""want""","Manila, Philippines",AliciaBoy
+"""been""","Snowmass Village, CO, USA",AliciaBoy
+"""been""","Kings Beach, CA, USA",AliciaBoy
+"""been""","Scottsdale, AZ, USA",AliciaBoy
+"""been""","Fredericksburg, TX, USA",AliciaBoy
+"""been""","Whitehorse, Yukon, Canada",AliciaBoy
+"""been""","Morro Bay, CA, USA",AliciaBoy
+"""been""","Bernal, Mexico",AliciaBoy
+"""want""","Porto, Portugal",AliciaBoy
+"""been""","Tepoztlan, Mexico",AliciaBoy
+"""been""","Sunny Isles Beach, FL, USA",AliciaBoy
+"""been""","Holbox Island, Mexico",AliciaBoy
+"""been""","Zermatt, Switzerland",AliciaBoy
+"""been""","Johannesburg, South Africa",AliciaBoy
+"""been""","Singapore, Singapore",AliciaBoy
+"""been"",""fave""","St. Petersburg, Russia",AliciaBoy
+"""been""","Minato, Japan",AliciaBoy
+"""been""","Atlangatepec, Mexico",AliciaBoy
+"""been""","Pasadena, CA, USA",AliciaBoy
+"""been""","Monterey, CA, USA",AliciaBoy
+"""been""","San Miguel de Allende, Mexico",AliciaBoy
+"""been""","Saint Paul, MN, USA",AliciaBoy
+"""been"",""fave""","Albenga, Italy",AliciaBoy
+"""been""","McLaren Vale, Australia",AliciaBoy
+"""been"",""fave""","Jaisalmer, India",AliciaBoy
+"""been""","Antigua, Guatemala",AliciaBoy
+"""been""","Montego Bay, Jamaica",AliciaBoy
+"""been""","Ocho Rios, Jamaica",AliciaBoy
+"""been""","Negril, Jamaica",AliciaBoy
+"""been""","Muncho Lake, British Columbia, Canada",AliciaBoy
+"""been""","Miri, Malaysia",AliciaBoy
+"""been""","Fort Bragg, CA, USA",AliciaBoy
+"""been""","Long Beach, CA, USA",AliciaBoy
+"""been""","Sao Paulo, Brazil",AliciaBoy
+"""been""","Napa, CA, USA",AliciaBoy
+"""been""","Indio, CA, USA",AliciaBoy
+"""been""","Tuxpan, Mexico",AliciaBoy
+"""want""","Dubrovnik, Croatia",AliciaBoy
+"""been""","Guaymas, Mexico",AliciaBoy
+"""been""","Stellenbosch, South Africa",AliciaBoy
+"""been"",""fave""","San Juan, Puerto Rico",AliciaBoy
+"""been""","Kasane, Botswana",AliciaBoy
+"""been""","San Jose, Costa Rica",AliciaBoy
+"""been""","Irkutsk, Russia",AliciaBoy
+"""been""","Copacabana, Bolivia",AliciaBoy
+"""been""","Paraty, Brazil",AliciaBoy
+"""been""","Ribeirao Preto, Brazil",AliciaBoy
+"""been""","Zacatlan, Mexico",AliciaBoy
+"""been""","Sacramento, CA, USA",AliciaBoy
+"""been""","Texcoco, Mexico",AliciaBoy
+"""been""","Huntington Beach, CA, USA",AliciaBoy
+"""been""","Fort Worth, TX, USA",AliciaBoy
+"""been""","Temozon, Mexico",AliciaBoy
+"""been""","Rio de Janeiro, Brazil",AliciaBoy
+"""been""","Varanasi, India",AliciaBoy
+"""been""","Omsk, Russia",AliciaBoy
+"""been""","Celestun, Mexico",AliciaBoy
+"""been""","Flores, Indonesia",AliciaBoy
+"""been""","Ottawa, Ontario, Canada",AliciaBoy
+"""been""","Ontario, CA, USA",AliciaBoy
+"""been""","Olympic Valley, CA, USA",AliciaBoy
+"""been""","Adelaide, Australia",AliciaBoy
+"""been""","Coober Pedy, Australia",AliciaBoy
+"""been""","Cayo Santa Maria, Cuba",AliciaBoy
+"""been""","Everglades National Park, FL, USA",AliciaBoy
+"""been""","Bern, Switzerland",AliciaBoy
+"""been""","Denali National Park and Preserve, AK, USA",AliciaBoy
+"""been""","Geneva, Switzerland",AliciaBoy
+"""been""","Mascota, Mexico",AliciaBoy
+"""been""","Lombok, Indonesia",AliciaBoy
+"""been""","Dawson Creek, British Columbia, Canada",AliciaBoy
+"""been""","Bajawa, Indonesia",AliciaBoy
+"""been""","Bursa, Turkey",AliciaBoy
+"""been""","Glacier Bay National Park and Preserve, AK, USA",AliciaBoy
+"""been""","Mataram, Indonesia",AliciaBoy
+"""been""","Dallas, TX, USA",AliciaBoy
+"""been""","Jakarta, Indonesia",AliciaBoy
+"""been""","Melaka, Malaysia",AliciaBoy
+"""been""","Trinidad, Cuba",AliciaBoy
+"""been""","Toronto, Ontario, Canada",AliciaBoy
+"""been""","Lucerne, Switzerland",AliciaBoy
+"""been""","Neuchatel, Switzerland",AliciaBoy
+"""been""","Glacier View, AK, USA",AliciaBoy
+"""been""","Picton, New Zealand",AliciaBoy
+"""want""","Lisbon, Portugal",AliciaBoy
+"""been""","Srinagar, India",AliciaBoy
+"""been""","Riga, Latvia",AliciaBoy
+"""been"",""fave""","Leh, India",AliciaBoy
+"""been""","Charlottetown, Prince Edward Island, Canada",AliciaBoy
+"""want""","Bengaluru, India",AliciaBoy
+"""been""","Mojave, CA, USA",AliciaBoy
+"""been""","Palm Desert, CA, USA",AliciaBoy
+"""been""","Prague, Czech Republic",AliciaBoy
+"""been""","Los Mochis, Mexico",AliciaBoy
+"""been""","Lancaster, CA, USA",AliciaBoy
+"""been""","Palmdale, CA, USA",AliciaBoy
+"""been""","Palm Springs, CA, USA",AliciaBoy
+"""been""","Mineral del Chico, Mexico",AliciaBoy
+"""been"",""fave""","Yosemite National Park, CA, USA",AliciaBoy
+"""been""","Isla Mujeres, Mexico",AliciaBoy
+"""been""","Taxco, Mexico",AliciaBoy
+"""been""","Panama City, Panama",AliciaBoy
+"""been""","Oaxaca, Mexico",AliciaBoy
+"""been""","Mexico City, Mexico",AliciaBoy
+"""been""","Cancun, Mexico",AliciaBoy
+"""been""","Edfu, Egypt",AliciaBoy
+"""been""","Pamukkale, Turkey",AliciaBoy
+"""been""","Veracruz, Mexico",AliciaBoy
+"""want""","Manchester, UK",AliciaBoy
+"""been""","Jojutla, Mexico",AliciaBoy
+"""been""","Warroad, MN, USA",AliciaBoy
+"""been""","Cozumel, Mexico",AliciaBoy
+"""been""","Chichen Itza, Mexico",AliciaBoy
+"""been"",""fave""","Salvador, Brazil",AliciaBoy
+"""been""","Mahahual, Mexico",AliciaBoy
+"""been""","Santa Barbara Island, CA, USA",AliciaBoy
+"""been"",""fave""","Quebec City, Quebec, Canada",AliciaBoy
+"""been"",""fave""","Montreal, Quebec, Canada",AliciaBoy
+"""been"",""fave""","Sequoia and Kings Canyon National Park, CA, USA",AliciaBoy
+"""been""","Mineral del Monte, Mexico",AliciaBoy
+"""been""","El Fuerte, Mexico",AliciaBoy
+"""been""","Tulum, Mexico",AliciaBoy
+"""been""","Nassau, Bahamas",AliciaBoy
+"""been""","Woomera, Australia",AliciaBoy
+"""been""","Playa del Carmen, Mexico",AliciaBoy
+"""been""","Huasca de Ocampo, Mexico",AliciaBoy
+"""been""","Merida, Mexico",AliciaBoy
+"""been""","Basel, Switzerland",AliciaBoy
+"""been""","Xpu-Ha, Mexico",AliciaBoy
+"""been""","Punta Arenas, Chile",AliciaBoy
+"""been""","Valladolid, Mexico",AliciaBoy
+"""been""","Uxmal, Mexico",AliciaBoy
+"""been""","Matanzas, Cuba",AliciaBoy
+"""been""","Auckland, New Zealand",AliciaBoy
+"""been""","Xalapa, Mexico",AliciaBoy
+"""been""","Vienna, Austria",AliciaBoy
+"""been""","Kohunlich, Mexico",AliciaBoy
+"""been""","Real de Catorce, Mexico",AliciaBoy
+"""been""","Coba, Mexico",AliciaBoy
+"""want""","Patong, Thailand",AliciaBoy
+"""been"",""fave""","Akumal, Mexico",AliciaBoy
+"""been""","Rio Verde, Mexico",AliciaBoy
+"""been""","Chichicastenango, Guatemala",AliciaBoy
+"""been""","Santiago, Chile",AliciaBoy
+"""been""","Guatemala City, Guatemala",AliciaBoy
+"""been""","Panajachel, Guatemala",AliciaBoy
+"""been""","Malinalco, Mexico",AliciaBoy
+"""been""","Valparaiso, Chile",AliciaBoy
+"""been""","Boca del Rio, Mexico",AliciaBoy
+"""been""","Santiago Atitlan, Guatemala",AliciaBoy
+"""been""","Leon, Mexico",AliciaBoy
+"""been""","Isla Contoy, Mexico",AliciaBoy
+"""been""","Moline, IL, USA",AliciaBoy
+"""been""","Matamoros, Mexico",AliciaBoy
+"""been"",""fave""","San Pedro de Atacama, Chile",AliciaBoy
+"""been""","Budapest, Hungary",AliciaBoy
+"""been""","Cordoba, Mexico",AliciaBoy
+"""been""","Galena, IL, USA",AliciaBoy
+"""been""","Lima, Peru",AliciaBoy
+"""been""","Boca Raton, FL, USA",AliciaBoy
+"""been"",""want""","Cusco, Peru",AliciaBoy
+"""been""","Ubud, Indonesia",AliciaBoy
+"""been""","Eagle River, AK, USA",AliciaBoy
+"""been""","Machu Picchu, Peru",AliciaBoy
+"""been""","Puerto Nuevo, Mexico",AliciaBoy
+"""been""","Sanremo, Italy",AliciaBoy
+"""been""","Amsterdam, The Netherlands",AliciaBoy
+"""been""","Wembley, UK",AliciaBoy
+"""been""","Zitacuaro, Mexico",AliciaBoy
+"""been""","Lyon, France",AliciaBoy
+"""been""","Zurich, Switzerland",AliciaBoy
+"""been"",""fave""","Olkhon, Russia",AliciaBoy
+"""been""","Valle de Bravo, Mexico",AliciaBoy
+"""been""","Southampton, UK",AliciaBoy
+"""been""","Tequesquitengo, Mexico",AliciaBoy
+"""been"",""fave""","Paris, France",AliciaBoy
+"""been""","Cairo, Egypt",AliciaBoy
+"""been""","Cocoyoc, Mexico",AliciaBoy
+"""been""","Tlaxcala, Mexico",AliciaBoy
+"""been""","Giza, Egypt",AliciaBoy
+"""been""","Santiago Tianguistenco, Mexico",AliciaBoy
+"""want""","Macau, China",AliciaBoy
+"""been""","Patzcuaro, Mexico",AliciaBoy
+"""been""","Luxor, Egypt",AliciaBoy
+"""been"",""fave""","Luang Prabang, Laos",AliciaBoy
+"""been""","Surabaya, Indonesia",AliciaBoy
+"""been""","San Juan Teotihuacan, Mexico",AliciaBoy
+"""been""","Aswan, Egypt",AliciaBoy
+"""been""","San Miguel Regla, Mexico",AliciaBoy
+"""been""","Maasai Mara National Reserve, Kenya",AliciaBoy
+"""been""","Cannon Beach, OR, USA",AliciaBoy
+"""been""","Niagara Falls, NY, USA",AliciaBoy
+"""been""","Nairobi, Kenya",AliciaBoy
+"""been""","Nuevo Vallarta, Mexico",AliciaBoy
+"""been""","Angangueo, Mexico",AliciaBoy
+"""been""","Barra de Navidad, Mexico",AliciaBoy
+"""been""","Douglas, AK, USA",AliciaBoy
+"""want""","Mumbai, India",AliciaBoy
+"""want""","Jaipur, India",AliciaBoy
+"""been""","Uayamon, Mexico",AliciaBoy
+"""been""","Kolkata (Calcutta), India",AliciaBoy
+"""been""","Mainz, Germany",AliciaBoy
+"""been""","Arches National Park, UT, USA",AliciaBoy
+"""been""","Oaxtepec, Mexico",AliciaBoy
+"""been""","Jackson, WY, USA",AliciaBoy
+"""been""","Matehuala, Mexico",AliciaBoy
+"""been""","Naucalpan, Mexico",AliciaBoy
+"""been""","New Delhi, India",AliciaBoy
+"""been""","Beijing, China",AliciaBoy
+"""been"",""fave""","Komodo National Park, Indonesia",AliciaBoy
+"""been""","Dolores Hidalgo, Mexico",AliciaBoy
+"""been""","Hong Kong, China",AliciaBoy
+"""been""","Bryce Canyon National Park, UT, USA",AliciaBoy
+"""been""","Los Azufres, Mexico",AliciaBoy
+"""been""","Kom Ombo, Egypt",AliciaBoy
+"""been""","Canyonlands National Park, UT, USA",AliciaBoy
+"""been""","Vina del Mar, Chile",AliciaBoy
+"""been""","Monte-Carlo, Monaco",AliciaBoy
+"""been""","Dubois, WY, USA",AliciaBoy
+"""been""","Gardiner, MT, USA",AliciaBoy
+"""been""","Southend-on-Sea, UK",AliciaBoy
+"""been""","Ciudad del Carmen, Mexico",AliciaBoy
+"""been"",""fave""","St-Paul-de-Vence, France",AliciaBoy
+"""been""","Daytona Beach, FL, USA",AliciaBoy
+"""been""","Brighton, UK",AliciaBoy
+"""been""","Stratford-upon-Avon, UK",AliciaBoy
+"""been""","Pahalgam, India",AliciaBoy
+"""been"",""fave""","Kaikoura, New Zealand",AliciaBoy
+"""been"",""fave""","Toledo, Spain",AliciaBoy
+"""been""","Queretaro City, Mexico",AliciaBoy
+"""been""","Hollywood, FL, USA",AliciaBoy
+"""been""","Washington DC, DC, USA",AliciaBoy
+"""been"",""fave""","Uyuni, Bolivia",AliciaBoy
+"""been""","San Luis Potosi, Mexico",AliciaBoy
+"""been""","Truckee, CA, USA",AliciaBoy
+"""been""","Pie de la Cuesta, Mexico",AliciaBoy
+"""been""","Cologne, Germany",AliciaBoy
+"""been""","Dusseldorf, Germany",AliciaBoy
+"""been""","Barcelona, Spain",AliciaBoy
+"""been"",""fave""","Santorini, Greece",AliciaBoy
+"""been""","Kamiah, ID, USA",AliciaBoy
+"""been""","Ulan-Ude, Russia",AliciaBoy
+"""been""","Lausanne, Switzerland",AliciaBoy
+"""been""","Montreux, Switzerland",AliciaBoy
+"""been""","Tequisquiapan, Mexico",AliciaBoy
+"""been""","Tepeji del Rio, Mexico",AliciaBoy
+"""been""","Mammoth Lakes, CA, USA",AliciaBoy
+"""been""","Christchurch, New Zealand",AliciaBoy
+"""been"",""fave""","Bath, UK",AliciaBoy
+"""been""","Bruges, Belgium",AliciaBoy
+"""been"",""fave""","Uluru-Kata Tjuta National Park, Australia",AliciaBoy
+"""want""","Palma de Mallorca, Spain",AliciaBoy
+"""been""","Cannes, France",AliciaBoy
+"""been"",""fave""","Kassel, Germany",AliciaBoy
+"""been""","Athens, Greece",AliciaBoy
+"""been"",""fave""","Rotorua, New Zealand",AliciaBoy
+"""been""","Arusha, Tanzania",AliciaBoy
+"""been""","Newport, OR, USA",AliciaBoy
+"""been"",""fave""","Wellington, New Zealand",AliciaBoy
+"""been""","Taupo, New Zealand",AliciaBoy
+"""been""","Puerto Escondido, Mexico",AliciaBoy
+"""been""","Tinerhir, Morocco",AliciaBoy
+"""been""","St Kilda, Australia",AliciaBoy
+"""been""","Ixtapan de la Sal, Mexico",AliciaBoy
+"""been""","Cody, WY, USA",AliciaBoy
+"""been""","Liard River, British Columbia, Canada",AliciaBoy
+"""been""","Simi Valley, CA, USA",AliciaBoy
+"""been""","San Pedro Cholula, Mexico",AliciaBoy
+"""been""","Bournemouth, UK",AliciaBoy
+"""been""","Hannover, Germany",AliciaBoy
+"""been""","Chetumal, Mexico",AliciaBoy
+"""been""","Dijon, France",AliciaBoy
+"""been""","San Juan del Rio, Mexico",AliciaBoy
+"""been""","Pachuca, Mexico",AliciaBoy
+"""been""","Nice, France",AliciaBoy
+"""been""","Bal Harbour, FL, USA",AliciaBoy
+"""been""","Chiang Rai, Thailand",AliciaBoy
+"""been"",""fave""","Milford Sound, New Zealand",AliciaBoy
+"""been""","Queenstown, New Zealand",AliciaBoy
+"""been""","Boise, ID, USA",AliciaBoy
+"""want""","Hua Hin, Thailand",AliciaBoy
+"""been""","Te Anau, New Zealand",AliciaBoy
+"""been""","Poole, UK",AliciaBoy
+"""been""","Atlanta, GA, USA",AliciaBoy
+"""been""","Cedar Key, FL, USA",AliciaBoy
+"""been""","Niagara Falls, Ontario, Canada",AliciaBoy
+"""been""","Pontianak, Indonesia",AliciaBoy
+"""been""","Rio Lagartos, Mexico",AliciaBoy
+"""want""","Belfast, UK",AliciaBoy
+"""been""","Champoton, Mexico",AliciaBoy
+"""been"",""fave""","Tokyo, Japan",AliciaBoy
+"""been""","Beverly Hills, CA, USA",AliciaBoy
+"""been""","Zagora, Morocco",AliciaBoy
+"""been""","Seville, Spain",AliciaBoy
+"""been""","Berlin, Germany",AliciaBoy
+"""been""","Santa Barbara, CA, USA",AliciaBoy
+"""been""","Chena Hot Springs, AK, USA",AliciaBoy
+"""been""","Istanbul, Turkey",AliciaBoy
+"""been""","Marrakech, Morocco",AliciaBoy
+"""been"",""fave""","Selcuk, Turkey",AliciaBoy
+"""been"",""fave""","St. Augustine, FL, USA",AliciaBoy
+"""been""","Alice Springs, Australia",AliciaBoy
+"""been""","Sydney, Australia",AliciaBoy
+"""been""","Riverton, WY, USA",AliciaBoy
+"""been"",""fave""","Merzouga, Morocco",AliciaBoy
+"""been""","Ouarzazate, Morocco",AliciaBoy
+"""been"",""fave""","Nara, Japan",AliciaBoy
+"""been""","Wanaka, New Zealand",AliciaBoy
+"""been""","Oxford, UK",AliciaBoy
+"""want""","Hamburg, Germany",AliciaBoy
+"""been""","Tehuantepec, Mexico",AliciaBoy
+"""been""","Savanna, IL, USA",AliciaBoy
+"""been""","Naperville, IL, USA",AliciaBoy
+"""been""","Durango, CO, USA",AliciaBoy
+"""been""","Creel, Mexico",AliciaBoy
+"""been""","Tahoe Vista, CA, USA",AliciaBoy
+"""been""","Tomsk, Russia",AliciaBoy
+"""been""","Kings Canyon, Australia",AliciaBoy
+"""been""","Frankfurt, Germany",AliciaBoy
+"""been""","Yulara, Australia",AliciaBoy
+"""want""","Brisbane, Australia",AliciaBoy
+"""want""","Seattle, WA, USA",AliciaBoy
+"""been""","Yellowstone National Park, WY, USA",AliciaBoy
+"""want""","Kailua-Kona, HI, USA",AliciaBoy
+"""been""","San Diego, CA, USA",AliciaBoy
+"""been""","Seward, AK, USA",AliciaBoy
+"""been"",""fave""","Lake Manyara National Park, Tanzania",AliciaBoy
+"""been""","Ixtapa, Mexico",AliciaBoy
+"""been""","Livingstone, Zambia",AliciaBoy
+"""been""","Naples, Italy",AliciaBoy
+"""been""","Serengeti National Park, Tanzania",AliciaBoy
+"""been""","Leigh Creek, Australia",AliciaBoy
+"""been""","Coral Gables, FL, USA",AliciaBoy
+"""been"",""fave""","London, UK",AliciaBoy
+"""been""","Borrego Springs, CA, USA",AliciaBoy
+"""been""","Munich, Germany",AliciaBoy
+"""been"",""fave""","Olgiy, Mongolia",AliciaBoy
+"""been""","Iguala, Mexico",AliciaBoy
+"""been""","Aguas Calientes, Peru",AliciaBoy
+"""been""","Dandenong, Australia",AliciaBoy
+"""been""","Victoria Falls, Zambia",AliciaBoy
+"""been""","New York City, NY, USA",AliciaBoy
+"""been""","West Yellowstone, MT, USA",AliciaBoy
+"""been""","Villahermosa, Mexico",AliciaBoy
+"""been""","Anchorage, AK, USA",AliciaBoy
+"""been""","Palenque, Mexico",AliciaBoy
+"""been""","Rome, Italy",AliciaBoy
+"""want""","Stockholm, Sweden",AliciaBoy
+"""been""","Brussels, Belgium",AliciaBoy
+"""been""","Isla del Sol, Bolivia",AliciaBoy
+"""been""","York, UK",AliciaBoy
+"""been""","Cambridge, UK",AliciaBoy
+"""been"",""fave""","Victoria Falls, Zimbabwe",AliciaBoy
+"""been""","Santa Monica, CA, USA",AliciaBoy
+"""been""","Clearwater, FL, USA",AliciaBoy
+"""been""","Orizaba, Mexico",AliciaBoy

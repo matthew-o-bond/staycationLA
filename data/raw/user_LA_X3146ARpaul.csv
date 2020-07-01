@@ -1,0 +1,572 @@
+tag,place,user
+"""been""","Pacific Grove, CA, USA",X3146ARpaul
+"""been""","Southbury, CT, USA",X3146ARpaul
+"""been""","Ann Arbor, MI, USA",X3146ARpaul
+"""been""","Mason City, IA, USA",X3146ARpaul
+"""been""","Edgartown, MA, USA",X3146ARpaul
+"""been""","Iowa City, IA, USA",X3146ARpaul
+"""been""","Essex, MA, USA",X3146ARpaul
+"""been""","Pocomoke City, MD, USA",X3146ARpaul
+"""been""","Fall River, MA, USA",X3146ARpaul
+"""been""","Long Beach, NY, USA",X3146ARpaul
+"""been""","Bird in Hand, PA, USA",X3146ARpaul
+"""been""","Redwood City, CA, USA",X3146ARpaul
+"""been""","Hartford, CT, USA",X3146ARpaul
+"""been""","Stratford, CT, USA",X3146ARpaul
+"""been""","Strasburg, PA, USA",X3146ARpaul
+"""been""","Easton, PA, USA",X3146ARpaul
+"""been""","Dallas, TX, USA",X3146ARpaul
+"""been""","Stroudsburg, PA, USA",X3146ARpaul
+"""been""","Athens, GA, USA",X3146ARpaul
+"""been""","Rockport, MA, USA",X3146ARpaul
+"""been""","Paradise, PA, USA",X3146ARpaul
+"""been""","East Stroudsburg, PA, USA",X3146ARpaul
+"""been""","Lancaster, CA, USA",X3146ARpaul
+"""been""","Milwaukee, WI, USA",X3146ARpaul
+"""been""","Palm Springs, CA, USA",X3146ARpaul
+"""been""","Gadsden, AL, USA",X3146ARpaul
+"""been""","Stamford, CT, USA",X3146ARpaul
+"""been""","Greenville, NC, USA",X3146ARpaul
+"""been""","Mashantucket, CT, USA",X3146ARpaul
+"""been""","Augusta, GA, USA",X3146ARpaul
+"""been""","Elysburg, PA, USA",X3146ARpaul
+"""been""","Meriden, CT, USA",X3146ARpaul
+"""been""","Rapid City, SD, USA",X3146ARpaul
+"""been""","Paso Robles, CA, USA",X3146ARpaul
+"""been""","Danville, PA, USA",X3146ARpaul
+"""been""","Monterey, CA, USA",X3146ARpaul
+"""been""","Pasadena, CA, USA",X3146ARpaul
+"""been""","Fort Worth, TX, USA",X3146ARpaul
+"""been""","Phoenixville, PA, USA",X3146ARpaul
+"""been""","Riverside, CA, USA",X3146ARpaul
+"""been""","Gloucester, MA, USA",X3146ARpaul
+"""been""","Waterbury, CT, USA",X3146ARpaul
+"""been""","Chambersburg, PA, USA",X3146ARpaul
+"""been""","Waterford, CT, USA",X3146ARpaul
+"""been""","New Holland, PA, USA",X3146ARpaul
+"""been""","Long Island City, NY, USA",X3146ARpaul
+"""been""","Canton, OH, USA",X3146ARpaul
+"""been""","Wichita, KS, USA",X3146ARpaul
+"""been""","Elkhart, IN, USA",X3146ARpaul
+"""been""","Framingham, MA, USA",X3146ARpaul
+"""been""","Milford, CT, USA",X3146ARpaul
+"""been""","Bloomsburg, PA, USA",X3146ARpaul
+"""been""","Middletown, CT, USA",X3146ARpaul
+"""been""","Phoenix, AZ, USA",X3146ARpaul
+"""been""","Breezewood, PA, USA",X3146ARpaul
+"""been""","New London, CT, USA",X3146ARpaul
+"""been""","Ames, IA, USA",X3146ARpaul
+"""been""","Gulf Shores, AL, USA",X3146ARpaul
+"""been""","Napa, CA, USA",X3146ARpaul
+"""been""","Monroeville, PA, USA",X3146ARpaul
+"""been""","West Hartford, CT, USA",X3146ARpaul
+"""been""","West Haven, CT, USA",X3146ARpaul
+"""been""","New Haven, CT, USA",X3146ARpaul
+"""been""","Toledo, OH, USA",X3146ARpaul
+"""been""","Burlington, MA, USA",X3146ARpaul
+"""been""","Evansville, IN, USA",X3146ARpaul
+"""been""","Easton, MD, USA",X3146ARpaul
+"""been""","Mansfield, MO, USA",X3146ARpaul
+"""been""","Salisbury, MD, USA",X3146ARpaul
+"""been""","Las Vegas, NV, USA",X3146ARpaul
+"""been""","Galveston, TX, USA",X3146ARpaul
+"""been""","Mystic, CT, USA",X3146ARpaul
+"""been""","Sacramento, CA, USA",X3146ARpaul
+"""been""","Branford, CT, USA",X3146ARpaul
+"""been""","Bridgeport, CT, USA",X3146ARpaul
+"""been""","Ottawa, Ontario, Canada",X3146ARpaul
+"""been""","Augusta, ME, USA",X3146ARpaul
+"""been""","Irvine, CA, USA",X3146ARpaul
+"""been""","Ronks, PA, USA",X3146ARpaul
+"""been""","Delaware Water Gap, PA, USA",X3146ARpaul
+"""been""","Colebrook, CT, USA",X3146ARpaul
+"""been""","Fresno, CA, USA",X3146ARpaul
+"""been"",""want"",""fave""","Los Angeles, CA, USA",X3146ARpaul
+"""been""","Prescott, AZ, USA",X3146ARpaul
+"""been""","Auburn, AL, USA",X3146ARpaul
+"""been""","Denver, PA, USA",X3146ARpaul
+"""been""","Greenfield, MA, USA",X3146ARpaul
+"""been""","Rock Hall, MD, USA",X3146ARpaul
+"""been""","Rockville, MD, USA",X3146ARpaul
+"""been""","Baton Rouge, LA, USA",X3146ARpaul
+"""been""","Brewster, MA, USA",X3146ARpaul
+"""been""","Long Beach, CA, USA",X3146ARpaul
+"""been""","Pittsburgh, PA, USA",X3146ARpaul
+"""been""","New Stanton, PA, USA",X3146ARpaul
+"""been""","Alexandria, VA, USA",X3146ARpaul
+"""been""","Harrisonburg, VA, USA",X3146ARpaul
+"""been""","Westbrook, CT, USA",X3146ARpaul
+"""been""","Westport, CT, USA",X3146ARpaul
+"""been""","Norfolk, CT, USA",X3146ARpaul
+"""been""","Danbury, CT, USA",X3146ARpaul
+"""been""","Arlington, VA, USA",X3146ARpaul
+"""been""","Old Greenwich, CT, USA",X3146ARpaul
+"""been"",""want""","Toronto, Ontario, Canada",X3146ARpaul
+"""been""","Mexico City, Mexico",X3146ARpaul
+"""been""","Summerville, SC, USA",X3146ARpaul
+"""been""","Pottstown, PA, USA",X3146ARpaul
+"""been""","Columbia, PA, USA",X3146ARpaul
+"""been""","Pottsville, PA, USA",X3146ARpaul
+"""been""","Norwalk, CT, USA",X3146ARpaul
+"""been""","Norwich, CT, USA",X3146ARpaul
+"""been"",""want""","Newport Beach, CA, USA",X3146ARpaul
+"""been""","Covington, KY, USA",X3146ARpaul
+"""been""","Youngstown, OH, USA",X3146ARpaul
+"""been""","North Las Vegas, NV, USA",X3146ARpaul
+"""been""","Kansas City, MO, USA",X3146ARpaul
+"""been""","Minneapolis, MN, USA",X3146ARpaul
+"""been""","Spartanburg, SC, USA",X3146ARpaul
+"""been""","Fairfax, VA, USA",X3146ARpaul
+"""been""","Annapolis, MD, USA",X3146ARpaul
+"""been"",""want""","Chicago, IL, USA",X3146ARpaul
+"""been""","Birmingham, AL, USA",X3146ARpaul
+"""been""","Glendale, CA, USA",X3146ARpaul
+"""been""","Adamstown, PA, USA",X3146ARpaul
+"""been""","East Hartford, CT, USA",X3146ARpaul
+"""been""","Portland, OR, USA",X3146ARpaul
+"""been""","Malibu, CA, USA",X3146ARpaul
+"""been""","Durham, NC, USA",X3146ARpaul
+"""been""","West Palm Beach, FL, USA",X3146ARpaul
+"""want""","Charlotte Amalie, U.S. Virgin Islands",X3146ARpaul
+"""been""","Frederiksted, U.S. Virgin Islands",X3146ARpaul
+"""been""","Elkton, MD, USA",X3146ARpaul
+"""been""","Wooster, OH, USA",X3146ARpaul
+"""been""","Saint Louis, MO, USA",X3146ARpaul
+"""been""","Silver Spring, MD, USA",X3146ARpaul
+"""been""","Chatham, MA, USA",X3146ARpaul
+"""been""","Marietta, PA, USA",X3146ARpaul
+"""been""","Old Saybrook, CT, USA",X3146ARpaul
+"""been""","Aspen, CO, USA",X3146ARpaul
+"""been""","Belfast, ME, USA",X3146ARpaul
+"""been""","Dodge City, KS, USA",X3146ARpaul
+"""been""","Lancaster, PA, USA",X3146ARpaul
+"""been""","Winchester, KY, USA",X3146ARpaul
+"""been""","Worcester, MA, USA",X3146ARpaul
+"""been""","Yarmouth Port, MA, USA",X3146ARpaul
+"""been""","Bangor, ME, USA",X3146ARpaul
+"""been""","Virginia Beach, VA, USA",X3146ARpaul
+"""been""","Bath, ME, USA",X3146ARpaul
+"""been""","Simi Valley, CA, USA",X3146ARpaul
+"""been""","Astoria, NY, USA",X3146ARpaul
+"""been""","South Lee, MA, USA",X3146ARpaul
+"""been""","Millersburg, OH, USA",X3146ARpaul
+"""been""","Pisgah Forest, NC, USA",X3146ARpaul
+"""been""","Shelter Island, NY, USA",X3146ARpaul
+"""been""","Concord, NH, USA",X3146ARpaul
+"""been""","Wayne, PA, USA",X3146ARpaul
+"""been""","Big Sky, MT, USA",X3146ARpaul
+"""been""","Ephrata, PA, USA",X3146ARpaul
+"""been""","Winston Salem, NC, USA",X3146ARpaul
+"""been""","Terre Hill, PA, USA",X3146ARpaul
+"""been""","Billings, MT, USA",X3146ARpaul
+"""been""","Erie, PA, USA",X3146ARpaul
+"""been""","Glen Mills, PA, USA",X3146ARpaul
+"""been""","Red Hook, NY, USA",X3146ARpaul
+"""been""","Newton, MA, USA",X3146ARpaul
+"""been""","Norfolk, VA, USA",X3146ARpaul
+"""been""","Auburn, NY, USA",X3146ARpaul
+"""been""","Andover, NH, USA",X3146ARpaul
+"""been""","Mobile, AL, USA",X3146ARpaul
+"""been""","Lancaster, OH, USA",X3146ARpaul
+"""been""","Scarborough, ME, USA",X3146ARpaul
+"""been"",""want""","Jackson, WY, USA",X3146ARpaul
+"""been""","Great Falls, MT, USA",X3146ARpaul
+"""been""","Tannersville, PA, USA",X3146ARpaul
+"""been""","Doylestown, PA, USA",X3146ARpaul
+"""been""","Boca Grande, FL, USA",X3146ARpaul
+"""been""","Freeport, ME, USA",X3146ARpaul
+"""been""","Boca Raton, FL, USA",X3146ARpaul
+"""been""","Moline, IL, USA",X3146ARpaul
+"""been""","Cleveland, OH, USA",X3146ARpaul
+"""been""","Northampton, MA, USA",X3146ARpaul
+"""been""","South Portland, ME, USA",X3146ARpaul
+"""been""","Somerset, PA, USA",X3146ARpaul
+"""been""","Newburgh, NY, USA",X3146ARpaul
+"""been""","Montgomery, AL, USA",X3146ARpaul
+"""been""","Penn Yan, NY, USA",X3146ARpaul
+"""been""","Grantville, PA, USA",X3146ARpaul
+"""been""","Sioux Falls, SD, USA",X3146ARpaul
+"""been""","Raleigh, NC, USA",X3146ARpaul
+"""been""","Bath, NY, USA",X3146ARpaul
+"""been""","Niagara-on-the-Lake, Ontario, Canada",X3146ARpaul
+"""been""","Niagara Falls, Ontario, Canada",X3146ARpaul
+"""been""","Huntingdon, PA, USA",X3146ARpaul
+"""been""","West Chester, PA, USA",X3146ARpaul
+"""been""","Exton, PA, USA",X3146ARpaul
+"""been""","North Little Rock, AR, USA",X3146ARpaul
+"""been""","Highlands, NC, USA",X3146ARpaul
+"""been""","Brattleboro, VT, USA",X3146ARpaul
+"""been""","Wellsboro, PA, USA",X3146ARpaul
+"""been""","Bozeman, MT, USA",X3146ARpaul
+"""been""","Rhinebeck, NY, USA",X3146ARpaul
+"""been""","New Paltz, NY, USA",X3146ARpaul
+"""been""","Kingston, NY, USA",X3146ARpaul
+"""been""","Brentwood, TN, USA",X3146ARpaul
+"""been""","Gillette, WY, USA",X3146ARpaul
+"""been""","Hickory, NC, USA",X3146ARpaul
+"""been""","Hummelstown, PA, USA",X3146ARpaul
+"""been""","Dunmore, PA, USA",X3146ARpaul
+"""been""","Andover, MA, USA",X3146ARpaul
+"""been""","Amherst, MA, USA",X3146ARpaul
+"""been""","Ashland, OR, USA",X3146ARpaul
+"""been""","Wakefield, MA, USA",X3146ARpaul
+"""been""","Oklahoma City, OK, USA",X3146ARpaul
+"""been""","Camden, ME, USA",X3146ARpaul
+"""been""","Waltham, MA, USA",X3146ARpaul
+"""been""","Peabody, MA, USA",X3146ARpaul
+"""been"",""want""","Columbus, OH, USA",X3146ARpaul
+"""been""","Chattanooga, TN, USA",X3146ARpaul
+"""been""","Jacksonville, NC, USA",X3146ARpaul
+"""been""","Beacon, NY, USA",X3146ARpaul
+"""been""","Oakland, CA, USA",X3146ARpaul
+"""been""","Bear Mountain, NY, USA",X3146ARpaul
+"""been""","Intercourse, PA, USA",X3146ARpaul
+"""been""","Auburn, MA, USA",X3146ARpaul
+"""been""","Gulfport, MS, USA",X3146ARpaul
+"""been""","Goshen, IN, USA",X3146ARpaul
+"""been""","Ipswich, MA, USA",X3146ARpaul
+"""been""","Brunswick, ME, USA",X3146ARpaul
+"""been""","Oakhurst, CA, USA",X3146ARpaul
+"""been""","West Mifflin, PA, USA",X3146ARpaul
+"""been""","Lebanon, PA, USA",X3146ARpaul
+"""been""","Niagara Falls, NY, USA",X3146ARpaul
+"""been""","Sturgis, SD, USA",X3146ARpaul
+"""been""","Cookeville, TN, USA",X3146ARpaul
+"""been""","Carlisle, PA, USA",X3146ARpaul
+"""been""","Palmyra, PA, USA",X3146ARpaul
+"""been""","Bowling Green, KY, USA",X3146ARpaul
+"""been""","Mansfield, MA, USA",X3146ARpaul
+"""been""","Springfield, MO, USA",X3146ARpaul
+"""been""","Kennebunk, ME, USA",X3146ARpaul
+"""been""","Waldorf, MD, USA",X3146ARpaul
+"""been""","Marlborough, MA, USA",X3146ARpaul
+"""been""","Kennebunkport, ME, USA",X3146ARpaul
+"""been""","Oceanside, CA, USA",X3146ARpaul
+"""been""","State College, PA, USA",X3146ARpaul
+"""been""","Camp Hill, PA, USA",X3146ARpaul
+"""been""","Harrisburg, PA, USA",X3146ARpaul
+"""been""","Cornwall, PA, USA",X3146ARpaul
+"""been""","Chapel Hill, NC, USA",X3146ARpaul
+"""been""","Reading, PA, USA",X3146ARpaul
+"""been""","Charlotte, NC, USA",X3146ARpaul
+"""been""","Adirondack, NY, USA",X3146ARpaul
+"""been""","Hanover, PA, USA",X3146ARpaul
+"""been""","Redding, CA, USA",X3146ARpaul
+"""been""","Uniontown, PA, USA",X3146ARpaul
+"""been""","Albany, NY, USA",X3146ARpaul
+"""been""","Tulsa, OK, USA",X3146ARpaul
+"""been""","Lexington, KY, USA",X3146ARpaul
+"""been""","Huntington, WV, USA",X3146ARpaul
+"""been""","Pittsfield, MA, USA",X3146ARpaul
+"""been""","Plymouth, MA, USA",X3146ARpaul
+"""been""","Martinsburg, WV, USA",X3146ARpaul
+"""been""","Mansfield, OH, USA",X3146ARpaul
+"""been""","Tuscaloosa, AL, USA",X3146ARpaul
+"""been""","Quakertown, PA, USA",X3146ARpaul
+"""been""","Fayetteville, NC, USA",X3146ARpaul
+"""been""","Sheboygan, WI, USA",X3146ARpaul
+"""been""","Fort Lauderdale, FL, USA",X3146ARpaul
+"""been""","Seneca Falls, NY, USA",X3146ARpaul
+"""been""","Seattle, WA, USA",X3146ARpaul
+"""been""","Williamsburg, VA, USA",X3146ARpaul
+"""been""","Winchester, VA, USA",X3146ARpaul
+"""been""","Cincinnati, OH, USA",X3146ARpaul
+"""been""","Provo, UT, USA",X3146ARpaul
+"""been""","Crested Butte, CO, USA",X3146ARpaul
+"""been""","Naples, FL, USA",X3146ARpaul
+"""been""","San Bruno, CA, USA",X3146ARpaul
+"""been"",""want""","West Hollywood, CA, USA",X3146ARpaul
+"""been""","Portsmouth, NH, USA",X3146ARpaul
+"""been""","Wheeling, WV, USA",X3146ARpaul
+"""been""","Champaign, IL, USA",X3146ARpaul
+"""been""","Catskill, NY, USA",X3146ARpaul
+"""been""","Utica, NY, USA",X3146ARpaul
+"""been""","Frenchtown, NJ, USA",X3146ARpaul
+"""been""","Cortland, NY, USA",X3146ARpaul
+"""been""","Boulder City, NV, USA",X3146ARpaul
+"""been""","Houston, TX, USA",X3146ARpaul
+"""been""","Little Rock, AR, USA",X3146ARpaul
+"""been""","Wisconsin Dells, WI, USA",X3146ARpaul
+"""been""","Ventura, CA, USA",X3146ARpaul
+"""been""","El Paso, TX, USA",X3146ARpaul
+"""been""","Peoria, IL, USA",X3146ARpaul
+"""been"",""want"",""fave""","New York City, NY, USA",X3146ARpaul
+"""been""","Denver, CO, USA",X3146ARpaul
+"""been""","Cedar Rapids, IA, USA",X3146ARpaul
+"""been""","San Jose, CA, USA",X3146ARpaul
+"""been""","Fort Myers, FL, USA",X3146ARpaul
+"""been""","Fort Myers Beach, FL, USA",X3146ARpaul
+"""been""","Kissimmee, FL, USA",X3146ARpaul
+"""been""","Troy, NY, USA",X3146ARpaul
+"""been""","Columbia, SC, USA",X3146ARpaul
+"""been""","Kalispell, MT, USA",X3146ARpaul
+"""been""","Corning, NY, USA",X3146ARpaul
+"""been""","Cornwall, NY, USA",X3146ARpaul
+"""been""","East Syracuse, NY, USA",X3146ARpaul
+"""been""","Plymouth, NH, USA",X3146ARpaul
+"""been""","Rochester, NY, USA",X3146ARpaul
+"""been""","Geneva, NY, USA",X3146ARpaul
+"""been""","Highland, NY, USA",X3146ARpaul
+"""been""","Cambridge, MA, USA",X3146ARpaul
+"""been"",""want""","Richmond, VA, USA",X3146ARpaul
+"""been""","Wytheville, VA, USA",X3146ARpaul
+"""been""","Newport, RI, USA",X3146ARpaul
+"""been""","Berkeley, CA, USA",X3146ARpaul
+"""been""","Dover, DE, USA",X3146ARpaul
+"""want""","Durango, CO, USA",X3146ARpaul
+"""been""","Flagstaff, AZ, USA",X3146ARpaul
+"""been""","Naperville, IL, USA",X3146ARpaul
+"""been""","Chillicothe, OH, USA",X3146ARpaul
+"""been""","Buffalo, NY, USA",X3146ARpaul
+"""been""","Irving, TX, USA",X3146ARpaul
+"""been""","Madison, WI, USA",X3146ARpaul
+"""been""","Middletown, RI, USA",X3146ARpaul
+"""been""","Jim Thorpe, PA, USA",X3146ARpaul
+"""been""","Southampton, NY, USA",X3146ARpaul
+"""been""","Hanover, NH, USA",X3146ARpaul
+"""been""","Verona, NY, USA",X3146ARpaul
+"""been""","Elmira, NY, USA",X3146ARpaul
+"""been""","Binghamton, NY, USA",X3146ARpaul
+"""been""","Georgetown, DE, USA",X3146ARpaul
+"""been"",""want""","Boston, MA, USA",X3146ARpaul
+"""been""","Guadalajara, Mexico",X3146ARpaul
+"""been""","Shipshewana, IN, USA",X3146ARpaul
+"""been""","Santa Barbara, CA, USA",X3146ARpaul
+"""been"",""want"",""fave""","New Orleans, LA, USA",X3146ARpaul
+"""been""","Santa Cruz, CA, USA",X3146ARpaul
+"""been"",""want""","Asheville, NC, USA",X3146ARpaul
+"""been""","Charlottesville, VA, USA",X3146ARpaul
+"""been"",""want""","Beverly Hills, CA, USA",X3146ARpaul
+"""been""","Santa Ana, CA, USA",X3146ARpaul
+"""been""","Ocala, FL, USA",X3146ARpaul
+"""been""","Branson, MO, USA",X3146ARpaul
+"""been""","Walla Walla, WA, USA",X3146ARpaul
+"""been"",""want"",""fave""","San Diego, CA, USA",X3146ARpaul
+"""been""","White Plains, NY, USA",X3146ARpaul
+"""been""","Cape May, NJ, USA",X3146ARpaul
+"""been""","Camden, NJ, USA",X3146ARpaul
+"""been""","Casper, WY, USA",X3146ARpaul
+"""been""","Victoria, British Columbia, Canada",X3146ARpaul
+"""been""","Portland, ME, USA",X3146ARpaul
+"""been""","Cheyenne, WY, USA",X3146ARpaul
+"""been""","Vancouver, British Columbia, Canada",X3146ARpaul
+"""been""","South Bend, IN, USA",X3146ARpaul
+"""been""","Cocoa Beach, FL, USA",X3146ARpaul
+"""been""","Sheridan, WY, USA",X3146ARpaul
+"""been""","Philadelphia, PA, USA",X3146ARpaul
+"""been""","Gettysburg, PA, USA",X3146ARpaul
+"""been"",""want""","Santa Monica, CA, USA",X3146ARpaul
+"""been""","Waterloo, IA, USA",X3146ARpaul
+"""been""","Santa Rosa, CA, USA",X3146ARpaul
+"""been""","Akron, OH, USA",X3146ARpaul
+"""been""","Santa Maria, CA, USA",X3146ARpaul
+"""been""","Cody, WY, USA",X3146ARpaul
+"""been""","Hazleton, PA, USA",X3146ARpaul
+"""been""","Kennett Square, PA, USA",X3146ARpaul
+"""been""","West Des Moines, IA, USA",X3146ARpaul
+"""been""","Everett, WA, USA",X3146ARpaul
+"""been""","Suffolk, VA, USA",X3146ARpaul
+"""been""","Benner, U.S. Virgin Islands",X3146ARpaul
+"""been""","Manhattan, KS, USA",X3146ARpaul
+"""been"",""want""","Louisville, KY, USA",X3146ARpaul
+"""been""","Normal, IL, USA",X3146ARpaul
+"""been""","Milford, DE, USA",X3146ARpaul
+"""been""","Idaho Falls, ID, USA",X3146ARpaul
+"""been""","Coral Springs, FL, USA",X3146ARpaul
+"""been""","Memphis, TN, USA",X3146ARpaul
+"""been""","Amagansett, NY, USA",X3146ARpaul
+"""been""","West Yellowstone, MT, USA",X3146ARpaul
+"""been""","Missoula, MT, USA",X3146ARpaul
+"""been""","Cheektowaga, NY, USA",X3146ARpaul
+"""been""","Logan, UT, USA",X3146ARpaul
+"""been""","Somerville, MA, USA",X3146ARpaul
+"""been""","Atlanta, GA, USA",X3146ARpaul
+"""been""","Amherst, NY, USA",X3146ARpaul
+"""been""","Woodstock, VT, USA",X3146ARpaul
+"""been""","Eugene, OR, USA",X3146ARpaul
+"""been""","Sioux City, IA, USA",X3146ARpaul
+"""been""","Newark, DE, USA",X3146ARpaul
+"""been""","Rockport, ME, USA",X3146ARpaul
+"""been""","Roanoke, VA, USA",X3146ARpaul
+"""been""","Meredith, NH, USA",X3146ARpaul
+"""been""","Bronx, NY, USA",X3146ARpaul
+"""been""","Manchester, NH, USA",X3146ARpaul
+"""been""","Oneonta, NY, USA",X3146ARpaul
+"""been""","Fargo, ND, USA",X3146ARpaul
+"""been""","Bridgehampton, NY, USA",X3146ARpaul
+"""been""","Indianapolis, IN, USA",X3146ARpaul
+"""been""","Bethlehem, PA, USA",X3146ARpaul
+"""been""","Bushkill, PA, USA",X3146ARpaul
+"""been""","Morgantown, WV, USA",X3146ARpaul
+"""been"",""want"",""fave""","Washington DC, DC, USA",X3146ARpaul
+"""been""","Dayton, OH, USA",X3146ARpaul
+"""been""","Wilmington, DE, USA",X3146ARpaul
+"""been""","Hollywood, FL, USA",X3146ARpaul
+"""been""","Shelburne, VT, USA",X3146ARpaul
+"""been""","West Yarmouth, MA, USA",X3146ARpaul
+"""been""","Daytona Beach, FL, USA",X3146ARpaul
+"""been""","Hershey, PA, USA",X3146ARpaul
+"""been""","Rockland, ME, USA",X3146ARpaul
+"""been""","King of Prussia, PA, USA",X3146ARpaul
+"""been""","Saratoga Springs, NY, USA",X3146ARpaul
+"""been""","Poughkeepsie, NY, USA",X3146ARpaul
+"""been""","Littleton, NH, USA",X3146ARpaul
+"""been""","Staten Island, NY, USA",X3146ARpaul
+"""been""","Sedona, AZ, USA",X3146ARpaul
+"""been""","Essex, CT, USA",X3146ARpaul
+"""been""","Bedford, PA, USA",X3146ARpaul
+"""been""","Lewisburg, PA, USA",X3146ARpaul
+"""been""","Nassau, Bahamas",X3146ARpaul
+"""been""","Scottsdale, AZ, USA",X3146ARpaul
+"""been""","Great Neck, NY, USA",X3146ARpaul
+"""been""","Grand Rapids, MI, USA",X3146ARpaul
+"""been""","Abilene, TX, USA",X3146ARpaul
+"""been""","Charleston, WV, USA",X3146ARpaul
+"""been""","Mount Pleasant, MI, USA",X3146ARpaul
+"""been"",""want""","Sarasota, FL, USA",X3146ARpaul
+"""been""","Freeport, Bahamas",X3146ARpaul
+"""been""","Altoona, PA, USA",X3146ARpaul
+"""been""","Telluride, CO, USA",X3146ARpaul
+"""been""","Salt Lake City, UT, USA",X3146ARpaul
+"""been""","Siesta Key, FL, USA",X3146ARpaul
+"""been"",""want""","Orlando, FL, USA",X3146ARpaul
+"""been""","Hyde Park, NY, USA",X3146ARpaul
+"""been""","Farmington, CT, USA",X3146ARpaul
+"""been""","Pawtucket, RI, USA",X3146ARpaul
+"""been""","La Jolla, CA, USA",X3146ARpaul
+"""been""","Charles Town, WV, USA",X3146ARpaul
+"""been""","Mount Pocono, PA, USA",X3146ARpaul
+"""been""","Brownsville, TX, USA",X3146ARpaul
+"""been""","Port-au-Prince, Haiti",X3146ARpaul
+"""been""","Jacksonville, FL, USA",X3146ARpaul
+"""been""","Mount Joy, PA, USA",X3146ARpaul
+"""been""","Grand Island, NY, USA",X3146ARpaul
+"""been""","Glen Arbor, MI, USA",X3146ARpaul
+"""been""","Reno, NV, USA",X3146ARpaul
+"""been""","Montreal, Quebec, Canada",X3146ARpaul
+"""been""","Hudson, NY, USA",X3146ARpaul
+"""been""","Utica, IL, USA",X3146ARpaul
+"""been""","Christiansburg, VA, USA",X3146ARpaul
+"""been""","Allentown, PA, USA",X3146ARpaul
+"""been""","Quebec City, Quebec, Canada",X3146ARpaul
+"""been""","Urbana, IL, USA",X3146ARpaul
+"""been""","Amarillo, TX, USA",X3146ARpaul
+"""been""","Spokane Valley, WA, USA",X3146ARpaul
+"""been""","South Burlington, VT, USA",X3146ARpaul
+"""been""","Guilford, CT, USA",X3146ARpaul
+"""been""","Lititz, PA, USA",X3146ARpaul
+"""been""","Evanston, IL, USA",X3146ARpaul
+"""been""","Greenville, SC, USA",X3146ARpaul
+"""been""","Greenwich, CT, USA",X3146ARpaul
+"""been""","Bloomington, IN, USA",X3146ARpaul
+"""been""","Ithaca, NY, USA",X3146ARpaul
+"""been""","North Charleston, SC, USA",X3146ARpaul
+"""been""","West Columbia, SC, USA",X3146ARpaul
+"""been""","Watertown, NY, USA",X3146ARpaul
+"""been""","Hanover, MD, USA",X3146ARpaul
+"""been""","Watkins Glen, NY, USA",X3146ARpaul
+"""been""","Hoboken, NJ, USA",X3146ARpaul
+"""been""","Jamaica, NY, USA",X3146ARpaul
+"""been""","Lincoln, NE, USA",X3146ARpaul
+"""been""","Waterloo, NY, USA",X3146ARpaul
+"""been""","Princeton, NJ, USA",X3146ARpaul
+"""been""","Willow Grove, PA, USA",X3146ARpaul
+"""been""","Hagerstown, MD, USA",X3146ARpaul
+"""been""","Boulder, CO, USA",X3146ARpaul
+"""been""","Warwick, RI, USA",X3146ARpaul
+"""been""","Georgetown, SC, USA",X3146ARpaul
+"""been""","Wilkes-Barre, PA, USA",X3146ARpaul
+"""been""","Concord, MA, USA",X3146ARpaul
+"""been""","Twin Falls, ID, USA",X3146ARpaul
+"""been""","Mechanicsburg, PA, USA",X3146ARpaul
+"""been""","Palm Beach, FL, USA",X3146ARpaul
+"""been""","Bensalem, PA, USA",X3146ARpaul
+"""been""","Williamsport, PA, USA",X3146ARpaul
+"""been""","Detroit, MI, USA",X3146ARpaul
+"""been""","Morristown, NJ, USA",X3146ARpaul
+"""been""","Frederick, MD, USA",X3146ARpaul
+"""been""","Woodstock, NY, USA",X3146ARpaul
+"""been""","Yonkers, NY, USA",X3146ARpaul
+"""been""","Ocean City, MD, USA",X3146ARpaul
+"""been""","Green Bay, WI, USA",X3146ARpaul
+"""been""","Yakima, WA, USA",X3146ARpaul
+"""been""","Killington, VT, USA",X3146ARpaul
+"""been""","Salem, MA, USA",X3146ARpaul
+"""been""","San Antonio, TX, USA",X3146ARpaul
+"""been"",""want""","San Francisco, CA, USA",X3146ARpaul
+"""been""","Tucson, AZ, USA",X3146ARpaul
+"""been""","Spokane, WA, USA",X3146ARpaul
+"""been""","Panama City Beach, FL, USA",X3146ARpaul
+"""been""","Johnson City, TN, USA",X3146ARpaul
+"""been""","Grand Junction, CO, USA",X3146ARpaul
+"""been""","Santa Fe, NM, USA",X3146ARpaul
+"""been""","Arlington, TX, USA",X3146ARpaul
+"""been""","Healdsburg, CA, USA",X3146ARpaul
+"""been""","Syracuse, NY, USA",X3146ARpaul
+"""been""","East Elmhurst, NY, USA",X3146ARpaul
+"""been""","Edison, NJ, USA",X3146ARpaul
+"""been""","Jersey City, NJ, USA",X3146ARpaul
+"""been""","Elizabeth, NJ, USA",X3146ARpaul
+"""been""","Lexington, VA, USA",X3146ARpaul
+"""been""","Tampa, FL, USA",X3146ARpaul
+"""been""","Austin, TX, USA",X3146ARpaul
+"""been""","Middletown, PA, USA",X3146ARpaul
+"""been""","Sonoma, CA, USA",X3146ARpaul
+"""been"",""fave""","Miami, FL, USA",X3146ARpaul
+"""been""","Greensboro, NC, USA",X3146ARpaul
+"""been""","Decatur, IL, USA",X3146ARpaul
+"""been""","Tallahassee, FL, USA",X3146ARpaul
+"""been""","Stowe, VT, USA",X3146ARpaul
+"""been""","Canon City, CO, USA",X3146ARpaul
+"""been""","Pensacola, FL, USA",X3146ARpaul
+"""been""","Banner Elk, NC, USA",X3146ARpaul
+"""been""","Towson, MD, USA",X3146ARpaul
+"""been""","Scranton, PA, USA",X3146ARpaul
+"""been""","Springfield, MA, USA",X3146ARpaul
+"""been""","Flushing, NY, USA",X3146ARpaul
+"""been""","Hampton Bays, NY, USA",X3146ARpaul
+"""been""","College Park, MD, USA",X3146ARpaul
+"""been""","Webster, NY, USA",X3146ARpaul
+"""been""","Nashville, TN, USA",X3146ARpaul
+"""been""","Davenport, IA, USA",X3146ARpaul
+"""been""","Baltimore, MD, USA",X3146ARpaul
+"""been""","Burlington, VT, USA",X3146ARpaul
+"""been""","Tacoma, WA, USA",X3146ARpaul
+"""been""","Albuquerque, NM, USA",X3146ARpaul
+"""been""","Des Moines, IA, USA",X3146ARpaul
+"""been""","Janesville, WI, USA",X3146ARpaul
+"""been""","West Chicago, IL, USA",X3146ARpaul
+"""been""","Charleston, SC, USA",X3146ARpaul
+"""been""","Savannah, GA, USA",X3146ARpaul
+"""been""","Brownsville, VT, USA",X3146ARpaul
+"""been""","Road Town, British Virgin Islands",X3146ARpaul
+"""been""","Columbia, MO, USA",X3146ARpaul
+"""been""","Butte, MT, USA",X3146ARpaul
+"""been""","Boone, NC, USA",X3146ARpaul
+"""been""","Anaheim, CA, USA",X3146ARpaul
+"""been""","Miami Beach, FL, USA",X3146ARpaul
+"""been""","Newark, NJ, USA",X3146ARpaul
+"""been""","Kansas City, KS, USA",X3146ARpaul
+"""been""","St. John's, Antigua and Barbuda",X3146ARpaul
+"""been""","Fredericksburg, VA, USA",X3146ARpaul
+"""been""","York, PA, USA",X3146ARpaul
+"""been""","Kingsport, TN, USA",X3146ARpaul
+"""been""","Manchester, VT, USA",X3146ARpaul
+"""been""","Brookline, MA, USA",X3146ARpaul
+"""been""","Colorado Springs, CO, USA",X3146ARpaul
+"""been""","Palatine, IL, USA",X3146ARpaul
+"""been""","Knoxville, TN, USA",X3146ARpaul
+"""been""","Middlebury, VT, USA",X3146ARpaul
+"""been""","Vancouver, WA, USA",X3146ARpaul
+"""been""","Bar Harbor, ME, USA",X3146ARpaul
+"""been""","Pompano Beach, FL, USA",X3146ARpaul
+"""been""","Rosemont, IL, USA",X3146ARpaul
+"""been""","Wyomissing, PA, USA",X3146ARpaul
+"""been""","East Hampton, NY, USA",X3146ARpaul
+"""been""","Providence, RI, USA",X3146ARpaul
+"""been""","Plano, TX, USA",X3146ARpaul
+"""been"",""want""","Brooklyn, NY, USA",X3146ARpaul
+"""been""","Grand Forks, ND, USA",X3146ARpaul
+"""been""","New Brunswick, NJ, USA",X3146ARpaul
+"""been""","Hauppauge, NY, USA",X3146ARpaul
+"""been""","Coeur d'Alene, ID, USA",X3146ARpaul

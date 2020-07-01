@@ -1,0 +1,910 @@
+tag,place,user
+"""been""","King of Prussia, PA, USA",yorosey
+"""been""","Brookhaven, GA, USA",yorosey
+"""been""","Wainwright, Alberta, Canada",yorosey
+"""been""","Philadelphia, PA, USA",yorosey
+"""been""","Devils Tower, WY, USA",yorosey
+"""want""","Ko Phi Phi Don, Thailand",yorosey
+"""been""","Torrance, CA, USA",yorosey
+"""been""","Manhattan, KS, USA",yorosey
+"""been""","Devils Lake, ND, USA",yorosey
+"""been""","Stevens Point, WI, USA",yorosey
+"""been""","Moscow, Russia",yorosey
+"""been""","Sioux City, IA, USA",yorosey
+"""been""","St. Albert, Alberta, Canada",yorosey
+"""been"",""fave""","South Lake Tahoe, CA, USA",yorosey
+"""been"",""fave""","Ronda, Spain",yorosey
+"""been""","Oak Brook, IL, USA",yorosey
+"""been""","Elviria, Spain",yorosey
+"""want""","Yelapa, Mexico",yorosey
+"""been"",""want""","Vimy, France",yorosey
+"""been""","Dillon, MT, USA",yorosey
+"""been""","Beverly Hills, CA, USA",yorosey
+"""been""","Discovery Bay, Jamaica",yorosey
+"""been""","Midland, TX, USA",yorosey
+"""been""","Ironshore, Jamaica",yorosey
+"""been""","Memphis, TN, USA",yorosey
+"""been""","Everett, WA, USA",yorosey
+"""been""","Temecula, CA, USA",yorosey
+"""been""","Tunica, MS, USA",yorosey
+"""been""","El Paso, TX, USA",yorosey
+"""been""","Cedar City, UT, USA",yorosey
+"""been""","Stateline, NV, USA",yorosey
+"""been""","Little Rock, AR, USA",yorosey
+"""been""","New York City, NY, USA",yorosey
+"""been""","Nungwi, Tanzania",yorosey
+"""been""","Sterling, VA, USA",yorosey
+"""been""","Irving, TX, USA",yorosey
+"""been""","Sandpoint, ID, USA",yorosey
+"""want""","La Cruz de Huanacaxtle, Mexico",yorosey
+"""been""","San Pedro de Alcantara, Spain",yorosey
+"""been""","Warrens, WI, USA",yorosey
+"""been""","Muskego, WI, USA",yorosey
+"""been""","Cannon Falls, MN, USA",yorosey
+"""been""","Mauritius, Africa",yorosey
+"""been""","Verona, WI, USA",yorosey
+"""been""","Pirque, Chile",yorosey
+"""been""","Waimea, HI, USA",yorosey
+"""want""","Naples, Italy",yorosey
+"""been"",""fave""","Hilo, HI, USA",yorosey
+"""been""","Keauhou, HI, USA",yorosey
+"""been""","Kealakekua, HI, USA",yorosey
+"""been""","Cass Lake, MN, USA",yorosey
+"""been""","Champlin, MN, USA",yorosey
+"""been""","Centerville, MN, USA",yorosey
+"""want""","Maguhdhuvaa, Asia",yorosey
+"""been""","Fuengirola, Spain",yorosey
+"""been""","Helsinki, Finland",yorosey
+"""been""","Bronx, NY, USA",yorosey
+"""been""","Madrid, Spain",yorosey
+"""been""","Fargo, ND, USA",yorosey
+"""been""","Tomah, WI, USA",yorosey
+"""been""","Killeen, TX, USA",yorosey
+"""been""","Oak Park, IL, USA",yorosey
+"""been""","Captain Cook, HI, USA",yorosey
+"""been""","Brooklyn Park, MN, USA",yorosey
+"""been""","Brooklyn Center, MN, USA",yorosey
+"""been""","Artola, Costa Rica",yorosey
+"""want""","Algeciras, Spain",yorosey
+"""been""","Lake Forest, IL, USA",yorosey
+"""been""","Chame, Panama",yorosey
+"""want""","Cape Town Central, South Africa",yorosey
+"""been""","San Carlos, Panama",yorosey
+"""been""","Capira, Panama",yorosey
+"""been""","Great Falls, MT, USA",yorosey
+"""been""","Teton Village, WY, USA",yorosey
+"""been""","Superior, WI, USA",yorosey
+"""been""","Boise, ID, USA",yorosey
+"""been""","Buffalo, MN, USA",yorosey
+"""been""","Triadelphia, WV, USA",yorosey
+"""been""","Liberia, Costa Rica",yorosey
+"""been""","Burnsville, MN, USA",yorosey
+"""been""","Playas del Coco, Costa Rica",yorosey
+"""been""","Playa Hermosa, Costa Rica",yorosey
+"""been"",""fave""","Maitencillo, Chile",yorosey
+"""been""","Roswell, NM, USA",yorosey
+"""been""","100 Mile House, British Columbia, Canada",yorosey
+"""want""","North Caicos, Turks and Caicos",yorosey
+"""been"",""fave""","Playa Matapalo, Costa Rica",yorosey
+"""been""","Cokato, MN, USA",yorosey
+"""been""","Cohasset, MN, USA",yorosey
+"""been""","Cloquet, MN, USA",yorosey
+"""been""","Oneida, WI, USA",yorosey
+"""been""","Columbia Heights, MN, USA",yorosey
+"""want""","San Jose, Costa Rica",yorosey
+"""been""","Acton, MA, USA",yorosey
+"""been""","Chattanooga, TN, USA",yorosey
+"""been""","Union Park, Africa",yorosey
+"""been""","Oak Creek, WI, USA",yorosey
+"""been""","Plaine Magnien, Africa",yorosey
+"""been""","Horn Lake, MS, USA",yorosey
+"""been""","Fort Macleod, Alberta, Canada",yorosey
+"""been""","Coon Rapids, MN, USA",yorosey
+"""been""","Clearwater, British Columbia, Canada",yorosey
+"""been""","Slave Lake, Alberta, Canada",yorosey
+"""been""","Stevensville, MI, USA",yorosey
+"""want""","Melbourne, Australia",yorosey
+"""been""","Littleton, MA, USA",yorosey
+"""been""","Cottage Grove, MN, USA",yorosey
+"""been""","Monroe, LA, USA",yorosey
+"""been""","Mahebourg, Africa",yorosey
+"""been""","New Lisbon, WI, USA",yorosey
+"""been""","Westby, WI, USA",yorosey
+"""been""","Chaska, MN, USA",yorosey
+"""been""","Chanhassen, MN, USA",yorosey
+"""been""","West Salem, WI, USA",yorosey
+"""been""","New Richmond, WI, USA",yorosey
+"""been""","Circle Pines, MN, USA",yorosey
+"""been""","Chisholm, MN, USA",yorosey
+"""been""","Hounslow, UK",yorosey
+"""been""","Waupun, WI, USA",yorosey
+"""been""","Central Saanich, British Columbia, Canada",yorosey
+"""been""","Waukesha, WI, USA",yorosey
+"""been""","Twickenham, UK",yorosey
+"""been""","Neenah, WI, USA",yorosey
+"""been""","Calmar, Alberta, Canada",yorosey
+"""been""","Clearbrook, MN, USA",yorosey
+"""been""","Clear Lake, MN, USA",yorosey
+"""been""","Wausau, WI, USA",yorosey
+"""want""","Rio de Janeiro, Brazil",yorosey
+"""been""","Cowichan Bay, British Columbia, Canada",yorosey
+"""been""","Clearwater, MN, USA",yorosey
+"""been""","Long Beach, NY, USA",yorosey
+"""been""","Beaver, UT, USA",yorosey
+"""been""","L'Escalier, Africa",yorosey
+"""been""","Farallon, Panama",yorosey
+"""want""","Bogota, Colombia",yorosey
+"""been""","Warroad, MN, USA",yorosey
+"""been""","Chambersburg, PA, USA",yorosey
+"""been""","Riverside, CA, USA",yorosey
+"""been""","Wickenburg, AZ, USA",yorosey
+"""want""","Herathera Island, Asia",yorosey
+"""been""","Waverly, MN, USA",yorosey
+"""been""","Wayzata, MN, USA",yorosey
+"""want""","Dublin, Ireland",yorosey
+"""been""","Davidson, Saskatchewan, Canada",yorosey
+"""been""","Peachland, British Columbia, Canada",yorosey
+"""been""","Armstrong, British Columbia, Canada",yorosey
+"""been""","Rancho Mirage, CA, USA",yorosey
+"""been""","Auburn Hills, MI, USA",yorosey
+"""been""","Ucluelet, British Columbia, Canada",yorosey
+"""been""","Zanzibar City, Tanzania",yorosey
+"""been""","Crookston, MN, USA",yorosey
+"""been""","Westlock, Alberta, Canada",yorosey
+"""been""","Walcott, IA, USA",yorosey
+"""been""","Tulsa, OK, USA",yorosey
+"""been""","Redondo Beach, CA, USA",yorosey
+"""been""","Limache, Chile",yorosey
+"""been""","Osseo, WI, USA",yorosey
+"""been"",""fave""","Bourne, UK",yorosey
+"""been""","Oshkosh, WI, USA",yorosey
+"""been""","Horncastle, UK",yorosey
+"""been""","Wadena, MN, USA",yorosey
+"""been""","Coutts, Alberta, Canada",yorosey
+"""been""","Wabasha, MN, USA",yorosey
+"""been""","Dassel, MN, USA",yorosey
+"""been""","Iowa City, IA, USA",yorosey
+"""been""","Walker, MN, USA",yorosey
+"""been""","Tucker's Town, Bermuda",yorosey
+"""been""","San Marcos, TX, USA",yorosey
+"""been""","Crawley, UK",yorosey
+"""been""","Alexandria, VA, USA",yorosey
+"""been""","Las Vegas, NV, USA",yorosey
+"""been""","Cancelada, Spain",yorosey
+"""been""","Indian Springs, NV, USA",yorosey
+"""been""","La Gaulette, Africa",yorosey
+"""been""","Henderson, NV, USA",yorosey
+"""been""","South Saint Paul, MN, USA",yorosey
+"""been"",""fave""","Santiago, Chile",yorosey
+"""been""","Valparaiso, Chile",yorosey
+"""been""","Solitude, UT, USA",yorosey
+"""want""","Portland, OR, USA",yorosey
+"""want""","Montevideo, Uruguay",yorosey
+"""been""","Decatur, AL, USA",yorosey
+"""been""","Maui, HI, USA",yorosey
+"""been""","Stillwater, MN, USA",yorosey
+"""been"",""fave""","Mesquite, NV, USA",yorosey
+"""been""","San Angelo, TX, USA",yorosey
+"""been""","Bossier City, LA, USA",yorosey
+"""been""","Laughlin, NV, USA",yorosey
+"""been""","Staples, MN, USA",yorosey
+"""been""","Lima, Peru",yorosey
+"""been""","Arlington, VA, USA",yorosey
+"""been""","Onoway, Alberta, Canada",yorosey
+"""been""","Waco, TX, USA",yorosey
+"""been"",""fave""","Vina del Mar, Chile",yorosey
+"""been""","Nadi, Fiji",yorosey
+"""been""","Innisfail, Alberta, Canada",yorosey
+"""been""","Langley City, British Columbia, Canada",yorosey
+"""been""","Osoyoos, British Columbia, Canada",yorosey
+"""been""","Hinton, Alberta, Canada",yorosey
+"""been""","Abbotsford, British Columbia, Canada",yorosey
+"""been""","Ponoka, Alberta, Canada",yorosey
+"""been""","Savage, MN, USA",yorosey
+"""been""","Paradise Valley, AZ, USA",yorosey
+"""been""","Shakopee, MN, USA",yorosey
+"""been"",""fave""","Canmore, Alberta, Canada",yorosey
+"""been""","Cole Bay, St Martin \u002F St Maarten",yorosey
+"""been""","Grand Canyon National Park, AZ, USA",yorosey
+"""been""","Death Valley National Park, CA, USA",yorosey
+"""want""","Crater Lake National Park, OR, USA",yorosey
+"""been""","Lafayette, LA, USA",yorosey
+"""been""","Lake Charles, LA, USA",yorosey
+"""been""","Milwaukee, WI, USA",yorosey
+"""been""","Shoreview, MN, USA",yorosey
+"""been""","Phoenix, AZ, USA",yorosey
+"""been""","Fort Frances, Ontario, Canada",yorosey
+"""want""","Papeete, French Polynesia",yorosey
+"""been"",""fave""","Cozumel, Mexico",yorosey
+"""been""","Green Bay, WI, USA",yorosey
+"""been""","Cancun, Mexico",yorosey
+"""been""","Burnaby, British Columbia, Canada",yorosey
+"""been"",""fave""","Campbell River, British Columbia, Canada",yorosey
+"""been""","West Vancouver, British Columbia, Canada",yorosey
+"""been""","Okanagan Falls, British Columbia, Canada",yorosey
+"""been""","Mounds View, MN, USA",yorosey
+"""been""","Haleakala National Park, HI, USA",yorosey
+"""want""","Stone Town, Tanzania",yorosey
+"""been""","Castlegar, British Columbia, Canada",yorosey
+"""been""","Courtenay, British Columbia, Canada",yorosey
+"""been""","Barrhead, Alberta, Canada",yorosey
+"""want""","Auckland, New Zealand",yorosey
+"""been""","Fort St. John, British Columbia, Canada",yorosey
+"""been""","Golden, British Columbia, Canada",yorosey
+"""been""","Cranbrook, British Columbia, Canada",yorosey
+"""been""","Delta, British Columbia, Canada",yorosey
+"""been""","Auburn, WA, USA",yorosey
+"""been""","Sun City West, AZ, USA",yorosey
+"""been""","Barstow, CA, USA",yorosey
+"""been""","Sun City, AZ, USA",yorosey
+"""been""","Golden Valley, MN, USA",yorosey
+"""been""","Gonvick, MN, USA",yorosey
+"""been""","Toronto, Ontario, Canada",yorosey
+"""been""","Cochrane, Alberta, Canada",yorosey
+"""been""","Okotoks, Alberta, Canada",yorosey
+"""been""","Olds, Alberta, Canada",yorosey
+"""been""","Sarnia, Ontario, Canada",yorosey
+"""been""","Tempe, AZ, USA",yorosey
+"""been""","Wichita Falls, TX, USA",yorosey
+"""been""","Surprise, AZ, USA",yorosey
+"""been""","St. Petersburg, FL, USA",yorosey
+"""been""","St. Pete Beach, FL, USA",yorosey
+"""been""","Ashburn, VA, USA",yorosey
+"""been""","Squamish, British Columbia, Canada",yorosey
+"""been""","Salmon Arm, British Columbia, Canada",yorosey
+"""been"",""fave""","Sidney, British Columbia, Canada",yorosey
+"""been""","Minneapolis, MN, USA",yorosey
+"""been""","North Las Vegas, NV, USA",yorosey
+"""been"",""fave""","Le Morne, Africa",yorosey
+"""been""","Valemount, British Columbia, Canada",yorosey
+"""been"",""fave""","Punta de Mita, Mexico",yorosey
+"""been""","North Platte, NE, USA",yorosey
+"""been""","Souillac, Africa",yorosey
+"""been""","Trail, British Columbia, Canada",yorosey
+"""been""","Mendota, MN, USA",yorosey
+"""been""","Penonome, Panama",yorosey
+"""been""","Mendota Heights, MN, USA",yorosey
+"""been""","Mount Charleston, NV, USA",yorosey
+"""been""","Saskatoon, Saskatchewan, Canada",yorosey
+"""been""","Moose Jaw, Saskatchewan, Canada",yorosey
+"""been""","Regina, Saskatchewan, Canada",yorosey
+"""been""","Sarasota, FL, USA",yorosey
+"""been""","Kamala, Thailand",yorosey
+"""been""","Longmont, CO, USA",yorosey
+"""been""","Columbus, GA, USA",yorosey
+"""been""","Merritt, British Columbia, Canada",yorosey
+"""been""","Playa del Carmen, Mexico",yorosey
+"""been""","Hope, British Columbia, Canada",yorosey
+"""been""","Monticello, MN, USA",yorosey
+"""been""","Montrose, MN, USA",yorosey
+"""been""","Primm, NV, USA",yorosey
+"""been""","Port Moody, British Columbia, Canada",yorosey
+"""been""","Reno, NV, USA",yorosey
+"""been""","Nelson, British Columbia, Canada",yorosey
+"""been"",""fave""","Parksville, British Columbia, Canada",yorosey
+"""been""","Port Alberni, British Columbia, Canada",yorosey
+"""been""","Lacombe, Alberta, Canada",yorosey
+"""been""","Bonnyville, Alberta, Canada",yorosey
+"""been""","Revelstoke, British Columbia, Canada",yorosey
+"""been""","Kapalua, HI, USA",yorosey
+"""been""","Pahrump, NV, USA",yorosey
+"""been""","Port Coquitlam, British Columbia, Canada",yorosey
+"""been""","Tenstrike, MN, USA",yorosey
+"""been""","Thief River Falls, MN, USA",yorosey
+"""been""","Minnetonka, MN, USA",yorosey
+"""been""","Montreal, Quebec, Canada",yorosey
+"""been"",""fave""","Sedona, AZ, USA",yorosey
+"""want""","Quebec City, Quebec, Canada",yorosey
+"""been""","Fairlawn, VA, USA",yorosey
+"""been""","Chemin Grenier, Africa",yorosey
+"""been""","Anacortes, WA, USA",yorosey
+"""been"",""fave""","Scottsdale, AZ, USA",yorosey
+"""been""","Santa Fe, NM, USA",yorosey
+"""been""","Corona, CA, USA",yorosey
+"""been"",""fave""","San Antonio, TX, USA",yorosey
+"""been"",""fave""","San Francisco, CA, USA",yorosey
+"""been""","Corona del Mar, CA, USA",yorosey
+"""been""","Hastings, MN, USA",yorosey
+"""been""","Hermosa Beach, CA, USA",yorosey
+"""been""","Portmore, Jamaica",yorosey
+"""been""","Plano, TX, USA",yorosey
+"""been""","Noord, Aruba",yorosey
+"""been""","Hudson, WI, USA",yorosey
+"""been""","Costa Mesa, CA, USA",yorosey
+"""been""","Lubbock, TX, USA",yorosey
+"""want""","Cannes, France",yorosey
+"""been"",""want""","Athens, Greece",yorosey
+"""been""","Vegreville, Alberta, Canada",yorosey
+"""been""","Rockford, IL, USA",yorosey
+"""been""","Guadalupe, Panama",yorosey
+"""want""","Ibiza, Spain",yorosey
+"""been""","Piraeus, Greece",yorosey
+"""been""","Miami, FL, USA",yorosey
+"""been""","Miami Beach, FL, USA",yorosey
+"""been""","Tampa, FL, USA",yorosey
+"""been""","Kawaihae, HI, USA",yorosey
+"""been""","Hermantown, MN, USA",yorosey
+"""been""","Playa Panama, Costa Rica",yorosey
+"""been""","Covina, CA, USA",yorosey
+"""been"",""fave""","Gull Lake, Saskatchewan, Canada",yorosey
+"""been""","Greenville, SC, USA",yorosey
+"""want""","Fortaleza, Brazil",yorosey
+"""been""","Albuquerque, NM, USA",yorosey
+"""been""","New Prague, MN, USA",yorosey
+"""been"",""fave""","Malaga, Spain",yorosey
+"""been""","Jamaica, NY, USA",yorosey
+"""been""","Estepona, Spain",yorosey
+"""been""","New Ulm, MN, USA",yorosey
+"""been""","New Hope, MN, USA",yorosey
+"""been""","El Valle de Anton, Panama",yorosey
+"""been""","New Brighton, MN, USA",yorosey
+"""been""","Anaheim, CA, USA",yorosey
+"""been""","Grand Rapids, MN, USA",yorosey
+"""been""","New Castle, CO, USA",yorosey
+"""been""","Hayward, WI, USA",yorosey
+"""been""","Black River Falls, WI, USA",yorosey
+"""been""","Mount Vernon, WA, USA",yorosey
+"""been""","Boulder, CO, USA",yorosey
+"""been""","Cedar Park, TX, USA",yorosey
+"""want""","Jericoacoara, Brazil",yorosey
+"""been""","Corpus Christi, TX, USA",yorosey
+"""been""","Cardenas, Cuba",yorosey
+"""been""","Torremolinos, Spain",yorosey
+"""been""","Oxon Hill, MD, USA",yorosey
+"""been""","Mercer Island, WA, USA",yorosey
+"""been""","Salt Lake City, UT, USA",yorosey
+"""been""","Breckenridge, CO, USA",yorosey
+"""been"",""fave""","Higuera Blanca, Mexico",yorosey
+"""been""","North Branch, MN, USA",yorosey
+"""been""","Ham Lake, MN, USA",yorosey
+"""been""","Macon, GA, USA",yorosey
+"""been""","Flushing, NY, USA",yorosey
+"""been""","Minot, ND, USA",yorosey
+"""been"",""fave""","Marbella, Spain",yorosey
+"""been""","West Memphis, AR, USA",yorosey
+"""want""","Santorini, Greece",yorosey
+"""been""","Hugo, MN, USA",yorosey
+"""been""","Des Moines, WA, USA",yorosey
+"""been""","Fort Lauderdale, FL, USA",yorosey
+"""been""","Yellowstone National Park, WY, USA",yorosey
+"""been""","Silver Star, British Columbia, Canada",yorosey
+"""been""","Choeng Thale, Thailand",yorosey
+"""been""","San Diego, CA, USA",yorosey
+"""been""","Sukawati, Indonesia",yorosey
+"""been""","Hutchinson, MN, USA",yorosey
+"""been""","Cincinnati, OH, USA",yorosey
+"""been""","Titusville, FL, USA",yorosey
+"""been""","Inver Grove Heights, MN, USA",yorosey
+"""want""","Barcelona, Spain",yorosey
+"""want""","Ksar es Seghir, Morocco",yorosey
+"""been""","Point Roberts, WA, USA",yorosey
+"""been""","Desert Hot Springs, CA, USA",yorosey
+"""been""","Southaven, MS, USA",yorosey
+"""been""","Denver, CO, USA",yorosey
+"""been""","Sundre, Alberta, Canada",yorosey
+"""been""","Clear Lake, WI, USA",yorosey
+"""been""","Cedar Rapids, IA, USA",yorosey
+"""been""","Cedar Falls, IA, USA",yorosey
+"""been""","Chippewa Falls, WI, USA",yorosey
+"""been""","Topeka, KS, USA",yorosey
+"""been""","Laramie, WY, USA",yorosey
+"""been"",""fave""","Boston, MA, USA",yorosey
+"""been""","Tupelo, MS, USA",yorosey
+"""been""","International Falls, MN, USA",yorosey
+"""been""","Amsterdam, The Netherlands",yorosey
+"""been""","Valley Forge, PA, USA",yorosey
+"""been""","Honolulu, HI, USA",yorosey
+"""been""","Rugby, ND, USA",yorosey
+"""been""","Chantilly, VA, USA",yorosey
+"""been""","North Vancouver, British Columbia, Canada",yorosey
+"""been""","Esquimalt, British Columbia, Canada",yorosey
+"""been""","Richmond, British Columbia, Canada",yorosey
+"""been""","North Miami Beach, FL, USA",yorosey
+"""been""","Tahoe City, CA, USA",yorosey
+"""been""","Pocatello, ID, USA",yorosey
+"""been""","Coquitlam, British Columbia, Canada",yorosey
+"""been""","Hibbing, MN, USA",yorosey
+"""been""","Janesville, WI, USA",yorosey
+"""been""","Beaumont, TX, USA",yorosey
+"""been""","Flagstaff, AZ, USA",yorosey
+"""been""","Hinckley, MN, USA",yorosey
+"""been""","Oroville, WA, USA",yorosey
+"""been""","Carefree, AZ, USA",yorosey
+"""been""","Cave Creek, AZ, USA",yorosey
+"""been""","Bakersfield, CA, USA",yorosey
+"""been""","Dana Point, CA, USA",yorosey
+"""been""","Baker, CA, USA",yorosey
+"""been""","Culver City, CA, USA",yorosey
+"""been"",""fave""","Colorado Springs, CO, USA",yorosey
+"""been""","Orient Bay, St Martin \u002F St Maarten",yorosey
+"""been""","Houston, TX, USA",yorosey
+"""been""","Treasure Island, FL, USA",yorosey
+"""been""","Sardinal, Costa Rica",yorosey
+"""been""","Knoxville, TN, USA",yorosey
+"""been""","Wheeling, IL, USA",yorosey
+"""been""","Concon, Chile",yorosey
+"""been""","Shelby, MT, USA",yorosey
+"""been""","Kansas City, KS, USA",yorosey
+"""been""","Howard Lake, MN, USA",yorosey
+"""been""","Hopkins, MN, USA",yorosey
+"""been""","Chandler, AZ, USA",yorosey
+"""been""","Bismarck, ND, USA",yorosey
+"""been""","Butte, MT, USA",yorosey
+"""been""","Carstairs, Alberta, Canada",yorosey
+"""been""","Del Mar, CA, USA",yorosey
+"""been""","Olympia, WA, USA",yorosey
+"""been""","Port Aransas, TX, USA",yorosey
+"""been""","Quesnel, British Columbia, Canada",yorosey
+"""been""","Radium Hot Springs, British Columbia, Canada",yorosey
+"""been""","Cheyenne, WY, USA",yorosey
+"""been""","Casper, WY, USA",yorosey
+"""been""","Chamarel, Africa",yorosey
+"""want""","Bora Bora, French Polynesia",yorosey
+"""been""","Chilliwack, British Columbia, Canada",yorosey
+"""been""","Fernie, British Columbia, Canada",yorosey
+"""been""","Duncan, British Columbia, Canada",yorosey
+"""want""","Buenos Aires, Argentina",yorosey
+"""been""","Williams Lake, British Columbia, Canada",yorosey
+"""been""","Kamloops, British Columbia, Canada",yorosey
+"""been""","Beaver Dam, WI, USA",yorosey
+"""been""","Reston, VA, USA",yorosey
+"""been"",""fave""","Kelowna, British Columbia, Canada",yorosey
+"""been""","Milan, Italy",yorosey
+"""been""","Louisville, KY, USA",yorosey
+"""been""","Longboat Key, FL, USA",yorosey
+"""been""","Idaho Falls, ID, USA",yorosey
+"""been""","Sandy Springs, GA, USA",yorosey
+"""been""","Seal Beach, CA, USA",yorosey
+"""been""","Maple Creek, Saskatchewan, Canada",yorosey
+"""been""","Jasper National Park, Alberta, Canada",yorosey
+"""want""","Peggy's Cove, Nova Scotia, Canada",yorosey
+"""been""","Jasper, Alberta, Canada",yorosey
+"""been""","West Des Moines, IA, USA",yorosey
+"""been""","Lethbridge, Alberta, Canada",yorosey
+"""been""","Lake Louise, Alberta, Canada",yorosey
+"""been""","Calgary, Alberta, Canada",yorosey
+"""been"",""fave""","Edmonton, Alberta, Canada",yorosey
+"""been""","Fort McMurray, Alberta, Canada",yorosey
+"""been""","Bellingham, WA, USA",yorosey
+"""been""","Medicine Hat, Alberta, Canada",yorosey
+"""been""","Red Deer, Alberta, Canada",yorosey
+"""been""","Baldwin, WI, USA",yorosey
+"""been""","Quilpue, Chile",yorosey
+"""been""","Westford, MA, USA",yorosey
+"""been""","Baraboo, WI, USA",yorosey
+"""been""","Big Bear Lake, CA, USA",yorosey
+"""want""","Belize City, Belize",yorosey
+"""want""","Ahungalla, Sri Lanka",yorosey
+"""been""","White Rock, British Columbia, Canada",yorosey
+"""been""","Atlanta, GA, USA",yorosey
+"""been""","Kimberley, British Columbia, Canada",yorosey
+"""been""","Victoria, British Columbia, Canada",yorosey
+"""been""","Vernon, British Columbia, Canada",yorosey
+"""been"",""fave""","Sayulita, Mexico",yorosey
+"""been""","Fridley, MN, USA",yorosey
+"""been""","Lowell, MA, USA",yorosey
+"""been""","Whistler, British Columbia, Canada",yorosey
+"""want""","Bangkok, Thailand",yorosey
+"""want""","Sand City, CA, USA",yorosey
+"""been""","Winnipeg, Manitoba, Canada",yorosey
+"""been""","Westerose, Alberta, Canada",yorosey
+"""been""","Santa Clara, CA, USA",yorosey
+"""been""","Bellevue, WA, USA",yorosey
+"""been""","Santa Ana, CA, USA",yorosey
+"""been""","Santa Barbara, CA, USA",yorosey
+"""been""","Lakeland, FL, USA",yorosey
+"""been""","Orly, France",yorosey
+"""been""","Qualicum Beach, British Columbia, Canada",yorosey
+"""been""","Wisconsin Rapids, WI, USA",yorosey
+"""been""","Prince George, British Columbia, Canada",yorosey
+"""been""","San Jose del Cabo, Mexico",yorosey
+"""been""","Wisconsin Dells, WI, USA",yorosey
+"""been""","Springfield, IL, USA",yorosey
+"""been"",""fave""","Cabo San Lucas, Mexico",yorosey
+"""been""","Lisbon, ND, USA",yorosey
+"""been""","Omaha, NE, USA",yorosey
+"""been""","Lloydminster, Alberta, Canada",yorosey
+"""been""","Nanaimo, British Columbia, Canada",yorosey
+"""been""","Wake Forest, NC, USA",yorosey
+"""been""","Hanthorpe, UK",yorosey
+"""want""","Anchorage, AK, USA",yorosey
+"""been""","New Westminster, British Columbia, Canada",yorosey
+"""been""","Penticton, British Columbia, Canada",yorosey
+"""been""","Boulder City, NV, USA",yorosey
+"""been""","Momi, Fiji",yorosey
+"""been"",""fave""","Tofino, British Columbia, Canada",yorosey
+"""been"",""fave""","Vancouver, British Columbia, Canada",yorosey
+"""been"",""fave""","Santa Monica, CA, USA",yorosey
+"""been""","Waterloo, IA, USA",yorosey
+"""been""","Vancouver Island, British Columbia, Canada",yorosey
+"""been""","Phuket, Thailand",yorosey
+"""been""","Germantown, TN, USA",yorosey
+"""been""","Billings, MT, USA",yorosey
+"""been"",""fave""","Mai Khao, Thailand",yorosey
+"""been""","Astoria, NY, USA",yorosey
+"""been""","River Falls, WI, USA",yorosey
+"""want""","Halifax, Nova Scotia, Canada",yorosey
+"""want""","Big Sur, CA, USA",yorosey
+"""been""","Minooka, IL, USA",yorosey
+"""been""","Bozeman, MT, USA",yorosey
+"""been""","Boulder, MT, USA",yorosey
+"""been"",""fave""","London, UK",yorosey
+"""been""","Lincoln, UK",yorosey
+"""been""","Washington DC, DC, USA",yorosey
+"""been""","Paracas, Peru",yorosey
+"""been""","Austin, MN, USA",yorosey
+"""been""","Deptford, NJ, USA",yorosey
+"""want""","Venice, Italy",yorosey
+"""been""","Quartier D'Orleans, St Martin \u002F St Maarten",yorosey
+"""been""","Truth or Consequences, NM, USA",yorosey
+"""been""","Manchester, NH, USA",yorosey
+"""been""","Pulaski, WI, USA",yorosey
+"""been""","Ladysmith, British Columbia, Canada",yorosey
+"""been""","Mississauga, Ontario, Canada",yorosey
+"""been""","Evanston, WY, USA",yorosey
+"""been""","London, Ontario, Canada",yorosey
+"""been""","Cul de Sac, St Martin \u002F St Maarten",yorosey
+"""been""","Field, British Columbia, Canada",yorosey
+"""been""","Anoka, MN, USA",yorosey
+"""been""","Indianapolis, IN, USA",yorosey
+"""been""","Arden Hills, MN, USA",yorosey
+"""been"",""fave""","Agadir, Morocco",yorosey
+"""want""","Tokyo, Japan",yorosey
+"""been""","Portage, WI, USA",yorosey
+"""want""","Majahuitas, Mexico",yorosey
+"""been""","Aourir, Morocco",yorosey
+"""been""","Burlington, WA, USA",yorosey
+"""been""","Rio Hato, Panama",yorosey
+"""been""","Huntsville, AL, USA",yorosey
+"""been""","Texarkana, AR, USA",yorosey
+"""want""","Fernando de Noronha, Brazil",yorosey
+"""been""","Maalaea, HI, USA",yorosey
+"""been""","Sandton, South Africa",yorosey
+"""been""","Playa Mujeres, Mexico",yorosey
+"""been""","Bagley, MN, USA",yorosey
+"""been""","Port Huron, MI, USA",yorosey
+"""want""","Sao Paulo, Brazil",yorosey
+"""been""","St. Petersburg, Russia",yorosey
+"""been""","Oceanside, CA, USA",yorosey
+"""been""","Cranford, UK",yorosey
+"""been""","Lake Geneva, WI, USA",yorosey
+"""been""","Middleburgh, NY, USA",yorosey
+"""been""","Sheboygan, WI, USA",yorosey
+"""been""","Becker, MN, USA",yorosey
+"""been""","Oklahoma City, OK, USA",yorosey
+"""been""","Raleigh, NC, USA",yorosey
+"""been"",""fave""","Sochi, Russia",yorosey
+"""been""","Norman, OK, USA",yorosey
+"""been""","Sturgis, SD, USA",yorosey
+"""been""","La Crosse, WI, USA",yorosey
+"""been""","Sauk City, WI, USA",yorosey
+"""been""","Ogden, UT, USA",yorosey
+"""been""","Kohler, WI, USA",yorosey
+"""been""","Ladysmith, WI, USA",yorosey
+"""been""","Orem, UT, USA",yorosey
+"""been""","Lake Delton, WI, USA",yorosey
+"""been""","Summerland, British Columbia, Canada",yorosey
+"""been""","Park City, UT, USA",yorosey
+"""been""","Horley, UK",yorosey
+"""been""","Kuta, Indonesia",yorosey
+"""been"",""fave""","Nusa Dua, Indonesia",yorosey
+"""been""","Puchuncavi, Chile",yorosey
+"""been""","Johannesburg, South Africa",yorosey
+"""been""","Kempton Park, South Africa",yorosey
+"""been""","Sioux Falls, SD, USA",yorosey
+"""been""","Hatch, NM, USA",yorosey
+"""been""","Jackson, WY, USA",yorosey
+"""been""","Nanton, Alberta, Canada",yorosey
+"""been""","Porto, Portugal",yorosey
+"""been""","Palm Desert, CA, USA",yorosey
+"""been""","Seoul, South Korea",yorosey
+"""been""","Palm Springs, CA, USA",yorosey
+"""been""","Breezy Point, MN, USA",yorosey
+"""been""","Palo Alto, CA, USA",yorosey
+"""been""","Brainerd, MN, USA",yorosey
+"""been""","Tbilisi, Georgia",yorosey
+"""want""","Fuvahmulah, Asia",yorosey
+"""been""","Ma-Me-O Beach, Alberta, Canada",yorosey
+"""been""","Menomonie, WI, USA",yorosey
+"""been""","Menasha, WI, USA",yorosey
+"""want""","Medellin, Colombia",yorosey
+"""been""","Pasadena, CA, USA",yorosey
+"""been""","Dallas, TX, USA",yorosey
+"""want""","Cartagena, Colombia",yorosey
+"""been""","Marshfield, WI, USA",yorosey
+"""been""","Schwaig, Germany",yorosey
+"""been""","Surrey, British Columbia, Canada",yorosey
+"""been""","Bejuco, Panama",yorosey
+"""been""","Blue Diamond, NV, USA",yorosey
+"""been""","Saint Michael, MN, USA",yorosey
+"""been""","Saint Paul, MN, USA",yorosey
+"""been""","Mauston, WI, USA",yorosey
+"""been""","Saint Paul Park, MN, USA",yorosey
+"""been""","Saint Peter, MN, USA",yorosey
+"""been""","Camrose, Alberta, Canada",yorosey
+"""want""","Dorp Sint Michiel, Curacao",yorosey
+"""been""","West Fargo, ND, USA",yorosey
+"""been""","Sartell, MN, USA",yorosey
+"""been""","Sauk Centre, MN, USA",yorosey
+"""been""","Alexandria, LA, USA",yorosey
+"""been""","Ontario, CA, USA",yorosey
+"""been""","Las Vegas, NM, USA",yorosey
+"""been""","Orange, CA, USA",yorosey
+"""been""","Las Cruces, NM, USA",yorosey
+"""been""","Kauai, HI, USA",yorosey
+"""been""","Olympic Valley, CA, USA",yorosey
+"""been""","Manitowoc, WI, USA",yorosey
+"""been""","Big Lake, MN, USA",yorosey
+"""been""","Mazatlan, Mexico",yorosey
+"""been""","Puerto Vallarta, Mexico",yorosey
+"""been""","Bena, MN, USA",yorosey
+"""been""","Banff National Park, Alberta, Canada",yorosey
+"""been""","Bemidji, MN, USA",yorosey
+"""been"",""fave""","Banff, Alberta, Canada",yorosey
+"""want""","Rincon, Puerto Rico",yorosey
+"""been""","Wahpeton, ND, USA",yorosey
+"""been"",""fave""","Benahavis, Spain",yorosey
+"""been""","Grapevine, TX, USA",yorosey
+"""been""","Tijuana, Mexico",yorosey
+"""been""","New Sarepta, Alberta, Canada",yorosey
+"""been""","Bloomington, MN, USA",yorosey
+"""been""","Somerset, WI, USA",yorosey
+"""been""","Mason City, IA, USA",yorosey
+"""been""","Sparta, WI, USA",yorosey
+"""been""","Blaine, MN, USA",yorosey
+"""been""","Blackduck, MN, USA",yorosey
+"""been""","Wabamun, Alberta, Canada",yorosey
+"""been""","Woodhall Spa, UK",yorosey
+"""been""","Toledo, OH, USA",yorosey
+"""been""","Indian Wells, CA, USA",yorosey
+"""been""","Ubud, Indonesia",yorosey
+"""been""","Inglewood, CA, USA",yorosey
+"""been""","College Station, TX, USA",yorosey
+"""been""","Wyoming, MN, USA",yorosey
+"""been""","Ames, IA, USA",yorosey
+"""been""","Didsbury, Alberta, Canada",yorosey
+"""been""","Quathiaski Cove, British Columbia, Canada",yorosey
+"""been""","Cold Lake, Alberta, Canada",yorosey
+"""been""","Woodbury, MN, USA",yorosey
+"""been""","Irvine, CA, USA",yorosey
+"""been""","Sherwood Park, Alberta, Canada",yorosey
+"""been""","High River, Alberta, Canada",yorosey
+"""been""","Farmington, UT, USA",yorosey
+"""been""","Draper, UT, USA",yorosey
+"""been""","Alexandria, MN, USA",yorosey
+"""been""","Chicago, IL, USA",yorosey
+"""been""","Bucerias, Mexico",yorosey
+"""been""","Galveston, TX, USA",yorosey
+"""been""","Akeley, MN, USA",yorosey
+"""been""","Albany, MN, USA",yorosey
+"""been""","Plymouth, MN, USA",yorosey
+"""been""","Bel Ombre, Africa",yorosey
+"""been""","Albertville, MN, USA",yorosey
+"""been""","Albert Lea, MN, USA",yorosey
+"""want""","Sydney, Australia",yorosey
+"""been""","Taber, Alberta, Canada",yorosey
+"""been""","Wetaskiwin, Alberta, Canada",yorosey
+"""been""","Vermilion, Alberta, Canada",yorosey
+"""been""","Stony Plain, Alberta, Canada",yorosey
+"""been""","St. Paul, Alberta, Canada",yorosey
+"""been""","Pine City, MN, USA",yorosey
+"""been""","Herndon, VA, USA",yorosey
+"""been"",""fave""","Newport Beach, CA, USA",yorosey
+"""been""","Bavaro, Dominican Republic",yorosey
+"""been""","Pittsburgh, PA, USA",yorosey
+"""been""","Willmar, MN, USA",yorosey
+"""want""","Santa Cruz, Aruba",yorosey
+"""been""","White Bear Lake, MN, USA",yorosey
+"""been"",""fave""","Coombs, British Columbia, Canada",yorosey
+"""been""","West Saint Paul, MN, USA",yorosey
+"""been""","Frisco, TX, USA",yorosey
+"""been""","Appleton, WI, USA",yorosey
+"""been""","Wichita, KS, USA",yorosey
+"""been""","Enderby, British Columbia, Canada",yorosey
+"""been""","Spring, TX, USA",yorosey
+"""been""","Balboa Island, CA, USA",yorosey
+"""been"",""fave""","Huntington Beach, CA, USA",yorosey
+"""been""","Beaumont, Alberta, Canada",yorosey
+"""been""","Fort Worth, TX, USA",yorosey
+"""been""","Park Rapids, MN, USA",yorosey
+"""been""","Canidelo, Portugal",yorosey
+"""been""","Pueblo, CO, USA",yorosey
+"""been""","Otsego, MN, USA",yorosey
+"""been""","Winona, MN, USA",yorosey
+"""been"",""fave""","Nuevo Vallarta, Mexico",yorosey
+"""been""","Osseo, MN, USA",yorosey
+"""been"",""fave""","Hong Kong, China",yorosey
+"""been""","Ashwaubenon, WI, USA",yorosey
+"""been""","Owatonna, MN, USA",yorosey
+"""been""","Rapid City, SD, USA",yorosey
+"""been""","Ka'anapali, HI, USA",yorosey
+"""want""","Myrtle Beach, SC, USA",yorosey
+"""want""","Lisbon, Portugal",yorosey
+"""been""","Old Town, FL, USA",yorosey
+"""been""","Whitefish, MT, USA",yorosey
+"""been""","Wandering River, Alberta, Canada",yorosey
+"""been""","Rochester, MN, USA",yorosey
+"""been""","Richfield, MN, USA",yorosey
+"""been""","Walt Disney World, FL, USA",yorosey
+"""been""","Fort Collins, CO, USA",yorosey
+"""been""","Edwards, CA, USA",yorosey
+"""been""","Orlando, FL, USA",yorosey
+"""been""","Fort Morgan, CO, USA",yorosey
+"""been""","Lake Elmo, MN, USA",yorosey
+"""been""","Earth City, MO, USA",yorosey
+"""been""","Roseau, MN, USA",yorosey
+"""been""","Rosemount, MN, USA",yorosey
+"""been""","Aspen, CO, USA",yorosey
+"""been""","Lake Itasca, MN, USA",yorosey
+"""been""","Roseville, MN, USA",yorosey
+"""been""","Rogers, MN, USA",yorosey
+"""been"",""fave""","Panama City, Panama",yorosey
+"""been""","Detroit, MI, USA",yorosey
+"""been""","Kearney, NE, USA",yorosey
+"""been""","Vail, CO, USA",yorosey
+"""been""","Amarillo, TX, USA",yorosey
+"""been""","Trinidad, CO, USA",yorosey
+"""been""","Puerto Banus, Spain",yorosey
+"""been""","El Segundo, CA, USA",yorosey
+"""been""","Ramsey, MN, USA",yorosey
+"""been""","Proctor, MN, USA",yorosey
+"""been""","Prior Lake, MN, USA",yorosey
+"""been""","Lantzville, British Columbia, Canada",yorosey
+"""been""","Doha, Qatar",yorosey
+"""been""","Coppell, TX, USA",yorosey
+"""been""","Fillmore, UT, USA",yorosey
+"""been""","Hume, VA, USA",yorosey
+"""been""","Singapore, Singapore",yorosey
+"""been""","Fountain Hills, AZ, USA",yorosey
+"""been""","Silverthorne, CO, USA",yorosey
+"""been""","Abilene, TX, USA",yorosey
+"""been""","Red Wing, MN, USA",yorosey
+"""been""","Redlake, MN, USA",yorosey
+"""been""","Nai Harn, Thailand",yorosey
+"""been""","Kansas City, MO, USA",yorosey
+"""been""","Glendale, AZ, USA",yorosey
+"""been""","Goodyear, AZ, USA",yorosey
+"""been""","Vila Nova de Gaia, Portugal",yorosey
+"""been""","Gilbert, AZ, USA",yorosey
+"""been""","Nazca, Peru",yorosey
+"""been""","Davenport, IA, USA",yorosey
+"""been""","Ica, Peru",yorosey
+"""been""","Spokane, WA, USA",yorosey
+"""been""","Devon, Alberta, Canada",yorosey
+"""been""","Long Lake, MN, USA",yorosey
+"""been""","Litchfield, MN, USA",yorosey
+"""been""","Little Canada, MN, USA",yorosey
+"""been""","Little Falls, MN, USA",yorosey
+"""been""","Eagan, MN, USA",yorosey
+"""been""","Mesa, AZ, USA",yorosey
+"""been""","Lino Lakes, MN, USA",yorosey
+"""been""","Duluth, MN, USA",yorosey
+"""been""","Casablanca, Morocco",yorosey
+"""been""","Victorville, CA, USA",yorosey
+"""been""","Gypsum, CO, USA",yorosey
+"""want""","Tangier, Morocco",yorosey
+"""been"",""fave""","Austin, TX, USA",yorosey
+"""want""","Fairbanks, AK, USA",yorosey
+"""been""","Adler, Russia",yorosey
+"""been""","Brooklyn, NY, USA",yorosey
+"""been""","Helena, MT, USA",yorosey
+"""been""","Bethany, MO, USA",yorosey
+"""been""","Elk River, MN, USA",yorosey
+"""been""","Edina, MN, USA",yorosey
+"""been""","East Elmhurst, NY, USA",yorosey
+"""been""","Eden Prairie, MN, USA",yorosey
+"""been""","Breton, Alberta, Canada",yorosey
+"""been""","Eau Claire, WI, USA",yorosey
+"""been""","Spruce Grove, Alberta, Canada",yorosey
+"""been""","Nashville, TN, USA",yorosey
+"""want""","Rome, Italy",yorosey
+"""been""","Royalton, MN, USA",yorosey
+"""been""","Baltimore, MD, USA",yorosey
+"""been""","Kingman, AZ, USA",yorosey
+"""been""","Deer River, MN, USA",yorosey
+"""been""","Lakeville, MN, USA",yorosey
+"""been""","Wolf Creek, MT, USA",yorosey
+"""been""","Munich, Germany",yorosey
+"""been""","Hohenschwangau, Germany",yorosey
+"""been""","Herrsching am Ammersee, Germany",yorosey
+"""been""","Williston, ND, USA",yorosey
+"""been""","Georgetown, CO, USA",yorosey
+"""been""","De Pere, WI, USA",yorosey
+"""been""","Golden, CO, USA",yorosey
+"""been""","Aransas Pass, TX, USA",yorosey
+"""been""","Glenwood Springs, CO, USA",yorosey
+"""been""","Twin Falls, ID, USA",yorosey
+"""been""","Saint Louis Park, MN, USA",yorosey
+"""been""","Saint Cloud, MN, USA",yorosey
+"""been""","Le Sueur, MN, USA",yorosey
+"""been""","Detroit Lakes, MN, USA",yorosey
+"""been""","LaPorte, MN, USA",yorosey
+"""been""","Delano, MN, USA",yorosey
+"""been""","Lincoln, NE, USA",yorosey
+"""been""","Burbank, CA, USA",yorosey
+"""been""","SeaTac, WA, USA",yorosey
+"""been""","Buena Park, CA, USA",yorosey
+"""been""","Burlingame, CA, USA",yorosey
+"""been""","Grand Junction, CO, USA",yorosey
+"""been""","Arlington, TX, USA",yorosey
+"""been""","Andechs, Germany",yorosey
+"""been""","Wailuku, HI, USA",yorosey
+"""been""","Faribault, MN, USA",yorosey
+"""been""","Tsawwassen, British Columbia, Canada",yorosey
+"""been"",""fave""","Paia, HI, USA",yorosey
+"""been"",""fave""","Seattle, WA, USA",yorosey
+"""been""","Lahaina, HI, USA",yorosey
+"""been""","Kahului, HI, USA",yorosey
+"""been"",""fave""","Kihei, HI, USA",yorosey
+"""been""","Baie du Cap, Africa",yorosey
+"""been"",""fave""","Kailua-Kona, HI, USA",yorosey
+"""been"",""fave""","Hana, HI, USA",yorosey
+"""been""","Twentynine Palms, CA, USA",yorosey
+"""been""","Fergus Falls, MN, USA",yorosey
+"""been""","Ladner, British Columbia, Canada",yorosey
+"""been""","North Battleford, Saskatchewan, Canada",yorosey
+"""want""","Carmel, CA, USA",yorosey
+"""been""","Sicamous, British Columbia, Canada",yorosey
+"""been""","Carlsbad, CA, USA",yorosey
+"""been""","Estevan, Saskatchewan, Canada",yorosey
+"""been""","Odessa, TX, USA",yorosey
+"""been""","San Juan Capistrano, CA, USA",yorosey
+"""want""","Lanai City, HI, USA",yorosey
+"""been""","Camden, NJ, USA",yorosey
+"""been""","Haiku, HI, USA",yorosey
+"""been""","Peoria, IL, USA",yorosey
+"""been""","Weyburn, Saskatchewan, Canada",yorosey
+"""been""","New Orleans, LA, USA",yorosey
+"""been""","Kenmare, ND, USA",yorosey
+"""been"",""want"",""fave""","Paris, France",yorosey
+"""want""","Rhodes Town, Greece",yorosey
+"""been""","Forest Lake, MN, USA",yorosey
+"""been""","Nanoose Bay, British Columbia, Canada",yorosey
+"""been""","Comox, British Columbia, Canada",yorosey
+"""been""","Jamestown, ND, USA",yorosey
+"""been""","Celebration, FL, USA",yorosey
+"""been""","Curacavi, Chile",yorosey
+"""been""","Fond du Lac, WI, USA",yorosey
+"""been""","Wheeling, WV, USA",yorosey
+"""been""","Cathedral City, CA, USA",yorosey
+"""been""","Madison, WI, USA",yorosey
+"""been""","Mahnomen, MN, USA",yorosey
+"""been""","Kent, WA, USA",yorosey
+"""been""","Coeur d'Alene, ID, USA",yorosey
+"""been""","Des Moines, IA, USA",yorosey
+"""been""","Maple Grove, MN, USA",yorosey
+"""been""","Gwinner, ND, USA",yorosey
+"""been""","Mankato, MN, USA",yorosey
+"""been""","West Kelowna, British Columbia, Canada",yorosey
+"""been""","Leduc, Alberta, Canada",yorosey
+"""been""","Nisku, Alberta, Canada",yorosey
+"""been""","Fort Saskatchewan, Alberta, Canada",yorosey
+"""been""","Grand Forks, ND, USA",yorosey
+"""been""","Point Edward, Ontario, Canada",yorosey
+"""been""","Airdrie, Alberta, Canada",yorosey
+"""been""","Drumheller, Alberta, Canada",yorosey
+"""been""","Kirkland, WA, USA",yorosey
+"""been""","Edson, Alberta, Canada",yorosey
+"""been""","Athabasca, Alberta, Canada",yorosey
+"""been""","Idaho Springs, CO, USA",yorosey
+"""been""","Waikoloa, HI, USA",yorosey
+"""been""","Maple Plain, MN, USA",yorosey
+"""been""","Maplewood, MN, USA",yorosey
+"""been""","Volcano, HI, USA",yorosey
+"""been""","San Bernardino, CA, USA",yorosey
+"""been"",""fave""","Patong, Thailand",yorosey
+"""been""","Kathu, Thailand",yorosey
+"""been""","Kalispell, MT, USA",yorosey
+"""been""","Eveleth, MN, USA",yorosey
+"""been""","West Covina, CA, USA",yorosey
+"""been""","New Braunfels, TX, USA",yorosey
+"""want""","Charleston, SC, USA",yorosey
+"""been""","Tacoma, WA, USA",yorosey
+"""been""","Dulles, VA, USA",yorosey
+"""been""","Kennewick, WA, USA",yorosey
+"""been""","Dubuque, IA, USA",yorosey
+"""been""","West Hollywood, CA, USA",yorosey
+"""been""","Ellsworth, WI, USA",yorosey
+"""been""","San Clemente, CA, USA",yorosey
+"""been""","Wailea, HI, USA",yorosey
+"""been""","Elroy, WI, USA",yorosey

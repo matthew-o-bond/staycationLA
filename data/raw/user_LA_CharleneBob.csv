@@ -1,0 +1,340 @@
+tag,place,user
+"""want""","East Glacier Park, MT, USA",CharleneBob
+"""been""","Toronto, Ontario, Canada",CharleneBob
+"""been""","Paradise Valley, AZ, USA",CharleneBob
+"""been""","Bingen am Rhein, Germany",CharleneBob
+"""want""","Mexico City, Mexico",CharleneBob
+"""been""","Santa Monica, CA, USA",CharleneBob
+"""been""","Shinjuku, Japan",CharleneBob
+"""been""","Shibuya, Japan",CharleneBob
+"""been""","Temecula, CA, USA",CharleneBob
+"""want""","Lisbon, Portugal",CharleneBob
+"""been""","Santa Barbara, CA, USA",CharleneBob
+"""want""","Florence, Italy",CharleneBob
+"""been""","Santa Clara, CA, USA",CharleneBob
+"""been""","Santa Cruz, CA, USA",CharleneBob
+"""been""","Death Valley Junction, CA, USA",CharleneBob
+"""want""","Shanghai, China",CharleneBob
+"""been""","Minato, Japan",CharleneBob
+"""been""","Mystic, CT, USA",CharleneBob
+"""been""","Taos, NM, USA",CharleneBob
+"""been""","Halifax, Nova Scotia, Canada",CharleneBob
+"""been""","Sydney, Nova Scotia, Canada",CharleneBob
+"""want""","Tulum, Mexico",CharleneBob
+"""been""","Beverly Hills, CA, USA",CharleneBob
+"""been""","Merida, Mexico",CharleneBob
+"""been""","San Mateo, CA, USA",CharleneBob
+"""want""","Capri, Italy",CharleneBob
+"""been""","Philadelphia, PA, USA",CharleneBob
+"""been""","Berkeley, CA, USA",CharleneBob
+"""want""","Rotterdam, The Netherlands",CharleneBob
+"""been""","Cancun, Mexico",CharleneBob
+"""been"",""fave""","London, UK",CharleneBob
+"""been""","Charlottetown, Prince Edward Island, Canada",CharleneBob
+"""been""","St. Thomas, U.S. Virgin Islands",CharleneBob
+"""been"",""fave""","Munich, Germany",CharleneBob
+"""been""","Pebble Beach, CA, USA",CharleneBob
+"""been""","Warsaw, Poland",CharleneBob
+"""been""","Chuo, Japan",CharleneBob
+"""been""","Staten Island, NY, USA",CharleneBob
+"""want""","Szczecin, Poland",CharleneBob
+"""been""","El Paso, TX, USA",CharleneBob
+"""want""","Venice, Italy",CharleneBob
+"""want""","Inverness, UK",CharleneBob
+"""been""","Borrego Springs, CA, USA",CharleneBob
+"""been""","Basel, Switzerland",CharleneBob
+"""want""","Helsinki, Finland",CharleneBob
+"""been""","New York City, NY, USA",CharleneBob
+"""been""","Pismo Beach, CA, USA",CharleneBob
+"""been""","Wisconsin Dells, WI, USA",CharleneBob
+"""been"",""fave""","Madrid, Spain",CharleneBob
+"""been""","Las Vegas, NV, USA",CharleneBob
+"""been""","Los Angeles, CA, USA",CharleneBob
+"""been""","Placerville, CA, USA",CharleneBob
+"""been""","Montreal, Quebec, Canada",CharleneBob
+"""been""","St. Michaels, MD, USA",CharleneBob
+"""been""","Quebec City, Quebec, Canada",CharleneBob
+"""been""","Chicago, IL, USA",CharleneBob
+"""been""","Poznan, Poland",CharleneBob
+"""been""","Dingle, Ireland",CharleneBob
+"""want""","Gdansk, Poland",CharleneBob
+"""been""","Pittsburgh, PA, USA",CharleneBob
+"""been""","Niagara Falls, Ontario, Canada",CharleneBob
+"""been""","Phoenix, AZ, USA",CharleneBob
+"""been""","Bodega Bay, CA, USA",CharleneBob
+"""been""","Sausalito, CA, USA",CharleneBob
+"""want""","Geneva, Switzerland",CharleneBob
+"""been"",""fave""","Tokyo, Japan",CharleneBob
+"""been""","Tiburon, CA, USA",CharleneBob
+"""want""","Singapore, Singapore",CharleneBob
+"""been"",""want""","Cape Town Central, South Africa",CharleneBob
+"""been""","Dover, UK",CharleneBob
+"""been""","Atlanta, GA, USA",CharleneBob
+"""want""","Marrakech, Morocco",CharleneBob
+"""been""","Napa, CA, USA",CharleneBob
+"""want""","Casablanca, Morocco",CharleneBob
+"""want""","Istanbul, Turkey",CharleneBob
+"""want""","Fes, Morocco",CharleneBob
+"""want""","Valencia, Spain",CharleneBob
+"""been""","Taito, Japan",CharleneBob
+"""been""","Missoula, MT, USA",CharleneBob
+"""been""","Long Beach, CA, USA",CharleneBob
+"""want""","Lodz, Poland",CharleneBob
+"""want""","Jamaica, Caribbean",CharleneBob
+"""want""","Tangier, Morocco",CharleneBob
+"""want""","Montego Bay, Jamaica",CharleneBob
+"""been""","Ettal, Germany",CharleneBob
+"""want""","San Jose, Costa Rica",CharleneBob
+"""want""","Brisbane, Australia",CharleneBob
+"""been""","Boston, MA, USA",CharleneBob
+"""been""","Houston, TX, USA",CharleneBob
+"""been""","Cave Creek, AZ, USA",CharleneBob
+"""want""","Rio de Janeiro, Brazil",CharleneBob
+"""been""","Penzance, UK",CharleneBob
+"""want""","Sydney, Australia",CharleneBob
+"""been""","Potsdam, Germany",CharleneBob
+"""want""","Bilbao, Spain",CharleneBob
+"""want""","South Lake Tahoe, CA, USA",CharleneBob
+"""want""","Eilat, Israel",CharleneBob
+"""been""","Honolulu, HI, USA",CharleneBob
+"""want""","Corfu Town, Greece",CharleneBob
+"""been""","Asheville, NC, USA",CharleneBob
+"""been""","Frankfurt, Germany",CharleneBob
+"""been""","Jerusalem, Israel",CharleneBob
+"""been""","Tel Aviv, Israel",CharleneBob
+"""been""","New Orleans, LA, USA",CharleneBob
+"""been""","Haifa, Israel",CharleneBob
+"""want""","Montauk, NY, USA",CharleneBob
+"""been""","Prague, Czech Republic",CharleneBob
+"""want""","Mykonos Town, Greece",CharleneBob
+"""been""","Imperia, Italy",CharleneBob
+"""been"",""fave""","San Juan, Puerto Rico",CharleneBob
+"""been""","Seattle, WA, USA",CharleneBob
+"""been"",""fave""","Yellowstone National Park, WY, USA",CharleneBob
+"""been""","Rila, Bulgaria",CharleneBob
+"""been""","Williamsburg, VA, USA",CharleneBob
+"""want""","Saint-Emilion, France",CharleneBob
+"""want""","Bruges, Belgium",CharleneBob
+"""want""","Palma de Mallorca, Spain",CharleneBob
+"""been""","Cannes, France",CharleneBob
+"""want""","Dubrovnik, Croatia",CharleneBob
+"""want""","Split, Croatia",CharleneBob
+"""been""","Casa Grande, AZ, USA",CharleneBob
+"""been""","Saint-Malo, France",CharleneBob
+"""want""","Athens, Greece",CharleneBob
+"""been"",""fave""","San Diego, CA, USA",CharleneBob
+"""been""","Torquay, UK",CharleneBob
+"""been""","Walnut Creek, CA, USA",CharleneBob
+"""been""","South San Francisco, CA, USA",CharleneBob
+"""want""","Siena, Italy",CharleneBob
+"""been""","Coeur d'Alene, ID, USA",CharleneBob
+"""been""","Helena, MT, USA",CharleneBob
+"""been""","Wickenburg, AZ, USA",CharleneBob
+"""been""","Tarrytown, NY, USA",CharleneBob
+"""want""","Moab, UT, USA",CharleneBob
+"""want""","Reykjavik, Iceland",CharleneBob
+"""been"",""fave""","Rome, Italy",CharleneBob
+"""want""","Cordoba, Spain",CharleneBob
+"""been""","Vatican City, Vatican City",CharleneBob
+"""been""","Bristol, UK",CharleneBob
+"""been""","San Jose, CA, USA",CharleneBob
+"""want""","Cadiz, Spain",CharleneBob
+"""been""","San Juan Capistrano, CA, USA",CharleneBob
+"""want""","Brussels, Belgium",CharleneBob
+"""want""","Charleston, SC, USA",CharleneBob
+"""want""","Stockholm, Sweden",CharleneBob
+"""been""","Fort Walton Beach, FL, USA",CharleneBob
+"""want""","Malaga, Spain",CharleneBob
+"""want""","Victoria Falls, Zimbabwe",CharleneBob
+"""been""","Charlotte, NC, USA",CharleneBob
+"""been""","Monterey, CA, USA",CharleneBob
+"""been""","Palo Alto, CA, USA",CharleneBob
+"""been""","Newark, NJ, USA",CharleneBob
+"""been""","Hot Springs, AR, USA",CharleneBob
+"""been""","Plovdiv, Bulgaria",CharleneBob
+"""been""","Cooperstown, NY, USA",CharleneBob
+"""been""","Carlsbad, CA, USA",CharleneBob
+"""want""","Granada, Spain",CharleneBob
+"""been""","Carmel, CA, USA",CharleneBob
+"""been""","Desert Hot Springs, CA, USA",CharleneBob
+"""want""","Seville, Spain",CharleneBob
+"""been""","San Bruno, CA, USA",CharleneBob
+"""been""","Flagstaff, AZ, USA",CharleneBob
+"""been""","Del Mar, CA, USA",CharleneBob
+"""been""","Berlin, Germany",CharleneBob
+"""want""","Kathmandu, Nepal",CharleneBob
+"""been"",""fave""","Key West, FL, USA",CharleneBob
+"""been""","Los Alamos, NM, USA",CharleneBob
+"""been"",""want""","Johannesburg, South Africa",CharleneBob
+"""want""","Isla Verde, Puerto Rico",CharleneBob
+"""want""","Aix-en-Provence, France",CharleneBob
+"""been""","Bacharach, Germany",CharleneBob
+"""been""","Fort Lauderdale, FL, USA",CharleneBob
+"""been""","Palm Springs, CA, USA",CharleneBob
+"""been""","Big Sur, CA, USA",CharleneBob
+"""been""","Bar Harbor, ME, USA",CharleneBob
+"""been""","Crescent City, CA, USA",CharleneBob
+"""been""","Litchfield Park, AZ, USA",CharleneBob
+"""want""","Cologne, Germany",CharleneBob
+"""been""","Brooklyn, NY, USA",CharleneBob
+"""want""","Juneau, AK, USA",CharleneBob
+"""been""","Lake Havasu City, AZ, USA",CharleneBob
+"""been""","Tombstone, AZ, USA",CharleneBob
+"""want""","Marseille, France",CharleneBob
+"""want""","Xi'an, China",CharleneBob
+"""been""","Barcelona, Spain",CharleneBob
+"""want""","Santorini, Greece",CharleneBob
+"""want""","Seoul, South Korea",CharleneBob
+"""been""","Cork, Ireland",CharleneBob
+"""been""","Encinitas, CA, USA",CharleneBob
+"""been""","Ukiah, CA, USA",CharleneBob
+"""been""","Mont-Saint-Michel, France",CharleneBob
+"""been""","Atlantic City, NJ, USA",CharleneBob
+"""been""","Escondido, CA, USA",CharleneBob
+"""want""","Trieste, Italy",CharleneBob
+"""been"",""fave""","Dublin, Ireland",CharleneBob
+"""been""","Cabourg, France",CharleneBob
+"""want""","Rosarito, Mexico",CharleneBob
+"""want""","Old Town, Montserrat",CharleneBob
+"""want""","St. John's, Antigua and Barbuda",CharleneBob
+"""been""","Jersey City, NJ, USA",CharleneBob
+"""been""","Point Reyes Station, CA, USA",CharleneBob
+"""want""","Konstanz, Germany",CharleneBob
+"""want""","Ensenada, Mexico",CharleneBob
+"""want""","Aruba, Caribbean",CharleneBob
+"""want""","Seven Mile Beach, Cayman Islands",CharleneBob
+"""been""","San Francisco, CA, USA",CharleneBob
+"""been""","Tempe, AZ, USA",CharleneBob
+"""want""","Amsterdam, The Netherlands",CharleneBob
+"""been""","Hiroshima, Japan",CharleneBob
+"""been""","San Antonio, TX, USA",CharleneBob
+"""been""","Tijuana, Mexico",CharleneBob
+"""been""","Santa Fe, NM, USA",CharleneBob
+"""want""","Zurich, Switzerland",CharleneBob
+"""been""","Versailles, France",CharleneBob
+"""been"",""fave""","Paris, France",CharleneBob
+"""been""","Kyoto, Japan",CharleneBob
+"""been""","Tucson, AZ, USA",CharleneBob
+"""want""","Genoa, Italy",CharleneBob
+"""been""","Half Moon Bay, CA, USA",CharleneBob
+"""been""","Kilkenny, Ireland",CharleneBob
+"""want""","Tecate, Mexico",CharleneBob
+"""been""","Ciudad Juarez, Mexico",CharleneBob
+"""been""","Bermuda, Caribbean",CharleneBob
+"""want""","Salt Lake City, UT, USA",CharleneBob
+"""been""","Point Pleasant Beach, NJ, USA",CharleneBob
+"""want""","Easter Island, Chile",CharleneBob
+"""been"",""want""","Manila, Philippines",CharleneBob
+"""been""","Acapulco, Mexico",CharleneBob
+"""want""","Las Palmas de Gran Canaria, Spain",CharleneBob
+"""been""","Grants Pass, OR, USA",CharleneBob
+"""want""","Kuala Lumpur, Malaysia",CharleneBob
+"""been""","Coronado, CA, USA",CharleneBob
+"""been""","Bisbee, AZ, USA",CharleneBob
+"""been""","Nice, France",CharleneBob
+"""want""","Cesky Krumlov, Czech Republic",CharleneBob
+"""want""","Mali Ston, Croatia",CharleneBob
+"""been""","Solana Beach, CA, USA",CharleneBob
+"""been""","Oakland, CA, USA",CharleneBob
+"""been""","Miami Beach, FL, USA",CharleneBob
+"""been""","Cleveland, OH, USA",CharleneBob
+"""been""","Miami, FL, USA",CharleneBob
+"""been""","Gallup, NM, USA",CharleneBob
+"""been""","Newark-on-Trent, UK",CharleneBob
+"""been""","Norman, OK, USA",CharleneBob
+"""been""","Mazatlan, Mexico",CharleneBob
+"""been""","Doolin, Ireland",CharleneBob
+"""been""","Puerto Vallarta, Mexico",CharleneBob
+"""want""","Jasper National Park, Alberta, Canada",CharleneBob
+"""been""","Princeton, NJ, USA",CharleneBob
+"""been""","Freiburg (Elbe), Germany",CharleneBob
+"""been""","Baltimore, MD, USA",CharleneBob
+"""been""","Hoboken, NJ, USA",CharleneBob
+"""want""","Savannah, GA, USA",CharleneBob
+"""want""","Copenhagen, Denmark",CharleneBob
+"""want""","Lake Louise, Alberta, Canada",CharleneBob
+"""been""","St-Paul-de-Vence, France",CharleneBob
+"""want""","Santander, Spain",CharleneBob
+"""want""","Toledo, Spain",CharleneBob
+"""been""","Panama City Beach, FL, USA",CharleneBob
+"""want""","Zakopane, Poland",CharleneBob
+"""been""","Alamogordo, NM, USA",CharleneBob
+"""been""","Niagara Falls, NY, USA",CharleneBob
+"""want""","Ston, Croatia",CharleneBob
+"""want""","Vela Luka, Croatia",CharleneBob
+"""been""","Mill Valley, CA, USA",CharleneBob
+"""been"",""fave""","Grand Turk, Turks and Caicos",CharleneBob
+"""been""","Fountain Hills, AZ, USA",CharleneBob
+"""been""","Abilene, TX, USA",CharleneBob
+"""want""","Melbourne, Australia",CharleneBob
+"""want""","Buenos Aires, Argentina",CharleneBob
+"""been""","Boppard, Germany",CharleneBob
+"""want""","Havana, Cuba",CharleneBob
+"""want""","Puerto Rico, Spain",CharleneBob
+"""want""","Burgas, Bulgaria",CharleneBob
+"""want""","New Delhi, India",CharleneBob
+"""want""","Mumbai, India",CharleneBob
+"""want""","Cusco, Peru",CharleneBob
+"""want""","Chennai (Madras), India",CharleneBob
+"""want""","San Pedro, Belize",CharleneBob
+"""been""","Erie, PA, USA",CharleneBob
+"""been""","Caen, France",CharleneBob
+"""want""","Moscow, Russia",CharleneBob
+"""want""","Siem Reap, Cambodia",CharleneBob
+"""been""","Cabo San Lucas, Mexico",CharleneBob
+"""want""","Olympia, Greece",CharleneBob
+"""been""","Virginia Beach, VA, USA",CharleneBob
+"""want""","Oslo, Norway",CharleneBob
+"""want""","Tahiti, French Polynesia",CharleneBob
+"""want""","Glasgow, UK",CharleneBob
+"""want""","Monument Valley, UT, USA",CharleneBob
+"""been""","Krakow, Poland",CharleneBob
+"""want""","Cairo, Egypt",CharleneBob
+"""been""","Joshua Tree, CA, USA",CharleneBob
+"""been""","Julian, CA, USA",CharleneBob
+"""want""","Nairobi, Kenya",CharleneBob
+"""been""","Washington DC, DC, USA",CharleneBob
+"""want""","Luxor, Egypt",CharleneBob
+"""want""","Taipei, Taiwan",CharleneBob
+"""want""","Christchurch, New Zealand",CharleneBob
+"""want""","Hvar, Croatia",CharleneBob
+"""want""","Homer, AK, USA",CharleneBob
+"""been""","Bozeman, MT, USA",CharleneBob
+"""want""","Bangkok, Thailand",CharleneBob
+"""want""","Vancouver, British Columbia, Canada",CharleneBob
+"""want""","Chiang Mai, Thailand",CharleneBob
+"""want""","Arches National Park, UT, USA",CharleneBob
+"""been""","Mainz, Germany",CharleneBob
+"""want""","Victoria, British Columbia, Canada",CharleneBob
+"""want""","Dresden, Germany",CharleneBob
+"""want""","Budapest, Hungary",CharleneBob
+"""been""","Sofia, Bulgaria",CharleneBob
+"""been""","Cody, WY, USA",CharleneBob
+"""want""","Valletta, Malta",CharleneBob
+"""want""","Sarajevo, Bosnia and Herzegovina",CharleneBob
+"""want""","Bryce Canyon National Park, UT, USA",CharleneBob
+"""been""","Detroit, MI, USA",CharleneBob
+"""want""","Zagreb, Croatia",CharleneBob
+"""want""","Antalya, Turkey",CharleneBob
+"""want""","Beijing, China",CharleneBob
+"""been""","La Jolla, CA, USA",CharleneBob
+"""want""","Hong Kong, China",CharleneBob
+"""want""","Phuket, Thailand",CharleneBob
+"""want""","Ho Chi Minh City, Vietnam",CharleneBob
+"""want""","Hue, Vietnam",CharleneBob
+"""want""","Umhlanga Rocks, South Africa",CharleneBob
+"""been""","Tucumcari, NM, USA",CharleneBob
+"""want""","Hanoi, Vietnam",CharleneBob
+"""been""","Deadwood, SD, USA",CharleneBob
+"""been"",""fave""","Freiburg im Breisgau, Germany",CharleneBob
+"""want""","Denali National Park and Preserve, AK, USA",CharleneBob
+"""been""","Sedona, AZ, USA",CharleneBob
+"""been""","Scottsdale, AZ, USA",CharleneBob
+"""want""","Vienna, Austria",CharleneBob
+"""want""","Auckland, New Zealand",CharleneBob
+"""want""","Jakarta, Indonesia",CharleneBob
+"""been""","Grass Valley, CA, USA",CharleneBob
+"""want""","Milan, Italy",CharleneBob
+"""been""","Reno, NV, USA",CharleneBob
+"""been""","Acre, Israel",CharleneBob
+"""want""","Xianghe County, China",CharleneBob

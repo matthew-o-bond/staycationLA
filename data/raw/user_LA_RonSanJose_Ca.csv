@@ -1,0 +1,783 @@
+tag,place,user
+"""been""","Lansing, MI, USA",RonSanJose_Ca
+"""been""","Lincoln, NE, USA",RonSanJose_Ca
+"""been""","Savannah, GA, USA",RonSanJose_Ca
+"""been""","East Lansing, MI, USA",RonSanJose_Ca
+"""been""","Baltimore, MD, USA",RonSanJose_Ca
+"""been""","North Myrtle Beach, SC, USA",RonSanJose_Ca
+"""been""","Boulder Creek, CA, USA",RonSanJose_Ca
+"""been""","La Quinta, CA, USA",RonSanJose_Ca
+"""been""","Amarillo, TX, USA",RonSanJose_Ca
+"""been""","El Segundo, CA, USA",RonSanJose_Ca
+"""been""","El Portal, CA, USA",RonSanJose_Ca
+"""been""","Beaufort, SC, USA",RonSanJose_Ca
+"""been""","Laguna Beach, CA, USA",RonSanJose_Ca
+"""been""","Vail, CO, USA",RonSanJose_Ca
+"""been""","Nashville, TN, USA",RonSanJose_Ca
+"""been""","Stanley, ID, USA",RonSanJose_Ca
+"""been""","Fairbanks, AK, USA",RonSanJose_Ca
+"""been""","Brooklyn, NY, USA",RonSanJose_Ca
+"""been""","Vancouver, WA, USA",RonSanJose_Ca
+"""been""","Duluth, MN, USA",RonSanJose_Ca
+"""been""","La Jolla, CA, USA",RonSanJose_Ca
+"""been""","Telluride, CO, USA",RonSanJose_Ca
+"""been""","Orlando, FL, USA",RonSanJose_Ca
+"""been""","Fort Collins, CO, USA",RonSanJose_Ca
+"""been""","Jersey City, NJ, USA",RonSanJose_Ca
+"""been""","West Glacier, MT, USA",RonSanJose_Ca
+"""been""","Syracuse, NY, USA",RonSanJose_Ca
+"""want""","Ubud, Indonesia",RonSanJose_Ca
+"""been""","Klamath River, CA, USA",RonSanJose_Ca
+"""been""","Klamath, CA, USA",RonSanJose_Ca
+"""been""","Spokane, WA, USA",RonSanJose_Ca
+"""been""","Steamboat Springs, CO, USA",RonSanJose_Ca
+"""been"",""fave""","Denarau Island, Fiji",RonSanJose_Ca
+"""been""","Dunsmuir, CA, USA",RonSanJose_Ca
+"""been""","Waikoloa, HI, USA",RonSanJose_Ca
+"""been""","South Lake Tahoe, CA, USA",RonSanJose_Ca
+"""been""","Helena, MT, USA",RonSanJose_Ca
+"""been""","Grand Forks, ND, USA",RonSanJose_Ca
+"""been""","Volcano, HI, USA",RonSanJose_Ca
+"""been""","Gatlinburg, TN, USA",RonSanJose_Ca
+"""been""","Greensboro, NC, USA",RonSanJose_Ca
+"""been""","Stevenson, WA, USA",RonSanJose_Ca
+"""been""","Birmingham, AL, USA",RonSanJose_Ca
+"""been""","Diego Martin, Trinidad and Tobago",RonSanJose_Ca
+"""been""","West Palm Beach, FL, USA",RonSanJose_Ca
+"""been""","Biloxi, MS, USA",RonSanJose_Ca
+"""been""","Kansas City, MO, USA",RonSanJose_Ca
+"""want""","Athens, Greece",RonSanJose_Ca
+"""been""","Nogales, AZ, USA",RonSanJose_Ca
+"""been""","Calistoga, CA, USA",RonSanJose_Ca
+"""been""","Fish Camp, CA, USA",RonSanJose_Ca
+"""been""","Cambria, CA, USA",RonSanJose_Ca
+"""been""","Coeur d'Alene, ID, USA",RonSanJose_Ca
+"""been""","Folsom, CA, USA",RonSanJose_Ca
+"""been""","Walnut Creek, CA, USA",RonSanJose_Ca
+"""been""","Des Moines, IA, USA",RonSanJose_Ca
+"""been""","Richland, WA, USA",RonSanJose_Ca
+"""been""","Mount Pocono, PA, USA",RonSanJose_Ca
+"""been""","Caldwell, ID, USA",RonSanJose_Ca
+"""been""","Mesa, AZ, USA",RonSanJose_Ca
+"""been""","Austin, TX, USA",RonSanJose_Ca
+"""been""","Pensacola, FL, USA",RonSanJose_Ca
+"""been""","Caliente, CA, USA",RonSanJose_Ca
+"""been""","Ferndale, CA, USA",RonSanJose_Ca
+"""been""","Calabasas, CA, USA",RonSanJose_Ca
+"""been""","Felton, CA, USA",RonSanJose_Ca
+"""want""","Sydney, Australia",RonSanJose_Ca
+"""been""","Rochester, MN, USA",RonSanJose_Ca
+"""want""","Cairns, Australia",RonSanJose_Ca
+"""been""","Whitefish, MT, USA",RonSanJose_Ca
+"""been""","Detroit, MI, USA",RonSanJose_Ca
+"""been""","Grand Junction, CO, USA",RonSanJose_Ca
+"""been""","Arlington, TX, USA",RonSanJose_Ca
+"""been""","Panama City Beach, FL, USA",RonSanJose_Ca
+"""been""","Vallejo, CA, USA",RonSanJose_Ca
+"""been""","Buena Park, CA, USA",RonSanJose_Ca
+"""been""","Eureka, CA, USA",RonSanJose_Ca
+"""been""","Buellton, CA, USA",RonSanJose_Ca
+"""been""","Fairfield, CA, USA",RonSanJose_Ca
+"""been""","Burlingame, CA, USA",RonSanJose_Ca
+"""been""","Myrtle Beach, SC, USA",RonSanJose_Ca
+"""been""","Weiser, ID, USA",RonSanJose_Ca
+"""been""","Ocean City, MD, USA",RonSanJose_Ca
+"""been""","Jacksonville, FL, USA",RonSanJose_Ca
+"""been""","Palm Beach, FL, USA",RonSanJose_Ca
+"""been""","Sheffield, UK",RonSanJose_Ca
+"""been""","Twain Harte, CA, USA",RonSanJose_Ca
+"""been""","Juneau, AK, USA",RonSanJose_Ca
+"""been""","Bridgeport, CA, USA",RonSanJose_Ca
+"""been""","Escondido, CA, USA",RonSanJose_Ca
+"""been""","Glenwood Springs, CO, USA",RonSanJose_Ca
+"""been""","Ukiah, CA, USA",RonSanJose_Ca
+"""been""","Lake Isabella, CA, USA",RonSanJose_Ca
+"""been""","Wallace, ID, USA",RonSanJose_Ca
+"""been""","Cam Ranh, Vietnam",RonSanJose_Ca
+"""been""","Vacaville, CA, USA",RonSanJose_Ca
+"""been""","Palm Coast, FL, USA",RonSanJose_Ca
+"""been""","Twin Falls, ID, USA",RonSanJose_Ca
+"""been""","Lakeview, OR, USA",RonSanJose_Ca
+"""been""","Jepara, Indonesia",RonSanJose_Ca
+"""been""","Laie, HI, USA",RonSanJose_Ca
+"""been""","Atlanta, GA, USA",RonSanJose_Ca
+"""want""","Cruz Bay, U.S. Virgin Islands",RonSanJose_Ca
+"""been""","Kahuku, HI, USA",RonSanJose_Ca
+"""been""","Richmond, VA, USA",RonSanJose_Ca
+"""been""","Kailua, HI, USA",RonSanJose_Ca
+"""been""","San Mateo, CA, USA",RonSanJose_Ca
+"""been""","Castella, CA, USA",RonSanJose_Ca
+"""been""","San Martin, CA, USA",RonSanJose_Ca
+"""been""","Kapolei, HI, USA",RonSanJose_Ca
+"""been""","Nassau, Bahamas",RonSanJose_Ca
+"""been""","San Simeon, CA, USA",RonSanJose_Ca
+"""been""","Lincoln City, OR, USA",RonSanJose_Ca
+"""been""","San Rafael, CA, USA",RonSanJose_Ca
+"""been""","Missoula, MT, USA",RonSanJose_Ca
+"""been""","Playa del Carmen, Mexico",RonSanJose_Ca
+"""want""","Christiansted, U.S. Virgin Islands",RonSanJose_Ca
+"""been""","Puerto Princesa, Philippines",RonSanJose_Ca
+"""been""","Bellingham, WA, USA",RonSanJose_Ca
+"""been""","Wake Island, South Pacific",RonSanJose_Ca
+"""want""","Karon, Thailand",RonSanJose_Ca
+"""been"",""fave""","Puerto Galera, Philippines",RonSanJose_Ca
+"""been""","Bainbridge Island, WA, USA",RonSanJose_Ca
+"""been""","San Jose, CA, USA",RonSanJose_Ca
+"""been""","Carmel Valley, CA, USA",RonSanJose_Ca
+"""been""","Carmel, CA, USA",RonSanJose_Ca
+"""been""","Carlsbad, CA, USA",RonSanJose_Ca
+"""want""","Charlotte Amalie, U.S. Virgin Islands",RonSanJose_Ca
+"""been""","Bellevue, WA, USA",RonSanJose_Ca
+"""been""","San Luis Obispo, CA, USA",RonSanJose_Ca
+"""been""","Pekin, IL, USA",RonSanJose_Ca
+"""been""","Madras, OR, USA",RonSanJose_Ca
+"""been""","Peoria, IL, USA",RonSanJose_Ca
+"""been""","Maupin, OR, USA",RonSanJose_Ca
+"""been""","Taos, NM, USA",RonSanJose_Ca
+"""been""","Ocean Isle Beach, NC, USA",RonSanJose_Ca
+"""been""","Ocracoke, NC, USA",RonSanJose_Ca
+"""want""","Singapore, Singapore",RonSanJose_Ca
+"""been""","West Hollywood, CA, USA",RonSanJose_Ca
+"""been""","Port Saint Lucie, FL, USA",RonSanJose_Ca
+"""been""","San Clemente, CA, USA",RonSanJose_Ca
+"""been""","Midland, OR, USA",RonSanJose_Ca
+"""been""","Capitola, CA, USA",RonSanJose_Ca
+"""been""","Merrill, OR, USA",RonSanJose_Ca
+"""been""","Medford, OR, USA",RonSanJose_Ca
+"""been""","Saratoga Springs, NY, USA",RonSanJose_Ca
+"""want""","Adelaide, Australia",RonSanJose_Ca
+"""been""","Milton Freewater, OR, USA",RonSanJose_Ca
+"""been""","Freeport, Bahamas",RonSanJose_Ca
+"""been""","Watsonville, CA, USA",RonSanJose_Ca
+"""been""","Cody, WY, USA",RonSanJose_Ca
+"""been""","Weed, CA, USA",RonSanJose_Ca
+"""been""","Salinas, CA, USA",RonSanJose_Ca
+"""been""","Campbell, CA, USA",RonSanJose_Ca
+"""been""","Wawona, CA, USA",RonSanJose_Ca
+"""been""","Pompano Beach, FL, USA",RonSanJose_Ca
+"""been""","St. Helena, CA, USA",RonSanJose_Ca
+"""been""","San Andreas, CA, USA",RonSanJose_Ca
+"""been""","San Bernardino, CA, USA",RonSanJose_Ca
+"""been""","Boone, NC, USA",RonSanJose_Ca
+"""been""","Kapaa, HI, USA",RonSanJose_Ca
+"""been""","Madison, WI, USA",RonSanJose_Ca
+"""been""","Daytona Beach, FL, USA",RonSanJose_Ca
+"""been""","Hanalei, HI, USA",RonSanJose_Ca
+"""been""","Hot Springs, AR, USA",RonSanJose_Ca
+"""been""","New Braunfels, TX, USA",RonSanJose_Ca
+"""been""","Kellogg, ID, USA",RonSanJose_Ca
+"""been""","Davenport, FL, USA",RonSanJose_Ca
+"""been""","Tacoma, WA, USA",RonSanJose_Ca
+"""been""","Hood River, OR, USA",RonSanJose_Ca
+"""been""","Hillsboro, OR, USA",RonSanJose_Ca
+"""been""","Shasta Lake, CA, USA",RonSanJose_Ca
+"""been""","Hermiston, OR, USA",RonSanJose_Ca
+"""been""","Kennewick, WA, USA",RonSanJose_Ca
+"""been""","Pleiku, Vietnam",RonSanJose_Ca
+"""been""","Bryson City, NC, USA",RonSanJose_Ca
+"""been""","Kalispell, MT, USA",RonSanJose_Ca
+"""been""","Princeville, HI, USA",RonSanJose_Ca
+"""want""","Hong Kong, China",RonSanJose_Ca
+"""been""","Rochester, NY, USA",RonSanJose_Ca
+"""been""","New Orleans, LA, USA",RonSanJose_Ca
+"""been""","Lihue, HI, USA",RonSanJose_Ca
+"""want""","Beijing, China",RonSanJose_Ca
+"""been""","Poipu, HI, USA",RonSanJose_Ca
+"""been""","Helen, GA, USA",RonSanJose_Ca
+"""been""","Columbia, SC, USA",RonSanJose_Ca
+"""been""","Sausalito, CA, USA",RonSanJose_Ca
+"""been""","Idaho Falls, ID, USA",RonSanJose_Ca
+"""been""","Irrigon, OR, USA",RonSanJose_Ca
+"""been""","La Push, WA, USA",RonSanJose_Ca
+"""been""","Imbler, OR, USA",RonSanJose_Ca
+"""been""","Louisville, KY, USA",RonSanJose_Ca
+"""been""","Lakeside, MT, USA",RonSanJose_Ca
+"""been""","Toronto, Ontario, Canada",RonSanJose_Ca
+"""been""","Jakarta, Indonesia",RonSanJose_Ca
+"""want""","Cayo Largo, Cuba",RonSanJose_Ca
+"""been""","Lahaina, HI, USA",RonSanJose_Ca
+"""been""","Seattle, WA, USA",RonSanJose_Ca
+"""been""","Cancun, Mexico",RonSanJose_Ca
+"""been""","Harrison, ID, USA",RonSanJose_Ca
+"""been""","Kailua-Kona, HI, USA",RonSanJose_Ca
+"""been""","Hana, HI, USA",RonSanJose_Ca
+"""been""","Cocoa Beach, FL, USA",RonSanJose_Ca
+"""been""","Santa Monica, CA, USA",RonSanJose_Ca
+"""want""","Heidelberg, Germany",RonSanJose_Ca
+"""been""","Kihei, HI, USA",RonSanJose_Ca
+"""been""","Santa Maria, CA, USA",RonSanJose_Ca
+"""want""","Rose Hall, Jamaica",RonSanJose_Ca
+"""been""","Williamsburg, VA, USA",RonSanJose_Ca
+"""been""","Clearwater, FL, USA",RonSanJose_Ca
+"""been""","Fond du Lac, WI, USA",RonSanJose_Ca
+"""been""","Santa Rosa, CA, USA",RonSanJose_Ca
+"""been""","Saratoga, CA, USA",RonSanJose_Ca
+"""been"",""want""","Joseph, OR, USA",RonSanJose_Ca
+"""been""","John Day, OR, USA",RonSanJose_Ca
+"""been""","Branson, MO, USA",RonSanJose_Ca
+"""been""","Keno, OR, USA",RonSanJose_Ca
+"""been""","Kent, OR, USA",RonSanJose_Ca
+"""been""","Cape May, NJ, USA",RonSanJose_Ca
+"""been""","Collingwood, Ontario, Canada",RonSanJose_Ca
+"""been""","Springfield, IL, USA",RonSanJose_Ca
+"""been""","Leavenworth, WA, USA",RonSanJose_Ca
+"""been""","Winnebago, WI, USA",RonSanJose_Ca
+"""been""","San Ysidro, CA, USA",RonSanJose_Ca
+"""been""","Glacier National Park, MT, USA",RonSanJose_Ca
+"""been""","Omaha, NE, USA",RonSanJose_Ca
+"""been""","Williamson, WV, USA",RonSanJose_Ca
+"""been""","Santa Clara, CA, USA",RonSanJose_Ca
+"""been""","Anchorage, AK, USA",RonSanJose_Ca
+"""been""","Santa Barbara, CA, USA",RonSanJose_Ca
+"""been""","La Grande, OR, USA",RonSanJose_Ca
+"""been""","Santa Cruz, CA, USA",RonSanJose_Ca
+"""been""","Klamath Falls, OR, USA",RonSanJose_Ca
+"""been""","Ottawa, Ontario, Canada",RonSanJose_Ca
+"""been""","Camp Sherman, OR, USA",RonSanJose_Ca
+"""been""","Raleigh, NC, USA",RonSanJose_Ca
+"""been""","Burns, OR, USA",RonSanJose_Ca
+"""been""","Acapulco, Mexico",RonSanJose_Ca
+"""been""","Brothers, OR, USA",RonSanJose_Ca
+"""been""","Brookings, OR, USA",RonSanJose_Ca
+"""been""","Makati, Philippines",RonSanJose_Ca
+"""want""","Kagoshima, Japan",RonSanJose_Ca
+"""been""","Jackson, WY, USA",RonSanJose_Ca
+"""been""","Ensenada, Mexico",RonSanJose_Ca
+"""been"",""want"",""fave""","La Paz, Mexico",RonSanJose_Ca
+"""been""","Columbus, OH, USA",RonSanJose_Ca
+"""been""","Rosarito, Mexico",RonSanJose_Ca
+"""been""","Cascade Locks, OR, USA",RonSanJose_Ca
+"""been"",""fave""","Tijuana, Mexico",RonSanJose_Ca
+"""been""","Cannon Beach, OR, USA",RonSanJose_Ca
+"""been""","Little Cayman, Cayman Islands",RonSanJose_Ca
+"""been"",""want"",""fave""","Seven Mile Beach, Cayman Islands",RonSanJose_Ca
+"""been""","Shreveport, LA, USA",RonSanJose_Ca
+"""been""","George Town, Cayman Islands",RonSanJose_Ca
+"""been"",""want""","Grand Cayman, Cayman Islands",RonSanJose_Ca
+"""been""","Park City, UT, USA",RonSanJose_Ca
+"""been""","Fukuoka, Japan",RonSanJose_Ca
+"""been""","Lake Geneva, WI, USA",RonSanJose_Ca
+"""want""","Lucea, Jamaica",RonSanJose_Ca
+"""want""","Cayo Guillermo, Cuba",RonSanJose_Ca
+"""been""","Carolina Beach, NC, USA",RonSanJose_Ca
+"""been""","Oklahoma City, OK, USA",RonSanJose_Ca
+"""been"",""want"",""fave""","Grand Turk, Turks and Caicos",RonSanJose_Ca
+"""been""","Slidell, LA, USA",RonSanJose_Ca
+"""been""","Smith River, CA, USA",RonSanJose_Ca
+"""been""","Castlemartyr, Ireland",RonSanJose_Ca
+"""been""","Mazatlan, Mexico",RonSanJose_Ca
+"""been"",""want""","Puerto Vallarta, Mexico",RonSanJose_Ca
+"""been""","State College, PA, USA",RonSanJose_Ca
+"""want""","Calgary, Alberta, Canada",RonSanJose_Ca
+"""want""","Guadalajara, Mexico",RonSanJose_Ca
+"""been""","Washington DC, DC, USA",RonSanJose_Ca
+"""been""","Edmonton, Alberta, Canada",RonSanJose_Ca
+"""been""","Ishigaki, Japan",RonSanJose_Ca
+"""been""","Grapevine, TX, USA",RonSanJose_Ca
+"""been""","Charlotte, NC, USA",RonSanJose_Ca
+"""been""","Indianapolis, IN, USA",RonSanJose_Ca
+"""been""","Racine, WI, USA",RonSanJose_Ca
+"""been""","Roanoke, VA, USA",RonSanJose_Ca
+"""been""","Ontario, CA, USA",RonSanJose_Ca
+"""been""","Ojai, CA, USA",RonSanJose_Ca
+"""been""","Oceanside, CA, USA",RonSanJose_Ca
+"""been""","Newport, OR, USA",RonSanJose_Ca
+"""been""","Wilmington, NC, USA",RonSanJose_Ca
+"""want""","San Juan, Puerto Rico",RonSanJose_Ca
+"""been""","Carson, WA, USA",RonSanJose_Ca
+"""been""","Winston Salem, NC, USA",RonSanJose_Ca
+"""been""","Erie, PA, USA",RonSanJose_Ca
+"""been""","Bandon, OR, USA",RonSanJose_Ca
+"""been""","Bigfork, MT, USA",RonSanJose_Ca
+"""been""","Oakland, CA, USA",RonSanJose_Ca
+"""been""","Baker City, OR, USA",RonSanJose_Ca
+"""been""","Big Sky, MT, USA",RonSanJose_Ca
+"""been""","Beaverton, OR, USA",RonSanJose_Ca
+"""been""","Bend, OR, USA",RonSanJose_Ca
+"""been""","Billings, MT, USA",RonSanJose_Ca
+"""been""","Beatty, OR, USA",RonSanJose_Ca
+"""been""","Oakhurst, CA, USA",RonSanJose_Ca
+"""been""","Wrightsville Beach, NC, USA",RonSanJose_Ca
+"""been""","Atlantic Beach, NC, USA",RonSanJose_Ca
+"""been""","Chelan, WA, USA",RonSanJose_Ca
+"""been""","Huntsville, AL, USA",RonSanJose_Ca
+"""been""","Bozeman, MT, USA",RonSanJose_Ca
+"""been""","Black Butte Ranch, OR, USA",RonSanJose_Ca
+"""been""","Sioux Falls, SD, USA",RonSanJose_Ca
+"""been""","Boardman, OR, USA",RonSanJose_Ca
+"""been""","Bonanza, OR, USA",RonSanJose_Ca
+"""been""","Bly, OR, USA",RonSanJose_Ca
+"""want""","Philipsburg, St Martin \u002F St Maarten",RonSanJose_Ca
+"""want""","Freeport, ME, USA",RonSanJose_Ca
+"""want""","Castries, St. Lucia",RonSanJose_Ca
+"""been""","Kenosha, WI, USA",RonSanJose_Ca
+"""been""","Kewaskum, WI, USA",RonSanJose_Ca
+"""want""","Bogota, Colombia",RonSanJose_Ca
+"""been""","Rochester, WI, USA",RonSanJose_Ca
+"""been""","Gallup, NM, USA",RonSanJose_Ca
+"""been""","Cleveland, OH, USA",RonSanJose_Ca
+"""been""","Augusta, GA, USA",RonSanJose_Ca
+"""been""","Golconda, NV, USA",RonSanJose_Ca
+"""been""","Milwaukee, WI, USA",RonSanJose_Ca
+"""been""","Subic, Philippines",RonSanJose_Ca
+"""been""","Paso Robles, CA, USA",RonSanJose_Ca
+"""been""","Oretech, OR, USA",RonSanJose_Ca
+"""been""","Pasadena, CA, USA",RonSanJose_Ca
+"""been""","Ontario, OR, USA",RonSanJose_Ca
+"""been""","Lafayette, LA, USA",RonSanJose_Ca
+"""want""","Halifax, Nova Scotia, Canada",RonSanJose_Ca
+"""been""","Oakland, OR, USA",RonSanJose_Ca
+"""been""","Henderson, NV, USA",RonSanJose_Ca
+"""been""","Baton Rouge, LA, USA",RonSanJose_Ca
+"""been""","Incline Village, NV, USA",RonSanJose_Ca
+"""been""","Winter Park, CO, USA",RonSanJose_Ca
+"""been""","Palo Alto, CA, USA",RonSanJose_Ca
+"""been""","Pendleton, OR, USA",RonSanJose_Ca
+"""been""","Palm Springs, CA, USA",RonSanJose_Ca
+"""been""","Parkdale, OR, USA",RonSanJose_Ca
+"""been""","Laughlin, NV, USA",RonSanJose_Ca
+"""been"",""want"",""fave""","Las Vegas, NV, USA",RonSanJose_Ca
+"""been""","Lovelock, NV, USA",RonSanJose_Ca
+"""been""","Pacific Grove, CA, USA",RonSanJose_Ca
+"""been""","Palm Desert, CA, USA",RonSanJose_Ca
+"""been""","Shelter Cove, CA, USA",RonSanJose_Ca
+"""been""","Fairfax, VA, USA",RonSanJose_Ca
+"""been""","Powell Butte, OR, USA",RonSanJose_Ca
+"""been""","Portland, OR, USA",RonSanJose_Ca
+"""been"",""fave""","Niagara Falls, Ontario, Canada",RonSanJose_Ca
+"""been""","Saint Louis, MO, USA",RonSanJose_Ca
+"""been""","Niagara-on-the-Lake, Ontario, Canada",RonSanJose_Ca
+"""been""","Bossier City, LA, USA",RonSanJose_Ca
+"""been""","Palermo, Italy",RonSanJose_Ca
+"""been""","Earth, TX, USA",RonSanJose_Ca
+"""been""","Victoria, British Columbia, Canada",RonSanJose_Ca
+"""been""","Cherokee, NC, USA",RonSanJose_Ca
+"""been""","St. Petersburg, FL, USA",RonSanJose_Ca
+"""been""","Vancouver, British Columbia, Canada",RonSanJose_Ca
+"""been""","Garden Grove, CA, USA",RonSanJose_Ca
+"""been""","Arlington, VA, USA",RonSanJose_Ca
+"""been""","Gilroy, CA, USA",RonSanJose_Ca
+"""been""","Garberville, CA, USA",RonSanJose_Ca
+"""been""","Tecate, Mexico",RonSanJose_Ca
+"""been"",""want""","Cabo San Lucas, Mexico",RonSanJose_Ca
+"""been""","Bloomington, MN, USA",RonSanJose_Ca
+"""been"",""want"",""fave""","San Jose del Cabo, Mexico",RonSanJose_Ca
+"""want""","Moscow, Russia",RonSanJose_Ca
+"""want""","Armacao dos Buzios, Brazil",RonSanJose_Ca
+"""been""","Los Angeles, CA, USA",RonSanJose_Ca
+"""been""","Prescott, AZ, USA",RonSanJose_Ca
+"""want""","Kata Beach, Thailand",RonSanJose_Ca
+"""been""","Los Altos Hills, CA, USA",RonSanJose_Ca
+"""been""","Keystone, CO, USA",RonSanJose_Ca
+"""been""","Los Altos, CA, USA",RonSanJose_Ca
+"""been""","Fremont, CA, USA",RonSanJose_Ca
+"""been""","Pismo Beach, CA, USA",RonSanJose_Ca
+"""been""","Dallas, TX, USA",RonSanJose_Ca
+"""been""","Los Gatos, CA, USA",RonSanJose_Ca
+"""been""","Los Banos, CA, USA",RonSanJose_Ca
+"""been""","Fresno, CA, USA",RonSanJose_Ca
+"""been""","Saint Paul, MN, USA",RonSanJose_Ca
+"""been""","Carlin, NV, USA",RonSanJose_Ca
+"""been""","Fort Bragg, CA, USA",RonSanJose_Ca
+"""been""","Phoenix, AZ, USA",RonSanJose_Ca
+"""been""","Long Beach, CA, USA",RonSanJose_Ca
+"""been""","Fortuna, CA, USA",RonSanJose_Ca
+"""been""","Alexandria, VA, USA",RonSanJose_Ca
+"""been""","Corolla, NC, USA",RonSanJose_Ca
+"""been""","Royal Oak, MI, USA",RonSanJose_Ca
+"""been""","Mackinaw City, MI, USA",RonSanJose_Ca
+"""been""","Elko, NV, USA",RonSanJose_Ca
+"""been""","Ely, NV, USA",RonSanJose_Ca
+"""been""","Petaluma, CA, USA",RonSanJose_Ca
+"""been""","Mequon, WI, USA",RonSanJose_Ca
+"""been""","Livermore, CA, USA",RonSanJose_Ca
+"""been""","Jamaica, NY, USA",RonSanJose_Ca
+"""been""","Stanfield, OR, USA",RonSanJose_Ca
+"""been""","Springfield, OR, USA",RonSanJose_Ca
+"""been""","Sprague River, OR, USA",RonSanJose_Ca
+"""been""","Calumet, MI, USA",RonSanJose_Ca
+"""been""","Sisters, OR, USA",RonSanJose_Ca
+"""been""","Albuquerque, NM, USA",RonSanJose_Ca
+"""been""","Groveland, CA, USA",RonSanJose_Ca
+"""been""","Beaver Creek, CO, USA",RonSanJose_Ca
+"""been""","Minot, ND, USA",RonSanJose_Ca
+"""been""","Clovis, CA, USA",RonSanJose_Ca
+"""been""","Hartford, WI, USA",RonSanJose_Ca
+"""been""","Greenville, SC, USA",RonSanJose_Ca
+"""been""","Tempe, AZ, USA",RonSanJose_Ca
+"""been""","Kapalua, HI, USA",RonSanJose_Ca
+"""been""","Puerto Escondido, Mexico",RonSanJose_Ca
+"""been""","Half Moon Bay, CA, USA",RonSanJose_Ca
+"""been""","Talent, OR, USA",RonSanJose_Ca
+"""been""","Sutherlin, OR, USA",RonSanJose_Ca
+"""been""","Sunriver, OR, USA",RonSanJose_Ca
+"""been""","Summerville, OR, USA",RonSanJose_Ca
+"""been""","Crescent City, CA, USA",RonSanJose_Ca
+"""been""","Yountville, CA, USA",RonSanJose_Ca
+"""been""","Chula Vista, CA, USA",RonSanJose_Ca
+"""been""","Moses Lake, WA, USA",RonSanJose_Ca
+"""been""","McCloud, CA, USA",RonSanJose_Ca
+"""been""","Lubbock, TX, USA",RonSanJose_Ca
+"""been""","Utica, IL, USA",RonSanJose_Ca
+"""been""","San Antonio, TX, USA",RonSanJose_Ca
+"""been""","Friday Harbor, WA, USA",RonSanJose_Ca
+"""been""","Tillamook, OR, USA",RonSanJose_Ca
+"""been""","Santa Fe, NM, USA",RonSanJose_Ca
+"""been""","Tigard, OR, USA",RonSanJose_Ca
+"""been""","The Dalles, OR, USA",RonSanJose_Ca
+"""been"",""want"",""fave""","San Francisco, CA, USA",RonSanJose_Ca
+"""been""","Terrebonne, OR, USA",RonSanJose_Ca
+"""been""","Tucson, AZ, USA",RonSanJose_Ca
+"""been""","Marina del Rey, CA, USA",RonSanJose_Ca
+"""been""","Sedona, AZ, USA",RonSanJose_Ca
+"""been""","Marina, CA, USA",RonSanJose_Ca
+"""been""","Scottsdale, AZ, USA",RonSanJose_Ca
+"""been""","Markleeville, CA, USA",RonSanJose_Ca
+"""been""","Chico, CA, USA",RonSanJose_Ca
+"""been""","Mariposa, CA, USA",RonSanJose_Ca
+"""been""","Allentown, PA, USA",RonSanJose_Ca
+"""been""","Manitou Springs, CO, USA",RonSanJose_Ca
+"""been""","Sarasota, FL, USA",RonSanJose_Ca
+"""been""","Three Rivers, CA, USA",RonSanJose_Ca
+"""been""","Luray, VA, USA",RonSanJose_Ca
+"""been""","Moab, UT, USA",RonSanJose_Ca
+"""been""","Plano, TX, USA",RonSanJose_Ca
+"""been""","Brookfield, WI, USA",RonSanJose_Ca
+"""been""","North Bonneville, WA, USA",RonSanJose_Ca
+"""been""","Ocean Shores, WA, USA",RonSanJose_Ca
+"""been""","Malibu, CA, USA",RonSanJose_Ca
+"""been""","Knoxville, TN, USA",RonSanJose_Ca
+"""been""","Brown Deer, WI, USA",RonSanJose_Ca
+"""been""","Santa Rosa Beach, FL, USA",RonSanJose_Ca
+"""been""","Columbus, GA, USA",RonSanJose_Ca
+"""been""","Manhattan Beach, CA, USA",RonSanJose_Ca
+"""been""","Redmond, OR, USA",RonSanJose_Ca
+"""been""","Minneapolis, MN, USA",RonSanJose_Ca
+"""been""","Prineville, OR, USA",RonSanJose_Ca
+"""been""","Meridian, ID, USA",RonSanJose_Ca
+"""been""","Wailea, HI, USA",RonSanJose_Ca
+"""been""","Bisbee, AZ, USA",RonSanJose_Ca
+"""been""","South San Francisco, CA, USA",RonSanJose_Ca
+"""been""","Moscow, ID, USA",RonSanJose_Ca
+"""been""","Bullhead City, AZ, USA",RonSanJose_Ca
+"""been""","Mill Valley, CA, USA",RonSanJose_Ca
+"""been""","Primm, NV, USA",RonSanJose_Ca
+"""been""","Ruby Valley, NV, USA",RonSanJose_Ca
+"""been""","Roseburg, OR, USA",RonSanJose_Ca
+"""been""","Reno, NV, USA",RonSanJose_Ca
+"""been""","Keystone, SD, USA",RonSanJose_Ca
+"""want""","Cayo Santa Maria, Cuba",RonSanJose_Ca
+"""been""","Rockaway Beach, OR, USA",RonSanJose_Ca
+"""been""","Da Nang, Vietnam",RonSanJose_Ca
+"""been""","Riley, OR, USA",RonSanJose_Ca
+"""been""","Angels Camp, CA, USA",RonSanJose_Ca
+"""been""","Coronado, CA, USA",RonSanJose_Ca
+"""been""","Tallahassee, FL, USA",RonSanJose_Ca
+"""been""","Melbourne, FL, USA",RonSanJose_Ca
+"""want""","Rio Grande, Puerto Rico",RonSanJose_Ca
+"""been""","Wenatchee, WA, USA",RonSanJose_Ca
+"""been""","Costa Mesa, CA, USA",RonSanJose_Ca
+"""been""","Miami, FL, USA",RonSanJose_Ca
+"""been""","Miami Beach, FL, USA",RonSanJose_Ca
+"""been""","Solvang, CA, USA",RonSanJose_Ca
+"""been""","Glendale, WI, USA",RonSanJose_Ca
+"""been""","Sonora, CA, USA",RonSanJose_Ca
+"""been""","Anaheim, CA, USA",RonSanJose_Ca
+"""been""","Tampa, FL, USA",RonSanJose_Ca
+"""been""","Sonoma, CA, USA",RonSanJose_Ca
+"""been""","Anderson, CA, USA",RonSanJose_Ca
+"""been""","McCall, ID, USA",RonSanJose_Ca
+"""been""","Green Bay, WI, USA",RonSanJose_Ca
+"""been""","Grand Haven, MI, USA",RonSanJose_Ca
+"""want""","Rio de Janeiro, Brazil",RonSanJose_Ca
+"""been""","Grand Rapids, MI, USA",RonSanJose_Ca
+"""been""","Sandy, OR, USA",RonSanJose_Ca
+"""been""","Salem, OR, USA",RonSanJose_Ca
+"""been""","Muskegon, MI, USA",RonSanJose_Ca
+"""want""","San Jose, Costa Rica",RonSanJose_Ca
+"""want""","Berlin, Germany",RonSanJose_Ca
+"""been""","Healdsburg, CA, USA",RonSanJose_Ca
+"""been""","Tusayan, AZ, USA",RonSanJose_Ca
+"""been""","Alviso, CA, USA",RonSanJose_Ca
+"""been""","Lewiston, ID, USA",RonSanJose_Ca
+"""been""","Yakima, WA, USA",RonSanJose_Ca
+"""been""","Corpus Christi, TX, USA",RonSanJose_Ca
+"""want""","Holetown, Barbados",RonSanJose_Ca
+"""been""","Seaside, OR, USA",RonSanJose_Ca
+"""been""","Macon, GA, USA",RonSanJose_Ca
+"""want""","Frankfurt, Germany",RonSanJose_Ca
+"""been""","Port Angeles, WA, USA",RonSanJose_Ca
+"""been""","Salt Lake City, UT, USA",RonSanJose_Ca
+"""been""","Tombstone, AZ, USA",RonSanJose_Ca
+"""want""","Hamburg, Germany",RonSanJose_Ca
+"""been""","Boulder, CO, USA",RonSanJose_Ca
+"""been""","Breckenridge, CO, USA",RonSanJose_Ca
+"""been""","Beverly Hills, CA, USA",RonSanJose_Ca
+"""been""","Sutter Creek, CA, USA",RonSanJose_Ca
+"""been""","Porthill, ID, USA",RonSanJose_Ca
+"""been""","Pullman, WA, USA",RonSanJose_Ca
+"""been""","Post Falls, ID, USA",RonSanJose_Ca
+"""been""","Irving, TX, USA",RonSanJose_Ca
+"""been""","Berkeley, CA, USA",RonSanJose_Ca
+"""been""","Tahoe City, CA, USA",RonSanJose_Ca
+"""been""","Pocatello, ID, USA",RonSanJose_Ca
+"""been""","Durango, CO, USA",RonSanJose_Ca
+"""been""","Culver, OR, USA",RonSanJose_Ca
+"""been""","Crooked River Ranch, OR, USA",RonSanJose_Ca
+"""been""","Schaumburg, IL, USA",RonSanJose_Ca
+"""been""","Tunica, MS, USA",RonSanJose_Ca
+"""been""","Dairy, OR, USA",RonSanJose_Ca
+"""been""","West Yellowstone, MT, USA",RonSanJose_Ca
+"""been""","Stateline, NV, USA",RonSanJose_Ca
+"""been""","Death Valley Junction, CA, USA",RonSanJose_Ca
+"""been"",""want""","St. George's Caye, Belize",RonSanJose_Ca
+"""been"",""fave""","Koror, Palau",RonSanJose_Ca
+"""been""","Desert Hot Springs, CA, USA",RonSanJose_Ca
+"""been""","Dayton, OH, USA",RonSanJose_Ca
+"""been""","Cedar Rapids, IA, USA",RonSanJose_Ca
+"""been""","Sunnyvale, CA, USA",RonSanJose_Ca
+"""been""","Denver, CO, USA",RonSanJose_Ca
+"""been""","New Smyrna Beach, FL, USA",RonSanJose_Ca
+"""been""","Fort Myers, FL, USA",RonSanJose_Ca
+"""been""","Everett, WA, USA",RonSanJose_Ca
+"""been""","Winnemucca, NV, USA",RonSanJose_Ca
+"""been""","West Wendover, NV, USA",RonSanJose_Ca
+"""been""","Wells, NV, USA",RonSanJose_Ca
+"""want""","Ocho Rios, Jamaica",RonSanJose_Ca
+"""been""","Gettysburg, PA, USA",RonSanJose_Ca
+"""been""","Davis, CA, USA",RonSanJose_Ca
+"""been""","Stockton, CA, USA",RonSanJose_Ca
+"""been""","Philadelphia, PA, USA",RonSanJose_Ca
+"""been""","Mammoth Lakes, CA, USA",RonSanJose_Ca
+"""been""","Del Mar, CA, USA",RonSanJose_Ca
+"""been""","Naples, FL, USA",RonSanJose_Ca
+"""been""","Fort Lauderdale, FL, USA",RonSanJose_Ca
+"""been""","Chandler, AZ, USA",RonSanJose_Ca
+"""been""","Cupertino, CA, USA",RonSanJose_Ca
+"""been""","Culver City, CA, USA",RonSanJose_Ca
+"""been""","Rosemont, IL, USA",RonSanJose_Ca
+"""been""","Colorado Springs, CO, USA",RonSanJose_Ca
+"""been""","Teton Village, WY, USA",RonSanJose_Ca
+"""been""","Bakersfield, CA, USA",RonSanJose_Ca
+"""been""","Dana Point, CA, USA",RonSanJose_Ca
+"""been""","Elgin, OR, USA",RonSanJose_Ca
+"""been""","Nampa, ID, USA",RonSanJose_Ca
+"""been""","Echo, OR, USA",RonSanJose_Ca
+"""been"",""fave""","Peleliu, Palau",RonSanJose_Ca
+"""been""","Newark, NJ, USA",RonSanJose_Ca
+"""been""","Butte, MT, USA",RonSanJose_Ca
+"""been""","Newport, RI, USA",RonSanJose_Ca
+"""been""","Bismarck, ND, USA",RonSanJose_Ca
+"""been""","Oak Park, IL, USA",RonSanJose_Ca
+"""been""","Buffalo, NY, USA",RonSanJose_Ca
+"""been""","Cooperstown, NY, USA",RonSanJose_Ca
+"""been""","Flagstaff, AZ, USA",RonSanJose_Ca
+"""been""","Kiawah Island, SC, USA",RonSanJose_Ca
+"""been""","Jackson, WI, USA",RonSanJose_Ca
+"""been""","Sigatoka, Fiji",RonSanJose_Ca
+"""been"",""fave""","Nadi, Fiji",RonSanJose_Ca
+"""been""","Truckee, CA, USA",RonSanJose_Ca
+"""been""","Boston, MA, USA",RonSanJose_Ca
+"""been""","Caledonia, WI, USA",RonSanJose_Ca
+"""been""","Honolulu, HI, USA",RonSanJose_Ca
+"""been""","Asheville, NC, USA",RonSanJose_Ca
+"""been""","Trinity Center, CA, USA",RonSanJose_Ca
+"""been""","Houston, TX, USA",RonSanJose_Ca
+"""been""","Somers, MT, USA",RonSanJose_Ca
+"""been""","Bodega Bay, CA, USA",RonSanJose_Ca
+"""been""","Yellowstone National Park, WY, USA",RonSanJose_Ca
+"""been""","Walla Walla, WA, USA",RonSanJose_Ca
+"""been""","San Diego, CA, USA",RonSanJose_Ca
+"""been""","Salmon, ID, USA",RonSanJose_Ca
+"""been""","Sandpoint, ID, USA",RonSanJose_Ca
+"""been""","Cincinnati, OH, USA",RonSanJose_Ca
+"""been""","Dayton, WA, USA",RonSanJose_Ca
+"""been""","McAllen, TX, USA",RonSanJose_Ca
+"""been""","Pasco, WA, USA",RonSanJose_Ca
+"""been""","Cedarburg, WI, USA",RonSanJose_Ca
+"""been""","Ventura, CA, USA",RonSanJose_Ca
+"""been""","Little Rock, AR, USA",RonSanJose_Ca
+"""been""","El Paso, TX, USA",RonSanJose_Ca
+"""been""","Tehachapi, CA, USA",RonSanJose_Ca
+"""been""","Charlottesville, VA, USA",RonSanJose_Ca
+"""been"",""fave""","New York City, NY, USA",RonSanJose_Ca
+"""been""","Chesapeake, VA, USA",RonSanJose_Ca
+"""been""","Cove, OR, USA",RonSanJose_Ca
+"""been""","Temecula, CA, USA",RonSanJose_Ca
+"""been""","Corvallis, OR, USA",RonSanJose_Ca
+"""been""","St. George, UT, USA",RonSanJose_Ca
+"""been""","Coos Bay, OR, USA",RonSanJose_Ca
+"""been""","Condon, OR, USA",RonSanJose_Ca
+"""been""","Pleasanton, CA, USA",RonSanJose_Ca
+"""been""","Point Reyes Station, CA, USA",RonSanJose_Ca
+"""been""","Pensacola Beach, FL, USA",RonSanJose_Ca
+"""want""","Hamilton, Bermuda",RonSanJose_Ca
+"""been""","Quezon City, Philippines",RonSanJose_Ca
+"""been""","Manila, Philippines",RonSanJose_Ca
+"""been""","Gulfport, MS, USA",RonSanJose_Ca
+"""been""","West Bend, WI, USA",RonSanJose_Ca
+"""been""","Galena, IL, USA",RonSanJose_Ca
+"""been""","Wauwatosa, WI, USA",RonSanJose_Ca
+"""been""","Niagara Falls, NY, USA",RonSanJose_Ca
+"""been""","Chattanooga, TN, USA",RonSanJose_Ca
+"""been"",""want""","East End, Cayman Islands",RonSanJose_Ca
+"""want""","Palm - Eagle Beach, Aruba",RonSanJose_Ca
+"""been""","Hiroshima, Japan",RonSanJose_Ca
+"""been""","Southfield, MI, USA",RonSanJose_Ca
+"""been""","Kobe, Japan",RonSanJose_Ca
+"""been""","Spring Lake, MI, USA",RonSanJose_Ca
+"""been""","Osaka, Japan",RonSanJose_Ca
+"""been"",""fave""","Nagasaki, Japan",RonSanJose_Ca
+"""been""","Ruidoso, NM, USA",RonSanJose_Ca
+"""want""","Havana, Cuba",RonSanJose_Ca
+"""been""","Mobile, AL, USA",RonSanJose_Ca
+"""want""","Varadero, Cuba",RonSanJose_Ca
+"""been""","Big Sur, CA, USA",RonSanJose_Ca
+"""been""","Kanazawa, Japan",RonSanJose_Ca
+"""been""","Boise, ID, USA",RonSanJose_Ca
+"""been""","Yosemite National Park, CA, USA",RonSanJose_Ca
+"""been""","Bonners Ferry, ID, USA",RonSanJose_Ca
+"""been""","Springdale, UT, USA",RonSanJose_Ca
+"""been""","Walker, CA, USA",RonSanJose_Ca
+"""want""","Cabarete, Dominican Republic",RonSanJose_Ca
+"""want""","Bayahibe, Dominican Republic",RonSanJose_Ca
+"""been""","Tulsa, OK, USA",RonSanJose_Ca
+"""been""","Harrisburg, PA, USA",RonSanJose_Ca
+"""been"",""want""","Belize City, Belize",RonSanJose_Ca
+"""want""","Dublin, Ireland",RonSanJose_Ca
+"""been""","San Pedro, Belize",RonSanJose_Ca
+"""been""","Muskegon Heights, MI, USA",RonSanJose_Ca
+"""been""","Jackson, MS, USA",RonSanJose_Ca
+"""been"",""want"",""fave""","Bonaire, Caribbean",RonSanJose_Ca
+"""been""","Oshkosh, WI, USA",RonSanJose_Ca
+"""been""","Springfield, MO, USA",RonSanJose_Ca
+"""been""","Nagoya, Japan",RonSanJose_Ca
+"""been""","Hollywood, FL, USA",RonSanJose_Ca
+"""been""","Holmes Beach, FL, USA",RonSanJose_Ca
+"""been""","Nags Head, NC, USA",RonSanJose_Ca
+"""been""","Merced, CA, USA",RonSanJose_Ca
+"""been""","Eugene, OR, USA",RonSanJose_Ca
+"""been"",""want""","Enterprise, OR, USA",RonSanJose_Ca
+"""been""","Fargo, ND, USA",RonSanJose_Ca
+"""been""","Ahmeek, MI, USA",RonSanJose_Ca
+"""been""","Newport News, VA, USA",RonSanJose_Ca
+"""been""","Mendocino, CA, USA",RonSanJose_Ca
+"""been""","Florence, OR, USA",RonSanJose_Ca
+"""been""","Rancho Mirage, CA, USA",RonSanJose_Ca
+"""been""","Great Falls, MT, USA",RonSanJose_Ca
+"""been""","Fossil, OR, USA",RonSanJose_Ca
+"""been""","Tagaytay, Philippines",RonSanJose_Ca
+"""been""","Amistad, NM, USA",RonSanJose_Ca
+"""been""","Waimea, HI, USA",RonSanJose_Ca
+"""been""","Hilo, HI, USA",RonSanJose_Ca
+"""been""","Norfolk, VA, USA",RonSanJose_Ca
+"""been""","Orange Beach, AL, USA",RonSanJose_Ca
+"""been""","Gold Beach, OR, USA",RonSanJose_Ca
+"""been""","Antelope, OR, USA",RonSanJose_Ca
+"""been""","Dong Ha, Vietnam",RonSanJose_Ca
+"""been""","Ashland, OR, USA",RonSanJose_Ca
+"""been""","Ashwood, OR, USA",RonSanJose_Ca
+"""been""","Virginia Beach, VA, USA",RonSanJose_Ca
+"""been""","Government Camp, OR, USA",RonSanJose_Ca
+"""been""","Logan, OH, USA",RonSanJose_Ca
+"""been""","New Paltz, NY, USA",RonSanJose_Ca
+"""been""","Waukesha, WI, USA",RonSanJose_Ca
+"""been"",""fave""","George Town, Malaysia",RonSanJose_Ca
+"""want""","Nusa Dua, Indonesia",RonSanJose_Ca
+"""been""","Waterford, WI, USA",RonSanJose_Ca
+"""been""","Hornbrook, CA, USA",RonSanJose_Ca
+"""been""","Pittsburgh, PA, USA",RonSanJose_Ca
+"""been""","Harrisonburg, VA, USA",RonSanJose_Ca
+"""been""","Moss Landing, CA, USA",RonSanJose_Ca
+"""been""","Yuma, AZ, USA",RonSanJose_Ca
+"""been""","Vale, OR, USA",RonSanJose_Ca
+"""want""","Munich, Germany",RonSanJose_Ca
+"""been""","Union, OR, USA",RonSanJose_Ca
+"""been""","Wichita, KS, USA",RonSanJose_Ca
+"""been""","Warren, MI, USA",RonSanJose_Ca
+"""been""","Yokohama, Japan",RonSanJose_Ca
+"""been""","Rapid City, SD, USA",RonSanJose_Ca
+"""been""","Fredericksburg, TX, USA",RonSanJose_Ca
+"""been""","Rohnert Park, CA, USA",RonSanJose_Ca
+"""been""","Roseville, CA, USA",RonSanJose_Ca
+"""been""","Morro Bay, CA, USA",RonSanJose_Ca
+"""been""","Hampton, VA, USA",RonSanJose_Ca
+"""been""","Welches, OR, USA",RonSanJose_Ca
+"""been""","Monterey, CA, USA",RonSanJose_Ca
+"""been""","Williams, AZ, USA",RonSanJose_Ca
+"""been""","Warm Springs, OR, USA",RonSanJose_Ca
+"""want""","Nuremberg, Germany",RonSanJose_Ca
+"""been""","Riverside, CA, USA",RonSanJose_Ca
+"""been""","Toledo, OH, USA",RonSanJose_Ca
+"""been""","Weston, OR, USA",RonSanJose_Ca
+"""been""","Westlake, OR, USA",RonSanJose_Ca
+"""been""","Ann Arbor, MI, USA",RonSanJose_Ca
+"""been""","Jackson, MO, USA",RonSanJose_Ca
+"""been""","Chuo, Japan",RonSanJose_Ca
+"""been""","Modesto, CA, USA",RonSanJose_Ca
+"""been""","Milpitas, CA, USA",RonSanJose_Ca
+"""been""","Yachats, OR, USA",RonSanJose_Ca
+"""been""","Nikko, Japan",RonSanJose_Ca
+"""been""","Iowa City, IA, USA",RonSanJose_Ca
+"""want""","Amman, Jordan",RonSanJose_Ca
+"""been""","Tokyo, Japan",RonSanJose_Ca
+"""been""","Albany, NY, USA",RonSanJose_Ca
+"""been""","Lexington, KY, USA",RonSanJose_Ca
+"""been""","Redding, CA, USA",RonSanJose_Ca
+"""been""","Redwood City, CA, USA",RonSanJose_Ca
+"""been""","Redondo Beach, CA, USA",RonSanJose_Ca
+"""been""","Midpines, CA, USA",RonSanJose_Ca
+"""want""","Chiang Mai, Thailand",RonSanJose_Ca
+"""want""","Punta Cana, Dominican Republic",RonSanJose_Ca
+"""want""","Bangkok, Thailand",RonSanJose_Ca
+"""been""","Dangriga, Belize",RonSanJose_Ca
+"""want""","Puerto Plata, Dominican Republic",RonSanJose_Ca
+"""want""","Taipei, Taiwan",RonSanJose_Ca
+"""been""","Placencia, Belize",RonSanJose_Ca
+"""want""","La Romana, Dominican Republic",RonSanJose_Ca
+"""been""","San Ignacio, Belize",RonSanJose_Ca
+"""been""","Aspen, CO, USA",RonSanJose_Ca
+"""been""","Taito, Japan",RonSanJose_Ca
+"""been"",""want""","Salt Cay, Turks and Caicos",RonSanJose_Ca
+"""been""","Newport Beach, CA, USA",RonSanJose_Ca
+"""been""","Dorris, CA, USA",RonSanJose_Ca
+"""been""","Hue, Vietnam",RonSanJose_Ca
+"""want""","Hanoi, Vietnam",RonSanJose_Ca
+"""been""","Troy, MI, USA",RonSanJose_Ca
+"""been""","South Caicos, Turks and Caicos",RonSanJose_Ca
+"""been""","Ito, Japan",RonSanJose_Ca
+"""been"",""want""","Middle Caicos, Turks and Caicos",RonSanJose_Ca
+"""been"",""want""","North Caicos, Turks and Caicos",RonSanJose_Ca
+"""been""","Long Beach, MS, USA",RonSanJose_Ca
+"""been""","Irvine, CA, USA",RonSanJose_Ca
+"""been""","Pewaukee, WI, USA",RonSanJose_Ca
+"""been""","Puerto Nuevo, Mexico",RonSanJose_Ca
+"""been""","Chicago, IL, USA",RonSanJose_Ca
+"""been""","Shinjuku, Japan",RonSanJose_Ca
+"""been""","Jamestown, CA, USA",RonSanJose_Ca
+"""been""","Ione, CA, USA",RonSanJose_Ca
+"""been""","Puerto Aventuras, Mexico",RonSanJose_Ca
+"""been""","Hakodate, Japan",RonSanJose_Ca
+"""been""","Mountain View, CA, USA",RonSanJose_Ca
+"""been""","Avalon, CA, USA",RonSanJose_Ca
+"""been""","Imperial Beach, CA, USA",RonSanJose_Ca
+"""been""","Murphys, CA, USA",RonSanJose_Ca
+"""been""","Igo, CA, USA",RonSanJose_Ca
+"""been""","Venice, FL, USA",RonSanJose_Ca
+"""been""","Long Island City, NY, USA",RonSanJose_Ca
+"""been""","National City, CA, USA",RonSanJose_Ca
+"""been""","Napa, CA, USA",RonSanJose_Ca
+"""been""","Tygh Valley, OR, USA",RonSanJose_Ca
+"""been""","Troutdale, OR, USA",RonSanJose_Ca
+"""been""","Timberline Lodge, OR, USA",RonSanJose_Ca
+"""been""","Aptos, CA, USA",RonSanJose_Ca
+"""been""","Arcata, CA, USA",RonSanJose_Ca
+"""been""","Okemos, MI, USA",RonSanJose_Ca
+"""been""","Bryce, UT, USA",RonSanJose_Ca
+"""been""","Sacramento, CA, USA",RonSanJose_Ca
+"""want""","Onna-son, Japan",RonSanJose_Ca
+"""been""","Umatilla, OR, USA",RonSanJose_Ca
+"""been""","Fort Worth, TX, USA",RonSanJose_Ca
+"""been""","Rutherford, CA, USA",RonSanJose_Ca
+"""been"",""want""","Mount Shasta, CA, USA",RonSanJose_Ca
+"""been""","Huntington Beach, CA, USA",RonSanJose_Ca

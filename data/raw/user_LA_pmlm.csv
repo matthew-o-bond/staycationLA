@@ -1,0 +1,655 @@
+tag,place,user
+"""been""","Lafayette, LA, USA",pmlm
+"""been""","Evansville, IN, USA",pmlm
+"""been""","Lake Charles, LA, USA",pmlm
+"""been""","Meridian, MS, USA",pmlm
+"""been""","Peoria, AZ, USA",pmlm
+"""been""","Payson, AZ, USA",pmlm
+"""been""","Huntington Beach, CA, USA",pmlm
+"""been""","Petaluma, CA, USA",pmlm
+"""been""","Paradise Valley, AZ, USA",pmlm
+"""been""","Venice, FL, USA",pmlm
+"""been""","Vero Beach, FL, USA",pmlm
+"""been""","Ponce, Puerto Rico",pmlm
+"""been"",""fave""","San Juan, Puerto Rico",pmlm
+"""been""","Baton Rouge, LA, USA",pmlm
+"""been""","Arcadia, CA, USA",pmlm
+"""been""","Henderson, NV, USA",pmlm
+"""been""","Yuma, AZ, USA",pmlm
+"""been""","Pebble Beach, CA, USA",pmlm
+"""been"",""fave""","Morro Bay, CA, USA",pmlm
+"""been""","College Station, TX, USA",pmlm
+"""been""","Rosemead, CA, USA",pmlm
+"""been""","Winslow, AZ, USA",pmlm
+"""been""","Augusta, GA, USA",pmlm
+"""been"",""fave""","Chicago, IL, USA",pmlm
+"""been""","Sainte-Anne, Martinique",pmlm
+"""been""","Bethesda, MD, USA",pmlm
+"""been""","Las Vegas, NV, USA",pmlm
+"""been""","Laughlin, NV, USA",pmlm
+"""been""","Wildwood, NJ, USA",pmlm
+"""been""","Big Sur, CA, USA",pmlm
+"""been""","Milwaukee, WI, USA",pmlm
+"""been""","Lynchburg, VA, USA",pmlm
+"""been""","Fort Stockton, TX, USA",pmlm
+"""been""","Fort Worth, TX, USA",pmlm
+"""been""","Fullerton, CA, USA",pmlm
+"""been""","Queen Creek, AZ, USA",pmlm
+"""want""","St. Petersburg, Russia",pmlm
+"""been""","Fresno, CA, USA",pmlm
+"""been""","Los Angeles, CA, USA",pmlm
+"""been""","Placentia, CA, USA",pmlm
+"""been""","Fremont, CA, USA",pmlm
+"""been""","Prescott, AZ, USA",pmlm
+"""been""","Pismo Beach, CA, USA",pmlm
+"""been"",""fave""","Avalon, CA, USA",pmlm
+"""been""","Irvine, CA, USA",pmlm
+"""been""","Brunswick, GA, USA",pmlm
+"""been""","Port-au-Prince, Haiti",pmlm
+"""been"",""fave""","Freeport, Bahamas",pmlm
+"""want""","Dublin, Ireland",pmlm
+"""been""","Long Beach, CA, USA",pmlm
+"""been""","Needles, CA, USA",pmlm
+"""been""","Alexandria, VA, USA",pmlm
+"""been""","Inglewood, CA, USA",pmlm
+"""been""","National City, CA, USA",pmlm
+"""been"",""fave""","Napa, CA, USA",pmlm
+"""been""","Indio, CA, USA",pmlm
+"""been""","Indian Wells, CA, USA",pmlm
+"""been""","Imperial Beach, CA, USA",pmlm
+"""been""","Lodi, CA, USA",pmlm
+"""been""","Phoenix, AZ, USA",pmlm
+"""been""","Runaway Bay, Jamaica",pmlm
+"""been""","Negril, Jamaica",pmlm
+"""been""","Montego Bay, Jamaica",pmlm
+"""been"",""fave""","Ocho Rios, Jamaica",pmlm
+"""been""","Kingston, Jamaica",pmlm
+"""been""","Reno, NV, USA",pmlm
+"""been""","Fountain Hills, AZ, USA",pmlm
+"""been""","Manhattan Beach, CA, USA",pmlm
+"""been""","Malibu, CA, USA",pmlm
+"""been""","Satellite Beach, FL, USA",pmlm
+"""been""","Norwalk, CA, USA",pmlm
+"""been""","Glendale, CA, USA",pmlm
+"""been""","Birmingham, AL, USA",pmlm
+"""been""","Winter Garden, FL, USA",pmlm
+"""been""","Okeechobee, FL, USA",pmlm
+"""been""","Winter Haven, FL, USA",pmlm
+"""been""","Osaka, Japan",pmlm
+"""been""","Sebring, FL, USA",pmlm
+"""been""","Winter Park, FL, USA",pmlm
+"""been""","Texarkana, TX, USA",pmlm
+"""want""","Palm - Eagle Beach, Aruba",pmlm
+"""been"",""fave""","George Town, Cayman Islands",pmlm
+"""been""","Kyoto, Japan",pmlm
+"""been""","Ensenada, Mexico",pmlm
+"""been""","Downey, CA, USA",pmlm
+"""want""","St. Moritz, Switzerland",pmlm
+"""been""","Julian, CA, USA",pmlm
+"""been""","Gardena, CA, USA",pmlm
+"""been""","Myrtle Beach, SC, USA",pmlm
+"""been""","Arlington, VA, USA",pmlm
+"""been""","Garden Grove, CA, USA",pmlm
+"""been""","Orange Park, FL, USA",pmlm
+"""been""","Siesta Key, FL, USA",pmlm
+"""been""","Zephyrhills, FL, USA",pmlm
+"""been""","Orlando, FL, USA",pmlm
+"""been""","Newport Beach, CA, USA",pmlm
+"""been""","Barstow, CA, USA",pmlm
+"""been""","Silver Springs, FL, USA",pmlm
+"""been""","Ormond Beach, FL, USA",pmlm
+"""been""","Frederick, MD, USA",pmlm
+"""been""","Camp Verde, AZ, USA",pmlm
+"""want""","Hamilton, Bermuda",pmlm
+"""been""","Manila, Philippines",pmlm
+"""want""","Trevi, Italy",pmlm
+"""been"",""want""","Fairfax, VA, USA",pmlm
+"""been""","Portland, OR, USA",pmlm
+"""been""","Apopka, FL, USA",pmlm
+"""been""","La Mesa, CA, USA",pmlm
+"""been""","Claremont, CA, USA",pmlm
+"""been""","La Jolla, CA, USA",pmlm
+"""been""","Saint Augustine Beach, FL, USA",pmlm
+"""been""","El Centro, CA, USA",pmlm
+"""been""","Weeki Wachee, FL, USA",pmlm
+"""been""","Saint Cloud, FL, USA",pmlm
+"""been""","Chula Vista, CA, USA",pmlm
+"""been""","El Cajon, CA, USA",pmlm
+"""been""","Apalachicola, FL, USA",pmlm
+"""been""","Altamonte Springs, FL, USA",pmlm
+"""been""","St. Pete Beach, FL, USA",pmlm
+"""been"",""fave""","Marigot, St Martin \u002F St Maarten",pmlm
+"""been""","St. Petersburg, FL, USA",pmlm
+"""been""","Philipsburg, St Martin \u002F St Maarten",pmlm
+"""been""","Silver Spring, MD, USA",pmlm
+"""been""","North Las Vegas, NV, USA",pmlm
+"""been""","Surfside Beach, SC, USA",pmlm
+"""been""","Chino, CA, USA",pmlm
+"""been""","Sierra Vista, AZ, USA",pmlm
+"""been""","Falls Church, VA, USA",pmlm
+"""been""","Goodyear, AZ, USA",pmlm
+"""been""","West Palm Beach, FL, USA",pmlm
+"""been""","Chico, CA, USA",pmlm
+"""been""","Apache Junction, AZ, USA",pmlm
+"""been""","Marina del Rey, CA, USA",pmlm
+"""been""","Weston, FL, USA",pmlm
+"""been""","Gilbert, AZ, USA",pmlm
+"""been""","Arlington Heights, IL, USA",pmlm
+"""been""","Glendale, AZ, USA",pmlm
+"""been"",""fave""","Sedona, AZ, USA",pmlm
+"""been""","Elk Grove Village, IL, USA",pmlm
+"""been""","Sandestin, FL, USA",pmlm
+"""been""","Sanford, FL, USA",pmlm
+"""been""","Scottsdale, AZ, USA",pmlm
+"""been""","Santa Rosa Beach, FL, USA",pmlm
+"""been""","Columbus, GA, USA",pmlm
+"""been""","Sarasota, FL, USA",pmlm
+"""been""","Wildwood, FL, USA",pmlm
+"""want""","Minneapolis, MN, USA",pmlm
+"""been""","Biloxi, MS, USA",pmlm
+"""been""","Lebanon, MO, USA",pmlm
+"""been"",""fave""","Victoria, British Columbia, Canada",pmlm
+"""been""","Vancouver, British Columbia, Canada",pmlm
+"""been""","Escondido, CA, USA",pmlm
+"""been""","Panama City, FL, USA",pmlm
+"""been""","Homosassa, FL, USA",pmlm
+"""been""","Hawthorne, CA, USA",pmlm
+"""been""","Litchfield Park, AZ, USA",pmlm
+"""been""","Panama City Beach, FL, USA",pmlm
+"""been""","Marianna, FL, USA",pmlm
+"""been""","Homosassa Springs, FL, USA",pmlm
+"""been""","Ka'anapali, HI, USA",pmlm
+"""been""","Bangkok, Thailand",pmlm
+"""been""","Encinitas, CA, USA",pmlm
+"""been""","Sunrise, FL, USA",pmlm
+"""been""","Leesburg, VA, USA",pmlm
+"""been"",""fave""","San Francisco, CA, USA",pmlm
+"""been""","Lake Elsinore, CA, USA",pmlm
+"""been""","Page, AZ, USA",pmlm
+"""been""","Agoura Hills, CA, USA",pmlm
+"""been""","San Antonio, TX, USA",pmlm
+"""been""","Pembroke Pines, FL, USA",pmlm
+"""been""","Lake Arrowhead, CA, USA",pmlm
+"""been""","Lake Havasu City, AZ, USA",pmlm
+"""been""","Santa Fe, NM, USA",pmlm
+"""been""","Thousand Oaks, CA, USA",pmlm
+"""been""","Tombstone, AZ, USA",pmlm
+"""want""","Glasgow, UK",pmlm
+"""been""","Tucson, AZ, USA",pmlm
+"""been""","Syracuse, NY, USA",pmlm
+"""been""","Jersey City, NJ, USA",pmlm
+"""been""","Aventura, FL, USA",pmlm
+"""been""","Pensacola, FL, USA",pmlm
+"""been""","Surfside, FL, USA",pmlm
+"""been""","Brea, CA, USA",pmlm
+"""been""","Half Moon Bay, CA, USA",pmlm
+"""been""","Hanoi, Vietnam",pmlm
+"""been""","Laguna Hills, CA, USA",pmlm
+"""been""","Kingman, AZ, USA",pmlm
+"""been""","Ho Chi Minh City, Vietnam",pmlm
+"""been""","Laguna Beach, CA, USA",pmlm
+"""been""","Tempe, AZ, USA",pmlm
+"""been""","Waukegan, IL, USA",pmlm
+"""been""","Tallahassee, FL, USA",pmlm
+"""been""","Melbourne, FL, USA",pmlm
+"""been""","Indialantic, FL, USA",pmlm
+"""been""","Vail, CO, USA",pmlm
+"""been""","Indian Harbour Beach, FL, USA",pmlm
+"""been""","Melbourne Beach, FL, USA",pmlm
+"""been""","Amarillo, TX, USA",pmlm
+"""been""","Tampa, FL, USA",pmlm
+"""been"",""fave""","Venice, Italy",pmlm
+"""been""","Crescent City, CA, USA",pmlm
+"""been""","La Quinta, CA, USA",pmlm
+"""been""","Surprise, AZ, USA",pmlm
+"""been""","Des Plaines, IL, USA",pmlm
+"""been""","Atlantic Beach, FL, USA",pmlm
+"""been""","El Segundo, CA, USA",pmlm
+"""want""","Jerome, AZ, USA",pmlm
+"""been""","Miami, FL, USA",pmlm
+"""been""","Miami Beach, FL, USA",pmlm
+"""been""","Fairbanks, AK, USA",pmlm
+"""been""","Brooklyn, NY, USA",pmlm
+"""been""","Cabo San Lucas, Mexico",pmlm
+"""want""","East Hampton, NY, USA",pmlm
+"""want""","Madrid, Spain",pmlm
+"""want""","Havana, Cuba",pmlm
+"""been""","Ocean City, MD, USA",pmlm
+"""been""","Anaheim, CA, USA",pmlm
+"""been""","Sonoma, CA, USA",pmlm
+"""been""","Front Royal, VA, USA",pmlm
+"""been""","Calabasas, CA, USA",pmlm
+"""been""","Dalton, GA, USA",pmlm
+"""been""","Solvang, CA, USA",pmlm
+"""been""","Victorville, CA, USA",pmlm
+"""been""","Baltimore, MD, USA",pmlm
+"""been""","Solana Beach, CA, USA",pmlm
+"""want""","Austin, TX, USA",pmlm
+"""been""","South Miami, FL, USA",pmlm
+"""been""","Costa Mesa, CA, USA",pmlm
+"""been""","Okinawa City, Japan",pmlm
+"""been"",""fave""","Savannah, GA, USA",pmlm
+"""been""","Palm Bay, FL, USA",pmlm
+"""been""","Coronado, CA, USA",pmlm
+"""been""","Mesa, AZ, USA",pmlm
+"""been""","Hermosa Beach, CA, USA",pmlm
+"""been""","Pamplona, Spain",pmlm
+"""been""","Mazatlan, Mexico",pmlm
+"""been""","Manzanillo, Mexico",pmlm
+"""been""","Jamaica, NY, USA",pmlm
+"""been""","Puerto Vallarta, Mexico",pmlm
+"""been""","Guadalajara, Mexico",pmlm
+"""been""","Nashville, TN, USA",pmlm
+"""want""","Mamora Bay, Antigua and Barbuda",pmlm
+"""been""","Palm Beach, FL, USA",pmlm
+"""been""","Corona, CA, USA",pmlm
+"""been""","Fallbrook, CA, USA",pmlm
+"""been""","Spring Hill, FL, USA",pmlm
+"""been""","Greenville, SC, USA",pmlm
+"""been""","Palm Beach Gardens, FL, USA",pmlm
+"""been""","Palm Beach Shores, FL, USA",pmlm
+"""been""","Maitland, FL, USA",pmlm
+"""been""","Burlingame, CA, USA",pmlm
+"""been""","SeaTac, WA, USA",pmlm
+"""been""","Macon, GA, USA",pmlm
+"""been""","Palm Coast, FL, USA",pmlm
+"""want""","Playa Blanca, Spain",pmlm
+"""been""","Vallejo, CA, USA",pmlm
+"""been""","Burbank, CA, USA",pmlm
+"""been""","Alhambra, CA, USA",pmlm
+"""been""","Hemet, CA, USA",pmlm
+"""been""","Palm Harbor, FL, USA",pmlm
+"""been""","Buena Park, CA, USA",pmlm
+"""been""","Salt Lake City, UT, USA",pmlm
+"""been""","Stuart, FL, USA",pmlm
+"""been""","Beaufort, SC, USA",pmlm
+"""been"",""fave""","Palermo, Italy",pmlm
+"""been""","Alameda, CA, USA",pmlm
+"""been""","Commerce, CA, USA",pmlm
+"""been""","Grand Junction, CO, USA",pmlm
+"""been""","Alpharetta, GA, USA",pmlm
+"""been""","Jacksonville, FL, USA",pmlm
+"""been""","Flushing, NY, USA",pmlm
+"""been""","Florence, Italy",pmlm
+"""want""","Ventimiglia, Italy",pmlm
+"""been""","Port Saint Lucie, FL, USA",pmlm
+"""been""","Mount Dora, FL, USA",pmlm
+"""been""","Punta Gorda, FL, USA",pmlm
+"""been""","San Bernardino, CA, USA",pmlm
+"""been""","Flagler Beach, FL, USA",pmlm
+"""been""","Tifton, GA, USA",pmlm
+"""been""","Bakersfield, CA, USA",pmlm
+"""been""","Dana Point, CA, USA",pmlm
+"""been""","Naples, FL, USA",pmlm
+"""been""","Florida City, FL, USA",pmlm
+"""been"",""fave""","Lahaina, HI, USA",pmlm
+"""been""","Daly City, CA, USA",pmlm
+"""been""","Houston, TX, USA",pmlm
+"""been""","Navarre, FL, USA",pmlm
+"""been""","Brooksville, FL, USA",pmlm
+"""been""","Neptune Beach, FL, USA",pmlm
+"""been""","Fort Lauderdale, FL, USA",pmlm
+"""been"",""fave""","Seattle, WA, USA",pmlm
+"""been""","Salinas, CA, USA",pmlm
+"""been""","Pukalani, HI, USA",pmlm
+"""been""","Cave Creek, AZ, USA",pmlm
+"""been""","Colorado Springs, CO, USA",pmlm
+"""been""","Wailuku, HI, USA",pmlm
+"""been""","Columbia, SC, USA",pmlm
+"""been""","Culver City, CA, USA",pmlm
+"""been""","Casa Grande, AZ, USA",pmlm
+"""been"",""fave""","Carefree, AZ, USA",pmlm
+"""been""","Twentynine Palms, CA, USA",pmlm
+"""want""","Pigeon Forge, TN, USA",pmlm
+"""been""","San Diego, CA, USA",pmlm
+"""been""","Kailua-Kona, HI, USA",pmlm
+"""been"",""fave""","Hana, HI, USA",pmlm
+"""been""","Titusville, FL, USA",pmlm
+"""been""","Kahului, HI, USA",pmlm
+"""been""","Vienna, VA, USA",pmlm
+"""been""","Kapalua, HI, USA",pmlm
+"""been""","New Port Richey, FL, USA",pmlm
+"""been""","New Smyrna Beach, FL, USA",pmlm
+"""been""","Riviera Beach, FL, USA",pmlm
+"""been""","Fort Myers, FL, USA",pmlm
+"""been""","Fort Myers Beach, FL, USA",pmlm
+"""been""","Kissimmee, FL, USA",pmlm
+"""been""","Fort Pierce, FL, USA",pmlm
+"""been""","Fort Walton Beach, FL, USA",pmlm
+"""been""","South San Francisco, CA, USA",pmlm
+"""been""","Lady Lake, FL, USA",pmlm
+"""been""","St. Augustine, FL, USA",pmlm
+"""been""","Walnut Creek, CA, USA",pmlm
+"""been""","Cape Canaveral, FL, USA",pmlm
+"""want""","Boston, MA, USA",pmlm
+"""been""","Poipu, HI, USA",pmlm
+"""been""","Cape Coral, FL, USA",pmlm
+"""been""","Princeville, HI, USA",pmlm
+"""been""","Calistoga, CA, USA",pmlm
+"""been""","Waimea, HI, USA",pmlm
+"""been""","Vista, CA, USA",pmlm
+"""been""","Lanai City, HI, USA",pmlm
+"""been""","Visalia, CA, USA",pmlm
+"""been""","Schererville, IN, USA",pmlm
+"""been""","Bisbee, AZ, USA",pmlm
+"""want""","Como, Italy",pmlm
+"""been""","Benson, AZ, USA",pmlm
+"""been""","Yokohama, Japan",pmlm
+"""been""","Honolulu, HI, USA",pmlm
+"""been""","Kilauea, HI, USA",pmlm
+"""been""","Koloa, HI, USA",pmlm
+"""been""","Asheville, NC, USA",pmlm
+"""been""","New Orleans, LA, USA",pmlm
+"""want""","Milan, Italy",pmlm
+"""been""","Tarpon Springs, FL, USA",pmlm
+"""been""","Pinellas Park, FL, USA",pmlm
+"""been""","Tavernier, FL, USA",pmlm
+"""been""","Miami Lakes, FL, USA",pmlm
+"""been""","Knoxville, TN, USA",pmlm
+"""been""","Plant City, FL, USA",pmlm
+"""been""","Miami Springs, FL, USA",pmlm
+"""been""","San Marcos, CA, USA",pmlm
+"""been""","Plantation, FL, USA",pmlm
+"""been""","Hanalei, HI, USA",pmlm
+"""been""","San Luis Obispo, CA, USA",pmlm
+"""been""","Whittier, CA, USA",pmlm
+"""been""","Des Moines, IA, USA",pmlm
+"""been""","Sunnyvale, CA, USA",pmlm
+"""been""","Denver, CO, USA",pmlm
+"""been""","Carson, CA, USA",pmlm
+"""been""","Hot Springs, AR, USA",pmlm
+"""been""","Carpinteria, CA, USA",pmlm
+"""been""","Jacksonville Beach, FL, USA",pmlm
+"""been""","San Juan Capistrano, CA, USA",pmlm
+"""been""","Beaumont, TX, USA",pmlm
+"""been""","San Jose, CA, USA",pmlm
+"""been""","Carmel Valley, CA, USA",pmlm
+"""been""","Homestead, FL, USA",pmlm
+"""been"",""fave""","Carmel, CA, USA",pmlm
+"""been""","Desert Hot Springs, CA, USA",pmlm
+"""been""","Westminster, CA, USA",pmlm
+"""been""","Carlsbad, CA, USA",pmlm
+"""been""","Flagstaff, AZ, USA",pmlm
+"""been""","Los Alamos, NM, USA",pmlm
+"""been""","Chillicothe, OH, USA",pmlm
+"""been""","Buffalo, NY, USA",pmlm
+"""been""","Puerto Penasco, Mexico",pmlm
+"""been""","Newark, NJ, USA",pmlm
+"""been""","Pompano Beach, FL, USA",pmlm
+"""been""","Treasure Island, FL, USA",pmlm
+"""been""","Ponte Vedra Beach, FL, USA",pmlm
+"""been""","Everglades City, FL, USA",pmlm
+"""been""","Port Canaveral, FL, USA",pmlm
+"""been""","Jensen Beach, FL, USA",pmlm
+"""been""","Port Charlotte, FL, USA",pmlm
+"""been""","Miramar, FL, USA",pmlm
+"""been""","Port Orange, FL, USA",pmlm
+"""been""","Westlake Village, CA, USA",pmlm
+"""been""","Cardiff-by-the-Sea, CA, USA",pmlm
+"""been""","Port Richey, FL, USA",pmlm
+"""been""","Jupiter, FL, USA",pmlm
+"""been""","Luray, VA, USA",pmlm
+"""been""","San Dimas, CA, USA",pmlm
+"""been""","Kendall, FL, USA",pmlm
+"""been""","Greensboro, NC, USA",pmlm
+"""been""","San Clemente, CA, USA",pmlm
+"""been""","Del Mar, CA, USA",pmlm
+"""been""","Gulf Breeze, FL, USA",pmlm
+"""been""","Fernandina Beach, FL, USA",pmlm
+"""been""","McLean, VA, USA",pmlm
+"""been""","West Hollywood, CA, USA",pmlm
+"""been""","West Covina, CA, USA",pmlm
+"""been""","Pensacola Beach, FL, USA",pmlm
+"""want""","Turin, Italy",pmlm
+"""been""","Chandler, AZ, USA",pmlm
+"""been""","Charleston, SC, USA",pmlm
+"""been""","North Bergen, NJ, USA",pmlm
+"""been""","Tonopah, NV, USA",pmlm
+"""been""","Stateline, NV, USA",pmlm
+"""been""","Missoula, MT, USA",pmlm
+"""been""","Sparks, NV, USA",pmlm
+"""been""","Cheektowaga, NY, USA",pmlm
+"""been""","Lauderdale-By-The-Sea, FL, USA",pmlm
+"""been""","Clearwater, FL, USA",pmlm
+"""been""","Clermont, FL, USA",pmlm
+"""been""","Rome, GA, USA",pmlm
+"""been""","Clewiston, FL, USA",pmlm
+"""been""","Cocoa, FL, USA",pmlm
+"""been""","Cocoa Beach, FL, USA",pmlm
+"""been""","Waycross, GA, USA",pmlm
+"""been""","Leesburg, FL, USA",pmlm
+"""been""","Bellevue, WA, USA",pmlm
+"""been""","Santa Cruz, CA, USA",pmlm
+"""want""","Cannes, France",pmlm
+"""been""","Athens, Greece",pmlm
+"""been""","Santa Clarita, CA, USA",pmlm
+"""been""","Santa Clara, CA, USA",pmlm
+"""been""","Santa Barbara, CA, USA",pmlm
+"""been""","Temecula, CA, USA",pmlm
+"""been""","Santa Ana, CA, USA",pmlm
+"""been""","Doral, FL, USA",pmlm
+"""been""","Tehachapi, CA, USA",pmlm
+"""been""","Memphis, TN, USA",pmlm
+"""been""","Mammoth Lakes, CA, USA",pmlm
+"""been""","San Ysidro, CA, USA",pmlm
+"""been""","Beverly Hills, CA, USA",pmlm
+"""want""","Monte-Carlo, Monaco",pmlm
+"""been""","Philadelphia, PA, USA",pmlm
+"""been""","Ixtapa, Mexico",pmlm
+"""been""","Taos, NM, USA",pmlm
+"""been""","Coral Gables, FL, USA",pmlm
+"""been""","Coral Springs, FL, USA",pmlm
+"""been""","Hallandale Beach, FL, USA",pmlm
+"""been""","Normal, IL, USA",pmlm
+"""been""","Louisville, KY, USA",pmlm
+"""been"",""fave""","Longboat Key, FL, USA",pmlm
+"""been""","Crescent Beach, FL, USA",pmlm
+"""been""","San Simeon, CA, USA",pmlm
+"""been""","Idaho Falls, ID, USA",pmlm
+"""been""","Matteson, IL, USA",pmlm
+"""been""","Crestview, FL, USA",pmlm
+"""been""","San Rafael, CA, USA",pmlm
+"""been""","Wailea, HI, USA",pmlm
+"""been""","Cathedral City, CA, USA",pmlm
+"""been""","San Mateo, CA, USA",pmlm
+"""been""","Bellingham, WA, USA",pmlm
+"""been""","Waianae, HI, USA",pmlm
+"""been""","Waimanalo, HI, USA",pmlm
+"""been""","St. Marys, GA, USA",pmlm
+"""been""","Bradenton, FL, USA",pmlm
+"""want""","Nice, France",pmlm
+"""been""","North Bay Village, FL, USA",pmlm
+"""been""","Lake City, FL, USA",pmlm
+"""been""","Gainesville, FL, USA",pmlm
+"""been""","North Miami, FL, USA",pmlm
+"""been""","North Miami Beach, FL, USA",pmlm
+"""been""","Lake Mary, FL, USA",pmlm
+"""been""","Valdosta, GA, USA",pmlm
+"""been""","Cedar Key, FL, USA",pmlm
+"""been""","Schaumburg, IL, USA",pmlm
+"""been""","Atlanta, GA, USA",pmlm
+"""been""","Seal Beach, CA, USA",pmlm
+"""been""","Borrego Springs, CA, USA",pmlm
+"""want""","Saint-Tropez, France",pmlm
+"""want""","Casablanca, Morocco",pmlm
+"""been""","Sausalito, CA, USA",pmlm
+"""been""","Torrance, CA, USA",pmlm
+"""been""","Kahuku, HI, USA",pmlm
+"""been""","Bodega Bay, CA, USA",pmlm
+"""been""","Richmond, VA, USA",pmlm
+"""been""","Kailua, HI, USA",pmlm
+"""been""","Willcox, AZ, USA",pmlm
+"""been""","Kaneohe, HI, USA",pmlm
+"""been""","Manassas, VA, USA",pmlm
+"""been""","Kapolei, HI, USA",pmlm
+"""been""","Southampton, NY, USA",pmlm
+"""been""","Cherry Hill, NJ, USA",pmlm
+"""been""","Niagara Falls, Ontario, Canada",pmlm
+"""been""","Lake Wales, FL, USA",pmlm
+"""been""","Lake Worth, FL, USA",pmlm
+"""been""","Lakeland, FL, USA",pmlm
+"""been""","Mahwah, NJ, USA",pmlm
+"""been""","Ocala, FL, USA",pmlm
+"""been""","Land O Lakes, FL, USA",pmlm
+"""been""","Lantana, FL, USA",pmlm
+"""been""","Armutalan, Turkey",pmlm
+"""been""","Largo, FL, USA",pmlm
+"""been""","Barcelona, Spain",pmlm
+"""been""","Haleiwa, HI, USA",pmlm
+"""been""","Blythe, CA, USA",pmlm
+"""been""","El Paso, TX, USA",pmlm
+"""been""","Santa Ynez, CA, USA",pmlm
+"""been""","Ventura, CA, USA",pmlm
+"""been""","Marseille, France",pmlm
+"""been"",""fave""","Santa Monica, CA, USA",pmlm
+"""been""","Staunton, VA, USA",pmlm
+"""been""","Santa Maria, CA, USA",pmlm
+"""been""","Bishop, CA, USA",pmlm
+"""been""","Carlsbad, NM, USA",pmlm
+"""been""","Verona, NY, USA",pmlm
+"""been""","New York City, NY, USA",pmlm
+"""been""","Aiea, HI, USA",pmlm
+"""been""","Keauhou, HI, USA",pmlm
+"""been""","Boise, ID, USA",pmlm
+"""been""","Norcross, GA, USA",pmlm
+"""been""","Dunedin, FL, USA",pmlm
+"""been""","Dunnellon, FL, USA",pmlm
+"""been""","Bal Harbour, FL, USA",pmlm
+"""been""","Norfolk, VA, USA",pmlm
+"""been"",""fave""","Washington DC, DC, USA",pmlm
+"""want""","Amalfi, Italy",pmlm
+"""been""","Wilmington, NC, USA",pmlm
+"""been"",""fave""","London, UK",pmlm
+"""been""","Naples, Italy",pmlm
+"""been""","South Lake Tahoe, CA, USA",pmlm
+"""been""","Bay Harbor Islands, FL, USA",pmlm
+"""want""","Vatican City, Vatican City",pmlm
+"""want""","Tivoli, Italy",pmlm
+"""been"",""fave""","Rome, Italy",pmlm
+"""been""","Tustin, CA, USA",pmlm
+"""been""","Winston Salem, NC, USA",pmlm
+"""been""","Virginia Beach, VA, USA",pmlm
+"""been""","Turlock, CA, USA",pmlm
+"""been""","Hilo, HI, USA",pmlm
+"""been""","Truckee, CA, USA",pmlm
+"""want""","Rio de Janeiro, Brazil",pmlm
+"""been""","Anse Marcel, St Martin \u002F St Maarten",pmlm
+"""been""","Crystal River, FL, USA",pmlm
+"""been""","Montgomery, AL, USA",pmlm
+"""been""","Hialeah, FL, USA",pmlm
+"""been""","McHenry, IL, USA",pmlm
+"""been""","Dania Beach, FL, USA",pmlm
+"""been""","Racine, WI, USA",pmlm
+"""been""","Staten Island, NY, USA",pmlm
+"""been""","Saratoga Springs, NY, USA",pmlm
+"""been""","Reston, VA, USA",pmlm
+"""been""","Mobile, AL, USA",pmlm
+"""been""","Bronx, NY, USA",pmlm
+"""been""","North Ridgeville, OH, USA",pmlm
+"""been""","Davie, FL, USA",pmlm
+"""been""","Daytona Beach, FL, USA",pmlm
+"""been""","Sunny Isles Beach, FL, USA",pmlm
+"""been""","Hollywood, FL, USA",pmlm
+"""been""","Holmes Beach, FL, USA",pmlm
+"""been""","Deerfield Beach, FL, USA",pmlm
+"""been""","DeFuniak Springs, FL, USA",pmlm
+"""been""","DeLand, FL, USA",pmlm
+"""been""","Delray Beach, FL, USA",pmlm
+"""been""","Newport News, VA, USA",pmlm
+"""been""","Roanoke, VA, USA",pmlm
+"""been""","Cutler Ridge, FL, USA",pmlm
+"""been""","Simi Valley, CA, USA",pmlm
+"""been"",""fave""","Sydney, Australia",pmlm
+"""been""","Lombard, IL, USA",pmlm
+"""been""","Pomona, CA, USA",pmlm
+"""been""","Chattanooga, TN, USA",pmlm
+"""been""","Columbus, OH, USA",pmlm
+"""been""","Portage, MI, USA",pmlm
+"""want""","Frigate Bay, St. Kitts and Nevis",pmlm
+"""been""","Niagara Falls, NY, USA",pmlm
+"""been""","Shreveport, LA, USA",pmlm
+"""want""","Manchester, UK",pmlm
+"""been""","Pleasanton, CA, USA",pmlm
+"""been""","Bophut, Thailand",pmlm
+"""been""","Jacksonville, NC, USA",pmlm
+"""been""","Metairie, LA, USA",pmlm
+"""been""","Slidell, LA, USA",pmlm
+"""been""","Ojai, CA, USA",pmlm
+"""been""","Sioux Falls, SD, USA",pmlm
+"""been""","Ramona, CA, USA",pmlm
+"""been""","Oceanside, CA, USA",pmlm
+"""been""","Boca Grande, FL, USA",pmlm
+"""been""","Boca Raton, FL, USA",pmlm
+"""been""","Oakland, CA, USA",pmlm
+"""been""","Patong, Thailand",pmlm
+"""been""","Bonita Springs, FL, USA",pmlm
+"""been""","Boynton Beach, FL, USA",pmlm
+"""been""","Perry, GA, USA",pmlm
+"""been""","Bradenton Beach, FL, USA",pmlm
+"""been""","Gallup, NM, USA",pmlm
+"""been""","Atlantic City, NJ, USA",pmlm
+"""been""","South Haven, MI, USA",pmlm
+"""been""","Raleigh, NC, USA",pmlm
+"""been""","Hyannis, MA, USA",pmlm
+"""been""","Gulfport, MS, USA",pmlm
+"""been""","Milpitas, CA, USA",pmlm
+"""been""","Gurnee, IL, USA",pmlm
+"""been""","Oxnard, CA, USA",pmlm
+"""been""","Millbrae, CA, USA",pmlm
+"""been""","Montreal, Quebec, Canada",pmlm
+"""been""","Redwood City, CA, USA",pmlm
+"""been""","Redondo Beach, CA, USA",pmlm
+"""been""","Redding, CA, USA",pmlm
+"""been""","Dallas, TX, USA",pmlm
+"""been""","Quebec City, Quebec, Canada",pmlm
+"""want""","Zurich, Switzerland",pmlm
+"""been"",""fave""","Charlotte Amalie, U.S. Virgin Islands",pmlm
+"""been"",""fave""","Frederiksted, U.S. Virgin Islands",pmlm
+"""want""","Amsterdam, The Netherlands",pmlm
+"""been""","Christiansted, U.S. Virgin Islands",pmlm
+"""been"",""fave""","Paris, France",pmlm
+"""been""","Menlo Park, CA, USA",pmlm
+"""been""","Orange, CA, USA",pmlm
+"""been""","Rancho Santa Fe, CA, USA",pmlm
+"""been""","Rancho Palos Verdes, CA, USA",pmlm
+"""been""","Ontario, CA, USA",pmlm
+"""been""","Rancho Mirage, CA, USA",pmlm
+"""been""","Rancho Cucamonga, CA, USA",pmlm
+"""been""","Van Horn, TX, USA",pmlm
+"""been""","Long Island City, NY, USA",pmlm
+"""been"",""fave""","Nassau, Bahamas",pmlm
+"""been""","Duluth, GA, USA",pmlm
+"""been"",""fave""","Paradise Island, Bahamas",pmlm
+"""been""","Caneel Bay, U.S. Virgin Islands",pmlm
+"""been""","Cruz Bay, U.S. Virgin Islands",pmlm
+"""been""","Marietta, GA, USA",pmlm
+"""been""","Williams, AZ, USA",pmlm
+"""been""","Pasadena, CA, USA",pmlm
+"""been""","Monterey Park, CA, USA",pmlm
+"""been""","Toronto, Ontario, Canada",pmlm
+"""been""","Monterey, CA, USA",pmlm
+"""been""","Wickenburg, AZ, USA",pmlm
+"""been""","Bowling Green, KY, USA",pmlm
+"""been""","Riverside, CA, USA",pmlm
+"""been""","Lawndale, CA, USA",pmlm
+"""been""","Cancun, Mexico",pmlm
+"""been""","Grand Canyon National Park, AZ, USA",pmlm
+"""been""","Fayetteville, NC, USA",pmlm
+"""been""","Athens, GA, USA",pmlm
+"""been""","Ottawa, Ontario, Canada",pmlm
+"""been""","Falmouth, Jamaica",pmlm
+"""been""","Monrovia, CA, USA",pmlm
+"""been""","Palo Alto, CA, USA",pmlm
+"""been""","Lancaster, CA, USA",pmlm
+"""been""","Palmdale, CA, USA",pmlm
+"""been""","Palm Springs, CA, USA",pmlm
+"""been""","Las Cruces, NM, USA",pmlm
+"""been""","Lexington, KY, USA",pmlm
+"""been""","Palm Desert, CA, USA",pmlm
+"""been""","Modesto, CA, USA",pmlm
+"""been""","Mission Viejo, CA, USA",pmlm
+"""been""","Pacifica, CA, USA",pmlm
+"""been""","Pacific Grove, CA, USA",pmlm
+"""been""","Charlotte, NC, USA",pmlm
+"""want""","Kennebunkport, ME, USA",pmlm
+"""been""","New Buffalo, MI, USA",pmlm

@@ -1,0 +1,399 @@
+tag,place,user
+"""been""","Lenox, MA, USA",BBBBTravel
+"""been""","Vineyard Haven, MA, USA",BBBBTravel
+"""been""","Orleans, MA, USA",BBBBTravel
+"""been""","Oak Bluffs, MA, USA",BBBBTravel
+"""been""","Atlantic City, NJ, USA",BBBBTravel
+"""been""","Reims, France",BBBBTravel
+"""been""","Epernay, France",BBBBTravel
+"""been""","Toulon, France",BBBBTravel
+"""been""","Saint-Remy-de-Provence, France",BBBBTravel
+"""been"",""want""","Barcelona, Spain",BBBBTravel
+"""been""","Avalon, NJ, USA",BBBBTravel
+"""been""","Northeast Harbor, ME, USA",BBBBTravel
+"""been""","Marseille, France",BBBBTravel
+"""been""","Truro, MA, USA",BBBBTravel
+"""been""","Hyannis, MA, USA",BBBBTravel
+"""been""","Versailles, France",BBBBTravel
+"""been""","Paris, France",BBBBTravel
+"""been""","Zurich, Switzerland",BBBBTravel
+"""been""","Chamonix, France",BBBBTravel
+"""want""","Amsterdam, The Netherlands",BBBBTravel
+"""been""","Sanremo, Italy",BBBBTravel
+"""been""","Trexlertown, PA, USA",BBBBTravel
+"""been""","Doylestown, PA, USA",BBBBTravel
+"""been""","Newmarket-on-Fergus, Ireland",BBBBTravel
+"""been""","Provincetown, MA, USA",BBBBTravel
+"""been""","Plymouth, MA, USA",BBBBTravel
+"""been""","Nimes, France",BBBBTravel
+"""been""","Montpellier, France",BBBBTravel
+"""been""","Nantucket, MA, USA",BBBBTravel
+"""been""","Harrisburg, PA, USA",BBBBTravel
+"""been""","State College, PA, USA",BBBBTravel
+"""been""","Reading, PA, USA",BBBBTravel
+"""want""","Vienna, Austria",BBBBTravel
+"""been""","Scotrun, PA, USA",BBBBTravel
+"""been""","Bunratty, Ireland",BBBBTravel
+"""been""","Whitehall, PA, USA",BBBBTravel
+"""been""","Lexington, KY, USA",BBBBTravel
+"""been""","Dennis Port, MA, USA",BBBBTravel
+"""been""","Camden, ME, USA",BBBBTravel
+"""been""","Peabody, MA, USA",BBBBTravel
+"""been""","Ogunquit, ME, USA",BBBBTravel
+"""want""","Salzburg, Austria",BBBBTravel
+"""been""","Quakertown, PA, USA",BBBBTravel
+"""been""","Coopersburg, PA, USA",BBBBTravel
+"""been""","Mykonos Town, Greece",BBBBTravel
+"""been""","Kiryat Shmona, Israel",BBBBTravel
+"""been""","Fogelsville, PA, USA",BBBBTravel
+"""been""","Prague, Czech Republic",BBBBTravel
+"""been""","Edgartown, MA, USA",BBBBTravel
+"""been""","Antibes, France",BBBBTravel
+"""want""","Ghent, Belgium",BBBBTravel
+"""been""","Eastham, MA, USA",BBBBTravel
+"""been""","Rockport, MA, USA",BBBBTravel
+"""been""","Medford, MA, USA",BBBBTravel
+"""been""","Oxford, UK",BBBBTravel
+"""been""","Oxnard, CA, USA",BBBBTravel
+"""been""","Athens, Greece",BBBBTravel
+"""been""","Strasburg, PA, USA",BBBBTravel
+"""been""","Stroudsburg, PA, USA",BBBBTravel
+"""been""","Terezin, Czech Republic",BBBBTravel
+"""been""","Easton, PA, USA",BBBBTravel
+"""been""","Mashpee, MA, USA",BBBBTravel
+"""been""","East Orleans, MA, USA",BBBBTravel
+"""been""","Juan-les-Pins, France",BBBBTravel
+"""been""","Marlborough, MA, USA",BBBBTravel
+"""been""","Kennebunk, ME, USA",BBBBTravel
+"""been""","Grasse, France",BBBBTravel
+"""been""","Eze, France",BBBBTravel
+"""been""","Cannes, France",BBBBTravel
+"""been""","Marblehead, MA, USA",BBBBTravel
+"""been""","Kennebunkport, ME, USA",BBBBTravel
+"""been""","East Dennis, MA, USA",BBBBTravel
+"""want""","Bruges, Belgium",BBBBTravel
+"""been""","East Stroudsburg, PA, USA",BBBBTravel
+"""been""","Bath, UK",BBBBTravel
+"""been""","Sellersville, PA, USA",BBBBTravel
+"""been""","Carlisle, PA, USA",BBBBTravel
+"""been""","Danville, PA, USA",BBBBTravel
+"""been""","Barnstable, MA, USA",BBBBTravel
+"""been""","St-Jean-Cap-Ferrat, France",BBBBTravel
+"""been"",""want""","Nice, France",BBBBTravel
+"""been""","Monte-Carlo, Monaco",BBBBTravel
+"""been""","Menton, France",BBBBTravel
+"""been""","Monaco-Ville, Monaco",BBBBTravel
+"""been""","Copenhagen, Denmark",BBBBTravel
+"""been""","Helsingoer, Denmark",BBBBTravel
+"""been""","New Hope, PA, USA",BBBBTravel
+"""been""","Hillerod, Denmark",BBBBTravel
+"""been""","Roskilde, Denmark",BBBBTravel
+"""been""","New Milford, PA, USA",BBBBTravel
+"""been""","Perkasie, PA, USA",BBBBTravel
+"""been""","Orleans, France",BBBBTravel
+"""been""","Gordes, France",BBBBTravel
+"""been""","Fall River, MA, USA",BBBBTravel
+"""been"",""want""","Toledo, Spain",BBBBTravel
+"""been""","Falmouth, MA, USA",BBBBTravel
+"""been""","Villefranche-sur-Mer, France",BBBBTravel
+"""been""","Maui, HI, USA",BBBBTravel
+"""been""","Stratford-upon-Avon, UK",BBBBTravel
+"""been""","Vence, France",BBBBTravel
+"""been""","Milford, MA, USA",BBBBTravel
+"""been""","Saint-Tropez, France",BBBBTravel
+"""been""","St-Paul-de-Vence, France",BBBBTravel
+"""been""","Pennsburg, PA, USA",BBBBTravel
+"""been""","Bloomsburg, PA, USA",BBBBTravel
+"""been""","Agios Nikolaos, Greece",BBBBTravel
+"""been""","Center Valley, PA, USA",BBBBTravel
+"""been""","Kutna Hora, Czech Republic",BBBBTravel
+"""been""","Seaside Heights, NJ, USA",BBBBTravel
+"""been""","Clarks Summit, PA, USA",BBBBTravel
+"""been""","Brewster, MA, USA",BBBBTravel
+"""been"",""want""","Lisbon, Portugal",BBBBTravel
+"""been""","Rockville, MD, USA",BBBBTravel
+"""been""","Braintree, MA, USA",BBBBTravel
+"""been""","Charlotte Amalie, U.S. Virgin Islands",BBBBTravel
+"""been""","Lucerne, Switzerland",BBBBTravel
+"""been""","Chichen Itza, Mexico",BBBBTravel
+"""been""","Cancun, Mexico",BBBBTravel
+"""been""","Mystic, CT, USA",BBBBTravel
+"""been""","Skippack, PA, USA",BBBBTravel
+"""been""","Kefar Rosh HaNiqra, Israel",BBBBTravel
+"""been""","Pittsburgh, PA, USA",BBBBTravel
+"""been""","Sintra, Portugal",BBBBTravel
+"""been""","Positano, Italy",BBBBTravel
+"""been""","Long Beach, CA, USA",BBBBTravel
+"""been""","Alexandria, VA, USA",BBBBTravel
+"""been""","Obidos, Portugal",BBBBTravel
+"""been""","Emmaus, PA, USA",BBBBTravel
+"""been""","West Haven, CT, USA",BBBBTravel
+"""been""","New Haven, CT, USA",BBBBTravel
+"""been""","Phoenix, AZ, USA",BBBBTravel
+"""want""","Budapest, Hungary",BBBBTravel
+"""been""","Sinking Spring, PA, USA",BBBBTravel
+"""been""","Jaffa, Israel",BBBBTravel
+"""been""","Newport Beach, CA, USA",BBBBTravel
+"""been""","Annapolis, MD, USA",BBBBTravel
+"""been""","Somers Point, NJ, USA",BBBBTravel
+"""been""","Oldwick, NJ, USA",BBBBTravel
+"""been""","Silver Spring, MD, USA",BBBBTravel
+"""been""","Chatham, MA, USA",BBBBTravel
+"""been""","East Molesey, UK",BBBBTravel
+"""been""","Chicago, IL, USA",BBBBTravel
+"""been""","Los Angeles, CA, USA",BBBBTravel
+"""been""","North Wales, PA, USA",BBBBTravel
+"""been""","Acre, Israel",BBBBTravel
+"""been""","Pizzo, Italy",BBBBTravel
+"""been""","Northampton, PA, USA",BBBBTravel
+"""been""","Wildwood, NJ, USA",BBBBTravel
+"""been""","Wildwood Crest, NJ, USA",BBBBTravel
+"""been""","Montgomeryville, PA, USA",BBBBTravel
+"""been""","Lugano, Switzerland",BBBBTravel
+"""been""","Acme, PA, USA",BBBBTravel
+"""been""","Porto, Portugal",BBBBTravel
+"""been""","St. Moritz, Switzerland",BBBBTravel
+"""been""","Plymouth Meeting, PA, USA",BBBBTravel
+"""been""","Danbury, CT, USA",BBBBTravel
+"""been""","Arlington, VA, USA",BBBBTravel
+"""been""","Scottsdale, AZ, USA",BBBBTravel
+"""been""","San Juan, Puerto Rico",BBBBTravel
+"""been""","Spring Lake, NJ, USA",BBBBTravel
+"""been""","Hudson, NY, USA",BBBBTravel
+"""been""","Toulouse, France",BBBBTravel
+"""been""","Sarasota, FL, USA",BBBBTravel
+"""want""","Oslo, Norway",BBBBTravel
+"""been""","Malibu, CA, USA",BBBBTravel
+"""been""","West Palm Beach, FL, USA",BBBBTravel
+"""been""","Mount Pocono, PA, USA",BBBBTravel
+"""been""","Birmingham, AL, USA",BBBBTravel
+"""been""","Kingston, Jamaica",BBBBTravel
+"""been""","Manchester, UK",BBBBTravel
+"""been""","Cahersiveen, Ireland",BBBBTravel
+"""been""","Giverny, France",BBBBTravel
+"""been""","Negril, Jamaica",BBBBTravel
+"""been""","Allentown, PA, USA",BBBBTravel
+"""been""","Ocho Rios, Jamaica",BBBBTravel
+"""been""","Sedona, AZ, USA",BBBBTravel
+"""been""","High Bridge, NJ, USA",BBBBTravel
+"""been""","Falmouth, Jamaica",BBBBTravel
+"""been""","Freeport, Bahamas",BBBBTravel
+"""been""","Milford, NJ, USA",BBBBTravel
+"""been""","Irvington, NY, USA",BBBBTravel
+"""been""","Ocean City, MD, USA",BBBBTravel
+"""been""","Hagerstown, MD, USA",BBBBTravel
+"""been""","Ambler, PA, USA",BBBBTravel
+"""been""","Rouen, France",BBBBTravel
+"""been""","La Jolla, CA, USA",BBBBTravel
+"""been""","Orlando, FL, USA",BBBBTravel
+"""been""","Wilkes-Barre, PA, USA",BBBBTravel
+"""been""","Williamsport, PA, USA",BBBBTravel
+"""been""","Mount Vernon, VA, USA",BBBBTravel
+"""been""","Quebec City, Quebec, Canada",BBBBTravel
+"""been""","Morristown, NJ, USA",BBBBTravel
+"""been""","Safed, Israel",BBBBTravel
+"""been""","Orefield, PA, USA",BBBBTravel
+"""been""","Tempe, AZ, USA",BBBBTravel
+"""been""","Montreal, Quebec, Canada",BBBBTravel
+"""been""","Greenwich, CT, USA",BBBBTravel
+"""been""","Dublin, Ireland",BBBBTravel
+"""been""","Mount Laurel, NJ, USA",BBBBTravel
+"""been""","Humlebaek, Denmark",BBBBTravel
+"""been""","San Antonio, TX, USA",BBBBTravel
+"""been""","San Francisco, CA, USA",BBBBTravel
+"""been""","Tijuana, Mexico",BBBBTravel
+"""been""","Salem, MA, USA",BBBBTravel
+"""been""","Quincy, MA, USA",BBBBTravel
+"""been""","Santa Fe, NM, USA",BBBBTravel
+"""been""","Seven Mile Beach, Cayman Islands",BBBBTravel
+"""been""","Columbia, MD, USA",BBBBTravel
+"""been""","Breckenridge, CO, USA",BBBBTravel
+"""been""","Coronado, CA, USA",BBBBTravel
+"""been""","Beaufort, Ireland",BBBBTravel
+"""been""","Genoa, Italy",BBBBTravel
+"""been""","Killarney, Ireland",BBBBTravel
+"""been""","Grand Case, St Martin \u002F St Maarten",BBBBTravel
+"""been""","Princeton, NJ, USA",BBBBTravel
+"""been""","Hamilton, NY, USA",BBBBTravel
+"""been""","Waikoloa, HI, USA",BBBBTravel
+"""been""","Volcano, HI, USA",BBBBTravel
+"""been""","Scranton, PA, USA",BBBBTravel
+"""been""","Springfield, MA, USA",BBBBTravel
+"""been""","Beaufort, SC, USA",BBBBTravel
+"""been""","Burbank, CA, USA",BBBBTravel
+"""been""","Charleston, SC, USA",BBBBTravel
+"""been""","Macungie, PA, USA",BBBBTravel
+"""been""","Como, Italy",BBBBTravel
+"""been""","Baltimore, MD, USA",BBBBTravel
+"""been""","Tarrytown, NY, USA",BBBBTravel
+"""been""","Lambertville, NJ, USA",BBBBTravel
+"""been""","Newark, NJ, USA",BBBBTravel
+"""been""","Miami Beach, FL, USA",BBBBTravel
+"""been""","Miami, FL, USA",BBBBTravel
+"""been""","York, PA, USA",BBBBTravel
+"""been""","Austin, TX, USA",BBBBTravel
+"""been""","Everglades City, FL, USA",BBBBTravel
+"""been""","Mill Run, PA, USA",BBBBTravel
+"""been""","Milan, Italy",BBBBTravel
+"""been""","Tannersville, NY, USA",BBBBTravel
+"""been""","Syracuse, NY, USA",BBBBTravel
+"""been""","Bar Harbor, ME, USA",BBBBTravel
+"""been""","Brooklyn, NY, USA",BBBBTravel
+"""been""","Providence, RI, USA",BBBBTravel
+"""been""","Milford, PA, USA",BBBBTravel
+"""been""","Killington, VT, USA",BBBBTravel
+"""been""","West Hollywood, CA, USA",BBBBTravel
+"""been""","San Diego, CA, USA",BBBBTravel
+"""want""","Seattle, WA, USA",BBBBTravel
+"""been""","Lahaina, HI, USA",BBBBTravel
+"""been""","Wellfleet, MA, USA",BBBBTravel
+"""been""","Sleepy Hollow, NY, USA",BBBBTravel
+"""been""","Kailua-Kona, HI, USA",BBBBTravel
+"""been""","North Wildwood, NJ, USA",BBBBTravel
+"""been""","Santo Domingo, Dominican Republic",BBBBTravel
+"""been""","Houston, TX, USA",BBBBTravel
+"""been""","Kissimmee, FL, USA",BBBBTravel
+"""been""","Carmel, CA, USA",BBBBTravel
+"""been""","Siena, Italy",BBBBTravel
+"""been""","Cooperstown, NY, USA",BBBBTravel
+"""been""","Manheim, PA, USA",BBBBTravel
+"""been""","Flemington, NJ, USA",BBBBTravel
+"""been""","New York City, NY, USA",BBBBTravel
+"""been""","Fort Lauderdale, FL, USA",BBBBTravel
+"""been""","Belize City, Belize",BBBBTravel
+"""been""","Key West, FL, USA",BBBBTravel
+"""been""","Narragansett, RI, USA",BBBBTravel
+"""been""","Newport, RI, USA",BBBBTravel
+"""been""","Jim Thorpe, PA, USA",BBBBTravel
+"""been""","Los Alamos, NM, USA",BBBBTravel
+"""been""","Binghamton, NY, USA",BBBBTravel
+"""been""","Croton on Hudson, NY, USA",BBBBTravel
+"""been""","Cape Canaveral, FL, USA",BBBBTravel
+"""been""","Denver, CO, USA",BBBBTravel
+"""been""","St. Augustine, FL, USA",BBBBTravel
+"""been""","Mijas Pueblo, Spain",BBBBTravel
+"""been""","Bologna, Italy",BBBBTravel
+"""been""","Charlottesville, VA, USA",BBBBTravel
+"""been""","Beverly Hills, CA, USA",BBBBTravel
+"""been""","Utica, NY, USA",BBBBTravel
+"""been""","Boston, MA, USA",BBBBTravel
+"""been""","New Orleans, LA, USA",BBBBTravel
+"""been""","Ocean City, NJ, USA",BBBBTravel
+"""been""","Cazenovia, NY, USA",BBBBTravel
+"""been""","White Plains, NY, USA",BBBBTravel
+"""been""","Anacapri, Italy",BBBBTravel
+"""been""","Lindos, Greece",BBBBTravel
+"""been""","Long Branch, NJ, USA",BBBBTravel
+"""been""","Cape May, NJ, USA",BBBBTravel
+"""been""","Dover, DE, USA",BBBBTravel
+"""been""","Dewey Beach, DE, USA",BBBBTravel
+"""been""","Williamsburg, VA, USA",BBBBTravel
+"""been""","Durango, CO, USA",BBBBTravel
+"""been""","Santa Monica, CA, USA",BBBBTravel
+"""been""","South Bend, IN, USA",BBBBTravel
+"""been""","Lauderdale-By-The-Sea, FL, USA",BBBBTravel
+"""been""","Pisa, Italy",BBBBTravel
+"""been""","Norwich, NY, USA",BBBBTravel
+"""been""","Florence, Italy",BBBBTravel
+"""been""","Gettysburg, PA, USA",BBBBTravel
+"""want""","Petra - Wadi Musa, Jordan",BBBBTravel
+"""been""","Philadelphia, PA, USA",BBBBTravel
+"""been""","Palermo, Italy",BBBBTravel
+"""been""","Liscannor, Ireland",BBBBTravel
+"""been""","Kennett Square, PA, USA",BBBBTravel
+"""been""","Santa Barbara, CA, USA",BBBBTravel
+"""want""","Munich, Germany",BBBBTravel
+"""been""","West Dennis, MA, USA",BBBBTravel
+"""been""","London, UK",BBBBTravel
+"""want""","Antwerp, Belgium",BBBBTravel
+"""been""","Pompeii, Italy",BBBBTravel
+"""been""","Naples, Italy",BBBBTravel
+"""been""","Capri, Italy",BBBBTravel
+"""been""","Sorrento, Italy",BBBBTravel
+"""been""","Verona, NY, USA",BBBBTravel
+"""been""","Amalfi, Italy",BBBBTravel
+"""been""","Cocoa Beach, FL, USA",BBBBTravel
+"""been""","West Harwich, MA, USA",BBBBTravel
+"""been""","Johnson City, TX, USA",BBBBTravel
+"""been""","Newark, DE, USA",BBBBTravel
+"""been""","Cambridge, MA, USA",BBBBTravel
+"""been""","Rockport, ME, USA",BBBBTravel
+"""been""","Malaga, Spain",BBBBTravel
+"""been""","East Boothbay, ME, USA",BBBBTravel
+"""been""","York, UK",BBBBTravel
+"""been""","Kutztown, PA, USA",BBBBTravel
+"""been""","Atlanta, GA, USA",BBBBTravel
+"""been""","Rockland, ME, USA",BBBBTravel
+"""want""","Cordoba, Spain",BBBBTravel
+"""been""","Vatican City, Vatican City",BBBBTravel
+"""been""","Old Forge, NY, USA",BBBBTravel
+"""been""","Rome, Italy",BBBBTravel
+"""been""","Schenectady, NY, USA",BBBBTravel
+"""been""","Somerville, MA, USA",BBBBTravel
+"""been""","Puerto Plata, Dominican Republic",BBBBTravel
+"""been""","Louisville, KY, USA",BBBBTravel
+"""been""","Aix-en-Provence, France",BBBBTravel
+"""been""","Daytona Beach, FL, USA",BBBBTravel
+"""been""","West Yarmouth, MA, USA",BBBBTravel
+"""been""","Washington DC, DC, USA",BBBBTravel
+"""been""","Hershey, PA, USA",BBBBTravel
+"""been""","Walnutport, PA, USA",BBBBTravel
+"""been""","Bethlehem, PA, USA",BBBBTravel
+"""want""","Berlin, Germany",BBBBTravel
+"""want""","Seville, Spain",BBBBTravel
+"""been""","Benalmadena, Spain",BBBBTravel
+"""been""","Granada, Spain",BBBBTravel
+"""been""","Taos, NM, USA",BBBBTravel
+"""been""","Torremolinos, Spain",BBBBTravel
+"""been""","Punta Cana, Dominican Republic",BBBBTravel
+"""been""","King of Prussia, PA, USA",BBBBTravel
+"""been""","Hellertown, PA, USA",BBBBTravel
+"""been""","Staten Island, NY, USA",BBBBTravel
+"""want""","Stockholm, Sweden",BBBBTravel
+"""been""","Rehoboth Beach, DE, USA",BBBBTravel
+"""been""","Agios Georgios, Greece",BBBBTravel
+"""been""","Aquinnah, MA, USA",BBBBTravel
+"""been""","Bath, ME, USA",BBBBTravel
+"""been""","Turin, Italy",BBBBTravel
+"""been""","Piano di Sorrento, Italy",BBBBTravel
+"""been""","Yarmouth Port, MA, USA",BBBBTravel
+"""been""","Yarmouth, ME, USA",BBBBTravel
+"""been""","Warwick, UK",BBBBTravel
+"""been""","Woods Hole, MA, USA",BBBBTravel
+"""been""","Oxford, NY, USA",BBBBTravel
+"""been""","Lake Harmony, PA, USA",BBBBTravel
+"""been""","Wilmington, DE, USA",BBBBTravel
+"""been""","Windsor, UK",BBBBTravel
+"""been""","Verona, VA, USA",BBBBTravel
+"""been""","Padua, Italy",BBBBTravel
+"""want""","Glasgow, UK",BBBBTravel
+"""been""","Salisbury, UK",BBBBTravel
+"""been""","Merano, Italy",BBBBTravel
+"""been""","Tannersville, PA, USA",BBBBTravel
+"""been""","Clinton, NY, USA",BBBBTravel
+"""been""","Eilat, Israel",BBBBTravel
+"""been""","Lahaska, PA, USA",BBBBTravel
+"""been""","Haifa, Israel",BBBBTravel
+"""been""","Newport News, VA, USA",BBBBTravel
+"""been""","Jerusalem, Israel",BBBBTravel
+"""been""","Tel Aviv, Israel",BBBBTravel
+"""been""","Tysons Corner, VA, USA",BBBBTravel
+"""been""","Boothbay Harbor, ME, USA",BBBBTravel
+"""been""","Boca Raton, FL, USA",BBBBTravel
+"""been""","Freeport, ME, USA",BBBBTravel
+"""been"",""want""","Madrid, Spain",BBBBTravel
+"""been""","Stockbridge, MA, USA",BBBBTravel
+"""been""","Gibraltar, Europe",BBBBTravel
+"""been""","Verona, Italy",BBBBTravel
+"""been""","Venice, Italy",BBBBTravel
+"""been""","Cul de Sac, St Martin \u002F St Maarten",BBBBTravel
+"""been""","West Lawn, PA, USA",BBBBTravel
+"""been""","Hilo, HI, USA",BBBBTravel
+"""been""","Belcamp, MD, USA",BBBBTravel
+"""been""","York Beach, ME, USA",BBBBTravel
+"""been""","South Yarmouth, MA, USA",BBBBTravel
+"""been""","Langhorne, PA, USA",BBBBTravel
+"""been""","Saint-Denis, France",BBBBTravel
+"""been""","Wescosville, PA, USA",BBBBTravel
+"""want""","Helsinki, Finland",BBBBTravel
+"""been""","Lancaster, PA, USA",BBBBTravel

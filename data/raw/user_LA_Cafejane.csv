@@ -1,0 +1,592 @@
+tag,place,user
+"""want""","Reykjavik, Iceland",Cafejane
+"""want""","Rome, Italy",Cafejane
+"""been""","Cardiff, UK",Cafejane
+"""been""","Cordoba, Spain",Cafejane
+"""been""","Middlesbrough, UK",Cafejane
+"""been""","Bristol, UK",Cafejane
+"""been""","Praia da Rocha, Portugal",Cafejane
+"""been""","Cadiz, Spain",Cafejane
+"""been""","El Puerto de Santa Maria, Spain",Cafejane
+"""want""","Brussels, Belgium",Cafejane
+"""been""","Chiclana de la Frontera, Spain",Cafejane
+"""been""","Swansea, UK",Cafejane
+"""want""","Stockholm, Sweden",Cafejane
+"""been""","York, UK",Cafejane
+"""been"",""fave""","Cambridge, UK",Cafejane
+"""been""","Malaga, Spain",Cafejane
+"""been""","Portonovo, Spain",Cafejane
+"""been""","Porches, Portugal",Cafejane
+"""been""","Estepona, Spain",Cafejane
+"""been""","Cala'n Forcat, Spain",Cafejane
+"""been"",""fave""","Rufford, UK",Cafejane
+"""been""","Marbella, Spain",Cafejane
+"""been"",""fave""","Cala Galdana, Spain",Cafejane
+"""been""","Cala Llonga, Spain",Cafejane
+"""been"",""fave""","Dyuni, Bulgaria",Cafejane
+"""been""","Berwick upon Tweed, UK",Cafejane
+"""been""","Puerto Naos, Spain",Cafejane
+"""been""","Granada, Spain",Cafejane
+"""been""","Taunton, UK",Cafejane
+"""been""","Torremolinos, Spain",Cafejane
+"""been""","Seville, Spain",Cafejane
+"""been""","Chester, UK",Cafejane
+"""been""","Falmouth, UK",Cafejane
+"""want""","Berlin, Germany",Cafejane
+"""been"",""fave""","Newcastle, UK",Cafejane
+"""been""","Looe, UK",Cafejane
+"""been""","Newquay, UK",Cafejane
+"""been""","La Rochelle, France",Cafejane
+"""want""","Marrakech, Morocco",Cafejane
+"""want""","Istanbul, Turkey",Cafejane
+"""been"",""fave""","Wakefield, UK",Cafejane
+"""want""","Palm Springs, CA, USA",Cafejane
+"""been""","Poole, UK",Cafejane
+"""been""","Eastbourne, UK",Cafejane
+"""been""","Llandudno, UK",Cafejane
+"""been"",""fave""","Kefalos, Greece",Cafejane
+"""been""","Penzance, UK",Cafejane
+"""been""","Oxford, UK",Cafejane
+"""been""","Reading, UK",Cafejane
+"""been""","Slough, UK",Cafejane
+"""been""","St Ives, UK",Cafejane
+"""been""","Bilbao, Spain",Cafejane
+"""been""","Sheffield, UK",Cafejane
+"""been""","Avignon, France",Cafejane
+"""been""","Puerto Banus, Spain",Cafejane
+"""been""","San Sebastian - Donostia, Spain",Cafejane
+"""been""","Antibes, France",Cafejane
+"""been""","Redondo Beach, CA, USA",Cafejane
+"""been""","Houmt Souk, Tunisia",Cafejane
+"""been""","Bruges, Belgium",Cafejane
+"""been"",""fave""","Glastonbury, UK",Cafejane
+"""been""","Palma de Mallorca, Spain",Cafejane
+"""been""","Cannes, France",Cafejane
+"""been""","Dartmouth, UK",Cafejane
+"""been"",""fave""","Ciutadella, Spain",Cafejane
+"""been""","Morzine, France",Cafejane
+"""been""","Stafford, UK",Cafejane
+"""been""","Saint-Malo, France",Cafejane
+"""been""","Athens, Greece",Cafejane
+"""been""","Plymouth, UK",Cafejane
+"""been""","Torquay, UK",Cafejane
+"""been"",""fave""","Pineda de Mar, Spain",Cafejane
+"""been""","L'Estartit, Spain",Cafejane
+"""been""","Folkestone, UK",Cafejane
+"""been"",""fave""","Middleham, UK",Cafejane
+"""been"",""fave""","Sidmouth, UK",Cafejane
+"""been"",""fave""","Newbury, UK",Cafejane
+"""been""","Nessebar, Bulgaria",Cafejane
+"""been""","Minehead, UK",Cafejane
+"""been""","Bath, UK",Cafejane
+"""want""","Venice, Italy",Cafejane
+"""been""","Winchester, UK",Cafejane
+"""been""","Roissy-en-France, France",Cafejane
+"""been""","Worcester, UK",Cafejane
+"""been""","Adeje, Spain",Cafejane
+"""been""","San Juan De Aznalfarache, Spain",Cafejane
+"""want""","Madrid, Spain",Cafejane
+"""been""","Aberystwyth, UK",Cafejane
+"""been""","Nerja, Spain",Cafejane
+"""been""","Fuengirola, Spain",Cafejane
+"""been""","Murcia, Spain",Cafejane
+"""been"",""fave""","Tunis, Tunisia",Cafejane
+"""been"",""fave""","Portland, OR, USA",Cafejane
+"""been""","Orange Beach, AL, USA",Cafejane
+"""been""","Bridgwater, UK",Cafejane
+"""want""","Mont Tremblant, Quebec, Canada",Cafejane
+"""been""","Lagoa, Portugal",Cafejane
+"""been""","Alcudia, Spain",Cafejane
+"""been""","Roquetas de Mar, Spain",Cafejane
+"""been"",""fave""","Altea, Spain",Cafejane
+"""been""","Dover, UK",Cafejane
+"""been""","Calpe, Spain",Cafejane
+"""been""","Benidorm, Spain",Cafejane
+"""been""","La Antilla, Spain",Cafejane
+"""been""","Torrevieja, Spain",Cafejane
+"""been""","Ambleside, UK",Cafejane
+"""been"",""fave""","Marlow, UK",Cafejane
+"""been""","Valencia, Spain",Cafejane
+"""been""","Rainham, UK",Cafejane
+"""been""","Paignton, UK",Cafejane
+"""been""","Christchurch, UK",Cafejane
+"""been"",""fave""","King's Lynn, UK",Cafejane
+"""want""","Taormina, Italy",Cafejane
+"""been"",""fave""","Hove, UK",Cafejane
+"""want""","Florence, Italy",Cafejane
+"""been""","Grasmere, UK",Cafejane
+"""been""","Kendal, UK",Cafejane
+"""want""","Porto-Vecchio, France",Cafejane
+"""want""","Pisa, Italy",Cafejane
+"""been""","Il Gzira, Malta",Cafejane
+"""been"",""fave""","Calvi, France",Cafejane
+"""been""","Son Parc, Spain",Cafejane
+"""been"",""fave""","Mahon, Spain",Cafejane
+"""been""","Xemxija, Malta",Cafejane
+"""been""","Weymouth, UK",Cafejane
+"""been""","Pissouri, Cyprus",Cafejane
+"""been"",""fave""","West Bromwich, UK",Cafejane
+"""been""","Windermere, UK",Cafejane
+"""been""","Seaside, OR, USA",Cafejane
+"""want""","Naples, Italy",Cafejane
+"""been""","La Manga del Mar Menor, Spain",Cafejane
+"""been""","Bridgend, UK",Cafejane
+"""been""","Liverpool, UK",Cafejane
+"""been""","London, UK",Cafejane
+"""been""","Cambados, Spain",Cafejane
+"""been""","Almeria, Spain",Cafejane
+"""been""","Padstow, UK",Cafejane
+"""want""","Munich, Germany",Cafejane
+"""been"",""fave""","Malgrat de Mar, Spain",Cafejane
+"""been""","Puerto Del Carmen, Spain",Cafejane
+"""been""","Playa de Palma, Spain",Cafejane
+"""been""","Aguilas, Spain",Cafejane
+"""been""","Laganas, Greece",Cafejane
+"""been""","Myrtle Beach, SC, USA",Cafejane
+"""been"",""fave""","Bowness-on-Windermere, UK",Cafejane
+"""been""","Cala Blava, Spain",Cafejane
+"""been""","Platja d'Aro, Spain",Cafejane
+"""been""","Cala'n Bosch, Spain",Cafejane
+"""been""","Cala'n Blanes, Spain",Cafejane
+"""been"",""fave""","Puerto de Santiago, Spain",Cafejane
+"""been""","Granadilla de Abona, Spain",Cafejane
+"""been""","Montpellier, France",Cafejane
+"""been""","Narbonne, France",Cafejane
+"""been""","Marsaxlokk, Malta",Cafejane
+"""been""","Mdina, Malta",Cafejane
+"""been""","Turkey, TX, USA",Cafejane
+"""been""","Perpignan, France",Cafejane
+"""been""","North Myrtle Beach, SC, USA",Cafejane
+"""been""","Costa Adeje, Spain",Cafejane
+"""want""","Salzburg, Austria",Cafejane
+"""been"",""fave""","Icmeler, Turkey",Cafejane
+"""been""","Xaghra, Malta",Cafejane
+"""been"",""fave""","St Helens, UK",Cafejane
+"""been""","Gharb, Malta",Cafejane
+"""been""","Carcassonne Center, France",Cafejane
+"""been""","Marsalforn, Malta",Cafejane
+"""been"",""fave""","Val d'Isere, France",Cafejane
+"""been""","Victoria, Malta",Cafejane
+"""been""","Almerimar, Spain",Cafejane
+"""been""","Richmond-upon-Thames, UK",Cafejane
+"""want""","Vienna, Austria",Cafejane
+"""been""","Gloucester, UK",Cafejane
+"""been""","Evora, Portugal",Cafejane
+"""been""","Harrogate, UK",Cafejane
+"""been""","Newton Ferrers, UK",Cafejane
+"""been""","Swindon, UK",Cafejane
+"""been""","Derby, UK",Cafejane
+"""been""","Javea, Spain",Cafejane
+"""been""","Denia, Spain",Cafejane
+"""been""","Dawlish, UK",Cafejane
+"""been"",""want""","Oludeniz, Turkey",Cafejane
+"""been"",""fave""","Los Cristianos, Spain",Cafejane
+"""been""","Tavira, Portugal",Cafejane
+"""been""","SeaTac, WA, USA",Cafejane
+"""want""","Nashville, TN, USA",Cafejane
+"""been""","Rabat, Malta",Cafejane
+"""been""","Sliema, Malta",Cafejane
+"""been""","Bracknell, UK",Cafejane
+"""been""","Valletta, Malta",Cafejane
+"""been""","Albufeira, Portugal",Cafejane
+"""been""","Armacao de Pera, Portugal",Cafejane
+"""been""","Maidstone, UK",Cafejane
+"""been""","Faro, Portugal",Cafejane
+"""been""","Lagos, Portugal",Cafejane
+"""been""","Lille, France",Cafejane
+"""been""","Carvoeiro, Portugal",Cafejane
+"""been""","Friday Harbor, WA, USA",Cafejane
+"""been""","Loule, Portugal",Cafejane
+"""want""","San Francisco, CA, USA",Cafejane
+"""been""","Torrejon De Ardoz, Spain",Cafejane
+"""been"",""fave""","Kidderminster, UK",Cafejane
+"""been""","Dudley, UK",Cafejane
+"""been""","Hollywood, FL, USA",Cafejane
+"""been"",""fave""","Lancaster, UK",Cafejane
+"""been""","Doncaster, UK",Cafejane
+"""been""","Silves, Portugal",Cafejane
+"""been""","Exmouth, UK",Cafejane
+"""been""","Manchester, UK",Cafejane
+"""been""","Vancouver, WA, USA",Cafejane
+"""been"",""fave""","Brooklyn, NY, USA",Cafejane
+"""been""","Spokane, WA, USA",Cafejane
+"""been""","Caen, France",Cafejane
+"""been""","Saint Julian's, Malta",Cafejane
+"""been""","Tewkesbury, UK",Cafejane
+"""been""","Preston, UK",Cafejane
+"""been""","Las Palmas de Gran Canaria, Spain",Cafejane
+"""been"",""fave""","Worthing, UK",Cafejane
+"""been""","Playa d'en Bossa, Spain",Cafejane
+"""been""","Wolverhampton, UK",Cafejane
+"""been""","Bournemouth, UK",Cafejane
+"""been"",""fave""","Dorchester, UK",Cafejane
+"""been"",""fave""","Weybridge, UK",Cafejane
+"""been"",""fave""","Alanya, Turkey",Cafejane
+"""been""","Antalya, Turkey",Cafejane
+"""been""","Newmarket, UK",Cafejane
+"""been""","Nice, France",Cafejane
+"""been"",""fave""","Sofia, Bulgaria",Cafejane
+"""been""","Swanage, UK",Cafejane
+"""been"",""fave""","Woodbridge, UK",Cafejane
+"""been"",""fave""","Agios Nikolaos, Greece",Cafejane
+"""been""","Arrecife, Spain",Cafejane
+"""been""","Roquebrune-Cap-Martin, France",Cafejane
+"""been""","Yeovil, UK",Cafejane
+"""been"",""fave""","Newport, RI, USA",Cafejane
+"""been"",""fave""","Manavgat, Turkey",Cafejane
+"""been""","Kapaa, HI, USA",Cafejane
+"""been""","St-Jean-Cap-Ferrat, France",Cafejane
+"""been"",""want""","Side, Turkey",Cafejane
+"""want""","Zagreb, Croatia",Cafejane
+"""been"",""fave""","Leavesden, UK",Cafejane
+"""been""","Soller, Spain",Cafejane
+"""been""","Alvor, Portugal",Cafejane
+"""been""","Pollenca, Spain",Cafejane
+"""been""","Dingli, Malta",Cafejane
+"""been"",""fave""","Kardamena, Greece",Cafejane
+"""been""","Cala Blanca, Spain",Cafejane
+"""been""","Playa de Jandia, Spain",Cafejane
+"""been""","Costa Teguise, Spain",Cafejane
+"""been""","Costa Calma, Spain",Cafejane
+"""been""","Basildon, UK",Cafejane
+"""been""","Saint-Raphael, France",Cafejane
+"""been""","Bonifacio, France",Cafejane
+"""want""","Copenhagen, Denmark",Cafejane
+"""been"",""fave""","Lytham St Anne's, UK",Cafejane
+"""been""","Brighton, UK",Cafejane
+"""been""","St-Paul-de-Vence, France",Cafejane
+"""been"",""fave""","Wailea, HI, USA",Cafejane
+"""been""","Hastings, UK",Cafejane
+"""want""","Pigeon Forge, TN, USA",Cafejane
+"""been""","Lowestoft, UK",Cafejane
+"""been""","Saint-Tropez, France",Cafejane
+"""been""","Chinon, France",Cafejane
+"""been"",""fave""","Toledo, Spain",Cafejane
+"""want""","Gatlinburg, TN, USA",Cafejane
+"""been""","Portinatx, Spain",Cafejane
+"""been""","Waikoloa, HI, USA",Cafejane
+"""want""","Prague, Czech Republic",Cafejane
+"""been""","Monte-Carlo, Monaco",Cafejane
+"""been""","Guildford, UK",Cafejane
+"""been""","Puerto de la Cruz, Spain",Cafejane
+"""been""","San Diego, CA, USA",Cafejane
+"""been"",""fave""","San Miguel de Abona, Spain",Cafejane
+"""been""","Bourton-on-the-Water, UK",Cafejane
+"""been""","Kailua-Kona, HI, USA",Cafejane
+"""been"",""fave""","Salamanca, Spain",Cafejane
+"""been""","Cheltenham, UK",Cafejane
+"""been""","Alicante, Spain",Cafejane
+"""been"",""fave""","Tours, France",Cafejane
+"""been""","Santa Rosa, CA, USA",Cafejane
+"""been""","Puerto Rico, Spain",Cafejane
+"""been""","Cirencester, UK",Cafejane
+"""been""","Marseille, France",Cafejane
+"""been""","Burgas, Bulgaria",Cafejane
+"""been"",""want""","Barcelona, Spain",Cafejane
+"""been"",""fave""","Santa Monica, CA, USA",Cafejane
+"""been""","Girona, Spain",Cafejane
+"""been""","Toulon, France",Cafejane
+"""been"",""fave""","Zarzis, Tunisia",Cafejane
+"""been""","Sousse, Tunisia",Cafejane
+"""been""","Mahdia, Tunisia",Cafejane
+"""been""","Seattle, WA, USA",Cafejane
+"""been""","Cala Major, Spain",Cafejane
+"""been"",""fave""","Lahaina, HI, USA",Cafejane
+"""want""","Machu Picchu, Peru",Cafejane
+"""been""","Port de Sant Miguel, Spain",Cafejane
+"""been""","Hammamet, Tunisia",Cafejane
+"""been""","Kihei, HI, USA",Cafejane
+"""been""","Peniscola, Spain",Cafejane
+"""been""","Quito, Ecuador",Cafejane
+"""been""","Kingston upon Thames, UK",Cafejane
+"""been""","Santa Cruz, CA, USA",Cafejane
+"""been""","Burgau, Portugal",Cafejane
+"""been"",""fave""","Fowey, UK",Cafejane
+"""been""","Honolulu, HI, USA",Cafejane
+"""want""","Leavenworth, WA, USA",Cafejane
+"""been""","Canet de Mar, Spain",Cafejane
+"""been""","Santa Barbara, CA, USA",Cafejane
+"""been"",""fave""","Lyon, France",Cafejane
+"""been""","Viveiro, Spain",Cafejane
+"""been""","Punta Prima, Spain",Cafejane
+"""been""","Portsmouth, UK",Cafejane
+"""been""","Calafell, Spain",Cafejane
+"""been""","Beverly Hills, CA, USA",Cafejane
+"""been""","Southampton, UK",Cafejane
+"""want""","Zurich, Switzerland",Cafejane
+"""been""","Versailles, France",Cafejane
+"""been""","Gateshead, UK",Cafejane
+"""want""","Paris, France",Cafejane
+"""been""","Princeville, HI, USA",Cafejane
+"""been"",""fave""","Richmond, British Columbia, Canada",Cafejane
+"""want""","Boston, MA, USA",Cafejane
+"""been""","Poipu, HI, USA",Cafejane
+"""been""","North Vancouver, British Columbia, Canada",Cafejane
+"""want""","New Orleans, LA, USA",Cafejane
+"""been""","Port El Kantaoui, Tunisia",Cafejane
+"""been""","Lihue, HI, USA",Cafejane
+"""been""","Sunny Beach, Bulgaria",Cafejane
+"""been""","Golden Sands, Bulgaria",Cafejane
+"""been""","Arenal d'en Castell, Spain",Cafejane
+"""been""","Monastir, Tunisia",Cafejane
+"""been"",""fave""","Tamworth, UK",Cafejane
+"""been""","Croydon, UK",Cafejane
+"""been"",""fave""","Santa Susanna, Spain",Cafejane
+"""been""","Camberley, UK",Cafejane
+"""want""","Holguin, Cuba",Cafejane
+"""been""","Stow-on-the-Wold, UK",Cafejane
+"""want""","Amsterdam, The Netherlands",Cafejane
+"""been""","Gandia, Spain",Cafejane
+"""been""","Chamonix, France",Cafejane
+"""been""","San Anton, Malta",Cafejane
+"""been""","Annecy, France",Cafejane
+"""been""","Marsascala, Malta",Cafejane
+"""been""","Ilfracombe, UK",Cafejane
+"""been"",""fave""","Bridlington, UK",Cafejane
+"""been""","Hemel Hempstead, UK",Cafejane
+"""been""","Woolacombe, UK",Cafejane
+"""want""","Budapest, Hungary",Cafejane
+"""been""","Kapolei, HI, USA",Cafejane
+"""been""","Mijas, Spain",Cafejane
+"""been""","Mojacar, Spain",Cafejane
+"""been""","Long Beach, WA, USA",Cafejane
+"""been"",""fave""","Sandown, UK",Cafejane
+"""been""","San Jose, CA, USA",Cafejane
+"""been""","Hounslow, UK",Cafejane
+"""want""","Anchorage, AK, USA",Cafejane
+"""been""","Santa Ursula, Spain",Cafejane
+"""been""","Puerto de Mogan, Spain",Cafejane
+"""been""","Singapore, Singapore",Cafejane
+"""been""","Bainbridge Island, WA, USA",Cafejane
+"""want""","Memphis, TN, USA",Cafejane
+"""been""","Twickenham, UK",Cafejane
+"""been""","Hayes, UK",Cafejane
+"""been""","West Drayton, UK",Cafejane
+"""been""","La Palmyre-Les Mathes, France",Cafejane
+"""been""","New York City, NY, USA",Cafejane
+"""been"",""fave""","Costa del Silencio, Spain",Cafejane
+"""been""","Puerto Calero, Spain",Cafejane
+"""been""","Lincoln City, OR, USA",Cafejane
+"""been""","Montreal, Quebec, Canada",Cafejane
+"""want""","Quebec City, Quebec, Canada",Cafejane
+"""been""","Valras-Plage, France",Cafejane
+"""been"",""fave""","Vila Nova de Gaia, Portugal",Cafejane
+"""been""","Porto, Portugal",Cafejane
+"""been""","West Hollywood, CA, USA",Cafejane
+"""been""","Macclesfield, UK",Cafejane
+"""been"",""fave""","Hartlepool, UK",Cafejane
+"""been""","Playa de Muro, Spain",Cafejane
+"""been""","Portland, ME, USA",Cafejane
+"""been""","San Agustin, Spain",Cafejane
+"""been""","Badalona, Spain",Cafejane
+"""been""","St. Paul's Bay, Malta",Cafejane
+"""been""","Playa del Ingles, Spain",Cafejane
+"""been"",""fave""","Morecambe, UK",Cafejane
+"""been""","Lloret de Mar, Spain",Cafejane
+"""been""","Playa de las Americas, Spain",Cafejane
+"""been""","Bugibba, Malta",Cafejane
+"""been""","Qawra, Malta",Cafejane
+"""been"",""fave""","Canico, Portugal",Cafejane
+"""been""","Wembley, UK",Cafejane
+"""been""","Weston super Mare, UK",Cafejane
+"""want""","Siena, Italy",Cafejane
+"""been""","La Cala de Mijas, Spain",Cafejane
+"""been""","Chideock, UK",Cafejane
+"""been""","Quarteira, Portugal",Cafejane
+"""been""","Toronto, Ontario, Canada",Cafejane
+"""been"",""fave""","Andover, UK",Cafejane
+"""been""","Anaheim, CA, USA",Cafejane
+"""been"",""fave""","Nantes, France",Cafejane
+"""been""","Bayonne, France",Cafejane
+"""been"",""fave""","Eastleigh, UK",Cafejane
+"""been""","Bordeaux, France",Cafejane
+"""been"",""fave""","Farnborough, UK",Cafejane
+"""been""","Sant Joan d'Alacant, Spain",Cafejane
+"""been""","Sonoma, CA, USA",Cafejane
+"""been""","Vilanova i la Geltru, Spain",Cafejane
+"""been""","Hayle, UK",Cafejane
+"""been""","Colmar, France",Cafejane
+"""been""","Mawgan Porth, UK",Cafejane
+"""been""","Chorley, UK",Cafejane
+"""been""","Kyrenia, Cyprus",Cafejane
+"""been"",""fave""","Varna, Bulgaria",Cafejane
+"""been""","Larnaca, Cyprus",Cafejane
+"""been""","St Merryn, UK",Cafejane
+"""been"",""fave""","Parksville, British Columbia, Canada",Cafejane
+"""been"",""fave""","Golden, British Columbia, Canada",Cafejane
+"""been""","Naxxar, Malta",Cafejane
+"""been""","Liskeard, UK",Cafejane
+"""been""","El Saler, Spain",Cafejane
+"""been""","Cascais, Portugal",Cafejane
+"""been""","Chudleigh, UK",Cafejane
+"""been""","Marne-la-Vallee, France",Cafejane
+"""been"",""fave""","Nicosia, Cyprus",Cafejane
+"""been""","Paphos, Cyprus",Cafejane
+"""been""","Virginia Beach, VA, USA",Cafejane
+"""want""","Lisbon, Portugal",Cafejane
+"""been""","Limassol City, Cyprus",Cafejane
+"""been""","Calas de Majorca, Spain",Cafejane
+"""been""","Can Pastilla, Spain",Cafejane
+"""been""","Paola, Malta",Cafejane
+"""been"",""fave""","Camp De Mar, Spain",Cafejane
+"""been""","Bandon, OR, USA",Cafejane
+"""been""","West Vancouver, British Columbia, Canada",Cafejane
+"""been""","Deia, Spain",Cafejane
+"""been""","Noss Mayo, UK",Cafejane
+"""been"",""fave""","Campbell River, British Columbia, Canada",Cafejane
+"""been"",""fave""","Burnaby, British Columbia, Canada",Cafejane
+"""want""","Lucerne, Switzerland",Cafejane
+"""been""","Perranporth, UK",Cafejane
+"""been""","Funchal, Portugal",Cafejane
+"""been""","St Austell, UK",Cafejane
+"""been""","Hilo, HI, USA",Cafejane
+"""want""","Dubrovnik, Croatia",Cafejane
+"""been"",""fave""","Brixham, UK",Cafejane
+"""want""","Split, Croatia",Cafejane
+"""been""","Vilamoura, Portugal",Cafejane
+"""been""","Margate, UK",Cafejane
+"""want""","Udaipur, India",Cafejane
+"""want""","Taba, Egypt",Cafejane
+"""been""","Cala Millor, Spain",Cafejane
+"""been""","Bend, OR, USA",Cafejane
+"""been""","Ca'n Picafort, Spain",Cafejane
+"""been""","Cala Ratjada, Spain",Cafejane
+"""been""","Cala Bona, Spain",Cafejane
+"""want""","San Juan, Puerto Rico",Cafejane
+"""been""","Cala d'Or, Spain",Cafejane
+"""been""","Laguna Beach, CA, USA",Cafejane
+"""been""","Portals Nous, Spain",Cafejane
+"""want""","San Vito lo Capo, Italy",Cafejane
+"""been""","Playa Blanca, Spain",Cafejane
+"""been"",""fave""","Les Sables-d'Olonne, France",Cafejane
+"""been"",""fave""","Quinta do Lago, Portugal",Cafejane
+"""been"",""fave""","Es Castell, Spain",Cafejane
+"""been""","Budleigh Salterton, UK",Cafejane
+"""been""","Caleta de Fuste, Spain",Cafejane
+"""been""","Portocolom, Spain",Cafejane
+"""been"",""fave""","Woking, UK",Cafejane
+"""been""","La Jolla, CA, USA",Cafejane
+"""been"",""fave""","Calgary, Alberta, Canada",Cafejane
+"""been""","Port d'Alcudia, Spain",Cafejane
+"""been""","Lake Louise, Alberta, Canada",Cafejane
+"""been""","Porto Cristo, Spain",Cafejane
+"""been""","Sa Coma, Spain",Cafejane
+"""want""","Orlando, FL, USA",Cafejane
+"""been"",""fave""","Castelldefels, Spain",Cafejane
+"""been""","Teguise, Spain",Cafejane
+"""been""","Lewdown, UK",Cafejane
+"""been""","Torrelavega, Spain",Cafejane
+"""want""","Banff, Alberta, Canada",Cafejane
+"""been""","Harrow, UK",Cafejane
+"""been"",""fave""","West Kelowna, British Columbia, Canada",Cafejane
+"""been"",""fave""","Portreath, UK",Cafejane
+"""been""","Ramatuelle, France",Cafejane
+"""been""","Santa Eulalia del Rio, Spain",Cafejane
+"""want""","Mumbai, India",Cafejane
+"""been""","Gaucin, Spain",Cafejane
+"""been""","Cassis, France",Cafejane
+"""been"",""fave""","Arona, Spain",Cafejane
+"""been""","Reus, Spain",Cafejane
+"""want""","Milan, Italy",Cafejane
+"""been""","Kapalua, HI, USA",Cafejane
+"""been""","Maspalomas, Spain",Cafejane
+"""been""","Ilford, UK",Cafejane
+"""been"",""fave""","Los Gigantes, Spain",Cafejane
+"""been"",""fave""","Sant Antoni de Portmany, Spain",Cafejane
+"""been""","Magaluf, Spain",Cafejane
+"""want""","Steamboat Springs, CO, USA",Cafejane
+"""been""","Porreres, Spain",Cafejane
+"""been""","Cala'n Porter, Spain",Cafejane
+"""been""","Manacor, Spain",Cafejane
+"""been""","Peguera, Spain",Cafejane
+"""been""","Romford, UK",Cafejane
+"""been""","Palmanova, Spain",Cafejane
+"""want""","Hyderabad, India",Cafejane
+"""been""","La Alberca, Spain",Cafejane
+"""been""","Seoul, South Korea",Cafejane
+"""been""","Warwick, UK",Cafejane
+"""been""","Birmingham, UK",Cafejane
+"""been""","Edinburgh, UK",Cafejane
+"""been""","Monte Gordo, Portugal",Cafejane
+"""been"",""fave""","Boulogne-Billancourt, France",Cafejane
+"""been""","Tossa de Mar, Spain",Cafejane
+"""been""","Bradford, UK",Cafejane
+"""been""","Castle Donington, UK",Cafejane
+"""want""","Chattanooga, TN, USA",Cafejane
+"""been""","Ensenada, Mexico",Cafejane
+"""been"",""fave""","Fernie, British Columbia, Canada",Cafejane
+"""been""","Cannon Beach, OR, USA",Cafejane
+"""been""","Qala, Malta",Cafejane
+"""been""","Malibu, CA, USA",Cafejane
+"""been""","La Pineda, Spain",Cafejane
+"""been""","San Pedro de Alcantara, Spain",Cafejane
+"""been""","Sitges, Spain",Cafejane
+"""been""","Glasgow, UK",Cafejane
+"""been""","Montserrat, Spain",Cafejane
+"""been""","Salisbury, UK",Cafejane
+"""been""","Tarragona, Spain",Cafejane
+"""been""","Ascot, UK",Cafejane
+"""been"",""fave""","Maidenhead, UK",Cafejane
+"""been""","Windsor, UK",Cafejane
+"""been"",""fave""","Truro, UK",Cafejane
+"""been""","Olhos de Agua, Portugal",Cafejane
+"""been""","Pajara, Spain",Cafejane
+"""been""","Southend-on-Sea, UK",Cafejane
+"""been"",""want""","Kurashiki, Japan",Cafejane
+"""been""","El Arenal, Spain",Cafejane
+"""been""","Roses, Spain",Cafejane
+"""been""","Assisi, Italy",Cafejane
+"""been""","Luz, Portugal",Cafejane
+"""been"",""fave""","Ucluelet, British Columbia, Canada",Cafejane
+"""been""","Chicago, IL, USA",Cafejane
+"""been""","Los Angeles, CA, USA",Cafejane
+"""been""","Clacton-on-Sea, UK",Cafejane
+"""been""","Crewe, UK",Cafejane
+"""been""","Protaras, Cyprus",Cafejane
+"""been""","Bolton Abbey, UK",Cafejane
+"""been""","Ayia Napa, Cyprus",Cafejane
+"""been""","Long Beach, CA, USA",Cafejane
+"""been""","Es Canar, Spain",Cafejane
+"""been""","Victoria, British Columbia, Canada",Cafejane
+"""been""","Barking, UK",Cafejane
+"""want""","Whistler, British Columbia, Canada",Cafejane
+"""been""","Salou, Spain",Cafejane
+"""been""","Santa Ponsa, Spain",Cafejane
+"""been""","Tofino, British Columbia, Canada",Cafejane
+"""been""","Benalmadena, Spain",Cafejane
+"""been""","Chelmsford, UK",Cafejane
+"""been""","Vancouver, British Columbia, Canada",Cafejane
+"""been""","Brentwood, UK",Cafejane
+"""been""","Cala San Vincente, Spain",Cafejane
+"""been""","Mont-Saint-Michel, France",Cafejane
+"""been""","Almunecar, Spain",Cafejane
+"""been""","Costa d'en Blanes, Spain",Cafejane
+"""want""","Dublin, Ireland",Cafejane
+"""want""","Havana, Cuba",Cafejane
+"""been""","Sant Francesc de Formentera, Spain",Cafejane
+"""want""","Varadero, Cuba",Cafejane
+"""been""","Blanes, Spain",Cafejane
+"""been""","Pedraza, Spain",Cafejane
+"""been"",""fave""","Penticton, British Columbia, Canada",Cafejane
+"""been""","San Jose del Cabo, Mexico",Cafejane
+"""been""","Huntington Beach, CA, USA",Cafejane
+"""been"",""fave""","Kamloops, British Columbia, Canada",Cafejane
+"""been""","Calais, France",Cafejane
+"""been""","Maui, HI, USA",Cafejane
+"""been""","Xlendi, Malta",Cafejane
+"""been""","San Lawrenz, Malta",Cafejane
+"""been""","Port de Pollenca, Spain",Cafejane
+"""been""","Callao Salvaje, Spain",Cafejane
+"""been""","Mellieha, Malta",Cafejane
+"""been"",""fave""","Catalkoy, Cyprus",Cafejane
+"""been""","S'illot, Spain",Cafejane
+"""been""","Mgarr, Malta",Cafejane
+"""been""","Grazalema, Spain",Cafejane
+"""been""","Sannat, Malta",Cafejane
+"""been""","Birgu (Vittoriosa), Malta",Cafejane
+"""been""","Corralejo, Spain",Cafejane
+"""been""","Calella, Spain",Cafejane
+"""been"",""fave""","Cadaques, Spain",Cafejane
+"""been""","L'Escala, Spain",Cafejane
+"""been""","Cambrils, Spain",Cafejane
+"""been""","S'Algar, Spain",Cafejane

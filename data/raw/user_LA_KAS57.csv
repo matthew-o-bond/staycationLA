@@ -1,0 +1,564 @@
+tag,place,user
+"""been""","Nashua, NH, USA",KAS57
+"""been""","Anegada, British Virgin Islands",KAS57
+"""been""","George Town, Cayman Islands",KAS57
+"""been""","Dublin, Ireland",KAS57
+"""been""","Bangor, ME, USA",KAS57
+"""been""","Osaka, Japan",KAS57
+"""been""","Kyoto, Japan",KAS57
+"""been""","Big Sky, MT, USA",KAS57
+"""been""","Newton, MA, USA",KAS57
+"""been""","Woburn, MA, USA",KAS57
+"""been""","Worcester, MA, USA",KAS57
+"""been""","Woods Hole, MA, USA",KAS57
+"""been""","Jackson, WY, USA",KAS57
+"""been""","Tijuana, Mexico",KAS57
+"""been""","Calais, France",KAS57
+"""been""","Puerto Vallarta, Mexico",KAS57
+"""been""","Wolverton, UK",KAS57
+"""been""","Eugene, OR, USA",KAS57
+"""been""","Mazatlan, Mexico",KAS57
+"""been""","Manchester, NH, USA",KAS57
+"""been""","Somerville, MA, USA",KAS57
+"""been""","Bridgetown, Barbados",KAS57
+"""been""","Auckland, New Zealand",KAS57
+"""been""","Olney, UK",KAS57
+"""been""","Park City, UT, USA",KAS57
+"""been""","Oak Park, IL, USA",KAS57
+"""been""","Lake Geneva, WI, USA",KAS57
+"""been""","Acapulco, Mexico",KAS57
+"""want""","Havana, Cuba",KAS57
+"""been""","Ravenna, Italy",KAS57
+"""been""","Washington DC, DC, USA",KAS57
+"""been""","Big Sur, CA, USA",KAS57
+"""been""","Kemah, TX, USA",KAS57
+"""been""","Sandwich, MA, USA",KAS57
+"""been""","Truckee, CA, USA",KAS57
+"""been""","Katy, TX, USA",KAS57
+"""been""","Yosemite National Park, CA, USA",KAS57
+"""been""","Rockport, ME, USA",KAS57
+"""been""","Rockland, ME, USA",KAS57
+"""been""","Ston, Croatia",KAS57
+"""been""","Lake Louise, Alberta, Canada",KAS57
+"""been""","Banff, Alberta, Canada",KAS57
+"""been""","Medford, OR, USA",KAS57
+"""been""","Ashland, OR, USA",KAS57
+"""been""","San Juan, Puerto Rico",KAS57
+"""been""","Cheyenne, WY, USA",KAS57
+"""been""","Odessa, Ukraine",KAS57
+"""been""","Petworth, UK",KAS57
+"""been""","Anacapri, Italy",KAS57
+"""been""","Split, Croatia",KAS57
+"""been""","Dubrovnik, Croatia",KAS57
+"""been""","Waltham, MA, USA",KAS57
+"""been""","Ogunquit, ME, USA",KAS57
+"""been""","Agrigento, Italy",KAS57
+"""been""","Frascati, Italy",KAS57
+"""been""","Oakland, CA, USA",KAS57
+"""been""","Ischia Porto, Italy",KAS57
+"""been""","Monreale, Italy",KAS57
+"""been""","Pomona, CA, USA",KAS57
+"""been""","Assisi, Italy",KAS57
+"""been""","Vinci, Italy",KAS57
+"""been""","Yalta, Europe",KAS57
+"""been""","San Gimignano, Italy",KAS57
+"""been""","Hyannis, MA, USA",KAS57
+"""been""","Siena, Italy",KAS57
+"""been""","Gulfport, MS, USA",KAS57
+"""been""","Trapani, Italy",KAS57
+"""been""","Noto, Italy",KAS57
+"""been""","Villeneuve-les-Avignon, France",KAS57
+"""been""","Niagara Falls, NY, USA",KAS57
+"""been""","Garda, Italy",KAS57
+"""been""","Point Reyes Station, CA, USA",KAS57
+"""been""","Waterton Lakes National Park, Alberta, Canada",KAS57
+"""been""","Sturbridge, MA, USA",KAS57
+"""been""","Constanta, Romania",KAS57
+"""been""","Captain Cook, HI, USA",KAS57
+"""been""","Hilo, HI, USA",KAS57
+"""been""","Bozeman, MT, USA",KAS57
+"""been""","Pensacola Beach, FL, USA",KAS57
+"""been""","Spanish Town, British Virgin Islands",KAS57
+"""been""","Bennington, VT, USA",KAS57
+"""been""","Freeport, ME, USA",KAS57
+"""been""","Seoul, South Korea",KAS57
+"""been""","Stockbridge, MA, USA",KAS57
+"""been""","Bend, OR, USA",KAS57
+"""been""","Port-Louis, Guadeloupe",KAS57
+"""been""","Castellammare del Golfo, Italy",KAS57
+"""been""","Huntsville, TX, USA",KAS57
+"""been""","Lahaina, HI, USA",KAS57
+"""been""","St. Croix, U.S. Virgin Islands",KAS57
+"""been""","Kihei, HI, USA",KAS57
+"""been""","Arinsal, Andorra",KAS57
+"""been""","Kahului, HI, USA",KAS57
+"""been""","Andorra la Vella, Andorra",KAS57
+"""been""","Charlotte Amalie, U.S. Virgin Islands",KAS57
+"""been""","Seattle, WA, USA",KAS57
+"""been""","Yellowstone National Park, WY, USA",KAS57
+"""been""","Ljubljana, Slovenia",KAS57
+"""been""","Cancun, Mexico",KAS57
+"""been""","Bled, Slovenia",KAS57
+"""been""","Desert Hot Springs, CA, USA",KAS57
+"""been""","Charlottesville, VA, USA",KAS57
+"""been""","Carlsbad, CA, USA",KAS57
+"""been""","Monteriggioni, Italy",KAS57
+"""been""","San Juan Capistrano, CA, USA",KAS57
+"""been""","Positano, Italy",KAS57
+"""been""","Carmel Valley, CA, USA",KAS57
+"""been""","Anchorage, AK, USA",KAS57
+"""been""","Whittier, CA, USA",KAS57
+"""been""","St. Augustine, FL, USA",KAS57
+"""been""","Denver, CO, USA",KAS57
+"""been""","Mexico City, Mexico",KAS57
+"""been""","Guayaquil, Ecuador",KAS57
+"""been""","Toronto, Ontario, Canada",KAS57
+"""been""","Quebec City, Quebec, Canada",KAS57
+"""been""","Houston, TX, USA",KAS57
+"""been""","Montreal, Quebec, Canada",KAS57
+"""been""","Baltra, Ecuador",KAS57
+"""been""","Kingussie, UK",KAS57
+"""been""","New York City, NY, USA",KAS57
+"""been""","Dachau, Germany",KAS57
+"""been""","Ventura, CA, USA",KAS57
+"""been""","Nassau, Bahamas",KAS57
+"""been""","Copper Mountain, CO, USA",KAS57
+"""been""","Cambridge, MA, USA",KAS57
+"""been""","Erice, Italy",KAS57
+"""been""","Fernandina, Ecuador",KAS57
+"""been""","Kailua, HI, USA",KAS57
+"""been""","Trani, Italy",KAS57
+"""been""","Kahuku, HI, USA",KAS57
+"""been""","Davis, CA, USA",KAS57
+"""been""","San Clemente, CA, USA",KAS57
+"""been""","Richmond, VA, USA",KAS57
+"""been""","Stockton, CA, USA",KAS57
+"""been""","Del Mar, CA, USA",KAS57
+"""been""","West Hollywood, CA, USA",KAS57
+"""been""","Westlake Village, CA, USA",KAS57
+"""been""","Interlaken, Switzerland",KAS57
+"""been""","Snowbird, UT, USA",KAS57
+"""been""","Crested Butte, CO, USA",KAS57
+"""been""","Fort Lauderdale, FL, USA",KAS57
+"""been""","Gela, Italy",KAS57
+"""been""","Atlanta, GA, USA",KAS57
+"""been""","Freeport, Bahamas",KAS57
+"""been""","Floreana, Ecuador",KAS57
+"""been""","Charleston, SC, USA",KAS57
+"""been""","Lungern, Switzerland",KAS57
+"""been""","Isabela, Ecuador",KAS57
+"""been""","Geneva, Switzerland",KAS57
+"""been""","Paestum, Italy",KAS57
+"""been""","Paradise Island, Bahamas",KAS57
+"""been""","Montalcino, Italy",KAS57
+"""been""","Orvieto, Italy",KAS57
+"""want""","Singapore, Singapore",KAS57
+"""been""","Santa Cruz, Ecuador",KAS57
+"""been""","St. Helena, CA, USA",KAS57
+"""been""","Ballard, CA, USA",KAS57
+"""been""","Culver City, CA, USA",KAS57
+"""been""","Jupiter, FL, USA",KAS57
+"""been""","Croydon, UK",KAS57
+"""been""","Bakersfield, CA, USA",KAS57
+"""been""","Dana Point, CA, USA",KAS57
+"""been""","Thun, Switzerland",KAS57
+"""been""","San Bernardino, CA, USA",KAS57
+"""been""","Bern, Switzerland",KAS57
+"""been""","Anaheim, CA, USA",KAS57
+"""been""","Plitvice Lakes National Park, Croatia",KAS57
+"""been""","Burton upon Trent, UK",KAS57
+"""been""","Ocho Rios, Jamaica",KAS57
+"""been""","Bradenton, FL, USA",KAS57
+"""been""","Kingston, Jamaica",KAS57
+"""been""","Montego Bay, Jamaica",KAS57
+"""been""","St. Petersburg, Russia",KAS57
+"""been""","Mammoth Lakes, CA, USA",KAS57
+"""been""","Philadelphia, PA, USA",KAS57
+"""been""","Calistoga, CA, USA",KAS57
+"""been""","Visalia, CA, USA",KAS57
+"""been""","Lisbon, Portugal",KAS57
+"""been""","Tallinn, Estonia",KAS57
+"""been""","Camarillo, CA, USA",KAS57
+"""been""","Lucerne, Switzerland",KAS57
+"""been""","Cambria, CA, USA",KAS57
+"""been""","Thousand Oaks, CA, USA",KAS57
+"""been""","West Glacier, MT, USA",KAS57
+"""been""","Portland, ME, USA",KAS57
+"""been""","Tucson, AZ, USA",KAS57
+"""been""","Machu Picchu, Peru",KAS57
+"""been""","San Antonio, TX, USA",KAS57
+"""been""","Bodega Bay, CA, USA",KAS57
+"""been""","San Francisco, CA, USA",KAS57
+"""been""","King Salmon, AK, USA",KAS57
+"""been""","Cusco, Peru",KAS57
+"""been""","Salem, MA, USA",KAS57
+"""been""","Sausalito, CA, USA",KAS57
+"""been""","Olympia, Greece",KAS57
+"""been""","Torrance, CA, USA",KAS57
+"""been""","Seal Beach, CA, USA",KAS57
+"""been""","Borrego Springs, CA, USA",KAS57
+"""been""","Chipping Campden, UK",KAS57
+"""been""","Manchester, VT, USA",KAS57
+"""been""","Longboat Key, FL, USA",KAS57
+"""been""","Sebastopol, CA, USA",KAS57
+"""been""","Preston, UK",KAS57
+"""been""","Leamington Spa, UK",KAS57
+"""been""","Cowden, UK",KAS57
+"""been""","Volcano, HI, USA",KAS57
+"""been""","West Yellowstone, MT, USA",KAS57
+"""been""","Midland, TX, USA",KAS57
+"""want""","Nairobi, Kenya",KAS57
+"""been""","Springfield, MA, USA",KAS57
+"""want""","Cairo, Egypt",KAS57
+"""been""","Santa Maria, CA, USA",KAS57
+"""been""","Caserta, Italy",KAS57
+"""been""","Santa Monica, CA, USA",KAS57
+"""been""","Montepulciano, Italy",KAS57
+"""been""","Bishop, CA, USA",KAS57
+"""been""","New Braunfels, TX, USA",KAS57
+"""been""","Santa Rosa, CA, USA",KAS57
+"""been""","Volterra, Italy",KAS57
+"""been""","Santa Ynez, CA, USA",KAS57
+"""been""","Burlington, VT, USA",KAS57
+"""been""","Port Aransas, TX, USA",KAS57
+"""been""","Peterhof, Russia",KAS57
+"""been""","Cassino, Italy",KAS57
+"""been""","Ottawa, Ontario, Canada",KAS57
+"""been""","Hanalei, HI, USA",KAS57
+"""been""","Crater Lake National Park, OR, USA",KAS57
+"""been""","Hong Kong, China",KAS57
+"""been""","Kapaa, HI, USA",KAS57
+"""been""","Beaumont, TX, USA",KAS57
+"""been""","Newport, RI, USA",KAS57
+"""want""","Krakow, Poland",KAS57
+"""been""","Glacier National Park, MT, USA",KAS57
+"""been""","Beverly Hills, CA, USA",KAS57
+"""been""","Peterborough, UK",KAS57
+"""been""","Windsor, CA, USA",KAS57
+"""been""","Big Bear City, CA, USA",KAS57
+"""been""","Budapest, Hungary",KAS57
+"""been""","Honolulu, HI, USA",KAS57
+"""been""","Lake Oswego, OR, USA",KAS57
+"""been""","Temecula, CA, USA",KAS57
+"""been""","Corvallis, OR, USA",KAS57
+"""been""","Santa Barbara, CA, USA",KAS57
+"""been""","Salzburg, Austria",KAS57
+"""been""","Santa Ana, CA, USA",KAS57
+"""been""","Santa Clarita, CA, USA",KAS57
+"""been""","New Orleans, LA, USA",KAS57
+"""been""","Kilauea, HI, USA",KAS57
+"""been""","Waimea, HI, USA",KAS57
+"""been""","Poipu, HI, USA",KAS57
+"""been""","Laramie, WY, USA",KAS57
+"""been""","Boston, MA, USA",KAS57
+"""been""","Milton Keynes, UK",KAS57
+"""been""","Vienna, Austria",KAS57
+"""been""","Kailua-Kona, HI, USA",KAS57
+"""been""","Tahoe City, CA, USA",KAS57
+"""been""","San Diego, CA, USA",KAS57
+"""been""","Durango, CO, USA",KAS57
+"""want""","Buenos Aires, Argentina",KAS57
+"""been""","San Mateo, CA, USA",KAS57
+"""been""","Berkeley, CA, USA",KAS57
+"""been""","Twentynine Palms, CA, USA",KAS57
+"""been""","Watford, UK",KAS57
+"""been""","San Rafael, CA, USA",KAS57
+"""been""","Williamsburg, VA, USA",KAS57
+"""been""","Cayucos, CA, USA",KAS57
+"""been""","Abingdon, UK",KAS57
+"""been""","Marsala, Italy",KAS57
+"""been""","San Simeon, CA, USA",KAS57
+"""been""","Salem, OR, USA",KAS57
+"""been""","Whitefish, MT, USA",KAS57
+"""been""","Fox Glacier, New Zealand",KAS57
+"""been""","Castelnuovo del Garda, Italy",KAS57
+"""been""","Lyon, France",KAS57
+"""been""","Zug, Switzerland",KAS57
+"""been""","Paris, France",KAS57
+"""been""","Versailles, France",KAS57
+"""been""","Southampton, UK",KAS57
+"""been""","Zurich, Switzerland",KAS57
+"""been""","Chula Vista, CA, USA",KAS57
+"""been""","Linz, Austria",KAS57
+"""been""","La Canada Flintridge, CA, USA",KAS57
+"""been""","Hambleton, UK",KAS57
+"""been""","Yountville, CA, USA",KAS57
+"""been""","Claremont, CA, USA",KAS57
+"""been""","Siesta Key, FL, USA",KAS57
+"""been""","Orlando, FL, USA",KAS57
+"""been""","Melk, Austria",KAS57
+"""been""","Stow-on-the-Wold, UK",KAS57
+"""been""","Amsterdam, The Netherlands",KAS57
+"""been""","La Jolla, CA, USA",KAS57
+"""been""","Telluride, CO, USA",KAS57
+"""been""","Sarasota, FL, USA",KAS57
+"""been""","Goleta, CA, USA",KAS57
+"""been""","Salt Lake City, UT, USA",KAS57
+"""been""","Tossa de Mar, Spain",KAS57
+"""been""","Vienne, France",KAS57
+"""been""","Scottsdale, AZ, USA",KAS57
+"""been""","SeaTac, WA, USA",KAS57
+"""been""","Snowmass Village, CO, USA",KAS57
+"""been""","Tyler, TX, USA",KAS57
+"""been""","South Burlington, VT, USA",KAS57
+"""been""","Chico, CA, USA",KAS57
+"""been""","Marina del Rey, CA, USA",KAS57
+"""been""","Steamboat Springs, CO, USA",KAS57
+"""been""","St. Petersburg, FL, USA",KAS57
+"""been""","Kapalua, HI, USA",KAS57
+"""been""","Gilroy, CA, USA",KAS57
+"""been""","Newport, Ireland",KAS57
+"""been""","Hever, UK",KAS57
+"""been""","Minneapolis, MN, USA",KAS57
+"""been""","Biloxi, MS, USA",KAS57
+"""been""","Savannah, GA, USA",KAS57
+"""been""","Baltimore, MD, USA",KAS57
+"""been""","Wolverhampton, UK",KAS57
+"""been""","Copenhagen, Denmark",KAS57
+"""been""","Brighton, UK",KAS57
+"""been""","Rye, UK",KAS57
+"""been""","West Palm Beach, FL, USA",KAS57
+"""been""","Rockport, TX, USA",KAS57
+"""been""","Glendale, CA, USA",KAS57
+"""been""","Manhattan Beach, CA, USA",KAS57
+"""been""","Stowe, VT, USA",KAS57
+"""been""","Malibu, CA, USA",KAS57
+"""been""","Soldeu, Andorra",KAS57
+"""been""","Fullerton, CA, USA",KAS57
+"""been""","Chicago, IL, USA",KAS57
+"""been""","Brooklyn, NY, USA",KAS57
+"""been""","Quito, Ecuador",KAS57
+"""been""","Portland, OR, USA",KAS57
+"""been""","Saint Louis, MO, USA",KAS57
+"""been""","Bar Harbor, ME, USA",KAS57
+"""been""","Santiago, Chile",KAS57
+"""been""","Brookline, MA, USA",KAS57
+"""been""","Silver Spring, MD, USA",KAS57
+"""been""","Bourton-on-the-Water, UK",KAS57
+"""been""","Mykonos, Greece",KAS57
+"""been""","Newport Beach, CA, USA",KAS57
+"""been""","Newport Pagnell, UK",KAS57
+"""been""","Barcelona, Spain",KAS57
+"""been""","Santorini, Greece",KAS57
+"""been""","Arlington, VA, USA",KAS57
+"""been""","Saint Augustine Beach, FL, USA",KAS57
+"""been""","Durham, NC, USA",KAS57
+"""been""","Danbury, CT, USA",KAS57
+"""been""","Garden Grove, CA, USA",KAS57
+"""been""","Joshua Tree, CA, USA",KAS57
+"""been""","College Station, TX, USA",KAS57
+"""been""","San Marcos, TX, USA",KAS57
+"""been""","Achill Island, Ireland",KAS57
+"""been""","Tel Aviv, Israel",KAS57
+"""been""","Jerusalem, Israel",KAS57
+"""been""","Frankfurt, Germany",KAS57
+"""been""","Mesa, AZ, USA",KAS57
+"""want""","Bruges, Belgium",KAS57
+"""been""","Piraeus, Greece",KAS57
+"""been""","Coronado, CA, USA",KAS57
+"""been""","Stoke-on-Trent, UK",KAS57
+"""been""","Austin, TX, USA",KAS57
+"""been""","Ieper (Ypres), Belgium",KAS57
+"""been""","Pensacola, FL, USA",KAS57
+"""been""","Athens, Greece",KAS57
+"""been""","Solvang, CA, USA",KAS57
+"""been"",""want""","Prague, Czech Republic",KAS57
+"""been""","Calabasas, CA, USA",KAS57
+"""been""","Tallahassee, FL, USA",KAS57
+"""been""","Sonoma, CA, USA",KAS57
+"""been""","Miami, FL, USA",KAS57
+"""been""","Miami Beach, FL, USA",KAS57
+"""been""","Bath, UK",KAS57
+"""been""","Tampa, FL, USA",KAS57
+"""been""","Lubbock, TX, USA",KAS57
+"""been""","Fairfax, VA, USA",KAS57
+"""been""","Kelheim, Germany",KAS57
+"""been""","Mykonos Town, Greece",KAS57
+"""been""","Arlington, TX, USA",KAS57
+"""been""","Healdsburg, CA, USA",KAS57
+"""been""","Burbank, CA, USA",KAS57
+"""been""","Buena Park, CA, USA",KAS57
+"""been""","Burlingame, CA, USA",KAS57
+"""been""","Temple, TX, USA",KAS57
+"""been""","Fallbrook, CA, USA",KAS57
+"""been""","Nashville, TN, USA",KAS57
+"""been""","Lyme Regis, UK",KAS57
+"""been""","Sisters, OR, USA",KAS57
+"""been""","York, UK",KAS57
+"""been""","Cambridge, UK",KAS57
+"""been""","Granada, Spain",KAS57
+"""been""","Lake Arrowhead, CA, USA",KAS57
+"""been""","Palm Beach, FL, USA",KAS57
+"""been""","Bratislava, Slovakia",KAS57
+"""been""","Seville, Spain",KAS57
+"""been""","Ukiah, CA, USA",KAS57
+"""been""","The Woodlands, TX, USA",KAS57
+"""been""","Encinitas, CA, USA",KAS57
+"""been""","Stansted Mountfitchet, UK",KAS57
+"""been""","Mill Valley, CA, USA",KAS57
+"""been""","Barstow, CA, USA",KAS57
+"""been""","Concord, MA, USA",KAS57
+"""been""","Woodstock, UK",KAS57
+"""been""","Garstang, UK",KAS57
+"""been""","Reading, UK",KAS57
+"""been""","Henley-on-Thames, UK",KAS57
+"""been""","Penzance, UK",KAS57
+"""been""","Oxford, UK",KAS57
+"""been""","Delos, Greece",KAS57
+"""been""","Tintagel, UK",KAS57
+"""been""","Avignon, France",KAS57
+"""been""","Guerneville, CA, USA",KAS57
+"""been""","Amarillo, TX, USA",KAS57
+"""been""","Bedford, UK",KAS57
+"""been""","Vail, CO, USA",KAS57
+"""been""","La Quinta, CA, USA",KAS57
+"""been""","Half Moon Bay, CA, USA",KAS57
+"""been""","Clovis, CA, USA",KAS57
+"""been""","Stamford, UK",KAS57
+"""been""","Laguna Beach, CA, USA",KAS57
+"""been""","Laguna Hills, CA, USA",KAS57
+"""been""","Palm Springs, CA, USA",KAS57
+"""been""","Stamford, CT, USA",KAS57
+"""been""","Modesto, CA, USA",KAS57
+"""been""","Palm Desert, CA, USA",KAS57
+"""been""","Fira, Greece",KAS57
+"""been""","Palo Alto, CA, USA",KAS57
+"""been""","Lancaster, CA, USA",KAS57
+"""been""","Pisa, Italy",KAS57
+"""been""","Lucca, Italy",KAS57
+"""been""","Saint Paul, MN, USA",KAS57
+"""been""","Salerno, Italy",KAS57
+"""been""","Sorrento, Italy",KAS57
+"""been""","Falmouth, MA, USA",KAS57
+"""been""","Amalfi, Italy",KAS57
+"""been""","Naples, Italy",KAS57
+"""been""","Leicester, UK",KAS57
+"""been""","Pompeii, Italy",KAS57
+"""been""","Capri, Italy",KAS57
+"""been""","Blackpool, UK",KAS57
+"""been""","Isola d'Ischia, Italy",KAS57
+"""been""","Narita, Japan",KAS57
+"""been""","Winter Park, CO, USA",KAS57
+"""been""","Oxnard, CA, USA",KAS57
+"""been""","Dallas, TX, USA",KAS57
+"""been""","Redwood City, CA, USA",KAS57
+"""been""","London, UK",KAS57
+"""been""","Munich, Germany",KAS57
+"""been""","Tivoli, Italy",KAS57
+"""been""","Reykjavik, Iceland",KAS57
+"""been""","Bristol, UK",KAS57
+"""been""","Vatican City, Vatican City",KAS57
+"""been""","Rome, Italy",KAS57
+"""been""","High Wycombe, UK",KAS57
+"""been""","Brussels, Belgium",KAS57
+"""been""","Newport, UK",KAS57
+"""been""","Stockholm, Sweden",KAS57
+"""been""","Aylesbury, UK",KAS57
+"""been""","Passau, Germany",KAS57
+"""been""","Rockport, MA, USA",KAS57
+"""been""","Pacific Grove, CA, USA",KAS57
+"""been""","Waco, TX, USA",KAS57
+"""been""","Melton Mowbray, UK",KAS57
+"""been""","Rancho Palos Verdes, CA, USA",KAS57
+"""been""","Ontario, CA, USA",KAS57
+"""been""","Charlotte, NC, USA",KAS57
+"""been""","Chapel Hill, NC, USA",KAS57
+"""been""","Merced, CA, USA",KAS57
+"""been""","Madrid, Spain",KAS57
+"""been""","Helsinki, Finland",KAS57
+"""been""","Provincetown, MA, USA",KAS57
+"""been""","Lexington, KY, USA",KAS57
+"""been""","Kennebunkport, ME, USA",KAS57
+"""been""","Canterbury, UK",KAS57
+"""been""","Kennebunk, ME, USA",KAS57
+"""been""","Marblehead, MA, USA",KAS57
+"""been""","Tokyo, Japan",KAS57
+"""been""","Redondo Beach, CA, USA",KAS57
+"""been""","Sugar Land, TX, USA",KAS57
+"""been""","Chippenham, UK",KAS57
+"""been""","Redding, CA, USA",KAS57
+"""been""","Oceanside, CA, USA",KAS57
+"""been""","Gallipoli, Italy",KAS57
+"""been""","Shannon, Ireland",KAS57
+"""been""","Ojai, CA, USA",KAS57
+"""been""","Catania, Italy",KAS57
+"""been""","Messina, Italy",KAS57
+"""been""","Istanbul, Turkey",KAS57
+"""been""","Syracuse, Italy",KAS57
+"""been""","Taormina, Italy",KAS57
+"""been""","Plymouth, MA, USA",KAS57
+"""been""","Palermo, Italy",KAS57
+"""been""","Florence, Italy",KAS57
+"""been""","Fiesole, Italy",KAS57
+"""been""","Bletchley, UK",KAS57
+"""been""","Rancho Mirage, CA, USA",KAS57
+"""been""","Niagara-on-the-Lake, Ontario, Canada",KAS57
+"""been""","Mendocino, CA, USA",KAS57
+"""been""","Niagara Falls, Ontario, Canada",KAS57
+"""been""","Marinella di Selinunte, Italy",KAS57
+"""been""","Brenham, TX, USA",KAS57
+"""been""","Long Beach, CA, USA",KAS57
+"""been""","Venice, FL, USA",KAS57
+"""been""","Macau, China",KAS57
+"""been""","Coventry, UK",KAS57
+"""been""","Edinburgh, UK",KAS57
+"""been""","Las Vegas, NV, USA",KAS57
+"""been""","Santo Domingo, Dominican Republic",KAS57
+"""been""","Birmingham, UK",KAS57
+"""been""","Irvine, CA, USA",KAS57
+"""been""","Fresno, CA, USA",KAS57
+"""been""","Los Gatos, CA, USA",KAS57
+"""been""","Los Angeles, CA, USA",KAS57
+"""been""","Galveston, TX, USA",KAS57
+"""been""","Sacramento, CA, USA",KAS57
+"""been""","Idyllwild, CA, USA",KAS57
+"""been""","Chiang Mai, Thailand",KAS57
+"""been""","Bangkok, Thailand",KAS57
+"""been""","Salisbury, UK",KAS57
+"""been""","Glasgow, UK",KAS57
+"""been""","Avebury, UK",KAS57
+"""been""","Milford Sound, New Zealand",KAS57
+"""been""","Windsor, UK",KAS57
+"""been""","Queenstown, New Zealand",KAS57
+"""been""","Calatafimi-Segesta, Italy",KAS57
+"""been""","Venice, Italy",KAS57
+"""been""","Christchurch, New Zealand",KAS57
+"""been""","Inverness, UK",KAS57
+"""been""","Dunedin, New Zealand",KAS57
+"""been""","Verona, Italy",KAS57
+"""been""","Avalon, CA, USA",KAS57
+"""been""","New Haven, CT, USA",KAS57
+"""been""","Phoenix, AZ, USA",KAS57
+"""been""","Napa, CA, USA",KAS57
+"""been""","Lompoc, CA, USA",KAS57
+"""been""","Indio, CA, USA",KAS57
+"""been""","Inglewood, CA, USA",KAS57
+"""been""","Lone Pine, CA, USA",KAS57
+"""been""","Indian Wells, CA, USA",KAS57
+"""been""","Hue, Vietnam",KAS57
+"""been""","Ho Chi Minh City, Vietnam",KAS57
+"""been""","Pebble Beach, CA, USA",KAS57
+"""been""","Morro Bay, CA, USA",KAS57
+"""been""","Rapid City, SD, USA",KAS57
+"""been""","Fredericksburg, TX, USA",KAS57
+"""been""","Bellagio, Italy",KAS57
+"""been""","Westport, Ireland",KAS57
+"""been""","Como, Italy",KAS57
+"""been""","Elko, NV, USA",KAS57
+"""want""","New Delhi, India",KAS57
+"""been""","Whistler, British Columbia, Canada",KAS57
+"""been""","Victoria, British Columbia, Canada",KAS57
+"""been""","Mount Shasta, CA, USA",KAS57
+"""been""","Huntington Beach, CA, USA",KAS57
+"""been""","Vancouver, British Columbia, Canada",KAS57
+"""been""","Mystic, CT, USA",KAS57
+"""been""","Petaluma, CA, USA",KAS57
+"""been""","Waterbury, CT, USA",KAS57
+"""been""","Fort Worth, TX, USA",KAS57
+"""been""","Monterey, CA, USA",KAS57
+"""been""","Pasadena, CA, USA",KAS57
+"""been""","Milan, Italy",KAS57
+"""want""","Melbourne, Australia",KAS57
+"""been""","Rohnert Park, CA, USA",KAS57
+"""been""","Paso Robles, CA, USA",KAS57
+"""been""","Moorpark, CA, USA",KAS57

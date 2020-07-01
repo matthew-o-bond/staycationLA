@@ -1,0 +1,448 @@
+tag,place,user
+"""want""","Cancun, Mexico",1knowing1
+"""been""","Buford, GA, USA",1knowing1
+"""been"",""want""","Lisbon, Portugal",1knowing1
+"""been""","Cozumel, Mexico",1knowing1
+"""been"",""fave""","Caesarea, Israel",1knowing1
+"""been""","Pittsburgh, PA, USA",1knowing1
+"""been""","Austell, GA, USA",1knowing1
+"""been""","Kyiv (Kiev), Ukraine",1knowing1
+"""want""","Papeete, French Polynesia",1knowing1
+"""want""","Jakarta, Indonesia",1knowing1
+"""been""","Athens, GA, USA",1knowing1
+"""been""","Fort Worth, TX, USA",1knowing1
+"""been""","Lindos, Greece",1knowing1
+"""been""","Rockville, MD, USA",1knowing1
+"""been""","Hobart, Australia",1knowing1
+"""want""","Adelaide, Australia",1knowing1
+"""want""","Hong Kong, China",1knowing1
+"""been""","West End Village, Anguilla",1knowing1
+"""want""","Sigatoka, Fiji",1knowing1
+"""been"",""want""","Dubai, United Arab Emirates",1knowing1
+"""want""","Beijing, China",1knowing1
+"""been""","Mombasa, Kenya",1knowing1
+"""been""","Grand Anse, Grenada",1knowing1
+"""been""","Nairobi, Kenya",1knowing1
+"""been""","Lodz, Poland",1knowing1
+"""been""","Lagos, Nigeria",1knowing1
+"""want""","Funchal, Portugal",1knowing1
+"""want""","Baie Lazare, Seychelles",1knowing1
+"""been""","Dallas, TX, USA",1knowing1
+"""been""","Warsaw, Poland",1knowing1
+"""been"",""fave""","Maui, HI, USA",1knowing1
+"""want""","Cairo, Egypt",1knowing1
+"""been""","West Bay, Cayman Islands",1knowing1
+"""want""","Roatan, Honduras",1knowing1
+"""been""","Saint Paul, MN, USA",1knowing1
+"""want""","Machu Picchu, Peru",1knowing1
+"""been""","Bom Despacho, Brazil",1knowing1
+"""been""","Long Island City, NY, USA",1knowing1
+"""want""","Lima, Peru",1knowing1
+"""want""","Obidos, Portugal",1knowing1
+"""want""","Nicosia, Cyprus",1knowing1
+"""been""","Morro de Sao Paulo, Brazil",1knowing1
+"""want""","Iquitos, Peru",1knowing1
+"""want""","Mykonos Town, Greece",1knowing1
+"""been""","Chapel Hill, NC, USA",1knowing1
+"""been""","Eldoret, Kenya",1knowing1
+"""been""","Holetown, Barbados",1knowing1
+"""been""","Charlotte, NC, USA",1knowing1
+"""been"",""want""","Sydney, Australia",1knowing1
+"""want""","Panajachel, Guatemala",1knowing1
+"""been""","Noord, Aruba",1knowing1
+"""been""","Harrisburg, PA, USA",1knowing1
+"""want""","Patong, Thailand",1knowing1
+"""been""","Tulsa, OK, USA",1knowing1
+"""been""","Penang Island, Malaysia",1knowing1
+"""want""","Skagen, Denmark",1knowing1
+"""been""","Clarksdale, MS, USA",1knowing1
+"""been""","Krabi Town, Thailand",1knowing1
+"""been""","Gurnee, IL, USA",1knowing1
+"""want""","Prague, Czech Republic",1knowing1
+"""want""","Puerto Iguazu, Argentina",1knowing1
+"""want""","Cayo Santa Maria, Cuba",1knowing1
+"""been""","Olive Branch, MS, USA",1knowing1
+"""been""","Fayetteville, NC, USA",1knowing1
+"""been""","Columbus, OH, USA",1knowing1
+"""been""","Accra, Ghana",1knowing1
+"""been""","Cap Estate, St. Lucia",1knowing1
+"""been""","Bowling Green, KY, USA",1knowing1
+"""been""","Tamale, Ghana",1knowing1
+"""been""","Mandeville, Jamaica",1knowing1
+"""want""","Sweimah, Jordan",1knowing1
+"""been""","Marietta, GA, USA",1knowing1
+"""been""","Oklahoma City, OK, USA",1knowing1
+"""been""","Bratislava, Slovakia",1knowing1
+"""been""","Independence, OH, USA",1knowing1
+"""been""","Jolly Harbour, Antigua and Barbuda",1knowing1
+"""want""","Cork, Ireland",1knowing1
+"""want""","Pas de la Casa, Andorra",1knowing1
+"""been""","Donegal Town, Ireland",1knowing1
+"""been""","Raleigh, NC, USA",1knowing1
+"""been""","Ensenada, Mexico",1knowing1
+"""been""","Cleveland, OH, USA",1knowing1
+"""been""","Bologna, Italy",1knowing1
+"""been""","Niagara Falls, NY, USA",1knowing1
+"""been""","Port Arthur, Australia",1knowing1
+"""want""","Bellagio, Italy",1knowing1
+"""want""","Victoria Falls, Zimbabwe",1knowing1
+"""been""","Bergamo, Italy",1knowing1
+"""been""","Isla Verde, Puerto Rico",1knowing1
+"""been""","Barranquitas, Puerto Rico",1knowing1
+"""been""","Stone Mountain, GA, USA",1knowing1
+"""been""","Riyadh, Saudi Arabia",1knowing1
+"""want""","Genoa, Italy",1knowing1
+"""been""","Hilo, HI, USA",1knowing1
+"""been""","Boca Raton, FL, USA",1knowing1
+"""been"",""fave""","Dublin, Ireland",1knowing1
+"""been""","Battle Creek, MI, USA",1knowing1
+"""been""","Virginia Beach, VA, USA",1knowing1
+"""been""","Brasilia, Brazil",1knowing1
+"""been""","Jost Van Dyke, British Virgin Islands",1knowing1
+"""been""","Wembley, UK",1knowing1
+"""been""","Bronx, NY, USA",1knowing1
+"""been""","Newport News, VA, USA",1knowing1
+"""been""","Tel Aviv, Israel",1knowing1
+"""want""","Perth, Australia",1knowing1
+"""been""","Haifa, Israel",1knowing1
+"""been""","Edinburgh, UK",1knowing1
+"""been"",""fave""","Jerusalem, Israel",1knowing1
+"""been"",""want""","Melbourne, Australia",1knowing1
+"""been""","Hollywood, FL, USA",1knowing1
+"""been""","Smyrna, GA, USA",1knowing1
+"""been""","Tangier, Morocco",1knowing1
+"""want""","Meknes, Morocco",1knowing1
+"""been"",""fave""","Milan, Italy",1knowing1
+"""been""","Norfolk, VA, USA",1knowing1
+"""been""","Daytona Beach, FL, USA",1knowing1
+"""been"",""fave""","Culebra, Puerto Rico",1knowing1
+"""been""","Indianapolis, IN, USA",1knowing1
+"""been""","Tokyo, Japan",1knowing1
+"""want""","Cabo San Lucas, Mexico",1knowing1
+"""been""","Frenchtown, U.S. Virgin Islands",1knowing1
+"""been""","Norcross, GA, USA",1knowing1
+"""been""","Mumbai, India",1knowing1
+"""been""","Belo Horizonte, Brazil",1knowing1
+"""been"",""fave""","Venice, Italy",1knowing1
+"""been""","Madrid, Spain",1knowing1
+"""been""","Hershey, PA, USA",1knowing1
+"""want""","Helsinki, Finland",1knowing1
+"""want""","Queenstown, New Zealand",1knowing1
+"""been""","Vicenza, Italy",1knowing1
+"""been""","Bari, Italy",1knowing1
+"""been""","Lome, Togo",1knowing1
+"""been""","Sandy Springs, GA, USA",1knowing1
+"""been""","Louisville, KY, USA",1knowing1
+"""been""","Philadelphia, PA, USA",1knowing1
+"""been""","Gettysburg, PA, USA",1knowing1
+"""want""","Christchurch, New Zealand",1knowing1
+"""been""","Maumee, OH, USA",1knowing1
+"""been""","Washington DC, DC, USA",1knowing1
+"""want""","Papetoai, French Polynesia",1knowing1
+"""been""","Staten Island, NY, USA",1knowing1
+"""been""","Muscat, Oman",1knowing1
+"""been""","Dayton, OH, USA",1knowing1
+"""been""","Dania Beach, FL, USA",1knowing1
+"""been""","Morrow, GA, USA",1knowing1
+"""been""","Coral Bay, U.S. Virgin Islands",1knowing1
+"""been""","Luquillo, Puerto Rico",1knowing1
+"""want""","Tamarindo, Costa Rica",1knowing1
+"""been""","Celebration, FL, USA",1knowing1
+"""want""","Florence, Italy",1knowing1
+"""been""","Mason, OH, USA",1knowing1
+"""been""","Vinings, GA, USA",1knowing1
+"""been""","Lakeland, FL, USA",1knowing1
+"""been""","Santa Ana, CA, USA",1knowing1
+"""been""","Ocala, FL, USA",1knowing1
+"""been""","Richmond, VA, USA",1knowing1
+"""been""","Santa Barbara, CA, USA",1knowing1
+"""been""","Kailua, HI, USA",1knowing1
+"""been"",""fave""","Atlanta, GA, USA",1knowing1
+"""been""","Memphis, TN, USA",1knowing1
+"""been""","Beverly Hills, CA, USA",1knowing1
+"""been""","Camps Bay, South Africa",1knowing1
+"""want""","Muri, Cook Islands",1knowing1
+"""been"",""want""","Cape Town Central, South Africa",1knowing1
+"""been""","Lingfield, UK",1knowing1
+"""been""","Sun City, South Africa",1knowing1
+"""want""","Fujairah, United Arab Emirates",1knowing1
+"""want""","Anchorage, AK, USA",1knowing1
+"""been""","Clermont, FL, USA",1knowing1
+"""been""","Clearwater, FL, USA",1knowing1
+"""been""","Sandy Ground, Anguilla",1knowing1
+"""been""","South Bend, IN, USA",1knowing1
+"""been""","New York City, NY, USA",1knowing1
+"""been""","Cocoa Beach, FL, USA",1knowing1
+"""been""","Phuket, Thailand",1knowing1
+"""want""","Grassobbio, Italy",1knowing1
+"""been""","Sekondi-Takoradi, Ghana",1knowing1
+"""been""","Little Rock, AR, USA",1knowing1
+"""want""","Antananarivo, Madagascar",1knowing1
+"""been""","Irving, TX, USA",1knowing1
+"""been"",""want""","Rome, Italy",1knowing1
+"""been""","Akron, OH, USA",1knowing1
+"""want""","Reykjavik, Iceland",1knowing1
+"""want""","Christchurch, UK",1knowing1
+"""been""","Fort Lauderdale, FL, USA",1knowing1
+"""been""","Estepona, Spain",1knowing1
+"""been""","Katakolo, Greece",1knowing1
+"""been"",""want""","Malaga, Spain",1knowing1
+"""been""","Brussels, Belgium",1knowing1
+"""been""","St. George's, Grenada",1knowing1
+"""want""","Stockholm, Sweden",1knowing1
+"""been""","Fort Myers, FL, USA",1knowing1
+"""want""","Punta Cana, Dominican Republic",1knowing1
+"""been""","La Romana, Dominican Republic",1knowing1
+"""want""","Bangkok, Thailand",1knowing1
+"""want""","Placencia, Belize",1knowing1
+"""been""","Grenada, Caribbean",1knowing1
+"""been""","Fort Myers Beach, FL, USA",1knowing1
+"""been""","Kissimmee, FL, USA",1knowing1
+"""been""","Ruskin, FL, USA",1knowing1
+"""been""","Niagara-on-the-Lake, Ontario, Canada",1knowing1
+"""been""","Munich, Germany",1knowing1
+"""been""","Kailua-Kona, HI, USA",1knowing1
+"""been""","Hana, HI, USA",1knowing1
+"""been""","Titusville, FL, USA",1knowing1
+"""been""","Cincinnati, OH, USA",1knowing1
+"""been""","St. Augustine, FL, USA",1knowing1
+"""been""","Denver, CO, USA",1knowing1
+"""been""","Kennesaw, GA, USA",1knowing1
+"""been""","Niagara Falls, Ontario, Canada",1knowing1
+"""want""","Puerto Plata, Dominican Republic",1knowing1
+"""been""","Lahaina, HI, USA",1knowing1
+"""been""","Seattle, WA, USA",1knowing1
+"""been""","Frederic, WI, USA",1knowing1
+"""been""","Kingston, Ontario, Canada",1knowing1
+"""want""","Amalfi, Italy",1knowing1
+"""want""","Capri, Italy",1knowing1
+"""want""","Sorrento, Italy",1knowing1
+"""been""","Izmir, Turkey",1knowing1
+"""been""","Sandusky, OH, USA",1knowing1
+"""want""","San Ignacio, Belize",1knowing1
+"""been""","Cape Canaveral, FL, USA",1knowing1
+"""been"",""want""","Santo Domingo, Dominican Republic",1knowing1
+"""been""","Stellenbosch, South Africa",1knowing1
+"""been""","London, UK",1knowing1
+"""been""","Antwerp, Belgium",1knowing1
+"""want""","Naples, Italy",1knowing1
+"""been""","Moscow, Russia",1knowing1
+"""been""","Belize City, Belize",1knowing1
+"""been""","Roseau, Dominica",1knowing1
+"""been""","Morne Trois Pitons National Park, Dominica",1knowing1
+"""been""","Gainesville, FL, USA",1knowing1
+"""been""","Kilauea, HI, USA",1knowing1
+"""been""","Berkeley, CA, USA",1knowing1
+"""been""","Lake Mary, FL, USA",1knowing1
+"""been""","North Miami Beach, FL, USA",1knowing1
+"""been""","Honolulu, HI, USA",1knowing1
+"""been""","Adare, Ireland",1knowing1
+"""been""","Valdosta, GA, USA",1knowing1
+"""been""","Asheville, NC, USA",1knowing1
+"""been""","Malmo, Sweden",1knowing1
+"""been""","Boston, MA, USA",1knowing1
+"""been""","Burnie, Australia",1knowing1
+"""been""","Tupelo, MS, USA",1knowing1
+"""been""","Wheeling, WV, USA",1knowing1
+"""been""","Lake City, FL, USA",1knowing1
+"""been""","Newark, NJ, USA",1knowing1
+"""want""","Uppsala, Sweden",1knowing1
+"""been""","Rio Grande, Puerto Rico",1knowing1
+"""been"",""want""","Willemstad, Curacao",1knowing1
+"""been""","Jacksonville Beach, FL, USA",1knowing1
+"""been""","Pretoria, South Africa",1knowing1
+"""been""","Grand Turk, Turks and Caicos",1knowing1
+"""been"",""fave""","Curacao, Caribbean",1knowing1
+"""been""","Soweto, South Africa",1knowing1
+"""been""","Anaheim, CA, USA",1knowing1
+"""want""","Havana, Cuba",1knowing1
+"""been""","Colorado Springs, CO, USA",1knowing1
+"""been""","Saint Philips, Antigua and Barbuda",1knowing1
+"""been""","Houston, TX, USA",1knowing1
+"""been""","Columbia, SC, USA",1knowing1
+"""been""","Bolans, Antigua and Barbuda",1knowing1
+"""been""","Sao Paulo, Brazil",1knowing1
+"""been""","Wailea, HI, USA",1knowing1
+"""want""","Mesaieed, Qatar",1knowing1
+"""been""","Vieux Fort, St. Lucia",1knowing1
+"""been""","Bakersfield, CA, USA",1knowing1
+"""want""","Kralendijk, Bonaire",1knowing1
+"""been""","Port of Spain, Trinidad and Tobago",1knowing1
+"""been""","Kansas City, KS, USA",1knowing1
+"""been""","Liege, Belgium",1knowing1
+"""been""","Bridgetown, Barbados",1knowing1
+"""been"",""want"",""fave""","Johannesburg, South Africa",1knowing1
+"""been""","Flic En Flac, Africa",1knowing1
+"""been""","Mount Dora, FL, USA",1knowing1
+"""been""","West Hollywood, CA, USA",1knowing1
+"""been""","Charleston, SC, USA",1knowing1
+"""been""","Naples, FL, USA",1knowing1
+"""been""","Rio de Janeiro, Brazil",1knowing1
+"""been""","Greensboro, NC, USA",1knowing1
+"""want""","Maharepa, French Polynesia",1knowing1
+"""been""","Port Saint Lucie, FL, USA",1knowing1
+"""been""","Frigate Bay, St. Kitts and Nevis",1knowing1
+"""want""","Beau Vallon, Seychelles",1knowing1
+"""been""","Columbia, MD, USA",1knowing1
+"""want""","Aarhus, Denmark",1knowing1
+"""been""","Sunderland, UK",1knowing1
+"""want""","Hamilton, Bermuda",1knowing1
+"""been""","Charlestown, St. Kitts and Nevis",1knowing1
+"""been"",""want""","Kuala Lumpur, Malaysia",1knowing1
+"""want""","Nice, France",1knowing1
+"""want""","Victoria, Seychelles",1knowing1
+"""been""","Basseterre, St. Kitts and Nevis",1knowing1
+"""been""","Pensacola, FL, USA",1knowing1
+"""been""","Melbourne Beach, FL, USA",1knowing1
+"""been""","Tallahassee, FL, USA",1knowing1
+"""been""","San Francisco, CA, USA",1knowing1
+"""been"",""fave""","Athens, Greece",1knowing1
+"""been""","Palma de Mallorca, Spain",1knowing1
+"""been""","Rhodes Town, Greece",1knowing1
+"""been""","New Brunswick, NJ, USA",1knowing1
+"""been""","Palm - Eagle Beach, Aruba",1knowing1
+"""been""","Tampa, FL, USA",1knowing1
+"""been"",""want""","Seven Mile Beach, Cayman Islands",1knowing1
+"""been""","Durban, South Africa",1knowing1
+"""been""","George Town, Cayman Islands",1knowing1
+"""been""","Indian Shores, FL, USA",1knowing1
+"""been""","Miami, FL, USA",1knowing1
+"""been"",""want""","Oranjestad, Aruba",1knowing1
+"""been""","Piraeus, Greece",1knowing1
+"""been""","Miami Beach, FL, USA",1knowing1
+"""been""","Grand Cayman, Cayman Islands",1knowing1
+"""been""","St. John's, Antigua and Barbuda",1knowing1
+"""been""","Miami Springs, FL, USA",1knowing1
+"""been""","Shoal Bay Village, Anguilla",1knowing1
+"""been""","Brooklyn, NY, USA",1knowing1
+"""been""","Pensacola Beach, FL, USA",1knowing1
+"""been""","Seoul, South Korea",1knowing1
+"""been""","Dusseldorf, Germany",1knowing1
+"""been""","Nashville, TN, USA",1knowing1
+"""been""","Bogota, Colombia",1knowing1
+"""been"",""fave""","Barcelona, Spain",1knowing1
+"""been""","Jamaica, NY, USA",1knowing1
+"""want""","La Paz, Bolivia",1knowing1
+"""been""","The Valley, Anguilla",1knowing1
+"""been""","Anguilla, Caribbean",1knowing1
+"""been""","Vail, CO, USA",1knowing1
+"""been""","Water Island, U.S. Virgin Islands",1knowing1
+"""been""","Road Town, British Virgin Islands",1knowing1
+"""been""","Grand Case, St Martin \u002F St Maarten",1knowing1
+"""been""","Lansing, MI, USA",1knowing1
+"""been""","Tortola, British Virgin Islands",1knowing1
+"""want""","Uyuni, Bolivia",1knowing1
+"""been""","Simpson Bay, St Martin \u002F St Maarten",1knowing1
+"""been""","Palm Beach, FL, USA",1knowing1
+"""want""","Porlamar, Venezuela",1knowing1
+"""been""","Baltimore, MD, USA",1knowing1
+"""been""","Crown Point, Trinidad and Tobago",1knowing1
+"""been""","Newcastle upon Tyne, UK",1knowing1
+"""been"",""fave""","Copenhagen, Denmark",1knowing1
+"""been""","Marigot, St Martin \u002F St Maarten",1knowing1
+"""want""","Budva, Montenegro",1knowing1
+"""been""","Miramar Beach, FL, USA",1knowing1
+"""been""","Soufriere, St. Lucia",1knowing1
+"""been""","Boulder, CO, USA",1knowing1
+"""been"",""fave""","Philipsburg, St Martin \u002F St Maarten",1knowing1
+"""been""","Altamonte Springs, FL, USA",1knowing1
+"""been""","Castries, St. Lucia",1knowing1
+"""been""","Panama City, FL, USA",1knowing1
+"""been""","Panama City Beach, FL, USA",1knowing1
+"""been""","Macon, GA, USA",1knowing1
+"""been""","Arlington, TX, USA",1knowing1
+"""want""","Island of Malta, Malta",1knowing1
+"""been""","Jacksonville, FL, USA",1knowing1
+"""want""","El Valle de Anton, Panama",1knowing1
+"""been""","Winter Haven, FL, USA",1knowing1
+"""been""","Winter Park, FL, USA",1knowing1
+"""been""","Alpharetta, GA, USA",1knowing1
+"""been""","Sainte-Anne, Martinique",1knowing1
+"""been"",""fave""","Zurich, Switzerland",1knowing1
+"""been"",""fave""","Dubrovnik, Croatia",1knowing1
+"""been""","Martinique, Caribbean",1knowing1
+"""want""","Santa Cruz, Bolivia",1knowing1
+"""been""","Trois-Ilets, Martinique",1knowing1
+"""been""","Amsterdam, The Netherlands",1knowing1
+"""been""","Hopkins, Belize",1knowing1
+"""been""","Ponce, Puerto Rico",1knowing1
+"""been""","Orlando, FL, USA",1knowing1
+"""been""","Rhodes, Greece",1knowing1
+"""been""","Paris, France",1knowing1
+"""want""","Montanita, Ecuador",1knowing1
+"""been""","Lviv, Ukraine",1knowing1
+"""been"",""fave""","San Juan, Puerto Rico",1knowing1
+"""been""","Detroit, MI, USA",1knowing1
+"""been""","Grand Rapids, MI, USA",1knowing1
+"""been""","Botany Bay, Australia",1knowing1
+"""been""","Frederick, MD, USA",1knowing1
+"""been""","Orient Bay, St Martin \u002F St Maarten",1knowing1
+"""been"",""want""","Bora Bora, French Polynesia",1knowing1
+"""been""","Milano Marittima, Italy",1knowing1
+"""been""","South Hill, Anguilla",1knowing1
+"""want""","Mar del Plata, Argentina",1knowing1
+"""been""","Ocho Rios, Jamaica",1knowing1
+"""been""","Saint Augustine Beach, FL, USA",1knowing1
+"""been""","Montego Bay, Jamaica",1knowing1
+"""want""","Antigua, Guatemala",1knowing1
+"""want""","Algarrobo, Chile",1knowing1
+"""want""","Drake Bay, Costa Rica",1knowing1
+"""been""","St. Petersburg, FL, USA",1knowing1
+"""been""","Kingston, Jamaica",1knowing1
+"""want""","Buenos Aires, Argentina",1knowing1
+"""want""","Pai, Thailand",1knowing1
+"""been""","West Palm Beach, FL, USA",1knowing1
+"""been""","Wotten Waven, Dominica",1knowing1
+"""want""","Skopje, Republic of North Macedonia",1knowing1
+"""want""","Oslo, Norway",1knowing1
+"""been""","Port-au-Prince, Haiti",1knowing1
+"""been""","Haiti, Caribbean",1knowing1
+"""been""","Gaithersburg, MD, USA",1knowing1
+"""been""","Sanford, FL, USA",1knowing1
+"""been""","Sarasota, FL, USA",1knowing1
+"""been""","Freeport, Bahamas",1knowing1
+"""been"",""want""","Singapore, Singapore",1knowing1
+"""been""","Columbus, GA, USA",1knowing1
+"""been""","Kansas City, MO, USA",1knowing1
+"""been""","Minneapolis, MN, USA",1knowing1
+"""want""","Pacific Harbour, Fiji",1knowing1
+"""want""","Puerto Natales, Chile",1knowing1
+"""been""","Alexandria, VA, USA",1knowing1
+"""been""","Tiberias, Israel",1knowing1
+"""been""","Gyeongju, South Korea",1knowing1
+"""been""","Paradise Island, Bahamas",1knowing1
+"""been""","Toledo, OH, USA",1knowing1
+"""been""","Nassau, Bahamas",1knowing1
+"""been""","Virgin Islands National Park, U.S. Virgin Islands",1knowing1
+"""been""","Cruz Bay, U.S. Virgin Islands",1knowing1
+"""been""","Caneel Bay, U.S. Virgin Islands",1knowing1
+"""been""","Inglewood, CA, USA",1knowing1
+"""been"",""want""","Abu Dhabi, United Arab Emirates",1knowing1
+"""been""","Long Beach, CA, USA",1knowing1
+"""want""","Tigre, Argentina",1knowing1
+"""been""","Irvine, CA, USA",1knowing1
+"""been""","Carolina, Puerto Rico",1knowing1
+"""been"",""want""","Vienna, Austria",1knowing1
+"""been""","Olympia, Greece",1knowing1
+"""been""","St. John, U.S. Virgin Islands",1knowing1
+"""been""","Krakow, Poland",1knowing1
+"""been"",""want""","St. Thomas, U.S. Virgin Islands",1knowing1
+"""want""","Abidjan, Ivory Coast",1knowing1
+"""been""","Frederiksted, U.S. Virgin Islands",1knowing1
+"""want""","Karon, Thailand",1knowing1
+"""been"",""fave""","Charlotte Amalie, U.S. Virgin Islands",1knowing1
+"""been""","Nazareth, Israel",1knowing1
+"""been""","Aurora, CO, USA",1knowing1
+"""been""","Los Angeles, CA, USA",1knowing1
+"""been""","Christiansted, U.S. Virgin Islands",1knowing1
+"""been""","Saint Louis, MO, USA",1knowing1
+"""been""","Aspen, CO, USA",1knowing1
+"""been""","Chicago, IL, USA",1knowing1
+"""been""","Toronto, Ontario, Canada",1knowing1
+"""been""","Durham, NC, USA",1knowing1
+"""been""","Fajardo, Puerto Rico",1knowing1
+"""been""","Bethesda, MD, USA",1knowing1
+"""been""","Las Vegas, NV, USA",1knowing1
+"""been""","Arlington, VA, USA",1knowing1
+"""been""","Jaffa, Israel",1knowing1
+"""been""","Bengaluru, India",1knowing1

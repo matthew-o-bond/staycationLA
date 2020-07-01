@@ -1,0 +1,878 @@
+tag,place,user
+"""been""","Saugatuck, MI, USA",84paulau
+"""been""","Evansville, IN, USA",84paulau
+"""been""","Henderson, NV, USA",84paulau
+"""been""","Lafayette, LA, USA",84paulau
+"""been""","Baton Rouge, LA, USA",84paulau
+"""been""","Lake Charles, LA, USA",84paulau
+"""been""","Rockville, MD, USA",84paulau
+"""been""","West Bay, Cayman Islands",84paulau
+"""been""","Seaside Heights, NJ, USA",84paulau
+"""been""","Incline Village, NV, USA",84paulau
+"""been""","Cesky Krumlov, Czech Republic",84paulau
+"""been""","Paradise Valley, AZ, USA",84paulau
+"""been""","Little River, CA, USA",84paulau
+"""been""","Petaluma, CA, USA",84paulau
+"""been""","Bibione, Italy",84paulau
+"""been""","Bormio, Italy",84paulau
+"""been""","Kavos, Greece",84paulau
+"""been""","Alexandria, Egypt",84paulau
+"""been""","Laughlin, NV, USA",84paulau
+"""been""","Secaucus, NJ, USA",84paulau
+"""been""","Saint Charles, MO, USA",84paulau
+"""been""","St. Michaels, MD, USA",84paulau
+"""been""","Paso Robles, CA, USA",84paulau
+"""been""","Durham, NC, USA",84paulau
+"""been""","Gunzburg, Germany",84paulau
+"""been""","Brunswick, GA, USA",84paulau
+"""want""","Bogota, Colombia",84paulau
+"""want""","Hyderabad, India",84paulau
+"""been""","Mackinaw City, MI, USA",84paulau
+"""been""","Pismo Beach, CA, USA",84paulau
+"""been""","Annapolis, MD, USA",84paulau
+"""been""","Prescott, AZ, USA",84paulau
+"""been""","Los Angeles, CA, USA",84paulau
+"""been""","Keystone, CO, USA",84paulau
+"""been""","New Hope, PA, USA",84paulau
+"""been""","Hill City, SD, USA",84paulau
+"""been""","Fresno, CA, USA",84paulau
+"""been""","Lynchburg, VA, USA",84paulau
+"""been""","Saint Ignace, MI, USA",84paulau
+"""been""","Lucea, Jamaica",84paulau
+"""been""","Gloucester, MA, USA",84paulau
+"""been""","Salina, KS, USA",84paulau
+"""been""","Great Barrington, MA, USA",84paulau
+"""been""","Saint Joseph, MI, USA",84paulau
+"""been""","Phoenix, AZ, USA",84paulau
+"""been""","Fort Bragg, CA, USA",84paulau
+"""been""","Waco, TX, USA",84paulau
+"""been""","Guthrie, OK, USA",84paulau
+"""been""","Alba, Italy",84paulau
+"""been""","Alba Adriatica, Italy",84paulau
+"""been""","Alexandria, VA, USA",84paulau
+"""been""","Long Beach, CA, USA",84paulau
+"""been""","Bloomington, MN, USA",84paulau
+"""been""","Tiberias, Israel",84paulau
+"""want""","Abu Dhabi, United Arab Emirates",84paulau
+"""been""","Rockport, MA, USA",84paulau
+"""been""","Regina, Saskatchewan, Canada",84paulau
+"""been""","Saskatoon, Saskatchewan, Canada",84paulau
+"""been""","Edgartown, MA, USA",84paulau
+"""been""","Eastham, MA, USA",84paulau
+"""been""","Meloneras, Spain",84paulau
+"""want""","Nassau, Bahamas",84paulau
+"""been""","Cruz Bay, U.S. Virgin Islands",84paulau
+"""been""","Dallas, TX, USA",84paulau
+"""been""","Strasburg, PA, USA",84paulau
+"""been""","Oxnard, CA, USA",84paulau
+"""been""","Whitehorse, Yukon, Canada",84paulau
+"""been""","San Martino di Castrozza, Italy",84paulau
+"""been""","Puerto Ayora, Ecuador",84paulau
+"""been""","Concord, NC, USA",84paulau
+"""been""","Montreal, Quebec, Canada",84paulau
+"""been"",""fave""","Quebec City, Quebec, Canada",84paulau
+"""been""","Salinas, Ecuador",84paulau
+"""been""","Orange, CA, USA",84paulau
+"""been""","Tuscaloosa, AL, USA",84paulau
+"""been""","Olympic Valley, CA, USA",84paulau
+"""been""","Ontario, CA, USA",84paulau
+"""been""","Antigua, Guatemala",84paulau
+"""been""","Plymouth, MA, USA",84paulau
+"""been""","Provincetown, MA, USA",84paulau
+"""been""","Athens, GA, USA",84paulau
+"""want""","Salvador, Brazil",84paulau
+"""been""","Augusta, GA, USA",84paulau
+"""been""","State College, PA, USA",84paulau
+"""been""","Leitrim, Ireland",84paulau
+"""been""","Pasadena, CA, USA",84paulau
+"""been""","Cherokee, NC, USA",84paulau
+"""been""","Chapel Hill, NC, USA",84paulau
+"""been""","Winter Park, CO, USA",84paulau
+"""been""","Woodland Park, CO, USA",84paulau
+"""been""","Reading, PA, USA",84paulau
+"""been""","Kitty Hawk, NC, USA",84paulau
+"""been""","Les Arcs, France",84paulau
+"""been""","Kennebunkport, ME, USA",84paulau
+"""been""","Karlovy Vary, Czech Republic",84paulau
+"""been""","Pacific Grove, CA, USA",84paulau
+"""been""","Stamford, CT, USA",84paulau
+"""been""","Palo Alto, CA, USA",84paulau
+"""been""","Palm Desert, CA, USA",84paulau
+"""been""","Bar Harbor, ME, USA",84paulau
+"""been""","Healdsburg, CA, USA",84paulau
+"""been""","Madrid, Spain",84paulau
+"""been""","Mount Laurel, NJ, USA",84paulau
+"""been""","Estes Park, CO, USA",84paulau
+"""been""","Providence, RI, USA",84paulau
+"""been""","Boulder, CO, USA",84paulau
+"""been""","Crescent City, CA, USA",84paulau
+"""been""","Madeira Beach, FL, USA",84paulau
+"""been""","Bad Gastein, Austria",84paulau
+"""been""","Lubbock, TX, USA",84paulau
+"""been""","Breckenridge, CO, USA",84paulau
+"""been""","Elizabeth, NJ, USA",84paulau
+"""been""","Solden, Austria",84paulau
+"""been""","Torrevieja, Spain",84paulau
+"""been""","Tombstone, AZ, USA",84paulau
+"""been""","Monument, CO, USA",84paulau
+"""been""","Ischgl, Austria",84paulau
+"""been""","St. Anton am Arlberg, Austria",84paulau
+"""been""","Guerneville, CA, USA",84paulau
+"""been""","Killington, VT, USA",84paulau
+"""been""","Salem, MA, USA",84paulau
+"""been""","San Francisco, CA, USA",84paulau
+"""been""","Tempe, AZ, USA",84paulau
+"""been""","Ballyfarnon, Ireland",84paulau
+"""been""","Johnson City, TN, USA",84paulau
+"""been""","Rio San Juan, Dominican Republic",84paulau
+"""been""","Half Moon Bay, CA, USA",84paulau
+"""been""","Zell am See, Austria",84paulau
+"""been""","Kaprun, Austria",84paulau
+"""been""","Oxon Hill, MD, USA",84paulau
+"""been""","Ithaca, NY, USA",84paulau
+"""been""","Saalbach-Hinterglemm, Austria",84paulau
+"""been""","Sisters, OR, USA",84paulau
+"""been""","Mayrhofen, Austria",84paulau
+"""been""","Port Angeles, WA, USA",84paulau
+"""been""","Solvang, CA, USA",84paulau
+"""been""","Wilkes-Barre, PA, USA",84paulau
+"""been""","Pagosa Springs, CO, USA",84paulau
+"""been""","Costa Mesa, CA, USA",84paulau
+"""been""","Cascade, CO, USA",84paulau
+"""been""","Palmer Lake, CO, USA",84paulau
+"""been""","Tallahassee, FL, USA",84paulau
+"""been""","Sonoma, CA, USA",84paulau
+"""been""","Rockford, IL, USA",84paulau
+"""been""","Miami, FL, USA",84paulau
+"""been""","Hagerstown, MD, USA",84paulau
+"""been""","Hanover, MD, USA",84paulau
+"""been""","Jamaica, NY, USA",84paulau
+"""been""","Hermosa Beach, CA, USA",84paulau
+"""been""","Coronado, CA, USA",84paulau
+"""been""","Canon City, CO, USA",84paulau
+"""been""","Ouray, CO, USA",84paulau
+"""been""","Minot, ND, USA",84paulau
+"""been""","Watkins Glen, NY, USA",84paulau
+"""been""","Saintes-Maries-de-la-Mer, France",84paulau
+"""been""","Buena Vista, CO, USA",84paulau
+"""been""","Greenville, SC, USA",84paulau
+"""been""","Ronda, Spain",84paulau
+"""been""","Calhan, CO, USA",84paulau
+"""been""","Hannibal, MO, USA",84paulau
+"""been""","Lech, Austria",84paulau
+"""been""","Gaithersburg, MD, USA",84paulau
+"""been""","Mill Valley, CA, USA",84paulau
+"""been""","Spring Lake, NJ, USA",84paulau
+"""been""","Keystone, SD, USA",84paulau
+"""been""","Morristown, NJ, USA",84paulau
+"""been""","Frederick, MD, USA",84paulau
+"""been""","Malibu, CA, USA",84paulau
+"""been""","Cassis, France",84paulau
+"""been""","Leadville, CO, USA",84paulau
+"""been""","Florence, SC, USA",84paulau
+"""been""","Manhattan Beach, CA, USA",84paulau
+"""been""","Fayetteville, AR, USA",84paulau
+"""been""","Columbus, GA, USA",84paulau
+"""want""","New Delhi, India",84paulau
+"""want""","Mumbai, India",84paulau
+"""been""","Grand Rapids, MI, USA",84paulau
+"""been""","Sligo, Ireland",84paulau
+"""been""","Seaside, OR, USA",84paulau
+"""been""","Salem, OR, USA",84paulau
+"""been""","Natchez, MS, USA",84paulau
+"""been""","Folly Beach, SC, USA",84paulau
+"""been""","Bethany Beach, DE, USA",84paulau
+"""been""","Nungwi, Tanzania",84paulau
+"""been""","Matemwe, Tanzania",84paulau
+"""been""","Bwejuu, Tanzania",84paulau
+"""been""","Garden Grove, CA, USA",84paulau
+"""been""","Green Bay, WI, USA",84paulau
+"""want""","Darjeeling, India",84paulau
+"""want""","Cork, Ireland",84paulau
+"""been""","Silver Spring, MD, USA",84paulau
+"""been""","Bossier City, LA, USA",84paulau
+"""been""","Groveland, CA, USA",84paulau
+"""been""","Sissi, Greece",84paulau
+"""been""","Pwani Mchangani, Tanzania",84paulau
+"""want""","Havana, Cuba",84paulau
+"""been""","Portland, OR, USA",84paulau
+"""been""","Yountville, CA, USA",84paulau
+"""been""","Altoona, PA, USA",84paulau
+"""been""","Bailey, CO, USA",84paulau
+"""been""","Las Galeras, Dominican Republic",84paulau
+"""been""","Mariposa, CA, USA",84paulau
+"""been""","Galway, Ireland",84paulau
+"""been""","Marina del Rey, CA, USA",84paulau
+"""been""","Loveland, CO, USA",84paulau
+"""been""","Surfside Beach, SC, USA",84paulau
+"""been""","Allentown, PA, USA",84paulau
+"""been""","Moscow, Russia",84paulau
+"""been""","Utica, IL, USA",84paulau
+"""been""","Manitou Springs, CO, USA",84paulau
+"""been""","Marble, CO, USA",84paulau
+"""been"",""fave""","Nice, France",84paulau
+"""been""","West Yellowstone, MT, USA",84paulau
+"""been""","Bishop, CA, USA",84paulau
+"""been""","Tiburon, CA, USA",84paulau
+"""been""","Bethlehem, PA, USA",84paulau
+"""been""","Dayton, OH, USA",84paulau
+"""been""","Temecula, CA, USA",84paulau
+"""been""","Ocala, FL, USA",84paulau
+"""want""","Kathmandu, Nepal",84paulau
+"""been""","Beverly Hills, CA, USA",84paulau
+"""been""","Sandwich, MA, USA",84paulau
+"""been""","Sturgeon Bay, WI, USA",84paulau
+"""been""","Gettysburg, PA, USA",84paulau
+"""been""","Dewey Beach, DE, USA",84paulau
+"""been""","Tahoe City, CA, USA",84paulau
+"""been""","Durango, CO, USA",84paulau
+"""been""","Berkeley, CA, USA",84paulau
+"""been""","Naperville, IL, USA",84paulau
+"""been""","Philadelphia, PA, USA",84paulau
+"""been""","King of Prussia, PA, USA",84paulau
+"""been""","Staten Island, NY, USA",84paulau
+"""been""","Poughkeepsie, NY, USA",84paulau
+"""been""","Mammoth Lakes, CA, USA",84paulau
+"""been""","Dover, DE, USA",84paulau
+"""been""","St-Paul-de-Vence, France",84paulau
+"""been""","Newark, DE, USA",84paulau
+"""been""","Truckee, CA, USA",84paulau
+"""been""","Irving, TX, USA",84paulau
+"""been""","Middletown, RI, USA",84paulau
+"""been""","Staunton, VA, USA",84paulau
+"""been""","Ventura, CA, USA",84paulau
+"""been""","Narragansett, RI, USA",84paulau
+"""been""","El Paso, TX, USA",84paulau
+"""been""","Chesapeake, VA, USA",84paulau
+"""want""","Melbourne, Australia",84paulau
+"""been""","Little Rock, AR, USA",84paulau
+"""been""","New York City, NY, USA",84paulau
+"""been""","Carlsbad, NM, USA",84paulau
+"""been"",""fave""","Cannes, France",84paulau
+"""been""","Plattsburgh, NY, USA",84paulau
+"""been""","Athens, Greece",84paulau
+"""been""","Saint-Chaffrey, France",84paulau
+"""been""","Bodega Bay, CA, USA",84paulau
+"""been""","Torrance, CA, USA",84paulau
+"""been""","Delphi, Greece",84paulau
+"""been""","Lewes, DE, USA",84paulau
+"""been""","South Bend, IN, USA",84paulau
+"""been""","Geneva, NY, USA",84paulau
+"""been""","Bratislava, Slovakia",84paulau
+"""been""","North Wildwood, NJ, USA",84paulau
+"""been"",""fave""","Stockholm, Sweden",84paulau
+"""been""","Champaign, IL, USA",84paulau
+"""been""","Malaga, Spain",84paulau
+"""been""","Portsmouth, NH, USA",84paulau
+"""been""","Chandler, AZ, USA",84paulau
+"""been""","Punta de Mita, Mexico",84paulau
+"""been""","Topeka, KS, USA",84paulau
+"""been""","Laramie, WY, USA",84paulau
+"""been""","Kansas City, KS, USA",84paulau
+"""been""","Bakersfield, CA, USA",84paulau
+"""been""","Dana Point, CA, USA",84paulau
+"""been""","Vicksburg, MS, USA",84paulau
+"""been""","London, Ontario, Canada",84paulau
+"""been""","Colorado Springs, CO, USA",84paulau
+"""been""","Everglades City, FL, USA",84paulau
+"""been""","Kingston, Ontario, Canada",84paulau
+"""been""","Rosemont, IL, USA",84paulau
+"""been"",""fave""","Honolulu, HI, USA",84paulau
+"""been"",""fave""","Niagara Falls, Ontario, Canada",84paulau
+"""been""","Ocean City, NJ, USA",84paulau
+"""been""","Charlottesville, VA, USA",84paulau
+"""been""","Baddeck, Nova Scotia, Canada",84paulau
+"""been""","Englewood, FL, USA",84paulau
+"""been""","Burlington, Ontario, Canada",84paulau
+"""been""","Wellfleet, MA, USA",84paulau
+"""been""","South San Francisco, CA, USA",84paulau
+"""been""","McAllen, TX, USA",84paulau
+"""been""","Walla Walla, WA, USA",84paulau
+"""been""","Kapalua, HI, USA",84paulau
+"""been""","Livorno, Italy",84paulau
+"""been""","Lubeck, Germany",84paulau
+"""been""","Kiel, Germany",84paulau
+"""been"",""fave""","Florence, Italy",84paulau
+"""been""","Benicia, CA, USA",84paulau
+"""been"",""fave""","Pisa, Italy",84paulau
+"""been""","Townsend, TN, USA",84paulau
+"""been""","Scranton, PA, USA",84paulau
+"""been""","Divide, CO, USA",84paulau
+"""been""","Springfield, MA, USA",84paulau
+"""been""","Lawrence, KS, USA",84paulau
+"""been""","Manchester, VT, USA",84paulau
+"""been""","Saint-Come-du-Mont, France",84paulau
+"""been""","Plano, TX, USA",84paulau
+"""been""","York, PA, USA",84paulau
+"""been""","Luray, VA, USA",84paulau
+"""been""","Harpers Ferry, WV, USA",84paulau
+"""been""","Knoxville, TN, USA",84paulau
+"""been""","Fort Pierce, FL, USA",84paulau
+"""been""","Cedar Rapids, IA, USA",84paulau
+"""been""","Sunnyvale, CA, USA",84paulau
+"""been"",""fave""","Denver, CO, USA",84paulau
+"""been""","Newark, NJ, USA",84paulau
+"""been""","Tortuguero, Costa Rica",84paulau
+"""been""","Columbia, MO, USA",84paulau
+"""been""","New Smyrna Beach, FL, USA",84paulau
+"""been""","Cooperstown, NY, USA",84paulau
+"""been""","Bismarck, ND, USA",84paulau
+"""been""","Newport, RI, USA",84paulau
+"""been""","Cripple Creek, CO, USA",84paulau
+"""been""","Port Aransas, TX, USA",84paulau
+"""been""","Olympia, WA, USA",84paulau
+"""been""","Suisun City, CA, USA",84paulau
+"""been""","Buffalo, NY, USA",84paulau
+"""been""","Del Mar, CA, USA",84paulau
+"""been""","Crested Butte, CO, USA",84paulau
+"""been""","Murfreesboro, TN, USA",84paulau
+"""been""","Gaiole in Chianti, Italy",84paulau
+"""want""","Ahmedabad, India",84paulau
+"""been""","Revelstoke, British Columbia, Canada",84paulau
+"""been""","Lenox, MA, USA",84paulau
+"""been""","Parksville, British Columbia, Canada",84paulau
+"""been""","Sayulita, Mexico",84paulau
+"""been""","El Medano, Spain",84paulau
+"""been""","Brno, Czech Republic",84paulau
+"""been""","Nelson, British Columbia, Canada",84paulau
+"""been""","Playa Hermosa, Costa Rica",84paulau
+"""been""","Old Orchard Beach, ME, USA",84paulau
+"""been""","Camden, ME, USA",84paulau
+"""been""","Playas del Coco, Costa Rica",84paulau
+"""been""","Playa Conchal, Costa Rica",84paulau
+"""been""","Golden, British Columbia, Canada",84paulau
+"""been""","Nashville, IN, USA",84paulau
+"""want""","Cape Town Central, South Africa",84paulau
+"""been""","Clarksville, TN, USA",84paulau
+"""been""","Fayetteville, NC, USA",84paulau
+"""been""","South Lake Tahoe, CA, USA",84paulau
+"""been""","Molveno, Italy",84paulau
+"""been""","Berchtesgaden, Germany",84paulau
+"""been""","Chichen Itza, Mexico",84paulau
+"""been""","Cancun, Mexico",84paulau
+"""been""","Windsor, Ontario, Canada",84paulau
+"""been"",""fave""","Prague, Czech Republic",84paulau
+"""been""","Huntsville, Ontario, Canada",84paulau
+"""been""","Collingwood, Ontario, Canada",84paulau
+"""been""","Boothbay Harbor, ME, USA",84paulau
+"""been""","Pai, Thailand",84paulau
+"""been""","Grants Pass, OR, USA",84paulau
+"""been""","Treasure Beach, Jamaica",84paulau
+"""been""","Mannheim, Germany",84paulau
+"""been"",""fave""","Playa del Carmen, Mexico",84paulau
+"""been""","Gulfport, MS, USA",84paulau
+"""been""","Hyannis, MA, USA",84paulau
+"""been""","Ashland, OR, USA",84paulau
+"""been""","San Cristobal de las Casas, Mexico",84paulau
+"""been""","Lake Placid, NY, USA",84paulau
+"""been""","Taxco, Mexico",84paulau
+"""been"",""fave""","Mexico City, Mexico",84paulau
+"""been""","Stratford, Ontario, Canada",84paulau
+"""been""","Thunder Bay, Ontario, Canada",84paulau
+"""been""","Toronto, Ontario, Canada",84paulau
+"""been""","Falmouth, Jamaica",84paulau
+"""been""","Kitzbuhel, Austria",84paulau
+"""been""","Innsbruck, Austria",84paulau
+"""been""","Jambiani, Tanzania",84paulau
+"""been"",""fave""","Salzburg, Austria",84paulau
+"""been""","Bangor, ME, USA",84paulau
+"""been""","Boise, ID, USA",84paulau
+"""been""","Virginia Beach, VA, USA",84paulau
+"""been""","Norfolk, VA, USA",84paulau
+"""been""","Wilmington, DE, USA",84paulau
+"""been""","Leavesden, UK",84paulau
+"""been""","Hilo, HI, USA",84paulau
+"""been""","Lake Harmony, PA, USA",84paulau
+"""been""","Heidelberg, Germany",84paulau
+"""been"",""fave""","Vienna, Austria",84paulau
+"""been""","Cuenca, Ecuador",84paulau
+"""been""","South Yarmouth, MA, USA",84paulau
+"""been""","Banos, Ecuador",84paulau
+"""want""","Santiago, Chile",84paulau
+"""been""","Bethel, ME, USA",84paulau
+"""been""","Lancaster, PA, USA",84paulau
+"""been""","Pythagorion, Greece",84paulau
+"""been""","Freiburg im Breisgau, Germany",84paulau
+"""been""","Gold Beach, OR, USA",84paulau
+"""been""","Langhorne, PA, USA",84paulau
+"""been""","Lausanne, Switzerland",84paulau
+"""been""","Alicante, Spain",84paulau
+"""been""","Aix-les-Bains, France",84paulau
+"""want""","Machu Picchu, Peru",84paulau
+"""been""","Boca Raton, FL, USA",84paulau
+"""been""","Galena, IL, USA",84paulau
+"""want""","Cusco, Peru",84paulau
+"""been""","Bamberg, Germany",84paulau
+"""want""","Lima, Peru",84paulau
+"""been""","Morgantown, WV, USA",84paulau
+"""been""","Gardiner, MT, USA",84paulau
+"""been""","Bretton Woods, NH, USA",84paulau
+"""been""","Teton Village, WY, USA",84paulau
+"""been""","Fargo, ND, USA",84paulau
+"""been""","Argassi, Greece",84paulau
+"""been""","Montgomery, AL, USA",84paulau
+"""been"",""fave""","Zurich, Switzerland",84paulau
+"""been""","Bronx, NY, USA",84paulau
+"""been""","Mobile, AL, USA",84paulau
+"""been""","Osoyoos, British Columbia, Canada",84paulau
+"""been""","North Vancouver, British Columbia, Canada",84paulau
+"""been""","Podcetrtek, Slovenia",84paulau
+"""been""","Newport News, VA, USA",84paulau
+"""been""","Boca Chica, Dominican Republic",84paulau
+"""been""","Eugene, OR, USA",84paulau
+"""been"",""fave""","Amsterdam, The Netherlands",84paulau
+"""been""","Great Falls, MT, USA",84paulau
+"""been""","Florence, OR, USA",84paulau
+"""been""","Hallstatt, Austria",84paulau
+"""been""","Brewster, MA, USA",84paulau
+"""been""","Linthicum Heights, MD, USA",84paulau
+"""want""","Agra, India",84paulau
+"""been""","Appleton, WI, USA",84paulau
+"""been""","Pueblo, CO, USA",84paulau
+"""been""","Mount Shasta, CA, USA",84paulau
+"""been""","Huntington Beach, CA, USA",84paulau
+"""been""","Mystic, CT, USA",84paulau
+"""been""","Sacramento, CA, USA",84paulau
+"""been""","Osage Beach, MO, USA",84paulau
+"""been""","Wichita, KS, USA",84paulau
+"""been""","Wildwood Crest, NJ, USA",84paulau
+"""been""","Nusa Dua, Indonesia",84paulau
+"""been""","Bethesda, MD, USA",84paulau
+"""been""","Yekaterinburg, Russia",84paulau
+"""been""","Big Sur, CA, USA",84paulau
+"""been""","Sosua, Dominican Republic",84paulau
+"""been""","Cabarete, Dominican Republic",84paulau
+"""been""","Juan Dolio, Dominican Republic",84paulau
+"""been""","Herndon, VA, USA",84paulau
+"""been""","Yuma, AZ, USA",84paulau
+"""been""","Morro Bay, CA, USA",84paulau
+"""been""","Etterbeek, Belgium",84paulau
+"""been""","Loreto, Mexico",84paulau
+"""been""","Greenville, NC, USA",84paulau
+"""been""","Bryce, UT, USA",84paulau
+"""been""","Irvine, CA, USA",84paulau
+"""been""","Bentonville, AR, USA",84paulau
+"""been""","Fort Worth, TX, USA",84paulau
+"""want""","Yangon (Rangoon), Myanmar",84paulau
+"""been""","Tijuana, Mexico",84paulau
+"""been""","Chicago, IL, USA",84paulau
+"""been""","Holland, MI, USA",84paulau
+"""been""","Avon, CO, USA",84paulau
+"""been""","Seven Mile Beach, Cayman Islands",84paulau
+"""been""","New Haven, CT, USA",84paulau
+"""been""","Tepoztlan, Mexico",84paulau
+"""been""","Indian Wells, CA, USA",84paulau
+"""been""","George Town, Cayman Islands",84paulau
+"""been""","Mountain View, CA, USA",84paulau
+"""been""","Rapid City, SD, USA",84paulau
+"""been""","Fredericksburg, TX, USA",84paulau
+"""been""","Redstone, CO, USA",84paulau
+"""been""","Hampton, VA, USA",84paulau
+"""been"",""fave""","Napa, CA, USA",84paulau
+"""been""","Indio, CA, USA",84paulau
+"""been""","Harrisonburg, VA, USA",84paulau
+"""been""","Inglewood, CA, USA",84paulau
+"""been""","Venice, FL, USA",84paulau
+"""been""","Ein Bokek, Israel",84paulau
+"""been""","Les Deux-Alpes, France",84paulau
+"""been""","Gurnee, IL, USA",84paulau
+"""been""","Alexandria Bay, NY, USA",84paulau
+"""been""","Redding, CA, USA",84paulau
+"""been""","Easton, PA, USA",84paulau
+"""been""","Grindelwald, Switzerland",84paulau
+"""been""","Ann Arbor, MI, USA",84paulau
+"""been""","Hartford, CT, USA",84paulau
+"""been""","Giulianova, Italy",84paulau
+"""been""","Grado, Italy",84paulau
+"""been""","Redondo Beach, CA, USA",84paulau
+"""been""","Tignes, France",84paulau
+"""been""","Wengen, Switzerland",84paulau
+"""been""","Kaliningrad, Russia",84paulau
+"""been""","Lexington, KY, USA",84paulau
+"""been""","Long Island City, NY, USA",84paulau
+"""want""","Porto, Portugal",84paulau
+"""been""","Albany, NY, USA",84paulau
+"""been""","St. Moritz, Switzerland",84paulau
+"""been""","Rancho Mirage, CA, USA",84paulau
+"""been""","Mendocino, CA, USA",84paulau
+"""been""","Stone Town, Tanzania",84paulau
+"""been""","Port Antonio, Jamaica",84paulau
+"""been""","Jackson, MS, USA",84paulau
+"""been""","Ocho Rios, Jamaica",84paulau
+"""been""","Springfield, MO, USA",84paulau
+"""been""","Flores, Guatemala",84paulau
+"""been""","Seefeld in Tirol, Austria",84paulau
+"""been""","Kingston, Jamaica",84paulau
+"""been""","Monterey, CA, USA",84paulau
+"""been""","Tulsa, OK, USA",84paulau
+"""been""","Harrisburg, PA, USA",84paulau
+"""been""","Neuchatel, Switzerland",84paulau
+"""been""","Nags Head, NC, USA",84paulau
+"""been""","Lucerne, Switzerland",84paulau
+"""been""","Riverside, CA, USA",84paulau
+"""been""","Gstaad, Switzerland",84paulau
+"""been""","Merzouga, Morocco",84paulau
+"""been""","Kazan, Russia",84paulau
+"""been""","Ponce, Puerto Rico",84paulau
+"""been""","Geneva on the Lake, OH, USA",84paulau
+"""been""","Dorado, Puerto Rico",84paulau
+"""been""","Costa Rei, Italy",84paulau
+"""want""","San Juan, Puerto Rico",84paulau
+"""been""","Carlisle, PA, USA",84paulau
+"""been""","East Stroudsburg, PA, USA",84paulau
+"""been""","Ouarzazate, Morocco",84paulau
+"""been""","Vicenza, Italy",84paulau
+"""been"",""fave""","Venice, Italy",84paulau
+"""been""","Lunenburg, Nova Scotia, Canada",84paulau
+"""been""","Modica, Italy",84paulau
+"""been""","Brindisi, Italy",84paulau
+"""been""","Grand Junction, CO, USA",84paulau
+"""been""","Ketchikan, AK, USA",84paulau
+"""been""","Duluth, MN, USA",84paulau
+"""been""","Arlington, TX, USA",84paulau
+"""been""","Fredericksburg, VA, USA",84paulau
+"""been""","Encinitas, CA, USA",84paulau
+"""been""","Palm Coast, FL, USA",84paulau
+"""been""","Lexington, VA, USA",84paulau
+"""been""","Rockport, TX, USA",84paulau
+"""been""","Sciacca, Italy",84paulau
+"""been""","Vancouver, WA, USA",84paulau
+"""been""","Golden, CO, USA",84paulau
+"""been""","Zacatecas, Mexico",84paulau
+"""been""","Blue Ridge, GA, USA",84paulau
+"""been""","Leesburg, VA, USA",84paulau
+"""been""","Escondido, CA, USA",84paulau
+"""been""","Glenwood Springs, CO, USA",84paulau
+"""been""","Lido di Ostia, Italy",84paulau
+"""been""","Lake Havasu City, AZ, USA",84paulau
+"""been""","Palm Beach, FL, USA",84paulau
+"""been""","Stowe, VT, USA",84paulau
+"""been""","Bangkok, Thailand",84paulau
+"""been""","Palm Beach Gardens, FL, USA",84paulau
+"""been"",""fave""","Chiang Mai, Thailand",84paulau
+"""been""","Moncton, New Brunswick, Canada",84paulau
+"""been""","Rincon, Puerto Rico",84paulau
+"""been""","Fredericton, New Brunswick, Canada",84paulau
+"""been""","Winnipeg, Manitoba, Canada",84paulau
+"""been""","Syracuse, NY, USA",84paulau
+"""been""","Jersey City, NJ, USA",84paulau
+"""been""","West Kelowna, British Columbia, Canada",84paulau
+"""been""","Egg Harbor, WI, USA",84paulau
+"""been""","East Hampton, NY, USA",84paulau
+"""been""","Ka'anapali, HI, USA",84paulau
+"""been""","Vail, CO, USA",84paulau
+"""been""","Frisco, CO, USA",84paulau
+"""been""","Bloomington, IN, USA",84paulau
+"""been""","West Glacier, MT, USA",84paulau
+"""been""","La Quinta, CA, USA",84paulau
+"""been""","Fraser, CO, USA",84paulau
+"""been""","Spokane, WA, USA",84paulau
+"""been"",""fave""","Victoria, British Columbia, Canada",84paulau
+"""been""","Palau, Italy",84paulau
+"""been"",""fave""","Vancouver, British Columbia, Canada",84paulau
+"""been""","Pavia, Italy",84paulau
+"""been""","Grottammare, Italy",84paulau
+"""been""","Point Pleasant Beach, NJ, USA",84paulau
+"""been""","Bolzano, Italy",84paulau
+"""been""","Astoria, OR, USA",84paulau
+"""been""","Edinburgh, UK",84paulau
+"""been""","Lake Ozark, MO, USA",84paulau
+"""been""","Florissant, CO, USA",84paulau
+"""been""","North Charleston, SC, USA",84paulau
+"""been""","Cape Breton Island, Nova Scotia, Canada",84paulau
+"""been""","Lansing, MI, USA",84paulau
+"""been""","Halifax, Nova Scotia, Canada",84paulau
+"""been""","Lincoln, NE, USA",84paulau
+"""been""","Princeton, NJ, USA",84paulau
+"""been""","Hoboken, NJ, USA",84paulau
+"""want""","Glasgow, UK",84paulau
+"""been""","Mesa, AZ, USA",84paulau
+"""been""","Pensacola, FL, USA",84paulau
+"""been""","Pensacola Beach, FL, USA",84paulau
+"""been""","Savannah, GA, USA",84paulau
+"""been""","Burlingame, CA, USA",84paulau
+"""been""","Green Mountain Falls, CO, USA",84paulau
+"""been""","Saint John, New Brunswick, Canada",84paulau
+"""been""","Eureka, CA, USA",84paulau
+"""been""","Grand Lake, CO, USA",84paulau
+"""been""","Beaufort, SC, USA",84paulau
+"""been""","Buena Park, CA, USA",84paulau
+"""been""","Tyler, TX, USA",84paulau
+"""been""","Burbank, CA, USA",84paulau
+"""been""","Panama City, FL, USA",84paulau
+"""been""","South Burlington, VT, USA",84paulau
+"""been""","Nashville, TN, USA",84paulau
+"""been""","Yellowknife, Northwest Territories, Canada",84paulau
+"""been""","Davenport, IA, USA",84paulau
+"""been""","Bellagio, Italy",84paulau
+"""been""","San Blas, Mexico",84paulau
+"""been""","West Palm Beach, FL, USA",84paulau
+"""been""","Mazatlan, Mexico",84paulau
+"""been"",""fave""","Puerto Vallarta, Mexico",84paulau
+"""been""","Birmingham, AL, USA",84paulau
+"""been""","Charleston, WV, USA",84paulau
+"""been""","Kuala Lumpur, Malaysia",84paulau
+"""been""","Guadalajara, Mexico",84paulau
+"""been""","Lake Louise, Alberta, Canada",84paulau
+"""been""","Silverton, CO, USA",84paulau
+"""been""","Banff, Alberta, Canada",84paulau
+"""been""","Whitefish, MT, USA",84paulau
+"""been""","Dearborn, MI, USA",84paulau
+"""been""","Rochester, MN, USA",84paulau
+"""been"",""fave""","Milan, Italy",84paulau
+"""been""","Greenport, NY, USA",84paulau
+"""been""","Mount Pleasant, SC, USA",84paulau
+"""been""","Aurora, CO, USA",84paulau
+"""been""","Monterrey, Mexico",84paulau
+"""been""","Salida, CO, USA",84paulau
+"""been""","Murrells Inlet, SC, USA",84paulau
+"""been""","Norwich, CT, USA",84paulau
+"""been""","Norwalk, CT, USA",84paulau
+"""been""","Boyle, Ireland",84paulau
+"""been""","Aspen, CO, USA",84paulau
+"""been""","Fort Collins, CO, USA",84paulau
+"""been""","Telluride, CO, USA",84paulau
+"""been""","La Jolla, CA, USA",84paulau
+"""been""","Nanaimo, British Columbia, Canada",84paulau
+"""been""","Cabo San Lucas, Mexico",84paulau
+"""been""","Homer, AK, USA",84paulau
+"""been""","Kamloops, British Columbia, Canada",84paulau
+"""been""","Surrey, British Columbia, Canada",84paulau
+"""been""","Kalamazoo, MI, USA",84paulau
+"""been""","Jasper, Alberta, Canada",84paulau
+"""been""","Callao Salvaje, Spain",84paulau
+"""been""","Winter Park, FL, USA",84paulau
+"""been""","Steamboat Springs, CO, USA",84paulau
+"""been""","Evergreen, CO, USA",84paulau
+"""been""","Red Deer, Alberta, Canada",84paulau
+"""been""","Jackson, NH, USA",84paulau
+"""want""","Victoria Falls, Zimbabwe",84paulau
+"""been""","Missoula, MT, USA",84paulau
+"""been""","Bellingham, WA, USA",84paulau
+"""been""","Kingscourt, Ireland",84paulau
+"""been""","Bellevue, WA, USA",84paulau
+"""been""","Santa Clarita, CA, USA",84paulau
+"""been""","Santa Clara, CA, USA",84paulau
+"""been""","Wailea, HI, USA",84paulau
+"""been""","Waynesville, NC, USA",84paulau
+"""been""","Ocean Isle Beach, NC, USA",84paulau
+"""want""","Copenhagen, Denmark",84paulau
+"""been""","West Bay, Honduras",84paulau
+"""been""","Roscommon, Ireland",84paulau
+"""been""","Santa Ana, CA, USA",84paulau
+"""been""","Isabela, Puerto Rico",84paulau
+"""been""","Cheyenne, WY, USA",84paulau
+"""been""","West Yarmouth, MA, USA",84paulau
+"""been""","Casper, WY, USA",84paulau
+"""been""","Overland Park, KS, USA",84paulau
+"""been""","San Simeon, CA, USA",84paulau
+"""been""","Uroa, Tanzania",84paulau
+"""been""","Saratoga Springs, NY, USA",84paulau
+"""been""","Medford, OR, USA",84paulau
+"""been""","Lincoln, NH, USA",84paulau
+"""been"",""fave""","Hamburg, Germany",84paulau
+"""been""","Potsdam, Germany",84paulau
+"""want""","Sao Paulo, Brazil",84paulau
+"""been"",""fave""","Frankfurt, Germany",84paulau
+"""been""","Sandy Bay, Honduras",84paulau
+"""been""","Peterhof, Russia",84paulau
+"""been""","Crystal River, FL, USA",84paulau
+"""been""","Leuven, Belgium",84paulau
+"""been""","Haleiwa, HI, USA",84paulau
+"""been""","Long Beach, WA, USA",84paulau
+"""been""","Franklin, TN, USA",84paulau
+"""been""","Springfield, IL, USA",84paulau
+"""been""","Seal Beach, CA, USA",84paulau
+"""been""","Idaho Falls, ID, USA",84paulau
+"""been""","Omaha, NE, USA",84paulau
+"""been""","Boulder City, NV, USA",84paulau
+"""been""","West End, Honduras",84paulau
+"""been""","Hampton, NH, USA",84paulau
+"""been""","Lincoln City, OR, USA",84paulau
+"""been""","Mason, OH, USA",84paulau
+"""been""","Wiesbaden, Germany",84paulau
+"""want""","Addis Ababa, Ethiopia",84paulau
+"""been""","Sausalito, CA, USA",84paulau
+"""been""","Arusha, Tanzania",84paulau
+"""been""","Cavendish, Prince Edward Island, Canada",84paulau
+"""been""","Woodstock, VT, USA",84paulau
+"""been""","Manassas, VA, USA",84paulau
+"""been""","Santa Rosa, CA, USA",84paulau
+"""been""","Kahuku, HI, USA",84paulau
+"""been""","Richmond, VA, USA",84paulau
+"""been""","Kailua, HI, USA",84paulau
+"""been"",""fave""","Bruges, Belgium",84paulau
+"""been""","Rochester, NY, USA",84paulau
+"""been""","Vatican City, Vatican City",84paulau
+"""been""","Augsburg, Germany",84paulau
+"""been""","Urbino, Italy",84paulau
+"""been""","Kalispell, MT, USA",84paulau
+"""been""","Regensburg, Germany",84paulau
+"""been""","Port Saint Lucie, FL, USA",84paulau
+"""been""","West Hollywood, CA, USA",84paulau
+"""been""","Princeville, HI, USA",84paulau
+"""been""","Jupiter, FL, USA",84paulau
+"""been""","Lihue, HI, USA",84paulau
+"""been""","Custer, SD, USA",84paulau
+"""been""","Idaho Springs, CO, USA",84paulau
+"""been""","St. Helena, CA, USA",84paulau
+"""been""","Rincon de Guayabitos, Mexico",84paulau
+"""been""","Salinas, CA, USA",84paulau
+"""been""","Buxton, NC, USA",84paulau
+"""been"",""fave""","Rome, Italy",84paulau
+"""been""","Boonville, MO, USA",84paulau
+"""been""","Wurzburg, Germany",84paulau
+"""been""","Bremen, Germany",84paulau
+"""want""","Berlin, Germany",84paulau
+"""been"",""fave""","Marrakech, Morocco",84paulau
+"""been""","Rabat, Morocco",84paulau
+"""want""","Johannesburg, South Africa",84paulau
+"""been""","Pompano Beach, FL, USA",84paulau
+"""been""","Tangier, Morocco",84paulau
+"""been""","Wailuku, HI, USA",84paulau
+"""been""","Istanbul, Turkey",84paulau
+"""been""","Leavenworth, WA, USA",84paulau
+"""been""","Skagway, AK, USA",84paulau
+"""been""","Paia, HI, USA",84paulau
+"""been""","Seattle, WA, USA",84paulau
+"""been""","Des Moines, IA, USA",84paulau
+"""been""","Cambria, CA, USA",84paulau
+"""been""","Lahaina, HI, USA",84paulau
+"""been""","Kahului, HI, USA",84paulau
+"""been""","Seward, AK, USA",84paulau
+"""been""","Winchester, VA, USA",84paulau
+"""been""","Kihei, HI, USA",84paulau
+"""been""","Calistoga, CA, USA",84paulau
+"""been""","Laredo, TX, USA",84paulau
+"""been""","Hana, HI, USA",84paulau
+"""been""","Cape May, NJ, USA",84paulau
+"""want""","Tokyo, Japan",84paulau
+"""been""","Jacksonville Beach, FL, USA",84paulau
+"""been""","Coeur d'Alene, ID, USA",84paulau
+"""been""","Blowing Rock, NC, USA",84paulau
+"""been""","Matera, Italy",84paulau
+"""been""","Haifa, Israel",84paulau
+"""been""","Tarrytown, NY, USA",84paulau
+"""been""","Helena, MT, USA",84paulau
+"""been""","Dar es Salaam, Tanzania",84paulau
+"""been"",""fave""","Jerusalem, Israel",84paulau
+"""been""","Charleston, SC, USA",84paulau
+"""been"",""fave""","Tel Aviv, Israel",84paulau
+"""been""","Grand Forks, ND, USA",84paulau
+"""been""","San Luis Obispo, CA, USA",84paulau
+"""been""","Peoria, IL, USA",84paulau
+"""been""","Greensboro, NC, USA",84paulau
+"""been""","Round Rock, TX, USA",84paulau
+"""been""","Cape Coral, FL, USA",84paulau
+"""been""","Cape Canaveral, FL, USA",84paulau
+"""been""","Capri, Italy",84paulau
+"""been""","Hood River, OR, USA",84paulau
+"""been""","Boone, NC, USA",84paulau
+"""been""","Garmisch-Partenkirchen, Germany",84paulau
+"""been""","Pompeii, Italy",84paulau
+"""been"",""fave""","Naples, Italy",84paulau
+"""been""","Carmel, CA, USA",84paulau
+"""been""","Cortez, CO, USA",84paulau
+"""been""","Kapaa, HI, USA",84paulau
+"""been"",""fave""","Munich, Germany",84paulau
+"""been""","Tacoma, WA, USA",84paulau
+"""been""","Hot Springs, AR, USA",84paulau
+"""been""","Ephraim, WI, USA",84paulau
+"""been""","Burlington, VT, USA",84paulau
+"""been""","Hanalei, HI, USA",84paulau
+"""been""","San Clemente, CA, USA",84paulau
+"""been""","Dubuque, IA, USA",84paulau
+"""been""","Guayaquil, Ecuador",84paulau
+"""been""","Bucerias, Mexico",84paulau
+"""been""","Oak Bluffs, MA, USA",84paulau
+"""been""","Shreveport, LA, USA",84paulau
+"""been""","Hong Kong, China",84paulau
+"""been""","Las Terrenas, Dominican Republic",84paulau
+"""been""","Rocky Mount, NC, USA",84paulau
+"""been""","Carolina Beach, NC, USA",84paulau
+"""been""","Rockwell, NC, USA",84paulau
+"""been""","Angers, France",84paulau
+"""been""","Dennis Port, MA, USA",84paulau
+"""been""","Lafayette, IN, USA",84paulau
+"""been""","Acre, Israel",84paulau
+"""been"",""fave""","Shanghai, China",84paulau
+"""been""","Pittsfield, MA, USA",84paulau
+"""been""","Big Bear Lake, CA, USA",84paulau
+"""been""","Bavaro, Dominican Republic",84paulau
+"""been""","Ain Sukhna, Egypt",84paulau
+"""been""","Sheboygan, WI, USA",84paulau
+"""been""","Bern, Switzerland",84paulau
+"""been""","Marietta, GA, USA",84paulau
+"""been""","Bowling Green, KY, USA",84paulau
+"""been""","Highlands, NC, USA",84paulau
+"""been""","Drake Bay, Costa Rica",84paulau
+"""want""","Buenos Aires, Argentina",84paulau
+"""been""","Freeport, ME, USA",84paulau
+"""been""","North Truro, MA, USA",84paulau
+"""want""","Sydney, Australia",84paulau
+"""been""","Merida, Spain",84paulau
+"""been""","Lourdes, France",84paulau
+"""been""","Oceanside, CA, USA",84paulau
+"""been""","Raleigh, NC, USA",84paulau
+"""been""","Ojai, CA, USA",84paulau
+"""been""","Sioux Falls, SD, USA",84paulau
+"""been""","Luxembourg City, Luxembourg",84paulau
+"""been""","Rhodes Town, Greece",84paulau
+"""been""","Oakhurst, CA, USA",84paulau
+"""been""","Atlantic Beach, NC, USA",84paulau
+"""been"",""fave""","Nazareth, Israel",84paulau
+"""been""","Netanya, Israel",84paulau
+"""been""","Opatija, Croatia",84paulau
+"""been""","Brookings, OR, USA",84paulau
+"""been""","La Crosse, WI, USA",84paulau
+"""been""","Huntsville, AL, USA",84paulau
+"""been""","Bushypark, Ireland",84paulau
+"""been""","Vasto, Italy",84paulau
+"""been""","Bressanone, Italy",84paulau
+"""want""","Budapest, Hungary",84paulau
+"""been""","Erie, PA, USA",84paulau
+"""been""","Katelios, Greece",84paulau
+"""been""","Chiang Rai, Thailand",84paulau
+"""been""","Nimes, France",84paulau
+"""been""","Tremezzina, Italy",84paulau
+"""been""","Worcester, MA, USA",84paulau
+"""been""","Moraira, Spain",84paulau
+"""been""","Newport, OR, USA",84paulau
+"""been""","Delray Beach, FL, USA",84paulau
+"""been""","Billings, MT, USA",84paulau
+"""been""","Wrightsville Beach, NC, USA",84paulau
+"""been""","Trier, Germany",84paulau
+"""been""","Bandon, OR, USA",84paulau
+"""been""","Mainz, Germany",84paulau
+"""been""","Winston Salem, NC, USA",84paulau
+"""been""","Farmington, NM, USA",84paulau
+"""been""","Portoroz, Slovenia",84paulau
+"""been""","Hendersonville, NC, USA",84paulau
+"""been""","Deerfield Beach, FL, USA",84paulau
+"""been""","Chichicastenango, Guatemala",84paulau
+"""been""","Guatemala City, Guatemala",84paulau
+"""been""","Washington DC, DC, USA",84paulau
+"""been""","Dania Beach, FL, USA",84paulau
+"""been""","Alton, UK",84paulau
+"""been""","North Conway, NH, USA",84paulau
+"""been""","Hickory, NC, USA",84paulau
+"""been""","Soma Bay, Egypt",84paulau
+"""been""","Bend, OR, USA",84paulau
+"""been""","El Quseir, Egypt",84paulau
+"""been""","Bozeman, MT, USA",84paulau
+"""been""","Savona, Italy",84paulau
+"""been""","Rockland, ME, USA",84paulau
+"""been""","Rockport, ME, USA",84paulau
+"""been""","Roanoke, VA, USA",84paulau
+"""been""","Cody, WY, USA",84paulau
+"""been""","Manchester, NH, USA",84paulau
+"""been""","Scena, Italy",84paulau
+"""been"",""fave""","Cologne, Germany",84paulau
+"""been""","Bonn, Germany",84paulau
+"""been""","Giza, Egypt",84paulau
+"""been"",""fave""","Cairo, Egypt",84paulau
+"""want""","Nairobi, Kenya",84paulau
+"""been""","Stone Mountain, GA, USA",84paulau
+"""been""","Luxor, Egypt",84paulau
+"""been""","Wilmington, NC, USA",84paulau
+"""been""","Muenster, Germany",84paulau

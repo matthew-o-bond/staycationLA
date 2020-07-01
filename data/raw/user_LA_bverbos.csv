@@ -1,0 +1,530 @@
+tag,place,user
+"""been""","Julian, CA, USA",bverbos
+"""been""","Wood Dale, IL, USA",bverbos
+"""been""","Deadwood, SD, USA",bverbos
+"""been""","Joshua Tree, CA, USA",bverbos
+"""been""","Saint Augustine Beach, FL, USA",bverbos
+"""been""","Garden Grove, CA, USA",bverbos
+"""been""","Salida, CO, USA",bverbos
+"""been""","Arlington, VA, USA",bverbos
+"""been""","St. Petersburg, FL, USA",bverbos
+"""been""","Annapolis, MD, USA",bverbos
+"""been""","St. Pete Beach, FL, USA",bverbos
+"""been""","Minneapolis, MN, USA",bverbos
+"""been""","Biloxi, MS, USA",bverbos
+"""been""","Pahrump, NV, USA",bverbos
+"""been""","Kansas City, MO, USA",bverbos
+"""been""","Newport Beach, CA, USA",bverbos
+"""want""","Los Angeles, CA, USA",bverbos
+"""been""","Fresno, CA, USA",bverbos
+"""been""","Quartzsite, AZ, USA",bverbos
+"""been""","Keystone, CO, USA",bverbos
+"""been""","Chicago, IL, USA",bverbos
+"""been""","Avalon, CA, USA",bverbos
+"""been""","Prescott, AZ, USA",bverbos
+"""been""","Irvine, CA, USA",bverbos
+"""been""","Bentonville, AR, USA",bverbos
+"""been""","Pismo Beach, CA, USA",bverbos
+"""been""","Bandera, TX, USA",bverbos
+"""been""","Los Gatos, CA, USA",bverbos
+"""been""","Reno, NV, USA",bverbos
+"""been""","Sierra Vista, AZ, USA",bverbos
+"""been""","Steamboat Springs, CO, USA",bverbos
+"""been""","Seligman, AZ, USA",bverbos
+"""been""","Toledo, OH, USA",bverbos
+"""been""","Sedona, AZ, USA",bverbos
+"""been""","Chamberlain, SD, USA",bverbos
+"""been""","Manitou Springs, CO, USA",bverbos
+"""been""","San Marcos, TX, USA",bverbos
+"""been""","Winter Park, FL, USA",bverbos
+"""been""","Las Vegas, NV, USA",bverbos
+"""been""","Wildwood, NJ, USA",bverbos
+"""been""","Barcelona, Spain",bverbos
+"""been""","Laughlin, NV, USA",bverbos
+"""been""","Scottsdale, AZ, USA",bverbos
+"""been""","Silverton, CO, USA",bverbos
+"""been""","Manhattan Beach, CA, USA",bverbos
+"""been""","Fayetteville, AR, USA",bverbos
+"""been""","Malibu, CA, USA",bverbos
+"""been""","West Palm Beach, FL, USA",bverbos
+"""been""","Leadville, CO, USA",bverbos
+"""been""","Eureka Springs, AR, USA",bverbos
+"""been""","Birmingham, AL, USA",bverbos
+"""been""","Portland, OR, USA",bverbos
+"""been""","Sarasota, FL, USA",bverbos
+"""been""","Aspen, CO, USA",bverbos
+"""been""","Fountain Hills, AZ, USA",bverbos
+"""been""","Zurich, Switzerland",bverbos
+"""been""","Saint Louis, MO, USA",bverbos
+"""been""","Ironwood, MI, USA",bverbos
+"""been""","Jefferson City, MO, USA",bverbos
+"""been""","Moreno Valley, CA, USA",bverbos
+"""been""","Fredericksburg, TX, USA",bverbos
+"""been""","Augusta, GA, USA",bverbos
+"""been""","Winslow, AZ, USA",bverbos
+"""been""","Alliance, NE, USA",bverbos
+"""been""","Hamilton, Ontario, Canada",bverbos
+"""been""","Pittsburgh, PA, USA",bverbos
+"""been""","Yuma, AZ, USA",bverbos
+"""been""","Morongo Valley, CA, USA",bverbos
+"""been""","Coalville, UT, USA",bverbos
+"""been""","Morro Bay, CA, USA",bverbos
+"""been""","Niagara Falls, Ontario, Canada",bverbos
+"""been""","Houghton, MI, USA",bverbos
+"""been""","Sunset Hills, MO, USA",bverbos
+"""been""","Winona, MN, USA",bverbos
+"""been""","Winter Park, CO, USA",bverbos
+"""been""","South Lake Tahoe, CA, USA",bverbos
+"""been""","Lee Vining, CA, USA",bverbos
+"""been""","Pasadena, CA, USA",bverbos
+"""been""","Williams, AZ, USA",bverbos
+"""been""","Riverside, CA, USA",bverbos
+"""been""","Wickenburg, AZ, USA",bverbos
+"""been""","Monterey, CA, USA",bverbos
+"""been""","Galveston, TX, USA",bverbos
+"""been""","Baton Rouge, LA, USA",bverbos
+"""been""","Henderson, NV, USA",bverbos
+"""been""","Milwaukee, WI, USA",bverbos
+"""been""","Mineral Point, WI, USA",bverbos
+"""been""","Marquette, MI, USA",bverbos
+"""been""","Indian Wells, CA, USA",bverbos
+"""been""","Napa, CA, USA",bverbos
+"""been""","Fort Bragg, CA, USA",bverbos
+"""been"",""want""","Phoenix, AZ, USA",bverbos
+"""been""","Vero Beach, FL, USA",bverbos
+"""been""","Long Beach, CA, USA",bverbos
+"""been""","Alexandria, VA, USA",bverbos
+"""want""","Halifax, Nova Scotia, Canada",bverbos
+"""been""","Saint Paul, MN, USA",bverbos
+"""been""","Brainerd, MN, USA",bverbos
+"""been""","Evansville, IN, USA",bverbos
+"""been""","Patagonia, AZ, USA",bverbos
+"""been""","Advocate Harbour, Nova Scotia, Canada",bverbos
+"""been""","Paradise Valley, AZ, USA",bverbos
+"""been""","Appleton, WI, USA",bverbos
+"""been""","Peach Springs, AZ, USA",bverbos
+"""been""","Fort Stockton, TX, USA",bverbos
+"""been""","Fort Worth, TX, USA",bverbos
+"""been""","Sacramento, CA, USA",bverbos
+"""been""","Payson, AZ, USA",bverbos
+"""been""","Mystic, CT, USA",bverbos
+"""been""","Scottsbluff, NE, USA",bverbos
+"""been""","Coeur d'Alene, ID, USA",bverbos
+"""been""","Madison, WI, USA",bverbos
+"""been""","South San Francisco, CA, USA",bverbos
+"""been""","Ottawa, Ontario, Canada",bverbos
+"""been""","Cambria, CA, USA",bverbos
+"""been""","Port Aransas, TX, USA",bverbos
+"""been""","Burlington, VT, USA",bverbos
+"""been""","Calistoga, CA, USA",bverbos
+"""been""","Crater Lake National Park, OR, USA",bverbos
+"""been""","Anaheim, CA, USA",bverbos
+"""been""","Newark, NJ, USA",bverbos
+"""been""","Des Moines, IA, USA",bverbos
+"""been""","Bismarck, ND, USA",bverbos
+"""been""","Black Canyon Of The Gunnison National Park, CO, USA",bverbos
+"""been""","Ely, MN, USA",bverbos
+"""been""","Arches National Park, UT, USA",bverbos
+"""been""","Honolulu, HI, USA",bverbos
+"""been""","Gunnison, CO, USA",bverbos
+"""been""","New Braunfels, TX, USA",bverbos
+"""been""","Charleston, SC, USA",bverbos
+"""been""","Madrid, Spain",bverbos
+"""been""","Oatman, AZ, USA",bverbos
+"""been""","Marfa, TX, USA",bverbos
+"""been""","Nogales, AZ, USA",bverbos
+"""been""","Bisbee, AZ, USA",bverbos
+"""been""","Asheville, NC, USA",bverbos
+"""been""","Vicksburg, MS, USA",bverbos
+"""been""","New Orleans, LA, USA",bverbos
+"""been""","Tarpon Springs, FL, USA",bverbos
+"""been""","Custer, SD, USA",bverbos
+"""been""","Laramie, WY, USA",bverbos
+"""been""","Boston, MA, USA",bverbos
+"""been""","Tupelo, MS, USA",bverbos
+"""been""","Sonoma, CA, USA",bverbos
+"""been""","Indian Shores, FL, USA",bverbos
+"""been""","Miami, FL, USA",bverbos
+"""been""","Central City, CO, USA",bverbos
+"""been""","Volcano, HI, USA",bverbos
+"""been""","Rockford, IL, USA",bverbos
+"""been""","Tampa, FL, USA",bverbos
+"""been""","Solvang, CA, USA",bverbos
+"""been""","Cabazon, CA, USA",bverbos
+"""been""","Mount Lemmon, AZ, USA",bverbos
+"""been""","Austin, TX, USA",bverbos
+"""been""","Houston, TX, USA",bverbos
+"""been""","Costa Mesa, CA, USA",bverbos
+"""been""","Pagosa Springs, CO, USA",bverbos
+"""been""","Sandusky, OH, USA",bverbos
+"""been""","McCall, ID, USA",bverbos
+"""been""","Miami Beach, FL, USA",bverbos
+"""been""","Grand Canyon National Park, AZ, USA",bverbos
+"""been""","Glacier National Park, MT, USA",bverbos
+"""been""","Everglades National Park, FL, USA",bverbos
+"""been""","Rochester, NY, USA",bverbos
+"""been""","Denali National Park and Preserve, AK, USA",bverbos
+"""been""","Flagstaff, AZ, USA",bverbos
+"""been""","Fawnskin, CA, USA",bverbos
+"""been""","Canon City, CO, USA",bverbos
+"""been""","Pensacola, FL, USA",bverbos
+"""been""","Mesa, AZ, USA",bverbos
+"""been""","Medora, ND, USA",bverbos
+"""been""","Wasilla, AK, USA",bverbos
+"""been""","Coronado, CA, USA",bverbos
+"""been""","Buffalo, NY, USA",bverbos
+"""been""","Big Bend National Park, TX, USA",bverbos
+"""been""","Hermosa Beach, CA, USA",bverbos
+"""been""","Hot Springs, AR, USA",bverbos
+"""been""","Pigeon Forge, TN, USA",bverbos
+"""been""","Columbia, SC, USA",bverbos
+"""been""","Cortez, CO, USA",bverbos
+"""been""","Newport, RI, USA",bverbos
+"""been""","Friday Harbor, WA, USA",bverbos
+"""been""","Santa Fe, NM, USA",bverbos
+"""been""","Spokane, WA, USA",bverbos
+"""been""","Fort Lauderdale, FL, USA",bverbos
+"""been""","Cripple Creek, CO, USA",bverbos
+"""been""","Naples, FL, USA",bverbos
+"""been""","Dubuque, IA, USA",bverbos
+"""been""","Lauterbrunnen, Switzerland",bverbos
+"""been""","Red Lodge, MT, USA",bverbos
+"""been""","West Hollywood, CA, USA",bverbos
+"""been""","Punta Gorda, FL, USA",bverbos
+"""been""","Amelia Island, FL, USA",bverbos
+"""been""","Banning, CA, USA",bverbos
+"""been""","Gatlinburg, TN, USA",bverbos
+"""been""","Pisa, Italy",bverbos
+"""been""","Luray, VA, USA",bverbos
+"""been""","Harpers Ferry, WV, USA",bverbos
+"""been"",""fave""","Moab, UT, USA",bverbos
+"""been""","Chandler, AZ, USA",bverbos
+"""been""","Providence, RI, USA",bverbos
+"""been""","Knoxville, TN, USA",bverbos
+"""been""","Bakersfield, CA, USA",bverbos
+"""been""","Marathon, TX, USA",bverbos
+"""been""","Brooklyn, NY, USA",bverbos
+"""been""","Hurley, WI, USA",bverbos
+"""been""","Bar Harbor, ME, USA",bverbos
+"""been""","Clarkston, WA, USA",bverbos
+"""been""","Colorado Springs, CO, USA",bverbos
+"""been""","Rosemont, IL, USA",bverbos
+"""been""","St. Helena, CA, USA",bverbos
+"""been"",""want""","Tucson, AZ, USA",bverbos
+"""been""","Treasure Island, FL, USA",bverbos
+"""been""","Casa Grande, AZ, USA",bverbos
+"""been""","Round Rock, TX, USA",bverbos
+"""been""","San Francisco, CA, USA",bverbos
+"""been""","Page, AZ, USA",bverbos
+"""been""","San Antonio, TX, USA",bverbos
+"""been""","Grand Forks, ND, USA",bverbos
+"""been""","Savannah, GA, USA",bverbos
+"""been""","Half Moon Bay, CA, USA",bverbos
+"""been""","Kingman, AZ, USA",bverbos
+"""been""","Tempe, AZ, USA",bverbos
+"""been""","Delavan, WI, USA",bverbos
+"""been""","Talkeetna, AK, USA",bverbos
+"""been""","Laguna Beach, CA, USA",bverbos
+"""been""","Vail, CO, USA",bverbos
+"""been""","El Segundo, CA, USA",bverbos
+"""been""","La Quinta, CA, USA",bverbos
+"""been""","Amarillo, TX, USA",bverbos
+"""been""","Bloomington, IN, USA",bverbos
+"""been""","Nashville, TN, USA",bverbos
+"""been""","Montrose, CO, USA",bverbos
+"""been""","Bald Head Island, NC, USA",bverbos
+"""been""","Lincoln, NE, USA",bverbos
+"""been""","North Myrtle Beach, SC, USA",bverbos
+"""been""","Estes Park, CO, USA",bverbos
+"""been""","Fredericksburg, VA, USA",bverbos
+"""been""","La Jolla, CA, USA",bverbos
+"""been""","Ajo, AZ, USA",bverbos
+"""been""","Siesta Key, FL, USA",bverbos
+"""been""","Orlando, FL, USA",bverbos
+"""been""","Stowe, VT, USA",bverbos
+"""been""","Yucca Valley, CA, USA",bverbos
+"""been""","Telluride, CO, USA",bverbos
+"""been""","Yucaipa, CA, USA",bverbos
+"""been""","Jacksonville, FL, USA",bverbos
+"""been""","Fort Collins, CO, USA",bverbos
+"""been""","Alpine, TX, USA",bverbos
+"""been""","Corpus Christi, TX, USA",bverbos
+"""been""","El Centro, CA, USA",bverbos
+"""been""","Fort Davis, TX, USA",bverbos
+"""been""","Orange City, FL, USA",bverbos
+"""been""","Yountville, CA, USA",bverbos
+"""been""","Mount Vernon, WA, USA",bverbos
+"""been""","El Cajon, CA, USA",bverbos
+"""been""","Duluth, MN, USA",bverbos
+"""been""","Petersburg, VA, USA",bverbos
+"""been""","Baltimore, MD, USA",bverbos
+"""been""","Albuquerque, NM, USA",bverbos
+"""been""","Burbank, CA, USA",bverbos
+"""been""","Hemet, CA, USA",bverbos
+"""been""","Myrtle Beach, SC, USA",bverbos
+"""been""","Burlingame, CA, USA",bverbos
+"""been""","Panama City Beach, FL, USA",bverbos
+"""been""","Eureka, CA, USA",bverbos
+"""been""","Buena Vista, CO, USA",bverbos
+"""been""","Buena Park, CA, USA",bverbos
+"""been""","Green Bay, WI, USA",bverbos
+"""been""","Lewiston, ID, USA",bverbos
+"""been""","Wailea, HI, USA",bverbos
+"""been""","Grand Rapids, MI, USA",bverbos
+"""been""","Healdsburg, CA, USA",bverbos
+"""been""","Grand Lake, CO, USA",bverbos
+"""been""","Grand Junction, CO, USA",bverbos
+"""been""","Arlington, TX, USA",bverbos
+"""been""","Macon, GA, USA",bverbos
+"""been""","Detroit, MI, USA",bverbos
+"""been""","Salt Lake City, UT, USA",bverbos
+"""been""","Hopewell Cape, New Brunswick, Canada",bverbos
+"""been""","Escondido, CA, USA",bverbos
+"""been""","Barstow, CA, USA",bverbos
+"""been""","Columbia, CA, USA",bverbos
+"""been""","Golden, CO, USA",bverbos
+"""been""","Stuart, FL, USA",bverbos
+"""been""","Glenwood Springs, CO, USA",bverbos
+"""been""","Boulder, CO, USA",bverbos
+"""been""","Bridgeport, CA, USA",bverbos
+"""been""","Palm Beach, FL, USA",bverbos
+"""been""","Twin Falls, ID, USA",bverbos
+"""been""","Granby, CO, USA",bverbos
+"""been""","Cloudcroft, NM, USA",bverbos
+"""been""","Grand Portage, MN, USA",bverbos
+"""been""","Georgetown, CO, USA",bverbos
+"""been""","Lake Havasu City, AZ, USA",bverbos
+"""been""","Tombstone, AZ, USA",bverbos
+"""been""","Ithaca, NY, USA",bverbos
+"""been""","Eugene, OR, USA",bverbos
+"""been""","Fargo, ND, USA",bverbos
+"""been""","Manchester, NH, USA",bverbos
+"""been""","Hilo, HI, USA",bverbos
+"""been""","Minocqua, WI, USA",bverbos
+"""been""","Fort Bridger, WY, USA",bverbos
+"""been""","Burlington, WA, USA",bverbos
+"""been""","Roanoke, VA, USA",bverbos
+"""been""","Crystal River, FL, USA",bverbos
+"""been""","Truckee, CA, USA",bverbos
+"""been""","Wilmington, NC, USA",bverbos
+"""been""","Norfolk, VA, USA",bverbos
+"""been""","Big Sur, CA, USA",bverbos
+"""been""","Borrego Springs, CA, USA",bverbos
+"""been""","Puerto Juarez, Mexico",bverbos
+"""been""","Great Falls, MT, USA",bverbos
+"""been""","Louisville, KY, USA",bverbos
+"""been""","Baker City, OR, USA",bverbos
+"""been""","Wilson, WY, USA",bverbos
+"""been""","Dubois, WY, USA",bverbos
+"""been""","Coral Gables, FL, USA",bverbos
+"""been""","Sausalito, CA, USA",bverbos
+"""been""","Portland, ME, USA",bverbos
+"""been""","San Juan, Puerto Rico",bverbos
+"""been""","Dodge City, KS, USA",bverbos
+"""been""","Boise, ID, USA",bverbos
+"""been""","West Wendover, NV, USA",bverbos
+"""been""","Teton Village, WY, USA",bverbos
+"""been""","Cody, WY, USA",bverbos
+"""been""","Taos, NM, USA",bverbos
+"""been""","Ocho Rios, Jamaica",bverbos
+"""been""","Montego Bay, Jamaica",bverbos
+"""been""","Negril, Jamaica",bverbos
+"""been""","Bellingham, WA, USA",bverbos
+"""been""","Washington DC, DC, USA",bverbos
+"""been""","Indianapolis, IN, USA",bverbos
+"""been""","Mammoth Lakes, CA, USA",bverbos
+"""been""","Devils Tower, WY, USA",bverbos
+"""been""","Buffalo, WY, USA",bverbos
+"""been""","Berlin, NH, USA",bverbos
+"""been""","Mesilla, NM, USA",bverbos
+"""been""","Sheridan, WY, USA",bverbos
+"""been""","Philadelphia, PA, USA",bverbos
+"""been""","Hollywood, FL, USA",bverbos
+"""been""","Vernal, UT, USA",bverbos
+"""been""","Gettysburg, PA, USA",bverbos
+"""been""","Vernazza, Italy",bverbos
+"""been""","Casper, WY, USA",bverbos
+"""been""","Daytona Beach, FL, USA",bverbos
+"""been""","San Simeon, CA, USA",bverbos
+"""been""","Berkeley, CA, USA",bverbos
+"""been""","Freeport, Bahamas",bverbos
+"""been""","Tahoe City, CA, USA",bverbos
+"""been""","Durango, CO, USA",bverbos
+"""been""","Nauvoo, IL, USA",bverbos
+"""been""","Schaumburg, IL, USA",bverbos
+"""been""","Corvallis, OR, USA",bverbos
+"""been""","Bloomington, IL, USA",bverbos
+"""been""","Staunton, VA, USA",bverbos
+"""been""","Irving, TX, USA",bverbos
+"""been""","Gainesville, FL, USA",bverbos
+"""been""","Bradenton, FL, USA",bverbos
+"""been""","Death Valley Junction, CA, USA",bverbos
+"""been""","Dolores, CO, USA",bverbos
+"""been""","Nassau, Bahamas",bverbos
+"""been""","Bellevue, WA, USA",bverbos
+"""been""","San Luis Obispo, CA, USA",bverbos
+"""been""","St. Augustine, FL, USA",bverbos
+"""been""","Denver, CO, USA",bverbos
+"""been""","Quebec City, Quebec, Canada",bverbos
+"""been""","Fort Pierce, FL, USA",bverbos
+"""been""","East Glacier Park, MT, USA",bverbos
+"""been""","Tunica, MS, USA",bverbos
+"""been""","Stateline, NV, USA",bverbos
+"""been""","Richmond, VA, USA",bverbos
+"""been""","Willcox, AZ, USA",bverbos
+"""been""","Palmer, AK, USA",bverbos
+"""been""","Fort Myers Beach, FL, USA",bverbos
+"""been""","Kissimmee, FL, USA",bverbos
+"""been"",""fave""","Carmel, CA, USA",bverbos
+"""been""","Beaumont, CA, USA",bverbos
+"""been""","Desert Hot Springs, CA, USA",bverbos
+"""been""","Memphis, TN, USA",bverbos
+"""been""","Fort Myers, FL, USA",bverbos
+"""been""","Yorktown, VA, USA",bverbos
+"""been""","Atlanta, GA, USA",bverbos
+"""been""","Milan, Italy",bverbos
+"""been""","Carlsbad, CA, USA",bverbos
+"""been""","Devils Lake, ND, USA",bverbos
+"""been""","Provo, UT, USA",bverbos
+"""been""","Winchester, VA, USA",bverbos
+"""been""","McAllen, TX, USA",bverbos
+"""been""","Williamsburg, VA, USA",bverbos
+"""been""","Fontana, WI, USA",bverbos
+"""been""","Price, UT, USA",bverbos
+"""been""","Laredo, TX, USA",bverbos
+"""been""","Cocoa Beach, FL, USA",bverbos
+"""been""","Charlottetown, Prince Edward Island, Canada",bverbos
+"""been""","Playa del Carmen, Mexico",bverbos
+"""been""","South Bend, IN, USA",bverbos
+"""been""","Anchorage, AK, USA",bverbos
+"""been""","Ocean City, NJ, USA",bverbos
+"""been"",""want""","New York City, NY, USA",bverbos
+"""been""","Montreal, Quebec, Canada",bverbos
+"""been""","Omaha, NE, USA",bverbos
+"""been""","Santa Monica, CA, USA",bverbos
+"""been""","Clearwater, FL, USA",bverbos
+"""been""","Little Rock, AR, USA",bverbos
+"""been""","Wisconsin Dells, WI, USA",bverbos
+"""been""","Springfield, IL, USA",bverbos
+"""been""","El Paso, TX, USA",bverbos
+"""been""","Ventura, CA, USA",bverbos
+"""been""","Thunder Bay, Ontario, Canada",bverbos
+"""been""","St. George, UT, USA",bverbos
+"""been""","Springfield, VA, USA",bverbos
+"""been""","Santa Barbara, CA, USA",bverbos
+"""been""","Livingston, MT, USA",bverbos
+"""been""","Theodore Roosevelt National Park, ND, USA",bverbos
+"""been""","Gorham, NH, USA",bverbos
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",bverbos
+"""been""","Cape May, NJ, USA",bverbos
+"""been""","Toronto, Ontario, Canada",bverbos
+"""been""","Branson, MO, USA",bverbos
+"""been""","Cancun, Mexico",bverbos
+"""been""","Chichen Itza, Mexico",bverbos
+"""been""","San Diego, CA, USA",bverbos
+"""been""","Kailua-Kona, HI, USA",bverbos
+"""been""","Temecula, CA, USA",bverbos
+"""been""","Cincinnati, OH, USA",bverbos
+"""been""","Seward, AK, USA",bverbos
+"""been""","Chinle, AZ, USA",bverbos
+"""been""","Lusk, WY, USA",bverbos
+"""been""","Hot Springs, SD, USA",bverbos
+"""been""","Lake Worth, FL, USA",bverbos
+"""been""","Lahaina, HI, USA",bverbos
+"""been""","Seneca Falls, NY, USA",bverbos
+"""been"",""want""","Seattle, WA, USA",bverbos
+"""been""","Yellowstone National Park, WY, USA",bverbos
+"""been""","Charlottesville, VA, USA",bverbos
+"""been""","Beverly Hills, CA, USA",bverbos
+"""been""","Kitty Hawk, NC, USA",bverbos
+"""been""","Rancho Mirage, CA, USA",bverbos
+"""been""","Puerto Penasco, Mexico",bverbos
+"""been""","Charlotte, NC, USA",bverbos
+"""been""","Cherokee, NC, USA",bverbos
+"""been""","Las Cruces, NM, USA",bverbos
+"""been""","Mendocino, CA, USA",bverbos
+"""been""","Rancho Palos Verdes, CA, USA",bverbos
+"""been""","Kennebunkport, ME, USA",bverbos
+"""been""","Traverse City, MI, USA",bverbos
+"""been""","Oakland, CA, USA",bverbos
+"""been""","Dallas, TX, USA",bverbos
+"""been""","Golden, British Columbia, Canada",bverbos
+"""been""","Ojai, CA, USA",bverbos
+"""been""","Columbus, IN, USA",bverbos
+"""been""","Victoria, British Columbia, Canada",bverbos
+"""been""","Vancouver, British Columbia, Canada",bverbos
+"""been""","Oakdale, CA, USA",bverbos
+"""been""","Oakhurst, CA, USA",bverbos
+"""been""","Bloomington, MN, USA",bverbos
+"""been""","Angel Fire, NM, USA",bverbos
+"""been""","Roswell, NM, USA",bverbos
+"""been""","Oklahoma City, OK, USA",bverbos
+"""been""","Pacific Grove, CA, USA",bverbos
+"""been""","Ann Arbor, MI, USA",bverbos
+"""been""","Palo Alto, CA, USA",bverbos
+"""been""","Palm Desert, CA, USA",bverbos
+"""been""","Ruidoso Downs, NM, USA",bverbos
+"""been""","Palm Springs, CA, USA",bverbos
+"""been""","Ruidoso, NM, USA",bverbos
+"""been""","Modesto, CA, USA",bverbos
+"""been""","Neuchatel, Switzerland",bverbos
+"""been""","Redding, CA, USA",bverbos
+"""been""","Tulsa, OK, USA",bverbos
+"""been""","Oxnard, CA, USA",bverbos
+"""been""","State College, PA, USA",bverbos
+"""been""","Harrisburg, PA, USA",bverbos
+"""been""","Interlaken, Switzerland",bverbos
+"""been""","Redondo Beach, CA, USA",bverbos
+"""been""","Plymouth, MA, USA",bverbos
+"""been""","Bemidji, MN, USA",bverbos
+"""been""","Oconomowoc, WI, USA",bverbos
+"""been""","Lexington, KY, USA",bverbos
+"""been""","Springdale, UT, USA",bverbos
+"""been""","Springfield, MO, USA",bverbos
+"""been""","Puerto Vallarta, Mexico",bverbos
+"""been""","Raleigh, NC, USA",bverbos
+"""been""","Lisle, IL, USA",bverbos
+"""been""","Calgary, Alberta, Canada",bverbos
+"""been""","Edmonton, Alberta, Canada",bverbos
+"""been"",""fave""","Banff, Alberta, Canada",bverbos
+"""been""","Pueblo of Acoma, NM, USA",bverbos
+"""been""","Banff National Park, Alberta, Canada",bverbos
+"""been""","Valparaiso, IN, USA",bverbos
+"""been""","Lake Geneva, WI, USA",bverbos
+"""been""","Jasper National Park, Alberta, Canada",bverbos
+"""been""","Lake Mills, WI, USA",bverbos
+"""been""","Jasper, Alberta, Canada",bverbos
+"""been""","Waterton Lakes National Park, Alberta, Canada",bverbos
+"""been""","Boca Raton, FL, USA",bverbos
+"""been""","Ciudad Juarez, Mexico",bverbos
+"""been""","Cannon Beach, OR, USA",bverbos
+"""been""","Nogales, Mexico",bverbos
+"""been""","Columbus, OH, USA",bverbos
+"""been""","Montgomery, AL, USA",bverbos
+"""been""","Acapulco, Mexico",bverbos
+"""been""","Chattanooga, TN, USA",bverbos
+"""been""","Niagara Falls, NY, USA",bverbos
+"""been"",""fave""","Jackson, WY, USA",bverbos
+"""been""","Wausau, WI, USA",bverbos
+"""been""","Mobile, AL, USA",bverbos
+"""been""","New Berlin, WI, USA",bverbos
+"""been""","West Allis, WI, USA",bverbos
+"""been""","Park City, UT, USA",bverbos
+"""been""","Oxford, MS, USA",bverbos
+"""been""","Ensenada, Mexico",bverbos
+"""been""","Mount Washington, NH, USA",bverbos
+"""been""","Hatteras, NC, USA",bverbos
+"""been""","Atlantic City, NJ, USA",bverbos
+"""been""","Bend, OR, USA",bverbos
+"""been""","Billings, MT, USA",bverbos
+"""been""","Conway, NH, USA",bverbos
+"""been""","Concord, NH, USA",bverbos
+"""been""","Oak Glen, CA, USA",bverbos
+"""been""","Tijuana, Mexico",bverbos
+"""been""","Farmington, NM, USA",bverbos
+"""been""","Waukesha, WI, USA",bverbos
+"""been""","Virginia Beach, VA, USA",bverbos
+"""been""","Chelan, WA, USA",bverbos
+"""been""","Sioux Falls, SD, USA",bverbos
+"""been""","North Conway, NH, USA",bverbos
+"""been""","Cleveland, OH, USA",bverbos

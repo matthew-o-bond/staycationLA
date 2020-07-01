@@ -1,0 +1,432 @@
+tag,place,user
+"""want""","Honolulu, HI, USA",isra_lm
+"""want""","Makadi Bay, Egypt",isra_lm
+"""want""","Asheville, NC, USA",isra_lm
+"""want""","Fort-de-France, Martinique",isra_lm
+"""want""","New Orleans, LA, USA",isra_lm
+"""been""","Brentwood, UK",isra_lm
+"""been""","Boston, MA, USA",isra_lm
+"""want""","Pigeon Forge, TN, USA",isra_lm
+"""want""","Villavicencio, Colombia",isra_lm
+"""want""","Villa de Leyva, Colombia",isra_lm
+"""been""","Cucuta, Colombia",isra_lm
+"""want""","San Juan, Puerto Rico",isra_lm
+"""want""","Houston, TX, USA",isra_lm
+"""want""","Split, Croatia",isra_lm
+"""want""","Dubrovnik, Croatia",isra_lm
+"""want""","Macau, China",isra_lm
+"""want""","Protaras, Cyprus",isra_lm
+"""been""","Charleston, SC, USA",isra_lm
+"""want""","Arcachon, France",isra_lm
+"""want""","Anaheim, CA, USA",isra_lm
+"""been""","Fort Lauderdale, FL, USA",isra_lm
+"""want""","Naples, FL, USA",isra_lm
+"""been""","San Cristobal, Venezuela",isra_lm
+"""been""","Merida, Venezuela",isra_lm
+"""been""","Ballintoy, UK",isra_lm
+"""want""","Bodrum City, Turkey",isra_lm
+"""want""","Lloret de Mar, Spain",isra_lm
+"""want""","Gatlinburg, TN, USA",isra_lm
+"""want""","Singapore, Singapore",isra_lm
+"""want""","Pointe-a-Pitre, Guadeloupe",isra_lm
+"""been""","Miyajima, Japan",isra_lm
+"""want""","Tampa, FL, USA",isra_lm
+"""been""","Cafayate, Argentina",isra_lm
+"""want""","Austin, TX, USA",isra_lm
+"""been""","Trujillo, Spain",isra_lm
+"""been""","Miami Beach, FL, USA",isra_lm
+"""been""","Alcala De Henares, Spain",isra_lm
+"""want""","Sunny Beach, Bulgaria",isra_lm
+"""been""","Miami, FL, USA",isra_lm
+"""want""","Bologna, Italy",isra_lm
+"""want""","St. Petersburg, Russia",isra_lm
+"""been""","Maiquetia, Venezuela",isra_lm
+"""want""","Runaway Bay, Jamaica",isra_lm
+"""want""","Ocho Rios, Jamaica",isra_lm
+"""been""","Villafranca del Bierzo, Spain",isra_lm
+"""want""","Mont-Saint-Michel, France",isra_lm
+"""been""","San Francisco, CA, USA",isra_lm
+"""want""","Negril, Jamaica",isra_lm
+"""been""","Salta, Argentina",isra_lm
+"""want""","San Antonio, TX, USA",isra_lm
+"""want""","Cork, Ireland",isra_lm
+"""been""","Caracas, Venezuela",isra_lm
+"""been""","Valencia, Venezuela",isra_lm
+"""want""","Dublin, Ireland",isra_lm
+"""want""","Ouarzazate, Morocco",isra_lm
+"""want""","Cala d'Or, Spain",isra_lm
+"""want""","Hurghada, Egypt",isra_lm
+"""been""","Puerto Madryn, Argentina",isra_lm
+"""want""","Calais, France",isra_lm
+"""want""","Vannes, France",isra_lm
+"""want""","Sant Antoni de Portmany, Spain",isra_lm
+"""want""","Playa del Carmen, Mexico",isra_lm
+"""want""","Tulum, Mexico",isra_lm
+"""want""","Bayahibe, Dominican Republic",isra_lm
+"""want""","Playa de las Americas, Spain",isra_lm
+"""been""","Catia La Mar, Venezuela",isra_lm
+"""want""","Genoa, Italy",isra_lm
+"""been""","Kamakura, Japan",isra_lm
+"""been""","Carrickfergus, UK",isra_lm
+"""want""","Belek, Turkey",isra_lm
+"""want""","Abu Dhabi, United Arab Emirates",isra_lm
+"""want""","Baltimore, MD, USA",isra_lm
+"""want""","Savannah, GA, USA",isra_lm
+"""want""","Salou, Spain",isra_lm
+"""want""","Panama City Beach, FL, USA",isra_lm
+"""want""","Playa del Ingles, Spain",isra_lm
+"""want""","Puerto Morelos, Mexico",isra_lm
+"""been""","Maracaibo, Venezuela",isra_lm
+"""want""","Nashville, TN, USA",isra_lm
+"""been""","Barquisimeto, Venezuela",isra_lm
+"""been""","Llanfairpwllgwyngyll, UK",isra_lm
+"""want""","Quebec City, Quebec, Canada",isra_lm
+"""want""","Montreal, Quebec, Canada",isra_lm
+"""want""","Krakow, Poland",isra_lm
+"""want""","Oludeniz, Turkey",isra_lm
+"""want""","Kusadasi, Turkey",isra_lm
+"""want""","Ottawa, Ontario, Canada",isra_lm
+"""want""","Milan, Italy",isra_lm
+"""want""","Orlando, FL, USA",isra_lm
+"""want""","Cassis, France",isra_lm
+"""been""","Alicante, Spain",isra_lm
+"""want""","Jakarta, Indonesia",isra_lm
+"""want""","Cancun, Mexico",isra_lm
+"""want""","Buenos Aires, Argentina",isra_lm
+"""been""","Mexico City, Mexico",isra_lm
+"""want""","Toronto, Ontario, Canada",isra_lm
+"""want""","Myrtle Beach, SC, USA",isra_lm
+"""want""","Turin, Italy",isra_lm
+"""want""","Ocean City, MD, USA",isra_lm
+"""want""","Budapest, Hungary",isra_lm
+"""been""","Tariba, Venezuela",isra_lm
+"""want""","Bengaluru, India",isra_lm
+"""want""","Cairo, Egypt",isra_lm
+"""want""","Port El Kantaoui, Tunisia",isra_lm
+"""been""","Armenia, Colombia",isra_lm
+"""want""","Glasgow, UK",isra_lm
+"""been""","Salisbury, UK",isra_lm
+"""been""","Altea, Spain",isra_lm
+"""want""","Aswan, Egypt",isra_lm
+"""want""","Luxor, Egypt",isra_lm
+"""want""","Antalya, Turkey",isra_lm
+"""want""","Alanya, Turkey",isra_lm
+"""want""","Beijing, China",isra_lm
+"""want""","Sedona, AZ, USA",isra_lm
+"""want""","Venice, Italy",isra_lm
+"""want""","Nuevo Vallarta, Mexico",isra_lm
+"""been""","Madrid, Spain",isra_lm
+"""want""","Helsinki, Finland",isra_lm
+"""want""","Dubai, United Arab Emirates",isra_lm
+"""want""","Side, Turkey",isra_lm
+"""want""","Hong Kong, China",isra_lm
+"""want""","Prague, Czech Republic",isra_lm
+"""want""","Patong, Thailand",isra_lm
+"""been""","Los Angeles, CA, USA",isra_lm
+"""want""","Laganas, Greece",isra_lm
+"""been""","Valencia de Don Juan, Spain",isra_lm
+"""been""","Caernarfon, UK",isra_lm
+"""want""","Cala'n Bosch, Spain",isra_lm
+"""want""","Portland, OR, USA",isra_lm
+"""been""","Valencia, Spain",isra_lm
+"""been""","Ejido, Venezuela",isra_lm
+"""been""","Villajoyosa, Spain",isra_lm
+"""been""","Benidorm, Spain",isra_lm
+"""been""","Conwy, UK",isra_lm
+"""been""","Calpe, Spain",isra_lm
+"""want""","Warsaw, Poland",isra_lm
+"""want""","Santa Eulalia del Rio, Spain",isra_lm
+"""been""","Las Vegas, NV, USA",isra_lm
+"""want""","Chicago, IL, USA",isra_lm
+"""been""","Quito, Ecuador",isra_lm
+"""want""","Palermo, Italy",isra_lm
+"""want""","Playa Blanca, Spain",isra_lm
+"""want""","Sousse, Tunisia",isra_lm
+"""been""","Ipiales, Colombia",isra_lm
+"""want""","Caleta de Fuste, Spain",isra_lm
+"""want""","Florence, Italy",isra_lm
+"""want""","Puerto Del Carmen, Spain",isra_lm
+"""been""","Castelldefels, Spain",isra_lm
+"""want""","Holguin, Cuba",isra_lm
+"""want""","Cusco, Peru",isra_lm
+"""want""","Hammamet, Tunisia",isra_lm
+"""want""","Ubud, Indonesia",isra_lm
+"""want""","Lima, Peru",isra_lm
+"""want""","Karon, Thailand",isra_lm
+"""want""","Calvi, France",isra_lm
+"""want""","Porto-Vecchio, France",isra_lm
+"""want""","Monastir, Tunisia",isra_lm
+"""want""","Naples, Italy",isra_lm
+"""want""","Rotterdam, The Netherlands",isra_lm
+"""want""","Blackpool, UK",isra_lm
+"""want""","Munich, Germany",isra_lm
+"""been""","Alcazar de San Juan, Spain",isra_lm
+"""want""","Liverpool, UK",isra_lm
+"""been""","Astorga, Spain",isra_lm
+"""been"",""want""","London, UK",isra_lm
+"""want""","Antwerp, Belgium",isra_lm
+"""been""","Tulcan, Ecuador",isra_lm
+"""want""","Rome, Italy",isra_lm
+"""been""","Urena, Venezuela",isra_lm
+"""been""","Merida, Spain",isra_lm
+"""been""","York, UK",isra_lm
+"""want""","Phoenix, AZ, USA",isra_lm
+"""been"",""want""","Stockholm, Sweden",isra_lm
+"""been""","Cordoba, Spain",isra_lm
+"""want""","Bristol, UK",isra_lm
+"""want""","Marbella, Spain",isra_lm
+"""been""","Malaga, Spain",isra_lm
+"""want""","Hua Hin, Thailand",isra_lm
+"""been"",""want""","Belfast, UK",isra_lm
+"""been""","Mundaka, Spain",isra_lm
+"""want""","Liege, Belgium",isra_lm
+"""want""","Berlin, Germany",isra_lm
+"""been""","Seville, Spain",isra_lm
+"""been""","Chester, UK",isra_lm
+"""want""","Torremolinos, Spain",isra_lm
+"""been""","Granada, Spain",isra_lm
+"""been""","Larne, UK",isra_lm
+"""want""","La Rochelle, France",isra_lm
+"""been""","Zaragoza, Spain",isra_lm
+"""want""","Poitiers, France",isra_lm
+"""been""","Caceres, Spain",isra_lm
+"""want""","Seminyak, Indonesia",isra_lm
+"""want""","Oxford, UK",isra_lm
+"""want""","San Sebastian - Donostia, Spain",isra_lm
+"""been""","Vitoria-Gasteiz, Spain",isra_lm
+"""want""","Frankfurt, Germany",isra_lm
+"""want""","Ghent, Belgium",isra_lm
+"""been""","Arles, France",isra_lm
+"""want""","Bilbao, Spain",isra_lm
+"""been""","Avignon, France",isra_lm
+"""want""","Hamburg, Germany",isra_lm
+"""want""","Sydney, Australia",isra_lm
+"""want""","Bruges, Belgium",isra_lm
+"""been""","Bath, UK",isra_lm
+"""want""","Bonifacio, France",isra_lm
+"""been""","Siguenza, Spain",isra_lm
+"""want""","Rennes, France",isra_lm
+"""want""","Dallas, TX, USA",isra_lm
+"""want""","Saint-Malo, France",isra_lm
+"""want""","Frejus, France",isra_lm
+"""want""","Ciutadella, Spain",isra_lm
+"""been"",""want""","Athens, Greece",isra_lm
+"""want""","Kalamaki, Greece",isra_lm
+"""want""","Palma de Mallorca, Spain",isra_lm
+"""want""","Cannes, France",isra_lm
+"""been""","Gernika-Lumo, Spain",isra_lm
+"""want""","Tunis, Tunisia",isra_lm
+"""want""","Juan-les-Pins, France",isra_lm
+"""want""","Sao Paulo, Brazil",isra_lm
+"""been""","Beaumaris, UK",isra_lm
+"""want""","Bournemouth, UK",isra_lm
+"""want""","Monte-Carlo, Monaco",isra_lm
+"""want""","Nice, France",isra_lm
+"""want""","Monaco-Ville, Monaco",isra_lm
+"""been""","Lavenham, UK",isra_lm
+"""want""","Menton, France",isra_lm
+"""want""","Dijon, France",isra_lm
+"""want""","Rio de Janeiro, Brazil",isra_lm
+"""want""","Palm Springs, CA, USA",isra_lm
+"""want""","Heraklion, Greece",isra_lm
+"""been""","Ea, Spain",isra_lm
+"""want""","Brighton, UK",isra_lm
+"""want""","Saint-Raphael, France",isra_lm
+"""want""","Puerto de la Cruz, Spain",isra_lm
+"""been""","Hervas, Spain",isra_lm
+"""want""","San Andres, Colombia",isra_lm
+"""been""","Niagara Falls, Ontario, Canada",isra_lm
+"""been""","Toledo, Spain",isra_lm
+"""been""","Nikko, Japan",isra_lm
+"""been""","Shirakawa-mura, Japan",isra_lm
+"""want""","Maastricht, The Netherlands",isra_lm
+"""been""","Tokyo, Japan",isra_lm
+"""been""","Colonia del Sacramento, Uruguay",isra_lm
+"""want""","Saint-Tropez, France",isra_lm
+"""been"",""want""","Copenhagen, Denmark",isra_lm
+"""want""","Tangier, Morocco",isra_lm
+"""want""","Rabat, Morocco",isra_lm
+"""want""","Marrakech, Morocco",isra_lm
+"""want""","Fes, Morocco",isra_lm
+"""want""","Casablanca, Morocco",isra_lm
+"""want""","Istanbul, Turkey",isra_lm
+"""want""","Orleans, France",isra_lm
+"""want""","Nabq Bay, Egypt",isra_lm
+"""been""","Mgarr, Malta",isra_lm
+"""want""","Puerto Rico, Spain",isra_lm
+"""been""","Salamanca, Spain",isra_lm
+"""want""","Tours, France",isra_lm
+"""want""","Dusseldorf, Germany",isra_lm
+"""been""","Leon, Spain",isra_lm
+"""want""","Cologne, Germany",isra_lm
+"""want""","Lausanne, Switzerland",isra_lm
+"""been""","Himeji, Japan",isra_lm
+"""want""","Toulon, France",isra_lm
+"""want""","Reims, France",isra_lm
+"""been"",""want""","Barcelona, Spain",isra_lm
+"""been""","Valladolid, Spain",isra_lm
+"""been""","Marseille, France",isra_lm
+"""been""","Nara, Japan",isra_lm
+"""been""","Sihanoukville, Cambodia",isra_lm
+"""want""","Bastia, France",isra_lm
+"""want""","Annecy, France",isra_lm
+"""want""","Chamonix, France",isra_lm
+"""want""","Ajaccio, France",isra_lm
+"""want""","Amsterdam, The Netherlands",isra_lm
+"""been""","Island of Gozo, Malta",isra_lm
+"""been""","Denia, Spain",isra_lm
+"""been""","Victoria, Malta",isra_lm
+"""been""","Marsalforn, Malta",isra_lm
+"""been""","Paris, France",isra_lm
+"""want""","Zurich, Switzerland",isra_lm
+"""want""","Grenoble, France",isra_lm
+"""been""","Lyon, France",isra_lm
+"""want""","Dakar, Senegal",isra_lm
+"""been""","Uruena, Spain",isra_lm
+"""want""","Armutalan, Turkey",isra_lm
+"""want""","Bophut, Thailand",isra_lm
+"""want""","Collioure, France",isra_lm
+"""want""","Salzburg, Austria",isra_lm
+"""want""","Montpellier, France",isra_lm
+"""been""","Mdina, Malta",isra_lm
+"""want""","Icmeler, Turkey",isra_lm
+"""been""","Rabat, Malta",isra_lm
+"""been""","Valletta, Malta",isra_lm
+"""been""","Qrendi, Malta",isra_lm
+"""been""","Sliema, Malta",isra_lm
+"""want""","Limoges, France",isra_lm
+"""been""","Nimes, France",isra_lm
+"""want""","Narbonne, France",isra_lm
+"""want""","Los Cristianos, Spain",isra_lm
+"""want""","Metz, France",isra_lm
+"""want""","Vienna, Austria",isra_lm
+"""want""","Nancy, France",isra_lm
+"""want""","Shanghai, China",isra_lm
+"""been""","San Antonio del Tachira, Venezuela",isra_lm
+"""been""","Gloucester, UK",isra_lm
+"""want""","Akumal, Mexico",isra_lm
+"""want""","Chaweng, Thailand",isra_lm
+"""want""","Atlantic City, NJ, USA",isra_lm
+"""want""","Costa Calma, Spain",isra_lm
+"""been""","El Vigia, Venezuela",isra_lm
+"""been""","Simancas, Spain",isra_lm
+"""want""","Toulouse, France",isra_lm
+"""want""","Virginia Beach, VA, USA",isra_lm
+"""want""","Stuttgart, Germany",isra_lm
+"""want""","Kardamena, Greece",isra_lm
+"""want""","Lourdes, France",isra_lm
+"""been""","Ingatestone, UK",isra_lm
+"""been""","Lille, France",isra_lm
+"""want""","Marmaris, Turkey",isra_lm
+"""want""","Auckland, New Zealand",isra_lm
+"""been""","Phnom Penh, Cambodia",isra_lm
+"""want""","Puerto Aventuras, Mexico",isra_lm
+"""want""","Melbourne, Australia",isra_lm
+"""want""","Saint-Denis, Reunion Island",isra_lm
+"""want""","Deauville City, France",isra_lm
+"""want""","Caen, France",isra_lm
+"""want""","Luxembourg City, Luxembourg",isra_lm
+"""want""","Marsa Alam, Egypt",isra_lm
+"""want""","Oslo, Norway",isra_lm
+"""been""","Santo Domingo, Dominican Republic",isra_lm
+"""been""","Siem Reap, Cambodia",isra_lm
+"""want""","Manchester, UK",isra_lm
+"""want""","San Jose del Cabo, Mexico",isra_lm
+"""want""","Moscow, Russia",isra_lm
+"""want""","Taipei, Taiwan",isra_lm
+"""want""","Puerto Plata, Dominican Republic",isra_lm
+"""want""","Taganga, Colombia",isra_lm
+"""want""","Chiang Mai, Thailand",isra_lm
+"""want""","Bangkok, Thailand",isra_lm
+"""been""","Tucacas, Venezuela",isra_lm
+"""want""","Angers, France",isra_lm
+"""want""","Colmar, France",isra_lm
+"""been""","Cordoba, Argentina",isra_lm
+"""want""","Rouen, France",isra_lm
+"""want""","Vancouver, British Columbia, Canada",isra_lm
+"""want""","Basel, Switzerland",isra_lm
+"""want""","Punta Cana, Dominican Republic",isra_lm
+"""want""","Nantes, France",isra_lm
+"""want""","Bayonne, France",isra_lm
+"""want""","Hanoi, Vietnam",isra_lm
+"""want""","Port de Pollenca, Spain",isra_lm
+"""want""","Jaipur, India",isra_lm
+"""want""","Mumbai, India",isra_lm
+"""want""","New Delhi, India",isra_lm
+"""want""","Adeje, Spain",isra_lm
+"""want""","Ho Chi Minh City, Vietnam",isra_lm
+"""want""","Bern, Switzerland",isra_lm
+"""want""","Cape Town Central, South Africa",isra_lm
+"""want""","Biarritz, France",isra_lm
+"""want""","Sa Coma, Spain",isra_lm
+"""been""","Sigtuna, Sweden",isra_lm
+"""been""","Nagoya, Japan",isra_lm
+"""been""","Cushendall, UK",isra_lm
+"""want""","Saint-Jean-de-Luz, France",isra_lm
+"""want""","Roses, Spain",isra_lm
+"""want""","Port d'Alcudia, Spain",isra_lm
+"""want""","Minato, Japan",isra_lm
+"""been""","Philadelphia, PA, USA",isra_lm
+"""want""","Costa Adeje, Spain",isra_lm
+"""want""","Brest, France",isra_lm
+"""want""","Lucerne, Switzerland",isra_lm
+"""been""","Takayama, Japan",isra_lm
+"""want""","Clermont-Ferrand, France",isra_lm
+"""been""","Matsumoto, Japan",isra_lm
+"""been""","Lisbon, Portugal",isra_lm
+"""want""","Havana, Cuba",isra_lm
+"""want""","Puerto de Santiago, Spain",isra_lm
+"""want""","Corralejo, Spain",isra_lm
+"""want""","Limassol City, Cyprus",isra_lm
+"""want""","Paphos, Cyprus",isra_lm
+"""been""","Washington DC, DC, USA",isra_lm
+"""been""","Bucaramanga, Colombia",isra_lm
+"""want""","Barranquilla, Colombia",isra_lm
+"""want""","Kobe, Japan",isra_lm
+"""been"",""want"",""fave""","Cartagena, Colombia",isra_lm
+"""been""","Sintra, Portugal",isra_lm
+"""been""","Cali, Colombia",isra_lm
+"""been""","Kyoto, Japan",isra_lm
+"""want""","Medellin, Colombia",isra_lm
+"""want""","Palm - Eagle Beach, Aruba",isra_lm
+"""been""","Osaka, Japan",isra_lm
+"""want""","Pereira, Colombia",isra_lm
+"""want""","St. John's, Antigua and Barbuda",isra_lm
+"""been""","Asuncion, Paraguay",isra_lm
+"""want""","Santa Barbara, CA, USA",isra_lm
+"""been""","Hiroshima, Japan",isra_lm
+"""want""","Funchal, Portugal",isra_lm
+"""want""","Sapporo, Japan",isra_lm
+"""want""","Fukuoka, Japan",isra_lm
+"""want""","Andorra la Vella, Andorra",isra_lm
+"""been""","Bermeo, Spain",isra_lm
+"""want""","Santa Marta, Colombia",isra_lm
+"""want""","Manila, Philippines",isra_lm
+"""want""","Santa Monica, CA, USA",isra_lm
+"""want""","Clearwater, FL, USA",isra_lm
+"""want""","Palmanova, Spain",isra_lm
+"""want""","Atlanta, GA, USA",isra_lm
+"""want""","Magaluf, Spain",isra_lm
+"""want""","Kuala Lumpur, Malaysia",isra_lm
+"""been""","Las Medulas, Spain",isra_lm
+"""been""","Battambang, Cambodia",isra_lm
+"""been""","Paola, Malta",isra_lm
+"""want""","Porto, Portugal",isra_lm
+"""want""","Kissimmee, FL, USA",isra_lm
+"""want""","Hersonissos, Greece",isra_lm
+"""want""","Gumbet, Turkey",isra_lm
+"""been""","New York City, NY, USA",isra_lm
+"""want""","Nusa Dua, Indonesia",isra_lm
+"""want""","Kuta, Indonesia",isra_lm
+"""want""","St. Augustine, FL, USA",isra_lm
+"""want""","Denver, CO, USA",isra_lm
+"""been""","Tsumagoi-mura, Japan",isra_lm
+"""been""","Hikone, Japan",isra_lm
+"""been""","San Carlos del Zulia, Venezuela",isra_lm
+"""been"",""want""","Bogota, Colombia",isra_lm
+"""want""","Kailua-Kona, HI, USA",isra_lm
+"""want""","Seoul, South Korea",isra_lm
+"""want""","Beziers, France",isra_lm
+"""want""","Lahaina, HI, USA",isra_lm
+"""want""","Cap-d'Agde, France",isra_lm
+"""want""","Seattle, WA, USA",isra_lm

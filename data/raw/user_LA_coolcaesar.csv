@@ -1,0 +1,886 @@
+tag,place,user
+"""been""","La Mirada, CA, USA",coolcaesar
+"""been""","La Palma, CA, USA",coolcaesar
+"""been""","Dorado, Puerto Rico",coolcaesar
+"""been""","Ponce, Puerto Rico",coolcaesar
+"""been""","El Yunque National Forest, Puerto Rico",coolcaesar
+"""been""","Baltimore, MD, USA",coolcaesar
+"""been""","El Monte, CA, USA",coolcaesar
+"""been""","San Juan, Puerto Rico",coolcaesar
+"""been""","Mayaguez, Puerto Rico",coolcaesar
+"""been""","La Canada Flintridge, CA, USA",coolcaesar
+"""been""","El Cerrito, CA, USA",coolcaesar
+"""been""","Superior, CO, USA",coolcaesar
+"""been""","Chevy Chase, MD, USA",coolcaesar
+"""been""","La Crescenta, CA, USA",coolcaesar
+"""been""","Mermaid Beach, Australia",coolcaesar
+"""been""","La Honda, CA, USA",coolcaesar
+"""been""","El Dorado Hills, CA, USA",coolcaesar
+"""been""","La Habra, CA, USA",coolcaesar
+"""been""","La Mesa, CA, USA",coolcaesar
+"""been""","Orlando, FL, USA",coolcaesar
+"""been""","La Jolla, CA, USA",coolcaesar
+"""been""","Yulee, FL, USA",coolcaesar
+"""been""","Concon, Chile",coolcaesar
+"""been""","Kyburz, CA, USA",coolcaesar
+"""been""","Suzhou, China",coolcaesar
+"""been""","Princeton, NJ, USA",coolcaesar
+"""been""","Wuxi, China",coolcaesar
+"""been""","Danville, CA, USA",coolcaesar
+"""been""","Zhenjiang, China",coolcaesar
+"""been""","Jacksonville, FL, USA",coolcaesar
+"""been""","SeaTac, WA, USA",coolcaesar
+"""been""","East Palo Alto, CA, USA",coolcaesar
+"""been""","Noord, Aruba",coolcaesar
+"""been""","East Los Angeles, CA, USA",coolcaesar
+"""been""","College Park, MD, USA",coolcaesar
+"""been""","Kings Beach, CA, USA",coolcaesar
+"""been""","Cockeysville Hunt Valley, MD, USA",coolcaesar
+"""been""","King City, CA, USA",coolcaesar
+"""been""","Dunnigan, CA, USA",coolcaesar
+"""been""","Big Sur, CA, USA",coolcaesar
+"""been""","Guaynabo, Puerto Rico",coolcaesar
+"""been""","Kensington, CA, USA",coolcaesar
+"""been""","Novato, CA, USA",coolcaesar
+"""been""","Dublin, CA, USA",coolcaesar
+"""been""","Norwalk, CA, USA",coolcaesar
+"""been""","Kettleman City, CA, USA",coolcaesar
+"""been""","Weston, FL, USA",coolcaesar
+"""been""","Muizenberg, South Africa",coolcaesar
+"""been""","Puerto Rico, Caribbean",coolcaesar
+"""been""","Cape Peninsula National Park, South Africa",coolcaesar
+"""been""","Ma'anshan, China",coolcaesar
+"""been""","Welgevonden Game Reserve, South Africa",coolcaesar
+"""been""","North Highlands, CA, USA",coolcaesar
+"""been""","Jersey City, NJ, USA",coolcaesar
+"""been""","Vancouver, WA, USA",coolcaesar
+"""been""","Tongling, China",coolcaesar
+"""been""","Brookline, MA, USA",coolcaesar
+"""been""","Downey, CA, USA",coolcaesar
+"""been""","Chuzhou, China",coolcaesar
+"""been""","Jenner, CA, USA",coolcaesar
+"""been""","Norwalk, CT, USA",coolcaesar
+"""been""","Norden, CA, USA",coolcaesar
+"""been""","Fillmore, CA, USA",coolcaesar
+"""been""","Visalia, CA, USA",coolcaesar
+"""been""","Arecibo, Puerto Rico",coolcaesar
+"""been""","Wilsonville, OR, USA",coolcaesar
+"""been""","Vernon, CA, USA",coolcaesar
+"""been""","Victorville, CA, USA",coolcaesar
+"""been""","Cabazon, CA, USA",coolcaesar
+"""been""","Des Plaines, IL, USA",coolcaesar
+"""been""","Calabasas, CA, USA",coolcaesar
+"""been""","Paramus, NJ, USA",coolcaesar
+"""been""","Buena Park, CA, USA",coolcaesar
+"""been""","Eureka, CA, USA",coolcaesar
+"""been""","Buellton, CA, USA",coolcaesar
+"""been""","Burlingame, CA, USA",coolcaesar
+"""been""","Vallejo, CA, USA",coolcaesar
+"""been""","Fair Oaks, CA, USA",coolcaesar
+"""been""","Burbank, CA, USA",coolcaesar
+"""been""","Kleinmond, South Africa",coolcaesar
+"""been""","Interlaken, Switzerland",coolcaesar
+"""been""","Fairfield, CA, USA",coolcaesar
+"""been""","L'Agulhas, South Africa",coolcaesar
+"""been""","Westminster, CO, USA",coolcaesar
+"""been""","Cabo Rojo, Puerto Rico",coolcaesar
+"""been""","Vacaville, CA, USA",coolcaesar
+"""been""","Exshaw, Alberta, Canada",coolcaesar
+"""been""","Betty's Bay, South Africa",coolcaesar
+"""been""","Lake Elsinore, CA, USA",coolcaesar
+"""been""","Emeryville, CA, USA",coolcaesar
+"""been""","Lugano, Switzerland",coolcaesar
+"""been""","Brockway, CA, USA",coolcaesar
+"""been""","Encinitas, CA, USA",coolcaesar
+"""been""","Zermatt, Switzerland",coolcaesar
+"""been""","Brisbane, CA, USA",coolcaesar
+"""been""","Twin Bridges, CA, USA",coolcaesar
+"""been""","Lake Forest, CA, USA",coolcaesar
+"""been""","Sion, Switzerland",coolcaesar
+"""been""","Ormeau, Australia",coolcaesar
+"""been""","Union City, CA, USA",coolcaesar
+"""been""","Ukiah, CA, USA",coolcaesar
+"""been""","Redmond, WA, USA",coolcaesar
+"""been""","St. Moritz, Switzerland",coolcaesar
+"""been""","Hawaii Kai, HI, USA",coolcaesar
+"""been""","Locarno, Switzerland",coolcaesar
+"""been""","Escondido, CA, USA",coolcaesar
+"""been""","Bellinzona, Switzerland",coolcaesar
+"""been""","Hangzhou, China",coolcaesar
+"""been""","Laguna Woods, CA, USA",coolcaesar
+"""been""","Laguna Niguel, CA, USA",coolcaesar
+"""been""","Pringle Bay, South Africa",coolcaesar
+"""been""","Xi'an, China",coolcaesar
+"""been""","Brentwood, CA, USA",coolcaesar
+"""been""","Seebe, Alberta, Canada",coolcaesar
+"""been""","Skokie, IL, USA",coolcaesar
+"""been""","Elk Grove, CA, USA",coolcaesar
+"""been""","Brea, CA, USA",coolcaesar
+"""been""","Clifton, South Africa",coolcaesar
+"""been""","El Sobrante, CA, USA",coolcaesar
+"""been""","Boulder Creek, CA, USA",coolcaesar
+"""been""","La Quinta, CA, USA",coolcaesar
+"""been""","El Segundo, CA, USA",coolcaesar
+"""been""","La Puente, CA, USA",coolcaesar
+"""been""","Laguna Beach, CA, USA",coolcaesar
+"""been""","Gordon's Bay, South Africa",coolcaesar
+"""been""","Lafayette, CA, USA",coolcaesar
+"""been""","Swan Valley, ID, USA",coolcaesar
+"""been""","Laguna Hills, CA, USA",coolcaesar
+"""been""","Aventura, FL, USA",coolcaesar
+"""been""","Vancouver, British Columbia, Canada",coolcaesar
+"""been""","Montebello, CA, USA",coolcaesar
+"""been""","Ka'anapali, HI, USA",coolcaesar
+"""been""","Monte Sereno, CA, USA",coolcaesar
+"""been""","Victoria, British Columbia, Canada",coolcaesar
+"""been""","Monterey, CA, USA",coolcaesar
+"""been""","Montecito, CA, USA",coolcaesar
+"""been""","Riverside, CA, USA",coolcaesar
+"""been""","Isla Verde, Puerto Rico",coolcaesar
+"""been""","Monterey Park, CA, USA",coolcaesar
+"""been""","Roissy-en-France, France",coolcaesar
+"""been""","Whistler, British Columbia, Canada",coolcaesar
+"""been""","Rio Vista, CA, USA",coolcaesar
+"""been""","Blacktown, Australia",coolcaesar
+"""been""","Princeton Junction, NJ, USA",coolcaesar
+"""been""","Venice, Italy",coolcaesar
+"""been""","Simon's Town, South Africa",coolcaesar
+"""been""","Modesto, CA, USA",coolcaesar
+"""been""","Ridgecrest, CA, USA",coolcaesar
+"""been""","Aguadilla, Puerto Rico",coolcaesar
+"""been""","Le Blanc-Mesnil, France",coolcaesar
+"""been""","Mojave, CA, USA",coolcaesar
+"""been""","Cabo San Lucas, Mexico",coolcaesar
+"""been""","San Jose del Cabo, Mexico",coolcaesar
+"""been""","Bayamon, Puerto Rico",coolcaesar
+"""been""","Taipei, Taiwan",coolcaesar
+"""been""","Monrovia, CA, USA",coolcaesar
+"""been""","Richmond, CA, USA",coolcaesar
+"""been""","Stevenson Ranch, CA, USA",coolcaesar
+"""been""","Mission Viejo, CA, USA",coolcaesar
+"""been""","Fiumicino, Italy",coolcaesar
+"""been""","Redondo Beach, CA, USA",coolcaesar
+"""been""","Millbrae, CA, USA",coolcaesar
+"""been""","Draper, UT, USA",coolcaesar
+"""been""","Redwood City, CA, USA",coolcaesar
+"""been""","Milpitas, CA, USA",coolcaesar
+"""been""","Reedley, CA, USA",coolcaesar
+"""been""","Brockton, MA, USA",coolcaesar
+"""been""","Red Bluff, CA, USA",coolcaesar
+"""been""","Redding, CA, USA",coolcaesar
+"""been""","Casablanca, Chile",coolcaesar
+"""been""","Canton, MA, USA",coolcaesar
+"""been""","Florence, Italy",coolcaesar
+"""been""","Bethesda, MD, USA",coolcaesar
+"""been""","Burlington, MA, USA",coolcaesar
+"""been""","Mendota, CA, USA",coolcaesar
+"""been""","Rancho Palos Verdes, CA, USA",coolcaesar
+"""been""","Puerto Vallarta, Mexico",coolcaesar
+"""been""","Menlo Park, CA, USA",coolcaesar
+"""been""","Rancho Santa Margarita, CA, USA",coolcaesar
+"""been""","Lake Louise, Alberta, Canada",coolcaesar
+"""been""","Banff, Alberta, Canada",coolcaesar
+"""been""","Herndon, VA, USA",coolcaesar
+"""been""","Albany, NY, USA",coolcaesar
+"""been""","Merced, CA, USA",coolcaesar
+"""been""","Calgary, Alberta, Canada",coolcaesar
+"""been""","Wilderville, OR, USA",coolcaesar
+"""been""","Rancho Cucamonga, CA, USA",coolcaesar
+"""been""","Rancho Mirage, CA, USA",coolcaesar
+"""been""","Rancho Dominguez, CA, USA",coolcaesar
+"""been""","Lynn, MA, USA",coolcaesar
+"""been""","Changzhou, China",coolcaesar
+"""been""","Wellesley, MA, USA",coolcaesar
+"""been""","Newport Beach, CA, USA",coolcaesar
+"""been""","Maroochydore, Australia",coolcaesar
+"""been""","Chicago, IL, USA",coolcaesar
+"""been""","Newhall, CA, USA",coolcaesar
+"""been""","Irwindale, CA, USA",coolcaesar
+"""been""","Irvine, CA, USA",coolcaesar
+"""been""","Newark, CA, USA",coolcaesar
+"""been""","Isla Vista, CA, USA",coolcaesar
+"""been""","Newbury Park, CA, USA",coolcaesar
+"""been""","Burlington, Ontario, Canada",coolcaesar
+"""been""","Nietverdiend, South Africa",coolcaesar
+"""been""","Loganholme, Australia",coolcaesar
+"""been""","Como, Italy",coolcaesar
+"""been""","Inglewood, CA, USA",coolcaesar
+"""been""","Azusa, CA, USA",coolcaesar
+"""been""","Avalon, CA, USA",coolcaesar
+"""been""","Auburn, CA, USA",coolcaesar
+"""been""","Muir Beach, CA, USA",coolcaesar
+"""been""","New Haven, CT, USA",coolcaesar
+"""been""","Mountain View, CA, USA",coolcaesar
+"""been""","Murrieta, CA, USA",coolcaesar
+"""been""","Imperial Beach, CA, USA",coolcaesar
+"""been""","Napa, CA, USA",coolcaesar
+"""been""","Indio, CA, USA",coolcaesar
+"""been""","Indian Wells, CA, USA",coolcaesar
+"""been""","Stresa, Italy",coolcaesar
+"""been""","Milan, Italy",coolcaesar
+"""been""","Baveno, Italy",coolcaesar
+"""been""","Maldonado, Uruguay",coolcaesar
+"""been""","Atherton, CA, USA",coolcaesar
+"""been""","Sacramento, CA, USA",coolcaesar
+"""been""","Atascadero, CA, USA",coolcaesar
+"""been""","Artesia, CA, USA",coolcaesar
+"""been""","Arroyo Grande, CA, USA",coolcaesar
+"""been""","Rowland Heights, CA, USA",coolcaesar
+"""been""","Mount Hamilton, CA, USA",coolcaesar
+"""been""","Mount Shasta, CA, USA",coolcaesar
+"""been""","Huntington Beach, CA, USA",coolcaesar
+"""been""","Upper Mt Gravatt, Australia",coolcaesar
+"""been""","Roseville, CA, USA",coolcaesar
+"""been""","Morro Bay, CA, USA",coolcaesar
+"""been""","Arcadia, CA, USA",coolcaesar
+"""been""","Arcata, CA, USA",coolcaesar
+"""been""","Homewood, CA, USA",coolcaesar
+"""been""","Rosemead, CA, USA",coolcaesar
+"""been""","Aptos, CA, USA",coolcaesar
+"""been""","Penrith, Australia",coolcaesar
+"""been""","Moss Beach, CA, USA",coolcaesar
+"""been""","Arbuckle, CA, USA",coolcaesar
+"""been""","Miami, Australia",coolcaesar
+"""been""","Tugun, Australia",coolcaesar
+"""been""","Rocklin, CA, USA",coolcaesar
+"""been""","Rohnert Park, CA, USA",coolcaesar
+"""been""","Montrose, CA, USA",coolcaesar
+"""been""","Rodeo, CA, USA",coolcaesar
+"""been""","Moraga, CA, USA",coolcaesar
+"""been""","Rolling Hills Estates, CA, USA",coolcaesar
+"""been""","Moorpark, CA, USA",coolcaesar
+"""been""","Rolling Hills, CA, USA",coolcaesar
+"""been""","Kahala, HI, USA",coolcaesar
+"""been""","Morgan Hill, CA, USA",coolcaesar
+"""been""","Moreno Valley, CA, USA",coolcaesar
+"""been""","Boca Raton, FL, USA",coolcaesar
+"""been""","Uluru-Kata Tjuta National Park, Australia",coolcaesar
+"""been""","North Lakes, Australia",coolcaesar
+"""been""","Grants Pass, OR, USA",coolcaesar
+"""been""","La Barra, Uruguay",coolcaesar
+"""been""","Table Mountain National Park, South Africa",coolcaesar
+"""been""","Maalaea, HI, USA",coolcaesar
+"""been""","Hyannis, MA, USA",coolcaesar
+"""been""","Yosemite National Park, CA, USA",coolcaesar
+"""been""","Bal Harbour, FL, USA",coolcaesar
+"""been""","Springdale, UT, USA",coolcaesar
+"""been""","Fish Hoek, South Africa",coolcaesar
+"""been""","Bondi, Australia",coolcaesar
+"""been""","Wilmington, DE, USA",coolcaesar
+"""been""","Lexington, MA, USA",coolcaesar
+"""been""","Waltham, MA, USA",coolcaesar
+"""been""","Montreux, Switzerland",coolcaesar
+"""been""","Lausanne, Switzerland",coolcaesar
+"""been""","Watertown, MA, USA",coolcaesar
+"""been""","Niagara Falls, Ontario, Canada",coolcaesar
+"""been""","Hiouchi, CA, USA",coolcaesar
+"""been""","Mississauga, Ontario, Canada",coolcaesar
+"""been""","Wentworth Falls, Australia",coolcaesar
+"""been""","Bredasdorp, South Africa",coolcaesar
+"""been""","London, UK",coolcaesar
+"""been""","Rancho Cordova, CA, USA",coolcaesar
+"""been""","Stellenbosch, South Africa",coolcaesar
+"""been""","Rancho Bernardo, CA, USA",coolcaesar
+"""been""","Eagle Point, OR, USA",coolcaesar
+"""been""","Glenview, IL, USA",coolcaesar
+"""been""","Bronx, NY, USA",coolcaesar
+"""been""","Eugene, OR, USA",coolcaesar
+"""been""","Broadbeach, Australia",coolcaesar
+"""been""","Rio Grande, Puerto Rico",coolcaesar
+"""been""","Portola Valley, CA, USA",coolcaesar
+"""been""","Ladera Ranch, CA, USA",coolcaesar
+"""been""","Katoomba, Australia",coolcaesar
+"""been""","Horseshoe Bay, British Columbia, Canada",coolcaesar
+"""been""","Pomona, CA, USA",coolcaesar
+"""been""","Leura, Australia",coolcaesar
+"""been""","Domodossola, Italy",coolcaesar
+"""been""","Porterville, CA, USA",coolcaesar
+"""been""","Bayonne, NJ, USA",coolcaesar
+"""been""","Toa Baja, Puerto Rico",coolcaesar
+"""been""","Castle Junction, Alberta, Canada",coolcaesar
+"""been""","Captain Cook, HI, USA",coolcaesar
+"""been""","Sir Lowry's Pass, South Africa",coolcaesar
+"""been""","Hawi, HI, USA",coolcaesar
+"""been""","Ceiba, Puerto Rico",coolcaesar
+"""been""","Hilo, HI, USA",coolcaesar
+"""been""","Luquillo, Puerto Rico",coolcaesar
+"""been""","Waimea, HI, USA",coolcaesar
+"""been""","Point Reyes Station, CA, USA",coolcaesar
+"""been""","Callao, Peru",coolcaesar
+"""been""","Coogee, Australia",coolcaesar
+"""been""","Beerwah, Australia",coolcaesar
+"""been""","Point Mugu, CA, USA",coolcaesar
+"""been""","Guanica, Puerto Rico",coolcaesar
+"""been""","Pleasanton, CA, USA",coolcaesar
+"""been""","Pleasant Hill, CA, USA",coolcaesar
+"""been""","Blue Mountains National Park, Australia",coolcaesar
+"""been""","Belmont, CA, USA",coolcaesar
+"""been""","North Miami, FL, USA",coolcaesar
+"""been""","Benicia, CA, USA",coolcaesar
+"""been""","Pocatello, ID, USA",coolcaesar
+"""been""","Sandy, UT, USA",coolcaesar
+"""been""","Montevideo, Uruguay",coolcaesar
+"""been""","St. George, UT, USA",coolcaesar
+"""been""","Brits, South Africa",coolcaesar
+"""been""","Rockville, UT, USA",coolcaesar
+"""been""","Bell, CA, USA",coolcaesar
+"""been""","Sunol, CA, USA",coolcaesar
+"""been""","Sunnyvale, CA, USA",coolcaesar
+"""been""","Denver, CO, USA",coolcaesar
+"""been""","Bellflower, CA, USA",coolcaesar
+"""been""","Orvieto, Italy",coolcaesar
+"""been""","Kuils River, South Africa",coolcaesar
+"""been""","Summerland, CA, USA",coolcaesar
+"""been""","Beaumont, CA, USA",coolcaesar
+"""been""","Diamond Bar, CA, USA",coolcaesar
+"""been""","Diablo, CA, USA",coolcaesar
+"""been""","New York City, NY, USA",coolcaesar
+"""been""","Ventura, CA, USA",coolcaesar
+"""been""","Vina del Mar, Chile",coolcaesar
+"""been""","Burleigh Heads, Australia",coolcaesar
+"""been""","Mooloolaba, Australia",coolcaesar
+"""been""","Sparks, NV, USA",coolcaesar
+"""been""","Scarborough, South Africa",coolcaesar
+"""been""","Strathmore, CA, USA",coolcaesar
+"""been""","Del Mar, CA, USA",coolcaesar
+"""been""","Flamingo, FL, USA",coolcaesar
+"""been""","Bay Point, CA, USA",coolcaesar
+"""been""","Fort Lauderdale, FL, USA",coolcaesar
+"""been""","Walt Disney World, FL, USA",coolcaesar
+"""been""","Guayama, Puerto Rico",coolcaesar
+"""been""","Davis, CA, USA",coolcaesar
+"""been""","Stockton, CA, USA",coolcaesar
+"""been""","Banning, CA, USA",coolcaesar
+"""been""","Mammoth Lakes, CA, USA",coolcaesar
+"""been""","Stateline, NV, USA",coolcaesar
+"""been""","West Yellowstone, MT, USA",coolcaesar
+"""been""","Hamilton Square, NJ, USA",coolcaesar
+"""been""","Philadelphia, PA, USA",coolcaesar
+"""been""","Santiago, Chile",coolcaesar
+"""been""","Tonopah, NV, USA",coolcaesar
+"""been""","Valparaiso, Chile",coolcaesar
+"""been""","Bantry Bay, South Africa",coolcaesar
+"""been""","Verdi, NV, USA",coolcaesar
+"""been""","Cape Town Central, South Africa",coolcaesar
+"""been""","Camps Bay, South Africa",coolcaesar
+"""been""","Rustenburg, South Africa",coolcaesar
+"""been""","Everett, WA, USA",coolcaesar
+"""been""","Daly City, CA, USA",coolcaesar
+"""been""","Baker, CA, USA",coolcaesar
+"""been""","Wuhu, China",coolcaesar
+"""been""","Baldwin Park, CA, USA",coolcaesar
+"""been""","Wheeling, IL, USA",coolcaesar
+"""been""","Bakersfield, CA, USA",coolcaesar
+"""been""","Dana Point, CA, USA",coolcaesar
+"""been""","Fernandina Beach, FL, USA",coolcaesar
+"""been""","Stinson Beach, CA, USA",coolcaesar
+"""been""","Culver City, CA, USA",coolcaesar
+"""been""","Rosemont, IL, USA",coolcaesar
+"""been""","Cupertino, CA, USA",coolcaesar
+"""been""","West Vancouver, British Columbia, Canada",coolcaesar
+"""been""","Death Valley Junction, CA, USA",coolcaesar
+"""been""","Seekonk, MA, USA",coolcaesar
+"""been""","Zephyr Cove, NV, USA",coolcaesar
+"""been""","Milnerton, South Africa",coolcaesar
+"""been""","Pemberton, British Columbia, Canada",coolcaesar
+"""been""","Paarl, South Africa",coolcaesar
+"""been""","Staten Island, NY, USA",coolcaesar
+"""been""","Constantia, South Africa",coolcaesar
+"""been""","South El Monte, CA, USA",coolcaesar
+"""been""","South Gate, CA, USA",coolcaesar
+"""been""","South San Francisco, CA, USA",coolcaesar
+"""been""","South Pasadena, CA, USA",coolcaesar
+"""been""","King of Prussia, PA, USA",coolcaesar
+"""been""","Truckee, CA, USA",coolcaesar
+"""been""","Northbrook, IL, USA",coolcaesar
+"""been""","Tustin, CA, USA",coolcaesar
+"""been""","Montreal, Quebec, Canada",coolcaesar
+"""been""","Zurich, Switzerland",coolcaesar
+"""been""","New Brunswick, NJ, USA",coolcaesar
+"""been""","Manly, Australia",coolcaesar
+"""been""","St. Thomas, U.S. Virgin Islands",coolcaesar
+"""been""","Charlotte Amalie, U.S. Virgin Islands",coolcaesar
+"""been""","Newport, RI, USA",coolcaesar
+"""been""","Curacavi, Chile",coolcaesar
+"""been""","Milsons Point, Australia",coolcaesar
+"""been""","Homestead, FL, USA",coolcaesar
+"""been""","Richmond, British Columbia, Canada",coolcaesar
+"""been""","Newark, NJ, USA",coolcaesar
+"""been""","Lassen Volcanic National Park, CA, USA",coolcaesar
+"""been""","Trinidad, CA, USA",coolcaesar
+"""been""","Zeerust, South Africa",coolcaesar
+"""been""","Torrance, CA, USA",coolcaesar
+"""been""","Cancun, Mexico",coolcaesar
+"""been""","Tracy, CA, USA",coolcaesar
+"""been""","Three Rivers, CA, USA",coolcaesar
+"""been""","Zion National Park, UT, USA",coolcaesar
+"""been""","New Providence Island, Bahamas",coolcaesar
+"""been""","Nassau, Bahamas",coolcaesar
+"""been""","West Point, NY, USA",coolcaesar
+"""been""","Paradise Island, Bahamas",coolcaesar
+"""been""","Dorval, Quebec, Canada",coolcaesar
+"""been""","Canmore, Alberta, Canada",coolcaesar
+"""been""","Garden City, NY, USA",coolcaesar
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",coolcaesar
+"""been""","Niles, IL, USA",coolcaesar
+"""been""","Grand Teton National Park, WY, USA",coolcaesar
+"""been""","San Diego, CA, USA",coolcaesar
+"""been""","Tiburon, CA, USA",coolcaesar
+"""been""","Everglades National Park, FL, USA",coolcaesar
+"""been""","Death Valley National Park, CA, USA",coolcaesar
+"""been""","Yellowstone National Park, WY, USA",coolcaesar
+"""been""","Centurion, South Africa",coolcaesar
+"""been""","Kirribilli, Australia",coolcaesar
+"""been""","Grand Canyon National Park, AZ, USA",coolcaesar
+"""been""","Toronto, Ontario, Canada",coolcaesar
+"""been""","Fajardo, Puerto Rico",coolcaesar
+"""been""","Crater Lake National Park, OR, USA",coolcaesar
+"""been""","Opfikon, Switzerland",coolcaesar
+"""been""","Temple City, CA, USA",coolcaesar
+"""been""","Mexico City, Mexico",coolcaesar
+"""been""","St. Catharines, Ontario, Canada",coolcaesar
+"""been""","Mestre, Italy",coolcaesar
+"""been""","Beverly Hills, CA, USA",coolcaesar
+"""been""","Groot Drakenstein, South Africa",coolcaesar
+"""been""","Temecula, CA, USA",coolcaesar
+"""been""","Algarrobo, Chile",coolcaesar
+"""been""","Hawaii Volcanoes National Park, HI, USA",coolcaesar
+"""been""","Valley Forge, PA, USA",coolcaesar
+"""been""","Honolulu, HI, USA",coolcaesar
+"""been""","Modimolle (Nylstroom), South Africa",coolcaesar
+"""been""","Haleakala National Park, HI, USA",coolcaesar
+"""been""","Boston, MA, USA",coolcaesar
+"""been""","Ciudad de la Costa, Uruguay",coolcaesar
+"""been""","Provo, UT, USA",coolcaesar
+"""been""","Pleasant Grove, UT, USA",coolcaesar
+"""been""","White Plains, NY, USA",coolcaesar
+"""been""","Tahoe Vista, CA, USA",coolcaesar
+"""been""","Berkeley, CA, USA",coolcaesar
+"""been""","Tahoe City, CA, USA",coolcaesar
+"""been""","Oakville, Ontario, Canada",coolcaesar
+"""been""","Ottawa, Ontario, Canada",coolcaesar
+"""been""","Grover Beach, CA, USA",coolcaesar
+"""been""","Clayton, CA, USA",coolcaesar
+"""been""","Redwood National Park, CA, USA",coolcaesar
+"""been""","Shady Cove, OR, USA",coolcaesar
+"""been""","Chula Vista, CA, USA",coolcaesar
+"""been""","Brig, Switzerland",coolcaesar
+"""been""","Citrus Heights, CA, USA",coolcaesar
+"""been""","Yountville, CA, USA",coolcaesar
+"""been""","City of Industry, CA, USA",coolcaesar
+"""been""","Claremont, CA, USA",coolcaesar
+"""been""","Madikwe Game Reserve, South Africa",coolcaesar
+"""been""","Flushing, NY, USA",coolcaesar
+"""been""","Trenton, NJ, USA",coolcaesar
+"""been""","Salt Lake City, UT, USA",coolcaesar
+"""been""","Cave Junction, OR, USA",coolcaesar
+"""been""","Port Angeles, WA, USA",coolcaesar
+"""been""","Chino Hills, CA, USA",coolcaesar
+"""been""","Chowchilla, CA, USA",coolcaesar
+"""been""","Mariposa, CA, USA",coolcaesar
+"""been""","Marina del Rey, CA, USA",coolcaesar
+"""been""","Chino, CA, USA",coolcaesar
+"""been""","Mount Laurel, NJ, USA",coolcaesar
+"""been""","Hunt Valley, MD, USA",coolcaesar
+"""been""","Scottsdale, AZ, USA",coolcaesar
+"""been""","San Francisco, CA, USA",coolcaesar
+"""been""","Salem, MA, USA",coolcaesar
+"""been""","Goleta, CA, USA",coolcaesar
+"""been""","Thousand Oaks, CA, USA",coolcaesar
+"""been""","Manteca, CA, USA",coolcaesar
+"""been""","Louisville, CO, USA",coolcaesar
+"""been""","Glendora, CA, USA",coolcaesar
+"""been""","Glendale, CA, USA",coolcaesar
+"""been""","Malibu, CA, USA",coolcaesar
+"""been""","Vevey, Switzerland",coolcaesar
+"""been""","Manhattan Beach, CA, USA",coolcaesar
+"""been""","Edison, NJ, USA",coolcaesar
+"""been""","Lajas, Puerto Rico",coolcaesar
+"""been""","Crescent City, CA, USA",coolcaesar
+"""been""","Elizabeth, NJ, USA",coolcaesar
+"""been""","Lynwood, CA, USA",coolcaesar
+"""been""","Providence, RI, USA",coolcaesar
+"""been""","Gilroy, CA, USA",coolcaesar
+"""been""","Los Osos, CA, USA",coolcaesar
+"""been""","Arlington, VA, USA",coolcaesar
+"""been""","Lost Hills, CA, USA",coolcaesar
+"""been""","Garden Grove, CA, USA",coolcaesar
+"""been""","Simplon, Switzerland",coolcaesar
+"""been""","Gasquet, CA, USA",coolcaesar
+"""been""","Gardena, CA, USA",coolcaesar
+"""been""","Covina, CA, USA",coolcaesar
+"""been""","Struisbaai, South Africa",coolcaesar
+"""been""","Palm - Eagle Beach, Aruba",coolcaesar
+"""been""","Mesquite, NV, USA",coolcaesar
+"""been""","Aruba, Caribbean",coolcaesar
+"""been""","Oranjestad, Aruba",coolcaesar
+"""been""","Bilinga, Australia",coolcaesar
+"""been""","Portland, OR, USA",coolcaesar
+"""been""","Sonora, CA, USA",coolcaesar
+"""been""","Miami Beach, FL, USA",coolcaesar
+"""been""","Antioch, CA, USA",coolcaesar
+"""been""","Cotati, CA, USA",coolcaesar
+"""been""","Solana Beach, CA, USA",coolcaesar
+"""been""","Hillsborough, CA, USA",coolcaesar
+"""been""","Soda Springs, CA, USA",coolcaesar
+"""been""","Costa Mesa, CA, USA",coolcaesar
+"""been""","Hollister, CA, USA",coolcaesar
+"""been""","Solvang, CA, USA",coolcaesar
+"""been""","Soledad, CA, USA",coolcaesar
+"""been""","Anderson, CA, USA",coolcaesar
+"""been""","Sonoma, CA, USA",coolcaesar
+"""been""","American Canyon, CA, USA",coolcaesar
+"""been""","Miami, FL, USA",coolcaesar
+"""been""","Anaheim, CA, USA",coolcaesar
+"""been""","Hermosa Beach, CA, USA",coolcaesar
+"""been""","Coronado, CA, USA",coolcaesar
+"""been""","Corte Madera, CA, USA",coolcaesar
+"""been""","North Las Vegas, NV, USA",coolcaesar
+"""been""","Prospect, OR, USA",coolcaesar
+"""been""","Alviso, CA, USA",coolcaesar
+"""been""","Primm, NV, USA",coolcaesar
+"""been""","Concord, CA, USA",coolcaesar
+"""been""","Compton, CA, USA",coolcaesar
+"""been""","Altadena, CA, USA",coolcaesar
+"""been""","Hercules, CA, USA",coolcaesar
+"""been""","Corona del Mar, CA, USA",coolcaesar
+"""been""","Corona, CA, USA",coolcaesar
+"""been""","Punta del Este, Uruguay",coolcaesar
+"""been""","Hayward, CA, USA",coolcaesar
+"""been""","Broomfield, CO, USA",coolcaesar
+"""been""","Commerce, CA, USA",coolcaesar
+"""been""","Reno, NV, USA",coolcaesar
+"""been""","Parramatta, Australia",coolcaesar
+"""been""","Furry Creek, British Columbia, Canada",coolcaesar
+"""been""","Roseburg, OR, USA",coolcaesar
+"""been""","Aliso Viejo, CA, USA",coolcaesar
+"""been""","Alhambra, CA, USA",coolcaesar
+"""been""","Albany, CA, USA",coolcaesar
+"""been""","Alameda, CA, USA",coolcaesar
+"""been""","Alamo, CA, USA",coolcaesar
+"""been""","Colfax, CA, USA",coolcaesar
+"""been""","Hawthorne, CA, USA",coolcaesar
+"""been""","Colma, CA, USA",coolcaesar
+"""been""","Boulder, CO, USA",coolcaesar
+"""been""","Selma, OR, USA",coolcaesar
+"""been""","Concord, MA, USA",coolcaesar
+"""been""","Barstow, CA, USA",coolcaesar
+"""been""","Agoura, CA, USA",coolcaesar
+"""been""","Salem, OR, USA",coolcaesar
+"""been""","Mill Valley, CA, USA",coolcaesar
+"""been""","Agoura Hills, CA, USA",coolcaesar
+"""been""","Guerneville, CA, USA",coolcaesar
+"""been""","Evanston, IL, USA",coolcaesar
+"""been""","Napili-Honokowai, HI, USA",coolcaesar
+"""been""","Half Moon Bay, CA, USA",coolcaesar
+"""been""","Coalinga, CA, USA",coolcaesar
+"""been""","Hacienda Heights, CA, USA",coolcaesar
+"""been""","South Miami, FL, USA",coolcaesar
+"""been""","Crystal Bay, NV, USA",coolcaesar
+"""been""","Paramount, CA, USA",coolcaesar
+"""been""","Pasadena, CA, USA",coolcaesar
+"""been""","Lemon Cove, CA, USA",coolcaesar
+"""been""","Frenchtown, U.S. Virgin Islands",coolcaesar
+"""been""","Lawndale, CA, USA",coolcaesar
+"""been""","Palos Verdes Estates, CA, USA",coolcaesar
+"""been""","Yabucoa, Puerto Rico",coolcaesar
+"""been""","Glenbrook, NV, USA",coolcaesar
+"""been""","Lakewood, CA, USA",coolcaesar
+"""been""","Palm Springs, CA, USA",coolcaesar
+"""been""","Stamford, CT, USA",coolcaesar
+"""been""","Palm Desert, CA, USA",coolcaesar
+"""been""","Palo Alto, CA, USA",coolcaesar
+"""been""","Lancaster, CA, USA",coolcaesar
+"""been""","Palmdale, CA, USA",coolcaesar
+"""been""","Homebush, Australia",coolcaesar
+"""been""","Larkspur, CA, USA",coolcaesar
+"""been""","Pacific Grove, CA, USA",coolcaesar
+"""been""","Cronulla, Australia",coolcaesar
+"""been""","Pacifica, CA, USA",coolcaesar
+"""been""","Incline Village, NV, USA",coolcaesar
+"""been""","Utuado, Puerto Rico",coolcaesar
+"""been""","Henderson, NV, USA",coolcaesar
+"""been""","Pacheco, CA, USA",coolcaesar
+"""been""","Oxnard, CA, USA",coolcaesar
+"""been""","Kalk Bay, South Africa",coolcaesar
+"""been""","Orick, CA, USA",coolcaesar
+"""been""","Newtown, PA, USA",coolcaesar
+"""been""","Orinda, CA, USA",coolcaesar
+"""been""","Brienz, Switzerland",coolcaesar
+"""been""","Las Vegas, NV, USA",coolcaesar
+"""been""","Ontario, CA, USA",coolcaesar
+"""been""","Olympic Valley, CA, USA",coolcaesar
+"""been""","Orange, CA, USA",coolcaesar
+"""been""","Strand, South Africa",coolcaesar
+"""been""","Olema, CA, USA",coolcaesar
+"""been""","Huangshan, China",coolcaesar
+"""been""","Plymouth, MA, USA",coolcaesar
+"""been""","Bloubergstrand, South Africa",coolcaesar
+"""been""","Fullerton, CA, USA",coolcaesar
+"""been""","Charlotte, NC, USA",coolcaesar
+"""been""","Vaalwater, South Africa",coolcaesar
+"""been""","Los Gatos, CA, USA",coolcaesar
+"""been""","Tasch, Switzerland",coolcaesar
+"""been""","Pismo Beach, CA, USA",coolcaesar
+"""been""","Caguas, Puerto Rico",coolcaesar
+"""been""","Los Alamitos, CA, USA",coolcaesar
+"""been""","Adelphi, MD, USA",coolcaesar
+"""been""","Los Altos Hills, CA, USA",coolcaesar
+"""been""","Los Altos, CA, USA",coolcaesar
+"""been""","Fremont, CA, USA",coolcaesar
+"""been""","Pittsburg, CA, USA",coolcaesar
+"""been""","Los Banos, CA, USA",coolcaesar
+"""been""","Placerville, CA, USA",coolcaesar
+"""been""","Fresno, CA, USA",coolcaesar
+"""been""","Los Angeles, CA, USA",coolcaesar
+"""been""","Revere, MA, USA",coolcaesar
+"""been""","Pinole, CA, USA",coolcaesar
+"""been""","Foster City, CA, USA",coolcaesar
+"""been""","Alexandria, VA, USA",coolcaesar
+"""been""","Fortuna, CA, USA",coolcaesar
+"""been""","Kleinbaai, South Africa",coolcaesar
+"""been""","Long Beach, CA, USA",coolcaesar
+"""been""","Fountain Valley, CA, USA",coolcaesar
+"""been""","Caledon, South Africa",coolcaesar
+"""been""","Piedmont, CA, USA",coolcaesar
+"""been""","Phoenix, AZ, USA",coolcaesar
+"""been""","Kloten, Switzerland",coolcaesar
+"""been""","Lompoc, CA, USA",coolcaesar
+"""been""","Lomita, CA, USA",coolcaesar
+"""been""","Beatty, NV, USA",coolcaesar
+"""been""","Gold Coast, Australia",coolcaesar
+"""been""","Coolangatta, Australia",coolcaesar
+"""been""","Wollongong, Australia",coolcaesar
+"""been""","Dallas, TX, USA",coolcaesar
+"""been""","Livermore, CA, USA",coolcaesar
+"""been""","Pico Rivera, CA, USA",coolcaesar
+"""been""","Lindsay, CA, USA",coolcaesar
+"""been""","Petaluma, CA, USA",coolcaesar
+"""been""","Monroe, NY, USA",coolcaesar
+"""been""","Pescadero, CA, USA",coolcaesar
+"""been""","Carson City, NV, USA",coolcaesar
+"""been""","Melbourne, Australia",coolcaesar
+"""been""","Kauai, HI, USA",coolcaesar
+"""been""","Pearblossom, CA, USA",coolcaesar
+"""been""","Fingal Head, Australia",coolcaesar
+"""been""","Paso Robles, CA, USA",coolcaesar
+"""been""","Jackson, WY, USA",coolcaesar
+"""been""","Wailea, HI, USA",coolcaesar
+"""been""","St. James, South Africa",coolcaesar
+"""been""","Santa Nella, CA, USA",coolcaesar
+"""been""","Orem, UT, USA",coolcaesar
+"""been""","Ogden, UT, USA",coolcaesar
+"""been""","Norwood, MA, USA",coolcaesar
+"""been""","Armonk, NY, USA",coolcaesar
+"""been""","Naguabo, Puerto Rico",coolcaesar
+"""been""","Simi Valley, CA, USA",coolcaesar
+"""been""","Chartres, France",coolcaesar
+"""been""","Danvers, MA, USA",coolcaesar
+"""been""","Signal Hill, CA, USA",coolcaesar
+"""been""","Tokyo, Japan",coolcaesar
+"""been""","Delray Beach, FL, USA",coolcaesar
+"""been""","Shelter Cove, CA, USA",coolcaesar
+"""been""","Sierra Madre, CA, USA",coolcaesar
+"""been""","Main Beach, Australia",coolcaesar
+"""been""","Isla Negra, Chile",coolcaesar
+"""been""","Oxenford, Australia",coolcaesar
+"""been""","Washington DC, DC, USA",coolcaesar
+"""been""","Tweed Heads, Australia",coolcaesar
+"""been""","Oceanside, CA, USA",coolcaesar
+"""been""","Ojai, CA, USA",coolcaesar
+"""been""","Oakland, CA, USA",coolcaesar
+"""been""","Rome, Italy",coolcaesar
+"""been""","Vatican City, Vatican City",coolcaesar
+"""been""","Oakhurst, CA, USA",coolcaesar
+"""been""","Oakdale, CA, USA",coolcaesar
+"""been""","Southport, Australia",coolcaesar
+"""been""","Newton, MA, USA",coolcaesar
+"""been""","Johannesburg, South Africa",coolcaesar
+"""been""","Kempton Park, South Africa",coolcaesar
+"""been""","Baulkham Hills, Australia",coolcaesar
+"""been""","Collaroy Beach, Australia",coolcaesar
+"""been""","O'Brien, OR, USA",coolcaesar
+"""been""","Wayne, PA, USA",coolcaesar
+"""been""","Sandton, South Africa",coolcaesar
+"""been""","Brisbane, Australia",coolcaesar
+"""been""","Yulara, Australia",coolcaesar
+"""been""","Midrand, South Africa",coolcaesar
+"""been""","Pretoria, South Africa",coolcaesar
+"""been""","Sydney, Australia",coolcaesar
+"""been""","Tullamarine, Australia",coolcaesar
+"""been""","Beaverton, OR, USA",coolcaesar
+"""been""","Table View, South Africa",coolcaesar
+"""been""","Castaic, CA, USA",coolcaesar
+"""been""","Willits, CA, USA",coolcaesar
+"""been""","San Mateo, CA, USA",coolcaesar
+"""been""","Castro Valley, CA, USA",coolcaesar
+"""been""","Kahuku, HI, USA",coolcaesar
+"""been""","Williams, CA, USA",coolcaesar
+"""been""","Willows, CA, USA",coolcaesar
+"""been""","Cathedral City, CA, USA",coolcaesar
+"""been""","Cambridge, MA, USA",coolcaesar
+"""been""","Kapolei, HI, USA",coolcaesar
+"""been""","Kailua, HI, USA",coolcaesar
+"""been""","Kaneohe, HI, USA",coolcaesar
+"""been""","Le Prese, Switzerland",coolcaesar
+"""been""","Wahiawa, HI, USA",coolcaesar
+"""been""","Laie, HI, USA",coolcaesar
+"""been""","Atlanta, GA, USA",coolcaesar
+"""been""","Mililani, HI, USA",coolcaesar
+"""been""","Maunabo, Puerto Rico",coolcaesar
+"""been""","Central Valley, NY, USA",coolcaesar
+"""been""","Surfers Paradise, Australia",coolcaesar
+"""been""","San Lorenzo, CA, USA",coolcaesar
+"""been""","Carson, CA, USA",coolcaesar
+"""been""","San Leandro, CA, USA",coolcaesar
+"""been""","Carpinteria, CA, USA",coolcaesar
+"""been""","Klamath Falls, OR, USA",coolcaesar
+"""been""","San Luis Obispo, CA, USA",coolcaesar
+"""been""","Whittier, CA, USA",coolcaesar
+"""been""","St. Augustine, FL, USA",coolcaesar
+"""been""","San Lucas, CA, USA",coolcaesar
+"""been""","Nuevo Vallarta, Mexico",coolcaesar
+"""been""","San Marino, CA, USA",coolcaesar
+"""been""","Beijing, China",coolcaesar
+"""been""","Westminster, CA, USA",coolcaesar
+"""been""","Carlsbad, CA, USA",coolcaesar
+"""been""","Renaca, Chile",coolcaesar
+"""been""","San Jose, CA, USA",coolcaesar
+"""been""","Boulder City, NV, USA",coolcaesar
+"""been""","Carmel, CA, USA",coolcaesar
+"""been""","Carnelian Bay, CA, USA",coolcaesar
+"""been""","San Juan Capistrano, CA, USA",coolcaesar
+"""been""","San Juan Bautista, CA, USA",coolcaesar
+"""been""","Kissimmee, FL, USA",coolcaesar
+"""been""","Aiea, HI, USA",coolcaesar
+"""been""","Hong Kong, China",coolcaesar
+"""been""","Tulelake, CA, USA",coolcaesar
+"""been""","Haleiwa, HI, USA",coolcaesar
+"""been""","Hauula, HI, USA",coolcaesar
+"""been""","Kaaawa, HI, USA",coolcaesar
+"""been""","West Sacramento, CA, USA",coolcaesar
+"""been""","San Dimas, CA, USA",coolcaesar
+"""been""","San Clemente, CA, USA",coolcaesar
+"""been""","Capitola, CA, USA",coolcaesar
+"""been""","San Gabriel, CA, USA",coolcaesar
+"""been""","San Fernando, CA, USA",coolcaesar
+"""been""","Westlake Village, CA, USA",coolcaesar
+"""been""","Cardiff-by-the-Sea, CA, USA",coolcaesar
+"""been""","Park Ridge, IL, USA",coolcaesar
+"""been""","Punta Ballena, Uruguay",coolcaesar
+"""been""","Topanga, CA, USA",coolcaesar
+"""been""","West Covina, CA, USA",coolcaesar
+"""been""","San Carlos, CA, USA",coolcaesar
+"""been""","West Menlo Park, CA, USA",coolcaesar
+"""been""","San Bruno, CA, USA",coolcaesar
+"""been""","West Hollywood, CA, USA",coolcaesar
+"""been""","Amelia Island, FL, USA",coolcaesar
+"""been""","Geneva, Switzerland",coolcaesar
+"""been""","Vaduz, Liechtenstein",coolcaesar
+"""been""","Hurricane, UT, USA",coolcaesar
+"""been""","Bellingham, WA, USA",coolcaesar
+"""been""","Shanghai, China",coolcaesar
+"""been""","San Bernardino, CA, USA",coolcaesar
+"""been""","Somerset West, South Africa",coolcaesar
+"""been""","Bellevue, WA, USA",coolcaesar
+"""been""","Salinas, CA, USA",coolcaesar
+"""been""","Bern, Switzerland",coolcaesar
+"""been""","Campbell, CA, USA",coolcaesar
+"""been""","Weed, CA, USA",coolcaesar
+"""been""","Franschhoek, South Africa",coolcaesar
+"""been""","San Ardo, CA, USA",coolcaesar
+"""been""","Hout Bay, South Africa",coolcaesar
+"""been""","San Anselmo, CA, USA",coolcaesar
+"""been""","Fontana, CA, USA",coolcaesar
+"""been""","Waianae, HI, USA",coolcaesar
+"""been""","Waimanalo, HI, USA",coolcaesar
+"""been""","St. Helena, CA, USA",coolcaesar
+"""been""","Watsonville, CA, USA",coolcaesar
+"""been""","Waipahu, HI, USA",coolcaesar
+"""been""","Blaine, WA, USA",coolcaesar
+"""been""","Royal National Park, Australia",coolcaesar
+"""been""","Calistoga, CA, USA",coolcaesar
+"""been""","Walnut Creek, CA, USA",coolcaesar
+"""been""","Walnut, CA, USA",coolcaesar
+"""been""","Lucerne, Switzerland",coolcaesar
+"""been""","Cambria, CA, USA",coolcaesar
+"""been""","Camarillo, CA, USA",coolcaesar
+"""been""","Medford, OR, USA",coolcaesar
+"""been""","Paris, France",coolcaesar
+"""been""","Selma, CA, USA",coolcaesar
+"""been""","Versailles, France",coolcaesar
+"""been""","Shasta, CA, USA",coolcaesar
+"""been""","Panama City, Panama",coolcaesar
+"""been""","Britannia Beach, British Columbia, Canada",coolcaesar
+"""been""","Haena, HI, USA",coolcaesar
+"""been""","Hanapepe, HI, USA",coolcaesar
+"""been""","Hanalei, HI, USA",coolcaesar
+"""been""","Issaquah, WA, USA",coolcaesar
+"""been""","Kapaa, HI, USA",coolcaesar
+"""been""","Seaside, CA, USA",coolcaesar
+"""been""","Idaho Falls, ID, USA",coolcaesar
+"""been""","Seal Beach, CA, USA",coolcaesar
+"""been""","Garibaldi Highlands, British Columbia, Canada",coolcaesar
+"""been""","Sebastopol, CA, USA",coolcaesar
+"""been""","Sausalito, CA, USA",coolcaesar
+"""been""","Saugus, CA, USA",coolcaesar
+"""been""","Coral Gables, FL, USA",coolcaesar
+"""been""","Scotts Valley, CA, USA",coolcaesar
+"""been""","Kommetjie, South Africa",coolcaesar
+"""been""","Volcano, HI, USA",coolcaesar
+"""been""","Waikoloa, HI, USA",coolcaesar
+"""been""","Towson, MD, USA",coolcaesar
+"""been""","Lawrenceville, NJ, USA",coolcaesar
+"""been""","Kelso, WA, USA",coolcaesar
+"""been""","Lions Bay, British Columbia, Canada",coolcaesar
+"""been""","Tacoma, WA, USA",coolcaesar
+"""been""","Yorba Linda, CA, USA",coolcaesar
+"""been""","Saratoga, CA, USA",coolcaesar
+"""been""","Lauderdale Lakes, FL, USA",coolcaesar
+"""been""","Woodland, CA, USA",coolcaesar
+"""been""","Santa Maria, CA, USA",coolcaesar
+"""been""","Nanjing, China",coolcaesar
+"""been""","Tukwila, WA, USA",coolcaesar
+"""been""","Woodside, CA, USA",coolcaesar
+"""been""","Santa Paula, CA, USA",coolcaesar
+"""been""","Santa Monica, CA, USA",coolcaesar
+"""been""","Santa Rosa, CA, USA",coolcaesar
+"""been""","Serravalle Scrivia, Italy",coolcaesar
+"""been""","Kihei, HI, USA",coolcaesar
+"""been""","Kailua-Kona, HI, USA",coolcaesar
+"""been""","Hana, HI, USA",coolcaesar
+"""been""","Kahului, HI, USA",coolcaesar
+"""been""","Paia, HI, USA",coolcaesar
+"""been""","Seattle, WA, USA",coolcaesar
+"""been""","Lahaina, HI, USA",coolcaesar
+"""been""","Koke'e State Park, HI, USA",coolcaesar
+"""been""","Mona Vale, Australia",coolcaesar
+"""been""","Puunene, HI, USA",coolcaesar
+"""been""","Wailuku, HI, USA",coolcaesar
+"""been""","Santa Clara, CA, USA",coolcaesar
+"""been""","Santa Barbara, CA, USA",coolcaesar
+"""been""","Santa Cruz, CA, USA",coolcaesar
+"""been""","Santa Clarita, CA, USA",coolcaesar
+"""been""","Santa Fe Springs, CA, USA",coolcaesar
+"""been""","Verbania, Italy",coolcaesar
+"""been""","Windsor, CA, USA",coolcaesar
+"""been""","San Ysidro, CA, USA",coolcaesar
+"""been""","Sanger, CA, USA",coolcaesar
+"""been""","Sand City, CA, USA",coolcaesar
+"""been""","Cerritos, CA, USA",coolcaesar
+"""been""","Santa Ana, CA, USA",coolcaesar
+"""been""","Poipu, HI, USA",coolcaesar
+"""been""","Carolina, Puerto Rico",coolcaesar
+"""been""","Princeville, HI, USA",coolcaesar
+"""been""","Martinez, CA, USA",coolcaesar
+"""been""","Humacao, Puerto Rico",coolcaesar
+"""been""","Lihue, HI, USA",coolcaesar
+"""been""","Waimea, HI, USA",coolcaesar
+"""been""","South Lake Tahoe, CA, USA",coolcaesar
+"""been""","Lodi, NJ, USA",coolcaesar
+"""been""","Camden, NJ, USA",coolcaesar
+"""been""","Visp, Switzerland",coolcaesar
+"""been""","San Pablo, CA, USA",coolcaesar
+"""been""","San Rafael, CA, USA",coolcaesar
+"""been""","San Simeon, CA, USA",coolcaesar
+"""been""","San Ramon, CA, USA",coolcaesar

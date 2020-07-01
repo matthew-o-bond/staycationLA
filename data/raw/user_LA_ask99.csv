@@ -1,0 +1,496 @@
+tag,place,user
+"""want""","Bend, OR, USA",ask99
+"""want""","Wrightsville Beach, NC, USA",ask99
+"""been""","Edinburgh, UK",ask99
+"""want""","Kata Beach, Thailand",ask99
+"""been""","Turin, Italy",ask99
+"""been""","Birmingham, UK",ask99
+"""want""","San Pedro, Belize",ask99
+"""want""","Cabo San Lucas, Mexico",ask99
+"""want""","Bernkastel-Kues, Germany",ask99
+"""want""","Malia, Greece",ask99
+"""want""","Wilmington, NC, USA",ask99
+"""want""","Indianapolis, IN, USA",ask99
+"""want""","Dundee, UK",ask99
+"""want""","Milan, Italy",ask99
+"""want""","Nagoya, Japan",ask99
+"""want""","Essaouira, Morocco",ask99
+"""want""","Ukunda, Kenya",ask99
+"""want""","Whistler, British Columbia, Canada",ask99
+"""want""","Roissy-en-France, France",ask99
+"""want""","El Arenal, Spain",ask99
+"""been""","Roses, Spain",ask99
+"""want""","Bellagio, Italy",ask99
+"""want""","Oban, UK",ask99
+"""want""","Caleta de Fuste, Spain",ask99
+"""want""","Boothbay Harbor, ME, USA",ask99
+"""been""","Bangkok, Thailand",ask99
+"""want""","Puerto Vallarta, Mexico",ask99
+"""want""","La Romana, Dominican Republic",ask99
+"""want""","Rincon, Puerto Rico",ask99
+"""want""","Manzanillo, Mexico",ask99
+"""want""","Lake Louise, Alberta, Canada",ask99
+"""want""","Calgary, Alberta, Canada",ask99
+"""want""","Edmonton, Alberta, Canada",ask99
+"""want""","Santa Eulalia del Rio, Spain",ask99
+"""want""","Guadalajara, Mexico",ask99
+"""want""","Guanajuato, Mexico",ask99
+"""want""","Gallipoli, Italy",ask99
+"""want""","Cala'n Bosch, Spain",ask99
+"""want""","Izmir, Turkey",ask99
+"""want""","Cesme, Turkey",ask99
+"""want""","Laganas, Greece",ask99
+"""want""","North Conway, NH, USA",ask99
+"""want""","Killarney, Ireland",ask99
+"""want""","Jasper, Alberta, Canada",ask99
+"""want""","Monterosso al Mare, Italy",ask99
+"""want""","Kilkenny, Ireland",ask99
+"""want""","Sendai, Japan",ask99
+"""want""","Virginia Beach, VA, USA",ask99
+"""want""","Playa de Palma, Spain",ask99
+"""want""","Boca Raton, FL, USA",ask99
+"""want""","Porto-Vecchio, France",ask99
+"""want""","Platja d'Aro, Spain",ask99
+"""want""","Syracuse, Italy",ask99
+"""want""","Johor Bahru, Malaysia",ask99
+"""want""","Oklahoma City, OK, USA",ask99
+"""want""","Phnom Penh, Cambodia",ask99
+"""want""","Springdale, UT, USA",ask99
+"""want""","Lenox, MA, USA",ask99
+"""been""","Dhaka City, Bangladesh",ask99
+"""want""","Rovinj, Croatia",ask99
+"""want""","Cagliari, Italy",ask99
+"""want""","Alghero, Italy",ask99
+"""want""","Lamai Beach, Thailand",ask99
+"""been""","Shanghai, China",ask99
+"""want""","Niagara Falls, NY, USA",ask99
+"""want""","Catania, Italy",ask99
+"""want""","Dover, UK",ask99
+"""want""","Porec, Croatia",ask99
+"""want""","Bayahibe, Dominican Republic",ask99
+"""want""","Hyannis, MA, USA",ask99
+"""want""","Nungwi, Tanzania",ask99
+"""want""","Atlantic City, NJ, USA",ask99
+"""want""","East Kilbride, UK",ask99
+"""want""","Christchurch, UK",ask99
+"""want""","Colakli, Turkey",ask99
+"""want""","Venice, Italy",ask99
+"""want""","Fuengirola, Spain",ask99
+"""want""","Mont Tremblant, Quebec, Canada",ask99
+"""want""","Nerja, Spain",ask99
+"""want""","Inverness, UK",ask99
+"""want""","Charlotte, NC, USA",ask99
+"""want""","Nags Head, NC, USA",ask99
+"""want""","Madrid, Spain",ask99
+"""want""","Watamu, Kenya",ask99
+"""want""","Helsinki, Finland",ask99
+"""been""","Colombo, Sri Lanka",ask99
+"""want""","Puerto Penasco, Mexico",ask99
+"""want""","Jackson, WY, USA",ask99
+"""want""","Yokohama, Japan",ask99
+"""want""","Chattanooga, TN, USA",ask99
+"""want""","Columbus, OH, USA",ask99
+"""want""","Cannon Beach, OR, USA",ask99
+"""want""","Orange Beach, AL, USA",ask99
+"""want""","Sitges, Spain",ask99
+"""want""","Santiago de Compostela, Spain",ask99
+"""been""","Mudigere, India",ask99
+"""want""","Pajara, Spain",ask99
+"""been""","Kirinda, Sri Lanka",ask99
+"""want""","Oviedo, Spain",ask99
+"""want""","Hamburg, Germany",ask99
+"""want""","Oxford, UK",ask99
+"""want""","Chaweng, Thailand",ask99
+"""want""","Bilbao, Spain",ask99
+"""want""","Avignon, France",ask99
+"""want""","Rose Hall, Jamaica",ask99
+"""want""","St Ives, UK",ask99
+"""want""","Playa Mujeres, Mexico",ask99
+"""want""","Antibes, France",ask99
+"""want""","Frankfurt, Germany",ask99
+"""want""","San Sebastian - Donostia, Spain",ask99
+"""want""","Tel Aviv, Israel",ask99
+"""want""","Onna-son, Japan",ask99
+"""want""","Ixtapa, Mexico",ask99
+"""want""","Granada, Spain",ask99
+"""want""","Taunton, UK",ask99
+"""want""","Fort Worth, TX, USA",ask99
+"""want""","Belfast, UK",ask99
+"""want""","Casablanca, Morocco",ask99
+"""want""","Selcuk, Turkey",ask99
+"""want""","Pantai Cenang, Malaysia",ask99
+"""want""","Yomitan-son, Japan",ask99
+"""want""","Kennebunkport, ME, USA",ask99
+"""want""","Alexandria Bay, NY, USA",ask99
+"""want""","Llandudno, UK",ask99
+"""want""","Stockholm, Sweden",ask99
+"""want""","Fortaleza, Brazil",ask99
+"""want""","Cardiff, UK",ask99
+"""been""","Rome, Italy",ask99
+"""want""","Brussels, Belgium",ask99
+"""want""","Whitby, UK",ask99
+"""want""","Pesaro, Italy",ask99
+"""want""","Cadiz, Spain",ask99
+"""want""","Praia da Rocha, Portugal",ask99
+"""want""","Norwich, UK",ask99
+"""want""","Wichita, KS, USA",ask99
+"""want""","Malaga, Spain",ask99
+"""want""","Estepona, Spain",ask99
+"""want""","Begur, Spain",ask99
+"""been""","Kalpetta, India",ask99
+"""want""","Kingston, Ontario, Canada",ask99
+"""want""","Mackinaw City, MI, USA",ask99
+"""want""","Windermere, UK",ask99
+"""want""","Punta Prima, Spain",ask99
+"""want""","Corolla, NC, USA",ask99
+"""want""","The Hague, The Netherlands",ask99
+"""want""","Naples, Italy",ask99
+"""want""","Monterey, CA, USA",ask99
+"""want""","Capri, Italy",ask99
+"""been""","London, UK",ask99
+"""want""","Long Island City, NY, USA",ask99
+"""want""","Dallas, TX, USA",ask99
+"""want""","Almeria, Spain",ask99
+"""want""","Antwerp, Belgium",ask99
+"""want""","Ca'n Picafort, Spain",ask99
+"""want""","Ostuni, Italy",ask99
+"""want""","Cala Bona, Spain",ask99
+"""been""","Kandy, Sri Lanka",ask99
+"""want""","Marseille, France",ask99
+"""been""","Long Beach, CA, USA",ask99
+"""want""","Reims, France",ask99
+"""been""","Napa, CA, USA",ask99
+"""want""","Alexandria, VA, USA",ask99
+"""want""","Gulf Shores, AL, USA",ask99
+"""want""","Perissa, Greece",ask99
+"""want""","Salta, Argentina",ask99
+"""want""","Phoenix, AZ, USA",ask99
+"""want""","Avalon, CA, USA",ask99
+"""want""","Oia, Greece",ask99
+"""want""","Maastricht, The Netherlands",ask99
+"""want""","Kathmandu, Nepal",ask99
+"""want""","Brighton, UK",ask99
+"""want""","Toledo, Spain",ask99
+"""want""","Sacramento, CA, USA",ask99
+"""want""","Mystic, CT, USA",ask99
+"""want""","Huntington Beach, CA, USA",ask99
+"""want""","Hobart, Australia",ask99
+"""want""","Monte-Carlo, Monaco",ask99
+"""want""","Lindos, Greece",ask99
+"""want""","Las Palmas de Gran Canaria, Spain",ask99
+"""want""","Bournemouth, UK",ask99
+"""want""","Hannover, Germany",ask99
+"""been""","Mahabaleshwar, India",ask99
+"""want""","Agios Nikolaos, Greece",ask99
+"""want""","St. Petersburg, FL, USA",ask99
+"""want""","Gothenburg, Sweden",ask99
+"""want""","Bratislava, Slovakia",ask99
+"""want""","Rapid City, SD, USA",ask99
+"""want""","Alicante, Spain",ask99
+"""been""","Sabang, Philippines",ask99
+"""want""","Elounda, Greece",ask99
+"""want""","Hua Hin, Thailand",ask99
+"""want""","Soller, Spain",ask99
+"""want""","Las Terrenas, Dominican Republic",ask99
+"""want""","Roquetas de Mar, Spain",ask99
+"""want""","Ashford, UK",ask99
+"""want""","Chatham, MA, USA",ask99
+"""want""","Trapani, Italy",ask99
+"""want""","Jerez De La Frontera, Spain",ask99
+"""want""","Bruges, Belgium",ask99
+"""want""","Chicago, IL, USA",ask99
+"""want""","Ialyssos, Greece",ask99
+"""been""","Los Angeles, CA, USA",ask99
+"""want""","Khao Lak, Thailand",ask99
+"""want""","Plymouth, UK",ask99
+"""want""","Santa Maria, Cape Verde",ask99
+"""want""","Accra, Ghana",ask99
+"""want""","Beaune, France",ask99
+"""want""","Port Douglas, Australia",ask99
+"""want""","Kaohsiung, Taiwan",ask99
+"""want""","Wildwood Crest, NJ, USA",ask99
+"""been""","Las Vegas, NV, USA",ask99
+"""want""","Bergen, Norway",ask99
+"""want""","Maidstone, UK",ask99
+"""want""","Carvoeiro, Portugal",ask99
+"""want""","Kallithea, Greece",ask99
+"""want""","Faro, Portugal",ask99
+"""want""","Utica, IL, USA",ask99
+"""want""","Lille, France",ask99
+"""want""","Steamboat Springs, CO, USA",ask99
+"""want""","Mahdia, Tunisia",ask99
+"""want""","Midoun, Tunisia",ask99
+"""want""","Mykonos Town, Greece",ask99
+"""been""","Bogor, Indonesia",ask99
+"""want""","Bandung, Indonesia",ask99
+"""want""","Sevierville, TN, USA",ask99
+"""want""","Sedona, AZ, USA",ask99
+"""want""","Cusco, Peru",ask99
+"""want""","Seaside, OR, USA",ask99
+"""want""","Forio, Italy",ask99
+"""want""","Sydney, Australia",ask99
+"""want""","Ischia, Italy",ask99
+"""want""","Crawley, UK",ask99
+"""want""","Lourdes, France",ask99
+"""want""","Montepulciano, Italy",ask99
+"""want""","Stuttgart, Germany",ask99
+"""want""","Heidelberg, Germany",ask99
+"""want""","Vilnius, Lithuania",ask99
+"""want""","Vienna, Austria",ask99
+"""want""","Sarasota, FL, USA",ask99
+"""want""","Swindon, UK",ask99
+"""been""","Mumbai, India",ask99
+"""want""","Corpus Christi, TX, USA",ask99
+"""been""","Mysuru (Mysore), India",ask99
+"""want""","Jacksonville, FL, USA",ask99
+"""been""","Shimla, India",ask99
+"""been""","New Delhi, India",ask99
+"""want""","Santiago, Chile",ask99
+"""want""","Rawai, Thailand",ask99
+"""been""","Panglao Island, Philippines",ask99
+"""want""","West Palm Beach, FL, USA",ask99
+"""want""","Birmingham, AL, USA",ask99
+"""want""","Denarau Island, Fiji",ask99
+"""want""","Nuevo Vallarta, Mexico",ask99
+"""want""","Scottsdale, AZ, USA",ask99
+"""been""","Krabi Town, Thailand",ask99
+"""been"",""want""","Kolkata (Calcutta), India",ask99
+"""want""","Kansas City, MO, USA",ask99
+"""want""","Tavira, Portugal",ask99
+"""been"",""want""","Darjeeling, India",ask99
+"""want""","Salt Lake City, UT, USA",ask99
+"""been""","Chennai (Madras), India",ask99
+"""want""","Ortisei, Italy",ask99
+"""been""","Jaipur, India",ask99
+"""want""","Valletta, Malta",ask99
+"""want""","Cattolica, Italy",ask99
+"""want""","Minneapolis, MN, USA",ask99
+"""want""","Montpellier, France",ask99
+"""want""","Riga, Latvia",ask99
+"""want""","Salzburg, Austria",ask99
+"""want""","Perpignan, France",ask99
+"""want""","Nainital, India",ask99
+"""been""","Hong Kong, China",ask99
+"""want""","Manavgat, Turkey",ask99
+"""want""","Vail, CO, USA",ask99
+"""been""","Bloomington, IN, USA",ask99
+"""want""","Kemer, Turkey",ask99
+"""want""","Beijing, China",ask99
+"""want""","Sigatoka, Fiji",ask99
+"""want""","Hjorring, Denmark",ask99
+"""been""","Dubai, United Arab Emirates",ask99
+"""want""","Shibuya, Japan",ask99
+"""want""","Sa Coma, Spain",ask99
+"""want""","Pondicherry, India",ask99
+"""want""","Cesenatico, Italy",ask99
+"""want""","Mae Nam, Thailand",ask99
+"""want""","Chianciano Terme, Italy",ask99
+"""want""","Vilamoura, Portugal",ask99
+"""want""","Paris, France",ask99
+"""want""","Southampton, UK",ask99
+"""want""","Portsmouth, UK",ask99
+"""want""","Zurich, Switzerland",ask99
+"""want""","Siesta Key, FL, USA",ask99
+"""want""","Orlando, FL, USA",ask99
+"""want""","Luxor, Egypt",ask99
+"""want""","Montevideo, Uruguay",ask99
+"""want""","Cairo, Egypt",ask99
+"""want""","Monastir, Tunisia",ask99
+"""want""","Amsterdam, The Netherlands",ask99
+"""want""","Portoferraio, Italy",ask99
+"""want""","Chamonix, France",ask99
+"""want""","Puerto de Santiago, Spain",ask99
+"""want""","Praiano, Italy",ask99
+"""want""","Lisbon, Portugal",ask99
+"""want""","San Vincenzo, Italy",ask99
+"""want""","Bled, Slovenia",ask99
+"""been""","Jersey City, NJ, USA",ask99
+"""want""","Salvador, Brazil",ask99
+"""want""","Cascais, Portugal",ask99
+"""want""","Santa Fe, NM, USA",ask99
+"""been""","Bengaluru, India",ask99
+"""want""","Tossa de Mar, Spain",ask99
+"""want""","Leh, India",ask99
+"""want""","Karuizawa-machi, Japan",ask99
+"""want""","Panama City Beach, FL, USA",ask99
+"""want""","Austin, TX, USA",ask99
+"""want""","Pensacola, FL, USA",ask99
+"""want""","Didim, Turkey",ask99
+"""want""","Isle of Palms, SC, USA",ask99
+"""been""","Covelong, India",ask99
+"""want""","Merida, Mexico",ask99
+"""want""","Playa del Carmen, Mexico",ask99
+"""been""","San Francisco, CA, USA",ask99
+"""want""","Duluth, MN, USA",ask99
+"""want""","Salem, MA, USA",ask99
+"""want""","Lucerne, Switzerland",ask99
+"""want""","Geneva, Switzerland",ask99
+"""want""","Breckenridge, CO, USA",ask99
+"""been""","Manali, India",ask99
+"""been"",""want""","Jakarta, Indonesia",ask99
+"""want""","Boulder, CO, USA",ask99
+"""want""","Knoxville, TN, USA",ask99
+"""want""","Healdsburg, CA, USA",ask99
+"""want""","Tusayan, AZ, USA",ask99
+"""want""","Charleston, SC, USA",ask99
+"""want""","Burlington, VT, USA",ask99
+"""want""","Santa Ponsa, Spain",ask99
+"""want""","Biarritz, France",ask99
+"""want""","Los Cristianos, Spain",ask99
+"""been""","Newark, NJ, USA",ask99
+"""want""","Paradise Island, Bahamas",ask99
+"""been""","Budapest, Hungary",ask99
+"""want""","Malcesine, Italy",ask99
+"""want""","Bordeaux, France",ask99
+"""want""","Cambria, CA, USA",ask99
+"""want""","Cruz Bay, U.S. Virgin Islands",ask99
+"""been"",""want""","Puerto Princesa, Philippines",ask99
+"""been""","El Nido, Philippines",ask99
+"""been""","Bohol Island, Philippines",ask99
+"""want""","Colorado Springs, CO, USA",ask99
+"""want""","Treasure Island, FL, USA",ask99
+"""want""","Savannah, GA, USA",ask99
+"""want""","Kardamena, Greece",ask99
+"""want""","Albuquerque, NM, USA",ask99
+"""want""","Baltimore, MD, USA",ask99
+"""want""","Ottawa, Ontario, Canada",ask99
+"""want""","Costa Calma, Spain",ask99
+"""want""","Tropea, Italy",ask99
+"""want""","Christchurch, New Zealand",ask99
+"""been""","Brooklyn, NY, USA",ask99
+"""want""","Manchester, UK",ask99
+"""want""","Miami, FL, USA",ask99
+"""want""","Wellington, New Zealand",ask99
+"""want""","Miami Beach, FL, USA",ask99
+"""want""","Charlotte Amalie, U.S. Virgin Islands",ask99
+"""want""","Krakow, Poland",ask99
+"""been""","Kochi (Cochin), India",ask99
+"""want""","Tallahassee, FL, USA",ask99
+"""want""","Beirut, Lebanon",ask99
+"""want""","Calistoga, CA, USA",ask99
+"""want""","Mexico City, Mexico",ask99
+"""want""","Providence, RI, USA",ask99
+"""want""","Fajardo, Puerto Rico",ask99
+"""want""","Antigua, Guatemala",ask99
+"""want""","Ocean City, NJ, USA",ask99
+"""want""","Ocho Rios, Jamaica",ask99
+"""want""","Perth, Australia",ask99
+"""want""","Fort Lauderdale, FL, USA",ask99
+"""been""","Corella, Philippines",ask99
+"""want""","Auckland Central, New Zealand",ask99
+"""want""","Naples, FL, USA",ask99
+"""want""","Williamsburg, VA, USA",ask99
+"""want""","Odessa, Ukraine",ask99
+"""want""","Dahab, Egypt",ask99
+"""want""","Melbourne, Australia",ask99
+"""want""","El Gouna, Egypt",ask99
+"""want""","San Jose, Costa Rica",ask99
+"""want""","Kailua-Kona, HI, USA",ask99
+"""want""","Cincinnati, OH, USA",ask99
+"""want""","San Diego, CA, USA",ask99
+"""want""","San Jose, CA, USA",ask99
+"""want""","Fort Myers, FL, USA",ask99
+"""want""","Fort Myers Beach, FL, USA",ask99
+"""want""","Carlsbad, CA, USA",ask99
+"""been""","Seattle, WA, USA",ask99
+"""want""","Portsmouth, NH, USA",ask99
+"""want""","Sao Paulo, Brazil",ask99
+"""want""","Livigno, Italy",ask99
+"""want""","Airlie Beach, Australia",ask99
+"""been""","Sentosa Island, Singapore",ask99
+"""want""","Bryson City, NC, USA",ask99
+"""want""","Umag, Croatia",ask99
+"""want""","Pune, India",ask99
+"""want""","Hounslow, UK",ask99
+"""been""","Singapore, Singapore",ask99
+"""want""","Twickenham, UK",ask99
+"""want""","Protaras, Cyprus",ask99
+"""want""","Freeport, Bahamas",ask99
+"""want""","St. Petersburg, Russia",ask99
+"""been""","Dana Point, CA, USA",ask99
+"""been""","Macau, China",ask99
+"""want""","Es Canar, Spain",ask99
+"""want""","Anchorage, AK, USA",ask99
+"""want""","West Hollywood, CA, USA",ask99
+"""want""","El Paso, TX, USA",ask99
+"""want""","Little Rock, AR, USA",ask99
+"""want""","Wisconsin Dells, WI, USA",ask99
+"""been""","New York City, NY, USA",ask99
+"""want""","Hampton, NH, USA",ask99
+"""been""","Agra, India",ask99
+"""want""","Bitez, Turkey",ask99
+"""want""","Temecula, CA, USA",ask99
+"""want""","Flagstaff, AZ, USA",ask99
+"""want""","Santa Barbara, CA, USA",ask99
+"""been""","Kannur, India",ask99
+"""want""","Beverly Hills, CA, USA",ask99
+"""want""","Newport, RI, USA",ask99
+"""want""","Buffalo, NY, USA",ask99
+"""been""","Cape May, NJ, USA",ask99
+"""want""","Branson, MO, USA",ask99
+"""want""","Split, Croatia",ask99
+"""want""","Ibiza Town, Spain",ask99
+"""want""","Kiotari, Greece",ask99
+"""want""","Houston, TX, USA",ask99
+"""been""","Ooty (Udhagamandalam), India",ask99
+"""want""","Fort Walton Beach, FL, USA",ask99
+"""want""","Denver, CO, USA",ask99
+"""want""","Taba, Egypt",ask99
+"""want""","Honolulu, HI, USA",ask99
+"""want""","Princeville, HI, USA",ask99
+"""want""","Poipu, HI, USA",ask99
+"""want""","Boston, MA, USA",ask99
+"""want""","New Orleans, LA, USA",ask99
+"""want""","Asheville, NC, USA",ask99
+"""want""","Taos, NM, USA",ask99
+"""been""","Hyderabad, India",ask99
+"""want""","Farallon, Panama",ask99
+"""want""","Tigaki, Greece",ask99
+"""want""","Cork, Ireland",ask99
+"""want""","Dublin, Ireland",ask99
+"""want""","Xi'an, China",ask99
+"""want""","Philadelphia, PA, USA",ask99
+"""want""","Mammoth Lakes, CA, USA",ask99
+"""want""","Portland, ME, USA",ask99
+"""want""","Karon, Thailand",ask99
+"""want""","Tijuana, Mexico",ask99
+"""want""","Gettysburg, PA, USA",ask99
+"""want""","George Town, Malaysia",ask99
+"""want""","Ortakent, Turkey",ask99
+"""been""","Loboc, Philippines",ask99
+"""want""","Pensacola Beach, FL, USA",ask99
+"""want""","Gros Islet, St. Lucia",ask99
+"""want""","Santa Cruz, CA, USA",ask99
+"""want""","Kota Kinabalu, Malaysia",ask99
+"""want""","Saidia, Morocco",ask99
+"""been""","Santa Rosa, CA, USA",ask99
+"""been"",""want""","Santa Monica, CA, USA",ask99
+"""want""","Huatulco, Mexico",ask99
+"""want""","Riva Del Garda, Italy",ask99
+"""want""","Acapulco, Mexico",ask99
+"""want""","Follonica, Italy",ask99
+"""want""","Manila, Philippines",ask99
+"""want""","Playa de Muro, Spain",ask99
+"""been""","Tangerang, Indonesia",ask99
+"""want""","Rehoboth Beach, DE, USA",ask99
+"""been""","Richmond, VA, USA",ask99
+"""want""","Hollywood, FL, USA",ask99
+"""want""","Holmes Beach, FL, USA",ask99
+"""want""","Daytona Beach, FL, USA",ask99
+"""want""","Garda, Italy",ask99
+"""want""","Washington DC, DC, USA",ask99
+"""been"",""want""","Kuala Lumpur, Malaysia",ask99
+"""want""","Atlanta, GA, USA",ask99
+"""want""","Abano Terme, Italy",ask99
+"""want""","Cartagena, Colombia",ask99
+"""want""","Saratoga Springs, NY, USA",ask99
+"""want""","Psalidi, Greece",ask99
+"""want""","Sapporo, Japan",ask99
+"""want""","Hiroshima, Japan",ask99
+"""want""","Playa Paraiso, Mexico",ask99
+"""want""","Seven Mile Beach, Cayman Islands",ask99
+"""want""","Fukuoka, Japan",ask99
+"""want""","Oranjestad, Aruba",ask99
+"""want""","Louisville, KY, USA",ask99
+"""want""","St. John's, Antigua and Barbuda",ask99
+"""been""","Amritsar, India",ask99

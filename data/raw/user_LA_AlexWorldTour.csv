@@ -1,0 +1,442 @@
+tag,place,user
+"""been""","Seattle, WA, USA",AlexWorldTour
+"""been""","Cedarburg, WI, USA",AlexWorldTour
+"""been""","Lahaina, HI, USA",AlexWorldTour
+"""been""","Kruger National Park, South Africa",AlexWorldTour
+"""been""","Fort Lauderdale, FL, USA",AlexWorldTour
+"""been""","Williamsburg, VA, USA",AlexWorldTour
+"""been""","Cincinnati, OH, USA",AlexWorldTour
+"""been""","West Hollywood, CA, USA",AlexWorldTour
+"""been""","Fond du Lac, WI, USA",AlexWorldTour
+"""been""","Chandler, AZ, USA",AlexWorldTour
+"""been""","Guadalajara, Mexico",AlexWorldTour
+"""been""","Ko Pha Ngan, Thailand",AlexWorldTour
+"""been""","Puerto Del Carmen, Spain",AlexWorldTour
+"""been""","Ko Phi Phi Don, Thailand",AlexWorldTour
+"""been""","San Diego, CA, USA",AlexWorldTour
+"""been""","South Lake Tahoe, CA, USA",AlexWorldTour
+"""want""","Milan, Italy",AlexWorldTour
+"""been""","Bakersfield, CA, USA",AlexWorldTour
+"""been""","Little Rock, AR, USA",AlexWorldTour
+"""been""","Wisconsin Dells, WI, USA",AlexWorldTour
+"""been""","Springfield, IL, USA",AlexWorldTour
+"""been""","Omaha, NE, USA",AlexWorldTour
+"""want""","Manila, Philippines",AlexWorldTour
+"""been""","New York City, NY, USA",AlexWorldTour
+"""been""","Male, Asia",AlexWorldTour
+"""been""","Kuala Lumpur, Malaysia",AlexWorldTour
+"""been""","El Tunco, El Salvador",AlexWorldTour
+"""been""","Orient Bay, St Martin \u002F St Maarten",AlexWorldTour
+"""been""","Boulder City, NV, USA",AlexWorldTour
+"""been""","Newark, NJ, USA",AlexWorldTour
+"""been""","Carlsbad, NM, USA",AlexWorldTour
+"""been""","Des Moines, IA, USA",AlexWorldTour
+"""been""","Atlanta, GA, USA",AlexWorldTour
+"""been""","Osaka, Japan",AlexWorldTour
+"""been""","Grindavik, Iceland",AlexWorldTour
+"""been""","Kyoto, Japan",AlexWorldTour
+"""been""","Walnut Creek, CA, USA",AlexWorldTour
+"""been""","Kuala Terengganu, Malaysia",AlexWorldTour
+"""been""","Kobe, Japan",AlexWorldTour
+"""been""","Hiroshima, Japan",AlexWorldTour
+"""want""","Sapporo, Japan",AlexWorldTour
+"""been""","Tallberg, Sweden",AlexWorldTour
+"""been""","Haputale, Sri Lanka",AlexWorldTour
+"""been""","Vancouver, British Columbia, Canada",AlexWorldTour
+"""been""","Nungwi, Tanzania",AlexWorldTour
+"""been""","Matemwe, Tanzania",AlexWorldTour
+"""been""","St. John's, Antigua and Barbuda",AlexWorldTour
+"""been""","Meloneras, Spain",AlexWorldTour
+"""been""","Seven Mile Beach, Cayman Islands",AlexWorldTour
+"""been""","Skogar, Iceland",AlexWorldTour
+"""been""","Cherating, Malaysia",AlexWorldTour
+"""been""","Xi'an, China",AlexWorldTour
+"""been""","Miami, FL, USA",AlexWorldTour
+"""been""","Nuwara Eliya, Sri Lanka",AlexWorldTour
+"""been""","Sepang, Malaysia",AlexWorldTour
+"""been""","Guilin, China",AlexWorldTour
+"""been""","Sonoma, CA, USA",AlexWorldTour
+"""been""","Guangzhou, China",AlexWorldTour
+"""been""","Tampa, FL, USA",AlexWorldTour
+"""been""","Austin, TX, USA",AlexWorldTour
+"""want""","Bogota, Colombia",AlexWorldTour
+"""been""","Chengdu, China",AlexWorldTour
+"""been""","Seoul, South Korea",AlexWorldTour
+"""been""","Coronado, CA, USA",AlexWorldTour
+"""been""","Mesa, AZ, USA",AlexWorldTour
+"""been""","Yangon (Rangoon), Myanmar",AlexWorldTour
+"""been""","Koh Tao, Thailand",AlexWorldTour
+"""been""","Memphis, TN, USA",AlexWorldTour
+"""been""","Oyster Pond, St Martin \u002F St Maarten",AlexWorldTour
+"""been""","Midigama, Sri Lanka",AlexWorldTour
+"""been""","Simpson Bay, St Martin \u002F St Maarten",AlexWorldTour
+"""been""","Grand Case, St Martin \u002F St Maarten",AlexWorldTour
+"""want""","Buenos Aires, Argentina",AlexWorldTour
+"""been""","Anaheim, CA, USA",AlexWorldTour
+"""been""","Miami Beach, FL, USA",AlexWorldTour
+"""been""","Corona, CA, USA",AlexWorldTour
+"""been""","Panama City Beach, FL, USA",AlexWorldTour
+"""been""","Railay Beach, Thailand",AlexWorldTour
+"""been""","Gettysburg, PA, USA",AlexWorldTour
+"""want""","Philadelphia, PA, USA",AlexWorldTour
+"""been""","Burbank, CA, USA",AlexWorldTour
+"""been""","Tusayan, AZ, USA",AlexWorldTour
+"""been""","Port Louis, Africa",AlexWorldTour
+"""been""","Boulder, CO, USA",AlexWorldTour
+"""been""","Breckenridge, CO, USA",AlexWorldTour
+"""been""","Pantai Cenang, Malaysia",AlexWorldTour
+"""been""","Thiensville, WI, USA",AlexWorldTour
+"""been""","Palm Beach, FL, USA",AlexWorldTour
+"""been""","Nha Trang, Vietnam",AlexWorldTour
+"""been""","Punta Cana, Dominican Republic",AlexWorldTour
+"""been""","Jamaica, NY, USA",AlexWorldTour
+"""want""","Hanoi, Vietnam",AlexWorldTour
+"""been""","Ao Nang, Thailand",AlexWorldTour
+"""been""","Ho Chi Minh City, Vietnam",AlexWorldTour
+"""been""","Hue, Vietnam",AlexWorldTour
+"""been""","Port Washington, WI, USA",AlexWorldTour
+"""been""","Da Lat, Vietnam",AlexWorldTour
+"""been""","Laguna Beach, CA, USA",AlexWorldTour
+"""been""","Tempe, AZ, USA",AlexWorldTour
+"""been""","Racine, WI, USA",AlexWorldTour
+"""been""","Vail, CO, USA",AlexWorldTour
+"""been""","Eugene, OR, USA",AlexWorldTour
+"""been""","Amarillo, TX, USA",AlexWorldTour
+"""want""","Moscow, Russia",AlexWorldTour
+"""been""","Cabo San Lucas, Mexico",AlexWorldTour
+"""been""","Siem Reap, Cambodia",AlexWorldTour
+"""want""","Chiang Mai, Thailand",AlexWorldTour
+"""want""","Pattaya, Thailand",AlexWorldTour
+"""want""","Taipei, Taiwan",AlexWorldTour
+"""been""","Bangkok, Thailand",AlexWorldTour
+"""been""","Santo Domingo, Dominican Republic",AlexWorldTour
+"""been""","Rhinelander, WI, USA",AlexWorldTour
+"""been""","Orlando, FL, USA",AlexWorldTour
+"""been""","La Jolla, CA, USA",AlexWorldTour
+"""been""","Telluride, CO, USA",AlexWorldTour
+"""been""","Detroit, MI, USA",AlexWorldTour
+"""been""","Nyaungshwe, Myanmar",AlexWorldTour
+"""been""","Havana, Cuba",AlexWorldTour
+"""been""","Belize City, Belize",AlexWorldTour
+"""been""","Grand Rapids, MI, USA",AlexWorldTour
+"""been""","San Pedro, Belize",AlexWorldTour
+"""been""","Caye Caulker, Belize",AlexWorldTour
+"""been""","Dublin, Ireland",AlexWorldTour
+"""been""","Singapore, Singapore",AlexWorldTour
+"""been""","Salem, OR, USA",AlexWorldTour
+"""want""","Rio de Janeiro, Brazil",AlexWorldTour
+"""been""","Freeport, Bahamas",AlexWorldTour
+"""been""","Blaskogabyggd, Iceland",AlexWorldTour
+"""been""","Chaweng, Thailand",AlexWorldTour
+"""been""","Johannesburg, South Africa",AlexWorldTour
+"""been""","San Jose, Costa Rica",AlexWorldTour
+"""been""","Krakow, Poland",AlexWorldTour
+"""been""","Green Bay, WI, USA",AlexWorldTour
+"""been""","Shenzhen, China",AlexWorldTour
+"""been""","Salt Lake City, UT, USA",AlexWorldTour
+"""been""","Indianapolis, IN, USA",AlexWorldTour
+"""been""","Washington DC, DC, USA",AlexWorldTour
+"""been""","Abu Dhabi, United Arab Emirates",AlexWorldTour
+"""been""","Aurangabad, India",AlexWorldTour
+"""been""","Incheon, South Korea",AlexWorldTour
+"""been""","Nassau, Bahamas",AlexWorldTour
+"""been""","Albuquerque, NM, USA",AlexWorldTour
+"""been""","Oswiecim, Poland",AlexWorldTour
+"""been""","Amritsar, India",AlexWorldTour
+"""been""","SeaTac, WA, USA",AlexWorldTour
+"""been""","Playa del Carmen, Mexico",AlexWorldTour
+"""been""","Northbrook, IL, USA",AlexWorldTour
+"""been""","Tulum, Mexico",AlexWorldTour
+"""been""","Ornos, Greece",AlexWorldTour
+"""been""","Doha, Qatar",AlexWorldTour
+"""been""","Nashville, TN, USA",AlexWorldTour
+"""been""","Varkala Town, India",AlexWorldTour
+"""been""","Thiruvananthapuram (Trivandrum), India",AlexWorldTour
+"""want""","Budapest, Hungary",AlexWorldTour
+"""been""","Estes Park, CO, USA",AlexWorldTour
+"""been""","San Salvador, El Salvador",AlexWorldTour
+"""been""","Cancun, Mexico",AlexWorldTour
+"""been""","Chichen Itza, Mexico",AlexWorldTour
+"""want""","Sao Paulo, Brazil",AlexWorldTour
+"""been""","Cuzama, Mexico",AlexWorldTour
+"""want""","Mexico City, Mexico",AlexWorldTour
+"""been""","Koto, Japan",AlexWorldTour
+"""been""","Brooklyn, NY, USA",AlexWorldTour
+"""been""","Sausalito, CA, USA",AlexWorldTour
+"""been""","Providence, RI, USA",AlexWorldTour
+"""been""","Khuk Khak, Thailand",AlexWorldTour
+"""been""","Thingvellir, Iceland",AlexWorldTour
+"""been""","Louisville, KY, USA",AlexWorldTour
+"""been""","Managua, Nicaragua",AlexWorldTour
+"""been""","Eagle River, WI, USA",AlexWorldTour
+"""been""","San Francisco, CA, USA",AlexWorldTour
+"""been""","Page, AZ, USA",AlexWorldTour
+"""been""","George Town, Malaysia",AlexWorldTour
+"""been""","Portland, ME, USA",AlexWorldTour
+"""been"",""want""","Kuta, Indonesia",AlexWorldTour
+"""been""","Geneva, Switzerland",AlexWorldTour
+"""been""","Tucson, AZ, USA",AlexWorldTour
+"""been""","Santa Monica, CA, USA",AlexWorldTour
+"""been""","Bern, Switzerland",AlexWorldTour
+"""been""","Clearwater, FL, USA",AlexWorldTour
+"""been""","Toronto, Ontario, Canada",AlexWorldTour
+"""been""","Philipsburg, St Martin \u002F St Maarten",AlexWorldTour
+"""been""","Cape Town Central, South Africa",AlexWorldTour
+"""been""","Varanasi, India",AlexWorldTour
+"""been""","Agra, India",AlexWorldTour
+"""been""","Santa Barbara, CA, USA",AlexWorldTour
+"""been""","Temecula, CA, USA",AlexWorldTour
+"""been""","Mogan, Spain",AlexWorldTour
+"""been""","Kotor, Montenegro",AlexWorldTour
+"""been""","Beverly Hills, CA, USA",AlexWorldTour
+"""been""","Shanghai, China",AlexWorldTour
+"""been""","Udaipur, India",AlexWorldTour
+"""been""","Berkeley, CA, USA",AlexWorldTour
+"""been""","Buffalo, NY, USA",AlexWorldTour
+"""been""","Flagstaff, AZ, USA",AlexWorldTour
+"""want""","Montreal, Quebec, Canada",AlexWorldTour
+"""been""","Los Cristianos, Spain",AlexWorldTour
+"""been""","Madison, WI, USA",AlexWorldTour
+"""been""","San Juan, Puerto Rico",AlexWorldTour
+"""been""","Stellenbosch, South Africa",AlexWorldTour
+"""been""","Trois-Ilets, Martinique",AlexWorldTour
+"""been""","Taba, Egypt",AlexWorldTour
+"""been""","Houston, TX, USA",AlexWorldTour
+"""been""","Antigua, Guatemala",AlexWorldTour
+"""been""","Boston, MA, USA",AlexWorldTour
+"""been""","New Orleans, LA, USA",AlexWorldTour
+"""been""","Honolulu, HI, USA",AlexWorldTour
+"""been""","San Luis Obispo, CA, USA",AlexWorldTour
+"""been""","Denver, CO, USA",AlexWorldTour
+"""want""","Lisbon, Portugal",AlexWorldTour
+"""been""","Fort Myers Beach, FL, USA",AlexWorldTour
+"""been""","Desert Hot Springs, CA, USA",AlexWorldTour
+"""been""","Fort Myers, FL, USA",AlexWorldTour
+"""been""","Carlsbad, CA, USA",AlexWorldTour
+"""been""","Takua Pa, Thailand",AlexWorldTour
+"""been""","Mirissa, Sri Lanka",AlexWorldTour
+"""been""","Montego Bay, Jamaica",AlexWorldTour
+"""been""","Hurghada, Egypt",AlexWorldTour
+"""been""","Jaisalmer, India",AlexWorldTour
+"""been""","Dahab, Egypt",AlexWorldTour
+"""been""","Jodhpur, India",AlexWorldTour
+"""been""","New Delhi, India",AlexWorldTour
+"""been""","Patong, Thailand",AlexWorldTour
+"""want""","Vienna, Austria",AlexWorldTour
+"""been""","Ann Arbor, MI, USA",AlexWorldTour
+"""been""","Jaipur, India",AlexWorldTour
+"""been"",""want""","Mumbai, India",AlexWorldTour
+"""been""","Chennai (Madras), India",AlexWorldTour
+"""been""","Gurnee, IL, USA",AlexWorldTour
+"""been""","Nusnas, Sweden",AlexWorldTour
+"""been""","Mek'ele, Ethiopia",AlexWorldTour
+"""been""","Palo Alto, CA, USA",AlexWorldTour
+"""been""","Guatemala City, Guatemala",AlexWorldTour
+"""want""","Santiago, Chile",AlexWorldTour
+"""been""","Palm Springs, CA, USA",AlexWorldTour
+"""been""","Palm Desert, CA, USA",AlexWorldTour
+"""been"",""want""","Salzburg, Austria",AlexWorldTour
+"""been"",""want""","Prague, Czech Republic",AlexWorldTour
+"""been""","Lonar, India",AlexWorldTour
+"""been""","Krabi Town, Thailand",AlexWorldTour
+"""been""","Mykonos Town, Greece",AlexWorldTour
+"""been""","Mequon, WI, USA",AlexWorldTour
+"""been""","Hat Yai, Thailand",AlexWorldTour
+"""been""","Addis Ababa, Ethiopia",AlexWorldTour
+"""been""","Oslo, Norway",AlexWorldTour
+"""been""","Melaka, Malaysia",AlexWorldTour
+"""been""","Springfield, MO, USA",AlexWorldTour
+"""been""","Middleton, WI, USA",AlexWorldTour
+"""been""","Port Douglas, Australia",AlexWorldTour
+"""been""","Surat Thani, Thailand",AlexWorldTour
+"""been""","Khao Lak, Thailand",AlexWorldTour
+"""been""","Bophut, Thailand",AlexWorldTour
+"""been""","Milwaukee, WI, USA",AlexWorldTour
+"""been""","Mogliano Veneto, Italy",AlexWorldTour
+"""been""","Oakland, CA, USA",AlexWorldTour
+"""been""","Bratislava, Slovakia",AlexWorldTour
+"""been""","Manaus, Brazil",AlexWorldTour
+"""been""","Sydney, Australia",AlexWorldTour
+"""been""","Oceanside, CA, USA",AlexWorldTour
+"""been""","Udupi, India",AlexWorldTour
+"""been""","Cairns, Australia",AlexWorldTour
+"""been""","Borlange, Sweden",AlexWorldTour
+"""been""","Copenhagen, Denmark",AlexWorldTour
+"""been""","Talat Yai, Thailand",AlexWorldTour
+"""been""","Gokarna, India",AlexWorldTour
+"""been""","Santa Cruz de Tenerife, Spain",AlexWorldTour
+"""been""","Banlung, Cambodia",AlexWorldTour
+"""been""","Puerto de la Cruz, Spain",AlexWorldTour
+"""been""","Playa del Ingles, Spain",AlexWorldTour
+"""been""","Jakarta, Indonesia",AlexWorldTour
+"""been""","Gurugram (Gurgaon), India",AlexWorldTour
+"""been""","Grand Canyon National Park, AZ, USA",AlexWorldTour
+"""been""","Niagara Falls, NY, USA",AlexWorldTour
+"""been""","Mombasa, Kenya",AlexWorldTour
+"""been""","Beijing, China",AlexWorldTour
+"""been""","Las Palmas de Gran Canaria, Spain",AlexWorldTour
+"""been""","Portland, OR, USA",AlexWorldTour
+"""been""","Nice, France",AlexWorldTour
+"""been""","Monte-Carlo, Monaco",AlexWorldTour
+"""been""","Gran Canaria, Spain",AlexWorldTour
+"""been""","Playa Mujeres, Mexico",AlexWorldTour
+"""been""","Orsa, Sweden",AlexWorldTour
+"""been""","Chalong, Thailand",AlexWorldTour
+"""been""","Ahmedabad, India",AlexWorldTour
+"""been""","Hong Kong, China",AlexWorldTour
+"""been"",""want""","Dubai, United Arab Emirates",AlexWorldTour
+"""been""","Chongqing, China",AlexWorldTour
+"""been""","Auckland, New Zealand",AlexWorldTour
+"""been""","Utila, Honduras",AlexWorldTour
+"""been""","Cairo, Egypt",AlexWorldTour
+"""been""","La Ceiba, Honduras",AlexWorldTour
+"""been""","San Bartolome de Tirajana, Spain",AlexWorldTour
+"""been""","Brasilia, Brazil",AlexWorldTour
+"""been""","Wailea, HI, USA",AlexWorldTour
+"""been""","Paris, France",AlexWorldTour
+"""been""","Changloon, Malaysia",AlexWorldTour
+"""been""","Zurich, Switzerland",AlexWorldTour
+"""been""","Boca Raton, FL, USA",AlexWorldTour
+"""been""","Amsterdam, The Netherlands",AlexWorldTour
+"""been""","Lincolnwood, IL, USA",AlexWorldTour
+"""been""","Nairobi, Kenya",AlexWorldTour
+"""been""","San Pedro Sula, Honduras",AlexWorldTour
+"""been""","Giza, Egypt",AlexWorldTour
+"""been""","Luxor, Egypt",AlexWorldTour
+"""been""","Aswan, Egypt",AlexWorldTour
+"""been""","Barcelona, Spain",AlexWorldTour
+"""been""","Marseille, France",AlexWorldTour
+"""been""","Puerto Rico, Spain",AlexWorldTour
+"""been""","Mill Valley, CA, USA",AlexWorldTour
+"""been""","Arguineguin, Spain",AlexWorldTour
+"""been""","Cologne, Germany",AlexWorldTour
+"""been""","Lima, Peru",AlexWorldTour
+"""been""","Mandalay, Myanmar",AlexWorldTour
+"""been""","Glendale, WI, USA",AlexWorldTour
+"""want""","Cusco, Peru",AlexWorldTour
+"""want""","Hammamet, Tunisia",AlexWorldTour
+"""been""","Thorlakshofn, Iceland",AlexWorldTour
+"""been""","Sedona, AZ, USA",AlexWorldTour
+"""been"",""want""","Berlin, Germany",AlexWorldTour
+"""been""","Orebro, Sweden",AlexWorldTour
+"""want""","Seville, Spain",AlexWorldTour
+"""been""","Tokyo, Japan",AlexWorldTour
+"""been""","Scottsdale, AZ, USA",AlexWorldTour
+"""been""","Belfast, UK",AlexWorldTour
+"""been""","Reno, NV, USA",AlexWorldTour
+"""been""","Fes, Morocco",AlexWorldTour
+"""been""","Marrakech, Morocco",AlexWorldTour
+"""want""","Istanbul, Turkey",AlexWorldTour
+"""been""","Casablanca, Morocco",AlexWorldTour
+"""been""","Malibu, CA, USA",AlexWorldTour
+"""been""","Stockholm, Sweden",AlexWorldTour
+"""been""","Vatican City, Vatican City",AlexWorldTour
+"""been""","Brussels, Belgium",AlexWorldTour
+"""been""","Rome, Italy",AlexWorldTour
+"""been""","Falun, Sweden",AlexWorldTour
+"""been""","West Palm Beach, FL, USA",AlexWorldTour
+"""been""","Reykjavik, Iceland",AlexWorldTour
+"""been""","Kenosha, WI, USA",AlexWorldTour
+"""been""","Kansas City, MO, USA",AlexWorldTour
+"""been""","Minneapolis, MN, USA",AlexWorldTour
+"""been""","Waukesha, WI, USA",AlexWorldTour
+"""been""","Cleveland, OH, USA",AlexWorldTour
+"""been""","Vik, Iceland",AlexWorldTour
+"""been""","Colombo, Sri Lanka",AlexWorldTour
+"""been""","Palma de Mallorca, Spain",AlexWorldTour
+"""been""","Cannes, France",AlexWorldTour
+"""been""","Piraeus, Greece",AlexWorldTour
+"""been""","Bruges, Belgium",AlexWorldTour
+"""been""","West Allis, WI, USA",AlexWorldTour
+"""been""","Arlington, VA, USA",AlexWorldTour
+"""been""","West Bend, WI, USA",AlexWorldTour
+"""been"",""want""","Athens, Greece",AlexWorldTour
+"""been""","Korcula Town, Croatia",AlexWorldTour
+"""been""","Langkawi, Malaysia",AlexWorldTour
+"""been""","La Libertad, El Salvador",AlexWorldTour
+"""want""","Macau, China",AlexWorldTour
+"""been""","Kohler, WI, USA",AlexWorldTour
+"""been""","Nallathanniya, Sri Lanka",AlexWorldTour
+"""been""","Wellington, New Zealand",AlexWorldTour
+"""been""","Wauwatosa, WI, USA",AlexWorldTour
+"""been""","Christchurch, New Zealand",AlexWorldTour
+"""been""","Aspen, CO, USA",AlexWorldTour
+"""been""","Lumbini, Nepal",AlexWorldTour
+"""been""","St. Petersburg, FL, USA",AlexWorldTour
+"""been""","Rotorua, New Zealand",AlexWorldTour
+"""been""","Cannon Beach, OR, USA",AlexWorldTour
+"""been""","Prescott, AZ, USA",AlexWorldTour
+"""been""","Fresno, CA, USA",AlexWorldTour
+"""been""","Ghent, Belgium",AlexWorldTour
+"""been""","Los Angeles, CA, USA",AlexWorldTour
+"""been""","Johor Bahru, Malaysia",AlexWorldTour
+"""been""","Uppsala, Sweden",AlexWorldTour
+"""been""","Whitefish Bay, WI, USA",AlexWorldTour
+"""want""","Marmaris, Turkey",AlexWorldTour
+"""been""","Koh Rong, Cambodia",AlexWorldTour
+"""been""","Playa de las Americas, Spain",AlexWorldTour
+"""been""","Las Vegas, NV, USA",AlexWorldTour
+"""been""","Bagan, Myanmar",AlexWorldTour
+"""been""","Lake Geneva, WI, USA",AlexWorldTour
+"""been""","Frankfurt, Germany",AlexWorldTour
+"""been""","Auckland Central, New Zealand",AlexWorldTour
+"""been""","Chicago, IL, USA",AlexWorldTour
+"""been""","Vasteras, Sweden",AlexWorldTour
+"""been""","Melbourne, Australia",AlexWorldTour
+"""been""","Phnom Penh, Cambodia",AlexWorldTour
+"""been""","Murrieta, CA, USA",AlexWorldTour
+"""been""","Kathmandu, Nepal",AlexWorldTour
+"""been""","Pokhara, Nepal",AlexWorldTour
+"""been""","Napa, CA, USA",AlexWorldTour
+"""been""","Oklahoma City, OK, USA",AlexWorldTour
+"""been""","Phoenix, AZ, USA",AlexWorldTour
+"""been""","Skjetten, Norway",AlexWorldTour
+"""been""","Long Beach, CA, USA",AlexWorldTour
+"""been""","Utrecht, The Netherlands",AlexWorldTour
+"""been""","Pushkar, India",AlexWorldTour
+"""want""","Venice, Italy",AlexWorldTour
+"""been""","Victoria Falls, Zimbabwe",AlexWorldTour
+"""been""","Tulsa, OK, USA",AlexWorldTour
+"""been""","Stone Town, Tanzania",AlexWorldTour
+"""been""","Wichita, KS, USA",AlexWorldTour
+"""been""","Havelock Island, India",AlexWorldTour
+"""been""","Madrid, Spain",AlexWorldTour
+"""been""","Sacramento, CA, USA",AlexWorldTour
+"""been""","Queenstown, New Zealand",AlexWorldTour
+"""been""","Phuket Town, Thailand",AlexWorldTour
+"""been""","St. Lawrence Gap, Barbados",AlexWorldTour
+"""been""","Rotterdam, The Netherlands",AlexWorldTour
+"""been""","Keflavik, Iceland",AlexWorldTour
+"""been""","Livingstone, Zambia",AlexWorldTour
+"""been""","Amadores, Spain",AlexWorldTour
+"""been""","Hikkaduwa, Sri Lanka",AlexWorldTour
+"""been""","Lindesberg, Sweden",AlexWorldTour
+"""been""","Da Nang, Vietnam",AlexWorldTour
+"""been""","Kandy, Sri Lanka",AlexWorldTour
+"""been""","Hoi An, Vietnam",AlexWorldTour
+"""been""","Maspalomas, Spain",AlexWorldTour
+"""been""","Victoria Falls, Zambia",AlexWorldTour
+"""been""","Petra - Wadi Musa, Jordan",AlexWorldTour
+"""been""","Arona, Spain",AlexWorldTour
+"""been""","Mora, Sweden",AlexWorldTour
+"""been""","London, UK",AlexWorldTour
+"""been""","Calas de Majorca, Spain",AlexWorldTour
+"""been""","Antwerp, Belgium",AlexWorldTour
+"""been"",""want""","Munich, Germany",AlexWorldTour
+"""been""","Salvador, Brazil",AlexWorldTour
+"""been""","Valsequillo, Spain",AlexWorldTour
+"""been""","Garching bei Munchen, Germany",AlexWorldTour
+"""been""","Rattvik, Sweden",AlexWorldTour
+"""been""","Dallas, TX, USA",AlexWorldTour
+"""want""","Florence, Italy",AlexWorldTour
+"""been""","Nara, Japan",AlexWorldTour
+"""been""","Niagara Falls, Ontario, Canada",AlexWorldTour
+"""been""","Sundborn, Sweden",AlexWorldTour
+"""been""","Dar es Salaam, Tanzania",AlexWorldTour
+"""been""","Saint Paul, MN, USA",AlexWorldTour
+"""been""","Pasadena, CA, USA",AlexWorldTour
+"""been""","Pisa, Italy",AlexWorldTour
+"""been""","Jerusalem, Israel",AlexWorldTour
+"""been""","Haifa, Israel",AlexWorldTour
+"""been""","Geysir, Iceland",AlexWorldTour
+"""been""","Tel Aviv, Israel",AlexWorldTour

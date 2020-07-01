@@ -1,0 +1,806 @@
+tag,place,user
+"""been""","Kingman, AZ, USA",40JeffP
+"""been""","Perstorp, Sweden",40JeffP
+"""been""","Beaufort, SC, USA",40JeffP
+"""been""","Tyler, TX, USA",40JeffP
+"""been""","Savannah, GA, USA",40JeffP
+"""been""","South Burlington, VT, USA",40JeffP
+"""been""","Baltimore, MD, USA",40JeffP
+"""been""","Laguna Beach, CA, USA",40JeffP
+"""been""","Nashville, TN, USA",40JeffP
+"""been""","El Segundo, CA, USA",40JeffP
+"""been""","Shiptonthorpe, UK",40JeffP
+"""been""","La Quinta, CA, USA",40JeffP
+"""been""","North Charleston, SC, USA",40JeffP
+"""been""","Portmeirion, UK",40JeffP
+"""been""","Nottingham, UK",40JeffP
+"""been""","Sheffield, UK",40JeffP
+"""been""","Henley-on-Thames, UK",40JeffP
+"""been""","Oxford, UK",40JeffP
+"""been""","Lincoln, NE, USA",40JeffP
+"""been""","Princeton, NJ, USA",40JeffP
+"""been""","Hoboken, NJ, USA",40JeffP
+"""been""","Lansing, MI, USA",40JeffP
+"""been""","Little Weighton, UK",40JeffP
+"""been""","Brooklyn, NY, USA",40JeffP
+"""been""","Fredericksburg, VA, USA",40JeffP
+"""been""","South Shields, UK",40JeffP
+"""been""","Palm Beach, FL, USA",40JeffP
+"""been""","Northampton, UK",40JeffP
+"""been""","Laguna Niguel, CA, USA",40JeffP
+"""been""","York, UK",40JeffP
+"""been""","Warwick, RI, USA",40JeffP
+"""want""","Dulas, UK",40JeffP
+"""been""","Leighton Buzzard, UK",40JeffP
+"""been""","Whitby, UK",40JeffP
+"""been""","Reil, Germany",40JeffP
+"""been""","North York Moors National Park, UK",40JeffP
+"""been""","Greenwood Lake, NY, USA",40JeffP
+"""been""","Plainfield, NJ, USA",40JeffP
+"""been""","Saarburg, Germany",40JeffP
+"""been""","Hawthorne, NJ, USA",40JeffP
+"""been""","Myrtle Beach, SC, USA",40JeffP
+"""been""","Glendale, AZ, USA",40JeffP
+"""been""","Piscataway, NJ, USA",40JeffP
+"""been""","Newmarket, UK",40JeffP
+"""been""","Rochester, MN, USA",40JeffP
+"""been""","Detroit, MI, USA",40JeffP
+"""been""","Avon, CT, USA",40JeffP
+"""been""","Orlando, FL, USA",40JeffP
+"""been""","Pawtucket, RI, USA",40JeffP
+"""been""","Wittlich, Germany",40JeffP
+"""been""","Greensboro, NC, USA",40JeffP
+"""been""","La Jolla, CA, USA",40JeffP
+"""been""","Paterson, NJ, USA",40JeffP
+"""been""","Brough, UK",40JeffP
+"""been""","Dolgellau, UK",40JeffP
+"""been""","Newark-on-Trent, UK",40JeffP
+"""been""","Glastonbury, UK",40JeffP
+"""been""","Great Neck, NY, USA",40JeffP
+"""been""","Cheddar, UK",40JeffP
+"""been""","Bath, UK",40JeffP
+"""been""","Melton, UK",40JeffP
+"""been""","Des Moines, IA, USA",40JeffP
+"""been""","Charleston, SC, USA",40JeffP
+"""been""","Burlington, VT, USA",40JeffP
+"""been""","Braubach, Germany",40JeffP
+"""been""","Barcelona, Spain",40JeffP
+"""been""","Castleton, UK",40JeffP
+"""been""","Saddle River, NJ, USA",40JeffP
+"""been""","Bound Brook, NJ, USA",40JeffP
+"""been""","Saddle Brook, NJ, USA",40JeffP
+"""been""","Kettlewell, UK",40JeffP
+"""been""","Kenilworth, UK",40JeffP
+"""been""","Newcastle upon Tyne, UK",40JeffP
+"""been""","Wressle, UK",40JeffP
+"""been""","Pateley Bridge, UK",40JeffP
+"""been""","Edina, MN, USA",40JeffP
+"""been""","Tarrytown, NY, USA",40JeffP
+"""been""","Hauppauge, NY, USA",40JeffP
+"""been""","Rochelle Park, NJ, USA",40JeffP
+"""been""","Middlewich, UK",40JeffP
+"""been""","Flamborough, UK",40JeffP
+"""been""","Eden Prairie, MN, USA",40JeffP
+"""been""","Tappan, NY, USA",40JeffP
+"""been""","East Hampton, NY, USA",40JeffP
+"""been""","Syracuse, NY, USA",40JeffP
+"""been""","Kearny, NJ, USA",40JeffP
+"""been""","Headingley, UK",40JeffP
+"""been""","Ridgewood, NJ, USA",40JeffP
+"""been""","Jersey City, NJ, USA",40JeffP
+"""been""","Ringwood, NJ, USA",40JeffP
+"""been""","Harriman, NY, USA",40JeffP
+"""been""","Ridgefield Park, NJ, USA",40JeffP
+"""been""","Jacksonville, FL, USA",40JeffP
+"""been""","North Vancouver, British Columbia, Canada",40JeffP
+"""been""","Croydon, UK",40JeffP
+"""been""","Traben-Trarbach, Germany",40JeffP
+"""been""","East Molesey, UK",40JeffP
+"""been""","Austin, TX, USA",40JeffP
+"""been""","Port Harcourt, Nigeria",40JeffP
+"""been""","Neuss, Germany",40JeffP
+"""been""","Leesburg, VA, USA",40JeffP
+"""been""","College Park, MD, USA",40JeffP
+"""been""","Duluth, MN, USA",40JeffP
+"""been""","Amsterdam, The Netherlands",40JeffP
+"""been""","Ramsey, NJ, USA",40JeffP
+"""been""","Langley Moor, UK",40JeffP
+"""been""","Mahwah, NJ, USA",40JeffP
+"""been""","Nelson, UK",40JeffP
+"""been""","Woodstock, VT, USA",40JeffP
+"""been""","Atlanta, GA, USA",40JeffP
+"""been""","Bakewell, UK",40JeffP
+"""been""","Derby, UK",40JeffP
+"""been""","Chesterfield, UK",40JeffP
+"""been""","Watford, UK",40JeffP
+"""been""","Milton Keynes, UK",40JeffP
+"""been""","Bolton, UK",40JeffP
+"""been""","Selby, UK",40JeffP
+"""been""","Cherry Hill, NJ, USA",40JeffP
+"""been""","Stuttgart, Germany",40JeffP
+"""been""","Telford, UK",40JeffP
+"""been""","Feldkirch, Austria",40JeffP
+"""been""","Mannheim, Germany",40JeffP
+"""been""","Vienna, Austria",40JeffP
+"""been""","Lodi, NJ, USA",40JeffP
+"""been""","Santa Cruz, CA, USA",40JeffP
+"""been""","Santa Clara, CA, USA",40JeffP
+"""been""","Harrogate, UK",40JeffP
+"""been""","Eppstein, Germany",40JeffP
+"""been""","Gloucester, UK",40JeffP
+"""been""","Heidelberg, Germany",40JeffP
+"""been""","Constable Burton, UK",40JeffP
+"""been""","Peterborough, UK",40JeffP
+"""been""","Burton Fleming, UK",40JeffP
+"""been""","Eastrington, UK",40JeffP
+"""been""","Shipley, UK",40JeffP
+"""been""","Salzburg, Austria",40JeffP
+"""been""","Camden, NJ, USA",40JeffP
+"""been""","Skipton, UK",40JeffP
+"""been""","Bensenville, IL, USA",40JeffP
+"""been""","Yarmouth, Nova Scotia, Canada",40JeffP
+"""been""","Williamsburg, VA, USA",40JeffP
+"""been""","West Hollywood, CA, USA",40JeffP
+"""been""","Oshawa, Ontario, Canada",40JeffP
+"""been""","Peoria, IL, USA",40JeffP
+"""been""","Cape Canaveral, FL, USA",40JeffP
+"""been""","Columbia, SC, USA",40JeffP
+"""been""","Stannington, UK",40JeffP
+"""been""","Carmel, CA, USA",40JeffP
+"""been""","Kissimmee, FL, USA",40JeffP
+"""been""","San Jose, CA, USA",40JeffP
+"""been""","Manchester, UK",40JeffP
+"""been""","Doncaster, UK",40JeffP
+"""been""","Lancaster, UK",40JeffP
+"""been""","Rochester, NY, USA",40JeffP
+"""been""","Preston, UK",40JeffP
+"""been""","Carle Place, NY, USA",40JeffP
+"""been""","Market Weighton, UK",40JeffP
+"""been""","St. Catharines, Ontario, Canada",40JeffP
+"""been""","Big Sur, CA, USA",40JeffP
+"""been""","Madison, WI, USA",40JeffP
+"""been""","Toronto, Ontario, Canada",40JeffP
+"""been""","Roanoke, VA, USA",40JeffP
+"""been""","Davenport, FL, USA",40JeffP
+"""been""","Seoul, South Korea",40JeffP
+"""been""","Brantingham, UK",40JeffP
+"""been""","Orient, NY, USA",40JeffP
+"""been""","Carnac, France",40JeffP
+"""been""","Windsor, Ontario, Canada",40JeffP
+"""been""","Patrington, UK",40JeffP
+"""been""","Manchester, NH, USA",40JeffP
+"""been""","Schenectady, NY, USA",40JeffP
+"""been""","Washington DC, DC, USA",40JeffP
+"""been""","Indianapolis, IN, USA",40JeffP
+"""been""","New Orleans, LA, USA",40JeffP
+"""been""","Lihue, HI, USA",40JeffP
+"""been""","Huntington, IN, USA",40JeffP
+"""been""","West Yarmouth, MA, USA",40JeffP
+"""been""","Delray Beach, FL, USA",40JeffP
+"""been""","Reston, VA, USA",40JeffP
+"""been""","Westborough, MA, USA",40JeffP
+"""been""","Weston, MA, USA",40JeffP
+"""been""","Goole, UK",40JeffP
+"""been""","Weymouth, MA, USA",40JeffP
+"""been""","Bracknell, UK",40JeffP
+"""been""","Kahului, HI, USA",40JeffP
+"""been""","Montreal, Quebec, Canada",40JeffP
+"""been""","Kailua-Kona, HI, USA",40JeffP
+"""been""","Saratoga Springs, NY, USA",40JeffP
+"""been""","Hershey, PA, USA",40JeffP
+"""been""","Bempton, UK",40JeffP
+"""been""","Wailuku, HI, USA",40JeffP
+"""been""","Seattle, WA, USA",40JeffP
+"""been""","Lahaina, HI, USA",40JeffP
+"""been""","Barton-upon-Humber, UK",40JeffP
+"""been""","Santa Monica, CA, USA",40JeffP
+"""been""","Clearwater, FL, USA",40JeffP
+"""been""","West Tisbury, MA, USA",40JeffP
+"""been""","Portland, ME, USA",40JeffP
+"""been""","Louisville, KY, USA",40JeffP
+"""been""","Omaha, NE, USA",40JeffP
+"""been""","Nyack, NY, USA",40JeffP
+"""been""","Ripon, UK",40JeffP
+"""been""","Kilnsea, UK",40JeffP
+"""been""","Sausalito, CA, USA",40JeffP
+"""been""","Runaway Bay, Jamaica",40JeffP
+"""been""","Kaneohe, HI, USA",40JeffP
+"""been""","Clifton, NJ, USA",40JeffP
+"""been""","Richmond, VA, USA",40JeffP
+"""been""","Lowell, MA, USA",40JeffP
+"""been""","Cambridge, MA, USA",40JeffP
+"""been""","Hopkinton, MA, USA",40JeffP
+"""been""","Sandsend, UK",40JeffP
+"""been""","Allendale, NJ, USA",40JeffP
+"""been""","Fort Wayne, IN, USA",40JeffP
+"""been""","Boca Raton, FL, USA",40JeffP
+"""been""","Hudson, MA, USA",40JeffP
+"""been""","Twickenham, UK",40JeffP
+"""been""","Hull, MA, USA",40JeffP
+"""been""","Pickering, UK",40JeffP
+"""been""","Ganshoren, Belgium",40JeffP
+"""been""","West Milwaukee, WI, USA",40JeffP
+"""been""","Hyannis, MA, USA",40JeffP
+"""been""","Hyannis Port, MA, USA",40JeffP
+"""been""","Wembley, UK",40JeffP
+"""been""","West Drayton, UK",40JeffP
+"""been""","Alpine, NJ, USA",40JeffP
+"""been""","Hayes, UK",40JeffP
+"""been""","Bethel, ME, USA",40JeffP
+"""been""","Bradenton Beach, FL, USA",40JeffP
+"""been""","Freeport, Bahamas",40JeffP
+"""been""","Bridlington, UK",40JeffP
+"""been""","Sturbridge, MA, USA",40JeffP
+"""been""","Holliston, MA, USA",40JeffP
+"""been""","Sudbury, MA, USA",40JeffP
+"""been""","Hounslow, UK",40JeffP
+"""been""","Nassau, Bahamas",40JeffP
+"""been""","Ilfracombe, UK",40JeffP
+"""been""","Tenby, UK",40JeffP
+"""been""","St. Moritz, Switzerland",40JeffP
+"""been""","Pleasanton, CA, USA",40JeffP
+"""been""","Lancaster, PA, USA",40JeffP
+"""been""","Virginia Beach, VA, USA",40JeffP
+"""been""","York, ME, USA",40JeffP
+"""been""","Southborough, MA, USA",40JeffP
+"""been""","Southbridge, MA, USA",40JeffP
+"""been""","South Yarmouth, MA, USA",40JeffP
+"""been""","Brough, UK",40JeffP
+"""been""","Rawcliffe Bridge, UK",40JeffP
+"""been""","Llanrwst, UK",40JeffP
+"""been""","Pickering, Ontario, Canada",40JeffP
+"""been""","Hastings, Barbados",40JeffP
+"""been""","Norfolk, VA, USA",40JeffP
+"""been""","Cherry Burton, UK",40JeffP
+"""been""","Bangor, ME, USA",40JeffP
+"""been""","Nanuet, NY, USA",40JeffP
+"""been""","Waltham Abbey, UK",40JeffP
+"""been""","Chocorua, NH, USA",40JeffP
+"""been""","Bologna, Italy",40JeffP
+"""been""","Lexington, KY, USA",40JeffP
+"""been""","Marlborough, MA, USA",40JeffP
+"""been""","Mashpee, MA, USA",40JeffP
+"""been""","Hilo, HI, USA",40JeffP
+"""been""","Marblehead, MA, USA",40JeffP
+"""been""","Albany, NY, USA",40JeffP
+"""been""","Harrisburg, PA, USA",40JeffP
+"""been""","Wayland, MA, USA",40JeffP
+"""been""","Immingham, UK",40JeffP
+"""been""","Grimsby, UK",40JeffP
+"""been""","Manchester-by-the-Sea, MA, USA",40JeffP
+"""been""","Cleethorpes, UK",40JeffP
+"""been""","Broughton, UK",40JeffP
+"""been""","Wellesley, MA, USA",40JeffP
+"""been""","Ashland, MA, USA",40JeffP
+"""been""","Genoa, Italy",40JeffP
+"""been""","Hallbergmoos, Germany",40JeffP
+"""been""","Lexington, MA, USA",40JeffP
+"""been""","Scunthorpe, UK",40JeffP
+"""been""","Larchmont, NY, USA",40JeffP
+"""been""","Ogunquit, ME, USA",40JeffP
+"""been""","Pocklington, UK",40JeffP
+"""been""","Holme-on-Spalding-Moor, UK",40JeffP
+"""been""","Atlantic City, NJ, USA",40JeffP
+"""been""","Waltham, MA, USA",40JeffP
+"""been""","Withernsea, UK",40JeffP
+"""been""","Niagara Falls, NY, USA",40JeffP
+"""been""","Calgary, Alberta, Canada",40JeffP
+"""been""","Upton, MA, USA",40JeffP
+"""been""","Tyngsboro, MA, USA",40JeffP
+"""been""","Filey, UK",40JeffP
+"""been""","Baddeck, Nova Scotia, Canada",40JeffP
+"""been""","Pittsburgh, PA, USA",40JeffP
+"""been""","Milan, Italy",40JeffP
+"""been""","Urzig, Germany",40JeffP
+"""been""","Wayne, NJ, USA",40JeffP
+"""been""","Colne, UK",40JeffP
+"""been""","Blackstone, MA, USA",40JeffP
+"""been""","Monterey, CA, USA",40JeffP
+"""been""","Mystic, CT, USA",40JeffP
+"""been""","Huntington Beach, CA, USA",40JeffP
+"""been""","Guysborough, Nova Scotia, Canada",40JeffP
+"""been""","Sacramento, CA, USA",40JeffP
+"""been""","Fort Worth, TX, USA",40JeffP
+"""been""","Aquinnah, MA, USA",40JeffP
+"""been""","Rawcliffe, UK",40JeffP
+"""been""","Long Island City, NY, USA",40JeffP
+"""been""","Varenna, Italy",40JeffP
+"""been""","Bellagio, Italy",40JeffP
+"""been""","Appleton, WI, USA",40JeffP
+"""been""","Oban, UK",40JeffP
+"""been""","South Molton, UK",40JeffP
+"""been""","Bergamo, Italy",40JeffP
+"""been""","Washington Township, NJ, USA",40JeffP
+"""been""","Barnstable, MA, USA",40JeffP
+"""been""","Bellingham, MA, USA",40JeffP
+"""been""","Natick, MA, USA",40JeffP
+"""been""","Milford, CT, USA",40JeffP
+"""been""","Yuma, AZ, USA",40JeffP
+"""been""","Center Valley, PA, USA",40JeffP
+"""been""","Hessle, UK",40JeffP
+"""been""","Vancouver, British Columbia, Canada",40JeffP
+"""been""","Burton Agnes, UK",40JeffP
+"""been""","Padua, Italy",40JeffP
+"""been""","Glasgow, UK",40JeffP
+"""been""","Hutton le Hole, UK",40JeffP
+"""been""","Venice, Italy",40JeffP
+"""been""","Dawlish, UK",40JeffP
+"""been""","Long Beach, NY, USA",40JeffP
+"""been""","Hartford, CT, USA",40JeffP
+"""been""","Milford, MA, USA",40JeffP
+"""been""","Milpitas, CA, USA",40JeffP
+"""been""","Riverside, CA, USA",40JeffP
+"""been""","Truro, UK",40JeffP
+"""been""","Knaresborough, UK",40JeffP
+"""been""","Edinburgh, UK",40JeffP
+"""been""","Turin, Italy",40JeffP
+"""been""","Brigg, UK",40JeffP
+"""been""","Saint John, New Brunswick, Canada",40JeffP
+"""been""","Old Saybrook, CT, USA",40JeffP
+"""been""","St. John's, Newfoundland and Labrador, Canada",40JeffP
+"""been""","Normanby, UK",40JeffP
+"""been""","Cicero, IL, USA",40JeffP
+"""been""","Shelburne, Nova Scotia, Canada",40JeffP
+"""been""","Niland, CA, USA",40JeffP
+"""been""","Old Lyme, CT, USA",40JeffP
+"""been""","Kingston-upon-Hull, UK",40JeffP
+"""been""","Norwalk, CT, USA",40JeffP
+"""been""","Leipzig, Germany",40JeffP
+"""been""","Parsippany, NJ, USA",40JeffP
+"""been""","Tickton, UK",40JeffP
+"""been""","Driffield, UK",40JeffP
+"""been""","Paramus, NJ, USA",40JeffP
+"""been""","Perranporth, UK",40JeffP
+"""been""","Beverley, UK",40JeffP
+"""been""","Wangen, Germany",40JeffP
+"""been""","Plainfield, CT, USA",40JeffP
+"""been""","West Palm Beach, FL, USA",40JeffP
+"""been""","Plainville, CT, USA",40JeffP
+"""been""","Halifax, Nova Scotia, Canada",40JeffP
+"""been""","Bacharach, Germany",40JeffP
+"""been""","Bude, UK",40JeffP
+"""been""","Bideford, UK",40JeffP
+"""been""","Lunenburg, Nova Scotia, Canada",40JeffP
+"""been""","Winchester, UK",40JeffP
+"""been""","Wyckoff, NJ, USA",40JeffP
+"""been""","Old Tappan, NJ, USA",40JeffP
+"""been""","Chatham, MA, USA",40JeffP
+"""been""","Oradell, NJ, USA",40JeffP
+"""been""","Leven, UK",40JeffP
+"""been""","Woodcliff Lake, NJ, USA",40JeffP
+"""been""","Brampton, Ontario, Canada",40JeffP
+"""been""","Napa, CA, USA",40JeffP
+"""been""","Burlington, Ontario, Canada",40JeffP
+"""been""","Herndon, VA, USA",40JeffP
+"""been""","Schwangau, Germany",40JeffP
+"""been""","Toledo, OH, USA",40JeffP
+"""been""","New London, CT, USA",40JeffP
+"""been""","Aldbrough, UK",40JeffP
+"""been""","New Haven, CT, USA",40JeffP
+"""been""","Dunstable, UK",40JeffP
+"""been""","Liverpool, UK",40JeffP
+"""been""","London, UK",40JeffP
+"""been""","Lincoln, UK",40JeffP
+"""been""","Shadwell, UK",40JeffP
+"""been""","Isle of Mull, UK",40JeffP
+"""been""","Norwich, UK",40JeffP
+"""been""","Canton, MA, USA",40JeffP
+"""been""","Burlington, MA, USA",40JeffP
+"""been""","Durham, UK",40JeffP
+"""been""","Wildwood, NJ, USA",40JeffP
+"""been""","Hamilton, Ontario, Canada",40JeffP
+"""been""","Sugar Land, TX, USA",40JeffP
+"""been""","Chicago, IL, USA",40JeffP
+"""been""","Mississauga, Ontario, Canada",40JeffP
+"""been""","London, Ontario, Canada",40JeffP
+"""been""","Galveston, TX, USA",40JeffP
+"""been""","Niagara-on-the-Lake, Ontario, Canada",40JeffP
+"""been""","Niagara Falls, Ontario, Canada",40JeffP
+"""been""","Malmo, Sweden",40JeffP
+"""been""","Kendal, UK",40JeffP
+"""been""","Holmfirth, UK",40JeffP
+"""been""","Perth, UK",40JeffP
+"""been""","Coniston, UK",40JeffP
+"""been""","Florence, Italy",40JeffP
+"""been""","Brewster, MA, USA",40JeffP
+"""been""","Blackpool, UK",40JeffP
+"""been""","Barrow-in-Furness, UK",40JeffP
+"""been""","Bowness-on-Windermere, UK",40JeffP
+"""been""","Windermere, UK",40JeffP
+"""been""","St Austell, UK",40JeffP
+"""been""","Barnstaple, UK",40JeffP
+"""been""","Seaton, UK",40JeffP
+"""been""","Spalding, UK",40JeffP
+"""been""","Freising, Germany",40JeffP
+"""been""","Boxborough, MA, USA",40JeffP
+"""been""","Greenville, SC, USA",40JeffP
+"""been""","Thirsk, UK",40JeffP
+"""been""","Tempe, AZ, USA",40JeffP
+"""been""","Greenwich, CT, USA",40JeffP
+"""been""","Glace Bay, Nova Scotia, Canada",40JeffP
+"""been""","Newquay, UK",40JeffP
+"""been""","Newcastle, UK",40JeffP
+"""been""","Looe, UK",40JeffP
+"""been""","Sancton, UK",40JeffP
+"""been""","Liege, Belgium",40JeffP
+"""been""","Wilmerding, PA, USA",40JeffP
+"""been""","Falmouth, UK",40JeffP
+"""been""","St Ives, UK",40JeffP
+"""been""","The Royal Town of Sutton Coldfield, UK",40JeffP
+"""been""","Montvale, NJ, USA",40JeffP
+"""been""","Taunton, UK",40JeffP
+"""been""","Grassington, UK",40JeffP
+"""been""","Polperro, UK",40JeffP
+"""been""","Skegness, UK",40JeffP
+"""been""","Stamford, UK",40JeffP
+"""been""","Hamburg, Germany",40JeffP
+"""been""","Penzance, UK",40JeffP
+"""been""","Rotherham, UK",40JeffP
+"""been""","Totowa, NJ, USA",40JeffP
+"""been""","Trenton, NJ, USA",40JeffP
+"""been""","Jamaica, NY, USA",40JeffP
+"""been""","Masham, UK",40JeffP
+"""been""","Providence, RI, USA",40JeffP
+"""been""","Decatur, GA, USA",40JeffP
+"""been""","Wakefield, UK",40JeffP
+"""been""","Bar Harbor, ME, USA",40JeffP
+"""been""","Cambridge, UK",40JeffP
+"""been""","Wilkes-Barre, PA, USA",40JeffP
+"""been""","High Wycombe, UK",40JeffP
+"""been""","Brussels, Belgium",40JeffP
+"""been""","Swansea, UK",40JeffP
+"""been""","Ithaca, NY, USA",40JeffP
+"""been""","Wurzburg, Germany",40JeffP
+"""been""","Chester, UK",40JeffP
+"""been""","Wailea, HI, USA",40JeffP
+"""been""","Llandudno, UK",40JeffP
+"""been""","Teterboro, NJ, USA",40JeffP
+"""been""","Ipswich, UK",40JeffP
+"""been""","Tucson, AZ, USA",40JeffP
+"""been""","Midland Park, NJ, USA",40JeffP
+"""been""","Tenafly, NJ, USA",40JeffP
+"""been""","Green Bay, WI, USA",40JeffP
+"""been""","Bubwith, UK",40JeffP
+"""been""","San Antonio, TX, USA",40JeffP
+"""been""","Allentown, PA, USA",40JeffP
+"""been""","Salem, MA, USA",40JeffP
+"""been""","San Francisco, CA, USA",40JeffP
+"""been""","Quincy, MA, USA",40JeffP
+"""been""","Scottsdale, AZ, USA",40JeffP
+"""been""","Marina del Rey, CA, USA",40JeffP
+"""been""","Sedona, AZ, USA",40JeffP
+"""been""","Plymouth, UK",40JeffP
+"""been""","Torquay, UK",40JeffP
+"""been""","Lynmouth, UK",40JeffP
+"""been""","Saint-Malo, France",40JeffP
+"""been""","Grand Rapids, MI, USA",40JeffP
+"""been""","Buxton, UK",40JeffP
+"""been""","Bournemouth, UK",40JeffP
+"""been""","Hannover, Germany",40JeffP
+"""been""","Cross Gates, UK",40JeffP
+"""been""","Sarasota, FL, USA",40JeffP
+"""been""","North Newbald, UK",40JeffP
+"""been""","Scranton, PA, USA",40JeffP
+"""been""","McLean, VA, USA",40JeffP
+"""been""","Springfield, MA, USA",40JeffP
+"""been""","Darmstadt, Germany",40JeffP
+"""been""","Staithes, UK",40JeffP
+"""been""","Frankfurt, Germany",40JeffP
+"""been""","Fairfield, CT, USA",40JeffP
+"""been""","Tintagel, UK",40JeffP
+"""been""","Aberdeen, UK",40JeffP
+"""been""","Ghent, Belgium",40JeffP
+"""been""","Slough, UK",40JeffP
+"""been""","Ieper (Ypres), Belgium",40JeffP
+"""been""","Scarborough, UK",40JeffP
+"""been""","Sidmouth, UK",40JeffP
+"""been""","Stalybridge, UK",40JeffP
+"""been""","Bruges, Belgium",40JeffP
+"""been""","Clovelly, UK",40JeffP
+"""been""","Louth, UK",40JeffP
+"""been""","Huddersfield, UK",40JeffP
+"""been""","Flagstaff, AZ, USA",40JeffP
+"""been""","Welwyn Garden City, UK",40JeffP
+"""been""","Utica, IL, USA",40JeffP
+"""been""","Robin Hoods Bay, UK",40JeffP
+"""been""","Scotch Corner, UK",40JeffP
+"""been""","South San Francisco, CA, USA",40JeffP
+"""been""","Trawsfynydd, UK",40JeffP
+"""been""","Enugu, Nigeria",40JeffP
+"""been""","Aachen, Germany",40JeffP
+"""been""","Loughborough, UK",40JeffP
+"""been""","Essen, Germany",40JeffP
+"""been""","Anaheim, CA, USA",40JeffP
+"""been""","Dortmund, Germany",40JeffP
+"""been""","West Point, NY, USA",40JeffP
+"""been""","Knutsford, UK",40JeffP
+"""been""","Dusseldorf, Germany",40JeffP
+"""been""","Bonn, Germany",40JeffP
+"""been""","Cologne, Germany",40JeffP
+"""been""","Newport Pagnell, UK",40JeffP
+"""been""","Newark, NJ, USA",40JeffP
+"""been""","Fair Lawn, NJ, USA",40JeffP
+"""been""","Alkborough, UK",40JeffP
+"""been""","Concord, MA, USA",40JeffP
+"""been""","York, PA, USA",40JeffP
+"""been""","Manchester, VT, USA",40JeffP
+"""been""","Plano, TX, USA",40JeffP
+"""been""","Morristown, NJ, USA",40JeffP
+"""been""","Willerby, UK",40JeffP
+"""been""","Copenhagen, Denmark",40JeffP
+"""been""","Hornsea, UK",40JeffP
+"""been""","Brighton, UK",40JeffP
+"""been""","Welton, UK",40JeffP
+"""been""","Wolverhampton, UK",40JeffP
+"""been""","Lezzeno, Italy",40JeffP
+"""been""","Killington, VT, USA",40JeffP
+"""been""","Paris, France",40JeffP
+"""been""","Englewood, NJ, USA",40JeffP
+"""been""","Skidby, UK",40JeffP
+"""been""","Trier, Germany",40JeffP
+"""been""","Elizabeth, NJ, USA",40JeffP
+"""been""","Mainz, Germany",40JeffP
+"""been""","Koblenz, Germany",40JeffP
+"""been""","Grantham, UK",40JeffP
+"""been""","Waldwick, NJ, USA",40JeffP
+"""been""","Miami Beach, FL, USA",40JeffP
+"""been""","Miami, FL, USA",40JeffP
+"""been""","Salt Lake City, UT, USA",40JeffP
+"""been""","Macon, GA, USA",40JeffP
+"""been""","Tampa, FL, USA",40JeffP
+"""been""","Mandello del Lario, Italy",40JeffP
+"""been""","Tallahassee, FL, USA",40JeffP
+"""been""","Halifax, UK",40JeffP
+"""been""","Portsmouth, UK",40JeffP
+"""been""","Mount Laurel, NJ, USA",40JeffP
+"""been""","Southampton, UK",40JeffP
+"""been""","East Rutherford, NJ, USA",40JeffP
+"""been""","Rosedale East, UK",40JeffP
+"""been""","Upper Saddle River, NJ, USA",40JeffP
+"""been""","Union City, NJ, USA",40JeffP
+"""been""","Port Talbot, UK",40JeffP
+"""been""","Dayton, OH, USA",40JeffP
+"""been""","Bradenton, FL, USA",40JeffP
+"""been""","Kano, Nigeria",40JeffP
+"""been""","Binghamton, NY, USA",40JeffP
+"""been""","Bridgetown, Barbados",40JeffP
+"""been""","Bethlehem, PA, USA",40JeffP
+"""been""","Charlottesville, VA, USA",40JeffP
+"""been""","Beverly Hills, CA, USA",40JeffP
+"""been""","Pittsford, NY, USA",40JeffP
+"""been""","Glen Ridge, NJ, USA",40JeffP
+"""been""","Glen Rock, NJ, USA",40JeffP
+"""been""","Philadelphia, PA, USA",40JeffP
+"""been""","White Plains, NY, USA",40JeffP
+"""been""","Chantilly, VA, USA",40JeffP
+"""been""","Nutley, NJ, USA",40JeffP
+"""been""","Naples, FL, USA",40JeffP
+"""been""","Gettysburg, PA, USA",40JeffP
+"""been""","Fort Lauderdale, FL, USA",40JeffP
+"""been""","Del Mar, CA, USA",40JeffP
+"""been""","Salford, UK",40JeffP
+"""been""","Luxembourg City, Luxembourg",40JeffP
+"""been""","Roos, UK",40JeffP
+"""been""","Cranston, RI, USA",40JeffP
+"""been""","Glen Cove, NY, USA",40JeffP
+"""been""","Cumberland, RI, USA",40JeffP
+"""been""","Harrow, UK",40JeffP
+"""been""","Sunderland, UK",40JeffP
+"""been""","Ocean City, NJ, USA",40JeffP
+"""been""","Goole, UK",40JeffP
+"""been""","Franklin Lakes, NJ, USA",40JeffP
+"""been""","Oakland, NJ, USA",40JeffP
+"""been""","Aughton, UK",40JeffP
+"""been""","Coventry, RI, USA",40JeffP
+"""been""","Denver, CO, USA",40JeffP
+"""been""","Houston, TX, USA",40JeffP
+"""been""","Fort Myers Beach, FL, USA",40JeffP
+"""been""","Fort Myers, FL, USA",40JeffP
+"""been""","Portsmouth, NH, USA",40JeffP
+"""been""","Wierschem, Germany",40JeffP
+"""been""","Hook, UK",40JeffP
+"""been""","Brescia, Italy",40JeffP
+"""been""","Havant, UK",40JeffP
+"""been""","Sloatsburg, NY, USA",40JeffP
+"""been""","Fort Lee, NJ, USA",40JeffP
+"""been""","Castleford, UK",40JeffP
+"""been""","Cherbourg-Octeville, France",40JeffP
+"""been""","Caen, France",40JeffP
+"""been""","Westbury, NY, USA",40JeffP
+"""been""","Garden City, NY, USA",40JeffP
+"""been""","Malton, UK",40JeffP
+"""been""","Newport News, VA, USA",40JeffP
+"""been""","Newport, RI, USA",40JeffP
+"""been""","Buffalo, NY, USA",40JeffP
+"""been""","Council Bluffs, IA, USA",40JeffP
+"""been""","Shrewsbury, MA, USA",40JeffP
+"""been""","Woonsocket, RI, USA",40JeffP
+"""been""","Bronx, NY, USA",40JeffP
+"""been""","Honolulu, HI, USA",40JeffP
+"""been""","Stony Point, NY, USA",40JeffP
+"""been""","Bretton Woods, NH, USA",40JeffP
+"""been""","Wallsend, UK",40JeffP
+"""been""","Boston, MA, USA",40JeffP
+"""been""","Treis-Karden, Germany",40JeffP
+"""been""","Wilmington, DE, USA",40JeffP
+"""been""","Sandwich, MA, USA",40JeffP
+"""been""","Sherborn, MA, USA",40JeffP
+"""been""","San Diego, CA, USA",40JeffP
+"""been""","Cincinnati, OH, USA",40JeffP
+"""been""","Staten Island, NY, USA",40JeffP
+"""been""","Poughkeepsie, NY, USA",40JeffP
+"""been""","Castellina In Chianti, Italy",40JeffP
+"""been""","King of Prussia, PA, USA",40JeffP
+"""been""","Akron, OH, USA",40JeffP
+"""been""","Wellfleet, MA, USA",40JeffP
+"""been""","Seneca Falls, NY, USA",40JeffP
+"""been""","South Bend, IN, USA",40JeffP
+"""been""","Chur, Switzerland",40JeffP
+"""been""","Wengen, Switzerland",40JeffP
+"""been"",""want""","New York City, NY, USA",40JeffP
+"""been""","Paintsville, KY, USA",40JeffP
+"""been""","Spring Valley, NY, USA",40JeffP
+"""been""","Hackensack, NJ, USA",40JeffP
+"""been""","Blaenau Ffestiniog, UK",40JeffP
+"""been""","Little Rock, AR, USA",40JeffP
+"""been""","Memphis, TN, USA",40JeffP
+"""been""","Torrance, CA, USA",40JeffP
+"""been""","King's Lynn, UK",40JeffP
+"""been""","Hamilton, NJ, USA",40JeffP
+"""been""","Kokomo, IN, USA",40JeffP
+"""been""","Kingston, Jamaica",40JeffP
+"""been""","Chelmsford, MA, USA",40JeffP
+"""been""","Cleveland, OH, USA",40JeffP
+"""been""","Raleigh, NC, USA",40JeffP
+"""been""","Barmouth, UK",40JeffP
+"""been""","Overton, UK",40JeffP
+"""been""","Cottingham, UK",40JeffP
+"""been""","Freeport, ME, USA",40JeffP
+"""been""","Shorewood, WI, USA",40JeffP
+"""been""","Nashua, NH, USA",40JeffP
+"""been""","Winston Salem, NC, USA",40JeffP
+"""been""","Siena, Italy",40JeffP
+"""been""","Bishop Burton, UK",40JeffP
+"""been""","Epinal, France",40JeffP
+"""been""","Erie, PA, USA",40JeffP
+"""been""","South Cave, UK",40JeffP
+"""been""","Winthrop, MA, USA",40JeffP
+"""been""","Newburyport, MA, USA",40JeffP
+"""been""","Newton, MA, USA",40JeffP
+"""been""","Woodville, MA, USA",40JeffP
+"""been""","Worcester, MA, USA",40JeffP
+"""been""","Hamilton, OH, USA",40JeffP
+"""been""","Wilmington, NC, USA",40JeffP
+"""been""","Charlotte, NC, USA",40JeffP
+"""been""","Ontario, CA, USA",40JeffP
+"""been""","Kennebunk, ME, USA",40JeffP
+"""been""","Kennebunkport, ME, USA",40JeffP
+"""been""","North Killingholme, UK",40JeffP
+"""been""","Claye Souilly, France",40JeffP
+"""been""","State College, PA, USA",40JeffP
+"""been""","Coed Y Bryn, UK",40JeffP
+"""been""","Pittsfield, MA, USA",40JeffP
+"""been""","Plymouth, MA, USA",40JeffP
+"""been""","Bowling Green, KY, USA",40JeffP
+"""been""","Duxbury, MA, USA",40JeffP
+"""been""","Provincetown, MA, USA",40JeffP
+"""been""","North Ferriby, UK",40JeffP
+"""been""","Elloughton, UK",40JeffP
+"""been""","Piermont, NY, USA",40JeffP
+"""been""","Melville, NY, USA",40JeffP
+"""been""","Howden, UK",40JeffP
+"""been""","Walkington, UK",40JeffP
+"""been""","Friesenhausen, Germany",40JeffP
+"""been""","Oklahoma City, OK, USA",40JeffP
+"""been""","Hemel Hempstead, UK",40JeffP
+"""been""","Hyde Park, IL, USA",40JeffP
+"""been""","Nago, Italy",40JeffP
+"""been""","Dennis, MA, USA",40JeffP
+"""been""","Chiavenna, Italy",40JeffP
+"""been""","Oakland, CA, USA",40JeffP
+"""been""","Bear Mountain, NY, USA",40JeffP
+"""been""","Dublin, Ireland",40JeffP
+"""been""","Columbus, OH, USA",40JeffP
+"""been""","Fylingthorpe, UK",40JeffP
+"""been""","Priddy, UK",40JeffP
+"""been""","La Crosse, WI, USA",40JeffP
+"""been""","Castleton, UK",40JeffP
+"""been""","Bamford, UK",40JeffP
+"""been""","Wawne, UK",40JeffP
+"""been""","Lynchburg, VA, USA",40JeffP
+"""been""","Grafton, MA, USA",40JeffP
+"""been""","Bawtry, UK",40JeffP
+"""been""","Gloucester, MA, USA",40JeffP
+"""been""","Bridgeport, CT, USA",40JeffP
+"""been""","Swissvale, PA, USA",40JeffP
+"""been""","Paradise Valley, AZ, USA",40JeffP
+"""been""","Waterbury, CT, USA",40JeffP
+"""been""","Hathersage, UK",40JeffP
+"""been""","Foxborough, MA, USA",40JeffP
+"""been""","Framingham, MA, USA",40JeffP
+"""been""","Pubnico, Nova Scotia, Canada",40JeffP
+"""been""","Montauk, NY, USA",40JeffP
+"""been""","Windsor, UK",40JeffP
+"""been""","Salisbury, UK",40JeffP
+"""been""","Keighley, UK",40JeffP
+"""been""","Leeds, UK",40JeffP
+"""been""","Saint Paul, MN, USA",40JeffP
+"""been""","Fall River, MA, USA",40JeffP
+"""been""","Falmouth, MA, USA",40JeffP
+"""been""","Accra, Ghana",40JeffP
+"""been""","Cochem, Germany",40JeffP
+"""been""","Worms, Germany",40JeffP
+"""been""","Sankt Goar, Germany",40JeffP
+"""been""","Bernkastel-Kues, Germany",40JeffP
+"""been""","Dallas, TX, USA",40JeffP
+"""been""","Bradford, UK",40JeffP
+"""been""","Ellerker, UK",40JeffP
+"""been""","Chichester, UK",40JeffP
+"""been""","Coventry, UK",40JeffP
+"""been""","Birmingham, UK",40JeffP
+"""been""","Conisbrough, UK",40JeffP
+"""been""","Rochester, MI, USA",40JeffP
+"""been""","Eastham, MA, USA",40JeffP
+"""been""","Skipsea, UK",40JeffP
+"""been""","Bloomington, MN, USA",40JeffP
+"""been""","Palm Springs, CA, USA",40JeffP
+"""been""","Stamford, CT, USA",40JeffP
+"""been""","Rockport, MA, USA",40JeffP
+"""been""","Goathland, UK",40JeffP
+"""been""","Danbury, CT, USA",40JeffP
+"""been""","Darien, CT, USA",40JeffP
+"""been""","Arlington, VA, USA",40JeffP
+"""been""","Conwy, UK",40JeffP
+"""been""","Minneapolis, MN, USA",40JeffP
+"""been""","Maesteg, UK",40JeffP
+"""been""","Fairfax, VA, USA",40JeffP
+"""been""","Cwmafan, UK",40JeffP
+"""been""","Annapolis, MD, USA",40JeffP
+"""been""","Zell (Mosel), Germany",40JeffP
+"""been""","Manhattan Beach, CA, USA",40JeffP
+"""been""","Durham, NC, USA",40JeffP
+"""been""","Malibu, CA, USA",40JeffP
+"""been""","Aberystwyth, UK",40JeffP
+"""been""","Bangor, UK",40JeffP
+"""been""","Silver Spring, MD, USA",40JeffP
+"""been""","Caernarfon, UK",40JeffP
+"""been""","Paignton, UK",40JeffP
+"""been""","Brandesburton, UK",40JeffP
+"""been""","Saint Louis, MO, USA",40JeffP
+"""been""","St. Petersburg, FL, USA",40JeffP
+"""been""","Lindau, Germany",40JeffP
+"""been""","Alexandria, VA, USA",40JeffP
+"""been""","Long Beach, CA, USA",40JeffP
+"""been""","Westport, CT, USA",40JeffP
+"""been""","Phoenix, AZ, USA",40JeffP
+"""been""","West Mystic, CT, USA",40JeffP
+"""been""","Munich, Germany",40JeffP
+"""been""","Tideswell, UK",40JeffP
+"""been""","Hedon, UK",40JeffP
+"""been""","Capel Curig, UK",40JeffP
+"""been""","Hohenschwangau, Germany",40JeffP
+"""been""","West Hartford, CT, USA",40JeffP
+"""been""","Antwerp, Belgium",40JeffP
+"""been""","Rotterdam, The Netherlands",40JeffP
+"""been""","Reykjavik, Iceland",40JeffP
+"""been""","Bristol, UK",40JeffP
+"""been""","Rome, Italy",40JeffP
+"""been""","Las Vegas, NV, USA",40JeffP
+"""been""","Evansville, IN, USA",40JeffP
+"""been""","Cardiff, UK",40JeffP
+"""been""","Secaucus, NJ, USA",40JeffP
+"""been""","Lagos, Nigeria",40JeffP
+"""been""","Windsor Locks, CT, USA",40JeffP
+"""been""","Fulton, CA, USA",40JeffP
+"""been""","Los Angeles, CA, USA",40JeffP
+"""been""","Prescott, AZ, USA",40JeffP
+"""been""","Betws-y-Coed, UK",40JeffP
+"""been""","Llanberis, UK",40JeffP
+"""been""","Snowdonia National Park, UK",40JeffP
+"""been""","Beddgelert, UK",40JeffP
+"""been""","Baton Rouge, LA, USA",40JeffP
+"""been""","Mittenwald, Germany",40JeffP
+"""been""","Rockville, MD, USA",40JeffP
+"""been""","Ilkley, UK",40JeffP
+"""been""","Peggy's Cove, Nova Scotia, Canada",40JeffP
+"""been""","Milwaukee, WI, USA",40JeffP

@@ -1,0 +1,816 @@
+tag,place,user
+"""been""","Midland, TX, USA",sacbear
+"""been""","Memphis, TN, USA",sacbear
+"""been""","Newport, KY, USA",sacbear
+"""been""","Dayton, OH, USA",sacbear
+"""been""","Versailles, KY, USA",sacbear
+"""been""","Beverly Hills, CA, USA",sacbear
+"""been""","Big Bear City, CA, USA",sacbear
+"""been""","Temecula, CA, USA",sacbear
+"""been""","Tehachapi, CA, USA",sacbear
+"""been""","Everett, WA, USA",sacbear
+"""been""","Stateline, NV, USA",sacbear
+"""been""","Sparks, NV, USA",sacbear
+"""been""","Blythe, CA, USA",sacbear
+"""been""","Irving, TX, USA",sacbear
+"""been""","Narragansett, RI, USA",sacbear
+"""been""","Middletown, RI, USA",sacbear
+"""been""","Thermal, CA, USA",sacbear
+"""been""","Bishop, CA, USA",sacbear
+"""been""","Thousand Palms, CA, USA",sacbear
+"""been""","Big Sur, CA, USA",sacbear
+"""been""","Little Rock, AR, USA",sacbear
+"""been""","New York City, NY, USA",sacbear
+"""been""","Sandwich, MA, USA",sacbear
+"""been""","Ventura, CA, USA",sacbear
+"""been""","Manhattan, KS, USA",sacbear
+"""been""","El Paso, TX, USA",sacbear
+"""been""","Paducah, KY, USA",sacbear
+"""been""","Trabuco Canyon, CA, USA",sacbear
+"""been""","Owensboro, KY, USA",sacbear
+"""been""","Torrance, CA, USA",sacbear
+"""been""","Borrego Springs, CA, USA",sacbear
+"""want""","St. Petersburg, Russia",sacbear
+"""been""","Staten Island, NY, USA",sacbear
+"""want""","San Juan, Puerto Rico",sacbear
+"""been""","Rehoboth Beach, DE, USA",sacbear
+"""been""","Tulare, CA, USA",sacbear
+"""been""","Tustin, CA, USA",sacbear
+"""been""","Newark, DE, USA",sacbear
+"""been""","Surrey, British Columbia, Canada",sacbear
+"""been""","Virginia City, NV, USA",sacbear
+"""been""","Stanton, CA, USA",sacbear
+"""been""","Daggett, CA, USA",sacbear
+"""been""","Cypress, CA, USA",sacbear
+"""been""","Kansas City, KS, USA",sacbear
+"""been""","Bakersfield, CA, USA",sacbear
+"""been""","Dana Point, CA, USA",sacbear
+"""been""","Ciudad Juarez, Mexico",sacbear
+"""been""","Asheville, NC, USA",sacbear
+"""been""","Bristol, RI, USA",sacbear
+"""been""","Baldwin Park, CA, USA",sacbear
+"""been""","Topeka, KS, USA",sacbear
+"""been""","Tupelo, MS, USA",sacbear
+"""been""","Boston, MA, USA",sacbear
+"""been""","Cudahy, CA, USA",sacbear
+"""been""","Culver City, CA, USA",sacbear
+"""been""","Colorado Springs, CO, USA",sacbear
+"""been""","Portsmouth, NH, USA",sacbear
+"""been""","Tijuana, Mexico",sacbear
+"""been""","Cincinnati, OH, USA",sacbear
+"""been"",""fave""","San Diego, CA, USA",sacbear
+"""been""","Rosarito, Mexico",sacbear
+"""been""","Puerto Vallarta, Mexico",sacbear
+"""been""","Kiawah Island, SC, USA",sacbear
+"""been""","Mazatlan, Mexico",sacbear
+"""been""","Montpelier, VT, USA",sacbear
+"""want""","Fort Lauderdale, FL, USA",sacbear
+"""been""","Chandler, AZ, USA",sacbear
+"""been""","Davis, CA, USA",sacbear
+"""been""","Banning, CA, USA",sacbear
+"""been""","Stockton, CA, USA",sacbear
+"""been""","Del Mar, CA, USA",sacbear
+"""been""","Olympia, WA, USA",sacbear
+"""been""","Cooperstown, NY, USA",sacbear
+"""been""","Acapulco, Mexico",sacbear
+"""been""","Carlsbad, NM, USA",sacbear
+"""been""","Newark, NJ, USA",sacbear
+"""been""","Bell Gardens, CA, USA",sacbear
+"""been""","Lawrence, KS, USA",sacbear
+"""been""","Jamestown, RI, USA",sacbear
+"""been""","Sunnyvale, CA, USA",sacbear
+"""been""","Denver, CO, USA",sacbear
+"""been""","Springfield, MA, USA",sacbear
+"""been""","Beaumont, CA, USA",sacbear
+"""been""","Desert Hot Springs, CA, USA",sacbear
+"""been""","Desert Center, CA, USA",sacbear
+"""been""","Bell, CA, USA",sacbear
+"""been""","Diamond Bar, CA, USA",sacbear
+"""been""","Flagstaff, AZ, USA",sacbear
+"""been""","Nome, AK, USA",sacbear
+"""been""","Ensenada, Mexico",sacbear
+"""been""","Bermuda Dunes, CA, USA",sacbear
+"""been""","Buffalo, NY, USA",sacbear
+"""been""","Tahoe Vista, CA, USA",sacbear
+"""been""","Valdosta, GA, USA",sacbear
+"""been""","Dover, DE, USA",sacbear
+"""been""","Newport, RI, USA",sacbear
+"""been""","Belmont Shore, CA, USA",sacbear
+"""been""","Tahoe City, CA, USA",sacbear
+"""been""","Berkeley, CA, USA",sacbear
+"""been"",""fave""","Sutter Creek, CA, USA",sacbear
+"""been""","Honolulu, HI, USA",sacbear
+"""been""","Ka'anapali, HI, USA",sacbear
+"""been""","Boulder, CO, USA",sacbear
+"""been"",""fave""","Vancouver, British Columbia, Canada",sacbear
+"""been""","Colton, CA, USA",sacbear
+"""been""","Providence, RI, USA",sacbear
+"""been"",""fave""","Victoria, British Columbia, Canada",sacbear
+"""been""","Hawthorne, CA, USA",sacbear
+"""been""","Estes Park, CO, USA",sacbear
+"""been""","Whistler, British Columbia, Canada",sacbear
+"""been""","Lubbock, TX, USA",sacbear
+"""been""","Bar Harbor, ME, USA",sacbear
+"""been""","Mont Tremblant, Quebec, Canada",sacbear
+"""want""","Venice, Italy",sacbear
+"""been""","Balboa Island, CA, USA",sacbear
+"""been""","Harrison Hot Springs, British Columbia, Canada",sacbear
+"""been""","Hemet, CA, USA",sacbear
+"""been""","Quincy, MA, USA",sacbear
+"""been""","Big Bear Lake, CA, USA",sacbear
+"""been"",""fave""","Valdez, AK, USA",sacbear
+"""been""","Kamloops, British Columbia, Canada",sacbear
+"""been""","Tucson, AZ, USA",sacbear
+"""been""","Nanaimo, British Columbia, Canada",sacbear
+"""been""","Corona, CA, USA",sacbear
+"""been""","Alameda, CA, USA",sacbear
+"""been""","San Antonio, TX, USA",sacbear
+"""been"",""fave""","San Francisco, CA, USA",sacbear
+"""been""","Penticton, British Columbia, Canada",sacbear
+"""been""","Corona del Mar, CA, USA",sacbear
+"""been""","Salem, MA, USA",sacbear
+"""been""","Prince George, British Columbia, Canada",sacbear
+"""been""","Thousand Oaks, CA, USA",sacbear
+"""been""","Greenville, SC, USA",sacbear
+"""been""","Commerce, CA, USA",sacbear
+"""been""","Compton, CA, USA",sacbear
+"""been""","Jamaica, NY, USA",sacbear
+"""been""","Alhambra, CA, USA",sacbear
+"""been""","Aliso Viejo, CA, USA",sacbear
+"""been""","Solvang, CA, USA",sacbear
+"""been""","Coto de Caza, CA, USA",sacbear
+"""been""","Macon, GA, USA",sacbear
+"""been""","Manchester, VT, USA",sacbear
+"""been""","Altadena, CA, USA",sacbear
+"""been""","Solana Beach, CA, USA",sacbear
+"""been""","Isle of Palms, SC, USA",sacbear
+"""been""","Sonoma, CA, USA",sacbear
+"""want""","Miami, FL, USA",sacbear
+"""been""","Sonora, CA, USA",sacbear
+"""want""","Miami Beach, FL, USA",sacbear
+"""want""","Tampa, FL, USA",sacbear
+"""been""","Port Angeles, WA, USA",sacbear
+"""been""","Chilliwack, British Columbia, Canada",sacbear
+"""been""","Hesperia, CA, USA",sacbear
+"""been""","Hermosa Beach, CA, USA",sacbear
+"""been""","Knoxville, TN, USA",sacbear
+"""been""","Wasilla, AK, USA",sacbear
+"""been""","Coronado, CA, USA",sacbear
+"""been""","Costa Mesa, CA, USA",sacbear
+"""been""","Whittier, AK, USA",sacbear
+"""been""","Guanajuato, Mexico",sacbear
+"""been""","Guadalajara, Mexico",sacbear
+"""been""","Cuernavaca, Mexico",sacbear
+"""been""","Amador City, CA, USA",sacbear
+"""been""","Zihuatanejo, Mexico",sacbear
+"""been""","Aiken, SC, USA",sacbear
+"""been""","South Pasadena, CA, USA",sacbear
+"""been""","Crestline, CA, USA",sacbear
+"""been""","Killington, VT, USA",sacbear
+"""been"",""fave""","Banff, Alberta, Canada",sacbear
+"""been""","South Gate, CA, USA",sacbear
+"""been""","Banff National Park, Alberta, Canada",sacbear
+"""been""","Bullhead City, AZ, USA",sacbear
+"""been""","Angels Camp, CA, USA",sacbear
+"""been""","Calgary, Alberta, Canada",sacbear
+"""been""","Lake Louise, Alberta, Canada",sacbear
+"""been""","South San Francisco, CA, USA",sacbear
+"""been""","Anaheim, CA, USA",sacbear
+"""been""","Albuquerque, NM, USA",sacbear
+"""been""","Edmonton, Alberta, Canada",sacbear
+"""been""","Petrified Forest National Park, AZ, USA",sacbear
+"""been""","Covina, CA, USA",sacbear
+"""been""","Bisbee, AZ, USA",sacbear
+"""been""","Jasper, Alberta, Canada",sacbear
+"""been""","Glendale, CA, USA",sacbear
+"""been""","Glendora, CA, USA",sacbear
+"""been""","Barstow, CA, USA",sacbear
+"""been""","Prudhoe Bay, AK, USA",sacbear
+"""been""","Malibu, CA, USA",sacbear
+"""been""","Concord, MA, USA",sacbear
+"""been""","Manhattan Beach, CA, USA",sacbear
+"""been""","Fayetteville, AR, USA",sacbear
+"""been""","Roseburg, OR, USA",sacbear
+"""been""","Gilroy, CA, USA",sacbear
+"""been""","Lytle Creek, CA, USA",sacbear
+"""been""","Glen Ellen, CA, USA",sacbear
+"""been""","Primm, NV, USA",sacbear
+"""been""","Reno, NV, USA",sacbear
+"""been""","Marina del Rey, CA, USA",sacbear
+"""been""","Martell, CA, USA",sacbear
+"""been""","Chino Hills, CA, USA",sacbear
+"""been""","Grass Valley, CA, USA",sacbear
+"""been""","Chino, CA, USA",sacbear
+"""been""","Surfside Beach, SC, USA",sacbear
+"""been""","Scottsdale, AZ, USA",sacbear
+"""been""","Goleta, CA, USA",sacbear
+"""been""","North Las Vegas, NV, USA",sacbear
+"""been""","Kapalua, HI, USA",sacbear
+"""been""","Claremont, CA, USA",sacbear
+"""been""","City of Industry, CA, USA",sacbear
+"""been""","Yucaipa, CA, USA",sacbear
+"""been""","Yucca Valley, CA, USA",sacbear
+"""been""","Farmington, CT, USA",sacbear
+"""been""","Maywood, CA, USA",sacbear
+"""been""","Chiriaco Summit, CA, USA",sacbear
+"""been""","Groton, CT, USA",sacbear
+"""been""","Clements, CA, USA",sacbear
+"""been""","Tempe, AZ, USA",sacbear
+"""been""","Wichita Falls, TX, USA",sacbear
+"""been""","Winnipeg, Manitoba, Canada",sacbear
+"""been""","Evanston, IL, USA",sacbear
+"""been""","Hacienda Heights, CA, USA",sacbear
+"""been""","Coachella, CA, USA",sacbear
+"""been""","Talkeetna, AK, USA",sacbear
+"""been""","Coalinga, CA, USA",sacbear
+"""been""","Greenwich, CT, USA",sacbear
+"""been""","Saint Sauveur des Monts, Quebec, Canada",sacbear
+"""been""","Rowland Heights, CA, USA",sacbear
+"""been""","Mount Baldy, CA, USA",sacbear
+"""been""","Running Springs, CA, USA",sacbear
+"""been""","Mount Wilson, CA, USA",sacbear
+"""been""","Mount Shasta, CA, USA",sacbear
+"""been""","Huntington Beach, CA, USA",sacbear
+"""been""","Wichita, KS, USA",sacbear
+"""been""","Meridian, MS, USA",sacbear
+"""been""","Pittsburgh, PA, USA",sacbear
+"""been""","Arcata, CA, USA",sacbear
+"""been""","Middletown, CT, USA",sacbear
+"""been""","Roseville, CA, USA",sacbear
+"""been""","Yuma, AZ, USA",sacbear
+"""been""","Arcadia, CA, USA",sacbear
+"""been""","Brewster, MA, USA",sacbear
+"""been""","Braintree, MA, USA",sacbear
+"""been""","Mountain View, CA, USA",sacbear
+"""been""","Greenville, NC, USA",sacbear
+"""been""","New Haven, CT, USA",sacbear
+"""been""","New London, CT, USA",sacbear
+"""been""","Murphys, CA, USA",sacbear
+"""been""","Indian Wells, CA, USA",sacbear
+"""been""","Murrieta, CA, USA",sacbear
+"""been""","Imperial Beach, CA, USA",sacbear
+"""been""","Inglewood, CA, USA",sacbear
+"""been""","National City, CA, USA",sacbear
+"""been""","Napa, CA, USA",sacbear
+"""been""","Indio, CA, USA",sacbear
+"""been""","Kapaau, HI, USA",sacbear
+"""been""","Wailea, HI, USA",sacbear
+"""been""","Fort Worth, TX, USA",sacbear
+"""been"",""want""","Sacramento, CA, USA",sacbear
+"""been""","Huntington Park, CA, USA",sacbear
+"""been""","Idyllwild, CA, USA",sacbear
+"""been""","Arroyo Grande, CA, USA",sacbear
+"""been""","Artesia, CA, USA",sacbear
+"""been""","Auburn, CA, USA",sacbear
+"""been""","Irvine, CA, USA",sacbear
+"""been""","Bentonville, AR, USA",sacbear
+"""been""","Nevada City, CA, USA",sacbear
+"""been"",""fave""","Avalon, CA, USA",sacbear
+"""been""","Irwindale, CA, USA",sacbear
+"""been""","Jackson, CA, USA",sacbear
+"""want""","Marrakech, Morocco",sacbear
+"""want""","Istanbul, Turkey",sacbear
+"""been""","Bardstown, KY, USA",sacbear
+"""been""","College Station, TX, USA",sacbear
+"""been""","Needles, CA, USA",sacbear
+"""been""","Chatham, MA, USA",sacbear
+"""been""","Ione, CA, USA",sacbear
+"""been""","Azusa, CA, USA",sacbear
+"""been""","Norwalk, CT, USA",sacbear
+"""been""","Norwich, CT, USA",sacbear
+"""been""","Julian, CA, USA",sacbear
+"""been""","Ehrenberg, AZ, USA",sacbear
+"""been""","Norco, CA, USA",sacbear
+"""been""","Joshua Tree, CA, USA",sacbear
+"""been""","Old Saybrook, CT, USA",sacbear
+"""been""","Toledo, OH, USA",sacbear
+"""want""","Jerusalem, Israel",sacbear
+"""been""","Newport Beach, CA, USA",sacbear
+"""want""","Paris, France",sacbear
+"""been""","Chicago, IL, USA",sacbear
+"""been""","Burlington, MA, USA",sacbear
+"""been""","Redding, CA, USA",sacbear
+"""been""","Redondo Beach, CA, USA",sacbear
+"""been""","Midway City, CA, USA",sacbear
+"""been""","Lexington, KY, USA",sacbear
+"""want""","Munich, Germany",sacbear
+"""want""","Rome, Italy",sacbear
+"""been""","Rancho Santa Fe, CA, USA",sacbear
+"""been""","Gastonia, NC, USA",sacbear
+"""been""","Rancho Palos Verdes, CA, USA",sacbear
+"""been""","Albany, NY, USA",sacbear
+"""been""","Rancho Santa Margarita, CA, USA",sacbear
+"""been""","Merced, CA, USA",sacbear
+"""been""","Rialto, CA, USA",sacbear
+"""been""","Nags Head, NC, USA",sacbear
+"""been""","Mission Viejo, CA, USA",sacbear
+"""been""","Springfield, MO, USA",sacbear
+"""want""","Berlin, Germany",sacbear
+"""been""","Hartford, CT, USA",sacbear
+"""been""","Mashpee, MA, USA",sacbear
+"""been""","Palenque, Mexico",sacbear
+"""been""","New Bern, NC, USA",sacbear
+"""been""","Franklin, NC, USA",sacbear
+"""been""","Montclair, CA, USA",sacbear
+"""been""","Manchester, CT, USA",sacbear
+"""been""","Sydney, Australia",sacbear
+"""been""","Canton, OH, USA",sacbear
+"""been""","Brisbane, Australia",sacbear
+"""been""","Elizabethtown, KY, USA",sacbear
+"""been""","Mojave, CA, USA",sacbear
+"""been""","Modesto, CA, USA",sacbear
+"""been""","Natick, MA, USA",sacbear
+"""been""","Monrovia, CA, USA",sacbear
+"""want""","Sao Paulo, Brazil",sacbear
+"""been""","Moorpark, CA, USA",sacbear
+"""been""","Rolling Hills, CA, USA",sacbear
+"""been""","Moreno Valley, CA, USA",sacbear
+"""been""","Rolling Hills Estates, CA, USA",sacbear
+"""been""","Winslow, AZ, USA",sacbear
+"""been""","Rosemead, CA, USA",sacbear
+"""been""","Morongo Valley, CA, USA",sacbear
+"""want""","Frankfurt, Germany",sacbear
+"""been""","Montecito, CA, USA",sacbear
+"""been""","Riverside, CA, USA",sacbear
+"""been""","Montebello, CA, USA",sacbear
+"""been""","Williams, AZ, USA",sacbear
+"""been""","Monterey, CA, USA",sacbear
+"""been""","Cordova, AK, USA",sacbear
+"""been""","Ipswich, MA, USA",sacbear
+"""been""","Niagara Falls, NY, USA",sacbear
+"""been""","Hyannis Port, MA, USA",sacbear
+"""been""","Hyannis, MA, USA",sacbear
+"""been""","Nashville, IN, USA",sacbear
+"""been""","Point Reyes Station, CA, USA",sacbear
+"""been""","Pleasanton, CA, USA",sacbear
+"""been""","Franconia, NH, USA",sacbear
+"""been""","North Little Rock, AR, USA",sacbear
+"""been""","Emerald Isle, NC, USA",sacbear
+"""been""","Sturbridge, MA, USA",sacbear
+"""been""","Richmond, KY, USA",sacbear
+"""been""","Pomona, CA, USA",sacbear
+"""been""","Surf City, NC, USA",sacbear
+"""been""","Tewksbury, MA, USA",sacbear
+"""been""","Andover, MA, USA",sacbear
+"""been""","Sunset Beach, NC, USA",sacbear
+"""been""","Port Hueneme, CA, USA",sacbear
+"""been""","Amherst, MA, USA",sacbear
+"""want""","Atlantic City, NJ, USA",sacbear
+"""been""","Mount Airy, NC, USA",sacbear
+"""been""","Wayland, MA, USA",sacbear
+"""been""","Tulsa, OK, USA",sacbear
+"""been""","Jackson, MS, USA",sacbear
+"""been""","Fayetteville, NC, USA",sacbear
+"""been""","Lenox, MA, USA",sacbear
+"""been""","Rancho Dominguez, CA, USA",sacbear
+"""been""","Rancho Cucamonga, CA, USA",sacbear
+"""been""","Mendocino, CA, USA",sacbear
+"""been""","Rancho Murieta, CA, USA",sacbear
+"""been""","Rancho Mirage, CA, USA",sacbear
+"""been""","Mecca, CA, USA",sacbear
+"""been""","Chattanooga, TN, USA",sacbear
+"""been""","Mooresville, NC, USA",sacbear
+"""been""","Rancho Bernardo, CA, USA",sacbear
+"""been""","Ramona, CA, USA",sacbear
+"""been""","Mexicali, Mexico",sacbear
+"""been""","Morehead City, NC, USA",sacbear
+"""been""","Rancho Cordova, CA, USA",sacbear
+"""been""","Ogunquit, ME, USA",sacbear
+"""been""","Waimea, HI, USA",sacbear
+"""been""","Wilmington, DE, USA",sacbear
+"""been""","Killeen, TX, USA",sacbear
+"""been"",""fave""","Catalina Island, CA, USA",sacbear
+"""been""","Utqiagvik, AK, USA",sacbear
+"""been""","Norcross, GA, USA",sacbear
+"""been""","Eugene, OR, USA",sacbear
+"""been""","Bronx, NY, USA",sacbear
+"""been""","Louisburg, NC, USA",sacbear
+"""been""","Harwich Port, MA, USA",sacbear
+"""want""","Buenos Aires, Argentina",sacbear
+"""been""","Koke'e State Park, HI, USA",sacbear
+"""been""","Grants Pass, OR, USA",sacbear
+"""been""","Mobile, AL, USA",sacbear
+"""been""","Brattleboro, VT, USA",sacbear
+"""been""","Dover, NH, USA",sacbear
+"""been""","Chugiak, AK, USA",sacbear
+"""been""","Bangor, ME, USA",sacbear
+"""been""","Virginia Beach, VA, USA",sacbear
+"""want""","Budapest, Hungary",sacbear
+"""been""","Concord, NH, USA",sacbear
+"""been""","Montgomery, AL, USA",sacbear
+"""been""","South Yarmouth, MA, USA",sacbear
+"""been""","Hilo, HI, USA",sacbear
+"""been""","Santa Cruz, CA, USA",sacbear
+"""been""","Santa Fe Springs, CA, USA",sacbear
+"""been""","Santa Clara, CA, USA",sacbear
+"""been""","Bellevue, WA, USA",sacbear
+"""been""","Santa Clarita, CA, USA",sacbear
+"""been""","Bainbridge Island, WA, USA",sacbear
+"""been""","Cerritos, CA, USA",sacbear
+"""been""","Santa Ana Heights, CA, USA",sacbear
+"""been""","Santa Barbara, CA, USA",sacbear
+"""been""","Santa Ana, CA, USA",sacbear
+"""been""","Santee, CA, USA",sacbear
+"""been""","Sunset Beach, HI, USA",sacbear
+"""been""","Santa Maria, CA, USA",sacbear
+"""been""","Santa Monica, CA, USA",sacbear
+"""been""","Wrightwood, CA, USA",sacbear
+"""been""","Yorba Linda, CA, USA",sacbear
+"""been""","Yermo, CA, USA",sacbear
+"""been""","Hanover, NH, USA",sacbear
+"""been""","Hampton, NH, USA",sacbear
+"""been""","Springfield, IL, USA",sacbear
+"""been""","Seaside, CA, USA",sacbear
+"""been""","Omaha, NE, USA",sacbear
+"""been""","Kualapuu, HI, USA",sacbear
+"""been""","West Yarmouth, MA, USA",sacbear
+"""been""","Haleiwa, HI, USA",sacbear
+"""been""","Louisville, KY, USA",sacbear
+"""been""","Sausalito, CA, USA",sacbear
+"""been""","Bremerton, WA, USA",sacbear
+"""been""","Seal Beach, CA, USA",sacbear
+"""been""","Medford, OR, USA",sacbear
+"""been""","Cambridge, MA, USA",sacbear
+"""been""","Rockport, ME, USA",sacbear
+"""been""","Rockland, ME, USA",sacbear
+"""been""","Kailua, HI, USA",sacbear
+"""been""","Richmond, VA, USA",sacbear
+"""been""","Lowell, MA, USA",sacbear
+"""been""","Atlanta, GA, USA",sacbear
+"""been""","West Springfield, MA, USA",sacbear
+"""been""","Portland, ME, USA",sacbear
+"""been""","Kapolei, HI, USA",sacbear
+"""been""","Blaine, WA, USA",sacbear
+"""been""","Kaneohe, HI, USA",sacbear
+"""been""","Pearl City, HI, USA",sacbear
+"""been""","Bellingham, WA, USA",sacbear
+"""been""","Ocean Isle Beach, NC, USA",sacbear
+"""been""","Ocracoke, NC, USA",sacbear
+"""been""","Waialua, HI, USA",sacbear
+"""been""","Laconia, NH, USA",sacbear
+"""been""","Lihue, HI, USA",sacbear
+"""been""","Chester, VT, USA",sacbear
+"""want""","New Orleans, LA, USA",sacbear
+"""been""","Salinas, CA, USA",sacbear
+"""been""","Columbia, SC, USA",sacbear
+"""been""","Kilauea, HI, USA",sacbear
+"""been""","Weed, CA, USA",sacbear
+"""been""","Waimea, HI, USA",sacbear
+"""been""","Princeville, HI, USA",sacbear
+"""been""","Martinez, CA, USA",sacbear
+"""been""","San Bernardino, CA, USA",sacbear
+"""been""","Poipu, HI, USA",sacbear
+"""been""","San Andreas, CA, USA",sacbear
+"""been""","Pigeon Forge, TN, USA",sacbear
+"""been""","Fontana, CA, USA",sacbear
+"""been""","Lanai City, HI, USA",sacbear
+"""been""","Kirkland, WA, USA",sacbear
+"""been""","Camp Pendleton, CA, USA",sacbear
+"""been""","Bunn, NC, USA",sacbear
+"""been""","Rochester, NY, USA",sacbear
+"""been""","Kailua-Kona, HI, USA",sacbear
+"""been""","Hana, HI, USA",sacbear
+"""been""","Twentynine Palms, CA, USA",sacbear
+"""been""","Lahaina, HI, USA",sacbear
+"""been""","Tacoma, WA, USA",sacbear
+"""been""","San Gabriel, CA, USA",sacbear
+"""been""","Westlake Village, CA, USA",sacbear
+"""been""","Kihei, HI, USA",sacbear
+"""been""","West Sacramento, CA, USA",sacbear
+"""been""","San Dimas, CA, USA",sacbear
+"""been""","Kahului, HI, USA",sacbear
+"""been""","North Pole, AK, USA",sacbear
+"""been""","San Fernando, CA, USA",sacbear
+"""been""","Charleston, SC, USA",sacbear
+"""been""","Dover, VT, USA",sacbear
+"""been""","Paia, HI, USA",sacbear
+"""been""","San Gregorio, CA, USA",sacbear
+"""been""","Seattle, WA, USA",sacbear
+"""been""","San Jacinto, CA, USA",sacbear
+"""been""","West Covina, CA, USA",sacbear
+"""been""","Wailuku, HI, USA",sacbear
+"""been""","San Clemente, CA, USA",sacbear
+"""been""","West Hollywood, CA, USA",sacbear
+"""been""","Burlington, VT, USA",sacbear
+"""been""","Boone, NC, USA",sacbear
+"""been""","Brevard, NC, USA",sacbear
+"""been""","Boulder City, NV, USA",sacbear
+"""been"",""fave""","Anchorage, AK, USA",sacbear
+"""been""","San Luis Obispo, CA, USA",sacbear
+"""been""","Carson, CA, USA",sacbear
+"""been""","Odessa, TX, USA",sacbear
+"""been""","Greensboro, NC, USA",sacbear
+"""been""","Westminster, CA, USA",sacbear
+"""been""","Waikoloa, HI, USA",sacbear
+"""been""","Volcano, HI, USA",sacbear
+"""been""","Carmel, CA, USA",sacbear
+"""been""","Carlsbad, CA, USA",sacbear
+"""been""","San Juan Capistrano, CA, USA",sacbear
+"""been""","Wilmington, VT, USA",sacbear
+"""been""","San Jose, CA, USA",sacbear
+"""been""","Carpinteria, CA, USA",sacbear
+"""been""","Palmer, AK, USA",sacbear
+"""want""","Kissimmee, FL, USA",sacbear
+"""been""","Hanalei, HI, USA",sacbear
+"""been""","Overland Park, KS, USA",sacbear
+"""been""","Kapaa, HI, USA",sacbear
+"""been""","San Simeon, CA, USA",sacbear
+"""been""","Hot Springs, AR, USA",sacbear
+"""been""","Bloomington, IL, USA",sacbear
+"""been""","Castaic, CA, USA",sacbear
+"""been""","Cathedral City, CA, USA",sacbear
+"""been""","Topsail Beach, NC, USA",sacbear
+"""been""","Buxton, NC, USA",sacbear
+"""been""","Lake Forest, CA, USA",sacbear
+"""been""","Vancouver, WA, USA",sacbear
+"""been""","Lake Elsinore, CA, USA",sacbear
+"""been""","Aguascalientes, Mexico",sacbear
+"""been""","Encinitas, CA, USA",sacbear
+"""been""","Upland, CA, USA",sacbear
+"""been""","Escondido, CA, USA",sacbear
+"""been""","Stowe, VT, USA",sacbear
+"""been""","Brookline, MA, USA",sacbear
+"""been""","Golden, CO, USA",sacbear
+"""been""","Laguna Niguel, CA, USA",sacbear
+"""been""","Brooklyn, NY, USA",sacbear
+"""been""","Fairbanks, AK, USA",sacbear
+"""been""","Laguna Woods, CA, USA",sacbear
+"""been""","Emeryville, CA, USA",sacbear
+"""been""","Lake Arrowhead, CA, USA",sacbear
+"""been""","Lake Havasu City, AZ, USA",sacbear
+"""been""","Beaufort, NC, USA",sacbear
+"""been""","Brentwood, CA, USA",sacbear
+"""been""","Burbank, CA, USA",sacbear
+"""been""","Maricopa, AZ, USA",sacbear
+"""been""","SeaTac, WA, USA",sacbear
+"""been""","Buena Park, CA, USA",sacbear
+"""been""","Fairfield, CA, USA",sacbear
+"""been""","North Myrtle Beach, SC, USA",sacbear
+"""been""","South Burlington, VT, USA",sacbear
+"""been""","Burlingame, CA, USA",sacbear
+"""been""","Vallejo, CA, USA",sacbear
+"""been""","North Charleston, SC, USA",sacbear
+"""been""","Page, AZ, USA",sacbear
+"""been""","Burson, CA, USA",sacbear
+"""been""","Nashville, TN, USA",sacbear
+"""been""","Beaufort, SC, USA",sacbear
+"""been""","Buellton, CA, USA",sacbear
+"""want""","Madrid, Spain",sacbear
+"""been""","Bald Head Island, NC, USA",sacbear
+"""been""","Vacaville, CA, USA",sacbear
+"""been""","Cabazon, CA, USA",sacbear
+"""been""","Calabasas, CA, USA",sacbear
+"""been""","Vernon, CA, USA",sacbear
+"""been""","Fiddletown, CA, USA",sacbear
+"""been""","Calexico, CA, USA",sacbear
+"""been""","Waterbury, VT, USA",sacbear
+"""been""","Villa Park, CA, USA",sacbear
+"""want""","Havana, Cuba",sacbear
+"""been""","Mesa, AZ, USA",sacbear
+"""been""","Buttonwillow, CA, USA",sacbear
+"""been""","Austin, TX, USA",sacbear
+"""been""","Walnut Creek, CA, USA",sacbear
+"""been""","Folsom, CA, USA",sacbear
+"""been""","Camarillo, CA, USA",sacbear
+"""been""","Savannah, GA, USA",sacbear
+"""been""","North Topsail Beach, NC, USA",sacbear
+"""been""","Spokane, WA, USA",sacbear
+"""been""","Nogales, AZ, USA",sacbear
+"""been""","Volcano, CA, USA",sacbear
+"""been""","Calistoga, CA, USA",sacbear
+"""been""","North Palm Springs, CA, USA",sacbear
+"""been""","Texarkana, TX, USA",sacbear
+"""been""","Norwalk, CA, USA",sacbear
+"""been""","Duarte, CA, USA",sacbear
+"""been""","Birmingham, AL, USA",sacbear
+"""been""","Drytown, CA, USA",sacbear
+"""been""","Aspen, CO, USA",sacbear
+"""been""","North Highlands, CA, USA",sacbear
+"""been""","Berea, KY, USA",sacbear
+"""been""","Cambridge, MD, USA",sacbear
+"""been""","Downey, CA, USA",sacbear
+"""been""","Kirkwood, CA, USA",sacbear
+"""been""","Glendale, AZ, USA",sacbear
+"""been""","Gilbert, AZ, USA",sacbear
+"""been""","Biloxi, MS, USA",sacbear
+"""been""","Kansas City, MO, USA",sacbear
+"""been""","Glennallen, AK, USA",sacbear
+"""been""","La Crescenta, CA, USA",sacbear
+"""been""","El Centro, CA, USA",sacbear
+"""been""","Girdwood, AK, USA",sacbear
+"""been""","La Canada Flintridge, CA, USA",sacbear
+"""been""","El Cajon, CA, USA",sacbear
+"""been""","Warwick, RI, USA",sacbear
+"""been""","La Habra, CA, USA",sacbear
+"""been""","La Jolla, CA, USA",sacbear
+"""want""","Orlando, FL, USA",sacbear
+"""been""","El Dorado Hills, CA, USA",sacbear
+"""been""","La Mesa, CA, USA",sacbear
+"""been""","Auckland Central, New Zealand",sacbear
+"""want""","Marmaris, Turkey",sacbear
+"""been""","Melbourne, Australia",sacbear
+"""been""","El Toro, CA, USA",sacbear
+"""been""","La Quinta, CA, USA",sacbear
+"""been""","Amarillo, TX, USA",sacbear
+"""been""","Bloomington, IN, USA",sacbear
+"""been""","La Verne, CA, USA",sacbear
+"""been""","Laguna Hills, CA, USA",sacbear
+"""been""","Laguna Beach, CA, USA",sacbear
+"""been""","Brea, CA, USA",sacbear
+"""been""","Kingman, AZ, USA",sacbear
+"""been""","Myrtle Beach, SC, USA",sacbear
+"""been""","La Mirada, CA, USA",sacbear
+"""been""","Birmingham, UK",sacbear
+"""been""","El Segundo, CA, USA",sacbear
+"""been""","La Puente, CA, USA",sacbear
+"""been""","Homer, AK, USA",sacbear
+"""been""","Detroit, MI, USA",sacbear
+"""been""","Maui, HI, USA",sacbear
+"""been""","Perris, CA, USA",sacbear
+"""been""","Parker, AZ, USA",sacbear
+"""been""","Livermore, CA, USA",sacbear
+"""want""","Nice, France",sacbear
+"""been""","Henderson, NV, USA",sacbear
+"""been""","Pebble Beach, CA, USA",sacbear
+"""been""","Baton Rouge, LA, USA",sacbear
+"""been""","Lincoln, CA, USA",sacbear
+"""been""","Rockville, MD, USA",sacbear
+"""been""","Oahu, HI, USA",sacbear
+"""been""","Lodi, CA, USA",sacbear
+"""been""","Ixtapa, Mexico",sacbear
+"""been""","Fort Bragg, CA, USA",sacbear
+"""been""","Loma Linda, CA, USA",sacbear
+"""been""","West Hartford, CT, USA",sacbear
+"""been""","Phoenix, AZ, USA",sacbear
+"""been""","Lomita, CA, USA",sacbear
+"""been""","Pine Grove, CA, USA",sacbear
+"""been""","Fortuna, CA, USA",sacbear
+"""been""","Lompoc, CA, USA",sacbear
+"""been""","Waco, TX, USA",sacbear
+"""been""","Evansville, IN, USA",sacbear
+"""been""","Gloucester, MA, USA",sacbear
+"""been""","Pico Rivera, CA, USA",sacbear
+"""been""","Los Alamitos, CA, USA",sacbear
+"""been""","Durham, NC, USA",sacbear
+"""been""","Fremont, CA, USA",sacbear
+"""been""","Pittsburg, CA, USA",sacbear
+"""been""","Pismo Beach, CA, USA",sacbear
+"""been""","Los Angeles, CA, USA",sacbear
+"""been""","Placentia, CA, USA",sacbear
+"""been""","Los Gatos, CA, USA",sacbear
+"""been""","Los Banos, CA, USA",sacbear
+"""been""","Placerville, CA, USA",sacbear
+"""been""","Fresno, CA, USA",sacbear
+"""been""","Quartzsite, AZ, USA",sacbear
+"""been""","Spartanburg, SC, USA",sacbear
+"""been""","Salina, KS, USA",sacbear
+"""been""","Portland, OR, USA",sacbear
+"""been""","Pioneer, CA, USA",sacbear
+"""want""","Barcelona, Spain",sacbear
+"""been""","Long Beach, CA, USA",sacbear
+"""been""","Fountain Valley, CA, USA",sacbear
+"""been""","Milwaukee, WI, USA",sacbear
+"""been""","Bossier City, LA, USA",sacbear
+"""been""","Saint Louis, MO, USA",sacbear
+"""been""","Garden Grove, CA, USA",sacbear
+"""been""","Danbury, CT, USA",sacbear
+"""been""","Gardena, CA, USA",sacbear
+"""been""","Niagara Falls, Ontario, Canada",sacbear
+"""been""","Richmond, British Columbia, Canada",sacbear
+"""been""","Lynwood, CA, USA",sacbear
+"""been""","North Vancouver, British Columbia, Canada",sacbear
+"""been""","Bethany Beach, DE, USA",sacbear
+"""been""","Covington, KY, USA",sacbear
+"""been"",""fave""","Las Vegas, NV, USA",sacbear
+"""been""","Corbin, KY, USA",sacbear
+"""been""","Laughlin, NV, USA",sacbear
+"""want""","Lyon, France",sacbear
+"""been""","Los Nietos, CA, USA",sacbear
+"""been""","Fullerton, CA, USA",sacbear
+"""been""","East Saint Louis, IL, USA",sacbear
+"""been""","Duck, NC, USA",sacbear
+"""been""","Kittery, ME, USA",sacbear
+"""been""","Dallas, TX, USA",sacbear
+"""been""","Rockport, MA, USA",sacbear
+"""want""","Cordoba, Spain",sacbear
+"""been""","Ontario, CA, USA",sacbear
+"""been""","Tuscaloosa, AL, USA",sacbear
+"""been""","Orange, CA, USA",sacbear
+"""been""","Pacifica, CA, USA",sacbear
+"""been""","Kitty Hawk, NC, USA",sacbear
+"""been""","Pala, CA, USA",sacbear
+"""been""","Provincetown, MA, USA",sacbear
+"""been""","York, UK",sacbear
+"""been""","Nottingham, UK",sacbear
+"""been""","Las Cruces, NM, USA",sacbear
+"""been""","Cherokee, NC, USA",sacbear
+"""been""","Kure Beach, NC, USA",sacbear
+"""been""","Oxnard, CA, USA",sacbear
+"""been""","Charlotte, NC, USA",sacbear
+"""been""","Revere, MA, USA",sacbear
+"""been""","Chapel Hill, NC, USA",sacbear
+"""been""","Kennebunkport, ME, USA",sacbear
+"""been""","Kennebunk, ME, USA",sacbear
+"""been""","Palos Verdes Estates, CA, USA",sacbear
+"""been""","Lawndale, CA, USA",sacbear
+"""been""","Harrodsburg, KY, USA",sacbear
+"""been""","Carson City, NV, USA",sacbear
+"""been""","Oxford, UK",sacbear
+"""been""","Palm Desert, CA, USA",sacbear
+"""been""","Stamford, CT, USA",sacbear
+"""been""","Palmdale, CA, USA",sacbear
+"""been""","Lakewood, CA, USA",sacbear
+"""been""","Palm Springs, CA, USA",sacbear
+"""been""","Framingham, MA, USA",sacbear
+"""been""","Palo Alto, CA, USA",sacbear
+"""been""","Foxborough, MA, USA",sacbear
+"""been""","Corolla, NC, USA",sacbear
+"""been""","Paso Robles, CA, USA",sacbear
+"""been""","Pearblossom, CA, USA",sacbear
+"""been""","Kauai, HI, USA",sacbear
+"""want""","Palma de Mallorca, Spain",sacbear
+"""been""","Island of Hawaii, HI, USA",sacbear
+"""been""","Paramount, CA, USA",sacbear
+"""been""","Pasadena, CA, USA",sacbear
+"""been""","Falmouth, MA, USA",sacbear
+"""been""","Lebec, CA, USA",sacbear
+"""been""","Fall River, MA, USA",sacbear
+"""been""","Bath, UK",sacbear
+"""been""","Concord, NC, USA",sacbear
+"""been""","Frankfort, KY, USA",sacbear
+"""want""","Ottawa, Ontario, Canada",sacbear
+"""been""","Huntsville, AL, USA",sacbear
+"""been""","Texarkana, AR, USA",sacbear
+"""been"",""fave""","Denali National Park and Preserve, AK, USA",sacbear
+"""been""","Clarksville, IN, USA",sacbear
+"""been""","Hot Springs, NC, USA",sacbear
+"""been"",""fave""","South Lake Tahoe, CA, USA",sacbear
+"""been""","Nelson, British Columbia, Canada",sacbear
+"""been""","Holden Beach, NC, USA",sacbear
+"""been""","Raleigh, NC, USA",sacbear
+"""been""","Atlantic Beach, NC, USA",sacbear
+"""been""","South Portland, ME, USA",sacbear
+"""been""","Gallup, NM, USA",sacbear
+"""want""","Prague, Czech Republic",sacbear
+"""been""","Oakland, CA, USA",sacbear
+"""been""","Georgetown, KY, USA",sacbear
+"""been""","Golden, British Columbia, Canada",sacbear
+"""been""","Oak Glen, CA, USA",sacbear
+"""been""","Plymouth, MA, USA",sacbear
+"""been""","Avon, NC, USA",sacbear
+"""been""","Kill Devil Hills, NC, USA",sacbear
+"""been""","Danvers, MA, USA",sacbear
+"""been""","Shreveport, LA, USA",sacbear
+"""been""","West Vancouver, British Columbia, Canada",sacbear
+"""been""","Bowling Green, KY, USA",sacbear
+"""been""","Campbell River, British Columbia, Canada",sacbear
+"""been""","Burnaby, British Columbia, Canada",sacbear
+"""been""","Oklahoma City, OK, USA",sacbear
+"""been""","Cary, NC, USA",sacbear
+"""been""","Columbus, OH, USA",sacbear
+"""been""","Oceanside, CA, USA",sacbear
+"""been""","Jacksonville, NC, USA",sacbear
+"""been""","Peabody, MA, USA",sacbear
+"""been""","Ojai, CA, USA",sacbear
+"""been""","Carolina Beach, NC, USA",sacbear
+"""been""","Rocky Mount, NC, USA",sacbear
+"""been""","Newton, MA, USA",sacbear
+"""been""","Indianapolis, IN, USA",sacbear
+"""been""","Woburn, MA, USA",sacbear
+"""been""","Wrangell-St Elias National Park and Preserve, AK, USA",sacbear
+"""been""","Regina, Saskatchewan, Canada",sacbear
+"""been""","Wilmington, NC, USA",sacbear
+"""been""","Worcester, MA, USA",sacbear
+"""been""","Saskatoon, Saskatchewan, Canada",sacbear
+"""want""","Washington DC, DC, USA",sacbear
+"""been""","Laval, Quebec, Canada",sacbear
+"""been""","Simi Valley, CA, USA",sacbear
+"""been""","Dorval, Quebec, Canada",sacbear
+"""been""","Brossard, Quebec, Canada",sacbear
+"""been""","Signal Hill, CA, USA",sacbear
+"""been""","Truth or Consequences, NM, USA",sacbear
+"""been""","Tucumcari, NM, USA",sacbear
+"""been""","Sherbrooke, Quebec, Canada",sacbear
+"""been"",""fave""","Montreal, Quebec, Canada",sacbear
+"""been""","Manchester, NH, USA",sacbear
+"""been"",""want""","Quebec City, Quebec, Canada",sacbear
+"""been""","Toronto, Ontario, Canada",sacbear
+"""been""","Mexico City, Mexico",sacbear
+"""been""","Oaxaca, Mexico",sacbear
+"""been""","Hawaii Volcanoes National Park, HI, USA",sacbear
+"""been""","Haleakala National Park, HI, USA",sacbear
+"""been""","Taxco, Mexico",sacbear
+"""been""","Stone Mountain, GA, USA",sacbear
+"""been""","Grand Canyon National Park, AZ, USA",sacbear
+"""been""","Freeport, ME, USA",sacbear
+"""been""","Hickory, NC, USA",sacbear
+"""want""","Vienna, Austria",sacbear
+"""been""","Winston Salem, NC, USA",sacbear
+"""been""","Yarmouth Port, MA, USA",sacbear
+"""been""","Florence, KY, USA",sacbear
+"""been""","Farmington, NM, USA",sacbear
+"""been""","Manchester, UK",sacbear
+"""been""","Hendersonville, NC, USA",sacbear
+"""been""","Hatteras Island, NC, USA",sacbear
+"""been""","Nashua, NH, USA",sacbear
+"""been""","Wrightsville Beach, NC, USA",sacbear

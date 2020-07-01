@@ -1,0 +1,604 @@
+tag,place,user
+"""been""","Port Angeles, WA, USA",JLFERG
+"""been""","Salt Lake City, UT, USA",JLFERG
+"""been""","Seaside, OR, USA",JLFERG
+"""been""","Yountville, CA, USA",JLFERG
+"""been""","Redwood National Park, CA, USA",JLFERG
+"""been""","Altoona, PA, USA",JLFERG
+"""been""","Jacksonville, FL, USA",JLFERG
+"""been""","Mechanicsburg, PA, USA",JLFERG
+"""been""","Astoria, OR, USA",JLFERG
+"""been""","Meadville, PA, USA",JLFERG
+"""been""","Detroit, MI, USA",JLFERG
+"""been""","Chesapeake Beach, MD, USA",JLFERG
+"""been""","Ocean City, MD, USA",JLFERG
+"""been""","Yakima, WA, USA",JLFERG
+"""been""","Myrtle Beach, SC, USA",JLFERG
+"""been""","London, UK",JLFERG
+"""been""","Woodinville, WA, USA",JLFERG
+"""been""","Grass Valley, CA, USA",JLFERG
+"""been""","Evanston, IL, USA",JLFERG
+"""been""","Steamboat Springs, CO, USA",JLFERG
+"""been""","Bloomington, IN, USA",JLFERG
+"""been""","SeaTac, WA, USA",JLFERG
+"""been""","Chico, CA, USA",JLFERG
+"""been""","Lake Powell, UT, USA",JLFERG
+"""been""","Anacortes, WA, USA",JLFERG
+"""been""","Sisters, OR, USA",JLFERG
+"""been""","Glendale, AZ, USA",JLFERG
+"""been""","Sedona, AZ, USA",JLFERG
+"""been""","Marina del Rey, CA, USA",JLFERG
+"""been""","North Myrtle Beach, SC, USA",JLFERG
+"""been""","Scottsdale, AZ, USA",JLFERG
+"""been""","Munich, Germany",JLFERG
+"""been""","Lake Ozark, MO, USA",JLFERG
+"""been""","Jamestown, NY, USA",JLFERG
+"""been""","Rome, Italy",JLFERG
+"""been""","Augsburg, Germany",JLFERG
+"""been""","Sarasota, FL, USA",JLFERG
+"""been""","Hagerstown, MD, USA",JLFERG
+"""been""","Manhattan Beach, CA, USA",JLFERG
+"""been""","Nuremberg, Germany",JLFERG
+"""been""","Ketchum, ID, USA",JLFERG
+"""been""","Malibu, CA, USA",JLFERG
+"""been""","Brussels, Belgium",JLFERG
+"""been""","Regensburg, Germany",JLFERG
+"""been""","Meinhard, Germany",JLFERG
+"""been""","Wenatchee, WA, USA",JLFERG
+"""been""","Boulder, CO, USA",JLFERG
+"""been""","Palm Beach, FL, USA",JLFERG
+"""been""","Roseburg, OR, USA",JLFERG
+"""been""","Emeryville, CA, USA",JLFERG
+"""been""","Rockaway Beach, OR, USA",JLFERG
+"""been""","Laguna Woods, CA, USA",JLFERG
+"""been""","Phuket, Thailand",JLFERG
+"""been""","Kansas City, MO, USA",JLFERG
+"""been""","Gaithersburg, MD, USA",JLFERG
+"""been""","Reno, NV, USA",JLFERG
+"""been""","Mill Valley, CA, USA",JLFERG
+"""been""","Half Moon Bay, CA, USA",JLFERG
+"""been""","Montrose, CO, USA",JLFERG
+"""been""","Laguna Beach, CA, USA",JLFERG
+"""been""","Vail, CO, USA",JLFERG
+"""been""","Salem, OR, USA",JLFERG
+"""been""","Winthrop, WA, USA",JLFERG
+"""been""","La Quinta, CA, USA",JLFERG
+"""been""","Beaver Creek, CO, USA",JLFERG
+"""been""","Whitefish, MT, USA",JLFERG
+"""been""","Phuket Town, Thailand",JLFERG
+"""been""","Frankfurt, Germany",JLFERG
+"""been""","Fulda, Germany",JLFERG
+"""been""","Homer, AK, USA",JLFERG
+"""been""","Richland, WA, USA",JLFERG
+"""been""","Leuven, Belgium",JLFERG
+"""been""","Redmond, WA, USA",JLFERG
+"""been""","Siesta Key, FL, USA",JLFERG
+"""been""","Orlando, FL, USA",JLFERG
+"""been""","Charleston, WV, USA",JLFERG
+"""been""","Renton, WA, USA",JLFERG
+"""been""","La Jolla, CA, USA",JLFERG
+"""been""","Sitka, AK, USA",JLFERG
+"""been""","Solvang, CA, USA",JLFERG
+"""been""","Moab, UT, USA",JLFERG
+"""been""","Greensboro, NC, USA",JLFERG
+"""been""","Tallahassee, FL, USA",JLFERG
+"""been""","Cabazon, CA, USA",JLFERG
+"""been""","Costa Mesa, CA, USA",JLFERG
+"""been""","Perdido Key, FL, USA",JLFERG
+"""been""","Waikoloa, HI, USA",JLFERG
+"""been""","Coronado, CA, USA",JLFERG
+"""been""","Austin, TX, USA",JLFERG
+"""been""","Round Rock, TX, USA",JLFERG
+"""been""","Plano, TX, USA",JLFERG
+"""been""","Pensacola, FL, USA",JLFERG
+"""been""","York, PA, USA",JLFERG
+"""been""","Hermosa Beach, CA, USA",JLFERG
+"""been""","Gatlinburg, TN, USA",JLFERG
+"""been""","Cumberland, MD, USA",JLFERG
+"""been""","Clayton, MO, USA",JLFERG
+"""been""","Arue, French Polynesia",JLFERG
+"""been""","Tarrytown, NY, USA",JLFERG
+"""been""","San Jose, Costa Rica",JLFERG
+"""been""","Minato, Japan",JLFERG
+"""been""","Faa'a, French Polynesia",JLFERG
+"""been""","Spokane, WA, USA",JLFERG
+"""been""","Burlingame, CA, USA",JLFERG
+"""been""","Montpelier, VT, USA",JLFERG
+"""been""","Tacoma, WA, USA",JLFERG
+"""been""","San Francisco, CA, USA",JLFERG
+"""been""","Des Moines, IA, USA",JLFERG
+"""been""","Vallejo, CA, USA",JLFERG
+"""been""","Kennewick, WA, USA",JLFERG
+"""been""","San Antonio, TX, USA",JLFERG
+"""been""","Panama City Beach, FL, USA",JLFERG
+"""been""","Friday Harbor, WA, USA",JLFERG
+"""been""","Burbank, CA, USA",JLFERG
+"""been""","Coeur d'Alene, ID, USA",JLFERG
+"""been""","Panama City, FL, USA",JLFERG
+"""been""","Santa Fe, NM, USA",JLFERG
+"""been""","Saipan, Mariana Islands",JLFERG
+"""been""","Eureka, CA, USA",JLFERG
+"""been""","Olympia, WA, USA",JLFERG
+"""been""","Grand Junction, CO, USA",JLFERG
+"""been""","Burlington, VT, USA",JLFERG
+"""been""","Healdsburg, CA, USA",JLFERG
+"""been""","Windsor, UK",JLFERG
+"""been""","Hayward, CA, USA",JLFERG
+"""been""","New Braunfels, TX, USA",JLFERG
+"""been""","Tucson, AZ, USA",JLFERG
+"""been""","Charleston, SC, USA",JLFERG
+"""been""","Maharepa, French Polynesia",JLFERG
+"""been""","Silver City, NM, USA",JLFERG
+"""been""","Grand Forks, ND, USA",JLFERG
+"""been""","Quepos, Costa Rica",JLFERG
+"""been""","Madrid, Spain",JLFERG
+"""been""","Vacaville, CA, USA",JLFERG
+"""been""","Ocean Shores, WA, USA",JLFERG
+"""been""","Knoxville, TN, USA",JLFERG
+"""been""","Breckenridge, CO, USA",JLFERG
+"""been""","Chiyoda, Japan",JLFERG
+"""been""","Golden, CO, USA",JLFERG
+"""been""","Stuart, FL, USA",JLFERG
+"""been""","Issaquah, WA, USA",JLFERG
+"""been""","Daly City, CA, USA",JLFERG
+"""been""","Mount Vernon, WA, USA",JLFERG
+"""been""","Lexington, VA, USA",JLFERG
+"""been""","Bakersfield, CA, USA",JLFERG
+"""been""","Dana Point, CA, USA",JLFERG
+"""been""","Twin Falls, ID, USA",JLFERG
+"""been""","Brookline, MA, USA",JLFERG
+"""been""","Estes Park, CO, USA",JLFERG
+"""been""","Fredericksburg, VA, USA",JLFERG
+"""been""","Salinas, CA, USA",JLFERG
+"""been""","Providence, RI, USA",JLFERG
+"""been""","Colorado Springs, CO, USA",JLFERG
+"""been""","St. Helena, CA, USA",JLFERG
+"""been""","Everglades City, FL, USA",JLFERG
+"""been""","Mississauga, Ontario, Canada",JLFERG
+"""been""","Moses Lake, WA, USA",JLFERG
+"""been""","Treasure Island, FL, USA",JLFERG
+"""been""","Niagara-on-the-Lake, Ontario, Canada",JLFERG
+"""been""","Cupertino, CA, USA",JLFERG
+"""been""","Pompano Beach, FL, USA",JLFERG
+"""been""","Niagara Falls, Ontario, Canada",JLFERG
+"""been""","Vancouver, WA, USA",JLFERG
+"""been""","Lincoln, NE, USA",JLFERG
+"""been""","College Park, MD, USA",JLFERG
+"""been""","Sicily, Italy",JLFERG
+"""been""","Fiumicino, Italy",JLFERG
+"""been""","Jacksonville Beach, FL, USA",JLFERG
+"""been""","Cambria, CA, USA",JLFERG
+"""been""","Sequim, WA, USA",JLFERG
+"""been""","South San Francisco, CA, USA",JLFERG
+"""been""","Nashville, TN, USA",JLFERG
+"""been""","Newcastle, WA, USA",JLFERG
+"""been""","Baltimore, MD, USA",JLFERG
+"""been""","Walnut Creek, CA, USA",JLFERG
+"""been""","Albuquerque, NM, USA",JLFERG
+"""been""","Savannah, GA, USA",JLFERG
+"""been""","Calistoga, CA, USA",JLFERG
+"""been""","Visalia, CA, USA",JLFERG
+"""been""","East Grand Forks, MN, USA",JLFERG
+"""been""","Sonora, CA, USA",JLFERG
+"""been""","Miami Beach, FL, USA",JLFERG
+"""been""","Sonoma, CA, USA",JLFERG
+"""been""","Miami, FL, USA",JLFERG
+"""been""","Stowe, VT, USA",JLFERG
+"""been""","Snoqualmie, WA, USA",JLFERG
+"""been""","Anaheim, CA, USA",JLFERG
+"""been""","Tampa, FL, USA",JLFERG
+"""been""","Dublin, OH, USA",JLFERG
+"""been""","Chambersburg, PA, USA",JLFERG
+"""been""","Carson City, NV, USA",JLFERG
+"""been""","Falmouth, MA, USA",JLFERG
+"""been""","Kyoto, Japan",JLFERG
+"""been""","Hebron, KY, USA",JLFERG
+"""been""","Palo Alto, CA, USA",JLFERG
+"""been""","Palm Springs, CA, USA",JLFERG
+"""been""","Modesto, CA, USA",JLFERG
+"""been""","Palm Desert, CA, USA",JLFERG
+"""been""","Hiroshima, Japan",JLFERG
+"""been""","Pacifica, CA, USA",JLFERG
+"""been""","St. John's, Antigua and Barbuda",JLFERG
+"""been""","Pacific Grove, CA, USA",JLFERG
+"""been""","Fredericksburg, TX, USA",JLFERG
+"""been""","Ely, NV, USA",JLFERG
+"""been""","Wichita, KS, USA",JLFERG
+"""been""","Milpitas, CA, USA",JLFERG
+"""been""","Gloucester, MA, USA",JLFERG
+"""been""","Millbrae, CA, USA",JLFERG
+"""been""","Fort Worth, TX, USA",JLFERG
+"""been""","Redwood City, CA, USA",JLFERG
+"""been""","Canton, OH, USA",JLFERG
+"""been""","Redlands, CA, USA",JLFERG
+"""been""","Redondo Beach, CA, USA",JLFERG
+"""been""","Bryce, UT, USA",JLFERG
+"""been""","Redding, CA, USA",JLFERG
+"""been""","Orinda, CA, USA",JLFERG
+"""been""","Kagoshima, Japan",JLFERG
+"""been""","Aptos, CA, USA",JLFERG
+"""been""","Arcadia, CA, USA",JLFERG
+"""been""","Bloomington, MN, USA",JLFERG
+"""been""","Iowa City, IA, USA",JLFERG
+"""been""","Rockport, MA, USA",JLFERG
+"""been""","Castries, St. Lucia",JLFERG
+"""been""","Gros Islet, St. Lucia",JLFERG
+"""been""","Pebble Beach, CA, USA",JLFERG
+"""been""","Roseville, CA, USA",JLFERG
+"""been""","Morro Bay, CA, USA",JLFERG
+"""been""","Carlisle, PA, USA",JLFERG
+"""been""","Soufriere, St. Lucia",JLFERG
+"""been""","Morgan Hill, CA, USA",JLFERG
+"""been""","Rosamond, CA, USA",JLFERG
+"""been""","Cranberry Township, PA, USA",JLFERG
+"""been""","Paso Robles, CA, USA",JLFERG
+"""been""","Newmarket-on-Fergus, Ireland",JLFERG
+"""been""","West Chester, OH, USA",JLFERG
+"""been""","Monterey, CA, USA",JLFERG
+"""been""","Pasadena, CA, USA",JLFERG
+"""been""","Stroudsburg, PA, USA",JLFERG
+"""been""","Montecito, CA, USA",JLFERG
+"""been""","Riverside, CA, USA",JLFERG
+"""been""","Winter Park, CO, USA",JLFERG
+"""been""","Dallas, TX, USA",JLFERG
+"""been""","Pismo Beach, CA, USA",JLFERG
+"""been""","Fremont, CA, USA",JLFERG
+"""been""","Durham, NC, USA",JLFERG
+"""been""","Los Alamitos, CA, USA",JLFERG
+"""been""","Irvine, CA, USA",JLFERG
+"""been""","Winston, OR, USA",JLFERG
+"""been""","Portland, OR, USA",JLFERG
+"""been""","Chicago, IL, USA",JLFERG
+"""been""","Kelowna, British Columbia, Canada",JLFERG
+"""been""","Bethesda, MD, USA",JLFERG
+"""been""","Laughlin, NV, USA",JLFERG
+"""been""","Mesquite, NV, USA",JLFERG
+"""been""","Saint Louis, MO, USA",JLFERG
+"""been""","Vero Beach, FL, USA",JLFERG
+"""been""","Pendleton, OR, USA",JLFERG
+"""been""","Toledo, OH, USA",JLFERG
+"""been""","College Station, TX, USA",JLFERG
+"""been""","San Marcos, TX, USA",JLFERG
+"""been""","Long Beach, CA, USA",JLFERG
+"""been""","Napa, CA, USA",JLFERG
+"""been""","Lompoc, CA, USA",JLFERG
+"""been""","Indio, CA, USA",JLFERG
+"""been""","Lone Pine, CA, USA",JLFERG
+"""been""","Alexandria, VA, USA",JLFERG
+"""been""","Indian Wells, CA, USA",JLFERG
+"""been""","Phoenix, AZ, USA",JLFERG
+"""been""","Fort Bragg, CA, USA",JLFERG
+"""been""","Youngstown, OH, USA",JLFERG
+"""been""","New Haven, CT, USA",JLFERG
+"""been""","Mountain View, CA, USA",JLFERG
+"""been""","Vancouver, British Columbia, Canada",JLFERG
+"""been""","Minneapolis, MN, USA",JLFERG
+"""been""","Pueblo, CO, USA",JLFERG
+"""been""","Mars, PA, USA",JLFERG
+"""been""","Sacramento, CA, USA",JLFERG
+"""been""","Fairfax, VA, USA",JLFERG
+"""been""","Mount Shasta, CA, USA",JLFERG
+"""been""","Huntington Beach, CA, USA",JLFERG
+"""been""","Mystic, CT, USA",JLFERG
+"""been""","Petaluma, CA, USA",JLFERG
+"""been""","West Palm Beach, FL, USA",JLFERG
+"""been""","Aspen, CO, USA",JLFERG
+"""been""","Glendale, CA, USA",JLFERG
+"""been""","Banff, Alberta, Canada",JLFERG
+"""been""","Morfelden-Walldorf, Germany",JLFERG
+"""been""","Rockville, MD, USA",JLFERG
+"""been""","Linthicum Heights, MD, USA",JLFERG
+"""been""","Glen Ellen, CA, USA",JLFERG
+"""been""","Boerne, TX, USA",JLFERG
+"""been""","Gilroy, CA, USA",JLFERG
+"""been""","Pittsburgh, PA, USA",JLFERG
+"""been""","Union Hall, Barbados",JLFERG
+"""been""","Arlington, VA, USA",JLFERG
+"""been""","Annapolis, MD, USA",JLFERG
+"""been""","Garden Grove, CA, USA",JLFERG
+"""been""","Newport Beach, CA, USA",JLFERG
+"""been""","Monroeville, PA, USA",JLFERG
+"""been""","Brewster, MA, USA",JLFERG
+"""been""","Shannon, Ireland",JLFERG
+"""been""","Incline Village, NV, USA",JLFERG
+"""been""","Henderson, NV, USA",JLFERG
+"""been""","Las Vegas, NV, USA",JLFERG
+"""been""","Calgary, Alberta, Canada",JLFERG
+"""been""","Galveston, TX, USA",JLFERG
+"""been""","Lake Louise, Alberta, Canada",JLFERG
+"""want""","Providenciales, Turks and Caicos",JLFERG
+"""been""","Duck, NC, USA",JLFERG
+"""been""","Fresno, CA, USA",JLFERG
+"""been""","Los Gatos, CA, USA",JLFERG
+"""been""","Los Angeles, CA, USA",JLFERG
+"""been""","Jasper, Alberta, Canada",JLFERG
+"""been""","Grants Pass, OR, USA",JLFERG
+"""been""","Monument Valley, UT, USA",JLFERG
+"""been""","South Yarmouth, MA, USA",JLFERG
+"""been""","Hof bei Salzburg, Austria",JLFERG
+"""been""","Jackson, WY, USA",JLFERG
+"""been""","Charlotte Amalie, U.S. Virgin Islands",JLFERG
+"""been""","North Conway, NH, USA",JLFERG
+"""been""","Fort Wayne, IN, USA",JLFERG
+"""been""","Bozeman, MT, USA",JLFERG
+"""been""","Peachtree City, GA, USA",JLFERG
+"""been""","Beaverton, OR, USA",JLFERG
+"""been""","Gold Beach, OR, USA",JLFERG
+"""been""","Bend, OR, USA",JLFERG
+"""been""","Raleigh, NC, USA",JLFERG
+"""been""","Duck Key, FL, USA",JLFERG
+"""been""","Freeport, ME, USA",JLFERG
+"""been""","Sylva, NC, USA",JLFERG
+"""been""","Cleveland, OH, USA",JLFERG
+"""been""","Lake George, NY, USA",JLFERG
+"""been""","Nassau, Bahamas",JLFERG
+"""been""","Cruz Bay, U.S. Virgin Islands",JLFERG
+"""been""","Indianapolis, IN, USA",JLFERG
+"""been""","Norfolk, VA, USA",JLFERG
+"""been""","Wilmington, NC, USA",JLFERG
+"""been""","Hilo, HI, USA",JLFERG
+"""been""","Holualoa, HI, USA",JLFERG
+"""been""","Granada, Nicaragua",JLFERG
+"""been""","Pinehurst, NC, USA",JLFERG
+"""been""","Boynton Beach, FL, USA",JLFERG
+"""been""","Bonita Springs, FL, USA",JLFERG
+"""been""","Point Reyes Station, CA, USA",JLFERG
+"""been""","Pleasanton, CA, USA",JLFERG
+"""been""","Great Falls, MT, USA",JLFERG
+"""been""","Eugene, OR, USA",JLFERG
+"""been""","Terre Haute, IN, USA",JLFERG
+"""been""","Crater Lake National Park, OR, USA",JLFERG
+"""been""","Toronto, Ontario, Canada",JLFERG
+"""been""","Virginia Beach, VA, USA",JLFERG
+"""been""","Lancaster, PA, USA",JLFERG
+"""been""","Boca Raton, FL, USA",JLFERG
+"""been""","Big Pine Key, FL, USA",JLFERG
+"""been""","Wrightsville Beach, NC, USA",JLFERG
+"""been""","Worcester, MA, USA",JLFERG
+"""been""","Erie, PA, USA",JLFERG
+"""been""","Captain Cook, HI, USA",JLFERG
+"""been""","Managua, Nicaragua",JLFERG
+"""been""","Newport, OR, USA",JLFERG
+"""been""","Kill Devil Hills, NC, USA",JLFERG
+"""been""","San Juan, Puerto Rico",JLFERG
+"""been""","Ashland, OR, USA",JLFERG
+"""been""","Springdale, UT, USA",JLFERG
+"""been""","Provincetown, MA, USA",JLFERG
+"""been""","Kata Noi Beach, Thailand",JLFERG
+"""been""","Strasbourg, France",JLFERG
+"""been""","Reading, PA, USA",JLFERG
+"""been""","Kennebunkport, ME, USA",JLFERG
+"""been""","Tulsa, OK, USA",JLFERG
+"""been""","Coraopolis, PA, USA",JLFERG
+"""been""","State College, PA, USA",JLFERG
+"""been""","Las Cruces, NM, USA",JLFERG
+"""been""","Cherokee, NC, USA",JLFERG
+"""been""","Harrisburg, PA, USA",JLFERG
+"""been""","Vaitape, French Polynesia",JLFERG
+"""been""","Pomona, CA, USA",JLFERG
+"""been""","Charlotte, NC, USA",JLFERG
+"""been""","Chapel Hill, NC, USA",JLFERG
+"""been""","Kitty Hawk, NC, USA",JLFERG
+"""been""","Nags Head, NC, USA",JLFERG
+"""been""","Kapalua, HI, USA",JLFERG
+"""been""","Revelstoke, British Columbia, Canada",JLFERG
+"""been""","Cannon Beach, OR, USA",JLFERG
+"""been""","Hyannis, MA, USA",JLFERG
+"""been""","Chalong, Thailand",JLFERG
+"""been""","Park City, UT, USA",JLFERG
+"""been""","Saskatoon, Saskatchewan, Canada",JLFERG
+"""been""","Menlo Park, CA, USA",JLFERG
+"""been""","Orange, CA, USA",JLFERG
+"""been""","Freeport, Bahamas",JLFERG
+"""been""","Ontario, CA, USA",JLFERG
+"""been""","Niagara Falls, NY, USA",JLFERG
+"""been""","Singapore, Singapore",JLFERG
+"""been""","Mendocino, CA, USA",JLFERG
+"""been""","Cherry Valley, CA, USA",JLFERG
+"""been""","Lenox, MA, USA",JLFERG
+"""been""","Oklahoma City, OK, USA",JLFERG
+"""been""","Waltham, MA, USA",JLFERG
+"""been""","Cary, NC, USA",JLFERG
+"""been""","Camden, ME, USA",JLFERG
+"""been""","Carolina Beach, NC, USA",JLFERG
+"""been""","Ojai, CA, USA",JLFERG
+"""been""","Oceanside, CA, USA",JLFERG
+"""been""","Oakland, CA, USA",JLFERG
+"""been""","Columbus, OH, USA",JLFERG
+"""been""","Chattanooga, TN, USA",JLFERG
+"""been""","Grove City, PA, USA",JLFERG
+"""been""","Long Beach, WA, USA",JLFERG
+"""been""","Port Townsend, WA, USA",JLFERG
+"""been""","San Luis Obispo, CA, USA",JLFERG
+"""been""","St. Augustine, FL, USA",JLFERG
+"""been""","Sunnyvale, CA, USA",JLFERG
+"""been""","Ventura, CA, USA",JLFERG
+"""been""","Denver, CO, USA",JLFERG
+"""been""","Fort Pierce, FL, USA",JLFERG
+"""been""","San Juan Capistrano, CA, USA",JLFERG
+"""been""","Carmel Valley, CA, USA",JLFERG
+"""been""","Fort Myers Beach, FL, USA",JLFERG
+"""been""","Kissimmee, FL, USA",JLFERG
+"""been""","Chesapeake, VA, USA",JLFERG
+"""been""","Bamberg, Germany",JLFERG
+"""been""","San Jose, CA, USA",JLFERG
+"""been""","Fort Myers, FL, USA",JLFERG
+"""been""","Anchorage, AK, USA",JLFERG
+"""been""","Carlsbad, CA, USA",JLFERG
+"""been""","Carmel, CA, USA",JLFERG
+"""been""","Beaumont, CA, USA",JLFERG
+"""been""","North Vancouver, British Columbia, Canada",JLFERG
+"""been""","Leavenworth, WA, USA",JLFERG
+"""been""","New York City, NY, USA",JLFERG
+"""been""","Omaha, NE, USA",JLFERG
+"""been""","Cedar City, UT, USA",JLFERG
+"""been""","Springfield, IL, USA",JLFERG
+"""been""","Amsterdam, The Netherlands",JLFERG
+"""been""","Cambridge, MA, USA",JLFERG
+"""been""","Branson, MO, USA",JLFERG
+"""been""","Big Sur, CA, USA",JLFERG
+"""been""","Paris, France",JLFERG
+"""been""","Fort Lauderdale, FL, USA",JLFERG
+"""been""","Capitola, CA, USA",JLFERG
+"""been""","Seattle, WA, USA",JLFERG
+"""been""","Ellensburg, WA, USA",JLFERG
+"""been""","Naples, FL, USA",JLFERG
+"""been""","Islamorada, FL, USA",JLFERG
+"""been""","Snowbird, UT, USA",JLFERG
+"""been""","Crested Butte, CO, USA",JLFERG
+"""been""","Key West, FL, USA",JLFERG
+"""been""","Narragansett, RI, USA",JLFERG
+"""been""","Wailuku, HI, USA",JLFERG
+"""been""","San Carlos, CA, USA",JLFERG
+"""been""","Del Mar, CA, USA",JLFERG
+"""been""","San Bruno, CA, USA",JLFERG
+"""been""","Davis, CA, USA",JLFERG
+"""been""","West Hollywood, CA, USA",JLFERG
+"""been""","Amelia Island, FL, USA",JLFERG
+"""been""","Twentynine Palms, CA, USA",JLFERG
+"""been""","Copper Mountain, CO, USA",JLFERG
+"""been""","Edmonds, WA, USA",JLFERG
+"""been""","Walla Walla, WA, USA",JLFERG
+"""been""","San Diego, CA, USA",JLFERG
+"""been""","Canmore, Alberta, Canada",JLFERG
+"""been""","Kailua-Kona, HI, USA",JLFERG
+"""been""","Hana, HI, USA",JLFERG
+"""been""","Pullman, WA, USA",JLFERG
+"""been""","Cincinnati, OH, USA",JLFERG
+"""been""","Kahului, HI, USA",JLFERG
+"""been""","Seward, AK, USA",JLFERG
+"""been""","Kihei, HI, USA",JLFERG
+"""been""","Lahaina, HI, USA",JLFERG
+"""been""","Salzburg, Austria",JLFERG
+"""been""","Coos Bay, OR, USA",JLFERG
+"""been""","Klamath Falls, OR, USA",JLFERG
+"""been""","Corvallis, OR, USA",JLFERG
+"""been""","Mainz, Germany",JLFERG
+"""been""","San Bernardino, CA, USA",JLFERG
+"""been""","St. George, UT, USA",JLFERG
+"""been""","Fernandina Beach, FL, USA",JLFERG
+"""been""","Baden-Baden, Germany",JLFERG
+"""been""","Dresden, Germany",JLFERG
+"""been""","Stinson Beach, CA, USA",JLFERG
+"""been""","Houston, TX, USA",JLFERG
+"""been""","Kansas City, KS, USA",JLFERG
+"""been""","Boston, MA, USA",JLFERG
+"""been""","Poipu, HI, USA",JLFERG
+"""been""","Santa Cruz, CA, USA",JLFERG
+"""been""","Chester, VT, USA",JLFERG
+"""been""","Big Pine, CA, USA",JLFERG
+"""been""","Santa Clara, CA, USA",JLFERG
+"""been""","Kirkland, WA, USA",JLFERG
+"""been""","Santa Barbara, CA, USA",JLFERG
+"""been""","Temecula, CA, USA",JLFERG
+"""been""","Santa Ana, CA, USA",JLFERG
+"""been""","Lake Worth, FL, USA",JLFERG
+"""been""","Hood River, OR, USA",JLFERG
+"""been""","Beverly Hills, CA, USA",JLFERG
+"""been""","Honolulu, HI, USA",JLFERG
+"""been""","Innsbruck, Austria",JLFERG
+"""been""","Asheville, NC, USA",JLFERG
+"""been""","Butte, MT, USA",JLFERG
+"""been""","Lihue, HI, USA",JLFERG
+"""been""","Heidelberg, Germany",JLFERG
+"""been""","Kalispell, MT, USA",JLFERG
+"""been""","Garapan, Mariana Islands",JLFERG
+"""been""","San Simeon, CA, USA",JLFERG
+"""been""","Celebration, FL, USA",JLFERG
+"""been""","San Rafael, CA, USA",JLFERG
+"""been""","Hot Springs, AR, USA",JLFERG
+"""been""","Cedar Key, FL, USA",JLFERG
+"""been""","Williamsburg, VA, USA",JLFERG
+"""been""","Provo, UT, USA",JLFERG
+"""been""","Cortez, CO, USA",JLFERG
+"""been""","Newport, RI, USA",JLFERG
+"""been""","Shinjuku, Japan",JLFERG
+"""been""","Kapaa, HI, USA",JLFERG
+"""been""","Tahoe Vista, CA, USA",JLFERG
+"""been""","Beaumont, TX, USA",JLFERG
+"""been""","Tahoe City, CA, USA",JLFERG
+"""been""","Durango, CO, USA",JLFERG
+"""been""","Wheeling, WV, USA",JLFERG
+"""been""","Berkeley, CA, USA",JLFERG
+"""been""","San Mateo, CA, USA",JLFERG
+"""been""","Belmont, CA, USA",JLFERG
+"""been""","Tukwila, WA, USA",JLFERG
+"""been""","Flagstaff, AZ, USA",JLFERG
+"""been""","Buffalo, NY, USA",JLFERG
+"""been""","Vienna, Austria",JLFERG
+"""been""","Bora Bora, French Polynesia",JLFERG
+"""been""","Taito, Japan",JLFERG
+"""been""","Cedar Rapids, IA, USA",JLFERG
+"""been""","Sandusky, OH, USA",JLFERG
+"""been""","Sebastopol, CA, USA",JLFERG
+"""been""","Seaside, CA, USA",JLFERG
+"""been""","Longboat Key, FL, USA",JLFERG
+"""been""","Seal Beach, CA, USA",JLFERG
+"""been""","Long Key, FL, USA",JLFERG
+"""been""","Bremerton, WA, USA",JLFERG
+"""been""","Borrego Springs, CA, USA",JLFERG
+"""been""","Coral Springs, FL, USA",JLFERG
+"""been""","Coral Gables, FL, USA",JLFERG
+"""been""","Sausalito, CA, USA",JLFERG
+"""been""","Little Torch Key, FL, USA",JLFERG
+"""been""","Torrance, CA, USA",JLFERG
+"""been""","Ocracoke, NC, USA",JLFERG
+"""been""","Bruges, Belgium",JLFERG
+"""been""","Huahine, French Polynesia",JLFERG
+"""been""","Hershey, PA, USA",JLFERG
+"""been""","Saratoga Springs, NY, USA",JLFERG
+"""been""","Medford, OR, USA",JLFERG
+"""been""","Wiesbaden, Germany",JLFERG
+"""been""","Newport News, VA, USA",JLFERG
+"""been""","Cocoa Beach, FL, USA",JLFERG
+"""been""","Roanoke, VA, USA",JLFERG
+"""been""","Santa Rosa, CA, USA",JLFERG
+"""been""","Tiburon, CA, USA",JLFERG
+"""been""","Santa Monica, CA, USA",JLFERG
+"""been""","Bishop, CA, USA",JLFERG
+"""been""","Clearwater, FL, USA",JLFERG
+"""been""","Akron, OH, USA",JLFERG
+"""been""","Gettysburg, PA, USA",JLFERG
+"""been""","Tumon, Mariana Islands",JLFERG
+"""been""","Wailea, HI, USA",JLFERG
+"""been""","Moorea, French Polynesia",JLFERG
+"""been""","Bethlehem, PA, USA",JLFERG
+"""been""","Bellevue, WA, USA",JLFERG
+"""been""","Delray Beach, FL, USA",JLFERG
+"""been""","Bainbridge Island, WA, USA",JLFERG
+"""been""","Memphis, TN, USA",JLFERG
+"""been""","Washington DC, DC, USA",JLFERG
+"""been""","Everett, WA, USA",JLFERG
+"""been""","Deerfield Beach, FL, USA",JLFERG
+"""been""","Hollywood, FL, USA",JLFERG
+"""been""","Daytona Beach, FL, USA",JLFERG
+"""been""","Tahiti, French Polynesia",JLFERG
+"""been""","Dayton, OH, USA",JLFERG
+"""been""","Bradenton, FL, USA",JLFERG
+"""been""","Aurora, OH, USA",JLFERG
+"""been""","Lincoln City, OR, USA",JLFERG
+"""been""","Stateline, NV, USA",JLFERG
+"""been""","West Yellowstone, MT, USA",JLFERG
+"""been""","Sparks, NV, USA",JLFERG
+"""been""","Missoula, MT, USA",JLFERG
+"""been""","Cheektowaga, NY, USA",JLFERG
+"""been""","Mammoth Lakes, CA, USA",JLFERG
+"""been""","Chautauqua, NY, USA",JLFERG
+"""been""","South Bend, IN, USA",JLFERG
+"""been""","Kata Beach, Thailand",JLFERG
+"""been""","Portland, ME, USA",JLFERG
+"""been""","Rehoboth Beach, DE, USA",JLFERG
+"""been""","Blaine, WA, USA",JLFERG
+"""been""","Forks, WA, USA",JLFERG
+"""been""","Bellingham, WA, USA",JLFERG
+"""been""","Federal Way, WA, USA",JLFERG
+"""been""","Kahuku, HI, USA",JLFERG
+"""been""","Richmond, VA, USA",JLFERG
+"""been""","Truckee, CA, USA",JLFERG
+"""been""","Atlanta, GA, USA",JLFERG
+"""been""","Depoe Bay, OR, USA",JLFERG
+"""been""","Winnemucca, NV, USA",JLFERG
+"""been""","Taos, NM, USA",JLFERG
+"""been""","Virginia City, NV, USA",JLFERG
+"""been""","Idaho Falls, ID, USA",JLFERG
+"""been""","Louisville, KY, USA",JLFERG

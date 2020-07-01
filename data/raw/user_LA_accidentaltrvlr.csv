@@ -1,0 +1,393 @@
+tag,place,user
+"""been""","Venice, Italy",accidentaltrvlr
+"""been""","Eugene, OR, USA",accidentaltrvlr
+"""been""","Somerville, MA, USA",accidentaltrvlr
+"""been""","South Lake Tahoe, CA, USA",accidentaltrvlr
+"""been""","Vancouver, British Columbia, Canada",accidentaltrvlr
+"""been""","Truckee, CA, USA",accidentaltrvlr
+"""been""","Indianapolis, IN, USA",accidentaltrvlr
+"""been""","Seal Beach, CA, USA",accidentaltrvlr
+"""been""","Scotts Valley, CA, USA",accidentaltrvlr
+"""been""","Dodge City, KS, USA",accidentaltrvlr
+"""been""","Bolinas, CA, USA",accidentaltrvlr
+"""been""","Sausalito, CA, USA",accidentaltrvlr
+"""been""","Torrance, CA, USA",accidentaltrvlr
+"""been""","Bodega Bay, CA, USA",accidentaltrvlr
+"""been""","Florence, Italy",accidentaltrvlr
+"""been""","Pisa, Italy",accidentaltrvlr
+"""been""","Simi Valley, CA, USA",accidentaltrvlr
+"""been""","London, UK",accidentaltrvlr
+"""been""","Morgantown, WV, USA",accidentaltrvlr
+"""been""","Sierra Madre, CA, USA",accidentaltrvlr
+"""been""","Philadelphia, PA, USA",accidentaltrvlr
+"""been""","Daytona Beach, FL, USA",accidentaltrvlr
+"""been""","Shell Beach, CA, USA",accidentaltrvlr
+"""been""","Cheyenne, WY, USA",accidentaltrvlr
+"""been""","Washington DC, DC, USA",accidentaltrvlr
+"""been""","Mammoth Lakes, CA, USA",accidentaltrvlr
+"""been""","Rome, Italy",accidentaltrvlr
+"""been""","San Ramon, CA, USA",accidentaltrvlr
+"""been""","Cazadero, CA, USA",accidentaltrvlr
+"""been""","San Rafael, CA, USA",accidentaltrvlr
+"""been""","Berkeley, CA, USA",accidentaltrvlr
+"""been""","Benicia, CA, USA",accidentaltrvlr
+"""been""","Castroville, CA, USA",accidentaltrvlr
+"""been""","San Onofre, CA, USA",accidentaltrvlr
+"""been""","Cathedral City, CA, USA",accidentaltrvlr
+"""been""","San Mateo, CA, USA",accidentaltrvlr
+"""been""","Pullman, WA, USA",accidentaltrvlr
+"""been""","San Marino, CA, USA",accidentaltrvlr
+"""been""","Bellflower, CA, USA",accidentaltrvlr
+"""been""","San Luis Obispo, CA, USA",accidentaltrvlr
+"""been""","Bell Gardens, CA, USA",accidentaltrvlr
+"""been""","Whittier, CA, USA",accidentaltrvlr
+"""been""","Sunnyvale, CA, USA",accidentaltrvlr
+"""been""","Denver, CO, USA",accidentaltrvlr
+"""been""","Carpinteria, CA, USA",accidentaltrvlr
+"""been""","Bell, CA, USA",accidentaltrvlr
+"""been""","San Leandro, CA, USA",accidentaltrvlr
+"""been""","Carmichael, CA, USA",accidentaltrvlr
+"""been""","San Juan Capistrano, CA, USA",accidentaltrvlr
+"""been""","Carmel, CA, USA",accidentaltrvlr
+"""been""","San Jose, CA, USA",accidentaltrvlr
+"""been""","Carmel Valley, CA, USA",accidentaltrvlr
+"""been""","Carlsbad, CA, USA",accidentaltrvlr
+"""been""","Cambridge, MA, USA",accidentaltrvlr
+"""been""","Stateline, NV, USA",accidentaltrvlr
+"""been""","Puerto Vallarta, Mexico",accidentaltrvlr
+"""been""","Richmond, VA, USA",accidentaltrvlr
+"""been""","Seoul, South Korea",accidentaltrvlr
+"""been""","Williamsburg, VA, USA",accidentaltrvlr
+"""been""","Santa Rosa, CA, USA",accidentaltrvlr
+"""been""","Tiburon, CA, USA",accidentaltrvlr
+"""been""","New York City, NY, USA",accidentaltrvlr
+"""been""","Santa Paula, CA, USA",accidentaltrvlr
+"""been""","Omaha, NE, USA",accidentaltrvlr
+"""been""","Santa Monica, CA, USA",accidentaltrvlr
+"""been""","Santa Maria, CA, USA",accidentaltrvlr
+"""been""","Bishop, CA, USA",accidentaltrvlr
+"""been""","Ventura, CA, USA",accidentaltrvlr
+"""been""","Santa Fe Springs, CA, USA",accidentaltrvlr
+"""been""","St. George, UT, USA",accidentaltrvlr
+"""been""","Santa Cruz, CA, USA",accidentaltrvlr
+"""been""","Santa Clara, CA, USA",accidentaltrvlr
+"""been""","Santa Barbara, CA, USA",accidentaltrvlr
+"""been""","Temple City, CA, USA",accidentaltrvlr
+"""been""","Kailua-Kona, HI, USA",accidentaltrvlr
+"""been""","Temecula, CA, USA",accidentaltrvlr
+"""been""","Santa Ana, CA, USA",accidentaltrvlr
+"""been""","Seattle, WA, USA",accidentaltrvlr
+"""been""","Beverly Hills, CA, USA",accidentaltrvlr
+"""been""","San Diego, CA, USA",accidentaltrvlr
+"""been""","Haverford, PA, USA",accidentaltrvlr
+"""been""","Las Cruces, NM, USA",accidentaltrvlr
+"""been""","Orange, CA, USA",accidentaltrvlr
+"""been""","Mendocino, CA, USA",accidentaltrvlr
+"""been""","Olympic Valley, CA, USA",accidentaltrvlr
+"""been""","Rancho Palos Verdes, CA, USA",accidentaltrvlr
+"""been""","Rancho Cucamonga, CA, USA",accidentaltrvlr
+"""been""","Kittery, ME, USA",accidentaltrvlr
+"""been""","Traverse City, MI, USA",accidentaltrvlr
+"""been""","Kennebunkport, ME, USA",accidentaltrvlr
+"""been""","Charlotte, NC, USA",accidentaltrvlr
+"""been""","Kennebunk, ME, USA",accidentaltrvlr
+"""been""","Ojai, CA, USA",accidentaltrvlr
+"""been""","Oceanside, CA, USA",accidentaltrvlr
+"""been""","Oakland, CA, USA",accidentaltrvlr
+"""been""","Easton, PA, USA",accidentaltrvlr
+"""been""","Stanford, CA, USA",accidentaltrvlr
+"""been""","Edgartown, MA, USA",accidentaltrvlr
+"""been""","Troy, MI, USA",accidentaltrvlr
+"""been""","Monrovia, CA, USA",accidentaltrvlr
+"""been""","Larkspur, CA, USA",accidentaltrvlr
+"""been""","Palmdale, CA, USA",accidentaltrvlr
+"""been""","Palo Alto, CA, USA",accidentaltrvlr
+"""been""","Lancaster, CA, USA",accidentaltrvlr
+"""been""","Palm Desert, CA, USA",accidentaltrvlr
+"""been""","Palm Springs, CA, USA",accidentaltrvlr
+"""been""","Barcelona, Spain",accidentaltrvlr
+"""been""","Pacifica, CA, USA",accidentaltrvlr
+"""been""","Richmond, CA, USA",accidentaltrvlr
+"""been""","Mission Viejo, CA, USA",accidentaltrvlr
+"""been""","Ann Arbor, MI, USA",accidentaltrvlr
+"""been""","Oxnard, CA, USA",accidentaltrvlr
+"""been""","Paris, France",accidentaltrvlr
+"""been""","Redwood City, CA, USA",accidentaltrvlr
+"""been""","Millbrae, CA, USA",accidentaltrvlr
+"""been""","Redondo Beach, CA, USA",accidentaltrvlr
+"""been""","Orinda, CA, USA",accidentaltrvlr
+"""been""","Redlands, CA, USA",accidentaltrvlr
+"""been""","Pleasanton, CA, USA",accidentaltrvlr
+"""been""","Saskatoon, Saskatchewan, Canada",accidentaltrvlr
+"""been""","Gallup, NM, USA",accidentaltrvlr
+"""been""","Columbus, OH, USA",accidentaltrvlr
+"""been""","Medford, NY, USA",accidentaltrvlr
+"""been""","Niagara Falls, NY, USA",accidentaltrvlr
+"""been""","Topanga, CA, USA",accidentaltrvlr
+"""been""","Vineyard Haven, MA, USA",accidentaltrvlr
+"""been""","Oak Bluffs, MA, USA",accidentaltrvlr
+"""been""","Windsor, Ontario, Canada",accidentaltrvlr
+"""been""","Nashua, NH, USA",accidentaltrvlr
+"""been""","Battle Creek, MI, USA",accidentaltrvlr
+"""been""","Toronto, Ontario, Canada",accidentaltrvlr
+"""been""","Atlantic City, NJ, USA",accidentaltrvlr
+"""been""","Arlington, MA, USA",accidentaltrvlr
+"""been""","Port Hueneme, CA, USA",accidentaltrvlr
+"""been""","Montreal, Quebec, Canada",accidentaltrvlr
+"""been""","Pomona, CA, USA",accidentaltrvlr
+"""been""","Cleveland, OH, USA",accidentaltrvlr
+"""been""","Muncie, IN, USA",accidentaltrvlr
+"""been""","Point Richmond, CA, USA",accidentaltrvlr
+"""been""","Point Mugu, CA, USA",accidentaltrvlr
+"""been""","Gilroy, CA, USA",accidentaltrvlr
+"""been""","Darien, CT, USA",accidentaltrvlr
+"""been""","Nipomo, CA, USA",accidentaltrvlr
+"""been""","Joshua Tree, CA, USA",accidentaltrvlr
+"""been""","Norwalk, CT, USA",accidentaltrvlr
+"""been""","Arlington, VA, USA",accidentaltrvlr
+"""been""","Concord, MA, USA",accidentaltrvlr
+"""been""","Minneapolis, MN, USA",accidentaltrvlr
+"""been""","Kansas City, MO, USA",accidentaltrvlr
+"""been""","Primm, NV, USA",accidentaltrvlr
+"""been""","Fullerton, CA, USA",accidentaltrvlr
+"""been""","Puako, HI, USA",accidentaltrvlr
+"""been""","Los Angeles, CA, USA",accidentaltrvlr
+"""been""","Los Banos, CA, USA",accidentaltrvlr
+"""been""","Fresno, CA, USA",accidentaltrvlr
+"""been""","Fremont, CA, USA",accidentaltrvlr
+"""been""","Isla Vista, CA, USA",accidentaltrvlr
+"""been""","Irvine, CA, USA",accidentaltrvlr
+"""been""","Pismo Beach, CA, USA",accidentaltrvlr
+"""been""","Irwindale, CA, USA",accidentaltrvlr
+"""been""","Avila Beach, CA, USA",accidentaltrvlr
+"""been""","Avalon, CA, USA",accidentaltrvlr
+"""been""","Reno, NV, USA",accidentaltrvlr
+"""been""","Gaithersburg, MD, USA",accidentaltrvlr
+"""been""","Azusa, CA, USA",accidentaltrvlr
+"""been""","Chino Hills, CA, USA",accidentaltrvlr
+"""been""","East Los Angeles, CA, USA",accidentaltrvlr
+"""been""","Marina del Rey, CA, USA",accidentaltrvlr
+"""been""","Toledo, OH, USA",accidentaltrvlr
+"""been""","Gorman, CA, USA",accidentaltrvlr
+"""been""","Sedona, AZ, USA",accidentaltrvlr
+"""been""","Scottsdale, AZ, USA",accidentaltrvlr
+"""been""","Bethesda, MD, USA",accidentaltrvlr
+"""been""","Positano, Italy",accidentaltrvlr
+"""been""","Las Vegas, NV, USA",accidentaltrvlr
+"""been""","Chicago, IL, USA",accidentaltrvlr
+"""been""","Goleta, CA, USA",accidentaltrvlr
+"""been""","Kettleman City, CA, USA",accidentaltrvlr
+"""been""","Manhattan Beach, CA, USA",accidentaltrvlr
+"""been""","Norwalk, CA, USA",accidentaltrvlr
+"""been""","Duarte, CA, USA",accidentaltrvlr
+"""been""","Novato, CA, USA",accidentaltrvlr
+"""been""","Dublin, CA, USA",accidentaltrvlr
+"""been""","Malibu, CA, USA",accidentaltrvlr
+"""been""","Kensington, CA, USA",accidentaltrvlr
+"""been""","Glendale, CA, USA",accidentaltrvlr
+"""been""","West Palm Beach, FL, USA",accidentaltrvlr
+"""been""","Glendora, CA, USA",accidentaltrvlr
+"""been""","Saint Louis, MO, USA",accidentaltrvlr
+"""been""","Rosemead, CA, USA",accidentaltrvlr
+"""been""","Pearblossom, CA, USA",accidentaltrvlr
+"""been""","Leucadia, CA, USA",accidentaltrvlr
+"""been""","Pebble Beach, CA, USA",accidentaltrvlr
+"""been""","Roseville, CA, USA",accidentaltrvlr
+"""been""","Morro Bay, CA, USA",accidentaltrvlr
+"""been""","Moorpark, CA, USA",accidentaltrvlr
+"""been""","Moraga, CA, USA",accidentaltrvlr
+"""been""","Rolling Hills Estates, CA, USA",accidentaltrvlr
+"""been""","Rodeo, CA, USA",accidentaltrvlr
+"""been""","Montrose, CA, USA",accidentaltrvlr
+"""been""","Holland, MI, USA",accidentaltrvlr
+"""been""","Pasadena, CA, USA",accidentaltrvlr
+"""been""","Monterey Park, CA, USA",accidentaltrvlr
+"""been""","Montecito, CA, USA",accidentaltrvlr
+"""been""","Riverside, CA, USA",accidentaltrvlr
+"""been""","Monterey, CA, USA",accidentaltrvlr
+"""been""","Montebello, CA, USA",accidentaltrvlr
+"""been""","Palos Verdes Estates, CA, USA",accidentaltrvlr
+"""been""","Incline Village, NV, USA",accidentaltrvlr
+"""been""","Henderson, NV, USA",accidentaltrvlr
+"""been""","Rockville, MD, USA",accidentaltrvlr
+"""been""","Frazier Park, CA, USA",accidentaltrvlr
+"""been""","Long Beach, CA, USA",accidentaltrvlr
+"""been""","Needles, CA, USA",accidentaltrvlr
+"""been""","Alexandria, VA, USA",accidentaltrvlr
+"""been""","Inglewood, CA, USA",accidentaltrvlr
+"""been""","Pinole, CA, USA",accidentaltrvlr
+"""been""","Napa, CA, USA",accidentaltrvlr
+"""been""","Fort Bragg, CA, USA",accidentaltrvlr
+"""been""","Imperial Beach, CA, USA",accidentaltrvlr
+"""been""","Mountain View, CA, USA",accidentaltrvlr
+"""been""","Muir Beach, CA, USA",accidentaltrvlr
+"""been""","Phoenix, AZ, USA",accidentaltrvlr
+"""been""","Santa Nella, CA, USA",accidentaltrvlr
+"""been""","Potomac, MD, USA",accidentaltrvlr
+"""been""","Arroyo Grande, CA, USA",accidentaltrvlr
+"""been""","Atascadero, CA, USA",accidentaltrvlr
+"""been""","Livermore, CA, USA",accidentaltrvlr
+"""been""","Mount Wilson, CA, USA",accidentaltrvlr
+"""been""","Sacramento, CA, USA",accidentaltrvlr
+"""been""","Huntington Park, CA, USA",accidentaltrvlr
+"""been""","Huntington Beach, CA, USA",accidentaltrvlr
+"""been""","Bryce, UT, USA",accidentaltrvlr
+"""been""","Siena, Italy",accidentaltrvlr
+"""been""","Petaluma, CA, USA",accidentaltrvlr
+"""been""","Highland Park, MI, USA",accidentaltrvlr
+"""been""","Apple Valley, CA, USA",accidentaltrvlr
+"""been""","Arcadia, CA, USA",accidentaltrvlr
+"""been""","Aptos, CA, USA",accidentaltrvlr
+"""been""","South San Francisco, CA, USA",accidentaltrvlr
+"""been""","Camarillo, CA, USA",accidentaltrvlr
+"""been""","South Pasadena, CA, USA",accidentaltrvlr
+"""been""","Walnut Creek, CA, USA",accidentaltrvlr
+"""been""","South Gate, CA, USA",accidentaltrvlr
+"""been""","Calistoga, CA, USA",accidentaltrvlr
+"""been""","South El Monte, CA, USA",accidentaltrvlr
+"""been""","Marshall, TX, USA",accidentaltrvlr
+"""been""","Angels Camp, CA, USA",accidentaltrvlr
+"""been""","Charleston, SC, USA",accidentaltrvlr
+"""been""","Cheyenne Wells, CO, USA",accidentaltrvlr
+"""been""","Anaheim, CA, USA",accidentaltrvlr
+"""been""","Covina, CA, USA",accidentaltrvlr
+"""been""","Highlands Ranch, CO, USA",accidentaltrvlr
+"""been""","Fillmore, CA, USA",accidentaltrvlr
+"""been""","New Orleans, LA, USA",accidentaltrvlr
+"""been""","Boston, MA, USA",accidentaltrvlr
+"""been""","Kansas City, KS, USA",accidentaltrvlr
+"""been""","Cooperstown, NY, USA",accidentaltrvlr
+"""been""","Miami Beach, FL, USA",accidentaltrvlr
+"""been""","Sonoma, CA, USA",accidentaltrvlr
+"""been""","Miami, FL, USA",accidentaltrvlr
+"""been""","Calabasas, CA, USA",accidentaltrvlr
+"""been""","Waikoloa, HI, USA",accidentaltrvlr
+"""been""","Solvang, CA, USA",accidentaltrvlr
+"""been""","Victorville, CA, USA",accidentaltrvlr
+"""been""","Cabazon, CA, USA",accidentaltrvlr
+"""been""","Bologna, Italy",accidentaltrvlr
+"""been""","Soledad, CA, USA",accidentaltrvlr
+"""been""","Houston, TX, USA",accidentaltrvlr
+"""been""","Vernon, CA, USA",accidentaltrvlr
+"""been""","Costa Mesa, CA, USA",accidentaltrvlr
+"""been""","Solana Beach, CA, USA",accidentaltrvlr
+"""been""","Cotati, CA, USA",accidentaltrvlr
+"""been""","Flagstaff, AZ, USA",accidentaltrvlr
+"""been""","Block Island, RI, USA",accidentaltrvlr
+"""been""","Coronado, CA, USA",accidentaltrvlr
+"""been""","Buffalo, NY, USA",accidentaltrvlr
+"""been""","Hermosa Beach, CA, USA",accidentaltrvlr
+"""been""","Altadena, CA, USA",accidentaltrvlr
+"""been""","Newport, RI, USA",accidentaltrvlr
+"""been""","Santa Fe, NM, USA",accidentaltrvlr
+"""been""","San Gregorio, CA, USA",accidentaltrvlr
+"""been""","Thousand Oaks, CA, USA",accidentaltrvlr
+"""been""","Cardiff-by-the-Sea, CA, USA",accidentaltrvlr
+"""been""","Westlake Village, CA, USA",accidentaltrvlr
+"""been""","Dublin, Ireland",accidentaltrvlr
+"""been""","San Gabriel, CA, USA",accidentaltrvlr
+"""been""","Capitola, CA, USA",accidentaltrvlr
+"""been""","San Fernando, CA, USA",accidentaltrvlr
+"""been""","West Sacramento, CA, USA",accidentaltrvlr
+"""been""","San Dimas, CA, USA",accidentaltrvlr
+"""been""","Del Mar, CA, USA",accidentaltrvlr
+"""been""","San Clemente, CA, USA",accidentaltrvlr
+"""been""","San Bruno, CA, USA",accidentaltrvlr
+"""been""","West Hollywood, CA, USA",accidentaltrvlr
+"""been""","Stockton, CA, USA",accidentaltrvlr
+"""been""","Davis, CA, USA",accidentaltrvlr
+"""been""","West Covina, CA, USA",accidentaltrvlr
+"""been""","Galway, Ireland",accidentaltrvlr
+"""been""","Colfax, WA, USA",accidentaltrvlr
+"""been""","San Bernardino, CA, USA",accidentaltrvlr
+"""been""","Providence, RI, USA",accidentaltrvlr
+"""been""","Stinson Beach, CA, USA",accidentaltrvlr
+"""been""","San Anselmo, CA, USA",accidentaltrvlr
+"""been""","Bakersfield, CA, USA",accidentaltrvlr
+"""been""","Dana Point, CA, USA",accidentaltrvlr
+"""been""","Baldwin Park, CA, USA",accidentaltrvlr
+"""been""","Waterbury, VT, USA",accidentaltrvlr
+"""been""","Genoa, Italy",accidentaltrvlr
+"""been""","Daly City, CA, USA",accidentaltrvlr
+"""been""","Bar Harbor, ME, USA",accidentaltrvlr
+"""been""","Salinas, CA, USA",accidentaltrvlr
+"""been""","Cupertino, CA, USA",accidentaltrvlr
+"""been""","Watsonville, CA, USA",accidentaltrvlr
+"""been""","Tucson, AZ, USA",accidentaltrvlr
+"""been""","Culver City, CA, USA",accidentaltrvlr
+"""been""","Des Moines, IA, USA",accidentaltrvlr
+"""been""","San Francisco, CA, USA",accidentaltrvlr
+"""been""","Moscow, ID, USA",accidentaltrvlr
+"""been""","Chevy Chase, MD, USA",accidentaltrvlr
+"""been""","El Vendrell, Spain",accidentaltrvlr
+"""been""","Brentwood, CA, USA",accidentaltrvlr
+"""been""","Hacienda Heights, CA, USA",accidentaltrvlr
+"""been""","Half Moon Bay, CA, USA",accidentaltrvlr
+"""been""","Coalinga, CA, USA",accidentaltrvlr
+"""been""","Kingman, AZ, USA",accidentaltrvlr
+"""been""","Lafayette, CA, USA",accidentaltrvlr
+"""been""","Clovis, CA, USA",accidentaltrvlr
+"""been""","Laguna Beach, CA, USA",accidentaltrvlr
+"""been""","La Verne, CA, USA",accidentaltrvlr
+"""been""","El Segundo, CA, USA",accidentaltrvlr
+"""been""","La Puente, CA, USA",accidentaltrvlr
+"""been""","Grover Beach, CA, USA",accidentaltrvlr
+"""been""","Honaunau, HI, USA",accidentaltrvlr
+"""been""","Kawaihae, HI, USA",accidentaltrvlr
+"""been""","Hamtramck, MI, USA",accidentaltrvlr
+"""been""","El Monte, CA, USA",accidentaltrvlr
+"""been""","Claremont, CA, USA",accidentaltrvlr
+"""been""","La Jolla, CA, USA",accidentaltrvlr
+"""been""","Orlando, FL, USA",accidentaltrvlr
+"""been""","Rabat, Morocco",accidentaltrvlr
+"""been""","Milan, Italy",accidentaltrvlr
+"""been""","La Habra, CA, USA",accidentaltrvlr
+"""been""","Jacksonville, FL, USA",accidentaltrvlr
+"""been""","Marrakech, Morocco",accidentaltrvlr
+"""been""","City of Industry, CA, USA",accidentaltrvlr
+"""been""","Fes, Morocco",accidentaltrvlr
+"""been""","La Crescenta, CA, USA",accidentaltrvlr
+"""been""","Casablanca, Morocco",accidentaltrvlr
+"""been""","El Cerrito, CA, USA",accidentaltrvlr
+"""been""","Citrus Heights, CA, USA",accidentaltrvlr
+"""been""","La Canada Flintridge, CA, USA",accidentaltrvlr
+"""been""","Chula Vista, CA, USA",accidentaltrvlr
+"""been""","El Cajon, CA, USA",accidentaltrvlr
+"""been""","Niagara Falls, Ontario, Canada",accidentaltrvlr
+"""been""","Baltimore, MD, USA",accidentaltrvlr
+"""been""","Albuquerque, NM, USA",accidentaltrvlr
+"""been""","Shamrock, TX, USA",accidentaltrvlr
+"""been""","Corona, CA, USA",accidentaltrvlr
+"""been""","Hercules, CA, USA",accidentaltrvlr
+"""been""","Fairfield, CA, USA",accidentaltrvlr
+"""been""","Fair Oaks, CA, USA",accidentaltrvlr
+"""been""","Burbank, CA, USA",accidentaltrvlr
+"""been""","Burlingame, CA, USA",accidentaltrvlr
+"""been""","Vallejo, CA, USA",accidentaltrvlr
+"""been""","Buellton, CA, USA",accidentaltrvlr
+"""been""","Compton, CA, USA",accidentaltrvlr
+"""been""","Lewisburg, PA, USA",accidentaltrvlr
+"""been""","Concord, CA, USA",accidentaltrvlr
+"""been""","Commerce, CA, USA",accidentaltrvlr
+"""been""","Hayward, CA, USA",accidentaltrvlr
+"""been""","Detroit, MI, USA",accidentaltrvlr
+"""been""","Albany, CA, USA",accidentaltrvlr
+"""been""","Salt Lake City, UT, USA",accidentaltrvlr
+"""been""","Alameda, CA, USA",accidentaltrvlr
+"""been""","Danville, CA, USA",accidentaltrvlr
+"""been""","Kearney, NE, USA",accidentaltrvlr
+"""been""","Aliso Viejo, CA, USA",accidentaltrvlr
+"""been""","Alhambra, CA, USA",accidentaltrvlr
+"""been""","Barstow, CA, USA",accidentaltrvlr
+"""been""","Breckenridge, CO, USA",accidentaltrvlr
+"""been""","Hawaiian Gardens, CA, USA",accidentaltrvlr
+"""been""","Hawthorne, CA, USA",accidentaltrvlr
+"""been""","Boulder, CO, USA",accidentaltrvlr
+"""been""","Brisbane, CA, USA",accidentaltrvlr
+"""been""","Emeryville, CA, USA",accidentaltrvlr
+"""been""","Mill Valley, CA, USA",accidentaltrvlr
+"""been""","Lake Elsinore, CA, USA",accidentaltrvlr
+"""been""","Laguna Niguel, CA, USA",accidentaltrvlr
+"""been""","Agoura Hills, CA, USA",accidentaltrvlr
+"""been""","Agoura, CA, USA",accidentaltrvlr
+"""been""","Ocean City, MD, USA",accidentaltrvlr

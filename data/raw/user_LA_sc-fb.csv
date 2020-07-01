@@ -1,0 +1,360 @@
+tag,place,user
+"""been""","Temecula, CA, USA",sc-fb
+"""been""","Cerritos, CA, USA",sc-fb
+"""been""","Santa Ana, CA, USA",sc-fb
+"""want""","Budapest, Hungary",sc-fb
+"""been""","Santa Clara, CA, USA",sc-fb
+"""been""","Santa Barbara, CA, USA",sc-fb
+"""been""","Tehachapi, CA, USA",sc-fb
+"""been""","Monteverde Cloud Forest Reserve, Costa Rica",sc-fb
+"""been""","Big Bear City, CA, USA",sc-fb
+"""been""","Rome, Italy",sc-fb
+"""been""","Aptos, CA, USA",sc-fb
+"""been""","Manzanillo, Costa Rica",sc-fb
+"""been""","Manuel Antonio, Costa Rica",sc-fb
+"""been""","Beverly Hills, CA, USA",sc-fb
+"""been""","Mal Pais, Costa Rica",sc-fb
+"""been""","Jaco, Costa Rica",sc-fb
+"""been""","York, UK",sc-fb
+"""been""","Arcadia, CA, USA",sc-fb
+"""been""","Death Valley Junction, CA, USA",sc-fb
+"""been""","Stateline, NV, USA",sc-fb
+"""been""","Roseville, CA, USA",sc-fb
+"""been""","Morro Bay, CA, USA",sc-fb
+"""been""","Paso Robles, CA, USA",sc-fb
+"""been""","Montrose, CA, USA",sc-fb
+"""been""","Berlin, Germany",sc-fb
+"""been""","Berkeley, CA, USA",sc-fb
+"""been""","Tahoe City, CA, USA",sc-fb
+"""been""","Aguas Calientes, Peru",sc-fb
+"""been"",""want""","Quepos, Costa Rica",sc-fb
+"""been""","San Mateo, CA, USA",sc-fb
+"""been""","Byron Bay, Australia",sc-fb
+"""been""","Puntarenas, Costa Rica",sc-fb
+"""want""","Marrakech, Morocco",sc-fb
+"""been""","Manly, Australia",sc-fb
+"""been""","Coolangatta, Australia",sc-fb
+"""been""","Playa Tortuga, Costa Rica",sc-fb
+"""want""","Istanbul, Turkey",sc-fb
+"""been""","Wollongong, Australia",sc-fb
+"""been""","Henderson, NV, USA",sc-fb
+"""been""","Johannesburg, South Africa",sc-fb
+"""been""","Monterey, CA, USA",sc-fb
+"""been""","Rio de Janeiro, Brazil",sc-fb
+"""been""","Montecito, CA, USA",sc-fb
+"""been""","Riverside, CA, USA",sc-fb
+"""been""","Pasadena, CA, USA",sc-fb
+"""been""","Palos Verdes Estates, CA, USA",sc-fb
+"""been""","Victor Harbor, Australia",sc-fb
+"""been""","San Luis Obispo, CA, USA",sc-fb
+"""been""","Bell Gardens, CA, USA",sc-fb
+"""want""","Denver, CO, USA",sc-fb
+"""been""","Galveston, TX, USA",sc-fb
+"""been""","Bellevue, WA, USA",sc-fb
+"""been""","Bellflower, CA, USA",sc-fb
+"""been""","Louisville, KY, USA",sc-fb
+"""been""","Hamburg, Germany",sc-fb
+"""been""","Shelburne, VT, USA",sc-fb
+"""been""","Carpinteria, CA, USA",sc-fb
+"""been""","Westminster, CA, USA",sc-fb
+"""been""","Carlsbad, CA, USA",sc-fb
+"""been""","Bells Beach, Australia",sc-fb
+"""been""","San Jose, CA, USA",sc-fb
+"""been""","Carmel Valley, CA, USA",sc-fb
+"""been""","Carmel, CA, USA",sc-fb
+"""been""","Desert Hot Springs, CA, USA",sc-fb
+"""want""","Bengaluru, India",sc-fb
+"""been""","Phnom Penh, Cambodia",sc-fb
+"""been""","San Jose, Costa Rica",sc-fb
+"""been""","Melbourne, Australia",sc-fb
+"""been""","Las Vegas, NV, USA",sc-fb
+"""been""","Cancun, Mexico",sc-fb
+"""been""","Glenelg, Australia",sc-fb
+"""been""","Laughlin, NV, USA",sc-fb
+"""been""","Chichen Itza, Mexico",sc-fb
+"""been""","Frankfurt, Germany",sc-fb
+"""been""","Monrovia, CA, USA",sc-fb
+"""been""","Palm Springs, CA, USA",sc-fb
+"""been""","Palm Desert, CA, USA",sc-fb
+"""been""","Palo Alto, CA, USA",sc-fb
+"""been""","Capitola, CA, USA",sc-fb
+"""been""","Crested Butte, CO, USA",sc-fb
+"""been""","Toledo, OH, USA",sc-fb
+"""been""","Philadelphia, PA, USA",sc-fb
+"""been""","San Bruno, CA, USA",sc-fb
+"""been""","West Hollywood, CA, USA",sc-fb
+"""been""","Cannes, France",sc-fb
+"""been""","San Clemente, CA, USA",sc-fb
+"""been""","Del Mar, CA, USA",sc-fb
+"""been""","Mammoth Lakes, CA, USA",sc-fb
+"""been""","Panama City, Panama",sc-fb
+"""been""","Bath, UK",sc-fb
+"""been""","Nimbin, Australia",sc-fb
+"""been""","Davis, CA, USA",sc-fb
+"""been""","Stockton, CA, USA",sc-fb
+"""been""","San Gimignano, Italy",sc-fb
+"""been""","Durban, South Africa",sc-fb
+"""been""","Siena, Italy",sc-fb
+"""want""","Krakow, Poland",sc-fb
+"""been""","Vientiane, Laos",sc-fb
+"""been""","Geelong, Australia",sc-fb
+"""been""","North Las Vegas, NV, USA",sc-fb
+"""been""","Oxnard, CA, USA",sc-fb
+"""been""","Hahndorf, Australia",sc-fb
+"""been"",""want""","Portland, OR, USA",sc-fb
+"""been""","Redondo Beach, CA, USA",sc-fb
+"""been""","San Bernardino, CA, USA",sc-fb
+"""been""","McLaren Vale, Australia",sc-fb
+"""been""","Baker, CA, USA",sc-fb
+"""been""","Bakersfield, CA, USA",sc-fb
+"""been""","Dana Point, CA, USA",sc-fb
+"""been""","Honolulu, HI, USA",sc-fb
+"""been""","Nice, France",sc-fb
+"""been""","Hervey Bay, Australia",sc-fb
+"""been""","Washington DC, DC, USA",sc-fb
+"""been""","Monte-Carlo, Monaco",sc-fb
+"""want""","Phuket, Thailand",sc-fb
+"""want""","Bucharest, Romania",sc-fb
+"""want""","Boston, MA, USA",sc-fb
+"""been"",""want""","New Orleans, LA, USA",sc-fb
+"""been""","Downey, CA, USA",sc-fb
+"""want""","Puerto Plata, Dominican Republic",sc-fb
+"""been""","Arlington, VA, USA",sc-fb
+"""been""","Garden Grove, CA, USA",sc-fb
+"""been""","Gardena, CA, USA",sc-fb
+"""been""","Newport Beach, CA, USA",sc-fb
+"""been""","Grand Canyon National Park, AZ, USA",sc-fb
+"""been""","Nha Trang, Vietnam",sc-fb
+"""been""","Vancouver, British Columbia, Canada",sc-fb
+"""been""","Hue, Vietnam",sc-fb
+"""been""","Hanoi, Vietnam",sc-fb
+"""been""","Adelaide, Australia",sc-fb
+"""been""","Ho Chi Minh City, Vietnam",sc-fb
+"""been"",""want"",""fave""","Chicago, IL, USA",sc-fb
+"""been""","Halong Bay, Vietnam",sc-fb
+"""been"",""want""","Fresno, CA, USA",sc-fb
+"""been""","Montauk, NY, USA",sc-fb
+"""want""","Prague, Czech Republic",sc-fb
+"""been""","Los Angeles, CA, USA",sc-fb
+"""been""","Fullerton, CA, USA",sc-fb
+"""been""","Pismo Beach, CA, USA",sc-fb
+"""been""","Irvine, CA, USA",sc-fb
+"""been""","Dallas, TX, USA",sc-fb
+"""been""","Isla Vista, CA, USA",sc-fb
+"""been"",""fave""","Barcelona, Spain",sc-fb
+"""been""","New York City, NY, USA",sc-fb
+"""been""","Nevada City, CA, USA",sc-fb
+"""been""","Seal Beach, CA, USA",sc-fb
+"""been""","Sausalito, CA, USA",sc-fb
+"""been""","Avalon, CA, USA",sc-fb
+"""been""","Carson City, NV, USA",sc-fb
+"""been""","Torrance, CA, USA",sc-fb
+"""been""","Port St Johns, South Africa",sc-fb
+"""been""","Dusseldorf, Germany",sc-fb
+"""been""","Lima, Peru",sc-fb
+"""been"",""fave""","Cusco, Peru",sc-fb
+"""been""","Avila Beach, CA, USA",sc-fb
+"""been""","Ventura, CA, USA",sc-fb
+"""been""","Dublin, Ireland",sc-fb
+"""been""","Long Beach, CA, USA",sc-fb
+"""been""","Fountain Valley, CA, USA",sc-fb
+"""been""","Cabo San Lucas, Mexico",sc-fb
+"""been""","Havana, Cuba",sc-fb
+"""been""","Cuba, Caribbean",sc-fb
+"""been""","Napa, CA, USA",sc-fb
+"""been""","Lompoc, CA, USA",sc-fb
+"""been""","Indio, CA, USA",sc-fb
+"""been""","Lomita, CA, USA",sc-fb
+"""been""","Inglewood, CA, USA",sc-fb
+"""been""","Long Island City, NY, USA",sc-fb
+"""been""","Phoenix, AZ, USA",sc-fb
+"""been""","Hana, HI, USA",sc-fb
+"""been""","Santa Rosa, CA, USA",sc-fb
+"""been""","Blue Jay, CA, USA",sc-fb
+"""been""","Cincinnati, OH, USA",sc-fb
+"""been""","Paris, France",sc-fb
+"""been""","South Lake Tahoe, CA, USA",sc-fb
+"""been""","San Diego, CA, USA",sc-fb
+"""been""","Bishop, CA, USA",sc-fb
+"""been""","Arroyo Grande, CA, USA",sc-fb
+"""been""","Santa Monica, CA, USA",sc-fb
+"""been""","Wrightwood, CA, USA",sc-fb
+"""want""","Warsaw, Poland",sc-fb
+"""been""","Genoa, Italy",sc-fb
+"""been""","Nairobi, Kenya",sc-fb
+"""been""","Seattle, WA, USA",sc-fb
+"""been""","Artesia, CA, USA",sc-fb
+"""want""","Moscow, Russia",sc-fb
+"""been""","Luang Prabang, Laos",sc-fb
+"""been""","Lahaina, HI, USA",sc-fb
+"""been""","Urubamba, Peru",sc-fb
+"""want""","Cairo, Egypt",sc-fb
+"""been""","Idyllwild, CA, USA",sc-fb
+"""been""","Machu Picchu, Peru",sc-fb
+"""been""","Torquay, Australia",sc-fb
+"""been""","Ollantaytambo, Peru",sc-fb
+"""been""","Huntington Beach, CA, USA",sc-fb
+"""been"",""want""","Sacramento, CA, USA",sc-fb
+"""been""","Amsterdam, The Netherlands",sc-fb
+"""been""","Santa Cruz, CA, USA",sc-fb
+"""been""","Santa Clarita, CA, USA",sc-fb
+"""been""","Lake Arrowhead, CA, USA",sc-fb
+"""been""","Innsbruck, Austria",sc-fb
+"""been""","Lake Havasu City, AZ, USA",sc-fb
+"""been""","Park City, UT, USA",sc-fb
+"""been""","Vancouver, WA, USA",sc-fb
+"""been""","Puerto Vallarta, Mexico",sc-fb
+"""been""","Findlay, OH, USA",sc-fb
+"""been""","Brooklyn, NY, USA",sc-fb
+"""been""","Half Moon Bay, CA, USA",sc-fb
+"""been""","Coalinga, CA, USA",sc-fb
+"""been""","Coachella, CA, USA",sc-fb
+"""been""","Kingman, AZ, USA",sc-fb
+"""been""","Laguna Beach, CA, USA",sc-fb
+"""been""","Tempe, AZ, USA",sc-fb
+"""been""","Oviedo, FL, USA",sc-fb
+"""been""","Vienna, Austria",sc-fb
+"""want""","New Delhi, India",sc-fb
+"""been""","South Padre Island, TX, USA",sc-fb
+"""been""","La Quinta, CA, USA",sc-fb
+"""been""","El Segundo, CA, USA",sc-fb
+"""want""","Santiago, Chile",sc-fb
+"""been""","Tambor, Costa Rica",sc-fb
+"""want""","Albuquerque, NM, USA",sc-fb
+"""been""","Baltimore, MD, USA",sc-fb
+"""been""","Dandenong, Australia",sc-fb
+"""been""","Claremont, CA, USA",sc-fb
+"""been""","La Jolla, CA, USA",sc-fb
+"""been"",""want""","Orlando, FL, USA",sc-fb
+"""been""","Salzburg, Austria",sc-fb
+"""want""","Jaipur, India",sc-fb
+"""want""","Mumbai, India",sc-fb
+"""been""","Chula Vista, CA, USA",sc-fb
+"""want""","Bogota, Colombia",sc-fb
+"""been""","La Paz, Bolivia",sc-fb
+"""been""","Modbury, Australia",sc-fb
+"""been"",""fave""","Edinburgh, UK",sc-fb
+"""been""","Buenos Aires, Argentina",sc-fb
+"""been""","David, Panama",sc-fb
+"""been""","Brisbane, Australia",sc-fb
+"""been""","Astoria, NY, USA",sc-fb
+"""been""","Kings Canyon, Australia",sc-fb
+"""been"",""fave""","Alice Springs, Australia",sc-fb
+"""been""","Rosarito, Mexico",sc-fb
+"""been""","San Felipe, Mexico",sc-fb
+"""been""","Sydney, Australia",sc-fb
+"""been""","Tijuana, Mexico",sc-fb
+"""been""","Milan, Italy",sc-fb
+"""been""","Escanaba, MI, USA",sc-fb
+"""been""","Steamboat Springs, CO, USA",sc-fb
+"""been""","Spokane, WA, USA",sc-fb
+"""been""","Marina del Rey, CA, USA",sc-fb
+"""been""","Ensenada, Mexico",sc-fb
+"""been""","Scottsdale, AZ, USA",sc-fb
+"""been""","Tucson, AZ, USA",sc-fb
+"""been""","Poas Volcano National Park, Costa Rica",sc-fb
+"""been""","La Fortuna de San Carlos, Costa Rica",sc-fb
+"""been""","Sedona, AZ, USA",sc-fb
+"""want""","Charleston, SC, USA",sc-fb
+"""been""","Alajuela, Costa Rica",sc-fb
+"""been""","Burlington, VT, USA",sc-fb
+"""been""","Arusha, Tanzania",sc-fb
+"""been""","Boise, ID, USA",sc-fb
+"""want""","Santa Fe, NM, USA",sc-fb
+"""been""","San Francisco, CA, USA",sc-fb
+"""been""","Simi Valley, CA, USA",sc-fb
+"""been""","San Antonio, TX, USA",sc-fb
+"""been""","Puno, Peru",sc-fb
+"""been""","Leeds, UK",sc-fb
+"""been""","Glasgow, UK",sc-fb
+"""been""","Surfers Paradise, Australia",sc-fb
+"""been""","Thousand Oaks, CA, USA",sc-fb
+"""been""","Newark, NJ, USA",sc-fb
+"""been""","Sarasota, FL, USA",sc-fb
+"""been""","Manhattan Beach, CA, USA",sc-fb
+"""been""","Goleta, CA, USA",sc-fb
+"""been""","Ngorongoro Conservation Area, Tanzania",sc-fb
+"""been""","Glendale, CA, USA",sc-fb
+"""been""","Malibu, CA, USA",sc-fb
+"""been""","Mossel Bay, South Africa",sc-fb
+"""been""","Norwalk, CA, USA",sc-fb
+"""been""","Bordeaux, France",sc-fb
+"""been""","Venice, Italy",sc-fb
+"""been""","Salinas, CA, USA",sc-fb
+"""been""","Bagaces, Costa Rica",sc-fb
+"""been""","Arenal Volcano National Park, Costa Rica",sc-fb
+"""been""","Fontana, CA, USA",sc-fb
+"""been""","Culver City, CA, USA",sc-fb
+"""been""","Barstow, CA, USA",sc-fb
+"""been""","Bronx, NY, USA",sc-fb
+"""want""","Madrid, Spain",sc-fb
+"""been""","St Kilda, Australia",sc-fb
+"""been""","Reno, NV, USA",sc-fb
+"""been""","Orange, CA, USA",sc-fb
+"""been""","Coeur d'Alene, ID, USA",sc-fb
+"""been""","Rancho Mirage, CA, USA",sc-fb
+"""been""","Rancho Palos Verdes, CA, USA",sc-fb
+"""been""","Ontario, CA, USA",sc-fb
+"""been""","Walnut Creek, CA, USA",sc-fb
+"""been""","South Gate, CA, USA",sc-fb
+"""been""","South San Francisco, CA, USA",sc-fb
+"""been""","Rancho Cucamonga, CA, USA",sc-fb
+"""been""","Camarillo, CA, USA",sc-fb
+"""been""","South Pasadena, CA, USA",sc-fb
+"""been""","Boquete, Panama",sc-fb
+"""want""","Kathmandu, Nepal",sc-fb
+"""want""","Oslo, Norway",sc-fb
+"""been""","Crestline, CA, USA",sc-fb
+"""been"",""fave""","Cape Town Central, South Africa",sc-fb
+"""been""","Playa Hermosa, Costa Rica",sc-fb
+"""been""","Colon, Panama",sc-fb
+"""been""","Big Sur, CA, USA",sc-fb
+"""been""","Ojai, CA, USA",sc-fb
+"""been""","Playa Hermosa, Costa Rica",sc-fb
+"""been""","Oceanside, CA, USA",sc-fb
+"""been""","Sonoma, CA, USA",sc-fb
+"""been""","Oakland, CA, USA",sc-fb
+"""been""","Miami Beach, FL, USA",sc-fb
+"""been""","Hai Phong, Vietnam",sc-fb
+"""want""","Miami, FL, USA",sc-fb
+"""been""","Solvang, CA, USA",sc-fb
+"""been""","Victorville, CA, USA",sc-fb
+"""been""","Anaheim, CA, USA",sc-fb
+"""been""","Cabazon, CA, USA",sc-fb
+"""been""","Calabasas, CA, USA",sc-fb
+"""been""","Austin, TX, USA",sc-fb
+"""been""","Florence, Italy",sc-fb
+"""been""","Costa Mesa, CA, USA",sc-fb
+"""been""","Hermosa Beach, CA, USA",sc-fb
+"""been""","Lucerne, Switzerland",sc-fb
+"""been""","Tamarindo, Costa Rica",sc-fb
+"""been""","Hermanus, South Africa",sc-fb
+"""been""","Salt Lake City, UT, USA",sc-fb
+"""been""","Hyde Park, NY, USA",sc-fb
+"""been""","Pisa, Italy",sc-fb
+"""been""","Brownsville, TX, USA",sc-fb
+"""been""","Jacksonville, FL, USA",sc-fb
+"""been""","Corpus Christi, TX, USA",sc-fb
+"""been""","Jackson, WY, USA",sc-fb
+"""been""","Burlingame, CA, USA",sc-fb
+"""been""","Burbank, CA, USA",sc-fb
+"""been""","Buena Park, CA, USA",sc-fb
+"""been""","Naples, Italy",sc-fb
+"""been""","Port Elizabeth, South Africa",sc-fb
+"""been""","Compton, CA, USA",sc-fb
+"""been""","Tortuguero, Costa Rica",sc-fb
+"""been""","Alhambra, CA, USA",sc-fb
+"""been""","London, UK",sc-fb
+"""been""","Munich, Germany",sc-fb
+"""want""","San Juan, Puerto Rico",sc-fb
+"""been""","Pompeii, Italy",sc-fb
+"""been""","Kilimanjaro National Park, Tanzania",sc-fb
+"""been""","Lansing, MI, USA",sc-fb
+"""been""","Cleveland, OH, USA",sc-fb
+"""been""","Dar es Salaam, Tanzania",sc-fb
+"""been""","Hoi An, Vietnam",sc-fb
+"""been""","Da Nang, Vietnam",sc-fb
+"""been""","Escondido, CA, USA",sc-fb
+"""been""","Encinitas, CA, USA",sc-fb
+"""been""","Bucerias, Mexico",sc-fb
+"""been""","Hawthorne, CA, USA",sc-fb

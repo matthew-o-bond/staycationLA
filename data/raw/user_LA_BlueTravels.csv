@@ -1,0 +1,503 @@
+tag,place,user
+"""want""","Lakewood, CO, USA",BlueTravels
+"""been""","Chincoteague Island, VA, USA",BlueTravels
+"""been""","Redmond, OR, USA",BlueTravels
+"""been""","Annapolis, MD, USA",BlueTravels
+"""been""","Gilroy, CA, USA",BlueTravels
+"""been""","Oegstgeest, The Netherlands",BlueTravels
+"""been""","Forest Hill, MD, USA",BlueTravels
+"""been""","Minneapolis, MN, USA",BlueTravels
+"""been""","Kansas City, MO, USA",BlueTravels
+"""want""","Copenhagen, Denmark",BlueTravels
+"""been""","Parsippany, NJ, USA",BlueTravels
+"""been""","Pahrump, NV, USA",BlueTravels
+"""been""","Monroe, MI, USA",BlueTravels
+"""been""","Paramus, NJ, USA",BlueTravels
+"""been""","Chambord, France",BlueTravels
+"""want""","Crawford, NE, USA",BlueTravels
+"""been""","Guildford, UK",BlueTravels
+"""been""","Arlington, VA, USA",BlueTravels
+"""been""","Chenonceaux, France",BlueTravels
+"""been""","Norwalk, CT, USA",BlueTravels
+"""been"",""fave""","Portland, OR, USA",BlueTravels
+"""been""","Malibu, CA, USA",BlueTravels
+"""been""","Hot Springs, VA, USA",BlueTravels
+"""been"",""want""","Vashon, WA, USA",BlueTravels
+"""been""","Camaiore, Italy",BlueTravels
+"""been""","Aspen, CO, USA",BlueTravels
+"""been""","Fairfax, VA, USA",BlueTravels
+"""been""","Big Bear Lake, CA, USA",BlueTravels
+"""been""","Severna Park, MD, USA",BlueTravels
+"""been""","Shrewsbury, NJ, USA",BlueTravels
+"""been""","Fallston, MD, USA",BlueTravels
+"""been""","Moapa, NV, USA",BlueTravels
+"""been""","Carrara, Italy",BlueTravels
+"""been""","Blois, France",BlueTravels
+"""been""","Victoria Falls, Zimbabwe",BlueTravels
+"""been""","Nice, France",BlueTravels
+"""been""","Dorking, UK",BlueTravels
+"""been""","Napa, CA, USA",BlueTravels
+"""been""","Tanjung Tokong, Malaysia",BlueTravels
+"""been""","Mossman, Australia",BlueTravels
+"""been""","Frazier Park, CA, USA",BlueTravels
+"""been""","Long Beach, CA, USA",BlueTravels
+"""been""","Brockton, MA, USA",BlueTravels
+"""been""","Las Vegas, NV, USA",BlueTravels
+"""been""","Wildwood, NJ, USA",BlueTravels
+"""been""","Salisbury, MD, USA",BlueTravels
+"""been""","Lutherville Timonium, MD, USA",BlueTravels
+"""been""","Palma de Mallorca, Spain",BlueTravels
+"""been""","Bruges, Belgium",BlueTravels
+"""been""","Bath, UK",BlueTravels
+"""been""","Huntly, UK",BlueTravels
+"""been""","Eze, France",BlueTravels
+"""want""","Wiesbaden, Germany",BlueTravels
+"""been""","Abingdon, MD, USA",BlueTravels
+"""been""","Chicago, IL, USA",BlueTravels
+"""been""","Aberdeen, MD, USA",BlueTravels
+"""been""","Los Angeles, CA, USA",BlueTravels
+"""been""","Avalon, CA, USA",BlueTravels
+"""been""","Fullerton, CA, USA",BlueTravels
+"""been""","Parodi Ligure, Italy",BlueTravels
+"""been""","Rockville, MD, USA",BlueTravels
+"""been""","Braintree, MA, USA",BlueTravels
+"""been""","Topanga, CA, USA",BlueTravels
+"""been""","Hanover, MA, USA",BlueTravels
+"""been""","Oxford, UK",BlueTravels
+"""been""","Barmstedt, Germany",BlueTravels
+"""been"",""want""","Uppsala, Sweden",BlueTravels
+"""been""","Sandy Hook, NJ, USA",BlueTravels
+"""been""","Hamburg, Germany",BlueTravels
+"""been""","Potsdam, Germany",BlueTravels
+"""been""","Marina di Pietrasanta, Italy",BlueTravels
+"""been""","Sea Bright, NJ, USA",BlueTravels
+"""been""","Frankfurt, Germany",BlueTravels
+"""been""","Seaside Heights, NJ, USA",BlueTravels
+"""been""","Avignon, France",BlueTravels
+"""been"",""fave""","Sheffield, UK",BlueTravels
+"""want""","Ghent, Belgium",BlueTravels
+"""been""","Arles, France",BlueTravels
+"""been""","Katoomba, Australia",BlueTravels
+"""been""","Brea, CA, USA",BlueTravels
+"""been""","Sydney, Australia",BlueTravels
+"""been""","Laguna Beach, CA, USA",BlueTravels
+"""been""","Sequim, WA, USA",BlueTravels
+"""been""","Nashville, TN, USA",BlueTravels
+"""been""","Baltimore, MD, USA",BlueTravels
+"""been""","Neuleiningen, Germany",BlueTravels
+"""been""","Sisters, OR, USA",BlueTravels
+"""been""","Ingonish, Nova Scotia, Canada",BlueTravels
+"""been""","Cheticamp, Nova Scotia, Canada",BlueTravels
+"""been""","Havre de Grace, MD, USA",BlueTravels
+"""been""","Air Itam, Malaysia",BlueTravels
+"""been""","Holmdel, NJ, USA",BlueTravels
+"""been""","Johannesburg, South Africa",BlueTravels
+"""been""","Lake Myvatn, Iceland",BlueTravels
+"""been""","Viareggio, Italy",BlueTravels
+"""been""","San Jose, Costa Rica",BlueTravels
+"""been""","Guerneville, CA, USA",BlueTravels
+"""been""","SeaTac, WA, USA",BlueTravels
+"""been""","Greenville, SC, USA",BlueTravels
+"""been""","Berlin, Germany",BlueTravels
+"""been""","Breckenridge, CO, USA",BlueTravels
+"""been""","Jacksonville, FL, USA",BlueTravels
+"""been""","Salt Lake City, UT, USA",BlueTravels
+"""been""","Blair Atholl, UK",BlueTravels
+"""been""","Hazlet, NJ, USA",BlueTravels
+"""been""","Volterra, Italy",BlueTravels
+"""been""","Ocean City, MD, USA",BlueTravels
+"""been""","Reykjavik, Iceland",BlueTravels
+"""been"",""want""","Cardiff, UK",BlueTravels
+"""been""","Rome, Italy",BlueTravels
+"""been"",""want""","Bristol, UK",BlueTravels
+"""been""","Highlands, NJ, USA",BlueTravels
+"""been""","Novi Ligure, Italy",BlueTravels
+"""want""","Oslo, Norway",BlueTravels
+"""been""","Brinchang, Malaysia",BlueTravels
+"""been""","Agua Dulce, CA, USA",BlueTravels
+"""been""","Encinitas, CA, USA",BlueTravels
+"""been""","Boulder, CO, USA",BlueTravels
+"""been""","Brussels, Belgium",BlueTravels
+"""want""","Stockholm, Sweden",BlueTravels
+"""been""","Evergreen, CO, USA",BlueTravels
+"""been""","Munich, Germany",BlueTravels
+"""been""","Plettenberg Bay, South Africa",BlueTravels
+"""been""","Indian Lake, NY, USA",BlueTravels
+"""been""","Detroit, MI, USA",BlueTravels
+"""been""","Antwerp, Belgium",BlueTravels
+"""been"",""fave""","London, UK",BlueTravels
+"""been""","Husavik, Iceland",BlueTravels
+"""been""","Rotterdam, The Netherlands",BlueTravels
+"""been""","The Hague, The Netherlands",BlueTravels
+"""been""","Sedona, AZ, USA",BlueTravels
+"""been""","Leicester, UK",BlueTravels
+"""been""","Leiden, The Netherlands",BlueTravels
+"""been""","Orlando, FL, USA",BlueTravels
+"""been""","Vers-Pont-du-Gard, France",BlueTravels
+"""been""","La Jolla, CA, USA",BlueTravels
+"""been""","Hathersage, UK",BlueTravels
+"""want""","Malmo, Sweden",BlueTravels
+"""been""","Barstow, CA, USA",BlueTravels
+"""been""","Niagara Falls, Ontario, Canada",BlueTravels
+"""been""","Gouda, The Netherlands",BlueTravels
+"""been""","Doolin, Ireland",BlueTravels
+"""been""","Alicante, Spain",BlueTravels
+"""been""","Pistoia, Italy",BlueTravels
+"""been""","Oudtshoorn, South Africa",BlueTravels
+"""want""","Lucca, Italy",BlueTravels
+"""been""","Delft, The Netherlands",BlueTravels
+"""want""","Livorno, Italy",BlueTravels
+"""been""","Lubeck, Germany",BlueTravels
+"""been""","Akureyri, Iceland",BlueTravels
+"""want""","Pohnpei, Federated States of Micronesia",BlueTravels
+"""been"",""want""","Pisa, Italy",BlueTravels
+"""been""","Knysna, South Africa",BlueTravels
+"""been"",""want""","Yap, Federated States of Micronesia",BlueTravels
+"""been""","Kiel, Germany",BlueTravels
+"""been""","George, South Africa",BlueTravels
+"""been"",""fave""","Florence, Italy",BlueTravels
+"""been""","Saint John, New Brunswick, Canada",BlueTravels
+"""been""","Charlotte, NC, USA",BlueTravels
+"""been""","Kennebunkport, ME, USA",BlueTravels
+"""been""","Cagliari, Italy",BlueTravels
+"""been""","Owings Mills, MD, USA",BlueTravels
+"""been""","Kittery, ME, USA",BlueTravels
+"""been""","Prato, Italy",BlueTravels
+"""been""","Shelburne, Nova Scotia, Canada",BlueTravels
+"""been""","Dover, UK",BlueTravels
+"""want""","Bohinjska Bistrica, Slovenia",BlueTravels
+"""been""","Elgin, UK",BlueTravels
+"""been""","Romsey, UK",BlueTravels
+"""been""","Benidorm, Spain",BlueTravels
+"""been""","Canterbury, UK",BlueTravels
+"""want""","Ho Chi Minh City, Vietnam",BlueTravels
+"""been""","Sydney, Nova Scotia, Canada",BlueTravels
+"""been""","Hanover, PA, USA",BlueTravels
+"""been""","Nairn, UK",BlueTravels
+"""been""","Cartagena, Spain",BlueTravels
+"""been""","Drumnadrochit, UK",BlueTravels
+"""been""","Plymouth, MA, USA",BlueTravels
+"""been"",""want""","Venice, Italy",BlueTravels
+"""been""","Simon's Town, South Africa",BlueTravels
+"""been""","Provincetown, MA, USA",BlueTravels
+"""been""","Lunenburg, Nova Scotia, Canada",BlueTravels
+"""want""","Helsinki, Finland",BlueTravels
+"""been""","Madrid, Spain",BlueTravels
+"""been""","Harrisburg, PA, USA",BlueTravels
+"""been""","Inverness, UK",BlueTravels
+"""been""","Aviemore, UK",BlueTravels
+"""been""","Windsor, UK",BlueTravels
+"""want""","Vancouver, British Columbia, Canada",BlueTravels
+"""been""","Liscannor, Ireland",BlueTravels
+"""been""","Springdale, UT, USA",BlueTravels
+"""been""","Camden, ME, USA",BlueTravels
+"""been""","Wareham, MA, USA",BlueTravels
+"""been""","Pembroke, MA, USA",BlueTravels
+"""been""","Forte Dei Marmi, Italy",BlueTravels
+"""been""","Timonium, MD, USA",BlueTravels
+"""been""","Penang Island, Malaysia",BlueTravels
+"""been""","Salisbury, UK",BlueTravels
+"""been""","Niagara Falls, NY, USA",BlueTravels
+"""been""","Bear Mountain, NY, USA",BlueTravels
+"""been""","Oceanside, CA, USA",BlueTravels
+"""been""","Nantucket, MA, USA",BlueTravels
+"""been""","Oak Bluffs, MA, USA",BlueTravels
+"""been""","Kingston, MA, USA",BlueTravels
+"""been""","Tignes, France",BlueTravels
+"""been""","Vineyard Haven, MA, USA",BlueTravels
+"""been""","Orleans, MA, USA",BlueTravels
+"""been""","Park City, UT, USA",BlueTravels
+"""been""","Calais, ME, USA",BlueTravels
+"""been""","Lenox, MA, USA",BlueTravels
+"""been"",""fave""","Edinburgh, UK",BlueTravels
+"""been""","Farnborough, UK",BlueTravels
+"""been""","Turin, Italy",BlueTravels
+"""been""","Bayan Lepas, Malaysia",BlueTravels
+"""been""","Cascade Locks, OR, USA",BlueTravels
+"""been""","Adare, Ireland",BlueTravels
+"""been""","Milan, Italy",BlueTravels
+"""been""","Gavi, Italy",BlueTravels
+"""been""","Shannon, Ireland",BlueTravels
+"""want""","New Delhi, India",BlueTravels
+"""want""","Mumbai, India",BlueTravels
+"""been""","West Long Branch, NJ, USA",BlueTravels
+"""been""","Bourne, MA, USA",BlueTravels
+"""been""","Rolling Hills, CA, USA",BlueTravels
+"""been""","Huntington Beach, CA, USA",BlueTravels
+"""been""","Mystic, CT, USA",BlueTravels
+"""been""","Bryce, UT, USA",BlueTravels
+"""been""","Downe, UK",BlueTravels
+"""been""","Mount Laguna, CA, USA",BlueTravels
+"""want""","Provo, SD, USA",BlueTravels
+"""been""","Lido Di Camaiore, Italy",BlueTravels
+"""been""","Stevenson Ranch, CA, USA",BlueTravels
+"""been""","New Hope, PA, USA",BlueTravels
+"""been""","Saint Andrews, New Brunswick, Canada",BlueTravels
+"""been""","Mission Viejo, CA, USA",BlueTravels
+"""been""","Monsey, NY, USA",BlueTravels
+"""been""","Southington, CT, USA",BlueTravels
+"""been""","Dingle, Ireland",BlueTravels
+"""been""","Palm Springs, CA, USA",BlueTravels
+"""been""","Palmdale, CA, USA",BlueTravels
+"""been""","La Spezia, Italy",BlueTravels
+"""been""","Mojave, CA, USA",BlueTravels
+"""been""","Palm Desert, CA, USA",BlueTravels
+"""been""","Lancaster, CA, USA",BlueTravels
+"""been""","Saint Paul, MN, USA",BlueTravels
+"""been""","Falmouth, MA, USA",BlueTravels
+"""been""","Elche, Spain",BlueTravels
+"""want""","Majuro, Marshall Islands",BlueTravels
+"""been""","Riomaggiore, Italy",BlueTravels
+"""been""","Genoa, Italy",BlueTravels
+"""been""","Dallas, TX, USA",BlueTravels
+"""been""","Galway, Ireland",BlueTravels
+"""been""","Manarola, Italy",BlueTravels
+"""been""","Monterey, CA, USA",BlueTravels
+"""been""","Pasadena, CA, USA",BlueTravels
+"""been""","Mornese, Italy",BlueTravels
+"""been""","Ashtead, UK",BlueTravels
+"""want""","Torres del Paine National Park, Chile",BlueTravels
+"""been""","White Marsh, MD, USA",BlueTravels
+"""been""","Perryville, MD, USA",BlueTravels
+"""been""","Edgartown, MA, USA",BlueTravels
+"""been""","Barga, Italy",BlueTravels
+"""been""","Grunstadt, Germany",BlueTravels
+"""want""","Parma, Italy",BlueTravels
+"""been""","Freinsheim, Germany",BlueTravels
+"""been""","Williamstown, MA, USA",BlueTravels
+"""been""","Broadford, UK",BlueTravels
+"""been""","George Town, Malaysia",BlueTravels
+"""been""","Roanoke, VA, USA",BlueTravels
+"""been""","Tustin, CA, USA",BlueTravels
+"""want""","Bologna, Italy",BlueTravels
+"""been""","Newark, DE, USA",BlueTravels
+"""been""","Big Sur, CA, USA",BlueTravels
+"""been""","Tysons Corner, VA, USA",BlueTravels
+"""been""","Tanah Rata, Malaysia",BlueTravels
+"""been""","Rehoboth Beach, DE, USA",BlueTravels
+"""been""","Washington DC, DC, USA",BlueTravels
+"""been""","Staten Island, NY, USA",BlueTravels
+"""been""","Lincoln, NH, USA",BlueTravels
+"""want""","Teton Village, WY, USA",BlueTravels
+"""been""","Grindavik, Iceland",BlueTravels
+"""been""","Rockland, ME, USA",BlueTravels
+"""been""","Kanab, UT, USA",BlueTravels
+"""been""","Tijuana, Mexico",BlueTravels
+"""been""","Wilmington, DE, USA",BlueTravels
+"""been""","Cherry Valley, NY, USA",BlueTravels
+"""been""","Spring Valley, NY, USA",BlueTravels
+"""been""","Siena, Italy",BlueTravels
+"""been""","San Gimignano, Italy",BlueTravels
+"""been""","Nyack, NY, USA",BlueTravels
+"""been""","Philadelphia, PA, USA",BlueTravels
+"""been""","Hershey, PA, USA",BlueTravels
+"""been""","Santa Monica, CA, USA",BlueTravels
+"""been""","Sandwich, MA, USA",BlueTravels
+"""been""","Yorba Linda, CA, USA",BlueTravels
+"""been""","Grand Cayman, Cayman Islands",BlueTravels
+"""been""","Forks, WA, USA",BlueTravels
+"""been""","King of Prussia, PA, USA",BlueTravels
+"""been""","Jackson, NH, USA",BlueTravels
+"""been""","Bogota, Colombia",BlueTravels
+"""been""","Guangzhou, China",BlueTravels
+"""been""","Putney, VT, USA",BlueTravels
+"""been""","Enumclaw, WA, USA",BlueTravels
+"""been""","Saugus, CA, USA",BlueTravels
+"""been""","Pearl River, NY, USA",BlueTravels
+"""been""","Point Reyes Station, CA, USA",BlueTravels
+"""been""","Aguas Calientes, Peru",BlueTravels
+"""want""","Jackson, WY, USA",BlueTravels
+"""been""","Puerto Baquerizo Moreno, Ecuador",BlueTravels
+"""been""","Puerto Ayora, Ecuador",BlueTravels
+"""been""","Hyannis, MA, USA",BlueTravels
+"""been""","Bad Durkheim, Germany",BlueTravels
+"""been""","Southwest Harbor, ME, USA",BlueTravels
+"""been""","Deidesheim, Germany",BlueTravels
+"""want""","Nuuk, Greenland",BlueTravels
+"""been""","North Conway, NH, USA",BlueTravels
+"""been""","Asbury Park, NJ, USA",BlueTravels
+"""want""","Bozeman, MT, USA",BlueTravels
+"""been""","Tessera, Italy",BlueTravels
+"""been""","Paradise Island, Bahamas",BlueTravels
+"""been""","Espanola, Ecuador",BlueTravels
+"""been""","Zion National Park, UT, USA",BlueTravels
+"""want""","Punta Arenas, Chile",BlueTravels
+"""been""","Chobe National Park, Botswana",BlueTravels
+"""been""","Floreana, Ecuador",BlueTravels
+"""been""","North Pembroke, MA, USA",BlueTravels
+"""been""","Isabela, Ecuador",BlueTravels
+"""been""","Nassau, Bahamas",BlueTravels
+"""want""","Koror, Palau",BlueTravels
+"""been""","Bridal Veil, OR, USA",BlueTravels
+"""been""","Peggy's Cove, Nova Scotia, Canada",BlueTravels
+"""been""","Amesbury, UK",BlueTravels
+"""been""","Montreal, Quebec, Canada",BlueTravels
+"""want""","Boise, ID, USA",BlueTravels
+"""been""","Bel Air, MD, USA",BlueTravels
+"""been""","Belcamp, MD, USA",BlueTravels
+"""been""","Bend, OR, USA",BlueTravels
+"""been""","Hingham, MA, USA",BlueTravels
+"""been""","San Juan, Puerto Rico",BlueTravels
+"""been""","Bourg Saint Maurice, France",BlueTravels
+"""been""","Arquata Scrivia, Italy",BlueTravels
+"""been""","Nanuet, NY, USA",BlueTravels
+"""been""","Spencer, NC, USA",BlueTravels
+"""been""","Busum, Germany",BlueTravels
+"""been""","Worcester, MA, USA",BlueTravels
+"""been""","Bass Harbor, ME, USA",BlueTravels
+"""been""","Tapah, Malaysia",BlueTravels
+"""been""","Bakewell, UK",BlueTravels
+"""been""","Cambria, CA, USA",BlueTravels
+"""been""","Newport, RI, USA",BlueTravels
+"""been""","Toronto, Ontario, Canada",BlueTravels
+"""been""","Rumson, NJ, USA",BlueTravels
+"""been""","West Nyack, NY, USA",BlueTravels
+"""been""","Charleston, SC, USA",BlueTravels
+"""been""","Buffalo, NY, USA",BlueTravels
+"""been""","Newark, NJ, USA",BlueTravels
+"""been""","Teluk Bahang, Malaysia",BlueTravels
+"""been""","Cooperstown, NY, USA",BlueTravels
+"""been""","Cancun, Mexico",BlueTravels
+"""been""","Lavallette, NJ, USA",BlueTravels
+"""been"",""want""","Geneva, Switzerland",BlueTravels
+"""been""","Tanjung Bungah, Malaysia",BlueTravels
+"""been""","Everglades National Park, FL, USA",BlueTravels
+"""been""","Bound Brook, NJ, USA",BlueTravels
+"""want""","Kosrae, Federated States of Micronesia",BlueTravels
+"""want""","Chuuk, Federated States of Micronesia",BlueTravels
+"""been""","Cape Town Central, South Africa",BlueTravels
+"""been""","Grand Canyon National Park, AZ, USA",BlueTravels
+"""want""","Denali National Park and Preserve, AK, USA",BlueTravels
+"""been""","Death Valley National Park, CA, USA",BlueTravels
+"""been""","Towson, MD, USA",BlueTravels
+"""been""","Hout Bay, South Africa",BlueTravels
+"""been""","Kansas City, KS, USA",BlueTravels
+"""been""","Rockaway, NJ, USA",BlueTravels
+"""been""","Keyport, NJ, USA",BlueTravels
+"""been""","Luray, VA, USA",BlueTravels
+"""been""","Harpers Ferry, WV, USA",BlueTravels
+"""been""","Massarosa, Italy",BlueTravels
+"""been""","Bryce Canyon National Park, UT, USA",BlueTravels
+"""been""","Playa Hermosa, Costa Rica",BlueTravels
+"""been"",""want""","Bled, Slovenia",BlueTravels
+"""been""","Sainte-Foy-Tarentaise, France",BlueTravels
+"""been""","Culver City, CA, USA",BlueTravels
+"""been""","Playa del Carmen, Mexico",BlueTravels
+"""been""","Tulum, Mexico",BlueTravels
+"""been""","Warren, VT, USA",BlueTravels
+"""been""","Santa Fe, NM, USA",BlueTravels
+"""been""","Lizard Island, Australia",BlueTravels
+"""been""","Corona, CA, USA",BlueTravels
+"""been""","Salem, MA, USA",BlueTravels
+"""been""","San Francisco, CA, USA",BlueTravels
+"""been""","San Antonio, TX, USA",BlueTravels
+"""been""","Hilton Head, SC, USA",BlueTravels
+"""been""","Columbia, MD, USA",BlueTravels
+"""been""","Quincy, MA, USA",BlueTravels
+"""been""","Baltra, Ecuador",BlueTravels
+"""been""","River Edge, NJ, USA",BlueTravels
+"""been""","Elizabeth, NJ, USA",BlueTravels
+"""been""","Neptune, NJ, USA",BlueTravels
+"""been""","Giverny, France",BlueTravels
+"""want""","Ljubljana, Slovenia",BlueTravels
+"""been""","St. John, U.S. Virgin Islands",BlueTravels
+"""been""","St. Thomas, U.S. Virgin Islands",BlueTravels
+"""been""","Skukuza, South Africa",BlueTravels
+"""been""","Healdsburg, CA, USA",BlueTravels
+"""been""","Bar Harbor, ME, USA",BlueTravels
+"""been""","Yarmouth, Nova Scotia, Canada",BlueTravels
+"""been""","Mount Rainier National Park, WA, USA",BlueTravels
+"""been""","Truro, Nova Scotia, Canada",BlueTravels
+"""been""","Buena Park, CA, USA",BlueTravels
+"""been""","Burbank, CA, USA",BlueTravels
+"""been""","Hazyview, South Africa",BlueTravels
+"""been""","Miami Beach, FL, USA",BlueTravels
+"""been""","Sonoma, CA, USA",BlueTravels
+"""been""","Miami, FL, USA",BlueTravels
+"""been""","Brooklyn, NY, USA",BlueTravels
+"""been""","Snoqualmie, WA, USA",BlueTravels
+"""been""","Greenwater, WA, USA",BlueTravels
+"""been""","Brookline, MA, USA",BlueTravels
+"""been""","Estes Park, CO, USA",BlueTravels
+"""been""","Providence, RI, USA",BlueTravels
+"""been""","Massaciuccoli, Italy",BlueTravels
+"""been""","Castelnuovo di Garfagnana, Italy",BlueTravels
+"""been""","Hunt Valley, MD, USA",BlueTravels
+"""been""","Cockeysville, MD, USA",BlueTravels
+"""been""","Cockeysville Hunt Valley, MD, USA",BlueTravels
+"""been""","Suffern, NY, USA",BlueTravels
+"""been"",""want""","Toulouse, France",BlueTravels
+"""been""","Red Bank, NJ, USA",BlueTravels
+"""been""","Hermosa Beach, CA, USA",BlueTravels
+"""been""","Pietrasanta, Italy",BlueTravels
+"""been""","Costa Mesa, CA, USA",BlueTravels
+"""been""","Bedford, UK",BlueTravels
+"""been""","Coronado, CA, USA",BlueTravels
+"""been""","Austin, TX, USA",BlueTravels
+"""been""","Anaheim, CA, USA",BlueTravels
+"""been""","Solvang, CA, USA",BlueTravels
+"""been""","Torre del Lago Puccini, Italy",BlueTravels
+"""been""","San Simeon, CA, USA",BlueTravels
+"""been""","Quito, Ecuador",BlueTravels
+"""been""","Cherry Hill, NJ, USA",BlueTravels
+"""been""","Mannheim, Germany",BlueTravels
+"""been""","Richmond, VA, USA",BlueTravels
+"""been""","Fish Hoek, South Africa",BlueTravels
+"""been""","Cambridge, MA, USA",BlueTravels
+"""been""","Heidelberg, Germany",BlueTravels
+"""been""","Castaic, CA, USA",BlueTravels
+"""been""","Salisbury, NC, USA",BlueTravels
+"""been""","Newbury, UK",BlueTravels
+"""been""","East Molesey, UK",BlueTravels
+"""been""","Campello, Spain",BlueTravels
+"""been""","Woodbridge, VA, USA",BlueTravels
+"""been""","New York City, NY, USA",BlueTravels
+"""been""","Cape May, NJ, USA",BlueTravels
+"""been""","Boulder City, NV, USA",BlueTravels
+"""been""","Trapani, Italy",BlueTravels
+"""been""","San Miniato, Italy",BlueTravels
+"""been""","Crystal Mountain, WA, USA",BlueTravels
+"""been""","San Ysidro, CA, USA",BlueTravels
+"""been""","Beverly Hills, CA, USA",BlueTravels
+"""been""","Val d'Isere, France",BlueTravels
+"""been""","Santa Barbara, CA, USA",BlueTravels
+"""been""","Santa Clarita, CA, USA",BlueTravels
+"""been""","Seattle, WA, USA",BlueTravels
+"""been""","Sileby, UK",BlueTravels
+"""been""","Freehold, NJ, USA",BlueTravels
+"""been""","Ocean City, NJ, USA",BlueTravels
+"""been""","Twentynine Palms, CA, USA",BlueTravels
+"""been""","San Diego, CA, USA",BlueTravels
+"""been""","Little Silver, NJ, USA",BlueTravels
+"""been""","Baslow, UK",BlueTravels
+"""been""","Paradise, WA, USA",BlueTravels
+"""been""","Amsterdam, The Netherlands",BlueTravels
+"""been""","San Clemente, CA, USA",BlueTravels
+"""been""","Key Biscayne, FL, USA",BlueTravels
+"""been""","West Hollywood, CA, USA",BlueTravels
+"""been""","Naples, FL, USA",BlueTravels
+"""been""","Williamsburg, VA, USA",BlueTravels
+"""been""","San Fernando, CA, USA",BlueTravels
+"""been""","Key West, FL, USA",BlueTravels
+"""been""","Versailles, France",BlueTravels
+"""been""","Lisse, The Netherlands",BlueTravels
+"""been""","Key Largo, FL, USA",BlueTravels
+"""been""","Paris, France",BlueTravels
+"""been""","La Push, WA, USA",BlueTravels
+"""been""","Machu Picchu, Peru",BlueTravels
+"""been""","Boston, MA, USA",BlueTravels
+"""been""","Lima, Peru",BlueTravels
+"""been""","Asheville, NC, USA",BlueTravels
+"""been""","New Orleans, LA, USA",BlueTravels
+"""been""","Bridgewater, NJ, USA",BlueTravels
+"""been"",""want""","Cheltenham, UK",BlueTravels
+"""been""","Ellerhoop, Germany",BlueTravels
+"""been""","Marseille, France",BlueTravels
+"""been""","Carlsbad, CA, USA",BlueTravels
+"""been""","Cusco, Peru",BlueTravels
+"""been""","Kissimmee, FL, USA",BlueTravels
+"""been""","San Jose, CA, USA",BlueTravels
+"""been""","San Luis Obispo, CA, USA",BlueTravels
+"""been""","Barcelona, Spain",BlueTravels
+"""been""","Denver, CO, USA",BlueTravels
+"""been""","Batu Ferringhi, Malaysia",BlueTravels

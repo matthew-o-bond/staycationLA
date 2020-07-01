@@ -1,0 +1,329 @@
+tag,place,user
+"""been""","Rapid City, SD, USA",rabitz
+"""been""","Pebble Beach, CA, USA",rabitz
+"""been""","Morro Bay, CA, USA",rabitz
+"""want""","Vienna, Austria",rabitz
+"""been""","Yuma, AZ, USA",rabitz
+"""been""","Kailua, HI, USA",rabitz
+"""been""","Kahuku, HI, USA",rabitz
+"""been""","Sandia Park, NM, USA",rabitz
+"""been""","Kapolei, HI, USA",rabitz
+"""want""","Banff, Alberta, Canada",rabitz
+"""been""","Beverly Hills, CA, USA",rabitz
+"""want""","Edmonton, Alberta, Canada",rabitz
+"""been""","Waialua, HI, USA",rabitz
+"""been""","Klamath Falls, OR, USA",rabitz
+"""been""","Corvallis, OR, USA",rabitz
+"""want""","Jasper, Alberta, Canada",rabitz
+"""been""","Temecula, CA, USA",rabitz
+"""been""","Santa Ana, CA, USA",rabitz
+"""been""","Santa Clara, CA, USA",rabitz
+"""want""","Saint Andrews, New Brunswick, Canada",rabitz
+"""been""","Santa Barbara, CA, USA",rabitz
+"""been""","Santa Cruz, CA, USA",rabitz
+"""been""","Appleton, WI, USA",rabitz
+"""been""","Greenville, NC, USA",rabitz
+"""been""","Santa Clarita, CA, USA",rabitz
+"""want""","Baddeck, Nova Scotia, Canada",rabitz
+"""been""","Bryce, UT, USA",rabitz
+"""been""","Huntington Beach, CA, USA",rabitz
+"""been""","Haleiwa, HI, USA",rabitz
+"""been""","Sacramento, CA, USA",rabitz
+"""been""","Birmingham, UK",rabitz
+"""been""","Ventura, CA, USA",rabitz
+"""been""","Coventry, UK",rabitz
+"""been""","Idyllwild, CA, USA",rabitz
+"""want""","Salzburg, Austria",rabitz
+"""want""","New York City, NY, USA",rabitz
+"""been""","Stateline, NV, USA",rabitz
+"""been""","Kapalua, HI, USA",rabitz
+"""want""","Carlsbad, NM, USA",rabitz
+"""been""","Cedar City, UT, USA",rabitz
+"""want""","La Malbaie, Quebec, Canada",rabitz
+"""want""","Auckland, New Zealand",rabitz
+"""been""","Lincoln City, OR, USA",rabitz
+"""been""","Santa Monica, CA, USA",rabitz
+"""been""","Santa Rosa, CA, USA",rabitz
+"""been"",""fave""","Cocoa Beach, FL, USA",rabitz
+"""been""","Wilderness, South Africa",rabitz
+"""been""","Santa Ynez, CA, USA",rabitz
+"""been""","Phoenix, AZ, USA",rabitz
+"""been""","Mountain View, CA, USA",rabitz
+"""been""","Napa, CA, USA",rabitz
+"""been""","Glasgow, UK",rabitz
+"""been""","Long Beach, CA, USA",rabitz
+"""been""","Manchester, UK",rabitz
+"""want""","Giverny, France",rabitz
+"""been""","Laughlin, NV, USA",rabitz
+"""been""","Las Vegas, NV, USA",rabitz
+"""been""","Sausalito, CA, USA",rabitz
+"""been""","Torrance, CA, USA",rabitz
+"""been""","Seal Beach, CA, USA",rabitz
+"""been""","Pismo Beach, CA, USA",rabitz
+"""been"",""fave""","Edinburgh, UK",rabitz
+"""been""","Fremont, CA, USA",rabitz
+"""been""","Fresno, CA, USA",rabitz
+"""been""","Inverness, UK",rabitz
+"""been"",""fave""","Los Angeles, CA, USA",rabitz
+"""been""","Placentia, CA, USA",rabitz
+"""been""","Fullerton, CA, USA",rabitz
+"""been""","Portland, OR, USA",rabitz
+"""want""","Venice, Italy",rabitz
+"""been""","West Des Moines, IA, USA",rabitz
+"""been"",""fave""","Chicago, IL, USA",rabitz
+"""been""","Tropic, UT, USA",rabitz
+"""been""","Waianae, HI, USA",rabitz
+"""been""","Kanab, UT, USA",rabitz
+"""been""","Stillwater, MN, USA",rabitz
+"""been""","Death Valley Junction, CA, USA",rabitz
+"""want""","Hershey, PA, USA",rabitz
+"""been""","Mammoth Lakes, CA, USA",rabitz
+"""been""","Newport Beach, CA, USA",rabitz
+"""been""","Windsor, UK",rabitz
+"""been""","Council Bluffs, IA, USA",rabitz
+"""been""","Garden Grove, CA, USA",rabitz
+"""been""","Gardena, CA, USA",rabitz
+"""been""","Oak Brook, IL, USA",rabitz
+"""been""","Dover, UK",rabitz
+"""been""","Lakewood, CO, USA",rabitz
+"""been""","Royal Tunbridge Wells, UK",rabitz
+"""been""","Fargo, ND, USA",rabitz
+"""been""","North Las Vegas, NV, USA",rabitz
+"""been"",""fave""","Minneapolis, MN, USA",rabitz
+"""been""","Hawi, HI, USA",rabitz
+"""been"",""fave""","Hilo, HI, USA",rabitz
+"""been""","Captain Cook, HI, USA",rabitz
+"""want""","South Lake Tahoe, CA, USA",rabitz
+"""been""","Glendale, CA, USA",rabitz
+"""been""","Anaheim, CA, USA",rabitz
+"""been""","Malibu, CA, USA",rabitz
+"""been""","Manhattan Beach, CA, USA",rabitz
+"""want""","Florence, Italy",rabitz
+"""want""","Cascais, Portugal",rabitz
+"""been""","Primm, NV, USA",rabitz
+"""want""","Lucerne, Switzerland",rabitz
+"""been""","Red Wing, MN, USA",rabitz
+"""been""","Big Sur, CA, USA",rabitz
+"""been""","Sun City, South Africa",rabitz
+"""been""","Scottsdale, AZ, USA",rabitz
+"""been""","Loveland, CO, USA",rabitz
+"""been""","Glendale, AZ, USA",rabitz
+"""been""","Sedona, AZ, USA",rabitz
+"""been""","Eugene, OR, USA",rabitz
+"""been""","Englewood, CO, USA",rabitz
+"""been""","Cape Town Central, South Africa",rabitz
+"""been""","Marina del Rey, CA, USA",rabitz
+"""been""","Chino, CA, USA",rabitz
+"""been""","Winston Salem, NC, USA",rabitz
+"""been""","Durham, UK",rabitz
+"""want""","Antwerp, Belgium",rabitz
+"""been""","Chino Hills, CA, USA",rabitz
+"""been""","Liverpool, UK",rabitz
+"""been"",""fave""","Salem, OR, USA",rabitz
+"""been""","York, ME, USA",rabitz
+"""been""","Two Harbors, MN, USA",rabitz
+"""been""","Bangor, ME, USA",rabitz
+"""been""","Naalehu, HI, USA",rabitz
+"""been""","Ashland, OR, USA",rabitz
+"""been""","Cedar Crest, NM, USA",rabitz
+"""been""","Rochester, MN, USA",rabitz
+"""been""","Holbrook, AZ, USA",rabitz
+"""been""","Swansea, UK",rabitz
+"""been""","La Jolla, CA, USA",rabitz
+"""been""","Barstow, CA, USA",rabitz
+"""been""","Cambridge, UK",rabitz
+"""been""","Orlando, FL, USA",rabitz
+"""been""","Bristol, UK",rabitz
+"""want""","Stockholm, Sweden",rabitz
+"""been""","Seaside, OR, USA",rabitz
+"""want""","Rome, Italy",rabitz
+"""been""","Waimea, HI, USA",rabitz
+"""been""","Stellenbosch, South Africa",rabitz
+"""been"",""fave""","Valparaiso, IN, USA",rabitz
+"""want""","Mt. Cook Village, New Zealand",rabitz
+"""been""","Keauhou, HI, USA",rabitz
+"""been""","Bend, OR, USA",rabitz
+"""been""","Vail, CO, USA",rabitz
+"""been"",""fave""","London, UK",rabitz
+"""been""","Laguna Beach, CA, USA",rabitz
+"""been""","Beaver Creek, CO, USA",rabitz
+"""been""","Half Moon Bay, CA, USA",rabitz
+"""been"",""fave""","Savannah, GA, USA",rabitz
+"""been""","Brookings, OR, USA",rabitz
+"""want""","St. Petersburg, Russia",rabitz
+"""been""","Brea, CA, USA",rabitz
+"""been"",""fave""","Albuquerque, NM, USA",rabitz
+"""been""","Gallup, NM, USA",rabitz
+"""been""","Pleasanton, CA, USA",rabitz
+"""been"",""fave""","Pleasant Hill, CA, USA",rabitz
+"""been""","Raleigh, NC, USA",rabitz
+"""been""","Belfast, UK",rabitz
+"""been""","Sisters, OR, USA",rabitz
+"""been""","Pretoria, South Africa",rabitz
+"""been""","Lake Arrowhead, CA, USA",rabitz
+"""been""","Sioux Falls, SD, USA",rabitz
+"""been""","Boulder, CO, USA",rabitz
+"""been""","Glenwood Springs, CO, USA",rabitz
+"""been""","Escondido, CA, USA",rabitz
+"""want""","Ghent, Belgium",rabitz
+"""been""","Pomona, CA, USA",rabitz
+"""been""","Twin Falls, ID, USA",rabitz
+"""been""","Golden, CO, USA",rabitz
+"""been""","Salt Lake City, UT, USA",rabitz
+"""been""","Breckenridge, CO, USA",rabitz
+"""want""","Hamburg, Germany",rabitz
+"""been""","Sheffield, UK",rabitz
+"""been""","Cannon Beach, OR, USA",rabitz
+"""been""","Saint Cloud, MN, USA",rabitz
+"""been""","Park City, UT, USA",rabitz
+"""been""","Oxford, UK",rabitz
+"""been""","Port Angeles, WA, USA",rabitz
+"""want""","Niagara Falls, Ontario, Canada",rabitz
+"""been""","Ogden, UT, USA",rabitz
+"""been""","Barmouth, UK",rabitz
+"""been""","Minot, ND, USA",rabitz
+"""been""","Norman, OK, USA",rabitz
+"""been"",""fave""","Johannesburg, South Africa",rabitz
+"""been""","Buena Vista, CO, USA",rabitz
+"""been""","Grand Junction, CO, USA",rabitz
+"""been"",""fave""","Eureka, CA, USA",rabitz
+"""been""","SeaTac, WA, USA",rabitz
+"""been""","Burbank, CA, USA",rabitz
+"""been""","Nashville, TN, USA",rabitz
+"""been""","Santa Fe, NM, USA",rabitz
+"""want""","Roswell, NM, USA",rabitz
+"""been""","Davenport, IA, USA",rabitz
+"""been""","Grand Marais, MN, USA",rabitz
+"""been""","Plymouth, UK",rabitz
+"""been""","San Francisco, CA, USA",rabitz
+"""been"",""fave""","Page, AZ, USA",rabitz
+"""want""","Athens, Greece",rabitz
+"""been"",""fave""","Wailea, HI, USA",rabitz
+"""been""","Thousand Oaks, CA, USA",rabitz
+"""been""","Quebec City, Quebec, Canada",rabitz
+"""been""","Tucson, AZ, USA",rabitz
+"""been""","Bath, UK",rabitz
+"""want""","Queenstown, New Zealand",rabitz
+"""been""","Duluth, MN, USA",rabitz
+"""been""","Hermosa Beach, CA, USA",rabitz
+"""been""","Coronado, CA, USA",rabitz
+"""been""","Mesa, AZ, USA",rabitz
+"""been""","Solana Beach, CA, USA",rabitz
+"""been""","Canon City, CO, USA",rabitz
+"""been""","Costa Mesa, CA, USA",rabitz
+"""been""","Solvang, CA, USA",rabitz
+"""been""","Sonoma, CA, USA",rabitz
+"""been""","Estes Park, CO, USA",rabitz
+"""been""","Crescent City, CA, USA",rabitz
+"""been""","Sonora, CA, USA",rabitz
+"""been""","Aurora, CO, USA",rabitz
+"""been""","Bar Harbor, ME, USA",rabitz
+"""been""","Aspen, CO, USA",rabitz
+"""been""","Rancho Cordova, CA, USA",rabitz
+"""want""","Summerside, Prince Edward Island, Canada",rabitz
+"""been""","Bournemouth, UK",rabitz
+"""want""","Halifax, Nova Scotia, Canada",rabitz
+"""want""","Rotorua, New Zealand",rabitz
+"""been""","Springdale, UT, USA",rabitz
+"""been"",""fave""","Durban, South Africa",rabitz
+"""been""","Hluhluwe, South Africa",rabitz
+"""been""","Visalia, CA, USA",rabitz
+"""want""","Christchurch, New Zealand",rabitz
+"""been""","Walnut Creek, CA, USA",rabitz
+"""been""","Des Moines, IA, USA",rabitz
+"""been""","Eau Claire, WI, USA",rabitz
+"""want""","Wellington, New Zealand",rabitz
+"""been""","Cambria, CA, USA",rabitz
+"""been""","Rancho Cucamonga, CA, USA",rabitz
+"""been""","Camarillo, CA, USA",rabitz
+"""been""","Kapaa, HI, USA",rabitz
+"""been""","Rancho Mirage, CA, USA",rabitz
+"""been""","Chapel Hill, NC, USA",rabitz
+"""been""","Ontario, CA, USA",rabitz
+"""been""","Kalaheo, HI, USA",rabitz
+"""been""","Mendocino, CA, USA",rabitz
+"""been""","Orange, CA, USA",rabitz
+"""want""","Sault Ste. Marie, Ontario, Canada",rabitz
+"""been"",""fave""","Charlotte, NC, USA",rabitz
+"""been"",""fave""","Flagstaff, AZ, USA",rabitz
+"""been""","Ely, MN, USA",rabitz
+"""been""","Brighton, UK",rabitz
+"""want""","Copenhagen, Denmark",rabitz
+"""been"",""fave""","Charleston, SC, USA",rabitz
+"""been""","Colorado Springs, CO, USA",rabitz
+"""been""","Salinas, CA, USA",rabitz
+"""been""","Tulsa, OK, USA",rabitz
+"""been""","Bakersfield, CA, USA",rabitz
+"""been""","Dana Point, CA, USA",rabitz
+"""been""","Redlands, CA, USA",rabitz
+"""been""","Pepeekeo, HI, USA",rabitz
+"""been""","Redding, CA, USA",rabitz
+"""been""","Pahoa, HI, USA",rabitz
+"""been""","Greensboro, NC, USA",rabitz
+"""been""","Cork, Ireland",rabitz
+"""been""","Redondo Beach, CA, USA",rabitz
+"""been""","Avalon, CA, USA",rabitz
+"""been""","Redwood City, CA, USA",rabitz
+"""been""","Volcano, HI, USA",rabitz
+"""been""","Waikoloa, HI, USA",rabitz
+"""been""","Oxnard, CA, USA",rabitz
+"""want""","Cologne, Germany",rabitz
+"""want""","Marseille, France",rabitz
+"""been"",""fave""","Winnipeg, Manitoba, Canada",rabitz
+"""been""","Bloomington, MN, USA",rabitz
+"""been""","Iowa City, IA, USA",rabitz
+"""been""","Dubuque, IA, USA",rabitz
+"""been""","West Hollywood, CA, USA",rabitz
+"""been""","San Clemente, CA, USA",rabitz
+"""been""","Del Mar, CA, USA",rabitz
+"""been""","Wailuku, HI, USA",rabitz
+"""been""","Provo, UT, USA",rabitz
+"""been""","Paia, HI, USA",rabitz
+"""been"",""fave""","Seattle, WA, USA",rabitz
+"""been"",""fave""","Ames, IA, USA",rabitz
+"""been""","Palm Springs, CA, USA",rabitz
+"""want""","Zurich, Switzerland",rabitz
+"""been""","Arroyo Grande, CA, USA",rabitz
+"""been""","Portsmouth, UK",rabitz
+"""been""","Palo Alto, CA, USA",rabitz
+"""want""","Paris, France",rabitz
+"""been"",""fave""","Kailua-Kona, HI, USA",rabitz
+"""been""","Hana, HI, USA",rabitz
+"""been""","Kahului, HI, USA",rabitz
+"""been""","Twentynine Palms, CA, USA",rabitz
+"""been"",""fave""","San Diego, CA, USA",rabitz
+"""been""","Lahaina, HI, USA",rabitz
+"""want""","Salt Spring Island, British Columbia, Canada",rabitz
+"""been""","Kihei, HI, USA",rabitz
+"""want""","Vancouver, British Columbia, Canada",rabitz
+"""been""","Carlsbad, CA, USA",rabitz
+"""been""","Ka'anapali, HI, USA",rabitz
+"""been""","San Jose, CA, USA",rabitz
+"""been""","Carmel, CA, USA",rabitz
+"""been""","Desert Hot Springs, CA, USA",rabitz
+"""been""","Cedar Rapids, IA, USA",rabitz
+"""been""","Carpinteria, CA, USA",rabitz
+"""been""","Lawrence, KS, USA",rabitz
+"""want""","Haliburton, Ontario, Canada",rabitz
+"""been""","San Luis Obispo, CA, USA",rabitz
+"""been""","Sunnyvale, CA, USA",rabitz
+"""been""","Cape Canaveral, FL, USA",rabitz
+"""been"",""fave""","Denver, CO, USA",rabitz
+"""been"",""fave""","Dublin, Ireland",rabitz
+"""been""","Waimea, HI, USA",rabitz
+"""been""","Poipu, HI, USA",rabitz
+"""been""","Princeville, HI, USA",rabitz
+"""been""","Monterey, CA, USA",rabitz
+"""been""","Riverside, CA, USA",rabitz
+"""been""","Pasadena, CA, USA",rabitz
+"""been""","Williams, AZ, USA",rabitz
+"""been""","Kilauea, HI, USA",rabitz
+"""been"",""fave""","Honolulu, HI, USA",rabitz
+"""been""","Lihue, HI, USA",rabitz
+"""been""","Koloa, HI, USA",rabitz
+"""been""","Arcadia, CA, USA",rabitz
+"""been""","Asheville, NC, USA",rabitz
+"""been""","Saint Paul, MN, USA",rabitz
+"""been""","Cathedral City, CA, USA",rabitz
+"""been""","San Simeon, CA, USA",rabitz
+"""want""","Kilkenny, Ireland",rabitz

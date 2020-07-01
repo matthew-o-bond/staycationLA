@@ -1,0 +1,419 @@
+tag,place,user
+"""been""","Visalia, CA, USA",frequent1
+"""been""","Coroico Viejo, Bolivia",frequent1
+"""been""","San Salvador, El Salvador",frequent1
+"""been""","Amador City, CA, USA",frequent1
+"""been""","Calistoga, CA, USA",frequent1
+"""been""","Soulsbyville, CA, USA",frequent1
+"""been""","Folsom, CA, USA",frequent1
+"""been""","Walnut Creek, CA, USA",frequent1
+"""been""","Des Moines, IA, USA",frequent1
+"""been""","Cameron Park, CA, USA",frequent1
+"""been""","South San Francisco, CA, USA",frequent1
+"""been""","Cambria, CA, USA",frequent1
+"""been""","Farmington, CA, USA",frequent1
+"""been""","Coronado, CA, USA",frequent1
+"""been""","Boston, MA, USA",frequent1
+"""been""","New Orleans, LA, USA",frequent1
+"""been""","Sonora, CA, USA",frequent1
+"""been""","Sucre, Bolivia",frequent1
+"""been""","Sonoma, CA, USA",frequent1
+"""been""","Potosi, Bolivia",frequent1
+"""been""","Miami, FL, USA",frequent1
+"""been""","Miami Beach, FL, USA",frequent1
+"""been""","Oruro, Bolivia",frequent1
+"""been""","Houston, TX, USA",frequent1
+"""been""","Antioch, CA, USA",frequent1
+"""been""","Corte Madera, CA, USA",frequent1
+"""been""","Angels Camp, CA, USA",frequent1
+"""been""","Cotati, CA, USA",frequent1
+"""been""","Anaheim, CA, USA",frequent1
+"""been""","Hollister, CA, USA",frequent1
+"""been""","Solvang, CA, USA",frequent1
+"""been""","Grand Canyon National Park, AZ, USA",frequent1
+"""been""","Dardanelle, CA, USA",frequent1
+"""been""","San Bruno, CA, USA",frequent1
+"""been""","West Hollywood, CA, USA",frequent1
+"""been""","Davis, CA, USA",frequent1
+"""been""","Stockton, CA, USA",frequent1
+"""been""","Tucson, AZ, USA",frequent1
+"""been""","San Francisco, CA, USA",frequent1
+"""been""","Gothenburg, NE, USA",frequent1
+"""been""","Tillamook, OR, USA",frequent1
+"""been""","Oak Ridge, TN, USA",frequent1
+"""been""","Del Mar, CA, USA",frequent1
+"""been""","San Carlos, CA, USA",frequent1
+"""been""","Strawberry, CA, USA",frequent1
+"""been""","Fort Lauderdale, FL, USA",frequent1
+"""been""","Capitola, CA, USA",frequent1
+"""been""","Suisun City, CA, USA",frequent1
+"""been""","Cameron, AZ, USA",frequent1
+"""been""","Cupertino, CA, USA",frequent1
+"""been""","Watsonville, CA, USA",frequent1
+"""been""","Mexico City, Mexico",frequent1
+"""been""","Santa Fe, NM, USA",frequent1
+"""been""","Knoxville, TN, USA",frequent1
+"""been""","Newark, NJ, USA",frequent1
+"""been""","Warnes, Bolivia",frequent1
+"""been""","Squaw Valley, CA, USA",frequent1
+"""been""","Colorado Springs, CO, USA",frequent1
+"""been""","St. Helena, CA, USA",frequent1
+"""been""","Weed, CA, USA",frequent1
+"""been""","Salinas, CA, USA",frequent1
+"""been""","Bakersfield, CA, USA",frequent1
+"""been""","Daly City, CA, USA",frequent1
+"""been""","San Anselmo, CA, USA",frequent1
+"""been""","San Andreas, CA, USA",frequent1
+"""been""","Belmont, CA, USA",frequent1
+"""been""","Williams, CA, USA",frequent1
+"""been""","Castaic, CA, USA",frequent1
+"""been""","Benicia, CA, USA",frequent1
+"""been""","San Mateo, CA, USA",frequent1
+"""been""","Ben Lomond, CA, USA",frequent1
+"""been""","Castro Valley, CA, USA",frequent1
+"""been""","Sutter Creek, CA, USA",frequent1
+"""been""","Balboa Island, CA, USA",frequent1
+"""been""","Achocalla, Bolivia",frequent1
+"""been""","Atlanta, GA, USA",frequent1
+"""been""","Berkeley, CA, USA",frequent1
+"""been""","Tahoe City, CA, USA",frequent1
+"""been""","San Ramon, CA, USA",frequent1
+"""been""","San Rafael, CA, USA",frequent1
+"""been""","Bethel Island, CA, USA",frequent1
+"""been""","San Simeon, CA, USA",frequent1
+"""been""","Lima, Peru",frequent1
+"""been""","Carmel, CA, USA",frequent1
+"""been""","Nuevo Vallarta, Mexico",frequent1
+"""been""","Carlsbad, CA, USA",frequent1
+"""been""","Diablo, CA, USA",frequent1
+"""been""","Carmichael, CA, USA",frequent1
+"""been""","San Jose, CA, USA",frequent1
+"""been""","Carmel Valley, CA, USA",frequent1
+"""been""","Swindon, UK",frequent1
+"""been""","San Leandro, CA, USA",frequent1
+"""been""","San Juan Capistrano, CA, USA",frequent1
+"""been""","Denver, CO, USA",frequent1
+"""been""","San Lorenzo, CA, USA",frequent1
+"""been""","San Luis Obispo, CA, USA",frequent1
+"""been""","Woodland, CA, USA",frequent1
+"""been""","Santa Monica, CA, USA",frequent1
+"""been""","Bishop, CA, USA",frequent1
+"""been""","Sparks, NV, USA",frequent1
+"""been""","San Diego, CA, USA",frequent1
+"""been""","Stateline, NV, USA",frequent1
+"""been""","North Houston, TX, USA",frequent1
+"""been""","Seattle, WA, USA",frequent1
+"""been""","Martinez, CA, USA",frequent1
+"""been""","Montero, Bolivia",frequent1
+"""been""","Santa Rosa, CA, USA",frequent1
+"""been""","Saratoga, CA, USA",frequent1
+"""been""","Beverly Hills, CA, USA",frequent1
+"""been""","San Ysidro, CA, USA",frequent1
+"""been""","Ceres, CA, USA",frequent1
+"""been""","New York City, NY, USA",frequent1
+"""been""","Omaha, NE, USA",frequent1
+"""been""","Cadaques, Spain",frequent1
+"""been""","Mecapaca, Bolivia",frequent1
+"""been""","Paris, France",frequent1
+"""been""","Big Oak Flat, CA, USA",frequent1
+"""been""","Santa Barbara, CA, USA",frequent1
+"""been""","Santa Clara, CA, USA",frequent1
+"""been""","Woodbridge, CA, USA",frequent1
+"""been""","Santa Cruz, CA, USA",frequent1
+"""been""","Truckee, CA, USA",frequent1
+"""been""","Tulare, CA, USA",frequent1
+"""been""","Tuolumne, CA, USA",frequent1
+"""been""","Turlock, CA, USA",frequent1
+"""been""","Barcelona, Spain",frequent1
+"""been""","Saratoga Springs, NY, USA",frequent1
+"""been""","Girona, Spain",frequent1
+"""been""","Florence, OR, USA",frequent1
+"""been""","Bodega Bay, CA, USA",frequent1
+"""been""","Torrance, CA, USA",frequent1
+"""been""","Tracy, CA, USA",frequent1
+"""been""","Sausalito, CA, USA",frequent1
+"""been""","Taos, NM, USA",frequent1
+"""been""","Zephyr Cove, NV, USA",frequent1
+"""been""","Newport, OR, USA",frequent1
+"""been""","Trinidad, CA, USA",frequent1
+"""been""","Sebastopol, CA, USA",frequent1
+"""been""","Bandon, OR, USA",frequent1
+"""been""","Federal Way, WA, USA",frequent1
+"""been""","Simi Valley, CA, USA",frequent1
+"""been""","Sloughhouse, CA, USA",frequent1
+"""been""","Mammoth Lakes, CA, USA",frequent1
+"""been""","Ashland, NE, USA",frequent1
+"""been""","Monaco-Ville, Monaco",frequent1
+"""been""","Philadelphia, PA, USA",frequent1
+"""been""","Monte-Carlo, Monaco",frequent1
+"""been""","Nice, France",frequent1
+"""been""","Washington DC, DC, USA",frequent1
+"""been""","Huatajata, Bolivia",frequent1
+"""been""","Medford, OR, USA",frequent1
+"""been""","Ennistymon, Ireland",frequent1
+"""been""","Shingle Springs, CA, USA",frequent1
+"""been""","Punta de Mita, Mexico",frequent1
+"""been""","Bruges, Belgium",frequent1
+"""been""","Pleasant Hill, CA, USA",frequent1
+"""been""","Brookings, OR, USA",frequent1
+"""been""","Plymouth, CA, USA",frequent1
+"""been""","Pleasanton, CA, USA",frequent1
+"""been""","South Lake Tahoe, CA, USA",frequent1
+"""been""","Leuven, Belgium",frequent1
+"""been""","Fall Creek Falls State Park, TN, USA",frequent1
+"""been""","Ennis, Ireland",frequent1
+"""been""","Cannon Beach, OR, USA",frequent1
+"""been""","Tiahuanaco, Bolivia",frequent1
+"""been""","Columbus, OH, USA",frequent1
+"""been""","Doolin, Ireland",frequent1
+"""been""","Isla del Sol, Bolivia",frequent1
+"""been""","Vatican City, Vatican City",frequent1
+"""been""","Coroico, Bolivia",frequent1
+"""been""","Samaipata, Bolivia",frequent1
+"""been""","Brussels, Belgium",frequent1
+"""been""","Gold Beach, OR, USA",frequent1
+"""been""","Point Reyes Station, CA, USA",frequent1
+"""been""","Rome, Italy",frequent1
+"""been""","Ashland, OR, USA",frequent1
+"""been""","Grants Pass, OR, USA",frequent1
+"""been""","Gallup, NM, USA",frequent1
+"""been""","Fiumicino, Italy",frequent1
+"""been""","Raleigh, NC, USA",frequent1
+"""been""","Harbor, OR, USA",frequent1
+"""been""","London, UK",frequent1
+"""been""","Los Ayala, Mexico",frequent1
+"""been""","Munich, Germany",frequent1
+"""been""","Rancho Cordova, CA, USA",frequent1
+"""been""","Mendocino, CA, USA",frequent1
+"""been""","Rancho Murieta, CA, USA",frequent1
+"""been""","Olympic Valley, CA, USA",frequent1
+"""been""","Rancho Santa Fe, CA, USA",frequent1
+"""been""","Menlo Park, CA, USA",frequent1
+"""been""","Orange, CA, USA",frequent1
+"""been""","Orangevale, CA, USA",frequent1
+"""been""","Merced, CA, USA",frequent1
+"""been""","Florence, Italy",frequent1
+"""been""","Oakdale, CA, USA",frequent1
+"""been""","Dallas, TX, USA",frequent1
+"""been""","Oakland, CA, USA",frequent1
+"""been""","Occidental, CA, USA",frequent1
+"""been""","Oceanside, CA, USA",frequent1
+"""been""","Ojai, CA, USA",frequent1
+"""been""","Figueres, Spain",frequent1
+"""been""","Cerro Azul, Panama",frequent1
+"""been""","Yosemite National Park, CA, USA",frequent1
+"""been""","Unduavi, Bolivia",frequent1
+"""been""","Lakeport, CA, USA",frequent1
+"""been""","Albany, NY, USA",frequent1
+"""been""","Venice, Italy",frequent1
+"""been""","Modesto, CA, USA",frequent1
+"""been""","Palm Springs, CA, USA",frequent1
+"""been""","Oklahoma City, OK, USA",frequent1
+"""been""","Palo Alto, CA, USA",frequent1
+"""been""","Stanford, CA, USA",frequent1
+"""been""","Chulumani, Bolivia",frequent1
+"""been""","Pacific Grove, CA, USA",frequent1
+"""been""","Pacifica, CA, USA",frequent1
+"""been""","Shanghai, China",frequent1
+"""been""","Mi Wuk Village, CA, USA",frequent1
+"""been""","Yokohama, Japan",frequent1
+"""been""","San Pedro Tiquina, Bolivia",frequent1
+"""been""","Yolosa, Bolivia",frequent1
+"""been""","Redwood City, CA, USA",frequent1
+"""been""","Millbrae, CA, USA",frequent1
+"""been""","Montserrat, Spain",frequent1
+"""been""","Milpitas, CA, USA",frequent1
+"""been""","Redding, CA, USA",frequent1
+"""been""","Orinda, CA, USA",frequent1
+"""been""","McClellan Park, CA, USA",frequent1
+"""been""","Arica, Chile",frequent1
+"""been""","San Jose del Cabo, Mexico",frequent1
+"""been""","Cabo San Lucas, Mexico",frequent1
+"""been""","Morgan Hill, CA, USA",frequent1
+"""been""","Pebble Beach, CA, USA",frequent1
+"""been""","Roseville, CA, USA",frequent1
+"""been""","Morro Bay, CA, USA",frequent1
+"""been""","Huajchilla, Bolivia",frequent1
+"""been""","Rocklin, CA, USA",frequent1
+"""been""","Paso Robles, CA, USA",frequent1
+"""been""","Moraga, CA, USA",frequent1
+"""been""","Sayulita, Mexico",frequent1
+"""been""","Carson City, NV, USA",frequent1
+"""been""","Larkspur, CA, USA",frequent1
+"""been""","Saint Paul, MN, USA",frequent1
+"""been""","Riverbank, CA, USA",frequent1
+"""been""","Riverside, CA, USA",frequent1
+"""been""","Huarinilla, Bolivia",frequent1
+"""been""","Lee Vining, CA, USA",frequent1
+"""been""","Pasadena, CA, USA",frequent1
+"""been""","Monterey, CA, USA",frequent1
+"""been""","Lebec, CA, USA",frequent1
+"""been""","Window Rock, AZ, USA",frequent1
+"""been""","Rio Linda, CA, USA",frequent1
+"""been""","Tarija, Bolivia",frequent1
+"""been""","Castello d'Empuries, Spain",frequent1
+"""been""","Kingsbury, NV, USA",frequent1
+"""been""","Ripon, CA, USA",frequent1
+"""been""","Milan, Italy",frequent1
+"""been""","Rio Vista, CA, USA",frequent1
+"""been""","Incline Village, NV, USA",frequent1
+"""been""","Puerto Vallarta, Mexico",frequent1
+"""been""","Arnold, CA, USA",frequent1
+"""been""","Henderson, NV, USA",frequent1
+"""been""","Lone Pine, CA, USA",frequent1
+"""been""","National City, CA, USA",frequent1
+"""been""","Napa, CA, USA",frequent1
+"""been""","Pinecrest, CA, USA",frequent1
+"""been""","Alexandria, VA, USA",frequent1
+"""been""","Long Beach, CA, USA",frequent1
+"""been""","Aptos, CA, USA",frequent1
+"""been""","Long Barn, CA, USA",frequent1
+"""been""","Limerick, Ireland",frequent1
+"""been""","Ione, CA, USA",frequent1
+"""been""","Piedmont, CA, USA",frequent1
+"""been""","Lodi, CA, USA",frequent1
+"""been""","Fort Bragg, CA, USA",frequent1
+"""been""","Murphys, CA, USA",frequent1
+"""been""","Phoenix, AZ, USA",frequent1
+"""been""","Shannon, Ireland",frequent1
+"""been""","Gardnerville, NV, USA",frequent1
+"""been""","Livermore, CA, USA",frequent1
+"""been""","Mount Shasta, CA, USA",frequent1
+"""been""","Huntington Beach, CA, USA",frequent1
+"""been""","Sacramento, CA, USA",frequent1
+"""been""","Lockeford, CA, USA",frequent1
+"""been""","Caranavi, Bolivia",frequent1
+"""been""","La Spezia, Italy",frequent1
+"""been""","Genoa, Italy",frequent1
+"""been""","Vernazza, Italy",frequent1
+"""been""","Pescadero, CA, USA",frequent1
+"""been""","Ensenada, Mexico",frequent1
+"""been""","Galway, Ireland",frequent1
+"""been""","North Platte, NE, USA",frequent1
+"""been""","Rosarito, Mexico",frequent1
+"""been""","Tijuana, Mexico",frequent1
+"""been""","June Lake, CA, USA",frequent1
+"""been""","Gilroy, CA, USA",frequent1
+"""been""","Bogota, Colombia",frequent1
+"""been""","Seoul, South Korea",frequent1
+"""been""","Newport Beach, CA, USA",frequent1
+"""been""","Nice, CA, USA",frequent1
+"""been""","Dixon, CA, USA",frequent1
+"""been""","Corniglia, Italy",frequent1
+"""been""","Discovery Bay, CA, USA",frequent1
+"""been""","Big Sur, CA, USA",frequent1
+"""been""","Walker, CA, USA",frequent1
+"""been""","La Paz, Bolivia",frequent1
+"""been""","Las Vegas, NV, USA",frequent1
+"""been""","Los Gatos, CA, USA",frequent1
+"""been""","Los Banos, CA, USA",frequent1
+"""been""","Placerville, CA, USA",frequent1
+"""been""","Jackson, CA, USA",frequent1
+"""been""","Fresno, CA, USA",frequent1
+"""been""","Chicago, IL, USA",frequent1
+"""been""","Jamestown, CA, USA",frequent1
+"""been""","Galt, CA, USA",frequent1
+"""been""","Bologna, Italy",frequent1
+"""been""","Los Altos, CA, USA",frequent1
+"""been""","Newark, CA, USA",frequent1
+"""been""","Fremont, CA, USA",frequent1
+"""been""","Pittsburg, CA, USA",frequent1
+"""been""","Pismo Beach, CA, USA",frequent1
+"""been""","Los Angeles, CA, USA",frequent1
+"""been""","Isleton, CA, USA",frequent1
+"""been""","French Camp, CA, USA",frequent1
+"""been""","Reno, NV, USA",frequent1
+"""been""","Lido di Venezia, Italy",frequent1
+"""been""","Manitou Springs, CO, USA",frequent1
+"""been""","Grass Valley, CA, USA",frequent1
+"""been""","Scottsdale, AZ, USA",frequent1
+"""been""","Marina del Rey, CA, USA",frequent1
+"""been""","Kirkwood, CA, USA",frequent1
+"""been""","Chico, CA, USA",frequent1
+"""been""","Mariposa, CA, USA",frequent1
+"""been""","Knights Ferry, CA, USA",frequent1
+"""been""","Chinese Camp, CA, USA",frequent1
+"""been""","Buena Vista, Bolivia",frequent1
+"""been""","El Port de la Selva, Spain",frequent1
+"""been""","North Highlands, CA, USA",frequent1
+"""been""","Minneapolis, MN, USA",frequent1
+"""been""","Kansas City, MO, USA",frequent1
+"""been""","Portland, OR, USA",frequent1
+"""been""","Manteca, CA, USA",frequent1
+"""been""","Gold River, CA, USA",frequent1
+"""been""","Kettleman City, CA, USA",frequent1
+"""been""","Ash Fork, AZ, USA",frequent1
+"""been""","Yachats, OR, USA",frequent1
+"""been""","Kentfield, CA, USA",frequent1
+"""been""","Drytown, CA, USA",frequent1
+"""been""","Novato, CA, USA",frequent1
+"""been""","Dublin, CA, USA",frequent1
+"""been""","Malibu, CA, USA",frequent1
+"""been""","Groveland, CA, USA",frequent1
+"""been""","Chimayo, NM, USA",frequent1
+"""been""","Baltimore, MD, USA",frequent1
+"""been""","Albuquerque, NM, USA",frequent1
+"""been""","El Alto, Bolivia",frequent1
+"""been""","Elk Grove, CA, USA",frequent1
+"""been""","Half Moon Bay, CA, USA",frequent1
+"""been""","Coalinga, CA, USA",frequent1
+"""been""","Danville, CA, USA",frequent1
+"""been""","Astoria, OR, USA",frequent1
+"""been""","El Portal, CA, USA",frequent1
+"""been""","Boulder Creek, CA, USA",frequent1
+"""been""","Lafayette, CA, USA",frequent1
+"""been""","Guerneville, CA, USA",frequent1
+"""been""","Mather, CA, USA",frequent1
+"""been""","Playas de Rosarito, Mexico",frequent1
+"""been""","Rio de Janeiro, Brazil",frequent1
+"""been""","Orlando, FL, USA",frequent1
+"""been""","Clearlake, CA, USA",frequent1
+"""been""","Sao Paulo, Brazil",frequent1
+"""been""","Yountville, CA, USA",frequent1
+"""been""","Chula Vista, CA, USA",frequent1
+"""been""","Yuba City, CA, USA",frequent1
+"""been""","El Cerrito, CA, USA",frequent1
+"""been""","La Grange, CA, USA",frequent1
+"""been""","La Jolla, CA, USA",frequent1
+"""been""","El Dorado Hills, CA, USA",frequent1
+"""been""","Hayward, CA, USA",frequent1
+"""been""","Tuba City, AZ, USA",frequent1
+"""been""","Healdsburg, CA, USA",frequent1
+"""been""","Tusayan, AZ, USA",frequent1
+"""been""","Bucerias, Mexico",frequent1
+"""been""","Bellevue, NE, USA",frequent1
+"""been""","Murano, Italy",frequent1
+"""been""","Achacachi, Bolivia",frequent1
+"""been""","Barstow, CA, USA",frequent1
+"""been""","Portlligat, Spain",frequent1
+"""been""","Mill Valley, CA, USA",frequent1
+"""been""","Fair Oaks, CA, USA",frequent1
+"""been""","Burbank, CA, USA",frequent1
+"""been""","Concord, CA, USA",frequent1
+"""been""","Vallecito, CA, USA",frequent1
+"""been""","Hercules, CA, USA",frequent1
+"""been""","Fairfield, CA, USA",frequent1
+"""been""","Burlingame, CA, USA",frequent1
+"""been""","Copperopolis, CA, USA",frequent1
+"""been""","Valley Springs, CA, USA",frequent1
+"""been""","Minot, ND, USA",frequent1
+"""been""","Porto Venere, Italy",frequent1
+"""been""","Westwood, CA, USA",frequent1
+"""been""","Salt Lake City, UT, USA",frequent1
+"""been""","Lincoln, NE, USA",frequent1
+"""been""","Columbia, CA, USA",frequent1
+"""been""","Upland, CA, USA",frequent1
+"""been""","Cochabamba, Bolivia",frequent1
+"""been""","Vacaville, CA, USA",frequent1
+"""been""","Albion, CA, USA",frequent1
+"""been""","Emeryville, CA, USA",frequent1
+"""been""","Alamo, CA, USA",frequent1
+"""been""","Bridgeport, CA, USA",frequent1
+"""been""","Alameda, CA, USA",frequent1
+"""been""","Twain Harte, CA, USA",frequent1
+"""been""","Colma, CA, USA",frequent1
+"""been""","Boulder, CO, USA",frequent1
+"""been""","Copacabana, Bolivia",frequent1
+"""been""","Union City, CA, USA",frequent1
+"""been""","Escalon, CA, USA",frequent1
+"""been""","Santa Cruz, Bolivia",frequent1

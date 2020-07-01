@@ -1,0 +1,707 @@
+tag,place,user
+"""been""","Aalborg, Denmark",RW60s
+"""been""","Santa Fe, NM, USA",RW60s
+"""been""","Aabenraa, Denmark",RW60s
+"""been""","Plymouth, UK",RW60s
+"""been""","Tasinge, Denmark",RW60s
+"""been""","Halmstad, Sweden",RW60s
+"""been""","Torquay, UK",RW60s
+"""been""","Braunschweig, Germany",RW60s
+"""been""","Svendborg, Denmark",RW60s
+"""been""","Falkenberg, Sweden",RW60s
+"""been""","San Francisco, CA, USA",RW60s
+"""been""","Brigham City, UT, USA",RW60s
+"""want""","Wailea, HI, USA",RW60s
+"""been""","Tucson, AZ, USA",RW60s
+"""been""","Hermosa Beach, CA, USA",RW60s
+"""been""","Kungsbacka, Sweden",RW60s
+"""been""","Hoganas, Sweden",RW60s
+"""want""","Christchurch, New Zealand",RW60s
+"""been""","Hesperia, CA, USA",RW60s
+"""been""","Mesa, AZ, USA",RW60s
+"""been""","Fjerritslev, Denmark",RW60s
+"""been""","Fredensborg, Denmark",RW60s
+"""been""","Mjolby, Sweden",RW60s
+"""been""","Costa Mesa, CA, USA",RW60s
+"""been""","Coronado, CA, USA",RW60s
+"""been""","Stavanger, Norway",RW60s
+"""been""","Mohave Valley, AZ, USA",RW60s
+"""been""","Thyholm, Denmark",RW60s
+"""been""","Maribo, Denmark",RW60s
+"""been""","Solvang, CA, USA",RW60s
+"""been""","Victorville, CA, USA",RW60s
+"""been""","Tars, Denmark",RW60s
+"""been""","Wolfsburg, Germany",RW60s
+"""been""","Lolland, Denmark",RW60s
+"""been""","Fanoe, Denmark",RW60s
+"""been""","Solana Beach, CA, USA",RW60s
+"""been""","Palisade, CO, USA",RW60s
+"""been""","Nice, France",RW60s
+"""been""","Esbjerg, Denmark",RW60s
+"""been""","Knoxville, TN, USA",RW60s
+"""been""","Billund, Denmark",RW60s
+"""been""","Haderslev, Denmark",RW60s
+"""been""","Hildesheim, Germany",RW60s
+"""been""","Gothenburg, Sweden",RW60s
+"""been""","Aarhus, Denmark",RW60s
+"""been""","Goettingen, Germany",RW60s
+"""been""","Varberg, Sweden",RW60s
+"""want""","Las Palmas de Gran Canaria, Spain",RW60s
+"""been""","Hannover, Germany",RW60s
+"""been""","Aero, Denmark",RW60s
+"""been""","Antibes, France",RW60s
+"""been""","Fulda, Germany",RW60s
+"""been""","Faaborg, Denmark",RW60s
+"""been""","Falster, Denmark",RW60s
+"""want""","Jerusalem, Israel",RW60s
+"""been""","Darmstadt, Germany",RW60s
+"""been""","Hundested, Denmark",RW60s
+"""been""","Svaneke, Denmark",RW60s
+"""been""","Vasteras, Sweden",RW60s
+"""been""","Frankfurt, Germany",RW60s
+"""been""","Guldborg, Denmark",RW60s
+"""been""","Roenne, Denmark",RW60s
+"""been""","Lenno, Italy",RW60s
+"""want""","Wellington, New Zealand",RW60s
+"""been""","Bath, UK",RW60s
+"""been""","Sallingsund, Denmark",RW60s
+"""been""","Flagstaff, AZ, USA",RW60s
+"""been""","Nynashamn, Sweden",RW60s
+"""been""","Buellton, CA, USA",RW60s
+"""been""","Grand Junction, CO, USA",RW60s
+"""been""","Griante, Italy",RW60s
+"""been""","Bergen, Norway",RW60s
+"""been""","Odense, Denmark",RW60s
+"""been""","Tacoma, WA, USA",RW60s
+"""been""","Zeebrugge, Belgium",RW60s
+"""been""","Christiansfeld, Denmark",RW60s
+"""been""","Nyborg, Denmark",RW60s
+"""been""","Viby, Denmark",RW60s
+"""been""","Marble Canyon, AZ, USA",RW60s
+"""been""","Exeter, UK",RW60s
+"""been"",""fave""","Eze, France",RW60s
+"""been""","Middelfart, Denmark",RW60s
+"""been""","Langeland, Denmark",RW60s
+"""been""","Valby, Denmark",RW60s
+"""want""","Athens, Greece",RW60s
+"""been""","Corona del Mar, CA, USA",RW60s
+"""been""","Bogense, Denmark",RW60s
+"""been""","Lava Hot Springs, ID, USA",RW60s
+"""been""","Dartmouth, UK",RW60s
+"""been""","Palma de Mallorca, Spain",RW60s
+"""been""","Ostend, Belgium",RW60s
+"""been""","Cannes, France",RW60s
+"""been""","Kassel, Germany",RW60s
+"""been""","Bruges, Belgium",RW60s
+"""been""","Hornbaek, Denmark",RW60s
+"""been""","Black Hawk, CO, USA",RW60s
+"""want""","Rio de Janeiro, Brazil",RW60s
+"""want""","Aix-en-Provence, France",RW60s
+"""been""","Hassleholm, Sweden",RW60s
+"""been""","Newquay, UK",RW60s
+"""been""","Sodertalje, Sweden",RW60s
+"""been""","Bremen, Germany",RW60s
+"""been""","Odder, Denmark",RW60s
+"""been""","Hoerve, Denmark",RW60s
+"""been""","Nykoping, Sweden",RW60s
+"""been""","Broendby, Denmark",RW60s
+"""been""","Brovst, Denmark",RW60s
+"""been""","Luneburg, Germany",RW60s
+"""been""","Hockenheim, Germany",RW60s
+"""been""","Brabrand, Denmark",RW60s
+"""been""","Epsom, UK",RW60s
+"""been""","Corrales, NM, USA",RW60s
+"""been""","Chihuahua, Mexico",RW60s
+"""been""","Herlev, Denmark",RW60s
+"""want""","Honolulu, HI, USA",RW60s
+"""been""","Lebanon, TN, USA",RW60s
+"""been""","Thingvellir, Iceland",RW60s
+"""been""","Encinitas, CA, USA",RW60s
+"""been""","Topock, AZ, USA",RW60s
+"""been""","Boulder, CO, USA",RW60s
+"""been""","Houston, TX, USA",RW60s
+"""been""","Herning, Denmark",RW60s
+"""been""","Farup, Denmark",RW60s
+"""been""","Bornholm, Denmark",RW60s
+"""been""","Twin Falls, ID, USA",RW60s
+"""been""","Anthony, TX, USA",RW60s
+"""been""","Silkeborg, Denmark",RW60s
+"""been""","Holbaek, Denmark",RW60s
+"""been""","Sheffield, UK",RW60s
+"""been""","Colchester, UK",RW60s
+"""been""","Jyllinge, Denmark",RW60s
+"""been""","Avignon, France",RW60s
+"""been""","Bad Hersfeld, Germany",RW60s
+"""been""","Ballerup, Denmark",RW60s
+"""been""","Karlstad, Sweden",RW60s
+"""been""","Breckenridge, CO, USA",RW60s
+"""been""","Reading, UK",RW60s
+"""been""","Hamburg, Germany",RW60s
+"""been""","Uppsala, Sweden",RW60s
+"""been""","Hawthorne, CA, USA",RW60s
+"""been""","Golden, CO, USA",RW60s
+"""been""","Kimberly, ID, USA",RW60s
+"""been""","Glenwood Springs, CO, USA",RW60s
+"""been""","Vik, Iceland",RW60s
+"""been""","Vedbaek, Denmark",RW60s
+"""been""","Damme, Germany",RW60s
+"""been""","Vejle, Denmark",RW60s
+"""been""","Glucksburg, Germany",RW60s
+"""been""","Sierksdorf, Germany",RW60s
+"""been""","Niebuell, Germany",RW60s
+"""been""","San Diego, CA, USA",RW60s
+"""been""","Harwich, UK",RW60s
+"""been""","Carate Urio, Italy",RW60s
+"""been""","Grover Beach, CA, USA",RW60s
+"""been""","El Segundo, CA, USA",RW60s
+"""been""","Ljungby, Sweden",RW60s
+"""been""","Amarillo, TX, USA",RW60s
+"""been""","Eastbourne, UK",RW60s
+"""been""","Korsoer, Denmark",RW60s
+"""been""","Berlin, Germany",RW60s
+"""been""","Norrkoping, Sweden",RW60s
+"""been""","Linkoping, Sweden",RW60s
+"""been""","Provo, UT, USA",RW60s
+"""been""","Wurzburg, Germany",RW60s
+"""been""","Trinidad, CO, USA",RW60s
+"""been""","Half Moon Bay, CA, USA",RW60s
+"""been""","Kingman, AZ, USA",RW60s
+"""been""","Winchester, VA, USA",RW60s
+"""been""","Orebro, Sweden",RW60s
+"""been""","Laguna Beach, CA, USA",RW60s
+"""been""","Poole, UK",RW60s
+"""been""","Kalundborg, Denmark",RW60s
+"""been""","Ash Fork, AZ, USA",RW60s
+"""been""","Isola Comacina, Italy",RW60s
+"""been""","Lezzeno, Italy",RW60s
+"""been""","Laglio, Italy",RW60s
+"""been""","Salem, OR, USA",RW60s
+"""been""","Seattle, WA, USA",RW60s
+"""been""","Yellowstone National Park, WY, USA",RW60s
+"""been""","Hvidovre, Denmark",RW60s
+"""been""","Detroit, MI, USA",RW60s
+"""been""","Boulder City, NV, USA",RW60s
+"""been""","Birkerod, Denmark",RW60s
+"""been""","Leavenworth, WA, USA",RW60s
+"""been""","Blommenslyst, Denmark",RW60s
+"""been""","Richfield, UT, USA",RW60s
+"""been""","Sonoita, AZ, USA",RW60s
+"""been""","Holbrook, AZ, USA",RW60s
+"""been""","Marup, Denmark",RW60s
+"""been""","Baden-Baden, Germany",RW60s
+"""been""","Tremezzina, Italy",RW60s
+"""been""","Dresden, Germany",RW60s
+"""been""","La Jolla, CA, USA",RW60s
+"""been""","Montpellier, France",RW60s
+"""been""","Nesso, Italy",RW60s
+"""been""","Ossuccio, Italy",RW60s
+"""been""","Kokkedal, Denmark",RW60s
+"""been""","Montreux, Switzerland",RW60s
+"""been""","Rungsted, Denmark",RW60s
+"""been""","Lausanne, Switzerland",RW60s
+"""been""","Niva, Denmark",RW60s
+"""been""","Primm, NV, USA",RW60s
+"""been""","Roedby, Denmark",RW60s
+"""been""","Richmond, British Columbia, Canada",RW60s
+"""been""","Holstebro, Denmark",RW60s
+"""been""","North Vancouver, British Columbia, Canada",RW60s
+"""been""","El Paso, TX, USA",RW60s
+"""been""","Fredericia, Denmark",RW60s
+"""been""","Ventura, CA, USA",RW60s
+"""been""","Koege, Denmark",RW60s
+"""been""","New York City, NY, USA",RW60s
+"""been""","Slagelse, Denmark",RW60s
+"""been""","Skive, Denmark",RW60s
+"""been""","Searchlight, NV, USA",RW60s
+"""been""","Little Rock, AR, USA",RW60s
+"""been""","Taastrup, Denmark",RW60s
+"""been""","Ebeltoft, Denmark",RW60s
+"""been""","Holte, Denmark",RW60s
+"""been""","Edmonds, WA, USA",RW60s
+"""been""","Amsterdam, The Netherlands",RW60s
+"""been""","Willcox, AZ, USA",RW60s
+"""been""","Farum, Denmark",RW60s
+"""been""","Scottsdale, AZ, USA",RW60s
+"""been""","Sandy, UT, USA",RW60s
+"""been""","Ringe, Denmark",RW60s
+"""been""","Green River, UT, USA",RW60s
+"""been""","Woodstock, VA, USA",RW60s
+"""been""","Lynnwood, WA, USA",RW60s
+"""been""","Golden Valley, AZ, USA",RW60s
+"""been""","Mack, CO, USA",RW60s
+"""been"",""fave""","Paris, France",RW60s
+"""been""","Nykoebing, Denmark",RW60s
+"""been""","Versailles, France",RW60s
+"""been""","Roervig, Denmark",RW60s
+"""been""","Sedona, AZ, USA",RW60s
+"""been""","Portsmouth, UK",RW60s
+"""been""","Marina del Rey, CA, USA",RW60s
+"""been""","Seligman, AZ, USA",RW60s
+"""been""","Southampton, UK",RW60s
+"""been""","Zurich, Switzerland",RW60s
+"""been""","Klint, Denmark",RW60s
+"""been""","Chino, CA, USA",RW60s
+"""been""","Hoejby, Denmark",RW60s
+"""been""","Paderborn, Germany",RW60s
+"""been""","North Las Vegas, NV, USA",RW60s
+"""been""","Toender, Denmark",RW60s
+"""been""","Skaerbaek, Denmark",RW60s
+"""been""","Pahrump, NV, USA",RW60s
+"""been""","Cologne, Germany",RW60s
+"""been""","Spokane Valley, WA, USA",RW60s
+"""been""","Memphis, TN, USA",RW60s
+"""been""","Everett, WA, USA",RW60s
+"""been""","Swinoujscie, Poland",RW60s
+"""been""","Holladay, UT, USA",RW60s
+"""been""","Ribe, Denmark",RW60s
+"""been""","Heiligenhafen, Germany",RW60s
+"""been""","Manhattan Beach, CA, USA",RW60s
+"""been""","Skagen, Denmark",RW60s
+"""been""","Malibu, CA, USA",RW60s
+"""been""","Fort Mohave, AZ, USA",RW60s
+"""been""","San Simon, AZ, USA",RW60s
+"""been""","Dusseldorf, Germany",RW60s
+"""been""","Portland, OR, USA",RW60s
+"""been""","Argegno, Italy",RW60s
+"""been""","Stege, Denmark",RW60s
+"""been""","Chicago, IL, USA",RW60s
+"""been""","Moen, Denmark",RW60s
+"""been""","Brienno, Italy",RW60s
+"""been""","Sakskoebing, Denmark",RW60s
+"""been""","Nakskov, Denmark",RW60s
+"""been""","Chania Town, Greece",RW60s
+"""been""","Death Valley Junction, CA, USA",RW60s
+"""been""","Frederiksvaerk, Denmark",RW60s
+"""been""","Bellingham, WA, USA",RW60s
+"""been""","Gudme, Denmark",RW60s
+"""been""","Ferndale, WA, USA",RW60s
+"""been""","Philadelphia, PA, USA",RW60s
+"""been""","Newport Beach, CA, USA",RW60s
+"""been""","Marysville, WA, USA",RW60s
+"""been""","Karlslunde, Denmark",RW60s
+"""been""","Arlington, VA, USA",RW60s
+"""been""","Aachen, Germany",RW60s
+"""been""","Grindsted, Denmark",RW60s
+"""been""","Jolon, CA, USA",RW60s
+"""been""","Nipomo, CA, USA",RW60s
+"""been""","Bielefeld, Germany",RW60s
+"""been""","Skjoldenaesholm, Denmark",RW60s
+"""been""","Wismar, Germany",RW60s
+"""been""","Roskilde, Denmark",RW60s
+"""been""","Blaine, WA, USA",RW60s
+"""been""","Vence, France",RW60s
+"""been""","Hillerod, Denmark",RW60s
+"""been""","Granna, Sweden",RW60s
+"""been""","Chambord, France",RW60s
+"""been""","Helsingoer, Denmark",RW60s
+"""been""","Warnemunde, Germany",RW60s
+"""been""","Copenhagen, Denmark",RW60s
+"""want""","Santa Cruz de Tenerife, Spain",RW60s
+"""been""","St-Paul-de-Vence, France",RW60s
+"""been""","Monte-Carlo, Monaco",RW60s
+"""been""","Rostock, Germany",RW60s
+"""been""","Brighton, UK",RW60s
+"""been""","Schwerin, Germany",RW60s
+"""been""","Maidenhead, UK",RW60s
+"""been""","Redstone, CO, USA",RW60s
+"""been""","Windsor, UK",RW60s
+"""been""","Long Beach, CA, USA",RW60s
+"""been""","Needles, CA, USA",RW60s
+"""been""","Salisbury, UK",RW60s
+"""been""","Arroyo Grande, CA, USA",RW60s
+"""want""","Glasgow, UK",RW60s
+"""been"",""fave""","Las Vegas, NV, USA",RW60s
+"""been""","Jean, NV, USA",RW60s
+"""want""","Chiang Mai, Thailand",RW60s
+"""been""","Laughlin, NV, USA",RW60s
+"""been""","Fujikawaguchiko-machi, Japan",RW60s
+"""been""","Pismo Beach, CA, USA",RW60s
+"""been""","Los Alamos, CA, USA",RW60s
+"""been""","Isla Vista, CA, USA",RW60s
+"""been""","Irvine, CA, USA",RW60s
+"""want""","Venice, Italy",RW60s
+"""been""","Vallensbaek Strand, Denmark",RW60s
+"""been"",""fave""","Los Angeles, CA, USA",RW60s
+"""been""","Keystone, CO, USA",RW60s
+"""been""","Sacramento, CA, USA",RW60s
+"""been""","Turin, Italy",RW60s
+"""been""","Naestved, Denmark",RW60s
+"""want""","Edinburgh, UK",RW60s
+"""been""","Pueblo, CO, USA",RW60s
+"""been""","Hawthorne, NV, USA",RW60s
+"""been""","Landskrona, Sweden",RW60s
+"""been""","Zell am See, Austria",RW60s
+"""been""","Frederiksberg, Denmark",RW60s
+"""been""","Henderson, NV, USA",RW60s
+"""been""","Goldfield, NV, USA",RW60s
+"""want""","Moscow, Russia",RW60s
+"""been""","Levan, UT, USA",RW60s
+"""been""","Roanoke, VA, USA",RW60s
+"""been""","Burlington, WA, USA",RW60s
+"""been""","Avalon, CA, USA",RW60s
+"""been""","Phoenix, AZ, USA",RW60s
+"""been""","Logan, UT, USA",RW60s
+"""been""","Roende, Denmark",RW60s
+"""been""","Napa, CA, USA",RW60s
+"""been""","Inglewood, CA, USA",RW60s
+"""been""","Imperial Beach, CA, USA",RW60s
+"""been""","Mariager, Denmark",RW60s
+"""been""","Lomita, CA, USA",RW60s
+"""been""","Vra, Denmark",RW60s
+"""been""","Yucca, AZ, USA",RW60s
+"""been""","Milan, Italy",RW60s
+"""been""","Pebble Beach, CA, USA",RW60s
+"""been""","Thisted, Denmark",RW60s
+"""want""","Sydney, Australia",RW60s
+"""been""","Loddekopinge, Sweden",RW60s
+"""want""","Darwin, Australia",RW60s
+"""want""","Brisbane, Australia",RW60s
+"""been""","Genoa, NV, USA",RW60s
+"""been""","Markaryd, Sweden",RW60s
+"""want""","Hilo, HI, USA",RW60s
+"""been""","Vordingborg, Denmark",RW60s
+"""been""","Marne-la-Vallee, France",RW60s
+"""been""","Soenderho, Denmark",RW60s
+"""been""","Eskilstuna, Sweden",RW60s
+"""been""","Monterey, CA, USA",RW60s
+"""been""","Varenna, Italy",RW60s
+"""been""","Williams, AZ, USA",RW60s
+"""been""","American Falls, ID, USA",RW60s
+"""been""","Como, Italy",RW60s
+"""been""","Riverside, CA, USA",RW60s
+"""been""","Bellagio, Italy",RW60s
+"""been""","Mexican Hat, UT, USA",RW60s
+"""been""","Salem, VA, USA",RW60s
+"""been""","Klippan, Sweden",RW60s
+"""been""","Soltau, Germany",RW60s
+"""been""","Mona, UT, USA",RW60s
+"""been""","Vancouver, British Columbia, Canada",RW60s
+"""been""","Rolling Hills, CA, USA",RW60s
+"""been""","Long Island City, NY, USA",RW60s
+"""been""","Rebild, Denmark",RW60s
+"""been""","Rolling Hills Estates, CA, USA",RW60s
+"""been""","Winslow, AZ, USA",RW60s
+"""been""","Lakewood, CA, USA",RW60s
+"""been""","Palm Springs, CA, USA",RW60s
+"""been""","Munich, Germany",RW60s
+"""been""","Ridgecrest, CA, USA",RW60s
+"""been""","Roemoe, Denmark",RW60s
+"""been""","Palm Desert, CA, USA",RW60s
+"""been""","Liverpool, UK",RW60s
+"""been""","Jonkoping, Sweden",RW60s
+"""been"",""fave""","London, UK",RW60s
+"""been""","Antwerp, Belgium",RW60s
+"""been""","Beatty, NV, USA",RW60s
+"""been""","Thyboron, Denmark",RW60s
+"""been""","Give, Denmark",RW60s
+"""been""","Brussels, Belgium",RW60s
+"""been""","Yashio, Japan",RW60s
+"""been""","Swansea, UK",RW60s
+"""been""","Straumsvik, Iceland",RW60s
+"""been""","Nuremberg, Germany",RW60s
+"""been""","Stockholm, Sweden",RW60s
+"""been""","Lawndale, CA, USA",RW60s
+"""been""","Yokohama, Japan",RW60s
+"""been"",""fave""","Reykjavik, Iceland",RW60s
+"""been""","Bristol, UK",RW60s
+"""been""","Hakone-machi, Japan",RW60s
+"""been""","Palos Verdes Estates, CA, USA",RW60s
+"""been""","Cardiff, UK",RW60s
+"""want""","Rome, Italy",RW60s
+"""been""","Humlebaek, Denmark",RW60s
+"""been""","Oxnard, CA, USA",RW60s
+"""been""","Malmo, Sweden",RW60s
+"""been""","Lund, Sweden",RW60s
+"""been""","Los Lunas, NM, USA",RW60s
+"""want""","Pisa, Italy",RW60s
+"""been""","Helsingborg, Sweden",RW60s
+"""been""","Crystal Mountain, WA, USA",RW60s
+"""been""","Angelholm, Sweden",RW60s
+"""been""","Lubeck, Germany",RW60s
+"""been""","Schleswig, Germany",RW60s
+"""been""","Bronshoej, Denmark",RW60s
+"""been""","Nephi, UT, USA",RW60s
+"""been""","Slangerup, Denmark",RW60s
+"""been""","Hoersholm, Denmark",RW60s
+"""been""","Snekkersten, Denmark",RW60s
+"""been""","Lemvig, Denmark",RW60s
+"""been""","Keflavik, Iceland",RW60s
+"""been""","The Hague, The Netherlands",RW60s
+"""been""","Rotterdam, The Netherlands",RW60s
+"""want""","Pompeii, Italy",RW60s
+"""been""","Blackpool, UK",RW60s
+"""been""","Lordsburg, NM, USA",RW60s
+"""been""","Urayasu, Japan",RW60s
+"""been""","Narita, Japan",RW60s
+"""been""","Orange, CA, USA",RW60s
+"""been""","Las Vegas, NM, USA",RW60s
+"""been""","Sundsvall, Sweden",RW60s
+"""been""","Las Cruces, NM, USA",RW60s
+"""been""","Rancho Palos Verdes, CA, USA",RW60s
+"""been""","Gavle, Sweden",RW60s
+"""been""","Kerteminde, Denmark",RW60s
+"""been""","Fuji, Japan",RW60s
+"""been""","Orcutt, CA, USA",RW60s
+"""been""","Ogden, UT, USA",RW60s
+"""been""","Bromma, Sweden",RW60s
+"""been""","Blovstrod, Denmark",RW60s
+"""been""","Flensburg, Germany",RW60s
+"""been""","Florence, Italy",RW60s
+"""want""","Niagara Falls, Ontario, Canada",RW60s
+"""been""","Kiel, Germany",RW60s
+"""been""","Hornum, Germany",RW60s
+"""been""","Redondo Beach, CA, USA",RW60s
+"""been""","Harrisburg, PA, USA",RW60s
+"""been""","Umea, Sweden",RW60s
+"""been""","Oceanside, CA, USA",RW60s
+"""been""","Lulea, Sweden",RW60s
+"""been""","Kiruna, Sweden",RW60s
+"""want""","Helsinki, Finland",RW60s
+"""been""","Sylt, Germany",RW60s
+"""been""","Kamakura, Japan",RW60s
+"""been""","Springdale, UT, USA",RW60s
+"""been""","Varnamo, Sweden",RW60s
+"""been""","Husum, Germany",RW60s
+"""been""","Canterbury, UK",RW60s
+"""been""","Leipzig, Germany",RW60s
+"""been""","Tisvildeleje, Denmark",RW60s
+"""been""","Tokyo, Japan",RW60s
+"""been""","Rancho Cucamonga, CA, USA",RW60s
+"""been""","Nikko, Japan",RW60s
+"""been""","San Antonio, NM, USA",RW60s
+"""been""","Oklahoma City, OK, USA",RW60s
+"""been""","Hatch, NM, USA",RW60s
+"""been""","Rio Rancho, NM, USA",RW60s
+"""want""","Hurghada, Egypt",RW60s
+"""been""","Marielyst, Denmark",RW60s
+"""want""","Niagara Falls, NY, USA",RW60s
+"""been""","Ikast, Denmark",RW60s
+"""been""","Gallup, NM, USA",RW60s
+"""been""","Raton, NM, USA",RW60s
+"""been""","Svanderslev, Denmark",RW60s
+"""been""","Orkelljunga, Sweden",RW60s
+"""been""","Svartsengi, Iceland",RW60s
+"""been""","Dallas, TX, USA",RW60s
+"""been""","Roemoe Kirkeby, Denmark",RW60s
+"""been""","Gilleleje, Denmark",RW60s
+"""been"",""fave""","Catalina Island, CA, USA",RW60s
+"""been""","Garda, Italy",RW60s
+"""been""","Dragoer, Denmark",RW60s
+"""want""","Auckland, New Zealand",RW60s
+"""been""","Montelimar, France",RW60s
+"""been""","Asaka, Japan",RW60s
+"""been""","Zermatt, Switzerland",RW60s
+"""been""","Shibuya, Japan",RW60s
+"""been""","Elephant Butte, NM, USA",RW60s
+"""been""","Shinjuku, Japan",RW60s
+"""been""","Sumida, Japan",RW60s
+"""been""","Genoa, Italy",RW60s
+"""been""","Cananea, Mexico",RW60s
+"""been""","Andselv, Norway",RW60s
+"""been""","Meguro, Japan",RW60s
+"""been""","Minato, Japan",RW60s
+"""been""","Hella, Iceland",RW60s
+"""been""","Grindavik, Iceland",RW60s
+"""been""","Calais, France",RW60s
+"""been""","Ladner, British Columbia, Canada",RW60s
+"""been""","Bountiful, UT, USA",RW60s
+"""been""","Koto, Japan",RW60s
+"""been""","Tijuana, Mexico",RW60s
+"""want""","Kuala Lumpur, Malaysia",RW60s
+"""been""","Fort Worth, TX, USA",RW60s
+"""want""","Dublin, Ireland",RW60s
+"""been""","Edogawa, Japan",RW60s
+"""been""","Bunkyo, Japan",RW60s
+"""been""","Chiyoda, Japan",RW60s
+"""been""","Ensenada, Mexico",RW60s
+"""been""","Saint-Martin d'Ardeche, France",RW60s
+"""been""","Chuo, Japan",RW60s
+"""been""","Blackfoot, ID, USA",RW60s
+"""been""","Struer, Denmark",RW60s
+"""been""","Juelsminde, Denmark",RW60s
+"""been""","Bliss, ID, USA",RW60s
+"""want""","Osaka, Japan",RW60s
+"""been""","Bloomington, ID, USA",RW60s
+"""been""","Boise, ID, USA",RW60s
+"""want""","Kyoto, Japan",RW60s
+"""been""","Surrey, British Columbia, Canada",RW60s
+"""been""","Cisco, UT, USA",RW60s
+"""been""","Tucumcari, NM, USA",RW60s
+"""been""","Truth or Consequences, NM, USA",RW60s
+"""been""","Charlottenlund, Denmark",RW60s
+"""been""","Malling, Denmark",RW60s
+"""been""","Soroe, Denmark",RW60s
+"""been""","Bronx, NY, USA",RW60s
+"""been""","Shell Beach, CA, USA",RW60s
+"""been""","Deming, NM, USA",RW60s
+"""been""","Bastad, Sweden",RW60s
+"""been""","Vellinge, Sweden",RW60s
+"""been""","Washington DC, DC, USA",RW60s
+"""want""","Hobart, Australia",RW60s
+"""been""","Taito, Japan",RW60s
+"""been""","Jerome, ID, USA",RW60s
+"""been""","Nogales, Mexico",RW60s
+"""been""","Emery, UT, USA",RW60s
+"""been""","Grimsby, UK",RW60s
+"""been""","Cairo, Egypt",RW60s
+"""been"",""fave""","Giza, Egypt",RW60s
+"""been""","Torno, Italy",RW60s
+"""want""","Tallinn, Estonia",RW60s
+"""been""","Aswan, Egypt",RW60s
+"""want""","Vilnius, Lithuania",RW60s
+"""been""","Luxor, Egypt",RW60s
+"""been""","Narvik, Norway",RW60s
+"""been""","Torrance, CA, USA",RW60s
+"""been""","Seal Beach, CA, USA",RW60s
+"""been""","Le Havre, France",RW60s
+"""been""","Tromso, Norway",RW60s
+"""been""","Portland, ME, USA",RW60s
+"""been""","Luxembourg City, Luxembourg",RW60s
+"""been""","Basel, Switzerland",RW60s
+"""been""","Oslo, Norway",RW60s
+"""been""","Fillmore, UT, USA",RW60s
+"""been""","Idaho Falls, ID, USA",RW60s
+"""been""","Samsoe, Denmark",RW60s
+"""been""","Strasbourg, France",RW60s
+"""been""","Aldershot, UK",RW60s
+"""been""","Northborg, Denmark",RW60s
+"""been""","Gedser, Denmark",RW60s
+"""been""","Taarnby, Denmark",RW60s
+"""been""","Farnborough, UK",RW60s
+"""been""","Tonopah, NV, USA",RW60s
+"""been""","Socorro, NM, USA",RW60s
+"""been""","Gdansk, Poland",RW60s
+"""want""","Riga, Latvia",RW60s
+"""been""","Stateline, NV, USA",RW60s
+"""been"",""fave""","Kangerlussuaq, Greenland",RW60s
+"""been""","Lumsaas, Denmark",RW60s
+"""been""","Santa Monica, CA, USA",RW60s
+"""been""","Bishop, CA, USA",RW60s
+"""been""","Saint Charles, ID, USA",RW60s
+"""been""","Santa Maria, CA, USA",RW60s
+"""been""","Nuevo Casas Grandes, Mexico",RW60s
+"""been""","Rupert, ID, USA",RW60s
+"""been""","Menaggio, Italy",RW60s
+"""been""","Yermo, CA, USA",RW60s
+"""been""","Garden City, UT, USA",RW60s
+"""been""","Manchester, UK",RW60s
+"""been""","Colonia Juarez, Mexico",RW60s
+"""been""","Hazelton, ID, USA",RW60s
+"""been""","Huddinge, Sweden",RW60s
+"""been""","Roedvig, Denmark",RW60s
+"""been""","Santa Rosa, NM, USA",RW60s
+"""want""","Warsaw, Poland",RW60s
+"""been""","Szczecin, Poland",RW60s
+"""been""","Grand Canyon National Park, AZ, USA",RW60s
+"""been""","Beverly Hills, CA, USA",RW60s
+"""been""","Stuttgart, Germany",RW60s
+"""been""","Glenns Ferry, ID, USA",RW60s
+"""been""","Santa Barbara, CA, USA",RW60s
+"""been""","Hanstholm, Denmark",RW60s
+"""been""","Mannheim, Germany",RW60s
+"""been""","Santa Cruz, CA, USA",RW60s
+"""been""","Maidstone, UK",RW60s
+"""been""","Dunkirk, France",RW60s
+"""been""","Jyderup, Denmark",RW60s
+"""been""","Skanderborg, Denmark",RW60s
+"""been"",""fave""","Beijing, China",RW60s
+"""been""","Barstow, CA, USA",RW60s
+"""want""","Hong Kong, China",RW60s
+"""been""","Middelkerke, Belgium",RW60s
+"""been""","Pocatello, ID, USA",RW60s
+"""been""","Fish Haven, ID, USA",RW60s
+"""been""","Koksijde, Belgium",RW60s
+"""been""","Marstal, Denmark",RW60s
+"""been""","Innsbruck, Austria",RW60s
+"""been""","De Panne, Belgium",RW60s
+"""been""","Karlsruhe, Germany",RW60s
+"""been""","Heidelberg, Germany",RW60s
+"""been""","San Simeon, CA, USA",RW60s
+"""been""","Shamrock, TX, USA",RW60s
+"""been""","Shinagawa, Japan",RW60s
+"""been""","Albertslund, Denmark",RW60s
+"""been""","Vestervig, Denmark",RW60s
+"""been""","Assens, Denmark",RW60s
+"""been""","Hurup, Denmark",RW60s
+"""been""","Carlsbad, CA, USA",RW60s
+"""been""","Carmel, CA, USA",RW60s
+"""been""","Carpinteria, CA, USA",RW60s
+"""been""","Interlaken, Switzerland",RW60s
+"""been""","Carmel Valley, CA, USA",RW60s
+"""been""","San Jose, CA, USA",RW60s
+"""been""","Summerland, CA, USA",RW60s
+"""been""","Paris, ID, USA",RW60s
+"""been""","San Luis Obispo, CA, USA",RW60s
+"""been""","Sunnyvale, CA, USA",RW60s
+"""been""","Carson, CA, USA",RW60s
+"""been""","Denver, CO, USA",RW60s
+"""been""","Morristown, TN, USA",RW60s
+"""been""","Krusaa, Denmark",RW60s
+"""been""","Ishoej, Denmark",RW60s
+"""been""","Salt Lake City, UT, USA",RW60s
+"""been""","Kongens Lyngby, Denmark",RW60s
+"""been""","Frorup, Denmark",RW60s
+"""been""","Roedovre, Denmark",RW60s
+"""been""","Aeroskobing, Denmark",RW60s
+"""been""","San Clemente, CA, USA",RW60s
+"""want""","Cancun, Mexico",RW60s
+"""been""","West Hollywood, CA, USA",RW60s
+"""been""","Cochise, AZ, USA",RW60s
+"""been""","Greve, Denmark",RW60s
+"""been""","Neustadt in Holstein, Germany",RW60s
+"""been""","Nashville, TN, USA",RW60s
+"""been""","Grasten, Denmark",RW60s
+"""been""","Tyreso, Sweden",RW60s
+"""been""","Ystad, Sweden",RW60s
+"""been""","Big Sur, CA, USA",RW60s
+"""been""","Newark, NJ, USA",RW60s
+"""been""","Petrified Forest National Park, AZ, USA",RW60s
+"""been""","Varde, Denmark",RW60s
+"""been""","Albuquerque, NM, USA",RW60s
+"""want""","Cape Town Central, South Africa",RW60s
+"""want""","Shenzhen, China",RW60s
+"""want""","St. Petersburg, Russia",RW60s
+"""been""","Lucerne, Switzerland",RW60s
+"""been""","Frederikshavn, Denmark",RW60s
+"""been""","Mountain Home, ID, USA",RW60s
+"""been""","Soenderborg, Denmark",RW60s
+"""been""","Fujiyoshida, Japan",RW60s
+"""been""","Ringsted, Denmark",RW60s
+"""been""","Colorado Springs, CO, USA",RW60s
+"""been""","Randers, Denmark",RW60s
+"""been""","Colorado City, CO, USA",RW60s
+"""been""","Horsens, Denmark",RW60s
+"""been""","Grenaa, Denmark",RW60s
+"""been""","Glostrup, Denmark",RW60s
+"""been""","Baker, CA, USA",RW60s
+"""been""","Lexington, VA, USA",RW60s
+"""been""","Colonno, Italy",RW60s
+"""been""","Bakersfield, CA, USA",RW60s
+"""been""","Dana Point, CA, USA",RW60s
+"""been""","Salinas, CA, USA",RW60s
+"""been""","San Bernardino, CA, USA",RW60s
+"""been""","Fehmarn, Germany",RW60s
+"""been""","Anaheim, CA, USA",RW60s
+"""been""","Kolding, Denmark",RW60s
+"""been""","Nacka, Sweden",RW60s
+"""been""","Falsterbo, Sweden",RW60s
+"""been""","Trelleborg, Sweden",RW60s
+"""been""","Brooklyn, NY, USA",RW60s
+"""been""","Shanghai, China",RW60s
+"""been""","Harrislee, Germany",RW60s
+"""been""","Benson, AZ, USA",RW60s
+"""been""","Thun, Switzerland",RW60s
+"""been""","Nogales, AZ, USA",RW60s
+"""been""","Bern, Switzerland",RW60s
+"""want""","Kaliningrad, Russia",RW60s
+"""want""","Singapore, Singapore",RW60s
+"""been""","Bullhead City, AZ, USA",RW60s
+"""been""","Pfungstadt, Germany",RW60s
+"""been""","Cernobbio, Italy",RW60s
+"""been""","Griesheim, Germany",RW60s
+"""been""","Bowie, AZ, USA",RW60s
+"""been""","Geneva, Switzerland",RW60s
+"""been""","Simrishamn, Sweden",RW60s
+"""been""","South San Francisco, CA, USA",RW60s
+"""been""","Spokane, WA, USA",RW60s
+"""been""","Regstrup, Denmark",RW60s

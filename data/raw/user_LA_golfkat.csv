@@ -1,0 +1,605 @@
+tag,place,user
+"""want""","Limoges, France",golfkat
+"""been""","Hyannis, MA, USA",golfkat
+"""been""","Hua Hin, Thailand",golfkat
+"""been""","Coldfoot, AK, USA",golfkat
+"""want""","Innsbruck, Austria",golfkat
+"""want""","Salzburg, Austria",golfkat
+"""been""","Genting Highlands, Malaysia",golfkat
+"""been""","Sturgis, SD, USA",golfkat
+"""been""","Kanchanaburi, Thailand",golfkat
+"""been""","Santa Elena, Costa Rica",golfkat
+"""been""","Kaiserslautern, Germany",golfkat
+"""want""","Gulfport, MS, USA",golfkat
+"""been""","Zurich, Switzerland",golfkat
+"""been"",""fave""","Vilamoura, Portugal",golfkat
+"""been""","Paris, France",golfkat
+"""been""","Addis Ababa, Ethiopia",golfkat
+"""been""","Jackson, WY, USA",golfkat
+"""been"",""fave""","San Pedro de Atacama, Chile",golfkat
+"""been""","Columbus, OH, USA",golfkat
+"""been""","Oakhurst, CA, USA",golfkat
+"""been"",""fave""","Amsterdam, The Netherlands",golfkat
+"""been""","Cannon Beach, OR, USA",golfkat
+"""been""","Park City, UT, USA",golfkat
+"""been""","Berchtesgaden, Germany",golfkat
+"""been""","Metairie, LA, USA",golfkat
+"""been""","Oakland, CA, USA",golfkat
+"""want""","Mykonos Town, Greece",golfkat
+"""been""","Oceanside, CA, USA",golfkat
+"""want""","Alice Springs, Australia",golfkat
+"""been""","Cairns, Australia",golfkat
+"""want""","Brisbane, Australia",golfkat
+"""want""","Darwin, Australia",golfkat
+"""been""","Oklahoma City, OK, USA",golfkat
+"""been""","Stuttgart, Germany",golfkat
+"""been""","Albufeira, Portugal",golfkat
+"""been"",""fave""","Sydney, Australia",golfkat
+"""been""","Algarve, Portugal",golfkat
+"""want""","New Delhi, India",golfkat
+"""want""","Mumbai, India",golfkat
+"""been""","Kathmandu, Nepal",golfkat
+"""been"",""want"",""fave""","Vienna, Austria",golfkat
+"""been""","Rancho Mirage, CA, USA",golfkat
+"""been""","Sheboygan, WI, USA",golfkat
+"""been""","Auckland, New Zealand",golfkat
+"""been""","Olympic Valley, CA, USA",golfkat
+"""been""","Rancho Cucamonga, CA, USA",golfkat
+"""been""","Yosemite National Park, CA, USA",golfkat
+"""been""","Orange, CA, USA",golfkat
+"""been""","Ontario, CA, USA",golfkat
+"""been""","Charlotte, NC, USA",golfkat
+"""been"",""fave""","Chapel Hill, NC, USA",golfkat
+"""been""","Ka'anapali, HI, USA",golfkat
+"""been""","Wall, SD, USA",golfkat
+"""been""","Franz Josef, New Zealand",golfkat
+"""been"",""fave""","Penang Island, Malaysia",golfkat
+"""want""","Nice, France",golfkat
+"""want""","Mombasa, Kenya",golfkat
+"""been""","Hilo, HI, USA",golfkat
+"""been""","Wilmington, DE, USA",golfkat
+"""want""","Antalya, Turkey",golfkat
+"""want""","Beijing, China",golfkat
+"""been"",""fave""","Hong Kong, China",golfkat
+"""been"",""want""","Bucharest, Romania",golfkat
+"""been""","Indianapolis, IN, USA",golfkat
+"""been""","Florence, OR, USA",golfkat
+"""been""","Fargo, ND, USA",golfkat
+"""been""","Eugene, OR, USA",golfkat
+"""been""","Bronx, NY, USA",golfkat
+"""been""","Badlands National Park, SD, USA",golfkat
+"""been""","Taunggyi, Myanmar",golfkat
+"""been""","Boise, ID, USA",golfkat
+"""want""","Urubamba, Peru",golfkat
+"""want""","Port El Kantaoui, Tunisia",golfkat
+"""been""","Bangor, ME, USA",golfkat
+"""been""","Wiesbaden, Germany",golfkat
+"""want""","Athens, Greece",golfkat
+"""want""","Cairo, Egypt",golfkat
+"""been""","Winston Salem, NC, USA",golfkat
+"""been""","Nairobi, Kenya",golfkat
+"""want""","Luxor, Egypt",golfkat
+"""been""","Bigfork, MT, USA",golfkat
+"""been"",""fave""","Bandon, OR, USA",golfkat
+"""been""","Billings, MT, USA",golfkat
+"""been""","Warsaw, Poland",golfkat
+"""been""","Great Falls, MT, USA",golfkat
+"""want""","Trinidad, Cuba",golfkat
+"""been""","Newport, OR, USA",golfkat
+"""been""","Bruges, Belgium",golfkat
+"""been""","Port Douglas, Australia",golfkat
+"""want""","Barcelona, Spain",golfkat
+"""been""","Reims, France",golfkat
+"""been""","Batu Ferringhi, Malaysia",golfkat
+"""been""","Epernay, France",golfkat
+"""been""","Shinjuku, Japan",golfkat
+"""been"",""fave""","Cusco, Peru",golfkat
+"""been"",""fave""","Machu Picchu, Peru",golfkat
+"""want""","Monastir, Tunisia",golfkat
+"""been""","Lima, Peru",golfkat
+"""want""","Kaunas, Lithuania",golfkat
+"""been"",""want""","Prague, Czech Republic",golfkat
+"""been""","Bozeman, MT, USA",golfkat
+"""been""","Ota, Japan",golfkat
+"""want""","Mandalay, Myanmar",golfkat
+"""been""","Bend, OR, USA",golfkat
+"""been""","Ashland, OR, USA",golfkat
+"""been""","Dusseldorf, Germany",golfkat
+"""been""","Patong, Thailand",golfkat
+"""been""","Freeport, ME, USA",golfkat
+"""been""","Valparaiso, Chile",golfkat
+"""been""","Santiago, Chile",golfkat
+"""want""","Guatemala City, Guatemala",golfkat
+"""been""","Pleasant Hill, CA, USA",golfkat
+"""been""","Cleveland, OH, USA",golfkat
+"""been""","Raleigh, NC, USA",golfkat
+"""been""","Wailea, HI, USA",golfkat
+"""been"",""want""","Quito, Ecuador",golfkat
+"""been""","Pleasanton, CA, USA",golfkat
+"""been""","Grants Pass, OR, USA",golfkat
+"""been""","Nashville, IN, USA",golfkat
+"""been""","Monument Valley, UT, USA",golfkat
+"""been"",""want""","Budapest, Hungary",golfkat
+"""been""","Incheon, South Korea",golfkat
+"""been""","Waterton Lakes National Park, Alberta, Canada",golfkat
+"""been""","Paradise Valley, AZ, USA",golfkat
+"""been""","Puerto Natales, Chile",golfkat
+"""been""","Punta Arenas, Chile",golfkat
+"""been""","Huntington Beach, CA, USA",golfkat
+"""want""","Saskatoon, Saskatchewan, Canada",golfkat
+"""been""","Sacramento, CA, USA",golfkat
+"""been""","Peoria, AZ, USA",golfkat
+"""been""","Pittsburgh, PA, USA",golfkat
+"""want""","Rapid City, SD, USA",golfkat
+"""want""","Opatija, Croatia",golfkat
+"""been""","New Haven, CT, USA",golfkat
+"""been""","Fort Bragg, CA, USA",golfkat
+"""been""","Murphys, CA, USA",golfkat
+"""been""","Lodi, CA, USA",golfkat
+"""been"",""fave""","Phoenix, AZ, USA",golfkat
+"""want""","Krakow, Poland",golfkat
+"""been"",""fave""","Napa, CA, USA",golfkat
+"""been""","Indio, CA, USA",golfkat
+"""been""","Inglewood, CA, USA",golfkat
+"""been""","Lone Pine, CA, USA",golfkat
+"""been""","Augusta, GA, USA",golfkat
+"""been""","Rockville, MD, USA",golfkat
+"""been""","Alexandria, VA, USA",golfkat
+"""been""","Indian Wells, CA, USA",golfkat
+"""been""","Fowler, CA, USA",golfkat
+"""been""","Milwaukee, WI, USA",golfkat
+"""been""","Long Beach, CA, USA",golfkat
+"""been""","Jaco, Costa Rica",golfkat
+"""been""","Henderson, NV, USA",golfkat
+"""been""","Guayaquil, Ecuador",golfkat
+"""been""","Incline Village, NV, USA",golfkat
+"""been"",""fave""","Stellenbosch, South Africa",golfkat
+"""want""","Panama City, Panama",golfkat
+"""been""","Pismo Beach, CA, USA",golfkat
+"""been""","Sao Paulo, Brazil",golfkat
+"""been""","Pittsburg, CA, USA",golfkat
+"""been""","Durham, NC, USA",golfkat
+"""been""","Irvine, CA, USA",golfkat
+"""want""","San Salvador, El Salvador",golfkat
+"""been""","Bethesda, MD, USA",golfkat
+"""been""","Fresno, CA, USA",golfkat
+"""been""","Prescott, AZ, USA",golfkat
+"""been""","Keystone, CO, USA",golfkat
+"""been"",""want"",""fave""","Los Angeles, CA, USA",golfkat
+"""been""","Cottonwood, AZ, USA",golfkat
+"""been""","Fullerton, CA, USA",golfkat
+"""been"",""want"",""fave""","Chicago, IL, USA",golfkat
+"""been"",""fave""","Las Vegas, NV, USA",golfkat
+"""want""","Ann Arbor, MI, USA",golfkat
+"""been""","Laughlin, NV, USA",golfkat
+"""been""","Newport Beach, CA, USA",golfkat
+"""been""","Grand Canyon National Park, AZ, USA",golfkat
+"""been""","Arlington, VA, USA",golfkat
+"""want""","Kusadasi, Turkey",golfkat
+"""want""","Johannesburg, South Africa",golfkat
+"""been""","Garden Grove, CA, USA",golfkat
+"""been""","Saint Louis, MO, USA",golfkat
+"""been""","Crazy Horse, SD, USA",golfkat
+"""been""","San Jose, Costa Rica",golfkat
+"""been""","Mesquite, NV, USA",golfkat
+"""been"",""fave""","Portland, OR, USA",golfkat
+"""been"",""fave""","Rio de Janeiro, Brazil",golfkat
+"""been""","Cadillac, France",golfkat
+"""want""","Guardalavaca, Cuba",golfkat
+"""been""","Tarifa, Spain",golfkat
+"""want""","Mostar, Bosnia and Herzegovina",golfkat
+"""been""","Bordeaux, France",golfkat
+"""want""","Dalyan, Turkey",golfkat
+"""been""","Kennebunkport, ME, USA",golfkat
+"""been""","Redondo Beach, CA, USA",golfkat
+"""been""","Redding, CA, USA",golfkat
+"""been""","Orinda, CA, USA",golfkat
+"""been""","Aurora, CO, USA",golfkat
+"""been""","Millbrae, CA, USA",golfkat
+"""been""","Oxnard, CA, USA",golfkat
+"""been""","Aspen, CO, USA",golfkat
+"""been""","Yamanouchi-machi, Japan",golfkat
+"""want""","Makarska, Croatia",golfkat
+"""been""","Irkutsk, Russia",golfkat
+"""been""","Kazan, Russia",golfkat
+"""been""","Pacific Grove, CA, USA",golfkat
+"""been""","Richmond, CA, USA",golfkat
+"""been""","Palm Springs, CA, USA",golfkat
+"""been""","Listvyanka, Russia",golfkat
+"""been"",""want""","Annapolis, MD, USA",golfkat
+"""been""","Novosibirsk, Russia",golfkat
+"""been""","Mojave, CA, USA",golfkat
+"""been""","Palm Desert, CA, USA",golfkat
+"""been""","Palo Alto, CA, USA",golfkat
+"""want""","San Juan, Puerto Rico",golfkat
+"""been""","Toronto, Ontario, Canada",golfkat
+"""been""","Bloomington, MN, USA",golfkat
+"""been""","Dallas, TX, USA",golfkat
+"""been""","Sukhothai, Thailand",golfkat
+"""been""","Sauternes, France",golfkat
+"""been"",""want""","Mexico City, Mexico",golfkat
+"""want""","Dubrovnik, Croatia",golfkat
+"""want""","Split, Croatia",golfkat
+"""been""","Puerto Banus, Spain",golfkat
+"""been"",""fave""","Lisbon, Portugal",golfkat
+"""want""","Nizhny Novgorod, Russia",golfkat
+"""been""","Winter Park, CO, USA",golfkat
+"""been""","Bryce, UT, USA",golfkat
+"""been""","Rio Vista, CA, USA",golfkat
+"""been""","Monterey, CA, USA",golfkat
+"""been""","Pasadena, CA, USA",golfkat
+"""been""","Williams, AZ, USA",golfkat
+"""been""","Riverside, CA, USA",golfkat
+"""want""","Tulum, Mexico",golfkat
+"""been""","Saint Paul, MN, USA",golfkat
+"""been""","Lucerne, Switzerland",golfkat
+"""been""","Burnaby, British Columbia, Canada",golfkat
+"""been""","Hermanus, South Africa",golfkat
+"""want""","Trogir, Croatia",golfkat
+"""been""","Singapore, Singapore",golfkat
+"""been"",""want"",""fave""","Cape Town Central, South Africa",golfkat
+"""been""","Paso Robles, CA, USA",golfkat
+"""been""","Camps Bay, South Africa",golfkat
+"""been""","Winslow, AZ, USA",golfkat
+"""been"",""want""","Montreal, Quebec, Canada",golfkat
+"""want""","Shanghai, China",golfkat
+"""been""","Arroyo Grande, CA, USA",golfkat
+"""want""","Quebec City, Quebec, Canada",golfkat
+"""been"",""want""","St. Petersburg, Russia",golfkat
+"""been""","Morro Bay, CA, USA",golfkat
+"""been""","Big Sur, CA, USA",golfkat
+"""been""","Fort Worth, TX, USA",golfkat
+"""been""","Hill City, SD, USA",golfkat
+"""been""","Franschhoek, South Africa",golfkat
+"""been""","Wichita, KS, USA",golfkat
+"""been""","Geneva, Switzerland",golfkat
+"""been""","San Carlos de Bariloche, Argentina",golfkat
+"""been""","Emeryville, CA, USA",golfkat
+"""want""","Belek, Turkey",golfkat
+"""want""","Juneau, AK, USA",golfkat
+"""been""","Hanford, CA, USA",golfkat
+"""been""","Vancouver, WA, USA",golfkat
+"""been""","Boulder, CO, USA",golfkat
+"""been""","San Martin de los Andes, Argentina",golfkat
+"""been""","Breckenridge, CO, USA",golfkat
+"""been""","Glenwood Springs, CO, USA",golfkat
+"""been""","Snoqualmie, WA, USA",golfkat
+"""been""","Escondido, CA, USA",golfkat
+"""been""","Vacaville, CA, USA",golfkat
+"""want""","Banff, Alberta, Canada",golfkat
+"""been""","Bar Harbor, ME, USA",golfkat
+"""been""","Nashville, TN, USA",golfkat
+"""been""","Puerto Vallarta, Mexico",golfkat
+"""been""","Providence, RI, USA",golfkat
+"""been""","Lincoln, NE, USA",golfkat
+"""want""","Levi, Finland",golfkat
+"""want""","Manila, Philippines",golfkat
+"""been""","Calgary, Alberta, Canada",golfkat
+"""been""","Hayward, CA, USA",golfkat
+"""want""","Lake Louise, Alberta, Canada",golfkat
+"""been""","Brooklyn, NY, USA",golfkat
+"""been""","Edmonton, Alberta, Canada",golfkat
+"""been"",""fave""","Kuala Lumpur, Malaysia",golfkat
+"""been""","Arlington, TX, USA",golfkat
+"""been""","Healdsburg, CA, USA",golfkat
+"""been""","Grand Junction, CO, USA",golfkat
+"""been""","Burlingame, CA, USA",golfkat
+"""been""","SeaTac, WA, USA",golfkat
+"""been"",""fave""","Kyoto, Japan",golfkat
+"""been""","Fairfield, CA, USA",golfkat
+"""want""","Nagano, Japan",golfkat
+"""been""","Concord, CA, USA",golfkat
+"""been""","Buena Park, CA, USA",golfkat
+"""been""","Osaka, Japan",golfkat
+"""been""","Vallejo, CA, USA",golfkat
+"""been""","Burbank, CA, USA",golfkat
+"""been""","Medellin, Colombia",golfkat
+"""been""","Sequim, WA, USA",golfkat
+"""been""","Savannah, GA, USA",golfkat
+"""been"",""fave""","Ronda, Spain",golfkat
+"""been""","Albuquerque, NM, USA",golfkat
+"""been""","Petrified Forest National Park, AZ, USA",golfkat
+"""been""","Baltimore, MD, USA",golfkat
+"""been""","Puno, Peru",golfkat
+"""been""","Mesa, AZ, USA",golfkat
+"""been"",""fave""","South Lake Tahoe, CA, USA",golfkat
+"""been""","Costa Mesa, CA, USA",golfkat
+"""been""","Pagosa Springs, CO, USA",golfkat
+"""been""","Coronado, CA, USA",golfkat
+"""been""","Austin, TX, USA",golfkat
+"""been""","Plano, TX, USA",golfkat
+"""been""","Seoul, South Korea",golfkat
+"""been""","Solvang, CA, USA",golfkat
+"""been""","Manchester, VT, USA",golfkat
+"""been""","Gatlinburg, TN, USA",golfkat
+"""been"",""fave""","Edinburgh, UK",golfkat
+"""been"",""fave""","Petaling Jaya, Malaysia",golfkat
+"""been""","Sonoma, CA, USA",golfkat
+"""been""","Miami Beach, FL, USA",golfkat
+"""been""","Miami, FL, USA",golfkat
+"""been""","Tampa, FL, USA",golfkat
+"""been""","Hamilton, MT, USA",golfkat
+"""been"",""fave""","Buenos Aires, Argentina",golfkat
+"""been"",""want""","Yangon (Rangoon), Myanmar",golfkat
+"""been""","Moab, UT, USA",golfkat
+"""been""","Greensboro, NC, USA",golfkat
+"""been""","Tarpon Springs, FL, USA",golfkat
+"""been""","Waikoloa, HI, USA",golfkat
+"""been""","Bogota, Colombia",golfkat
+"""been""","Bisbee, AZ, USA",golfkat
+"""been""","Calistoga, CA, USA",golfkat
+"""been""","Fish Camp, CA, USA",golfkat
+"""been"",""fave""","Charleston, SC, USA",golfkat
+"""want""","Alexandria, Egypt",golfkat
+"""been""","Visalia, CA, USA",golfkat
+"""been""","Kota Kinabalu, Malaysia",golfkat
+"""been""","Crockett, CA, USA",golfkat
+"""been""","Walnut Creek, CA, USA",golfkat
+"""been""","West Glacier, MT, USA",golfkat
+"""been"",""fave""","Ushuaia, Argentina",golfkat
+"""been""","Pangkor, Malaysia",golfkat
+"""been""","Tucson, AZ, USA",golfkat
+"""been"",""fave""","George Town, Malaysia",golfkat
+"""been""","Coeur d'Alene, ID, USA",golfkat
+"""been""","South San Francisco, CA, USA",golfkat
+"""been""","Cambria, CA, USA",golfkat
+"""been"",""want""","Milan, Italy",golfkat
+"""been""","Spokane, WA, USA",golfkat
+"""been""","Des Moines, IA, USA",golfkat
+"""been""","Big Bear Lake, CA, USA",golfkat
+"""want""","St. Lucia, Caribbean",golfkat
+"""been"",""fave""","Vancouver, British Columbia, Canada",golfkat
+"""been""","El Calafate, Argentina",golfkat
+"""been""","San Antonio, TX, USA",golfkat
+"""been"",""want""","San Francisco, CA, USA",golfkat
+"""been""","Page, AZ, USA",golfkat
+"""been""","Yekaterinburg, Russia",golfkat
+"""been""","Salem, MA, USA",golfkat
+"""been""","Kiwengwa, Tanzania",golfkat
+"""want""","Victoria, British Columbia, Canada",golfkat
+"""been""","Thousand Oaks, CA, USA",golfkat
+"""been""","Santa Fe, NM, USA",golfkat
+"""been""","Glendale, CA, USA",golfkat
+"""been""","Manhattan Beach, CA, USA",golfkat
+"""been""","Ekaterinovka, Russia",golfkat
+"""want""","Da Lat, Vietnam",golfkat
+"""been""","Dublin, CA, USA",golfkat
+"""been""","Malibu, CA, USA",golfkat
+"""been""","Ho Chi Minh City, Vietnam",golfkat
+"""been""","Hue, Vietnam",golfkat
+"""been""","Goleta, CA, USA",golfkat
+"""been"",""fave""","Hanoi, Vietnam",golfkat
+"""been""","Mill Valley, CA, USA",golfkat
+"""been""","Keystone, SD, USA",golfkat
+"""been"",""fave""","Bangkok, Thailand",golfkat
+"""been"",""fave""","Chiang Mai, Thailand",golfkat
+"""been""","Deadwood, SD, USA",golfkat
+"""been""","Kalamazoo, MI, USA",golfkat
+"""been""","Minneapolis, MN, USA",golfkat
+"""been""","Barstow, CA, USA",golfkat
+"""been""","Kansas City, MO, USA",golfkat
+"""been""","Puerto Plata, Dominican Republic",golfkat
+"""been""","Vladivostok, Russia",golfkat
+"""want""","Waitomo Caves, New Zealand",golfkat
+"""want""","Punta Cana, Dominican Republic",golfkat
+"""been""","Kingsburg, CA, USA",golfkat
+"""been""","Gilbert, AZ, USA",golfkat
+"""been""","Anaheim, CA, USA",golfkat
+"""been""","Scottsdale, AZ, USA",golfkat
+"""been""","Mariposa, CA, USA",golfkat
+"""want""","Shizuoka, Japan",golfkat
+"""been""","Glendale, AZ, USA",golfkat
+"""been""","Sedona, AZ, USA",golfkat
+"""been""","Anacortes, WA, USA",golfkat
+"""been""","Snowmass Village, CO, USA",golfkat
+"""been""","Marina del Rey, CA, USA",golfkat
+"""been""","Steamboat Springs, CO, USA",golfkat
+"""been""","Antioch, CA, USA",golfkat
+"""been""","Taipei, Taiwan",golfkat
+"""been""","El Chalten, Argentina",golfkat
+"""want""","Quinta do Lago, Portugal",golfkat
+"""been""","Reno, NV, USA",golfkat
+"""been"",""want""","Moscow, Russia",golfkat
+"""been"",""fave""","Siem Reap, Cambodia",golfkat
+"""want""","Cork, Ireland",golfkat
+"""been"",""fave""","Yountville, CA, USA",golfkat
+"""want""","San Pedro, Belize",golfkat
+"""been""","Clayton, CA, USA",golfkat
+"""been""","Orlando, FL, USA",golfkat
+"""been""","La Jolla, CA, USA",golfkat
+"""been""","Telluride, CO, USA",golfkat
+"""been"",""want"",""fave""","Dublin, Ireland",golfkat
+"""want""","Myrtle Beach, SC, USA",golfkat
+"""been"",""fave""","Whitefish, MT, USA",golfkat
+"""been""","Danville, CA, USA",golfkat
+"""been""","Salt Lake City, UT, USA",golfkat
+"""been""","Port Angeles, WA, USA",golfkat
+"""been""","Tijuana, Mexico",golfkat
+"""been""","Astoria, OR, USA",golfkat
+"""been""","Salem, OR, USA",golfkat
+"""want""","Havana, Cuba",golfkat
+"""been""","Alameda, CA, USA",golfkat
+"""been""","Grover Beach, CA, USA",golfkat
+"""been""","North Charleston, SC, USA",golfkat
+"""been""","Nagoya, Japan",golfkat
+"""been""","El Segundo, CA, USA",golfkat
+"""been""","Guerneville, CA, USA",golfkat
+"""been""","Lafayette, CA, USA",golfkat
+"""been""","Jerome, AZ, USA",golfkat
+"""been""","Vail, CO, USA",golfkat
+"""been""","La Quinta, CA, USA",golfkat
+"""been""","Tempe, AZ, USA",golfkat
+"""been""","Half Moon Bay, CA, USA",golfkat
+"""been""","Ocean City, MD, USA",golfkat
+"""been""","Clovis, CA, USA",golfkat
+"""been""","Laguna Beach, CA, USA",golfkat
+"""been""","Kingman, AZ, USA",golfkat
+"""been""","Yakima, WA, USA",golfkat
+"""want""","Green Bay, WI, USA",golfkat
+"""been""","Lake Ozark, MO, USA",golfkat
+"""want""","Saariselka, Finland",golfkat
+"""been""","Acapulco, Mexico",golfkat
+"""been""","Seaside, OR, USA",golfkat
+"""been""","Temecula, CA, USA",golfkat
+"""been""","Cadiz, Spain",golfkat
+"""been""","Santa Barbara, CA, USA",golfkat
+"""been""","Waianae, HI, USA",golfkat
+"""been""","Brussels, Belgium",golfkat
+"""been""","Santa Ana, CA, USA",golfkat
+"""been""","Santa Cruz, CA, USA",golfkat
+"""been""","Death Valley Junction, CA, USA",golfkat
+"""been""","Bellevue, WA, USA",golfkat
+"""been""","Santa Clara, CA, USA",golfkat
+"""been""","Malaga, Spain",golfkat
+"""been"",""fave""","Marbella, Spain",golfkat
+"""been""","Lincoln City, OR, USA",golfkat
+"""want""","Tangalle, Sri Lanka",golfkat
+"""want""","Niagara Falls, Ontario, Canada",golfkat
+"""been""","Wanaka, New Zealand",golfkat
+"""been""","Bishop, CA, USA",golfkat
+"""want""","Reykjavik, Iceland",golfkat
+"""been"",""fave""","Rome, Italy",golfkat
+"""been""","Santa Monica, CA, USA",golfkat
+"""been""","Lauderdale-By-The-Sea, FL, USA",golfkat
+"""been""","Vatican City, Vatican City",golfkat
+"""been""","Kailua, HI, USA",golfkat
+"""been""","Santa Rosa, CA, USA",golfkat
+"""been""","Irving, TX, USA",golfkat
+"""been""","Kahuku, HI, USA",golfkat
+"""want""","Kolimbia, Greece",golfkat
+"""been""","Atlanta, GA, USA",golfkat
+"""been"",""fave""","Vientiane, Laos",golfkat
+"""been""","Independence, CA, USA",golfkat
+"""been"",""fave""","London, UK",golfkat
+"""been"",""fave""","Munich, Germany",golfkat
+"""want""","Kitakyushu, Japan",golfkat
+"""been""","Cambridge, MA, USA",golfkat
+"""been""","Sparks, NV, USA",golfkat
+"""been""","Missoula, MT, USA",golfkat
+"""been""","West Yellowstone, MT, USA",golfkat
+"""been""","Stateline, NV, USA",golfkat
+"""been""","Sausalito, CA, USA",golfkat
+"""been""","Portland, ME, USA",golfkat
+"""been""","Narita, Japan",golfkat
+"""been"",""want""","Memphis, TN, USA",golfkat
+"""been""","Torrance, CA, USA",golfkat
+"""want""","Cody, WY, USA",golfkat
+"""been""","Stone Town, Tanzania",golfkat
+"""been""","Louisville, KY, USA",golfkat
+"""want""","Alesund, Norway",golfkat
+"""been""","Frankfurt, Germany",golfkat
+"""been""","Auckland Central, New Zealand",golfkat
+"""been""","Ica, Peru",golfkat
+"""want""","Perth, Australia",golfkat
+"""been""","Medford, OR, USA",golfkat
+"""been""","King of Prussia, PA, USA",golfkat
+"""want""","Melbourne, Australia",golfkat
+"""been""","Truckee, CA, USA",golfkat
+"""been""","Selma, CA, USA",golfkat
+"""want""","Bagan, Myanmar",golfkat
+"""been"",""fave""","Philadelphia, PA, USA",golfkat
+"""been""","Seville, Spain",golfkat
+"""been""","Aguas Calientes, Peru",golfkat
+"""been"",""fave""","Berlin, Germany",golfkat
+"""been""","Mammoth Lakes, CA, USA",golfkat
+"""been""","Manchester, NH, USA",golfkat
+"""been""","Benalmadena, Spain",golfkat
+"""want""","Letterkenny, Ireland",golfkat
+"""been""","Macau, China",golfkat
+"""been""","Cheyenne, WY, USA",golfkat
+"""been""","Granada, Spain",golfkat
+"""been""","Torremolinos, Spain",golfkat
+"""been"",""fave""","Honolulu, HI, USA",golfkat
+"""been""","St. Helena, CA, USA",golfkat
+"""been""","Colorado Springs, CO, USA",golfkat
+"""been""","Everglades City, FL, USA",golfkat
+"""been""","Culver City, CA, USA",golfkat
+"""been""","Lihue, HI, USA",golfkat
+"""been""","Houston, TX, USA",golfkat
+"""want""","Helsinki, Finland",golfkat
+"""been""","Bakersfield, CA, USA",golfkat
+"""been""","New Orleans, LA, USA",golfkat
+"""been""","Salinas, CA, USA",golfkat
+"""been""","Victoria Falls, Zimbabwe",golfkat
+"""been"",""fave""","Washington DC, DC, USA",golfkat
+"""been""","San Bernardino, CA, USA",golfkat
+"""been""","Kansas City, KS, USA",golfkat
+"""been""","Te Anau, New Zealand",golfkat
+"""been""","Queenstown, New Zealand",golfkat
+"""been""","Princeville, HI, USA",golfkat
+"""been""","Martinez, CA, USA",golfkat
+"""want""","Cooperstown, NY, USA",golfkat
+"""been""","Poipu, HI, USA",golfkat
+"""been"",""fave""","Boston, MA, USA",golfkat
+"""been""","Chandler, AZ, USA",golfkat
+"""been""","Venice, Italy",golfkat
+"""been""","Flagstaff, AZ, USA",golfkat
+"""been""","Del Mar, CA, USA",golfkat
+"""been""","West Hollywood, CA, USA",golfkat
+"""been""","Burlington, VT, USA",golfkat
+"""been""","Hanalei, HI, USA",golfkat
+"""been""","Glasgow, UK",golfkat
+"""been""","Tacoma, WA, USA",golfkat
+"""been""","Westlake Village, CA, USA",golfkat
+"""been""","Key West, FL, USA",golfkat
+"""been""","Fort Lauderdale, FL, USA",golfkat
+"""been"",""fave""","Christchurch, New Zealand",golfkat
+"""been""","Hoi An, Vietnam",golfkat
+"""been""","Kalispell, MT, USA",golfkat
+"""been""","Kapaa, HI, USA",golfkat
+"""been""","Maalaea, HI, USA",golfkat
+"""been""","Newport, RI, USA",golfkat
+"""been""","Carlsbad, CA, USA",golfkat
+"""been""","Carmel, CA, USA",golfkat
+"""been""","Desert Hot Springs, CA, USA",golfkat
+"""been""","Da Nang, Vietnam",golfkat
+"""been""","Madison, WI, USA",golfkat
+"""been""","Columbia, SC, USA",golfkat
+"""been""","Carpinteria, CA, USA",golfkat
+"""been""","San Jose, CA, USA",golfkat
+"""been""","Carmel Valley, CA, USA",golfkat
+"""been""","Boulder City, NV, USA",golfkat
+"""been""","Anchorage, AK, USA",golfkat
+"""been""","Beguey, France",golfkat
+"""been"",""fave""","Florence, Italy",golfkat
+"""been""","San Luis Obispo, CA, USA",golfkat
+"""been""","Little Rock, AR, USA",golfkat
+"""been""","Wisconsin Dells, WI, USA",golfkat
+"""been""","Port Townsend, WA, USA",golfkat
+"""been""","Cedar City, UT, USA",golfkat
+"""been""","Omaha, NE, USA",golfkat
+"""been""","Sunnyvale, CA, USA",golfkat
+"""been"",""fave""","Denver, CO, USA",golfkat
+"""been"",""fave""","New York City, NY, USA",golfkat
+"""been""","Karatu, Tanzania",golfkat
+"""been""","St. George, UT, USA",golfkat
+"""want""","Branson, MO, USA",golfkat
+"""want""","Halifax, Nova Scotia, Canada",golfkat
+"""been""","Ventura, CA, USA",golfkat
+"""been"",""fave""","Haleiwa, HI, USA",golfkat
+"""been""","Kailua-Kona, HI, USA",golfkat
+"""been""","Hana, HI, USA",golfkat
+"""been""","Berkeley, CA, USA",golfkat
+"""been""","Tahoe City, CA, USA",golfkat
+"""been"",""fave""","San Diego, CA, USA",golfkat
+"""want""","Jibacoa, Cuba",golfkat
+"""been""","Benicia, CA, USA",golfkat
+"""been""","Lahaina, HI, USA",golfkat
+"""been""","San Ramon, CA, USA",golfkat
+"""want""","Williamsburg, VA, USA",golfkat
+"""been""","Kihei, HI, USA",golfkat
+"""been""","Kahului, HI, USA",golfkat
+"""want""","Utrecht, The Netherlands",golfkat
+"""been""","San Simeon, CA, USA",golfkat
+"""want""","Istanbul, Turkey",golfkat
+"""been""","Klamath Falls, OR, USA",golfkat
+"""been""","Tangier, Morocco",golfkat
+"""been""","Swan Lake, MT, USA",golfkat
+"""been"",""fave""","Kapalua, HI, USA",golfkat
+"""been"",""fave""","Paia, HI, USA",golfkat
+"""been"",""fave""","Seattle, WA, USA",golfkat
+"""been""","Yellowstone National Park, WY, USA",golfkat
+"""been""","Franklin, TN, USA",golfkat
+"""been""","Beverly Hills, CA, USA",golfkat
+"""been"",""want"",""fave""","Tokyo, Japan",golfkat
+"""been""","Wailuku, HI, USA",golfkat

@@ -1,0 +1,909 @@
+tag,place,user
+"""been""","Logrono, Spain",QUEENIE_ELLE
+"""been""","Madrid, Spain",QUEENIE_ELLE
+"""been""","Berkeley, CA, USA",QUEENIE_ELLE
+"""been""","Irving, TX, USA",QUEENIE_ELLE
+"""been""","Narragansett, RI, USA",QUEENIE_ELLE
+"""been""","Belmont, CA, USA",QUEENIE_ELLE
+"""been""","Tehachapi, CA, USA",QUEENIE_ELLE
+"""been""","Aguascalientes, Mexico",QUEENIE_ELLE
+"""been""","Temecula, CA, USA",QUEENIE_ELLE
+"""been""","Dayton, OH, USA",QUEENIE_ELLE
+"""been""","Pamplona, Spain",QUEENIE_ELLE
+"""been""","Newport, KY, USA",QUEENIE_ELLE
+"""been""","Hermosillo, Mexico",QUEENIE_ELLE
+"""been""","White Plains, NY, USA",QUEENIE_ELLE
+"""been""","Sukhothai, Thailand",QUEENIE_ELLE
+"""been""","Death Valley Junction, CA, USA",QUEENIE_ELLE
+"""been""","Chesapeake, VA, USA",QUEENIE_ELLE
+"""been""","Valencia, Spain",QUEENIE_ELLE
+"""been""","Big Bear City, CA, USA",QUEENIE_ELLE
+"""been""","Mammoth Lakes, CA, USA",QUEENIE_ELLE
+"""been""","Beverly Hills, CA, USA",QUEENIE_ELLE
+"""been""","Sutter Creek, CA, USA",QUEENIE_ELLE
+"""been""","McKinney, TX, USA",QUEENIE_ELLE
+"""been""","Yelapa, Mexico",QUEENIE_ELLE
+"""been""","Gainesville, FL, USA",QUEENIE_ELLE
+"""been""","Naperville, IL, USA",QUEENIE_ELLE
+"""been""","North Miami, FL, USA",QUEENIE_ELLE
+"""been""","Philadelphia, PA, USA",QUEENIE_ELLE
+"""been""","Tahoe City, CA, USA",QUEENIE_ELLE
+"""been""","North Miami Beach, FL, USA",QUEENIE_ELLE
+"""been""","Tahoe Vista, CA, USA",QUEENIE_ELLE
+"""been""","Schaumburg, IL, USA",QUEENIE_ELLE
+"""been""","Del Mar, CA, USA",QUEENIE_ELLE
+"""been""","Davis, CA, USA",QUEENIE_ELLE
+"""been""","Banning, CA, USA",QUEENIE_ELLE
+"""been""","Fort Myers, FL, USA",QUEENIE_ELLE
+"""been""","Fort Myers Beach, FL, USA",QUEENIE_ELLE
+"""been""","Cedar Rapids, IA, USA",QUEENIE_ELLE
+"""been""","Sunnyvale, CA, USA",QUEENIE_ELLE
+"""been""","Denver, CO, USA",QUEENIE_ELLE
+"""been""","Amalfi, Italy",QUEENIE_ELLE
+"""been""","Sorrento, Italy",QUEENIE_ELLE
+"""been""","Garmisch-Partenkirchen, Germany",QUEENIE_ELLE
+"""been""","Oberammergau, Germany",QUEENIE_ELLE
+"""been""","Naples, Italy",QUEENIE_ELLE
+"""been""","The Hague, The Netherlands",QUEENIE_ELLE
+"""been""","Hohenschwangau, Germany",QUEENIE_ELLE
+"""been""","Houston, TX, USA",QUEENIE_ELLE
+"""been""","Munich, Germany",QUEENIE_ELLE
+"""been""","Desert Hot Springs, CA, USA",QUEENIE_ELLE
+"""been""","Champaign, IL, USA",QUEENIE_ELLE
+"""been""","Stockton, CA, USA",QUEENIE_ELLE
+"""been""","Flagler Beach, FL, USA",QUEENIE_ELLE
+"""been""","Crested Butte, CO, USA",QUEENIE_ELLE
+"""been""","Fort Lee, NJ, USA",QUEENIE_ELLE
+"""been""","Naples, FL, USA",QUEENIE_ELLE
+"""been""","Reykjavik, Iceland",QUEENIE_ELLE
+"""been""","Rome, Italy",QUEENIE_ELLE
+"""been""","Fort Lauderdale, FL, USA",QUEENIE_ELLE
+"""been""","Vatican City, Vatican City",QUEENIE_ELLE
+"""been""","Crowley Lake, CA, USA",QUEENIE_ELLE
+"""been""","Brussels, Belgium",QUEENIE_ELLE
+"""been""","West Point, NY, USA",QUEENIE_ELLE
+"""been""","Montpelier, VT, USA",QUEENIE_ELLE
+"""been""","Anaheim, CA, USA",QUEENIE_ELLE
+"""been""","Hilo, HI, USA",QUEENIE_ELLE
+"""been""","Everglades City, FL, USA",QUEENIE_ELLE
+"""been""","Squaw Valley, CA, USA",QUEENIE_ELLE
+"""been""","Colorado Springs, CO, USA",QUEENIE_ELLE
+"""been""","Rosemont, IL, USA",QUEENIE_ELLE
+"""been""","Kansas City, KS, USA",QUEENIE_ELLE
+"""been""","Stinson Beach, CA, USA",QUEENIE_ELLE
+"""been""","Angels Camp, CA, USA",QUEENIE_ELLE
+"""been""","Newark, NJ, USA",QUEENIE_ELLE
+"""been""","Bakersfield, CA, USA",QUEENIE_ELLE
+"""been""","Dana Point, CA, USA",QUEENIE_ELLE
+"""been""","Daly City, CA, USA",QUEENIE_ELLE
+"""been""","Knoxville, TN, USA",QUEENIE_ELLE
+"""been""","Cypress, CA, USA",QUEENIE_ELLE
+"""been""","Plano, TX, USA",QUEENIE_ELLE
+"""been""","Cupertino, CA, USA",QUEENIE_ELLE
+"""been""","Culver City, CA, USA",QUEENIE_ELLE
+"""been""","Willemstad, Curacao",QUEENIE_ELLE
+"""been""","Miami Lakes, FL, USA",QUEENIE_ELLE
+"""been""","South Pasadena, CA, USA",QUEENIE_ELLE
+"""been""","South San Francisco, CA, USA",QUEENIE_ELLE
+"""been""","Frankfurt, Germany",QUEENIE_ELLE
+"""been""","Banff, UK",QUEENIE_ELLE
+"""been""","Aberdeen, UK",QUEENIE_ELLE
+"""been""","Corona, CA, USA",QUEENIE_ELLE
+"""been""","Hemet, CA, USA",QUEENIE_ELLE
+"""been""","Concord, CA, USA",QUEENIE_ELLE
+"""been""","Healdsburg, CA, USA",QUEENIE_ELLE
+"""been""","Commerce, CA, USA",QUEENIE_ELLE
+"""been""","Tillamook, OR, USA",QUEENIE_ELLE
+"""been""","Hayward, CA, USA",QUEENIE_ELLE
+"""been""","Lienz, Austria",QUEENIE_ELLE
+"""been""","Oranjestad, Aruba",QUEENIE_ELLE
+"""been""","Solana Beach, CA, USA",QUEENIE_ELLE
+"""been""","Elizabeth, NJ, USA",QUEENIE_ELLE
+"""been""","Albion, CA, USA",QUEENIE_ELLE
+"""been""","Solvang, CA, USA",QUEENIE_ELLE
+"""been""","Ostend, Belgium",QUEENIE_ELLE
+"""been""","Waukegan, IL, USA",QUEENIE_ELLE
+"""been""","Alhambra, CA, USA",QUEENIE_ELLE
+"""been""","Tampa, FL, USA",QUEENIE_ELLE
+"""been""","Lech, Austria",QUEENIE_ELLE
+"""been""","Sonoma, CA, USA",QUEENIE_ELLE
+"""been""","Miami, FL, USA",QUEENIE_ELLE
+"""been""","Alameda, CA, USA",QUEENIE_ELLE
+"""been""","Sonora, CA, USA",QUEENIE_ELLE
+"""been""","Miami Beach, FL, USA",QUEENIE_ELLE
+"""been""","Rennes, France",QUEENIE_ELLE
+"""been""","Beaune, France",QUEENIE_ELLE
+"""been""","Hollister, CA, USA",QUEENIE_ELLE
+"""been""","Wailea, HI, USA",QUEENIE_ELLE
+"""been""","Costa Mesa, CA, USA",QUEENIE_ELLE
+"""been""","Corte Madera, CA, USA",QUEENIE_ELLE
+"""been""","Coronado, CA, USA",QUEENIE_ELLE
+"""been""","Hermosa Beach, CA, USA",QUEENIE_ELLE
+"""been""","Edgewater, NJ, USA",QUEENIE_ELLE
+"""been""","Sunrise, FL, USA",QUEENIE_ELLE
+"""been""","Lewiston, ID, USA",QUEENIE_ELLE
+"""been""","Half Moon Bay, CA, USA",QUEENIE_ELLE
+"""been""","Coalinga, CA, USA",QUEENIE_ELLE
+"""been""","Clovis, CA, USA",QUEENIE_ELLE
+"""been""","Cloverdale, CA, USA",QUEENIE_ELLE
+"""been""","Greenville, SC, USA",QUEENIE_ELLE
+"""been""","Jamaica, NY, USA",QUEENIE_ELLE
+"""been""","Guerneville, CA, USA",QUEENIE_ELLE
+"""been""","Gualala, CA, USA",QUEENIE_ELLE
+"""been""","Tecate, Mexico",QUEENIE_ELLE
+"""been""","Flushing, NY, USA",QUEENIE_ELLE
+"""been""","Covington, LA, USA",QUEENIE_ELLE
+"""been""","Trenton, NJ, USA",QUEENIE_ELLE
+"""been""","Boulder, CO, USA",QUEENIE_ELLE
+"""been""","Kathmandu, Nepal",QUEENIE_ELLE
+"""been""","Breckenridge, CO, USA",QUEENIE_ELLE
+"""been""","Agoura Hills, CA, USA",QUEENIE_ELLE
+"""been""","Pokhara, Nepal",QUEENIE_ELLE
+"""been""","Hawthorne, CA, USA",QUEENIE_ELLE
+"""been""","Hanford, CA, USA",QUEENIE_ELLE
+"""been""","Evanston, IL, USA",QUEENIE_ELLE
+"""been""","South Miami, FL, USA",QUEENIE_ELLE
+"""been""","Green Bay, WI, USA",QUEENIE_ELLE
+"""been""","Yakima, WA, USA",QUEENIE_ELLE
+"""been""","Sevierville, TN, USA",QUEENIE_ELLE
+"""been""","Grass Valley, CA, USA",QUEENIE_ELLE
+"""been""","Chino, CA, USA",QUEENIE_ELLE
+"""been""","Chico, CA, USA",QUEENIE_ELLE
+"""been""","Mariposa, CA, USA",QUEENIE_ELLE
+"""been""","Marina del Rey, CA, USA",QUEENIE_ELLE
+"""been""","Marina, CA, USA",QUEENIE_ELLE
+"""been""","Scottsdale, AZ, USA",QUEENIE_ELLE
+"""been""","Dublin, Ireland",QUEENIE_ELLE
+"""been""","Oshkosh, WI, USA",QUEENIE_ELLE
+"""been""","Yountville, CA, USA",QUEENIE_ELLE
+"""been""","Mont-Saint-Michel, France",QUEENIE_ELLE
+"""been""","Yuba City, CA, USA",QUEENIE_ELLE
+"""been""","Arlington Heights, IL, USA",QUEENIE_ELLE
+"""been""","Clearlake, CA, USA",QUEENIE_ELLE
+"""been""","Claremont, CA, USA",QUEENIE_ELLE
+"""been""","City of Industry, CA, USA",QUEENIE_ELLE
+"""been""","Chula Vista, CA, USA",QUEENIE_ELLE
+"""been""","Calais, France",QUEENIE_ELLE
+"""been""","Reno, NV, USA",QUEENIE_ELLE
+"""been""","Urbana, IL, USA",QUEENIE_ELLE
+"""been""","Gilroy, CA, USA",QUEENIE_ELLE
+"""been""","St. Petersburg, FL, USA",QUEENIE_ELLE
+"""been""","Gardena, CA, USA",QUEENIE_ELLE
+"""been""","Kapalua, HI, USA",QUEENIE_ELLE
+"""been""","Falls Church, VA, USA",QUEENIE_ELLE
+"""been""","Garden Grove, CA, USA",QUEENIE_ELLE
+"""been""","Arlington, VA, USA",QUEENIE_ELLE
+"""been""","Los Olivos, CA, USA",QUEENIE_ELLE
+"""been""","Minnetonka, MN, USA",QUEENIE_ELLE
+"""been""","Minneapolis, MN, USA",QUEENIE_ELLE
+"""been""","Annapolis, MD, USA",QUEENIE_ELLE
+"""been""","North Las Vegas, NV, USA",QUEENIE_ELLE
+"""been""","Garberville, CA, USA",QUEENIE_ELLE
+"""been""","Fairfax, VA, USA",QUEENIE_ELLE
+"""been""","Goleta, CA, USA",QUEENIE_ELLE
+"""been""","Portland, OR, USA",QUEENIE_ELLE
+"""been""","Manhattan Beach, CA, USA",QUEENIE_ELLE
+"""been""","Fayetteville, AR, USA",QUEENIE_ELLE
+"""been""","Malibu, CA, USA",QUEENIE_ELLE
+"""been""","Madera, CA, USA",QUEENIE_ELLE
+"""been""","Glendale, CA, USA",QUEENIE_ELLE
+"""been""","Eureka Springs, AR, USA",QUEENIE_ELLE
+"""been""","Ciudad Obregon, Mexico",QUEENIE_ELLE
+"""been""","Short Hills, NJ, USA",QUEENIE_ELLE
+"""been""","Alamos, Mexico",QUEENIE_ELLE
+"""been""","Covington, KY, USA",QUEENIE_ELLE
+"""been""","Silver Spring, MD, USA",QUEENIE_ELLE
+"""been""","Durham, NC, USA",QUEENIE_ELLE
+"""been""","Saint Augustine Beach, FL, USA",QUEENIE_ELLE
+"""been""","Saint Louis, MO, USA",QUEENIE_ELLE
+"""been""","Ellicott City, MD, USA",QUEENIE_ELLE
+"""been""","Glen Ellen, CA, USA",QUEENIE_ELLE
+"""been""","St. Pete Beach, FL, USA",QUEENIE_ELLE
+"""been""","Long Beach, CA, USA",QUEENIE_ELLE
+"""been""","Fountain Valley, CA, USA",QUEENIE_ELLE
+"""been""","Birmingham, UK",QUEENIE_ELLE
+"""been""","Foster City, CA, USA",QUEENIE_ELLE
+"""been""","Lone Pine, CA, USA",QUEENIE_ELLE
+"""been""","Lompoc, CA, USA",QUEENIE_ELLE
+"""been""","Alexandria, VA, USA",QUEENIE_ELLE
+"""been""","Fort Bragg, CA, USA",QUEENIE_ELLE
+"""been""","Phoenix, AZ, USA",QUEENIE_ELLE
+"""been""","Lodi, CA, USA",QUEENIE_ELLE
+"""been""","Salina, KS, USA",QUEENIE_ELLE
+"""been""","Zell am See, Austria",QUEENIE_ELLE
+"""been""","Frankenmuth, MI, USA",QUEENIE_ELLE
+"""been""","Salisbury, MD, USA",QUEENIE_ELLE
+"""been""","Secaucus, NJ, USA",QUEENIE_ELLE
+"""been""","Las Vegas, NV, USA",QUEENIE_ELLE
+"""been""","Sitges, Spain",QUEENIE_ELLE
+"""been""","Fullerton, CA, USA",QUEENIE_ELLE
+"""been""","Los Gatos, CA, USA",QUEENIE_ELLE
+"""been""","Leeds, UK",QUEENIE_ELLE
+"""been""","Los Banos, CA, USA",QUEENIE_ELLE
+"""been""","Placerville, CA, USA",QUEENIE_ELLE
+"""been""","Fresno, CA, USA",QUEENIE_ELLE
+"""been""","Los Angeles, CA, USA",QUEENIE_ELLE
+"""been""","Placentia, CA, USA",QUEENIE_ELLE
+"""been""","Los Altos, CA, USA",QUEENIE_ELLE
+"""been""","Fremont, CA, USA",QUEENIE_ELLE
+"""been""","Pismo Beach, CA, USA",QUEENIE_ELLE
+"""been""","Los Alamitos, CA, USA",QUEENIE_ELLE
+"""been""","Santiago de Compostela, Spain",QUEENIE_ELLE
+"""been""","La Coruna, Spain",QUEENIE_ELLE
+"""been""","Incline Village, NV, USA",QUEENIE_ELLE
+"""been""","Lake Charles, LA, USA",QUEENIE_ELLE
+"""been""","Henderson, NV, USA",QUEENIE_ELLE
+"""been""","Baton Rouge, LA, USA",QUEENIE_ELLE
+"""been""","Pebble Beach, CA, USA",QUEENIE_ELLE
+"""been""","Side, Turkey",QUEENIE_ELLE
+"""been""","Hong Kong, China",QUEENIE_ELLE
+"""been""","Basel, Switzerland",QUEENIE_ELLE
+"""been""","Chongqing, China",QUEENIE_ELLE
+"""been""","Paso Robles, CA, USA",QUEENIE_ELLE
+"""been""","Antalya, Turkey",QUEENIE_ELLE
+"""been""","Beijing, China",QUEENIE_ELLE
+"""been""","Elko, NV, USA",QUEENIE_ELLE
+"""been""","Geneva, Switzerland",QUEENIE_ELLE
+"""been""","Bern, Switzerland",QUEENIE_ELLE
+"""been""","Thun, Switzerland",QUEENIE_ELLE
+"""been""","Lee Vining, CA, USA",QUEENIE_ELLE
+"""been""","Pasadena, CA, USA",QUEENIE_ELLE
+"""been""","New Hope, PA, USA",QUEENIE_ELLE
+"""been""","Livermore, CA, USA",QUEENIE_ELLE
+"""been""","Little River, CA, USA",QUEENIE_ELLE
+"""been""","Petaluma, CA, USA",QUEENIE_ELLE
+"""been""","Pescadero, CA, USA",QUEENIE_ELLE
+"""been""","Paradise Valley, AZ, USA",QUEENIE_ELLE
+"""been""","Carson City, NV, USA",QUEENIE_ELLE
+"""been""","Lisbon, Portugal",QUEENIE_ELLE
+"""been""","Lucerne, Switzerland",QUEENIE_ELLE
+"""been""","Neuchatel, Switzerland",QUEENIE_ELLE
+"""been""","Palm Desert, CA, USA",QUEENIE_ELLE
+"""been""","Manaus, Brazil",QUEENIE_ELLE
+"""been""","Ubud, Indonesia",QUEENIE_ELLE
+"""been""","Pacifica, CA, USA",QUEENIE_ELLE
+"""been""","Pacific Grove, CA, USA",QUEENIE_ELLE
+"""been""","Saint Paul, MN, USA",QUEENIE_ELLE
+"""been""","Falmouth, MA, USA",QUEENIE_ELLE
+"""been""","Civitavecchia, Italy",QUEENIE_ELLE
+"""been""","Fall River, MA, USA",QUEENIE_ELLE
+"""been""","Mexicali, Mexico",QUEENIE_ELLE
+"""been""","Winter Park, CO, USA",QUEENIE_ELLE
+"""been""","Petra - Wadi Musa, Jordan",QUEENIE_ELLE
+"""been""","Oxnard, CA, USA",QUEENIE_ELLE
+"""been""","Aswan, Egypt",QUEENIE_ELLE
+"""been""","Lawndale, CA, USA",QUEENIE_ELLE
+"""been""","Luxor, Egypt",QUEENIE_ELLE
+"""been""","Dallas, TX, USA",QUEENIE_ELLE
+"""been""","Giza, Egypt",QUEENIE_ELLE
+"""been""","Cairo, Egypt",QUEENIE_ELLE
+"""been""","New Delhi, India",QUEENIE_ELLE
+"""been""","Interlaken, Switzerland",QUEENIE_ELLE
+"""been""","Mykonos Town, Greece",QUEENIE_ELLE
+"""been""","Bloomington, MN, USA",QUEENIE_ELLE
+"""been""","Palo Alto, CA, USA",QUEENIE_ELLE
+"""been""","Lancaster, CA, USA",QUEENIE_ELLE
+"""been""","Palmdale, CA, USA",QUEENIE_ELLE
+"""been""","Palm Springs, CA, USA",QUEENIE_ELLE
+"""been""","Las Cruces, NM, USA",QUEENIE_ELLE
+"""been""","Ontario, CA, USA",QUEENIE_ELLE
+"""been""","Olympic Valley, CA, USA",QUEENIE_ELLE
+"""been""","Dunhuang, China",QUEENIE_ELLE
+"""been""","Cuyahoga Falls, OH, USA",QUEENIE_ELLE
+"""been""","Olema, CA, USA",QUEENIE_ELLE
+"""been""","Chiang Rai, Thailand",QUEENIE_ELLE
+"""been""","Lugano, Switzerland",QUEENIE_ELLE
+"""been""","St. Moritz, Switzerland",QUEENIE_ELLE
+"""been""","Saint-Emilion, France",QUEENIE_ELLE
+"""been""","Ojai, CA, USA",QUEENIE_ELLE
+"""been""","Kitty Hawk, NC, USA",QUEENIE_ELLE
+"""been""","Oceanside, CA, USA",QUEENIE_ELLE
+"""been""","Chapel Hill, NC, USA",QUEENIE_ELLE
+"""been""","Reading, PA, USA",QUEENIE_ELLE
+"""been""","Charlotte, NC, USA",QUEENIE_ELLE
+"""been""","Grapevine, TX, USA",QUEENIE_ELLE
+"""been""","Garda, Italy",QUEENIE_ELLE
+"""been""","Provincetown, MA, USA",QUEENIE_ELLE
+"""been""","Xalapa, Mexico",QUEENIE_ELLE
+"""been""","Orange, CA, USA",QUEENIE_ELLE
+"""been""","Anacapri, Italy",QUEENIE_ELLE
+"""been""","Kashgar, China",QUEENIE_ELLE
+"""been""","Occidental, CA, USA",QUEENIE_ELLE
+"""been""","Intercourse, PA, USA",QUEENIE_ELLE
+"""been""","Oakland, CA, USA",QUEENIE_ELLE
+"""been""","Columbus, OH, USA",QUEENIE_ELLE
+"""been""","Danville, CA, USA",QUEENIE_ELLE
+"""been""","Jacksonville, FL, USA",QUEENIE_ELLE
+"""been""","Shreveport, LA, USA",QUEENIE_ELLE
+"""been""","Peekskill, NY, USA",QUEENIE_ELLE
+"""been""","Raleigh, NC, USA",QUEENIE_ELLE
+"""been""","Amboise, France",QUEENIE_ELLE
+"""been""","Ankara, Turkey",QUEENIE_ELLE
+"""been""","Ayutthaya, Thailand",QUEENIE_ELLE
+"""been""","Baltimore, MD, USA",QUEENIE_ELLE
+"""been""","Marigot, St Martin \u002F St Maarten",QUEENIE_ELLE
+"""been""","Philipsburg, St Martin \u002F St Maarten",QUEENIE_ELLE
+"""been""","Cleveland, OH, USA",QUEENIE_ELLE
+"""been""","Sioux Falls, SD, USA",QUEENIE_ELLE
+"""been""","Chartres, France",QUEENIE_ELLE
+"""been""","Amritsar, India",QUEENIE_ELLE
+"""been""","High Point, NC, USA",QUEENIE_ELLE
+"""been""","Alexandria, Egypt",QUEENIE_ELLE
+"""been""","Orleans, France",QUEENIE_ELLE
+"""been""","Vancouver, WA, USA",QUEENIE_ELLE
+"""been""","Brooklyn, NY, USA",QUEENIE_ELLE
+"""been""","Fairbanks, AK, USA",QUEENIE_ELLE
+"""been""","Bogota, Colombia",QUEENIE_ELLE
+"""been""","Tours, France",QUEENIE_ELLE
+"""been""","Farallon, Panama",QUEENIE_ELLE
+"""been""","Caracas, Venezuela",QUEENIE_ELLE
+"""been""","Sao Paulo, Brazil",QUEENIE_ELLE
+"""been""","Hurghada, Egypt",QUEENIE_ELLE
+"""been""","Troyes, France",QUEENIE_ELLE
+"""been""","Reims, France",QUEENIE_ELLE
+"""been""","Epernay, France",QUEENIE_ELLE
+"""been""","Dorado, Puerto Rico",QUEENIE_ELLE
+"""been""","San Juan, Puerto Rico",QUEENIE_ELLE
+"""been""","Ponce, Puerto Rico",QUEENIE_ELLE
+"""been""","Ajaccio, France",QUEENIE_ELLE
+"""been""","Winston Salem, NC, USA",QUEENIE_ELLE
+"""been""","Fontainebleau, France",QUEENIE_ELLE
+"""been""","Wilmington, NC, USA",QUEENIE_ELLE
+"""been""","Waikoloa, HI, USA",QUEENIE_ELLE
+"""been""","Versailles, France",QUEENIE_ELLE
+"""been""","Paris, France",QUEENIE_ELLE
+"""been""","Santos, Brazil",QUEENIE_ELLE
+"""been""","Gatlinburg, TN, USA",QUEENIE_ELLE
+"""been""","Greensboro, NC, USA",QUEENIE_ELLE
+"""been""","Volcano, HI, USA",QUEENIE_ELLE
+"""been""","Simi Valley, CA, USA",QUEENIE_ELLE
+"""been""","Koblenz, Germany",QUEENIE_ELLE
+"""been""","Highland Park, IL, USA",QUEENIE_ELLE
+"""been""","Montpellier, France",QUEENIE_ELLE
+"""been""","Nimes, France",QUEENIE_ELLE
+"""been""","Tiberias, Israel",QUEENIE_ELLE
+"""been""","Hot Springs, AR, USA",QUEENIE_ELLE
+"""been""","Roanoke, VA, USA",QUEENIE_ELLE
+"""been""","Daytona Beach, FL, USA",QUEENIE_ELLE
+"""been""","Deerfield Beach, FL, USA",QUEENIE_ELLE
+"""been""","Delray Beach, FL, USA",QUEENIE_ELLE
+"""been""","Kilauea, HI, USA",QUEENIE_ELLE
+"""been""","Riobamba, Ecuador",QUEENIE_ELLE
+"""been""","Otavalo, Ecuador",QUEENIE_ELLE
+"""been""","Indianapolis, IN, USA",QUEENIE_ELLE
+"""been""","Spoleto, Italy",QUEENIE_ELLE
+"""been""","Manta, Ecuador",QUEENIE_ELLE
+"""been""","Salinas, Ecuador",QUEENIE_ELLE
+"""been""","Saratoga Springs, NY, USA",QUEENIE_ELLE
+"""been""","Guayaquil, Ecuador",QUEENIE_ELLE
+"""been""","Washington DC, DC, USA",QUEENIE_ELLE
+"""been""","Singapore, Singapore",QUEENIE_ELLE
+"""been""","New Orleans, LA, USA",QUEENIE_ELLE
+"""been""","Waimea, HI, USA",QUEENIE_ELLE
+"""been""","Princeville, HI, USA",QUEENIE_ELLE
+"""been""","Martinez, CA, USA",QUEENIE_ELLE
+"""been""","Montego Bay, Jamaica",QUEENIE_ELLE
+"""been""","Kingston, Jamaica",QUEENIE_ELLE
+"""been""","Twentynine Palms, CA, USA",QUEENIE_ELLE
+"""been""","Kailua-Kona, HI, USA",QUEENIE_ELLE
+"""been""","Hana, HI, USA",QUEENIE_ELLE
+"""been""","Buenos Aires, Argentina",QUEENIE_ELLE
+"""been""","Kihei, HI, USA",QUEENIE_ELLE
+"""been""","Dania Beach, FL, USA",QUEENIE_ELLE
+"""been""","Negril, Jamaica",QUEENIE_ELLE
+"""been""","Kahului, HI, USA",QUEENIE_ELLE
+"""been""","Seward, AK, USA",QUEENIE_ELLE
+"""been""","Ocho Rios, Jamaica",QUEENIE_ELLE
+"""been""","Todi, Italy",QUEENIE_ELLE
+"""been""","Medford, OR, USA",QUEENIE_ELLE
+"""been""","Lille, France",QUEENIE_ELLE
+"""been""","Lahaina, HI, USA",QUEENIE_ELLE
+"""been""","Paia, HI, USA",QUEENIE_ELLE
+"""been""","Seattle, WA, USA",QUEENIE_ELLE
+"""been""","Mar del Plata, Argentina",QUEENIE_ELLE
+"""been""","Wailuku, HI, USA",QUEENIE_ELLE
+"""been""","Sausalito, CA, USA",QUEENIE_ELLE
+"""been""","Bellingham, WA, USA",QUEENIE_ELLE
+"""been""","Coral Gables, FL, USA",QUEENIE_ELLE
+"""been""","Coral Springs, FL, USA",QUEENIE_ELLE
+"""been""","Anchorage, AK, USA",QUEENIE_ELLE
+"""been""","Caen, France",QUEENIE_ELLE
+"""been""","Seal Beach, CA, USA",QUEENIE_ELLE
+"""been""","Seaside, CA, USA",QUEENIE_ELLE
+"""been""","Sebastopol, CA, USA",QUEENIE_ELLE
+"""been""","Giverny, France",QUEENIE_ELLE
+"""been""","Louisville, KY, USA",QUEENIE_ELLE
+"""been""","Deauville City, France",QUEENIE_ELLE
+"""been""","Honfleur, France",QUEENIE_ELLE
+"""been""","Panama City, Panama",QUEENIE_ELLE
+"""been""","Nazareth, Israel",QUEENIE_ELLE
+"""been""","Maumee, OH, USA",QUEENIE_ELLE
+"""been""","Luxembourg City, Luxembourg",QUEENIE_ELLE
+"""been""","Bellevue, WA, USA",QUEENIE_ELLE
+"""been""","Woodland, CA, USA",QUEENIE_ELLE
+"""been""","Lauderdale-By-The-Sea, FL, USA",QUEENIE_ELLE
+"""been""","Santa Maria, CA, USA",QUEENIE_ELLE
+"""been""","Cambridge, MA, USA",QUEENIE_ELLE
+"""been""","Santa Monica, CA, USA",QUEENIE_ELLE
+"""been""","Shanghai, China",QUEENIE_ELLE
+"""been""","Kailua, HI, USA",QUEENIE_ELLE
+"""been""","Santa Rosa, CA, USA",QUEENIE_ELLE
+"""been""","Cocoa, FL, USA",QUEENIE_ELLE
+"""been""","Santa Ynez, CA, USA",QUEENIE_ELLE
+"""been""","Yorba Linda, CA, USA",QUEENIE_ELLE
+"""been""","Cocoa Beach, FL, USA",QUEENIE_ELLE
+"""been""","Richmond, VA, USA",QUEENIE_ELLE
+"""been""","Rouen, France",QUEENIE_ELLE
+"""been""","Manassas, VA, USA",QUEENIE_ELLE
+"""been""","Saratoga, CA, USA",QUEENIE_ELLE
+"""been""","Lincoln City, OR, USA",QUEENIE_ELLE
+"""been""","Nantes, France",QUEENIE_ELLE
+"""been""","Brindisi, Italy",QUEENIE_ELLE
+"""been""","Inverness, UK",QUEENIE_ELLE
+"""been""","Bari, Italy",QUEENIE_ELLE
+"""been""","Atlanta, GA, USA",QUEENIE_ELLE
+"""been""","Cathedral City, CA, USA",QUEENIE_ELLE
+"""been""","Castro Valley, CA, USA",QUEENIE_ELLE
+"""been""","Windsor, CA, USA",QUEENIE_ELLE
+"""been""","Castaic, CA, USA",QUEENIE_ELLE
+"""been""","San Ysidro, CA, USA",QUEENIE_ELLE
+"""been""","Lake Worth, FL, USA",QUEENIE_ELLE
+"""been""","Santa Ana, CA, USA",QUEENIE_ELLE
+"""been""","Waimanalo, HI, USA",QUEENIE_ELLE
+"""been""","Santa Barbara, CA, USA",QUEENIE_ELLE
+"""been""","Santa Clara, CA, USA",QUEENIE_ELLE
+"""been""","Land O Lakes, FL, USA",QUEENIE_ELLE
+"""been""","Santa Clarita, CA, USA",QUEENIE_ELLE
+"""been""","Lantana, FL, USA",QUEENIE_ELLE
+"""been""","Santa Cruz, CA, USA",QUEENIE_ELLE
+"""been""","Cherry Hill, NJ, USA",QUEENIE_ELLE
+"""been""","Vancouver, British Columbia, Canada",QUEENIE_ELLE
+"""been""","Lake Oswego, OR, USA",QUEENIE_ELLE
+"""been""","Canterbury, UK",QUEENIE_ELLE
+"""been""","Cerritos, CA, USA",QUEENIE_ELLE
+"""been""","Mendoza, Argentina",QUEENIE_ELLE
+"""been""","San Martin, CA, USA",QUEENIE_ELLE
+"""been""","Willits, CA, USA",QUEENIE_ELLE
+"""been""","San Mateo, CA, USA",QUEENIE_ELLE
+"""been""","San Rafael, CA, USA",QUEENIE_ELLE
+"""been""","San Ramon, CA, USA",QUEENIE_ELLE
+"""been""","Overland Park, KS, USA",QUEENIE_ELLE
+"""been""","Celebration, FL, USA",QUEENIE_ELLE
+"""been""","Rincon, Puerto Rico",QUEENIE_ELLE
+"""been""","San Simeon, CA, USA",QUEENIE_ELLE
+"""been""","Lucca, Italy",QUEENIE_ELLE
+"""been""","Livorno, Italy",QUEENIE_ELLE
+"""been""","Fiesole, Italy",QUEENIE_ELLE
+"""been""","Florence, Italy",QUEENIE_ELLE
+"""been""","Cardiff-by-the-Sea, CA, USA",QUEENIE_ELLE
+"""been""","Capitola, CA, USA",QUEENIE_ELLE
+"""been""","Pisa, Italy",QUEENIE_ELLE
+"""been""","Williamsburg, VA, USA",QUEENIE_ELLE
+"""been""","Catskill, NY, USA",QUEENIE_ELLE
+"""been""","Fond du Lac, WI, USA",QUEENIE_ELLE
+"""been""","San Jose, CA, USA",QUEENIE_ELLE
+"""been""","San Juan Bautista, CA, USA",QUEENIE_ELLE
+"""been""","Kissimmee, FL, USA",QUEENIE_ELLE
+"""been""","San Juan Capistrano, CA, USA",QUEENIE_ELLE
+"""been""","San Leandro, CA, USA",QUEENIE_ELLE
+"""been""","San Luis Obispo, CA, USA",QUEENIE_ELLE
+"""been""","Whittier, CA, USA",QUEENIE_ELLE
+"""been""","St. Augustine, FL, USA",QUEENIE_ELLE
+"""been""","San Marcos, CA, USA",QUEENIE_ELLE
+"""been""","London, UK",QUEENIE_ELLE
+"""been""","Rochester, NY, USA",QUEENIE_ELLE
+"""been""","Carson, CA, USA",QUEENIE_ELLE
+"""been""","Carpinteria, CA, USA",QUEENIE_ELLE
+"""been""","Chiang Mai, Thailand",QUEENIE_ELLE
+"""been""","Palmer, AK, USA",QUEENIE_ELLE
+"""been""","Bangkok, Thailand",QUEENIE_ELLE
+"""been""","Kirkland, WA, USA",QUEENIE_ELLE
+"""been""","Carmel Valley, CA, USA",QUEENIE_ELLE
+"""been""","Schwangau, Germany",QUEENIE_ELLE
+"""been""","Carmel, CA, USA",QUEENIE_ELLE
+"""been""","Taipei, Taiwan",QUEENIE_ELLE
+"""been""","Carlsbad, CA, USA",QUEENIE_ELLE
+"""been""","Pigeon Forge, TN, USA",QUEENIE_ELLE
+"""been""","San Bruno, CA, USA",QUEENIE_ELLE
+"""been""","West Hollywood, CA, USA",QUEENIE_ELLE
+"""been""","San Carlos, CA, USA",QUEENIE_ELLE
+"""been""","San Clemente, CA, USA",QUEENIE_ELLE
+"""been""","West Sacramento, CA, USA",QUEENIE_ELLE
+"""been""","San Dimas, CA, USA",QUEENIE_ELLE
+"""been""","San Gabriel, CA, USA",QUEENIE_ELLE
+"""been""","Westlake Village, CA, USA",QUEENIE_ELLE
+"""been""","York, UK",QUEENIE_ELLE
+"""been""","Cambria, CA, USA",QUEENIE_ELLE
+"""been""","Folsom, CA, USA",QUEENIE_ELLE
+"""been""","Camarillo, CA, USA",QUEENIE_ELLE
+"""been""","Tacoma, WA, USA",QUEENIE_ELLE
+"""been""","Dulles, VA, USA",QUEENIE_ELLE
+"""been""","Manzanillo, Mexico",QUEENIE_ELLE
+"""been""","Calistoga, CA, USA",QUEENIE_ELLE
+"""been""","Charleston, SC, USA",QUEENIE_ELLE
+"""been""","Acapulco, Mexico",QUEENIE_ELLE
+"""been""","Pompano Beach, FL, USA",QUEENIE_ELLE
+"""been""","Watsonville, CA, USA",QUEENIE_ELLE
+"""been""","St. Helena, CA, USA",QUEENIE_ELLE
+"""been""","Ponte Vedra Beach, FL, USA",QUEENIE_ELLE
+"""been""","Salinas, CA, USA",QUEENIE_ELLE
+"""been""","Jupiter, FL, USA",QUEENIE_ELLE
+"""been""","San Andreas, CA, USA",QUEENIE_ELLE
+"""been""","Aqaba, Jordan",QUEENIE_ELLE
+"""been""","San Bernardino, CA, USA",QUEENIE_ELLE
+"""been""","Tarrytown, NY, USA",QUEENIE_ELLE
+"""been""","La Rochelle, France",QUEENIE_ELLE
+"""been""","Campbell, CA, USA",QUEENIE_ELLE
+"""been""","Egg Harbor, WI, USA",QUEENIE_ELLE
+"""been""","Guadalajara, Mexico",QUEENIE_ELLE
+"""been""","Highlands Ranch, CO, USA",QUEENIE_ELLE
+"""been""","Visalia, CA, USA",QUEENIE_ELLE
+"""been""","Vista, CA, USA",QUEENIE_ELLE
+"""been""","Mazatlan, Mexico",QUEENIE_ELLE
+"""been""","Puerto Vallarta, Mexico",QUEENIE_ELLE
+"""been""","Plantation, FL, USA",QUEENIE_ELLE
+"""been""","Walnut Creek, CA, USA",QUEENIE_ELLE
+"""been""","Coeur d'Alene, ID, USA",QUEENIE_ELLE
+"""been""","Jacksonville Beach, FL, USA",QUEENIE_ELLE
+"""been""","Spokane, WA, USA",QUEENIE_ELLE
+"""been""","Fallbrook, CA, USA",QUEENIE_ELLE
+"""been""","Xi'an, China",QUEENIE_ELLE
+"""been""","Fairfield, CA, USA",QUEENIE_ELLE
+"""been""","Urumqi, China",QUEENIE_ELLE
+"""been""","Guilin, China",QUEENIE_ELLE
+"""been""","Burlingame, CA, USA",QUEENIE_ELLE
+"""been""","Guangzhou, China",QUEENIE_ELLE
+"""been""","Burbank, CA, USA",QUEENIE_ELLE
+"""been""","Buena Park, CA, USA",QUEENIE_ELLE
+"""been""","Syracuse, NY, USA",QUEENIE_ELLE
+"""been""","Eureka, CA, USA",QUEENIE_ELLE
+"""been""","Buellton, CA, USA",QUEENIE_ELLE
+"""been""","Arlington, TX, USA",QUEENIE_ELLE
+"""been""","Pensacola, FL, USA",QUEENIE_ELLE
+"""been""","Eden Prairie, MN, USA",QUEENIE_ELLE
+"""been""","Victorville, CA, USA",QUEENIE_ELLE
+"""been""","Cali, Colombia",QUEENIE_ELLE
+"""been""","Cartagena, Colombia",QUEENIE_ELLE
+"""been""","Bonifacio, France",QUEENIE_ELLE
+"""been""","Barranquilla, Colombia",QUEENIE_ELLE
+"""been""","Athens, Greece",QUEENIE_ELLE
+"""been""","Cannes, France",QUEENIE_ELLE
+"""been""","Alpharetta, GA, USA",QUEENIE_ELLE
+"""been""","Snoqualmie, WA, USA",QUEENIE_ELLE
+"""been""","Snoqualmie Pass, WA, USA",QUEENIE_ELLE
+"""been""","Stowe, VT, USA",QUEENIE_ELLE
+"""been""","Piraeus, Greece",QUEENIE_ELLE
+"""been""","Calabasas, CA, USA",QUEENIE_ELLE
+"""been""","Juan-les-Pins, France",QUEENIE_ELLE
+"""been""","Medellin, Colombia",QUEENIE_ELLE
+"""been""","Cabazon, CA, USA",QUEENIE_ELLE
+"""been""","Lexington, VA, USA",QUEENIE_ELLE
+"""been""","Beaufort, NC, USA",QUEENIE_ELLE
+"""been""","Tijuana, Mexico",QUEENIE_ELLE
+"""been""","Rosarito, Mexico",QUEENIE_ELLE
+"""been""","Kohler, WI, USA",QUEENIE_ELLE
+"""been""","Ensenada, Mexico",QUEENIE_ELLE
+"""been""","Vallejo, CA, USA",QUEENIE_ELLE
+"""been""","Nice, France",QUEENIE_ELLE
+"""been""","Kuala Lumpur, Malaysia",QUEENIE_ELLE
+"""been""","Nashville, TN, USA",QUEENIE_ELLE
+"""been""","Sequim, WA, USA",QUEENIE_ELLE
+"""been""","Brea, CA, USA",QUEENIE_ELLE
+"""been""","Laguna Hills, CA, USA",QUEENIE_ELLE
+"""been""","Beaufort, SC, USA",QUEENIE_ELLE
+"""been""","Lititz, PA, USA",QUEENIE_ELLE
+"""been""","Laguna Beach, CA, USA",QUEENIE_ELLE
+"""been""","Lafayette, CA, USA",QUEENIE_ELLE
+"""been""","SeaTac, WA, USA",QUEENIE_ELLE
+"""been""","La Quinta, CA, USA",QUEENIE_ELLE
+"""been""","El Segundo, CA, USA",QUEENIE_ELLE
+"""been""","La Mirada, CA, USA",QUEENIE_ELLE
+"""been""","North Myrtle Beach, SC, USA",QUEENIE_ELLE
+"""been""","Lake Geneva, WI, USA",QUEENIE_ELLE
+"""been""","Hoboken, NJ, USA",QUEENIE_ELLE
+"""been""","Crystal Lake, IL, USA",QUEENIE_ELLE
+"""been""","Palm Beach, FL, USA",QUEENIE_ELLE
+"""been""","Princeton, NJ, USA",QUEENIE_ELLE
+"""been""","Palm Beach Gardens, FL, USA",QUEENIE_ELLE
+"""been""","Palm Beach Shores, FL, USA",QUEENIE_ELLE
+"""been""","Ukiah, CA, USA",QUEENIE_ELLE
+"""been""","Palm Coast, FL, USA",QUEENIE_ELLE
+"""been""","Union City, CA, USA",QUEENIE_ELLE
+"""been""","Atlantic Beach, FL, USA",QUEENIE_ELLE
+"""been""","Upland, CA, USA",QUEENIE_ELLE
+"""been""","Chevy Chase, MD, USA",QUEENIE_ELLE
+"""been""","Vacaville, CA, USA",QUEENIE_ELLE
+"""been""","Escondido, CA, USA",QUEENIE_ELLE
+"""been""","Bologna, Italy",QUEENIE_ELLE
+"""been""","Glyfada, Greece",QUEENIE_ELLE
+"""been""","Encinitas, CA, USA",QUEENIE_ELLE
+"""been""","Brisbane, CA, USA",QUEENIE_ELLE
+"""been""","Lake Elsinore, CA, USA",QUEENIE_ELLE
+"""been""","Yonkers, NY, USA",QUEENIE_ELLE
+"""been""","Ravenna, Italy",QUEENIE_ELLE
+"""been""","Emeryville, CA, USA",QUEENIE_ELLE
+"""been""","Bridgeport, CA, USA",QUEENIE_ELLE
+"""been""","Juneau, AK, USA",QUEENIE_ELLE
+"""been""","Lake Arrowhead, CA, USA",QUEENIE_ELLE
+"""been""","Aventura, FL, USA",QUEENIE_ELLE
+"""been""","Ocean City, MD, USA",QUEENIE_ELLE
+"""been""","Richardson, TX, USA",QUEENIE_ELLE
+"""been""","Myrtle Beach, SC, USA",QUEENIE_ELLE
+"""been""","Tel Aviv, Israel",QUEENIE_ELLE
+"""been""","Jerusalem, Israel",QUEENIE_ELLE
+"""been""","Amman, Jordan",QUEENIE_ELLE
+"""been""","Eilat, Israel",QUEENIE_ELLE
+"""been""","Haifa, Israel",QUEENIE_ELLE
+"""been""","Jerash, Jordan",QUEENIE_ELLE
+"""been""","Madaba, Jordan",QUEENIE_ELLE
+"""been""","Detroit, MI, USA",QUEENIE_ELLE
+"""been""","Macau, China",QUEENIE_ELLE
+"""been""","Orlando, FL, USA",QUEENIE_ELLE
+"""been""","Ormond Beach, FL, USA",QUEENIE_ELLE
+"""been""","Sister Bay, WI, USA",QUEENIE_ELLE
+"""been""","Homer, AK, USA",QUEENIE_ELLE
+"""been""","Redmond, WA, USA",QUEENIE_ELLE
+"""been""","La Jolla, CA, USA",QUEENIE_ELLE
+"""been""","Portofino, Italy",QUEENIE_ELLE
+"""been""","El Centro, CA, USA",QUEENIE_ELLE
+"""been""","El Cajon, CA, USA",QUEENIE_ELLE
+"""been""","Ibiza Town, Spain",QUEENIE_ELLE
+"""been""","Snowmass Village, CO, USA",QUEENIE_ELLE
+"""been""","Okeechobee, FL, USA",QUEENIE_ELLE
+"""been""","Steamboat Springs, CO, USA",QUEENIE_ELLE
+"""been""","Winter Park, FL, USA",QUEENIE_ELLE
+"""been""","June Lake, CA, USA",QUEENIE_ELLE
+"""been""","Bergamo, Italy",QUEENIE_ELLE
+"""been""","Julian, CA, USA",QUEENIE_ELLE
+"""been""","Hamilton, Ontario, Canada",QUEENIE_ELLE
+"""been""","Como, Italy",QUEENIE_ELLE
+"""been""","Jenner, CA, USA",QUEENIE_ELLE
+"""been""","Newport Beach, CA, USA",QUEENIE_ELLE
+"""been""","Macon, France",QUEENIE_ELLE
+"""been""","Kansas City, MO, USA",QUEENIE_ELLE
+"""been""","Paramus, NJ, USA",QUEENIE_ELLE
+"""been""","West Palm Beach, FL, USA",QUEENIE_ELLE
+"""been""","Casablanca, Morocco",QUEENIE_ELLE
+"""been""","Istanbul, Turkey",QUEENIE_ELLE
+"""been""","Kernville, CA, USA",QUEENIE_ELLE
+"""been""","Novato, CA, USA",QUEENIE_ELLE
+"""been""","Dublin, CA, USA",QUEENIE_ELLE
+"""been""","Kenwood, CA, USA",QUEENIE_ELLE
+"""been""","Norwalk, CA, USA",QUEENIE_ELLE
+"""been""","Milan, Italy",QUEENIE_ELLE
+"""been""","Marrakech, Morocco",QUEENIE_ELLE
+"""been""","Selcuk, Turkey",QUEENIE_ELLE
+"""been""","Bethlehem, Palestinian Territories",QUEENIE_ELLE
+"""been""","Mississauga, Ontario, Canada",QUEENIE_ELLE
+"""been""","Niagara Falls, Ontario, Canada",QUEENIE_ELLE
+"""been""","Niagara-on-the-Lake, Ontario, Canada",QUEENIE_ELLE
+"""been""","Downey, CA, USA",QUEENIE_ELLE
+"""been""","Aspen, CO, USA",QUEENIE_ELLE
+"""been""","Inverness, CA, USA",QUEENIE_ELLE
+"""been""","Inglewood, CA, USA",QUEENIE_ELLE
+"""been""","National City, CA, USA",QUEENIE_ELLE
+"""been""","Napa, CA, USA",QUEENIE_ELLE
+"""been""","Indio, CA, USA",QUEENIE_ELLE
+"""been""","Vero Beach, FL, USA",QUEENIE_ELLE
+"""been""","Indian Wells, CA, USA",QUEENIE_ELLE
+"""been""","Imperial Beach, CA, USA",QUEENIE_ELLE
+"""been""","Bolzano, Italy",QUEENIE_ELLE
+"""been""","Atascadero, CA, USA",QUEENIE_ELLE
+"""been""","Murphys, CA, USA",QUEENIE_ELLE
+"""been""","Edinburgh, UK",QUEENIE_ELLE
+"""been""","Turin, Italy",QUEENIE_ELLE
+"""been""","Mountain View, CA, USA",QUEENIE_ELLE
+"""been""","Narita, Japan",QUEENIE_ELLE
+"""been""","Bethesda, MD, USA",QUEENIE_ELLE
+"""been""","Arroyo Grande, CA, USA",QUEENIE_ELLE
+"""been""","Idyllwild, CA, USA",QUEENIE_ELLE
+"""been""","Merano, Italy",QUEENIE_ELLE
+"""been""","Chicago, IL, USA",QUEENIE_ELLE
+"""been""","Glasgow, UK",QUEENIE_ELLE
+"""been""","Jamestown, CA, USA",QUEENIE_ELLE
+"""been""","Jackson, CA, USA",QUEENIE_ELLE
+"""been""","Avila Beach, CA, USA",QUEENIE_ELLE
+"""been""","Newbury Park, CA, USA",QUEENIE_ELLE
+"""been""","Newark, CA, USA",QUEENIE_ELLE
+"""been""","Irvine, CA, USA",QUEENIE_ELLE
+"""been""","Nevada City, CA, USA",QUEENIE_ELLE
+"""been""","Milwaukee, WI, USA",QUEENIE_ELLE
+"""been""","Auburn, CA, USA",QUEENIE_ELLE
+"""been""","Verona, Italy",QUEENIE_ELLE
+"""been""","Venice, Italy",QUEENIE_ELLE
+"""been""","Vina del Mar, Chile",QUEENIE_ELLE
+"""been""","Roseville, CA, USA",QUEENIE_ELLE
+"""been""","Morro Bay, CA, USA",QUEENIE_ELLE
+"""been""","Morgan Hill, CA, USA",QUEENIE_ELLE
+"""been""","Moreno Valley, CA, USA",QUEENIE_ELLE
+"""been""","Rohnert Park, CA, USA",QUEENIE_ELLE
+"""been""","Rogers, AR, USA",QUEENIE_ELLE
+"""been""","Weehawken, NJ, USA",QUEENIE_ELLE
+"""been""","North Kansas City, MO, USA",QUEENIE_ELLE
+"""been""","Bergerac City, France",QUEENIE_ELLE
+"""been""","Biarritz, France",QUEENIE_ELLE
+"""been""","Orvieto, Italy",QUEENIE_ELLE
+"""been""","Monterey Park, CA, USA",QUEENIE_ELLE
+"""been""","Monterey, CA, USA",QUEENIE_ELLE
+"""been""","Perigueux, France",QUEENIE_ELLE
+"""been""","Arcata, CA, USA",QUEENIE_ELLE
+"""been""","Sacramento, CA, USA",QUEENIE_ELLE
+"""been""","Rutherford, CA, USA",QUEENIE_ELLE
+"""been""","Mount Shasta, CA, USA",QUEENIE_ELLE
+"""been""","Huntington Beach, CA, USA",QUEENIE_ELLE
+"""been""","Fort Worth, TX, USA",QUEENIE_ELLE
+"""been""","Aptos, CA, USA",QUEENIE_ELLE
+"""been""","Arcadia, CA, USA",QUEENIE_ELLE
+"""been""","Porto Cervo, Italy",QUEENIE_ELLE
+"""been""","Porto Ercole, Italy",QUEENIE_ELLE
+"""been""","Mojave, CA, USA",QUEENIE_ELLE
+"""been""","Modesto, CA, USA",QUEENIE_ELLE
+"""been""","Ridgecrest, CA, USA",QUEENIE_ELLE
+"""been""","Lima, Peru",QUEENIE_ELLE
+"""been""","Mission Viejo, CA, USA",QUEENIE_ELLE
+"""been""","Ann Arbor, MI, USA",QUEENIE_ELLE
+"""been""","Positano, Italy",QUEENIE_ELLE
+"""been""","Milpitas, CA, USA",QUEENIE_ELLE
+"""been""","Millbrae, CA, USA",QUEENIE_ELLE
+"""been""","Montecito, CA, USA",QUEENIE_ELLE
+"""been""","Riverside, CA, USA",QUEENIE_ELLE
+"""been""","Ka'anapali, HI, USA",QUEENIE_ELLE
+"""been""","Puerto Nuevo, Mexico",QUEENIE_ELLE
+"""been""","Ravello, Italy",QUEENIE_ELLE
+"""been""","Troy, MI, USA",QUEENIE_ELLE
+"""been""","Monrovia, CA, USA",QUEENIE_ELLE
+"""been""","Rancho Santa Fe, CA, USA",QUEENIE_ELLE
+"""been""","Rancho Palos Verdes, CA, USA",QUEENIE_ELLE
+"""been""","Mendocino, CA, USA",QUEENIE_ELLE
+"""been""","Rancho Mirage, CA, USA",QUEENIE_ELLE
+"""been""","New Bern, NC, USA",QUEENIE_ELLE
+"""been""","Rancho Cucamonga, CA, USA",QUEENIE_ELLE
+"""been""","Lexington, KY, USA",QUEENIE_ELLE
+"""been""","Rancho Cordova, CA, USA",QUEENIE_ELLE
+"""been""","Ramona, CA, USA",QUEENIE_ELLE
+"""been""","Redwood City, CA, USA",QUEENIE_ELLE
+"""been""","Redondo Beach, CA, USA",QUEENIE_ELLE
+"""been""","Santiago, Chile",QUEENIE_ELLE
+"""been""","Redlands, CA, USA",QUEENIE_ELLE
+"""been""","Redding, CA, USA",QUEENIE_ELLE
+"""been""","Mill Valley, CA, USA",QUEENIE_ELLE
+"""been""","Albany, NY, USA",QUEENIE_ELLE
+"""been""","Tulsa, OK, USA",QUEENIE_ELLE
+"""been""","Barstow, CA, USA",QUEENIE_ELLE
+"""been""","Valparaiso, Chile",QUEENIE_ELLE
+"""been""","Cuenca, Ecuador",QUEENIE_ELLE
+"""been""","Monroe, LA, USA",QUEENIE_ELLE
+"""been""","Quito, Ecuador",QUEENIE_ELLE
+"""been""","Merced, CA, USA",QUEENIE_ELLE
+"""been""","Menlo Park, CA, USA",QUEENIE_ELLE
+"""been""","Ashland, OR, USA",QUEENIE_ELLE
+"""been""","Morehead City, NC, USA",QUEENIE_ELLE
+"""been""","Glenview, IL, USA",QUEENIE_ELLE
+"""been""","Metairie, LA, USA",QUEENIE_ELLE
+"""been""","Roswell, NM, USA",QUEENIE_ELLE
+"""been""","Chattanooga, TN, USA",QUEENIE_ELLE
+"""been""","Ruidoso, NM, USA",QUEENIE_ELLE
+"""been""","Assisi, Italy",QUEENIE_ELLE
+"""been""","Salt Lake City, UT, USA",QUEENIE_ELLE
+"""been""","Perugia, Italy",QUEENIE_ELLE
+"""been""","Southfield, MI, USA",QUEENIE_ELLE
+"""been""","Niagara Falls, NY, USA",QUEENIE_ELLE
+"""been""","Cupecoy Bay, St Martin \u002F St Maarten",QUEENIE_ELLE
+"""been""","Newburgh, NY, USA",QUEENIE_ELLE
+"""been""","St-Jean-Cap-Ferrat, France",QUEENIE_ELLE
+"""been""","Turpan, China",QUEENIE_ELLE
+"""been""","Albuquerque, NM, USA",QUEENIE_ELLE
+"""been""","Boynton Beach, FL, USA",QUEENIE_ELLE
+"""been""","St-Paul-de-Vence, France",QUEENIE_ELLE
+"""been""","Denpasar, Indonesia",QUEENIE_ELLE
+"""been""","Vence, France",QUEENIE_ELLE
+"""been""","Saint-Tropez, France",QUEENIE_ELLE
+"""been""","Pomona, CA, USA",QUEENIE_ELLE
+"""been""","Rhinebeck, NY, USA",QUEENIE_ELLE
+"""been""","Villefranche-sur-Mer, France",QUEENIE_ELLE
+"""been""","Kuta, Indonesia",QUEENIE_ELLE
+"""been""","Nusa Dua, Indonesia",QUEENIE_ELLE
+"""been""","Crescent City, CA, USA",QUEENIE_ELLE
+"""been""","Providence, RI, USA",QUEENIE_ELLE
+"""been""","Estes Park, CO, USA",QUEENIE_ELLE
+"""been""","Boca Raton, FL, USA",QUEENIE_ELLE
+"""been""","Point Reyes Station, CA, USA",QUEENIE_ELLE
+"""been""","North Little Rock, AR, USA",QUEENIE_ELLE
+"""been""","Leon, Spain",QUEENIE_ELLE
+"""been""","Point Arena, CA, USA",QUEENIE_ELLE
+"""been""","Burgos, Spain",QUEENIE_ELLE
+"""been""","Pleasanton, CA, USA",QUEENIE_ELLE
+"""been""","Barcelona, Spain",QUEENIE_ELLE
+"""been""","Pleasant Hill, CA, USA",QUEENIE_ELLE
+"""been""","Montreux, Switzerland",QUEENIE_ELLE
+"""been""","Linz, Austria",QUEENIE_ELLE
+"""been""","Lancaster, PA, USA",QUEENIE_ELLE
+"""been""","Sindelfingen, Germany",QUEENIE_ELLE
+"""been""","Lausanne, Switzerland",QUEENIE_ELLE
+"""been""","San Francisco, CA, USA",QUEENIE_ELLE
+"""been""","Konstanz, Germany",QUEENIE_ELLE
+"""been""","Virginia Beach, VA, USA",QUEENIE_ELLE
+"""been""","North Vancouver, British Columbia, Canada",QUEENIE_ELLE
+"""been""","Thousand Oaks, CA, USA",QUEENIE_ELLE
+"""been""","Santa Fe, NM, USA",QUEENIE_ELLE
+"""been""","Amsterdam, The Netherlands",QUEENIE_ELLE
+"""been""","Zurich, Switzerland",QUEENIE_ELLE
+"""been""","Rio de Janeiro, Brazil",QUEENIE_ELLE
+"""been""","Haarlem, The Netherlands",QUEENIE_ELLE
+"""been""","Lyon, France",QUEENIE_ELLE
+"""been""","Guaymas, Mexico",QUEENIE_ELLE
+"""been""","Zug, Switzerland",QUEENIE_ELLE
+"""been""","Zhengzhou, China",QUEENIE_ELLE
+"""been""","Graz, Austria",QUEENIE_ELLE
+"""been""","McLean, VA, USA",QUEENIE_ELLE
+"""been""","Baia Sardinia, Italy",QUEENIE_ELLE
+"""been""","Boise, ID, USA",QUEENIE_ELLE
+"""been""","Bangor, ME, USA",QUEENIE_ELLE
+"""been""","Bal Harbour, FL, USA",QUEENIE_ELLE
+"""been""","Suzhou, China",QUEENIE_ELLE
+"""been""","Agra, India",QUEENIE_ELLE
+"""been""","Baden-Baden, Germany",QUEENIE_ELLE
+"""been""","Fargo, ND, USA",QUEENIE_ELLE
+"""been""","Khajuraho, India",QUEENIE_ELLE
+"""been""","Kitzbuhel, Austria",QUEENIE_ELLE
+"""been""","Bronx, NY, USA",QUEENIE_ELLE
+"""been""","Innsbruck, Austria",QUEENIE_ELLE
+"""been""","Buffalo, NY, USA",QUEENIE_ELLE
+"""been""","Salzburg, Austria",QUEENIE_ELLE
+"""been""","Newport, RI, USA",QUEENIE_ELLE
+"""been""","Oak Park, IL, USA",QUEENIE_ELLE
+"""been""","Homestead, FL, USA",QUEENIE_ELLE
+"""been""","Lanzhou, China",QUEENIE_ELLE
+"""been""","Hollywood, FL, USA",QUEENIE_ELLE
+"""been""","Falmouth, Jamaica",QUEENIE_ELLE
+"""been""","Honolulu, HI, USA",QUEENIE_ELLE
+"""been""","Staten Island, NY, USA",QUEENIE_ELLE
+"""been""","Shenzhen, China",QUEENIE_ELLE
+"""been""","Poughkeepsie, NY, USA",QUEENIE_ELLE
+"""been""","Vienna, Austria",QUEENIE_ELLE
+"""been""","Boston, MA, USA",QUEENIE_ELLE
+"""been""","Truckee, CA, USA",QUEENIE_ELLE
+"""been""","Tulare, CA, USA",QUEENIE_ELLE
+"""been""","Sioux City, IA, USA",QUEENIE_ELLE
+"""been""","Hialeah, FL, USA",QUEENIE_ELLE
+"""been""","Katy, TX, USA",QUEENIE_ELLE
+"""been""","Northbrook, IL, USA",QUEENIE_ELLE
+"""been""","Turlock, CA, USA",QUEENIE_ELLE
+"""been""","Tustin, CA, USA",QUEENIE_ELLE
+"""been""","Cincinnati, OH, USA",QUEENIE_ELLE
+"""been""","Ulm, Germany",QUEENIE_ELLE
+"""been""","San Diego, CA, USA",QUEENIE_ELLE
+"""been""","Stuttgart, Germany",QUEENIE_ELLE
+"""been""","Oak Brook, IL, USA",QUEENIE_ELLE
+"""been""","Berchtesgaden, Germany",QUEENIE_ELLE
+"""been""","Windsor, Ontario, Canada",QUEENIE_ELLE
+"""been""","Akron, OH, USA",QUEENIE_ELLE
+"""been""","Srinagar, India",QUEENIE_ELLE
+"""been""","King of Prussia, PA, USA",QUEENIE_ELLE
+"""been""","Bishop, CA, USA",QUEENIE_ELLE
+"""been""","Torrance, CA, USA",QUEENIE_ELLE
+"""been""","Tracy, CA, USA",QUEENIE_ELLE
+"""been""","Trinidad, CA, USA",QUEENIE_ELLE
+"""been""","Big Sur, CA, USA",QUEENIE_ELLE
+"""been""","Zephyr Cove, NV, USA",QUEENIE_ELLE
+"""been""","New York City, NY, USA",QUEENIE_ELLE
+"""been""","Mestre, Italy",QUEENIE_ELLE
+"""been""","Toronto, Ontario, Canada",QUEENIE_ELLE
+"""been""","Manchester, UK",QUEENIE_ELLE
+"""been""","Virginia City, NV, USA",QUEENIE_ELLE
+"""been""","Mexico City, Mexico",QUEENIE_ELLE
+"""been""","Montreal, Quebec, Canada",QUEENIE_ELLE
+"""been""","Quebec City, Quebec, Canada",QUEENIE_ELLE
+"""been""","Little Rock, AR, USA",QUEENIE_ELLE
+"""been""","El Paso, TX, USA",QUEENIE_ELLE
+"""been""","Ventura, CA, USA",QUEENIE_ELLE
+"""been""","Memphis, TN, USA",QUEENIE_ELLE
+"""been""","The Sea Ranch, CA, USA",QUEENIE_ELLE
+"""been""","Bodega Bay, CA, USA",QUEENIE_ELLE
+"""been""","Tiburon, CA, USA",QUEENIE_ELLE
+"""been""","Sandpoint, ID, USA",QUEENIE_ELLE
+"""been""","Tonopah, NV, USA",QUEENIE_ELLE
+"""been""","Stateline, NV, USA",QUEENIE_ELLE
+"""been""","Sparks, NV, USA",QUEENIE_ELLE
+"""been""","Bordeaux, France",QUEENIE_ELLE
+"""been""","Bayonne, France",QUEENIE_ELLE

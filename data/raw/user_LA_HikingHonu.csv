@@ -1,0 +1,505 @@
+tag,place,user
+"""been"",""fave""","Wanaka, New Zealand",HikingHonu
+"""want""","Lake Geneva, WI, USA",HikingHonu
+"""want""","Newcastle, Australia",HikingHonu
+"""want""","Rome, Italy",HikingHonu
+"""want""","Imerovigli, Greece",HikingHonu
+"""want""","Yokohama, Japan",HikingHonu
+"""been""","Kenmare, Ireland",HikingHonu
+"""been"",""fave""","Dingle, Ireland",HikingHonu
+"""want""","Park City, UT, USA",HikingHonu
+"""been""","Hyannis, MA, USA",HikingHonu
+"""want""","Liverpool, UK",HikingHonu
+"""been"",""fave""","London, UK",HikingHonu
+"""want""","Antwerp, Belgium",HikingHonu
+"""been""","Munich, Germany",HikingHonu
+"""want""","Salerno, Italy",HikingHonu
+"""want""","Windermere, UK",HikingHonu
+"""want""","Sorrento, Italy",HikingHonu
+"""want""","Rhodes Town, Greece",HikingHonu
+"""want""","Capri, Italy",HikingHonu
+"""want""","The Hague, The Netherlands",HikingHonu
+"""want""","Naples, Italy",HikingHonu
+"""want""","Mellieha, Malta",HikingHonu
+"""want""","Rotterdam, The Netherlands",HikingHonu
+"""want""","Niagara Falls, Ontario, Canada",HikingHonu
+"""want""","Faliraki, Greece",HikingHonu
+"""want""","Amalfi, Italy",HikingHonu
+"""want""","Trogir, Croatia",HikingHonu
+"""been""","Freeport, ME, USA",HikingHonu
+"""want""","Rovinj, Croatia",HikingHonu
+"""been""","Kinsale, Ireland",HikingHonu
+"""want""","Pisa, Italy",HikingHonu
+"""want""","Taormina, Italy",HikingHonu
+"""been""","Bozeman, MT, USA",HikingHonu
+"""want""","Florence, Italy",HikingHonu
+"""want""","Melbourne, Australia",HikingHonu
+"""want""","San Jose, Costa Rica",HikingHonu
+"""want""","Oxford, UK",HikingHonu
+"""want""","Rio de Janeiro, Brazil",HikingHonu
+"""want""","Zaragoza, Spain",HikingHonu
+"""want""","Sao Paulo, Brazil",HikingHonu
+"""been""","Ojai, CA, USA",HikingHonu
+"""want""","Torremolinos, Spain",HikingHonu
+"""want""","Granada, Spain",HikingHonu
+"""been""","Oceanside, CA, USA",HikingHonu
+"""want""","Seville, Spain",HikingHonu
+"""been""","Berlin, Germany",HikingHonu
+"""want""","Nottingham, UK",HikingHonu
+"""been""","Bremen, Germany",HikingHonu
+"""been""","Oakland, CA, USA",HikingHonu
+"""want""","Johannesburg, South Africa",HikingHonu
+"""been""","Jackson, WY, USA",HikingHonu
+"""want""","Belfast, UK",HikingHonu
+"""been"",""fave""","Ixtapa, Mexico",HikingHonu
+"""been""","Auckland, New Zealand",HikingHonu
+"""want""","Niagara Falls, NY, USA",HikingHonu
+"""want""","Malaga, Spain",HikingHonu
+"""want""","Marbella, Spain",HikingHonu
+"""want""","Hanoi, Vietnam",HikingHonu
+"""want""","Reykjavik, Iceland",HikingHonu
+"""want""","Bristol, UK",HikingHonu
+"""want""","Vatican City, Vatican City",HikingHonu
+"""want""","Norwich, UK",HikingHonu
+"""been""","Nuremberg, Germany",HikingHonu
+"""want""","Stockholm, Sweden",HikingHonu
+"""been"",""fave""","Brussels, Belgium",HikingHonu
+"""want""","Cambridge, UK",HikingHonu
+"""want""","Whistler, British Columbia, Canada",HikingHonu
+"""want""","Margaret River, Australia",HikingHonu
+"""been""","Sayulita, Mexico",HikingHonu
+"""been""","Marion, MA, USA",HikingHonu
+"""been""","Marshfield, MA, USA",HikingHonu
+"""been"",""fave""","Te Anau, New Zealand",HikingHonu
+"""want""","Vancouver, British Columbia, Canada",HikingHonu
+"""want""","Hvar, Croatia",HikingHonu
+"""want""","Vernon, British Columbia, Canada",HikingHonu
+"""want""","Victoria, British Columbia, Canada",HikingHonu
+"""want""","Playa d'en Bossa, Spain",HikingHonu
+"""want""","Cavtat, Croatia",HikingHonu
+"""want""","Tofino, British Columbia, Canada",HikingHonu
+"""want""","Costa Teguise, Spain",HikingHonu
+"""want""","Bol, Croatia",HikingHonu
+"""been""","Mattapoisett, MA, USA",HikingHonu
+"""want""","Kardamena, Greece",HikingHonu
+"""been""","Redding, CA, USA",HikingHonu
+"""want""","Kalamaki, Greece",HikingHonu
+"""been"",""fave""","Kaikoura, New Zealand",HikingHonu
+"""been""","Redondo Beach, CA, USA",HikingHonu
+"""want""","Glasgow, UK",HikingHonu
+"""been""","Provincetown, MA, USA",HikingHonu
+"""been""","Duxbury, MA, USA",HikingHonu
+"""been""","Turin, Italy",HikingHonu
+"""want""","Chuo, Japan",HikingHonu
+"""want""","Edinburgh, UK",HikingHonu
+"""been"",""want""","Upolu, Samoa",HikingHonu
+"""want""","Apia, Samoa",HikingHonu
+"""want""","Orange, CA, USA",HikingHonu
+"""been""","Ontario, CA, USA",HikingHonu
+"""want""","Buenos Aires, Argentina",HikingHonu
+"""been""","Mendocino, CA, USA",HikingHonu
+"""want""","Birmingham, UK",HikingHonu
+"""want""","Perth, Australia",HikingHonu
+"""want""","Broome, Australia",HikingHonu
+"""want""","Porec, Croatia",HikingHonu
+"""want""","Palermo, Italy",HikingHonu
+"""been"",""fave""","Auckland Central, New Zealand",HikingHonu
+"""been""","Zell am See, Austria",HikingHonu
+"""been""","Puerto Aventuras, Mexico",HikingHonu
+"""want""","Malia, Greece",HikingHonu
+"""want""","Catania, Italy",HikingHonu
+"""want""","Casablanca, Morocco",HikingHonu
+"""want""","Istanbul, Turkey",HikingHonu
+"""want""","Valencia, Spain",HikingHonu
+"""want""","Marrakech, Morocco",HikingHonu
+"""want""","Alghero, Italy",HikingHonu
+"""been""","Pasadena, CA, USA",HikingHonu
+"""been"",""fave""","Monterey, CA, USA",HikingHonu
+"""want""","Pamplona, Spain",HikingHonu
+"""want""","Cape Town Central, South Africa",HikingHonu
+"""been""","Rotorua, New Zealand",HikingHonu
+"""want""","Maspalomas, Spain",HikingHonu
+"""want""","Los Cristianos, Spain",HikingHonu
+"""been""","Wellington, New Zealand",HikingHonu
+"""want""","Karon, Thailand",HikingHonu
+"""want""","Taupo, New Zealand",HikingHonu
+"""been""","Christchurch, New Zealand",HikingHonu
+"""want""","Halifax, Nova Scotia, Canada",HikingHonu
+"""want""","Playas del Coco, Costa Rica",HikingHonu
+"""want""","Tokyo, Japan",HikingHonu
+"""want""","Madrid, Spain",HikingHonu
+"""want""","Helsinki, Finland",HikingHonu
+"""been""","Pacific Grove, CA, USA",HikingHonu
+"""want""","Adeje, Spain",HikingHonu
+"""been""","Puako, HI, USA",HikingHonu
+"""want""","Nerja, Spain",HikingHonu
+"""want""","Mont Tremblant, Quebec, Canada",HikingHonu
+"""want""","Cordoba, Argentina",HikingHonu
+"""want""","Dalyan, Turkey",HikingHonu
+"""been""","Palo Alto, CA, USA",HikingHonu
+"""been""","Venice, Italy",HikingHonu
+"""want""","Verona, Italy",HikingHonu
+"""been""","Palm Springs, CA, USA",HikingHonu
+"""been""","Palm Desert, CA, USA",HikingHonu
+"""want""","Winchester, UK",HikingHonu
+"""been"",""fave""","Queenstown, New Zealand",HikingHonu
+"""want""","Worcester, UK",HikingHonu
+"""been""","Acapulco, Mexico",HikingHonu
+"""want""","Peguera, Spain",HikingHonu
+"""want""","Kuala Lumpur, Malaysia",HikingHonu
+"""been""","Huatulco, Mexico",HikingHonu
+"""been"",""fave""","Killarney, Ireland",HikingHonu
+"""been""","Mystic, CT, USA",HikingHonu
+"""been"",""fave""","Tralee, Ireland",HikingHonu
+"""want""","Fukuoka, Japan",HikingHonu
+"""been""","Kilkenny, Ireland",HikingHonu
+"""want""","Alicante, Spain",HikingHonu
+"""want""","Cartagena, Colombia",HikingHonu
+"""been""","Punta de Mita, Mexico",HikingHonu
+"""want""","Kyoto, Japan",HikingHonu
+"""want""","Kobe, Japan",HikingHonu
+"""been""","Sacramento, CA, USA",HikingHonu
+"""want""","Nagasaki, Japan",HikingHonu
+"""want""","Monterosso al Mare, Italy",HikingHonu
+"""been""","Huntington Beach, CA, USA",HikingHonu
+"""want""","Osaka, Japan",HikingHonu
+"""been""","Edmonton, Alberta, Canada",HikingHonu
+"""been""","Guadalajara, Mexico",HikingHonu
+"""been"",""fave""","Banff, Alberta, Canada",HikingHonu
+"""want""","Sapporo, Japan",HikingHonu
+"""been"",""fave""","Calgary, Alberta, Canada",HikingHonu
+"""been""","Lake Louise, Alberta, Canada",HikingHonu
+"""been""","Galway, Ireland",HikingHonu
+"""been"",""fave""","Zihuatanejo, Mexico",HikingHonu
+"""been""","Puerto Vallarta, Mexico",HikingHonu
+"""been""","Mazatlan, Mexico",HikingHonu
+"""been""","Paso Robles, CA, USA",HikingHonu
+"""been"",""fave""","Dublin, Ireland",HikingHonu
+"""want""","Bogota, Colombia",HikingHonu
+"""been""","Morro Bay, CA, USA",HikingHonu
+"""been"",""fave""","Jasper, Alberta, Canada",HikingHonu
+"""been"",""fave""","Cork, Ireland",HikingHonu
+"""want""","Mykonos Town, Greece",HikingHonu
+"""been""","Laughlin, NV, USA",HikingHonu
+"""been""","Las Vegas, NV, USA",HikingHonu
+"""want""","Corfu Town, Greece",HikingHonu
+"""want""","Corralejo, Spain",HikingHonu
+"""been""","Los Angeles, CA, USA",HikingHonu
+"""been""","Chicago, IL, USA",HikingHonu
+"""been"",""fave""","Pismo Beach, CA, USA",HikingHonu
+"""been""","Irvine, CA, USA",HikingHonu
+"""been""","Milan, Italy",HikingHonu
+"""been""","Fresno, CA, USA",HikingHonu
+"""been""","San Jose del Cabo, Mexico",HikingHonu
+"""been""","Pontresina, Switzerland",HikingHonu
+"""been""","Henderson, NV, USA",HikingHonu
+"""been""","Cabo San Lucas, Mexico",HikingHonu
+"""been""","Fort Bragg, CA, USA",HikingHonu
+"""been""","Como, Italy",HikingHonu
+"""been""","Phoenix, AZ, USA",HikingHonu
+"""been""","Varenna, Italy",HikingHonu
+"""been""","Avalon, CA, USA",HikingHonu
+"""want""","Punta Cana, Dominican Republic",HikingHonu
+"""been""","Long Beach, CA, USA",HikingHonu
+"""been""","Limerick, Ireland",HikingHonu
+"""been""","Napa, CA, USA",HikingHonu
+"""been""","Playa Mujeres, Mexico",HikingHonu
+"""been""","Pittsburgh, PA, USA",HikingHonu
+"""want""","Savusavu, Fiji",HikingHonu
+"""been""","Kansas City, MO, USA",HikingHonu
+"""want""","Chiang Mai, Thailand",HikingHonu
+"""want""","Ayia Napa, Cyprus",HikingHonu
+"""want""","Pattaya, Thailand",HikingHonu
+"""been""","Malibu, CA, USA",HikingHonu
+"""want""","San Gimignano, Italy",HikingHonu
+"""want""","Siena, Italy",HikingHonu
+"""been""","Manhattan Beach, CA, USA",HikingHonu
+"""want""","Gros Islet, St. Lucia",HikingHonu
+"""want""","Siem Reap, Cambodia",HikingHonu
+"""want""","Moscow, Russia",HikingHonu
+"""been""","Saint Louis, MO, USA",HikingHonu
+"""want""","Hersonissos, Greece",HikingHonu
+"""want""","Belize City, Belize",HikingHonu
+"""want""","San Pedro, Belize",HikingHonu
+"""been""","Garden Grove, CA, USA",HikingHonu
+"""been""","Los Osos, CA, USA",HikingHonu
+"""been""","Newport Beach, CA, USA",HikingHonu
+"""want""","Mount Pleasant, SC, USA",HikingHonu
+"""been""","Aspen, CO, USA",HikingHonu
+"""been""","Detroit, MI, USA",HikingHonu
+"""been""","La Jolla, CA, USA",HikingHonu
+"""want""","Bologna, Italy",HikingHonu
+"""been"",""fave""","Portland, OR, USA",HikingHonu
+"""want""","Rimini, Italy",HikingHonu
+"""been""","Yountville, CA, USA",HikingHonu
+"""been""","Homer, AK, USA",HikingHonu
+"""want""","Essaouira, Morocco",HikingHonu
+"""been""","Telluride, CO, USA",HikingHonu
+"""been""","Tijuana, Mexico",HikingHonu
+"""been""","Playa Paraiso, Mexico",HikingHonu
+"""want""","Kefalos, Greece",HikingHonu
+"""been""","Rosarito, Mexico",HikingHonu
+"""been""","Reno, NV, USA",HikingHonu
+"""want""","Umag, Croatia",HikingHonu
+"""been""","Livigno, Italy",HikingHonu
+"""been""","Ensenada, Mexico",HikingHonu
+"""want""","Steamboat Springs, CO, USA",HikingHonu
+"""been""","Mariposa, CA, USA",HikingHonu
+"""been"",""fave""","Marina del Rey, CA, USA",HikingHonu
+"""been""","Sedona, AZ, USA",HikingHonu
+"""been""","Scottsdale, AZ, USA",HikingHonu
+"""want""","Manila, Philippines",HikingHonu
+"""want""","Nassau, Bahamas",HikingHonu
+"""been""","Kawaihae, HI, USA",HikingHonu
+"""been""","Big Bear Lake, CA, USA",HikingHonu
+"""been"",""fave""","Grindelwald, Switzerland",HikingHonu
+"""want""","Breckenridge, CO, USA",HikingHonu
+"""want""","Opatija, Croatia",HikingHonu
+"""been""","Encinitas, CA, USA",HikingHonu
+"""been""","South Lake Tahoe, CA, USA",HikingHonu
+"""want""","Portoroz, Slovenia",HikingHonu
+"""want""","Fortaleza, Brazil",HikingHonu
+"""been""","Boulder, CO, USA",HikingHonu
+"""been""","Garda, Italy",HikingHonu
+"""been""","Sintra, Portugal",HikingHonu
+"""been""","Groveland, CA, USA",HikingHonu
+"""want""","Playa de las Americas, Spain",HikingHonu
+"""been""","Tucson, AZ, USA",HikingHonu
+"""been""","San Francisco, CA, USA",HikingHonu
+"""been"",""fave""","Providence, RI, USA",HikingHonu
+"""been""","Laguna Beach, CA, USA",HikingHonu
+"""been""","Estes Park, CO, USA",HikingHonu
+"""been""","Brooklyn, NY, USA",HikingHonu
+"""been""","Lisbon, Portugal",HikingHonu
+"""want""","Vail, CO, USA",HikingHonu
+"""been""","Hawaii Volcanoes National Park, HI, USA",HikingHonu
+"""been""","Half Moon Bay, CA, USA",HikingHonu
+"""want""","Playa del Ingles, Spain",HikingHonu
+"""want""","Paphos, Cyprus",HikingHonu
+"""been""","Ouray, CO, USA",HikingHonu
+"""want""","Santa Ponsa, Spain",HikingHonu
+"""want""","Limassol City, Cyprus",HikingHonu
+"""been""","Coronado, CA, USA",HikingHonu
+"""been""","Cortina d'Ampezzo, Italy",HikingHonu
+"""been""","Positano, Italy",HikingHonu
+"""been""","Seaside, OR, USA",HikingHonu
+"""want""","Salt Lake City, UT, USA",HikingHonu
+"""been"",""fave""","Sonoma, CA, USA",HikingHonu
+"""want""","Novalja, Croatia",HikingHonu
+"""been""","Costa Mesa, CA, USA",HikingHonu
+"""want""","Calas de Majorca, Spain",HikingHonu
+"""want""","Austin, TX, USA",HikingHonu
+"""been""","Pagosa Springs, CO, USA",HikingHonu
+"""been""","Glacier National Park, MT, USA",HikingHonu
+"""been""","Solvang, CA, USA",HikingHonu
+"""been""","Paonia, CO, USA",HikingHonu
+"""want""","San Juan, Puerto Rico",HikingHonu
+"""been""","Lugano, Switzerland",HikingHonu
+"""want""","Chelmsford, UK",HikingHonu
+"""been"",""fave""","Zermatt, Switzerland",HikingHonu
+"""been""","Grand Junction, CO, USA",HikingHonu
+"""been""","Healdsburg, CA, USA",HikingHonu
+"""want""","Riccione, Italy",HikingHonu
+"""been"",""fave""","Porto, Portugal",HikingHonu
+"""want""","Baltimore, MD, USA",HikingHonu
+"""been""","St. Moritz, Switzerland",HikingHonu
+"""been""","Jacksonville, FL, USA",HikingHonu
+"""want""","Nadi, Fiji",HikingHonu
+"""want""","Sigatoka, Fiji",HikingHonu
+"""been""","Burbank, CA, USA",HikingHonu
+"""been""","Buena Park, CA, USA",HikingHonu
+"""been""","Eureka, CA, USA",HikingHonu
+"""want""","Sarajevo, Bosnia and Herzegovina",HikingHonu
+"""want""","Zagreb, Croatia",HikingHonu
+"""want""","Oia, Greece",HikingHonu
+"""want""","Fira, Greece",HikingHonu
+"""been""","Hood River, OR, USA",HikingHonu
+"""been""","Honolulu, HI, USA",HikingHonu
+"""been""","Gunnison, CO, USA",HikingHonu
+"""been""","Koloa, HI, USA",HikingHonu
+"""want""","Columbia, SC, USA",HikingHonu
+"""been""","Kilauea, HI, USA",HikingHonu
+"""been"",""fave""","Ka'anapali, HI, USA",HikingHonu
+"""been""","Lihue, HI, USA",HikingHonu
+"""been"",""want""","New Orleans, LA, USA",HikingHonu
+"""been""","Poipu, HI, USA",HikingHonu
+"""been"",""want"",""fave""","Boston, MA, USA",HikingHonu
+"""been"",""fave""","Kapaa, HI, USA",HikingHonu
+"""been""","Newport, RI, USA",HikingHonu
+"""been""","Bakersfield, CA, USA",HikingHonu
+"""been""","Dana Point, CA, USA",HikingHonu
+"""been""","Houston, TX, USA",HikingHonu
+"""been""","St. Helena, CA, USA",HikingHonu
+"""want""","Colorado Springs, CO, USA",HikingHonu
+"""been""","Newark, NJ, USA",HikingHonu
+"""want""","Manchester, UK",HikingHonu
+"""want""","Pula, Croatia",HikingHonu
+"""been""","Anaheim, CA, USA",HikingHonu
+"""been""","Sharm El Sheikh, Egypt",HikingHonu
+"""want""","Split, Croatia",HikingHonu
+"""want""","Dubrovnik, Croatia",HikingHonu
+"""been"",""fave""","Sagres, Portugal",HikingHonu
+"""been"",""fave""","Kailua-Kona, HI, USA",HikingHonu
+"""been""","Hana, HI, USA",HikingHonu
+"""been""","San Diego, CA, USA",HikingHonu
+"""been"",""fave""","Kihei, HI, USA",HikingHonu
+"""been""","Kahului, HI, USA",HikingHonu
+"""been""","Seward, AK, USA",HikingHonu
+"""been"",""fave""","Lahaina, HI, USA",HikingHonu
+"""been""","Kula, HI, USA",HikingHonu
+"""been""","Paia, HI, USA",HikingHonu
+"""been"",""fave""","Seattle, WA, USA",HikingHonu
+"""want""","Ottawa, Ontario, Canada",HikingHonu
+"""want""","Kyrenia, Cyprus",HikingHonu
+"""been""","Princeville, HI, USA",HikingHonu
+"""been"",""fave""","Cambria, CA, USA",HikingHonu
+"""been""","Haiku, HI, USA",HikingHonu
+"""want""","Williamsburg, VA, USA",HikingHonu
+"""been""","Calistoga, CA, USA",HikingHonu
+"""been"",""fave""","Albufeira, Portugal",HikingHonu
+"""been"",""fave""","Lagos, Portugal",HikingHonu
+"""been""","Faro, Portugal",HikingHonu
+"""been""","South San Francisco, CA, USA",HikingHonu
+"""want""","Antigua, Guatemala",HikingHonu
+"""been""","Lucerne, Switzerland",HikingHonu
+"""been""","San Jose, CA, USA",HikingHonu
+"""been"",""fave""","Oaxaca, Mexico",HikingHonu
+"""been""","Carmel, CA, USA",HikingHonu
+"""want""","Toronto, Ontario, Canada",HikingHonu
+"""been""","Carlsbad, CA, USA",HikingHonu
+"""want""","St. Petersburg, Russia",HikingHonu
+"""want""","San Antonio, TX, USA",HikingHonu
+"""want""","Villasimius, Italy",HikingHonu
+"""been""","Cancun, Mexico",HikingHonu
+"""been"",""fave""","Geneva, Switzerland",HikingHonu
+"""been""","Denver, CO, USA",HikingHonu
+"""been""","Veracruz, Mexico",HikingHonu
+"""been""","Puerto Morelos, Mexico",HikingHonu
+"""been""","San Luis Obispo, CA, USA",HikingHonu
+"""been"",""fave""","Big Sur, CA, USA",HikingHonu
+"""want""","Port Vila, Vanuatu",HikingHonu
+"""been"",""fave""","Chichen Itza, Mexico",HikingHonu
+"""been""","Kalispell, MT, USA",HikingHonu
+"""been""","Bern, Switzerland",HikingHonu
+"""been"",""fave""","Tulum, Mexico",HikingHonu
+"""been""","Playa del Carmen, Mexico",HikingHonu
+"""been""","West Hollywood, CA, USA",HikingHonu
+"""been""","Merida, Mexico",HikingHonu
+"""been""","Akumal, Mexico",HikingHonu
+"""been""","Coimbra, Portugal",HikingHonu
+"""been""","Flagstaff, AZ, USA",HikingHonu
+"""been"",""fave""","Hanalei, HI, USA",HikingHonu
+"""been""","Buffalo, NY, USA",HikingHonu
+"""want""","Oslo, Norway",HikingHonu
+"""been""","Kapalua, HI, USA",HikingHonu
+"""want""","Denarau Island, Fiji",HikingHonu
+"""been""","Volcano, HI, USA",HikingHonu
+"""want""","Quebec City, Quebec, Canada",HikingHonu
+"""want""","Montreal, Quebec, Canada",HikingHonu
+"""been"",""fave""","Waikoloa, HI, USA",HikingHonu
+"""been""","San Clemente, CA, USA",HikingHonu
+"""been""","Crested Butte, CO, USA",HikingHonu
+"""been"",""fave""","Basel, Switzerland",HikingHonu
+"""want""","Salzburg, Austria",HikingHonu
+"""been""","Puerto Escondido, Mexico",HikingHonu
+"""been""","Beverly Hills, CA, USA",HikingHonu
+"""been"",""fave""","Innsbruck, Austria",HikingHonu
+"""want""","Puerto Del Carmen, Spain",HikingHonu
+"""want""","Khao Lak, Thailand",HikingHonu
+"""been""","Temecula, CA, USA",HikingHonu
+"""been"",""fave""","Santa Barbara, CA, USA",HikingHonu
+"""been""","Santa Clara, CA, USA",HikingHonu
+"""been""","Zurich, Switzerland",HikingHonu
+"""been"",""fave""","Santa Cruz, CA, USA",HikingHonu
+"""want""","Playa de Palma, Spain",HikingHonu
+"""want""","Santa Eulalia del Rio, Spain",HikingHonu
+"""want""","Amsterdam, The Netherlands",HikingHonu
+"""been"",""fave""","Mammoth Lakes, CA, USA",HikingHonu
+"""want""","Chamonix, France",HikingHonu
+"""want""","North Vancouver, British Columbia, Canada",HikingHonu
+"""want""","Richmond, British Columbia, Canada",HikingHonu
+"""want""","Philadelphia, PA, USA",HikingHonu
+"""want""","Vienna, Austria",HikingHonu
+"""been"",""fave""","Berkeley, CA, USA",HikingHonu
+"""want""","Valladolid, Spain",HikingHonu
+"""been"",""fave""","Durango, CO, USA",HikingHonu
+"""want""","Barcelona, Spain",HikingHonu
+"""want""","Sydney, Australia",HikingHonu
+"""been""","San Simeon, CA, USA",HikingHonu
+"""want""","Katoomba, Australia",HikingHonu
+"""been"",""fave""","Lausanne, Switzerland",HikingHonu
+"""been""","Stuttgart, Germany",HikingHonu
+"""been""","Sausalito, CA, USA",HikingHonu
+"""been""","Algarve, Portugal",HikingHonu
+"""been"",""fave""","Anchorage, AK, USA",HikingHonu
+"""been""","Scituate, MA, USA",HikingHonu
+"""been"",""fave""","New York City, NY, USA",HikingHonu
+"""been"",""fave""","Haleiwa, HI, USA",HikingHonu
+"""been""","St. George, UT, USA",HikingHonu
+"""been""","Wailuku, HI, USA",HikingHonu
+"""want""","Kamari, Greece",HikingHonu
+"""been""","Portland, ME, USA",HikingHonu
+"""want""","El Calafate, Argentina",HikingHonu
+"""been""","Napili-Honokowai, HI, USA",HikingHonu
+"""been""","Freiburg im Breisgau, Germany",HikingHonu
+"""been"",""fave""","Cambridge, MA, USA",HikingHonu
+"""been""","Santa Monica, CA, USA",HikingHonu
+"""been""","Missoula, MT, USA",HikingHonu
+"""been""","Kailua, HI, USA",HikingHonu
+"""been""","Laie, HI, USA",HikingHonu
+"""been""","Ventura, CA, USA",HikingHonu
+"""been""","Santa Rosa, CA, USA",HikingHonu
+"""been""","Dresden, Germany",HikingHonu
+"""want""","Victoria Falls, Zimbabwe",HikingHonu
+"""been""","Hilo, HI, USA",HikingHonu
+"""want""","Bournemouth, UK",HikingHonu
+"""been"",""fave""","Waimea, HI, USA",HikingHonu
+"""been""","Newport, OR, USA",HikingHonu
+"""want""","Nairobi, Kenya",HikingHonu
+"""want""","Palma de Mallorca, Spain",HikingHonu
+"""been""","Ostend, Belgium",HikingHonu
+"""want""","Athens, Greece",HikingHonu
+"""been""","Wiesbaden, Germany",HikingHonu
+"""been""","Truckee, CA, USA",HikingHonu
+"""want""","Bath, UK",HikingHonu
+"""been""","Bruges, Belgium",HikingHonu
+"""want""","Washington DC, DC, USA",HikingHonu
+"""want""","Lima, Peru",HikingHonu
+"""want""","Cusco, Peru",HikingHonu
+"""want""","Riga, Latvia",HikingHonu
+"""want""","Lancaster, PA, USA",HikingHonu
+"""want""","Machu Picchu, Peru",HikingHonu
+"""been""","Bend, OR, USA",HikingHonu
+"""been""","Hamburg, Germany",HikingHonu
+"""want""","Uppsala, Sweden",HikingHonu
+"""want""","Sheffield, UK",HikingHonu
+"""want""","Bilbao, Spain",HikingHonu
+"""been""","Frankfurt, Germany",HikingHonu
+"""want""","Brisbane, Australia",HikingHonu
+"""want""","Cairns, Australia",HikingHonu
+"""been""","Cologne, Germany",HikingHonu
+"""been"",""fave""","Teton Village, WY, USA",HikingHonu
+"""want""","Segovia, Spain",HikingHonu
+"""want""","Lloret de Mar, Spain",HikingHonu
+"""want""","Dusseldorf, Germany",HikingHonu
+"""want""","Bergen, Norway",HikingHonu
+"""want""","Santiago, Chile",HikingHonu
+"""want""","Guatemala City, Guatemala",HikingHonu
+"""want""","Rethymnon, Greece",HikingHonu
+"""want""","Copenhagen, Denmark",HikingHonu
+"""been""","Billings, MT, USA",HikingHonu
+"""want""","Maastricht, The Netherlands",HikingHonu
+"""want""","Surfers Paradise, Australia",HikingHonu
+"""want""","Patong, Thailand",HikingHonu
+"""want""","Puerto de la Cruz, Spain",HikingHonu
+"""want""","Lindos, Greece",HikingHonu
+"""want""","Newcastle upon Tyne, UK",HikingHonu
+"""want""","Brighton, UK",HikingHonu
+"""been""","Wailea, HI, USA",HikingHonu
+"""want""","Stavanger, Norway",HikingHonu
+"""been"",""fave""","Prague, Czech Republic",HikingHonu
+"""want""","Puerto Iguazu, Argentina",HikingHonu
+"""want""","Soller, Spain",HikingHonu
+"""want""","Gothenburg, Sweden",HikingHonu
+"""been""","Eugene, OR, USA",HikingHonu
+"""want""","Chania Town, Greece",HikingHonu

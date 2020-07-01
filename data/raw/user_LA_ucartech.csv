@@ -1,0 +1,454 @@
+tag,place,user
+"""been""","Opfikon, Switzerland",ucartech
+"""been""","Jimbaran, Indonesia",ucartech
+"""been""","Kuta, Indonesia",ucartech
+"""been""","Yoyogi, Japan",ucartech
+"""been""","Castelluccio di Norcia, Italy",ucartech
+"""been""","Nusa Dua, Indonesia",ucartech
+"""been""","Washington DC, DC, USA",ucartech
+"""want""","Yangon (Rangoon), Myanmar",ucartech
+"""been""","Mont-Saint-Michel, France",ucartech
+"""been""","Ungasan, Indonesia",ucartech
+"""been""","Xi'an, China",ucartech
+"""want""","Dublin, Ireland",ucartech
+"""been""","Cesky Krumlov, Czech Republic",ucartech
+"""been""","Guangzhou, China",ucartech
+"""been""","Muscat, Oman",ucartech
+"""been""","Seoul, South Korea",ucartech
+"""been""","Les Escoumins, Quebec, Canada",ucartech
+"""been""","Chengdu, China",ucartech
+"""been""","Cholet, France",ucartech
+"""been""","Philadelphia, PA, USA",ucartech
+"""been""","Grindavik, Iceland",ucartech
+"""been""","Hvolsvollur, Iceland",ucartech
+"""been""","Nagiso-machi, Japan",ucartech
+"""been""","Surrey, British Columbia, Canada",ucartech
+"""been""","Scarborough, ME, USA",ucartech
+"""been"",""want""","Dubrovnik, Croatia",ucartech
+"""been"",""want""","Split, Croatia",ucartech
+"""been""","Sharm El Sheikh, Egypt",ucartech
+"""been""","Kaysersberg, France",ucartech
+"""been""","Macau, China",ucartech
+"""been""","Amesbury, UK",ucartech
+"""been""","Stonehaven, UK",ucartech
+"""been""","Indianapolis, IN, USA",ucartech
+"""been""","Borgarnes, Iceland",ucartech
+"""want""","San Carlos de Bariloche, Argentina",ucartech
+"""been""","Lukavica, Bosnia and Herzegovina",ucartech
+"""been""","Como, Italy",ucartech
+"""want""","Bodrum City, Turkey",ucartech
+"""been""","Belek, Turkey",ucartech
+"""want""","Atlanta, GA, USA",ucartech
+"""been""","Plattsburgh, NY, USA",ucartech
+"""been""","Richmond, VA, USA",ucartech
+"""been""","Central Valley, NY, USA",ucartech
+"""been""","Cambridge, MA, USA",ucartech
+"""been"",""want""","St. Petersburg, Russia",ucartech
+"""been""","Fiumicino, Italy",ucartech
+"""been""","Milan, Italy",ucartech
+"""been""","Shenzhen, China",ucartech
+"""been""","Santa Barbara, CA, USA",ucartech
+"""been""","Shirakawa-mura, Japan",ucartech
+"""been""","Krakow, Poland",ucartech
+"""been""","Singapore, Singapore",ucartech
+"""want""","Memphis, TN, USA",ucartech
+"""been""","Chuncheon, South Korea",ucartech
+"""been""","Denver, CO, USA",ucartech
+"""been"",""want""","Edinburgh, UK",ucartech
+"""been""","Kientzheim, France",ucartech
+"""been"",""want""","Budapest, Hungary",ucartech
+"""been""","Bolzano, Italy",ucartech
+"""been""","Dahab, Egypt",ucartech
+"""been""","Sanya, China",ucartech
+"""want""","Durango, CO, USA",ucartech
+"""been""","Pushkin, Russia",ucartech
+"""want""","Buenos Aires, Argentina",ucartech
+"""been""","Seattle, WA, USA",ucartech
+"""been""","Playa del Carmen, Mexico",ucartech
+"""been""","Williamsburg, VA, USA",ucartech
+"""been""","Merida, Mexico",ucartech
+"""been""","Cincinnati, OH, USA",ucartech
+"""been""","San Diego, CA, USA",ucartech
+"""been""","St. Andrews, UK",ucartech
+"""been""","Glasgow, UK",ucartech
+"""been""","Saint Sauveur des Monts, Quebec, Canada",ucartech
+"""been""","Olafsfjordur, Iceland",ucartech
+"""want""","Doha, Qatar",ucartech
+"""been""","West Yellowstone, MT, USA",ucartech
+"""been"",""want""","Santiago de Compostela, Spain",ucartech
+"""been""","Portland, ME, USA",ucartech
+"""been""","Hvar, Croatia",ucartech
+"""been""","Chichen Itza, Mexico",ucartech
+"""been""","Cancun, Mexico",ucartech
+"""been""","Leavenworth, WA, USA",ucartech
+"""been""","Williston, VT, USA",ucartech
+"""been""","New York City, NY, USA",ucartech
+"""been""","Funes, Italy",ucartech
+"""want""","Anchorage, AK, USA",ucartech
+"""been""","Klamath Falls, OR, USA",ucartech
+"""been""","Quebec City, Quebec, Canada",ucartech
+"""been""","Montreal, Quebec, Canada",ucartech
+"""been"",""want""","Helsinki, Finland",ucartech
+"""been""","Madrid, Spain",ucartech
+"""been""","Mont Tremblant, Quebec, Canada",ucartech
+"""been""","Incheon, South Korea",ucartech
+"""been""","Venice, Italy",ucartech
+"""been""","Tulum, Mexico",ucartech
+"""been""","Santa Monica, CA, USA",ucartech
+"""want""","Abu Dhabi, United Arab Emirates",ucartech
+"""been""","Lopez Island, WA, USA",ucartech
+"""been""","St. Wolfgang, Austria",ucartech
+"""been""","Hahn, Germany",ucartech
+"""been""","Probolinggo, Indonesia",ucartech
+"""been""","Shanghai, China",ucartech
+"""been""","Bern, Switzerland",ucartech
+"""been"",""want""","Ho Chi Minh City, Vietnam",ucartech
+"""want""","Hue, Vietnam",ucartech
+"""been"",""want""","Hanoi, Vietnam",ucartech
+"""been""","Cuenca, Spain",ucartech
+"""been""","Gotemba, Japan",ucartech
+"""want""","Charlotte, NC, USA",ucartech
+"""been""","Zedelgem, Belgium",ucartech
+"""want""","Cape Town Central, South Africa",ucartech
+"""been""","Castine, ME, USA",ucartech
+"""been""","Plitvice Lakes National Park, Croatia",ucartech
+"""been""","Geneva, Switzerland",ucartech
+"""been""","Munster, Switzerland",ucartech
+"""want""","Hakodate, Japan",ucartech
+"""want""","Dallas, TX, USA",ucartech
+"""been""","Lucerne, Switzerland",ucartech
+"""want""","Paphos, Cyprus",ucartech
+"""been""","Phnom Penh, Cambodia",ucartech
+"""want""","Auckland, New Zealand",ucartech
+"""been""","Johor Bahru, Malaysia",ucartech
+"""want""","Marmaris, Turkey",ucartech
+"""been""","Lisbon, Portugal",ucartech
+"""been""","Taull, Spain",ucartech
+"""been""","Burnaby, British Columbia, Canada",ucartech
+"""been""","Oklahoma City, OK, USA",ucartech
+"""been""","Siem Reap, Cambodia",ucartech
+"""been""","Palmela, Portugal",ucartech
+"""been""","Palm Springs, CA, USA",ucartech
+"""been""","Drumnadrochit, UK",ucartech
+"""been""","Reggello, Italy",ucartech
+"""been""","Farley, UK",ucartech
+"""want""","Funchal, Portugal",ucartech
+"""been""","Peterhof, Russia",ucartech
+"""been""","Izmir, Turkey",ucartech
+"""want""","Moscow, Russia",ucartech
+"""been""","Victoria, British Columbia, Canada",ucartech
+"""want""","Whistler, British Columbia, Canada",ucartech
+"""been""","Nasu-machi, Japan",ucartech
+"""been""","Vancouver, British Columbia, Canada",ucartech
+"""want""","Mykonos Town, Greece",ucartech
+"""been""","Louvain-la-Neuve, Belgium",ucartech
+"""been""","Taipei, Taiwan",ucartech
+"""been""","Pattaya, Thailand",ucartech
+"""been""","Bangkok, Thailand",ucartech
+"""been""","Chiang Mai, Thailand",ucartech
+"""been""","Mt. Cook Village, New Zealand",ucartech
+"""been""","Calgary, Alberta, Canada",ucartech
+"""been""","St. Moritz, Switzerland",ucartech
+"""been""","Lake Louise, Alberta, Canada",ucartech
+"""been""","Garda, Italy",ucartech
+"""been""","Edmonton, Alberta, Canada",ucartech
+"""been"",""want""","Porto, Portugal",ucartech
+"""been""","Lugano, Switzerland",ucartech
+"""been""","Banff, Alberta, Canada",ucartech
+"""been""","Guadalajara, Mexico",ucartech
+"""want""","Puerto Vallarta, Mexico",ucartech
+"""been""","Jackson, WY, USA",ucartech
+"""been""","Nagoya, Japan",ucartech
+"""want""","Rio de Janeiro, Brazil",ucartech
+"""been"",""want""","Zermatt, Switzerland",ucartech
+"""been""","Mas, Indonesia",ucartech
+"""want""","Park City, UT, USA",ucartech
+"""been""","Newington, NH, USA",ucartech
+"""been""","Tateyama-machi, Japan",ucartech
+"""been""","Grobming, Austria",ucartech
+"""been""","Columbus, OH, USA",ucartech
+"""been""","Lech, Austria",ucartech
+"""been""","Shinagawa, Japan",ucartech
+"""been""","Sellano, Italy",ucartech
+"""want""","Sao Paulo, Brazil",ucartech
+"""been""","Cartajima, Spain",ucartech
+"""been""","Matsumoto, Japan",ucartech
+"""been""","Takayama, Japan",ucartech
+"""been""","Kanazawa, Japan",ucartech
+"""been""","Varadero, Cuba",ucartech
+"""been""","Thingvellir, Iceland",ucartech
+"""been""","Les Epesses, France",ucartech
+"""been""","Atlantic City, NJ, USA",ucartech
+"""been""","Latham, NY, USA",ucartech
+"""been""","Unterseen, Switzerland",ucartech
+"""been""","Siena, Italy",ucartech
+"""been""","Kyoto, Japan",ucartech
+"""been""","Cartagena, Colombia",ucartech
+"""been""","Nagano, Japan",ucartech
+"""been""","Osaka, Japan",ucartech
+"""been""","Numazu, Japan",ucartech
+"""want""","Sapporo, Japan",ucartech
+"""been""","Hiroshima, Japan",ucartech
+"""been""","Kobe, Japan",ucartech
+"""been""","Niagara Falls, NY, USA",ucartech
+"""been""","Kuala Lumpur, Malaysia",ucartech
+"""been""","South Lake Tahoe, CA, USA",ucartech
+"""been""","Assisi, Italy",ucartech
+"""been""","Cleveland, OH, USA",ucartech
+"""been""","Riquewihr, France",ucartech
+"""been""","Tewksbury, MA, USA",ucartech
+"""been""","Serravalle Scrivia, Italy",ucartech
+"""been""","Ueno, Japan",ucartech
+"""been""","Arlington, VA, USA",ucartech
+"""been""","Veytaux, Switzerland",ucartech
+"""been""","Norwalk, CT, USA",ucartech
+"""been""","Flam, Norway",ucartech
+"""been""","Lijiang, China",ucartech
+"""been""","Monte-Carlo, Monaco",ucartech
+"""been""","Vagamo, Norway",ucartech
+"""been"",""want""","Copenhagen, Denmark",ucartech
+"""been""","Helsingoer, Denmark",ucartech
+"""been""","Hida, Japan",ucartech
+"""been""","Toledo, Spain",ucartech
+"""been""","Gardermoen, Norway",ucartech
+"""been""","Los Angeles, CA, USA",ucartech
+"""been""","Cologne, Germany",ucartech
+"""been""","Irvine, CA, USA",ucartech
+"""been""","Bibury, UK",ucartech
+"""been""","Bonn, Germany",ucartech
+"""want""","Alicante, Spain",ucartech
+"""been""","Aspen, CO, USA",ucartech
+"""been""","Chicago, IL, USA",ucartech
+"""been""","Phuket Town, Thailand",ucartech
+"""been""","Las Vegas, NV, USA",ucartech
+"""been""","Bourton-on-the-Water, UK",ucartech
+"""been""","Dusseldorf, Germany",ucartech
+"""want""","Salamanca, Spain",ucartech
+"""been""","Kaatsheuvel, The Netherlands",ucartech
+"""been""","Barcelona, Spain",ucartech
+"""been""","Richmond, British Columbia, Canada",ucartech
+"""been""","Arlington Heights, IL, USA",ucartech
+"""been""","Friedrichshafen, Germany",ucartech
+"""been""","Amsterdam, The Netherlands",ucartech
+"""want""","Sedona, AZ, USA",ucartech
+"""been""","Anacortes, WA, USA",ucartech
+"""been""","San Juan Teotihuacan, Mexico",ucartech
+"""want""","Hoi An, Vietnam",ucartech
+"""want""","Foz do Iguacu, Brazil",ucartech
+"""been""","Abbots Bromley, UK",ucartech
+"""been"",""want""","Zurich, Switzerland",ucartech
+"""been""","Paris, France",ucartech
+"""been""","Portland, OR, USA",ucartech
+"""been""","Elk Grove Village, IL, USA",ucartech
+"""been""","Canmore, Alberta, Canada",ucartech
+"""been""","Noventa di Piave, Italy",ucartech
+"""been""","Reno, NV, USA",ucartech
+"""been""","Innsbruck, Austria",ucartech
+"""been""","Salzburg, Austria",ucartech
+"""been""","Kansas City, MO, USA",ucartech
+"""been""","Selva di Val Gardena, Italy",ucartech
+"""been""","Minneapolis, MN, USA",ucartech
+"""been""","Geiranger, Norway",ucartech
+"""been""","Santa Maddalena, Italy",ucartech
+"""been""","Dresden, Germany",ucartech
+"""been""","Rapid City, SD, USA",ucartech
+"""been""","Jokulsarlon, Iceland",ucartech
+"""been""","Nikko, Japan",ucartech
+"""been""","Tokyo, Japan",ucartech
+"""been""","Niagara-on-the-Lake, Ontario, Canada",ucartech
+"""been""","Nanto, Japan",ucartech
+"""been""","Niagara Falls, Ontario, Canada",ucartech
+"""been""","Vienna, Austria",ucartech
+"""been""","Pittsburgh, PA, USA",ucartech
+"""been""","Framingham, MA, USA",ucartech
+"""want""","Marrakech, Morocco",ucartech
+"""been""","Selcuk, Turkey",ucartech
+"""been""","Natick, MA, USA",ucartech
+"""been""","Istanbul, Turkey",ucartech
+"""been""","Spoleto, Italy",ucartech
+"""been""","Hellnar, Iceland",ucartech
+"""been""","Beja, Portugal",ucartech
+"""been""","Heidelberg, Germany",ucartech
+"""been""","Melbourne, Australia",ucartech
+"""been""","Lourdes, France",ucartech
+"""been""","Stuttgart, Germany",ucartech
+"""been""","Auckland Central, New Zealand",ucartech
+"""been""","Himeji, Japan",ucartech
+"""been""","Genting Highlands, Malaysia",ucartech
+"""been""","Monterey, CA, USA",ucartech
+"""been""","Shibuya, Japan",ucartech
+"""been""","Riverside, CA, USA",ucartech
+"""been""","Shinjuku, Japan",ucartech
+"""want""","Jerusalem, Israel",ucartech
+"""been""","Taito, Japan",ucartech
+"""been""","Montevarchi, Italy",ucartech
+"""been""","Bad Reichenhall, Germany",ucartech
+"""been""","Watford, UK",ucartech
+"""been""","Berchtesgaden, Germany",ucartech
+"""been""","Napa, CA, USA",ucartech
+"""been""","Alexandria, VA, USA",ucartech
+"""been""","Urayasu, Japan",ucartech
+"""been""","Bodo, Norway",ucartech
+"""want""","Phoenix, AZ, USA",ucartech
+"""been""","Montepulciano, Italy",ucartech
+"""been""","Christchurch, New Zealand",ucartech
+"""been""","Melaka, Malaysia",ucartech
+"""been""","Minato, Japan",ucartech
+"""been""","Manchester, UK",ucartech
+"""been""","Jungfraujoch, Switzerland",ucartech
+"""been""","Hakone-machi, Japan",ucartech
+"""been""","Livermore, CA, USA",ucartech
+"""been""","Yokohama, Japan",ucartech
+"""been""","Dublin, OH, USA",ucartech
+"""been""","Queenstown, New Zealand",ucartech
+"""been""","Rowland Heights, CA, USA",ucartech
+"""been""","Colmar, France",ucartech
+"""been""","Sovicille, Italy",ucartech
+"""been""","Ortisei, Italy",ucartech
+"""been"",""want""","Oslo, Norway",ucartech
+"""been""","Leccio, Italy",ucartech
+"""been""","Strasbourg, France",ucartech
+"""been""","Revelstoke, British Columbia, Canada",ucartech
+"""been""","Sidney, British Columbia, Canada",ucartech
+"""been""","Buffalo, NY, USA",ucartech
+"""been""","Plantation, FL, USA",ucartech
+"""been""","Ottawa, Ontario, Canada",ucartech
+"""been""","Anaheim, CA, USA",ucartech
+"""been""","Reine, Norway",ucartech
+"""been""","Depok, Indonesia",ucartech
+"""been""","Jakarta, Indonesia",ucartech
+"""want""","Valencia, Spain",ucartech
+"""been""","Tanjung Benoa, Indonesia",ucartech
+"""been""","Colorado Springs, CO, USA",ucartech
+"""been""","Kusadasi, Turkey",ucartech
+"""been""","Purwokerto, Indonesia",ucartech
+"""been""","Borobudur, Indonesia",ucartech
+"""been""","Miami Beach, FL, USA",ucartech
+"""been""","Miami, FL, USA",ucartech
+"""been""","Boston, MA, USA",ucartech
+"""been""","Houston, TX, USA",ucartech
+"""been""","Toronto, Ontario, Canada",ucartech
+"""been""","Mexico City, Mexico",ucartech
+"""been""","New Orleans, LA, USA",ucartech
+"""want""","Asheville, NC, USA",ucartech
+"""been""","Cabazon, CA, USA",ucartech
+"""been""","Honolulu, HI, USA",ucartech
+"""been""","Sandusky, OH, USA",ucartech
+"""been""","Pitlochry, UK",ucartech
+"""been""","Urgup, Turkey",ucartech
+"""been""","Akureyri, Iceland",ucartech
+"""been""","Pisa, Italy",ucartech
+"""been""","Gdansk, Poland",ucartech
+"""been""","Nevsehir, Turkey",ucartech
+"""been""","Uchisar, Turkey",ucartech
+"""been""","Avanos, Turkey",ucartech
+"""been""","Stanstead, Quebec, Canada",ucartech
+"""been"",""want""","Goreme, Turkey",ucartech
+"""been""","Seefeld in Tirol, Austria",ucartech
+"""been""","Tukwila, WA, USA",ucartech
+"""been""","Florence, Italy",ucartech
+"""been""","San Antonio, TX, USA",ucartech
+"""been""","San Francisco, CA, USA",ucartech
+"""been""","Fort Lauderdale, FL, USA",ucartech
+"""been""","Surabaya, Indonesia",ucartech
+"""been""","Liverpool, UK",ucartech
+"""been""","Cairo, Egypt",ucartech
+"""been""","London, UK",ucartech
+"""want""","Antwerp, Belgium",ucartech
+"""been""","Kalispell, MT, USA",ucartech
+"""been""","Malang, Indonesia",ucartech
+"""been""","Luxor, Egypt",ucartech
+"""been""","Semarang, Indonesia",ucartech
+"""been""","Munich, Germany",ucartech
+"""been""","Amalfi, Italy",ucartech
+"""been""","Hofn, Iceland",ucartech
+"""been"",""want""","Ljubljana, Slovenia",ucartech
+"""been""","Kranjska Gora, Slovenia",ucartech
+"""been""","Kissimmee, FL, USA",ucartech
+"""been""","Keflavik, Iceland",ucartech
+"""been"",""want""","Capri, Italy",ucartech
+"""been""","Pompeii, Italy",ucartech
+"""been""","Santa Fe, NM, USA",ucartech
+"""been""","Sutton, Quebec, Canada",ucartech
+"""been""","Naples, Italy",ucartech
+"""want""","Moab, UT, USA",ucartech
+"""been""","Vik, Iceland",ucartech
+"""been""","Side, Turkey",ucartech
+"""been""","Dubai, United Arab Emirates",ucartech
+"""want""","Malaga, Spain",ucartech
+"""been""","Beijing, China",ucartech
+"""been""","Fussen, Germany",ucartech
+"""been""","Rothenburg, Germany",ucartech
+"""been""","Bled, Slovenia",ucartech
+"""been""","Hong Kong, China",ucartech
+"""been""","Reykjavik, Iceland",ucartech
+"""been""","Rome, Italy",ucartech
+"""want""","Cordoba, Spain",ucartech
+"""been""","Marne-la-Vallee, France",ucartech
+"""been""","Vatican City, Vatican City",ucartech
+"""been"",""want""","Antalya, Turkey",ucartech
+"""been""","Seydisfjordur, Iceland",ucartech
+"""been""","Brussels, Belgium",ucartech
+"""been"",""want""","Stockholm, Sweden",ucartech
+"""been""","Albuquerque, NM, USA",ucartech
+"""been""","Baltimore, MD, USA",ucartech
+"""want""","Nashville, TN, USA",ucartech
+"""want""","Vail, CO, USA",ucartech
+"""been""","Tosari, Indonesia",ucartech
+"""been""","Patong, Thailand",ucartech
+"""want""","Santiago, Chile",ucartech
+"""been"",""want""","Granada, Spain",ucartech
+"""been""","Seville, Spain",ucartech
+"""been""","Banyuwangi, Indonesia",ucartech
+"""been""","Les Herbiers, France",ucartech
+"""been""","Berlin, Germany",ucartech
+"""been""","Nozawaonsen-mura, Japan",ucartech
+"""been""","Brisbane, Australia",ucartech
+"""been""","Orlando, FL, USA",ucartech
+"""been""","La Jolla, CA, USA",ucartech
+"""been""","Legian, Indonesia",ucartech
+"""been""","Kerobokan, Indonesia",ucartech
+"""been""","Nakatsugawa, Japan",ucartech
+"""been""","Metzingen, Germany",ucartech
+"""been""","Frankfurt, Germany",ucartech
+"""want""","Cusco, Peru",ucartech
+"""want""","San Sebastian - Donostia, Spain",ucartech
+"""been""","Bandung, Indonesia",ucartech
+"""been""","Detroit, MI, USA",ucartech
+"""been""","Sanur, Indonesia",ucartech
+"""been""","Ubud, Indonesia",ucartech
+"""want""","Lima, Peru",ucartech
+"""been""","Sydney, Australia",ucartech
+"""been""","Oxford, UK",ucartech
+"""been""","Hamburg, Germany",ucartech
+"""been""","Bar Harbor, ME, USA",ucartech
+"""want""","St Ives, UK",ucartech
+"""been""","Wanaka, New Zealand",ucartech
+"""been""","Brooklyn, NY, USA",ucartech
+"""been""","Aberdeen, UK",ucartech
+"""want""","Ghent, Belgium",ucartech
+"""been""","Batu Ferringhi, Malaysia",ucartech
+"""been""","Seminyak, Indonesia",ucartech
+"""been""","Rust, Germany",ucartech
+"""been""","Bicester, UK",ucartech
+"""been""","Fairfield, CA, USA",ucartech
+"""been""","Bath, UK",ucartech
+"""been""","Prague, Czech Republic",ucartech
+"""been"",""want""","Bergen, Norway",ucartech
+"""been""","Alesund, Norway",ucartech
+"""been""","Bruges, Belgium",ucartech
+"""been""","Anacapri, Italy",ucartech
+"""been""","Surfers Paradise, Australia",ucartech
+"""want""","Austin, TX, USA",ucartech
+"""want""","Palma de Mallorca, Spain",ucartech
+"""been""","Athens, Greece",ucartech
+"""been""","Leknes, Norway",ucartech
+"""been""","Salt Lake City, UT, USA",ucartech
+"""been""","St-Laurent du Var, France",ucartech
+"""been""","Tuban, Indonesia",ucartech
+"""been""","Jamaica, NY, USA",ucartech
+"""want""","Hua Hin, Thailand",ucartech
+"""been""","Grundarfjorour, Iceland",ucartech
+"""been""","Gothenburg, Sweden",ucartech
+"""been""","Nice, France",ucartech
+"""been""","Flushing, NY, USA",ucartech

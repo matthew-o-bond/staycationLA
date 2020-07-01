@@ -1,0 +1,509 @@
+tag,place,user
+"""been""","Madison, WI, USA",sherryelmo
+"""been""","Mascot, Australia",sherryelmo
+"""been""","South San Francisco, CA, USA",sherryelmo
+"""been""","Hibbing, MN, USA",sherryelmo
+"""been""","Englewood, FL, USA",sherryelmo
+"""been""","Des Moines, IA, USA",sherryelmo
+"""been""","Newport, RI, USA",sherryelmo
+"""been""","Olympia, WA, USA",sherryelmo
+"""been""","Plantation, FL, USA",sherryelmo
+"""been""","Burlington, VT, USA",sherryelmo
+"""been""","Bullhead City, AZ, USA",sherryelmo
+"""been""","Tacoma, WA, USA",sherryelmo
+"""been""","Casa Grande, AZ, USA",sherryelmo
+"""been""","Carefree, AZ, USA",sherryelmo
+"""been""","Grand Forks, ND, USA",sherryelmo
+"""want""","Munich, Germany",sherryelmo
+"""been""","Medora, ND, USA",sherryelmo
+"""been""","Edina, MN, USA",sherryelmo
+"""been""","Lutsen, MN, USA",sherryelmo
+"""been""","London, UK",sherryelmo
+"""been""","Elk River, MN, USA",sherryelmo
+"""been""","Flagstaff, AZ, USA",sherryelmo
+"""been""","The Hague, The Netherlands",sherryelmo
+"""been""","Rotterdam, The Netherlands",sherryelmo
+"""been""","Sitka, AK, USA",sherryelmo
+"""been""","Kansas City, KS, USA",sherryelmo
+"""been""","Aberdeen, SD, USA",sherryelmo
+"""been""","Jupiter, FL, USA",sherryelmo
+"""been""","Culver City, CA, USA",sherryelmo
+"""been""","Hudson, WI, USA",sherryelmo
+"""been""","Pompano Beach, FL, USA",sherryelmo
+"""been""","Manchester, VT, USA",sherryelmo
+"""been""","Colorado Springs, CO, USA",sherryelmo
+"""been""","Everglades City, FL, USA",sherryelmo
+"""been""","Bismarck, ND, USA",sherryelmo
+"""been""","Chandler, AZ, USA",sherryelmo
+"""want""","Niagara Falls, Ontario, Canada",sherryelmo
+"""been""","Hinckley, MN, USA",sherryelmo
+"""been""","Mankato, MN, USA",sherryelmo
+"""been""","Ely, MN, USA",sherryelmo
+"""been""","Bayfield, WI, USA",sherryelmo
+"""been""","Gatlinburg, TN, USA",sherryelmo
+"""been""","Maple Grove, MN, USA",sherryelmo
+"""want""","Florence, Italy",sherryelmo
+"""been""","Spokane, WA, USA",sherryelmo
+"""been""","Grand Marais, MN, USA",sherryelmo
+"""been""","San Francisco, CA, USA",sherryelmo
+"""been""","Page, AZ, USA",sherryelmo
+"""been""","Buena Park, CA, USA",sherryelmo
+"""been""","Panama City Beach, FL, USA",sherryelmo
+"""been""","Burbank, CA, USA",sherryelmo
+"""been""","Panama City, FL, USA",sherryelmo
+"""been""","Ketchikan, AK, USA",sherryelmo
+"""been""","Valdez, AK, USA",sherryelmo
+"""been""","Healdsburg, CA, USA",sherryelmo
+"""been""","Eau Claire, WI, USA",sherryelmo
+"""been""","Eureka, CA, USA",sherryelmo
+"""been""","Killington, VT, USA",sherryelmo
+"""been""","Duluth, MN, USA",sherryelmo
+"""been""","Mesa, AZ, USA",sherryelmo
+"""been""","Hallock, MN, USA",sherryelmo
+"""been""","Detroit Lakes, MN, USA",sherryelmo
+"""been""","Nisswa, MN, USA",sherryelmo
+"""been""","Saint Croix Falls, WI, USA",sherryelmo
+"""been""","San Jose, Costa Rica",sherryelmo
+"""been""","Tucson, AZ, USA",sherryelmo
+"""been""","Saint Cloud, MN, USA",sherryelmo
+"""want""","Berlin, Germany",sherryelmo
+"""been""","Brooklyn, NY, USA",sherryelmo
+"""been""","Fairbanks, AK, USA",sherryelmo
+"""been""","Lubbock, TX, USA",sherryelmo
+"""been""","Stowe, VT, USA",sherryelmo
+"""been""","Rockford, IL, USA",sherryelmo
+"""been""","Crescent City, CA, USA",sherryelmo
+"""been""","Tampa, FL, USA",sherryelmo
+"""been""","Sonoma, CA, USA",sherryelmo
+"""been""","Miami Beach, FL, USA",sherryelmo
+"""been""","Providence, RI, USA",sherryelmo
+"""been""","Miami, FL, USA",sherryelmo
+"""been""","Austin, TX, USA",sherryelmo
+"""been""","Melbourne, FL, USA",sherryelmo
+"""been""","Wasilla, AK, USA",sherryelmo
+"""been""","Coronado, CA, USA",sherryelmo
+"""been""","Pensacola, FL, USA",sherryelmo
+"""been""","Bar Harbor, ME, USA",sherryelmo
+"""been""","Hayward, WI, USA",sherryelmo
+"""been""","Eden Prairie, MN, USA",sherryelmo
+"""been""","Anaheim, CA, USA",sherryelmo
+"""been""","Eagan, MN, USA",sherryelmo
+"""been""","Vancouver, WA, USA",sherryelmo
+"""been""","East Grand Forks, MN, USA",sherryelmo
+"""been""","Hastings, MN, USA",sherryelmo
+"""want""","Brussels, Belgium",sherryelmo
+"""been""","San Simeon, CA, USA",sherryelmo
+"""been""","Schaumburg, IL, USA",sherryelmo
+"""been""","Bath, UK",sherryelmo
+"""been""","Tahoe Vista, CA, USA",sherryelmo
+"""been""","San Rafael, CA, USA",sherryelmo
+"""been""","Willits, CA, USA",sherryelmo
+"""been""","Gainesville, FL, USA",sherryelmo
+"""been""","Naperville, IL, USA",sherryelmo
+"""been""","Berkeley, CA, USA",sherryelmo
+"""been""","Windsor, CA, USA",sherryelmo
+"""been""","Beverly Hills, CA, USA",sherryelmo
+"""been""","Cambridge, MA, USA",sherryelmo
+"""been""","Lincoln City, OR, USA",sherryelmo
+"""been""","Atlanta, GA, USA",sherryelmo
+"""been""","Richmond, VA, USA",sherryelmo
+"""been""","St. George, UT, USA",sherryelmo
+"""been""","Columbia City, OR, USA",sherryelmo
+"""been""","Ventura, CA, USA",sherryelmo
+"""been""","Clear Lake, IA, USA",sherryelmo
+"""been""","Santa Ana, CA, USA",sherryelmo
+"""been""","Lakeland, FL, USA",sherryelmo
+"""been""","Santa Barbara, CA, USA",sherryelmo
+"""been""","Ocala, FL, USA",sherryelmo
+"""been""","Lauderdale-By-The-Sea, FL, USA",sherryelmo
+"""been""","Clearwater, FL, USA",sherryelmo
+"""been""","Santa Monica, CA, USA",sherryelmo
+"""been""","Coos Bay, OR, USA",sherryelmo
+"""been""","Omaha, NE, USA",sherryelmo
+"""want""","Frankfurt, Germany",sherryelmo
+"""been""","Klamath Falls, OR, USA",sherryelmo
+"""been"",""want""","New York City, NY, USA",sherryelmo
+"""been""","Little Rock, AR, USA",sherryelmo
+"""been""","Wisconsin Dells, WI, USA",sherryelmo
+"""been""","Springfield, IL, USA",sherryelmo
+"""been""","Boulder City, NV, USA",sherryelmo
+"""been""","Anchorage, AK, USA",sherryelmo
+"""been""","Seattle, WA, USA",sherryelmo
+"""been""","Nagoya, Japan",sherryelmo
+"""been""","Skagway, AK, USA",sherryelmo
+"""been""","Fort Lauderdale, FL, USA",sherryelmo
+"""been""","Charleston, OR, USA",sherryelmo
+"""been""","Key West, FL, USA",sherryelmo
+"""been""","Bayside, CA, USA",sherryelmo
+"""been""","Dubuque, IA, USA",sherryelmo
+"""been""","Navarre, FL, USA",sherryelmo
+"""been""","Naples, FL, USA",sherryelmo
+"""been""","West Hollywood, CA, USA",sherryelmo
+"""been""","Provo, UT, USA",sherryelmo
+"""been""","Carlotta, CA, USA",sherryelmo
+"""been""","Carlsbad, CA, USA",sherryelmo
+"""been""","Carmel, CA, USA",sherryelmo
+"""been""","Desert Hot Springs, CA, USA",sherryelmo
+"""been""","Leavenworth, WA, USA",sherryelmo
+"""been""","Portsmouth, NH, USA",sherryelmo
+"""been""","Kahului, HI, USA",sherryelmo
+"""been""","Seward, AK, USA",sherryelmo
+"""been""","Maastricht, The Netherlands",sherryelmo
+"""been""","Kailua-Kona, HI, USA",sherryelmo
+"""been""","Excelsior, MN, USA",sherryelmo
+"""been""","Cincinnati, OH, USA",sherryelmo
+"""been""","Titusville, FL, USA",sherryelmo
+"""been""","San Diego, CA, USA",sherryelmo
+"""been""","Isle, MN, USA",sherryelmo
+"""been""","San Marino, CA, USA",sherryelmo
+"""been""","Cape Canaveral, FL, USA",sherryelmo
+"""been""","Boston, MA, USA",sherryelmo
+"""been""","Lawrence, KS, USA",sherryelmo
+"""been""","Denver, CO, USA",sherryelmo
+"""been""","Fort Walton Beach, FL, USA",sherryelmo
+"""been""","San Luis Obispo, CA, USA",sherryelmo
+"""been""","Cedar Rapids, IA, USA",sherryelmo
+"""been""","Sandusky, OH, USA",sherryelmo
+"""been""","San Jose, CA, USA",sherryelmo
+"""been""","Fort Myers Beach, FL, USA",sherryelmo
+"""been""","Kissimmee, FL, USA",sherryelmo
+"""been""","Cedar Falls, IA, USA",sherryelmo
+"""been""","Fort Myers, FL, USA",sherryelmo
+"""been""","Houston, TX, USA",sherryelmo
+"""been""","Bloomingdale, IL, USA",sherryelmo
+"""been""","Aeschi b. Spiez, Switzerland",sherryelmo
+"""been""","Jamestown, ND, USA",sherryelmo
+"""been""","Lacock, UK",sherryelmo
+"""been""","Fergus Falls, MN, USA",sherryelmo
+"""been""","Inver Grove Heights, MN, USA",sherryelmo
+"""been""","Custer, SD, USA",sherryelmo
+"""been""","New Orleans, LA, USA",sherryelmo
+"""been""","Honolulu, HI, USA",sherryelmo
+"""been""","Clarkdale, AZ, USA",sherryelmo
+"""been""","Deadwood, SD, USA",sherryelmo
+"""been""","Garden Grove, CA, USA",sherryelmo
+"""been""","Newport Beach, CA, USA",sherryelmo
+"""been""","Arlington, VA, USA",sherryelmo
+"""been""","Prior Lake, MN, USA",sherryelmo
+"""been""","Saint Louis, MO, USA",sherryelmo
+"""been""","Plymouth, MN, USA",sherryelmo
+"""been""","Stillwater, MN, USA",sherryelmo
+"""been""","Fountain Hills, AZ, USA",sherryelmo
+"""been""","Sarasota, FL, USA",sherryelmo
+"""been""","Sandestin, FL, USA",sherryelmo
+"""been""","Eureka Springs, AR, USA",sherryelmo
+"""been""","West Palm Beach, FL, USA",sherryelmo
+"""been""","Birmingham, AL, USA",sherryelmo
+"""been""","Port Orford, OR, USA",sherryelmo
+"""been""","Winchester Bay, OR, USA",sherryelmo
+"""been""","Portland, OR, USA",sherryelmo
+"""been""","Gruyeres, Switzerland",sherryelmo
+"""been""","Thief River Falls, MN, USA",sherryelmo
+"""been""","Kansas City, MO, USA",sherryelmo
+"""been""","Taylors Falls, MN, USA",sherryelmo
+"""want""","Dublin, Ireland",sherryelmo
+"""been""","Calgary, Alberta, Canada",sherryelmo
+"""been""","Apache Junction, AZ, USA",sherryelmo
+"""been""","Edmonton, Alberta, Canada",sherryelmo
+"""been""","Minneapolis, MN, USA",sherryelmo
+"""been""","Venice, FL, USA",sherryelmo
+"""been""","Alexandria, VA, USA",sherryelmo
+"""been""","Long Beach, CA, USA",sherryelmo
+"""been""","Toledo, OH, USA",sherryelmo
+"""been""","Napa, CA, USA",sherryelmo
+"""been""","Fortuna, CA, USA",sherryelmo
+"""been""","Inglewood, CA, USA",sherryelmo
+"""been""","Loleta, CA, USA",sherryelmo
+"""been""","Otter Rock, OR, USA",sherryelmo
+"""been""","Phoenix, AZ, USA",sherryelmo
+"""been""","Westlake, OR, USA",sherryelmo
+"""been""","Gulf Shores, AL, USA",sherryelmo
+"""been""","Incline Village, NV, USA",sherryelmo
+"""been""","South Saint Paul, MN, USA",sherryelmo
+"""been""","Woodbury, MN, USA",sherryelmo
+"""been""","Henderson, NV, USA",sherryelmo
+"""been""","Park Rapids, MN, USA",sherryelmo
+"""been""","Lake Charles, LA, USA",sherryelmo
+"""been""","Oceanside, OR, USA",sherryelmo
+"""been""","Chicago, IL, USA",sherryelmo
+"""been""","Prescott, AZ, USA",sherryelmo
+"""been""","Los Angeles, CA, USA",sherryelmo
+"""been""","Fresno, CA, USA",sherryelmo
+"""been""","Irvine, CA, USA",sherryelmo
+"""been""","Pismo Beach, CA, USA",sherryelmo
+"""been""","Amesbury, UK",sherryelmo
+"""been""","Fremont, CA, USA",sherryelmo
+"""been""","Laughlin, NV, USA",sherryelmo
+"""been""","Pine River, MN, USA",sherryelmo
+"""been"",""fave""","Annapolis, MD, USA",sherryelmo
+"""been""","Las Vegas, NV, USA",sherryelmo
+"""been""","Pequot Lakes, MN, USA",sherryelmo
+"""been""","Kingman, AZ, USA",sherryelmo
+"""been""","Nashville, TN, USA",sherryelmo
+"""been""","Talkeetna, AK, USA",sherryelmo
+"""been""","Laguna Beach, CA, USA",sherryelmo
+"""been""","Albuquerque, NM, USA",sherryelmo
+"""been""","Baltimore, MD, USA",sherryelmo
+"""been""","Savannah, GA, USA",sherryelmo
+"""been""","Fort Dodge, IA, USA",sherryelmo
+"""been""","Sisters, OR, USA",sherryelmo
+"""been""","Surprise, AZ, USA",sherryelmo
+"""been""","South Beach, OR, USA",sherryelmo
+"""been""","Cloverdale, CA, USA",sherryelmo
+"""been""","Tempe, AZ, USA",sherryelmo
+"""been""","Springfield, OR, USA",sherryelmo
+"""been""","Amarillo, TX, USA",sherryelmo
+"""been""","Jerome, AZ, USA",sherryelmo
+"""been""","Grand Portage, MN, USA",sherryelmo
+"""been""","Grand Rapids, MN, USA",sherryelmo
+"""been""","Lake Ozark, MO, USA",sherryelmo
+"""been""","Vancouver, British Columbia, Canada",sherryelmo
+"""been""","Rogers, MN, USA",sherryelmo
+"""been""","Lake Itasca, MN, USA",sherryelmo
+"""been""","Roseville, MN, USA",sherryelmo
+"""been""","Lake Elmo, MN, USA",sherryelmo
+"""been""","Kenai, AK, USA",sherryelmo
+"""been""","Union City, CA, USA",sherryelmo
+"""been""","Salt Lake City, UT, USA",sherryelmo
+"""been""","Port Angeles, WA, USA",sherryelmo
+"""been""","Escondido, CA, USA",sherryelmo
+"""been""","Seaside, OR, USA",sherryelmo
+"""been""","Lake Montezuma, AZ, USA",sherryelmo
+"""been""","Lake Havasu City, AZ, USA",sherryelmo
+"""been""","Encinitas, CA, USA",sherryelmo
+"""been""","Ukiah, CA, USA",sherryelmo
+"""been""","Tombstone, AZ, USA",sherryelmo
+"""been""","Boulder, CO, USA",sherryelmo
+"""been""","Palm Beach, FL, USA",sherryelmo
+"""been""","Minot, ND, USA",sherryelmo
+"""been""","Hayward, CA, USA",sherryelmo
+"""been""","Lincoln, NE, USA",sherryelmo
+"""been""","Tuba City, AZ, USA",sherryelmo
+"""been""","Winnipeg, Manitoba, Canada",sherryelmo
+"""been""","New Ulm, MN, USA",sherryelmo
+"""been""","Nara, Japan",sherryelmo
+"""been""","Seagrove Beach, FL, USA",sherryelmo
+"""been""","Scottsdale, AZ, USA",sherryelmo
+"""been""","Salem, OR, USA",sherryelmo
+"""been""","Sedona, AZ, USA",sherryelmo
+"""been""","Moorhead, MN, USA",sherryelmo
+"""been""","Pensacola Beach, FL, USA",sherryelmo
+"""been""","Seal Rock, OR, USA",sherryelmo
+"""been""","Reno, NV, USA",sherryelmo
+"""been""","Tofte, MN, USA",sherryelmo
+"""been""","Tokyo, Japan",sherryelmo
+"""been""","Monticello, MN, USA",sherryelmo
+"""been""","Redwood Falls, MN, USA",sherryelmo
+"""been""","Red Wing, MN, USA",sherryelmo
+"""been""","Camp Verde, AZ, USA",sherryelmo
+"""been""","Soldotna, AK, USA",sherryelmo
+"""been""","Sun City West, AZ, USA",sherryelmo
+"""been""","Sun City, AZ, USA",sherryelmo
+"""been""","La Jolla, CA, USA",sherryelmo
+"""been""","Homer, AK, USA",sherryelmo
+"""been""","Orlando, FL, USA",sherryelmo
+"""been""","Chula Vista, CA, USA",sherryelmo
+"""been""","McKinleyville, CA, USA",sherryelmo
+"""been""","Keystone, SD, USA",sherryelmo
+"""been""","Holbrook, AZ, USA",sherryelmo
+"""been""","Mill Valley, CA, USA",sherryelmo
+"""been""","Detroit, MI, USA",sherryelmo
+"""been""","Treasure Cay, Bahamas",sherryelmo
+"""been""","Two Harbors, MN, USA",sherryelmo
+"""been""","Richfield, MN, USA",sherryelmo
+"""want""","Madrid, Spain",sherryelmo
+"""been""","Rochester, MN, USA",sherryelmo
+"""been""","Grand Rapids, MI, USA",sherryelmo
+"""been""","Ontario, CA, USA",sherryelmo
+"""been""","Watertown, SD, USA",sherryelmo
+"""been""","Panama City, Panama",sherryelmo
+"""been""","Rancho Mirage, CA, USA",sherryelmo
+"""been""","Crosslake, MN, USA",sherryelmo
+"""been""","Crookston, MN, USA",sherryelmo
+"""been""","Bemidji, MN, USA",sherryelmo
+"""been""","Springfield, MO, USA",sherryelmo
+"""been""","Lassen Volcanic National Park, CA, USA",sherryelmo
+"""been""","Redway, CA, USA",sherryelmo
+"""been""","Redwood City, CA, USA",sherryelmo
+"""been""","Tulsa, OK, USA",sherryelmo
+"""been""","Orick, CA, USA",sherryelmo
+"""been""","Redding, CA, USA",sherryelmo
+"""been""","Wall, SD, USA",sherryelmo
+"""been""","Lucerne, Switzerland",sherryelmo
+"""been""","Redondo Beach, CA, USA",sherryelmo
+"""been""","Regina, Saskatchewan, Canada",sherryelmo
+"""been""","Walker, MN, USA",sherryelmo
+"""been""","Virginia, MN, USA",sherryelmo
+"""been""","Iowa City, IA, USA",sherryelmo
+"""been""","Santa Maria, Cape Verde",sherryelmo
+"""been""","Waconia, MN, USA",sherryelmo
+"""been""","Hawaii Volcanoes National Park, HI, USA",sherryelmo
+"""been""","Kennebunkport, ME, USA",sherryelmo
+"""been""","Zermatt, Switzerland",sherryelmo
+"""been""","Grand Canyon National Park, AZ, USA",sherryelmo
+"""been""","Oklahoma City, OK, USA",sherryelmo
+"""been""","Backus, MN, USA",sherryelmo
+"""been""","Cloquet, MN, USA",sherryelmo
+"""been""","Mitchell, SD, USA",sherryelmo
+"""been""","Denali National Park and Preserve, AK, USA",sherryelmo
+"""been""","Crater Lake National Park, OR, USA",sherryelmo
+"""been""","Bryce Canyon National Park, UT, USA",sherryelmo
+"""been""","Oceanside, CA, USA",sherryelmo
+"""been""","Channel Islands National Park, CA, USA",sherryelmo
+"""been""","Oakland, CA, USA",sherryelmo
+"""been""","Columbus, OH, USA",sherryelmo
+"""been""","Cannon Beach, OR, USA",sherryelmo
+"""been""","Canyonville, OR, USA",sherryelmo
+"""been""","Beaver Bay, MN, USA",sherryelmo
+"""been""","Cook, MN, USA",sherryelmo
+"""been""","Coon Rapids, MN, USA",sherryelmo
+"""been""","Joliet, IL, USA",sherryelmo
+"""want""","Hong Kong, China",sherryelmo
+"""been""","Baxter, MN, USA",sherryelmo
+"""been""","Acadia National Park, ME, USA",sherryelmo
+"""been""","Waldport, OR, USA",sherryelmo
+"""been""","Yuma, AZ, USA",sherryelmo
+"""been"",""fave""","Pittsburgh, PA, USA",sherryelmo
+"""been""","Tallinn, Estonia",sherryelmo
+"""been""","Shakopee, MN, USA",sherryelmo
+"""been""","Rapid City, SD, USA",sherryelmo
+"""been""","Wichita, KS, USA",sherryelmo
+"""been""","West Saint Paul, MN, USA",sherryelmo
+"""been""","Milwaukee, WI, USA",sherryelmo
+"""been""","Hopland, CA, USA",sherryelmo
+"""been""","Albert Lea, MN, USA",sherryelmo
+"""been""","Sacramento, CA, USA",sherryelmo
+"""been""","Alexandria, MN, USA",sherryelmo
+"""been""","Parker, AZ, USA",sherryelmo
+"""been""","Hill City, SD, USA",sherryelmo
+"""been""","Petaluma, CA, USA",sherryelmo
+"""been""","Huntington Beach, CA, USA",sherryelmo
+"""been""","Fort Worth, TX, USA",sherryelmo
+"""been""","Payson, AZ, USA",sherryelmo
+"""been""","Riga, Latvia",sherryelmo
+"""been""","Paradise Valley, AZ, USA",sherryelmo
+"""been""","Pierre, SD, USA",sherryelmo
+"""been""","Canton, OH, USA",sherryelmo
+"""been"",""want""","Sydney, Australia",sherryelmo
+"""been""","Silver Bay, MN, USA",sherryelmo
+"""been""","Roatan, Honduras",sherryelmo
+"""been""","Winona, MN, USA",sherryelmo
+"""been""","Willmar, MN, USA",sherryelmo
+"""been""","Amana, IA, USA",sherryelmo
+"""been""","Ames, IA, USA",sherryelmo
+"""been""","Palm Desert, CA, USA",sherryelmo
+"""been""","Palm Springs, CA, USA",sherryelmo
+"""been""","Rio Dell, CA, USA",sherryelmo
+"""been""","West Fargo, ND, USA",sherryelmo
+"""been""","Pacific Grove, CA, USA",sherryelmo
+"""been""","Mason City, IA, USA",sherryelmo
+"""been""","Quito, Ecuador",sherryelmo
+"""been""","South Lake Tahoe, CA, USA",sherryelmo
+"""been""","Bloomington, MN, USA",sherryelmo
+"""been""","Riverside, CA, USA",sherryelmo
+"""been""","Monterey, CA, USA",sherryelmo
+"""been""","Pasadena, CA, USA",sherryelmo
+"""been""","Dallas, TX, USA",sherryelmo
+"""been""","Sauk Centre, MN, USA",sherryelmo
+"""been"",""want""","Prague, Czech Republic",sherryelmo
+"""been""","Saint Paul, MN, USA",sherryelmo
+"""been""","Carson City, NV, USA",sherryelmo
+"""been""","Breezy Point, MN, USA",sherryelmo
+"""been""","Brainerd, MN, USA",sherryelmo
+"""been""","Kyoto, Japan",sherryelmo
+"""been""","Cartagena, Colombia",sherryelmo
+"""been""","Eugene, OR, USA",sherryelmo
+"""been""","Osaka, Japan",sherryelmo
+"""been""","Tucumcari, NM, USA",sherryelmo
+"""been""","Amsterdam, The Netherlands",sherryelmo
+"""been""","Neskowin, OR, USA",sherryelmo
+"""been""","Tijuana, Mexico",sherryelmo
+"""been""","Dania Beach, FL, USA",sherryelmo
+"""been""","Newport News, VA, USA",sherryelmo
+"""been""","Ensenada, Mexico",sherryelmo
+"""been""","Sioux City, IA, USA",sherryelmo
+"""been""","Daytona Beach, FL, USA",sherryelmo
+"""been""","Brooklyn Center, MN, USA",sherryelmo
+"""been""","Kobe, Japan",sherryelmo
+"""been""","Washington DC, DC, USA",sherryelmo
+"""been""","Eastside, OR, USA",sherryelmo
+"""been""","Glendive, MT, USA",sherryelmo
+"""been""","Indianapolis, IN, USA",sherryelmo
+"""been""","Burnsville, MN, USA",sherryelmo
+"""been""","Hollywood, FL, USA",sherryelmo
+"""been""","Simi Valley, CA, USA",sherryelmo
+"""been""","Duck Key, FL, USA",sherryelmo
+"""been""","Caracas, Venezuela",sherryelmo
+"""been""","Fargo, ND, USA",sherryelmo
+"""been""","Superior, WI, USA",sherryelmo
+"""want""","Barcelona, Spain",sherryelmo
+"""want""","Vienna, Austria",sherryelmo
+"""been""","Dickinson, ND, USA",sherryelmo
+"""been""","Virginia City, NV, USA",sherryelmo
+"""been""","Akron, OH, USA",sherryelmo
+"""been""","Medford, OR, USA",sherryelmo
+"""been""","Cheyenne, WY, USA",sherryelmo
+"""been""","Portland, ME, USA",sherryelmo
+"""been""","Waterloo, IA, USA",sherryelmo
+"""been""","Santa Rosa, CA, USA",sherryelmo
+"""been""","Cocoa Beach, FL, USA",sherryelmo
+"""been""","Torrance, CA, USA",sherryelmo
+"""been""","Sausalito, CA, USA",sherryelmo
+"""been""","Mammoth Lakes, CA, USA",sherryelmo
+"""been""","Coral Gables, FL, USA",sherryelmo
+"""been""","Little Torch Key, FL, USA",sherryelmo
+"""been""","Stateline, NV, USA",sherryelmo
+"""been""","Miles City, MT, USA",sherryelmo
+"""been""","Devils Tower, WY, USA",sherryelmo
+"""been""","Sheridan, WY, USA",sherryelmo
+"""been""","West Yellowstone, MT, USA",sherryelmo
+"""been""","Staten Island, NY, USA",sherryelmo
+"""been""","West Des Moines, IA, USA",sherryelmo
+"""been""","Everett, WA, USA",sherryelmo
+"""been""","Memphis, TN, USA",sherryelmo
+"""been""","Louisville, KY, USA",sherryelmo
+"""been""","Bellevue, WA, USA",sherryelmo
+"""been""","Seal Beach, CA, USA",sherryelmo
+"""been""","Bellingham, WA, USA",sherryelmo
+"""been""","Truckee, CA, USA",sherryelmo
+"""been""","Stevens Point, WI, USA",sherryelmo
+"""been""","Gallup, NM, USA",sherryelmo
+"""been""","Spearfish, SD, USA",sherryelmo
+"""been""","Austin, MN, USA",sherryelmo
+"""been""","Fort Wayne, IN, USA",sherryelmo
+"""been""","Brookings, OR, USA",sherryelmo
+"""been""","Chaska, MN, USA",sherryelmo
+"""been""","Wausau, WI, USA",sherryelmo
+"""been""","Bradenton Beach, FL, USA",sherryelmo
+"""been""","Chanhassen, MN, USA",sherryelmo
+"""been""","Park City, UT, USA",sherryelmo
+"""been""","Bonita Springs, FL, USA",sherryelmo
+"""been""","La Crosse, WI, USA",sherryelmo
+"""been""","Sturgis, SD, USA",sherryelmo
+"""been""","Ogden, UT, USA",sherryelmo
+"""been""","Santa Cruz La Laguna, Guatemala",sherryelmo
+"""been""","Grants Pass, OR, USA",sherryelmo
+"""been""","Southwest Harbor, ME, USA",sherryelmo
+"""been""","Gulfport, MS, USA",sherryelmo
+"""been""","Cleveland, OH, USA",sherryelmo
+"""been""","Sioux Falls, SD, USA",sherryelmo
+"""been""","Billings, MT, USA",sherryelmo
+"""been""","Gold Beach, OR, USA",sherryelmo
+"""been""","Bend, OR, USA",sherryelmo
+"""been""","Bern, Switzerland",sherryelmo
+"""been""","Virginia Beach, VA, USA",sherryelmo
+"""been""","Thunder Bay, Ontario, Canada",sherryelmo
+"""been""","Toronto, Ontario, Canada",sherryelmo
+"""been""","Big Sur, CA, USA",sherryelmo
+"""been""","Mobile, AL, USA",sherryelmo
+"""been""","Newport, OR, USA",sherryelmo
+"""been""","Zion National Park, UT, USA",sherryelmo
+"""been""","Apple Valley, MN, USA",sherryelmo
+"""been""","North Conway, NH, USA",sherryelmo
+"""been""","Bozeman, MT, USA",sherryelmo
+"""been""","Jungfraujoch, Switzerland",sherryelmo
+"""been""","Carlton, MN, USA",sherryelmo
+"""been""","Galena, IL, USA",sherryelmo
+"""been""","Big Pine Key, FL, USA",sherryelmo
+"""been""","Bandon, OR, USA",sherryelmo
+"""been""","Theodore Roosevelt National Park, ND, USA",sherryelmo

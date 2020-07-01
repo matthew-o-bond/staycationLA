@@ -1,0 +1,428 @@
+tag,place,user
+"""been""","Shaba National Reserve, Kenya",CossyWombat
+"""been""","Lokichoggio, Kenya",CossyWombat
+"""been""","Edinburgh, UK",CossyWombat
+"""been""","Coventry, UK",CossyWombat
+"""been""","Turin, Italy",CossyWombat
+"""been""","Kiambu, Kenya",CossyWombat
+"""been""","West Palm Beach, FL, USA",CossyWombat
+"""been""","Piano di Sorrento, Italy",CossyWombat
+"""been""","Ngorongoro Conservation Area, Tanzania",CossyWombat
+"""been""","Mandera, Kenya",CossyWombat
+"""been""","Melun, France",CossyWombat
+"""been""","Hudson, NY, USA",CossyWombat
+"""been""","Milan, Italy",CossyWombat
+"""been""","Reno, NV, USA",CossyWombat
+"""been""","Aspen, CO, USA",CossyWombat
+"""been""","St. Petersburg, FL, USA",CossyWombat
+"""been""","Fiumicino, Italy",CossyWombat
+"""been""","Padua, Italy",CossyWombat
+"""been""","Salisbury, UK",CossyWombat
+"""been""","Lodwar, Kenya",CossyWombat
+"""been""","Glasgow, UK",CossyWombat
+"""been""","Voi, Kenya",CossyWombat
+"""been""","Scottsdale, AZ, USA",CossyWombat
+"""been""","Calgary, Alberta, Canada",CossyWombat
+"""been""","Edmonton, Alberta, Canada",CossyWombat
+"""been""","Malibu, CA, USA",CossyWombat
+"""been""","Minneapolis, MN, USA",CossyWombat
+"""been""","Detroit, MI, USA",CossyWombat
+"""been""","Wilkes-Barre, PA, USA",CossyWombat
+"""been"",""want""","Kisumu, Kenya",CossyWombat
+"""been""","Samburu National Reserve, Kenya",CossyWombat
+"""been""","Malindi, Kenya",CossyWombat
+"""been""","Kericho, Kenya",CossyWombat
+"""been""","Greenport, NY, USA",CossyWombat
+"""been""","Naivasha, Kenya",CossyWombat
+"""been"",""want""","Ukunda, Kenya",CossyWombat
+"""been""","Winnipeg, Manitoba, Canada",CossyWombat
+"""been""","Marsabit National Reserve, Kenya",CossyWombat
+"""been""","Victoria, British Columbia, Canada",CossyWombat
+"""been""","Amesbury, UK",CossyWombat
+"""been""","Bangkok, Thailand",CossyWombat
+"""been""","Taipei, Taiwan",CossyWombat
+"""been""","Portofino, Italy",CossyWombat
+"""been""","Great Bookham, UK",CossyWombat
+"""been""","Amboseli National Park, Kenya",CossyWombat
+"""been""","Amarillo, TX, USA",CossyWombat
+"""been""","Vancouver, British Columbia, Canada",CossyWombat
+"""been""","Salem, OR, USA",CossyWombat
+"""been""","Frascati, Italy",CossyWombat
+"""been""","Florence, SC, USA",CossyWombat
+"""been""","Charleston, WV, USA",CossyWombat
+"""been""","Antananarivo, Madagascar",CossyWombat
+"""been""","Maseru, Lesotho",CossyWombat
+"""been""","Siesta Key, FL, USA",CossyWombat
+"""been""","Orlando, FL, USA",CossyWombat
+"""been""","Como, Italy",CossyWombat
+"""been""","Bissau, Guinea-Bissau",CossyWombat
+"""been""","Florence, Italy",CossyWombat
+"""been""","Yosemite, KY, USA",CossyWombat
+"""been""","Pisa, Italy",CossyWombat
+"""been""","Blantyre, Malawi",CossyWombat
+"""been""","Nyeri, Kenya",CossyWombat
+"""been""","Pescara, Italy",CossyWombat
+"""been""","Halifax, Nova Scotia, Canada",CossyWombat
+"""been""","Pittsburgh, PA, USA",CossyWombat
+"""been""","Bamburi, Kenya",CossyWombat
+"""been""","Stellenbosch, South Africa",CossyWombat
+"""been""","Maputo, Mozambique",CossyWombat
+"""been""","Bamako, Mali",CossyWombat
+"""been""","Valencia, Spain",CossyWombat
+"""been""","Nouakchott, Mauritania",CossyWombat
+"""been""","Lilongwe, Malawi",CossyWombat
+"""been""","Pompeii, Italy",CossyWombat
+"""been""","Naples, Italy",CossyWombat
+"""been""","Antwerp, Belgium",CossyWombat
+"""been""","Capri, Italy",CossyWombat
+"""been"",""want""","London, UK",CossyWombat
+"""been""","Goma, Democratic Republic of the Congo",CossyWombat
+"""been""","Liverpool, UK",CossyWombat
+"""been""","Poggio Mirteto, Italy",CossyWombat
+"""been""","Massawa, Eritrea",CossyWombat
+"""been""","Rotterdam, The Netherlands",CossyWombat
+"""been""","Phoenix, AZ, USA",CossyWombat
+"""been""","Sorrento, Italy",CossyWombat
+"""been""","St. John's, Newfoundland and Labrador, Canada",CossyWombat
+"""been""","Salerno, Italy",CossyWombat
+"""been""","Amalfi, Italy",CossyWombat
+"""been""","Fort Worth, TX, USA",CossyWombat
+"""been""","Kigali, Rwanda",CossyWombat
+"""been""","Knysna, South Africa",CossyWombat
+"""been""","South Lake Tahoe, CA, USA",CossyWombat
+"""been""","Oudtshoorn, South Africa",CossyWombat
+"""been""","Sacramento, CA, USA",CossyWombat
+"""been""","Lund, Sweden",CossyWombat
+"""been""","Niamey, Niger",CossyWombat
+"""been""","Jackson, MO, USA",CossyWombat
+"""been""","Islamabad, Pakistan",CossyWombat
+"""been""","Verona, Italy",CossyWombat
+"""want""","Kavos, Greece",CossyWombat
+"""been""","Kampala, Uganda",CossyWombat
+"""been""","Madrid, Spain",CossyWombat
+"""been""","Kingston, Ontario, Canada",CossyWombat
+"""been""","Venice, Italy",CossyWombat
+"""been""","Niagara Falls, Ontario, Canada",CossyWombat
+"""been""","Alexandria, VA, USA",CossyWombat
+"""been""","Lome, Togo",CossyWombat
+"""been""","Windsor, UK",CossyWombat
+"""been""","Napa, CA, USA",CossyWombat
+"""been""","Venice, FL, USA",CossyWombat
+"""been""","Dakar, Senegal",CossyWombat
+"""been""","Cape Town Central, South Africa",CossyWombat
+"""been""","Marlow, UK",CossyWombat
+"""been""","Ostia Antica, Italy",CossyWombat
+"""been""","Canterbury, UK",CossyWombat
+"""been""","Sperlonga, Italy",CossyWombat
+"""been""","Norwich, CT, USA",CossyWombat
+"""been""","Samarkand, Uzbekistan",CossyWombat
+"""been""","Arlington, VA, USA",CossyWombat
+"""been""","Tokyo, Japan",CossyWombat
+"""been""","Las Vegas, NV, USA",CossyWombat
+"""been""","Los Angeles, CA, USA",CossyWombat
+"""been""","Fresno, CA, USA",CossyWombat
+"""been""","Chicago, IL, USA",CossyWombat
+"""been""","Kilifi, Kenya",CossyWombat
+"""been""","Gede, Kenya",CossyWombat
+"""been""","Dushanbe, Tajikistan",CossyWombat
+"""been""","Lusaka, Zambia",CossyWombat
+"""been""","Annapolis, MD, USA",CossyWombat
+"""been""","Colorado Springs, CO, USA",CossyWombat
+"""been""","Everglades City, FL, USA",CossyWombat
+"""been""","Boston, MA, USA",CossyWombat
+"""been""","Houston, TX, USA",CossyWombat
+"""been""","Wembley, UK",CossyWombat
+"""been""","Lanai City, HI, USA",CossyWombat
+"""been""","San Juan, Puerto Rico",CossyWombat
+"""been""","Durban, South Africa",CossyWombat
+"""been""","Ponce, Puerto Rico",CossyWombat
+"""been""","Rochester, NY, USA",CossyWombat
+"""been""","South San Francisco, CA, USA",CossyWombat
+"""been""","Des Moines, IA, USA",CossyWombat
+"""been""","West Hollywood, CA, USA",CossyWombat
+"""been""","Cincinnati, OH, USA",CossyWombat
+"""been""","San Diego, CA, USA",CossyWombat
+"""been""","Cardiff-by-the-Sea, CA, USA",CossyWombat
+"""been""","Naples, FL, USA",CossyWombat
+"""been""","Dubrovnik, Croatia",CossyWombat
+"""been""","Newark, NJ, USA",CossyWombat
+"""been""","Pretoria, South Africa",CossyWombat
+"""been""","Watamu, Kenya",CossyWombat
+"""been""","Perth, Australia",CossyWombat
+"""been""","Rift Valley Province, Kenya",CossyWombat
+"""been""","Fada N'Gourma, Burkina Faso",CossyWombat
+"""been""","San Jose, CA, USA",CossyWombat
+"""been""","Fort Myers Beach, FL, USA",CossyWombat
+"""been""","Charlottesville, VA, USA",CossyWombat
+"""been""","Fort Myers, FL, USA",CossyWombat
+"""been""","Lake Nakuru National Park, Kenya",CossyWombat
+"""been""","Denver, CO, USA",CossyWombat
+"""been""","Aberdare National Park, Kenya",CossyWombat
+"""been""","Greensboro, NC, USA",CossyWombat
+"""been"",""want""","Tsavo National Park West, Kenya",CossyWombat
+"""been""","Agra, India",CossyWombat
+"""been""","Tsavo National Park East, Kenya",CossyWombat
+"""been""","Interlaken, Switzerland",CossyWombat
+"""been""","Johannesburg, South Africa",CossyWombat
+"""been""","Horley, UK",CossyWombat
+"""been""","Hayes, UK",CossyWombat
+"""been""","Tahoe City, CA, USA",CossyWombat
+"""been""","Valdosta, GA, USA",CossyWombat
+"""been""","Kinshasa, Democratic Republic of the Congo",CossyWombat
+"""been""","Buffalo, NY, USA",CossyWombat
+"""been""","Benghazi, Libya",CossyWombat
+"""been""","Alexandria, Egypt",CossyWombat
+"""been""","Williamsburg, VA, USA",CossyWombat
+"""been""","Newport, RI, USA",CossyWombat
+"""been""","Rieti, Italy",CossyWombat
+"""been""","Hounslow, UK",CossyWombat
+"""been""","Brockham, UK",CossyWombat
+"""been""","St. Moritz, Switzerland",CossyWombat
+"""been""","Palm Beach, FL, USA",CossyWombat
+"""been""","Boulder, CO, USA",CossyWombat
+"""been""","Princeton, NJ, USA",CossyWombat
+"""been""","Brooklyn, NY, USA",CossyWombat
+"""been""","Nashville, TN, USA",CossyWombat
+"""been""","Adairsville, GA, USA",CossyWombat
+"""been""","Ravenna, Italy",CossyWombat
+"""been""","Ealing, UK",CossyWombat
+"""been""","North Charleston, SC, USA",CossyWombat
+"""been""","Genoa, Italy",CossyWombat
+"""been""","Tucson, AZ, USA",CossyWombat
+"""been""","San Francisco, CA, USA",CossyWombat
+"""want""","Kobe, Japan",CossyWombat
+"""been""","San Antonio, TX, USA",CossyWombat
+"""been""","Ithaca, NY, USA",CossyWombat
+"""been""","Santa Fe, NM, USA",CossyWombat
+"""been""","Simeri Crichi, Italy",CossyWombat
+"""been""","Udine, Italy",CossyWombat
+"""been""","Castelnuovo di Farfa, Italy",CossyWombat
+"""been""","Pensacola, FL, USA",CossyWombat
+"""been""","Tallahassee, FL, USA",CossyWombat
+"""been""","Salt Lake City, UT, USA",CossyWombat
+"""been""","Austin, TX, USA",CossyWombat
+"""been""","Jacksonville, FL, USA",CossyWombat
+"""been""","East Hampton, NY, USA",CossyWombat
+"""been""","Shimba Hills National Reserve, Kenya",CossyWombat
+"""been""","Acapulco, Mexico",CossyWombat
+"""been""","Banff, Alberta, Canada",CossyWombat
+"""been""","Corpus Christi, TX, USA",CossyWombat
+"""been""","Siena, Italy",CossyWombat
+"""been""","Assisi, Italy",CossyWombat
+"""been""","Anaheim, CA, USA",CossyWombat
+"""been""","Bologna, Italy",CossyWombat
+"""been""","Albuquerque, NM, USA",CossyWombat
+"""been""","Baltimore, MD, USA",CossyWombat
+"""been""","Savannah, GA, USA",CossyWombat
+"""want""","Koto, Japan",CossyWombat
+"""been""","Jersey City, NJ, USA",CossyWombat
+"""been""","Garissa, Kenya",CossyWombat
+"""been""","Lubbock, TX, USA",CossyWombat
+"""been""","Syracuse, NY, USA",CossyWombat
+"""been""","Elizabeth, NJ, USA",CossyWombat
+"""been""","Tampa, FL, USA",CossyWombat
+"""been""","Miami Beach, FL, USA",CossyWombat
+"""been""","Miami, FL, USA",CossyWombat
+"""been""","Hollywood, FL, USA",CossyWombat
+"""been""","Tormarton, UK",CossyWombat
+"""been""","Corbeil-Essonnes, France",CossyWombat
+"""been""","Crawley, UK",CossyWombat
+"""been""","Daytona Beach, FL, USA",CossyWombat
+"""been""","Norfolk, VA, USA",CossyWombat
+"""been""","Dunkirk, France",CossyWombat
+"""been""","Ischia, Italy",CossyWombat
+"""been""","Washington DC, DC, USA",CossyWombat
+"""been""","Machakos, Kenya",CossyWombat
+"""been""","Wilmington, NC, USA",CossyWombat
+"""been""","Giza, Egypt",CossyWombat
+"""been""","Cairo, Egypt",CossyWombat
+"""been""","Manchester, UK",CossyWombat
+"""been""","Aswan, Egypt",CossyWombat
+"""been""","Karachi, Pakistan",CossyWombat
+"""been""","Lahore, Pakistan",CossyWombat
+"""been""","Mogadishu, Somalia",CossyWombat
+"""been""","Richmond-upon-Thames, UK",CossyWombat
+"""been""","Vienna, Austria",CossyWombat
+"""been""","Sydney, Australia",CossyWombat
+"""been""","Boise, ID, USA",CossyWombat
+"""been""","Cairns, Australia",CossyWombat
+"""been""","Brisbane, Australia",CossyWombat
+"""been""","Bronx, NY, USA",CossyWombat
+"""been""","Eldoret, Kenya",CossyWombat
+"""want""","Lima, Peru",CossyWombat
+"""want""","Machu Picchu, Peru",CossyWombat
+"""been""","Limoges, France",CossyWombat
+"""been""","Kakamega, Kenya",CossyWombat
+"""been""","Zagreb, Croatia",CossyWombat
+"""been""","Nakuru, Kenya",CossyWombat
+"""been""","Kompienga, Burkina Faso",CossyWombat
+"""been""","Kitzbuhel, Austria",CossyWombat
+"""been""","Dubai, United Arab Emirates",CossyWombat
+"""been""","Innsbruck, Austria",CossyWombat
+"""been"",""want""","Mombasa, Kenya",CossyWombat
+"""been""","Lake Elementaita, Kenya",CossyWombat
+"""been""","Nimes, France",CossyWombat
+"""been""","Maasai Mara National Reserve, Kenya",CossyWombat
+"""been""","Luxor, Egypt",CossyWombat
+"""been"",""want""","Nairobi, Kenya",CossyWombat
+"""been""","Mumbai, India",CossyWombat
+"""been""","New Delhi, India",CossyWombat
+"""been""","Kolkata (Calcutta), India",CossyWombat
+"""been""","Lido di Ostia, Italy",CossyWombat
+"""been""","Salzburg, Austria",CossyWombat
+"""been""","Winston Salem, NC, USA",CossyWombat
+"""been""","Hong Kong, China",CossyWombat
+"""want""","Mykonos Town, Greece",CossyWombat
+"""been""","Stone Town, Tanzania",CossyWombat
+"""been""","Santa Barbara, CA, USA",CossyWombat
+"""been""","Bradenton, FL, USA",CossyWombat
+"""been""","Timbuktu, Mali",CossyWombat
+"""been""","Santa Cruz, CA, USA",CossyWombat
+"""been""","Civitavecchia, Italy",CossyWombat
+"""been""","Karen, Kenya",CossyWombat
+"""been""","Germiston, South Africa",CossyWombat
+"""been""","Beverly Hills, CA, USA",CossyWombat
+"""been""","Mexico City, Mexico",CossyWombat
+"""been""","Lucerne, Switzerland",CossyWombat
+"""been""","Ravello, Italy",CossyWombat
+"""been""","Diani Beach, Kenya",CossyWombat
+"""been""","Fara in Sabina, Italy",CossyWombat
+"""been""","Philadelphia, PA, USA",CossyWombat
+"""been""","Abidjan, Ivory Coast",CossyWombat
+"""been""","Gettysburg, PA, USA",CossyWombat
+"""been""","Toronto, Ontario, Canada",CossyWombat
+"""been""","Santa Monica, CA, USA",CossyWombat
+"""been""","Marsabit, Kenya",CossyWombat
+"""been""","Saskatoon, Saskatchewan, Canada",CossyWombat
+"""been"",""want""","New York City, NY, USA",CossyWombat
+"""been""","Little Rock, AR, USA",CossyWombat
+"""been""","Springfield, IL, USA",CossyWombat
+"""been""","Basel, Switzerland",CossyWombat
+"""been""","El Paso, TX, USA",CossyWombat
+"""been""","Ventura, CA, USA",CossyWombat
+"""been""","Nantes, France",CossyWombat
+"""been""","Poughkeepsie, NY, USA",CossyWombat
+"""been""","Lido di Venezia, Italy",CossyWombat
+"""been""","Cambridge, MA, USA",CossyWombat
+"""been""","Staten Island, NY, USA",CossyWombat
+"""been""","Orbetello, Italy",CossyWombat
+"""been""","Oslo, Norway",CossyWombat
+"""been""","Richmond, VA, USA",CossyWombat
+"""been""","Montreal, Quebec, Canada",CossyWombat
+"""been""","Luxembourg City, Luxembourg",CossyWombat
+"""been""","Quebec City, Quebec, Canada",CossyWombat
+"""been""","Singapore, Singapore",CossyWombat
+"""been""","Montepulciano, Italy",CossyWombat
+"""been""","Geneva, Switzerland",CossyWombat
+"""been""","Bern, Switzerland",CossyWombat
+"""been""","Mbeya, Tanzania",CossyWombat
+"""been""","Lexington, KY, USA",CossyWombat
+"""been""","Bilbao, Spain",CossyWombat
+"""been""","St Ives, UK",CossyWombat
+"""been""","Sheffield, UK",CossyWombat
+"""been""","Slough, UK",CossyWombat
+"""been""","Frankfurt, Germany",CossyWombat
+"""been""","Reading, UK",CossyWombat
+"""been""","Oxford, UK",CossyWombat
+"""been""","Kingston upon Thames, UK",CossyWombat
+"""been""","Albany, NY, USA",CossyWombat
+"""want""","Rabat, Morocco",CossyWombat
+"""been""","Epsom, UK",CossyWombat
+"""been""","Istanbul, Turkey",CossyWombat
+"""been""","Springfield, MO, USA",CossyWombat
+"""been""","Kilimanjaro National Park, Tanzania",CossyWombat
+"""been""","Serengeti National Park, Tanzania",CossyWombat
+"""been""","Plymouth, MA, USA",CossyWombat
+"""been""","Bath, UK",CossyWombat
+"""been""","Livingstone, Zambia",CossyWombat
+"""been""","Ostend, Belgium",CossyWombat
+"""been""","Palma de Mallorca, Spain",CossyWombat
+"""been""","Ann Arbor, MI, USA",CossyWombat
+"""been""","Tulsa, OK, USA",CossyWombat
+"""been""","Harrisburg, PA, USA",CossyWombat
+"""been""","Dar es Salaam, Tanzania",CossyWombat
+"""been""","Dodoma, Tanzania",CossyWombat
+"""been""","Charlotte, NC, USA",CossyWombat
+"""been""","Hartford, CT, USA",CossyWombat
+"""been""","Kotu, Gambia",CossyWombat
+"""been""","Oxnard, CA, USA",CossyWombat
+"""been""","Victoria Falls, Zimbabwe",CossyWombat
+"""been""","Galu Beach, Kenya",CossyWombat
+"""been""","Malaga, Spain",CossyWombat
+"""been""","Stockholm, Sweden",CossyWombat
+"""been""","Saint Paul, MN, USA",CossyWombat
+"""been""","Long Island City, NY, USA",CossyWombat
+"""been""","York, UK",CossyWombat
+"""been""","Cambridge, UK",CossyWombat
+"""been""","Brussels, Belgium",CossyWombat
+"""been""","Harare, Zimbabwe",CossyWombat
+"""been""","Bristol, UK",CossyWombat
+"""been""","Vatican City, Vatican City",CossyWombat
+"""been""","Tivoli, Italy",CossyWombat
+"""been"",""want""","Rome, Italy",CossyWombat
+"""been""","Palo Alto, CA, USA",CossyWombat
+"""been""","Bulawayo, Zimbabwe",CossyWombat
+"""been""","Munich, Germany",CossyWombat
+"""been""","Mojave, CA, USA",CossyWombat
+"""been""","Palm Springs, CA, USA",CossyWombat
+"""been""","Nottingham, UK",CossyWombat
+"""been""","Seville, Spain",CossyWombat
+"""been""","Kathmandu, Nepal",CossyWombat
+"""been""","Newcastle, UK",CossyWombat
+"""been""","Bujumbura, Burundi",CossyWombat
+"""been""","Dallas, TX, USA",CossyWombat
+"""been""","Gilgil, Kenya",CossyWombat
+"""been""","Ouagadougou, Burkina Faso",CossyWombat
+"""been""","Reigate, UK",CossyWombat
+"""been""","Augusta, GA, USA",CossyWombat
+"""been""","Marbella, Spain",CossyWombat
+"""been""","Monterey, CA, USA",CossyWombat
+"""been""","Pasadena, CA, USA",CossyWombat
+"""been""","Reims, France",CossyWombat
+"""been""","Lausanne, Switzerland",CossyWombat
+"""been""","Kitale, Kenya",CossyWombat
+"""been""","Barcelona, Spain",CossyWombat
+"""been""","Bonn, Germany",CossyWombat
+"""been""","Chyulu Hills National Park, Kenya",CossyWombat
+"""been""","Sanremo, Italy",CossyWombat
+"""been""","Lafayette, IN, USA",CossyWombat
+"""been""","San Vincenzo, Italy",CossyWombat
+"""been""","Marseille, France",CossyWombat
+"""been""","Bradenton Beach, FL, USA",CossyWombat
+"""been""","Linz, Austria",CossyWombat
+"""been""","Niagara Falls, NY, USA",CossyWombat
+"""been""","N'Djamena, Chad",CossyWombat
+"""been""","Banjul, Gambia",CossyWombat
+"""been""","Rusper, UK",CossyWombat
+"""been""","Paris, France",CossyWombat
+"""been""","Southampton, UK",CossyWombat
+"""been""","Portsmouth, UK",CossyWombat
+"""been""","Zurich, Switzerland",CossyWombat
+"""been""","Ischia Porto, Italy",CossyWombat
+"""been""","Addis Ababa, Ethiopia",CossyWombat
+"""been""","Ajaccio, France",CossyWombat
+"""been""","Donhead Saint Andrew, UK",CossyWombat
+"""want""","Rhodes Town, Greece",CossyWombat
+"""been""","Amsterdam, The Netherlands",CossyWombat
+"""been""","Richmond, British Columbia, Canada",CossyWombat
+"""been""","Atlantic City, NJ, USA",CossyWombat
+"""been""","Cleveland, OH, USA",CossyWombat
+"""been""","Djibouti, Djibouti",CossyWombat
+"""been""","Asmara, Eritrea",CossyWombat
+"""been""","Dorking, UK",CossyWombat
+"""been""","Gothenburg, Sweden",CossyWombat
+"""been""","Hoor, Sweden",CossyWombat
+"""been""","Shaftesbury, UK",CossyWombat
+"""been""","Bournemouth, UK",CossyWombat
+"""been""","Walton-On-Thames, UK",CossyWombat
+"""been""","Betchworth, UK",CossyWombat
+"""been""","Arusha, Tanzania",CossyWombat
+"""been""","Guildford, UK",CossyWombat
+"""been""","Copenhagen, Denmark",CossyWombat
+"""been""","Oklahoma City, OK, USA",CossyWombat
+"""been""","Brighton, UK",CossyWombat
+"""been""","Anacapri, Italy",CossyWombat
+"""been""","Ojai, CA, USA",CossyWombat
+"""been""","Limuru, Kenya",CossyWombat
+"""been""","Maralal, Kenya",CossyWombat
+"""been""","Capena, Italy",CossyWombat

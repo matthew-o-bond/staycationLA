@@ -1,0 +1,584 @@
+tag,place,user
+"""been""","Cannon Beach, OR, USA",SOCGAC
+"""been""","Red River, NM, USA",SOCGAC
+"""been""","Ocean Springs, MS, USA",SOCGAC
+"""been""","Atoka, OK, USA",SOCGAC
+"""been""","Raton, NM, USA",SOCGAC
+"""been""","Gila, NM, USA",SOCGAC
+"""been""","Ranchos De Taos, NM, USA",SOCGAC
+"""been""","Raleigh, NC, USA",SOCGAC
+"""been""","Chattanooga, TN, USA",SOCGAC
+"""been""","Oklahoma City, OK, USA",SOCGAC
+"""been""","Durant, OK, USA",SOCGAC
+"""been""","Ardmore, OK, USA",SOCGAC
+"""been""","Moss Point, MS, USA",SOCGAC
+"""been"",""want""","Glacier National Park, MT, USA",SOCGAC
+"""been""","Grand Canyon National Park, AZ, USA",SOCGAC
+"""been""","Granbury, TX, USA",SOCGAC
+"""been""","Grand Prairie, TX, USA",SOCGAC
+"""been""","Edmond, OK, USA",SOCGAC
+"""been""","Kingston, OK, USA",SOCGAC
+"""been""","Bozeman, MT, USA",SOCGAC
+"""been""","Alto, NM, USA",SOCGAC
+"""been""","Slidell, LA, USA",SOCGAC
+"""been""","Joshua Tree National Park, CA, USA",SOCGAC
+"""been""","Oceanside, CA, USA",SOCGAC
+"""been""","Ruidoso Downs, NM, USA",SOCGAC
+"""been""","Rancho Bernardo, CA, USA",SOCGAC
+"""been""","Muskogee, OK, USA",SOCGAC
+"""been""","Great Smoky Mountains National Park, TN, USA",SOCGAC
+"""been""","Roswell, NM, USA",SOCGAC
+"""been""","Ruidoso, NM, USA",SOCGAC
+"""been""","Cleveland, OH, USA",SOCGAC
+"""been""","Shreveport, LA, USA",SOCGAC
+"""been""","Rocky Mountain National Park, CO, USA",SOCGAC
+"""been""","Mount Rainier National Park, WA, USA",SOCGAC
+"""been""","Glen Rose, TX, USA",SOCGAC
+"""been""","Davis, OK, USA",SOCGAC
+"""been""","Hugo, OK, USA",SOCGAC
+"""been""","Stillwater, OK, USA",SOCGAC
+"""been""","Norman, OK, USA",SOCGAC
+"""been""","Del City, OK, USA",SOCGAC
+"""been""","Texarkana, AR, USA",SOCGAC
+"""been""","Poway, CA, USA",SOCGAC
+"""been""","Ponca City, OK, USA",SOCGAC
+"""been""","Redding, CA, USA",SOCGAC
+"""been""","Dallas, TX, USA",SOCGAC
+"""been"",""want""","Waterton Lakes National Park, Alberta, Canada",SOCGAC
+"""been""","Natchitoches, LA, USA",SOCGAC
+"""been""","Valley View, TX, USA",SOCGAC
+"""been""","Oxnard, CA, USA",SOCGAC
+"""been""","Las Cruces, NM, USA",SOCGAC
+"""been""","Wylie, TX, USA",SOCGAC
+"""been""","Calera, OK, USA",SOCGAC
+"""been""","Redlands, CA, USA",SOCGAC
+"""been""","Redondo Beach, CA, USA",SOCGAC
+"""been""","Charlotte, NC, USA",SOCGAC
+"""been""","Rancho Cucamonga, CA, USA",SOCGAC
+"""been""","Van, TX, USA",SOCGAC
+"""been""","Madill, OK, USA",SOCGAC
+"""been""","Jackson, MS, USA",SOCGAC
+"""been""","Red Mountain, CA, USA",SOCGAC
+"""been""","Orange, CA, USA",SOCGAC
+"""been""","Rancho Santa Margarita, CA, USA",SOCGAC
+"""been""","Decatur, TX, USA",SOCGAC
+"""been""","Randsburg, CA, USA",SOCGAC
+"""been""","Flower Mound, TX, USA",SOCGAC
+"""been""","Rancho Palos Verdes, CA, USA",SOCGAC
+"""been""","Rancho Santa Fe, CA, USA",SOCGAC
+"""been""","Palos Verdes Estates, CA, USA",SOCGAC
+"""been""","Grapevine, TX, USA",SOCGAC
+"""been""","Greenville, TX, USA",SOCGAC
+"""been""","Fairmont, WV, USA",SOCGAC
+"""been""","Monterey, CA, USA",SOCGAC
+"""been""","Enid, OK, USA",SOCGAC
+"""been""","Tulsa, OK, USA",SOCGAC
+"""been""","Lee Vining, CA, USA",SOCGAC
+"""been""","Pasadena, CA, USA",SOCGAC
+"""been""","Monterey Park, CA, USA",SOCGAC
+"""been""","Williams, AZ, USA",SOCGAC
+"""been""","Pauls Valley, OK, USA",SOCGAC
+"""been""","Wimberley, TX, USA",SOCGAC
+"""been""","Eufaula, OK, USA",SOCGAC
+"""been""","Lawndale, CA, USA",SOCGAC
+"""been""","Montebello, CA, USA",SOCGAC
+"""been""","Euless, TX, USA",SOCGAC
+"""been""","Riverside, CA, USA",SOCGAC
+"""been""","Pacific Grove, CA, USA",SOCGAC
+"""been""","Perry, OK, USA",SOCGAC
+"""been""","Lawton, OK, USA",SOCGAC
+"""been""","Gun Barrel City, TX, USA",SOCGAC
+"""been""","Dalhart, TX, USA",SOCGAC
+"""been""","Houma, LA, USA",SOCGAC
+"""been""","Lakewood, CA, USA",SOCGAC
+"""been""","Broken Arrow, OK, USA",SOCGAC
+"""been""","Palmdale, CA, USA",SOCGAC
+"""been""","Mono Hot Springs, CA, USA",SOCGAC
+"""been""","Lancaster, CA, USA",SOCGAC
+"""been""","Monrovia, CA, USA",SOCGAC
+"""been""","Mission Viejo, CA, USA",SOCGAC
+"""been""","Farmers Branch, TX, USA",SOCGAC
+"""been""","Ridgecrest, CA, USA",SOCGAC
+"""been""","Prescott, AR, USA",SOCGAC
+"""been""","Apple Valley, CA, USA",SOCGAC
+"""been""","Hillsboro, TX, USA",SOCGAC
+"""been""","Frisco, TX, USA",SOCGAC
+"""been""","Borger, TX, USA",SOCGAC
+"""been""","Gainesville, TX, USA",SOCGAC
+"""been""","Sugar Land, TX, USA",SOCGAC
+"""been""","Arcadia, CA, USA",SOCGAC
+"""been""","Bonham, TX, USA",SOCGAC
+"""been""","Sulphur Springs, TX, USA",SOCGAC
+"""been""","Galveston, TX, USA",SOCGAC
+"""been""","Cleburne, TX, USA",SOCGAC
+"""been""","Bowie, TX, USA",SOCGAC
+"""been""","Pueblo, CO, USA",SOCGAC
+"""been""","Salado, TX, USA",SOCGAC
+"""been""","Mount Shasta, CA, USA",SOCGAC
+"""been""","Huntington Beach, CA, USA",SOCGAC
+"""been""","San Angelo, TX, USA",SOCGAC
+"""been""","Sacramento, CA, USA",SOCGAC
+"""been""","Moorpark, CA, USA",SOCGAC
+"""been""","Rolling Hills Estates, CA, USA",SOCGAC
+"""been""","Breckenridge, TX, USA",SOCGAC
+"""been""","Weatherford, TX, USA",SOCGAC
+"""been""","Waxahachie, TX, USA",SOCGAC
+"""been""","Garland, TX, USA",SOCGAC
+"""been""","San Augustine, TX, USA",SOCGAC
+"""been""","Scottsbluff, NE, USA",SOCGAC
+"""been""","Alexandria, LA, USA",SOCGAC
+"""been""","Dumas, TX, USA",SOCGAC
+"""been""","Bridgeport, TX, USA",SOCGAC
+"""been""","College Station, TX, USA",SOCGAC
+"""been""","Gatesville, TX, USA",SOCGAC
+"""been""","Brenham, TX, USA",SOCGAC
+"""been""","Rosemead, CA, USA",SOCGAC
+"""been""","Morro Bay, CA, USA",SOCGAC
+"""been""","San Marcos, TX, USA",SOCGAC
+"""been""","Los Alamos, CA, USA",SOCGAC
+"""been""","Forney, TX, USA",SOCGAC
+"""been""","Marietta, OK, USA",SOCGAC
+"""been""","Los Angeles, CA, USA",SOCGAC
+"""been""","Placentia, CA, USA",SOCGAC
+"""been""","Azusa, CA, USA",SOCGAC
+"""been""","Denton, TX, USA",SOCGAC
+"""been""","Vernon, TX, USA",SOCGAC
+"""been""","Denison, TX, USA",SOCGAC
+"""been""","Auburn, AL, USA",SOCGAC
+"""been""","Los Alamitos, CA, USA",SOCGAC
+"""been""","Irvine, CA, USA",SOCGAC
+"""been""","Taos Ski Valley, NM, USA",SOCGAC
+"""been""","Las Vegas, NV, USA",SOCGAC
+"""been""","Fort Worth, TX, USA",SOCGAC
+"""been""","DeSoto, TX, USA",SOCGAC
+"""been""","Quartzsite, AZ, USA",SOCGAC
+"""been""","Childress, TX, USA",SOCGAC
+"""been""","Chicago, IL, USA",SOCGAC
+"""been""","Fullerton, CA, USA",SOCGAC
+"""been""","Phoenix, AZ, USA",SOCGAC
+"""been""","Abingdon, VA, USA",SOCGAC
+"""been""","Avery Island, LA, USA",SOCGAC
+"""been""","Artesia, CA, USA",SOCGAC
+"""been""","Murrieta, CA, USA",SOCGAC
+"""been""","Hope, AR, USA",SOCGAC
+"""been""","Lomita, CA, USA",SOCGAC
+"""been""","Hereford, TX, USA",SOCGAC
+"""been""","Rapid City, SD, USA",SOCGAC
+"""been""","Chickasha, OK, USA",SOCGAC
+"""been""","Stephenville, TX, USA",SOCGAC
+"""been""","Bluff Dale, TX, USA",SOCGAC
+"""been""","Waco, TX, USA",SOCGAC
+"""been""","Fredericksburg, TX, USA",SOCGAC
+"""been""","Hico, TX, USA",SOCGAC
+"""been""","Baton Rouge, LA, USA",SOCGAC
+"""been""","Boerne, TX, USA",SOCGAC
+"""been""","Guthrie, OK, USA",SOCGAC
+"""been""","Lompoc, CA, USA",SOCGAC
+"""been""","Inglewood, CA, USA",SOCGAC
+"""been""","Hot Springs Village, AR, USA",SOCGAC
+"""been""","Long Beach, CA, USA",SOCGAC
+"""been""","Fountain Valley, CA, USA",SOCGAC
+"""been""","Inyokern, CA, USA",SOCGAC
+"""been""","Needles, CA, USA",SOCGAC
+"""been""","Cisco, TX, USA",SOCGAC
+"""been""","Limon, CO, USA",SOCGAC
+"""been""","Coppell, TX, USA",SOCGAC
+"""been""","Norwalk, CA, USA",SOCGAC
+"""been""","Duarte, CA, USA",SOCGAC
+"""been""","The Colony, TX, USA",SOCGAC
+"""been""","West Palm Beach, FL, USA",SOCGAC
+"""been""","Malibu, CA, USA",SOCGAC
+"""been""","Littleton, CO, USA",SOCGAC
+"""been""","Texarkana, TX, USA",SOCGAC
+"""been""","White Settlement, TX, USA",SOCGAC
+"""been""","Texas City, TX, USA",SOCGAC
+"""been""","Corsicana, TX, USA",SOCGAC
+"""been""","Burleson, TX, USA",SOCGAC
+"""been""","Whitney, TX, USA",SOCGAC
+"""been""","Eureka Springs, AR, USA",SOCGAC
+"""been""","North Palm Springs, CA, USA",SOCGAC
+"""been""","Leadville, CO, USA",SOCGAC
+"""been""","Corinth, TX, USA",SOCGAC
+"""been""","Whitesboro, TX, USA",SOCGAC
+"""been""","The Woodlands, TX, USA",SOCGAC
+"""been""","Glendale, CA, USA",SOCGAC
+"""been""","Minneapolis, MN, USA",SOCGAC
+"""been""","Biloxi, MS, USA",SOCGAC
+"""been""","Kalamazoo, MI, USA",SOCGAC
+"""been""","Red Oak, TX, USA",SOCGAC
+"""been""","Abilene, TX, USA",SOCGAC
+"""been""","Burnet, TX, USA",SOCGAC
+"""been""","Seagoville, TX, USA",SOCGAC
+"""been""","Manhattan Beach, CA, USA",SOCGAC
+"""been""","Fayetteville, AR, USA",SOCGAC
+"""been""","Silverton, CO, USA",SOCGAC
+"""been""","Columbus, GA, USA",SOCGAC
+"""been""","Arlington, VA, USA",SOCGAC
+"""been""","Gardena, CA, USA",SOCGAC
+"""been""","Joshua Tree, CA, USA",SOCGAC
+"""been""","Newport Beach, CA, USA",SOCGAC
+"""been""","Wills Point, TX, USA",SOCGAC
+"""been""","Palestine, TX, USA",SOCGAC
+"""been""","Tolar, TX, USA",SOCGAC
+"""been""","Caddo, TX, USA",SOCGAC
+"""been""","Lost Hills, CA, USA",SOCGAC
+"""been""","Garden Grove, CA, USA",SOCGAC
+"""been""","Johannesburg, CA, USA",SOCGAC
+"""been""","Wichita Falls, TX, USA",SOCGAC
+"""been""","Saint Louis, MO, USA",SOCGAC
+"""been""","Topanga, CA, USA",SOCGAC
+"""been""","Downey, CA, USA",SOCGAC
+"""been""","Pampa, TX, USA",SOCGAC
+"""been""","Yakima, WA, USA",SOCGAC
+"""been""","Las Animas, CO, USA",SOCGAC
+"""been""","Myrtle Beach, SC, USA",SOCGAC
+"""been""","Richardson, TX, USA",SOCGAC
+"""been""","June Lake, CA, USA",SOCGAC
+"""been""","Lynwood, CA, USA",SOCGAC
+"""been""","Sedalia, CO, USA",SOCGAC
+"""been""","Aspen, CO, USA",SOCGAC
+"""been""","La Habra, CA, USA",SOCGAC
+"""been""","Alice, TX, USA",SOCGAC
+"""been""","City of Industry, CA, USA",SOCGAC
+"""been""","Telluride, CO, USA",SOCGAC
+"""been""","La Jolla, CA, USA",SOCGAC
+"""been""","Georgetown, TX, USA",SOCGAC
+"""been""","Duncanville, TX, USA",SOCGAC
+"""been""","Gilmer, TX, USA",SOCGAC
+"""been""","Portland, OR, USA",SOCGAC
+"""been""","La Canada Flintridge, CA, USA",SOCGAC
+"""been""","Detroit, MI, USA",SOCGAC
+"""been""","Chama, NM, USA",SOCGAC
+"""been""","Brownfield, TX, USA",SOCGAC
+"""been""","Commerce, TX, USA",SOCGAC
+"""been""","Stevenson Ranch, CA, USA",SOCGAC
+"""been""","Brookshire, TX, USA",SOCGAC
+"""been""","Sanger, TX, USA",SOCGAC
+"""been""","El Monte, CA, USA",SOCGAC
+"""been""","Orlando, FL, USA",SOCGAC
+"""been""","Westlake, TX, USA",SOCGAC
+"""been""","Addison, TX, USA",SOCGAC
+"""been""","East Los Angeles, CA, USA",SOCGAC
+"""been""","Brownwood, TX, USA",SOCGAC
+"""been""","Scottsdale, AZ, USA",SOCGAC
+"""been""","Buchanan Dam, TX, USA",SOCGAC
+"""been""","Edna, TX, USA",SOCGAC
+"""been""","Wharton, TX, USA",SOCGAC
+"""been""","Sedona, AZ, USA",SOCGAC
+"""been""","Deadwood, SD, USA",SOCGAC
+"""been""","Bryan, TX, USA",SOCGAC
+"""been""","Marina del Rey, CA, USA",SOCGAC
+"""been""","Temple, TX, USA",SOCGAC
+"""been""","Summerville, SC, USA",SOCGAC
+"""been""","Capitan, NM, USA",SOCGAC
+"""been""","Gaithersburg, MD, USA",SOCGAC
+"""been""","Terrell, TX, USA",SOCGAC
+"""been""","Buda, TX, USA",SOCGAC
+"""been""","Manitou Springs, CO, USA",SOCGAC
+"""been""","Chino Hills, CA, USA",SOCGAC
+"""been""","Steamboat Springs, CO, USA",SOCGAC
+"""been""","Evergreen, CO, USA",SOCGAC
+"""been""","Ranger, TX, USA",SOCGAC
+"""been""","Encinitas, CA, USA",SOCGAC
+"""been""","Boulder, CO, USA",SOCGAC
+"""been""","Cedar Creek, TX, USA",SOCGAC
+"""been""","Rockport, TX, USA",SOCGAC
+"""been""","Cedar Hill, TX, USA",SOCGAC
+"""been""","Vancouver, WA, USA",SOCGAC
+"""been""","Agoura, CA, USA",SOCGAC
+"""been""","Hawthorne, CA, USA",SOCGAC
+"""been""","Stuart, FL, USA",SOCGAC
+"""been""","Escondido, CA, USA",SOCGAC
+"""been""","Snyder, TX, USA",SOCGAC
+"""been""","Bridgeport, CA, USA",SOCGAC
+"""been""","Agoura Hills, CA, USA",SOCGAC
+"""been""","Aransas Pass, TX, USA",SOCGAC
+"""been""","Lake Elsinore, CA, USA",SOCGAC
+"""been""","Mount Pleasant, TX, USA",SOCGAC
+"""been""","Lake Forest, CA, USA",SOCGAC
+"""been""","Perryton, TX, USA",SOCGAC
+"""been""","Rockwall, TX, USA",SOCGAC
+"""been""","Mount Vernon, TX, USA",SOCGAC
+"""been""","Laguna Niguel, CA, USA",SOCGAC
+"""been""","Laguna Woods, CA, USA",SOCGAC
+"""been""","Monument, CO, USA",SOCGAC
+"""been""","Shanghai, China",SOCGAC
+"""been""","Lebanon, VA, USA",SOCGAC
+"""been""","Estes Park, CO, USA",SOCGAC
+"""been""","Lincoln, NE, USA",SOCGAC
+"""been""","Luckenbach, TX, USA",SOCGAC
+"""been""","Clovis, NM, USA",SOCGAC
+"""been""","Lubbock, TX, USA",SOCGAC
+"""been""","Breckenridge, CO, USA",SOCGAC
+"""been""","Vail, CO, USA",SOCGAC
+"""been""","Amarillo, TX, USA",SOCGAC
+"""been""","San Francisco, CA, USA",SOCGAC
+"""been""","Tempe, AZ, USA",SOCGAC
+"""been""","Frisco, CO, USA",SOCGAC
+"""been""","Bishop, TX, USA",SOCGAC
+"""been""","Arkadelphia, AR, USA",SOCGAC
+"""been""","Laguna Beach, CA, USA",SOCGAC
+"""been""","Alvin, TX, USA",SOCGAC
+"""been""","Hacienda Heights, CA, USA",SOCGAC
+"""been""","Laguna Hills, CA, USA",SOCGAC
+"""been"",""want""","West Glacier, MT, USA",SOCGAC
+"""been""","Alvarado, TX, USA",SOCGAC
+"""been""","Lufkin, TX, USA",SOCGAC
+"""been""","El Segundo, CA, USA",SOCGAC
+"""been""","Mabank, TX, USA",SOCGAC
+"""been""","Jerome, AZ, USA",SOCGAC
+"""been""","Nacogdoches, TX, USA",SOCGAC
+"""been""","El Toro, CA, USA",SOCGAC
+"""been""","Trinidad, CO, USA",SOCGAC
+"""been""","Santa Fe, NM, USA",SOCGAC
+"""been""","Thousand Oaks, CA, USA",SOCGAC
+"""been""","Big Spring, TX, USA",SOCGAC
+"""been""","Southlake, TX, USA",SOCGAC
+"""been""","San Antonio, TX, USA",SOCGAC
+"""been""","Johnson City, TN, USA",SOCGAC
+"""been""","Spokane, WA, USA",SOCGAC
+"""been""","Vancouver, British Columbia, Canada",SOCGAC
+"""been""","Brea, CA, USA",SOCGAC
+"""been""","Monte Vista, CO, USA",SOCGAC
+"""been""","Victoria, British Columbia, Canada",SOCGAC
+"""been""","Port Angeles, WA, USA",SOCGAC
+"""been""","Mineral Wells, TX, USA",SOCGAC
+"""been""","Solvang, CA, USA",SOCGAC
+"""been""","Calabasas, CA, USA",SOCGAC
+"""been""","Salt Lake City, UT, USA",SOCGAC
+"""been""","Castle Rock, CO, USA",SOCGAC
+"""been""","Sherman, TX, USA",SOCGAC
+"""been""","Central City, CO, USA",SOCGAC
+"""been""","Austin, TX, USA",SOCGAC
+"""been""","Bastrop, TX, USA",SOCGAC
+"""been""","Cameron, TX, USA",SOCGAC
+"""been""","Tampa, FL, USA",SOCGAC
+"""been""","Pagosa Springs, CO, USA",SOCGAC
+"""been""","Canton, TX, USA",SOCGAC
+"""been""","Costa Mesa, CA, USA",SOCGAC
+"""been""","Trophy Club, TX, USA",SOCGAC
+"""been""","Melbourne, FL, USA",SOCGAC
+"""been""","Indialantic, FL, USA",SOCGAC
+"""been""","Blacksburg, VA, USA",SOCGAC
+"""been""","Coto de Caza, CA, USA",SOCGAC
+"""been""","Solana Beach, CA, USA",SOCGAC
+"""been""","Paris, TX, USA",SOCGAC
+"""been""","Hermosa Beach, CA, USA",SOCGAC
+"""been""","Astoria, OR, USA",SOCGAC
+"""been""","Coronado, CA, USA",SOCGAC
+"""been""","Canon City, CO, USA",SOCGAC
+"""been""","Corpus Christi, TX, USA",SOCGAC
+"""been""","Ouray, CO, USA",SOCGAC
+"""been""","Athens, TX, USA",SOCGAC
+"""been""","Jacksonville, FL, USA",SOCGAC
+"""been""","Crockett, TX, USA",SOCGAC
+"""been""","Red Lodge, MT, USA",SOCGAC
+"""been""","Pasadena, TX, USA",SOCGAC
+"""been""","Anaheim, CA, USA",SOCGAC
+"""been""","Bellaire, TX, USA",SOCGAC
+"""been""","Baltimore, MD, USA",SOCGAC
+"""been""","Albuquerque, NM, USA",SOCGAC
+"""been""","Aliso Viejo, CA, USA",SOCGAC
+"""been""","Alhambra, CA, USA",SOCGAC
+"""been""","Corona, CA, USA",SOCGAC
+"""been""","Vail, AZ, USA",SOCGAC
+"""been""","Eureka, CA, USA",SOCGAC
+"""been""","Compton, CA, USA",SOCGAC
+"""been""","Helendale, CA, USA",SOCGAC
+"""been""","Buena Park, CA, USA",SOCGAC
+"""been""","Roanoke, TX, USA",SOCGAC
+"""been""","Tyler, TX, USA",SOCGAC
+"""been""","Burbank, CA, USA",SOCGAC
+"""been""","Carrollton, TX, USA",SOCGAC
+"""been""","Tuba City, AZ, USA",SOCGAC
+"""been""","Canyon Lake, TX, USA",SOCGAC
+"""been""","Arlington, TX, USA",SOCGAC
+"""been""","North Charleston, SC, USA",SOCGAC
+"""been""","Bedford, TX, USA",SOCGAC
+"""been""","Fort Smith, AR, USA",SOCGAC
+"""been""","Canyon, TX, USA",SOCGAC
+"""been""","Savannah, GA, USA",SOCGAC
+"""been""","Nashville, TN, USA",SOCGAC
+"""been""","Corona del Mar, CA, USA",SOCGAC
+"""been""","Houston, TX, USA",SOCGAC
+"""been""","Boston, MA, USA",SOCGAC
+"""been""","Dana Point, CA, USA",SOCGAC
+"""been""","Lake Dallas, TX, USA",SOCGAC
+"""been""","New Orleans, LA, USA",SOCGAC
+"""been""","Custer, SD, USA",SOCGAC
+"""been""","Camp Pendleton, CA, USA",SOCGAC
+"""been""","Colorado Springs, CO, USA",SOCGAC
+"""been""","Asheville, NC, USA",SOCGAC
+"""been""","Salton City, CA, USA",SOCGAC
+"""been""","Lake Worth, TX, USA",SOCGAC
+"""been""","Gunnison, CO, USA",SOCGAC
+"""been""","Pigeon Forge, TN, USA",SOCGAC
+"""been""","Culver City, CA, USA",SOCGAC
+"""been""","Harrison, AR, USA",SOCGAC
+"""been""","Nocona, TX, USA",SOCGAC
+"""been""","Topeka, KS, USA",SOCGAC
+"""been""","South Pasadena, CA, USA",SOCGAC
+"""been""","Bullhead City, AZ, USA",SOCGAC
+"""been""","Presidio, TX, USA",SOCGAC
+"""been""","Huntsville, TX, USA",SOCGAC
+"""been""","Seattle, WA, USA",SOCGAC
+"""been""","Camarillo, CA, USA",SOCGAC
+"""been""","Yellowstone National Park, WY, USA",SOCGAC
+"""been""","Hurst, TX, USA",SOCGAC
+"""been""","Williamsburg, VA, USA",SOCGAC
+"""been""","Lancaster, TX, USA",SOCGAC
+"""been""","Natchez, LA, USA",SOCGAC
+"""been""","Vista, CA, USA",SOCGAC
+"""been""","San Diego, CA, USA",SOCGAC
+"""been""","Hutchins, TX, USA",SOCGAC
+"""been""","Cincinnati, OH, USA",SOCGAC
+"""been""","Titusville, FL, USA",SOCGAC
+"""been""","Covina, CA, USA",SOCGAC
+"""been""","Lampasas, TX, USA",SOCGAC
+"""been""","North Richland Hills, TX, USA",SOCGAC
+"""been""","Capulin, NM, USA",SOCGAC
+"""been""","Helena, MT, USA",SOCGAC
+"""been""","Twentynine Palms, CA, USA",SOCGAC
+"""been""","Coeur d'Alene, ID, USA",SOCGAC
+"""been""","Tokyo, Japan",SOCGAC
+"""been""","Pleasanton, TX, USA",SOCGAC
+"""been""","Nederland, TX, USA",SOCGAC
+"""been""","San Luis Obispo, CA, USA",SOCGAC
+"""been""","Whittier, CA, USA",SOCGAC
+"""been""","Dillon, CO, USA",SOCGAC
+"""been""","Rowlett, TX, USA",SOCGAC
+"""been""","Round Rock, TX, USA",SOCGAC
+"""been""","Fort Riley, KS, USA",SOCGAC
+"""been""","Plano, TX, USA",SOCGAC
+"""been""","Gatlinburg, TN, USA",SOCGAC
+"""been""","San Marcos, CA, USA",SOCGAC
+"""been""","Fort Leavenworth, KS, USA",SOCGAC
+"""been""","Cape Canaveral, FL, USA",SOCGAC
+"""been""","Knoxville, TN, USA",SOCGAC
+"""been""","San Juan Capistrano, CA, USA",SOCGAC
+"""been""","Denver, CO, USA",SOCGAC
+"""been""","Mansfield, TX, USA",SOCGAC
+"""been""","Carlsbad, CA, USA",SOCGAC
+"""been""","Carmel, CA, USA",SOCGAC
+"""been""","Westminster, CA, USA",SOCGAC
+"""been""","Kissimmee, FL, USA",SOCGAC
+"""been""","McLean, VA, USA",SOCGAC
+"""been""","Marble Falls, TX, USA",SOCGAC
+"""been""","Leavenworth, KS, USA",SOCGAC
+"""been""","Westlake Village, CA, USA",SOCGAC
+"""been""","Port Aransas, TX, USA",SOCGAC
+"""been""","San Gabriel, CA, USA",SOCGAC
+"""been""","Cardiff-by-the-Sea, CA, USA",SOCGAC
+"""been""","Port Arthur, TX, USA",SOCGAC
+"""been""","Hot Springs, AR, USA",SOCGAC
+"""been""","Olympia, WA, USA",SOCGAC
+"""been""","Buffalo, NY, USA",SOCGAC
+"""been""","San Clemente, CA, USA",SOCGAC
+"""been""","Los Alamos, NM, USA",SOCGAC
+"""been""","Del Mar, CA, USA",SOCGAC
+"""been""","Crested Butte, CO, USA",SOCGAC
+"""been""","Marshall, TX, USA",SOCGAC
+"""been""","London, UK",SOCGAC
+"""been""","Flagstaff, AZ, USA",SOCGAC
+"""been""","Creede, CO, USA",SOCGAC
+"""been""","West Covina, CA, USA",SOCGAC
+"""been""","Royse City, TX, USA",SOCGAC
+"""been""","West Hollywood, CA, USA",SOCGAC
+"""been""","Rusk, TX, USA",SOCGAC
+"""been""","Charleston, SC, USA",SOCGAC
+"""been""","New Braunfels, TX, USA",SOCGAC
+"""been""","Beaumont, TX, USA",SOCGAC
+"""been""","Everett, WA, USA",SOCGAC
+"""been""","Midland, TX, USA",SOCGAC
+"""been""","Midlothian, TX, USA",SOCGAC
+"""been""","Santa Barbara, CA, USA",SOCGAC
+"""been""","Dayton, OH, USA",SOCGAC
+"""been""","Temecula, CA, USA",SOCGAC
+"""been""","Ocala, FL, USA",SOCGAC
+"""been""","Santa Clarita, CA, USA",SOCGAC
+"""been""","Big Pine, CA, USA",SOCGAC
+"""been""","Mexia, TX, USA",SOCGAC
+"""been""","San Ysidro, CA, USA",SOCGAC
+"""been""","Lewisville, TX, USA",SOCGAC
+"""been""","Santa Ana, CA, USA",SOCGAC
+"""been""","Cerritos, CA, USA",SOCGAC
+"""been""","Mesquite, TX, USA",SOCGAC
+"""been""","Jefferson, TX, USA",SOCGAC
+"""been""","Radford, VA, USA",SOCGAC
+"""been""","Memphis, TN, USA",SOCGAC
+"""been""","Beverly Hills, CA, USA",SOCGAC
+"""been""","Santa Rosa, NM, USA",SOCGAC
+"""been""","Casper, WY, USA",SOCGAC
+"""been""","Junction, TX, USA",SOCGAC
+"""been""","Grants, NM, USA",SOCGAC
+"""been""","Durango, CO, USA",SOCGAC
+"""been""","Big Sur, CA, USA",SOCGAC
+"""been""","Bellingham, WA, USA",SOCGAC
+"""been""","Little Elm, TX, USA",SOCGAC
+"""been""","Branson, MO, USA",SOCGAC
+"""been""","Mammoth Lakes, CA, USA",SOCGAC
+"""been""","Purcell, OK, USA",SOCGAC
+"""been""","Branson West, MO, USA",SOCGAC
+"""been""","El Paso, TX, USA",SOCGAC
+"""been""","Little Rock, AR, USA",SOCGAC
+"""been""","Seal Beach, CA, USA",SOCGAC
+"""been""","Boron, CA, USA",SOCGAC
+"""been""","Manhattan, KS, USA",SOCGAC
+"""been""","New York City, NY, USA",SOCGAC
+"""been""","Omaha, NE, USA",SOCGAC
+"""been""","Carlsbad, NM, USA",SOCGAC
+"""been""","Trabuco Canyon, CA, USA",SOCGAC
+"""been""","McKinney, TX, USA",SOCGAC
+"""been""","Odessa, TX, USA",SOCGAC
+"""been""","Ventura, CA, USA",SOCGAC
+"""been""","Torrance, CA, USA",SOCGAC
+"""been""","Taos, NM, USA",SOCGAC
+"""been""","Johnstown, PA, USA",SOCGAC
+"""been""","Lynnwood, WA, USA",SOCGAC
+"""been""","Great Bend, KS, USA",SOCGAC
+"""been""","Atlanta, GA, USA",SOCGAC
+"""been""","Santa Ynez, CA, USA",SOCGAC
+"""been""","Yorba Linda, CA, USA",SOCGAC
+"""been""","South Bend, IN, USA",SOCGAC
+"""been""","Santa Rosa, CA, USA",SOCGAC
+"""been""","Santa Ysabel, CA, USA",SOCGAC
+"""been""","Jacksonville, TX, USA",SOCGAC
+"""been""","Santa Monica, CA, USA",SOCGAC
+"""been""","Bishop, CA, USA",SOCGAC
+"""been""","Thermal, CA, USA",SOCGAC
+"""been""","Irving, TX, USA",SOCGAC
+"""been""","Italy, TX, USA",SOCGAC
+"""been""","Bath, UK",SOCGAC
+"""been""","Missoula, MT, USA",SOCGAC
+"""been""","East Glacier Park, MT, USA",SOCGAC
+"""been""","Johnson City, TX, USA",SOCGAC
+"""been""","Cambridge, MA, USA",SOCGAC
+"""been""","Washington DC, DC, USA",SOCGAC
+"""been""","Newport, OR, USA",SOCGAC
+"""been""","Haysville, KS, USA",SOCGAC
+"""been""","Kilgore, TX, USA",SOCGAC
+"""been""","Hays, KS, USA",SOCGAC
+"""been""","Daytona Beach, FL, USA",SOCGAC
+"""been""","Wynnewood, OK, USA",SOCGAC
+"""been""","Midwest City, OK, USA",SOCGAC
+"""been""","Bandon, OR, USA",SOCGAC
+"""been""","Tustin, CA, USA",SOCGAC
+"""been""","Ladera Ranch, CA, USA",SOCGAC
+"""been""","Virginia Beach, VA, USA",SOCGAC
+"""been""","Trona, CA, USA",SOCGAC
+"""been""","Bend, OR, USA",SOCGAC
+"""been""","Moore, OK, USA",SOCGAC
+"""been""","Morgantown, WV, USA",SOCGAC
+"""been""","Katy, TX, USA",SOCGAC
+"""been""","Kaufman, TX, USA",SOCGAC
+"""been""","Montgomery, AL, USA",SOCGAC
+"""been""","Winston Salem, NC, USA",SOCGAC
+"""been""","Newport News, VA, USA",SOCGAC
+"""been""","Derby, KS, USA",SOCGAC
+"""been""","Longview, TX, USA",SOCGAC
+"""been""","Ada, OK, USA",SOCGAC
+"""been""","Roanoke, VA, USA",SOCGAC
+"""been""","Signal Hill, CA, USA",SOCGAC
+"""been""","Simi Valley, CA, USA",SOCGAC
+"""been""","Mobile, AL, USA",SOCGAC
+"""been""","McAlester, OK, USA",SOCGAC

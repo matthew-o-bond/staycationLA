@@ -1,0 +1,330 @@
+tag,place,user
+"""been""","Seal Beach, CA, USA",swancastle
+"""been""","Kanab, UT, USA",swancastle
+"""been""","Irvine, CA, USA",swancastle
+"""been""","Pismo Beach, CA, USA",swancastle
+"""been""","Prescott, AZ, USA",swancastle
+"""been"",""want""","Los Angeles, CA, USA",swancastle
+"""been""","Fresno, CA, USA",swancastle
+"""been"",""want""","Chicago, IL, USA",swancastle
+"""been""","Avalon, CA, USA",swancastle
+"""been"",""want""","Cancun, Mexico",swancastle
+"""been""","Kusadasi, Turkey",swancastle
+"""been""","Glacier Bay National Park and Preserve, AK, USA",swancastle
+"""been""","Chichen Itza, Mexico",swancastle
+"""been""","Vero Beach, FL, USA",swancastle
+"""been""","Leipzig, Germany",swancastle
+"""been""","Meissen, Germany",swancastle
+"""been"",""want""","Portland, OR, USA",swancastle
+"""been""","Cheyenne, WY, USA",swancastle
+"""been""","Sausalito, CA, USA",swancastle
+"""been""","Torrance, CA, USA",swancastle
+"""been""","Coral Gables, FL, USA",swancastle
+"""been""","Dania Beach, FL, USA",swancastle
+"""been""","Garden Grove, CA, USA",swancastle
+"""been""","Mammoth Lakes, CA, USA",swancastle
+"""been""","Annapolis, MD, USA",swancastle
+"""been""","Tulum, Mexico",swancastle
+"""been""","Medford, OR, USA",swancastle
+"""want""","Dubai, United Arab Emirates",swancastle
+"""been"",""want""","Las Vegas, NV, USA",swancastle
+"""been"",""want""","Madrid, Spain",swancastle
+"""been""","Montreal, Quebec, Canada",swancastle
+"""been""","Truckee, CA, USA",swancastle
+"""been""","Arlington, VA, USA",swancastle
+"""been""","Deerfield Beach, FL, USA",swancastle
+"""been""","Ka'anapali, HI, USA",swancastle
+"""been""","Delray Beach, FL, USA",swancastle
+"""been""","Vancouver, British Columbia, Canada",swancastle
+"""been""","Glendale, CA, USA",swancastle
+"""been""","West Palm Beach, FL, USA",swancastle
+"""been""","Nuevo Vallarta, Mexico",swancastle
+"""been""","Malibu, CA, USA",swancastle
+"""been""","Kansas City, MO, USA",swancastle
+"""been""","Mount Kenya National Park, Kenya",swancastle
+"""been"",""want""","Washington DC, DC, USA",swancastle
+"""been""","Manhattan Beach, CA, USA",swancastle
+"""been""","Minneapolis, MN, USA",swancastle
+"""been""","Indianapolis, IN, USA",swancastle
+"""been""","Hilo, HI, USA",swancastle
+"""been"",""want""","Victoria, British Columbia, Canada",swancastle
+"""been""","Great Falls, MT, USA",swancastle
+"""been""","Reno, NV, USA",swancastle
+"""been""","Charleston, WV, USA",swancastle
+"""been""","Daytona Beach, FL, USA",swancastle
+"""been""","Norfolk, VA, USA",swancastle
+"""been""","Hollywood, FL, USA",swancastle
+"""been""","Scottsdale, AZ, USA",swancastle
+"""been""","Sedona, AZ, USA",swancastle
+"""been""","Marina del Rey, CA, USA",swancastle
+"""been""","Fargo, ND, USA",swancastle
+"""been""","Bronx, NY, USA",swancastle
+"""been""","Eugene, OR, USA",swancastle
+"""been""","Surfside Beach, SC, USA",swancastle
+"""want""","Newport News, VA, USA",swancastle
+"""been""","Simi Valley, CA, USA",swancastle
+"""been""","Boise, ID, USA",swancastle
+"""been""","Seaside, OR, USA",swancastle
+"""been""","La Canada Flintridge, CA, USA",swancastle
+"""been""","Macon, GA, USA",swancastle
+"""been""","Detroit, MI, USA",swancastle
+"""been""","Port Angeles, WA, USA",swancastle
+"""been""","La Jolla, CA, USA",swancastle
+"""been""","Orlando, FL, USA",swancastle
+"""been""","Rochester, MN, USA",swancastle
+"""been""","Willemstad, Curacao",swancastle
+"""been""","Stuttgart, Germany",swancastle
+"""been""","Mobile, AL, USA",swancastle
+"""been""","Cleveland, OH, USA",swancastle
+"""been""","Grants Pass, OR, USA",swancastle
+"""been""","Pirna, Germany",swancastle
+"""been""","Kokomo, IN, USA",swancastle
+"""been""","Fort Wayne, IN, USA",swancastle
+"""been""","Tempe, AZ, USA",swancastle
+"""been""","Lake Ozark, MO, USA",swancastle
+"""been""","Laguna Beach, CA, USA",swancastle
+"""been""","Bloomington, IN, USA",swancastle
+"""been""","San Jose del Cabo, Mexico",swancastle
+"""been""","Half Moon Bay, CA, USA",swancastle
+"""been"",""want""","Cabo San Lucas, Mexico",swancastle
+"""been""","Billings, MT, USA",swancastle
+"""been""","Wailea, HI, USA",swancastle
+"""been""","Bend, OR, USA",swancastle
+"""want""","Dresden, Germany",swancastle
+"""been""","Myrtle Beach, SC, USA",swancastle
+"""been""","Amarillo, TX, USA",swancastle
+"""been"",""want""","Prague, Czech Republic",swancastle
+"""been""","Salem, OR, USA",swancastle
+"""been""","Punta Cana, Dominican Republic",swancastle
+"""been""","Juneau, AK, USA",swancastle
+"""been""","Park City, UT, USA",swancastle
+"""been""","Palm Beach, FL, USA",swancastle
+"""been""","Puerto Plata, Dominican Republic",swancastle
+"""been""","Vancouver, WA, USA",swancastle
+"""been""","Hawthorne, CA, USA",swancastle
+"""been""","Boulder, CO, USA",swancastle
+"""been""","Escondido, CA, USA",swancastle
+"""been""","Blue Ridge, GA, USA",swancastle
+"""been""","Stuart, FL, USA",swancastle
+"""been""","Acapulco, Mexico",swancastle
+"""been""","Niagara Falls, NY, USA",swancastle
+"""been""","Chattanooga, TN, USA",swancastle
+"""been"",""want""","Zurich, Switzerland",swancastle
+"""been"",""want""","Cairo, Egypt",swancastle
+"""been""","Savannah, GA, USA",swancastle
+"""been""","Nashville, IN, USA",swancastle
+"""been""","Albuquerque, NM, USA",swancastle
+"""been"",""want""","Nairobi, Kenya",swancastle
+"""been""","Lafayette, IN, USA",swancastle
+"""been""","Ketchikan, AK, USA",swancastle
+"""been""","Belize City, Belize",swancastle
+"""been""","Mazatlan, Mexico",swancastle
+"""been""","Panama City, FL, USA",swancastle
+"""been""","North Myrtle Beach, SC, USA",swancastle
+"""been""","Buena Park, CA, USA",swancastle
+"""been""","North Charleston, SC, USA",swancastle
+"""been""","Burbank, CA, USA",swancastle
+"""been""","Panama City Beach, FL, USA",swancastle
+"""been"",""want""","Puerto Vallarta, Mexico",swancastle
+"""been""","Jackson, WY, USA",swancastle
+"""been""","Santo Domingo, Dominican Republic",swancastle
+"""been"",""want""","Barcelona, Spain",swancastle
+"""been""","Nashville, TN, USA",swancastle
+"""been""","Ashland, OR, USA",swancastle
+"""been""","Lincoln, NE, USA",swancastle
+"""been""","Huntsville, AL, USA",swancastle
+"""been""","Atlantic Beach, NC, USA",swancastle
+"""been""","Salt Lake City, UT, USA",swancastle
+"""been""","Greenville, SC, USA",swancastle
+"""been""","SeaTac, WA, USA",swancastle
+"""been""","Jacksonville, FL, USA",swancastle
+"""been""","Minot, ND, USA",swancastle
+"""been""","Pensacola, FL, USA",swancastle
+"""been""","Big Sur, CA, USA",swancastle
+"""been""","Costa Mesa, CA, USA",swancastle
+"""been""","Melbourne, FL, USA",swancastle
+"""been""","Tampa, FL, USA",swancastle
+"""been""","Sonoma, CA, USA",swancastle
+"""been"",""want""","Miami, FL, USA",swancastle
+"""been""","Oakland, CA, USA",swancastle
+"""been""","Miami Beach, FL, USA",swancastle
+"""been""","Oceanside, CA, USA",swancastle
+"""been""","Bogota, Colombia",swancastle
+"""been""","Dusseldorf, Germany",swancastle
+"""been""","Fayetteville, NC, USA",swancastle
+"""been""","Tulsa, OK, USA",swancastle
+"""been""","Santa Fe, NM, USA",swancastle
+"""been""","San Francisco, CA, USA",swancastle
+"""been""","Page, AZ, USA",swancastle
+"""been""","San Antonio, TX, USA",swancastle
+"""been""","Hermosa Beach, CA, USA",swancastle
+"""been""","Austin, TX, USA",swancastle
+"""been""","Mesa, AZ, USA",swancastle
+"""been""","Coronado, CA, USA",swancastle
+"""been""","Gorlitz, Germany",swancastle
+"""been""","Ensenada, Mexico",swancastle
+"""been""","Tucson, AZ, USA",swancastle
+"""been""","Koenigstein, Germany",swancastle
+"""been""","West Glacier, MT, USA",swancastle
+"""been""","Rosarito, Mexico",swancastle
+"""been""","South San Francisco, CA, USA",swancastle
+"""been""","Anaheim, CA, USA",swancastle
+"""been""","Loreto, Mexico",swancastle
+"""been""","Coeur d'Alene, ID, USA",swancastle
+"""been""","Jacksonville Beach, FL, USA",swancastle
+"""been""","Rancho Mirage, CA, USA",swancastle
+"""been""","Mendocino, CA, USA",swancastle
+"""been""","Rancho Palos Verdes, CA, USA",swancastle
+"""been""","Ontario, CA, USA",swancastle
+"""been""","Tijuana, Mexico",swancastle
+"""been""","Orange, CA, USA",swancastle
+"""been""","Ojai, CA, USA",swancastle
+"""been""","Spokane, WA, USA",swancastle
+"""been""","Marietta, GA, USA",swancastle
+"""been""","Fairbanks, AK, USA",swancastle
+"""been""","Crescent City, CA, USA",swancastle
+"""been""","Brooklyn, NY, USA",swancastle
+"""been"",""want""","Honolulu, HI, USA",swancastle
+"""been""","Colorado Springs, CO, USA",swancastle
+"""been"",""want""","Lihue, HI, USA",swancastle
+"""been"",""want""","Boston, MA, USA",swancastle
+"""been""","Bakersfield, CA, USA",swancastle
+"""been""","Dana Point, CA, USA",swancastle
+"""been""","Asheville, NC, USA",swancastle
+"""been""","New Orleans, LA, USA",swancastle
+"""been""","Redding, CA, USA",swancastle
+"""been""","Redondo Beach, CA, USA",swancastle
+"""been""","Saint Philips, Antigua and Barbuda",swancastle
+"""been""","South Lake Tahoe, CA, USA",swancastle
+"""been""","Mankato, MN, USA",swancastle
+"""been""","Athens, Greece",swancastle
+"""been""","Cartagena, Colombia",swancastle
+"""been""","Addis Ababa, Ethiopia",swancastle
+"""been""","Wiesbaden, Germany",swancastle
+"""been""","Dallas, TX, USA",swancastle
+"""been""","Oranjestad, Aruba",swancastle
+"""been""","Kapaa, HI, USA",swancastle
+"""been""","Houston, TX, USA",swancastle
+"""been""","Pompano Beach, FL, USA",swancastle
+"""been""","Flagstaff, AZ, USA",swancastle
+"""been""","Charleston, SC, USA",swancastle
+"""been""","West Hollywood, CA, USA",swancastle
+"""been""","San Dimas, CA, USA",swancastle
+"""been""","Del Mar, CA, USA",swancastle
+"""been""","San Clemente, CA, USA",swancastle
+"""been""","Hanalei, HI, USA",swancastle
+"""been""","Naples, FL, USA",swancastle
+"""want""","Fort Lauderdale, FL, USA",swancastle
+"""been""","Seven Mile Beach, Cayman Islands",swancastle
+"""been""","Chapel Hill, NC, USA",swancastle
+"""been""","St. John's, Antigua and Barbuda",swancastle
+"""been""","Palm Desert, CA, USA",swancastle
+"""been""","Palm Springs, CA, USA",swancastle
+"""been""","Las Cruces, NM, USA",swancastle
+"""been""","Charlotte, NC, USA",swancastle
+"""been""","Palo Alto, CA, USA",swancastle
+"""been""","Newark, NJ, USA",swancastle
+"""been"",""want""","Frankfurt, Germany",swancastle
+"""been""","Sitka, AK, USA",swancastle
+"""been""","Moab, UT, USA",swancastle
+"""been""","Tacoma, WA, USA",swancastle
+"""been""","Waikoloa, HI, USA",swancastle
+"""been""","Fort Myers Beach, FL, USA",swancastle
+"""want""","New York City, NY, USA",swancastle
+"""been""","Leavenworth, WA, USA",swancastle
+"""been""","Fort Walton Beach, FL, USA",swancastle
+"""been""","Charlottesville, VA, USA",swancastle
+"""been""","Carson, CA, USA",swancastle
+"""been""","Little Rock, AR, USA",swancastle
+"""been""","Long Island City, NY, USA",swancastle
+"""been""","Sunnyvale, CA, USA",swancastle
+"""been"",""want""","Denver, CO, USA",swancastle
+"""been""","Omaha, NE, USA",swancastle
+"""been""","Cape Canaveral, FL, USA",swancastle
+"""been""","Saint Paul, MN, USA",swancastle
+"""been""","Palos Verdes Estates, CA, USA",swancastle
+"""been""","Ocho Rios, Jamaica",swancastle
+"""been""","Lawndale, CA, USA",swancastle
+"""been""","San Marino, CA, USA",swancastle
+"""been""","Peoria, IL, USA",swancastle
+"""been""","Monterey, CA, USA",swancastle
+"""been""","Pasadena, CA, USA",swancastle
+"""been""","Williams, AZ, USA",swancastle
+"""been""","Fiumicino, Italy",swancastle
+"""been""","Potsdam, Germany",swancastle
+"""been""","Athens, GA, USA",swancastle
+"""been""","Jamaica, Caribbean",swancastle
+"""been""","Wurzburg, Germany",swancastle
+"""been"",""want""","Berlin, Germany",swancastle
+"""been""","Fort Worth, TX, USA",swancastle
+"""been""","St. George, UT, USA",swancastle
+"""been""","Wailuku, HI, USA",swancastle
+"""been"",""want""","Seattle, WA, USA",swancastle
+"""been""","Port Townsend, WA, USA",swancastle
+"""been""","Carlsbad, CA, USA",swancastle
+"""been""","Carmel, CA, USA",swancastle
+"""been""","San Jose, CA, USA",swancastle
+"""been""","Desert Hot Springs, CA, USA",swancastle
+"""been""","Fort Myers, FL, USA",swancastle
+"""want""","Kailua-Kona, HI, USA",swancastle
+"""been""","Hana, HI, USA",swancastle
+"""been""","Kahului, HI, USA",swancastle
+"""been""","Seward, AK, USA",swancastle
+"""been""","Ixtapa, Mexico",swancastle
+"""been"",""want""","San Diego, CA, USA",swancastle
+"""been""","Lahaina, HI, USA",swancastle
+"""been""","Paso Robles, CA, USA",swancastle
+"""been""","Valdosta, GA, USA",swancastle
+"""been""","Kihei, HI, USA",swancastle
+"""been""","Freeport, Bahamas",swancastle
+"""been""","Morro Bay, CA, USA",swancastle
+"""been""","Yuma, AZ, USA",swancastle
+"""been""","Vatican City, Vatican City",swancastle
+"""been""","Ocean City, NJ, USA",swancastle
+"""been""","Nassau, Bahamas",swancastle
+"""been""","Mykonos Town, Greece",swancastle
+"""been""","Poipu, HI, USA",swancastle
+"""been""","Princeville, HI, USA",swancastle
+"""been""","Temecula, CA, USA",swancastle
+"""been""","Ocala, FL, USA",swancastle
+"""been""","Rio San Juan, Dominican Republic",swancastle
+"""been""","Santa Ana, CA, USA",swancastle
+"""been""","Dayton, OH, USA",swancastle
+"""been""","Santa Clara, CA, USA",swancastle
+"""been""","Santa Barbara, CA, USA",swancastle
+"""been""","Santa Cruz, CA, USA",swancastle
+"""been""","Santa Clarita, CA, USA",swancastle
+"""been"",""want""","London, UK",swancastle
+"""been""","Huntington Beach, CA, USA",swancastle
+"""been""","Sacramento, CA, USA",swancastle
+"""been"",""want""","Rome, Italy",swancastle
+"""been""","West Yellowstone, MT, USA",swancastle
+"""been""","Arcadia, CA, USA",swancastle
+"""been""","Galveston, TX, USA",swancastle
+"""been""","Henderson, NV, USA",swancastle
+"""been""","Serengeti National Park, Tanzania",swancastle
+"""been""","Wichita, KS, USA",swancastle
+"""been""","Beverly Hills, CA, USA",swancastle
+"""been"",""want""","Munich, Germany",swancastle
+"""been""","Memphis, TN, USA",swancastle
+"""been""","Kailua, HI, USA",swancastle
+"""been""","Cocoa Beach, FL, USA",swancastle
+"""been""","Niagara Falls, Ontario, Canada",swancastle
+"""been"",""want""","Atlanta, GA, USA",swancastle
+"""been""","Phoenix, AZ, USA",swancastle
+"""been""","Kapolei, HI, USA",swancastle
+"""been""","South Bend, IN, USA",swancastle
+"""been""","Indian Wells, CA, USA",swancastle
+"""been"",""want""","Napa, CA, USA",swancastle
+"""been""","Inglewood, CA, USA",swancastle
+"""been"",""want""","San Juan, Puerto Rico",swancastle
+"""been""","Long Beach, CA, USA",swancastle
+"""want""","Milwaukee, WI, USA",swancastle
+"""been""","Venice, FL, USA",swancastle
+"""been""","Civitavecchia, Italy",swancastle
+"""been""","El Paso, TX, USA",swancastle
+"""been""","Ventura, CA, USA",swancastle
+"""been""","Lauderdale-By-The-Sea, FL, USA",swancastle
+"""been""","Paphos, Cyprus",swancastle
+"""been""","Santa Monica, CA, USA",swancastle
+"""want""","Clearwater, FL, USA",swancastle

@@ -1,0 +1,506 @@
+tag,place,user
+"""been""","Vienna, Austria",MissMem
+"""been""","New Delhi, India",MissMem
+"""been""","Ocean City, MD, USA",MissMem
+"""been""","Salt Lake City, UT, USA",MissMem
+"""been""","Lake Ozark, MO, USA",MissMem
+"""been""","Hyde Park, NY, USA",MissMem
+"""been""","Jaipur, India",MissMem
+"""been""","Macon, GA, USA",MissMem
+"""been""","Kalakho, India",MissMem
+"""been""","Camdenton, MO, USA",MissMem
+"""been""","Alice Springs, Australia",MissMem
+"""been""","Valladolid, Mexico",MissMem
+"""been""","El Segundo, CA, USA",MissMem
+"""been""","North Myrtle Beach, SC, USA",MissMem
+"""been"",""fave""","Sydney, Australia",MissMem
+"""been""","Laguna Beach, CA, USA",MissMem
+"""been""","Nashville, TN, USA",MissMem
+"""been""","Hua Hin, Thailand",MissMem
+"""been""","Vail, CO, USA",MissMem
+"""been""","Greenville, SC, USA",MissMem
+"""been""","South Burlington, VT, USA",MissMem
+"""been""","Cairns, Australia",MissMem
+"""been""","Watford, UK",MissMem
+"""been""","Salzburg, Austria",MissMem
+"""been"",""fave""","Prague, Czech Republic",MissMem
+"""been""","Ein Gev, Israel",MissMem
+"""been""","Franz Josef, New Zealand",MissMem
+"""been""","Quito, Ecuador",MissMem
+"""been""","Warwick, RI, USA",MissMem
+"""been"",""want""","Santiago, Chile",MissMem
+"""been""","Trapper Creek, AK, USA",MissMem
+"""been""","Guatemala City, Guatemala",MissMem
+"""been""","Panajachel, Guatemala",MissMem
+"""been""","Valparaiso, Chile",MissMem
+"""been""","Boulder, CO, USA",MissMem
+"""been""","Mill Valley, CA, USA",MissMem
+"""been"",""fave""","Paris, France",MissMem
+"""been""","Sarasota, FL, USA",MissMem
+"""want""","Brasilia, Brazil",MissMem
+"""been""","Portsmouth, UK",MissMem
+"""been""","Leavesden, UK",MissMem
+"""been""","Amsterdam, The Netherlands",MissMem
+"""been""","Gaithersburg, MD, USA",MissMem
+"""been""","Nuevo Vallarta, Mexico",MissMem
+"""been""","Garrett Park, MD, USA",MissMem
+"""been""","Scottsdale, AZ, USA",MissMem
+"""been""","Magelang, Indonesia",MissMem
+"""want""","Lima, Peru",MissMem
+"""been""","Manitou Springs, CO, USA",MissMem
+"""been""","Myrtle Beach, SC, USA",MissMem
+"""been""","Sedona, AZ, USA",MissMem
+"""been""","Ubud, Indonesia",MissMem
+"""been""","Forrest City, AR, USA",MissMem
+"""been""","Millington, TN, USA",MissMem
+"""been"",""fave""","Antalya, Turkey",MissMem
+"""been""","Verkhniye Mandrogi, Russia",MissMem
+"""been""","Trinidad, Cuba",MissMem
+"""been""","San Pedro, Costa Rica",MissMem
+"""been""","Great Neck, NY, USA",MissMem
+"""been""","La Jolla, CA, USA",MissMem
+"""been""","Siesta Key, FL, USA",MissMem
+"""been""","Orlando, FL, USA",MissMem
+"""been""","Cumming, GA, USA",MissMem
+"""want""","Nairobi, Kenya",MissMem
+"""been""","Hapeville, GA, USA",MissMem
+"""been""","Grand Canyon National Park, AZ, USA",MissMem
+"""been""","Kusadasi, Turkey",MissMem
+"""been""","Warsaw, Poland",MissMem
+"""been""","Springfield, MA, USA",MissMem
+"""been""","Moab, UT, USA",MissMem
+"""been""","Greensboro, NC, USA",MissMem
+"""been""","St. Catharines, Ontario, Canada",MissMem
+"""been""","Gatlinburg, TN, USA",MissMem
+"""been""","Flagstaff, AZ, USA",MissMem
+"""been""","Charleston, SC, USA",MissMem
+"""been""","Tiptonville, TN, USA",MissMem
+"""been""","Calistoga, CA, USA",MissMem
+"""been""","Queenston, Ontario, Canada",MissMem
+"""been"",""want""","Burlington, VT, USA",MissMem
+"""been""","Kiawah Island, SC, USA",MissMem
+"""been""","Huamantla, Mexico",MissMem
+"""been""","Townsend, TN, USA",MissMem
+"""been""","Morrisville, VT, USA",MissMem
+"""been"",""fave""","Hong Kong, China",MissMem
+"""want""","Bucharest, Romania",MissMem
+"""been""","South San Francisco, CA, USA",MissMem
+"""been""","Bhaktapur, Nepal",MissMem
+"""been""","Vina del Mar, Chile",MissMem
+"""been""","Zagreb, Croatia",MissMem
+"""been""","Beijing, China",MissMem
+"""want""","Lisbon, Portugal",MissMem
+"""been""","Caesarea, Israel",MissMem
+"""been""","Goreme, Turkey",MissMem
+"""been""","Hollister, MO, USA",MissMem
+"""been""","Santa Fe, NM, USA",MissMem
+"""been""","San Antonio, TX, USA",MissMem
+"""been""","Cooperstown, NY, USA",MissMem
+"""been""","San Francisco, CA, USA",MissMem
+"""been""","Salem, MA, USA",MissMem
+"""been""","Lucerne, Switzerland",MissMem
+"""been""","Tucson, AZ, USA",MissMem
+"""been""","San Juan Teotihuacan, Mexico",MissMem
+"""been""","Wynne, AR, USA",MissMem
+"""been""","Everglades City, FL, USA",MissMem
+"""been""","Colorado Springs, CO, USA",MissMem
+"""been""","Hokitika, New Zealand",MissMem
+"""been""","Tlaxcala, Mexico",MissMem
+"""been""","Gamboa, Panama",MissMem
+"""been""","Alpharetta, GA, USA",MissMem
+"""been""","Death Valley National Park, CA, USA",MissMem
+"""been""","Waterbury, VT, USA",MissMem
+"""been""","Canakkale, Turkey",MissMem
+"""been""","Denali National Park and Preserve, AK, USA",MissMem
+"""been""","Acre, Israel",MissMem
+"""been""","Manchester, VT, USA",MissMem
+"""been""","Knoxville, TN, USA",MissMem
+"""been""","Kfar Blum, Israel",MissMem
+"""been""","Manchester, UK",MissMem
+"""been""","Pamukkale, Turkey",MissMem
+"""been""","Panama City, Panama",MissMem
+"""been"",""want""","Christchurch, New Zealand",MissMem
+"""been""","Tulum, Mexico",MissMem
+"""been""","Brooklyn, NY, USA",MissMem
+"""been"",""want""","Fairbanks, AK, USA",MissMem
+"""been""","Montreal, Quebec, Canada",MissMem
+"""been""","Providence, RI, USA",MissMem
+"""been""","Estes Park, CO, USA",MissMem
+"""been""","Playa del Carmen, Mexico",MissMem
+"""been""","Quebec City, Quebec, Canada",MissMem
+"""been""","Ketchikan, AK, USA",MissMem
+"""been""","Healdsburg, CA, USA",MissMem
+"""been""","Buellton, CA, USA",MissMem
+"""been""","Hilton Head, SC, USA",MissMem
+"""been""","Jaffa, Israel",MissMem
+"""been"",""want""","Queenstown, New Zealand",MissMem
+"""been""","Buena Park, CA, USA",MissMem
+"""been""","Te Anau, New Zealand",MissMem
+"""been""","Burlingame, CA, USA",MissMem
+"""been""","Cozumel, Mexico",MissMem
+"""been""","Safed, Israel",MissMem
+"""been""","Hornbeak, TN, USA",MissMem
+"""been""","Cancun, Mexico",MissMem
+"""been""","Budapest, Hungary",MissMem
+"""want""","Ngapali, Myanmar",MissMem
+"""been""","Napier, New Zealand",MissMem
+"""been""","Mexico City, Mexico",MissMem
+"""been"",""want""","Savannah, GA, USA",MissMem
+"""been""","Oaxaca, Mexico",MissMem
+"""been""","Albuquerque, NM, USA",MissMem
+"""been""","Petrified Forest National Park, AZ, USA",MissMem
+"""been""","Baltimore, MD, USA",MissMem
+"""been""","Syracuse, NY, USA",MissMem
+"""been""","Wasilla, AK, USA",MissMem
+"""been""","Coronado, CA, USA",MissMem
+"""been""","Toronto, Ontario, Canada",MissMem
+"""been""","Peulla, Chile",MissMem
+"""been""","Anaheim, CA, USA",MissMem
+"""been""","Akumal, Mexico",MissMem
+"""been""","Pensacola, FL, USA",MissMem
+"""been""","Coba, Mexico",MissMem
+"""been""","Mesa, AZ, USA",MissMem
+"""been""","San Gerardo de Dota, Costa Rica",MissMem
+"""been""","Sonoma, CA, USA",MissMem
+"""been""","Miami, FL, USA",MissMem
+"""been""","Stowe, VT, USA",MissMem
+"""been""","Wellington, New Zealand",MissMem
+"""been""","Miami Beach, FL, USA",MissMem
+"""been""","Tampa, FL, USA",MissMem
+"""been""","Netanya, Israel",MissMem
+"""been""","Krakow, Poland",MissMem
+"""been""","Rotorua, New Zealand",MissMem
+"""been""","Doral, FL, USA",MissMem
+"""been""","Cape May, NJ, USA",MissMem
+"""been""","Seville, Spain",MissMem
+"""been""","Taylor, MS, USA",MissMem
+"""been""","Berlin, Germany",MissMem
+"""been""","Branson, MO, USA",MissMem
+"""want""","Tokyo, Japan",MissMem
+"""been""","Vara Blanca, Costa Rica",MissMem
+"""been""","Little Rock, AR, USA",MissMem
+"""been""","Springfield, IL, USA",MissMem
+"""been""","New York City, NY, USA",MissMem
+"""been""","Durango, CO, USA",MissMem
+"""been""","North Miami Beach, FL, USA",MissMem
+"""been""","Richmond, VA, USA",MissMem
+"""been""","Niagara Falls, Ontario, Canada",MissMem
+"""been""","Gainesville, FL, USA",MissMem
+"""been""","Niagara-on-the-Lake, Ontario, Canada",MissMem
+"""been""","North Kingstown, RI, USA",MissMem
+"""been""","Cambridge, MA, USA",MissMem
+"""been""","Jojutla, Mexico",MissMem
+"""been""","Germantown, TN, USA",MissMem
+"""been""","Atlit, Israel",MissMem
+"""been""","San Simeon, CA, USA",MissMem
+"""been""","Pushkin, Russia",MissMem
+"""been""","Hampton, NH, USA",MissMem
+"""been""","Oxford, UK",MissMem
+"""want""","Seattle, WA, USA",MissMem
+"""been""","Skagway, AK, USA",MissMem
+"""been""","Lahaina, HI, USA",MissMem
+"""been""","Wellfleet, MA, USA",MissMem
+"""been""","Chokoloskee, FL, USA",MissMem
+"""been""","Winooski, VT, USA",MissMem
+"""been""","Beverly Hills, CA, USA",MissMem
+"""been""","Franklin, TN, USA",MissMem
+"""been""","Casablanca, Morocco",MissMem
+"""been""","Istanbul, Turkey",MissMem
+"""been""","Marrakech, Morocco",MissMem
+"""been""","Santa Cruz, CA, USA",MissMem
+"""been""","McKinley Village, AK, USA",MissMem
+"""been""","Stanford, CA, USA",MissMem
+"""been""","Naples, Italy",MissMem
+"""been""","Pompeii, Italy",MissMem
+"""been""","Southaven, MS, USA",MissMem
+"""been""","Tupelo, MS, USA",MissMem
+"""been""","Boston, MA, USA",MissMem
+"""been"",""fave""","Hoi An, Vietnam",MissMem
+"""been""","New Orleans, LA, USA",MissMem
+"""been""","Asheville, NC, USA",MissMem
+"""been""","East Greenwich, RI, USA",MissMem
+"""been""","San Diego, CA, USA",MissMem
+"""been""","San Bruno, CA, USA",MissMem
+"""been""","West Hollywood, CA, USA",MissMem
+"""been""","Amman, Jordan",MissMem
+"""been""","Fort Lauderdale, FL, USA",MissMem
+"""been""","Williamsburg, VA, USA",MissMem
+"""been""","Haifa, Israel",MissMem
+"""been""","Beit She'an, Israel",MissMem
+"""been""","Pisa, Italy",MissMem
+"""been"",""fave""","Tel Aviv, Israel",MissMem
+"""been""","Crested Butte, CO, USA",MissMem
+"""been"",""fave""","Jerusalem, Israel",MissMem
+"""been""","Stockholm, Sweden",MissMem
+"""been""","Ocean City, NJ, USA",MissMem
+"""been""","Cardiff, UK",MissMem
+"""been""","Brussels, Belgium",MissMem
+"""been""","Rome, Italy",MissMem
+"""want""","Stone Town, Tanzania",MissMem
+"""been"",""fave""","Reykjavik, Iceland",MissMem
+"""been""","Cordoba, Spain",MissMem
+"""been""","Vatican City, Vatican City",MissMem
+"""been""","Newport, RI, USA",MissMem
+"""been""","Hot Springs, AR, USA",MissMem
+"""been""","Honolulu, HI, USA",MissMem
+"""been""","Carmel Valley, CA, USA",MissMem
+"""been""","San Jose, CA, USA",MissMem
+"""been""","Pigeon Forge, TN, USA",MissMem
+"""been""","Kissimmee, FL, USA",MissMem
+"""been""","Columbia, SC, USA",MissMem
+"""been""","Bristol, RI, USA",MissMem
+"""been""","Petra - Wadi Musa, Jordan",MissMem
+"""been"",""fave""","London, UK",MissMem
+"""been""","Liverpool, UK",MissMem
+"""been""","Cape Canaveral, FL, USA",MissMem
+"""been""","Munich, Germany",MissMem
+"""been""","Houston, TX, USA",MissMem
+"""been""","Choctaw, MS, USA",MissMem
+"""been""","St. Augustine, FL, USA",MissMem
+"""want""","Fort Walton Beach, FL, USA",MissMem
+"""been""","Denver, CO, USA",MissMem
+"""been""","Tlacolula, Mexico",MissMem
+"""been""","Kathmandu, Nepal",MissMem
+"""been""","Poughkeepsie, NY, USA",MissMem
+"""been""","Budva, Montenegro",MissMem
+"""been""","Staten Island, NY, USA",MissMem
+"""been""","Copenhagen, Denmark",MissMem
+"""been""","Caracas, Venezuela",MissMem
+"""been""","Kiryat Shmona, Israel",MissMem
+"""been""","Victoria Falls, Zimbabwe",MissMem
+"""been""","Rehoboth Beach, DE, USA",MissMem
+"""been"",""fave""","Barcelona, Spain",MissMem
+"""been""","Puerto Iguazu, Argentina",MissMem
+"""been""","Hershey, PA, USA",MissMem
+"""been""","Monte-Carlo, Monaco",MissMem
+"""been""","Furnace Creek, CA, USA",MissMem
+"""been""","Gettysburg, PA, USA",MissMem
+"""been""","Bronx, NY, USA",MissMem
+"""been""","Shelburne, VT, USA",MissMem
+"""been""","Daytona Beach, FL, USA",MissMem
+"""want""","Adelaide, Australia",MissMem
+"""been""","Kuznechikha, Russia",MissMem
+"""been""","Delray Beach, FL, USA",MissMem
+"""been""","Athens, Greece",MissMem
+"""want""","Addis Ababa, Ethiopia",MissMem
+"""been"",""fave""","Bruges, Belgium",MissMem
+"""been""","Tunica, MS, USA",MissMem
+"""been""","Washington DC, DC, USA",MissMem
+"""been""","Bath, UK",MissMem
+"""been""","Philadelphia, PA, USA",MissMem
+"""been""","Cienfuegos, Cuba",MissMem
+"""been""","Frankfurt, Germany",MissMem
+"""been""","Roswell, GA, USA",MissMem
+"""been""","Staatsburg, NY, USA",MissMem
+"""been""","Nice, France",MissMem
+"""been""","Atlanta, GA, USA",MissMem
+"""been""","Yorktown, VA, USA",MissMem
+"""been""","Paducah, KY, USA",MissMem
+"""been""","Sausalito, CA, USA",MissMem
+"""been""","Quechee, VT, USA",MissMem
+"""been""","Memphis, TN, USA",MissMem
+"""been""","Highlands, NC, USA",MissMem
+"""been""","Rhinebeck, NY, USA",MissMem
+"""been""","Sherwood, AR, USA",MissMem
+"""been""","Montgomery, AL, USA",MissMem
+"""been""","Cuernavaca, Mexico",MissMem
+"""been""","Freeport, ME, USA",MissMem
+"""been""","Anniston, AL, USA",MissMem
+"""been"",""want""","Havana, Cuba",MissMem
+"""been""","Boca Raton, FL, USA",MissMem
+"""want""","Providenciales, Turks and Caicos",MissMem
+"""been""","Willemstad, Curacao",MissMem
+"""been"",""want""","Buenos Aires, Argentina",MissMem
+"""want""","Sasebo, Japan",MissMem
+"""been""","Uglich, Russia",MissMem
+"""been""","Lake George, NY, USA",MissMem
+"""been""","Amer, India",MissMem
+"""been""","North Little Rock, AR, USA",MissMem
+"""been""","San Carlos de Bariloche, Argentina",MissMem
+"""been""","San Martin Texmelucan de Labastida, Mexico",MissMem
+"""been""","Santa Maria del Tule, Mexico",MissMem
+"""been""","Acapulco, Mexico",MissMem
+"""been""","Masada, Israel",MissMem
+"""been""","Puerto Vallarta, Mexico",MissMem
+"""been""","Pine Mountain, GA, USA",MissMem
+"""been""","Boynton Beach, FL, USA",MissMem
+"""been""","North Truro, MA, USA",MissMem
+"""been""","Bristol, VT, USA",MissMem
+"""been""","Cooper Landing, AK, USA",MissMem
+"""want""","Milan, Italy",MissMem
+"""been""","Cesme, Turkey",MissMem
+"""been"",""want""","Moscow, Russia",MissMem
+"""want""","Cabo San Lucas, Mexico",MissMem
+"""been""","Siem Reap, Cambodia",MissMem
+"""been""","Worcester, MA, USA",MissMem
+"""been""","Virginia Beach, VA, USA",MissMem
+"""want""","Punta Cana, Dominican Republic",MissMem
+"""been""","Metropolis, IL, USA",MissMem
+"""want""","Donegal Town, Ireland",MissMem
+"""want""","Dublin, Ireland",MissMem
+"""been""","Kizhi, Russia",MissMem
+"""been""","Konya, Turkey",MissMem
+"""been""","Cojimar, Cuba",MissMem
+"""been""","Mobile, AL, USA",MissMem
+"""want""","Chiang Mai, Thailand",MissMem
+"""been"",""fave""","Bangkok, Thailand",MissMem
+"""want""","Santo Domingo, Dominican Republic",MissMem
+"""been""","Cape Town Central, South Africa",MissMem
+"""been""","Philadelphia, MS, USA",MissMem
+"""been""","New Shoreham, RI, USA",MissMem
+"""been""","Marietta, GA, USA",MissMem
+"""been""","Jackson, MS, USA",MissMem
+"""been""","Kirillov, Russia",MissMem
+"""been""","Saint John, New Brunswick, Canada",MissMem
+"""want""","Nha Trang, Vietnam",MissMem
+"""been""","Franschhoek, South Africa",MissMem
+"""want""","Antananarivo, Madagascar",MissMem
+"""been""","Horn Lake, MS, USA",MissMem
+"""been"",""fave""","Hanoi, Vietnam",MissMem
+"""been""","Halong Bay, Vietnam",MissMem
+"""been""","Ho Chi Minh City, Vietnam",MissMem
+"""been""","Shanghai, China",MissMem
+"""been""","Knysna, South Africa",MissMem
+"""been""","Oudtshoorn, South Africa",MissMem
+"""been""","Cordova, TN, USA",MissMem
+"""been""","Madrid, Spain",MissMem
+"""been""","Clarksville, TN, USA",MissMem
+"""been""","Florence, Italy",MissMem
+"""been""","Heredia, Costa Rica",MissMem
+"""been""","Cherokee, NC, USA",MissMem
+"""been""","Marmaris, Turkey",MissMem
+"""been""","Orange, CA, USA",MissMem
+"""been""","Charlotte, NC, USA",MissMem
+"""been""","Fethiye, Turkey",MissMem
+"""been""","Kennebunkport, ME, USA",MissMem
+"""been""","Atlantic City, NJ, USA",MissMem
+"""been""","San Pablo Villa de Mitla, Mexico",MissMem
+"""been""","Zaachila, Mexico",MissMem
+"""been""","Puebla, Mexico",MissMem
+"""been""","Puerto Morelos, Mexico",MissMem
+"""been"",""want""","Vancouver, British Columbia, Canada",MissMem
+"""been""","Provincetown, MA, USA",MissMem
+"""been""","Plitvice Lakes National Park, Croatia",MissMem
+"""been""","Collierville, TN, USA",MissMem
+"""been""","Tuscumbia, AL, USA",MissMem
+"""been""","Tulsa, OK, USA",MissMem
+"""been""","Florence, AL, USA",MissMem
+"""been"",""want""","Chattanooga, TN, USA",MissMem
+"""been""","Poas Volcano National Park, Costa Rica",MissMem
+"""been""","La Fortuna de San Carlos, Costa Rica",MissMem
+"""been""","Lake Placid, NY, USA",MissMem
+"""been""","Alajuela, Costa Rica",MissMem
+"""been""","Albany, NY, USA",MissMem
+"""been""","Halifax, Nova Scotia, Canada",MissMem
+"""been""","Hyannis, MA, USA",MissMem
+"""been""","Gulfport, MS, USA",MissMem
+"""been"",""fave""","Edinburgh, UK",MissMem
+"""want""","Windhoek, Namibia",MissMem
+"""been""","Huntsville, AL, USA",MissMem
+"""been""","Niagara Falls, NY, USA",MissMem
+"""been""","Venice, Italy",MissMem
+"""been""","Ogunquit, ME, USA",MissMem
+"""been""","St. John's, Newfoundland and Labrador, Canada",MissMem
+"""been""","Oxford, MS, USA",MissMem
+"""been""","Park City, UT, USA",MissMem
+"""been""","Eatonton, GA, USA",MissMem
+"""been""","Singapore, Singapore",MissMem
+"""been""","Pasadena, CA, USA",MissMem
+"""been""","Monterey, CA, USA",MissMem
+"""been""","Ridgedale, MO, USA",MissMem
+"""been"",""want""","Rio de Janeiro, Brazil",MissMem
+"""been""","Mackinac Island, MI, USA",MissMem
+"""been""","Milwaukee, WI, USA",MissMem
+"""been""","Ocho Rios, Jamaica",MissMem
+"""been""","Puntarenas, Costa Rica",MissMem
+"""been""","Montego Bay, Jamaica",MissMem
+"""been"",""want""","Auckland Central, New Zealand",MissMem
+"""been"",""fave""","Melbourne, Australia",MissMem
+"""been""","Tiberias, Israel",MissMem
+"""been""","Antigua, Guatemala",MissMem
+"""been""","Gloucester, MA, USA",MissMem
+"""want""","Sao Paulo, Brazil",MissMem
+"""been""","Great Barrington, MA, USA",MissMem
+"""been""","Macau, China",MissMem
+"""been""","Sardis, MS, USA",MissMem
+"""been""","West Drayton, UK",MissMem
+"""been"",""want""","St. Petersburg, Russia",MissMem
+"""been""","Freeport, Bahamas",MissMem
+"""been""","San Jose, Costa Rica",MissMem
+"""been""","Rockport, MA, USA",MissMem
+"""been""","Sawai Madhopur, India",MissMem
+"""been""","Split, Croatia",MissMem
+"""been""","Millbrae, CA, USA",MissMem
+"""been"",""want""","Dubrovnik, Croatia",MissMem
+"""been""","Bloomington, MN, USA",MissMem
+"""been""","Kefar Rosh HaNiqra, Israel",MissMem
+"""been""","Waitomo Caves, New Zealand",MissMem
+"""been""","Prattville, AL, USA",MissMem
+"""want""","Odessa, Ukraine",MissMem
+"""been""","Palo Alto, CA, USA",MissMem
+"""been""","Puerto Varas, Chile",MissMem
+"""been""","Varanasi, India",MissMem
+"""been""","Puerto Montt, Chile",MissMem
+"""been""","Palm Desert, CA, USA",MissMem
+"""been""","Stamford, CT, USA",MissMem
+"""been""","Frutillar, Chile",MissMem
+"""been""","Agra, India",MissMem
+"""been""","Monteverde Cloud Forest Reserve, Costa Rica",MissMem
+"""been""","Ein Zivan, Golan Heights",MissMem
+"""been""","Kotor, Montenegro",MissMem
+"""been""","Palm Springs, CA, USA",MissMem
+"""been""","Nativitas Municipality, Mexico",MissMem
+"""been""","Rehovot, Israel",MissMem
+"""been""","Positano, Italy",MissMem
+"""been""","Beatty, NV, USA",MissMem
+"""been""","San Juan, Puerto Rico",MissMem
+"""been""","Manuel Antonio, Costa Rica",MissMem
+"""been""","Madison, CT, USA",MissMem
+"""been""","Stellenbosch, South Africa",MissMem
+"""been""","Hardy, AR, USA",MissMem
+"""been""","Dallas, TX, USA",MissMem
+"""been""","Plettenberg Bay, South Africa",MissMem
+"""been""","Jimbaran, Indonesia",MissMem
+"""been""","Saint Louis, MO, USA",MissMem
+"""been""","Fullerton, CA, USA",MissMem
+"""been""","Chicago, IL, USA",MissMem
+"""been""","Los Olivos, CA, USA",MissMem
+"""been""","Rincon, Puerto Rico",MissMem
+"""been""","Dothan, AL, USA",MissMem
+"""been""","Old Saybrook, CT, USA",MissMem
+"""been""","Arlington, VA, USA",MissMem
+"""been""","Ankara, Turkey",MissMem
+"""been""","St. Petersburg, FL, USA",MissMem
+"""been""","Biloxi, MS, USA",MissMem
+"""been""","Eureka Springs, AR, USA",MissMem
+"""been""","Nagarkot, Nepal",MissMem
+"""been""","Patan (Lalitpur), Nepal",MissMem
+"""been""","Bessemer, AL, USA",MissMem
+"""been""","Birmingham, AL, USA",MissMem
+"""want""","Osaka, Japan",MissMem
+"""want""","Kyoto, Japan",MissMem
+"""want""","Kobe, Japan",MissMem
+"""want""","Sapporo, Japan",MissMem
+"""been""","Playa Mujeres, Mexico",MissMem
+"""been""","Rockville, MD, USA",MissMem
+"""been""","Tijuana, Mexico",MissMem
+"""been""","Aspen, CO, USA",MissMem
+"""been""","Napa, CA, USA",MissMem
+"""been""","Lompoc, CA, USA",MissMem
+"""been""","Indio, CA, USA",MissMem
+"""been""","Mountain View, CA, USA",MissMem
+"""been""","New Haven, CT, USA",MissMem
+"""been""","Phoenix, AZ, USA",MissMem
+"""been""","Long Beach, CA, USA",MissMem
+"""want""","Kuala Lumpur, Malaysia",MissMem
+"""been""","Osage Beach, MO, USA",MissMem
+"""been""","Konakli, Turkey",MissMem
+"""been""","Las Vegas, NV, USA",MissMem
+"""been""","Bethesda, MD, USA",MissMem
+"""been""","Annapolis, MD, USA",MissMem
+"""been""","Los Angeles, CA, USA",MissMem
+"""been""","Keystone, CO, USA",MissMem
+"""been""","Playa Paraiso, Mexico",MissMem
+"""been""","Bentonville, AR, USA",MissMem
+"""been""","Clinton, CT, USA",MissMem
+"""been""","Castro, Chile",MissMem

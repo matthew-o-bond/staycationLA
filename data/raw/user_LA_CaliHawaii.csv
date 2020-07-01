@@ -1,0 +1,393 @@
+tag,place,user
+"""been""","Kailua, HI, USA",CaliHawaii
+"""been""","Kaneohe, HI, USA",CaliHawaii
+"""been""","Kapolei, HI, USA",CaliHawaii
+"""been""","Independence, CA, USA",CaliHawaii
+"""been""","Germantown, TN, USA",CaliHawaii
+"""been""","Susanville, CA, USA",CaliHawaii
+"""been""","Wildomar, CA, USA",CaliHawaii
+"""been""","Pearl City, HI, USA",CaliHawaii
+"""been""","Kingston, Jamaica",CaliHawaii
+"""been""","Kahuku, HI, USA",CaliHawaii
+"""been""","Richmond, VA, USA",CaliHawaii
+"""been""","Cape May, NJ, USA",CaliHawaii
+"""been""","San Simeon, CA, USA",CaliHawaii
+"""been""","Berkeley, CA, USA",CaliHawaii
+"""been""","Tahoe City, CA, USA",CaliHawaii
+"""been""","Temecula, CA, USA",CaliHawaii
+"""been""","Cerritos, CA, USA",CaliHawaii
+"""been""","Santa Ana, CA, USA",CaliHawaii
+"""want""","New York City, NY, USA",CaliHawaii
+"""been""","Tehachapi, CA, USA",CaliHawaii
+"""been""","Lynchburg, TN, USA",CaliHawaii
+"""been""","Aiea, HI, USA",CaliHawaii
+"""been""","Big Bear City, CA, USA",CaliHawaii
+"""been""","Cedar City, UT, USA",CaliHawaii
+"""been""","Ewa Beach, HI, USA",CaliHawaii
+"""been""","Haleiwa, HI, USA",CaliHawaii
+"""been""","Beverly Hills, CA, USA",CaliHawaii
+"""been""","El Paso, TX, USA",CaliHawaii
+"""been""","Ventura, CA, USA",CaliHawaii
+"""been""","Toms Place, CA, USA",CaliHawaii
+"""been""","Little Lake, CA, USA",CaliHawaii
+"""been""","San Juan, Puerto Rico",CaliHawaii
+"""been""","Klamath Falls, OR, USA",CaliHawaii
+"""been""","Coos Bay, OR, USA",CaliHawaii
+"""been""","St. George, UT, USA",CaliHawaii
+"""been""","Santa Cruz, CA, USA",CaliHawaii
+"""been""","Chesapeake, VA, USA",CaliHawaii
+"""been""","Big Pine, CA, USA",CaliHawaii
+"""been""","Santa Barbara, CA, USA",CaliHawaii
+"""been""","Kailua-Kona, HI, USA",CaliHawaii
+"""been""","Hana, HI, USA",CaliHawaii
+"""been""","Canyon Lake, CA, USA",CaliHawaii
+"""been""","West Hollywood, CA, USA",CaliHawaii
+"""been""","Kihei, HI, USA",CaliHawaii
+"""been""","Stockton, CA, USA",CaliHawaii
+"""been""","Banning, CA, USA",CaliHawaii
+"""been""","Lahaina, HI, USA",CaliHawaii
+"""been""","Paia, HI, USA",CaliHawaii
+"""been""","Seattle, WA, USA",CaliHawaii
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",CaliHawaii
+"""been""","San Diego, CA, USA",CaliHawaii
+"""been""","St. Thomas, U.S. Virgin Islands",CaliHawaii
+"""been""","Waimea, HI, USA",CaliHawaii
+"""been""","Bear Valley, CA, USA",CaliHawaii
+"""been""","Westlake Village, CA, USA",CaliHawaii
+"""been""","Cardiff-by-the-Sea, CA, USA",CaliHawaii
+"""been""","Capitola, CA, USA",CaliHawaii
+"""been""","Bass Lake, CA, USA",CaliHawaii
+"""been""","San Clemente, CA, USA",CaliHawaii
+"""been""","Del Mar, CA, USA",CaliHawaii
+"""been""","Williamsburg, VA, USA",CaliHawaii
+"""been"",""want""","Honolulu, HI, USA",CaliHawaii
+"""been""","San Juan Capistrano, CA, USA",CaliHawaii
+"""been""","Sun City, CA, USA",CaliHawaii
+"""been""","Koloa, HI, USA",CaliHawaii
+"""been""","San Jose, CA, USA",CaliHawaii
+"""been""","Lebanon, TN, USA",CaliHawaii
+"""been""","Carmel, CA, USA",CaliHawaii
+"""been""","Desert Hot Springs, CA, USA",CaliHawaii
+"""been""","Lihue, HI, USA",CaliHawaii
+"""been""","Carlsbad, CA, USA",CaliHawaii
+"""been""","Poipu, HI, USA",CaliHawaii
+"""been""","Princeville, HI, USA",CaliHawaii
+"""been""","Kapaa, HI, USA",CaliHawaii
+"""been""","Kealia, HI, USA",CaliHawaii
+"""been""","San Marcos, CA, USA",CaliHawaii
+"""been""","Kekaha, HI, USA",CaliHawaii
+"""been""","Bellflower, CA, USA",CaliHawaii
+"""been""","San Luis Obispo, CA, USA",CaliHawaii
+"""been""","Whittier, CA, USA",CaliHawaii
+"""been""","Denver, CO, USA",CaliHawaii
+"""been""","Carson, CA, USA",CaliHawaii
+"""been""","Carpinteria, CA, USA",CaliHawaii
+"""been""","Tustin, CA, USA",CaliHawaii
+"""been""","Roanoke, VA, USA",CaliHawaii
+"""been""","Tulare, CA, USA",CaliHawaii
+"""been""","Truckee, CA, USA",CaliHawaii
+"""been""","Big Sur, CA, USA",CaliHawaii
+"""been""","Trona, CA, USA",CaliHawaii
+"""been""","Newport News, VA, USA",CaliHawaii
+"""been""","Shoshone, CA, USA",CaliHawaii
+"""been""","Lockhart, TX, USA",CaliHawaii
+"""been""","Shell Beach, CA, USA",CaliHawaii
+"""been""","Kanab, UT, USA",CaliHawaii
+"""been""","Santa Rosa, CA, USA",CaliHawaii
+"""been""","Santa Paula, CA, USA",CaliHawaii
+"""been""","Santa Monica, CA, USA",CaliHawaii
+"""been""","Wrightwood, CA, USA",CaliHawaii
+"""been""","Santa Maria, CA, USA",CaliHawaii
+"""been""","Bishop, CA, USA",CaliHawaii
+"""been""","Mammoth Lakes, CA, USA",CaliHawaii
+"""been""","Tonopah, NV, USA",CaliHawaii
+"""been""","Stateline, NV, USA",CaliHawaii
+"""been""","Medford, OR, USA",CaliHawaii
+"""been""","Santee, CA, USA",CaliHawaii
+"""been""","Santa Ysabel, CA, USA",CaliHawaii
+"""been""","Blythe, CA, USA",CaliHawaii
+"""been""","Santa Ynez, CA, USA",CaliHawaii
+"""been""","Boron, CA, USA",CaliHawaii
+"""been""","Bonsall, CA, USA",CaliHawaii
+"""been""","Memphis, TN, USA",CaliHawaii
+"""been""","Tracy, CA, USA",CaliHawaii
+"""been""","Death Valley Junction, CA, USA",CaliHawaii
+"""been""","Torrance, CA, USA",CaliHawaii
+"""been""","Zephyr Cove, NV, USA",CaliHawaii
+"""been""","Waianae, HI, USA",CaliHawaii
+"""been""","Waimanalo, HI, USA",CaliHawaii
+"""been""","Virginia City, NV, USA",CaliHawaii
+"""been""","Suffolk, VA, USA",CaliHawaii
+"""been""","Seal Beach, CA, USA",CaliHawaii
+"""been""","Grover Beach, CA, USA",CaliHawaii
+"""been""","El Portal, CA, USA",CaliHawaii
+"""been""","Canyon Lake, TX, USA",CaliHawaii
+"""been""","La Palma, CA, USA",CaliHawaii
+"""been""","Nashville, TN, USA",CaliHawaii
+"""been""","Elk Grove, CA, USA",CaliHawaii
+"""been""","Coarsegold, CA, USA",CaliHawaii
+"""been""","Kingman, AZ, USA",CaliHawaii
+"""been""","Coachella, CA, USA",CaliHawaii
+"""been""","Laguna Beach, CA, USA",CaliHawaii
+"""been""","Mount Juliet, TN, USA",CaliHawaii
+"""been""","La Quinta, CA, USA",CaliHawaii
+"""been""","Jerome, AZ, USA",CaliHawaii
+"""been""","Guadalupe, CA, USA",CaliHawaii
+"""been""","El Segundo, CA, USA",CaliHawaii
+"""been""","Lake Havasu City, AZ, USA",CaliHawaii
+"""been""","Hanford, CA, USA",CaliHawaii
+"""been""","Acton, CA, USA",CaliHawaii
+"""been""","Salt Lake City, UT, USA",CaliHawaii
+"""been""","Viareggio, Italy",CaliHawaii
+"""been""","Adelanto, CA, USA",CaliHawaii
+"""been""","Agoura, CA, USA",CaliHawaii
+"""been""","Agoura Hills, CA, USA",CaliHawaii
+"""been""","Escondido, CA, USA",CaliHawaii
+"""been""","Coloma, CA, USA",CaliHawaii
+"""been""","Hawthorne, CA, USA",CaliHawaii
+"""been""","Lake Isabella, CA, USA",CaliHawaii
+"""been""","Encinitas, CA, USA",CaliHawaii
+"""been""","Harmony, CA, USA",CaliHawaii
+"""been""","Lake Elsinore, CA, USA",CaliHawaii
+"""been""","Bridgeport, CA, USA",CaliHawaii
+"""been""","Tonopah, AZ, USA",CaliHawaii
+"""been""","Scottsdale, AZ, USA",CaliHawaii
+"""been""","Searchlight, NV, USA",CaliHawaii
+"""been""","Reno, NV, USA",CaliHawaii
+"""been""","Primm, NV, USA",CaliHawaii
+"""been""","Hawaii Kai, HI, USA",CaliHawaii
+"""been""","Barstow, CA, USA",CaliHawaii
+"""been""","Steamboat Springs, CO, USA",CaliHawaii
+"""been""","China Lake, CA, USA",CaliHawaii
+"""been""","Camp Verde, AZ, USA",CaliHawaii
+"""been""","Mariposa, CA, USA",CaliHawaii
+"""been""","Marina del Rey, CA, USA",CaliHawaii
+"""been""","Sedona, AZ, USA",CaliHawaii
+"""been""","La Mesa, CA, USA",CaliHawaii
+"""been""","La Jolla, CA, USA",CaliHawaii
+"""been""","Carcassonne, France",CaliHawaii
+"""been""","Yreka, CA, USA",CaliHawaii
+"""been""","Chula Vista, CA, USA",CaliHawaii
+"""been""","El Cajon, CA, USA",CaliHawaii
+"""been""","Vista, CA, USA",CaliHawaii
+"""been""","Flagstaff, AZ, USA",CaliHawaii
+"""been""","Visalia, CA, USA",CaliHawaii
+"""been""","New Braunfels, TX, USA",CaliHawaii
+"""been""","Hanalei, HI, USA",CaliHawaii
+"""been""","Hanamaulu, HI, USA",CaliHawaii
+"""been""","Anaheim, CA, USA",CaliHawaii
+"""been""","Murfreesboro, TN, USA",CaliHawaii
+"""been""","Grand Canyon National Park, AZ, USA",CaliHawaii
+"""been""","Wasco, CA, USA",CaliHawaii
+"""been""","South San Francisco, CA, USA",CaliHawaii
+"""been""","Cambria, CA, USA",CaliHawaii
+"""been""","Crowley Lake, CA, USA",CaliHawaii
+"""been""","Waikoloa, HI, USA",CaliHawaii
+"""been""","Folsom, CA, USA",CaliHawaii
+"""been""","Camarillo, CA, USA",CaliHawaii
+"""been""","Bullhead City, AZ, USA",CaliHawaii
+"""been""","Crestline, CA, USA",CaliHawaii
+"""been""","Culver City, CA, USA",CaliHawaii
+"""been""","Round Rock, TX, USA",CaliHawaii
+"""been""","Paauhau, HI, USA",CaliHawaii
+"""been""","Three Rivers, CA, USA",CaliHawaii
+"""been""","Fontana, CA, USA",CaliHawaii
+"""been""","Moab, UT, USA",CaliHawaii
+"""want""","Greensboro, NC, USA",CaliHawaii
+"""been""","Barcelona, Spain",CaliHawaii
+"""been""","San Bernardino, CA, USA",CaliHawaii
+"""been""","Santa Fe, NM, USA",CaliHawaii
+"""been""","Thousand Oaks, CA, USA",CaliHawaii
+"""been""","Bakersfield, CA, USA",CaliHawaii
+"""been""","Dana Point, CA, USA",CaliHawaii
+"""been""","Baker, CA, USA",CaliHawaii
+"""been""","Weed, CA, USA",CaliHawaii
+"""been""","Squaw Valley, CA, USA",CaliHawaii
+"""been""","Colorado Springs, CO, USA",CaliHawaii
+"""been""","Tucson, AZ, USA",CaliHawaii
+"""been""","Pflugerville, TX, USA",CaliHawaii
+"""been""","San Francisco, CA, USA",CaliHawaii
+"""been""","Page, AZ, USA",CaliHawaii
+"""want""","Paris, France",CaliHawaii
+"""been""","Corona del Mar, CA, USA",CaliHawaii
+"""been""","Corona, CA, USA",CaliHawaii
+"""been""","Fallbrook, CA, USA",CaliHawaii
+"""been""","West Memphis, AR, USA",CaliHawaii
+"""been""","Valley Center, CA, USA",CaliHawaii
+"""been""","Burbank, CA, USA",CaliHawaii
+"""been""","Hemet, CA, USA",CaliHawaii
+"""been""","Buena Park, CA, USA",CaliHawaii
+"""been""","Eureka, CA, USA",CaliHawaii
+"""been""","Buellton, CA, USA",CaliHawaii
+"""been""","Fawnskin, CA, USA",CaliHawaii
+"""been""","Topanga, CA, USA",CaliHawaii
+"""been""","Coronado, CA, USA",CaliHawaii
+"""been""","Hesperia, CA, USA",CaliHawaii
+"""been""","Hermosa Beach, CA, USA",CaliHawaii
+"""been""","Miami Beach, FL, USA",CaliHawaii
+"""been""","Montpellier, France",CaliHawaii
+"""been""","Nimes, France",CaliHawaii
+"""been""","California City, CA, USA",CaliHawaii
+"""been""","Felton, CA, USA",CaliHawaii
+"""been""","Hollister, CA, USA",CaliHawaii
+"""been""","Solvang, CA, USA",CaliHawaii
+"""been""","Victorville, CA, USA",CaliHawaii
+"""been""","Soledad, CA, USA",CaliHawaii
+"""been""","Solana Beach, CA, USA",CaliHawaii
+"""been""","Austin, TX, USA",CaliHawaii
+"""been""","Costa Mesa, CA, USA",CaliHawaii
+"""been""","Crystal Bay, NV, USA",CaliHawaii
+"""been""","Yuma, AZ, USA",CaliHawaii
+"""been""","Island of Hawaii, HI, USA",CaliHawaii
+"""been""","Kauai, HI, USA",CaliHawaii
+"""been""","Roseville, CA, USA",CaliHawaii
+"""been""","Morro Bay, CA, USA",CaliHawaii
+"""been""","Morongo Valley, CA, USA",CaliHawaii
+"""been""","Hampton, VA, USA",CaliHawaii
+"""been""","Rosamond, CA, USA",CaliHawaii
+"""been""","Moreno Valley, CA, USA",CaliHawaii
+"""been""","Pauma Valley, CA, USA",CaliHawaii
+"""been""","Lemoore, CA, USA",CaliHawaii
+"""been""","Rolling Hills Estates, CA, USA",CaliHawaii
+"""been""","Rolling Hills, CA, USA",CaliHawaii
+"""been""","Paso Robles, CA, USA",CaliHawaii
+"""been""","Gardnerville, NV, USA",CaliHawaii
+"""been""","Big Bear Lake, CA, USA",CaliHawaii
+"""been""","Maui, HI, USA",CaliHawaii
+"""been""","Anza, CA, USA",CaliHawaii
+"""been""","Corolla, NC, USA",CaliHawaii
+"""been""","Oahu, HI, USA",CaliHawaii
+"""been""","Makaha, HI, USA",CaliHawaii
+"""been""","Idyllwild, CA, USA",CaliHawaii
+"""been""","Pico Rivera, CA, USA",CaliHawaii
+"""been""","Sacramento, CA, USA",CaliHawaii
+"""been""","South Lake Tahoe, CA, USA",CaliHawaii
+"""been""","Huntington Beach, CA, USA",CaliHawaii
+"""been""","Phelan, CA, USA",CaliHawaii
+"""been""","Brian Head, UT, USA",CaliHawaii
+"""been""","Petaluma, CA, USA",CaliHawaii
+"""been""","Running Springs, CA, USA",CaliHawaii
+"""been""","Paradise Valley, AZ, USA",CaliHawaii
+"""been""","Perris, CA, USA",CaliHawaii
+"""been""","Lancaster, CA, USA",CaliHawaii
+"""been""","Palmdale, CA, USA",CaliHawaii
+"""been""","Palm Springs, CA, USA",CaliHawaii
+"""been""","Mojave, CA, USA",CaliHawaii
+"""been""","Palm Desert, CA, USA",CaliHawaii
+"""been""","Modesto, CA, USA",CaliHawaii
+"""been""","Ridgecrest, CA, USA",CaliHawaii
+"""been""","Pala, CA, USA",CaliHawaii
+"""been""","Mission Viejo, CA, USA",CaliHawaii
+"""been""","Pacifica, CA, USA",CaliHawaii
+"""been""","Pacific Grove, CA, USA",CaliHawaii
+"""been""","Monte-Carlo, Monaco",CaliHawaii
+"""been""","Monaco-Ville, Monaco",CaliHawaii
+"""been""","Carson City, NV, USA",CaliHawaii
+"""been""","Nice, France",CaliHawaii
+"""been""","Lee Vining, CA, USA",CaliHawaii
+"""been""","Pasadena, CA, USA",CaliHawaii
+"""been""","Williams, AZ, USA",CaliHawaii
+"""been""","Monterey, CA, USA",CaliHawaii
+"""been""","Montecito, CA, USA",CaliHawaii
+"""been""","Riverside, CA, USA",CaliHawaii
+"""been""","Lawndale, CA, USA",CaliHawaii
+"""been""","Palos Verdes Estates, CA, USA",CaliHawaii
+"""been""","Palomar Mountain, CA, USA",CaliHawaii
+"""been""","Wailea, HI, USA",CaliHawaii
+"""been""","Minden, NV, USA",CaliHawaii
+"""been""","Mesquite, NV, USA",CaliHawaii
+"""been""","Downey, CA, USA",CaliHawaii
+"""been""","June Lake, CA, USA",CaliHawaii
+"""been""","Julian, CA, USA",CaliHawaii
+"""been""","Gardena, CA, USA",CaliHawaii
+"""been""","Lotus, CA, USA",CaliHawaii
+"""been""","Lost Hills, CA, USA",CaliHawaii
+"""been""","Garden Grove, CA, USA",CaliHawaii
+"""been""","Los Osos, CA, USA",CaliHawaii
+"""been""","Los Olivos, CA, USA",CaliHawaii
+"""been""","Florence, Italy",CaliHawaii
+"""been""","Pahrump, NV, USA",CaliHawaii
+"""been""","North Las Vegas, NV, USA",CaliHawaii
+"""been""","Goleta, CA, USA",CaliHawaii
+"""been""","Port Orford, OR, USA",CaliHawaii
+"""been""","Manhattan Beach, CA, USA",CaliHawaii
+"""been""","Kernville, CA, USA",CaliHawaii
+"""been""","Malibu, CA, USA",CaliHawaii
+"""been""","Norwalk, CA, USA",CaliHawaii
+"""been""","Portland, OR, USA",CaliHawaii
+"""want""","London, UK",CaliHawaii
+"""been""","Incline Village, NV, USA",CaliHawaii
+"""been""","Henderson, NV, USA",CaliHawaii
+"""been""","Arroyo Grande, CA, USA",CaliHawaii
+"""been""","Long Beach, CA, USA",CaliHawaii
+"""been""","Needles, CA, USA",CaliHawaii
+"""been""","San Marcos, TX, USA",CaliHawaii
+"""been""","Inglewood, CA, USA",CaliHawaii
+"""been""","Lone Pine, CA, USA",CaliHawaii
+"""been""","Lompoc, CA, USA",CaliHawaii
+"""been""","Indio, CA, USA",CaliHawaii
+"""been""","Lomita, CA, USA",CaliHawaii
+"""been""","Indian Wells, CA, USA",CaliHawaii
+"""been""","Murrieta, CA, USA",CaliHawaii
+"""been""","Phoenix, AZ, USA",CaliHawaii
+"""been""","Lodi, CA, USA",CaliHawaii
+"""been""","Auburn, CA, USA",CaliHawaii
+"""been""","Azusa, CA, USA",CaliHawaii
+"""been""","Laughlin, NV, USA",CaliHawaii
+"""been""","Las Vegas, NV, USA",CaliHawaii
+"""been"",""want""","Rome, Italy",CaliHawaii
+"""been""","Jean, NV, USA",CaliHawaii
+"""been""","Vatican City, Vatican City",CaliHawaii
+"""been""","Avila Beach, CA, USA",CaliHawaii
+"""been""","Garberville, CA, USA",CaliHawaii
+"""been""","Jamestown, CA, USA",CaliHawaii
+"""been""","Fullerton, CA, USA",CaliHawaii
+"""been""","Newhall, CA, USA",CaliHawaii
+"""been""","Los Banos, CA, USA",CaliHawaii
+"""been""","Placerville, CA, USA",CaliHawaii
+"""been""","Fresno, CA, USA",CaliHawaii
+"""been""","Los Angeles, CA, USA",CaliHawaii
+"""been""","Ko Olina, HI, USA",CaliHawaii
+"""been""","Pismo Beach, CA, USA",CaliHawaii
+"""been""","Los Alamos, CA, USA",CaliHawaii
+"""been""","Los Alamitos, CA, USA",CaliHawaii
+"""been""","Irvine, CA, USA",CaliHawaii
+"""been""","Ponderosa, CA, USA",CaliHawaii
+"""want""","Raleigh, NC, USA",CaliHawaii
+"""been""","Sunset Beach, HI, USA",CaliHawaii
+"""been""","Lanikai, HI, USA",CaliHawaii
+"""been""","Port Hueneme, CA, USA",CaliHawaii
+"""been""","Pomona, CA, USA",CaliHawaii
+"""been""","Grants Pass, OR, USA",CaliHawaii
+"""been""","Wailua, HI, USA",CaliHawaii
+"""been""","Virginia Beach, VA, USA",CaliHawaii
+"""been""","Gold Beach, OR, USA",CaliHawaii
+"""been""","Tijuana, Mexico",CaliHawaii
+"""been""","Rosarito, Mexico",CaliHawaii
+"""been""","Waimea, HI, USA",CaliHawaii
+"""been""","Kapalua, HI, USA",CaliHawaii
+"""been""","Norfolk, VA, USA",CaliHawaii
+"""been""","Orcutt, CA, USA",CaliHawaii
+"""been""","Merced, CA, USA",CaliHawaii
+"""been""","Orange, CA, USA",CaliHawaii
+"""been""","Menifee, CA, USA",CaliHawaii
+"""been""","Rancho Palos Verdes, CA, USA",CaliHawaii
+"""been""","Ontario, CA, USA",CaliHawaii
+"""been""","Olympic Valley, CA, USA",CaliHawaii
+"""been""","Rancho Cucamonga, CA, USA",CaliHawaii
+"""been""","Portsmouth, VA, USA",CaliHawaii
+"""been""","Oxnard, CA, USA",CaliHawaii
+"""been""","Redondo Beach, CA, USA",CaliHawaii
+"""been""","Redding, CA, USA",CaliHawaii
+"""been""","Riomaggiore, Italy",CaliHawaii
+"""been""","Monterosso al Mare, Italy",CaliHawaii
+"""been""","Yosemite National Park, CA, USA",CaliHawaii
+"""been""","Poway, CA, USA",CaliHawaii
+"""been""","Oakhurst, CA, USA",CaliHawaii
+"""been""","Olancha, CA, USA",CaliHawaii
+"""been""","Ojai, CA, USA",CaliHawaii
+"""been""","Ramona, CA, USA",CaliHawaii
+"""been""","Oceanside, CA, USA",CaliHawaii
+"""been""","Oceano, CA, USA",CaliHawaii
+"""been""","Barking, UK",CaliHawaii
+"""been""","Ka'anapali, HI, USA",CaliHawaii

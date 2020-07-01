@@ -1,0 +1,560 @@
+tag,place,user
+"""want""","Nha Trang, Vietnam",778donnar
+"""want""","Franschhoek, South Africa",778donnar
+"""want""","Shanghai, China",778donnar
+"""want""","Murcia, Spain",778donnar
+"""want""","Da Lat, Vietnam",778donnar
+"""want""","Ho Chi Minh City, Vietnam",778donnar
+"""been"",""want""","Hanoi, Vietnam",778donnar
+"""want""","Hue, Vietnam",778donnar
+"""want""","Miyakojima, Japan",778donnar
+"""want""","Niagara Falls, NY, USA",778donnar
+"""want""","Catania, Italy",778donnar
+"""want""","Calpe, Spain",778donnar
+"""want""","Cape Town Central, South Africa",778donnar
+"""been""","Richmond, Australia",778donnar
+"""want""","Whistler, British Columbia, Canada",778donnar
+"""want""","Vancouver, British Columbia, Canada",778donnar
+"""want""","Chiang Mai, Thailand",778donnar
+"""want""","Victoria, British Columbia, Canada",778donnar
+"""want""","La Coruna, Spain",778donnar
+"""want""","Tainan, Taiwan",778donnar
+"""want""","Placencia, Belize",778donnar
+"""want""","Columbus, OH, USA",778donnar
+"""want""","Taipei, Taiwan",778donnar
+"""been"",""fave""","Shibuya, Japan",778donnar
+"""want""","Bangkok, Thailand",778donnar
+"""been""","Shinjuku, Japan",778donnar
+"""want""","Tarifa, Spain",778donnar
+"""want""","Vicenza, Italy",778donnar
+"""want""","Mont Tremblant, Quebec, Canada",778donnar
+"""want""","Helsinki, Finland",778donnar
+"""been""","Broadbeach, Australia",778donnar
+"""want""","Fuengirola, Spain",778donnar
+"""want""","Madrid, Spain",778donnar
+"""want""","Dalyan, Turkey",778donnar
+"""want""","Toshima, Japan",778donnar
+"""want""","Cordoba, Argentina",778donnar
+"""want""","Taito, Japan",778donnar
+"""want""","Cabo San Lucas, Mexico",778donnar
+"""want""","Venice, Italy",778donnar
+"""want""","Kos Town, Greece",778donnar
+"""want""","Altea, Spain",778donnar
+"""want""","Taurito, Spain",778donnar
+"""want""","Koto, Japan",778donnar
+"""want""","Chuo, Japan",778donnar
+"""want""","La Fortuna de San Carlos, Costa Rica",778donnar
+"""want""","Minato, Japan",778donnar
+"""want""","Ota, Japan",778donnar
+"""want""","Vientiane, Laos",778donnar
+"""want""","Sapa, Vietnam",778donnar
+"""want""","Vieux Fort, St. Lucia",778donnar
+"""been""","Urayasu, Japan",778donnar
+"""been""","Narita, Japan",778donnar
+"""want""","Mancora, Peru",778donnar
+"""want""","Rhodes Town, Greece",778donnar
+"""want""","Faliraki, Greece",778donnar
+"""want""","Kallithea, Greece",778donnar
+"""been""","Kerobokan, Indonesia",778donnar
+"""want""","Milan, Italy",778donnar
+"""been""","Legian, Indonesia",778donnar
+"""want""","Grapevine, TX, USA",778donnar
+"""want""","Mar del Plata, Argentina",778donnar
+"""want""","Indianapolis, IN, USA",778donnar
+"""want""","Chiyoda, Japan",778donnar
+"""want""","Chiba, Japan",778donnar
+"""want""","Turin, Italy",778donnar
+"""want""","Bolzano, Italy",778donnar
+"""want""","Phnom Penh, Cambodia",778donnar
+"""been""","Pakenham, Australia",778donnar
+"""want""","Buenos Aires, Argentina",778donnar
+"""want""","Wanaka, New Zealand",778donnar
+"""want""","Hakodate, Japan",778donnar
+"""want""","Johor Bahru, Malaysia",778donnar
+"""want""","Playa de Palma, Spain",778donnar
+"""want""","Niagara Falls, Ontario, Canada",778donnar
+"""want""","Nikko, Japan",778donnar
+"""want""","Monte Verde, Brazil",778donnar
+"""want""","Seville, Spain",778donnar
+"""want""","Berlin, Germany",778donnar
+"""want""","Bremen, Germany",778donnar
+"""want""","Casablanca, Morocco",778donnar
+"""want""","Istanbul, Turkey",778donnar
+"""been""","Beraban, Indonesia",778donnar
+"""want""","Johannesburg, South Africa",778donnar
+"""been"",""fave""","Tokyo, Japan",778donnar
+"""want""","Puerto Del Carmen, Spain",778donnar
+"""want""","Laganas, Greece",778donnar
+"""want""","Erding, Germany",778donnar
+"""want""","Hakone-machi, Japan",778donnar
+"""want""","Rio de Janeiro, Brazil",778donnar
+"""want""","Jaco, Costa Rica",778donnar
+"""want""","Santos, Brazil",778donnar
+"""want""","Almeria, Spain",778donnar
+"""want""","Malia, Greece",778donnar
+"""want""","Cadiz, Spain",778donnar
+"""want""","Noto, Italy",778donnar
+"""want""","Stockholm, Sweden",778donnar
+"""want""","Lucea, Jamaica",778donnar
+"""been""","Auckland, New Zealand",778donnar
+"""been""","Belgrave, Australia",778donnar
+"""want""","Kuantan, Malaysia",778donnar
+"""want""","Lido di Venezia, Italy",778donnar
+"""been"",""want""","Yokohama, Japan",778donnar
+"""want""","Rome, Italy",778donnar
+"""want""","Cordoba, Spain",778donnar
+"""want""","Ipoh, Malaysia",778donnar
+"""want""","Arraial do Cabo, Brazil",778donnar
+"""want""","Nuremberg, Germany",778donnar
+"""want""","Malmo, Sweden",778donnar
+"""want""","Dar es Salaam, Tanzania",778donnar
+"""want""","Rotterdam, The Netherlands",778donnar
+"""want""","Naples, Italy",778donnar
+"""want""","Rafael Freyre, Cuba",778donnar
+"""want""","Sperlonga, Italy",778donnar
+"""want""","Pompeii, Italy",778donnar
+"""want""","Kato Gouves, Greece",778donnar
+"""want""","Antwerp, Belgium",778donnar
+"""want""","Da Nang, Vietnam",778donnar
+"""want""","Capri, Italy",778donnar
+"""been""","Berwick, Australia",778donnar
+"""want""","Campos Do Jordao, Brazil",778donnar
+"""want""","Campinas, Brazil",778donnar
+"""want""","Marrakech, Morocco",778donnar
+"""want""","Selcuk, Turkey",778donnar
+"""want""","Valencia, Spain",778donnar
+"""want""","Rabat, Morocco",778donnar
+"""want""","Tangier, Morocco",778donnar
+"""want""","Florence, Italy",778donnar
+"""want""","Atlantic City, NJ, USA",778donnar
+"""want""","Otranto, Italy",778donnar
+"""want""","Hermanus, South Africa",778donnar
+"""want""","Caleta de Fuste, Spain",778donnar
+"""want""","Pescara, Italy",778donnar
+"""want""","Matera, Italy",778donnar
+"""want""","Nara, Japan",778donnar
+"""been""","Narre Warren, Australia",778donnar
+"""want""","Santa Cruz, CA, USA",778donnar
+"""want""","Atlanta, GA, USA",778donnar
+"""want""","George Town, Malaysia",778donnar
+"""been""","Nusa Dua, Indonesia",778donnar
+"""been""","Kuta, Indonesia",778donnar
+"""been""","Santa Barbara, CA, USA",778donnar
+"""been""","Jimbaran, Indonesia",778donnar
+"""want""","Kota Kinabalu, Malaysia",778donnar
+"""been""","Memphis, TN, USA",778donnar
+"""want""","Bologna, Italy",778donnar
+"""want""","Qingdao, China",778donnar
+"""been""","Beverly Hills, CA, USA",778donnar
+"""want""","Soufriere, St. Lucia",778donnar
+"""want""","Gros Islet, St. Lucia",778donnar
+"""want""","Kailua, HI, USA",778donnar
+"""been""","Denpasar, Indonesia",778donnar
+"""want""","Queenstown, New Zealand",778donnar
+"""want""","Margaret River, Australia",778donnar
+"""want""","St. Lawrence Gap, Barbados",778donnar
+"""want""","Shinagawa, Japan",778donnar
+"""want""","Ankara, Turkey",778donnar
+"""been""","Cape Canaveral, FL, USA",778donnar
+"""want""","Pucon, Chile",778donnar
+"""want""","Cape Coral, FL, USA",778donnar
+"""want""","Livigno, Italy",778donnar
+"""want""","Bodrum City, Turkey",778donnar
+"""want""","Conil de la Frontera, Spain",778donnar
+"""been""","Frankston, Australia",778donnar
+"""want""","Es Canar, Spain",778donnar
+"""been""","Geelong, Australia",778donnar
+"""want""","Nungwi, Tanzania",778donnar
+"""want""","Macau, China",778donnar
+"""been""","Rotorua, New Zealand",778donnar
+"""been""","Taupo, New Zealand",778donnar
+"""want""","Fort Myers, FL, USA",778donnar
+"""want""","Wellington, New Zealand",778donnar
+"""want""","Fort Myers Beach, FL, USA",778donnar
+"""want""","Ubatuba, Brazil",778donnar
+"""been""","Beaconsfield, Australia",778donnar
+"""want""","Christchurch, New Zealand",778donnar
+"""want""","Sao Paulo, Brazil",778donnar
+"""been""","Biggera Waters, Australia",778donnar
+"""want""","Protaras, Cyprus",778donnar
+"""want""","Port Dickson, Malaysia",778donnar
+"""want""","Nagasaki, Japan",778donnar
+"""want""","Tumon, Mariana Islands",778donnar
+"""want""","Denver, CO, USA",778donnar
+"""want""","Fort Lauderdale, FL, USA",778donnar
+"""want""","Baguio, Philippines",778donnar
+"""want""","Osaka, Japan",778donnar
+"""been"",""want""","Fukuoka, Japan",778donnar
+"""want""","Oranjestad, Aruba",778donnar
+"""been""","Sapporo, Japan",778donnar
+"""want""","Seven Mile Beach, Cayman Islands",778donnar
+"""want""","Philadelphia, PA, USA",778donnar
+"""been"",""want""","Kyoto, Japan",778donnar
+"""want""","Kobe, Japan",778donnar
+"""want""","Hiroshima, Japan",778donnar
+"""been""","Melbourne, Australia",778donnar
+"""been"",""want""","Perth, Australia",778donnar
+"""want""","San Jose, Costa Rica",778donnar
+"""want""","Broome, Australia",778donnar
+"""want""","Alassio, Italy",778donnar
+"""want""","Praia da Pipa, Brazil",778donnar
+"""want""","Kuching, Malaysia",778donnar
+"""been""","Auckland Central, New Zealand",778donnar
+"""want""","Cape Panwa, Thailand",778donnar
+"""want""","Guilin, China",778donnar
+"""want""","Petaling Jaya, Malaysia",778donnar
+"""want""","Guangzhou, China",778donnar
+"""been""","West Hollywood, CA, USA",778donnar
+"""want""","Hangzhou, China",778donnar
+"""want""","Yangon (Rangoon), Myanmar",778donnar
+"""been""","Tullamarine, Australia",778donnar
+"""want""","Pretoria, South Africa",778donnar
+"""want""","Chengdu, China",778donnar
+"""want""","Seoul, South Korea",778donnar
+"""want""","Puerto Vallarta, Mexico",778donnar
+"""want""","Sardinal, Costa Rica",778donnar
+"""want""","Lake Louise, Alberta, Canada",778donnar
+"""want""","Porto Cristo, Spain",778donnar
+"""want""","Guadalajara, Mexico",778donnar
+"""want""","Daytona Beach, FL, USA",778donnar
+"""want""","Westport, Ireland",778donnar
+"""want""","Sa Coma, Spain",778donnar
+"""been"",""fave""","Hollywood, FL, USA",778donnar
+"""want""","Houston, TX, USA",778donnar
+"""want""","Nagoya, Japan",778donnar
+"""want""","Washington DC, DC, USA",778donnar
+"""want""","Sirmione, Italy",778donnar
+"""want""","Naha, Japan",778donnar
+"""want""","Playa el Agua, Venezuela",778donnar
+"""want""","Lapu Lapu, Philippines",778donnar
+"""want""","Cebu City, Philippines",778donnar
+"""been""","Hampton Park, Australia",778donnar
+"""want""","Pointe Aux Piments, Africa",778donnar
+"""want""","Ishigaki, Japan",778donnar
+"""want""","Flic En Flac, Africa",778donnar
+"""want""","Belle Mare, Africa",778donnar
+"""want""","Rochester, NY, USA",778donnar
+"""want""","Dingle, Ireland",778donnar
+"""want""","Alushta, Europe",778donnar
+"""want""","Acapulco, Mexico",778donnar
+"""want""","Bonito, Brazil",778donnar
+"""want""","Pokolbin, Australia",778donnar
+"""want""","New Delhi, India",778donnar
+"""want""","Boston, MA, USA",778donnar
+"""want""","Bergamo, Italy",778donnar
+"""want""","St. Paul's Bay, Malta",778donnar
+"""want""","Williamsburg, VA, USA",778donnar
+"""want""","Kumamoto, Japan",778donnar
+"""want""","Beppu, Japan",778donnar
+"""want""","Davao City, Philippines",778donnar
+"""want""","Sasebo, Japan",778donnar
+"""want""","Male, Asia",778donnar
+"""want""","Phuket Town, Thailand",778donnar
+"""want""","Makati, Philippines",778donnar
+"""been"",""want""","Kuala Lumpur, Malaysia",778donnar
+"""been"",""fave""","Honolulu, HI, USA",778donnar
+"""want""","Quezon City, Philippines",778donnar
+"""want""","Kagoshima, Japan",778donnar
+"""want""","Santa Marta, Colombia",778donnar
+"""want""","Manila, Philippines",778donnar
+"""want""","Pasay, Philippines",778donnar
+"""been""","New Orleans, LA, USA",778donnar
+"""been"",""fave""","Siem Reap, Cambodia",778donnar
+"""want""","Ischia, Italy",778donnar
+"""want""","Dublin, Ireland",778donnar
+"""want""","Lamai Beach, Thailand",778donnar
+"""want""","San Pedro, Belize",778donnar
+"""want""","Puerto de Mogan, Spain",778donnar
+"""been""","Louisville, KY, USA",778donnar
+"""want""","Sendai, Japan",778donnar
+"""want""","Izmir, Turkey",778donnar
+"""want""","Karuizawa-machi, Japan",778donnar
+"""want""","Seattle, WA, USA",778donnar
+"""want""","Monterosso al Mare, Italy",778donnar
+"""want""","La Spezia, Italy",778donnar
+"""want""","Kailua-Kona, HI, USA",778donnar
+"""want""","Ito, Japan",778donnar
+"""want""","Atami, Japan",778donnar
+"""want""","Moscow, Russia",778donnar
+"""want""","Havana, Cuba",778donnar
+"""want""","Cadaques, Spain",778donnar
+"""want""","Anapa, Russia",778donnar
+"""want""","Brasilia, Brazil",778donnar
+"""want""","San Pedro de Atacama, Chile",778donnar
+"""want""","El Paso, TX, USA",778donnar
+"""want""","Kanazawa, Japan",778donnar
+"""want""","Santa Monica, CA, USA",778donnar
+"""want""","Matsumoto, Japan",778donnar
+"""want""","Matsuyama, Japan",778donnar
+"""want""","Guanajuato, Mexico",778donnar
+"""want""","Calgary, Alberta, Canada",778donnar
+"""want""","Takayama, Japan",778donnar
+"""want""","New York City, NY, USA",778donnar
+"""been""","Canggu, Indonesia",778donnar
+"""want""","Waitomo Caves, New Zealand",778donnar
+"""want""","Hobart, Australia",778donnar
+"""been"",""want""","Nashville, TN, USA",778donnar
+"""want""","Psalidi, Greece",778donnar
+"""want""","Hong Kong, China",778donnar
+"""want""","Playa Paraiso, Mexico",778donnar
+"""want""","Tekirova, Turkey",778donnar
+"""want""","Palm Beach, FL, USA",778donnar
+"""been"",""want""","Laguna Beach, CA, USA",778donnar
+"""want""","Sciacca, Italy",778donnar
+"""want""","Belo Horizonte, Brazil",778donnar
+"""want""","Peschici, Italy",778donnar
+"""want""","Jerez De La Frontera, Spain",778donnar
+"""want""","Cefalu, Italy",778donnar
+"""want""","Cattolica, Italy",778donnar
+"""want""","Elafonissi, Greece",778donnar
+"""want""","Bern, Switzerland",778donnar
+"""been""","Adelaide, Australia",778donnar
+"""want""","Lido di Ostia, Italy",778donnar
+"""want""","Nairobi, Kenya",778donnar
+"""want""","Ortisei, Italy",778donnar
+"""want""","Surabaya, Indonesia",778donnar
+"""want""","Hamamatsu, Japan",778donnar
+"""want""","Tigaki, Greece",778donnar
+"""want""","Kata Beach, Thailand",778donnar
+"""want""","Olhos de Agua, Portugal",778donnar
+"""want""","Basel, Switzerland",778donnar
+"""want""","Beijing, China",778donnar
+"""been""","Orlando, FL, USA",778donnar
+"""want""","Montegrotto Terme, Italy",778donnar
+"""want""","Brooklyn, NY, USA",778donnar
+"""want""","Bucharest, Romania",778donnar
+"""want""","Dubai, United Arab Emirates",778donnar
+"""want""","Oia, Greece",778donnar
+"""want""","Marina di Camerota, Italy",778donnar
+"""want""","Las Terrenas, Dominican Republic",778donnar
+"""want""","Hakuba-mura, Japan",778donnar
+"""want""","Playa de las Americas, Spain",778donnar
+"""want""","Tromso, Norway",778donnar
+"""been"",""fave""","San Francisco, CA, USA",778donnar
+"""want""","Cancun, Mexico",778donnar
+"""want""","Villasimius, Italy",778donnar
+"""want""","San Antonio, TX, USA",778donnar
+"""want""","Melaka, Malaysia",778donnar
+"""want""","Santa Fe, NM, USA",778donnar
+"""want""","Charlotte Amalie, U.S. Virgin Islands",778donnar
+"""want""","Milano Marittima, Italy",778donnar
+"""want""","Christiansted, U.S. Virgin Islands",778donnar
+"""want""","Caen, France",778donnar
+"""been"",""want""","Mexico City, Mexico",778donnar
+"""want""","Tucson, AZ, USA",778donnar
+"""want""","Santa Ponsa, Spain",778donnar
+"""want""","San Agustin, Spain",778donnar
+"""been""","Surfers Paradise, Australia",778donnar
+"""want""","Toronto, Ontario, Canada",778donnar
+"""been""","Darwin, Australia",778donnar
+"""been""","Brisbane, Australia",778donnar
+"""want""","Stuttgart, Germany",778donnar
+"""want""","Cairns, Australia",778donnar
+"""want""","Jakarta, Indonesia",778donnar
+"""been""","South Lake Tahoe, CA, USA",778donnar
+"""want""","Knoxville, TN, USA",778donnar
+"""want""","Kyiv (Kiev), Ukraine",778donnar
+"""want""","Goreme, Turkey",778donnar
+"""been""","Beenleigh, Australia",778donnar
+"""want""","Stintino, Italy",778donnar
+"""want""","Vienna, Austria",778donnar
+"""want""","Caceres, Spain",778donnar
+"""want""","Katoomba, Australia",778donnar
+"""been""","Beerwah, Australia",778donnar
+"""want""","Kansas City, MO, USA",778donnar
+"""want""","Tropea, Italy",778donnar
+"""been""","Ngongotaha, New Zealand",778donnar
+"""been""","Wangaratta, Australia",778donnar
+"""want""","Fajardo, Puerto Rico",778donnar
+"""want""","Bel Ombre, Africa",778donnar
+"""want""","Newark, NJ, USA",778donnar
+"""want""","Giardini Naxos, Italy",778donnar
+"""want""","Kiotari, Greece",778donnar
+"""want""","Xiamen, China",778donnar
+"""want""","Georgioupolis, Greece",778donnar
+"""want""","Singapore, Singapore",778donnar
+"""want""","Vilamoura, Portugal",778donnar
+"""want""","Colorado Springs, CO, USA",778donnar
+"""want""","Shenzhen, China",778donnar
+"""want""","Zermatt, Switzerland",778donnar
+"""want""","Freeport, Bahamas",778donnar
+"""want""","Seogwipo, South Korea",778donnar
+"""want""","Playa del Secreto, Mexico",778donnar
+"""been""","Southport, Australia",778donnar
+"""been""","Dandenong, Australia",778donnar
+"""want""","Fujikawaguchiko-machi, Japan",778donnar
+"""want""","Mykonos Town, Greece",778donnar
+"""want""","Mai Khao, Thailand",778donnar
+"""want""","Alcala, Spain",778donnar
+"""been""","Anaheim, CA, USA",778donnar
+"""want""","Quebec City, Quebec, Canada",778donnar
+"""want""","Montreal, Quebec, Canada",778donnar
+"""want""","Puerto Galera, Philippines",778donnar
+"""been""","Tampa, FL, USA",778donnar
+"""want""","Jeju, South Korea",778donnar
+"""want""","El Nido, Philippines",778donnar
+"""want""","Busan, South Korea",778donnar
+"""want""","Miami, FL, USA",778donnar
+"""want""","Abu Dhabi, United Arab Emirates",778donnar
+"""want""","Miami Beach, FL, USA",778donnar
+"""want""","Puerto Princesa, Philippines",778donnar
+"""want""","Incheon, South Korea",778donnar
+"""want""","Riccione, Italy",778donnar
+"""want""","Cruz Bay, U.S. Virgin Islands",778donnar
+"""want""","Noumea, New Caledonia",778donnar
+"""want""","Ravello, Italy",778donnar
+"""want""","Calas de Majorca, Spain",778donnar
+"""want""","Myrtle Beach, SC, USA",778donnar
+"""want""","Lviv, Ukraine",778donnar
+"""want""","Austin, TX, USA",778donnar
+"""want""","Salvador, Brazil",778donnar
+"""want""","Cortina d'Ampezzo, Italy",778donnar
+"""want""","Pocos de Caldas, Brazil",778donnar
+"""want""","Porto Seguro, Brazil",778donnar
+"""want""","Praiano, Italy",778donnar
+"""want""","Puerto de Santiago, Spain",778donnar
+"""want""","Zakopane, Poland",778donnar
+"""want""","Sintra, Portugal",778donnar
+"""want""","Funchal, Portugal",778donnar
+"""want""","San Juan, Puerto Rico",778donnar
+"""want""","Cala Bona, Spain",778donnar
+"""want""","Railay Beach, Thailand",778donnar
+"""want""","Port de Pollenca, Spain",778donnar
+"""want""","Cala Ratjada, Spain",778donnar
+"""want""","Ca'n Picafort, Spain",778donnar
+"""want""","Le Morne, Africa",778donnar
+"""want""","Salt Lake City, UT, USA",778donnar
+"""want""","North Myrtle Beach, SC, USA",778donnar
+"""want""","Runaway Bay, Jamaica",778donnar
+"""want""","Sanya, China",778donnar
+"""want""","Corpus Christi, TX, USA",778donnar
+"""want""","Ocho Rios, Jamaica",778donnar
+"""want""","Trou aux Biches, Africa",778donnar
+"""want""","Tsilivi, Greece",778donnar
+"""been""","Mamaku, New Zealand",778donnar
+"""want""","Kamala, Thailand",778donnar
+"""want""","Naxos Town, Greece",778donnar
+"""want""","Nago, Japan",778donnar
+"""want""","Pittsburgh, PA, USA",778donnar
+"""want""","Pantai Cenang, Malaysia",778donnar
+"""want""","Ao Nang, Thailand",778donnar
+"""want""","Kathmandu, Nepal",778donnar
+"""want""","Toledo, Spain",778donnar
+"""want""","Monte-Carlo, Monaco",778donnar
+"""want""","Puerto de la Cruz, Spain",778donnar
+"""want""","Puerto Morelos, Mexico",778donnar
+"""want""","Maastricht, The Netherlands",778donnar
+"""want""","Alvor, Portugal",778donnar
+"""want""","Monterey, CA, USA",778donnar
+"""want""","Galveston, TX, USA",778donnar
+"""want""","Tunis, Tunisia",778donnar
+"""been""","Kuki, Japan",778donnar
+"""want""","Playa Mujeres, Mexico",778donnar
+"""want""","Fujisawa, Japan",778donnar
+"""want""","Nice, France",778donnar
+"""want""","Stavanger, Norway",778donnar
+"""want""","Puerto Iguazu, Argentina",778donnar
+"""want""","Victoria Falls, Zimbabwe",778donnar
+"""want""","Heraklion, Greece",778donnar
+"""want""","Gothenburg, Sweden",778donnar
+"""want""","Tagaytay, Philippines",778donnar
+"""want""","Denia, Spain",778donnar
+"""want""","Javea, Spain",778donnar
+"""want""","Diani Beach, Kenya",778donnar
+"""want""","Palm Cove, Australia",778donnar
+"""want""","Palm Springs, CA, USA",778donnar
+"""want""","Kaohsiung, Taiwan",778donnar
+"""want""","Ciutadella, Spain",778donnar
+"""want""","Addis Ababa, Ethiopia",778donnar
+"""want""","Taoyuan, Taiwan",778donnar
+"""want""","Juan-les-Pins, France",778donnar
+"""want""","Taichung, Taiwan",778donnar
+"""want""","Bergen, Norway",778donnar
+"""want""","Cannes, France",778donnar
+"""want""","Kalamaki, Greece",778donnar
+"""want""","Bagan, Myanmar",778donnar
+"""want""","Kardamena, Greece",778donnar
+"""want""","Chaweng, Thailand",778donnar
+"""want""","Goynuk, Turkey",778donnar
+"""want""","Bilbao, Spain",778donnar
+"""want""","Frankfurt, Germany",778donnar
+"""want""","Costa Calma, Spain",778donnar
+"""want""","Costa Teguise, Spain",778donnar
+"""been""","Seminyak, Indonesia",778donnar
+"""want""","Hamburg, Germany",778donnar
+"""want""","Santa Maria, Cape Verde",778donnar
+"""want""","Kanchanaburi, Thailand",778donnar
+"""want""","Bratislava, Slovakia",778donnar
+"""want""","Patong, Thailand",778donnar
+"""want""","Oludeniz, Turkey",778donnar
+"""want""","Maiori, Italy",778donnar
+"""want""","Wroclaw, Poland",778donnar
+"""want""","Madonna Di Campiglio, Italy",778donnar
+"""want""","Valletta, Malta",778donnar
+"""want""","St. Petersburg, FL, USA",778donnar
+"""want""","Freiburg im Breisgau, Germany",778donnar
+"""want""","Monza, Italy",778donnar
+"""want""","Polignano a Mare, Italy",778donnar
+"""want""","Heidelberg, Germany",778donnar
+"""been"",""fave""","Tanjung Benoa, Indonesia",778donnar
+"""been""","Saint Louis, MO, USA",778donnar
+"""been""","Trafalgar, Australia",778donnar
+"""want""","Stalis, Greece",778donnar
+"""want""","Pecatu, Indonesia",778donnar
+"""want""","Khao Lak, Thailand",778donnar
+"""been"",""fave""","Los Angeles, CA, USA",778donnar
+"""want""","Salzburg, Austria",778donnar
+"""want""","Cha-am, Thailand",778donnar
+"""want""","Dallas, TX, USA",778donnar
+"""want""","Rose Hall, Jamaica",778donnar
+"""want""","Sidari, Greece",778donnar
+"""want""","Dresden, Germany",778donnar
+"""want""","Hua Hin, Thailand",778donnar
+"""want""","Chicago, IL, USA",778donnar
+"""want""","Selva di Val Gardena, Italy",778donnar
+"""want""","Chiang Rai, Thailand",778donnar
+"""want""","Agia Pelagia, Greece",778donnar
+"""want""","Parga, Greece",778donnar
+"""want""","Nong Thale, Thailand",778donnar
+"""been""","Las Vegas, NV, USA",778donnar
+"""want""","Mae Nam, Thailand",778donnar
+"""want""","Santa Susanna, Spain",778donnar
+"""been""","Long Beach, CA, USA",778donnar
+"""want""","Prague, Czech Republic",778donnar
+"""want""","Bogor, Indonesia",778donnar
+"""want""","Rust, Germany",778donnar
+"""want""","Sodegaura, Japan",778donnar
+"""want""","Machu Picchu, Peru",778donnar
+"""want""","Bandung, Indonesia",778donnar
+"""want""","Napa, CA, USA",778donnar
+"""want""","Wailea, HI, USA",778donnar
+"""want""","Long Island City, NY, USA",778donnar
+"""want""","Port El Kantaoui, Tunisia",778donnar
+"""want""","Malang, Indonesia",778donnar
+"""want""","Paris, France",778donnar
+"""want""","Cairo, Egypt",778donnar
+"""want""","Montevideo, Uruguay",778donnar
+"""want""","San Vincenzo, Italy",778donnar
+"""want""","Beldibi, Turkey",778donnar
+"""want""","Amsterdam, The Netherlands",778donnar
+"""want""","Santa Teresa, Costa Rica",778donnar
+"""want""","Lisse, The Netherlands",778donnar
+"""want""","Caracas, Venezuela",778donnar
+"""want""","Guatemala City, Guatemala",778donnar
+"""want""","Praia da Rocha, Portugal",778donnar
+"""want""","Fort Worth, TX, USA",778donnar
+"""want""","Santiago, Chile",778donnar
+"""been""","Sacramento, CA, USA",778donnar
+"""want""","Onna-son, Japan",778donnar
+"""want""","Phoenix, AZ, USA",778donnar
+"""want""","Sanur, Indonesia",778donnar
+"""want""","Burgos, Spain",778donnar
+"""want""","Cologne, Germany",778donnar
+"""want""","Salamanca, Spain",778donnar
+"""want""","Segovia, Spain",778donnar
+"""want""","Dusseldorf, Germany",778donnar
+"""want""","Puerto Rico, Spain",778donnar
+"""want""","Valladolid, Spain",778donnar
+"""want""","Naoussa, Greece",778donnar
+"""want""","Batu Ferringhi, Malaysia",778donnar
+"""want""","Barcelona, Spain",778donnar

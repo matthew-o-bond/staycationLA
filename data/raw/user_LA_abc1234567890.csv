@@ -1,0 +1,250 @@
+tag,place,user
+"""been""","Tucson, AZ, USA",abc1234567890
+"""been""","Eureka, CA, USA",abc1234567890
+"""been""","Panama City Beach, FL, USA",abc1234567890
+"""been""","Kuala Lumpur, Malaysia",abc1234567890
+"""want""","Manila, Philippines",abc1234567890
+"""want""","Costa Adeje, Spain",abc1234567890
+"""been""","Salzburg, Austria",abc1234567890
+"""want""","Santa Fe, NM, USA",abc1234567890
+"""been"",""fave""","San Francisco, CA, USA",abc1234567890
+"""been""","Krabi Town, Thailand",abc1234567890
+"""want""","Bar Harbor, ME, USA",abc1234567890
+"""been""","Paris, France",abc1234567890
+"""been""","Zurich, Switzerland",abc1234567890
+"""want""","Lyon, France",abc1234567890
+"""been""","Innsbruck, Austria",abc1234567890
+"""want""","Acapulco, Mexico",abc1234567890
+"""want""","Chamonix, France",abc1234567890
+"""been""","Austin, TX, USA",abc1234567890
+"""been"",""fave""","Park City, UT, USA",abc1234567890
+"""been""","Vienna, Austria",abc1234567890
+"""been""","Coronado, CA, USA",abc1234567890
+"""been""","Patong, Thailand",abc1234567890
+"""been"",""want""","Brooklyn, NY, USA",abc1234567890
+"""been""","Estes Park, CO, USA",abc1234567890
+"""want""","Santiago, Chile",abc1234567890
+"""want""","Dublin, Ireland",abc1234567890
+"""been""","Quito, Ecuador",abc1234567890
+"""want""","Sydney, Australia",abc1234567890
+"""been""","Ekincik, Turkey",abc1234567890
+"""been""","Miami Beach, FL, USA",abc1234567890
+"""been"",""want""","Sonoma, CA, USA",abc1234567890
+"""been""","Miami, FL, USA",abc1234567890
+"""want""","Barcelona, Spain",abc1234567890
+"""been""","Puerto Vallarta, Mexico",abc1234567890
+"""want""","Marseille, France",abc1234567890
+"""been""","Anaheim, CA, USA",abc1234567890
+"""been""","Calgary, Alberta, Canada",abc1234567890
+"""want""","Banff, Alberta, Canada",abc1234567890
+"""been""","Columbus, OH, USA",abc1234567890
+"""been""","Tampa, FL, USA",abc1234567890
+"""been""","Buenos Aires, Argentina",abc1234567890
+"""been"",""want""","Calistoga, CA, USA",abc1234567890
+"""been""","Fish Camp, CA, USA",abc1234567890
+"""been""","Charleston, SC, USA",abc1234567890
+"""been"",""want""","Bogota, Colombia",abc1234567890
+"""want""","Seoul, South Korea",abc1234567890
+"""been"",""want""","Big Sur, CA, USA",abc1234567890
+"""been""","Madison, WI, USA",abc1234567890
+"""been""","Kunming, China",abc1234567890
+"""want""","Newport, RI, USA",abc1234567890
+"""been""","Guangzhou, China",abc1234567890
+"""want""","Brisbane, Australia",abc1234567890
+"""been""","Hangzhou, China",abc1234567890
+"""been""","Shangri-La County, China",abc1234567890
+"""been""","Lijiang, China",abc1234567890
+"""want""","Prague, Czech Republic",abc1234567890
+"""been""","Olympic Valley, CA, USA",abc1234567890
+"""want""","Brighton, UK",abc1234567890
+"""been""","Colorado Springs, CO, USA",abc1234567890
+"""been""","Palm - Eagle Beach, Aruba",abc1234567890
+"""been""","Oranjestad, Aruba",abc1234567890
+"""been""","Aruba, Caribbean",abc1234567890
+"""been""","Kyoto, Japan",abc1234567890
+"""want""","Cartagena, Colombia",abc1234567890
+"""been""","Osaka, Japan",abc1234567890
+"""been""","Sapa, Vietnam",abc1234567890
+"""been""","Shigatse, China",abc1234567890
+"""been""","Gyangze County, China",abc1234567890
+"""want""","Nice, France",abc1234567890
+"""want""","Oslo, Norway",abc1234567890
+"""been""","Charlotte, NC, USA",abc1234567890
+"""been""","Coraopolis, PA, USA",abc1234567890
+"""been"",""want"",""fave""","Whistler, British Columbia, Canada",abc1234567890
+"""been""","San Diego, CA, USA",abc1234567890
+"""been""","Kailua-Kona, HI, USA",abc1234567890
+"""been""","Cincinnati, OH, USA",abc1234567890
+"""been""","Williamsburg, VA, USA",abc1234567890
+"""been""","Gothenburg, Sweden",abc1234567890
+"""been""","Beijing, China",abc1234567890
+"""been""","Seattle, WA, USA",abc1234567890
+"""want""","Dubai, United Arab Emirates",abc1234567890
+"""been""","Hong Kong, China",abc1234567890
+"""want""","Bucharest, Romania",abc1234567890
+"""been""","Hanoi, Vietnam",abc1234567890
+"""want""","Glasgow, UK",abc1234567890
+"""been"",""want""","Ho Chi Minh City, Vietnam",abc1234567890
+"""been""","Palm Springs, CA, USA",abc1234567890
+"""been"",""want""","Palm Desert, CA, USA",abc1234567890
+"""been"",""want""","Victoria, British Columbia, Canada",abc1234567890
+"""been""","Naples, FL, USA",abc1234567890
+"""been"",""fave""","Vancouver, British Columbia, Canada",abc1234567890
+"""been""","Fort Lauderdale, FL, USA",abc1234567890
+"""been""","Asheville, NC, USA",abc1234567890
+"""been""","Denver, CO, USA",abc1234567890
+"""been""","Honolulu, HI, USA",abc1234567890
+"""been"",""want""","Carlsbad, CA, USA",abc1234567890
+"""been""","Houston, TX, USA",abc1234567890
+"""been""","Copenhagen, Denmark",abc1234567890
+"""been"",""want""","Carmel, CA, USA",abc1234567890
+"""been""","Kissimmee, FL, USA",abc1234567890
+"""been""","Lhasa, China",abc1234567890
+"""been""","Boston, MA, USA",abc1234567890
+"""been""","Poipu, HI, USA",abc1234567890
+"""want""","New Orleans, LA, USA",abc1234567890
+"""want""","San Pedro, Belize",abc1234567890
+"""been""","Koh Tao, Thailand",abc1234567890
+"""been""","Jakarta, Indonesia",abc1234567890
+"""want""","Edinburgh, UK",abc1234567890
+"""been""","Ottawa, Ontario, Canada",abc1234567890
+"""want""","Turin, Italy",abc1234567890
+"""been""","Monterey, CA, USA",abc1234567890
+"""want""","Tallinn, Estonia",abc1234567890
+"""been""","Dallas, TX, USA",abc1234567890
+"""been""","Caracas, Venezuela",abc1234567890
+"""want""","Lima, Peru",abc1234567890
+"""want""","Milan, Italy",abc1234567890
+"""been""","Ubud, Indonesia",abc1234567890
+"""been""","Atlanta, GA, USA",abc1234567890
+"""want""","Chennai (Madras), India",abc1234567890
+"""been""","Cape May, NJ, USA",abc1234567890
+"""want""","Mumbai, India",abc1234567890
+"""been""","Ko Pha Ngan, Thailand",abc1234567890
+"""been"",""want""","Pittsburgh, PA, USA",abc1234567890
+"""want""","Amsterdam, The Netherlands",abc1234567890
+"""been"",""want""","Santa Barbara, CA, USA",abc1234567890
+"""been""","New York City, NY, USA",abc1234567890
+"""want""","Moscow, Russia",abc1234567890
+"""want""","Anchorage, AK, USA",abc1234567890
+"""want""","Port El Kantaoui, Tunisia",abc1234567890
+"""want""","New Delhi, India",abc1234567890
+"""been""","Beverly Hills, CA, USA",abc1234567890
+"""want""","Giza, Egypt",abc1234567890
+"""want""","Cairo, Egypt",abc1234567890
+"""been""","Wisconsin Dells, WI, USA",abc1234567890
+"""want""","Taipei, Taiwan",abc1234567890
+"""been"",""fave""","Bangkok, Thailand",abc1234567890
+"""want""","Chiang Mai, Thailand",abc1234567890
+"""want""","Punta Cana, Dominican Republic",abc1234567890
+"""been""","Pescadero, CA, USA",abc1234567890
+"""been""","Saas-Fee, Switzerland",abc1234567890
+"""been"",""want""","Santa Cruz, CA, USA",abc1234567890
+"""been""","Cabo San Lucas, Mexico",abc1234567890
+"""been""","Philadelphia, PA, USA",abc1234567890
+"""been""","Santa Monica, CA, USA",abc1234567890
+"""want""","Reykjavik, Iceland",abc1234567890
+"""been"",""fave""","Stockholm, Sweden",abc1234567890
+"""want""","Budapest, Hungary",abc1234567890
+"""want""","Abu Dhabi, United Arab Emirates",abc1234567890
+"""want""","Brussels, Belgium",abc1234567890
+"""want""","Munich, Germany",abc1234567890
+"""been""","London, UK",abc1234567890
+"""been""","Hershey, PA, USA",abc1234567890
+"""been""","Montreal, Quebec, Canada",abc1234567890
+"""been"",""want""","Quebec City, Quebec, Canada",abc1234567890
+"""want""","Naples, Italy",abc1234567890
+"""been""","Napa, CA, USA",abc1234567890
+"""been""","Long Beach, CA, USA",abc1234567890
+"""been""","Porto, Portugal",abc1234567890
+"""been""","Phoenix, AZ, USA",abc1234567890
+"""been""","Louisville, KY, USA",abc1234567890
+"""been""","Memphis, TN, USA",abc1234567890
+"""been""","Tokyo, Japan",abc1234567890
+"""been"",""fave""","Singapore, Singapore",abc1234567890
+"""been""","Las Vegas, NV, USA",abc1234567890
+"""been""","Laughlin, NV, USA",abc1234567890
+"""want""","Istanbul, Turkey",abc1234567890
+"""want""","Fes, Morocco",abc1234567890
+"""want""","Marrakech, Morocco",abc1234567890
+"""want""","Auckland, New Zealand",abc1234567890
+"""want""","Florence, Italy",abc1234567890
+"""been""","Chicago, IL, USA",abc1234567890
+"""been""","Pismo Beach, CA, USA",abc1234567890
+"""been""","Los Angeles, CA, USA",abc1234567890
+"""want""","Lucerne, Switzerland",abc1234567890
+"""want""","Auckland Central, New Zealand",abc1234567890
+"""been""","Mexico City, Mexico",abc1234567890
+"""been""","Arlington, VA, USA",abc1234567890
+"""been""","Noord, Aruba",abc1234567890
+"""want""","Cancun, Mexico",abc1234567890
+"""been""","Seminyak, Indonesia",abc1234567890
+"""want""","Melbourne, Australia",abc1234567890
+"""want""","San Salvador, El Salvador",abc1234567890
+"""been""","Saint Louis, MO, USA",abc1234567890
+"""want""","Bengaluru, India",abc1234567890
+"""been""","Bergen, Norway",abc1234567890
+"""want""","Geneva, Switzerland",abc1234567890
+"""been""","Toronto, Ontario, Canada",abc1234567890
+"""been"",""want"",""fave""","Aspen, CO, USA",abc1234567890
+"""been""","Panama City, Panama",abc1234567890
+"""want""","Krakow, Poland",abc1234567890
+"""want""","Athens, Greece",abc1234567890
+"""been""","Hollywood, FL, USA",abc1234567890
+"""been""","Washington DC, DC, USA",abc1234567890
+"""been""","Wailea, HI, USA",abc1234567890
+"""been""","Minneapolis, MN, USA",abc1234567890
+"""been"",""want""","Shanghai, China",abc1234567890
+"""been""","Kansas City, MO, USA",abc1234567890
+"""want""","Doha, Qatar",abc1234567890
+"""want""","Madrid, Spain",abc1234567890
+"""been""","Sarasota, FL, USA",abc1234567890
+"""been""","Portland, OR, USA",abc1234567890
+"""want""","Bordeaux, France",abc1234567890
+"""want""","Venice, Italy",abc1234567890
+"""been""","Indianapolis, IN, USA",abc1234567890
+"""been""","West Palm Beach, FL, USA",abc1234567890
+"""been""","Scottsdale, AZ, USA",abc1234567890
+"""been""","Virginia Beach, VA, USA",abc1234567890
+"""been""","Sedona, AZ, USA",abc1234567890
+"""want""","Helsinki, Finland",abc1234567890
+"""want""","Siena, Italy",abc1234567890
+"""been""","Reno, NV, USA",abc1234567890
+"""been""","Lancaster, PA, USA",abc1234567890
+"""want""","Steamboat Springs, CO, USA",abc1234567890
+"""been""","Puembo, Ecuador",abc1234567890
+"""want""","Cannes, France",abc1234567890
+"""been""","Myrtle Beach, SC, USA",abc1234567890
+"""been""","Kuta, Indonesia",abc1234567890
+"""been""","Nusa Dua, Indonesia",abc1234567890
+"""been""","Detroit, MI, USA",abc1234567890
+"""want""","Cape Town Central, South Africa",abc1234567890
+"""been""","Sao Paulo, Brazil",abc1234567890
+"""been""","Frankfurt, Germany",abc1234567890
+"""been""","Orlando, FL, USA",abc1234567890
+"""been""","Hamburg, Germany",abc1234567890
+"""been"",""want"",""fave""","La Jolla, CA, USA",abc1234567890
+"""want""","Paphos, Cyprus",abc1234567890
+"""want""","Lisbon, Portugal",abc1234567890
+"""been""","Ocean City, MD, USA",abc1234567890
+"""been""","Savannah, GA, USA",abc1234567890
+"""been""","Baltimore, MD, USA",abc1234567890
+"""want""","Jerusalem, Israel",abc1234567890
+"""want""","Albuquerque, NM, USA",abc1234567890
+"""been"",""fave""","Berlin, Germany",abc1234567890
+"""been"",""want""","Jackson, WY, USA",abc1234567890
+"""want""","Seville, Spain",abc1234567890
+"""been"",""want""","Vail, CO, USA",abc1234567890
+"""been"",""want""","Zermatt, Switzerland",abc1234567890
+"""been"",""want""","Laguna Beach, CA, USA",abc1234567890
+"""been""","Nashville, TN, USA",abc1234567890
+"""want""","Rio de Janeiro, Brazil",abc1234567890
+"""want""","San Juan, Puerto Rico",abc1234567890
+"""been""","Jacksonville, FL, USA",abc1234567890
+"""want""","Sharm El Sheikh, Egypt",abc1234567890
+"""been""","Riyadh, Saudi Arabia",abc1234567890
+"""want""","Marbella, Spain",abc1234567890
+"""been""","Malaga, Spain",abc1234567890
+"""been""","Breckenridge, CO, USA",abc1234567890
+"""want""","Cordoba, Spain",abc1234567890
+"""want""","Rome, Italy",abc1234567890

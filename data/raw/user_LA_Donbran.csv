@@ -1,0 +1,508 @@
+tag,place,user
+"""want""","Tarragona, Spain",Donbran
+"""been""","Billings, MT, USA",Donbran
+"""want""","Cavtat, Croatia",Donbran
+"""want""","Sapa, Vietnam",Donbran
+"""want""","Hvar, Croatia",Donbran
+"""want""","Kelowna, British Columbia, Canada",Donbran
+"""want""","Mai Khao, Thailand",Donbran
+"""been""","Cabo San Lucas, Mexico",Donbran
+"""want""","Kamloops, British Columbia, Canada",Donbran
+"""been""","Boise, ID, USA",Donbran
+"""want""","Placencia, Belize",Donbran
+"""want""","Gallipoli, Italy",Donbran
+"""want""","Vigo, Spain",Donbran
+"""want""","Roses, Spain",Donbran
+"""want""","Madrid, Spain",Donbran
+"""want""","Murcia, Spain",Donbran
+"""want""","Sanxenxo, Spain",Donbran
+"""want""","Noto, Italy",Donbran
+"""want""","Playa de Fanabe, Spain",Donbran
+"""want""","Roissy-en-France, France",Donbran
+"""want""","Lamai Beach, Thailand",Donbran
+"""been""","Victoria, British Columbia, Canada",Donbran
+"""been""","Vancouver, British Columbia, Canada",Donbran
+"""want""","Salt Spring Island, British Columbia, Canada",Donbran
+"""want""","Halong Bay, Vietnam",Donbran
+"""want""","Nerja, Spain",Donbran
+"""want""","Piano di Sorrento, Italy",Donbran
+"""want""","Tarifa, Spain",Donbran
+"""want""","Adeje, Spain",Donbran
+"""want""","Nha Trang, Vietnam",Donbran
+"""been"",""want"",""fave""","Playa Hermosa, Costa Rica",Donbran
+"""want""","Hue, Vietnam",Donbran
+"""been"",""fave""","Dominical, Costa Rica",Donbran
+"""want""","Ronda, Spain",Donbran
+"""want""","Ushuaia, Argentina",Donbran
+"""want""","Playa el Agua, Venezuela",Donbran
+"""been"",""want""","Eugene, OR, USA",Donbran
+"""want""","Ramatuelle, France",Donbran
+"""want""","Dhaka City, Bangladesh",Donbran
+"""want""","Milan, Italy",Donbran
+"""want""","Malia, Greece",Donbran
+"""want""","Islantilla, Spain",Donbran
+"""want""","Cassis, France",Donbran
+"""want""","Perissa, Greece",Donbran
+"""want""","Firostefani, Greece",Donbran
+"""want""","Ao Nang, Thailand",Donbran
+"""want""","Mar del Plata, Argentina",Donbran
+"""want""","Johor Bahru, Malaysia",Donbran
+"""been""","Santa Cruz La Laguna, Guatemala",Donbran
+"""been""","Springdale, UT, USA",Donbran
+"""been""","Shingletown, CA, USA",Donbran
+"""been""","La Fortuna de San Carlos, Costa Rica",Donbran
+"""been""","Washington DC, DC, USA",Donbran
+"""want""","The Hague, The Netherlands",Donbran
+"""want""","Garmisch-Partenkirchen, Germany",Donbran
+"""want""","Sperlonga, Italy",Donbran
+"""want""","Kato Gouves, Greece",Donbran
+"""want""","Almeria, Spain",Donbran
+"""been""","London, UK",Donbran
+"""want""","Guayaquil, Ecuador",Donbran
+"""want""","Valras-Plage, France",Donbran
+"""want""","Rotterdam, The Netherlands",Donbran
+"""want""","Budoni, Italy",Donbran
+"""been"",""fave""","Manuel Antonio, Costa Rica",Donbran
+"""been"",""want""","Jaco, Costa Rica",Donbran
+"""been""","Ashland, OR, USA",Donbran
+"""been""","Columbus, OH, USA",Donbran
+"""want""","Estepona, Spain",Donbran
+"""want""","Conil de la Frontera, Spain",Donbran
+"""want""","Rothenburg, Germany",Donbran
+"""been""","Oceanside, CA, USA",Donbran
+"""want""","Colombo, Sri Lanka",Donbran
+"""been"",""fave""","Rome, Italy",Donbran
+"""want""","Gaeta, Italy",Donbran
+"""want""","Cadiz, Spain",Donbran
+"""want""","Chiclana de la Frontera, Spain",Donbran
+"""want""","Pesaro, Italy",Donbran
+"""want""","Colakli, Turkey",Donbran
+"""want""","Fiumicino, Italy",Donbran
+"""want""","Catania, Italy",Donbran
+"""want""","San Teodoro, Italy",Donbran
+"""want""","Platja d'Aro, Spain",Donbran
+"""want""","Fes, Morocco",Donbran
+"""want""","Casablanca, Morocco",Donbran
+"""want""","Carovigno, Italy",Donbran
+"""want""","Alghero, Italy",Donbran
+"""want""","Cala'n Bosch, Spain",Donbran
+"""been"",""want"",""fave""","Big Sur, CA, USA",Donbran
+"""want""","Pamplona, Spain",Donbran
+"""want""","Olbia, Italy",Donbran
+"""want""","Leipzig, Germany",Donbran
+"""want""","Cagliari, Italy",Donbran
+"""want""","Kamari, Greece",Donbran
+"""want""","Laganas, Greece",Donbran
+"""been"",""want"",""fave""","Tamarindo, Costa Rica",Donbran
+"""been""","Hilo, HI, USA",Donbran
+"""want""","Playa de Palma, Spain",Donbran
+"""want""","Tangier, Morocco",Donbran
+"""want""","Santa Eulalia del Rio, Spain",Donbran
+"""been""","Waimea, HI, USA",Donbran
+"""want""","Jerusalem, Israel",Donbran
+"""want""","Otranto, Italy",Donbran
+"""want""","Eilat, Israel",Donbran
+"""want""","Rovinj, Croatia",Donbran
+"""want""","Amman, Jordan",Donbran
+"""want""","Malgrat de Mar, Spain",Donbran
+"""want""","Palermo, Italy",Donbran
+"""want""","Cortona, Italy",Donbran
+"""want""","Knysna, South Africa",Donbran
+"""been"",""fave""","Florence, Italy",Donbran
+"""want""","Porto-Vecchio, France",Donbran
+"""want""","Modica, Italy",Donbran
+"""want""","Frejus, France",Donbran
+"""been""","Palm Springs, CA, USA",Donbran
+"""been"",""want""","Palm Desert, CA, USA",Donbran
+"""been"",""want""","Juan-les-Pins, France",Donbran
+"""want""","Beaune, France",Donbran
+"""want""","Soller, Spain",Donbran
+"""want""","Colle di Val d'Elsa, Italy",Donbran
+"""want""","Anacapri, Italy",Donbran
+"""want""","Zakopane, Poland",Donbran
+"""want""","Ciutadella, Spain",Donbran
+"""want""","Bagno Vignoni, Italy",Donbran
+"""want""","Hanioti, Greece",Donbran
+"""want""","Santa Teresa, Costa Rica",Donbran
+"""want""","Cannes, France",Donbran
+"""been""","Pacific Grove, CA, USA",Donbran
+"""want""","Kardamena, Greece",Donbran
+"""want""","Ornos, Greece",Donbran
+"""been""","Ixtapa, Mexico",Donbran
+"""want""","Phuket Town, Thailand",Donbran
+"""want""","Port de Pollenca, Spain",Donbran
+"""want""","Puerto Iguazu, Argentina",Donbran
+"""want""","Agios Nikolaos, Greece",Donbran
+"""been""","Monterey, CA, USA",Donbran
+"""been""","Pasadena, CA, USA",Donbran
+"""want""","Palm Cove, Australia",Donbran
+"""want""","Las Palmas de Gran Canaria, Spain",Donbran
+"""want""","Hannover, Germany",Donbran
+"""been"",""want""","Dijon, France",Donbran
+"""been""","Dallas, TX, USA",Donbran
+"""want""","Gothenburg, Sweden",Donbran
+"""want""","Rust, Germany",Donbran
+"""been""","Milwaukee, WI, USA",Donbran
+"""want""","Budva, Montenegro",Donbran
+"""want""","Nai Yang, Thailand",Donbran
+"""been""","Wailea, HI, USA",Donbran
+"""been""","New Bern, NC, USA",Donbran
+"""been""","Charlotte, NC, USA",Donbran
+"""been"",""want""","Rancho Mirage, CA, USA",Donbran
+"""been"",""want""","Mendocino, CA, USA",Donbran
+"""been""","Lexington, KY, USA",Donbran
+"""want""","Naxos Town, Greece",Donbran
+"""want""","Ghent, Belgium",Donbran
+"""want""","Nafplio, Greece",Donbran
+"""want""","Gijon, Spain",Donbran
+"""want""","Tagaytay, Philippines",Donbran
+"""been"",""want"",""fave""","Avignon, France",Donbran
+"""want""","Oviedo, Spain",Donbran
+"""been""","Red Bluff, CA, USA",Donbran
+"""want""","Arles, France",Donbran
+"""want""","Sestri Levante, Italy",Donbran
+"""want""","Portoroz, Slovenia",Donbran
+"""been""","Long Beach, CA, USA",Donbran
+"""want""","Selva di Val Gardena, Italy",Donbran
+"""want""","Accra, Ghana",Donbran
+"""want""","Ljubljana, Slovenia",Donbran
+"""been"",""want""","Napa, CA, USA",Donbran
+"""want""","Rhodes Town, Greece",Donbran
+"""want""","Limone sul Garda, Italy",Donbran
+"""want""","Faliraki, Greece",Donbran
+"""want""","Chamonix, France",Donbran
+"""want""","Ajaccio, France",Donbran
+"""want""","Lindos, Greece",Donbran
+"""been"",""fave""","Paris, France",Donbran
+"""want""","Addis Ababa, Ethiopia",Donbran
+"""want""","Lyon, France",Donbran
+"""want""","Kolimbia, Greece",Donbran
+"""been""","Fort Bragg, CA, USA",Donbran
+"""want""","Zurich, Switzerland",Donbran
+"""want""","Ialyssos, Greece",Donbran
+"""want""","Cala'n Forcat, Spain",Donbran
+"""want""","Golf del Sur, Spain",Donbran
+"""want""","Agia Pelagia, Greece",Donbran
+"""want""","Sidari, Greece",Donbran
+"""want""","Skiathos Town, Greece",Donbran
+"""want""","Cha-am, Thailand",Donbran
+"""been""","Laughlin, NV, USA",Donbran
+"""been""","Las Vegas, NV, USA",Donbran
+"""want""","Kokkini Hani, Greece",Donbran
+"""want""","Hua Hin, Thailand",Donbran
+"""want""","Kanchanaburi, Thailand",Donbran
+"""want""","Innsbruck, Austria",Donbran
+"""want""","Bled, Slovenia",Donbran
+"""want""","Diani Beach, Kenya",Donbran
+"""want""","Chiang Rai, Thailand",Donbran
+"""been""","Fresno, CA, USA",Donbran
+"""been"",""want"",""fave""","Montpellier, France",Donbran
+"""want""","Broadbeach, Australia",Donbran
+"""been""","Los Angeles, CA, USA",Donbran
+"""been""","Pismo Beach, CA, USA",Donbran
+"""want""","Cala Llonga, Spain",Donbran
+"""want""","Dresden, Germany",Donbran
+"""want""","Perpignan, France",Donbran
+"""want""","Freiburg im Breisgau, Germany",Donbran
+"""want""","El Quseir, Egypt",Donbran
+"""want""","Salzburg, Austria",Donbran
+"""want""","Lassi, Greece",Donbran
+"""been""","Henderson, NV, USA",Donbran
+"""want""","Toledo, Spain",Donbran
+"""want""","Warsaw, Poland",Donbran
+"""want""","Punta Umbria, Spain",Donbran
+"""been""","Uvita, Costa Rica",Donbran
+"""want""","Santander, Spain",Donbran
+"""want""","Saint-Tropez, France",Donbran
+"""been"",""want""","Morro Bay, CA, USA",Donbran
+"""want""","Polignano a Mare, Italy",Donbran
+"""want""","Caracas, Venezuela",Donbran
+"""been""","Paso Robles, CA, USA",Donbran
+"""want""","Punta Prima, Spain",Donbran
+"""want""","Maastricht, The Netherlands",Donbran
+"""want""","Rethymnon, Greece",Donbran
+"""want""","Argassi, Greece",Donbran
+"""want""","Cuenca, Ecuador",Donbran
+"""been""","Panajachel, Guatemala",Donbran
+"""want""","Tsilivi, Greece",Donbran
+"""want""","Arequipa, Peru",Donbran
+"""want""","Lausanne, Switzerland",Donbran
+"""want""","Zarzis, Tunisia",Donbran
+"""want""","Gdansk, Poland",Donbran
+"""want""","Bandung, Indonesia",Donbran
+"""want""","Lima, Peru",Donbran
+"""want""","San Vincenzo, Italy",Donbran
+"""want""","Sousse, Tunisia",Donbran
+"""been""","Rutherford, CA, USA",Donbran
+"""been""","Huntington Beach, CA, USA",Donbran
+"""want""","Salta, Argentina",Donbran
+"""want""","Segovia, Spain",Donbran
+"""been"",""want"",""fave""","Marseille, France",Donbran
+"""want""","Golden Sands, Bulgaria",Donbran
+"""want""","Cologne, Germany",Donbran
+"""want""","Salamanca, Spain",Donbran
+"""want""","Tours, France",Donbran
+"""been""","Fort Worth, TX, USA",Donbran
+"""want""","Girona, Spain",Donbran
+"""want""","Batu Ferringhi, Malaysia",Donbran
+"""want""","Hopkins, Belize",Donbran
+"""want""","Annecy, France",Donbran
+"""want""","Ostuni, Italy",Donbran
+"""want""","Santa Susanna, Spain",Donbran
+"""want""","Machu Picchu, Peru",Donbran
+"""want""","Le Touquet \u2013 Paris-Plage, France",Donbran
+"""want""","Melaka, Malaysia",Donbran
+"""want""","Surabaya, Indonesia",Donbran
+"""want""","Luxor, Egypt",Donbran
+"""want""","Deauville City, France",Donbran
+"""want""","Ischia, Italy",Donbran
+"""been"",""fave""","Sedona, AZ, USA",Donbran
+"""want""","Rouen, France",Donbran
+"""been""","Salt Lake City, UT, USA",Donbran
+"""been""","Port Angeles, WA, USA",Donbran
+"""been""","Detroit, MI, USA",Donbran
+"""want""","Forio, Italy",Donbran
+"""want""","Nadi, Fiji",Donbran
+"""want""","Zagreb, Croatia",Donbran
+"""been""","Reno, NV, USA",Donbran
+"""want""","Holetown, Barbados",Donbran
+"""want""","Peschici, Italy",Donbran
+"""want""","Palinuro, Italy",Donbran
+"""been""","Jacksonville, FL, USA",Donbran
+"""want""","Dubai, United Arab Emirates",Donbran
+"""want""","Sigatoka, Fiji",Donbran
+"""want""","Adelaide, Australia",Donbran
+"""want""","Nantes, France",Donbran
+"""been""","Orlando, FL, USA",Donbran
+"""want""","Basel, Switzerland",Donbran
+"""been"",""want""","Yountville, CA, USA",Donbran
+"""want""","Sarajevo, Bosnia and Herzegovina",Donbran
+"""want""","Tavira, Portugal",Donbran
+"""want""","Biarritz, France",Donbran
+"""want""","Mykonos Town, Greece",Donbran
+"""want""","Bern, Switzerland",Donbran
+"""been""","Valladolid, Mexico",Donbran
+"""want""","Mersa Matruh, Egypt",Donbran
+"""want""","Cattolica, Italy",Donbran
+"""want""","Orvieto, Italy",Donbran
+"""been""","Albuquerque, NM, USA",Donbran
+"""want""","Tropea, Italy",Donbran
+"""been""","Downieville, CA, USA",Donbran
+"""been""","St. Petersburg, FL, USA",Donbran
+"""want""","Sydney, Australia",Donbran
+"""been""","Arlington, VA, USA",Donbran
+"""want""","Karlsruhe, Germany",Donbran
+"""been""","Garden Grove, CA, USA",Donbran
+"""want""","Deadwood, SD, USA",Donbran
+"""want""","Granada, Nicaragua",Donbran
+"""want""","Lourdes, France",Donbran
+"""want""","Cayo Largo, Cuba",Donbran
+"""want""","Providence, RI, USA",Donbran
+"""been""","Minneapolis, MN, USA",Donbran
+"""want""","Sciacca, Italy",Donbran
+"""want""","San Salvador, El Salvador",Donbran
+"""want""","Villasimius, Italy",Donbran
+"""want""","Milano Marittima, Italy",Donbran
+"""been""","Portland, OR, USA",Donbran
+"""been"",""want""","West Palm Beach, FL, USA",Donbran
+"""want""","Lille, France",Donbran
+"""want""","Surfers Paradise, Australia",Donbran
+"""been""","Tucson, AZ, USA",Donbran
+"""want""","Jesolo, Italy",Donbran
+"""want""","Bel Ombre, Africa",Donbran
+"""want""","Alcossebre, Spain",Donbran
+"""been"",""want""","Santa Fe, NM, USA",Donbran
+"""been""","San Francisco, CA, USA",Donbran
+"""want""","Beirut, Lebanon",Donbran
+"""want""","Opatija, Croatia",Donbran
+"""want""","Doha, Qatar",Donbran
+"""want""","Pefkohori, Greece",Donbran
+"""been""","Spokane, WA, USA",Donbran
+"""want""","Sintra, Portugal",Donbran
+"""been""","Vallejo, CA, USA",Donbran
+"""been"",""want""","Healdsburg, CA, USA",Donbran
+"""been""","Buena Park, CA, USA",Donbran
+"""want""","Fortaleza, Brazil",Donbran
+"""been""","Syracuse, NY, USA",Donbran
+"""want""","Diano Marina, Italy",Donbran
+"""want""","Abu Dhabi, United Arab Emirates",Donbran
+"""want""","Gabicce Mare, Italy",Donbran
+"""want""","Hjorring, Denmark",Donbran
+"""been"",""want""","Sonoma, CA, USA",Donbran
+"""been""","Anaheim, CA, USA",Donbran
+"""want""","Stone Town, Tanzania",Donbran
+"""been"",""want""","Solvang, CA, USA",Donbran
+"""want""","Platys Gialos, Greece",Donbran
+"""been""","Cotati, CA, USA",Donbran
+"""been""","Kapalua, HI, USA",Donbran
+"""want""","Forte Dei Marmi, Italy",Donbran
+"""want""","Rodi Garganico, Italy",Donbran
+"""want""","Follonica, Italy",Donbran
+"""want""","Riva Del Garda, Italy",Donbran
+"""want""","Montreal, Quebec, Canada",Donbran
+"""want""","Aguas Calientes, Peru",Donbran
+"""want""","Finale Ligure, Italy",Donbran
+"""want""","Negombo, Sri Lanka",Donbran
+"""want""","Puerto Ayora, Ecuador",Donbran
+"""want""","Larnaca, Cyprus",Donbran
+"""been"",""want""","Half Moon Bay, CA, USA",Donbran
+"""been""","Greenville, SC, USA",Donbran
+"""been""","Guerneville, CA, USA",Donbran
+"""been"",""want""","Saint-Jean-de-Luz, France",Donbran
+"""want""","Geneva, Switzerland",Donbran
+"""want""","Chianciano Terme, Italy",Donbran
+"""want""","Castiglione Della Pescaia, Italy",Donbran
+"""want""","Cesenatico, Italy",Donbran
+"""want""","Ponza Island, Italy",Donbran
+"""want""","Salvador, Brazil",Donbran
+"""want""","Mojacar, Spain",Donbran
+"""want""","Sirolo, Italy",Donbran
+"""want""","Antigua, Guatemala",Donbran
+"""want""","Dahab, Egypt",Donbran
+"""want""","Praiano, Italy",Donbran
+"""been""","Tarcoles, Costa Rica",Donbran
+"""been""","Vacaville, CA, USA",Donbran
+"""want""","Lucerne, Switzerland",Donbran
+"""want""","Lisbon, Portugal",Donbran
+"""been""","Juneau, AK, USA",Donbran
+"""been"",""want""","Palm Beach, FL, USA",Donbran
+"""want""","Cala Millor, Spain",Donbran
+"""want""","Cala Ratjada, Spain",Donbran
+"""want""","Lviv, Ukraine",Donbran
+"""want""","Lardos, Greece",Donbran
+"""want""","Yalta, Europe",Donbran
+"""want""","Pula, Croatia",Donbran
+"""want""","Zadar, Croatia",Donbran
+"""want""","Split, Croatia",Donbran
+"""been""","West Hollywood, CA, USA",Donbran
+"""want""","Wellington, New Zealand",Donbran
+"""want""","Zahara de los Atunes, Spain",Donbran
+"""want""","Rotorua, New Zealand",Donbran
+"""want""","Livigno, Italy",Donbran
+"""been""","El Paso, TX, USA",Donbran
+"""want""","Assisi, Italy",Donbran
+"""been""","Springfield, IL, USA",Donbran
+"""want""","Bugibba, Malta",Donbran
+"""want""","Vilanova i la Geltru, Spain",Donbran
+"""want""","St. Paul's Bay, Malta",Donbran
+"""want""","Kavos, Greece",Donbran
+"""want""","Savusavu, Fiji",Donbran
+"""want""","Taurito, Spain",Donbran
+"""been"",""want""","Kahuku, HI, USA",Donbran
+"""been""","Kissimmee, FL, USA",Donbran
+"""been""","Richmond, VA, USA",Donbran
+"""been""","Houston, TX, USA",Donbran
+"""been""","San Jose, CA, USA",Donbran
+"""been""","Fort Myers, FL, USA",Donbran
+"""want""","Queenstown, New Zealand",Donbran
+"""been""","Carmel, CA, USA",Donbran
+"""want""","Umag, Croatia",Donbran
+"""want""","Bellaria-Igea Marina, Italy",Donbran
+"""been"",""want""","Kapolei, HI, USA",Donbran
+"""want""","Bardolino, Italy",Donbran
+"""want""","George Town, Malaysia",Donbran
+"""been""","Coeur d'Alene, ID, USA",Donbran
+"""want""","Tetouan, Morocco",Donbran
+"""want""","Johannesburg, South Africa",Donbran
+"""want""","Puerto Calero, Spain",Donbran
+"""want""","Zermatt, Switzerland",Donbran
+"""want""","Jimbaran, Indonesia",Donbran
+"""want""","West Bay, Honduras",Donbran
+"""want""","Punta del Este, Uruguay",Donbran
+"""been"",""fave""","Cambria, CA, USA",Donbran
+"""want""","Gros Islet, St. Lucia",Donbran
+"""want""","Castries, St. Lucia",Donbran
+"""want""","Yangon (Rangoon), Myanmar",Donbran
+"""been"",""want"",""fave""","San Jose, Costa Rica",Donbran
+"""want""","Philipsburg, St Martin \u002F St Maarten",Donbran
+"""want""","San Benedetto Del Tronto, Italy",Donbran
+"""want""","Giardini Naxos, Italy",Donbran
+"""want""","Port Dickson, Malaysia",Donbran
+"""want""","Sandy Bay, Honduras",Donbran
+"""want""","Stintino, Italy",Donbran
+"""want""","Sepang, Malaysia",Donbran
+"""want""","Sandakan, Malaysia",Donbran
+"""want""","Castellammare del Golfo, Italy",Donbran
+"""want""","Natal, Brazil",Donbran
+"""been""","Colorado Springs, CO, USA",Donbran
+"""been""","Forestville, CA, USA",Donbran
+"""been"",""want""","St. Helena, CA, USA",Donbran
+"""been""","Des Moines, IA, USA",Donbran
+"""want""","Melbourne, Australia",Donbran
+"""want""","Kallithea, Greece",Donbran
+"""want""","Auckland Central, New Zealand",Donbran
+"""want""","Agrigento, Italy",Donbran
+"""want""","Tamuning, Mariana Islands",Donbran
+"""want""","Foz do Iguacu, Brazil",Donbran
+"""want""","Riomaggiore, Italy",Donbran
+"""want""","Vernazza, Italy",Donbran
+"""been"",""fave""","Ojochal, Costa Rica",Donbran
+"""want""","Portofino, Italy",Donbran
+"""been"",""want"",""fave""","Kilkenny, Ireland",Donbran
+"""want""","Genoa, Italy",Donbran
+"""been""","Cocoa Beach, FL, USA",Donbran
+"""want""","Seven Mile Beach, Cayman Islands",Donbran
+"""want""","Cargese, France",Donbran
+"""been""","Santa Rosa, CA, USA",Donbran
+"""want""","La Palmyre-Les Mathes, France",Donbran
+"""been""","Bellingham, WA, USA",Donbran
+"""been""","La Paz, Mexico",Donbran
+"""been""","Loreto, Mexico",Donbran
+"""want""","Santa Margherita Ligure, Italy",Donbran
+"""want""","Puerto de Mogan, Spain",Donbran
+"""want""","West Yellowstone, MT, USA",Donbran
+"""want""","Bergamo, Italy",Donbran
+"""want""","Maceio, Brazil",Donbran
+"""been""","Waikoloa, HI, USA",Donbran
+"""been"",""want""","Westport, Ireland",Donbran
+"""want""","Como, Italy",Donbran
+"""want""","Peguera, Spain",Donbran
+"""want""","Makati, Philippines",Donbran
+"""want""","Morro del Jable, Spain",Donbran
+"""been""","San Gerardo de Dota, Costa Rica",Donbran
+"""want""","Hamilton, Bermuda",Donbran
+"""want""","Salou, Spain",Donbran
+"""want""","Nungwi, Tanzania",Donbran
+"""want""","Palmanova, Spain",Donbran
+"""been""","Madison, WI, USA",Donbran
+"""been""","Kapaa, HI, USA",Donbran
+"""want""","Tigaki, Greece",Donbran
+"""been"",""want"",""fave""","Kenmare, Ireland",Donbran
+"""been""","Hanamaulu, HI, USA",Donbran
+"""want""","Guia de Isora, Spain",Donbran
+"""want""","Sihanoukville, Cambodia",Donbran
+"""want""","Bologna, Italy",Donbran
+"""want""","Aqaba, Jordan",Donbran
+"""want""","Flic En Flac, Africa",Donbran
+"""been"",""want""","San Simeon, CA, USA",Donbran
+"""want""","Cebu City, Philippines",Donbran
+"""want""","Belle Mare, Africa",Donbran
+"""been""","Irving, TX, USA",Donbran
+"""want""","Xlendi, Malta",Donbran
+"""want""","Bibione, Italy",Donbran
+"""been""","Berkeley, CA, USA",Donbran
+"""been"",""want""","Kinsale, Ireland",Donbran
+"""want""","S'illot, Spain",Donbran
+"""been""","San Isidro del General, Costa Rica",Donbran
+"""want""","Sa Coma, Spain",Donbran
+"""want""","Skala, Greece",Donbran
+"""been"",""want""","Poipu, HI, USA",Donbran
+"""want""","Almunecar, Spain",Donbran
+"""been"",""want""","Lihue, HI, USA",Donbran
+"""want""","San Pedro, Belize",Donbran
+"""want""","Isola di Capo Rizzuto, Italy",Donbran
+"""been""","Santa Cruz, CA, USA",Donbran
+"""want""","Canggu, Indonesia",Donbran
+"""been""","Santa Barbara, CA, USA",Donbran
+"""been""","Kailua-Kona, HI, USA",Donbran
+"""been"",""want""","Temecula, CA, USA",Donbran
+"""want""","Willemstad, Curacao",Donbran
+"""want""","Calella, Spain",Donbran
+"""been"",""want"",""fave""","Mont-Saint-Michel, France",Donbran
+"""want""","Cadaques, Spain",Donbran
+"""been"",""want""","Beverly Hills, CA, USA",Donbran
+"""been""","Seattle, WA, USA",Donbran
+"""been""","Lahaina, HI, USA",Donbran
+"""want""","San Pedro de Atacama, Chile",Donbran
+"""been""","Kihei, HI, USA",Donbran
+"""want""","Curitiba, Brazil",Donbran

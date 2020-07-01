@@ -1,0 +1,414 @@
+tag,place,user
+"""want""","Bergamo, Italy",sailscubasurf
+"""want""","Westport, Ireland",sailscubasurf
+"""want""","Bellagio, Italy",sailscubasurf
+"""want""","Mui Ne, Vietnam",sailscubasurf
+"""want""","Longboat Key, FL, USA",sailscubasurf
+"""want""","Bridgetown, Barbados",sailscubasurf
+"""been""","Bodega Bay, CA, USA",sailscubasurf
+"""been""","Kanab, UT, USA",sailscubasurf
+"""been""","Sausalito, CA, USA",sailscubasurf
+"""want""","Acapulco, Mexico",sailscubasurf
+"""been""","Medford, OR, USA",sailscubasurf
+"""want""","Mahon, Spain",sailscubasurf
+"""want""","Milan, Italy",sailscubasurf
+"""been""","Truckee, CA, USA",sailscubasurf
+"""want""","Puerto Vallarta, Mexico",sailscubasurf
+"""been""","Hilo, HI, USA",sailscubasurf
+"""want""","Santiago de Cuba, Cuba",sailscubasurf
+"""want""","Mazatlan, Mexico",sailscubasurf
+"""want""","Manzanillo, Mexico",sailscubasurf
+"""want""","Drake Bay, Costa Rica",sailscubasurf
+"""want""","Buenos Aires, Argentina",sailscubasurf
+"""want""","Guadalajara, Mexico",sailscubasurf
+"""want""","Havana, Cuba",sailscubasurf
+"""been""","Newport, OR, USA",sailscubasurf
+"""want""","Grottammare, Italy",sailscubasurf
+"""been""","Bandon, OR, USA",sailscubasurf
+"""want""","Dublin, Ireland",sailscubasurf
+"""want""","Malgrat de Mar, Spain",sailscubasurf
+"""want""","Belize City, Belize",sailscubasurf
+"""want""","Cabourg, France",sailscubasurf
+"""want""","Tamuning, Mariana Islands",sailscubasurf
+"""want""","Tumon, Mariana Islands",sailscubasurf
+"""been"",""want""","Washington DC, DC, USA",sailscubasurf
+"""want""","Rafael Freyre, Cuba",sailscubasurf
+"""want""","Puerto Madryn, Argentina",sailscubasurf
+"""want""","Riomaggiore, Italy",sailscubasurf
+"""been""","Florence, OR, USA",sailscubasurf
+"""want""","Tralee, Ireland",sailscubasurf
+"""been""","Eugene, OR, USA",sailscubasurf
+"""want""","Bangkok, Thailand",sailscubasurf
+"""been""","Cabo San Lucas, Mexico",sailscubasurf
+"""been""","Nanaimo, British Columbia, Canada",sailscubasurf
+"""been""","San Jose del Cabo, Mexico",sailscubasurf
+"""been""","Grants Pass, OR, USA",sailscubasurf
+"""want""","Cordoba, Argentina",sailscubasurf
+"""want""","Venice, Italy",sailscubasurf
+"""want""","Madrid, Spain",sailscubasurf
+"""want""","Brindisi, Italy",sailscubasurf
+"""want""","Da Lat, Vietnam",sailscubasurf
+"""want""","Hanoi, Vietnam",sailscubasurf
+"""want""","Ho Chi Minh City, Vietnam",sailscubasurf
+"""want""","St Peter Port, UK",sailscubasurf
+"""want""","Vancouver, British Columbia, Canada",sailscubasurf
+"""been""","Monument Valley, UT, USA",sailscubasurf
+"""want""","Roissy-en-France, France",sailscubasurf
+"""been""","Victoria, British Columbia, Canada",sailscubasurf
+"""want""","Cape Town Central, South Africa",sailscubasurf
+"""want""","Valencia, Spain",sailscubasurf
+"""want""","Utrecht, The Netherlands",sailscubasurf
+"""been""","Bend, OR, USA",sailscubasurf
+"""want""","Big Pine Key, FL, USA",sailscubasurf
+"""want""","Puerto Penasco, Mexico",sailscubasurf
+"""want""","Pai, Thailand",sailscubasurf
+"""want""","Mar del Plata, Argentina",sailscubasurf
+"""want""","Apia, Samoa",sailscubasurf
+"""been""","Cannon Beach, OR, USA",sailscubasurf
+"""want""","Phnom Penh, Cambodia",sailscubasurf
+"""want""","Puerto Morelos, Mexico",sailscubasurf
+"""been""","Big Sur, CA, USA",sailscubasurf
+"""want""","Can Tho, Vietnam",sailscubasurf
+"""want""","Vung Tau, Vietnam",sailscubasurf
+"""been""","Ashland, OR, USA",sailscubasurf
+"""want""","Jolly Harbour, Antigua and Barbuda",sailscubasurf
+"""want""","Vientiane, Laos",sailscubasurf
+"""want""","Sapa, Vietnam",sailscubasurf
+"""want""","Playas del Coco, Costa Rica",sailscubasurf
+"""want""","Playa Hermosa, Costa Rica",sailscubasurf
+"""want""","Palm Cove, Australia",sailscubasurf
+"""want""","Makarska, Croatia",sailscubasurf
+"""been""","Volcano, HI, USA",sailscubasurf
+"""been""","Waikoloa, HI, USA",sailscubasurf
+"""been""","Hemel Hempstead, UK",sailscubasurf
+"""been""","Sonoma, CA, USA",sailscubasurf
+"""been""","Moab, UT, USA",sailscubasurf
+"""want""","Noumea, New Caledonia",sailscubasurf
+"""want""","Forte Dei Marmi, Italy",sailscubasurf
+"""been""","Austin, TX, USA",sailscubasurf
+"""been""","Tallahassee, FL, USA",sailscubasurf
+"""been""","Costa Mesa, CA, USA",sailscubasurf
+"""been""","Tampa, FL, USA",sailscubasurf
+"""been""","Pensacola, FL, USA",sailscubasurf
+"""been""","Solvang, CA, USA",sailscubasurf
+"""been""","Pagosa Springs, CO, USA",sailscubasurf
+"""want""","Dingle, Ireland",sailscubasurf
+"""been""","Ouray, CO, USA",sailscubasurf
+"""want""","Jaco, Costa Rica",sailscubasurf
+"""been""","Coronado, CA, USA",sailscubasurf
+"""want""","Serris, France",sailscubasurf
+"""been""","Mesa, AZ, USA",sailscubasurf
+"""want""","St. Moritz, Switzerland",sailscubasurf
+"""been""","Hanalei, HI, USA",sailscubasurf
+"""been""","Spokane, WA, USA",sailscubasurf
+"""want""","Negombo, Sri Lanka",sailscubasurf
+"""want""","Newport, RI, USA",sailscubasurf
+"""been""","Kapaa, HI, USA",sailscubasurf
+"""want""","Port Vila, Vanuatu",sailscubasurf
+"""want""","Saint Francois, Guadeloupe",sailscubasurf
+"""been""","Des Moines, IA, USA",sailscubasurf
+"""been""","South San Francisco, CA, USA",sailscubasurf
+"""been""","Cambria, CA, USA",sailscubasurf
+"""want""","Melbourne, Australia",sailscubasurf
+"""been""","Anaheim, CA, USA",sailscubasurf
+"""want""","Kinsale, Ireland",sailscubasurf
+"""been""","Ocho Rios, Jamaica",sailscubasurf
+"""been""","New Orleans, LA, USA",sailscubasurf
+"""been""","Lihue, HI, USA",sailscubasurf
+"""been""","Boston, MA, USA",sailscubasurf
+"""want""","Val Thorens, France",sailscubasurf
+"""been"",""want""","Honolulu, HI, USA",sailscubasurf
+"""been""","Brooklyn, NY, USA",sailscubasurf
+"""been""","Estes Park, CO, USA",sailscubasurf
+"""been""","Crescent City, CA, USA",sailscubasurf
+"""want""","Providence, RI, USA",sailscubasurf
+"""been""","St. Helena, CA, USA",sailscubasurf
+"""been""","Houston, TX, USA",sailscubasurf
+"""been""","Bakersfield, CA, USA",sailscubasurf
+"""been""","Dana Point, CA, USA",sailscubasurf
+"""been""","Everglades City, FL, USA",sailscubasurf
+"""been""","Colorado Springs, CO, USA",sailscubasurf
+"""been""","Hood River, OR, USA",sailscubasurf
+"""been""","San Jose, Costa Rica",sailscubasurf
+"""been""","Tucson, AZ, USA",sailscubasurf
+"""want""","Rio de Janeiro, Brazil",sailscubasurf
+"""been"",""fave""","San Francisco, CA, USA",sailscubasurf
+"""been""","San Antonio, TX, USA",sailscubasurf
+"""been""","Page, AZ, USA",sailscubasurf
+"""been""","Santa Fe, NM, USA",sailscubasurf
+"""been""","Friday Harbor, WA, USA",sailscubasurf
+"""want""","Sardinal, Costa Rica",sailscubasurf
+"""been""","Crested Butte, CO, USA",sailscubasurf
+"""been""","Tacoma, WA, USA",sailscubasurf
+"""been""","San Clemente, CA, USA",sailscubasurf
+"""been""","Del Mar, CA, USA",sailscubasurf
+"""been""","West Hollywood, CA, USA",sailscubasurf
+"""want""","Andorra la Vella, Andorra",sailscubasurf
+"""want""","Trois-Ilets, Martinique",sailscubasurf
+"""been""","Chandler, AZ, USA",sailscubasurf
+"""want""","Grindelwald, Switzerland",sailscubasurf
+"""been""","St. George, UT, USA",sailscubasurf
+"""been""","Ventura, CA, USA",sailscubasurf
+"""want""","Savusavu, Fiji",sailscubasurf
+"""been""","Denver, CO, USA",sailscubasurf
+"""been""","Port Townsend, WA, USA",sailscubasurf
+"""been""","Cape Canaveral, FL, USA",sailscubasurf
+"""been""","Sunnyvale, CA, USA",sailscubasurf
+"""been""","San Jose, CA, USA",sailscubasurf
+"""want""","Gros Islet, St. Lucia",sailscubasurf
+"""been""","Carmel, CA, USA",sailscubasurf
+"""been""","Desert Hot Springs, CA, USA",sailscubasurf
+"""want""","Soufriere, St. Lucia",sailscubasurf
+"""been""","Carlsbad, CA, USA",sailscubasurf
+"""been""","Kapolei, HI, USA",sailscubasurf
+"""want""","Guardalavaca, Cuba",sailscubasurf
+"""been""","Kahuku, HI, USA",sailscubasurf
+"""been""","Kailua, HI, USA",sailscubasurf
+"""been""","Kaneohe, HI, USA",sailscubasurf
+"""want""","Punta del Este, Uruguay",sailscubasurf
+"""been""","Berkeley, CA, USA",sailscubasurf
+"""want""","Bologna, Italy",sailscubasurf
+"""been""","San Simeon, CA, USA",sailscubasurf
+"""want""","Grand Case, St Martin \u002F St Maarten",sailscubasurf
+"""want""","Simpson Bay, St Martin \u002F St Maarten",sailscubasurf
+"""been""","Haiku, HI, USA",sailscubasurf
+"""been""","Poipu, HI, USA",sailscubasurf
+"""been""","Princeville, HI, USA",sailscubasurf
+"""want""","Qawra, Malta",sailscubasurf
+"""want""","Alba Adriatica, Italy",sailscubasurf
+"""want""","St. Paul's Bay, Malta",sailscubasurf
+"""been""","Santa Clara, CA, USA",sailscubasurf
+"""been""","Santa Barbara, CA, USA",sailscubasurf
+"""been""","Temecula, CA, USA",sailscubasurf
+"""been""","Beverly Hills, CA, USA",sailscubasurf
+"""been""","Lakeland, FL, USA",sailscubasurf
+"""want""","Seven Mile Beach, Cayman Islands",sailscubasurf
+"""been""","Lincoln City, OR, USA",sailscubasurf
+"""been""","Kihei, HI, USA",sailscubasurf
+"""been"",""want"",""fave""","Lahaina, HI, USA",sailscubasurf
+"""want""","La Grande-Motte, France",sailscubasurf
+"""been""","Hana, HI, USA",sailscubasurf
+"""want""","Asuncion, Paraguay",sailscubasurf
+"""been""","Kahului, HI, USA",sailscubasurf
+"""been""","Kailua-Kona, HI, USA",sailscubasurf
+"""been""","Paia, HI, USA",sailscubasurf
+"""want""","Cartagena, Colombia",sailscubasurf
+"""been""","Seattle, WA, USA",sailscubasurf
+"""want""","Osaka, Japan",sailscubasurf
+"""been""","Wailuku, HI, USA",sailscubasurf
+"""been""","Santa Rosa, CA, USA",sailscubasurf
+"""want""","Oyster Pond, St Martin \u002F St Maarten",sailscubasurf
+"""want""","Oranjestad, Aruba",sailscubasurf
+"""want""","Loreto, Mexico",sailscubasurf
+"""been""","La Paz, Mexico",sailscubasurf
+"""been""","Clearwater, FL, USA",sailscubasurf
+"""been""","Santa Monica, CA, USA",sailscubasurf
+"""been""","Ensenada, Mexico",sailscubasurf
+"""been""","Omaha, NE, USA",sailscubasurf
+"""want""","Manila, Philippines",sailscubasurf
+"""want""","Kuala Lumpur, Malaysia",sailscubasurf
+"""been""","Tijuana, Mexico",sailscubasurf
+"""been"",""fave""","New York City, NY, USA",sailscubasurf
+"""been""","Chicago, IL, USA",sailscubasurf
+"""want""","Chessy, France",sailscubasurf
+"""been""","Portland, OR, USA",sailscubasurf
+"""been""","Fresno, CA, USA",sailscubasurf
+"""want""","Sliema, Malta",sailscubasurf
+"""been""","Los Angeles, CA, USA",sailscubasurf
+"""want""","Costa Adeje, Spain",sailscubasurf
+"""want""","Duong Dong, Vietnam",sailscubasurf
+"""want""","Auckland, New Zealand",sailscubasurf
+"""been""","Prescott, AZ, USA",sailscubasurf
+"""been""","Yachats, OR, USA",sailscubasurf
+"""been""","Pismo Beach, CA, USA",sailscubasurf
+"""want""","Punta de Mita, Mexico",sailscubasurf
+"""been""","Irvine, CA, USA",sailscubasurf
+"""been""","Kapalua, HI, USA",sailscubasurf
+"""been""","Avalon, CA, USA",sailscubasurf
+"""want""","Valletta, Malta",sailscubasurf
+"""want""","Marina di Pietrasanta, Italy",sailscubasurf
+"""been""","St. Petersburg, FL, USA",sailscubasurf
+"""want""","Patong, Thailand",sailscubasurf
+"""want""","Vienna, Austria",sailscubasurf
+"""want""","Santiago, Chile",sailscubasurf
+"""been""","Garden Grove, CA, USA",sailscubasurf
+"""want""","Brisbane, Australia",sailscubasurf
+"""been""","Las Vegas, NV, USA",sailscubasurf
+"""want""","Algarve, Portugal",sailscubasurf
+"""want""","Toulon, France",sailscubasurf
+"""been""","Manhattan Beach, CA, USA",sailscubasurf
+"""want""","Barcelona, Spain",sailscubasurf
+"""want""","Bolans, Antigua and Barbuda",sailscubasurf
+"""want""","Holetown, Barbados",sailscubasurf
+"""want""","Machu Picchu, Peru",sailscubasurf
+"""want""","Diani Beach, Kenya",sailscubasurf
+"""been""","Malibu, CA, USA",sailscubasurf
+"""want""","Recife, Brazil",sailscubasurf
+"""been""","Reno, NV, USA",sailscubasurf
+"""been"",""want""","Amsterdam, The Netherlands",sailscubasurf
+"""want""","Ajaccio, France",sailscubasurf
+"""want""","Paris, France",sailscubasurf
+"""want""","Lisse, The Netherlands",sailscubasurf
+"""been""","Winter Haven, FL, USA",sailscubasurf
+"""been""","Glendale, AZ, USA",sailscubasurf
+"""been""","Sedona, AZ, USA",sailscubasurf
+"""been""","Scottsdale, AZ, USA",sailscubasurf
+"""been""","Marina del Rey, CA, USA",sailscubasurf
+"""want""","Nairobi, Kenya",sailscubasurf
+"""been""","Minneapolis, MN, USA",sailscubasurf
+"""want""","Nimes, France",sailscubasurf
+"""want""","French Harbour, Honduras",sailscubasurf
+"""want""","Basel, Switzerland",sailscubasurf
+"""want""","Peschici, Italy",sailscubasurf
+"""been""","Astoria, OR, USA",sailscubasurf
+"""want""","Trou d'eau Douce, Africa",sailscubasurf
+"""want""","Beijing, China",sailscubasurf
+"""been""","La Jolla, CA, USA",sailscubasurf
+"""want""","Ponta Delgada, Portugal",sailscubasurf
+"""been""","Salt Lake City, UT, USA",sailscubasurf
+"""been""","Orlando, FL, USA",sailscubasurf
+"""been""","Yountville, CA, USA",sailscubasurf
+"""want""","Pointe aux Canonniers, Africa",sailscubasurf
+"""want""","Te Anau, New Zealand",sailscubasurf
+"""want""","Margaret River, Australia",sailscubasurf
+"""been""","Ka'anapali, HI, USA",sailscubasurf
+"""want""","Kaikoura, New Zealand",sailscubasurf
+"""want""","Whangarei, New Zealand",sailscubasurf
+"""been""","Seaside, OR, USA",sailscubasurf
+"""been""","Half Moon Bay, CA, USA",sailscubasurf
+"""been""","Kingman, AZ, USA",sailscubasurf
+"""been""","Salem, OR, USA",sailscubasurf
+"""been""","Laguna Beach, CA, USA",sailscubasurf
+"""been""","Tempe, AZ, USA",sailscubasurf
+"""been""","Vancouver, WA, USA",sailscubasurf
+"""been""","Kardamena, Greece",sailscubasurf
+"""been""","Rochester, MN, USA",sailscubasurf
+"""want""","Viareggio, Italy",sailscubasurf
+"""want""","Milazzo, Italy",sailscubasurf
+"""been""","Escondido, CA, USA",sailscubasurf
+"""want""","Managua, Nicaragua",sailscubasurf
+"""want""","Milano Marittima, Italy",sailscubasurf
+"""been""","Breckenridge, CO, USA",sailscubasurf
+"""want""","Playa del Secreto, Mexico",sailscubasurf
+"""want""","Papeete, French Polynesia",sailscubasurf
+"""want""","Auckland Central, New Zealand",sailscubasurf
+"""been""","Lake Havasu City, AZ, USA",sailscubasurf
+"""want""","Hamilton, New Zealand",sailscubasurf
+"""want""","Vimmerby, Sweden",sailscubasurf
+"""want""","Broome, Australia",sailscubasurf
+"""want""","Nieuwpoort, Curacao",sailscubasurf
+"""want""","Paihia, New Zealand",sailscubasurf
+"""been""","Duluth, MN, USA",sailscubasurf
+"""want""","Denarau Island, Fiji",sailscubasurf
+"""want""","Oaxaca, Mexico",sailscubasurf
+"""want""","Caen, France",sailscubasurf
+"""want""","Oslo, Norway",sailscubasurf
+"""been""","Nashville, TN, USA",sailscubasurf
+"""want""","Tromso, Norway",sailscubasurf
+"""want""","West Bay, Honduras",sailscubasurf
+"""been""","Buena Park, CA, USA",sailscubasurf
+"""been""","Eureka, CA, USA",sailscubasurf
+"""been""","Healdsburg, CA, USA",sailscubasurf
+"""want""","Christiansted, U.S. Virgin Islands",sailscubasurf
+"""want""","Taupo, New Zealand",sailscubasurf
+"""been""","Burlingame, CA, USA",sailscubasurf
+"""been""","SeaTac, WA, USA",sailscubasurf
+"""want""","Charlotte Amalie, U.S. Virgin Islands",sailscubasurf
+"""want""","Wellington, New Zealand",sailscubasurf
+"""been""","Burbank, CA, USA",sailscubasurf
+"""been""","Panama City, FL, USA",sailscubasurf
+"""want""","Queenstown, New Zealand",sailscubasurf
+"""want""","Ystad, Sweden",sailscubasurf
+"""been""","Port Angeles, WA, USA",sailscubasurf
+"""been""","Lincoln, NE, USA",sailscubasurf
+"""want""","Cadiz, Spain",sailscubasurf
+"""been""","Oakland, CA, USA",sailscubasurf
+"""want""","Bristol, UK",sailscubasurf
+"""been""","Vatican City, Vatican City",sailscubasurf
+"""want""","Grand Anse, Grenada",sailscubasurf
+"""been""","Oceanside, CA, USA",sailscubasurf
+"""want""","Stockholm, Sweden",sailscubasurf
+"""want""","Colombo, Sri Lanka",sailscubasurf
+"""want""","Torremolinos, Spain",sailscubasurf
+"""want""","Uvita, Costa Rica",sailscubasurf
+"""want""","Tokyo, Japan",sailscubasurf
+"""want""","Saint-Emilion, France",sailscubasurf
+"""been""","Ontario, CA, USA",sailscubasurf
+"""want""","Berlin, Germany",sailscubasurf
+"""been""","Mendocino, CA, USA",sailscubasurf
+"""want""","Seville, Spain",sailscubasurf
+"""been""","Rancho Mirage, CA, USA",sailscubasurf
+"""been""","Orange, CA, USA",sailscubasurf
+"""been""","Ojai, CA, USA",sailscubasurf
+"""want""","Playa Santa Lucia, Cuba",sailscubasurf
+"""want""","Uppsala, Sweden",sailscubasurf
+"""want""","Wanaka, New Zealand",sailscubasurf
+"""been""","Redondo Beach, CA, USA",sailscubasurf
+"""been""","Redding, CA, USA",sailscubasurf
+"""been""","Bowness-on-Windermere, UK",sailscubasurf
+"""been""","Oxnard, CA, USA",sailscubasurf
+"""want""","Malmo, Sweden",sailscubasurf
+"""want""","Nosara, Costa Rica",sailscubasurf
+"""want""","Livingstone, Zambia",sailscubasurf
+"""want""","Da Nang, Vietnam",sailscubasurf
+"""been""","Charlotte, NC, USA",sailscubasurf
+"""want""","Ayr, UK",sailscubasurf
+"""want""","Rotterdam, The Netherlands",sailscubasurf
+"""want""","Santa Teresa, Costa Rica",sailscubasurf
+"""been""","Windermere, UK",sailscubasurf
+"""been""","Palo Alto, CA, USA",sailscubasurf
+"""want""","Liverpool, UK",sailscubasurf
+"""been""","Palm Springs, CA, USA",sailscubasurf
+"""been""","Palm Desert, CA, USA",sailscubasurf
+"""been"",""want"",""fave""","London, UK",sailscubasurf
+"""been""","Pacific Grove, CA, USA",sailscubasurf
+"""want""","Ixtapa, Mexico",sailscubasurf
+"""want""","Alicante, Spain",sailscubasurf
+"""been""","Reykjavik, Iceland",sailscubasurf
+"""been"",""want"",""fave""","Rome, Italy",sailscubasurf
+"""want""","Gaeta, Italy",sailscubasurf
+"""want""","Nice, France",sailscubasurf
+"""want""","Gothenburg, Sweden",sailscubasurf
+"""been""","Pasadena, CA, USA",sailscubasurf
+"""been""","Williams, AZ, USA",sailscubasurf
+"""been""","Monterey, CA, USA",sailscubasurf
+"""been""","Riverside, CA, USA",sailscubasurf
+"""want""","Lake Tekapo, New Zealand",sailscubasurf
+"""want""","Holguin, Cuba",sailscubasurf
+"""want""","Playa Mujeres, Mexico",sailscubasurf
+"""want""","Hobart, Australia",sailscubasurf
+"""been""","Morro Bay, CA, USA",sailscubasurf
+"""want""","Maastricht, The Netherlands",sailscubasurf
+"""been""","Big Bear Lake, CA, USA",sailscubasurf
+"""been""","Yuma, AZ, USA",sailscubasurf
+"""want""","Le Touquet \u2013 Paris-Plage, France",sailscubasurf
+"""been""","Paso Robles, CA, USA",sailscubasurf
+"""been""","Saint Paul, MN, USA",sailscubasurf
+"""want""","Islantilla, Spain",sailscubasurf
+"""want""","Marseille, France",sailscubasurf
+"""want""","Bourton-on-the-Water, UK",sailscubasurf
+"""been""","Sacramento, CA, USA",sailscubasurf
+"""want""","Bergen, Norway",sailscubasurf
+"""been""","Huntington Beach, CA, USA",sailscubasurf
+"""want""","Hamburg, Germany",sailscubasurf
+"""been""","Frankfurt, Germany",sailscubasurf
+"""want""","Marina di Ragusa, Italy",sailscubasurf
+"""want""","Prague, Czech Republic",sailscubasurf
+"""been""","Paradise Valley, AZ, USA",sailscubasurf
+"""been""","Puako, HI, USA",sailscubasurf
+"""want""","Ixelles, Belgium",sailscubasurf
+"""been""","Lake Charles, LA, USA",sailscubasurf
+"""been""","Baton Rouge, LA, USA",sailscubasurf
+"""want""","Anacapri, Italy",sailscubasurf
+"""been""","Napa, CA, USA",sailscubasurf
+"""been""","Indio, CA, USA",sailscubasurf
+"""want""","Stavanger, Norway",sailscubasurf
+"""been""","Wailea, HI, USA",sailscubasurf
+"""want""","Cannes, France",sailscubasurf
+"""been""","Long Beach, CA, USA",sailscubasurf
+"""want""","Puerto Escondido, Mexico",sailscubasurf
+"""want""","Juan-les-Pins, France",sailscubasurf
+"""been""","Fort Bragg, CA, USA",sailscubasurf
+"""been""","Phoenix, AZ, USA",sailscubasurf
+"""want""","Noord, Aruba",sailscubasurf
+"""been""","Terherne, The Netherlands",sailscubasurf

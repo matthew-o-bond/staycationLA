@@ -1,0 +1,551 @@
+tag,place,user
+"""been""","Munich, Germany",dkgunte
+"""want""","London, UK",dkgunte
+"""been""","Odenton, MD, USA",dkgunte
+"""been""","Pompeii, Italy",dkgunte
+"""been""","Naples, Italy",dkgunte
+"""want""","Windermere, UK",dkgunte
+"""been""","Capri, Italy",dkgunte
+"""been""","Sorrento, Italy",dkgunte
+"""been""","Parkville, MD, USA",dkgunte
+"""been""","Dallas, TX, USA",dkgunte
+"""been""","Charlotte, NC, USA",dkgunte
+"""been""","Shanksville, PA, USA",dkgunte
+"""been""","Oxnard, CA, USA",dkgunte
+"""been""","Las Vegas, NM, USA",dkgunte
+"""been""","Pyeongtaek, South Korea",dkgunte
+"""want""","Keflavik, Iceland",dkgunte
+"""been""","Brussels, Belgium",dkgunte
+"""been""","Marietta, GA, USA",dkgunte
+"""been""","Upper Marlboro, MD, USA",dkgunte
+"""been""","Rome, Italy",dkgunte
+"""been""","Tokyo, Japan",dkgunte
+"""been"",""want""","Reykjavik, Iceland",dkgunte
+"""been""","Springfield, OH, USA",dkgunte
+"""been""","Albany, NY, USA",dkgunte
+"""want""","Stockholm, Sweden",dkgunte
+"""been""","Temple Hills, MD, USA",dkgunte
+"""been""","Timonium, MD, USA",dkgunte
+"""been""","Hill City, SD, USA",dkgunte
+"""been""","Fort Worth, TX, USA",dkgunte
+"""been""","Dublin, OH, USA",dkgunte
+"""been""","Atlantic City, NJ, USA",dkgunte
+"""been""","Milwaukee, WI, USA",dkgunte
+"""been""","Powder Springs, GA, USA",dkgunte
+"""been""","Frankfurt, Germany",dkgunte
+"""been""","Darmstadt, Germany",dkgunte
+"""been""","Ghent, Belgium",dkgunte
+"""been""","Hamburg, Germany",dkgunte
+"""been""","Lookout Mountain, GA, USA",dkgunte
+"""want""","Auckland Central, New Zealand",dkgunte
+"""been""","Hampton, VA, USA",dkgunte
+"""been""","Huntsville, AL, USA",dkgunte
+"""been""","Eagle River, AK, USA",dkgunte
+"""been""","Rapid City, SD, USA",dkgunte
+"""want""","Melbourne, Australia",dkgunte
+"""been""","Pittsburgh, PA, USA",dkgunte
+"""been""","Davidsonville, MD, USA",dkgunte
+"""been""","Reisterstown, MD, USA",dkgunte
+"""been""","Boscotrecase, Italy",dkgunte
+"""been""","Lanham, MD, USA",dkgunte
+"""want""","Christchurch, New Zealand",dkgunte
+"""been""","South Lake Tahoe, CA, USA",dkgunte
+"""been""","Pueblo, CO, USA",dkgunte
+"""been""","Canton, GA, USA",dkgunte
+"""been""","Pueblo West, CO, USA",dkgunte
+"""been""","Augusta, GA, USA",dkgunte
+"""been""","Intercourse, PA, USA",dkgunte
+"""been""","Bad Kreuznach, Germany",dkgunte
+"""been""","Austell, GA, USA",dkgunte
+"""been""","Pescadero, CA, USA",dkgunte
+"""been""","Columbus, OH, USA",dkgunte
+"""been""","Chattanooga, TN, USA",dkgunte
+"""been""","Calhoun, GA, USA",dkgunte
+"""been""","Huntington Beach, CA, USA",dkgunte
+"""been""","Venice, Italy",dkgunte
+"""been""","East Chicago, IN, USA",dkgunte
+"""been""","Landover, MD, USA",dkgunte
+"""been""","Winslow, AZ, USA",dkgunte
+"""been""","Ellijay, GA, USA",dkgunte
+"""want""","Queenstown, New Zealand",dkgunte
+"""want""","Helsinki, Finland",dkgunte
+"""been""","Pebble Beach, CA, USA",dkgunte
+"""been""","Morro Bay, CA, USA",dkgunte
+"""been""","Brunswick, GA, USA",dkgunte
+"""been""","Saint Paul, MN, USA",dkgunte
+"""been""","Portsmouth, VA, USA",dkgunte
+"""been""","Wamego, KS, USA",dkgunte
+"""been""","Carson City, NV, USA",dkgunte
+"""been""","Jessup, MD, USA",dkgunte
+"""been""","Monterey, CA, USA",dkgunte
+"""been""","Tulsa, OK, USA",dkgunte
+"""been""","Madison, AL, USA",dkgunte
+"""been""","Harrisburg, PA, USA",dkgunte
+"""been""","Montara, CA, USA",dkgunte
+"""been""","Williams, AZ, USA",dkgunte
+"""been""","Duluth, GA, USA",dkgunte
+"""been""","Woodland Park, CO, USA",dkgunte
+"""been""","Wall, SD, USA",dkgunte
+"""been""","Wheaton, MD, USA",dkgunte
+"""been""","White Marsh, MD, USA",dkgunte
+"""been""","Pisa, Italy",dkgunte
+"""want""","Niagara Falls, Ontario, Canada",dkgunte
+"""been""","Florence, Italy",dkgunte
+"""been""","Osan, South Korea",dkgunte
+"""been""","Armuchee, GA, USA",dkgunte
+"""been""","Aragon, GA, USA",dkgunte
+"""been""","Pacific Grove, CA, USA",dkgunte
+"""been""","Pacifica, CA, USA",dkgunte
+"""want""","East Stroudsburg, PA, USA",dkgunte
+"""been""","Dillard, GA, USA",dkgunte
+"""been""","Gunsan, South Korea",dkgunte
+"""been""","Daytona Beach, FL, USA",dkgunte
+"""been""","Hays, KS, USA",dkgunte
+"""been""","Silver Creek, GA, USA",dkgunte
+"""been""","Paris, France",dkgunte
+"""been""","Norfolk, VA, USA",dkgunte
+"""been""","Zurich, Switzerland",dkgunte
+"""been""","Koblenz, Germany",dkgunte
+"""been""","Kaiserslautern, Germany",dkgunte
+"""been""","Newnan, GA, USA",dkgunte
+"""been""","Wilmington, DE, USA",dkgunte
+"""been""","Indianapolis, IN, USA",dkgunte
+"""been""","Bennington, VT, USA",dkgunte
+"""been""","Sea Island, GA, USA",dkgunte
+"""been""","Mount Berry, GA, USA",dkgunte
+"""been""","Hiram, GA, USA",dkgunte
+"""been""","Rantoul, IL, USA",dkgunte
+"""been""","Virginia Beach, VA, USA",dkgunte
+"""been""","Trier, Germany",dkgunte
+"""been""","Mainz, Germany",dkgunte
+"""been""","Washington DC, DC, USA",dkgunte
+"""been""","Lancaster, PA, USA",dkgunte
+"""been""","Davenport, FL, USA",dkgunte
+"""been""","Saint Simons Island, GA, USA",dkgunte
+"""been""","Brattleboro, VT, USA",dkgunte
+"""want""","Sydney, Australia",dkgunte
+"""been""","Sandy Springs, GA, USA",dkgunte
+"""been""","Seal Beach, CA, USA",dkgunte
+"""been""","Helen, GA, USA",dkgunte
+"""been""","Seaside, CA, USA",dkgunte
+"""want""","Chittenango, NY, USA",dkgunte
+"""been""","Heidelberg, Germany",dkgunte
+"""been""","Virginia City, NV, USA",dkgunte
+"""been""","Stuttgart, Germany",dkgunte
+"""been""","Vienna, Austria",dkgunte
+"""been""","Cleveland, OH, USA",dkgunte
+"""been""","Idaho Falls, ID, USA",dkgunte
+"""been""","Manhattan, KS, USA",dkgunte
+"""been""","Mattoon, IL, USA",dkgunte
+"""want""","Canberra, Australia",dkgunte
+"""been""","Sioux Falls, SD, USA",dkgunte
+"""been""","Santa Maria, CA, USA",dkgunte
+"""been""","Pocahontas, IL, USA",dkgunte
+"""been""","Santa Monica, CA, USA",dkgunte
+"""been""","Clearwater, FL, USA",dkgunte
+"""been""","Tiburon, CA, USA",dkgunte
+"""been""","Cocoa, FL, USA",dkgunte
+"""been""","Rome, GA, USA",dkgunte
+"""been""","Rossville, GA, USA",dkgunte
+"""been""","Cocoa Beach, FL, USA",dkgunte
+"""been""","Spearfish, SD, USA",dkgunte
+"""been""","Essex, NY, USA",dkgunte
+"""been""","Sparks, NV, USA",dkgunte
+"""been""","West Yellowstone, MT, USA",dkgunte
+"""been""","Sturgis, SD, USA",dkgunte
+"""been""","Missoula, MT, USA",dkgunte
+"""want""","Brisbane, Australia",dkgunte
+"""been""","Lindale, GA, USA",dkgunte
+"""been""","Dayton, OH, USA",dkgunte
+"""been""","Wiesbaden, Germany",dkgunte
+"""been""","Ruedesheim am Rhein, Germany",dkgunte
+"""been""","Memphis, TN, USA",dkgunte
+"""been""","Offenbach, Germany",dkgunte
+"""been""","Hanau, Germany",dkgunte
+"""been""","Lone Tree, CO, USA",dkgunte
+"""been""","Gulfport, MS, USA",dkgunte
+"""want""","Athens, Greece",dkgunte
+"""been""","Raton, NM, USA",dkgunte
+"""been""","Devils Tower, WY, USA",dkgunte
+"""been""","Limburg, Germany",dkgunte
+"""been""","Buffalo, WY, USA",dkgunte
+"""been""","Peachtree City, GA, USA",dkgunte
+"""been""","Philadelphia, PA, USA",dkgunte
+"""been""","Gettysburg, PA, USA",dkgunte
+"""been""","Casper, WY, USA",dkgunte
+"""been""","Saint Johnsbury, VT, USA",dkgunte
+"""been""","Cheyenne, WY, USA",dkgunte
+"""been""","Richmond, IN, USA",dkgunte
+"""been""","Arches National Park, UT, USA",dkgunte
+"""been""","Centennial, CO, USA",dkgunte
+"""been""","Stone Mountain, GA, USA",dkgunte
+"""been""","Chugwater, WY, USA",dkgunte
+"""been""","Cody, WY, USA",dkgunte
+"""been""","Summerville, GA, USA",dkgunte
+"""been""","Hershey, PA, USA",dkgunte
+"""been""","Thermopolis, WY, USA",dkgunte
+"""been""","Mobile, AL, USA",dkgunte
+"""been""","Kingston, GA, USA",dkgunte
+"""been""","Morgantown, WV, USA",dkgunte
+"""been""","Stockbridge, GA, USA",dkgunte
+"""been""","Billings, MT, USA",dkgunte
+"""been""","Montgomery, AL, USA",dkgunte
+"""been""","Boise, ID, USA",dkgunte
+"""been""","Norcross, GA, USA",dkgunte
+"""been""","Terre Haute, IN, USA",dkgunte
+"""been""","Douglas, WY, USA",dkgunte
+"""been""","Wheatland, WY, USA",dkgunte
+"""been""","Jekyll Island, GA, USA",dkgunte
+"""been""","Simi Valley, CA, USA",dkgunte
+"""been""","Amsterdam, The Netherlands",dkgunte
+"""been""","Newport News, VA, USA",dkgunte
+"""been""","Scottsboro, AL, USA",dkgunte
+"""been""","Jonesboro, GA, USA",dkgunte
+"""been""","Washington, PA, USA",dkgunte
+"""been""","Watsonville, CA, USA",dkgunte
+"""been""","Butte, MT, USA",dkgunte
+"""been""","Mountain Home, ID, USA",dkgunte
+"""been""","Cottonwood, ID, USA",dkgunte
+"""been""","Idaho Springs, CO, USA",dkgunte
+"""been""","Colorado Springs, CO, USA",dkgunte
+"""been""","Columbia, MO, USA",dkgunte
+"""been""","Paju, South Korea",dkgunte
+"""want""","Honolulu, HI, USA",dkgunte
+"""been""","Gunnison, CO, USA",dkgunte
+"""been""","Tallulah Falls, GA, USA",dkgunte
+"""been""","Port Canaveral, FL, USA",dkgunte
+"""been""","New Orleans, LA, USA",dkgunte
+"""been""","Laramie, WY, USA",dkgunte
+"""been""","Boston, MA, USA",dkgunte
+"""been""","Custer, SD, USA",dkgunte
+"""been""","Topeka, KS, USA",dkgunte
+"""been""","Pigeon Forge, TN, USA",dkgunte
+"""want""","Cooperstown, NY, USA",dkgunte
+"""been""","Newark, NJ, USA",dkgunte
+"""been""","Daly City, CA, USA",dkgunte
+"""been""","Kansas City, KS, USA",dkgunte
+"""been""","Parker, CO, USA",dkgunte
+"""been""","Highlands Ranch, CO, USA",dkgunte
+"""been""","San Diego, CA, USA",dkgunte
+"""been""","Chipita Park, CO, USA",dkgunte
+"""been""","Peyton, CO, USA",dkgunte
+"""been""","Cincinnati, OH, USA",dkgunte
+"""been""","Titusville, FL, USA",dkgunte
+"""been""","Lookout Mountain, TN, USA",dkgunte
+"""been""","Vienna, VA, USA",dkgunte
+"""been""","Williamsburg, VA, USA",dkgunte
+"""been""","Lusk, WY, USA",dkgunte
+"""been""","Kennesaw, GA, USA",dkgunte
+"""been""","White River Junction, VT, USA",dkgunte
+"""been""","Skagway, AK, USA",dkgunte
+"""been""","Wheeling, WV, USA",dkgunte
+"""been""","Seattle, WA, USA",dkgunte
+"""been""","Provo, UT, USA",dkgunte
+"""been""","Cimarron Hills, CO, USA",dkgunte
+"""been""","Des Moines, IA, USA",dkgunte
+"""been""","Cumberland, MD, USA",dkgunte
+"""been""","Cambria, CA, USA",dkgunte
+"""been""","Lakeside, CO, USA",dkgunte
+"""been""","Crofton, MD, USA",dkgunte
+"""been""","Moscow, ID, USA",dkgunte
+"""been""","Anchorage, AK, USA",dkgunte
+"""been""","Coronado, CA, USA",dkgunte
+"""been""","Ouray, CO, USA",dkgunte
+"""been""","Canon City, CO, USA",dkgunte
+"""been""","Bremen, GA, USA",dkgunte
+"""been""","Boulder City, NV, USA",dkgunte
+"""been""","Hardin, MT, USA",dkgunte
+"""been""","Carbondale, CO, USA",dkgunte
+"""been""","Pagosa Springs, CO, USA",dkgunte
+"""been""","Hartsel, CO, USA",dkgunte
+"""been"",""want""","New York City, NY, USA",dkgunte
+"""been""","Decatur, IL, USA",dkgunte
+"""been""","Chesapeake, VA, USA",dkgunte
+"""been""","Austin, TX, USA",dkgunte
+"""been""","Lynchburg, TN, USA",dkgunte
+"""been""","Springfield, VA, USA",dkgunte
+"""been""","Crow Agency, MT, USA",dkgunte
+"""been""","Springfield, IL, USA",dkgunte
+"""been""","Fort Payne, AL, USA",dkgunte
+"""been""","Meeteetse, WY, USA",dkgunte
+"""been""","Cascade, CO, USA",dkgunte
+"""been""","Palmer Lake, CO, USA",dkgunte
+"""been""","Castle Rock, CO, USA",dkgunte
+"""been""","Alpharetta, GA, USA",dkgunte
+"""been""","Tallahassee, FL, USA",dkgunte
+"""been""","Calabasas, CA, USA",dkgunte
+"""been""","Cedaredge, CO, USA",dkgunte
+"""been""","Tampa, FL, USA",dkgunte
+"""been""","Glacier Bay National Park and Preserve, AK, USA",dkgunte
+"""been""","Sonoma, CA, USA",dkgunte
+"""been""","Grand Canyon National Park, AZ, USA",dkgunte
+"""been""","Anaheim, CA, USA",dkgunte
+"""been""","Fort Oglethorpe, GA, USA",dkgunte
+"""been""","Westminster, CO, USA",dkgunte
+"""been""","Duluth, MN, USA",dkgunte
+"""been""","Grand Junction, CO, USA",dkgunte
+"""been""","Richmond, VA, USA",dkgunte
+"""been""","Hyattsville, MD, USA",dkgunte
+"""been""","Granite, CO, USA",dkgunte
+"""been""","Panama City, FL, USA",dkgunte
+"""been""","Buena Park, CA, USA",dkgunte
+"""been""","Olathe, CO, USA",dkgunte
+"""been""","Buena Vista, CO, USA",dkgunte
+"""been""","Woodstock, VT, USA",dkgunte
+"""been""","Yorktown, VA, USA",dkgunte
+"""want""","Doi Suthep, Thailand",dkgunte
+"""been""","Ketchikan, AK, USA",dkgunte
+"""been""","Atlanta, GA, USA",dkgunte
+"""been""","Pullman, WA, USA",dkgunte
+"""been""","Widefield, CO, USA",dkgunte
+"""been""","Green Mountain Falls, CO, USA",dkgunte
+"""been""","Panama City Beach, FL, USA",dkgunte
+"""been""","Fairfield, CA, USA",dkgunte
+"""been""","Orchard City, CO, USA",dkgunte
+"""been""","Hunt Valley, MD, USA",dkgunte
+"""been""","Cockeysville, MD, USA",dkgunte
+"""been""","Lewiston, ID, USA",dkgunte
+"""been""","Calhan, CO, USA",dkgunte
+"""been""","Budapest, Hungary",dkgunte
+"""been""","Sand City, CA, USA",dkgunte
+"""been""","Rexburg, ID, USA",dkgunte
+"""been""","Lakeland, FL, USA",dkgunte
+"""been""","Villa Rica, GA, USA",dkgunte
+"""been""","Ringgold, GA, USA",dkgunte
+"""been""","Santa Barbara, CA, USA",dkgunte
+"""want""","Manchester, UK",dkgunte
+"""want""","Oslo, Norway",dkgunte
+"""want""","Estes Park, CO, USA",dkgunte
+"""been""","Beverly Hills, CA, USA",dkgunte
+"""been""","Stowe, VT, USA",dkgunte
+"""been""","Luxembourg City, Luxembourg",dkgunte
+"""been""","Santa Cruz, CA, USA",dkgunte
+"""been""","Grangeville, ID, USA",dkgunte
+"""been""","Rockmart, GA, USA",dkgunte
+"""been""","Bloomington, IL, USA",dkgunte
+"""been""","Pocatello, ID, USA",dkgunte
+"""been""","Castroville, CA, USA",dkgunte
+"""been""","Tahoe City, CA, USA",dkgunte
+"""been""","Durango, CO, USA",dkgunte
+"""been""","San Antonio, TX, USA",dkgunte
+"""been""","San Francisco, CA, USA",dkgunte
+"""been""","Santa Fe, NM, USA",dkgunte
+"""been""","Divide, CO, USA",dkgunte
+"""want""","Brooklyn, NY, USA",dkgunte
+"""been""","San Rafael, CA, USA",dkgunte
+"""been""","Valdosta, GA, USA",dkgunte
+"""been""","San Simeon, CA, USA",dkgunte
+"""been""","Dover, DE, USA",dkgunte
+"""want""","Overland Park, KS, USA",dkgunte
+"""been""","Neoga, IL, USA",dkgunte
+"""been""","Carlsbad, CA, USA",dkgunte
+"""been""","Carmel, CA, USA",dkgunte
+"""been""","San Jose, CA, USA",dkgunte
+"""been""","New Smyrna Beach, FL, USA",dkgunte
+"""been""","Trion, GA, USA",dkgunte
+"""been""","Trenton, GA, USA",dkgunte
+"""been""","Kissimmee, FL, USA",dkgunte
+"""been""","Del Norte, CO, USA",dkgunte
+"""been""","Big Sur, CA, USA",dkgunte
+"""been""","Delta, CO, USA",dkgunte
+"""been""","Paxton, IL, USA",dkgunte
+"""been""","Gatlinburg, TN, USA",dkgunte
+"""been""","Harpers Ferry, WV, USA",dkgunte
+"""been""","Greenbelt, MD, USA",dkgunte
+"""been""","Geneva, Switzerland",dkgunte
+"""been""","Moab, UT, USA",dkgunte
+"""been""","Towson, MD, USA",dkgunte
+"""been""","Waterbury, VT, USA",dkgunte
+"""been""","York, PA, USA",dkgunte
+"""been""","Clarkston, WA, USA",dkgunte
+"""been""","Suwon, South Korea",dkgunte
+"""been""","Sunnyvale, CA, USA",dkgunte
+"""been""","Denver, CO, USA",dkgunte
+"""want""","Lawrence, KS, USA",dkgunte
+"""been""","St. Augustine, FL, USA",dkgunte
+"""been""","San Luis Obispo, CA, USA",dkgunte
+"""been""","Dillon, CO, USA",dkgunte
+"""been""","Chadron, NE, USA",dkgunte
+"""been""","Leavenworth, KS, USA",dkgunte
+"""been""","Peoria, IL, USA",dkgunte
+"""been""","Champaign, IL, USA",dkgunte
+"""been""","Copper Mountain, CO, USA",dkgunte
+"""been""","Davenport, CA, USA",dkgunte
+"""been""","Cotopaxi, CO, USA",dkgunte
+"""been""","West Hollywood, CA, USA",dkgunte
+"""been""","Flagstaff, AZ, USA",dkgunte
+"""want""","Buffalo, NY, USA",dkgunte
+"""been""","Burlington, VT, USA",dkgunte
+"""been""","La Junta, CO, USA",dkgunte
+"""been""","Cortez, CO, USA",dkgunte
+"""been""","Charleston, SC, USA",dkgunte
+"""been""","Independence, MO, USA",dkgunte
+"""been""","Cripple Creek, CO, USA",dkgunte
+"""been""","Toccoa, GA, USA",dkgunte
+"""been""","Suisun City, CA, USA",dkgunte
+"""been""","Concordia, MO, USA",dkgunte
+"""been""","Fairway, KS, USA",dkgunte
+"""been""","Millersville, MD, USA",dkgunte
+"""been""","Kansas City, MO, USA",dkgunte
+"""been""","Minneapolis, MN, USA",dkgunte
+"""been""","Biloxi, MS, USA",dkgunte
+"""been""","Frederick, MD, USA",dkgunte
+"""been""","Elbert, CO, USA",dkgunte
+"""been""","Columbus, GA, USA",dkgunte
+"""been""","Charles Town, WV, USA",dkgunte
+"""been""","Arnold, MD, USA",dkgunte
+"""been""","Birmingham, AL, USA",dkgunte
+"""been""","Vandalia, OH, USA",dkgunte
+"""been""","Leadville, CO, USA",dkgunte
+"""been""","Annapolis, MD, USA",dkgunte
+"""been""","Limon, CO, USA",dkgunte
+"""been""","Middle River, MD, USA",dkgunte
+"""been""","Malibu, CA, USA",dkgunte
+"""been""","Silver Plume, CO, USA",dkgunte
+"""been""","Annapolis Junction, MD, USA",dkgunte
+"""been""","Littleton, CO, USA",dkgunte
+"""been""","College Park, GA, USA",dkgunte
+"""been""","Silverton, CO, USA",dkgunte
+"""been""","Essex, MD, USA",dkgunte
+"""been""","Bowie, MD, USA",dkgunte
+"""been""","Larkspur, CO, USA",dkgunte
+"""been""","St. Petersburg, FL, USA",dkgunte
+"""been""","Myrtle Beach, SC, USA",dkgunte
+"""been""","Glen Ellen, CA, USA",dkgunte
+"""been""","Las Animas, CO, USA",dkgunte
+"""been""","Keystone, SD, USA",dkgunte
+"""been""","Arlington, VA, USA",dkgunte
+"""been""","Salida, CO, USA",dkgunte
+"""been""","Severn, MD, USA",dkgunte
+"""been""","Aspen, CO, USA",dkgunte
+"""been""","La Veta, CO, USA",dkgunte
+"""been""","Saint Louis, MO, USA",dkgunte
+"""been""","Aurora, CO, USA",dkgunte
+"""been""","Clayton, GA, USA",dkgunte
+"""been""","Ellicott City, MD, USA",dkgunte
+"""been""","Saint Augustine Beach, FL, USA",dkgunte
+"""been""","Severna Park, MD, USA",dkgunte
+"""been""","Lakewood, CO, USA",dkgunte
+"""been""","Arvada, CO, USA",dkgunte
+"""been""","Savage, MD, USA",dkgunte
+"""been""","Lutherville Timonium, MD, USA",dkgunte
+"""been""","Edgewood, MD, USA",dkgunte
+"""been""","Elkridge, MD, USA",dkgunte
+"""been""","Salina, KS, USA",dkgunte
+"""been""","Las Vegas, NV, USA",dkgunte
+"""been""","Easton, MD, USA",dkgunte
+"""been""","Bethesda, MD, USA",dkgunte
+"""been""","Lutherville, MD, USA",dkgunte
+"""been""","Macon, GA, USA",dkgunte
+"""been""","Ligonier, PA, USA",dkgunte
+"""been""","Salt Lake City, UT, USA",dkgunte
+"""been""","Euharlee, GA, USA",dkgunte
+"""been""","East Saint Louis, IL, USA",dkgunte
+"""been""","Chicago, IL, USA",dkgunte
+"""been""","Cottonwood, AZ, USA",dkgunte
+"""been""","Prescott Valley, AZ, USA",dkgunte
+"""been""","Decatur, AL, USA",dkgunte
+"""been""","Chatsworth, GA, USA",dkgunte
+"""been""","Pismo Beach, CA, USA",dkgunte
+"""been""","Rifle, CO, USA",dkgunte
+"""been""","Keystone, CO, USA",dkgunte
+"""been""","Los Angeles, CA, USA",dkgunte
+"""been""","Chickamauga, GA, USA",dkgunte
+"""been""","Milan, Italy",dkgunte
+"""been""","Rockville, MD, USA",dkgunte
+"""been""","Linthicum Heights, MD, USA",dkgunte
+"""been""","Baltimore, MD, USA",dkgunte
+"""been""","Albuquerque, NM, USA",dkgunte
+"""been""","North Myrtle Beach, SC, USA",dkgunte
+"""been""","Savannah, GA, USA",dkgunte
+"""been""","Long Beach, CA, USA",dkgunte
+"""been""","Cedartown, GA, USA",dkgunte
+"""been""","Jacksonville, FL, USA",dkgunte
+"""been""","Alexandria, VA, USA",dkgunte
+"""been""","Alamosa, CO, USA",dkgunte
+"""been""","Nashville, TN, USA",dkgunte
+"""been""","Athens, AL, USA",dkgunte
+"""been""","Seoul, South Korea",dkgunte
+"""been""","Phoenix, AZ, USA",dkgunte
+"""been""","Guntersville, AL, USA",dkgunte
+"""been""","Abingdon, MD, USA",dkgunte
+"""been""","Fort Carson, CO, USA",dkgunte
+"""been""","Cartersville, GA, USA",dkgunte
+"""been""","Carrollton, GA, USA",dkgunte
+"""been""","Lompoc, CA, USA",dkgunte
+"""been""","Cassville, GA, USA",dkgunte
+"""been""","Cave Spring, GA, USA",dkgunte
+"""been""","Monument, CO, USA",dkgunte
+"""been""","Georgetown, CO, USA",dkgunte
+"""been""","Morrison, CO, USA",dkgunte
+"""want""","Bangkok, Thailand",dkgunte
+"""been""","Walsenburg, CO, USA",dkgunte
+"""been""","Vancouver, British Columbia, Canada",dkgunte
+"""want""","Jamestown, NY, USA",dkgunte
+"""been""","Juneau, AK, USA",dkgunte
+"""been""","Ontario, OR, USA",dkgunte
+"""been""","Decatur, GA, USA",dkgunte
+"""been""","Boulder, CO, USA",dkgunte
+"""been""","Glenwood Springs, CO, USA",dkgunte
+"""been""","Hanover, MD, USA",dkgunte
+"""been""","Golden, CO, USA",dkgunte
+"""been""","Twin Falls, ID, USA",dkgunte
+"""been""","Breckenridge, CO, USA",dkgunte
+"""been""","Halethorpe, MD, USA",dkgunte
+"""been""","Hagerstown, MD, USA",dkgunte
+"""been""","Cheverly, MD, USA",dkgunte
+"""been""","Ocean City, MD, USA",dkgunte
+"""been""","Chesapeake Beach, MD, USA",dkgunte
+"""been""","Trinidad, CO, USA",dkgunte
+"""been""","Dahlonega, GA, USA",dkgunte
+"""been""","Jerome, AZ, USA",dkgunte
+"""been""","Tempe, AZ, USA",dkgunte
+"""been""","Teec Nos Pos, AZ, USA",dkgunte
+"""been""","Dalton, GA, USA",dkgunte
+"""been""","Adairsville, GA, USA",dkgunte
+"""been""","Frisco, CO, USA",dkgunte
+"""been""","Dallas, GA, USA",dkgunte
+"""been""","Acworth, GA, USA",dkgunte
+"""been""","Vail, CO, USA",dkgunte
+"""been""","Monarch, CO, USA",dkgunte
+"""been""","Victor, CO, USA",dkgunte
+"""been""","Half Moon Bay, CA, USA",dkgunte
+"""been""","Montrose, CO, USA",dkgunte
+"""been""","Black Forest, CO, USA",dkgunte
+"""been""","Bologna, Italy",dkgunte
+"""been""","Glen Burnie, MD, USA",dkgunte
+"""been""","Basalt, CO, USA",dkgunte
+"""been""","Crazy Horse, SD, USA",dkgunte
+"""been""","Germantown, MD, USA",dkgunte
+"""been""","Capitol Heights, MD, USA",dkgunte
+"""been""","Florence, CO, USA",dkgunte
+"""been""","Vandalia, IL, USA",dkgunte
+"""been""","Fort Collins, CO, USA",dkgunte
+"""been""","La Jolla, CA, USA",dkgunte
+"""been"",""want""","Orlando, FL, USA",dkgunte
+"""been""","Thornton, CO, USA",dkgunte
+"""been""","Cumming, GA, USA",dkgunte
+"""been""","Fountain, CO, USA",dkgunte
+"""been""","Fairfax, VA, USA",dkgunte
+"""want""","Dublin, Ireland",dkgunte
+"""been""","Gaithersburg, MD, USA",dkgunte
+"""been""","Marina, CA, USA",dkgunte
+"""been""","Snowmass Village, CO, USA",dkgunte
+"""been""","Loveland, CO, USA",dkgunte
+"""been""","Marina Grande, Italy",dkgunte
+"""been""","Glendale, AZ, USA",dkgunte
+"""been""","Sedona, AZ, USA",dkgunte
+"""been""","Scottsdale, AZ, USA",dkgunte
+"""been""","Deadwood, SD, USA",dkgunte
+"""been""","Urbana, IL, USA",dkgunte
+"""been""","Falls Church, VA, USA",dkgunte
+"""been""","Zanesville, OH, USA",dkgunte
+"""been""","Reno, NV, USA",dkgunte
+"""been""","Frostburg, MD, USA",dkgunte
+"""been""","South Fork, CO, USA",dkgunte
+"""been""","Englewood, CO, USA",dkgunte
+"""been""","Conyers, GA, USA",dkgunte
+"""been""","Coosa, GA, USA",dkgunte
+"""been""","Manitou Springs, CO, USA",dkgunte
+"""been""","Sterling, CO, USA",dkgunte
+"""been""","Falcon, CO, USA",dkgunte

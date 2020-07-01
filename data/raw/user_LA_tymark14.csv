@@ -1,0 +1,576 @@
+tag,place,user
+"""been""","Santa Barbara, CA, USA",tymark14
+"""been""","Beverly Hills, CA, USA",tymark14
+"""been""","Death Valley Junction, CA, USA",tymark14
+"""been""","King City, Ontario, Canada",tymark14
+"""been""","Bellevue, WA, USA",tymark14
+"""been""","Ingersoll, Ontario, Canada",tymark14
+"""been""","North Battleford, Saskatchewan, Canada",tymark14
+"""been""","Kemptville, Ontario, Canada",tymark14
+"""been""","West Vancouver, British Columbia, Canada",tymark14
+"""been""","Everett, WA, USA",tymark14
+"""been""","Grafton, Ontario, Canada",tymark14
+"""been""","San Ysidro, CA, USA",tymark14
+"""been""","Memphis, TN, USA",tymark14
+"""been""","Grimsby, Ontario, Canada",tymark14
+"""been""","Plattsburgh, NY, USA",tymark14
+"""been""","Burnaby, British Columbia, Canada",tymark14
+"""been""","Windsor, Ontario, Canada",tymark14
+"""been""","Merrickville, Ontario, Canada",tymark14
+"""been""","Elmira, NY, USA",tymark14
+"""been""","Laval, Quebec, Canada",tymark14
+"""been""","Binghamton, NY, USA",tymark14
+"""want""","Playa de las Americas, Spain",tymark14
+"""been""","Buffalo, WY, USA",tymark14
+"""been""","Saint Albans, VT, USA",tymark14
+"""been""","Bellingham, WA, USA",tymark14
+"""been""","Sheridan, WY, USA",tymark14
+"""been""","Philadelphia, PA, USA",tymark14
+"""been""","Gettysburg, PA, USA",tymark14
+"""been""","Casper, WY, USA",tymark14
+"""been""","Cheyenne, WY, USA",tymark14
+"""been""","Sundance, WY, USA",tymark14
+"""been""","Cumberland, Ontario, Canada",tymark14
+"""been""","Blaine, WA, USA",tymark14
+"""been""","Hope, British Columbia, Canada",tymark14
+"""been""","Aurora, Ontario, Canada",tymark14
+"""been""","Golden, British Columbia, Canada",tymark14
+"""been""","Delta, British Columbia, Canada",tymark14
+"""been""","White Plains, NY, USA",tymark14
+"""been""","Merritt, British Columbia, Canada",tymark14
+"""been""","Glens Falls, NY, USA",tymark14
+"""been""","Quebec City, Quebec, Canada",tymark14
+"""been""","Montreal, Quebec, Canada",tymark14
+"""want""","Geneva, Switzerland",tymark14
+"""been""","Hershey, PA, USA",tymark14
+"""been""","Sherbrooke, Quebec, Canada",tymark14
+"""been""","Devils Tower, WY, USA",tymark14
+"""been""","Fort Myers Beach, FL, USA",tymark14
+"""been""","Kissimmee, FL, USA",tymark14
+"""been""","Carmel, CA, USA",tymark14
+"""been""","Fort Walton Beach, FL, USA",tymark14
+"""been""","San Luis Obispo, CA, USA",tymark14
+"""been""","St. Augustine, FL, USA",tymark14
+"""been""","Cape Canaveral, FL, USA",tymark14
+"""been""","Port Coquitlam, British Columbia, Canada",tymark14
+"""been""","Utica, NY, USA",tymark14
+"""been""","Port Alberni, British Columbia, Canada",tymark14
+"""been""","Port Colborne, Ontario, Canada",tymark14
+"""been""","Salmon Arm, British Columbia, Canada",tymark14
+"""been""","Perth, Ontario, Canada",tymark14
+"""been""","Revelstoke, British Columbia, Canada",tymark14
+"""been""","Petawawa, Ontario, Canada",tymark14
+"""been""","Princeton, British Columbia, Canada",tymark14
+"""been""","Fort Myers, FL, USA",tymark14
+"""been""","Port Hope, Ontario, Canada",tymark14
+"""been""","Squamish, British Columbia, Canada",tymark14
+"""been""","Cortland, NY, USA",tymark14
+"""been""","Sidney, British Columbia, Canada",tymark14
+"""been""","North Bay, Ontario, Canada",tymark14
+"""been""","Catskill, NY, USA",tymark14
+"""want""","Bordeaux, France",tymark14
+"""been""","Ottawa, Ontario, Canada",tymark14
+"""been""","Melaque, Mexico",tymark14
+"""been""","Oshawa, Ontario, Canada",tymark14
+"""been""","Cuba, MO, USA",tymark14
+"""been""","Oakville, Ontario, Canada",tymark14
+"""been""","Peterborough, Ontario, Canada",tymark14
+"""been""","Woodstock, Ontario, Canada",tymark14
+"""been""","West Hollywood, CA, USA",tymark14
+"""been""","Mexico City, Mexico",tymark14
+"""been""","Key Largo, FL, USA",tymark14
+"""been"",""fave""","Key West, FL, USA",tymark14
+"""been""","Naples, FL, USA",tymark14
+"""been""","Islamorada, FL, USA",tymark14
+"""been""","Portsmouth, NH, USA",tymark14
+"""been""","Iseo, Italy",tymark14
+"""been""","Fort Lauderdale, FL, USA",tymark14
+"""been""","Corning, NY, USA",tymark14
+"""been""","Milton, Ontario, Canada",tymark14
+"""been""","Grand Island, NE, USA",tymark14
+"""been""","Bancroft, Ontario, Canada",tymark14
+"""been""","East Syracuse, NY, USA",tymark14
+"""been""","Canton, NY, USA",tymark14
+"""want""","Bengaluru, India",tymark14
+"""been""","Cape Vincent, NY, USA",tymark14
+"""been""","Sault Ste. Marie, Ontario, Canada",tymark14
+"""been""","Rochester, NY, USA",tymark14
+"""been""","Tupper Lake, NY, USA",tymark14
+"""been""","Sudbury, Ontario, Canada",tymark14
+"""been""","San Patricio, Mexico",tymark14
+"""been""","Stratford, Ontario, Canada",tymark14
+"""been""","Wasaga Beach, Ontario, Canada",tymark14
+"""been""","Mount Vernon, IL, USA",tymark14
+"""been""","St. Catharines, Ontario, Canada",tymark14
+"""been""","Toronto, Ontario, Canada",tymark14
+"""been""","Thunder Bay, Ontario, Canada",tymark14
+"""been""","Jeffersonville, VT, USA",tymark14
+"""been""","Colorado Springs, CO, USA",tymark14
+"""want""","Surfers Paradise, Australia",tymark14
+"""been""","Bakersfield, CA, USA",tymark14
+"""been""","Cobourg, Ontario, Canada",tymark14
+"""been""","Cooperstown, NY, USA",tymark14
+"""been""","Brockville, Ontario, Canada",tymark14
+"""been""","Bismarck, ND, USA",tymark14
+"""been""","Huntsville, Ontario, Canada",tymark14
+"""want""","Cairo, Egypt",tymark14
+"""been""","Hawkesbury, Ontario, Canada",tymark14
+"""been""","Collingwood, Ontario, Canada",tymark14
+"""been""","Fulton, NY, USA",tymark14
+"""want""","Luxor, Egypt",tymark14
+"""been""","Hibbing, MN, USA",tymark14
+"""been""","Jordan, Ontario, Canada",tymark14
+"""been""","Tonawanda, NY, USA",tymark14
+"""been""","Butte, MT, USA",tymark14
+"""been"",""fave""","Bisbee, AZ, USA",tymark14
+"""been""","Kenora, Ontario, Canada",tymark14
+"""been""","Bennington, VT, USA",tymark14
+"""been""","Pachuca, Mexico",tymark14
+"""been""","Grand Forks, ND, USA",tymark14
+"""been""","Tillsonburg, Ontario, Canada",tymark14
+"""been""","Midland, Ontario, Canada",tymark14
+"""been""","Lancaster, PA, USA",tymark14
+"""been""","Kitchener, Ontario, Canada",tymark14
+"""been""","Ticonderoga, NY, USA",tymark14
+"""want""","Mombasa, Kenya",tymark14
+"""been""","Richmond Hill, Ontario, Canada",tymark14
+"""been""","Pembroke, Ontario, Canada",tymark14
+"""been""","Parry Sound, Ontario, Canada",tymark14
+"""been""","Owen Sound, Ontario, Canada",tymark14
+"""been"",""fave""","Barra de Navidad, Mexico",tymark14
+"""want""","Prague, Czech Republic",tymark14
+"""want""","Mumbai, India",tymark14
+"""been""","Tequila, Mexico",tymark14
+"""want""","New Delhi, India",tymark14
+"""been""","Nuevo Vallarta, Mexico",tymark14
+"""been""","Coeur d'Alene, ID, USA",tymark14
+"""been""","Helena, MT, USA",tymark14
+"""been""","Gillette, WY, USA",tymark14
+"""been""","New Brunswick, NJ, USA",tymark14
+"""been""","Pensacola, FL, USA",tymark14
+"""been""","Trenton, Ontario, Canada",tymark14
+"""been""","Smiths Falls, Ontario, Canada",tymark14
+"""been""","Simcoe, Ontario, Canada",tymark14
+"""been""","Tampa, FL, USA",tymark14
+"""been""","Naco, AZ, USA",tymark14
+"""been""","Welland, Ontario, Canada",tymark14
+"""been""","Waterloo, Ontario, Canada",tymark14
+"""been""","Austin, TX, USA",tymark14
+"""been""","Queretaro City, Mexico",tymark14
+"""want""","Santiago, Chile",tymark14
+"""been""","Sioux Falls, SD, USA",tymark14
+"""been""","Cleveland, OH, USA",tymark14
+"""been""","Keene, NY, USA",tymark14
+"""been""","Syracuse, NY, USA",tymark14
+"""been""","Sonoma, CA, USA",tymark14
+"""been""","Hardin, MT, USA",tymark14
+"""want""","Miami, FL, USA",tymark14
+"""been""","Miami Beach, FL, USA",tymark14
+"""been""","Poza Rica, Mexico",tymark14
+"""been""","Tecolutla, Mexico",tymark14
+"""been""","Jersey City, NJ, USA",tymark14
+"""been""","Portugal Cove, Newfoundland and Labrador, Canada",tymark14
+"""been""","Panama City, FL, USA",tymark14
+"""been""","Panama City Beach, FL, USA",tymark14
+"""been""","Nephi, UT, USA",tymark14
+"""been""","Duluth, MN, USA",tymark14
+"""been""","Wakefield, Quebec, Canada",tymark14
+"""been""","Cornwall, Ontario, Canada",tymark14
+"""been""","Osoyoos, British Columbia, Canada",tymark14
+"""been""","Abbotsford, British Columbia, Canada",tymark14
+"""been""","Markham, Ontario, Canada",tymark14
+"""want""","Sousse, Tunisia",tymark14
+"""been""","Dryden, Ontario, Canada",tymark14
+"""been"",""fave""","Cusco, Peru",tymark14
+"""been"",""want"",""fave""","Lima, Peru",tymark14
+"""been"",""fave""","Machu Picchu, Peru",tymark14
+"""been""","Spearfish, SD, USA",tymark14
+"""been""","Paris, France",tymark14
+"""want""","Lyon, France",tymark14
+"""want""","Zurich, Switzerland",tymark14
+"""been""","East Rutherford, NJ, USA",tymark14
+"""been""","Jackson, WY, USA",tymark14
+"""want""","Chamonix, France",tymark14
+"""been""","Sturgis, SD, USA",tymark14
+"""been""","Tombstone, AZ, USA",tymark14
+"""been""","Richmond, British Columbia, Canada",tymark14
+"""been""","North Vancouver, British Columbia, Canada",tymark14
+"""been""","Coquitlam, British Columbia, Canada",tymark14
+"""been""","Tonala, Mexico",tymark14
+"""been""","Hoboken, NJ, USA",tymark14
+"""been""","Patzcuaro, Mexico",tymark14
+"""been""","Watkins Glen, NY, USA",tymark14
+"""been""","Vaughan, Ontario, Canada",tymark14
+"""been""","Flushing, NY, USA",tymark14
+"""want""","Maspalomas, Spain",tymark14
+"""been""","Chattanooga, TN, USA",tymark14
+"""been""","Columbus, OH, USA",tymark14
+"""want""","Barcelona, Spain",tymark14
+"""been""","Lincoln, NE, USA",tymark14
+"""been""","Trenton, NJ, USA",tymark14
+"""been""","Columbus, NM, USA",tymark14
+"""been""","Lazaro Cardenas, Mexico",tymark14
+"""been""","Laguna Beach, CA, USA",tymark14
+"""been""","Ithaca, NY, USA",tymark14
+"""been""","Pietrasanta, Italy",tymark14
+"""been""","Oklahoma City, OK, USA",tymark14
+"""been""","Ocean City, MD, USA",tymark14
+"""want""","Copenhagen, Denmark",tymark14
+"""been""","Chesapeake Beach, MD, USA",tymark14
+"""been""","Detroit, MI, USA",tymark14
+"""been""","Woodstock, NY, USA",tymark14
+"""been""","Wall, SD, USA",tymark14
+"""want""","Nice, France",tymark14
+"""been""","Harrisburg, PA, USA",tymark14
+"""been""","Greene, NY, USA",tymark14
+"""been""","La Jolla, CA, USA",tymark14
+"""want""","Sydney, Australia",tymark14
+"""been""","Siesta Key, FL, USA",tymark14
+"""been""","Orlando, FL, USA",tymark14
+"""been""","Fort Pierre, SD, USA",tymark14
+"""been""","Piedras Negras, Mexico",tymark14
+"""been""","Fort Saskatchewan, Alberta, Canada",tymark14
+"""been""","Brooks, Alberta, Canada",tymark14
+"""been""","Boca de Tomatlan, Mexico",tymark14
+"""been""","Hanna, Alberta, Canada",tymark14
+"""been""","Sedona, AZ, USA",tymark14
+"""been""","Algonquin Provincial Park, Ontario, Canada",tymark14
+"""been""","Scottsdale, AZ, USA",tymark14
+"""been""","Greece, NY, USA",tymark14
+"""been""","Allentown, PA, USA",tymark14
+"""want""","Cannes, France",tymark14
+"""want""","Athens, Greece",tymark14
+"""been""","Grand Island, NY, USA",tymark14
+"""been""","Reno, NV, USA",tymark14
+"""been""","San Luis Potosi, Mexico",tymark14
+"""been""","West Palm Beach, FL, USA",tymark14
+"""been""","Kansas City, MO, USA",tymark14
+"""been""","Universal City, TX, USA",tymark14
+"""been""","Dallas, TX, USA",tymark14
+"""been""","Minneapolis, MN, USA",tymark14
+"""been""","Biloxi, MS, USA",tymark14
+"""been""","Annapolis, MD, USA",tymark14
+"""been""","Eastman, Quebec, Canada",tymark14
+"""been""","Brome, Quebec, Canada",tymark14
+"""been""","Norwich, CT, USA",tymark14
+"""been""","Silver Spring, MD, USA",tymark14
+"""been""","Cowansville, Quebec, Canada",tymark14
+"""been"",""want""","Marrakech, Morocco",tymark14
+"""been""","Fes, Morocco",tymark14
+"""been""","Newport Beach, CA, USA",tymark14
+"""been""","Casablanca, Morocco",tymark14
+"""want""","Istanbul, Turkey",tymark14
+"""want""","Agadir, Morocco",tymark14
+"""been""","Aguas Calientes, Peru",tymark14
+"""been""","Saint Louis, MO, USA",tymark14
+"""been""","Niagara-on-the-Lake, Ontario, Canada",tymark14
+"""been""","Palomas, Mexico",tymark14
+"""been""","Arnprior, Ontario, Canada",tymark14
+"""been""","Saint Clair, MO, USA",tymark14
+"""been""","Denton, TX, USA",tymark14
+"""been""","Wounded Knee, SD, USA",tymark14
+"""been""","Rigaud, Quebec, Canada",tymark14
+"""want""","Malaga, Spain",tymark14
+"""been""","Pierre, SD, USA",tymark14
+"""want""","Marbella, Spain",tymark14
+"""want""","Brussels, Belgium",tymark14
+"""been""","Hamilton, Ontario, Canada",tymark14
+"""want""","Stockholm, Sweden",tymark14
+"""been""","Fort Worth, TX, USA",tymark14
+"""been""","Vatican City, Vatican City",tymark14
+"""been""","Los Angeles, CA, USA",tymark14
+"""been""","Rome, Italy",tymark14
+"""been"",""want""","Las Vegas, NV, USA",tymark14
+"""been""","Kingston, Ontario, Canada",tymark14
+"""been""","Niagara Falls, Ontario, Canada",tymark14
+"""been"",""fave""","Chicago, IL, USA",tymark14
+"""been""","Mississauga, Ontario, Canada",tymark14
+"""been""","London, Ontario, Canada",tymark14
+"""been""","Messines, Quebec, Canada",tymark14
+"""been""","Mont Laurier, Quebec, Canada",tymark14
+"""been""","Phoenix, AZ, USA",tymark14
+"""been""","Rapid City, SD, USA",tymark14
+"""been""","Ashland, WI, USA",tymark14
+"""been""","Montebello, Quebec, Canada",tymark14
+"""been""","Gulf Shores, AL, USA",tymark14
+"""been""","Cibolo, TX, USA",tymark14
+"""been""","Long Beach, CA, USA",tymark14
+"""been""","Alexandria, VA, USA",tymark14
+"""been""","Niantic, CT, USA",tymark14
+"""been""","Milwaukee, WI, USA",tymark14
+"""been""","Westport, CT, USA",tymark14
+"""been""","Deep Cove, British Columbia, Canada",tymark14
+"""been"",""want""","Pisa, Italy",tymark14
+"""been""","Sacramento, CA, USA",tymark14
+"""been""","Florence, Italy",tymark14
+"""been""","Galveston, TX, USA",tymark14
+"""been""","Hondo, TX, USA",tymark14
+"""been""","Mystic, CT, USA",tymark14
+"""been""","Halifax, Nova Scotia, Canada",tymark14
+"""been""","Weehawken, NJ, USA",tymark14
+"""been""","Ely, NV, USA",tymark14
+"""been""","Elko, NV, USA",tymark14
+"""been""","Guelph, Ontario, Canada",tymark14
+"""been""","Fort Erie, Ontario, Canada",tymark14
+"""been""","Shelburne, Ontario, Canada",tymark14
+"""been""","Markdale, Ontario, Canada",tymark14
+"""been""","Yuma, AZ, USA",tymark14
+"""been""","Playa Azul, Mexico",tymark14
+"""been""","North Bennington, VT, USA",tymark14
+"""been""","Bromont, Quebec, Canada",tymark14
+"""been""","Brantford, Ontario, Canada",tymark14
+"""been""","Brampton, Ontario, Canada",tymark14
+"""been""","Belleville, Ontario, Canada",tymark14
+"""been""","Barrie, Ontario, Canada",tymark14
+"""been""","Crystal Beach, Ontario, Canada",tymark14
+"""been""","Cambridge, Ontario, Canada",tymark14
+"""been""","Burlington, Ontario, Canada",tymark14
+"""been""","Saint Paul, MN, USA",tymark14
+"""been""","Lead, SD, USA",tymark14
+"""been""","Portland, OR, USA",tymark14
+"""want""","Madrid, Spain",tymark14
+"""been""","Monterey, CA, USA",tymark14
+"""been""","Gravenhurst, Ontario, Canada",tymark14
+"""been""","Red Lake, Ontario, Canada",tymark14
+"""been""","Fairfax, VA, USA",tymark14
+"""been""","Dillon, SC, USA",tymark14
+"""been""","Mont Tremblant, Quebec, Canada",tymark14
+"""been""","Crazy Horse, SD, USA",tymark14
+"""been"",""fave""","Venice, Italy",tymark14
+"""been""","Maple Ridge, British Columbia, Canada",tymark14
+"""been""","Morelia, Mexico",tymark14
+"""been""","Alexandria Bay, NY, USA",tymark14
+"""been""","Renfrew, Ontario, Canada",tymark14
+"""been""","Montauk, NY, USA",tymark14
+"""been""","Winnipeg, Manitoba, Canada",tymark14
+"""been""","Colima, Mexico",tymark14
+"""been""","Brainerd, MN, USA",tymark14
+"""been""","Brandon, Manitoba, Canada",tymark14
+"""been""","Sayulita, Mexico",tymark14
+"""been""","La Manzanilla, Mexico",tymark14
+"""been""","Calabogie, Ontario, Canada",tymark14
+"""been""","Schertz, TX, USA",tymark14
+"""been""","Palm Springs, CA, USA",tymark14
+"""been""","Sainte Agathe des Monts, Quebec, Canada",tymark14
+"""been""","Deadwood, SD, USA",tymark14
+"""been""","Saint Sauveur des Monts, Quebec, Canada",tymark14
+"""been""","Bloomington, MN, USA",tymark14
+"""been""","Lordsburg, NM, USA",tymark14
+"""been""","St. John's, Newfoundland and Labrador, Canada",tymark14
+"""been""","New Westminster, British Columbia, Canada",tymark14
+"""been""","Nanaimo, British Columbia, Canada",tymark14
+"""been""","Kelowna, British Columbia, Canada",tymark14
+"""been""","Penticton, British Columbia, Canada",tymark14
+"""been""","Concord, MA, USA",tymark14
+"""been""","Granby, Quebec, Canada",tymark14
+"""been""","Gatineau, Quebec, Canada",tymark14
+"""been""","Mount Pocono, PA, USA",tymark14
+"""been""","Kennebunk, ME, USA",tymark14
+"""been""","Kennebunkport, ME, USA",tymark14
+"""been""","Kamloops, British Columbia, Canada",tymark14
+"""been""","Harrison Hot Springs, British Columbia, Canada",tymark14
+"""been""","Las Cruces, NM, USA",tymark14
+"""been""","Charlotte, NC, USA",tymark14
+"""been""","Hartford, CT, USA",tymark14
+"""been""","Fort Langley, British Columbia, Canada",tymark14
+"""been""","Provincetown, MA, USA",tymark14
+"""been""","Victoria, British Columbia, Canada",tymark14
+"""been""","Whistler, British Columbia, Canada",tymark14
+"""been""","Mazamitla, Mexico",tymark14
+"""been""","Deep River, Ontario, Canada",tymark14
+"""been""","Milan, Italy",tymark14
+"""been""","Keystone, SD, USA",tymark14
+"""been""","Qualicum Beach, British Columbia, Canada",tymark14
+"""been""","Yakima, WA, USA",tymark14
+"""been""","Myrtle Beach, SC, USA",tymark14
+"""been""","Lloydminster, Alberta, Canada",tymark14
+"""been"",""fave""","Wakefield, RI, USA",tymark14
+"""been""","Ciudad Guzman, Mexico",tymark14
+"""been""","Plymouth, MA, USA",tymark14
+"""been""","Albany, NY, USA",tymark14
+"""been""","Vancouver, British Columbia, Canada",tymark14
+"""been""","Tofino, British Columbia, Canada",tymark14
+"""been""","Adirondack, NY, USA",tymark14
+"""been""","Edmonton, Alberta, Canada",tymark14
+"""been""","Guadalajara, Mexico",tymark14
+"""been""","Calgary, Alberta, Canada",tymark14
+"""been""","Lake Louise, Alberta, Canada",tymark14
+"""been""","Banff, Alberta, Canada",tymark14
+"""been""","Jasper, Alberta, Canada",tymark14
+"""been""","Zapopan, Mexico",tymark14
+"""been""","Wilkes-Barre, PA, USA",tymark14
+"""been""","Salt Lake City, UT, USA",tymark14
+"""been""","Rio Frio, TX, USA",tymark14
+"""been""","Essaouira, Morocco",tymark14
+"""been""","Jacksonville, FL, USA",tymark14
+"""been""","Brownsville, TX, USA",tymark14
+"""been""","Gananoque, Ontario, Canada",tymark14
+"""been""","Orillia, Ontario, Canada",tymark14
+"""been""","Williamsport, PA, USA",tymark14
+"""been""","Magog, Quebec, Canada",tymark14
+"""been""","Atlantic City, NJ, USA",tymark14
+"""been""","Old Orchard Beach, ME, USA",tymark14
+"""been""","Roswell, NM, USA",tymark14
+"""want""","Havana, Cuba",tymark14
+"""been""","Manzanillo, Mexico",tymark14
+"""want""","Puerto Vallarta, Mexico",tymark14
+"""want""","Zihuatanejo, Mexico",tymark14
+"""been""","Duncan, British Columbia, Canada",tymark14
+"""been""","Chapala, Mexico",tymark14
+"""been""","Chilliwack, British Columbia, Canada",tymark14
+"""been""","Baltimore, MD, USA",tymark14
+"""want""","Bangkok, Thailand",tymark14
+"""been""","Chemainus, British Columbia, Canada",tymark14
+"""been""","Albuquerque, NM, USA",tymark14
+"""been""","SeaTac, WA, USA",tymark14
+"""been""","Savannah, GA, USA",tymark14
+"""been""","Rome, NY, USA",tymark14
+"""been""","Punta Negra, Peru",tymark14
+"""been""","Surrey, British Columbia, Canada",tymark14
+"""been""","Nashville, TN, USA",tymark14
+"""been""","Niagara Falls, NY, USA",tymark14
+"""been""","Brunswick, ME, USA",tymark14
+"""been""","Medicine Hat, Alberta, Canada",tymark14
+"""been""","Lake Placid, NY, USA",tymark14
+"""been""","Alamogordo, NM, USA",tymark14
+"""been""","Tijuana, Mexico",tymark14
+"""been""","Frankfort, KY, USA",tymark14
+"""been""","Barranquilla, Colombia",tymark14
+"""been""","Hyannis, MA, USA",tymark14
+"""been""","Brookline, MA, USA",tymark14
+"""been""","Cartagena, Colombia",tymark14
+"""been""","Brooklyn, NY, USA",tymark14
+"""been""","Bar Harbor, ME, USA",tymark14
+"""been""","Temiskaming Shores, Ontario, Canada",tymark14
+"""been""","Lake George, NY, USA",tymark14
+"""been""","Batavia, NY, USA",tymark14
+"""been""","Massena, NY, USA",tymark14
+"""been""","Boca Raton, FL, USA",tymark14
+"""been""","Boothbay Harbor, ME, USA",tymark14
+"""been""","Tucson, AZ, USA",tymark14
+"""been""","Chacala, Mexico",tymark14
+"""want""","Manila, Philippines",tymark14
+"""been""","San Antonio, TX, USA",tymark14
+"""been""","San Francisco, CA, USA",tymark14
+"""been""","Santa Fe, NM, USA",tymark14
+"""been""","Big Sur, CA, USA",tymark14
+"""been""","Eau Claire, WI, USA",tymark14
+"""been""","Murano, Italy",tymark14
+"""been""","Bozeman, MT, USA",tymark14
+"""been""","Spokane, WA, USA",tymark14
+"""been""","Rensselaer, NY, USA",tymark14
+"""been""","Ciudad Juarez, Mexico",tymark14
+"""been""","Nogales, Mexico",tymark14
+"""been""","Monterrey, Mexico",tymark14
+"""been""","Saltillo, Mexico",tymark14
+"""been""","Nuevo Laredo, Mexico",tymark14
+"""been""","Sioux Narrows, Ontario, Canada",tymark14
+"""been""","Scranton, PA, USA",tymark14
+"""been""","Picton, Ontario, Canada",tymark14
+"""been""","Toluca, Mexico",tymark14
+"""been""","Manchester, VT, USA",tymark14
+"""been""","Ucluelet, British Columbia, Canada",tymark14
+"""been""","Billings, MT, USA",tymark14
+"""been""","Concord, NH, USA",tymark14
+"""been""","Mount Washington, NH, USA",tymark14
+"""been""","Middlebury, VT, USA",tymark14
+"""been""","York Beach, ME, USA",tymark14
+"""been""","York Harbor, ME, USA",tymark14
+"""want""","Vienna, Austria",tymark14
+"""been""","Uruapan, Mexico",tymark14
+"""been""","Charleston, SC, USA",tymark14
+"""been""","York, ME, USA",tymark14
+"""been""","Flagstaff, AZ, USA",tymark14
+"""been""","New Braunfels, TX, USA",tymark14
+"""been""","Buffalo, NY, USA",tymark14
+"""want""","Buenos Aires, Argentina",tymark14
+"""been""","Bogota, Colombia",tymark14
+"""been""","Newport, RI, USA",tymark14
+"""been""","Hot Springs, AR, USA",tymark14
+"""been""","Montpelier, VT, USA",tymark14
+"""been""","Tenacatita, Mexico",tymark14
+"""been""","Yorkton, Saskatchewan, Canada",tymark14
+"""been""","Marion, TX, USA",tymark14
+"""been""","Burlington, VT, USA",tymark14
+"""been""","Tacoma, WA, USA",tymark14
+"""been""","Duck Key, FL, USA",tymark14
+"""been""","Malone, NY, USA",tymark14
+"""been""","Oswego, NY, USA",tymark14
+"""been""","Cihuatlan, Mexico",tymark14
+"""been""","Clinton, NY, USA",tymark14
+"""been""","Viareggio, Italy",tymark14
+"""been""","Great Falls, MT, USA",tymark14
+"""been""","Brescia, Italy",tymark14
+"""been"",""fave""","New Orleans, LA, USA",tymark14
+"""been""","Asheville, NC, USA",tymark14
+"""been""","Laramie, WY, USA",tymark14
+"""been""","Boston, MA, USA",tymark14
+"""been""","Custer, SD, USA",tymark14
+"""been""","International Falls, MN, USA",tymark14
+"""been""","Daytona Beach, FL, USA",tymark14
+"""been""","Whitecourt, Alberta, Canada",tymark14
+"""been""","Houston, TX, USA",tymark14
+"""been""","Hollywood, FL, USA",tymark14
+"""been""","Newton, MA, USA",tymark14
+"""been""","Sandusky, OH, USA",tymark14
+"""been""","Clayton, NY, USA",tymark14
+"""want""","Sao Paulo, Brazil",tymark14
+"""been""","Fargo, ND, USA",tymark14
+"""been""","Bretton Woods, NH, USA",tymark14
+"""been""","Alliston, Ontario, Canada",tymark14
+"""been""","Bronx, NY, USA",tymark14
+"""been""","Deming, NM, USA",tymark14
+"""been""","Indianapolis, IN, USA",tymark14
+"""been""","Mismaloya, Mexico",tymark14
+"""been""","Truth or Consequences, NM, USA",tymark14
+"""been""","Pulaski, NY, USA",tymark14
+"""been""","Schenectady, NY, USA",tymark14
+"""been""","San Diego, CA, USA",tymark14
+"""been""","Council Bluffs, IA, USA",tymark14
+"""been""","Sioux City, IA, USA",tymark14
+"""been""","Cincinnati, OH, USA",tymark14
+"""been""","Michigan City, IN, USA",tymark14
+"""been""","Seneca Falls, NY, USA",tymark14
+"""been""","Provo, UT, USA",tymark14
+"""been""","Seattle, WA, USA",tymark14
+"""been""","Lido di Ostia, Italy",tymark14
+"""been""","Williamsburg, VA, USA",tymark14
+"""been""","Wheeling, WV, USA",tymark14
+"""been""","Saugerties, NY, USA",tymark14
+"""been""","Poughkeepsie, NY, USA",tymark14
+"""been""","Tobermory, Ontario, Canada",tymark14
+"""been""","Washington DC, DC, USA",tymark14
+"""been""","Depew, NY, USA",tymark14
+"""been""","Ogdensburg, NY, USA",tymark14
+"""been""","Potsdam, NY, USA",tymark14
+"""been""","Carlsbad, NM, USA",tymark14
+"""been"",""fave""","New York City, NY, USA",tymark14
+"""been""","Omaha, NE, USA",tymark14
+"""been""","Crow Agency, MT, USA",tymark14
+"""been""","Louisville, KY, USA",tymark14
+"""been""","El Paso, TX, USA",tymark14
+"""want""","Singapore, Singapore",tymark14
+"""been""","Sioux Lookout, Ontario, Canada",tymark14
+"""want""","Cape Town Central, South Africa",tymark14
+"""been""","Moose Jaw, Saskatchewan, Canada",tymark14
+"""been""","Swift Current, Saskatchewan, Canada",tymark14
+"""been""","Saskatoon, Saskatchewan, Canada",tymark14
+"""been""","Regina, Saskatchewan, Canada",tymark14
+"""want""","Montego Bay, Jamaica",tymark14
+"""been""","Cocoa Beach, FL, USA",tymark14
+"""been""","Atlanta, GA, USA",tymark14
+"""been""","Rawlins, WY, USA",tymark14
+"""been""","Narragansett, RI, USA",tymark14
+"""been""","Lynden, WA, USA",tymark14
+"""been""","Santa Monica, CA, USA",tymark14
+"""been""","Clearwater, FL, USA",tymark14
+"""been""","Negril, Jamaica",tymark14
+"""been""","Portland, ME, USA",tymark14
+"""been""","Cheektowaga, NY, USA",tymark14
+"""been""","North Tonawanda, NY, USA",tymark14
+"""want""","Funchal, Portugal",tymark14
+"""been""","Missoula, MT, USA",tymark14
+"""been""","Bucerias, Mexico",tymark14
+"""been""","Lowell, MA, USA",tymark14
+"""been""","Miles City, MT, USA",tymark14
+"""been""","Cambridge, MA, USA",tymark14

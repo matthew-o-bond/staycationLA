@@ -1,0 +1,481 @@
+tag,place,user
+"""been""","Reno, NV, USA",Fun2011
+"""been""","Primm, NV, USA",Fun2011
+"""been""","Goodyear, AZ, USA",Fun2011
+"""been""","Barstow, CA, USA",Fun2011
+"""been""","Marina del Rey, CA, USA",Fun2011
+"""been""","Chico, CA, USA",Fun2011
+"""been""","Mill Valley, CA, USA",Fun2011
+"""been""","Glendale, AZ, USA",Fun2011
+"""been""","Sedona, AZ, USA",Fun2011
+"""been""","Salem, OR, USA",Fun2011
+"""been""","Scottsdale, AZ, USA",Fun2011
+"""been""","Pahrump, NV, USA",Fun2011
+"""been""","Gilroy, CA, USA",Fun2011
+"""been""","Glen Ellen, CA, USA",Fun2011
+"""been""","North Las Vegas, NV, USA",Fun2011
+"""been"",""want""","Elk Grove Village, IL, USA",Fun2011
+"""been""","Manhattan Beach, CA, USA",Fun2011
+"""been""","Goleta, CA, USA",Fun2011
+"""been""","Glendale, CA, USA",Fun2011
+"""want""","Novato, CA, USA",Fun2011
+"""been""","Malibu, CA, USA",Fun2011
+"""been""","Seaside, OR, USA",Fun2011
+"""been"",""want"",""fave""","Gamboa, Panama",Fun2011
+"""been"",""want"",""fave""","Buena Vista, Costa Rica",Fun2011
+"""been""","Saint Louis, MO, USA",Fun2011
+"""been""","Chicago, IL, USA",Fun2011
+"""been""","North Edwards, CA, USA",Fun2011
+"""been""","Salt Lake City, UT, USA",Fun2011
+"""been""","SeaTac, WA, USA",Fun2011
+"""been""","Garden Grove, CA, USA",Fun2011
+"""been""","Joshua Tree, CA, USA",Fun2011
+"""been""","Nashville, TN, USA",Fun2011
+"""been""","Newport Beach, CA, USA",Fun2011
+"""been""","Astoria, OR, USA",Fun2011
+"""been"",""fave""","Corpus Christi, TX, USA",Fun2011
+"""been""","Laughlin, NV, USA",Fun2011
+"""been""","Las Vegas, NV, USA",Fun2011
+"""been""","Big Sur, CA, USA",Fun2011
+"""been""","Long Beach, CA, USA",Fun2011
+"""been""","Avalon, CA, USA",Fun2011
+"""been""","Los Angeles, CA, USA",Fun2011
+"""been""","Prescott, AZ, USA",Fun2011
+"""been""","Fresno, CA, USA",Fun2011
+"""been""","Albuquerque, NM, USA",Fun2011
+"""been""","Los Gatos, CA, USA",Fun2011
+"""been""","Fullerton, CA, USA",Fun2011
+"""been""","Irvine, CA, USA",Fun2011
+"""been""","Pismo Beach, CA, USA",Fun2011
+"""been""","Irwindale, CA, USA",Fun2011
+"""been""","Fremont, CA, USA",Fun2011
+"""been""","Baltimore, MD, USA",Fun2011
+"""been""","Nevada City, CA, USA",Fun2011
+"""want""","Laval, Quebec, Canada",Fun2011
+"""been""","Alameda, CA, USA",Fun2011
+"""been""","St. Thomas, U.S. Virgin Islands",Fun2011
+"""been""","Frederiksted, U.S. Virgin Islands",Fun2011
+"""been""","Alhambra, CA, USA",Fun2011
+"""been""","Cozumel, Mexico",Fun2011
+"""want""","Christiansted, U.S. Virgin Islands",Fun2011
+"""been""","Corona, CA, USA",Fun2011
+"""been""","Fallbrook, CA, USA",Fun2011
+"""been""","Cancun, Mexico",Fun2011
+"""been""","Eden, UT, USA",Fun2011
+"""been"",""want"",""fave""","Cabo Blanco, Costa Rica",Fun2011
+"""been""","Vallejo, CA, USA",Fun2011
+"""been""","Burbank, CA, USA",Fun2011
+"""been""","Hemet, CA, USA",Fun2011
+"""been""","Burlingame, CA, USA",Fun2011
+"""want""","Longueuil, Quebec, Canada",Fun2011
+"""been"",""want"",""fave""","Panama City, Panama",Fun2011
+"""want""","Montreal, Quebec, Canada",Fun2011
+"""been""","Buellton, CA, USA",Fun2011
+"""been""","Buena Park, CA, USA",Fun2011
+"""been""","Quebec City, Quebec, Canada",Fun2011
+"""been""","San Bartolome de Tirajana, Spain",Fun2011
+"""been""","Ketchikan, AK, USA",Fun2011
+"""been""","Toronto, Ontario, Canada",Fun2011
+"""been""","Sunset Crest, Barbados",Fun2011
+"""been""","Speightstown, Barbados",Fun2011
+"""been"",""fave""","St. Lawrence Gap, Barbados",Fun2011
+"""been""","Agoura Hills, CA, USA",Fun2011
+"""been""","Escondido, CA, USA",Fun2011
+"""been""","Portland, OR, USA",Fun2011
+"""been""","Encinitas, CA, USA",Fun2011
+"""been""","Lake Isabella, CA, USA",Fun2011
+"""been""","Boulder, CO, USA",Fun2011
+"""been""","Hawthorne, CA, USA",Fun2011
+"""been""","Tulum, Mexico",Fun2011
+"""been""","St. John, U.S. Virgin Islands",Fun2011
+"""been""","Lake Arrowhead, CA, USA",Fun2011
+"""been""","Emeryville, CA, USA",Fun2011
+"""been""","Juneau, AK, USA",Fun2011
+"""been""","Laguna Niguel, CA, USA",Fun2011
+"""been""","Ocean City, MD, USA",Fun2011
+"""been"",""want"",""fave""","Rio Gatun, Panama",Fun2011
+"""been""","Porters, Barbados",Fun2011
+"""been""","Laguna Hills, CA, USA",Fun2011
+"""been""","Tacoronte, Spain",Fun2011
+"""been""","Half Moon Bay, CA, USA",Fun2011
+"""been""","Tempe, AZ, USA",Fun2011
+"""been""","Elk Grove, CA, USA",Fun2011
+"""been""","Brea, CA, USA",Fun2011
+"""been""","Kingman, AZ, USA",Fun2011
+"""been""","Laguna Beach, CA, USA",Fun2011
+"""been""","El Segundo, CA, USA",Fun2011
+"""been""","La Quinta, CA, USA",Fun2011
+"""been""","Surprise, AZ, USA",Fun2011
+"""been""","Haleakala National Park, HI, USA",Fun2011
+"""been""","Redmond, WA, USA",Fun2011
+"""been""","Claremont, CA, USA",Fun2011
+"""been""","La Jolla, CA, USA",Fun2011
+"""been""","Orlando, FL, USA",Fun2011
+"""been"",""want""","Belgrade, Serbia",Fun2011
+"""been""","La Mesa, CA, USA",Fun2011
+"""been""","Glacier Bay National Park and Preserve, AK, USA",Fun2011
+"""been""","El Centro, CA, USA",Fun2011
+"""been""","Renton, WA, USA",Fun2011
+"""been"",""fave""","Haines, AK, USA",Fun2011
+"""been""","City of Industry, CA, USA",Fun2011
+"""been""","Edwards, CA, USA",Fun2011
+"""been""","Chula Vista, CA, USA",Fun2011
+"""been""","El Cajon, CA, USA",Fun2011
+"""been"",""want""","Rockaway Beach, OR, USA",Fun2011
+"""been"",""fave""","Belize City, Belize",Fun2011
+"""want""","Roseau, Dominica",Fun2011
+"""been""","Redwood City, CA, USA",Fun2011
+"""been""","Oxnard, CA, USA",Fun2011
+"""been""","Milpitas, CA, USA",Fun2011
+"""been""","Ridgecrest, CA, USA",Fun2011
+"""been""","Pacific Grove, CA, USA",Fun2011
+"""been""","Punta Cana, Dominican Republic",Fun2011
+"""been""","Ka'anapali, HI, USA",Fun2011
+"""been""","Orange, CA, USA",Fun2011
+"""been""","Redding, CA, USA",Fun2011
+"""been""","Redlands, CA, USA",Fun2011
+"""been""","Redondo Beach, CA, USA",Fun2011
+"""been""","Bryce, UT, USA",Fun2011
+"""been""","Fort Worth, TX, USA",Fun2011
+"""been""","San Jose del Cabo, Mexico",Fun2011
+"""been""","Cabo San Lucas, Mexico",Fun2011
+"""been""","Mazatlan, Mexico",Fun2011
+"""been"",""fave""","Bridgetown, Barbados",Fun2011
+"""been""","Ojai, CA, USA",Fun2011
+"""been""","Oceanside, CA, USA",Fun2011
+"""been""","Ramona, CA, USA",Fun2011
+"""been""","Rancho Mirage, CA, USA",Fun2011
+"""been""","Mendocino, CA, USA",Fun2011
+"""been""","Ontario, CA, USA",Fun2011
+"""been""","Rancho Cucamonga, CA, USA",Fun2011
+"""been"",""want"",""fave""","Huatulco, Mexico",Fun2011
+"""been""","Acapulco, Mexico",Fun2011
+"""been""","Pittsburgh, PA, USA",Fun2011
+"""been""","Lisbon, Portugal",Fun2011
+"""been""","Oakland, CA, USA",Fun2011
+"""been""","Galveston, TX, USA",Fun2011
+"""been""","Puerto Vallarta, Mexico",Fun2011
+"""been""","Henderson, NV, USA",Fun2011
+"""been""","Ensenada, Mexico",Fun2011
+"""been""","Incline Village, NV, USA",Fun2011
+"""been""","Teague Bay, U.S. Virgin Islands",Fun2011
+"""been""","George Town, Cayman Islands",Fun2011
+"""been"",""want"",""fave""","St. John's, Antigua and Barbuda",Fun2011
+"""been""","Idyllwild, CA, USA",Fun2011
+"""been""","Williams Bay, WI, USA",Fun2011
+"""been""","Indian Wells, CA, USA",Fun2011
+"""been""","Oklahoma City, OK, USA",Fun2011
+"""been""","Napa, CA, USA",Fun2011
+"""been""","Lompoc, CA, USA",Fun2011
+"""been""","Indio, CA, USA",Fun2011
+"""been"",""want"",""fave""","Cartagena, Colombia",Fun2011
+"""been""","Inglewood, CA, USA",Fun2011
+"""been""","Phoenix, AZ, USA",Fun2011
+"""been""","Mountain View, CA, USA",Fun2011
+"""been""","Fort Bragg, CA, USA",Fun2011
+"""been""","Imperial, CA, USA",Fun2011
+"""been""","Wichita, KS, USA",Fun2011
+"""been"",""fave""","Charlestown, St. Kitts and Nevis",Fun2011
+"""been""","Yuma, AZ, USA",Fun2011
+"""been"",""want"",""fave""","Los Suenos, Costa Rica",Fun2011
+"""been"",""want"",""fave""","Mal Pais, Costa Rica",Fun2011
+"""been"",""fave""","Playa Gigante, Nicaragua",Fun2011
+"""been""","Maui, HI, USA",Fun2011
+"""been""","Oahu, HI, USA",Fun2011
+"""been""","Huntington Beach, CA, USA",Fun2011
+"""been""","Paradise Valley, AZ, USA",Fun2011
+"""been""","Sacramento, CA, USA",Fun2011
+"""been""","Arcadia, CA, USA",Fun2011
+"""been""","Tulsa, OK, USA",Fun2011
+"""been""","Tijuana, Mexico",Fun2011
+"""been""","Rosarito, Mexico",Fun2011
+"""been""","La Paz, Mexico",Fun2011
+"""been""","Playa Paraiso, Mexico",Fun2011
+"""been""","Riverside, CA, USA",Fun2011
+"""been""","Monterey, CA, USA",Fun2011
+"""been""","Pasadena, CA, USA",Fun2011
+"""been""","Pebble Beach, CA, USA",Fun2011
+"""been""","Morro Bay, CA, USA",Fun2011
+"""been""","Paso Robles, CA, USA",Fun2011
+"""been""","Kauai, HI, USA",Fun2011
+"""been""","Monrovia, CA, USA",Fun2011
+"""been""","Road Town, British Virgin Islands",Fun2011
+"""been""","San Francisco, Mexico",Fun2011
+"""been""","Tortola, British Virgin Islands",Fun2011
+"""been"",""want"",""fave""","Colon, Panama",Fun2011
+"""been""","Palm Desert, CA, USA",Fun2011
+"""been""","Palm Springs, CA, USA",Fun2011
+"""been""","Palmdale, CA, USA",Fun2011
+"""been""","Palo Alto, CA, USA",Fun2011
+"""been""","Lancaster, CA, USA",Fun2011
+"""been""","Dallas, TX, USA",Fun2011
+"""been"",""want"",""fave""","Santa Maria Huatulco, Mexico",Fun2011
+"""been"",""want""","Sandy Bay, Honduras",Fun2011
+"""been"",""want"",""fave""","Coxen Hole, Honduras",Fun2011
+"""been""","Simi Valley, CA, USA",Fun2011
+"""been""","Basking Ridge, NJ, USA",Fun2011
+"""been""","Frankfurt, Germany",Fun2011
+"""been""","Wailea, HI, USA",Fun2011
+"""been""","Cannes, France",Fun2011
+"""been""","Lancaster, PA, USA",Fun2011
+"""been""","Beaverton, OR, USA",Fun2011
+"""been""","Boise, ID, USA",Fun2011
+"""been""","Virginia Beach, VA, USA",Fun2011
+"""been""","Lumberton, NC, USA",Fun2011
+"""been""","Gold Beach, OR, USA",Fun2011
+"""been""","Bend, OR, USA",Fun2011
+"""been""","Smithfield, NC, USA",Fun2011
+"""been""","Washington DC, DC, USA",Fun2011
+"""been""","Grants Pass, OR, USA",Fun2011
+"""been""","Nice, France",Fun2011
+"""been""","Las Palmas de Gran Canaria, Spain",Fun2011
+"""been""","Truckee, CA, USA",Fun2011
+"""been""","Monte-Carlo, Monaco",Fun2011
+"""been"",""want"",""fave""","Brighton, UK",Fun2011
+"""been""","Rehoboth Beach, DE, USA",Fun2011
+"""been""","Santa Cruz de Tenerife, Spain",Fun2011
+"""been""","Saint-Tropez, France",Fun2011
+"""been""","San Cristobal de La Laguna, Spain",Fun2011
+"""been""","Painter, VA, USA",Fun2011
+"""been""","Ogden, UT, USA",Fun2011
+"""been""","Parksley, VA, USA",Fun2011
+"""been""","Orem, UT, USA",Fun2011
+"""been""","Agadir, Morocco",Fun2011
+"""been""","Marrakech, Morocco",Fun2011
+"""been"",""fave""","Playa Maderas, Nicaragua",Fun2011
+"""been""","Lake Geneva, WI, USA",Fun2011
+"""been""","Barcelona, Spain",Fun2011
+"""been""","Louisville, KY, USA",Fun2011
+"""been""","Dusseldorf, Germany",Fun2011
+"""been""","Marseille, France",Fun2011
+"""been""","Seal Beach, CA, USA",Fun2011
+"""been""","Seaside, CA, USA",Fun2011
+"""been""","Torrance, CA, USA",Fun2011
+"""been""","Sausalito, CA, USA",Fun2011
+"""been""","Shreveport, LA, USA",Fun2011
+"""been""","North Vancouver, British Columbia, Canada",Fun2011
+"""been""","Douglas, AK, USA",Fun2011
+"""been""","Philadelphia, PA, USA",Fun2011
+"""been""","Mammoth Lakes, CA, USA",Fun2011
+"""been""","Ridgecrest, NC, USA",Fun2011
+"""been""","Paris, France",Fun2011
+"""been""","Death Valley Junction, CA, USA",Fun2011
+"""been""","Ashland, OR, USA",Fun2011
+"""been""","Sundance, UT, USA",Fun2011
+"""been""","Gulfport, MS, USA",Fun2011
+"""been"",""want"",""fave""","Island of Capri, Italy",Fun2011
+"""been""","Medford, OR, USA",Fun2011
+"""been""","West Bay, Honduras",Fun2011
+"""been""","Pleasanton, CA, USA",Fun2011
+"""been""","Cheyenne, WY, USA",Fun2011
+"""been""","Pomona, CA, USA",Fun2011
+"""been""","Eastside, OR, USA",Fun2011
+"""want""","Dorval, Quebec, Canada",Fun2011
+"""been""","Logan, UT, USA",Fun2011
+"""been""","Eugene, OR, USA",Fun2011
+"""been""","South Lake Tahoe, CA, USA",Fun2011
+"""been""","Vancouver, British Columbia, Canada",Fun2011
+"""been""","Victoria, British Columbia, Canada",Fun2011
+"""been""","Billings, MT, USA",Fun2011
+"""been""","Paynes Bay, Barbados",Fun2011
+"""been""","Hilo, HI, USA",Fun2011
+"""been""","North Bend, OR, USA",Fun2011
+"""been"",""fave""","Rivas, Nicaragua",Fun2011
+"""been""","Costa Teguise, Spain",Fun2011
+"""been""","Chandler, AZ, USA",Fun2011
+"""been"",""want""","Roatan, Honduras",Fun2011
+"""been""","San Diego, CA, USA",Fun2011
+"""been""","Twentynine Palms, CA, USA",Fun2011
+"""been""","Holetown, Barbados",Fun2011
+"""been""","Kahului, HI, USA",Fun2011
+"""been""","Kailua-Kona, HI, USA",Fun2011
+"""been""","Hana, HI, USA",Fun2011
+"""been"",""want""","Princeville, HI, USA",Fun2011
+"""been""","Provo, UT, USA",Fun2011
+"""been"",""want""","Poipu, HI, USA",Fun2011
+"""been""","Waimea, HI, USA",Fun2011
+"""been""","New Orleans, LA, USA",Fun2011
+"""been""","Koloa, HI, USA",Fun2011
+"""been""","Capitola, CA, USA",Fun2011
+"""been""","San Gabriel, CA, USA",Fun2011
+"""been""","Key West, FL, USA",Fun2011
+"""been""","Makaweli, HI, USA",Fun2011
+"""been""","Westlake Village, CA, USA",Fun2011
+"""been""","Fort Lauderdale, FL, USA",Fun2011
+"""been""","Boston, MA, USA",Fun2011
+"""been""","Lihue, HI, USA",Fun2011
+"""been""","San Bruno, CA, USA",Fun2011
+"""been""","West Hollywood, CA, USA",Fun2011
+"""been""","Tukwila, WA, USA",Fun2011
+"""been""","San Clemente, CA, USA",Fun2011
+"""been""","Del Mar, CA, USA",Fun2011
+"""been""","Williamsburg, VA, USA",Fun2011
+"""been""","Davis, CA, USA",Fun2011
+"""been""","Stockton, CA, USA",Fun2011
+"""been""","Butte, MT, USA",Fun2011
+"""been"",""want"",""fave""","Windsor, UK",Fun2011
+"""been""","Boulder City, NV, USA",Fun2011
+"""been""","Charleston, OR, USA",Fun2011
+"""been""","New York City, NY, USA",Fun2011
+"""been"",""fave""","Mahahual, Mexico",Fun2011
+"""been""","Newark, NJ, USA",Fun2011
+"""been""","Pukalani, HI, USA",Fun2011
+"""been""","Stinson Beach, CA, USA",Fun2011
+"""been""","Paia, HI, USA",Fun2011
+"""been""","Seattle, WA, USA",Fun2011
+"""been""","San Bernardino, CA, USA",Fun2011
+"""been""","Puunene, HI, USA",Fun2011
+"""been""","Kula, HI, USA",Fun2011
+"""been""","Kihei, HI, USA",Fun2011
+"""been""","Daly City, CA, USA",Fun2011
+"""been""","Skagway, AK, USA",Fun2011
+"""been""","Bakersfield, CA, USA",Fun2011
+"""been""","Dana Point, CA, USA",Fun2011
+"""been""","Lahaina, HI, USA",Fun2011
+"""been""","Nampa, ID, USA",Fun2011
+"""been""","Campbell, CA, USA",Fun2011
+"""been""","Colorado Springs, CO, USA",Fun2011
+"""been""","Salinas, CA, USA",Fun2011
+"""been""","Cypress, CA, USA",Fun2011
+"""been""","Culver City, CA, USA",Fun2011
+"""been""","Cheriton, VA, USA",Fun2011
+"""been""","Lake Oswego, OR, USA",Fun2011
+"""been"",""fave""","Suresnes, France",Fun2011
+"""been""","Anaheim, CA, USA",Fun2011
+"""been""","Bernardsville, NJ, USA",Fun2011
+"""been""","Kahuku, HI, USA",Fun2011
+"""been""","Richmond, VA, USA",Fun2011
+"""been""","Rochelle Park, NJ, USA",Fun2011
+"""been""","Kahalu u, HI, USA",Fun2011
+"""been""","Kaneohe, HI, USA",Fun2011
+"""been""","Kailua, HI, USA",Fun2011
+"""been""","Coos Bay, OR, USA",Fun2011
+"""been""","Hauula, HI, USA",Fun2011
+"""been""","Ventura, CA, USA",Fun2011
+"""been""","Haleiwa, HI, USA",Fun2011
+"""been""","El Paso, TX, USA",Fun2011
+"""been""","Bullhead City, AZ, USA",Fun2011
+"""been""","Kaaawa, HI, USA",Fun2011
+"""been""","Coeur d'Alene, ID, USA",Fun2011
+"""been""","Aiea, HI, USA",Fun2011
+"""been""","Walnut Creek, CA, USA",Fun2011
+"""been""","Camarillo, CA, USA",Fun2011
+"""been""","Ewa Beach, HI, USA",Fun2011
+"""been""","South San Francisco, CA, USA",Fun2011
+"""been""","Cambria, CA, USA",Fun2011
+"""been""","Little Rock, AR, USA",Fun2011
+"""been""","Visalia, CA, USA",Fun2011
+"""been""","Irving, TX, USA",Fun2011
+"""been""","Calistoga, CA, USA",Fun2011
+"""been""","Kapalua, HI, USA",Fun2011
+"""been""","Las Caletillas, Spain",Fun2011
+"""been""","Waianae, HI, USA",Fun2011
+"""been""","Waipahu, HI, USA",Fun2011
+"""been""","Waialua, HI, USA",Fun2011
+"""been""","Wahiawa, HI, USA",Fun2011
+"""been""","Miami, FL, USA",Fun2011
+"""been""","Pearl City, HI, USA",Fun2011
+"""been""","Sonoma, CA, USA",Fun2011
+"""been""","Bellevue, WA, USA",Fun2011
+"""been""","Miami Beach, FL, USA",Fun2011
+"""been""","Kunia, HI, USA",Fun2011
+"""been""","Kapolei, HI, USA",Fun2011
+"""been""","Solvang, CA, USA",Fun2011
+"""been""","Victorville, CA, USA",Fun2011
+"""been""","Mililani, HI, USA",Fun2011
+"""been""","Calabasas, CA, USA",Fun2011
+"""been""","Tampa, FL, USA",Fun2011
+"""been""","Laie, HI, USA",Fun2011
+"""been"",""want"",""fave""","Wasilla, AK, USA",Fun2011
+"""been""","Mesa, AZ, USA",Fun2011
+"""been""","Costa Mesa, CA, USA",Fun2011
+"""been""","Solana Beach, CA, USA",Fun2011
+"""been""","Everett, WA, USA",Fun2011
+"""been""","Hermosa Beach, CA, USA",Fun2011
+"""been""","Austin, TX, USA",Fun2011
+"""been""","Memphis, TN, USA",Fun2011
+"""been"",""fave""","Whittier, AK, USA",Fun2011
+"""been""","Hesperia, CA, USA",Fun2011
+"""been""","Coronado, CA, USA",Fun2011
+"""been""","Clifton, NJ, USA",Fun2011
+"""been""","Tucson, AZ, USA",Fun2011
+"""been""","Missoula, MT, USA",Fun2011
+"""been""","Livorno, Italy",Fun2011
+"""been""","Pisa, Italy",Fun2011
+"""been""","Sorrento, Italy",Fun2011
+"""been""","Crescent City, CA, USA",Fun2011
+"""been""","Naples, Italy",Fun2011
+"""been""","Vancouver, WA, USA",Fun2011
+"""been""","Spokane, WA, USA",Fun2011
+"""been""","Santa Rosa, CA, USA",Fun2011
+"""been""","Santa Ynez, CA, USA",Fun2011
+"""been""","Tigard, OR, USA",Fun2011
+"""been""","Santa Maria, CA, USA",Fun2011
+"""been""","Bishop, CA, USA",Fun2011
+"""been""","Santa Monica, CA, USA",Fun2011
+"""been""","Wrightwood, CA, USA",Fun2011
+"""been""","Yermo, CA, USA",Fun2011
+"""been""","Clearwater, FL, USA",Fun2011
+"""been""","Telde, Spain",Fun2011
+"""been""","Beverly Hills, CA, USA",Fun2011
+"""been""","Munich, Germany",Fun2011
+"""been""","Chatham, NJ, USA",Fun2011
+"""been""","London, UK",Fun2011
+"""been""","Brigham City, UT, USA",Fun2011
+"""been""","San Antonio, TX, USA",Fun2011
+"""been""","San Francisco, CA, USA",Fun2011
+"""been""","Santa Fe, NM, USA",Fun2011
+"""been""","Santa Clarita, CA, USA",Fun2011
+"""been""","Silver City, NM, USA",Fun2011
+"""been""","Santa Cruz, CA, USA",Fun2011
+"""been""","Issaquah, WA, USA",Fun2011
+"""been""","Rome, Italy",Fun2011
+"""been""","Santa Ana, CA, USA",Fun2011
+"""been"",""fave""","Amesbury, UK",Fun2011
+"""been""","Temecula, CA, USA",Fun2011
+"""been""","Santa Barbara, CA, USA",Fun2011
+"""been""","Santa Clara, CA, USA",Fun2011
+"""been""","Thousand Oaks, CA, USA",Fun2011
+"""been""","San Ysidro, CA, USA",Fun2011
+"""been""","Big Bear City, CA, USA",Fun2011
+"""been""","Plano, TX, USA",Fun2011
+"""been""","Big Bear Lake, CA, USA",Fun2011
+"""been""","Madison, NJ, USA",Fun2011
+"""been""","Los Alamos, NM, USA",Fun2011
+"""been""","Flagstaff, AZ, USA",Fun2011
+"""been""","Cape May, NJ, USA",Fun2011
+"""been""","Kent, WA, USA",Fun2011
+"""been""","Sitka, AK, USA",Fun2011
+"""been""","Gatlinburg, TN, USA",Fun2011
+"""been""","San Rafael, CA, USA",Fun2011
+"""been"",""want""","Schaumburg, IL, USA",Fun2011
+"""been""","San Simeon, CA, USA",Fun2011
+"""been""","Charleston, SC, USA",Fun2011
+"""been""","Cathedral City, CA, USA",Fun2011
+"""been""","Berkeley, CA, USA",Fun2011
+"""been""","Waikoloa, HI, USA",Fun2011
+"""been""","Tacoma, WA, USA",Fun2011
+"""been""","Volcano, HI, USA",Fun2011
+"""been""","Olympia, WA, USA",Fun2011
+"""been""","Castaic, CA, USA",Fun2011
+"""been""","San Mateo, CA, USA",Fun2011
+"""been""","Hood River, OR, USA",Fun2011
+"""been""","Ocean City, NJ, USA",Fun2011
+"""been""","Aix-en-Provence, France",Fun2011
+"""been""","Honolulu, HI, USA",Fun2011
+"""been""","Kapaa, HI, USA",Fun2011
+"""been""","Haena, HI, USA",Fun2011
+"""been""","Sunnyvale, CA, USA",Fun2011
+"""been""","Denver, CO, USA",Fun2011
+"""been""","Eleele, HI, USA",Fun2011
+"""been""","San Luis Obispo, CA, USA",Fun2011
+"""been""","Hanalei, HI, USA",Fun2011
+"""been""","San Juan Capistrano, CA, USA",Fun2011
+"""been""","Carpinteria, CA, USA",Fun2011
+"""been""","Kealia, HI, USA",Fun2011
+"""been""","Carlsbad, CA, USA",Fun2011
+"""been""","Houston, TX, USA",Fun2011
+"""been""","Carmel, CA, USA",Fun2011
+"""been""","Desert Hot Springs, CA, USA",Fun2011
+"""been""","San Jose, CA, USA",Fun2011
+"""been""","Carmel Valley, CA, USA",Fun2011

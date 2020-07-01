@@ -1,0 +1,510 @@
+tag,place,user
+"""been""","Niagara Falls, NY, USA",86calgary
+"""been""","Nakusp, British Columbia, Canada",86calgary
+"""been""","Cochrane, Alberta, Canada",86calgary
+"""been""","Joshua Tree National Park, CA, USA",86calgary
+"""been""","Olds, Alberta, Canada",86calgary
+"""been""","Stettler, Alberta, Canada",86calgary
+"""been""","Strathmore, Alberta, Canada",86calgary
+"""been""","Lake Placid, NY, USA",86calgary
+"""been""","Cranbrook, British Columbia, Canada",86calgary
+"""been""","Herbert, Saskatchewan, Canada",86calgary
+"""been""","North Battleford, Saskatchewan, Canada",86calgary
+"""been""","Sicamous, British Columbia, Canada",86calgary
+"""been""","Charlottetown, Prince Edward Island, Canada",86calgary
+"""been""","Windsor, Ontario, Canada",86calgary
+"""been""","Etzikom, Alberta, Canada",86calgary
+"""been""","Roswell, NM, USA",86calgary
+"""been""","La Crosse, WI, USA",86calgary
+"""been""","Lorne, Australia",86calgary
+"""been""","Sturgis, SD, USA",86calgary
+"""been""","Serris, France",86calgary
+"""been""","Weyburn, Saskatchewan, Canada",86calgary
+"""been""","West Kelowna, British Columbia, Canada",86calgary
+"""been""","Ogunquit, ME, USA",86calgary
+"""been""","Bragg Creek, Alberta, Canada",86calgary
+"""been""","Quispamsis, New Brunswick, Canada",86calgary
+"""been""","Toronto, Ontario, Canada",86calgary
+"""been""","Okotoks, Alberta, Canada",86calgary
+"""been""","Thunder Bay, Ontario, Canada",86calgary
+"""been""","Port Campbell, Australia",86calgary
+"""been""","Scott, LA, USA",86calgary
+"""been""","Clinton, MA, USA",86calgary
+"""been""","Fort Qu'Appelle, Saskatchewan, Canada",86calgary
+"""been""","Wilcox, Saskatchewan, Canada",86calgary
+"""been""","Sault Ste. Marie, Ontario, Canada",86calgary
+"""been""","Peachland, British Columbia, Canada",86calgary
+"""been""","Calais, ME, USA",86calgary
+"""been""","Sudbury, Ontario, Canada",86calgary
+"""been""","Intercourse, PA, USA",86calgary
+"""been""","Nipawin, Saskatchewan, Canada",86calgary
+"""want""","Budapest, Hungary",86calgary
+"""been""","Bozeman, MT, USA",86calgary
+"""been""","Dawson Creek, British Columbia, Canada",86calgary
+"""been""","Jackson, WY, USA",86calgary
+"""been""","Elkwater, Alberta, Canada",86calgary
+"""been""","Guimaraes, Portugal",86calgary
+"""been""","North Bay, Ontario, Canada",86calgary
+"""been""","Braga, Portugal",86calgary
+"""been""","Lancaster, PA, USA",86calgary
+"""been""","Ottawa, Ontario, Canada",86calgary
+"""been""","Atlantic City, NJ, USA",86calgary
+"""been""","Oswiecim, Poland",86calgary
+"""been""","Grand Canyon National Park, AZ, USA",86calgary
+"""been""","Nackawic, New Brunswick, Canada",86calgary
+"""been""","Carrot River, Saskatchewan, Canada",86calgary
+"""been""","Penobsquis, New Brunswick, Canada",86calgary
+"""been""","Cleveland, OH, USA",86calgary
+"""been""","Lewisburg, WV, USA",86calgary
+"""been""","Sturbridge, MA, USA",86calgary
+"""been""","Freeport, ME, USA",86calgary
+"""been""","Porto, Portugal",86calgary
+"""been""","El Prat de Llobregat, Spain",86calgary
+"""been""","Emerson, Manitoba, Canada",86calgary
+"""been""","Redondo Beach, CA, USA",86calgary
+"""been""","Dallas, TX, USA",86calgary
+"""been""","Craigellachie, British Columbia, Canada",86calgary
+"""been""","Whitecourt, Alberta, Canada",86calgary
+"""been""","St. Stephen, New Brunswick, Canada",86calgary
+"""been""","Port Douglas, Australia",86calgary
+"""been""","Mactaquac, New Brunswick, Canada",86calgary
+"""been""","Miramichi, New Brunswick, Canada",86calgary
+"""been""","Amherst, Nova Scotia, Canada",86calgary
+"""been""","Windsor, Nova Scotia, Canada",86calgary
+"""been""","Mauston, WI, USA",86calgary
+"""been""","Onefour, Alberta, Canada",86calgary
+"""been""","Natchitoches, LA, USA",86calgary
+"""been""","Millarville, Alberta, Canada",86calgary
+"""been""","Oacoma, SD, USA",86calgary
+"""been""","L'Anse aux Meadows, Newfoundland and Labrador, Canada",86calgary
+"""been""","Palm Springs, CA, USA",86calgary
+"""been""","Sydney, Australia",86calgary
+"""been""","Vacherie, LA, USA",86calgary
+"""been""","Long Beach, NY, USA",86calgary
+"""been""","Alice Springs, Australia",86calgary
+"""been""","Kensington, Prince Edward Island, Canada",86calgary
+"""been""","Yulara, Australia",86calgary
+"""been""","Cairns, Australia",86calgary
+"""been""","Fort Macleod, Alberta, Canada",86calgary
+"""been""","Gros Morne National Park, Newfoundland and Labrador, Canada",86calgary
+"""been""","Manning, Alberta, Canada",86calgary
+"""been""","Bow Island, Alberta, Canada",86calgary
+"""been""","Morris, Manitoba, Canada",86calgary
+"""been""","Wall, SD, USA",86calgary
+"""been""","Adelaide, Australia",86calgary
+"""been""","Watson Lake, Yukon, Canada",86calgary
+"""been""","Hobart, Australia",86calgary
+"""been""","Florenceville-Bristol, New Brunswick, Canada",86calgary
+"""been""","Orono, ME, USA",86calgary
+"""been""","Houlton, ME, USA",86calgary
+"""been""","Bowling Green, KY, USA",86calgary
+"""been""","Maugerville, New Brunswick, Canada",86calgary
+"""been""","Waitangi, New Zealand",86calgary
+"""been""","Alma, New Brunswick, Canada",86calgary
+"""been""","Las Cruces, NM, USA",86calgary
+"""been""","Mitchell, SD, USA",86calgary
+"""been""","Fox Creek, Alberta, Canada",86calgary
+"""been""","Grand Manan, New Brunswick, Canada",86calgary
+"""been""","Valleyview, Alberta, Canada",86calgary
+"""been""","Bemidji, MN, USA",86calgary
+"""been""","Hopewell Cape, New Brunswick, Canada",86calgary
+"""been""","Springfield, MO, USA",86calgary
+"""been""","Prague, Czech Republic",86calgary
+"""been""","Lexington, KY, USA",86calgary
+"""been""","Barcelona, Spain",86calgary
+"""been""","Sacramento, CA, USA",86calgary
+"""been""","Hartland, New Brunswick, Canada",86calgary
+"""been""","Livermore, CA, USA",86calgary
+"""been""","Galveston, TX, USA",86calgary
+"""been""","Nanton, Alberta, Canada",86calgary
+"""been""","Lafayette, LA, USA",86calgary
+"""been""","Halls Gap, Australia",86calgary
+"""been""","Tijuana, Mexico",86calgary
+"""been""","Sidney, NE, USA",86calgary
+"""been""","Harvey, New Brunswick, Canada",86calgary
+"""been""","Todos Santos, Mexico",86calgary
+"""been""","Altona, Manitoba, Canada",86calgary
+"""been""","Gulf Shores, AL, USA",86calgary
+"""been"",""want""","Paris, France",86calgary
+"""been""","Rapid City, SD, USA",86calgary
+"""been""","New Haven, CT, USA",86calgary
+"""been""","Phoenix, AZ, USA",86calgary
+"""been""","Indio, CA, USA",86calgary
+"""been""","Pittsburgh, PA, USA",86calgary
+"""been""","Long Beach, CA, USA",86calgary
+"""been""","Alliance, NE, USA",86calgary
+"""been""","Versailles, France",86calgary
+"""been""","Sylvan Lake, Alberta, Canada",86calgary
+"""been""","Baton Rouge, LA, USA",86calgary
+"""been""","Bardstown, KY, USA",86calgary
+"""been""","Ballyferriter, Ireland",86calgary
+"""been""","Callander, Ontario, Canada",86calgary
+"""been""","Amsterdam, The Netherlands",86calgary
+"""been""","Oceanside, OR, USA",86calgary
+"""been""","Pioneertown, CA, USA",86calgary
+"""been""","Hill City, SD, USA",86calgary
+"""been""","Williams, AZ, USA",86calgary
+"""been""","Pasadena, CA, USA",86calgary
+"""been""","Drummondville, Quebec, Canada",86calgary
+"""been""","Innisfail, Alberta, Canada",86calgary
+"""been""","Abbotsford, British Columbia, Canada",86calgary
+"""been""","Osoyoos, British Columbia, Canada",86calgary
+"""been""","Destrehan, LA, USA",86calgary
+"""been""","Saint Paul, MN, USA",86calgary
+"""been""","Canmore, Alberta, Canada",86calgary
+"""been""","Hinton, Alberta, Canada",86calgary
+"""been""","Carson City, NV, USA",86calgary
+"""been""","Milk River, Alberta, Canada",86calgary
+"""been""","Vienna, Austria",86calgary
+"""been""","Batoche, Saskatchewan, Canada",86calgary
+"""been""","Philip, SD, USA",86calgary
+"""been""","Mill Cove, New Brunswick, Canada",86calgary
+"""been""","Yuma, AZ, USA",86calgary
+"""been""","Cardston, Alberta, Canada",86calgary
+"""been""","Claresholm, Alberta, Canada",86calgary
+"""been""","Keswick Ridge, New Brunswick, Canada",86calgary
+"""been""","Gagetown, New Brunswick, Canada",86calgary
+"""been""","Franz Josef, New Zealand",86calgary
+"""been""","Salzburg, Austria",86calgary
+"""been""","Concord, MA, USA",86calgary
+"""been""","Abilene, TX, USA",86calgary
+"""been""","Charleston, WV, USA",86calgary
+"""been""","Black Diamond, Alberta, Canada",86calgary
+"""been""","Gila Bend, AZ, USA",86calgary
+"""been""","Reno, NV, USA",86calgary
+"""been""","Columbus, GA, USA",86calgary
+"""been""","Primm, NV, USA",86calgary
+"""been""","Red Wing, MN, USA",86calgary
+"""been""","Biloxi, MS, USA",86calgary
+"""been""","Marathon, Ontario, Canada",86calgary
+"""been""","Minneapolis, MN, USA",86calgary
+"""been""","Kansas City, MO, USA",86calgary
+"""been""","Kenora, Ontario, Canada",86calgary
+"""been""","Cambridge-Narrows, New Brunswick, Canada",86calgary
+"""been""","Sedona, AZ, USA",86calgary
+"""been""","Strong City, KS, USA",86calgary
+"""been""","Deadwood, SD, USA",86calgary
+"""been""","Mayerthorpe, Alberta, Canada",86calgary
+"""been""","Grand Isle, LA, USA",86calgary
+"""been""","Hawkins Corner, New Brunswick, Canada",86calgary
+"""been""","Dearborn, MI, USA",86calgary
+"""been""","Stephenville, Newfoundland and Labrador, Canada",86calgary
+"""been""","Krakow, Poland",86calgary
+"""been""","Doaktown, New Brunswick, Canada",86calgary
+"""been""","Truro, Nova Scotia, Canada",86calgary
+"""been""","Emerald Park, Saskatchewan, Canada",86calgary
+"""been""","Tarifa, Spain",86calgary
+"""been""","Oromocto, New Brunswick, Canada",86calgary
+"""been""","Cape Reinga, New Zealand",86calgary
+"""been""","Hinuera, New Zealand",86calgary
+"""been""","Moose Jaw, Saskatchewan, Canada",86calgary
+"""been""","Los Angeles, CA, USA",86calgary
+"""been""","Nerja, Spain",86calgary
+"""been""","Chicago, IL, USA",86calgary
+"""been""","Revelstoke, British Columbia, Canada",86calgary
+"""been""","Oyen, Alberta, Canada",86calgary
+"""been"",""fave""","Las Vegas, NV, USA",86calgary
+"""been""","Shenandoah National Park, VA, USA",86calgary
+"""been""","Canton, MA, USA",86calgary
+"""been""","Swift Current, Saskatchewan, Canada",86calgary
+"""been""","Saskatoon, Saskatchewan, Canada",86calgary
+"""been""","Regina, Saskatchewan, Canada",86calgary
+"""been""","Ngongotaha, New Zealand",86calgary
+"""been""","Whitehorse, Yukon, Canada",86calgary
+"""been""","Sundre, Alberta, Canada",86calgary
+"""been""","Invermere, British Columbia, Canada",86calgary
+"""been""","Port Elgin, New Brunswick, Canada",86calgary
+"""been""","Mission, British Columbia, Canada",86calgary
+"""been""","Inch, Ireland",86calgary
+"""been""","Nelson, British Columbia, Canada",86calgary
+"""been""","Fort St. John, British Columbia, Canada",86calgary
+"""been""","Golden, British Columbia, Canada",86calgary
+"""been""","Hope, British Columbia, Canada",86calgary
+"""been""","Malakwa, British Columbia, Canada",86calgary
+"""been""","Parksville, British Columbia, Canada",86calgary
+"""been""","Hastings, NE, USA",86calgary
+"""been""","Boutte, LA, USA",86calgary
+"""been""","Balzac, Alberta, Canada",86calgary
+"""been""","Quebec City, Quebec, Canada",86calgary
+"""been""","Montreal, Quebec, Canada",86calgary
+"""been""","Wieliczka, Poland",86calgary
+"""been""","Portland, OR, USA",86calgary
+"""been""","New Waterford, Nova Scotia, Canada",86calgary
+"""been""","Providence, RI, USA",86calgary
+"""been""","Turner Valley, Alberta, Canada",86calgary
+"""been""","Kawaihae, HI, USA",86calgary
+"""been""","Caroline, Alberta, Canada",86calgary
+"""been""","Wood Islands, Prince Edward Island, Canada",86calgary
+"""been""","Digby, Nova Scotia, Canada",86calgary
+"""been""","Lincoln, NE, USA",86calgary
+"""been""","Halifax, Nova Scotia, Canada",86calgary
+"""been""","Sydney, Nova Scotia, Canada",86calgary
+"""been""","Dartmouth, Nova Scotia, Canada",86calgary
+"""been""","Pictou, Nova Scotia, Canada",86calgary
+"""been""","Stanhope, Prince Edward Island, Canada",86calgary
+"""been""","Brooklyn, NY, USA",86calgary
+"""been""","Antigonish, Nova Scotia, Canada",86calgary
+"""been""","Bar Harbor, ME, USA",86calgary
+"""been""","Albuquerque, NM, USA",86calgary
+"""been""","Tillamook, OR, USA",86calgary
+"""been""","Fairfield, CA, USA",86calgary
+"""been""","Beckley, WV, USA",86calgary
+"""been""","Naples, Italy",86calgary
+"""been""","Savannah, GA, USA",86calgary
+"""been""","Capri, Italy",86calgary
+"""been""","Muncho Lake, British Columbia, Canada",86calgary
+"""been""","Nashville, TN, USA",86calgary
+"""been""","Baltimore, MD, USA",86calgary
+"""been""","Munich, Germany",86calgary
+"""been""","Sackville, New Brunswick, Canada",86calgary
+"""want""","London, UK",86calgary
+"""been""","Pompeii, Italy",86calgary
+"""been""","St. John's, Newfoundland and Labrador, Canada",86calgary
+"""been""","Duluth, MN, USA",86calgary
+"""been""","Wolfville, Nova Scotia, Canada",86calgary
+"""been""","Richmond, Australia",86calgary
+"""been""","Yellowknife, Northwest Territories, Canada",86calgary
+"""been""","Coronado, CA, USA",86calgary
+"""been""","Fort Smith, AR, USA",86calgary
+"""been""","Saint John, New Brunswick, Canada",86calgary
+"""been""","Shediac, New Brunswick, Canada",86calgary
+"""been""","Dead Man's Flats, Alberta, Canada",86calgary
+"""been""","Salt Lake City, UT, USA",86calgary
+"""been""","Orlando, FL, USA",86calgary
+"""been""","Vatican City, Vatican City",86calgary
+"""been""","Seaside, OR, USA",86calgary
+"""been""","Rome, Italy",86calgary
+"""been""","Yucca Valley, CA, USA",86calgary
+"""been""","Wanaka, New Zealand",86calgary
+"""been""","Wadena, Saskatchewan, Canada",86calgary
+"""been""","Wynyard, Saskatchewan, Canada",86calgary
+"""been""","Maple Creek, Saskatchewan, Canada",86calgary
+"""been""","Perth-Andover, New Brunswick, Canada",86calgary
+"""been""","North Rustico, Prince Edward Island, Canada",86calgary
+"""been""","Winnipeg, Manitoba, Canada",86calgary
+"""been""","Brandon, Manitoba, Canada",86calgary
+"""been""","Fredericton, New Brunswick, Canada",86calgary
+"""been""","Kearney, NE, USA",86calgary
+"""been""","Moncton, New Brunswick, Canada",86calgary
+"""been""","Detroit, MI, USA",86calgary
+"""been""","Patricia, Alberta, Canada",86calgary
+"""been""","Seville, Spain",86calgary
+"""been""","Berlin, Germany",86calgary
+"""been""","Granada, Spain",86calgary
+"""been""","Priddis, Alberta, Canada",86calgary
+"""want""","Myrtle Beach, SC, USA",86calgary
+"""been""","Penticton, British Columbia, Canada",86calgary
+"""been""","Inverness, Nova Scotia, Canada",86calgary
+"""been""","Vancouver, British Columbia, Canada",86calgary
+"""been""","Vernon, British Columbia, Canada",86calgary
+"""been""","Victoria, British Columbia, Canada",86calgary
+"""been""","Port Hawkesbury, Nova Scotia, Canada",86calgary
+"""been""","Tombstone, AZ, USA",86calgary
+"""been""","Murray River, Prince Edward Island, Canada",86calgary
+"""been""","Bakersfield, CA, USA",86calgary
+"""been""","San Bernardino, CA, USA",86calgary
+"""been""","New Orleans, LA, USA",86calgary
+"""been""","Rothesay, New Brunswick, Canada",86calgary
+"""been"",""want""","Bluff, New Zealand",86calgary
+"""been""","Rosebud, Alberta, Canada",86calgary
+"""been""","Laramie, WY, USA",86calgary
+"""been""","Plains, GA, USA",86calgary
+"""been""","Boston, MA, USA",86calgary
+"""been""","Honolulu, HI, USA",86calgary
+"""been""","San Sebastian - Donostia, Spain",86calgary
+"""been""","Kamloops, British Columbia, Canada",86calgary
+"""been""","Butte, MT, USA",86calgary
+"""been""","Nanaimo, British Columbia, Canada",86calgary
+"""been""","Kelowna, British Columbia, Canada",86calgary
+"""been""","Wainwright, Alberta, Canada",86calgary
+"""been""","San Jose del Cabo, Mexico",86calgary
+"""been""","Riverside Albert, New Brunswick, Canada",86calgary
+"""been""","Cabo San Lucas, Mexico",86calgary
+"""been""","Key Largo, FL, USA",86calgary
+"""been""","Williamsburg, VA, USA",86calgary
+"""been""","Fayetteville, TN, USA",86calgary
+"""been""","West Hollywood, CA, USA",86calgary
+"""been""","Punakaiki, New Zealand",86calgary
+"""been""","Newport, RI, USA",86calgary
+"""been""","Madison, WI, USA",86calgary
+"""been""","Florida City, FL, USA",86calgary
+"""been""","Buffalo, NY, USA",86calgary
+"""been""","Kingston, New Brunswick, Canada",86calgary
+"""been""","Jasper, Alberta, Canada",86calgary
+"""been""","Flagstaff, AZ, USA",86calgary
+"""been""","Grande Prairie, Alberta, Canada",86calgary
+"""been""","Lethbridge, Alberta, Canada",86calgary
+"""been""","Chadron, NE, USA",86calgary
+"""been""","Medicine Hat, Alberta, Canada",86calgary
+"""been""","Red Deer, Alberta, Canada",86calgary
+"""been""","Choteau, MT, USA",86calgary
+"""been""","Kalispell, MT, USA",86calgary
+"""been""","Shelby, MT, USA",86calgary
+"""been""","Portsmouth, NH, USA",86calgary
+"""been""","Mount Maunganui, New Zealand",86calgary
+"""been""","Anaheim, CA, USA",86calgary
+"""been""","Kissimmee, FL, USA",86calgary
+"""been""","Houston, TX, USA",86calgary
+"""been""","Miami, FL, USA",86calgary
+"""been""","Miami Beach, FL, USA",86calgary
+"""been""","Kodak, TN, USA",86calgary
+"""been""","Bellbrae, Australia",86calgary
+"""been""","Helena, MT, USA",86calgary
+"""been""","Hanna, Alberta, Canada",86calgary
+"""been""","Hardin, MT, USA",86calgary
+"""been""","Indian Head, Saskatchewan, Canada",86calgary
+"""been""","Leduc, Alberta, Canada",86calgary
+"""been""","Puerto Vallarta, Mexico",86calgary
+"""been""","Fairbury, NE, USA",86calgary
+"""been""","Calgary, Alberta, Canada",86calgary
+"""been""","Brooks, Alberta, Canada",86calgary
+"""been""","Edmonton, Alberta, Canada",86calgary
+"""been""","Drumheller, Alberta, Canada",86calgary
+"""been""","Edson, Alberta, Canada",86calgary
+"""been""","Banff, Alberta, Canada",86calgary
+"""been""","Harlowton, MT, USA",86calgary
+"""been""","Apohaqui, New Brunswick, Canada",86calgary
+"""been""","Lake Louise, Alberta, Canada",86calgary
+"""been""","Airdrie, Alberta, Canada",86calgary
+"""been""","Benson, AZ, USA",86calgary
+"""been"",""fave""","Waikoloa, HI, USA",86calgary
+"""been""","Burlington, VT, USA",86calgary
+"""been""","San Francisco, CA, USA",86calgary
+"""been"",""fave""","San Antonio, TX, USA",86calgary
+"""been""","Coeur d'Alene, ID, USA",86calgary
+"""been""","West Glacier, MT, USA",86calgary
+"""been""","Spokane, WA, USA",86calgary
+"""been""","Salem, MA, USA",86calgary
+"""been""","Norton, New Brunswick, Canada",86calgary
+"""been""","Tucson, AZ, USA",86calgary
+"""been""","Toledo, Spain",86calgary
+"""been""","Grand Forks, ND, USA",86calgary
+"""been"",""fave""","Dingle, Ireland",86calgary
+"""been""","Coutts, Alberta, Canada",86calgary
+"""been""","Casa Grande, AZ, USA",86calgary
+"""been""","Jemseg, New Brunswick, Canada",86calgary
+"""been""","Nordegg, Alberta, Canada",86calgary
+"""been""","Longview, Alberta, Canada",86calgary
+"""been""","Coleman, Alberta, Canada",86calgary
+"""been""","Big Horn, WY, USA",86calgary
+"""been""","Borden-Carleton, Prince Edward Island, Canada",86calgary
+"""been""","Dublin, Ireland",86calgary
+"""been""","Missoula, MT, USA",86calgary
+"""been""","Sexsmith, Alberta, Canada",86calgary
+"""been""","West Yellowstone, MT, USA",86calgary
+"""been""","Miles City, MT, USA",86calgary
+"""been""","Santa Monica, CA, USA",86calgary
+"""been""","Bellingham, WA, USA",86calgary
+"""been""","Brackley Beach, Prince Edward Island, Canada",86calgary
+"""been""","Grand Bay-Westfield, New Brunswick, Canada",86calgary
+"""been""","Sussex, New Brunswick, Canada",86calgary
+"""been""","Camrose, Alberta, Canada",86calgary
+"""been""","Rosetown, Saskatchewan, Canada",86calgary
+"""been""","Tralee, Ireland",86calgary
+"""been""","Killarney, Ireland",86calgary
+"""been""","Cluny, Alberta, Canada",86calgary
+"""been""","Badhoevedorp, The Netherlands",86calgary
+"""been""","Cornwall, Prince Edward Island, Canada",86calgary
+"""been""","Cavendish, Prince Edward Island, Canada",86calgary
+"""been""","Memphis, TN, USA",86calgary
+"""been""","Portland, ME, USA",86calgary
+"""been""","Montague, Prince Edward Island, Canada",86calgary
+"""been""","Point Prim, Prince Edward Island, Canada",86calgary
+"""been""","Denver, CO, USA",86calgary
+"""been""","Omaha, NE, USA",86calgary
+"""been""","Cape Canaveral, FL, USA",86calgary
+"""been""","Saint Andrews, New Brunswick, Canada",86calgary
+"""been""","Sunburst, MT, USA",86calgary
+"""been""","Riviere du Loup, Quebec, Canada",86calgary
+"""been"",""fave""","New York City, NY, USA",86calgary
+"""been""","Glen Cove, NY, USA",86calgary
+"""been""","Qualicum Beach, British Columbia, Canada",86calgary
+"""been""","Seattle, WA, USA",86calgary
+"""been""","Skagway, AK, USA",86calgary
+"""been""","Twentynine Palms, CA, USA",86calgary
+"""been""","San Diego, CA, USA",86calgary
+"""been""","Bathurst, New Brunswick, Canada",86calgary
+"""been""","Beverly Hills, CA, USA",86calgary
+"""been""","Foremost, Alberta, Canada",86calgary
+"""been""","Lynchburg, TN, USA",86calgary
+"""been""","Hampton, New Brunswick, Canada",86calgary
+"""been""","Blairmore, Alberta, Canada",86calgary
+"""been""","Washington DC, DC, USA",86calgary
+"""been""","Granby, Quebec, Canada",86calgary
+"""been""","Fernie, British Columbia, Canada",86calgary
+"""been""","Great Falls, MT, USA",86calgary
+"""been""","Edmundston, New Brunswick, Canada",86calgary
+"""been""","High Level, Alberta, Canada",86calgary
+"""been""","High River, Alberta, Canada",86calgary
+"""been""","Dunquin, Ireland",86calgary
+"""been""","Blue Mountains National Park, Australia",86calgary
+"""been""","Paihia, New Zealand",86calgary
+"""been""","Rotorua, New Zealand",86calgary
+"""been""","Tete Jaune Cache, British Columbia, Canada",86calgary
+"""been""","Pincher Creek, Alberta, Canada",86calgary
+"""been""","Tangier, Morocco",86calgary
+"""been""","Tauranga, New Zealand",86calgary
+"""been""","Drayton Valley, Alberta, Canada",86calgary
+"""been""","Midvale, UT, USA",86calgary
+"""been""","Wellington, New Zealand",86calgary
+"""been""","Granum, Alberta, Canada",86calgary
+"""been""","Uluru-Kata Tjuta National Park, Australia",86calgary
+"""been""","Christchurch, New Zealand",86calgary
+"""been""","Dunedin, New Zealand",86calgary
+"""been""","Rocky Mountain House, Alberta, Canada",86calgary
+"""been""","Boise, ID, USA",86calgary
+"""been""","St Helens, Australia",86calgary
+"""been""","Peggy's Cove, Nova Scotia, Canada",86calgary
+"""been""","Dodge City, KS, USA",86calgary
+"""been""","Woodstock, New Brunswick, Canada",86calgary
+"""been""","Billings, MT, USA",86calgary
+"""been""","Duchess, Alberta, Canada",86calgary
+"""been""","Kingsclear, New Brunswick, Canada",86calgary
+"""want""","Glasgow, UK",86calgary
+"""been""","Wetaskiwin, Alberta, Canada",86calgary
+"""been""","Melbourne, Australia",86calgary
+"""been""","New Glasgow, Nova Scotia, Canada",86calgary
+"""been""","Taber, Alberta, Canada",86calgary
+"""been""","Ephrata, PA, USA",86calgary
+"""been""","Midwest City, OK, USA",86calgary
+"""been""","New Washoe City, NV, USA",86calgary
+"""been""","Vermilion, Alberta, Canada",86calgary
+"""been""","Worcester, MA, USA",86calgary
+"""been""","Eastport, ME, USA",86calgary
+"""been""","Bangor, ME, USA",86calgary
+"""been""","Auckland Central, New Zealand",86calgary
+"""been""","Napier, New Zealand",86calgary
+"""been""","Gibraltar, Europe",86calgary
+"""been""","Port Arthur, Australia",86calgary
+"""been""","Peace River, Alberta, Canada",86calgary
+"""been""","Cody, WY, USA",86calgary
+"""been""","Lunenburg, Nova Scotia, Canada",86calgary
+"""been""","Staten Island, NY, USA",86calgary
+"""been""","Madrid, Spain",86calgary
+"""been""","Hershey, PA, USA",86calgary
+"""been""","Zaandam, The Netherlands",86calgary
+"""been""","Greymouth, New Zealand",86calgary
+"""been""","Niagara Falls, Ontario, Canada",86calgary
+"""been""","Mississauga, Ontario, Canada",86calgary
+"""been""","Murray Harbour, Prince Edward Island, Canada",86calgary
+"""been""","Niagara-on-the-Lake, Ontario, Canada",86calgary
+"""been""","Santiago de Compostela, Spain",86calgary
+"""been""","Hamilton, Ontario, Canada",86calgary
+"""been""","Marysville, KS, USA",86calgary
+"""been""","Council Bluffs, IA, USA",86calgary
+"""been""","Kingston, Ontario, Canada",86calgary
+"""been""","Creston, British Columbia, Canada",86calgary
+"""been""","Cheyenne, WY, USA",86calgary
+"""been""","Gettysburg, PA, USA",86calgary
+"""been""","Fort Nelson, British Columbia, Canada",86calgary
+"""been""","Field, British Columbia, Canada",86calgary
+"""been""","Fargo, ND, USA",86calgary
+"""been""","Sheridan, WY, USA",86calgary
+"""been""","Philadelphia, PA, USA",86calgary
+"""been""","Provost, Alberta, Canada",86calgary
+"""been""","Ingonish, Nova Scotia, Canada",86calgary
+"""been""","Queenstown, New Zealand",86calgary
+"""been""","Louisbourg, Nova Scotia, Canada",86calgary
+"""been""","Te Anau, New Zealand",86calgary
+"""been""","McAdam, New Brunswick, Canada",86calgary
+"""been""","Baddeck, Nova Scotia, Canada",86calgary

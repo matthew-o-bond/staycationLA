@@ -1,0 +1,390 @@
+tag,place,user
+"""want""","Rio de Janeiro, Brazil",Mvanting
+"""want""","Melbourne, Australia",Mvanting
+"""want""","Punta Prima, Spain",Mvanting
+"""been""","Hamburg, Germany",Mvanting
+"""want""","Avignon, France",Mvanting
+"""been""","Bergen, Norway",Mvanting
+"""been""","Herning, Denmark",Mvanting
+"""been""","Silkeborg, Denmark",Mvanting
+"""been""","Frankfurt, Germany",Mvanting
+"""been""","Vejle, Denmark",Mvanting
+"""been""","Roenne, Denmark",Mvanting
+"""been""","Antibes, France",Mvanting
+"""want""","Jerusalem, Israel",Mvanting
+"""been""","Toender, Denmark",Mvanting
+"""want""","Auckland Central, New Zealand",Mvanting
+"""been""","Holstebro, Denmark",Mvanting
+"""been""","Fredericia, Denmark",Mvanting
+"""been""","Newton, MA, USA",Mvanting
+"""been""","Bogense, Denmark",Mvanting
+"""want""","Palma de Mallorca, Spain",Mvanting
+"""been""","Cannes, France",Mvanting
+"""been""","Kassel, Germany",Mvanting
+"""been""","Middelfart, Denmark",Mvanting
+"""want""","Athens, Greece",Mvanting
+"""been""","Ruedesheim am Rhein, Germany",Mvanting
+"""been""","Odense, Denmark",Mvanting
+"""been""","Wiesbaden, Germany",Mvanting
+"""been""","Nyborg, Denmark",Mvanting
+"""been""","Braunschweig, Germany",Mvanting
+"""been""","Svendborg, Denmark",Mvanting
+"""been""","Eugene, OR, USA",Mvanting
+"""been""","Slagelse, Denmark",Mvanting
+"""been""","Skive, Denmark",Mvanting
+"""been""","Ringkobing, Denmark",Mvanting
+"""been""","Aalborg, Denmark",Mvanting
+"""been""","Koege, Denmark",Mvanting
+"""been""","Viborg, Denmark",Mvanting
+"""been""","Easterby, Denmark",Mvanting
+"""want""","Rome, Italy",Mvanting
+"""been""","Portland, ME, USA",Mvanting
+"""want""","Indianapolis, IN, USA",Mvanting
+"""been""","Reykjavik, Iceland",Mvanting
+"""want""","Vatican City, Vatican City",Mvanting
+"""been""","Nuremberg, Germany",Mvanting
+"""been""","Stockholm, Sweden",Mvanting
+"""been""","Brussels, Belgium",Mvanting
+"""been""","Malaga, Spain",Mvanting
+"""been""","Kappeln, Germany",Mvanting
+"""been""","Munkebo, Denmark",Mvanting
+"""been""","Kalundborg, Denmark",Mvanting
+"""want""","Granada, Spain",Mvanting
+"""been""","Wurzburg, Germany",Mvanting
+"""been""","Seville, Spain",Mvanting
+"""been""","Washington DC, DC, USA",Mvanting
+"""been""","Philadelphia, PA, USA",Mvanting
+"""been""","Berlin, Germany",Mvanting
+"""want""","Alicante, Spain",Mvanting
+"""want""","Sao Paulo, Brazil",Mvanting
+"""been""","Barrit, Denmark",Mvanting
+"""been""","Ystad, Sweden",Mvanting
+"""been""","Corvallis, OR, USA",Mvanting
+"""been""","Middletown, RI, USA",Mvanting
+"""been""","Allinge, Denmark",Mvanting
+"""been""","Narragansett, RI, USA",Mvanting
+"""been""","Palermo, Italy",Mvanting
+"""been""","Nicolosi, Italy",Mvanting
+"""been""","El Paso, TX, USA",Mvanting
+"""been""","Orschwiller, France",Mvanting
+"""been""","Flensburg, Germany",Mvanting
+"""been""","Florence, Italy",Mvanting
+"""been""","Kiel, Germany",Mvanting
+"""been""","Lubeck, Germany",Mvanting
+"""want""","Denver, CO, USA",Mvanting
+"""been"",""fave""","New York City, NY, USA",Mvanting
+"""been""","Pisa, Italy",Mvanting
+"""been""","Helsingborg, Sweden",Mvanting
+"""been""","Lund, Sweden",Mvanting
+"""want""","Anchorage, AK, USA",Mvanting
+"""been""","Shanghai, China",Mvanting
+"""been""","Malmo, Sweden",Mvanting
+"""been""","Elmsford, NY, USA",Mvanting
+"""been""","Carlsbad, CA, USA",Mvanting
+"""been""","Fort Lauderdale, FL, USA",Mvanting
+"""want""","Naples, Italy",Mvanting
+"""been""","Husavik, Iceland",Mvanting
+"""been""","Gardermoen, Norway",Mvanting
+"""been""","Cambridge, MA, USA",Mvanting
+"""been""","Antwerp, Belgium",Mvanting
+"""been""","Hoofddorp, The Netherlands",Mvanting
+"""been""","Geisenheim, Germany",Mvanting
+"""been""","Iphofen, Germany",Mvanting
+"""been""","Munich, Germany",Mvanting
+"""been""","Eguisheim, France",Mvanting
+"""been""","Blaavand, Denmark",Mvanting
+"""been""","London, UK",Mvanting
+"""been""","Valby, Denmark",Mvanting
+"""been"",""fave""","Santa Monica, CA, USA",Mvanting
+"""been""","Houston, TX, USA",Mvanting
+"""want""","New Orleans, LA, USA",Mvanting
+"""been"",""fave""","Venice, Italy",Mvanting
+"""been"",""want""","Verona, Italy",Mvanting
+"""been"",""fave""","Boston, MA, USA",Mvanting
+"""want""","Honolulu, HI, USA",Mvanting
+"""been""","Santa Barbara, CA, USA",Mvanting
+"""been""","Husum, Germany",Mvanting
+"""want""","Madrid, Spain",Mvanting
+"""been""","Helsinki, Finland",Mvanting
+"""been""","Nerja, Spain",Mvanting
+"""been""","Otterup, Denmark",Mvanting
+"""been""","Haderslev, Denmark",Mvanting
+"""been""","Give, Denmark",Mvanting
+"""been""","Niagara Falls, Ontario, Canada",Mvanting
+"""been""","Niagara-on-the-Lake, Ontario, Canada",Mvanting
+"""been""","Beverly Hills, CA, USA",Mvanting
+"""been""","Tokyo, Japan",Mvanting
+"""want""","Lahaina, HI, USA",Mvanting
+"""been""","Schaumburg, IL, USA",Mvanting
+"""been""","Seattle, WA, USA",Mvanting
+"""want""","Yellowstone National Park, WY, USA",Mvanting
+"""want""","Cape Town Central, South Africa",Mvanting
+"""want""","Kailua-Kona, HI, USA",Mvanting
+"""been""","Cincinnati, OH, USA",Mvanting
+"""been""","San Diego, CA, USA",Mvanting
+"""been""","Catania, Italy",Mvanting
+"""been""","Tisvildeleje, Denmark",Mvanting
+"""been""","White Plains, NY, USA",Mvanting
+"""want""","Fes, Morocco",Mvanting
+"""want""","Istanbul, Turkey",Mvanting
+"""been""","Valencia, Spain",Mvanting
+"""want""","Marrakech, Morocco",Mvanting
+"""been""","Skoerping, Denmark",Mvanting
+"""been""","Turku, Finland",Mvanting
+"""want""","Sydney, Australia",Mvanting
+"""been""","Wellesley, MA, USA",Mvanting
+"""been""","Snekkersten, Denmark",Mvanting
+"""been""","Plymouth, MA, USA",Mvanting
+"""been""","Brabrand, Denmark",Mvanting
+"""been""","Campofelice di Roccella, Italy",Mvanting
+"""been""","Lillehammer, Norway",Mvanting
+"""want""","Buenos Aires, Argentina",Mvanting
+"""been""","Oceanside, CA, USA",Mvanting
+"""want""","Brisbane, Australia",Mvanting
+"""been""","Bergheim, France",Mvanting
+"""been""","Prague, Czech Republic",Mvanting
+"""been""","Oakville, CA, USA",Mvanting
+"""been""","Charlotte, NC, USA",Mvanting
+"""been""","Jelling, Denmark",Mvanting
+"""been""","Frederiksberg, Denmark",Mvanting
+"""been""","Roedby, Denmark",Mvanting
+"""been""","Boerkop, Denmark",Mvanting
+"""been""","Skagen, Denmark",Mvanting
+"""been""","Augustenborg, Denmark",Mvanting
+"""been""","Faaborg, Denmark",Mvanting
+"""want""","Manchester, UK",Mvanting
+"""been""","Oslo, Norway",Mvanting
+"""want""","Montevideo, Uruguay",Mvanting
+"""been""","Eltville am Rhein, Germany",Mvanting
+"""been""","Luxembourg City, Luxembourg",Mvanting
+"""been""","Caorle, Italy",Mvanting
+"""want""","Cairo, Egypt",Mvanting
+"""been""","Nykoebing, Denmark",Mvanting
+"""been""","Odder, Denmark",Mvanting
+"""been""","Kongens Lyngby, Denmark",Mvanting
+"""been""","Koblenz, Germany",Mvanting
+"""want""","Salzburg, Austria",Mvanting
+"""want""","Innsbruck, Austria",Mvanting
+"""been""","Beijing, China",Mvanting
+"""been""","Hartford, CT, USA",Mvanting
+"""want""","Bratislava, Slovakia",Mvanting
+"""want""","Dubai, United Arab Emirates",Mvanting
+"""been""","Hong Kong, China",Mvanting
+"""been""","Vina del Mar, Chile",Mvanting
+"""want""","Bucharest, Romania",Mvanting
+"""been""","Skanderborg, Denmark",Mvanting
+"""been""","Hirtshals, Denmark",Mvanting
+"""been""","Waltham, MA, USA",Mvanting
+"""want""","Sisimiut, Greenland",Mvanting
+"""been""","Fumane, Italy",Mvanting
+"""been"",""want""","Grand Canyon National Park, AZ, USA",Mvanting
+"""been""","Heidelberg, Germany",Mvanting
+"""been"",""want""","Vienna, Austria",Mvanting
+"""been""","Landskrona, Sweden",Mvanting
+"""been""","Cologne, Germany",Mvanting
+"""been""","Gudhjem, Denmark",Mvanting
+"""been""","Brighton, UK",Mvanting
+"""want""","Marseille, France",Mvanting
+"""want""","Barcelona, Spain",Mvanting
+"""been""","Raleigh, NC, USA",Mvanting
+"""been""","Naestved, Denmark",Mvanting
+"""been""","Amsterdam, The Netherlands",Mvanting
+"""been""","Bournemouth, UK",Mvanting
+"""been""","Lyon, France",Mvanting
+"""want""","Rhodes Town, Greece",Mvanting
+"""want""","Zurich, Switzerland",Mvanting
+"""been""","Paris, France",Mvanting
+"""been""","Versailles, France",Mvanting
+"""been""","Niagara Falls, NY, USA",Mvanting
+"""been""","Goslar, Germany",Mvanting
+"""been""","Warsaw, Poland",Mvanting
+"""want""","Holguin, Cuba",Mvanting
+"""been""","Albany, OR, USA",Mvanting
+"""want""","Virginia Beach, VA, USA",Mvanting
+"""been""","Las Palmas de Gran Canaria, Spain",Mvanting
+"""been""","Billund, Denmark",Mvanting
+"""been""","Gothenburg, Sweden",Mvanting
+"""been""","Them, Denmark",Mvanting
+"""been""","Aarhus, Denmark",Mvanting
+"""been""","Nice, France",Mvanting
+"""been""","Esbjerg, Denmark",Mvanting
+"""been""","Maribo, Denmark",Mvanting
+"""been""","Newport, OR, USA",Mvanting
+"""been""","Arnhem, The Netherlands",Mvanting
+"""been""","Sakskoebing, Denmark",Mvanting
+"""been""","Stege, Denmark",Mvanting
+"""been""","Pythagorion, Greece",Mvanting
+"""been""","Bandon, OR, USA",Mvanting
+"""been""","Gjern, Denmark",Mvanting
+"""want""","Monte-Carlo, Monaco",Mvanting
+"""been""","Rostock, Germany",Mvanting
+"""been""","Helsingoer, Denmark",Mvanting
+"""been""","Copenhagen, Denmark",Mvanting
+"""been""","Roskilde, Denmark",Mvanting
+"""been""","Hillerod, Denmark",Mvanting
+"""been""","Stouby, Denmark",Mvanting
+"""been"",""want""","Santiago, Chile",Mvanting
+"""been""","Bend, OR, USA",Mvanting
+"""been""","Saint Louis, MO, USA",Mvanting
+"""been""","Marstal, Denmark",Mvanting
+"""been""","Taulov, Denmark",Mvanting
+"""been""","Los Angeles, CA, USA",Mvanting
+"""been""","Portland, OR, USA",Mvanting
+"""been""","Alba, Italy",Mvanting
+"""want""","Negril, Jamaica",Mvanting
+"""want""","Ocho Rios, Jamaica",Mvanting
+"""been""","Chicago, IL, USA",Mvanting
+"""been""","Juelsminde, Denmark",Mvanting
+"""want""","San Juan, Puerto Rico",Mvanting
+"""want""","Split, Croatia",Mvanting
+"""want""","Dubrovnik, Croatia",Mvanting
+"""been""","New Haven, CT, USA",Mvanting
+"""been""","Greve, Denmark",Mvanting
+"""been""","Kerteminde, Denmark",Mvanting
+"""been""","Phoenix, AZ, USA",Mvanting
+"""been""","Ribeauville, France",Mvanting
+"""want""","Siena, Italy",Mvanting
+"""been""","Napa, CA, USA",Mvanting
+"""been""","Long Beach, CA, USA",Mvanting
+"""been""","Gilleleje, Denmark",Mvanting
+"""want""","Budapest, Hungary",Mvanting
+"""been""","Lokken, Denmark",Mvanting
+"""been""","Dragoer, Denmark",Mvanting
+"""been""","Las Vegas, NV, USA",Mvanting
+"""want""","Porto, Portugal",Mvanting
+"""been""","Arlington, VA, USA",Mvanting
+"""been""","Toronto, Ontario, Canada",Mvanting
+"""been""","Foxborough, MA, USA",Mvanting
+"""been""","Leavesden, UK",Mvanting
+"""been""","Grenaa, Denmark",Mvanting
+"""been""","Jesolo, Italy",Mvanting
+"""been""","Horsens, Denmark",Mvanting
+"""been""","Randers, Denmark",Mvanting
+"""been""","Weehawken, NJ, USA",Mvanting
+"""been""","Ringsted, Denmark",Mvanting
+"""been""","Ry, Denmark",Mvanting
+"""been""","Soenderborg, Denmark",Mvanting
+"""been""","Frederikshavn, Denmark",Mvanting
+"""been""","Mexico City, Mexico",Mvanting
+"""been""","Kolding, Denmark",Mvanting
+"""been""","Lisbon, Portugal",Mvanting
+"""been""","Monterey, CA, USA",Mvanting
+"""been""","Fort Worth, TX, USA",Mvanting
+"""want""","Paphos, Cyprus",Mvanting
+"""been""","Kastrup, Denmark",Mvanting
+"""been""","Riverside, CA, USA",Mvanting
+"""been""","Humlebaek, Denmark",Mvanting
+"""been""","Bolton, MA, USA",Mvanting
+"""want""","Kavos, Greece",Mvanting
+"""been""","Ikast, Denmark",Mvanting
+"""want""","Playa del Carmen, Mexico",Mvanting
+"""been""","West New York, NJ, USA",Mvanting
+"""want""","Cancun, Mexico",Mvanting
+"""been""","Karrebaeksminde, Denmark",Mvanting
+"""been""","Waco, TX, USA",Mvanting
+"""been""","Edgartown, MA, USA",Mvanting
+"""been""","Colmar, France",Mvanting
+"""been""","Strasbourg, France",Mvanting
+"""want""","Paradise Island, Bahamas",Mvanting
+"""want""","Nassau, Bahamas",Mvanting
+"""want""","Bordeaux, France",Mvanting
+"""been""","Cefalu, Italy",Mvanting
+"""been""","Assens, Denmark",Mvanting
+"""been""","Roedovre, Denmark",Mvanting
+"""been""","Dallas, TX, USA",Mvanting
+"""been"",""want""","Quebec City, Quebec, Canada",Mvanting
+"""want""","Montreal, Quebec, Canada",Mvanting
+"""been""","Mystic, CT, USA",Mvanting
+"""been""","Sacramento, CA, USA",Mvanting
+"""been""","Northborg, Denmark",Mvanting
+"""want""","Freeport, Bahamas",Mvanting
+"""want""","Maui, HI, USA",Mvanting
+"""want""","Geneva, Switzerland",Mvanting
+"""want""","Singapore, Singapore",Mvanting
+"""been""","Kristiansand, Norway",Mvanting
+"""been""","Tarrytown, NY, USA",Mvanting
+"""been""","Korsoer, Denmark",Mvanting
+"""want""","Varadero, Cuba",Mvanting
+"""been""","Springfield, MA, USA",Mvanting
+"""been""","Charleston, SC, USA",Mvanting
+"""want""","Havana, Cuba",Mvanting
+"""been""","Austin, TX, USA",Mvanting
+"""been""","Wernigerode, Germany",Mvanting
+"""been""","Tampa, FL, USA",Mvanting
+"""been""","Newark, NJ, USA",Mvanting
+"""been""","Sonoma, CA, USA",Mvanting
+"""been""","Miami Beach, FL, USA",Mvanting
+"""been""","Miami, FL, USA",Mvanting
+"""been""","Castell, Germany",Mvanting
+"""want""","Cabo San Lucas, Mexico",Mvanting
+"""want""","Santo Domingo, Dominican Republic",Mvanting
+"""been""","Holbaek, Denmark",Mvanting
+"""been""","Pensacola, FL, USA",Mvanting
+"""been""","Hundested, Denmark",Mvanting
+"""want""","Moscow, Russia",Mvanting
+"""been""","Newport, RI, USA",Mvanting
+"""been""","Oestrich-Winkel, Germany",Mvanting
+"""been""","Bristol, RI, USA",Mvanting
+"""been""","Burlington, VT, USA",Mvanting
+"""been""","Eureka, CA, USA",Mvanting
+"""been""","Panama City Beach, FL, USA",Mvanting
+"""been""","Rovaniemi, Finland",Mvanting
+"""been""","Burbank, CA, USA",Mvanting
+"""been""","Panama City, FL, USA",Mvanting
+"""been""","Treviso, Italy",Mvanting
+"""want""","Alykanas, Greece",Mvanting
+"""been""","Kiedrich, Germany",Mvanting
+"""want""","Bangkok, Thailand",Mvanting
+"""been""","Naantali, Finland",Mvanting
+"""been""","Glasgow, UK",Mvanting
+"""been""","West Hollywood, CA, USA",Mvanting
+"""been""","Providence, RI, USA",Mvanting
+"""been""","Brooklyn, NY, USA",Mvanting
+"""want""","Punta Cana, Dominican Republic",Mvanting
+"""been""","Hella, Iceland",Mvanting
+"""been""","Hjorring, Denmark",Mvanting
+"""been""","Stowe, VT, USA",Mvanting
+"""want""","Colorado Springs, CO, USA",Mvanting
+"""been""","Grindavik, Iceland",Mvanting
+"""been""","Samsoe, Denmark",Mvanting
+"""been""","Jersey City, NJ, USA",Mvanting
+"""been""","Edinburgh, UK",Mvanting
+"""been""","San Antonio, TX, USA",Mvanting
+"""been""","San Francisco, CA, USA",Mvanting
+"""been""","South San Francisco, CA, USA",Mvanting
+"""been""","Salford, UK",Mvanting
+"""been""","Hastings, NY, USA",Mvanting
+"""been""","Milan, Italy",Mvanting
+"""been""","Teaneck, NJ, USA",Mvanting
+"""been""","Ribe, Denmark",Mvanting
+"""been""","Warwick, RI, USA",Mvanting
+"""been""","Soroe, Denmark",Mvanting
+"""been""","Orlando, FL, USA",Mvanting
+"""been""","Dobbs Ferry, NY, USA",Mvanting
+"""been""","Jamaica, NY, USA",Mvanting
+"""been""","Sabro, Denmark",Mvanting
+"""want""","Hersonissos, Greece",Mvanting
+"""want""","Kyoto, Japan",Mvanting
+"""been""","Albuquerque, NM, USA",Mvanting
+"""been""","Tranebjerg, Denmark",Mvanting
+"""been""","Springfield, OR, USA",Mvanting
+"""been""","Enfield, CT, USA",Mvanting
+"""been""","Palm - Eagle Beach, Aruba",Mvanting
+"""want""","Oranjestad, Aruba",Mvanting
+"""want""","Osaka, Japan",Mvanting
+"""been""","Genoa, Italy",Mvanting
+"""been""","Marielyst, Denmark",Mvanting
+"""been""","Hellerup, Denmark",Mvanting
+"""been""","Blommenslyst, Denmark",Mvanting
+"""want""","Acapulco, Mexico",Mvanting
+"""want""","Kuala Lumpur, Malaysia",Mvanting
+"""want""","Boulder, CO, USA",Mvanting
+"""been""","Bardolino, Italy",Mvanting
+"""been""","Riquewihr, France",Mvanting
+"""been""","Ebeltoft, Denmark",Mvanting
+"""want""","Dublin, Ireland",Mvanting
+"""been""","Travemuende, Germany",Mvanting
+"""been""","New Bedford, MA, USA",Mvanting
+"""been""","Feltre, Italy",Mvanting
+"""been""","Seaside, OR, USA",Mvanting
+"""been""","Stansted Mountfitchet, UK",Mvanting

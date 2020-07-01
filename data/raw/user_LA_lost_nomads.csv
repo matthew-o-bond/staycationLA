@@ -1,0 +1,872 @@
+tag,place,user
+"""been""","Chelmsford, UK",lost_nomads
+"""been""","Wauchope, Australia",lost_nomads
+"""been""","Airlie Beach, Australia",lost_nomads
+"""been""","Palm Cove, Australia",lost_nomads
+"""been""","Tillamook, OR, USA",lost_nomads
+"""been""","Tucson, AZ, USA",lost_nomads
+"""been""","Mataranka, Australia",lost_nomads
+"""been""","San Francisco, CA, USA",lost_nomads
+"""been""","Salem, MA, USA",lost_nomads
+"""been""","West Memphis, AR, USA",lost_nomads
+"""been""","East Falkland, Falkland Islands",lost_nomads
+"""been""","Abu Simbel, Egypt",lost_nomads
+"""been""","Newcastle West, Ireland",lost_nomads
+"""been""","Eden, Australia",lost_nomads
+"""been""","Cootamundra, Australia",lost_nomads
+"""been""","Potters Bar, UK",lost_nomads
+"""been""","Glass House Mountains, Australia",lost_nomads
+"""been""","Moab, UT, USA",lost_nomads
+"""been""","Santa Fe, NM, USA",lost_nomads
+"""been""","San Cristobal, Ecuador",lost_nomads
+"""been""","Hounslow, UK",lost_nomads
+"""been""","Epping, UK",lost_nomads
+"""been""","Sparwood, British Columbia, Canada",lost_nomads
+"""been""","Clacton-on-Sea, UK",lost_nomads
+"""been""","Boracay, Philippines",lost_nomads
+"""been""","Puerto Ayora, Ecuador",lost_nomads
+"""been""","Singapore, Singapore",lost_nomads
+"""been""","Twickenham, UK",lost_nomads
+"""been""","Waltham Abbey, UK",lost_nomads
+"""been""","Southend-on-Sea, UK",lost_nomads
+"""been""","Flagstaff, AZ, USA",lost_nomads
+"""been""","Sun Valley, AZ, USA",lost_nomads
+"""been""","Toowoon Bay, Australia",lost_nomads
+"""been""","Newport, RI, USA",lost_nomads
+"""been""","Puerto Iguazu, Argentina",lost_nomads
+"""been""","Budapest, Hungary",lost_nomads
+"""been""","Isabela, Ecuador",lost_nomads
+"""been""","Zion National Park, UT, USA",lost_nomads
+"""been""","Abu Dhabi, United Arab Emirates",lost_nomads
+"""been""","Puerto Galera, Philippines",lost_nomads
+"""been""","Honolulu, HI, USA",lost_nomads
+"""been""","Albert, France",lost_nomads
+"""been""","Vicksburg, MS, USA",lost_nomads
+"""been""","Boston, MA, USA",lost_nomads
+"""been""","Roxas City, Philippines",lost_nomads
+"""been""","Baltra, Ecuador",lost_nomads
+"""been""","Houston, TX, USA",lost_nomads
+"""been""","Olympic National Park, WA, USA",lost_nomads
+"""been""","Siesta Key, FL, USA",lost_nomads
+"""been""","Mount Rainier National Park, WA, USA",lost_nomads
+"""been""","Cook, Australia",lost_nomads
+"""been""","St. Thomas, U.S. Virgin Islands",lost_nomads
+"""been""","Choteau, MT, USA",lost_nomads
+"""been""","Natchez, MS, USA",lost_nomads
+"""been""","Shamrock, TX, USA",lost_nomads
+"""been""","Naples, FL, USA",lost_nomads
+"""been""","La Paz, Bolivia",lost_nomads
+"""been""","Tulum, Mexico",lost_nomads
+"""been""","Fort Lauderdale, FL, USA",lost_nomads
+"""been""","Wynne, AR, USA",lost_nomads
+"""been""","Ilsington, UK",lost_nomads
+"""been""","Seaside, OR, USA",lost_nomads
+"""been""","Salt Lake City, UT, USA",lost_nomads
+"""been""","Port Angeles, WA, USA",lost_nomads
+"""been""","Savannakhet, Laos",lost_nomads
+"""been""","Golden, British Columbia, Canada",lost_nomads
+"""been""","Punta del Este, Uruguay",lost_nomads
+"""been""","Brixham, UK",lost_nomads
+"""been""","Glenbeigh, Ireland",lost_nomads
+"""been""","Albuquerque, NM, USA",lost_nomads
+"""been""","Petrified Forest National Park, AZ, USA",lost_nomads
+"""been""","Corpus Christi, TX, USA",lost_nomads
+"""been""","Cahersiveen, Ireland",lost_nomads
+"""been""","Sneem, Ireland",lost_nomads
+"""been""","Pucon, Chile",lost_nomads
+"""been""","Hove, UK",lost_nomads
+"""been""","Stroud, Australia",lost_nomads
+"""been""","Copacabana, Bolivia",lost_nomads
+"""been""","Hyams Beach, Australia",lost_nomads
+"""been""","Tallahassee, FL, USA",lost_nomads
+"""been"",""want""","Split, Croatia",lost_nomads
+"""been""","Miami, FL, USA",lost_nomads
+"""been""","Miami Beach, FL, USA",lost_nomads
+"""been""","Anaheim, CA, USA",lost_nomads
+"""been""","Tampa, FL, USA",lost_nomads
+"""been""","Mexico Beach, FL, USA",lost_nomads
+"""been""","Fraser Island, Australia",lost_nomads
+"""been""","Philadelphia, PA, USA",lost_nomads
+"""been""","Dinosaur, CO, USA",lost_nomads
+"""been""","Cherating, Malaysia",lost_nomads
+"""been""","West Yellowstone, MT, USA",lost_nomads
+"""been""","Gettysburg, PA, USA",lost_nomads
+"""been""","La Fortuna de San Carlos, Costa Rica",lost_nomads
+"""been""","Koh Tao, Thailand",lost_nomads
+"""been""","Sanur, Indonesia",lost_nomads
+"""been""","Ubud, Indonesia",lost_nomads
+"""been""","Maidstone, UK",lost_nomads
+"""been""","Milton Keynes, UK",lost_nomads
+"""been""","Green Island, Australia",lost_nomads
+"""been""","Dartford, UK",lost_nomads
+"""been""","Picton, New Zealand",lost_nomads
+"""been""","Vernal, UT, USA",lost_nomads
+"""been""","Balranald, Australia",lost_nomads
+"""been""","Crawley, UK",lost_nomads
+"""been""","Southampton, NY, USA",lost_nomads
+"""been""","Cape Schanck, Australia",lost_nomads
+"""been""","Townsend, MT, USA",lost_nomads
+"""been""","Patong, Thailand",lost_nomads
+"""been""","Banos, Ecuador",lost_nomads
+"""been""","Ushuaia, Argentina",lost_nomads
+"""been""","Adelaide, Australia",lost_nomads
+"""been""","Peterborough, UK",lost_nomads
+"""been""","Ko Lanta, Thailand",lost_nomads
+"""been""","El Calafate, Argentina",lost_nomads
+"""been""","Ko Phi Phi Don, Thailand",lost_nomads
+"""been""","Ko Pha Ngan, Thailand",lost_nomads
+"""been""","Hobart, Australia",lost_nomads
+"""been""","Prospect, Australia",lost_nomads
+"""been""","Bishops Stortford, UK",lost_nomads
+"""been""","Canberra, Australia",lost_nomads
+"""been""","Coolum Beach, Australia",lost_nomads
+"""been""","Sagaing, Myanmar",lost_nomads
+"""been""","Ao Nang, Thailand",lost_nomads
+"""been""","Coffs Harbour, Australia",lost_nomads
+"""been""","Paris, Ontario, Canada",lost_nomads
+"""been""","Vienna, Austria",lost_nomads
+"""been""","Krabi Town, Thailand",lost_nomads
+"""been""","Hat Yai, Thailand",lost_nomads
+"""been""","Hua Hin, Thailand",lost_nomads
+"""been""","Wagga Wagga, Australia",lost_nomads
+"""been"",""fave""","Sydney, Australia",lost_nomads
+"""been""","Blackheath, Australia",lost_nomads
+"""been"",""fave""","Kings Canyon, Australia",lost_nomads
+"""been""","Alice Springs, Australia",lost_nomads
+"""been""","Cairns, Australia",lost_nomads
+"""been""","Brisbane, Australia",lost_nomads
+"""been""","Jenolan Caves, Australia",lost_nomads
+"""been""","Darwin, Australia",lost_nomads
+"""been""","Inverell, Australia",lost_nomads
+"""been""","Coomba Park, Australia",lost_nomads
+"""been""","Fort Myers, FL, USA",lost_nomads
+"""been""","Fort Myers Beach, FL, USA",lost_nomads
+"""been""","Lithgow, Australia",lost_nomads
+"""been""","Columbia Falls, MT, USA",lost_nomads
+"""been""","Surat Thani, Thailand",lost_nomads
+"""been""","Guyra, Australia",lost_nomads
+"""been""","Khao Lak, Thailand",lost_nomads
+"""been""","Satun, Thailand",lost_nomads
+"""been""","Surfers Paradise, Australia",lost_nomads
+"""been""","Fort Walton Beach, FL, USA",lost_nomads
+"""been""","Bicester, UK",lost_nomads
+"""been""","Port Douglas, Australia",lost_nomads
+"""been""","Gunnedah, Australia",lost_nomads
+"""been""","Townsville, Australia",lost_nomads
+"""been""","Manly, Australia",lost_nomads
+"""been""","San Diego, CA, USA",lost_nomads
+"""been""","Rushden, UK",lost_nomads
+"""been""","Springwood, Australia",lost_nomads
+"""been""","Milsons Point, Australia",lost_nomads
+"""been""","Amsterdam, The Netherlands",lost_nomads
+"""been""","Mosman, Australia",lost_nomads
+"""been"",""fave""","Deception Island, Antarctica",lost_nomads
+"""been""","Yellowstone National Park, WY, USA",lost_nomads
+"""been""","Moree, Australia",lost_nomads
+"""been""","Levin, New Zealand",lost_nomads
+"""been""","Naxos, Greece",lost_nomads
+"""been""","Joshua Tree National Park, CA, USA",lost_nomads
+"""been"",""want""","Marseille, France",lost_nomads
+"""been""","Mykonos, Greece",lost_nomads
+"""been""","Barcelona, Spain",lost_nomads
+"""been""","Toulon, France",lost_nomads
+"""been""","Lower Slaughter, UK",lost_nomads
+"""been""","Sandy, UK",lost_nomads
+"""been""","Hollywood, FL, USA",lost_nomads
+"""been""","Little Rock, AR, USA",lost_nomads
+"""been"",""fave""","New York City, NY, USA",lost_nomads
+"""been""","Walcha, Australia",lost_nomads
+"""been""","Salzburg, Austria",lost_nomads
+"""been""","Canakkale, Turkey",lost_nomads
+"""been""","Grand Teton National Park, WY, USA",lost_nomads
+"""been""","Grand Canyon National Park, AZ, USA",lost_nomads
+"""been""","Glacier National Park, MT, USA",lost_nomads
+"""been""","Kusadasi, Turkey",lost_nomads
+"""been""","Everglades National Park, FL, USA",lost_nomads
+"""been""","Dee Why, Australia",lost_nomads
+"""been""","Death Valley National Park, CA, USA",lost_nomads
+"""been""","Crater Lake National Park, OR, USA",lost_nomads
+"""been""","Burnie, Australia",lost_nomads
+"""been""","Coralville, IA, USA",lost_nomads
+"""been""","Cabanaconde, Peru",lost_nomads
+"""been""","Rawlins, WY, USA",lost_nomads
+"""been""","Hawthorn, Australia",lost_nomads
+"""been""","Beijing, China",lost_nomads
+"""been""","Hong Kong, China",lost_nomads
+"""been""","Bryce Canyon National Park, UT, USA",lost_nomads
+"""been""","Uyuni, Bolivia",lost_nomads
+"""been""","San Martin de los Andes, Argentina",lost_nomads
+"""been""","Freycinet, Australia",lost_nomads
+"""been""","South Salt Lake, UT, USA",lost_nomads
+"""been""","Derwent Bridge, Australia",lost_nomads
+"""been""","Memphis, TN, USA",lost_nomads
+"""been""","Coopernook, Australia",lost_nomads
+"""been""","Devonport, Australia",lost_nomads
+"""been""","Aswan, Egypt",lost_nomads
+"""been""","Giza, Egypt",lost_nomads
+"""been""","Eureka, MT, USA",lost_nomads
+"""want""","Cairo, Egypt",lost_nomads
+"""been"",""fave""","Luxor, Egypt",lost_nomads
+"""been""","Daly Waters, Australia",lost_nomads
+"""been""","Espiritu Santo, Vanuatu",lost_nomads
+"""been""","Kos, Greece",lost_nomads
+"""been""","Yosemite National Park, CA, USA",lost_nomads
+"""been""","Shibuya, Japan",lost_nomads
+"""been""","Efate, Vanuatu",lost_nomads
+"""been""","Grayton Beach, FL, USA",lost_nomads
+"""been""","Sandakan, Malaysia",lost_nomads
+"""been""","Penzance, UK",lost_nomads
+"""been""","Nara, Japan",lost_nomads
+"""been""","Niagara Falls, NY, USA",lost_nomads
+"""been""","St Ives, UK",lost_nomads
+"""been""","Minato, Japan",lost_nomads
+"""been""","Letterkenny, Ireland",lost_nomads
+"""been""","Gulfport, MS, USA",lost_nomads
+"""been""","San Jose, Costa Rica",lost_nomads
+"""been""","Abingdon, UK",lost_nomads
+"""been""","Beechworth, Australia",lost_nomads
+"""been""","Himeji, Japan",lost_nomads
+"""been""","Bells Beach, Australia",lost_nomads
+"""been""","Worthing, UK",lost_nomads
+"""been""","Chaweng, Thailand",lost_nomads
+"""been""","New York Mills, NY, USA",lost_nomads
+"""been""","Newquay, UK",lost_nomads
+"""been""","Tulsa, OK, USA",lost_nomads
+"""been""","Paraty, Brazil",lost_nomads
+"""been""","Rio de Janeiro, Brazil",lost_nomads
+"""been""","Istanbul, Turkey",lost_nomads
+"""been""","Belfast, UK",lost_nomads
+"""been""","Karon, Thailand",lost_nomads
+"""been""","Nyaungshwe, Myanmar",lost_nomads
+"""been""","Berwick, Australia",lost_nomads
+"""been""","Berlin, Germany",lost_nomads
+"""been""","Lyme Regis, UK",lost_nomads
+"""been""","Billericay, UK",lost_nomads
+"""been""","Pearl Beach, Australia",lost_nomads
+"""been"",""fave""","Tokyo, Japan",lost_nomads
+"""been""","Farnham, UK",lost_nomads
+"""been""","Saffron Walden, UK",lost_nomads
+"""been""","Anglesea, Australia",lost_nomads
+"""been""","Dali, China",lost_nomads
+"""been""","Lijiang, China",lost_nomads
+"""been""","Gordon, Australia",lost_nomads
+"""been""","Bedford, UK",lost_nomads
+"""been""","Colchester, UK",lost_nomads
+"""been""","Bournemouth, UK",lost_nomads
+"""been""","Petersham, Australia",lost_nomads
+"""been""","Mobile, AL, USA",lost_nomads
+"""been""","Slough, UK",lost_nomads
+"""been""","Newtown, Australia",lost_nomads
+"""been""","Arcadia, OK, USA",lost_nomads
+"""been""","Torquay, UK",lost_nomads
+"""been""","Luton, UK",lost_nomads
+"""been""","Plymouth, UK",lost_nomads
+"""been""","Vientiane, Laos",lost_nomads
+"""been""","Folkestone, UK",lost_nomads
+"""been""","Newbury, UK",lost_nomads
+"""been""","Bruges, Belgium",lost_nomads
+"""been""","Long Beach, MS, USA",lost_nomads
+"""been""","Dargaville, New Zealand",lost_nomads
+"""been""","Medford, MA, USA",lost_nomads
+"""been""","Matakohe, New Zealand",lost_nomads
+"""been""","Yangshuo County, China",lost_nomads
+"""been""","Lancaster, PA, USA",lost_nomads
+"""been""","Pondicherry, India",lost_nomads
+"""been""","Legian, Indonesia",lost_nomads
+"""been""","Stevenage, UK",lost_nomads
+"""been""","Eastbourne, UK",lost_nomads
+"""been""","Grants Pass, OR, USA",lost_nomads
+"""been""","Timaru, New Zealand",lost_nomads
+"""been""","Healesville, Australia",lost_nomads
+"""been""","Wangaratta, Australia",lost_nomads
+"""been""","Puntarenas, Costa Rica",lost_nomads
+"""been""","Cambridge, UK",lost_nomads
+"""been""","Cardiff, UK",lost_nomads
+"""been""","Vatican City, Vatican City",lost_nomads
+"""been""","Bristol, UK",lost_nomads
+"""been"",""want""","Rome, Italy",lost_nomads
+"""been""","Aylesbury, UK",lost_nomads
+"""been""","Nuremberg, Germany",lost_nomads
+"""been""","Frankston, Australia",lost_nomads
+"""been""","Mendocino, CA, USA",lost_nomads
+"""been""","Candidasa, Indonesia",lost_nomads
+"""been""","High Wycombe, UK",lost_nomads
+"""been""","Mt. Cook Village, New Zealand",lost_nomads
+"""been""","Cansaulim, India",lost_nomads
+"""been""","King's Lynn, UK",lost_nomads
+"""been""","Methven, New Zealand",lost_nomads
+"""been""","Antwerp, Belgium",lost_nomads
+"""been""","Munich, Germany",lost_nomads
+"""been""","Narraweena, Australia",lost_nomads
+"""been"",""want""","Naples, Italy",lost_nomads
+"""been""","Kedewatan, Indonesia",lost_nomads
+"""been""","Birmingham, UK",lost_nomads
+"""been""","Leichhardt, Australia",lost_nomads
+"""been""","Westport, OR, USA",lost_nomads
+"""been""","Coventry, UK",lost_nomads
+"""been""","Chichester, UK",lost_nomads
+"""been""","Bradford, UK",lost_nomads
+"""been""","Takayama, Japan",lost_nomads
+"""been""","Hot Springs Village, AR, USA",lost_nomads
+"""been""","Napa, CA, USA",lost_nomads
+"""been""","Indio, CA, USA",lost_nomads
+"""been""","Narrabri, Australia",lost_nomads
+"""been""","Hervey Bay, Australia",lost_nomads
+"""been""","Cranleigh, UK",lost_nomads
+"""been""","Mui Ne, Vietnam",lost_nomads
+"""been""","Sacramento, CA, USA",lost_nomads
+"""been""","Sligo, Ireland",lost_nomads
+"""been""","Bonito, Brazil",lost_nomads
+"""been""","Waterford, Ireland",lost_nomads
+"""been""","Morpeth, Australia",lost_nomads
+"""been""","Tilba Tilba, Australia",lost_nomads
+"""been""","Chumphon, Thailand",lost_nomads
+"""been""","Candelo, Australia",lost_nomads
+"""been""","Luganville, Vanuatu",lost_nomads
+"""been"",""fave""","Pakse, Laos",lost_nomads
+"""been""","Jan Juc, Australia",lost_nomads
+"""been""","Helsinki, Finland",lost_nomads
+"""been""","Madrid, Spain",lost_nomads
+"""been""","Parkside, Australia",lost_nomads
+"""been""","Currarong, Australia",lost_nomads
+"""been""","Broadway, UK",lost_nomads
+"""been""","Manila, Philippines",lost_nomads
+"""been""","Kuala Lumpur, Malaysia",lost_nomads
+"""been""","Wahroonga, Australia",lost_nomads
+"""been""","Monterey, CA, USA",lost_nomads
+"""been""","Campo Grande, Brazil",lost_nomads
+"""been""","Eton, UK",lost_nomads
+"""want""","Santiago de Compostela, Spain",lost_nomads
+"""been""","Windsor, UK",lost_nomads
+"""been""","Eceabat, Turkey",lost_nomads
+"""been""","Maidenhead, UK",lost_nomads
+"""been""","Nagano, Japan",lost_nomads
+"""been""","Kyoto, Japan",lost_nomads
+"""been""","Greenwell Point, Australia",lost_nomads
+"""been""","Osaka, Japan",lost_nomads
+"""been""","Hiroshima, Japan",lost_nomads
+"""been""","Kuala Terengganu, Malaysia",lost_nomads
+"""been""","Kobe, Japan",lost_nomads
+"""been""","Enfield, UK",lost_nomads
+"""been""","Nelson, New Zealand",lost_nomads
+"""been""","Oamaru, New Zealand",lost_nomads
+"""been""","Playa de las Americas, Spain",lost_nomads
+"""been""","Amiens, France",lost_nomads
+"""been""","Phnom Penh, Cambodia",lost_nomads
+"""been"",""want""","Dublin, Ireland",lost_nomads
+"""been""","Harrow, UK",lost_nomads
+"""been""","Horsham, UK",lost_nomads
+"""been""","South Lake Tahoe, CA, USA",lost_nomads
+"""been""","Peronne, France",lost_nomads
+"""been""","Romford, UK",lost_nomads
+"""been""","Biloxi, MS, USA",lost_nomads
+"""been""","Ilford, UK",lost_nomads
+"""been""","Porto Alegre, Brazil",lost_nomads
+"""been""","West Palm Beach, FL, USA",lost_nomads
+"""been""","Weston, FL, USA",lost_nomads
+"""been""","Fort Worth, TX, USA",lost_nomads
+"""been""","Chivay, Peru",lost_nomads
+"""been""","Bulahdelah, Australia",lost_nomads
+"""been""","Brunswick Heads, Australia",lost_nomads
+"""been""","Hue, Vietnam",lost_nomads
+"""been"",""fave""","Ho Chi Minh City, Vietnam",lost_nomads
+"""been""","Hanoi, Vietnam",lost_nomads
+"""been""","Halong Bay, Vietnam",lost_nomads
+"""been""","Macroom, Ireland",lost_nomads
+"""been""","Woking, UK",lost_nomads
+"""been""","Nha Trang, Vietnam",lost_nomads
+"""been""","Arras, France",lost_nomads
+"""been""","Willow Tree, Australia",lost_nomads
+"""been""","Florianopolis, Brazil",lost_nomads
+"""been""","Da Lat, Vietnam",lost_nomads
+"""been""","Tempe, Australia",lost_nomads
+"""been""","Rapid City, SD, USA",lost_nomads
+"""been""","Phuket, Thailand",lost_nomads
+"""been""","Harpenden, UK",lost_nomads
+"""been""","Jenner, CA, USA",lost_nomads
+"""been""","Valla, Australia",lost_nomads
+"""been""","Redhill, UK",lost_nomads
+"""been""","Berry, Australia",lost_nomads
+"""been""","Bodalla, Australia",lost_nomads
+"""been""","Braidwood, Australia",lost_nomads
+"""been""","Bowral, Australia",lost_nomads
+"""been""","Willemstad, Curacao",lost_nomads
+"""been""","Bermagui, Australia",lost_nomads
+"""been""","Sankt Johann, Germany",lost_nomads
+"""been""","Staines, UK",lost_nomads
+"""been""","Chiang Mai, Thailand",lost_nomads
+"""been""","Bangkok, Thailand",lost_nomads
+"""been""","Oxted, UK",lost_nomads
+"""been""","Chicago, IL, USA",lost_nomads
+"""been""","Killarney, Ireland",lost_nomads
+"""been""","Supetar, Croatia",lost_nomads
+"""been""","Ballina, Australia",lost_nomads
+"""been""","Bega, Australia",lost_nomads
+"""been""","Galveston, TX, USA",lost_nomads
+"""been""","Weston super Mare, UK",lost_nomads
+"""been""","La Perouse, Australia",lost_nomads
+"""been""","Mermaid Beach, Australia",lost_nomads
+"""been""","Angeles City, Philippines",lost_nomads
+"""been""","Gerringong, Australia",lost_nomads
+"""been""","Princes Risborough, UK",lost_nomads
+"""been""","Page, AZ, USA",lost_nomads
+"""been""","Brooklyn, NY, USA",lost_nomads
+"""been""","Suffolk Park, Australia",lost_nomads
+"""been""","Cowes, UK",lost_nomads
+"""been""","Crookwell, Australia",lost_nomads
+"""been""","Fairfield, CA, USA",lost_nomads
+"""been""","Panama City, FL, USA",lost_nomads
+"""been""","Panama City Beach, FL, USA",lost_nomads
+"""been""","Dorrigo, Australia",lost_nomads
+"""been""","Seminyak, Indonesia",lost_nomads
+"""been""","Miami, Australia",lost_nomads
+"""been""","Emeryville, CA, USA",lost_nomads
+"""been""","Currumbin, Australia",lost_nomads
+"""been""","Huacachina, Peru",lost_nomads
+"""been""","Shenzhen, China",lost_nomads
+"""been""","Byron Bay, Australia",lost_nomads
+"""been""","View Royal, British Columbia, Canada",lost_nomads
+"""been""","Camden, Australia",lost_nomads
+"""been""","Port Vila, Vanuatu",lost_nomads
+"""been""","Condobolin, Australia",lost_nomads
+"""been""","Jamberoo, Australia",lost_nomads
+"""been""","Kangaroo Valley, Australia",lost_nomads
+"""been""","Philipsburg, St Martin \u002F St Maarten",lost_nomads
+"""been""","Junee, Australia",lost_nomads
+"""been"",""fave""","Hanalei, HI, USA",lost_nomads
+"""been""","Hot Springs, AR, USA",lost_nomads
+"""been""","Ikaalinen, Finland",lost_nomads
+"""been""","Tacoma, WA, USA",lost_nomads
+"""been""","Noumea, New Caledonia",lost_nomads
+"""been""","Puerto Natales, Chile",lost_nomads
+"""been""","Punta Arenas, Chile",lost_nomads
+"""been""","Bagan, Myanmar",lost_nomads
+"""been""","Huskisson, Australia",lost_nomads
+"""been""","Laguna Beach, CA, USA",lost_nomads
+"""been""","Kingman, AZ, USA",lost_nomads
+"""been""","Detroit, MI, USA",lost_nomads
+"""been""","Gili Air, Indonesia",lost_nomads
+"""been""","Hawks Nest, Australia",lost_nomads
+"""been""","Hay, Australia",lost_nomads
+"""been""","New Orleans, LA, USA",lost_nomads
+"""want""","Princeville, HI, USA",lost_nomads
+"""been""","Kals am Grossglockner, Austria",lost_nomads
+"""been""","Poipu, HI, USA",lost_nomads
+"""been""","Brac Island, Croatia",lost_nomads
+"""been""","Soda Springs, ID, USA",lost_nomads
+"""been""","Kochi (Cochin), India",lost_nomads
+"""been""","Gosford, Australia",lost_nomads
+"""been""","Dearborn, MI, USA",lost_nomads
+"""been""","Gloucester, Australia",lost_nomads
+"""been""","Griffith, Australia",lost_nomads
+"""been""","Holbrook, AZ, USA",lost_nomads
+"""been""","Phu Quoc Island, Vietnam",lost_nomads
+"""been""","Grenfell, Australia",lost_nomads
+"""been""","Kalaw, Myanmar",lost_nomads
+"""been""","Merimbula, Australia",lost_nomads
+"""been""","Bracknell, UK",lost_nomads
+"""been""","Mollymook, Australia",lost_nomads
+"""been""","Sintra, Portugal",lost_nomads
+"""been""","Mittagong, Australia",lost_nomads
+"""been""","Xi'an, China",lost_nomads
+"""been""","Estoril, Portugal",lost_nomads
+"""been""","Marathon, FL, USA",lost_nomads
+"""been""","Miranda, Brazil",lost_nomads
+"""been""","Guilin, China",lost_nomads
+"""been""","Key West, FL, USA",lost_nomads
+"""been""","Lisbon, Portugal",lost_nomads
+"""been""","Chengdu, China",lost_nomads
+"""been""","Kurri Kurri, Australia",lost_nomads
+"""been""","Laurieton, Australia",lost_nomads
+"""been""","Lennox Head, Australia",lost_nomads
+"""been""","Yangon (Rangoon), Myanmar",lost_nomads
+"""been""","Leeton, Australia",lost_nomads
+"""been""","Walton-on-the-Naze, UK",lost_nomads
+"""been"",""fave""","Pulau Perhentian Kecil, Malaysia",lost_nomads
+"""been""","Pulau Perhentian Besar, Malaysia",lost_nomads
+"""been""","Plaistow, UK",lost_nomads
+"""been""","Putrajaya, Malaysia",lost_nomads
+"""been""","Kota Kinabalu, Malaysia",lost_nomads
+"""been""","Cobham, UK",lost_nomads
+"""been""","Port Saint Joe, FL, USA",lost_nomads
+"""been""","Kiama, Australia",lost_nomads
+"""been"",""fave""","Galissas, Greece",lost_nomads
+"""been""","George Town, Malaysia",lost_nomads
+"""been""","Kuta, Indonesia",lost_nomads
+"""been""","Nusa Dua, Indonesia",lost_nomads
+"""been""","Denpasar, Indonesia",lost_nomads
+"""been""","Porto, Portugal",lost_nomads
+"""been""","Woodburn, Australia",lost_nomads
+"""been""","Scottsdale, Australia",lost_nomads
+"""been""","Stoke Poges, UK",lost_nomads
+"""been""","Balmoral, Australia",lost_nomads
+"""been""","Helena, MT, USA",lost_nomads
+"""been""","Jamaica, Caribbean",lost_nomads
+"""been""","Takua Pa, Thailand",lost_nomads
+"""been""","Isla del Sol, Bolivia",lost_nomads
+"""been""","Baltimore, MD, USA",lost_nomads
+"""been""","Aguas Calientes, Peru",lost_nomads
+"""been""","Astoria, OR, USA",lost_nomads
+"""been""","Jacksonville, FL, USA",lost_nomads
+"""been""","Lititz, PA, USA",lost_nomads
+"""been""","Agra, India",lost_nomads
+"""been""","Port Arthur, Australia",lost_nomads
+"""been""","Swansea, Australia",lost_nomads
+"""been""","Strahan, Australia",lost_nomads
+"""been""","Stanley, Australia",lost_nomads
+"""been""","Ocho Rios, Jamaica",lost_nomads
+"""been""","Runaway Bay, Jamaica",lost_nomads
+"""been""","Pensacola, FL, USA",lost_nomads
+"""been""","Puerto Rico, Caribbean",lost_nomads
+"""been""","East Greenbush, NY, USA",lost_nomads
+"""been""","Madurai, India",lost_nomads
+"""been""","Cabazon, CA, USA",lost_nomads
+"""been""","Gerrards Cross, UK",lost_nomads
+"""been""","Merrijig, Australia",lost_nomads
+"""been""","St Helens, Australia",lost_nomads
+"""been""","Moruya, Australia",lost_nomads
+"""been""","Beaconsfield, UK",lost_nomads
+"""been""","San Juan, Puerto Rico",lost_nomads
+"""been"",""fave""","Litchfield, Australia",lost_nomads
+"""been""","Santa Monica, CA, USA",lost_nomads
+"""been""","Lucknow, Australia",lost_nomads
+"""been""","Caloundra, Australia",lost_nomads
+"""been""","Lauderdale-By-The-Sea, FL, USA",lost_nomads
+"""been""","Burleigh Heads, Australia",lost_nomads
+"""been""","Santa Rosa, CA, USA",lost_nomads
+"""been""","Callala Beach, Australia",lost_nomads
+"""been""","Cocoa Beach, FL, USA",lost_nomads
+"""been""","Ulladulla, Australia",lost_nomads
+"""been""","Tumut, Australia",lost_nomads
+"""been""","Portland, ME, USA",lost_nomads
+"""been""","Ollantaytambo, Peru",lost_nomads
+"""been""","Mandalay, Myanmar",lost_nomads
+"""been""","Prague, Czech Republic",lost_nomads
+"""been""","Cusco, Peru",lost_nomads
+"""been""","Arequipa, Peru",lost_nomads
+"""been""","Lima, Peru",lost_nomads
+"""been""","Albufeira, Portugal",lost_nomads
+"""been""","Werribee, Australia",lost_nomads
+"""been""","Algarve, Portugal",lost_nomads
+"""been""","Buenos Aires, Argentina",lost_nomads
+"""been""","Faro, Portugal",lost_nomads
+"""been""","Lagos, Portugal",lost_nomads
+"""been""","Lille, France",lost_nomads
+"""been""","Uki, Australia",lost_nomads
+"""been""","Auckland, New Zealand",lost_nomads
+"""been""","Bremerton, WA, USA",lost_nomads
+"""been""","Iver Heath, UK",lost_nomads
+"""been""","Santa Barbara, CA, USA",lost_nomads
+"""been""","Trinity Beach, Australia",lost_nomads
+"""been""","Greenhithe, UK",lost_nomads
+"""been""","Quito, Ecuador",lost_nomads
+"""been""","Tallinn, Estonia",lost_nomads
+"""been""","Marrickville, Australia",lost_nomads
+"""been""","Valparaiso, Chile",lost_nomads
+"""been""","Santiago, Chile",lost_nomads
+"""been""","Santa Cruz, CA, USA",lost_nomads
+"""been""","Forster, Australia",lost_nomads
+"""been""","Charlestown, Australia",lost_nomads
+"""been""","Cowra, Australia",lost_nomads
+"""been""","Paracas, Peru",lost_nomads
+"""been""","Cooma, Australia",lost_nomads
+"""been""","Seal Rocks, Australia",lost_nomads
+"""been""","Carrabelle, FL, USA",lost_nomads
+"""been""","Canoe, British Columbia, Canada",lost_nomads
+"""been""","Bushmills, UK",lost_nomads
+"""been""","Kempsey, Australia",lost_nomads
+"""been""","Katoomba, Australia",lost_nomads
+"""been""","Jindabyne, Australia",lost_nomads
+"""been""","Tyabb, Australia",lost_nomads
+"""been""","Glen Innes, Australia",lost_nomads
+"""been""","Phonsavan, Laos",lost_nomads
+"""been""","Carmel, CA, USA",lost_nomads
+"""been""","Carlsbad, CA, USA",lost_nomads
+"""been""","Muswellbrook, Australia",lost_nomads
+"""been""","Lismore, Australia",lost_nomads
+"""been""","San Jose, CA, USA",lost_nomads
+"""been""","Vang Vieng, Laos",lost_nomads
+"""been""","Leura, Australia",lost_nomads
+"""been""","Kissimmee, FL, USA",lost_nomads
+"""been""","Yarra, Australia",lost_nomads
+"""been""","Broadbeach, Australia",lost_nomads
+"""been""","Freedom, WY, USA",lost_nomads
+"""been""","Newport, OR, USA",lost_nomads
+"""been""","Dong Hoi, Vietnam",lost_nomads
+"""been""","South West Rocks, Australia",lost_nomads
+"""been""","Randwick, Australia",lost_nomads
+"""been""","Noosa, Australia",lost_nomads
+"""been""","Clyde, New Zealand",lost_nomads
+"""been""","Kailua-Kona, HI, USA",lost_nomads
+"""been""","Stow-on-the-Wold, UK",lost_nomads
+"""been""","Winterset, IA, USA",lost_nomads
+"""been""","Upper Slaughter, UK",lost_nomads
+"""been""","Busselton, Australia",lost_nomads
+"""been""","Seattle, WA, USA",lost_nomads
+"""been""","Washington DC, DC, USA",lost_nomads
+"""been""","Lakewood, WA, USA",lost_nomads
+"""been""","Bourton-on-the-Water, UK",lost_nomads
+"""been""","Cologne, Germany",lost_nomads
+"""been""","Mornington, Australia",lost_nomads
+"""been""","Tucumcari, NM, USA",lost_nomads
+"""been""","Blueys Beach, Australia",lost_nomads
+"""been""","Brighton, UK",lost_nomads
+"""been""","Hastings, UK",lost_nomads
+"""been""","Croydon, UK",lost_nomads
+"""been""","Lorne, Australia",lost_nomads
+"""been""","Kata Beach, Thailand",lost_nomads
+"""been""","Benalla, Australia",lost_nomads
+"""been""","Apollo Bay, Australia",lost_nomads
+"""been""","Mansfield, Australia",lost_nomads
+"""been""","Bicheno, Australia",lost_nomads
+"""been""","Callala Bay, Australia",lost_nomads
+"""been""","Nadi, Fiji",lost_nomads
+"""been""","Vina del Mar, Chile",lost_nomads
+"""been""","Lincoln City, OR, USA",lost_nomads
+"""been""","Forresters Beach, Australia",lost_nomads
+"""been""","Dresden, Germany",lost_nomads
+"""been""","Kingston upon Thames, UK",lost_nomads
+"""been""","Torquay, Australia",lost_nomads
+"""been""","Prahran, Australia",lost_nomads
+"""been""","Epsom, UK",lost_nomads
+"""been""","Luang Prabang, Laos",lost_nomads
+"""been""","Montevideo, Uruguay",lost_nomads
+"""been""","Portsmouth, UK",lost_nomads
+"""been"",""fave""","Paris, France",lost_nomads
+"""been""","Katherine, Australia",lost_nomads
+"""been""","Mildura, Australia",lost_nomads
+"""been""","Rye, Australia",lost_nomads
+"""been""","Taupo, New Zealand",lost_nomads
+"""been""","Lakes Entrance, Australia",lost_nomads
+"""been"",""fave""","Uluru-Kata Tjuta National Park, Australia",lost_nomads
+"""been""","Narooma, Australia",lost_nomads
+"""been""","Rotorua, New Zealand",lost_nomads
+"""been""","Da Nang, Vietnam",lost_nomads
+"""been""","Tennant Creek, Australia",lost_nomads
+"""been""","Nambucca Heads, Australia",lost_nomads
+"""been""","Blenheim, New Zealand",lost_nomads
+"""been""","Narrandera, Australia",lost_nomads
+"""been"",""want""","Bath, UK",lost_nomads
+"""been""","Hoi An, Vietnam",lost_nomads
+"""been""","Nimbin, Australia",lost_nomads
+"""been""","Wellington, New Zealand",lost_nomads
+"""been"",""fave""","Kakadu National Park, Australia",lost_nomads
+"""been""","Sale, Australia",lost_nomads
+"""been""","Nelson Bay, Australia",lost_nomads
+"""been""","Christchurch, New Zealand",lost_nomads
+"""been""","Mullumbimby, Australia",lost_nomads
+"""been""","Sutton, UK",lost_nomads
+"""been""","Moss Vale, Australia",lost_nomads
+"""been""","Sao Paulo, Brazil",lost_nomads
+"""been""","Oklahoma City, OK, USA",lost_nomads
+"""been""","Oxford, UK",lost_nomads
+"""been""","Henley-on-Thames, UK",lost_nomads
+"""been""","Reading, UK",lost_nomads
+"""been""","Bilbao, Spain",lost_nomads
+"""been""","Traralgon, Australia",lost_nomads
+"""been""","Sheffield, UK",lost_nomads
+"""been""","Swan Hill, Australia",lost_nomads
+"""been""","St Kilda, Australia",lost_nomads
+"""been""","Saint Francisville, LA, USA",lost_nomads
+"""been""","Kalgoorlie-Boulder, Australia",lost_nomads
+"""been""","Otaki, New Zealand",lost_nomads
+"""been""","Queenstown, New Zealand",lost_nomads
+"""been""","Warrnambool, Australia",lost_nomads
+"""been""","Sorrento, Australia",lost_nomads
+"""been""","Palmerston North, New Zealand",lost_nomads
+"""been""","Margaret River, Australia",lost_nomads
+"""been""","East Grinstead, UK",lost_nomads
+"""been""","Pyree, Australia",lost_nomads
+"""been""","Colonia del Sacramento, Uruguay",lost_nomads
+"""been""","Peak District National Park, UK",lost_nomads
+"""been""","Whangarei, New Zealand",lost_nomads
+"""been""","Sussex Inlet, Australia",lost_nomads
+"""been""","Wollongong, Australia",lost_nomads
+"""been""","Hanmer Springs, New Zealand",lost_nomads
+"""been""","Singleton, Australia",lost_nomads
+"""been""","Taree, Australia",lost_nomads
+"""been""","Tathra, Australia",lost_nomads
+"""been""","Tamworth, Australia",lost_nomads
+"""been""","Queanbeyan, Australia",lost_nomads
+"""been""","Guildford, UK",lost_nomads
+"""been""","Queenscliff, Australia",lost_nomads
+"""been""","Terrigal, Australia",lost_nomads
+"""been""","Semporna, Malaysia",lost_nomads
+"""been""","Temora, Australia",lost_nomads
+"""been""","Red Hill, Australia",lost_nomads
+"""been""","Mingun, Myanmar",lost_nomads
+"""been""","Scone, Australia",lost_nomads
+"""been""","Sawtell, Australia",lost_nomads
+"""been""","Moss Point, MS, USA",lost_nomads
+"""been""","Shellharbour, Australia",lost_nomads
+"""been""","Amarapura, Myanmar",lost_nomads
+"""been""","Bondi, Australia",lost_nomads
+"""been""","Bury St. Edmunds, UK",lost_nomads
+"""been""","Tullamarine, Australia",lost_nomads
+"""been"",""want""","Nice, France",lost_nomads
+"""been""","Newmarket, UK",lost_nomads
+"""been""","Kuantan, Malaysia",lost_nomads
+"""been""","Rosebud, Australia",lost_nomads
+"""been""","Ipoh, Malaysia",lost_nomads
+"""been""","Cabarita Beach, Australia",lost_nomads
+"""been""","Ocean Grove, Australia",lost_nomads
+"""been""","Launceston, Australia",lost_nomads
+"""been""","Jerantut, Malaysia",lost_nomads
+"""been"",""fave""","Melbourne, Australia",lost_nomads
+"""been""","Picton, Australia",lost_nomads
+"""been""","Eastpoint, FL, USA",lost_nomads
+"""been""","Glenelg, Australia",lost_nomads
+"""been""","Perisher Valley, Australia",lost_nomads
+"""been""","Raymond Terrace, Australia",lost_nomads
+"""been""","Auckland Central, New Zealand",lost_nomads
+"""been""","Bendigo, Australia",lost_nomads
+"""been""","Port Stephens, Australia",lost_nomads
+"""been""","Ballarat, Australia",lost_nomads
+"""been""","Perth, Australia",lost_nomads
+"""been""","Bairnsdale, Australia",lost_nomads
+"""been""","Robertson, Australia",lost_nomads
+"""been""","Napier, New Zealand",lost_nomads
+"""been""","Margaretville, NY, USA",lost_nomads
+"""been""","Echuca, Australia",lost_nomads
+"""been""","Nowra, Australia",lost_nomads
+"""been""","Pambula, Australia",lost_nomads
+"""been""","Dallas, TX, USA",lost_nomads
+"""been""","Cannes, France",lost_nomads
+"""been""","Glastonbury, UK",lost_nomads
+"""been""","Piraeus, Greece",lost_nomads
+"""been""","Kota Bharu, Malaysia",lost_nomads
+"""been""","Geelong, Australia",lost_nomads
+"""been""","Athens, Greece",lost_nomads
+"""been""","Woy Woy, Australia",lost_nomads
+"""been""","West Wyalong, Australia",lost_nomads
+"""been""","Keswick, UK",lost_nomads
+"""been""","Palm Springs, CA, USA",lost_nomads
+"""been""","Penrith, UK",lost_nomads
+"""been""","Florence, Italy",lost_nomads
+"""been""","Perth, UK",lost_nomads
+"""been""","Cobble Hill, British Columbia, Canada",lost_nomads
+"""been""","Mount Carmel, UT, USA",lost_nomads
+"""been""","Urunga, Australia",lost_nomads
+"""been""","Tweed Heads, Australia",lost_nomads
+"""been""","Dachau, Germany",lost_nomads
+"""been""","Queenstown, Australia",lost_nomads
+"""been""","Fingal, Australia",lost_nomads
+"""been""","The Entrance, Australia",lost_nomads
+"""been""","Thredbo Village, Australia",lost_nomads
+"""been""","Monument Valley, UT, USA",lost_nomads
+"""been""","Toronto, Australia",lost_nomads
+"""been""","Dover, UK",lost_nomads
+"""been""","Royal Tunbridge Wells, UK",lost_nomads
+"""been""","Sioux Falls, SD, USA",lost_nomads
+"""been""","Cessnock, Australia",lost_nomads
+"""been""","Canterbury, UK",lost_nomads
+"""been""","Mt Martha, Australia",lost_nomads
+"""been""","Jackson, WY, USA",lost_nomads
+"""been""","Kaikoura, New Zealand",lost_nomads
+"""been""","Niagara Falls, Ontario, Canada",lost_nomads
+"""been""","Northampton, UK",lost_nomads
+"""been""","Weymouth, UK",lost_nomads
+"""been""","Norwich, UK",lost_nomads
+"""been""","Yass, Australia",lost_nomads
+"""been""","Yamba, Australia",lost_nomads
+"""been""","Pascagoula, MS, USA",lost_nomads
+"""been""","Young, Australia",lost_nomads
+"""been""","Panguitch, UT, USA",lost_nomads
+"""been""","Clifton Beach, Australia",lost_nomads
+"""been"",""fave""","London, UK",lost_nomads
+"""been""","Windermere, UK",lost_nomads
+"""been""","Leicester, UK",lost_nomads
+"""been""","Siem Reap, Cambodia",lost_nomads
+"""been""","Baton Rouge, LA, USA",lost_nomads
+"""been""","Nanaimo, British Columbia, Canada",lost_nomads
+"""been""","Kamloops, British Columbia, Canada",lost_nomads
+"""been""","Leitrim, Ireland",lost_nomads
+"""been""","Long Beach, CA, USA",lost_nomads
+"""been""","Smiths Lake, Australia",lost_nomads
+"""been""","Edinburgh, UK",lost_nomads
+"""been""","Fort Bragg, CA, USA",lost_nomads
+"""been""","Fernie, British Columbia, Canada",lost_nomads
+"""been""","Whistler, British Columbia, Canada",lost_nomads
+"""been""","Victoria, British Columbia, Canada",lost_nomads
+"""been""","Vancouver, British Columbia, Canada",lost_nomads
+"""been""","Mykonos Town, Greece",lost_nomads
+"""been""","Tully, Australia",lost_nomads
+"""been""","Lamai Beach, Thailand",lost_nomads
+"""been""","Chennai (Madras), India",lost_nomads
+"""been""","Jaipur, India",lost_nomads
+"""been""","Portland, OR, USA",lost_nomads
+"""been""","Portobelo, Panama",lost_nomads
+"""been""","Maple Ridge, British Columbia, Canada",lost_nomads
+"""been""","Pensacola Beach, FL, USA",lost_nomads
+"""been""","Nairn, UK",lost_nomads
+"""been""","Sanary-sur-Mer, France",lost_nomads
+"""been""","Trang, Thailand",lost_nomads
+"""been""","Cronulla, Australia",lost_nomads
+"""been""","Inverness, UK",lost_nomads
+"""been""","Vincentia, Australia",lost_nomads
+"""been""","Ladysmith, British Columbia, Canada",lost_nomads
+"""been""","Mossman, Australia",lost_nomads
+"""been""","Forbes, Australia",lost_nomads
+"""been""","Alexandra, New Zealand",lost_nomads
+"""been""","Hermoupolis, Greece",lost_nomads
+"""been""","Glasgow, UK",lost_nomads
+"""been""","St. Andrews, UK",lost_nomads
+"""been""","Bellingen, Australia",lost_nomads
+"""been""","Calapan, Philippines",lost_nomads
+"""been""","Sir Bani Yas Island, United Arab Emirates",lost_nomads
+"""been""","Batangas City, Philippines",lost_nomads
+"""been""","Tinos, Greece",lost_nomads
+"""been""","Puno, Peru",lost_nomads
+"""been""","George Town, Cayman Islands",lost_nomads
+"""been""","Grand Cayman, Cayman Islands",lost_nomads
+"""been""","Seven Mile Beach, Cayman Islands",lost_nomads
+"""been""","Langkawi, Malaysia",lost_nomads
+"""been""","Kuranda, Australia",lost_nomads
+"""been""","Armidale, Australia",lost_nomads
+"""been""","Albury, Australia",lost_nomads
+"""been""","Scottsdale, AZ, USA",lost_nomads
+"""been""","Broken Hill, Australia",lost_nomads
+"""been""","Bathurst, Australia",lost_nomads
+"""been""","Batemans Bay, Australia",lost_nomads
+"""been""","La Barra, Uruguay",lost_nomads
+"""been""","Gap, PA, USA",lost_nomads
+"""been""","Benner, U.S. Virgin Islands",lost_nomads
+"""been""","Maroochydore, Australia",lost_nomads
+"""been""","Johor Bahru, Malaysia",lost_nomads
+"""been""","Marmaris, Turkey",lost_nomads
+"""been""","Seaside, FL, USA",lost_nomads
+"""been""","Ingham, Australia",lost_nomads
+"""been""","Grafton, Australia",lost_nomads
+"""been""","Goulburn, Australia",lost_nomads
+"""been""","Dubbo, Australia",lost_nomads
+"""been""","Magnetic Island, Australia",lost_nomads
+"""been""","Orange, Australia",lost_nomads
+"""been""","Newcastle, Australia",lost_nomads
+"""been""","Maitland, Australia",lost_nomads
+"""been""","Port Macquarie, Australia",lost_nomads
+"""been""","Pokolbin, Australia",lost_nomads
+"""been""","Parkes, Australia",lost_nomads
+"""been""","Sans Souci, Australia",lost_nomads
+"""been""","Innisfail, Australia",lost_nomads
+"""been""","Aberdeen, WA, USA",lost_nomads
+"""been""","Bright, Australia",lost_nomads
+"""been""","Lake Louise, Alberta, Canada",lost_nomads
+"""been""","Mount Buller, Australia",lost_nomads
+"""been""","Calgary, Alberta, Canada",lost_nomads
+"""been""","Banff, Alberta, Canada",lost_nomads
+"""been""","Puerto Vallarta, Mexico",lost_nomads
+"""been""","Ibiza Town, Spain",lost_nomads
+"""been""","New Delhi, India",lost_nomads
+"""been""","Mumbai, India",lost_nomads
+"""been""","Mudgee, Australia",lost_nomads
+"""been""","Daintree, Australia",lost_nomads
+"""been""","Las Vegas, NV, USA",lost_nomads
+"""been""","Cape Tribulation, Australia",lost_nomads
+"""been""","Foz do Iguacu, Brazil",lost_nomads
+"""been""","Ronks, PA, USA",lost_nomads
+"""been""","Kingsgrove, Australia",lost_nomads
+"""been""","Izmir, Turkey",lost_nomads
+"""been""","Pismo Beach, CA, USA",lost_nomads
+"""been""","Duncan, British Columbia, Canada",lost_nomads
+"""been""","Los Angeles, CA, USA",lost_nomads
+"""been""","Los Banos, CA, USA",lost_nomads

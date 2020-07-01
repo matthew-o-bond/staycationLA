@@ -1,0 +1,17 @@
+tag,place,user
+"""want""","Bar Harbor, ME, USA",cbor_10
+"""want""","Montreal, Quebec, Canada",cbor_10
+"""been""","Los Angeles, CA, USA",cbor_10
+"""want""","Fresno, CA, USA",cbor_10
+"""want""","Toronto, Ontario, Canada",cbor_10
+"""been""","Byron Bay, Australia",cbor_10
+"""want""","Flagstaff, AZ, USA",cbor_10
+"""been""","Philadelphia, PA, USA",cbor_10
+"""been""","Osaka, Japan",cbor_10
+"""want""","Panama City, Panama",cbor_10
+"""want""","Austin, TX, USA",cbor_10
+"""want""","Juneau, AK, USA",cbor_10
+"""want""","Jackson, WY, USA",cbor_10
+"""want""","Boston, MA, USA",cbor_10
+"""been""","Washington DC, DC, USA",cbor_10
+"""been""","Beijing, China",cbor_10

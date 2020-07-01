@@ -1,0 +1,373 @@
+tag,place,user
+"""been""","Huntington Station, NY, USA",StationToStation
+"""been""","Ashburton, New Zealand",StationToStation
+"""been""","Toyosu, Japan",StationToStation
+"""been""","Detroit, MI, USA",StationToStation
+"""been""","Mobile, AL, USA",StationToStation
+"""been""","Peterborough, Ontario, Canada",StationToStation
+"""been""","Sedona, AZ, USA",StationToStation
+"""been""","Scottsdale, AZ, USA",StationToStation
+"""been""","Utrecht, The Netherlands",StationToStation
+"""been""","Ladera Ranch, CA, USA",StationToStation
+"""been""","Salt Lake City, UT, USA",StationToStation
+"""been""","Dover, UK",StationToStation
+"""been""","Corpus Christi, TX, USA",StationToStation
+"""been""","Greenvale, NY, USA",StationToStation
+"""been""","Boise, ID, USA",StationToStation
+"""been""","Jacksonville, FL, USA",StationToStation
+"""been""","Myrtle Beach, SC, USA",StationToStation
+"""been""","Marina del Rey, CA, USA",StationToStation
+"""been""","Cleveland, OH, USA",StationToStation
+"""been""","Daiba, Japan",StationToStation
+"""been""","Vancouver, British Columbia, Canada",StationToStation
+"""been""","Simi Valley, CA, USA",StationToStation
+"""been""","Bordeaux, France",StationToStation
+"""been""","Lake San Marcos, CA, USA",StationToStation
+"""been""","Ocean City, MD, USA",StationToStation
+"""been""","Washington DC, DC, USA",StationToStation
+"""been""","Wilmington, DE, USA",StationToStation
+"""been""","Madrid, Spain",StationToStation
+"""been""","Indianapolis, IN, USA",StationToStation
+"""been""","West Chester, PA, USA",StationToStation
+"""been""","Dubai, United Arab Emirates",StationToStation
+"""been""","Novato, CA, USA",StationToStation
+"""been""","Dublin, CA, USA",StationToStation
+"""been""","Malibu, CA, USA",StationToStation
+"""been""","Lake Forest, IL, USA",StationToStation
+"""been""","Birmingham, AL, USA",StationToStation
+"""been""","Media, PA, USA",StationToStation
+"""been""","L'Hospitalet de Llobregat, Spain",StationToStation
+"""been""","Prince George, British Columbia, Canada",StationToStation
+"""been""","Pleasanton, CA, USA",StationToStation
+"""been""","Rotterdam, The Netherlands",StationToStation
+"""been""","Noosa, Australia",StationToStation
+"""been""","Kansas City, MO, USA",StationToStation
+"""been""","Minneapolis, MN, USA",StationToStation
+"""been""","London, UK",StationToStation
+"""been""","Bryn Mawr, PA, USA",StationToStation
+"""been""","Half Moon Bay, CA, USA",StationToStation
+"""been""","Mill Valley, CA, USA",StationToStation
+"""been""","Laguna Beach, CA, USA",StationToStation
+"""been""","Reno, NV, USA",StationToStation
+"""been""","Manhasset, NY, USA",StationToStation
+"""been""","Great Falls, MT, USA",StationToStation
+"""been""","Wayne, PA, USA",StationToStation
+"""been""","Lisbon, Portugal",StationToStation
+"""been""","Montgomery, AL, USA",StationToStation
+"""been""","Erie, PA, USA",StationToStation
+"""been""","Great Neck, NY, USA",StationToStation
+"""been""","Sea Cliff, NY, USA",StationToStation
+"""been""","Yountville, CA, USA",StationToStation
+"""been""","Quetzaltenango, Guatemala",StationToStation
+"""been""","Orlando, FL, USA",StationToStation
+"""been""","Huntington, NY, USA",StationToStation
+"""been""","Woodbury, NY, USA",StationToStation
+"""been""","La Jolla, CA, USA",StationToStation
+"""been""","Fairfield, CT, USA",StationToStation
+"""been""","El Dorado, CA, USA",StationToStation
+"""been""","Citrus Heights, CA, USA",StationToStation
+"""been""","Lima, Peru",StationToStation
+"""been""","Malmo, Sweden",StationToStation
+"""been""","Syosset, NY, USA",StationToStation
+"""been""","Syracuse, NY, USA",StationToStation
+"""been""","Singapore, Singapore",StationToStation
+"""been""","Niagara Falls, Ontario, Canada",StationToStation
+"""been""","Karlsruhe, Germany",StationToStation
+"""been""","Pass Christian, MS, USA",StationToStation
+"""been""","Mississauga, Ontario, Canada",StationToStation
+"""been""","Atlantic City, NJ, USA",StationToStation
+"""been""","Heidelberg, Germany",StationToStation
+"""been""","Tokyo, Japan",StationToStation
+"""been""","Eureka, CA, USA",StationToStation
+"""been""","Healdsburg, CA, USA",StationToStation
+"""been""","Cold Spring Harbor, NY, USA",StationToStation
+"""been""","Burlingame, CA, USA",StationToStation
+"""been""","Copperopolis, CA, USA",StationToStation
+"""been""","Burbank, CA, USA",StationToStation
+"""been""","Clayton, MO, USA",StationToStation
+"""been""","Lake Elsinore, CA, USA",StationToStation
+"""been""","Round Rock, TX, USA",StationToStation
+"""been""","Emeryville, CA, USA",StationToStation
+"""been""","Manchester, VT, USA",StationToStation
+"""been""","Lake Havasu City, AZ, USA",StationToStation
+"""been""","Salem, MA, USA",StationToStation
+"""been""","San Francisco, CA, USA",StationToStation
+"""been""","San Antonio, TX, USA",StationToStation
+"""been""","Montreal, Quebec, Canada",StationToStation
+"""been""","Mill Neck, NY, USA",StationToStation
+"""been""","Mumbai, India",StationToStation
+"""been""","Thousand Oaks, CA, USA",StationToStation
+"""been""","Escondido, CA, USA",StationToStation
+"""been""","New Delhi, India",StationToStation
+"""been""","Harrisburg, PA, USA",StationToStation
+"""been""","Lake Forest, CA, USA",StationToStation
+"""been""","Karekare, New Zealand",StationToStation
+"""been""","Christchurch, New Zealand",StationToStation
+"""been""","Bombay Beach, CA, USA",StationToStation
+"""been""","Manly, Australia",StationToStation
+"""been""","Menlo Park, CA, USA",StationToStation
+"""been""","Rancho Santa Margarita, CA, USA",StationToStation
+"""been""","Raleigh, NC, USA",StationToStation
+"""been""","Oslo, Norway",StationToStation
+"""been""","Calistoga, CA, USA",StationToStation
+"""been""","Walnut Creek, CA, USA",StationToStation
+"""been""","Calipatria, CA, USA",StationToStation
+"""been""","Bellaire, TX, USA",StationToStation
+"""been""","Niagara Falls, NY, USA",StationToStation
+"""been""","Flushing, NY, USA",StationToStation
+"""been""","Providence, RI, USA",StationToStation
+"""been""","Oyster Bay, NY, USA",StationToStation
+"""been""","Mendocino, CA, USA",StationToStation
+"""been""","Brooklyn, NY, USA",StationToStation
+"""been""","Mecca, CA, USA",StationToStation
+"""been""","Rotorua, New Zealand",StationToStation
+"""been""","Nashville, TN, USA",StationToStation
+"""been""","Bayville, NY, USA",StationToStation
+"""been""","Wellington, New Zealand",StationToStation
+"""been""","Jaibalito, Guatemala",StationToStation
+"""been""","Auckland Central, New Zealand",StationToStation
+"""been""","San Pedro La Laguna, Guatemala",StationToStation
+"""been""","Columbus, OH, USA",StationToStation
+"""been""","Mannheim, Germany",StationToStation
+"""been""","Oceanside, CA, USA",StationToStation
+"""been""","Martha's Vineyard, MA, USA",StationToStation
+"""been""","Buenos Aires, Argentina",StationToStation
+"""been""","Thunder Bay, Ontario, Canada",StationToStation
+"""been""","Milton Keynes, UK",StationToStation
+"""been""","Mexico City, Mexico",StationToStation
+"""been""","Toronto, Ontario, Canada",StationToStation
+"""been""","Yellowknife, Northwest Territories, Canada",StationToStation
+"""been""","Jericho, NY, USA",StationToStation
+"""been""","Oak Bluffs, MA, USA",StationToStation
+"""been""","Austin, TX, USA",StationToStation
+"""been""","Costa Mesa, CA, USA",StationToStation
+"""been""","Baltimore, MD, USA",StationToStation
+"""been""","Tampa, FL, USA",StationToStation
+"""been""","Coronado, CA, USA",StationToStation
+"""been""","Angels Camp, CA, USA",StationToStation
+"""been""","Albuquerque, NM, USA",StationToStation
+"""been""","Miami, FL, USA",StationToStation
+"""been""","Miami Beach, FL, USA",StationToStation
+"""been""","Sonora, CA, USA",StationToStation
+"""been""","Sonoma, CA, USA",StationToStation
+"""been""","Oakland, CA, USA",StationToStation
+"""been""","Melbourne, Australia",StationToStation
+"""been""","Anaheim, CA, USA",StationToStation
+"""been""","Perth, Australia",StationToStation
+"""been""","Solvang, CA, USA",StationToStation
+"""been""","Herzliya, Israel",StationToStation
+"""been""","Ocean City, NJ, USA",StationToStation
+"""been""","Larkspur, CA, USA",StationToStation
+"""been""","Shlomi, Israel",StationToStation
+"""been""","Copenhagen, Denmark",StationToStation
+"""been""","Palo Alto, CA, USA",StationToStation
+"""been""","Palm Springs, CA, USA",StationToStation
+"""been""","Palm Desert, CA, USA",StationToStation
+"""been""","Locust Valley, NY, USA",StationToStation
+"""been""","Stamford, CT, USA",StationToStation
+"""been""","Saint Paul, MN, USA",StationToStation
+"""been""","Long Beach, NY, USA",StationToStation
+"""been""","Glen Head, NY, USA",StationToStation
+"""been""","Glen Cove, NY, USA",StationToStation
+"""been""","New York City, NY, USA",StationToStation
+"""been""","San Clemente, CA, USA",StationToStation
+"""been""","Omaha, NE, USA",StationToStation
+"""been""","Little Rock, AR, USA",StationToStation
+"""been""","Springfield, IL, USA",StationToStation
+"""been""","Fort Lauderdale, FL, USA",StationToStation
+"""been""","Stockton, CA, USA",StationToStation
+"""been""","Ventura, CA, USA",StationToStation
+"""been""","Wayzata, MN, USA",StationToStation
+"""been""","Big Sur, CA, USA",StationToStation
+"""been""","Mission Viejo, CA, USA",StationToStation
+"""been""","Pacifica, CA, USA",StationToStation
+"""been""","West Hollywood, CA, USA",StationToStation
+"""been""","Cardiff-by-the-Sea, CA, USA",StationToStation
+"""been""","Milpitas, CA, USA",StationToStation
+"""been""","Gothenburg, Sweden",StationToStation
+"""been""","Millbrae, CA, USA",StationToStation
+"""been""","Roppongi, Japan",StationToStation
+"""been""","Redwood City, CA, USA",StationToStation
+"""been""","Azabujuban, Japan",StationToStation
+"""been""","Tewantin, Australia",StationToStation
+"""been""","San Diego, CA, USA",StationToStation
+"""been""","Roslyn, NY, USA",StationToStation
+"""been""","Cincinnati, OH, USA",StationToStation
+"""been""","Albany, NY, USA",StationToStation
+"""been""","Roslyn Heights, NY, USA",StationToStation
+"""been""","Salinas, CA, USA",StationToStation
+"""been""","Campbell, CA, USA",StationToStation
+"""been""","St. Helena, CA, USA",StationToStation
+"""been""","Cupertino, CA, USA",StationToStation
+"""been""","Seattle, WA, USA",StationToStation
+"""been""","Bondi, Australia",StationToStation
+"""been""","Fort Worth, TX, USA",StationToStation
+"""been""","Redding, CA, USA",StationToStation
+"""been""","Dublin, OH, USA",StationToStation
+"""been""","San Andreas, CA, USA",StationToStation
+"""been""","Bakersfield, CA, USA",StationToStation
+"""been""","Dana Point, CA, USA",StationToStation
+"""been""","Colorado Springs, CO, USA",StationToStation
+"""been""","South Lake Tahoe, CA, USA",StationToStation
+"""been""","Amsterdam, The Netherlands",StationToStation
+"""been""","Calais, France",StationToStation
+"""been""","Newark, NJ, USA",StationToStation
+"""been""","Beverly Hills, CA, USA",StationToStation
+"""been""","Charlotte, NC, USA",StationToStation
+"""been""","Paris, France",StationToStation
+"""been""","Zurich, Switzerland",StationToStation
+"""been""","Malvern, PA, USA",StationToStation
+"""been""","Lyon, France",StationToStation
+"""been""","Kennebunkport, ME, USA",StationToStation
+"""been""","Honolulu, HI, USA",StationToStation
+"""been""","Olympia, WA, USA",StationToStation
+"""been""","New Orleans, LA, USA",StationToStation
+"""been""","Berkeley, CA, USA",StationToStation
+"""been""","Boston, MA, USA",StationToStation
+"""been""","San Mateo, CA, USA",StationToStation
+"""been""","Sutter Creek, CA, USA",StationToStation
+"""been""","Pebble Beach, CA, USA",StationToStation
+"""been""","Roseville, CA, USA",StationToStation
+"""been""","Morro Bay, CA, USA",StationToStation
+"""been""","Morgan Hill, CA, USA",StationToStation
+"""been""","San Simeon, CA, USA",StationToStation
+"""been""","San Rafael, CA, USA",StationToStation
+"""been""","Paso Robles, CA, USA",StationToStation
+"""been""","Naperville, IL, USA",StationToStation
+"""been""","Rochester, NY, USA",StationToStation
+"""been""","Pasadena, CA, USA",StationToStation
+"""been""","Williams, AZ, USA",StationToStation
+"""been""","Garden City, NY, USA",StationToStation
+"""been""","Monterey, CA, USA",StationToStation
+"""been""","San Marcos La Laguna, Guatemala",StationToStation
+"""been""","Barcelona, Spain",StationToStation
+"""been""","Bloomington, MN, USA",StationToStation
+"""been""","Dusseldorf, Germany",StationToStation
+"""been""","Flagstaff, AZ, USA",StationToStation
+"""been""","Westbury, NY, USA",StationToStation
+"""been""","Cologne, Germany",StationToStation
+"""been""","Denver, CO, USA",StationToStation
+"""been""","Buffalo, NY, USA",StationToStation
+"""been""","Dublin, Ireland",StationToStation
+"""been""","San Juan Capistrano, CA, USA",StationToStation
+"""been""","Houston, TX, USA",StationToStation
+"""been""","Big Bear Lake, CA, USA",StationToStation
+"""been""","San Jose, CA, USA",StationToStation
+"""been""","Carmel Valley, CA, USA",StationToStation
+"""been""","Newport, RI, USA",StationToStation
+"""been""","Cork, Ireland",StationToStation
+"""been""","Carmel, CA, USA",StationToStation
+"""been""","Desert Hot Springs, CA, USA",StationToStation
+"""been""","Montauk, NY, USA",StationToStation
+"""been""","Edgartown, MA, USA",StationToStation
+"""been""","Carlsbad, CA, USA",StationToStation
+"""been""","Madison, WI, USA",StationToStation
+"""been""","Dallas, TX, USA",StationToStation
+"""been""","Antigua, Guatemala",StationToStation
+"""been""","Tel Aviv, Israel",StationToStation
+"""been""","San Luis Obispo, CA, USA",StationToStation
+"""been""","Sunnyvale, CA, USA",StationToStation
+"""been""","Jasper, Alberta, Canada",StationToStation
+"""been""","Ione, CA, USA",StationToStation
+"""been""","Long Beach, CA, USA",StationToStation
+"""been""","Berlin, Germany",StationToStation
+"""been""","Bodega Bay, CA, USA",StationToStation
+"""been""","Edmonton, Alberta, Canada",StationToStation
+"""been""","Guadalajara, Mexico",StationToStation
+"""been""","Las Vegas, NV, USA",StationToStation
+"""been""","Calgary, Alberta, Canada",StationToStation
+"""been""","Beltsville, MD, USA",StationToStation
+"""been""","Banff, Alberta, Canada",StationToStation
+"""been""","Port Washington, NY, USA",StationToStation
+"""been""","Santa Ysabel, CA, USA",StationToStation
+"""been""","Guatemala City, Guatemala",StationToStation
+"""been""","New Haven, CT, USA",StationToStation
+"""been""","Santa Rosa, CA, USA",StationToStation
+"""been""","Avalon, CA, USA",StationToStation
+"""been""","Tiburon, CA, USA",StationToStation
+"""been""","Santa Monica, CA, USA",StationToStation
+"""been""","Stanford, CA, USA",StationToStation
+"""been""","Woodside, CA, USA",StationToStation
+"""been""","Napa, CA, USA",StationToStation
+"""been""","San Jose, Costa Rica",StationToStation
+"""been""","Clearwater, FL, USA",StationToStation
+"""been""","Asakusa, Japan",StationToStation
+"""been""","Indian Wells, CA, USA",StationToStation
+"""been""","Fort Bragg, CA, USA",StationToStation
+"""been""","Murphys, CA, USA",StationToStation
+"""been""","King of Prussia, PA, USA",StationToStation
+"""been""","Saratoga, CA, USA",StationToStation
+"""been""","Phoenix, AZ, USA",StationToStation
+"""been""","Santiago, Chile",StationToStation
+"""been""","Mountain View, CA, USA",StationToStation
+"""been""","Saint Louis, MO, USA",StationToStation
+"""been""","Old Westbury, NY, USA",StationToStation
+"""been""","Koto, Japan",StationToStation
+"""been""","Chiyoda, Japan",StationToStation
+"""been""","Stockholm, Sweden",StationToStation
+"""been""","Pico Rivera, CA, USA",StationToStation
+"""been""","Chuo, Japan",StationToStation
+"""been""","Downers Grove, IL, USA",StationToStation
+"""been""","Silver Spring, MD, USA",StationToStation
+"""been""","Philadelphia, PA, USA",StationToStation
+"""been""","Rio de Janeiro, Brazil",StationToStation
+"""been""","Santa Clara, CA, USA",StationToStation
+"""been""","Santa Barbara, CA, USA",StationToStation
+"""been""","Gettysburg, PA, USA",StationToStation
+"""been""","Chofu, Japan",StationToStation
+"""been""","Temecula, CA, USA",StationToStation
+"""been""","Santa Ana, CA, USA",StationToStation
+"""been""","Mystic, CT, USA",StationToStation
+"""been""","Sacramento, CA, USA",StationToStation
+"""been""","Portland, OR, USA",StationToStation
+"""been""","Huntington Beach, CA, USA",StationToStation
+"""been""","Lakeland, FL, USA",StationToStation
+"""been""","Berlin, OH, USA",StationToStation
+"""been""","Petaluma, CA, USA",StationToStation
+"""been""","Santa Cruz, CA, USA",StationToStation
+"""been""","Shinjuku, Japan",StationToStation
+"""been""","Cherry Hill, NJ, USA",StationToStation
+"""been""","Des Peres, MO, USA",StationToStation
+"""been""","Pittsburgh, PA, USA",StationToStation
+"""been""","Athens, Greece",StationToStation
+"""been""","Osaka, Japan",StationToStation
+"""been""","Shibuya, Japan",StationToStation
+"""been""","Gilroy, CA, USA",StationToStation
+"""been""","Kyoto, Japan",StationToStation
+"""been""","Minato, Japan",StationToStation
+"""been""","Town and Country, MO, USA",StationToStation
+"""been""","Dayton, OH, USA",StationToStation
+"""been""","Rehoboth Beach, DE, USA",StationToStation
+"""been""","Newport Beach, CA, USA",StationToStation
+"""been""","Port Douglas, Australia",StationToStation
+"""been""","Sao Paulo, Brazil",StationToStation
+"""been""","Falkenberg, Sweden",StationToStation
+"""been""","Niland, CA, USA",StationToStation
+"""been""","Schriesheim, Germany",StationToStation
+"""been""","Havertown, PA, USA",StationToStation
+"""been""","Seoul, South Korea",StationToStation
+"""been""","Taito, Japan",StationToStation
+"""been""","Truckee, CA, USA",StationToStation
+"""been""","Milwaukee, WI, USA",StationToStation
+"""been""","Chicago, IL, USA",StationToStation
+"""been""","Hamburg, Germany",StationToStation
+"""been""","Henderson, NV, USA",StationToStation
+"""been""","Memphis, TN, USA",StationToStation
+"""been""","Annapolis, MD, USA",StationToStation
+"""been""","Portland, ME, USA",StationToStation
+"""been""","Louisville, KY, USA",StationToStation
+"""been""","Atlanta, GA, USA",StationToStation
+"""been""","Sydney, Australia",StationToStation
+"""been""","Frankfurt, Germany",StationToStation
+"""been""","Sausalito, CA, USA",StationToStation
+"""been""","Jamestown, CA, USA",StationToStation
+"""been""","Los Gatos, CA, USA",StationToStation
+"""been""","Darwin, Australia",StationToStation
+"""been""","Placerville, CA, USA",StationToStation
+"""been""","Jackson, CA, USA",StationToStation
+"""been""","Los Angeles, CA, USA",StationToStation
+"""been""","Brisbane, Australia",StationToStation
+"""been""","Los Altos, CA, USA",StationToStation
+"""been""","Fremont, CA, USA",StationToStation
+"""been""","Pismo Beach, CA, USA",StationToStation
+"""been""","Irvine, CA, USA",StationToStation

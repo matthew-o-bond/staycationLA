@@ -1,0 +1,605 @@
+tag,place,user
+"""been""","Warnemunde, Germany",KDG_TX
+"""been""","Copenhagen, Denmark",KDG_TX
+"""been""","Santa Fe, NM, USA",KDG_TX
+"""been""","San Francisco, CA, USA",KDG_TX
+"""been""","Stratford-upon-Avon, UK",KDG_TX
+"""been""","San Antonio, TX, USA",KDG_TX
+"""been""","Tucson, AZ, USA",KDG_TX
+"""been""","Ketchikan, AK, USA",KDG_TX
+"""been""","Grand Junction, CO, USA",KDG_TX
+"""been""","South Padre Island, TX, USA",KDG_TX
+"""been""","Grand Lake, CO, USA",KDG_TX
+"""been""","Pharr, TX, USA",KDG_TX
+"""been""","Arlington, TX, USA",KDG_TX
+"""been""","Big Spring, TX, USA",KDG_TX
+"""been""","Spicewood, TX, USA",KDG_TX
+"""been""","Sunset Point, FL, USA",KDG_TX
+"""been""","Burbank, CA, USA",KDG_TX
+"""been""","Madisonville, TX, USA",KDG_TX
+"""been""","Pipe Creek, TX, USA",KDG_TX
+"""been""","Mabank, TX, USA",KDG_TX
+"""want""","Bar Harbor, ME, USA",KDG_TX
+"""been""","Luckenbach, TX, USA",KDG_TX
+"""been""","Fairbanks, AK, USA",KDG_TX
+"""been""","Nice, France",KDG_TX
+"""been""","Crete, Greece",KDG_TX
+"""been""","Estes Park, CO, USA",KDG_TX
+"""been""","Fredericksburg, VA, USA",KDG_TX
+"""been""","Esparza, Costa Rica",KDG_TX
+"""been""","Monte-Carlo, Monaco",KDG_TX
+"""been""","Anaheim, CA, USA",KDG_TX
+"""been""","Canon City, CO, USA",KDG_TX
+"""been""","Belton, TX, USA",KDG_TX
+"""been""","Whittier, AK, USA",KDG_TX
+"""been""","Austin, TX, USA",KDG_TX
+"""been""","Los Fresnos, TX, USA",KDG_TX
+"""been""","Hermosa Beach, CA, USA",KDG_TX
+"""been""","Athens, TX, USA",KDG_TX
+"""been""","Sonora, TX, USA",KDG_TX
+"""been""","Rockwall, TX, USA",KDG_TX
+"""been""","Tampa, FL, USA",KDG_TX
+"""been""","Sonoma, CA, USA",KDG_TX
+"""been""","Miami Beach, FL, USA",KDG_TX
+"""been""","Cedar Hill, TX, USA",KDG_TX
+"""been""","Miami, FL, USA",KDG_TX
+"""been""","Yakutat, AK, USA",KDG_TX
+"""been""","Solvang, CA, USA",KDG_TX
+"""been""","Mountain Home, TX, USA",KDG_TX
+"""been""","Stowe, VT, USA",KDG_TX
+"""been""","Newark, NJ, USA",KDG_TX
+"""been""","Athens, Greece",KDG_TX
+"""been""","Piraeus, Greece",KDG_TX
+"""been""","Hanapepe, HI, USA",KDG_TX
+"""been""","Hot Springs, AR, USA",KDG_TX
+"""been""","Hanalei, HI, USA",KDG_TX
+"""been""","Big Bend National Park, TX, USA",KDG_TX
+"""been""","Buffalo, NY, USA",KDG_TX
+"""been""","New Braunfels, TX, USA",KDG_TX
+"""been""","Flagstaff, AZ, USA",KDG_TX
+"""been""","Calistoga, CA, USA",KDG_TX
+"""been""","Maalaea, HI, USA",KDG_TX
+"""been""","Burlington, VT, USA",KDG_TX
+"""been""","Marfa, TX, USA",KDG_TX
+"""been""","Walt Disney World, FL, USA",KDG_TX
+"""been""","Port Bolivar, TX, USA",KDG_TX
+"""been""","Marshall, TX, USA",KDG_TX
+"""been""","Port Isabel, TX, USA",KDG_TX
+"""been""","Ladonia, TX, USA",KDG_TX
+"""been""","Port Aransas, TX, USA",KDG_TX
+"""been""","Tacoma, WA, USA",KDG_TX
+"""been""","Marquez, TX, USA",KDG_TX
+"""been""","Montpelier, VT, USA",KDG_TX
+"""been""","Delphi, Greece",KDG_TX
+"""been""","Lago Vista, TX, USA",KDG_TX
+"""been""","Avignon, France",KDG_TX
+"""been""","Greensboro, NC, USA",KDG_TX
+"""been""","Oxford, UK",KDG_TX
+"""been""","Rosser, TX, USA",KDG_TX
+"""been""","St. Helena, CA, USA",KDG_TX
+"""been""","Colorado Springs, CO, USA",KDG_TX
+"""been""","Blanco, TX, USA",KDG_TX
+"""been""","Round Rock, TX, USA",KDG_TX
+"""been""","Plano, TX, USA",KDG_TX
+"""been""","Malakoff, TX, USA",KDG_TX
+"""been""","Blooming Grove, TX, USA",KDG_TX
+"""been""","Round Mountain, TX, USA",KDG_TX
+"""been""","Matamoros, Mexico",KDG_TX
+"""been""","Mansfield, TX, USA",KDG_TX
+"""been""","Kyle, TX, USA",KDG_TX
+"""been""","Rowlett, TX, USA",KDG_TX
+"""been""","Marble Falls, TX, USA",KDG_TX
+"""been""","Bakersfield, CA, USA",KDG_TX
+"""been""","Marathon, TX, USA",KDG_TX
+"""been""","La Grange, TX, USA",KDG_TX
+"""been""","Waterbury, VT, USA",KDG_TX
+"""been""","Richland, TX, USA",KDG_TX
+"""been""","Berlin, Germany",KDG_TX
+"""been""","Tool, TX, USA",KDG_TX
+"""been""","Niagara Falls, Ontario, Canada",KDG_TX
+"""been""","Niagara-on-the-Lake, Ontario, Canada",KDG_TX
+"""been""","Addison, TX, USA",KDG_TX
+"""been""","Redford, TX, USA",KDG_TX
+"""been""","Wichita Falls, TX, USA",KDG_TX
+"""been""","Willow City, TX, USA",KDG_TX
+"""been""","Bardwell, TX, USA",KDG_TX
+"""been""","Steamboat Springs, CO, USA",KDG_TX
+"""been""","Manitou Springs, CO, USA",KDG_TX
+"""been""","Marina del Rey, CA, USA",KDG_TX
+"""been""","Richardson, TX, USA",KDG_TX
+"""been""","Aix-en-Provence, France",KDG_TX
+"""been""","Palestine, TX, USA",KDG_TX
+"""been""","Wilmer, TX, USA",KDG_TX
+"""been""","Palmer, TX, USA",KDG_TX
+"""been""","Rice, TX, USA",KDG_TX
+"""been""","Myrtle Beach, SC, USA",KDG_TX
+"""been""","Ozona, TX, USA",KDG_TX
+"""been""","Rome, Italy",KDG_TX
+"""been""","Bandera, TX, USA",KDG_TX
+"""been""","Red Oak, TX, USA",KDG_TX
+"""been""","Ovilla, TX, USA",KDG_TX
+"""want""","Reykjavik, Iceland",KDG_TX
+"""been""","Vatican City, Vatican City",KDG_TX
+"""been""","Stockholm, Sweden",KDG_TX
+"""been""","Djurgarden, Sweden",KDG_TX
+"""been""","Gamboa, Panama",KDG_TX
+"""been""","Carrizozo, NM, USA",KDG_TX
+"""want""","Cardiff, UK",KDG_TX
+"""been""","Kapalua, HI, USA",KDG_TX
+"""been""","Texarkana, TX, USA",KDG_TX
+"""been""","Schulenburg, TX, USA",KDG_TX
+"""been""","Texas City, TX, USA",KDG_TX
+"""been""","Otrokovice, Czech Republic",KDG_TX
+"""been""","Arkadelphia, AR, USA",KDG_TX
+"""been""","Allen, TX, USA",KDG_TX
+"""been""","Whitewright, TX, USA",KDG_TX
+"""been""","Ore City, TX, USA",KDG_TX
+"""been""","Coppell, TX, USA",KDG_TX
+"""been""","Copperas Cove, TX, USA",KDG_TX
+"""been""","The Colony, TX, USA",KDG_TX
+"""been""","Orlando, FL, USA",KDG_TX
+"""been""","Yountville, CA, USA",KDG_TX
+"""been""","Burnet, TX, USA",KDG_TX
+"""been""","Thornton, TX, USA",KDG_TX
+"""been""","Puntarenas, Costa Rica",KDG_TX
+"""been""","Alpine, TX, USA",KDG_TX
+"""been""","Elm Mott, TX, USA",KDG_TX
+"""been""","Corsicana, TX, USA",KDG_TX
+"""been""","Scurry, TX, USA",KDG_TX
+"""been""","Burleson, TX, USA",KDG_TX
+"""been""","Whitney, TX, USA",KDG_TX
+"""been""","Balch Springs, TX, USA",KDG_TX
+"""been""","Fort Smith, AR, USA",KDG_TX
+"""been""","Capri, Italy",KDG_TX
+"""been""","Naples, Italy",KDG_TX
+"""been""","Pompeii, Italy",KDG_TX
+"""been""","Albuquerque, NM, USA",KDG_TX
+"""been""","Monroeville, NJ, USA",KDG_TX
+"""been""","Baltimore, MD, USA",KDG_TX
+"""been""","Canyon, TX, USA",KDG_TX
+"""been""","London, UK",KDG_TX
+"""been""","Alvarado, TX, USA",KDG_TX
+"""want""","Liverpool, UK",KDG_TX
+"""been""","Tyler, TX, USA",KDG_TX
+"""been""","Carrollton, TX, USA",KDG_TX
+"""been""","Half Moon Bay, CA, USA",KDG_TX
+"""been""","Amarillo, TX, USA",KDG_TX
+"""been""","Sisterdale, TX, USA",KDG_TX
+"""been""","Trinidad, CO, USA",KDG_TX
+"""been""","Jacksonville, FL, USA",KDG_TX
+"""been""","Marathon Shores, FL, USA",KDG_TX
+"""been""","Fort Davis, TX, USA",KDG_TX
+"""been""","Brownsville, TX, USA",KDG_TX
+"""been""","Florence, Italy",KDG_TX
+"""been""","Corpus Christi, TX, USA",KDG_TX
+"""want""","Salt Lake City, UT, USA",KDG_TX
+"""been""","Cloudcroft, NM, USA",KDG_TX
+"""been""","Monument, CO, USA",KDG_TX
+"""been""","Juneau, AK, USA",KDG_TX
+"""been""","Lake Havasu City, AZ, USA",KDG_TX
+"""been""","Tow, TX, USA",KDG_TX
+"""been""","Calvert, TX, USA",KDG_TX
+"""been""","Anna, TX, USA",KDG_TX
+"""been""","Sheffield, TX, USA",KDG_TX
+"""been""","Glenwood Springs, CO, USA",KDG_TX
+"""been""","Golden, CO, USA",KDG_TX
+"""been""","Trinidad, TX, USA",KDG_TX
+"""been""","Paris, TX, USA",KDG_TX
+"""been""","Mount Vernon, VA, USA",KDG_TX
+"""been""","Pisa, Italy",KDG_TX
+"""been""","Sherman, TX, USA",KDG_TX
+"""been""","Crystal Beach, TX, USA",KDG_TX
+"""been""","Monahans, TX, USA",KDG_TX
+"""been""","Canton, TX, USA",KDG_TX
+"""been""","Boulder, CO, USA",KDG_TX
+"""been""","San Marcos, TX, USA",KDG_TX
+"""been""","Sweetwater, TX, USA",KDG_TX
+"""been""","College Station, TX, USA",KDG_TX
+"""been""","Bella Vista, AR, USA",KDG_TX
+"""been""","Long Beach, CA, USA",KDG_TX
+"""been""","Needles, CA, USA",KDG_TX
+"""been""","Laughlin, NV, USA",KDG_TX
+"""been""","Las Vegas, NV, USA",KDG_TX
+"""been""","Dover, UK",KDG_TX
+"""been""","Waxahachie, TX, USA",KDG_TX
+"""been""","Garland, TX, USA",KDG_TX
+"""been""","Napa, CA, USA",KDG_TX
+"""been""","Dryden, TX, USA",KDG_TX
+"""been""","Gatesville, TX, USA",KDG_TX
+"""been""","Cockrell Hill, TX, USA",KDG_TX
+"""been""","Brenham, TX, USA",KDG_TX
+"""been""","Alexandria, VA, USA",KDG_TX
+"""been""","Weatherford, TX, USA",KDG_TX
+"""been""","Bremond, TX, USA",KDG_TX
+"""been""","Galveston, TX, USA",KDG_TX
+"""been""","Cleburne, TX, USA",KDG_TX
+"""been""","Venice, Italy",KDG_TX
+"""been""","East Saint Louis, IL, USA",KDG_TX
+"""been""","Chicago, IL, USA",KDG_TX
+"""been""","San Angelo, TX, USA",KDG_TX
+"""been""","Lafayette, LA, USA",KDG_TX
+"""want""","Gibraltar, Europe",KDG_TX
+"""been""","Victoria, British Columbia, Canada",KDG_TX
+"""want""","Inverness, UK",KDG_TX
+"""been""","St. George's, Grenada",KDG_TX
+"""been""","Baton Rouge, LA, USA",KDG_TX
+"""been""","Punta Cana, Dominican Republic",KDG_TX
+"""been""","Vancouver, British Columbia, Canada",KDG_TX
+"""been""","Vancouver Island, British Columbia, Canada",KDG_TX
+"""been""","Ka'anapali, HI, USA",KDG_TX
+"""been""","Hillsboro, TX, USA",KDG_TX
+"""been""","Frisco, TX, USA",KDG_TX
+"""been""","Bonham, TX, USA",KDG_TX
+"""been""","Clarksville, TX, USA",KDG_TX
+"""been""","Brindisi, Italy",KDG_TX
+"""been""","Los Angeles, CA, USA",KDG_TX
+"""been""","Frost, TX, USA",KDG_TX
+"""been""","Helsinki, Finland",KDG_TX
+"""been""","Salado, TX, USA",KDG_TX
+"""been""","Bentonville, AR, USA",KDG_TX
+"""been""","Lajitas, TX, USA",KDG_TX
+"""been""","Gainesville, TX, USA",KDG_TX
+"""been""","Ranger, TX, USA",KDG_TX
+"""been""","Terrell, TX, USA",KDG_TX
+"""been""","Glen Ellen, CA, USA",KDG_TX
+"""been""","Minneapolis, MN, USA",KDG_TX
+"""been""","Biloxi, MS, USA",KDG_TX
+"""been""","Joplin, MO, USA",KDG_TX
+"""been""","Kansas City, MO, USA",KDG_TX
+"""want""","Halifax, Nova Scotia, Canada",KDG_TX
+"""been""","Windsor, UK",KDG_TX
+"""been""","Los Olivos, CA, USA",KDG_TX
+"""been""","Bryan, TX, USA",KDG_TX
+"""been""","Temple, TX, USA",KDG_TX
+"""been""","Eddy, TX, USA",KDG_TX
+"""been""","Bruceville, TX, USA",KDG_TX
+"""been""","Arlington, VA, USA",KDG_TX
+"""been""","Buda, TX, USA",KDG_TX
+"""been""","Terlingua, TX, USA",KDG_TX
+"""been""","Buffalo, TX, USA",KDG_TX
+"""been""","Buchanan Dam, TX, USA",KDG_TX
+"""been""","Conroe, TX, USA",KDG_TX
+"""been""","Fairfax, VA, USA",KDG_TX
+"""been""","Commerce, TX, USA",KDG_TX
+"""been""","Goleta, CA, USA",KDG_TX
+"""been""","Saint Louis, MO, USA",KDG_TX
+"""been""","Sanibel Island, FL, USA",KDG_TX
+"""been""","Woodstown, NJ, USA",KDG_TX
+"""been""","Bossier City, LA, USA",KDG_TX
+"""been""","Eureka Springs, AR, USA",KDG_TX
+"""want""","Edinburgh, UK",KDG_TX
+"""been""","Georgetown, TX, USA",KDG_TX
+"""been""","Duncanville, TX, USA",KDG_TX
+"""been""","Malibu, CA, USA",KDG_TX
+"""been""","Sanderson, TX, USA",KDG_TX
+"""been""","Colorado City, TX, USA",KDG_TX
+"""been""","Princeton, TX, USA",KDG_TX
+"""been""","Fayetteville, AR, USA",KDG_TX
+"""been""","Abilene, TX, USA",KDG_TX
+"""been""","Eastland, TX, USA",KDG_TX
+"""been""","Comfort, TX, USA",KDG_TX
+"""been""","Abbott, TX, USA",KDG_TX
+"""been""","West, TX, USA",KDG_TX
+"""been""","Vanderpool, TX, USA",KDG_TX
+"""been""","Decatur, TX, USA",KDG_TX
+"""been""","Centerville, TX, USA",KDG_TX
+"""been""","Venus, TX, USA",KDG_TX
+"""been""","Seven Points, TX, USA",KDG_TX
+"""been""","Bridgetown, Barbados",KDG_TX
+"""been""","Puerto Vallarta, Mexico",KDG_TX
+"""been""","Harlingen, TX, USA",KDG_TX
+"""been""","Flower Mound, TX, USA",KDG_TX
+"""been""","Van Alstyne, TX, USA",KDG_TX
+"""been""","Harleton, TX, USA",KDG_TX
+"""been""","Ferris, TX, USA",KDG_TX
+"""been""","Valentine, TX, USA",KDG_TX
+"""been""","Woodland Park, CO, USA",KDG_TX
+"""been""","Monterey, CA, USA",KDG_TX
+"""been""","Pasadena, CA, USA",KDG_TX
+"""been""","Laguna Vista, TX, USA",KDG_TX
+"""been""","St. Kitts, St. Kitts and Nevis",KDG_TX
+"""been""","Nuevo Laredo, Mexico",KDG_TX
+"""been""","Monterrey, Mexico",KDG_TX
+"""been""","Hamilton, TX, USA",KDG_TX
+"""been""","Lockport, NY, USA",KDG_TX
+"""been""","Winter Park, CO, USA",KDG_TX
+"""been""","Wylie, TX, USA",KDG_TX
+"""been""","Wortham, TX, USA",KDG_TX
+"""been""","Dallas, TX, USA",KDG_TX
+"""been""","Fate, TX, USA",KDG_TX
+"""been""","Uncertain, TX, USA",KDG_TX
+"""been""","Calais, France",KDG_TX
+"""been""","Kauai, HI, USA",KDG_TX
+"""been""","Cisco, TX, USA",KDG_TX
+"""been""","Stonewall, TX, USA",KDG_TX
+"""been""","Pebble Beach, CA, USA",KDG_TX
+"""been""","Mena, AR, USA",KDG_TX
+"""been""","Yuma, AZ, USA",KDG_TX
+"""been""","De Queen, AR, USA",KDG_TX
+"""been""","Roseau, Dominica",KDG_TX
+"""been""","Island of Hawaii, HI, USA",KDG_TX
+"""been""","Cabo San Lucas, Mexico",KDG_TX
+"""been""","Maui, HI, USA",KDG_TX
+"""been""","Fredericksburg, TX, USA",KDG_TX
+"""been""","University Park, TX, USA",KDG_TX
+"""been""","Franklin, TX, USA",KDG_TX
+"""been""","Hewitt, TX, USA",KDG_TX
+"""been""","Genoa, Italy",KDG_TX
+"""been""","Highland Village, TX, USA",KDG_TX
+"""been""","Waco, TX, USA",KDG_TX
+"""been""","Pueblo, CO, USA",KDG_TX
+"""been""","Fort Worth, TX, USA",KDG_TX
+"""been""","DeSoto, TX, USA",KDG_TX
+"""want""","Mont-Saint-Michel, France",KDG_TX
+"""been""","Sacramento, CA, USA",KDG_TX
+"""been""","Childress, TX, USA",KDG_TX
+"""been""","Oahu, HI, USA",KDG_TX
+"""been""","Forreston, TX, USA",KDG_TX
+"""been""","Denison, TX, USA",KDG_TX
+"""been""","Huntington Beach, CA, USA",KDG_TX
+"""been""","Hearne, TX, USA",KDG_TX
+"""been""","Forney, TX, USA",KDG_TX
+"""been""","Fort Stockton, TX, USA",KDG_TX
+"""been""","Chatfield, TX, USA",KDG_TX
+"""been""","Soderholm, Sweden",KDG_TX
+"""been""","Denton, TX, USA",KDG_TX
+"""been""","Helotes, TX, USA",KDG_TX
+"""been""","Spring, TX, USA",KDG_TX
+"""been""","South Lake Tahoe, CA, USA",KDG_TX
+"""been""","Marigot, St Martin \u002F St Maarten",KDG_TX
+"""been""","Karlovy Vary, Czech Republic",KDG_TX
+"""been""","Philipsburg, St Martin \u002F St Maarten",KDG_TX
+"""been""","Zlin, Czech Republic",KDG_TX
+"""been""","Alexandria, Egypt",KDG_TX
+"""been""","Ennis, TX, USA",KDG_TX
+"""been""","Castries, St. Lucia",KDG_TX
+"""been""","Atlantic City, NJ, USA",KDG_TX
+"""been""","Slidell, LA, USA",KDG_TX
+"""been""","Yosemite National Park, CA, USA",KDG_TX
+"""been""","Puerto Morelos, Mexico",KDG_TX
+"""been""","Big Sur, CA, USA",KDG_TX
+"""been""","Colon, Panama",KDG_TX
+"""been""","Oklahoma City, OK, USA",KDG_TX
+"""been""","Puerto Quetzal, Guatemala",KDG_TX
+"""been""","Texarkana, AR, USA",KDG_TX
+"""been""","Granbury, TX, USA",KDG_TX
+"""been""","Durant, OK, USA",KDG_TX
+"""been""","Grand Prairie, TX, USA",KDG_TX
+"""been""","High Rolls Mountain Park, NM, USA",KDG_TX
+"""been""","Alamogordo, NM, USA",KDG_TX
+"""been""","Shreveport, LA, USA",KDG_TX
+"""been""","Oakland, CA, USA",KDG_TX
+"""want""","Roswell, NM, USA",KDG_TX
+"""been""","Palm - Eagle Beach, Aruba",KDG_TX
+"""been""","Oranjestad, Aruba",KDG_TX
+"""been""","Charlotte, NC, USA",KDG_TX
+"""been""","Las Cruces, NM, USA",KDG_TX
+"""been""","Farmers Branch, TX, USA",KDG_TX
+"""been""","Cartagena, Colombia",KDG_TX
+"""been""","Farmersville, TX, USA",KDG_TX
+"""want""","Kennebunkport, ME, USA",KDG_TX
+"""been""","Natchitoches, LA, USA",KDG_TX
+"""been""","Assisi, Italy",KDG_TX
+"""been""","Fairfield, TX, USA",KDG_TX
+"""been""","Fairview, TX, USA",KDG_TX
+"""been""","Siena, Italy",KDG_TX
+"""been""","Gun Barrel City, TX, USA",KDG_TX
+"""been""","Broken Bow, OK, USA",KDG_TX
+"""been""","La Luz, NM, USA",KDG_TX
+"""been""","Eustace, TX, USA",KDG_TX
+"""been""","Eufaula, OK, USA",KDG_TX
+"""been""","Groesbeck, TX, USA",KDG_TX
+"""been""","Oxnard, CA, USA",KDG_TX
+"""been""","Evant, TX, USA",KDG_TX
+"""been""","Thackerville, OK, USA",KDG_TX
+"""been""","Crown Point, IN, USA",KDG_TX
+"""been""","Castel Gandolfo, Italy",KDG_TX
+"""been""","Grapevine, TX, USA",KDG_TX
+"""been""","Greenville, TX, USA",KDG_TX
+"""been""","Organ, NM, USA",KDG_TX
+"""been""","Murphy, TX, USA",KDG_TX
+"""been""","Mobile, AL, USA",KDG_TX
+"""been""","Bennington, VT, USA",KDG_TX
+"""been""","Midlothian, IL, USA",KDG_TX
+"""been""","Kosse, TX, USA",KDG_TX
+"""been""","Mayfield, KY, USA",KDG_TX
+"""been""","St. Petersburg, Russia",KDG_TX
+"""been""","Nassau, Bahamas",KDG_TX
+"""been""","Mountain Home, AR, USA",KDG_TX
+"""been""","Whites City, NM, USA",KDG_TX
+"""been""","Hilo, HI, USA",KDG_TX
+"""been""","Dubina, TX, USA",KDG_TX
+"""been""","Tabor, Czech Republic",KDG_TX
+"""been""","Davis, OK, USA",KDG_TX
+"""been""","Glenn Heights, TX, USA",KDG_TX
+"""been""","Norman, OK, USA",KDG_TX
+"""been""","Raton, NM, USA",KDG_TX
+"""been""","Glen Rose, TX, USA",KDG_TX
+"""been""","Schaffhausen, Switzerland",KDG_TX
+"""been""","Ardmore, OK, USA",KDG_TX
+"""been""","Niagara Falls, NY, USA",KDG_TX
+"""been""","Muskogee, OK, USA",KDG_TX
+"""been""","Sipoo, Finland",KDG_TX
+"""been""","Lucerne, Switzerland",KDG_TX
+"""been""","Cleveland, OH, USA",KDG_TX
+"""been""","Glacier Bay National Park and Preserve, AK, USA",KDG_TX
+"""been""","Everglades National Park, FL, USA",KDG_TX
+"""been""","Denali National Park and Preserve, AK, USA",KDG_TX
+"""been""","Highland Park, TX, USA",KDG_TX
+"""been""","Llano, TX, USA",KDG_TX
+"""been""","Karnack, TX, USA",KDG_TX
+"""been""","Rutland, VT, USA",KDG_TX
+"""been""","Philadelphia, PA, USA",KDG_TX
+"""been""","Sunset Beach, HI, USA",KDG_TX
+"""been""","Santa Ynez, CA, USA",KDG_TX
+"""been""","Milford, TX, USA",KDG_TX
+"""been""","Jonesville, TX, USA",KDG_TX
+"""been""","Junction, TX, USA",KDG_TX
+"""been""","Little Elm, TX, USA",KDG_TX
+"""been""","Clearwater, FL, USA",KDG_TX
+"""been""","Santa Monica, CA, USA",KDG_TX
+"""been""","Justin, TX, USA",KDG_TX
+"""been""","Vaduz, Liechtenstein",KDG_TX
+"""been""","Grand Canyon National Park, AZ, USA",KDG_TX
+"""been""","South Bend, IN, USA",KDG_TX
+"""been""","Stateline, NV, USA",KDG_TX
+"""been""","Mexia, TX, USA",KDG_TX
+"""been""","Jarrell, TX, USA",KDG_TX
+"""been""","Lewisville, TX, USA",KDG_TX
+"""been""","Midland, TX, USA",KDG_TX
+"""been""","Torrance, CA, USA",KDG_TX
+"""been""","Midlothian, TX, USA",KDG_TX
+"""been""","Jewett, TX, USA",KDG_TX
+"""been""","Jefferson, TX, USA",KDG_TX
+"""been""","Memphis, TN, USA",KDG_TX
+"""been""","Middletown, DE, USA",KDG_TX
+"""been""","Carlsbad Caverns National Park, NM, USA",KDG_TX
+"""been""","Tularosa, NM, USA",KDG_TX
+"""been""","Rocky Mountain National Park, CO, USA",KDG_TX
+"""been""","Panama City, Panama",KDG_TX
+"""been""","Charlotte Amalie, U.S. Virgin Islands",KDG_TX
+"""been""","St. Thomas, U.S. Virgin Islands",KDG_TX
+"""been""","Corinth, Greece",KDG_TX
+"""been""","McAlester, OK, USA",KDG_TX
+"""been""","Tulum, Mexico",KDG_TX
+"""been""","Olympia, Greece",KDG_TX
+"""been""","Mycenae, Greece",KDG_TX
+"""want""","Truth or Consequences, NM, USA",KDG_TX
+"""been""","Oslo, Norway",KDG_TX
+"""been""","Killeen, TX, USA",KDG_TX
+"""been""","Playa del Carmen, Mexico",KDG_TX
+"""been""","Isla Mujeres, Mexico",KDG_TX
+"""been""","Longview, TX, USA",KDG_TX
+"""been""","Kerrville, TX, USA",KDG_TX
+"""been""","Kerens, TX, USA",KDG_TX
+"""been""","Mesilla, NM, USA",KDG_TX
+"""been""","Haleakala National Park, HI, USA",KDG_TX
+"""been""","Hawaii Volcanoes National Park, HI, USA",KDG_TX
+"""been""","Cozumel, Mexico",KDG_TX
+"""been""","Lincoln, NH, USA",KDG_TX
+"""been""","Cancun, Mexico",KDG_TX
+"""been""","Washington DC, DC, USA",KDG_TX
+"""been""","Toronto, Ontario, Canada",KDG_TX
+"""been""","Mesquite, NM, USA",KDG_TX
+"""been""","Kaufman, TX, USA",KDG_TX
+"""been""","Shelburne, VT, USA",KDG_TX
+"""been""","Hollywood, FL, USA",KDG_TX
+"""been""","Lockhart, TX, USA",KDG_TX
+"""been""","Katy, TX, USA",KDG_TX
+"""been""","Kemp, TX, USA",KDG_TX
+"""been""","Kempner, TX, USA",KDG_TX
+"""been""","Keller, TX, USA",KDG_TX
+"""been""","St. Catharines, Ontario, Canada",KDG_TX
+"""been""","Franklinville, NJ, USA",KDG_TX
+"""been""","Heidelberg, Germany",KDG_TX
+"""been""","Buena, NJ, USA",KDG_TX
+"""been""","Seattle, WA, USA",KDG_TX
+"""been""","Skagway, AK, USA",KDG_TX
+"""been""","Kihei, HI, USA",KDG_TX
+"""been""","Kahului, HI, USA",KDG_TX
+"""been""","Seward, AK, USA",KDG_TX
+"""been""","Lahaina, HI, USA",KDG_TX
+"""been""","Maypearl, TX, USA",KDG_TX
+"""been""","Powell, TX, USA",KDG_TX
+"""been""","Amelia Island, FL, USA",KDG_TX
+"""been""","West Hollywood, CA, USA",KDG_TX
+"""been""","Lakeway, TX, USA",KDG_TX
+"""been""","North Zulch, TX, USA",KDG_TX
+"""been""","Hana, HI, USA",KDG_TX
+"""been""","Titusville, FL, USA",KDG_TX
+"""been""","San Diego, CA, USA",KDG_TX
+"""been""","Lancaster, TX, USA",KDG_TX
+"""been""","McAllen, TX, USA",KDG_TX
+"""been""","Lampasas, TX, USA",KDG_TX
+"""been""","Laredo, TX, USA",KDG_TX
+"""been""","Hutchins, TX, USA",KDG_TX
+"""been""","McGregor, TX, USA",KDG_TX
+"""been""","Fort Lauderdale, FL, USA",KDG_TX
+"""been""","Presidio, TX, USA",KDG_TX
+"""been""","Huntsville, TX, USA",KDG_TX
+"""been""","Williamsburg, VA, USA",KDG_TX
+"""been""","Key West, FL, USA",KDG_TX
+"""been""","Crested Butte, CO, USA",KDG_TX
+"""been""","Key Largo, FL, USA",KDG_TX
+"""been""","Capitola, CA, USA",KDG_TX
+"""been""","Hye, TX, USA",KDG_TX
+"""been""","Cripple Creek, CO, USA",KDG_TX
+"""been""","Islamorada, FL, USA",KDG_TX
+"""been""","Noord, Aruba",KDG_TX
+"""been""","Innsbruck, Austria",KDG_TX
+"""been""","Poipu, HI, USA",KDG_TX
+"""been""","Boston, MA, USA",KDG_TX
+"""been""","Waimea, HI, USA",KDG_TX
+"""been""","Princeville, HI, USA",KDG_TX
+"""been""","Lihue, HI, USA",KDG_TX
+"""been""","New Orleans, LA, USA",KDG_TX
+"""been""","San Jose, CA, USA",KDG_TX
+"""been""","Fort Myers Beach, FL, USA",KDG_TX
+"""been""","Fort Myers, FL, USA",KDG_TX
+"""been""","Honolulu, HI, USA",KDG_TX
+"""been""","San Juan Capistrano, CA, USA",KDG_TX
+"""been""","Gunnison, CO, USA",KDG_TX
+"""been""","Hooks, TX, USA",KDG_TX
+"""been""","Prague, Czech Republic",KDG_TX
+"""been""","Horseshoe Bay, TX, USA",KDG_TX
+"""been""","Pilsen, Czech Republic",KDG_TX
+"""been""","Carmel, CA, USA",KDG_TX
+"""been""","Honey Grove, TX, USA",KDG_TX
+"""been""","Hubbard, TX, USA",KDG_TX
+"""been""","Cape Canaveral, FL, USA",KDG_TX
+"""been""","Houston, TX, USA",KDG_TX
+"""been""","Welland, Ontario, Canada",KDG_TX
+"""been""","Denver, CO, USA",KDG_TX
+"""been""","St. Augustine, FL, USA",KDG_TX
+"""been""","Wailea, HI, USA",KDG_TX
+"""been""","Lyon, France",KDG_TX
+"""been""","Paris, France",KDG_TX
+"""been""","Volendam, The Netherlands",KDG_TX
+"""been""","Patmos, Greece",KDG_TX
+"""been""","Pearl City, HI, USA",KDG_TX
+"""been""","Yorktown, VA, USA",KDG_TX
+"""been""","Mesquite, TX, USA",KDG_TX
+"""been""","Amsterdam, The Netherlands",KDG_TX
+"""been""","Atlanta, GA, USA",KDG_TX
+"""been""","Kahalu u, HI, USA",KDG_TX
+"""been""","Johnson City, TX, USA",KDG_TX
+"""been""","Berkeley, CA, USA",KDG_TX
+"""been""","Durango, CO, USA",KDG_TX
+"""been""","Richmond, VA, USA",KDG_TX
+"""been""","Itasca, TX, USA",KDG_TX
+"""been""","Olomouc, Czech Republic",KDG_TX
+"""been""","Irving, TX, USA",KDG_TX
+"""been""","Italy, TX, USA",KDG_TX
+"""been""","Captiva Island, FL, USA",KDG_TX
+"""been""","Brno, Czech Republic",KDG_TX
+"""been""","Rhodes, Greece",KDG_TX
+"""been""","Giza, Egypt",KDG_TX
+"""been""","Cairo, Egypt",KDG_TX
+"""been""","Tallinn, Estonia",KDG_TX
+"""been""","Mykonos, Greece",KDG_TX
+"""been""","Vaxholm, Sweden",KDG_TX
+"""been""","Branson, MO, USA",KDG_TX
+"""want""","Barcelona, Spain",KDG_TX
+"""been""","Santorini, Greece",KDG_TX
+"""been""","El Paso, TX, USA",KDG_TX
+"""been""","Kaaawa, HI, USA",KDG_TX
+"""been""","Warrensburg, MO, USA",KDG_TX
+"""been""","New York City, NY, USA",KDG_TX
+"""been""","Ewa Beach, HI, USA",KDG_TX
+"""been""","Little Rock, AR, USA",KDG_TX
+"""been""","Bonn, Germany",KDG_TX
+"""been""","Cologne, Germany",KDG_TX
+"""been""","Fort Hood, TX, USA",KDG_TX
+"""been""","Oakland Park, FL, USA",KDG_TX
+"""been""","Anchorage, AK, USA",KDG_TX
+"""been""","Lavon, TX, USA",KDG_TX
+"""been""","Lakeland, FL, USA",KDG_TX
+"""been""","Santa Barbara, CA, USA",KDG_TX
+"""been""","Carlsbad, NM, USA",KDG_TX
+"""been""","McKinney, TX, USA",KDG_TX
+"""been""","Beverly Hills, CA, USA",KDG_TX
+"""been""","Medina, TX, USA",KDG_TX
+"""been""","Odessa, TX, USA",KDG_TX
+"""been""","Ingram, TX, USA",KDG_TX
+"""been""","Melissa, TX, USA",KDG_TX
+"""been""","Santa Cruz, CA, USA",KDG_TX

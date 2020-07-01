@@ -1,0 +1,601 @@
+tag,place,user
+"""want""","Brno, Czech Republic",BNystedt
+"""want""","Cairo, Egypt",BNystedt
+"""been""","Manchester, UK",BNystedt
+"""been""","Oslo, Norway",BNystedt
+"""want""","Tirana, Albania",BNystedt
+"""want""","Aswan, Egypt",BNystedt
+"""want""","Tallinn, Estonia",BNystedt
+"""want""","Luxembourg City, Luxembourg",BNystedt
+"""been""","Pisac, Peru",BNystedt
+"""been""","Janesville, MN, USA",BNystedt
+"""been""","Forest Lake, MN, USA",BNystedt
+"""been""","Laie, HI, USA",BNystedt
+"""been""","Atlanta, GA, USA",BNystedt
+"""want""","Vilnius, Lithuania",BNystedt
+"""been""","Kailua, HI, USA",BNystedt
+"""been""","St. George, UT, USA",BNystedt
+"""been"",""want""","Pearl City, HI, USA",BNystedt
+"""been""","San Marino, CA, USA",BNystedt
+"""been""","Carson, CA, USA",BNystedt
+"""been""","Denver, CO, USA",BNystedt
+"""been""","Chippewa Falls, WI, USA",BNystedt
+"""been""","Giverny, France",BNystedt
+"""been""","Beverly Hills, CA, USA",BNystedt
+"""been""","Chongqing, China",BNystedt
+"""been""","Basel, Switzerland",BNystedt
+"""been""","Zagreb, Croatia",BNystedt
+"""been""","Beijing, China",BNystedt
+"""want""","Dubai, United Arab Emirates",BNystedt
+"""been"",""fave""","Prague, Czech Republic",BNystedt
+"""been""","Sofia, Bulgaria",BNystedt
+"""been""","Chadron, NE, USA",BNystedt
+"""been""","Inver Grove Heights, MN, USA",BNystedt
+"""been""","Stevens Point, WI, USA",BNystedt
+"""been""","Death Valley Junction, CA, USA",BNystedt
+"""been""","Rock Springs, WY, USA",BNystedt
+"""been"",""want""","Waianae, HI, USA",BNystedt
+"""been"",""fave""","Hong Kong, China",BNystedt
+"""been""","Bucharest, Romania",BNystedt
+"""want""","San Simeon, CA, USA",BNystedt
+"""been""","Isle, MN, USA",BNystedt
+"""been""","Rouen, France",BNystedt
+"""been""","Le Havre, France",BNystedt
+"""want""","Ischia, Italy",BNystedt
+"""been""","Stockholm, WI, USA",BNystedt
+"""been""","Provo, UT, USA",BNystedt
+"""been""","North Miami Beach, FL, USA",BNystedt
+"""been""","Strasbourg, France",BNystedt
+"""been""","Swindon, UK",BNystedt
+"""want""","Gloucester, UK",BNystedt
+"""been""","Santa Monica, CA, USA",BNystedt
+"""want""","Nanjing, China",BNystedt
+"""been""","Richmond-upon-Thames, UK",BNystedt
+"""been"",""want"",""fave""","Vienna, Austria",BNystedt
+"""been""","Kihei, HI, USA",BNystedt
+"""been""","Hot Springs, SD, USA",BNystedt
+"""been""","Kahului, HI, USA",BNystedt
+"""been""","Lahaina, HI, USA",BNystedt
+"""been""","Kailua-Kona, HI, USA",BNystedt
+"""been""","Hana, HI, USA",BNystedt
+"""been""","Cincinnati, OH, USA",BNystedt
+"""want""","San Diego, CA, USA",BNystedt
+"""been""","Canberra, Australia",BNystedt
+"""been""","Seattle, WA, USA",BNystedt
+"""been""","Memphis, TN, USA",BNystedt
+"""been""","Liberty, KS, USA",BNystedt
+"""been""","Santa Ana, CA, USA",BNystedt
+"""want""","Toronto, Ontario, Canada",BNystedt
+"""want""","Heidelberg, Germany",BNystedt
+"""want""","Santa Barbara, CA, USA",BNystedt
+"""been""","Torrance, CA, USA",BNystedt
+"""been""","Bratislava, Slovakia",BNystedt
+"""been""","Coral Gables, FL, USA",BNystedt
+"""been""","Berchtesgaden, Germany",BNystedt
+"""been""","Papeete, French Polynesia",BNystedt
+"""been""","Belgrade, Serbia",BNystedt
+"""want""","Kyiv (Kiev), Ukraine",BNystedt
+"""been""","Omaha, NE, USA",BNystedt
+"""been""","Fridley, MN, USA",BNystedt
+"""been""","New York City, NY, USA",BNystedt
+"""been""","Wisconsin Dells, WI, USA",BNystedt
+"""been""","Brisbane, Australia",BNystedt
+"""been""","Newcastle, WY, USA",BNystedt
+"""been""","Mannheim, Germany",BNystedt
+"""want""","Alice Springs, Australia",BNystedt
+"""been""","Les Andelys, France",BNystedt
+"""been""","Ventura, CA, USA",BNystedt
+"""been""","Garrison, MN, USA",BNystedt
+"""want""","Ottawa, Ontario, Canada",BNystedt
+"""been""","Crawley, UK",BNystedt
+"""been""","Irving, TX, USA",BNystedt
+"""want""","Stuttgart, Germany",BNystedt
+"""been""","Sydney, Australia",BNystedt
+"""been""","Milton Keynes, UK",BNystedt
+"""been""","Bayreuth, Germany",BNystedt
+"""been""","Cooma, Australia",BNystedt
+"""been""","Brooklyn Park, MN, USA",BNystedt
+"""want""","Montreal, Quebec, Canada",BNystedt
+"""want""","Quebec City, Quebec, Canada",BNystedt
+"""been""","Brooklyn Center, MN, USA",BNystedt
+"""been""","Prescott, WI, USA",BNystedt
+"""been""","Tomah, WI, USA",BNystedt
+"""been""","Baltra, Ecuador",BNystedt
+"""been""","Malton, UK",BNystedt
+"""want""","Manchester, NH, USA",BNystedt
+"""been""","Captain Cook, HI, USA",BNystedt
+"""been""","Isabela, Ecuador",BNystedt
+"""been""","Incheon, South Korea",BNystedt
+"""been""","Floreana, Ecuador",BNystedt
+"""been""","Chichen Itza, Mexico",BNystedt
+"""been""","Fernandina, Ecuador",BNystedt
+"""been""","Cozumel, Mexico",BNystedt
+"""been""","Bay City, WI, USA",BNystedt
+"""been""","Cancun, Mexico",BNystedt
+"""been""","Reedsburg, WI, USA",BNystedt
+"""been""","Hilo, HI, USA",BNystedt
+"""been""","Washington DC, DC, USA",BNystedt
+"""want""","Interlaken, Switzerland",BNystedt
+"""been""","Schesslitz, Germany",BNystedt
+"""been""","Baraboo, WI, USA",BNystedt
+"""been""","Rehoboth Beach, DE, USA",BNystedt
+"""been""","Playa del Carmen, Mexico",BNystedt
+"""been""","Chur, Switzerland",BNystedt
+"""been""","Sioux City, IA, USA",BNystedt
+"""been""","Shenzhen, China",BNystedt
+"""been""","Santa Cruz, Ecuador",BNystedt
+"""been""","Bangor, ME, USA",BNystedt
+"""been""","Viviers, France",BNystedt
+"""want""","Trondheim, Norway",BNystedt
+"""been""","Bicester, UK",BNystedt
+"""been""","Fuji, Japan",BNystedt
+"""want""","Singapore, Singapore",BNystedt
+"""been""","Valladolid, Mexico",BNystedt
+"""been""","Philadelphia, PA, USA",BNystedt
+"""been""","St. Petersburg, Russia",BNystedt
+"""been""","Arlandastad, Sweden",BNystedt
+"""want""","Biarritz, France",BNystedt
+"""been""","Porto Venere, Italy",BNystedt
+"""been""","Cheyenne, WY, USA",BNystedt
+"""been""","Indianapolis, IN, USA",BNystedt
+"""been""","Civitavecchia, Italy",BNystedt
+"""been""","Kapalua, HI, USA",BNystedt
+"""want""","Bern, Switzerland",BNystedt
+"""been""","Cannon Falls, MN, USA",BNystedt
+"""want""","Geneva, Switzerland",BNystedt
+"""want""","Odessa, Ukraine",BNystedt
+"""been""","Buffalo, MN, USA",BNystedt
+"""want""","Lisbon, Portugal",BNystedt
+"""been""","Buffalo Lake, MN, USA",BNystedt
+"""been""","Bronx, NY, USA",BNystedt
+"""been""","Cody, WY, USA",BNystedt
+"""been""","Lucerne, Switzerland",BNystedt
+"""been""","Oranienburg, Germany",BNystedt
+"""been""","Burnsville, MN, USA",BNystedt
+"""been""","Chaska, MN, USA",BNystedt
+"""been""","Wuhan, China",BNystedt
+"""been""","Wausau, WI, USA",BNystedt
+"""been""","Chanhassen, MN, USA",BNystedt
+"""been""","Sioux Falls, SD, USA",BNystedt
+"""been""","Anoka, MN, USA",BNystedt
+"""want""","San Juan, Puerto Rico",BNystedt
+"""been""","Gallup, NM, USA",BNystedt
+"""been""","Apple Valley, MN, USA",BNystedt
+"""been""","Lakes Entrance, Australia",BNystedt
+"""been""","Dubrovnik, Croatia",BNystedt
+"""been""","Split, Croatia",BNystedt
+"""been""","Clara City, MN, USA",BNystedt
+"""been""","Monument Valley, UT, USA",BNystedt
+"""been""","Suzhou, China",BNystedt
+"""want""","Qawra, Malta",BNystedt
+"""been""","Wuxi, China",BNystedt
+"""been""","Melnik, Czech Republic",BNystedt
+"""been""","Boca Raton, FL, USA",BNystedt
+"""been""","Novi Sad, Serbia",BNystedt
+"""been""","Cokato, MN, USA",BNystedt
+"""been""","Cloquet, MN, USA",BNystedt
+"""been""","Columbia Heights, MN, USA",BNystedt
+"""want""","Johannesburg, South Africa",BNystedt
+"""been""","Ocean View, HI, USA",BNystedt
+"""been""","Pomona, CA, USA",BNystedt
+"""been""","River Falls, WI, USA",BNystedt
+"""want""","St. Moritz, Switzerland",BNystedt
+"""been""","Davos, Switzerland",BNystedt
+"""want""","Rio de Janeiro, Brazil",BNystedt
+"""want""","Lugano, Switzerland",BNystedt
+"""want""","Zermatt, Switzerland",BNystedt
+"""been""","Hangzhou, China",BNystedt
+"""been""","Xi'an, China",BNystedt
+"""been""","Guangzhou, China",BNystedt
+"""been""","Seoul, South Korea",BNystedt
+"""been""","Sturgis, SD, USA",BNystedt
+"""been""","Luss, UK",BNystedt
+"""been""","Auckland Central, New Zealand",BNystedt
+"""been""","Melbourne, Australia",BNystedt
+"""been""","Spearfish, SD, USA",BNystedt
+"""want""","Niagara Falls, NY, USA",BNystedt
+"""want""","Chengdu, China",BNystedt
+"""been""","Crystal, MN, USA",BNystedt
+"""been""","Jackson, MS, USA",BNystedt
+"""been""","Huangshan, China",BNystedt
+"""been""","Nagasaki, Japan",BNystedt
+"""been""","Maiden Rock, WI, USA",BNystedt
+"""been""","Bethel, MN, USA",BNystedt
+"""want""","Provincetown, MA, USA",BNystedt
+"""been""","Osaka, Japan",BNystedt
+"""been""","Kyoto, Japan",BNystedt
+"""want""","Nagano, Japan",BNystedt
+"""been""","Kilkenny, Ireland",BNystedt
+"""been""","Portofino, Italy",BNystedt
+"""been""","Charlotte, NC, USA",BNystedt
+"""been""","Wall, SD, USA",BNystedt
+"""been""","Murdo, SD, USA",BNystedt
+"""been""","Shaoxing, China",BNystedt
+"""want""","Hiroshima, Japan",BNystedt
+"""been""","Acapulco, Mexico",BNystedt
+"""been""","Coon Rapids, MN, USA",BNystedt
+"""been""","Bayport, MN, USA",BNystedt
+"""been""","Pepin, WI, USA",BNystedt
+"""want""","Bellagio, Italy",BNystedt
+"""been""","Becker, MN, USA",BNystedt
+"""been""","Topanga, CA, USA",BNystedt
+"""been""","Mitchell, SD, USA",BNystedt
+"""want""","Ogunquit, ME, USA",BNystedt
+"""been""","Rancho Palos Verdes, CA, USA",BNystedt
+"""been""","Ontario, CA, USA",BNystedt
+"""been""","Orange, CA, USA",BNystedt
+"""been""","Rancho Mirage, CA, USA",BNystedt
+"""been""","Belle Plaine, MN, USA",BNystedt
+"""want""","Kuala Lumpur, Malaysia",BNystedt
+"""want""","Nagoya, Japan",BNystedt
+"""been""","Staines, UK",BNystedt
+"""been""","Bloomington, MN, USA",BNystedt
+"""been""","Dallas, TX, USA",BNystedt
+"""been""","Oxnard, CA, USA",BNystedt
+"""want""","Mellieha, Malta",BNystedt
+"""been""","Oral, SD, USA",BNystedt
+"""been""","Redondo Beach, CA, USA",BNystedt
+"""been""","Liberty, KY, USA",BNystedt
+"""been""","Litomerice, Czech Republic",BNystedt
+"""been""","Blaine, MN, USA",BNystedt
+"""been""","Dublin, Ireland",BNystedt
+"""been""","Trieste, Italy",BNystedt
+"""been""","Big Lake, MN, USA",BNystedt
+"""been""","Vernon, France",BNystedt
+"""want""","Kennebunkport, ME, USA",BNystedt
+"""been""","Osceola, WI, USA",BNystedt
+"""been""","Palm Desert, CA, USA",BNystedt
+"""been""","Palm Springs, CA, USA",BNystedt
+"""been""","Watertown, SD, USA",BNystedt
+"""been""","Flims, Switzerland",BNystedt
+"""been""","Walker, MN, USA",BNystedt
+"""been""","Savage, MN, USA",BNystedt
+"""been""","Scottsbluff, NE, USA",BNystedt
+"""been""","Salisbury, UK",BNystedt
+"""been""","Glasgow, UK",BNystedt
+"""been""","White Bear Lake, MN, USA",BNystedt
+"""been""","Yaroslavl, Russia",BNystedt
+"""been""","Windsor, UK",BNystedt
+"""been""","Taipei, Taiwan",BNystedt
+"""want""","Vancouver, British Columbia, Canada",BNystedt
+"""been""","Riverside, CA, USA",BNystedt
+"""want""","Monterey, CA, USA",BNystedt
+"""been""","Hvar, Croatia",BNystedt
+"""been""","Pasadena, CA, USA",BNystedt
+"""been""","Palos Verdes Estates, CA, USA",BNystedt
+"""been""","Fort Worth, TX, USA",BNystedt
+"""been""","Lindau, Germany",BNystedt
+"""been""","Shakopee, MN, USA",BNystedt
+"""been""","Moscow, Russia",BNystedt
+"""been""","Pierre, SD, USA",BNystedt
+"""been""","Kostroma, Russia",BNystedt
+"""want""","Siem Reap, Cambodia",BNystedt
+"""want""","Inverness, UK",BNystedt
+"""been""","Saint Peter, MN, USA",BNystedt
+"""been""","Broadway, UK",BNystedt
+"""been""","Winchester, UK",BNystedt
+"""been""","Helsinki, Finland",BNystedt
+"""been""","Wichita, KS, USA",BNystedt
+"""been""","Saint Paul, MN, USA",BNystedt
+"""want""","Madrid, Spain",BNystedt
+"""been""","Wayzata, MN, USA",BNystedt
+"""been""","Aitkin, MN, USA",BNystedt
+"""want""","Hanoi, Vietnam",BNystedt
+"""want""","Hue, Vietnam",BNystedt
+"""been""","Oahu, HI, USA",BNystedt
+"""been""","Phuket, Thailand",BNystedt
+"""been""","Brainerd, MN, USA",BNystedt
+"""been""","Albertville, MN, USA",BNystedt
+"""been""","Remagen, Germany",BNystedt
+"""been""","Rolling Hills Estates, CA, USA",BNystedt
+"""been""","Bangkok, Thailand",BNystedt
+"""want""","Chiang Mai, Thailand",BNystedt
+"""been""","Bernkastel-Kues, Germany",BNystedt
+"""been""","Sartell, MN, USA",BNystedt
+"""been""","Cochem, Germany",BNystedt
+"""been""","Rolling Hills, CA, USA",BNystedt
+"""been""","Sauk Centre, MN, USA",BNystedt
+"""been""","Venice, Italy",BNystedt
+"""been""","Pease, MN, USA",BNystedt
+"""been""","South Saint Paul, MN, USA",BNystedt
+"""been""","Woodbury, MN, USA",BNystedt
+"""been""","Baton Rouge, LA, USA",BNystedt
+"""been""","Worthington, MN, USA",BNystedt
+"""been""","Mauston, WI, USA",BNystedt
+"""want""","Milan, Italy",BNystedt
+"""been""","Torgau, Germany",BNystedt
+"""been""","Huntington Park, CA, USA",BNystedt
+"""been""","Ko Phi Phi Don, Thailand",BNystedt
+"""been""","Merrill, WI, USA",BNystedt
+"""been""","Edinburgh, UK",BNystedt
+"""been""","Uglich, Russia",BNystedt
+"""want""","Turin, Italy",BNystedt
+"""been""","Winona, MN, USA",BNystedt
+"""been""","Needles, CA, USA",BNystedt
+"""been""","Redfield, SD, USA",BNystedt
+"""been""","Lomita, CA, USA",BNystedt
+"""been""","Indian Wells, CA, USA",BNystedt
+"""been""","Buffalo Gap, SD, USA",BNystedt
+"""been""","Pittsburgh, PA, USA",BNystedt
+"""want""","Napa, CA, USA",BNystedt
+"""want""","Buenos Aires, Argentina",BNystedt
+"""been""","Owatonna, MN, USA",BNystedt
+"""been""","Hvar Island, Croatia",BNystedt
+"""been""","Phoenix, AZ, USA",BNystedt
+"""been""","Rapid City, SD, USA",BNystedt
+"""want""","The Hague, The Netherlands",BNystedt
+"""been""","Princeton, MN, USA",BNystedt
+"""been""","Mendota Heights, MN, USA",BNystedt
+"""want""","Capri, Italy",BNystedt
+"""been"",""want"",""fave""","London, UK",BNystedt
+"""been""","Vukovar, Croatia",BNystedt
+"""been""","Antwerp, Belgium",BNystedt
+"""want""","Weimar, Germany",BNystedt
+"""been""","North Platte, NE, USA",BNystedt
+"""been""","Milaca, MN, USA",BNystedt
+"""been""","Prior Lake, MN, USA",BNystedt
+"""been""","Keflavik, Iceland",BNystedt
+"""been""","Coburg, Germany",BNystedt
+"""been""","Saint Louis, MO, USA",BNystedt
+"""been"",""want"",""fave""","Munich, Germany",BNystedt
+"""been""","Hay Springs, NE, USA",BNystedt
+"""been""","Plymouth, MN, USA",BNystedt
+"""been""","Stillwater, MN, USA",BNystedt
+"""been""","Chicago, IL, USA",BNystedt
+"""been""","Spartanburg, SC, USA",BNystedt
+"""been""","Los Angeles, CA, USA",BNystedt
+"""been""","Lead, SD, USA",BNystedt
+"""been""","Irvine, CA, USA",BNystedt
+"""been""","Guayaquil, Ecuador",BNystedt
+"""been""","Sorrento, Italy",BNystedt
+"""been""","Amalfi, Italy",BNystedt
+"""want""","Portland, OR, USA",BNystedt
+"""been""","Narita, Japan",BNystedt
+"""been"",""want""","Brussels, Belgium",BNystedt
+"""been""","Pine City, MN, USA",BNystedt
+"""been""","Regensburg, Germany",BNystedt
+"""been""","Passau, Germany",BNystedt
+"""been""","Norwich, UK",BNystedt
+"""been""","Nuremberg, Germany",BNystedt
+"""been"",""fave""","Stockholm, Sweden",BNystedt
+"""been""","Cambridge, UK",BNystedt
+"""been"",""want""","York, UK",BNystedt
+"""been""","Dachau, Germany",BNystedt
+"""been""","Rothenburg, Germany",BNystedt
+"""been""","Las Vegas, NV, USA",BNystedt
+"""been""","Zimmerman, MN, USA",BNystedt
+"""been""","Wyoming, MN, USA",BNystedt
+"""been""","Downey, CA, USA",BNystedt
+"""been""","Barstow, CA, USA",BNystedt
+"""been""","Mohacs, Hungary",BNystedt
+"""been""","Reykjavik, Iceland",BNystedt
+"""been""","Gardena, CA, USA",BNystedt
+"""been""","Vatican City, Vatican City",BNystedt
+"""been""","Bristol, UK",BNystedt
+"""been""","Cardiff, UK",BNystedt
+"""been""","Rome, Italy",BNystedt
+"""been""","Hakone-machi, Japan",BNystedt
+"""been""","Meissen, Germany",BNystedt
+"""been""","Canterbury, UK",BNystedt
+"""been""","Leipzig, Germany",BNystedt
+"""want""","Dover, UK",BNystedt
+"""want""","Tangier, Morocco",BNystedt
+"""been""","Wittenberg, Germany",BNystedt
+"""want""","Utrecht, The Netherlands",BNystedt
+"""been""","Magdeburg, Germany",BNystedt
+"""been""","Monticello, MN, USA",BNystedt
+"""want""","Cape Town Central, South Africa",BNystedt
+"""want""","Istanbul, Turkey",BNystedt
+"""been"",""fave""","Shanghai, China",BNystedt
+"""been""","Ruse, Bulgaria",BNystedt
+"""been""","Montevideo, MN, USA",BNystedt
+"""been""","Red Wing, MN, USA",BNystedt
+"""been""","Montgomery, MN, USA",BNystedt
+"""been""","Malibu, CA, USA",BNystedt
+"""been""","Decin, Czech Republic",BNystedt
+"""been""","Manhattan Beach, CA, USA",BNystedt
+"""been""","Glendale, CA, USA",BNystedt
+"""been""","West Palm Beach, FL, USA",BNystedt
+"""been"",""fave""","Tokyo, Japan",BNystedt
+"""been""","Edgemont, SD, USA",BNystedt
+"""been""","Minnetonka, MN, USA",BNystedt
+"""want""","Florence, Italy",BNystedt
+"""want""","Haifa, Israel",BNystedt
+"""want""","Jerusalem, Israel",BNystedt
+"""been""","Taylors Falls, MN, USA",BNystedt
+"""want""","Tel Aviv, Israel",BNystedt
+"""been""","Livorno, Italy",BNystedt
+"""want""","Eilat, Israel",BNystedt
+"""been""","Eisenach, Germany",BNystedt
+"""been""","Jordan, MN, USA",BNystedt
+"""been""","Ramsey, MN, USA",BNystedt
+"""been""","Minneapolis, MN, USA",BNystedt
+"""want""","Malmo, Sweden",BNystedt
+"""been""","Giurgiu, Romania",BNystedt
+"""been"",""want""","Babelsberg, Germany",BNystedt
+"""been""","Deadwood, SD, USA",BNystedt
+"""been""","Marina del Rey, CA, USA",BNystedt
+"""been""","Scottsdale, AZ, USA",BNystedt
+"""been""","Grand Rapids, MN, USA",BNystedt
+"""been""","Rennes, France",BNystedt
+"""been""","Ruedesheim am Rhein, Germany",BNystedt
+"""want""","Torquay, UK",BNystedt
+"""been""","Lake City, MN, USA",BNystedt
+"""been""","Rogers, MN, USA",BNystedt
+"""been""","Wailea, HI, USA",BNystedt
+"""been""","Roseville, MN, USA",BNystedt
+"""been""","Ocean City, MD, USA",BNystedt
+"""want""","Hoi An, Vietnam",BNystedt
+"""been""","Albuquerque, NM, USA",BNystedt
+"""want""","Savannah, GA, USA",BNystedt
+"""been""","Orlando, FL, USA",BNystedt
+"""been""","La Canada Flintridge, CA, USA",BNystedt
+"""been"",""want"",""fave""","Bath, UK",BNystedt
+"""been""","Fort Collins, CO, USA",BNystedt
+"""been""","Wells, UK",BNystedt
+"""want""","Kassel, Germany",BNystedt
+"""want""","Da Nang, Vietnam",BNystedt
+"""been""","Bruges, Belgium",BNystedt
+"""been""","Dorking, UK",BNystedt
+"""been""","Detroit, MI, USA",BNystedt
+"""been"",""want""","Nice, France",BNystedt
+"""want""","Sunny Beach, Bulgaria",BNystedt
+"""been""","Richfield, MN, USA",BNystedt
+"""been""","Caudebec-en-Caux, France",BNystedt
+"""been""","Rochester, MN, USA",BNystedt
+"""been""","Richwood, MN, USA",BNystedt
+"""been""","Brooklyn, NY, USA",BNystedt
+"""been""","Kingman, AZ, USA",BNystedt
+"""been""","Surprise, AZ, USA",BNystedt
+"""want""","Gothenburg, Sweden",BNystedt
+"""want""","Hannover, Germany",BNystedt
+"""been""","El Segundo, CA, USA",BNystedt
+"""been""","Duluth, MN, USA",BNystedt
+"""been""","Aguas Calientes, Peru",BNystedt
+"""been"",""want"",""fave""","Berlin, Germany",BNystedt
+"""been""","Northfield, MN, USA",BNystedt
+"""been""","Lino Lakes, MN, USA",BNystedt
+"""been""","Wurzburg, Germany",BNystedt
+"""want""","Newcastle, UK",BNystedt
+"""been""","Detroit Lakes, MN, USA",BNystedt
+"""been""","Esztergom, Hungary",BNystedt
+"""want""","Krakow, Poland",BNystedt
+"""been""","Bad Schandau, Germany",BNystedt
+"""been""","Pushkin, Russia",BNystedt
+"""been""","Saint Cloud, MN, USA",BNystedt
+"""been""","North Branch, MN, USA",BNystedt
+"""been""","Dodge Center, MN, USA",BNystedt
+"""want""","Stowe, VT, USA",BNystedt
+"""been""","Hawthorne, CA, USA",BNystedt
+"""been""","Natchez, MS, USA",BNystedt
+"""want""","Saint Julian's, Malta",BNystedt
+"""been""","Dresser, WI, USA",BNystedt
+"""been""","Palm Beach, FL, USA",BNystedt
+"""been""","Belfast, UK",BNystedt
+"""want""","Ghent, Belgium",BNystedt
+"""been""","Hermosa Beach, CA, USA",BNystedt
+"""want""","St Ives, UK",BNystedt
+"""been"",""want""","Avignon, France",BNystedt
+"""been""","Lincoln, NE, USA",BNystedt
+"""been"",""want""","Arles, France",BNystedt
+"""been"",""want""","Bergen, Norway",BNystedt
+"""been""","Slough, UK",BNystedt
+"""been""","Frankfurt, Germany",BNystedt
+"""want""","San Sebastian - Donostia, Spain",BNystedt
+"""been""","Altadena, CA, USA",BNystedt
+"""been""","Lakeville, MN, USA",BNystedt
+"""been""","New Ulm, MN, USA",BNystedt
+"""been""","New York Mills, MN, USA",BNystedt
+"""been""","New Prague, MN, USA",BNystedt
+"""been"",""want"",""fave""","Budapest, Hungary",BNystedt
+"""been""","Salt Lake City, UT, USA",BNystedt
+"""been""","Buena Park, CA, USA",BNystedt
+"""been"",""want""","Burbank, CA, USA",BNystedt
+"""been""","Arlington, TX, USA",BNystedt
+"""been""","Reading, UK",BNystedt
+"""been"",""want"",""fave""","Hamburg, Germany",BNystedt
+"""been""","Woodstock, UK",BNystedt
+"""been""","Potsdam, Germany",BNystedt
+"""been""","Oxford, UK",BNystedt
+"""been""","Compton, CA, USA",BNystedt
+"""been""","Paris, France",BNystedt
+"""been""","Lisse, The Netherlands",BNystedt
+"""been"",""want""","Zurich, Switzerland",BNystedt
+"""been""","Anaheim, CA, USA",BNystedt
+"""want""","Charleston, SC, USA",BNystedt
+"""been""","Los Alamos, NM, USA",BNystedt
+"""been""","Hanalei, HI, USA",BNystedt
+"""been""","Edina, MN, USA",BNystedt
+"""been""","Ljubljana, Slovenia",BNystedt
+"""been""","Elk River, MN, USA",BNystedt
+"""been""","Flagstaff, AZ, USA",BNystedt
+"""been""","Hibbing, MN, USA",BNystedt
+"""been""","Mahnomen, MN, USA",BNystedt
+"""been""","Tampa, FL, USA",BNystedt
+"""want""","Sonoma, CA, USA",BNystedt
+"""been""","Miami Beach, FL, USA",BNystedt
+"""been""","Miami, FL, USA",BNystedt
+"""want""","Ajaccio, France",BNystedt
+"""been"",""want"",""fave""","Amsterdam, The Netherlands",BNystedt
+"""been"",""want""","Lyon, France",BNystedt
+"""been""","Hudson, WI, USA",BNystedt
+"""want""","Manchester, VT, USA",BNystedt
+"""been""","Linz, Austria",BNystedt
+"""been""","Haarlem, The Netherlands",BNystedt
+"""want""","Sliema, Malta",BNystedt
+"""want""","Valletta, Malta",BNystedt
+"""want""","Baden-Baden, Germany",BNystedt
+"""been"",""fave""","Dresden, Germany",BNystedt
+"""been""","Eden Prairie, MN, USA",BNystedt
+"""want""","Chiang Rai, Thailand",BNystedt
+"""been""","Koloa, HI, USA",BNystedt
+"""been""","Little Falls, MN, USA",BNystedt
+"""been""","Eagan, MN, USA",BNystedt
+"""been"",""fave""","Salzburg, Austria",BNystedt
+"""been""","Lihue, HI, USA",BNystedt
+"""been""","Custer, SD, USA",BNystedt
+"""been""","Litchfield, MN, USA",BNystedt
+"""been""","Vicksburg, MS, USA",BNystedt
+"""been""","New Orleans, LA, USA",BNystedt
+"""been""","Hastings, MN, USA",BNystedt
+"""want""","Bled, Slovenia",BNystedt
+"""been"",""want"",""fave""","Honolulu, HI, USA",BNystedt
+"""want""","San Carlos de Bariloche, Argentina",BNystedt
+"""been"",""fave""","Bamberg, Germany",BNystedt
+"""been""","Richmond, UK",BNystedt
+"""been""","Poipu, HI, USA",BNystedt
+"""been""","South San Francisco, CA, USA",BNystedt
+"""been""","Boston, MA, USA",BNystedt
+"""been""","South Gate, CA, USA",BNystedt
+"""been""","Koblenz, Germany",BNystedt
+"""been""","Eau Claire, WI, USA",BNystedt
+"""been""","Trier, Germany",BNystedt
+"""want""","Warsaw, Poland",BNystedt
+"""want""","Stratford-upon-Avon, UK",BNystedt
+"""want""","Aachen, Germany",BNystedt
+"""want""","Rye, UK",BNystedt
+"""want""","Maastricht, The Netherlands",BNystedt
+"""been""","Chandler, AZ, USA",BNystedt
+"""been""","Saint Croix Falls, WI, USA",BNystedt
+"""been""","Tucson, AZ, USA",BNystedt
+"""been""","Hopkins, MN, USA",BNystedt
+"""been""","Eveleth, MN, USA",BNystedt
+"""been""","Quito, Ecuador",BNystedt
+"""want""","Santiago, Chile",BNystedt
+"""been""","Vidin, Bulgaria",BNystedt
+"""been""","Excelsior, MN, USA",BNystedt
+"""been""","Santa Fe, NM, USA",BNystedt
+"""been""","San Francisco, CA, USA",BNystedt
+"""been""","Baldwin Park, CA, USA",BNystedt
+"""been""","Faribault, MN, USA",BNystedt
+"""been""","Farmington, MN, USA",BNystedt
+"""been""","San Bernardino, CA, USA",BNystedt
+"""been""","San Antonio, TX, USA",BNystedt
+"""been""","Copenhagen, Denmark",BNystedt
+"""been""","Bakersfield, CA, USA",BNystedt
+"""been""","Junction City, KS, USA",BNystedt
+"""been""","Culver City, CA, USA",BNystedt
+"""been"",""fave""","Monte-Carlo, Monaco",BNystedt
+"""been""","Houston, TX, USA",BNystedt
+"""been""","Brighton, UK",BNystedt
+"""want""","Riga, Latvia",BNystedt
+"""been""","Cusco, Peru",BNystedt
+"""want""","Barcelona, Spain",BNystedt
+"""been""","Melk, Austria",BNystedt
+"""been"",""fave""","Schiphol, The Netherlands",BNystedt
+"""been""","Durnstein, Austria",BNystedt
+"""been""","Mankato, MN, USA",BNystedt
+"""been""","Lima, Peru",BNystedt
+"""been""","Newark, NJ, USA",BNystedt
+"""been""","Machu Picchu, Peru",BNystedt
+"""been""","Maple Grove, MN, USA",BNystedt
+"""been""","Volcano, HI, USA",BNystedt
+"""been""","Grand Island, NE, USA",BNystedt
+"""been""","Fort Lauderdale, FL, USA",BNystedt
+"""been""","Cologne, Germany",BNystedt
+"""been""","Key West, FL, USA",BNystedt
+"""want""","Bonn, Germany",BNystedt
+"""been""","Tangermuende, Germany",BNystedt
+"""been""","West Hollywood, CA, USA",BNystedt
+"""want""","Marseille, France",BNystedt
+"""been""","Dusseldorf, Germany",BNystedt

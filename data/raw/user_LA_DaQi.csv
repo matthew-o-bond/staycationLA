@@ -1,0 +1,549 @@
+tag,place,user
+"""been""","Dingle, Ireland",DaQi
+"""been""","Kenmare, Ireland",DaQi
+"""been""","Beatty, NV, USA",DaQi
+"""been""","Mbabane, Eswatini (Swaziland)",DaQi
+"""been""","Yokohama, Japan",DaQi
+"""been""","Durham, UK",DaQi
+"""been""","Bristol, UK",DaQi
+"""been""","Vatican City, Vatican City",DaQi
+"""been""","Brussels, Belgium",DaQi
+"""been""","Rome, Italy",DaQi
+"""been""","Hartford, CT, USA",DaQi
+"""been""","Bloemfontein, South Africa",DaQi
+"""been""","Lusaka, Zambia",DaQi
+"""been""","Kampala, Uganda",DaQi
+"""been""","Colombo, Sri Lanka",DaQi
+"""been""","Dallas, TX, USA",DaQi
+"""been""","Mississauga, Ontario, Canada",DaQi
+"""been""","London, Ontario, Canada",DaQi
+"""been""","Phuket Town, Thailand",DaQi
+"""been""","Tokyo, Japan",DaQi
+"""been""","Belfast, UK",DaQi
+"""been""","Niagara-on-the-Lake, Ontario, Canada",DaQi
+"""been""","Niagara Falls, Ontario, Canada",DaQi
+"""been""","Palm Springs, CA, USA",DaQi
+"""been""","Palm Desert, CA, USA",DaQi
+"""been""","Murun, Mongolia",DaQi
+"""been""","Palo Alto, CA, USA",DaQi
+"""been""","Chester, UK",DaQi
+"""been""","Johannesburg, South Africa",DaQi
+"""been""","Nongsa, Indonesia",DaQi
+"""been""","Rio de Janeiro, Brazil",DaQi
+"""been""","Monterey, CA, USA",DaQi
+"""been""","Florence, Italy",DaQi
+"""been""","Pasadena, CA, USA",DaQi
+"""been""","Williams, AZ, USA",DaQi
+"""been""","Pisa, Italy",DaQi
+"""been""","Dar es Salaam, Tanzania",DaQi
+"""been""","Dodoma, Tanzania",DaQi
+"""been""","East Molesey, UK",DaQi
+"""been""","Oahu, HI, USA",DaQi
+"""been""","Windermere, UK",DaQi
+"""been""","Blackpool, UK",DaQi
+"""been""","Livingstone, Zambia",DaQi
+"""been""","London, UK",DaQi
+"""been""","Liverpool, UK",DaQi
+"""been""","Tunis, Tunisia",DaQi
+"""been""","Serengeti National Park, Tanzania",DaQi
+"""want""","Mecca, Saudi Arabia",DaQi
+"""been""","Mechelen, Belgium",DaQi
+"""been""","Edson, Alberta, Canada",DaQi
+"""been""","Rockville, MD, USA",DaQi
+"""been""","Bulawayo, Zimbabwe",DaQi
+"""been""","Stewart, British Columbia, Canada",DaQi
+"""been""","Lake Cowichan, British Columbia, Canada",DaQi
+"""been""","Harare, Zimbabwe",DaQi
+"""been""","Victoria Falls, Zimbabwe",DaQi
+"""been""","Mystic, CT, USA",DaQi
+"""been""","Lillooet, British Columbia, Canada",DaQi
+"""been""","Nice, France",DaQi
+"""been""","Huntington Beach, CA, USA",DaQi
+"""been""","Kariba, Zimbabwe",DaQi
+"""been""","Monte-Carlo, Monaco",DaQi
+"""been""","Guildford, UK",DaQi
+"""been""","Maastricht, The Netherlands",DaQi
+"""been""","Kathmandu, Nepal",DaQi
+"""been""","Long Beach, CA, USA",DaQi
+"""been""","Foster City, CA, USA",DaQi
+"""been""","Pittsburgh, PA, USA",DaQi
+"""been""","Alexandria, VA, USA",DaQi
+"""been""","Inglewood, CA, USA",DaQi
+"""been""","Brighton, UK",DaQi
+"""been""","Copenhagen, Denmark",DaQi
+"""been""","Stratford-upon-Avon, UK",DaQi
+"""been""","Phoenix, AZ, USA",DaQi
+"""been""","New London, CT, USA",DaQi
+"""been""","Napa, CA, USA",DaQi
+"""been""","Shibuya, Japan",DaQi
+"""been""","Shinjuku, Japan",DaQi
+"""been""","Maryland Heights, MO, USA",DaQi
+"""been""","Newport Beach, CA, USA",DaQi
+"""been""","Annapolis, MD, USA",DaQi
+"""been""","Saint Louis, MO, USA",DaQi
+"""been""","Fairfax, VA, USA",DaQi
+"""been""","Reading, UK",DaQi
+"""been""","Portland, OR, USA",DaQi
+"""been""","Oxford, UK",DaQi
+"""been""","Chicago, IL, USA",DaQi
+"""been""","Avignon, France",DaQi
+"""been""","Pismo Beach, CA, USA",DaQi
+"""been""","Irvine, CA, USA",DaQi
+"""been""","Frankfurt, Germany",DaQi
+"""been""","Los Angeles, CA, USA",DaQi
+"""been""","Placentia, CA, USA",DaQi
+"""been""","Ashcroft, British Columbia, Canada",DaQi
+"""been""","Kaohsiung, Taiwan",DaQi
+"""been""","Durban, South Africa",DaQi
+"""been""","Turpan, China",DaQi
+"""been""","Huddersfield, UK",DaQi
+"""been""","Shigatse, China",DaQi
+"""been""","Bethesda, MD, USA",DaQi
+"""been""","Bath, UK",DaQi
+"""been""","Las Vegas, NV, USA",DaQi
+"""been""","Toledo, OH, USA",DaQi
+"""want""","Addis Ababa, Ethiopia",DaQi
+"""been""","Cannes, France",DaQi
+"""want""","Athens, Greece",DaQi
+"""been""","Arlington, VA, USA",DaQi
+"""been""","Arusha, Tanzania",DaQi
+"""been""","Durham, NC, USA",DaQi
+"""been""","Taichung, Taiwan",DaQi
+"""been""","Abbotsford, British Columbia, Canada",DaQi
+"""been""","Hinton, Alberta, Canada",DaQi
+"""been""","Canmore, Alberta, Canada",DaQi
+"""been""","Scottsdale, AZ, USA",DaQi
+"""been""","Franz Josef, New Zealand",DaQi
+"""been""","Innsbruck, Austria",DaQi
+"""want""","Kitzbuhel, Austria",DaQi
+"""been""","King City, CA, USA",DaQi
+"""been""","Salzburg, Austria",DaQi
+"""been""","Germantown, MD, USA",DaQi
+"""been""","Kanchanaburi, Thailand",DaQi
+"""been""","Manhattan Beach, CA, USA",DaQi
+"""been""","Malibu, CA, USA",DaQi
+"""been""","Pietermaritzburg, South Africa",DaQi
+"""been""","Salt Lake City, UT, USA",DaQi
+"""been""","Kansas City, MO, USA",DaQi
+"""been""","White Sands, NM, USA",DaQi
+"""been""","Minneapolis, MN, USA",DaQi
+"""been""","Heidelberg, Germany",DaQi
+"""been""","Vienna, Austria",DaQi
+"""been""","Derby, UK",DaQi
+"""been""","Jacksonville, FL, USA",DaQi
+"""been""","Marina del Rey, CA, USA",DaQi
+"""been""","Seligman, AZ, USA",DaQi
+"""want""","Santiago, Chile",DaQi
+"""been""","Sedona, AZ, USA",DaQi
+"""been""","Anacortes, WA, USA",DaQi
+"""been""","Caracas, Venezuela",DaQi
+"""been""","North Myrtle Beach, SC, USA",DaQi
+"""been""","Ko Phi Phi Don, Thailand",DaQi
+"""been""","Mt. Cook Village, New Zealand",DaQi
+"""been""","Cologne, Germany",DaQi
+"""been""","Barcelona, Spain",DaQi
+"""been""","Covington, LA, USA",DaQi
+"""been""","Warwick, RI, USA",DaQi
+"""want""","Lima, Peru",DaQi
+"""been""","Orlando, FL, USA",DaQi
+"""want""","Machu Picchu, Peru",DaQi
+"""been""","La Jolla, CA, USA",DaQi
+"""been""","Yountville, CA, USA",DaQi
+"""been""","Hammamet, Tunisia",DaQi
+"""been""","Richmond, British Columbia, Canada",DaQi
+"""been""","North Vancouver, British Columbia, Canada",DaQi
+"""been""","Lake Havasu City, AZ, USA",DaQi
+"""want""","Paro, Bhutan",DaQi
+"""want""","Chamonix, France",DaQi
+"""been""","Amsterdam, The Netherlands",DaQi
+"""been""","Lyon, France",DaQi
+"""been""","Versailles, France",DaQi
+"""been""","Paris, France",DaQi
+"""been""","Vail, CO, USA",DaQi
+"""been""","Amarillo, TX, USA",DaQi
+"""been""","Nairobi, Kenya",DaQi
+"""been""","Half Moon Bay, CA, USA",DaQi
+"""been""","Kingman, AZ, USA",DaQi
+"""been""","Laguna Beach, CA, USA",DaQi
+"""been""","Osoyoos, British Columbia, Canada",DaQi
+"""been""","Myrtle Beach, SC, USA",DaQi
+"""been""","San Francisco, CA, USA",DaQi
+"""been""","Aliso Viejo, CA, USA",DaQi
+"""been""","San Antonio, TX, USA",DaQi
+"""been""","Page, AZ, USA",DaQi
+"""been""","Tucson, AZ, USA",DaQi
+"""been""","Strasbourg, France",DaQi
+"""been""","Mombasa, Kenya",DaQi
+"""been""","Beijing, China",DaQi
+"""been""","Santa Fe, NM, USA",DaQi
+"""been""","Basel, Switzerland",DaQi
+"""been""","Terrace, British Columbia, Canada",DaQi
+"""been""","Ukiah, CA, USA",DaQi
+"""been""","Arches National Park, UT, USA",DaQi
+"""been""","Boulder, CO, USA",DaQi
+"""been""","Sidney, British Columbia, Canada",DaQi
+"""been""","Lake Forest, CA, USA",DaQi
+"""been""","Hong Kong, China",DaQi
+"""been""","Salmon Arm, British Columbia, Canada",DaQi
+"""been""","Emeryville, CA, USA",DaQi
+"""been""","Revelstoke, British Columbia, Canada",DaQi
+"""been""","Bryce Canyon National Park, UT, USA",DaQi
+"""been""","Palm Beach, FL, USA",DaQi
+"""been""","Chongqing, China",DaQi
+"""been""","Capitol Reef National Park, UT, USA",DaQi
+"""been""","Port Alberni, British Columbia, Canada",DaQi
+"""been""","Canyonlands National Park, UT, USA",DaQi
+"""been""","Parksville, British Columbia, Canada",DaQi
+"""been""","Audubon, PA, USA",DaQi
+"""been""","Coronado, CA, USA",DaQi
+"""been""","Moab, UT, USA",DaQi
+"""been""","Greensboro, NC, USA",DaQi
+"""been""","Ottawa, Ontario, Canada",DaQi
+"""been""","Gatlinburg, TN, USA",DaQi
+"""been""","Princeton, NJ, USA",DaQi
+"""been""","Bern, Switzerland",DaQi
+"""been""","Vegreville, Alberta, Canada",DaQi
+"""been""","Nanjing, China",DaQi
+"""been""","Lhasa, China",DaQi
+"""been""","Nakuru, Kenya",DaQi
+"""been""","Nelson, British Columbia, Canada",DaQi
+"""want""","Jakarta, Indonesia",DaQi
+"""been""","Death Valley National Park, CA, USA",DaQi
+"""been""","Hope, British Columbia, Canada",DaQi
+"""been""","Eureka, CA, USA",DaQi
+"""been""","Lewiston, ID, USA",DaQi
+"""been""","Golden, British Columbia, Canada",DaQi
+"""been""","Bahia de Los Angeles, Mexico",DaQi
+"""been""","Greenville, SC, USA",DaQi
+"""been""","Grand Canyon National Park, AZ, USA",DaQi
+"""been""","Courtenay, British Columbia, Canada",DaQi
+"""want""","Cape Town Central, South Africa",DaQi
+"""been""","Toronto, Ontario, Canada",DaQi
+"""been""","Big Sur, CA, USA",DaQi
+"""been""","Anaheim, CA, USA",DaQi
+"""been""","Charleston, SC, USA",DaQi
+"""been""","Puerto Morelos, Mexico",DaQi
+"""been""","Baltimore, MD, USA",DaQi
+"""been""","Albuquerque, NM, USA",DaQi
+"""been""","Sudbury, Ontario, Canada",DaQi
+"""been""","Thunder Bay, Ontario, Canada",DaQi
+"""been""","Miami Beach, FL, USA",DaQi
+"""been""","Savannah, GA, USA",DaQi
+"""been""","Newark, NJ, USA",DaQi
+"""been""","Tampa, FL, USA",DaQi
+"""been""","Austin, TX, USA",DaQi
+"""been""","Costa Mesa, CA, USA",DaQi
+"""been""","Miami, FL, USA",DaQi
+"""been""","Bengaluru, India",DaQi
+"""been""","Sonoma, CA, USA",DaQi
+"""been""","Joshua Tree National Park, CA, USA",DaQi
+"""been""","Knoxville, TN, USA",DaQi
+"""been""","Tallahassee, FL, USA",DaQi
+"""want""","Srinagar, India",DaQi
+"""been""","Shanghai, China",DaQi
+"""been""","Isle of Palms, SC, USA",DaQi
+"""been""","Yardley, PA, USA",DaQi
+"""been""","Playa del Carmen, Mexico",DaQi
+"""been""","Tulum, Mexico",DaQi
+"""been""","Fredericksburg, VA, USA",DaQi
+"""been""","Crescent City, CA, USA",DaQi
+"""been""","Merida, Mexico",DaQi
+"""been""","Jersey City, NJ, USA",DaQi
+"""been""","Vancouver, WA, USA",DaQi
+"""been""","Moshi, Tanzania",DaQi
+"""been""","Elizabeth, NJ, USA",DaQi
+"""been""","Ngorongoro Conservation Area, Tanzania",DaQi
+"""been""","Airlie Beach, Australia",DaQi
+"""been""","Cancun, Mexico",DaQi
+"""been""","Chichen Itza, Mexico",DaQi
+"""been""","Fairbanks, AK, USA",DaQi
+"""been""","Brooklyn, NY, USA",DaQi
+"""been""","Manchester, UK",DaQi
+"""been""","Krakow, Poland",DaQi
+"""been""","Spokane, WA, USA",DaQi
+"""been""","South San Francisco, CA, USA",DaQi
+"""been""","Port Hardy, British Columbia, Canada",DaQi
+"""been""","West Hollywood, CA, USA",DaQi
+"""been""","San Diego, CA, USA",DaQi
+"""been""","Twentynine Palms, CA, USA",DaQi
+"""been""","San Bruno, CA, USA",DaQi
+"""been""","Skagway, AK, USA",DaQi
+"""been""","Bridgewater, NJ, USA",DaQi
+"""been""","Quebec City, Quebec, Canada",DaQi
+"""been""","Shelby, MT, USA",DaQi
+"""been""","Interlaken, Switzerland",DaQi
+"""been""","Seattle, WA, USA",DaQi
+"""been""","Kandy, Sri Lanka",DaQi
+"""been""","Cincinnati, OH, USA",DaQi
+"""been""","Jeju, South Korea",DaQi
+"""been""","Montreal, Quebec, Canada",DaQi
+"""been""","Houston, TX, USA",DaQi
+"""been""","Kansas City, KS, USA",DaQi
+"""been""","Cave Creek, AZ, USA",DaQi
+"""been""","Telegraph Cove, British Columbia, Canada",DaQi
+"""been""","Paradise Island, Bahamas",DaQi
+"""been""","Nassau, Bahamas",DaQi
+"""been""","Lake Country, British Columbia, Canada",DaQi
+"""been""","Dana Point, CA, USA",DaQi
+"""been""","Anchorage, AK, USA",DaQi
+"""been""","Carlsbad, CA, USA",DaQi
+"""been""","Sechelt, British Columbia, Canada",DaQi
+"""been""","Kissimmee, FL, USA",DaQi
+"""been""","Smithers, British Columbia, Canada",DaQi
+"""been""","Freeport, Bahamas",DaQi
+"""been""","Columbia, SC, USA",DaQi
+"""been""","San Jose, CA, USA",DaQi
+"""been""","Carmel, CA, USA",DaQi
+"""been""","Ventura, CA, USA",DaQi
+"""been""","Whitehorse, Yukon, Canada",DaQi
+"""been""","El Paso, TX, USA",DaQi
+"""been""","New York City, NY, USA",DaQi
+"""been""","Singapore, Singapore",DaQi
+"""been""","Jilin, China",DaQi
+"""been""","Kitwe, Zambia",DaQi
+"""been""","Regina, Saskatchewan, Canada",DaQi
+"""been""","Saskatoon, Saskatchewan, Canada",DaQi
+"""been""","Fort Lauderdale, FL, USA",DaQi
+"""been""","Olympia, WA, USA",DaQi
+"""been""","Port Renfrew, British Columbia, Canada",DaQi
+"""been""","Key West, FL, USA",DaQi
+"""been""","Port McNeill, British Columbia, Canada",DaQi
+"""been""","Shenzhen, China",DaQi
+"""been""","Belmont, CA, USA",DaQi
+"""been""","Gainesville, FL, USA",DaQi
+"""been""","Ndola, Zambia",DaQi
+"""been""","San Mateo, CA, USA",DaQi
+"""been""","Cut Bank, MT, USA",DaQi
+"""been""","Newport, RI, USA",DaQi
+"""want""","Cascais, Portugal",DaQi
+"""been""","Lucerne, Switzerland",DaQi
+"""been""","Buffalo, NY, USA",DaQi
+"""been""","San Luis Obispo, CA, USA",DaQi
+"""been""","Cape Canaveral, FL, USA",DaQi
+"""been""","St. George, UT, USA",DaQi
+"""been""","Sanya, China",DaQi
+"""been""","Denver, CO, USA",DaQi
+"""been""","Coombs, British Columbia, Canada",DaQi
+"""been""","Beverly Hills, CA, USA",DaQi
+"""been""","Temecula, CA, USA",DaQi
+"""been""","Ocala, FL, USA",DaQi
+"""been""","Santa Ana, CA, USA",DaQi
+"""been""","Boston, MA, USA",DaQi
+"""been""","Honolulu, HI, USA",DaQi
+"""been""","Asheville, NC, USA",DaQi
+"""been""","Warsaw, Poland",DaQi
+"""been""","Harbin, China",DaQi
+"""want""","Novosibirsk, Russia",DaQi
+"""been""","Berkeley, CA, USA",DaQi
+"""been""","Williamsburg, VA, USA",DaQi
+"""want""","Irkutsk, Russia",DaQi
+"""been""","Chase, British Columbia, Canada",DaQi
+"""been""","Provo, UT, USA",DaQi
+"""been""","Cache Creek, British Columbia, Canada",DaQi
+"""been""","Wuhan, China",DaQi
+"""been""","Bellingham, WA, USA",DaQi
+"""been""","Mammoth Lakes, CA, USA",DaQi
+"""been""","Santa Rosa, CA, USA",DaQi
+"""been""","South Luangwa National Park, Zambia",DaQi
+"""been""","Santa Monica, CA, USA",DaQi
+"""been""","Kitimat-Stikine District, British Columbia, Canada",DaQi
+"""been""","Casper, WY, USA",DaQi
+"""been""","West Yellowstone, MT, USA",DaQi
+"""been""","Missoula, MT, USA",DaQi
+"""been""","Philadelphia, PA, USA",DaQi
+"""been""","Agra, India",DaQi
+"""been""","Suzhou, China",DaQi
+"""been""","Ucluelet, British Columbia, Canada",DaQi
+"""been""","Bryce Canyon City, UT, USA",DaQi
+"""been""","Santa Cruz, CA, USA",DaQi
+"""been""","Watson Lake, Yukon, Canada",DaQi
+"""been""","Everett, WA, USA",DaQi
+"""been""","Big Pine, CA, USA",DaQi
+"""been""","Santa Barbara, CA, USA",DaQi
+"""been""","Bellevue, WA, USA",DaQi
+"""been""","Stikine Region, British Columbia, Canada",DaQi
+"""been""","Sausalito, CA, USA",DaQi
+"""been""","Kabwe, Zambia",DaQi
+"""been""","Adelaide, Australia",DaQi
+"""been""","Jinan, China",DaQi
+"""been""","Shenyang, China",DaQi
+"""been""","Dalian, China",DaQi
+"""been""","Bologna, Italy",DaQi
+"""been""","Halfmoon Bay, British Columbia, Canada",DaQi
+"""been""","Heber City, UT, USA",DaQi
+"""been""","Kings Canyon, Australia",DaQi
+"""been""","Cambridge, MA, USA",DaQi
+"""been""","Alice Springs, Australia",DaQi
+"""been""","Richmond, VA, USA",DaQi
+"""been""","Tustin, CA, USA",DaQi
+"""been""","Yulara, Australia",DaQi
+"""been""","Sydney, Australia",DaQi
+"""want""","Yangon (Rangoon), Myanmar",DaQi
+"""been""","Atlanta, GA, USA",DaQi
+"""been""","Guilin, China",DaQi
+"""been""","Xi'an, China",DaQi
+"""been""","Urumqi, China",DaQi
+"""been""","Guangzhou, China",DaQi
+"""been""","Bogota, Colombia",DaQi
+"""been""","Chengdu, China",DaQi
+"""been""","Seoul, South Korea",DaQi
+"""been""","Seaside, CA, USA",DaQi
+"""been""","Eldoret, Kenya",DaQi
+"""been""","Seal Beach, CA, USA",DaQi
+"""been""","Borrego Springs, CA, USA",DaQi
+"""been""","Hangzhou, China",DaQi
+"""been""","Cairns, Australia",DaQi
+"""been""","Ensenada, Mexico",DaQi
+"""been""","Kanab, UT, USA",DaQi
+"""been""","Dease Lake, British Columbia, Canada",DaQi
+"""been""","Patna, India",DaQi
+"""been""","Shaoxing, China",DaQi
+"""been""","Telegraph Creek, British Columbia, Canada",DaQi
+"""been""","Washington DC, DC, USA",DaQi
+"""been""","Death Valley Junction, CA, USA",DaQi
+"""want""","Medellin, Colombia",DaQi
+"""want""","Cartagena, Colombia",DaQi
+"""been""","Osaka, Japan",DaQi
+"""been""","Kyoto, Japan",DaQi
+"""been""","Staten Island, NY, USA",DaQi
+"""been""","Nkhata Bay, Malawi",DaQi
+"""been""","Bella Coola, British Columbia, Canada",DaQi
+"""been""","King of Prussia, PA, USA",DaQi
+"""been""","Virginia Beach, VA, USA",DaQi
+"""been""","Kuala Lumpur, Malaysia",DaQi
+"""want""","Makati, Philippines",DaQi
+"""want""","Kyzyl, Russia",DaQi
+"""been""","Winston Salem, NC, USA",DaQi
+"""been""","Brasilia, Brazil",DaQi
+"""been""","Huangshan, China",DaQi
+"""been""","Billings, MT, USA",DaQi
+"""been""","Victoria, Seychelles",DaQi
+"""want""","Manila, Philippines",DaQi
+"""been""","Oodnadatta, Australia",DaQi
+"""been""","Norfolk, VA, USA",DaQi
+"""been""","Indianapolis, IN, USA",DaQi
+"""been""","Puerto Vallarta, Mexico",DaQi
+"""been""","Mazatlan, Mexico",DaQi
+"""been""","Edmonton, Alberta, Canada",DaQi
+"""been""","Auckland, New Zealand",DaQi
+"""been""","Calgary, Alberta, Canada",DaQi
+"""been""","Lake Louise, Alberta, Canada",DaQi
+"""been""","Banff, Alberta, Canada",DaQi
+"""been""","Banff National Park, Alberta, Canada",DaQi
+"""been""","Eugene, OR, USA",DaQi
+"""been""","Wilmington, NC, USA",DaQi
+"""been""","Hatgal, Mongolia",DaQi
+"""been""","Great Falls, MT, USA",DaQi
+"""been""","Sooke, British Columbia, Canada",DaQi
+"""want""","Havana, Cuba",DaQi
+"""been""","Belitung Island, Indonesia",DaQi
+"""been""","Chemainus, British Columbia, Canada",DaQi
+"""been""","Kolkata (Calcutta), India",DaQi
+"""been""","Williams Lake, British Columbia, Canada",DaQi
+"""been""","Mont-Saint-Michel, France",DaQi
+"""want""","Darjeeling, India",DaQi
+"""been""","Chennai (Madras), India",DaQi
+"""been""","Tianjin, China",DaQi
+"""been""","Red Deer, Alberta, Canada",DaQi
+"""been""","New Delhi, India",DaQi
+"""been""","Lethbridge, Alberta, Canada",DaQi
+"""been""","Sioux Falls, SD, USA",DaQi
+"""want""","Mumbai, India",DaQi
+"""been""","Jasper, Alberta, Canada",DaQi
+"""been""","Mysuru (Mysore), India",DaQi
+"""been""","Raleigh, NC, USA",DaQi
+"""been""","Willemstad, Curacao",DaQi
+"""been""","Cork, Ireland",DaQi
+"""been""","Dublin, Ireland",DaQi
+"""been""","Guerrero Negro, Mexico",DaQi
+"""been""","Rankin Inlet, Nunavut, Canada",DaQi
+"""been""","Baker Lake, Nunavut, Canada",DaQi
+"""been""","Galway, Ireland",DaQi
+"""been""","San Quintin, Mexico",DaQi
+"""been""","Murray, UT, USA",DaQi
+"""been""","Prince George, British Columbia, Canada",DaQi
+"""been""","Cabo San Lucas, Mexico",DaQi
+"""been""","Nanaimo, British Columbia, Canada",DaQi
+"""been""","Calais, France",DaQi
+"""want""","Siem Reap, Cambodia",DaQi
+"""been""","Kamloops, British Columbia, Canada",DaQi
+"""been""","Bozeman, MT, USA",DaQi
+"""been""","Duncan, British Columbia, Canada",DaQi
+"""want""","Moscow, Russia",DaQi
+"""been""","Dawson City, Yukon, Canada",DaQi
+"""been""","Killarney, Ireland",DaQi
+"""been""","Kilkenny, Ireland",DaQi
+"""been""","Salt Spring Island, British Columbia, Canada",DaQi
+"""been""","Chiang Mai, Thailand",DaQi
+"""been""","Yosemite National Park, CA, USA",DaQi
+"""been""","Shreveport, LA, USA",DaQi
+"""been""","Milford Sound, New Zealand",DaQi
+"""been""","Taipei, Taiwan",DaQi
+"""been""","Bangkok, Thailand",DaQi
+"""been""","Whistler, British Columbia, Canada",DaQi
+"""been""","Atlantic City, NJ, USA",DaQi
+"""want""","Petropavlovsk-Kamchatsky, Russia",DaQi
+"""been""","Victoria, British Columbia, Canada",DaQi
+"""been""","Vancouver, British Columbia, Canada",DaQi
+"""been""","Tofino, British Columbia, Canada",DaQi
+"""been""","Venice, Italy",DaQi
+"""been""","Ladysmith, British Columbia, Canada",DaQi
+"""been""","Malindi, Kenya",DaQi
+"""been""","Prince Rupert, British Columbia, Canada",DaQi
+"""want""","Vladivostok, Russia",DaQi
+"""been""","Phuket, Thailand",DaQi
+"""want""","Halong Bay, Vietnam",DaQi
+"""been""","Queenstown, New Zealand",DaQi
+"""been""","Churchill, Manitoba, Canada",DaQi
+"""been""","Whangarei, New Zealand",DaQi
+"""been""","Macau, China",DaQi
+"""been""","Pincher Creek, Alberta, Canada",DaQi
+"""want""","Hanoi, Vietnam",DaQi
+"""want""","Hue, Vietnam",DaQi
+"""been""","Lake George, NY, USA",DaQi
+"""been""","Winnipeg, Manitoba, Canada",DaQi
+"""been""","Thompson, Manitoba, Canada",DaQi
+"""been""","Field, British Columbia, Canada",DaQi
+"""been""","Niagara Falls, NY, USA",DaQi
+"""been""","Manaus, Brazil",DaQi
+"""been""","Lilongwe, Malawi",DaQi
+"""been""","Utrecht, The Netherlands",DaQi
+"""been""","Maputo, Mozambique",DaQi
+"""been""","Blantyre, Malawi",DaQi
+"""been""","Yellowknife, Northwest Territories, Canada",DaQi
+"""been""","Radium Hot Springs, British Columbia, Canada",DaQi
+"""been""","Chapel Hill, NC, USA",DaQi
+"""been""","Charlotte, NC, USA",DaQi
+"""been""","Oceanside, CA, USA",DaQi
+"""been""","Cherokee, NC, USA",DaQi
+"""been""","Zomba, Malawi",DaQi
+"""been""","Fernie, British Columbia, Canada",DaQi
+"""been""","Edinburgh, UK",DaQi
+"""been""","Spences Bridge, British Columbia, Canada",DaQi
+"""been""","Coventry, UK",DaQi
+"""been""","Nags Head, NC, USA",DaQi
+"""been""","Auckland Central, New Zealand",DaQi
+"""been""","Oakland, CA, USA",DaQi
+"""been""","Melbourne, Australia",DaQi
+"""been""","Valladolid, Mexico",DaQi
+"""want""","Kabul, Afghanistan",DaQi
+"""want""","Phnom Penh, Cambodia",DaQi
+"""been""","Geelong, Australia",DaQi
+"""been""","Paihia, New Zealand",DaQi
+"""want""","Bishkek, Kyrgyzstan",DaQi
+"""been""","Morrisville, NC, USA",DaQi
+"""been""","Cary, NC, USA",DaQi
+"""been""","Albany, NY, USA",DaQi
+"""been""","Orange, CA, USA",DaQi
+"""been""","Springfield - Springfield Township, PA, USA",DaQi
+"""been""","Kill Devil Hills, NC, USA",DaQi
+"""been""","Ontario, CA, USA",DaQi
+"""been""","Jemez Springs, NM, USA",DaQi
+"""been""","Dunedin, New Zealand",DaQi
+"""been""","Entebbe, Uganda",DaQi
+"""been""","Wellington, New Zealand",DaQi
+"""been""","Christchurch, New Zealand",DaQi
+"""been""","Glasgow, UK",DaQi
+"""been""","Ulaanbaatar, Mongolia",DaQi
+"""been""","Windsor, UK",DaQi
+"""want""","Vientiane, Laos",DaQi

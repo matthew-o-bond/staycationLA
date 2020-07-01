@@ -1,0 +1,580 @@
+tag,place,user
+"""want""","Biarritz, France",docdaura
+"""want""","Hersonissos, Greece",docdaura
+"""want""","Psalidi, Greece",docdaura
+"""want""","Geneva, Switzerland",docdaura
+"""want""","Cayo Santa Maria, Cuba",docdaura
+"""been""","Tucson, AZ, USA",docdaura
+"""want""","Bern, Switzerland",docdaura
+"""want""","Castiglione Della Pescaia, Italy",docdaura
+"""been""","Pordenone, Italy",docdaura
+"""want""","Suva, Fiji",docdaura
+"""been""","Agoura Hills, CA, USA",docdaura
+"""been""","Buena Park, CA, USA",docdaura
+"""been""","Brooklyn, NY, USA",docdaura
+"""want""","Basel, Switzerland",docdaura
+"""been""","Healdsburg, CA, USA",docdaura
+"""want""","Le Morne, Africa",docdaura
+"""been""","Spokane, WA, USA",docdaura
+"""want""","Sigatoka, Fiji",docdaura
+"""want""","Nadi, Fiji",docdaura
+"""want""","San Agustin, Spain",docdaura
+"""want""","Playa del Ingles, Spain",docdaura
+"""want""","Levanto, Italy",docdaura
+"""want""","Cascais, Portugal",docdaura
+"""want""","Salou, Spain",docdaura
+"""want""","Santa Ponsa, Spain",docdaura
+"""want""","Tigaki, Greece",docdaura
+"""want""","Cefalu, Italy",docdaura
+"""been""","East Hampton, NY, USA",docdaura
+"""want""","Lucerne, Switzerland",docdaura
+"""want""","Cattolica, Italy",docdaura
+"""been""","Alberobello, Italy",docdaura
+"""been""","Albuquerque, NM, USA",docdaura
+"""been""","Tampa, FL, USA",docdaura
+"""been""","Solvang, CA, USA",docdaura
+"""been""","Baltimore, MD, USA",docdaura
+"""been""","Savannah, GA, USA",docdaura
+"""been""","Miami, FL, USA",docdaura
+"""been""","Miami Beach, FL, USA",docdaura
+"""been""","Coronado, CA, USA",docdaura
+"""want""","Adelaide, Australia",docdaura
+"""been""","Grand Canyon National Park, AZ, USA",docdaura
+"""want""","Salvador, Brazil",docdaura
+"""been""","Sonoma, CA, USA",docdaura
+"""want""","Andorra la Vella, Andorra",docdaura
+"""want""","Ischia, Italy",docdaura
+"""want""","Ravello, Italy",docdaura
+"""want""","Sintra, Portugal",docdaura
+"""want""","La Palmyre-Les Mathes, France",docdaura
+"""want""","Forio, Italy",docdaura
+"""want""","Funchal, Portugal",docdaura
+"""want""","Puerto de Mogan, Spain",docdaura
+"""want""","Riccione, Italy",docdaura
+"""been""","Salt Lake City, UT, USA",docdaura
+"""want""","Lima, Peru",docdaura
+"""want""","Machu Picchu, Peru",docdaura
+"""want""","Fira, Greece",docdaura
+"""want""","Oia, Greece",docdaura
+"""want""","Isola di Capo Rizzuto, Italy",docdaura
+"""been"",""want""","Lisbon, Portugal",docdaura
+"""been""","Amatitlan, Guatemala",docdaura
+"""been""","Livingston, Guatemala",docdaura
+"""been""","Half Moon Bay, CA, USA",docdaura
+"""been""","Nashville, TN, USA",docdaura
+"""want""","Cusco, Peru",docdaura
+"""been""","Laguna Beach, CA, USA",docdaura
+"""want""","Valras-Plage, France",docdaura
+"""been""","Aviano, Italy",docdaura
+"""want""","Portoferraio, Italy",docdaura
+"""want""","Corralejo, Spain",docdaura
+"""want""","Cambrils, Spain",docdaura
+"""want""","Calella, Spain",docdaura
+"""want""","Cadaques, Spain",docdaura
+"""want""","Praiano, Italy",docdaura
+"""want""","Nairobi, Kenya",docdaura
+"""want""","Vilamoura, Portugal",docdaura
+"""want""","Juneau, AK, USA",docdaura
+"""want""","Pirae, French Polynesia",docdaura
+"""want""","Fortaleza, Brazil",docdaura
+"""been""","Boulder, CO, USA",docdaura
+"""want""","Skala, Greece",docdaura
+"""want""","Sa Coma, Spain",docdaura
+"""want""","Port d'Alcudia, Spain",docdaura
+"""been""","Hayes, UK",docdaura
+"""want""","Porto Cristo, Spain",docdaura
+"""been""","Reno, NV, USA",docdaura
+"""want""","Garda, Italy",docdaura
+"""want""","Porto, Portugal",docdaura
+"""want""","Alicante, Spain",docdaura
+"""been""","Marina del Rey, CA, USA",docdaura
+"""been""","Sedona, AZ, USA",docdaura
+"""been""","Scottsdale, AZ, USA",docdaura
+"""want""","Vaitape, French Polynesia",docdaura
+"""been""","Green Bay, WI, USA",docdaura
+"""want""","Santa Maria, Cape Verde",docdaura
+"""want""","Brisbane, Australia",docdaura
+"""want""","Lloret de Mar, Spain",docdaura
+"""want""","Finale Ligure, Italy",docdaura
+"""want""","Tavira, Portugal",docdaura
+"""want""","Riva Del Garda, Italy",docdaura
+"""want""","Mykonos Town, Greece",docdaura
+"""want""","Follonica, Italy",docdaura
+"""want""","Seminyak, Indonesia",docdaura
+"""been""","Ferrara, Italy",docdaura
+"""want""","Gabicce Mare, Italy",docdaura
+"""want""","Peguera, Spain",docdaura
+"""want""","Palmanova, Spain",docdaura
+"""want""","Forte Dei Marmi, Italy",docdaura
+"""want""","Manacor, Spain",docdaura
+"""been""","Guatemala City, Guatemala",docdaura
+"""been""","Orlando, FL, USA",docdaura
+"""been""","Panajachel, Guatemala",docdaura
+"""been""","Santiago Atitlan, Guatemala",docdaura
+"""want""","Cuenca, Ecuador",docdaura
+"""want""","Quito, Ecuador",docdaura
+"""been""","Annapolis, MD, USA",docdaura
+"""been""","Yountville, CA, USA",docdaura
+"""been""","La Jolla, CA, USA",docdaura
+"""been""","Chichicastenango, Guatemala",docdaura
+"""want""","Playa de Muro, Spain",docdaura
+"""been""","Tota, Colombia",docdaura
+"""want""","Lecce, Italy",docdaura
+"""want""","Rio Grande, Puerto Rico",docdaura
+"""want""","Lindos, Greece",docdaura
+"""want""","Livigno, Italy",docdaura
+"""been""","Rio Hondo, Guatemala",docdaura
+"""been""","Prague, Czech Republic",docdaura
+"""been""","Arlington, VA, USA",docdaura
+"""been""","St. Petersburg, FL, USA",docdaura
+"""want""","Faa'a, French Polynesia",docdaura
+"""want""","Las Terrenas, Dominican Republic",docdaura
+"""been""","Minneapolis, MN, USA",docdaura
+"""want""","Alassio, Italy",docdaura
+"""want""","Soller, Spain",docdaura
+"""want""","Cap-d'Agde, France",docdaura
+"""been""","Portland, OR, USA",docdaura
+"""want""","Jerez De La Frontera, Spain",docdaura
+"""been""","Sarasota, FL, USA",docdaura
+"""want""","Surfers Paradise, Australia",docdaura
+"""want""","Assisi, Italy",docdaura
+"""been""","West Palm Beach, FL, USA",docdaura
+"""been""","Malibu, CA, USA",docdaura
+"""been""","Phoenix, AZ, USA",docdaura
+"""been""","Santa Fe de Antioquia, Colombia",docdaura
+"""want""","Porto Alegre, Brazil",docdaura
+"""want""","Ha'apiti, French Polynesia",docdaura
+"""want""","West Bay, Honduras",docdaura
+"""been""","Long Beach, CA, USA",docdaura
+"""want""","Tossa de Mar, Spain",docdaura
+"""been""","Napa, CA, USA",docdaura
+"""been""","Alexandria, VA, USA",docdaura
+"""been""","Las Vegas, NV, USA",docdaura
+"""want""","Bardolino, Italy",docdaura
+"""want""","Bellaria-Igea Marina, Italy",docdaura
+"""want""","Bologna, Italy",docdaura
+"""been""","Pismo Beach, CA, USA",docdaura
+"""been""","Chicago, IL, USA",docdaura
+"""want""","Maspalomas, Spain",docdaura
+"""been""","Bayahibe, Dominican Republic",docdaura
+"""been""","Fresno, CA, USA",docdaura
+"""been""","Nebaj, Guatemala",docdaura
+"""been""","Los Angeles, CA, USA",docdaura
+"""been""","Milwaukee, WI, USA",docdaura
+"""want""","Uturoa, French Polynesia",docdaura
+"""been""","Flores, Guatemala",docdaura
+"""been""","Paso Robles, CA, USA",docdaura
+"""want""","Foz do Iguacu, Brazil",docdaura
+"""want""","Cork, Ireland",docdaura
+"""want""","Brasilia, Brazil",docdaura
+"""been""","Polcenigo, Italy",docdaura
+"""been""","Avalon, CA, USA",docdaura
+"""want""","Curitiba, Brazil",docdaura
+"""been""","Pittsburgh, PA, USA",docdaura
+"""want""","Manarola, Italy",docdaura
+"""been""","Morro Bay, CA, USA",docdaura
+"""want""","Dublin, Ireland",docdaura
+"""been""","Long Island City, NY, USA",docdaura
+"""want""","Jerusalem, Israel",docdaura
+"""want""","Tel Aviv, Israel",docdaura
+"""want""","Cala d'Or, Spain",docdaura
+"""want""","Cala Bona, Spain",docdaura
+"""want""","Mont-Saint-Michel, France",docdaura
+"""want""","Genoa, Italy",docdaura
+"""want""","Maceio, Brazil",docdaura
+"""want""","Killarney, Ireland",docdaura
+"""been"",""want""","Monterosso al Mare, Italy",docdaura
+"""been""","Palmanova, Italy",docdaura
+"""want""","Puerto Del Carmen, Spain",docdaura
+"""want""","Almunecar, Spain",docdaura
+"""want""","Can Pastilla, Spain",docdaura
+"""been""","Fort Worth, TX, USA",docdaura
+"""want""","Playa de Palma, Spain",docdaura
+"""been""","Sacramento, CA, USA",docdaura
+"""want""","Calas de Majorca, Spain",docdaura
+"""want""","Sissi, Greece",docdaura
+"""been""","Huntington Beach, CA, USA",docdaura
+"""want""","Portofino, Italy",docdaura
+"""been""","Bloomington, MN, USA",docdaura
+"""want""","Santa Eulalia del Rio, Spain",docdaura
+"""want""","S'illot, Spain",docdaura
+"""want""","Ibiza Town, Spain",docdaura
+"""want""","Cala'n Bosch, Spain",docdaura
+"""want""","Kapalua, HI, USA",docdaura
+"""want""","Platja d'Aro, Spain",docdaura
+"""been""","Brunssum, The Netherlands",docdaura
+"""been""","Pacific Grove, CA, USA",docdaura
+"""want""","Bellagio, Italy",docdaura
+"""want""","Caleta de Fuste, Spain",docdaura
+"""want""","Limerick, Ireland",docdaura
+"""been""","Cremona, Italy",docdaura
+"""been""","South Lake Tahoe, CA, USA",docdaura
+"""want""","Ca'n Picafort, Spain",docdaura
+"""been""","Palm Springs, CA, USA",docdaura
+"""want""","Porto de Galinhas, Brazil",docdaura
+"""want""","Cala Millor, Spain",docdaura
+"""want""","Melbourne, Australia",docdaura
+"""been""","Vittorio Veneto, Italy",docdaura
+"""been""","Geilenkirchen, Germany",docdaura
+"""want""","Como, Italy",docdaura
+"""been""","San Juan Sacatepequez, Guatemala",docdaura
+"""want""","Playa Blanca, Spain",docdaura
+"""been""","Chimaltenango, Guatemala",docdaura
+"""want""","Otranto, Italy",docdaura
+"""been""","Saint Paul, MN, USA",docdaura
+"""want""","Istanbul, Turkey",docdaura
+"""been""","Montauk, NY, USA",docdaura
+"""want""","Sant Antoni de Portmany, Spain",docdaura
+"""want""","Kato Gouves, Greece",docdaura
+"""want""","Sperlonga, Italy",docdaura
+"""been""","Pasadena, CA, USA",docdaura
+"""been""","Monterey, CA, USA",docdaura
+"""want""","Es Canar, Spain",docdaura
+"""been""","Dallas, TX, USA",docdaura
+"""want""","Milan, Italy",docdaura
+"""want""","Zahara de los Atunes, Spain",docdaura
+"""want""","Protaras, Cyprus",docdaura
+"""been""","Armenia, Colombia",docdaura
+"""want""","Christchurch, New Zealand",docdaura
+"""been""","Kill Devil Hills, NC, USA",docdaura
+"""been""","Villavicencio, Colombia",docdaura
+"""want""","Playa de las Americas, Spain",docdaura
+"""want""","Turin, Italy",docdaura
+"""been""","Mendocino, CA, USA",docdaura
+"""want""","Queenstown, New Zealand",docdaura
+"""been""","Vaison-la-Romaine, France",docdaura
+"""want""","Perth, Australia",docdaura
+"""want""","Auckland Central, New Zealand",docdaura
+"""been"",""want""","Venice, Italy",docdaura
+"""been"",""want""","Playa el Agua, Venezuela",docdaura
+"""want""","Malia, Greece",docdaura
+"""been""","Cucuta, Colombia",docdaura
+"""been""","Villa de Leyva, Colombia",docdaura
+"""want""","Tarragona, Spain",docdaura
+"""want""","Vilanova i la Geltru, Spain",docdaura
+"""want""","Sitges, Spain",docdaura
+"""been""","Zipaquira, Colombia",docdaura
+"""want""","Belo Horizonte, Brazil",docdaura
+"""want""","Zell am See, Austria",docdaura
+"""want""","Armacao dos Buzios, Brazil",docdaura
+"""want""","La Coruna, Spain",docdaura
+"""want""","Roquetas de Mar, Spain",docdaura
+"""want""","Playa Flamingo, Costa Rica",docdaura
+"""want""","Guardalavaca, Cuba",docdaura
+"""want""","Playa Hermosa, Costa Rica",docdaura
+"""want""","Islantilla, Spain",docdaura
+"""been""","Cagliari, Italy",docdaura
+"""want""","Alghero, Italy",docdaura
+"""been""","Rincon, Puerto Rico",docdaura
+"""been""","Madrid, Spain",docdaura
+"""been""","Niagara Falls, NY, USA",docdaura
+"""want""","Bari, Italy",docdaura
+"""want""","Adeje, Spain",docdaura
+"""been""","Cajica, Colombia",docdaura
+"""been"",""want""","Verona, Italy",docdaura
+"""want""","Fuengirola, Spain",docdaura
+"""want""","Tarifa, Spain",docdaura
+"""want""","Nerja, Spain",docdaura
+"""been"",""want""","Roissy-en-France, France",docdaura
+"""been""","Victoria, British Columbia, Canada",docdaura
+"""want""","Tamarindo, Costa Rica",docdaura
+"""been""","Oak Park, CA, USA",docdaura
+"""want""","Taormina, Italy",docdaura
+"""been""","Porec, Croatia",docdaura
+"""want""","Palermo, Italy",docdaura
+"""been""","Park City, UT, USA",docdaura
+"""been""","Vancouver, British Columbia, Canada",docdaura
+"""want""","Gallipoli, Italy",docdaura
+"""want""","Ayia Napa, Cyprus",docdaura
+"""want""","Calpe, Spain",docdaura
+"""want""","Benidorm, Spain",docdaura
+"""want""","Catania, Italy",docdaura
+"""been""","Canterbury, UK",docdaura
+"""want""","Leipzig, Germany",docdaura
+"""want""","El Arenal, Spain",docdaura
+"""want""","Olbia, Italy",docdaura
+"""want""","Roses, Spain",docdaura
+"""been""","Oceanside, CA, USA",docdaura
+"""been""","Oakland, CA, USA",docdaura
+"""want""","Valencia, Spain",docdaura
+"""been""","Cabo San Lucas, Mexico",docdaura
+"""been""","Santo Domingo, Dominican Republic",docdaura
+"""want""","La Manga del Mar Menor, Spain",docdaura
+"""want""","Amalfi, Italy",docdaura
+"""want""","Lucca, Italy",docdaura
+"""want""","Florence, Italy",docdaura
+"""want""","Cortona, Italy",docdaura
+"""want""","San Pedro, Belize",docdaura
+"""want""","Porto-Vecchio, France",docdaura
+"""want""","Arenal d'en Castell, Spain",docdaura
+"""want""","Sidari, Greece",docdaura
+"""want""","Cordoba, Spain",docdaura
+"""been""","Punta Cana, Dominican Republic",docdaura
+"""been""","La Romana, Dominican Republic",docdaura
+"""want""","Rome, Italy",docdaura
+"""been""","Lake George, NY, USA",docdaura
+"""want""","Puerto Plata, Dominican Republic",docdaura
+"""want""","San Ignacio, Belize",docdaura
+"""been"",""want""","London, UK",docdaura
+"""want""","San Teodoro, Italy",docdaura
+"""been""","Garmisch-Partenkirchen, Germany",docdaura
+"""want""","Fiumicino, Italy",docdaura
+"""want""","Laganas, Greece",docdaura
+"""want""","Capri, Italy",docdaura
+"""want""","Kamari, Greece",docdaura
+"""want""","Placencia, Belize",docdaura
+"""been""","The Hague, The Netherlands",docdaura
+"""want""","Munich, Germany",docdaura
+"""want""","Almeria, Spain",docdaura
+"""been""","Antwerp, Belgium",docdaura
+"""want""","Jaco, Costa Rica",docdaura
+"""want""","Pefkos, Greece",docdaura
+"""been"",""want""","Boise, ID, USA",docdaura
+"""been""","Melgar, Colombia",docdaura
+"""been""","Girardot, Colombia",docdaura
+"""want""","Granada, Spain",docdaura
+"""been""","Puerto Vallarta, Mexico",docdaura
+"""want""","Torremolinos, Spain",docdaura
+"""want""","Punta Prima, Spain",docdaura
+"""want""","Malaga, Spain",docdaura
+"""want""","San Andres, Colombia",docdaura
+"""want""","Estepona, Spain",docdaura
+"""been""","Washington DC, DC, USA",docdaura
+"""been""","York, UK",docdaura
+"""want""","Maharepa, French Polynesia",docdaura
+"""want""","Waya Island, Fiji",docdaura
+"""want""","Chiclana de la Frontera, Spain",docdaura
+"""want""","Pesaro, Italy",docdaura
+"""want""","Cadiz, Spain",docdaura
+"""been""","Nuremberg, Germany",docdaura
+"""want""","Ostuni, Italy",docdaura
+"""been"",""want""","Stockholm, Sweden",docdaura
+"""been""","Rothenburg, Germany",docdaura
+"""want""","Marbella, Spain",docdaura
+"""want""","Willemstad, Curacao",docdaura
+"""want""","Varadero, Cuba",docdaura
+"""been""","Puerto Rico, Spain",docdaura
+"""want""","San Miguel de Abona, Spain",docdaura
+"""want""","Praia da Rocha, Portugal",docdaura
+"""been""","Hilo, HI, USA",docdaura
+"""want""","Oviedo, Spain",docdaura
+"""want""","Hamburg, Germany",docdaura
+"""want""","Havana, Cuba",docdaura
+"""want""","Tavewa Island, Fiji",docdaura
+"""want""","Rio de Janeiro, Brazil",docdaura
+"""want""","Paraty, Brazil",docdaura
+"""want""","Zaragoza, Spain",docdaura
+"""want""","Sao Paulo, Brazil",docdaura
+"""want""","Porto Cesareo, Italy",docdaura
+"""been""","Berlin, Germany",docdaura
+"""want""","Nacula Island, Fiji",docdaura
+"""want""","Seville, Spain",docdaura
+"""been""","Wurzburg, Germany",docdaura
+"""want""","San Jose, Costa Rica",docdaura
+"""been""","Tijuana, Mexico",docdaura
+"""been""","Barranquilla, Colombia",docdaura
+"""been""","Bruges, Belgium",docdaura
+"""want""","Faliraki, Greece",docdaura
+"""want""","Rhodes Town, Greece",docdaura
+"""want""","Ialyssos, Greece",docdaura
+"""want""","Palma de Mallorca, Spain",docdaura
+"""want""","Natal, Brazil",docdaura
+"""been""","Bath, UK",docdaura
+"""want""","Antibes, France",docdaura
+"""been""","Frankfurt, Germany",docdaura
+"""want""","San Sebastian - Donostia, Spain",docdaura
+"""want""","Bilbao, Spain",docdaura
+"""want""","Avignon, France",docdaura
+"""been""","Arles, France",docdaura
+"""been""","Eugene, OR, USA",docdaura
+"""want""","Perissa, Greece",docdaura
+"""want""","Kuala Lumpur, Malaysia",docdaura
+"""want""","Santa Marta, Colombia",docdaura
+"""been""","Boca Chica, Panama",docdaura
+"""been""","Dijon, France",docdaura
+"""want""","Las Palmas de Gran Canaria, Spain",docdaura
+"""been""","Bury St. Edmunds, UK",docdaura
+"""want""","Kallithea, Greece",docdaura
+"""want""","Saint-Malo, France",docdaura
+"""want""","Ciutadella, Spain",docdaura
+"""want""","Athens, Greece",docdaura
+"""been""","Medellin, Colombia",docdaura
+"""want""","Cali, Colombia",docdaura
+"""been""","Cartagena, Colombia",docdaura
+"""been""","Pereira, Colombia",docdaura
+"""been""","Beaune, France",docdaura
+"""want""","Taurito, Spain",docdaura
+"""want""","Castries, St. Lucia",docdaura
+"""want""","Punaauia, French Polynesia",docdaura
+"""want""","Cook's  Bay, French Polynesia",docdaura
+"""been""","Mammoth Lakes, CA, USA",docdaura
+"""want""","Copenhagen, Denmark",docdaura
+"""want""","Patio, French Polynesia",docdaura
+"""been""","Huehuetenango, Guatemala",docdaura
+"""been""","Clearwater, FL, USA",docdaura
+"""want""","Rethymnon, Greece",docdaura
+"""been""","Santa Monica, CA, USA",docdaura
+"""been""","Cabarete, Dominican Republic",docdaura
+"""want""","Santander, Spain",docdaura
+"""been""","Philadelphia, PA, USA",docdaura
+"""want""","Puerto de la Cruz, Spain",docdaura
+"""been""","Gettysburg, PA, USA",docdaura
+"""want""","Tumon, Mariana Islands",docdaura
+"""want""","Puerto Iguazu, Argentina",docdaura
+"""been""","Santa Rosa, CA, USA",docdaura
+"""want""","Nice, France",docdaura
+"""want""","Savusavu, Fiji",docdaura
+"""want""","Papetoai, French Polynesia",docdaura
+"""want""","Agios Nikolaos, Greece",docdaura
+"""want""","Elounda, Greece",docdaura
+"""want""","Rakiraki, Fiji",docdaura
+"""want""","Kardamena, Greece",docdaura
+"""been""","Taos, NM, USA",docdaura
+"""been""","Farallon, Panama",docdaura
+"""been""","Bogota, Colombia",docdaura
+"""want""","Caracas, Venezuela",docdaura
+"""want""","Marseille, France",docdaura
+"""want""","Playa d'en Bossa, Spain",docdaura
+"""want""","Dusseldorf, Germany",docdaura
+"""want""","Salamanca, Spain",docdaura
+"""want""","Tours, France",docdaura
+"""been""","Orange, France",docdaura
+"""want""","Costa Teguise, Spain",docdaura
+"""want""","Cologne, Germany",docdaura
+"""want""","Costa Calma, Spain",docdaura
+"""been""","Death Valley Junction, CA, USA",docdaura
+"""want""","Monte-Carlo, Monaco",docdaura
+"""want""","Toledo, Spain",docdaura
+"""been""","Stratford-upon-Avon, UK",docdaura
+"""want""","Punta del Este, Uruguay",docdaura
+"""been""","Boquete, Panama",docdaura
+"""been""","Big Sur, CA, USA",docdaura
+"""want""","Port de Pollenca, Spain",docdaura
+"""been""","Louisville, KY, USA",docdaura
+"""want""","Begur, Spain",docdaura
+"""been""","Colon, Panama",docdaura
+"""been""","Amsterdam, The Netherlands",docdaura
+"""been""","San Juan, Puerto Rico",docdaura
+"""want""","Dubrovnik, Croatia",docdaura
+"""been""","Cambridge, MA, USA",docdaura
+"""want""","Lyon, France",docdaura
+"""want""","Senigallia, Italy",docdaura
+"""want""","Kailua, HI, USA",docdaura
+"""want""","Chamonix, France",docdaura
+"""want""","Kapolei, HI, USA",docdaura
+"""want""","Annecy, France",docdaura
+"""been""","Atlanta, GA, USA",docdaura
+"""want""","Santa Susanna, Spain",docdaura
+"""want""","Lausanne, Switzerland",docdaura
+"""been""","Berkeley, CA, USA",docdaura
+"""been""","Reims, France",docdaura
+"""been""","Irving, TX, USA",docdaura
+"""want""","Girona, Spain",docdaura
+"""want""","Saint-Remy-de-Provence, France",docdaura
+"""been""","Barcelona, Spain",docdaura
+"""been""","Antigua, Guatemala",docdaura
+"""been""","Chia, Colombia",docdaura
+"""want""","Salta, Argentina",docdaura
+"""want""","Alvor, Portugal",docdaura
+"""want""","Argassi, Greece",docdaura
+"""want""","San Vincenzo, Italy",docdaura
+"""want""","Anchorage, AK, USA",docdaura
+"""want""","Montpellier, France",docdaura
+"""been""","Beverly Hills, CA, USA",docdaura
+"""been""","New York City, NY, USA",docdaura
+"""want""","Puerto de Santiago, Spain",docdaura
+"""been""","Tocancipa, Colombia",docdaura
+"""want""","Sanremo, Italy",docdaura
+"""been""","Seattle, WA, USA",docdaura
+"""been""","Santa Cruz, CA, USA",docdaura
+"""been""","Santa Barbara, CA, USA",docdaura
+"""been""","Paris, France",docdaura
+"""want""","Sant'Agnello, Italy",docdaura
+"""want""","Zurich, Switzerland",docdaura
+"""want""","Tsilivi, Greece",docdaura
+"""been""","Temecula, CA, USA",docdaura
+"""want""","Peniscola, Spain",docdaura
+"""want""","El Calafate, Argentina",docdaura
+"""been""","Fajardo, Puerto Rico",docdaura
+"""want""","Bel Ombre, Africa",docdaura
+"""been""","Fusagasuga, Colombia",docdaura
+"""been""","Kailua-Kona, HI, USA",docdaura
+"""been""","Cincinnati, OH, USA",docdaura
+"""want""","Cala Galdana, Spain",docdaura
+"""been""","San Diego, CA, USA",docdaura
+"""been""","Vienna, Austria",docdaura
+"""want""","Freiburg im Breisgau, Germany",docdaura
+"""been""","Fort Lauderdale, FL, USA",docdaura
+"""been""","Boston, MA, USA",docdaura
+"""been""","Williamsburg, VA, USA",docdaura
+"""want""","Tropea, Italy",docdaura
+"""want""","Baden-Baden, Germany",docdaura
+"""want""","Dresden, Germany",docdaura
+"""been""","Guatavita, Colombia",docdaura
+"""want""","Perpignan, France",docdaura
+"""been""","West Hollywood, CA, USA",docdaura
+"""want""","San Carlos de Bariloche, Argentina",docdaura
+"""want""","Budapest, Hungary",docdaura
+"""been""","Westlake Village, CA, USA",docdaura
+"""been""","Ocho Rios, Jamaica",docdaura
+"""want""","Buenos Aires, Argentina",docdaura
+"""been""","Salzburg, Austria",docdaura
+"""been""","Carmel, CA, USA",docdaura
+"""been""","Carlsbad, CA, USA",docdaura
+"""want""","Innsbruck, Austria",docdaura
+"""want""","Honolulu, HI, USA",docdaura
+"""want""","Toulouse, France",docdaura
+"""been""","Asheville, NC, USA",docdaura
+"""been""","New Orleans, LA, USA",docdaura
+"""want""","Stuttgart, Germany",docdaura
+"""been""","San Luis Obispo, CA, USA",docdaura
+"""been""","Houston, TX, USA",docdaura
+"""want""","Kapaa, HI, USA",docdaura
+"""been""","Newport, RI, USA",docdaura
+"""been""","Madison, WI, USA",docdaura
+"""want""","Malcesine, Italy",docdaura
+"""been""","Redwood National Park, CA, USA",docdaura
+"""been""","San Jose, CA, USA",docdaura
+"""been""","Anaheim, CA, USA",docdaura
+"""been""","Fort Myers, FL, USA",docdaura
+"""been""","Fort Myers Beach, FL, USA",docdaura
+"""want""","Singapore, Singapore",docdaura
+"""been""","Denver, CO, USA",docdaura
+"""want""","Portinatx, Spain",docdaura
+"""want""","Los Cristianos, Spain",docdaura
+"""want""","Luxembourg City, Luxembourg",docdaura
+"""want""","Denarau Island, Fiji",docdaura
+"""want""","La Fortuna de San Carlos, Costa Rica",docdaura
+"""been""","Flagstaff, AZ, USA",docdaura
+"""want""","New Braunfels, TX, USA",docdaura
+"""want""","Charleston, SC, USA",docdaura
+"""been""","Deauville City, France",docdaura
+"""want""","Airlie Beach, Australia",docdaura
+"""been""","Greensboro, NC, USA",docdaura
+"""been""","Montreal, Quebec, Canada",docdaura
+"""been""","Quebec City, Quebec, Canada",docdaura
+"""want""","Bagno Vignoni, Italy",docdaura
+"""been""","Coeur d'Alene, ID, USA",docdaura
+"""been""","Calistoga, CA, USA",docdaura
+"""want""","Waikoloa, HI, USA",docdaura
+"""want""","Lille, France",docdaura
+"""want""","Papeete, French Polynesia",docdaura
+"""want""","Carvoeiro, Portugal",docdaura
+"""want""","Mar del Plata, Argentina",docdaura
+"""want""","Faro, Portugal",docdaura
+"""want""","Lagos, Portugal",docdaura
+"""been""","San Salvador, El Salvador",docdaura
+"""been""","Cambria, CA, USA",docdaura
+"""been""","Mexico City, Mexico",docdaura
+"""been""","Rouen, France",docdaura
+"""been""","Newark, NJ, USA",docdaura
+"""been""","Nantes, France",docdaura
+"""want""","Colmar, France",docdaura
+"""been""","San Francisco, CA, USA",docdaura
+"""been""","Dana Point, CA, USA",docdaura
+"""been""","Thousand Oaks, CA, USA",docdaura
+"""want""","Villasimius, Italy",docdaura
+"""been""","Santa Fe, NM, USA",docdaura
+"""been""","Colorado Springs, CO, USA",docdaura
+"""been""","Charlotte Amalie, U.S. Virgin Islands",docdaura
+"""been""","Christiansted, U.S. Virgin Islands",docdaura

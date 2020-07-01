@@ -1,0 +1,778 @@
+tag,place,user
+"""want""","Frankfurt, Germany",995cr
+"""want""","Medicine Bow, WY, USA",995cr
+"""been""","Fort Lauderdale, FL, USA",995cr
+"""been""","Baywood Park, CA, USA",995cr
+"""been""","Navarre, FL, USA",995cr
+"""been""","Naples, FL, USA",995cr
+"""been""","Florida City, FL, USA",995cr
+"""been""","Flamingo, FL, USA",995cr
+"""been""","Tucker, GA, USA",995cr
+"""been""","Tunnel Hill, GA, USA",995cr
+"""been""","Perry, UT, USA",995cr
+"""been""","Davenport, CA, USA",995cr
+"""been""","Turnerville, GA, USA",995cr
+"""been""","Moran, WY, USA",995cr
+"""want""","Little Rock, AR, USA",995cr
+"""want""","El Paso, TX, USA",995cr
+"""been""","Tybee Island, GA, USA",995cr
+"""been""","Ventura, CA, USA",995cr
+"""been""","Tyrone, GA, USA",995cr
+"""want""","Melbourne, Australia",995cr
+"""want""","Carlsbad, NM, USA",995cr
+"""been""","Sharonville, OH, USA",995cr
+"""been""","Pocatello, ID, USA",995cr
+"""been""","Unadilla, GA, USA",995cr
+"""been""","Union City, GA, USA",995cr
+"""want""","Colorado Springs, CO, USA",995cr
+"""been""","Cincinnati, OH, USA",995cr
+"""want""","Culver City, CA, USA",995cr
+"""been""","Valdosta, GA, USA",995cr
+"""been""","Yellowstone National Park, WY, USA",995cr
+"""been""","Anderson, SC, USA",995cr
+"""want""","Beauty Point, Australia",995cr
+"""want""","Bridport, Australia",995cr
+"""want""","Bismarck, ND, USA",995cr
+"""been""","Homestead, FL, USA",995cr
+"""been""","Rocky Top, TN, USA",995cr
+"""been""","Olympia, WA, USA",995cr
+"""want""","Durango, CO, USA",995cr
+"""been""","Tallulah Falls, GA, USA",995cr
+"""been""","Townsend, TN, USA",995cr
+"""been""","Talmo, GA, USA",995cr
+"""been""","Asheville, NC, USA",995cr
+"""been""","Tuskawilla, FL, USA",995cr
+"""been""","Tate, GA, USA",995cr
+"""want""","Laramie, WY, USA",995cr
+"""want""","Tupelo, MS, USA",995cr
+"""been""","Tennga, GA, USA",995cr
+"""want""","Kansas City, KS, USA",995cr
+"""been""","Callender, CA, USA",995cr
+"""want""","Butte, MT, USA",995cr
+"""want""","Houston, TX, USA",995cr
+"""been""","Sunnyvale, CA, USA",995cr
+"""want""","Denver, CO, USA",995cr
+"""been""","Fort Walton Beach, FL, USA",995cr
+"""want""","Flagstaff, AZ, USA",995cr
+"""been""","Fort Myers Beach, FL, USA",995cr
+"""want""","Cologne, Germany",995cr
+"""been""","Summerland, CA, USA",995cr
+"""been""","Tifton, GA, USA",995cr
+"""been""","Fort Myers, FL, USA",995cr
+"""want""","Nome, AK, USA",995cr
+"""been""","Desert Hot Springs, CA, USA",995cr
+"""been""","Tiger, GA, USA",995cr
+"""been""","New Smyrna Beach, FL, USA",995cr
+"""been""","New Port Richey, FL, USA",995cr
+"""been""","Toccoa, GA, USA",995cr
+"""been""","Murfreesboro, TN, USA",995cr
+"""been""","Charleston, MO, USA",995cr
+"""been""","Sweetwater, TN, USA",995cr
+"""want""","Santa Fe, NM, USA",995cr
+"""been""","Jellico, TN, USA",995cr
+"""been""","Matecumbe Key, FL, USA",995cr
+"""been""","Johnson City, TN, USA",995cr
+"""want""","Tusayan, AZ, USA",995cr
+"""been""","Druid Hills, GA, USA",995cr
+"""been""","Malad City, ID, USA",995cr
+"""been""","Tallahassee, FL, USA",995cr
+"""been""","Hilton Head, SC, USA",995cr
+"""been""","Tampa, FL, USA",995cr
+"""been""","Sitka, AK, USA",995cr
+"""been""","McCammon, ID, USA",995cr
+"""been""","Marathon Shores, FL, USA",995cr
+"""been""","Knoxville, TN, USA",995cr
+"""been""","Kodak, TN, USA",995cr
+"""want""","Paris, France",995cr
+"""been"",""fave""","Harmony, CA, USA",995cr
+"""been""","Kingsport, TN, USA",995cr
+"""been""","Tavernier, FL, USA",995cr
+"""been""","Kingston, TN, USA",995cr
+"""want""","Tucson, AZ, USA",995cr
+"""been""","Tellico Plains, TN, USA",995cr
+"""been""","San Francisco, CA, USA",995cr
+"""want""","San Antonio, TX, USA",995cr
+"""want""","San Quintin, Mexico",995cr
+"""been""","Johns Creek, GA, USA",995cr
+"""been""","Greenville, SC, USA",995cr
+"""been""","South San Francisco, CA, USA",995cr
+"""been""","Greenwood, SC, USA",995cr
+"""been""","Westminster, SC, USA",995cr
+"""been""","Spring Hill, FL, USA",995cr
+"""been""","Abbeville, SC, USA",995cr
+"""been""","Decatur, GA, USA",995cr
+"""been""","Demorest, GA, USA",995cr
+"""been""","Starke, FL, USA",995cr
+"""been""","Steinhatchee, FL, USA",995cr
+"""been""","Caulfield, MO, USA",995cr
+"""been""","Sugarloaf, FL, USA",995cr
+"""been""","Sugarloaf Key, FL, USA",995cr
+"""been""","Hardenville, MO, USA",995cr
+"""been""","Soquel, CA, USA",995cr
+"""been""","Miami Beach, FL, USA",995cr
+"""been""","Miami, FL, USA",995cr
+"""been""","Mexico Beach, FL, USA",995cr
+"""want""","Corpus Christi, TX, USA",995cr
+"""want""","Brownsville, TX, USA",995cr
+"""been""","Soledad, CA, USA",995cr
+"""want""","Durango, Mexico",995cr
+"""been""","Spring Hill, TN, USA",995cr
+"""been""","Summerland Key, FL, USA",995cr
+"""been""","Hermosa Beach, CA, USA",995cr
+"""been""","Petersburg, VA, USA",995cr
+"""been""","Sunset Point, FL, USA",995cr
+"""been""","Chualar, CA, USA",995cr
+"""been""","Sevierville, TN, USA",995cr
+"""been""","Salem, OR, USA",995cr
+"""been"",""fave""","Marina del Rey, CA, USA",995cr
+"""been""","Marina, CA, USA",995cr
+"""been""","Gorman, CA, USA",995cr
+"""want""","Sedona, AZ, USA",995cr
+"""been""","Covington, GA, USA",995cr
+"""want""","Scottsdale, AZ, USA",995cr
+"""been""","Crawfordville, GA, USA",995cr
+"""been""","Seybold, FL, USA",995cr
+"""want""","Wichita Falls, TX, USA",995cr
+"""been""","Macon, GA, USA",995cr
+"""been"",""fave""","Salt Lake City, UT, USA",995cr
+"""been""","Cumming, GA, USA",995cr
+"""been""","Grassy Key, FL, USA",995cr
+"""been""","Walker's Island, FL, USA",995cr
+"""want""","Mexicali, Mexico",995cr
+"""been""","Gonzales, CA, USA",995cr
+"""been""","Goleta, CA, USA",995cr
+"""been""","Shelbyville, TN, USA",995cr
+"""been""","Malibu, CA, USA",995cr
+"""been""","Walhalla, SC, USA",995cr
+"""want""","Glendale, CA, USA",995cr
+"""been""","Eastaboga, AL, USA",995cr
+"""want""","Keystone, SD, USA",995cr
+"""been""","Dacula, GA, USA",995cr
+"""been""","Dahlonega, GA, USA",995cr
+"""been""","South Bay, FL, USA",995cr
+"""been""","Dalton, GA, USA",995cr
+"""been""","Seymour, TN, USA",995cr
+"""been""","South Creek, FL, USA",995cr
+"""been""","Danielsville, GA, USA",995cr
+"""want""","Madrid, Spain",995cr
+"""been""","Milton, GA, USA",995cr
+"""been""","Lulu, FL, USA",995cr
+"""been""","Half Moon Bay, CA, USA",995cr
+"""want""","Tempe, AZ, USA",995cr
+"""want""","Dana, Jordan",995cr
+"""want""","Teec Nos Pos, AZ, USA",995cr
+"""been""","Startex, SC, USA",995cr
+"""been""","Guadalupe, CA, USA",995cr
+"""been""","Grover Beach, CA, USA",995cr
+"""been"",""fave""","San Mateo, FL, USA",995cr
+"""been""","Colbert, GA, USA",995cr
+"""been""","Sandestin, FL, USA",995cr
+"""been""","College Park, GA, USA",995cr
+"""been""","Sanibel Island, FL, USA",995cr
+"""been""","Columbus, GA, USA",995cr
+"""been""","Townville, SC, USA",995cr
+"""been""","Greenfield, CA, USA",995cr
+"""been""","Comer, GA, USA",995cr
+"""been""","Commerce, GA, USA",995cr
+"""been""","Conley, GA, USA",995cr
+"""been"",""fave""","Satsuma, FL, USA",995cr
+"""been""","Conyers, GA, USA",995cr
+"""been""","Seaside, FL, USA",995cr
+"""been""","Cordele, GA, USA",995cr
+"""been""","Cornelia, GA, USA",995cr
+"""want""","Reno, NV, USA",995cr
+"""been""","Seneca, SC, USA",995cr
+"""want""","Gaza City, Palestinian Territories",995cr
+"""been""","Lompoc, CA, USA",995cr
+"""want""","Phoenix, AZ, USA",995cr
+"""been""","Chatsworth, GA, USA",995cr
+"""been""","Cherrylog, GA, USA",995cr
+"""been""","Dillsboro, NC, USA",995cr
+"""been""","Chestnut Mountain, GA, USA",995cr
+"""want""","Las Vegas, NV, USA",995cr
+"""been""","Arimo, ID, USA",995cr
+"""been""","Ashton, ID, USA",995cr
+"""been""","Corbin, KY, USA",995cr
+"""want""","Fuerth, Germany",995cr
+"""been""","Corinth, KY, USA",995cr
+"""been""","Pescadero, CA, USA",995cr
+"""been""","Portland, OR, USA",995cr
+"""been""","Daufuskie Island, SC, USA",995cr
+"""been""","Clarkesville, GA, USA",995cr
+"""been""","Clarkston, GA, USA",995cr
+"""been""","Durham, NC, USA",995cr
+"""been""","Saint Augustine Beach, FL, USA",995cr
+"""been""","Clayton, GA, USA",995cr
+"""been""","Saint Cloud, FL, USA",995cr
+"""been""","Clermont, GA, USA",995cr
+"""been""","Cleveland, GA, USA",995cr
+"""been""","Gainesville, MO, USA",995cr
+"""been""","Gilroy, CA, USA",995cr
+"""been""","Dothan, AL, USA",995cr
+"""been""","Arlington, VA, USA",995cr
+"""been"",""fave""","Nuremberg, Germany",995cr
+"""been""","Los Osos, CA, USA",995cr
+"""want""","Rome, Italy",995cr
+"""been""","Canton, GA, USA",995cr
+"""been""","Carnesville, GA, USA",995cr
+"""want""","El Dorado, AR, USA",995cr
+"""want""","Fresno, CA, USA",995cr
+"""been""","Los Angeles, CA, USA",995cr
+"""been""","Pismo Beach, CA, USA",995cr
+"""been""","Dauphin Island, AL, USA",995cr
+"""been""","Carrollton, GA, USA",995cr
+"""been""","Cartersville, GA, USA",995cr
+"""been""","Rueter, MO, USA",995cr
+"""want""","Baton Rouge, LA, USA",995cr
+"""want""","Lafayette, LA, USA",995cr
+"""been""","Chamblee, GA, USA",995cr
+"""want""","Palm Springs, CA, USA",995cr
+"""been""","Pacifica, CA, USA",995cr
+"""been""","Pacific Grove, CA, USA",995cr
+"""been"",""fave""","Runaway Bay, Jamaica",995cr
+"""been""","Spanish Town, Jamaica",995cr
+"""want""","Port Royal, Jamaica",995cr
+"""want""","Carson City, NV, USA",995cr
+"""been""","Luna Pier, MI, USA",995cr
+"""been"",""fave""","Ocho Rios, Jamaica",995cr
+"""want""","Mermaid Beach, Australia",995cr
+"""been""","Nantahala Township, NC, USA",995cr
+"""been""","Concord, NC, USA",995cr
+"""been""","Oxnard, CA, USA",995cr
+"""been""","Brunswick, GA, USA",995cr
+"""been""","Buford, GA, USA",995cr
+"""been""","Pebble Beach, CA, USA",995cr
+"""been""","Cygnet, OH, USA",995cr
+"""been""","Austell, GA, USA",995cr
+"""been""","Avondale Estates, GA, USA",995cr
+"""been""","Charlotte, NC, USA",995cr
+"""been""","Cherokee, NC, USA",995cr
+"""been""","Auburn, GA, USA",995cr
+"""been""","China Grove, NC, USA",995cr
+"""been""","Augusta, GA, USA",995cr
+"""been""","Pasadena, CA, USA",995cr
+"""been""","Leon, Nicaragua",995cr
+"""been""","Athens, GA, USA",995cr
+"""been"",""fave""","Kingston, Jamaica",995cr
+"""want""","Dallas, TX, USA",995cr
+"""been""","Clanton, AL, USA",995cr
+"""been""","Cashiers, NC, USA",995cr
+"""been""","Naranja, FL, USA",995cr
+"""want""","Texarkana, AR, USA",995cr
+"""want""","Eldorado, OK, USA",995cr
+"""want""","Oklahoma City, OK, USA",995cr
+"""been""","Mableton, GA, USA",995cr
+"""been""","Madison, GA, USA",995cr
+"""been""","Georgetown, KY, USA",995cr
+"""been""","Conch Key, FL, USA",995cr
+"""been""","Mansfield, GA, USA",995cr
+"""been""","Mount Vernon, KY, USA",995cr
+"""want""","Beersheba, Israel",995cr
+"""been""","Managua, Nicaragua",995cr
+"""been""","Robbinsville, NC, USA",995cr
+"""been""","South Hill, VA, USA",995cr
+"""been""","Archdale, NC, USA",995cr
+"""been""","Hoover, AL, USA",995cr
+"""been""","Marble Hill, GA, USA",995cr
+"""been""","Marietta, GA, USA",995cr
+"""been""","Martin, GA, USA",995cr
+"""been""","Grand Rivers, KY, USA",995cr
+"""been""","Cridersville, OH, USA",995cr
+"""been""","Maysville, GA, USA",995cr
+"""want""","Jericho, Palestinian Territories",995cr
+"""been""","Poplar Bluff, MO, USA",995cr
+"""want""","Nazareth, Israel",995cr
+"""been""","Orcutt, CA, USA",995cr
+"""want""","Sturgis, SD, USA",995cr
+"""been""","Lilburn, GA, USA",995cr
+"""been""","Lithonia, GA, USA",995cr
+"""been""","Oceano, CA, USA",995cr
+"""want""","Arkansas City, KS, USA",995cr
+"""been""","Locust Grove, GA, USA",995cr
+"""been""","Loganville, GA, USA",995cr
+"""been""","Lookout Mountain, GA, USA",995cr
+"""been""","Louisville, GA, USA",995cr
+"""been""","Lovejoy, GA, USA",995cr
+"""been""","Lula, GA, USA",995cr
+"""want""","Shreveport, LA, USA",995cr
+"""been""","Ogden, UT, USA",995cr
+"""been""","Jackson, WY, USA",995cr
+"""been""","Alton, MO, USA",995cr
+"""been""","Henderson, NC, USA",995cr
+"""want""","Billings, MT, USA",995cr
+"""been""","Hendersonville, NC, USA",995cr
+"""been""","Stockbridge, GA, USA",995cr
+"""been""","Stone Mountain, GA, USA",995cr
+"""been""","Suches, GA, USA",995cr
+"""been""","Sugar Hill, GA, USA",995cr
+"""want""","Cabo San Lucas, Mexico",995cr
+"""been""","Duck Key, FL, USA",995cr
+"""been""","Alabaster, AL, USA",995cr
+"""been""","Pisgah Forest, NC, USA",995cr
+"""been""","Alexandria, AL, USA",995cr
+"""been""","Saginaw, AL, USA",995cr
+"""want""","Muskogee, OK, USA",995cr
+"""been""","Highlands, NC, USA",995cr
+"""want""","Sioux Falls, SD, USA",995cr
+"""been""","Suwanee, GA, USA",995cr
+"""been""","LaGrange, GA, USA",995cr
+"""been""","Swainsboro, GA, USA",995cr
+"""been""","Lake City, GA, USA",995cr
+"""been""","Florence, KY, USA",995cr
+"""been""","Lakemont, GA, USA",995cr
+"""been""","Talking Rock, GA, USA",995cr
+"""been""","Lavonia, GA, USA",995cr
+"""been""","Moraine, OH, USA",995cr
+"""been""","Lawrenceville, GA, USA",995cr
+"""been""","Shell Beach, CA, USA",995cr
+"""been""","Washington DC, DC, USA",995cr
+"""been""","Riverside, AL, USA",995cr
+"""been""","Whittier, NC, USA",995cr
+"""want""","Puerto Vallarta, Mexico",995cr
+"""want""","Guadalajara, Mexico",995cr
+"""been""","Hull, GA, USA",995cr
+"""been""","Smyrna, GA, USA",995cr
+"""been""","Snellville, GA, USA",995cr
+"""been""","Social Circle, GA, USA",995cr
+"""been""","Jackson, GA, USA",995cr
+"""been""","Indianapolis, IN, USA",995cr
+"""want""","Riverside, Australia",995cr
+"""been""","Shorter, AL, USA",995cr
+"""want""","Acapulco, Mexico",995cr
+"""been""","Sparta, GA, USA",995cr
+"""been""","Jasper, GA, USA",995cr
+"""been""","Jefferson, GA, USA",995cr
+"""been""","Jekyll Island, GA, USA",995cr
+"""been""","Jenkinsburg, GA, USA",995cr
+"""been""","Jersey, GA, USA",995cr
+"""been""","Statham, GA, USA",995cr
+"""been""","Jesup, GA, USA",995cr
+"""want""","Elk Mountain, WY, USA",995cr
+"""been""","Jonesboro, GA, USA",995cr
+"""been""","East Palatka, FL, USA",995cr
+"""been""","Wilmington, NC, USA",995cr
+"""been""","Anniston, AL, USA",995cr
+"""been""","Waynesville, NC, USA",995cr
+"""want""","Tijuana, Mexico",995cr
+"""been"",""fave""","Saint Simons Island, GA, USA",995cr
+"""been""","Hartwell, GA, USA",995cr
+"""been""","Sandy Springs, GA, USA",995cr
+"""been""","Cokeville, WY, USA",995cr
+"""been""","Helen, GA, USA",995cr
+"""been""","Idaho Falls, ID, USA",995cr
+"""been""","Santa Monica, CA, USA",995cr
+"""been""","Hiawassee, GA, USA",995cr
+"""been""","Sautee Nacoochee, GA, USA",995cr
+"""been""","Cody, WY, USA",995cr
+"""want""","Kodiak, AK, USA",995cr
+"""been""","Otto, NC, USA",995cr
+"""been""","Inkom, ID, USA",995cr
+"""been""","Scottdale, GA, USA",995cr
+"""been""","Santa Cruz, CA, USA",995cr
+"""been""","Island Park, ID, USA",995cr
+"""been""","Santa Barbara, CA, USA",995cr
+"""been""","Holly Springs, GA, USA",995cr
+"""been""","Hermitage, TN, USA",995cr
+"""been""","Homer, GA, USA",995cr
+"""been""","Sand City, CA, USA",995cr
+"""been""","Hoschton, GA, USA",995cr
+"""been""","Laguna Beach, FL, USA",995cr
+"""want""","Cheyenne, WY, USA",995cr
+"""been""","Piqua, OH, USA",995cr
+"""been""","Ringgold, GA, USA",995cr
+"""been""","Riverdale, GA, USA",995cr
+"""been""","Cudjoe Key, FL, USA",995cr
+"""been""","Crystal River, FL, USA",995cr
+"""been""","Redland, FL, USA",995cr
+"""been""","Seaside, CA, USA",995cr
+"""been""","Honeyville, UT, USA",995cr
+"""been""","Rome, GA, USA",995cr
+"""been"",""fave""","Crescent Beach, FL, USA",995cr
+"""been""","Long Key, FL, USA",995cr
+"""been""","Roswell, GA, USA",995cr
+"""been""","Royston, GA, USA",995cr
+"""been""","Coral Springs, FL, USA",995cr
+"""been"",""fave""","Sausalito, CA, USA",995cr
+"""been""","Atlanta, GA, USA",995cr
+"""been""","Rutledge, GA, USA",995cr
+"""been""","Little Torch Key, FL, USA",995cr
+"""been""","Rydal, GA, USA",995cr
+"""been""","West Plains, MO, USA",995cr
+"""been""","Richmond, VA, USA",995cr
+"""been""","Marathon, FL, USA",995cr
+"""been""","Capitola, CA, USA",995cr
+"""been""","Islamorada, FL, USA",995cr
+"""been""","San Fernando, CA, USA",995cr
+"""been"",""fave""","Key West, FL, USA",995cr
+"""want""","Laredo, TX, USA",995cr
+"""been""","Key Largo, FL, USA",995cr
+"""been""","Key Colony Beach, FL, USA",995cr
+"""been""","San Carlos, CA, USA",995cr
+"""want""","Lamesa, TX, USA",995cr
+"""been""","Powell, TN, USA",995cr
+"""been""","West Hollywood, CA, USA",995cr
+"""been""","Rabun Gap, GA, USA",995cr
+"""been""","Ranger, GA, USA",995cr
+"""been""","Red Oak, GA, USA",995cr
+"""want""","Jerusalem, Israel",995cr
+"""want""","Anchorage, AK, USA",995cr
+"""been"",""fave""","Branson, MO, USA",995cr
+"""been""","San Ardo, CA, USA",995cr
+"""been""","Salinas, CA, USA",995cr
+"""been""","St. Helena, CA, USA",995cr
+"""been""","Watsonville, CA, USA",995cr
+"""been""","Frankewing, TN, USA",995cr
+"""been""","Kennesaw, GA, USA",995cr
+"""been""","Franklin, TN, USA",995cr
+"""been""","Rex, GA, USA",995cr
+"""want""","Skagway, AK, USA",995cr
+"""been"",""fave""","Seattle, WA, USA",995cr
+"""want""","Piraeus, Greece",995cr
+"""been""","Briar, MO, USA",995cr
+"""been""","Fisk, MO, USA",995cr
+"""been""","San Simeon, CA, USA",995cr
+"""been""","Cayucos, CA, USA",995cr
+"""been""","Clemson, SC, USA",995cr
+"""been""","Castroville, CA, USA",995cr
+"""been""","Port Charlotte, FL, USA",995cr
+"""been""","San Mateo, CA, USA",995cr
+"""been""","San Martin, CA, USA",995cr
+"""want""","New Orleans, LA, USA",995cr
+"""been""","Port Richey, FL, USA",995cr
+"""been""","Castaic, CA, USA",995cr
+"""want""","Custer, SD, USA",995cr
+"""been""","Port Saint Joe, FL, USA",995cr
+"""been""","Lake City, FL, USA",995cr
+"""been""","Wilmington Island, GA, USA",995cr
+"""been""","Cape Coral, FL, USA",995cr
+"""been""","Lake Butler, FL, USA",995cr
+"""been""","San Luis Obispo, CA, USA",995cr
+"""been""","San Lucas, CA, USA",995cr
+"""been""","Canal Point, FL, USA",995cr
+"""been""","Carpinteria, CA, USA",995cr
+"""been""","Etowah, TN, USA",995cr
+"""been""","Quail Heights, FL, USA",995cr
+"""been""","Englewood, TN, USA",995cr
+"""been""","Kissimmee, FL, USA",995cr
+"""been""","San Jose, CA, USA",995cr
+"""want""","Eureka, KS, USA",995cr
+"""been""","Carmel, CA, USA",995cr
+"""want""","Carlsbad, CA, USA",995cr
+"""been""","Downey, ID, USA",995cr
+"""been""","Pigeon Forge, TN, USA",995cr
+"""want""","Bethlehem, Palestinian Territories",995cr
+"""been""","Bryson City, NC, USA",995cr
+"""been""","Ocoee, TN, USA",995cr
+"""want""","Spokane, WA, USA",995cr
+"""been""","Moose, WY, USA",995cr
+"""been""","Oldfort, TN, USA",995cr
+"""want""","Barcelona, Spain",995cr
+"""want""","Amsterdam, The Netherlands",995cr
+"""want""","Burbank, CA, USA",995cr
+"""been""","Homosassa Springs, FL, USA",995cr
+"""been""","Pensacola, FL, USA",995cr
+"""been""","Braselton, GA, USA",995cr
+"""been""","Homosassa, FL, USA",995cr
+"""want""","Eureka, CA, USA",995cr
+"""been""","Perdido Key, FL, USA",995cr
+"""been""","Ketchikan, AK, USA",995cr
+"""want""","Arlington, TX, USA",995cr
+"""been""","Perry, FL, USA",995cr
+"""been""","Alpharetta, GA, USA",995cr
+"""been""","Gatlinburg, TN, USA",995cr
+"""been""","Pigeon Key, FL, USA",995cr
+"""been""","Albany, GA, USA",995cr
+"""been""","Greensboro, NC, USA",995cr
+"""been""","Gulf Breeze, FL, USA",995cr
+"""been""","Fairdealing, MO, USA",995cr
+"""want""","North Vancouver, British Columbia, Canada",995cr
+"""been""","Alto, GA, USA",995cr
+"""want""","Richmond, British Columbia, Canada",995cr
+"""been""","Ducktown, TN, USA",995cr
+"""been""","Juneau, AK, USA",995cr
+"""been""","Chubbuck, ID, USA",995cr
+"""want""","Silver City, NM, USA",995cr
+"""been""","Brigham City, UT, USA",995cr
+"""want""","Sydney Olympic Park, Australia",995cr
+"""want""","Helena, MT, USA",995cr
+"""been""","Black Mountain, NC, USA",995cr
+"""been""","Nashville, TN, USA",995cr
+"""been""","Savannah, GA, USA",995cr
+"""been""","Cambria, CA, USA",995cr
+"""been""","Mount Juliet, TN, USA",995cr
+"""been""","Bethlehem, GA, USA",995cr
+"""been""","Bishop, GA, USA",995cr
+"""been""","North Myrtle Beach, SC, USA",995cr
+"""been""","Blairsville, GA, USA",995cr
+"""want""","Twin Falls, ID, USA",995cr
+"""been""","Blue Ridge, GA, USA",995cr
+"""been""","Ucon, ID, USA",995cr
+"""want""","Lincoln, NE, USA",995cr
+"""want""","Ramallah, Palestinian Territories",995cr
+"""been""","Jacksonville, FL, USA",995cr
+"""want""","Vancouver, British Columbia, Canada",995cr
+"""want""","Fort Laramie, WY, USA",995cr
+"""want""","Austin, TX, USA",995cr
+"""been""","Bogart, GA, USA",995cr
+"""been""","Victoria, British Columbia, Canada",995cr
+"""been""","Newport, TN, USA",995cr
+"""been""","Panama City, FL, USA",995cr
+"""want""","Mesa, AZ, USA",995cr
+"""been""","Panama City Beach, FL, USA",995cr
+"""been""","Bostwick, GA, USA",995cr
+"""been""","Baltimore, MD, USA",995cr
+"""want""","Surfers Paradise, Australia",995cr
+"""been""","Myrtle Beach, SC, USA",995cr
+"""been""","Hampton, GA, USA",995cr
+"""been""","Hapeville, GA, USA",995cr
+"""been""","Yeehaw Junction, FL, USA",995cr
+"""been""","Detroit, MI, USA",995cr
+"""been""","Orlando, FL, USA",995cr
+"""want""","Brisbane, Australia",995cr
+"""been""","Dudley, MO, USA",995cr
+"""been""","Kissee Mills, MO, USA",995cr
+"""been""","Sky Valley, GA, USA",995cr
+"""been""","King City, CA, USA",995cr
+"""been""","Port Mayaca, FL, USA",995cr
+"""been""","Birmingham, AL, USA",995cr
+"""been""","Baldwin, GA, USA",995cr
+"""been""","Ball Ground, GA, USA",995cr
+"""been""","Bartow, GA, USA",995cr
+"""been""","Sugar City, ID, USA",995cr
+"""been""","Pahokee, FL, USA",995cr
+"""been""","Berkeley Lake, GA, USA",995cr
+"""been""","Palatka, FL, USA",995cr
+"""want""","Hobart, Australia",995cr
+"""been""","Bradley, CA, USA",995cr
+"""been""","Berea, KY, USA",995cr
+"""want""","Amarillo, TX, USA",995cr
+"""been""","La Selva Beach, CA, USA",995cr
+"""been""","Gillsville, GA, USA",995cr
+"""want""","Venice, Italy",995cr
+"""been""","Weston, FL, USA",995cr
+"""want""","Kansas City, MO, USA",995cr
+"""want""","Biloxi, MS, USA",995cr
+"""want""","Homer, AK, USA",995cr
+"""been""","Van Buren, OH, USA",995cr
+"""been""","El Granada, CA, USA",995cr
+"""been""","Vandalia, OH, USA",995cr
+"""been""","Grayson, GA, USA",995cr
+"""want""","Texarkana, TX, USA",995cr
+"""been""","Greensboro, GA, USA",995cr
+"""been""","Greenville, GA, USA",995cr
+"""been""","Griffin, GA, USA",995cr
+"""been""","Doniphan, MO, USA",995cr
+"""been""","Okeechobee, FL, USA",995cr
+"""been""","Kirbyville, MO, USA",995cr
+"""been""","Habersham, GA, USA",995cr
+"""want""","Spokane Valley, WA, USA",995cr
+"""been""","Dexter, MO, USA",995cr
+"""been""","Apalachicola, FL, USA",995cr
+"""been""","Afton, WY, USA",995cr
+"""been""","Hernando Beach, FL, USA",995cr
+"""been""","Inglewood, CA, USA",995cr
+"""been""","Toledo, OH, USA",995cr
+"""been""","Tipp City, OH, USA",995cr
+"""been""","Gulf Shores, AL, USA",995cr
+"""been""","Forest Park, GA, USA",995cr
+"""been""","Fort Benning, GA, USA",995cr
+"""been""","Isabella, MO, USA",995cr
+"""been""","Fort McPherson, GA, USA",995cr
+"""want""","London, UK",995cr
+"""want""","Sacramento, CA, USA",995cr
+"""want""","Crazy Horse, SD, USA",995cr
+"""been""","Gainesville, GA, USA",995cr
+"""been""","Gay, GA, USA",995cr
+"""been""","Aptos, CA, USA",995cr
+"""been""","Welaka, FL, USA",995cr
+"""been""","Erlanger, KY, USA",995cr
+"""been""","Hoback, WY, USA",995cr
+"""want""","Wichita, KS, USA",995cr
+"""been""","Miramar Beach, FL, USA",995cr
+"""want""","South Sioux City, NE, USA",995cr
+"""been""","Grover, NC, USA",995cr
+"""been""","Rosemary Beach, FL, USA",995cr
+"""been""","Eton, GA, USA",995cr
+"""been""","Fairburn, GA, USA",995cr
+"""been""","Fairmount, GA, USA",995cr
+"""want""","Galveston, TX, USA",995cr
+"""been""","Alpine, WY, USA",995cr
+"""want""","Chihuahua, Mexico",995cr
+"""been""","Fayetteville, GA, USA",995cr
+"""been""","Flovilla, GA, USA",995cr
+"""been""","Flowery Branch, GA, USA",995cr
+"""been""","Avalon, CA, USA",995cr
+"""been""","Avila Beach, CA, USA",995cr
+"""been""","Gadsden, AL, USA",995cr
+"""been""","Rio del Mar, CA, USA",995cr
+"""been""","Dandridge, TN, USA",995cr
+"""been""","Dublin, GA, USA",995cr
+"""been""","Duluth, GA, USA",995cr
+"""been""","Dunwoody, GA, USA",995cr
+"""been""","Ramrod Key, FL, USA",995cr
+"""been""","East Ellijay, GA, USA",995cr
+"""been""","East Point, GA, USA",995cr
+"""been""","Eastanollee, GA, USA",995cr
+"""been""","Eatonton, GA, USA",995cr
+"""want""","Fort Worth, TX, USA",995cr
+"""been""","Pine Level, AL, USA",995cr
+"""been""","Redondo Beach, CA, USA",995cr
+"""been""","Phenix City, AL, USA",995cr
+"""been""","Foley, AL, USA",995cr
+"""want""","Bison, SD, USA",995cr
+"""been""","Elberton, GA, USA",995cr
+"""been""","Theodosia, MO, USA",995cr
+"""been""","Tecumseh, MO, USA",995cr
+"""been""","Ellenwood, GA, USA",995cr
+"""been""","Ellijay, GA, USA",995cr
+"""been""","Moss Landing, CA, USA",995cr
+"""been""","Ledbetter, KY, USA",995cr
+"""been""","Cosby, TN, USA",995cr
+"""been""","Moss Beach, CA, USA",995cr
+"""been""","Morro Bay, CA, USA",995cr
+"""been""","Morgan Hill, CA, USA",995cr
+"""been""","Copperhill, TN, USA",995cr
+"""been""","Pensacola Beach, FL, USA",995cr
+"""been""","Glencoe, AL, USA",995cr
+"""been""","Lexington, KY, USA",995cr
+"""want""","Broken Arrow, OK, USA",995cr
+"""been""","Dry Ridge, KY, USA",995cr
+"""want""","Ulysses, KS, USA",995cr
+"""been""","Great Smoky Mountains National Park, NC, USA",995cr
+"""been""","Murphy, NC, USA",995cr
+"""been""","Fontana Dam, NC, USA",995cr
+"""been""","Franklin, NC, USA",995cr
+"""been"",""fave""","Monterey, CA, USA",995cr
+"""been""","Montecito, CA, USA",995cr
+"""been""","Montara, CA, USA",995cr
+"""been""","Rainbow City, AL, USA",995cr
+"""been""","London, KY, USA",995cr
+"""been""","Dillard, GA, USA",995cr
+"""been""","Doraville, GA, USA",995cr
+"""been""","Gastonia, NC, USA",995cr
+"""been""","Douglasville, GA, USA",995cr
+"""been""","Botkins, OH, USA",995cr
+"""want""","Dublin, Ireland",995cr
+"""been""","Clarksville, TN, USA",995cr
+"""been""","Bowling Green, OH, USA",995cr
+"""been""","Kuttawa, KY, USA",995cr
+"""been""","Bluffton, OH, USA",995cr
+"""want""","Monroe, LA, USA",995cr
+"""been""","La Center, KY, USA",995cr
+"""been""","Sikeston, MO, USA",995cr
+"""been""","Conasauga, TN, USA",995cr
+"""been""","Port Hueneme, CA, USA",995cr
+"""want""","Tulsa, OK, USA",995cr
+"""been""","Bradenton Beach, FL, USA",995cr
+"""been""","South Fork, MO, USA",995cr
+"""been""","Bonita Springs, FL, USA",995cr
+"""been""","Windsor, Ontario, Canada",995cr
+"""been""","Caryville, TN, USA",995cr
+"""been""","Findlay, OH, USA",995cr
+"""been""","Sylva, NC, USA",995cr
+"""been""","Pelham, AL, USA",995cr
+"""been""","Pell City, AL, USA",995cr
+"""been""","Pendergrass, GA, USA",995cr
+"""been""","Fort Morgan, AL, USA",995cr
+"""been""","Perry, GA, USA",995cr
+"""been""","Pine Mountain, GA, USA",995cr
+"""want""","Badlands National Park, SD, USA",995cr
+"""want""","Gulfport, MS, USA",995cr
+"""want""","Capernaum, Israel",995cr
+"""been""","Oxford, AL, USA",995cr
+"""been""","Eufaula, AL, USA",995cr
+"""been""","Richmond, KY, USA",995cr
+"""been""","Chattanooga, TN, USA",995cr
+"""been""","Orange Beach, AL, USA",995cr
+"""been""","Great Smoky Mountains National Park, TN, USA",995cr
+"""been""","Opelika, AL, USA",995cr
+"""been""","Powder Springs, GA, USA",995cr
+"""been""","Kevil, KY, USA",995cr
+"""want""","Grand Canyon National Park, AZ, USA",995cr
+"""been""","Glacier Bay National Park and Preserve, AK, USA",995cr
+"""want""","Denali National Park and Preserve, AK, USA",995cr
+"""been"",""fave""","Grand Teton National Park, WY, USA",995cr
+"""been""","Thomasville, NC, USA",995cr
+"""been""","Brentwood, TN, USA",995cr
+"""been""","Lima, OH, USA",995cr
+"""been""","Oakman, GA, USA",995cr
+"""been""","Oakwood, GA, USA",995cr
+"""want""","Karatta, Australia",995cr
+"""been""","Oxford, GA, USA",995cr
+"""want""","El Dorado, KS, USA",995cr
+"""been""","Palmetto, GA, USA",995cr
+"""been""","Peachtree City, GA, USA",995cr
+"""been""","Hollywood, FL, USA",995cr
+"""been""","St. Ann's Bay, Jamaica",995cr
+"""been""","Mc Adenville, NC, USA",995cr
+"""been""","Mount Meigs, AL, USA",995cr
+"""been""","Young Harris, GA, USA",995cr
+"""been""","Zebulon, GA, USA",995cr
+"""been""","Nelson, GA, USA",995cr
+"""been""","Newborn, GA, USA",995cr
+"""been""","Wickliffe, KY, USA",995cr
+"""been""","Newnan, GA, USA",995cr
+"""been""","Big Pine Key, FL, USA",995cr
+"""want""","Great Falls, MT, USA",995cr
+"""been""","Montgomery, AL, USA",995cr
+"""been""","Blackfoot, ID, USA",995cr
+"""been""","Oak Hill, TN, USA",995cr
+"""been""","Nicholson, GA, USA",995cr
+"""want""","Boise, ID, USA",995cr
+"""been""","Norcross, GA, USA",995cr
+"""been""","Williamstown, KY, USA",995cr
+"""been""","Williamsburg, KY, USA",995cr
+"""been""","Belle Glade, FL, USA",995cr
+"""want""","Dodge City, KS, USA",995cr
+"""been""","Willard, UT, USA",995cr
+"""been""","Mobile, AL, USA",995cr
+"""been""","Wapiti, WY, USA",995cr
+"""been""","Maggie Valley, NC, USA",995cr
+"""been""","Spencer, NC, USA",995cr
+"""been""","West Point, GA, USA",995cr
+"""been""","Monroe, GA, USA",995cr
+"""been""","Grenelefe, FL, USA",995cr
+"""been""","Monticello, GA, USA",995cr
+"""been""","Paducah, KY, USA",995cr
+"""been""","Wiley, GA, USA",995cr
+"""been""","Morganton, GA, USA",995cr
+"""been"",""fave""","Teton Village, WY, USA",995cr
+"""been""","Thayne, WY, USA",995cr
+"""been""","Winder, GA, USA",995cr
+"""been""","Morrow, GA, USA",995cr
+"""been""","Grandin, FL, USA",995cr
+"""been""","Mount Airy, GA, USA",995cr
+"""want""","Sioux City, IA, USA",995cr
+"""been""","West Paducah, KY, USA",995cr
+"""been""","Woodstock, GA, USA",995cr
+"""been""","Mountain City, GA, USA",995cr
+"""been""","Wrens, GA, USA",995cr
+"""been""","Smoot, WY, USA",995cr
+"""been""","Murrayville, GA, USA",995cr
+"""been""","Beverly Hills, CA, USA",995cr
+"""want""","Sundance, WY, USA",995cr
+"""been""","Tremonton, UT, USA",995cr
+"""been""","Green Meadow, FL, USA",995cr
+"""been""","Wellington, AL, USA",995cr
+"""been""","Salisbury, NC, USA",995cr
+"""been""","Rexburg, ID, USA",995cr
+"""been""","Vinings, GA, USA",995cr
+"""been""","Rigby, ID, USA",995cr
+"""been""","McCaysville, GA, USA",995cr
+"""been""","Wadley, GA, USA",995cr
+"""been""","Waleska, GA, USA",995cr
+"""been""","McDonough, GA, USA",995cr
+"""been""","Ocean Reef, FL, USA",995cr
+"""been""","Dayton, OH, USA",995cr
+"""been""","Warm Springs, GA, USA",995cr
+"""been""","Warner Robins, GA, USA",995cr
+"""been""","Warrenton, GA, USA",995cr
+"""been""","Anna, OH, USA",995cr
+"""been""","Scaly Mountain, NC, USA",995cr
+"""been""","Saint Anthony, ID, USA",995cr
+"""been""","Watkinsville, GA, USA",995cr
+"""been""","Hastings, FL, USA",995cr
+"""want""","Durango Mountain, CO, USA",995cr
+"""want""","Memphis, TN, USA",995cr
+"""been""","Mineral Bluff, GA, USA",995cr
+"""been"",""fave""","West Yellowstone, MT, USA",995cr

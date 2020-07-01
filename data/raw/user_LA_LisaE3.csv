@@ -1,0 +1,355 @@
+tag,place,user
+"""want""","Skala, Greece",LisaE3
+"""want""","Niagara Falls, Ontario, Canada",LisaE3
+"""want""","Freeport, Bahamas",LisaE3
+"""been""","Coronado, CA, USA",LisaE3
+"""been""","Pensacola, FL, USA",LisaE3
+"""want""","Austin, TX, USA",LisaE3
+"""want""","Johannesburg, South Africa",LisaE3
+"""been""","Tampa, FL, USA",LisaE3
+"""been""","Knoxville, TN, USA",LisaE3
+"""been""","Solvang, CA, USA",LisaE3
+"""been""","Sonoma, CA, USA",LisaE3
+"""want""","Miami, FL, USA",LisaE3
+"""want""","Atlantic City, NJ, USA",LisaE3
+"""been""","Oklahoma City, OK, USA",LisaE3
+"""been""","Scranton, PA, USA",LisaE3
+"""been""","Gatlinburg, TN, USA",LisaE3
+"""been""","Moab, UT, USA",LisaE3
+"""been""","Jersey City, NJ, USA",LisaE3
+"""want""","Rome, Italy",LisaE3
+"""been""","Nabq Bay, Egypt",LisaE3
+"""want""","Abano Terme, Italy",LisaE3
+"""want""","Cruz Bay, U.S. Virgin Islands",LisaE3
+"""been""","Grand Junction, CO, USA",LisaE3
+"""been""","Burlington, VT, USA",LisaE3
+"""been""","Burbank, CA, USA",LisaE3
+"""been""","Panama City, FL, USA",LisaE3
+"""been""","Port Aransas, TX, USA",LisaE3
+"""want""","Paradise Island, Bahamas",LisaE3
+"""been""","Eureka, CA, USA",LisaE3
+"""been""","Chattanooga, TN, USA",LisaE3
+"""want""","Casablanca, Morocco",LisaE3
+"""been""","Anaheim, CA, USA",LisaE3
+"""want""","San Jose, Costa Rica",LisaE3
+"""been""","Columbus, OH, USA",LisaE3
+"""been""","Kapaa, HI, USA",LisaE3
+"""want""","Niagara Falls, NY, USA",LisaE3
+"""been""","Matlacha, FL, USA",LisaE3
+"""been""","Newport, RI, USA",LisaE3
+"""been""","Beaumont, TX, USA",LisaE3
+"""been""","Madison, WI, USA",LisaE3
+"""want""","Lake Placid, NY, USA",LisaE3
+"""want""","Quebec City, Quebec, Canada",LisaE3
+"""want""","Rio de Janeiro, Brazil",LisaE3
+"""been""","Hot Springs, AR, USA",LisaE3
+"""been""","Flagstaff, AZ, USA",LisaE3
+"""been""","Shreveport, LA, USA",LisaE3
+"""been""","Hanalei, HI, USA",LisaE3
+"""been""","Lexington, KY, USA",LisaE3
+"""been""","Culver City, CA, USA",LisaE3
+"""been""","Park City, UT, USA",LisaE3
+"""want""","St. Thomas, U.S. Virgin Islands",LisaE3
+"""want""","Charlotte Amalie, U.S. Virgin Islands",LisaE3
+"""been""","Colorado Springs, CO, USA",LisaE3
+"""been""","Kansas City, KS, USA",LisaE3
+"""been""","Redding, CA, USA",LisaE3
+"""been""","Stowe, VT, USA",LisaE3
+"""been""","Charlotte, NC, USA",LisaE3
+"""been""","Luckenbach, TX, USA",LisaE3
+"""been""","Bar Harbor, ME, USA",LisaE3
+"""want""","Sao Paulo, Brazil",LisaE3
+"""been""","Redondo Beach, CA, USA",LisaE3
+"""been""","Fernandina Beach, FL, USA",LisaE3
+"""been""","Fredericksburg, VA, USA",LisaE3
+"""been""","Newark, NJ, USA",LisaE3
+"""been""","Providence, RI, USA",LisaE3
+"""been""","Brooklyn, NY, USA",LisaE3
+"""been"",""fave""","Tulum, Mexico",LisaE3
+"""been""","Merida, Mexico",LisaE3
+"""been"",""fave""","Charleston, SC, USA",LisaE3
+"""been""","Jackson, MS, USA",LisaE3
+"""been""","Poplar Bluff, MO, USA",LisaE3
+"""been""","Bowling Green, KY, USA",LisaE3
+"""been""","Visalia, CA, USA",LisaE3
+"""been""","Springfield, MO, USA",LisaE3
+"""been""","Pineland, FL, USA",LisaE3
+"""been""","Johnson, VT, USA",LisaE3
+"""want""","Auckland Central, New Zealand",LisaE3
+"""been""","Cambria, CA, USA",LisaE3
+"""want""","Perth, Australia",LisaE3
+"""been""","South San Francisco, CA, USA",LisaE3
+"""been""","Tulsa, OK, USA",LisaE3
+"""been""","Harrisburg, PA, USA",LisaE3
+"""been""","Ontario, CA, USA",LisaE3
+"""want""","Cozumel, Mexico",LisaE3
+"""been""","Estero, FL, USA",LisaE3
+"""want""","Budapest, Hungary",LisaE3
+"""been""","San Antonio, TX, USA",LisaE3
+"""been""","Cancun, Mexico",LisaE3
+"""want""","Cannes, France",LisaE3
+"""been""","Santa Fe, NM, USA",LisaE3
+"""been""","Thackerville, OK, USA",LisaE3
+"""been""","Pine Bluff, AR, USA",LisaE3
+"""want""","Athens, Greece",LisaE3
+"""want""","Kolimbia, Greece",LisaE3
+"""been""","Bath, UK",LisaE3
+"""want""","Oaxaca, Mexico",LisaE3
+"""been""","San Francisco, CA, USA",LisaE3
+"""been""","Page, AZ, USA",LisaE3
+"""want""","Mexico City, Mexico",LisaE3
+"""been""","Thornwood, NY, USA",LisaE3
+"""been""","Tucson, AZ, USA",LisaE3
+"""been""","Crater Lake National Park, OR, USA",LisaE3
+"""been""","San Jose, CA, USA",LisaE3
+"""been"",""want""","Fort Myers Beach, FL, USA",LisaE3
+"""been""","Kissimmee, FL, USA",LisaE3
+"""been""","Williston, VT, USA",LisaE3
+"""been""","Fort Myers, FL, USA",LisaE3
+"""been""","Carlsbad, CA, USA",LisaE3
+"""been""","New Smyrna Beach, FL, USA",LisaE3
+"""been""","Carmel, CA, USA",LisaE3
+"""been""","Denver, CO, USA",LisaE3
+"""been""","Fort Walton Beach, FL, USA",LisaE3
+"""been""","Royal Palm Beach, FL, USA",LisaE3
+"""been""","Lawrence, KS, USA",LisaE3
+"""been""","Grand Canyon National Park, AZ, USA",LisaE3
+"""been""","Cape Coral, FL, USA",LisaE3
+"""been""","Conway, AR, USA",LisaE3
+"""been""","San Luis Obispo, CA, USA",LisaE3
+"""been""","St. George, UT, USA",LisaE3
+"""been""","St. Augustine, FL, USA",LisaE3
+"""been""","Long Island City, NY, USA",LisaE3
+"""been""","Victoria, TX, USA",LisaE3
+"""been""","Riverside, CA, USA",LisaE3
+"""been""","Fort Worth, TX, USA",LisaE3
+"""want""","Montauk, NY, USA",LisaE3
+"""been""","Ventura, CA, USA",LisaE3
+"""been""","Monterey, CA, USA",LisaE3
+"""been""","Pasadena, CA, USA",LisaE3
+"""been""","Cedar City, UT, USA",LisaE3
+"""been""","Little Rock, AR, USA",LisaE3
+"""been""","Springfield, IL, USA",LisaE3
+"""been""","New York City, NY, USA",LisaE3
+"""been""","Playa Mujeres, Mexico",LisaE3
+"""want""","Victoria, British Columbia, Canada",LisaE3
+"""been""","Portsmouth, NH, USA",LisaE3
+"""want""","Whistler, British Columbia, Canada",LisaE3
+"""been""","West Hollywood, CA, USA",LisaE3
+"""been""","Sandy, UT, USA",LisaE3
+"""been""","Key West, FL, USA",LisaE3
+"""been""","Key Largo, FL, USA",LisaE3
+"""been""","Snowbird, UT, USA",LisaE3
+"""been""","Fredericksburg, TX, USA",LisaE3
+"""been"",""want""","Fort Lauderdale, FL, USA",LisaE3
+"""been""","Marathon, FL, USA",LisaE3
+"""been""","Naples, FL, USA",LisaE3
+"""been""","Islamorada, FL, USA",LisaE3
+"""been""","Palm Desert, CA, USA",LisaE3
+"""want""","Puerto Iguazu, Argentina",LisaE3
+"""been""","Atlanta, GA, USA",LisaE3
+"""been""","Columbia, SC, USA",LisaE3
+"""been""","Richmond, VA, USA",LisaE3
+"""been""","Rochester, NY, USA",LisaE3
+"""been""","Beverly Hills, CA, USA",LisaE3
+"""been"",""fave""","Cabo San Lucas, Mexico",LisaE3
+"""been""","San Jose del Cabo, Mexico",LisaE3
+"""want""","Belize City, Belize",LisaE3
+"""been""","Wichita, KS, USA",LisaE3
+"""been""","Lantana, FL, USA",LisaE3
+"""want""","Dublin, Ireland",LisaE3
+"""been""","Land O Lakes, FL, USA",LisaE3
+"""been"",""want""","Houston, TX, USA",LisaE3
+"""been""","Santa Barbara, CA, USA",LisaE3
+"""want""","Machu Picchu, Peru",LisaE3
+"""want""","Lima, Peru",LisaE3
+"""been""","Santa Cruz, CA, USA",LisaE3
+"""been""","Dallas, TX, USA",LisaE3
+"""want""","Cusco, Peru",LisaE3
+"""been""","Sacramento, CA, USA",LisaE3
+"""been""","Huntington Beach, CA, USA",LisaE3
+"""been""","Rapid City, SD, USA",LisaE3
+"""been""","Mahopac, NY, USA",LisaE3
+"""been""","Princeville, HI, USA",LisaE3
+"""want""","Cork, Ireland",LisaE3
+"""been""","Topeka, KS, USA",LisaE3
+"""been""","Binghamton, NY, USA",LisaE3
+"""want""","Marseille, France",LisaE3
+"""been""","Harrison, AR, USA",LisaE3
+"""been"",""want""","New Orleans, LA, USA",LisaE3
+"""been""","Boston, MA, USA",LisaE3
+"""want""","Argassi, Greece",LisaE3
+"""been""","Poipu, HI, USA",LisaE3
+"""been""","Lihue, HI, USA",LisaE3
+"""been""","Ponchatoula, LA, USA",LisaE3
+"""been""","Grand Turk, Turks and Caicos",LisaE3
+"""been""","Cockburn Town, Turks and Caicos",LisaE3
+"""want""","Havana, Cuba",LisaE3
+"""want""","Bangkok, Thailand",LisaE3
+"""been""","North Fort Myers, FL, USA",LisaE3
+"""been""","Klamath Falls, OR, USA",LisaE3
+"""been""","Durango, CO, USA",LisaE3
+"""want""","Sissi, Greece",LisaE3
+"""been""","Williamsburg, VA, USA",LisaE3
+"""been""","San Simeon, CA, USA",LisaE3
+"""been""","Provo, UT, USA",LisaE3
+"""been""","Morro Bay, CA, USA",LisaE3
+"""been""","Paris, France",LisaE3
+"""want""","Montevideo, Uruguay",LisaE3
+"""been""","Branson, MO, USA",LisaE3
+"""been""","Alta, UT, USA",LisaE3
+"""been""","White Plains, NY, USA",LisaE3
+"""been""","Branson West, MO, USA",LisaE3
+"""been""","Chambersburg, PA, USA",LisaE3
+"""want""","Maui, HI, USA",LisaE3
+"""want""","Hopkins, Belize",LisaE3
+"""want""","Seattle, WA, USA",LisaE3
+"""been""","San Diego, CA, USA",LisaE3
+"""been""","Cincinnati, OH, USA",LisaE3
+"""want""","Banff, Alberta, Canada",LisaE3
+"""been""","Zihuatanejo, Mexico",LisaE3
+"""been""","Teton Village, WY, USA",LisaE3
+"""want""","Hershey, PA, USA",LisaE3
+"""been""","Idaho Falls, ID, USA",LisaE3
+"""been""","Louisville, KY, USA",LisaE3
+"""been""","Los Angeles, CA, USA",LisaE3
+"""been""","Pismo Beach, CA, USA",LisaE3
+"""been""","Fresno, CA, USA",LisaE3
+"""want""","Vienna, Austria",LisaE3
+"""been""","Chicago, IL, USA",LisaE3
+"""been""","Taos, NM, USA",LisaE3
+"""been""","Las Vegas, NV, USA",LisaE3
+"""been""","Baton Rouge, LA, USA",LisaE3
+"""been""","Longview, TX, USA",LisaE3
+"""want""","Kuala Lumpur, Malaysia",LisaE3
+"""been""","Santa Monica, CA, USA",LisaE3
+"""been""","Logan, UT, USA",LisaE3
+"""been""","Gulf Shores, AL, USA",LisaE3
+"""want""","Mykonos Town, Greece",LisaE3
+"""want""","Santiago, Chile",LisaE3
+"""been""","Phoenix, AZ, USA",LisaE3
+"""been""","New Haven, CT, USA",LisaE3
+"""been""","Alexandria, VA, USA",LisaE3
+"""been""","Long Beach, CA, USA",LisaE3
+"""been""","Napa, CA, USA",LisaE3
+"""want""","Vero Beach, FL, USA",LisaE3
+"""want""","Porto de Galinhas, Brazil",LisaE3
+"""been""","Pensacola Beach, FL, USA",LisaE3
+"""been""","Portland, ME, USA",LisaE3
+"""been""","West Yellowstone, MT, USA",LisaE3
+"""been""","Henderson, NV, USA",LisaE3
+"""been""","Acapulco, Mexico",LisaE3
+"""want""","St. John's, Antigua and Barbuda",LisaE3
+"""want""","Grand Cayman, Cayman Islands",LisaE3
+"""been""","Deerfield Beach, FL, USA",LisaE3
+"""been""","Randolph, VT, USA",LisaE3
+"""been""","Eden Mills, VT, USA",LisaE3
+"""been""","Memphis, TN, USA",LisaE3
+"""been""","Aspen, CO, USA",LisaE3
+"""want""","Kobe, Japan",LisaE3
+"""been""","Delray Beach, FL, USA",LisaE3
+"""been""","Eureka Springs, AR, USA",LisaE3
+"""been""","Malibu, CA, USA",LisaE3
+"""want""","Seven Mile Beach, Cayman Islands",LisaE3
+"""been""","Birmingham, AL, USA",LisaE3
+"""been""","Eugene, OR, USA",LisaE3
+"""want""","Palm - Eagle Beach, Aruba",LisaE3
+"""been"",""fave""","Edisto Island, SC, USA",LisaE3
+"""been""","Manhattan Beach, CA, USA",LisaE3
+"""been"",""want""","Galveston, TX, USA",LisaE3
+"""been""","Fayetteville, AR, USA",LisaE3
+"""want""","Lucea, Jamaica",LisaE3
+"""been""","Russellville, AR, USA",LisaE3
+"""want""","Bogota, Colombia",LisaE3
+"""been""","Annapolis, MD, USA",LisaE3
+"""been""","Bronx, NY, USA",LisaE3
+"""want""","Toulouse, France",LisaE3
+"""been""","Biloxi, MS, USA",LisaE3
+"""been""","Tijuana, Mexico",LisaE3
+"""been""","Kansas City, MO, USA",LisaE3
+"""been""","Rock Springs, WY, USA",LisaE3
+"""been""","Bradenton, FL, USA",LisaE3
+"""been""","Mammoth Lakes, CA, USA",LisaE3
+"""want""","Buenos Aires, Argentina",LisaE3
+"""been""","Newport Beach, CA, USA",LisaE3
+"""been""","Arlington, VA, USA",LisaE3
+"""been""","Blytheville, AR, USA",LisaE3
+"""want""","Medellin, Colombia",LisaE3
+"""been""","Portland, OR, USA",LisaE3
+"""been""","Saint James City, FL, USA",LisaE3
+"""been""","Washington DC, DC, USA",LisaE3
+"""been""","San Marcos, TX, USA",LisaE3
+"""been""","Deposit, NY, USA",LisaE3
+"""been""","Saint Louis, MO, USA",LisaE3
+"""been""","Gettysburg, PA, USA",LisaE3
+"""been""","Philadelphia, PA, USA",LisaE3
+"""been""","Mesquite, NV, USA",LisaE3
+"""been""","Rockport, ME, USA",LisaE3
+"""want""","Isla Verde, Puerto Rico",LisaE3
+"""been""","Beaverton, OR, USA",LisaE3
+"""been""","Bend, OR, USA",LisaE3
+"""been""","La Jolla, CA, USA",LisaE3
+"""been"",""want""","Philipsburg, St Martin \u002F St Maarten",LisaE3
+"""want""","Myrtle Beach, SC, USA",LisaE3
+"""want""","Cape Town Central, South Africa",LisaE3
+"""been"",""fave""","Corpus Christi, TX, USA",LisaE3
+"""been""","Shirley, AR, USA",LisaE3
+"""been""","Montgomery, AL, USA",LisaE3
+"""been"",""want""","Orlando, FL, USA",LisaE3
+"""been""","Lancaster, PA, USA",LisaE3
+"""been""","Salem, OR, USA",LisaE3
+"""been""","Jacksonville, FL, USA",LisaE3
+"""been""","Bainbridge, NY, USA",LisaE3
+"""been""","Salt Lake City, UT, USA",LisaE3
+"""been""","Indian Lake, NY, USA",LisaE3
+"""been""","Armonk, NY, USA",LisaE3
+"""been""","Jackson, WY, USA",LisaE3
+"""been""","Big Sur, CA, USA",LisaE3
+"""been"",""fave""","Puerto Morelos, Mexico",LisaE3
+"""been""","Boise, ID, USA",LisaE3
+"""been""","Sedona, AZ, USA",LisaE3
+"""been""","Marina del Rey, CA, USA",LisaE3
+"""been""","Scottsdale, AZ, USA",LisaE3
+"""been""","Tyler, TX, USA",LisaE3
+"""been""","Newport, OR, USA",LisaE3
+"""been""","Nashville, TN, USA",LisaE3
+"""been""","Steamboat Springs, CO, USA",LisaE3
+"""been""","Allentown, PA, USA",LisaE3
+"""want""","Savannah, GA, USA",LisaE3
+"""want""","Punta del Este, Uruguay",LisaE3
+"""been""","Fort Smith, AR, USA",LisaE3
+"""been""","Mobile, AL, USA",LisaE3
+"""been""","Baltimore, MD, USA",LisaE3
+"""been""","Albuquerque, NM, USA",LisaE3
+"""been""","Boynton Beach, FL, USA",LisaE3
+"""been"",""want""","San Juan, Puerto Rico",LisaE3
+"""been""","Evanston, WY, USA",LisaE3
+"""been""","Jeffersonville, VT, USA",LisaE3
+"""been""","Texarkana, TX, USA",LisaE3
+"""been""","Norfolk, VA, USA",LisaE3
+"""want""","Fira, Greece",LisaE3
+"""been""","Devol, OK, USA",LisaE3
+"""been""","Breckenridge, CO, USA",LisaE3
+"""been""","Jonesboro, AR, USA",LisaE3
+"""been""","Fishkill, NY, USA",LisaE3
+"""been""","Ixtapa, Mexico",LisaE3
+"""been""","Ithaca, NY, USA",LisaE3
+"""been""","Boca Raton, FL, USA",LisaE3
+"""been""","Virginia Beach, VA, USA",LisaE3
+"""been""","Wichita Falls, TX, USA",LisaE3
+"""been""","Sioux Falls, SD, USA",LisaE3
+"""been""","Amarillo, TX, USA",LisaE3
+"""been""","Bokeelia, FL, USA",LisaE3
+"""been""","Cleveland, OH, USA",LisaE3
+"""been""","Laguna Beach, CA, USA",LisaE3
+"""want""","Ocho Rios, Jamaica",LisaE3
+"""want""","Negril, Jamaica",LisaE3
+"""been"",""fave""","London, UK",LisaE3
+"""been""","Vail, CO, USA",LisaE3
+"""want""","Naples, Italy",LisaE3
+"""been""","Sevierville, TN, USA",LisaE3
+"""been""","Half Moon Bay, CA, USA",LisaE3
+"""been""","Springdale, AR, USA",LisaE3
+"""been""","New Paltz, NY, USA",LisaE3
+"""been""","North Little Rock, AR, USA",LisaE3
+"""been""","Ocean City, MD, USA",LisaE3

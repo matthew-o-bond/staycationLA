@@ -1,0 +1,718 @@
+tag,place,user
+"""been""","Reno, NV, USA",GearyOutWest
+"""been""","Camp Verde, AZ, USA",GearyOutWest
+"""want""","Sarasota, FL, USA",GearyOutWest
+"""been""","Capitan, NM, USA",GearyOutWest
+"""want""","Montevideo, Uruguay",GearyOutWest
+"""been"",""fave""","Eureka Springs, AR, USA",GearyOutWest
+"""want""","Manchester, UK",GearyOutWest
+"""been"",""fave""","Alpine, AZ, USA",GearyOutWest
+"""want""","Manhattan Beach, CA, USA",GearyOutWest
+"""been""","Fayetteville, AR, USA",GearyOutWest
+"""been""","Charleston, WV, USA",GearyOutWest
+"""been""","Birmingham, AL, USA",GearyOutWest
+"""been""","Florence, SC, USA",GearyOutWest
+"""want""","Malibu, CA, USA",GearyOutWest
+"""been""","Timmonsville, SC, USA",GearyOutWest
+"""been""","Portsmouth, RI, USA",GearyOutWest
+"""want""","Nuevo Vallarta, Mexico",GearyOutWest
+"""been""","West Palm Beach, FL, USA",GearyOutWest
+"""been""","Belfry, KY, USA",GearyOutWest
+"""been"",""fave""","Elgin, AZ, USA",GearyOutWest
+"""want""","Green Bay, WI, USA",GearyOutWest
+"""want""","St. Pete Beach, FL, USA",GearyOutWest
+"""been""","Oberau, Austria",GearyOutWest
+"""want""","St. Petersburg, FL, USA",GearyOutWest
+"""want""","Hong Kong, China",GearyOutWest
+"""want""","Playa Paraiso, Mexico",GearyOutWest
+"""want""","Vina del Mar, Chile",GearyOutWest
+"""want""","Bucharest, Romania",GearyOutWest
+"""been""","Moberly, MO, USA",GearyOutWest
+"""been"",""fave""","Newport Beach, CA, USA",GearyOutWest
+"""want""","Oslo, Norway",GearyOutWest
+"""want""","Sofia, Bulgaria",GearyOutWest
+"""been"",""fave""","Folly Beach, SC, USA",GearyOutWest
+"""want""","Strasbourg, France",GearyOutWest
+"""been""","Aspen, CO, USA",GearyOutWest
+"""want""","Armacao dos Buzios, Brazil",GearyOutWest
+"""want""","Salem, OR, USA",GearyOutWest
+"""want""","Warsaw, Poland",GearyOutWest
+"""been""","Old Lyme, CT, USA",GearyOutWest
+"""been""","Safford, AZ, USA",GearyOutWest
+"""been"",""fave""","St. George Island, FL, USA",GearyOutWest
+"""been""","Sahuarita, AZ, USA",GearyOutWest
+"""been""","Old Saybrook, CT, USA",GearyOutWest
+"""been"",""fave""","Rio Rico, AZ, USA",GearyOutWest
+"""been""","Arlington, VA, USA",GearyOutWest
+"""been""","Wakefield, RI, USA",GearyOutWest
+"""been""","Duncan, AZ, USA",GearyOutWest
+"""been""","Murrells Inlet, SC, USA",GearyOutWest
+"""been""","Eagar, AZ, USA",GearyOutWest
+"""been""","Myrtle Beach, SC, USA",GearyOutWest
+"""want""","Luxembourg City, Luxembourg",GearyOutWest
+"""want""","Toronto, Ontario, Canada",GearyOutWest
+"""been"",""fave""","Saint Louis, MO, USA",GearyOutWest
+"""want""","Sydney, Australia",GearyOutWest
+"""want""","Salou, Spain",GearyOutWest
+"""want""","Playa del Ingles, Spain",GearyOutWest
+"""want""","Mykonos Town, Greece",GearyOutWest
+"""been"",""fave""","Apalachicola, FL, USA",GearyOutWest
+"""want""","San Agustin, Spain",GearyOutWest
+"""been"",""fave""","Swindon, UK",GearyOutWest
+"""want""","Brisbane, Australia",GearyOutWest
+"""been"",""fave""","Chichen Itza, Mexico",GearyOutWest
+"""been"",""want"",""fave""","Cancun, Mexico",GearyOutWest
+"""want""","New Milton, UK",GearyOutWest
+"""been"",""fave""","Sonoita, AZ, USA",GearyOutWest
+"""want""","Heidelberg, Germany",GearyOutWest
+"""want""","Oaxaca, Mexico",GearyOutWest
+"""been"",""fave""","Isla Verde, Puerto Rico",GearyOutWest
+"""want""","Mexico City, Mexico",GearyOutWest
+"""been"",""fave""","La Jolla, CA, USA",GearyOutWest
+"""been""","Darlington, SC, USA",GearyOutWest
+"""want""","Portland, OR, USA",GearyOutWest
+"""want""","Siesta Key, FL, USA",GearyOutWest
+"""been""","Orlando, FL, USA",GearyOutWest
+"""been""","Holbrook, AZ, USA",GearyOutWest
+"""been""","Springerville, AZ, USA",GearyOutWest
+"""want""","Fort Collins, CO, USA",GearyOutWest
+"""want""","Jesolo, Italy",GearyOutWest
+"""want""","Playa de las Americas, Spain",GearyOutWest
+"""been"",""want"",""fave""","Kansas City, MO, USA",GearyOutWest
+"""been""","Minneapolis, MN, USA",GearyOutWest
+"""been""","Sedalia, MO, USA",GearyOutWest
+"""been""","Biloxi, MS, USA",GearyOutWest
+"""been"",""fave""","Scottsdale, AZ, USA",GearyOutWest
+"""been"",""fave""","Grand Canyon National Park, AZ, USA",GearyOutWest
+"""been"",""fave""","Sedona, AZ, USA",GearyOutWest
+"""been""","Green Valley, AZ, USA",GearyOutWest
+"""been""","Sierra Vista, AZ, USA",GearyOutWest
+"""been"",""fave""","Steamboat Springs, CO, USA",GearyOutWest
+"""want""","Stuttgart, Germany",GearyOutWest
+"""been""","Summerville, SC, USA",GearyOutWest
+"""been""","Snowflake, AZ, USA",GearyOutWest
+"""been"",""fave""","Greer, AZ, USA",GearyOutWest
+"""been""","Sullivan's Island, SC, USA",GearyOutWest
+"""been""","Surfside Beach, SC, USA",GearyOutWest
+"""want""","Ottawa, Ontario, Canada",GearyOutWest
+"""been""","Marina del Rey, CA, USA",GearyOutWest
+"""been""","Sumter, SC, USA",GearyOutWest
+"""want""","Vienna, Austria",GearyOutWest
+"""been"",""fave""","Show Low, AZ, USA",GearyOutWest
+"""been""","South Williamson, KY, USA",GearyOutWest
+"""been""","Bridgeport, CT, USA",GearyOutWest
+"""been""","Kirchberg, Austria",GearyOutWest
+"""been""","Baton Rouge, LA, USA",GearyOutWest
+"""been""","Lake Charles, LA, USA",GearyOutWest
+"""want""","Versailles, France",GearyOutWest
+"""been""","Henderson, NV, USA",GearyOutWest
+"""been""","Zurich, Switzerland",GearyOutWest
+"""been"",""fave""","Innsbruck, Austria",GearyOutWest
+"""been""","Portsmouth, UK",GearyOutWest
+"""want""","Lyon, France",GearyOutWest
+"""been"",""fave""","Kitzbuhel, Austria",GearyOutWest
+"""been""","Southampton, UK",GearyOutWest
+"""been""","Paris, France",GearyOutWest
+"""been""","Chamonix, France",GearyOutWest
+"""been"",""want""","Grenoble, France",GearyOutWest
+"""been"",""fave""","Huntington Beach, CA, USA",GearyOutWest
+"""been"",""fave""","Patagonia, AZ, USA",GearyOutWest
+"""want""","Sacramento, CA, USA",GearyOutWest
+"""want""","Palmanova, Spain",GearyOutWest
+"""been""","Mystic, CT, USA",GearyOutWest
+"""been"",""fave""","Amsterdam, The Netherlands",GearyOutWest
+"""been""","Salzburg, Austria",GearyOutWest
+"""been"",""fave""","Galveston, TX, USA",GearyOutWest
+"""want""","Foz do Iguacu, Brazil",GearyOutWest
+"""been"",""fave""","Paradise Valley, AZ, USA",GearyOutWest
+"""been"",""fave""","Parker, AZ, USA",GearyOutWest
+"""been""","Yuma, AZ, USA",GearyOutWest
+"""want""","Wichita, KS, USA",GearyOutWest
+"""been""","Bethesda, MD, USA",GearyOutWest
+"""want""","Augusta, GA, USA",GearyOutWest
+"""been"",""fave""","Las Vegas, NV, USA",GearyOutWest
+"""been""","Laughlin, NV, USA",GearyOutWest
+"""been""","Wildwood, NJ, USA",GearyOutWest
+"""want""","Dresden, Germany",GearyOutWest
+"""want""","Maui, HI, USA",GearyOutWest
+"""been""","South Lake Tahoe, CA, USA",GearyOutWest
+"""been""","Winslow, AZ, USA",GearyOutWest
+"""want""","Chicago, IL, USA",GearyOutWest
+"""want""","Quito, Ecuador",GearyOutWest
+"""want""","Lloret de Mar, Spain",GearyOutWest
+"""want""","Santiago, Chile",GearyOutWest
+"""been"",""fave""","Hopfgarten im Brixental, Austria",GearyOutWest
+"""want""","Valparaiso, Chile",GearyOutWest
+"""want""","Toledo, Spain",GearyOutWest
+"""want""","Mackinaw City, MI, USA",GearyOutWest
+"""been""","Heroica Caborca, Mexico",GearyOutWest
+"""want""","Puerto de la Cruz, Spain",GearyOutWest
+"""want""","Copenhagen, Denmark",GearyOutWest
+"""want""","Brighton, UK",GearyOutWest
+"""want""","Annapolis, MD, USA",GearyOutWest
+"""been""","Fresno, CA, USA",GearyOutWest
+"""want""","Prague, Czech Republic",GearyOutWest
+"""been""","Los Angeles, CA, USA",GearyOutWest
+"""been""","Quartzsite, AZ, USA",GearyOutWest
+"""been""","Cottonwood, AZ, USA",GearyOutWest
+"""want""","Cambrils, Spain",GearyOutWest
+"""want""","Pismo Beach, CA, USA",GearyOutWest
+"""been""","Bentonville, AR, USA",GearyOutWest
+"""want""","Corralejo, Spain",GearyOutWest
+"""been""","Irvine, CA, USA",GearyOutWest
+"""been""","Portal, AZ, USA",GearyOutWest
+"""been""","Fort Worth, TX, USA",GearyOutWest
+"""been"",""fave""","Prescott, AZ, USA",GearyOutWest
+"""been""","Pittsburgh, PA, USA",GearyOutWest
+"""want""","Hobart, Australia",GearyOutWest
+"""been""","Friona, TX, USA",GearyOutWest
+"""want""","Vero Beach, FL, USA",GearyOutWest
+"""been""","Long Beach, CA, USA",GearyOutWest
+"""want""","Lima, Peru",GearyOutWest
+"""been""","Monte-Carlo, Monaco",GearyOutWest
+"""want""","Cusco, Peru",GearyOutWest
+"""been"",""fave""","Barcelona, Spain",GearyOutWest
+"""been"",""want"",""fave""","Andechs, Germany",GearyOutWest
+"""want""","Patong, Thailand",GearyOutWest
+"""want""","Playa del Secreto, Mexico",GearyOutWest
+"""been""","Gulf Shores, AL, USA",GearyOutWest
+"""been""","Avalon, CA, USA",GearyOutWest
+"""been""","Hereford, TX, USA",GearyOutWest
+"""been"",""fave""","Salamanca, Spain",GearyOutWest
+"""been""","Isla Blanca, Mexico",GearyOutWest
+"""want""","Leon, Spain",GearyOutWest
+"""want""","Cologne, Germany",GearyOutWest
+"""want""","Valladolid, Spain",GearyOutWest
+"""want""","Marseille, France",GearyOutWest
+"""want""","Milwaukee, WI, USA",GearyOutWest
+"""want""","Segovia, Spain",GearyOutWest
+"""want""","Dusseldorf, Germany",GearyOutWest
+"""been"",""fave""","Napa, CA, USA",GearyOutWest
+"""been"",""fave""","Fredericksburg, TX, USA",GearyOutWest
+"""been""","Alexandria, VA, USA",GearyOutWest
+"""want""","Burgos, Spain",GearyOutWest
+"""been""","Westbrook, CT, USA",GearyOutWest
+"""been""","New Haven, CT, USA",GearyOutWest
+"""been"",""fave""","Phoenix, AZ, USA",GearyOutWest
+"""been""","New London, CT, USA",GearyOutWest
+"""been"",""fave""","Chetumal, Mexico",GearyOutWest
+"""been"",""fave""","Torquay, UK",GearyOutWest
+"""been"",""fave""","Wailea, HI, USA",GearyOutWest
+"""want""","Palma de Mallorca, Spain",GearyOutWest
+"""want""","Cannes, France",GearyOutWest
+"""want""","Athens, Greece",GearyOutWest
+"""been"",""fave""","Bath, UK",GearyOutWest
+"""been"",""fave""","Ibiza, Spain",GearyOutWest
+"""been"",""fave""","Santa Rosalia, Mexico",GearyOutWest
+"""been"",""fave""","Playa Mujeres, Mexico",GearyOutWest
+"""want""","Bruges, Belgium",GearyOutWest
+"""been""","Redondo Beach, CA, USA",GearyOutWest
+"""been""","Lexington, KY, USA",GearyOutWest
+"""been""","Dallas, TX, USA",GearyOutWest
+"""want""","Rust, Germany",GearyOutWest
+"""want""","Ixtapa, Mexico",GearyOutWest
+"""want""","Calas de Majorca, Spain",GearyOutWest
+"""want""","Wellington, New Zealand",GearyOutWest
+"""been""","Fall River, MA, USA",GearyOutWest
+"""been"",""want"",""fave""","Chambery, France",GearyOutWest
+"""want""","Agios Nikolaos, Greece",GearyOutWest
+"""been"",""fave""","Nevada, MO, USA",GearyOutWest
+"""been""","Saint Paul, MN, USA",GearyOutWest
+"""want""","Chania Town, Greece",GearyOutWest
+"""been""","Nice, France",GearyOutWest
+"""been"",""fave""","Rhineland, MO, USA",GearyOutWest
+"""been""","Bournemouth, UK",GearyOutWest
+"""want""","Christchurch, New Zealand",GearyOutWest
+"""been""","Ontario, CA, USA",GearyOutWest
+"""want""","Long Island City, NY, USA",GearyOutWest
+"""been"",""fave""","Monterey, CA, USA",GearyOutWest
+"""been""","Riverside, CA, USA",GearyOutWest
+"""want""","Parker Dam, CA, USA",GearyOutWest
+"""want""","Kill Devil Hills, NC, USA",GearyOutWest
+"""been""","Williams, AZ, USA",GearyOutWest
+"""been""","Pasadena, CA, USA",GearyOutWest
+"""want""","Newquay, UK",GearyOutWest
+"""been""","Quantico, VA, USA",GearyOutWest
+"""want""","Melbourne, Australia",GearyOutWest
+"""been""","Jackson, MS, USA",GearyOutWest
+"""want""","Zaragoza, Spain",GearyOutWest
+"""been"",""fave""","Granada, Spain",GearyOutWest
+"""want""","Provincetown, MA, USA",GearyOutWest
+"""want""","Berlin, Germany",GearyOutWest
+"""been""","Seville, Spain",GearyOutWest
+"""been""","Huntington, WV, USA",GearyOutWest
+"""want""","Belfast, UK",GearyOutWest
+"""been"",""fave""","Springfield, MO, USA",GearyOutWest
+"""want""","Torremolinos, Spain",GearyOutWest
+"""want""","Auckland Central, New Zealand",GearyOutWest
+"""want""","Grapevine, TX, USA",GearyOutWest
+"""want""","Nags Head, NC, USA",GearyOutWest
+"""been""","Tulsa, OK, USA",GearyOutWest
+"""been""","Palm Springs, CA, USA",GearyOutWest
+"""been""","Las Cruces, NM, USA",GearyOutWest
+"""want""","Palm Desert, CA, USA",GearyOutWest
+"""been""","Palo Alto, CA, USA",GearyOutWest
+"""been""","Hardy, KY, USA",GearyOutWest
+"""want""","Charlotte, NC, USA",GearyOutWest
+"""been""","Las Vegas, NM, USA",GearyOutWest
+"""want""","Kennebunkport, ME, USA",GearyOutWest
+"""want""","San Sebastian - Donostia, Spain",GearyOutWest
+"""want""","Frankfurt, Germany",GearyOutWest
+"""want""","Hamburg, Germany",GearyOutWest
+"""been"",""fave""","Alicante, Spain",GearyOutWest
+"""want""","Bilbao, Spain",GearyOutWest
+"""want""","Aberdeen, UK",GearyOutWest
+"""want""","Avignon, France",GearyOutWest
+"""want""","Oxford, UK",GearyOutWest
+"""been""","Stockton, MO, USA",GearyOutWest
+"""been""","Lincoln, NM, USA",GearyOutWest
+"""want""","Columbus, OH, USA",GearyOutWest
+"""been"",""fave""","Bahia Kino, Mexico",GearyOutWest
+"""want""","Chattanooga, TN, USA",GearyOutWest
+"""been""","Oberndorf, Austria",GearyOutWest
+"""been""","Lake Placid, NY, USA",GearyOutWest
+"""been"",""fave""","London, UK",GearyOutWest
+"""been"",""fave""","Munich, Germany",GearyOutWest
+"""want""","Pompeii, Italy",GearyOutWest
+"""want""","Liverpool, UK",GearyOutWest
+"""want""","Windermere, UK",GearyOutWest
+"""want""","Capri, Italy",GearyOutWest
+"""want""","Sorrento, Italy",GearyOutWest
+"""want""","Park City, UT, USA",GearyOutWest
+"""want""","Naples, Italy",GearyOutWest
+"""want""","Sant Antoni de Portmany, Spain",GearyOutWest
+"""been""","Amalfi, Italy",GearyOutWest
+"""been""","Roswell, NM, USA",GearyOutWest
+"""want""","Halifax, Nova Scotia, Canada",GearyOutWest
+"""want""","Puerto Del Carmen, Spain",GearyOutWest
+"""been""","Ruidoso, NM, USA",GearyOutWest
+"""been"",""fave""","Akumal, Mexico",GearyOutWest
+"""want""","Malaga, Spain",GearyOutWest
+"""want""","Oia, Greece",GearyOutWest
+"""been""","Matewan, WV, USA",GearyOutWest
+"""want""","York, UK",GearyOutWest
+"""want""","Cambridge, UK",GearyOutWest
+"""want""","Brussels, Belgium",GearyOutWest
+"""want""","Playa de Palma, Spain",GearyOutWest
+"""want""","Nuremberg, Germany",GearyOutWest
+"""want""","Cordoba, Spain",GearyOutWest
+"""want""","Norwich, UK",GearyOutWest
+"""been"",""fave""","Vatican City, Vatican City",GearyOutWest
+"""want""","Boca Raton, FL, USA",GearyOutWest
+"""want""","Yosemite National Park, CA, USA",GearyOutWest
+"""want""","Fortaleza, Brazil",GearyOutWest
+"""been"",""fave""","Rome, Italy",GearyOutWest
+"""been""","Oklahoma City, OK, USA",GearyOutWest
+"""want""","Sioux Falls, SD, USA",GearyOutWest
+"""been""","Fort Sumner, NM, USA",GearyOutWest
+"""been"",""fave""","Valladolid, Mexico",GearyOutWest
+"""want""","Cleveland, OH, USA",GearyOutWest
+"""want""","Bozeman, MT, USA",GearyOutWest
+"""been""","Tangier, Morocco",GearyOutWest
+"""been""","Oceanside, CA, USA",GearyOutWest
+"""been"",""fave""","Valencia, Spain",GearyOutWest
+"""been""","Logan, WV, USA",GearyOutWest
+"""want""","Istanbul, Turkey",GearyOutWest
+"""been""","Massapequa Park, NY, USA",GearyOutWest
+"""want""","Vilamoura, Portugal",GearyOutWest
+"""been""","Benidorm, Spain",GearyOutWest
+"""want""","Catania, Italy",GearyOutWest
+"""been""","North Scituate, MA, USA",GearyOutWest
+"""want""","Pamplona, Spain",GearyOutWest
+"""want""","Alghero, Italy",GearyOutWest
+"""been""","Oakland, CA, USA",GearyOutWest
+"""been""","Portales, NM, USA",GearyOutWest
+"""been""","Somerset, PA, USA",GearyOutWest
+"""been""","Indiana, PA, USA",GearyOutWest
+"""want""","Arona, Spain",GearyOutWest
+"""want""","Niagara Falls, Ontario, Canada",GearyOutWest
+"""been""","Lake George, NY, USA",GearyOutWest
+"""want""","Mojacar, Spain",GearyOutWest
+"""want""","Niagara-on-the-Lake, Ontario, Canada",GearyOutWest
+"""want""","Raleigh, NC, USA",GearyOutWest
+"""want""","Tokyo, Japan",GearyOutWest
+"""want""","Caleta de Fuste, Spain",GearyOutWest
+"""been""","Atlantic City, NJ, USA",GearyOutWest
+"""want""","Hyannis, MA, USA",GearyOutWest
+"""want""","Pisa, Italy",GearyOutWest
+"""want""","Bayahibe, Dominican Republic",GearyOutWest
+"""been"",""fave""","Playa Blanca, Spain",GearyOutWest
+"""been"",""fave""","Florence, Italy",GearyOutWest
+"""been""","Gulfport, MS, USA",GearyOutWest
+"""been""","Waynesboro, VA, USA",GearyOutWest
+"""want""","Salvador, Brazil",GearyOutWest
+"""want""","Palermo, Italy",GearyOutWest
+"""want""","Huntsville, AL, USA",GearyOutWest
+"""want""","Jackson, WY, USA",GearyOutWest
+"""want""","Niagara Falls, NY, USA",GearyOutWest
+"""want""","Chiang Mai, Thailand",GearyOutWest
+"""want""","Vancouver, British Columbia, Canada",GearyOutWest
+"""want""","Cala San Vincente, Spain",GearyOutWest
+"""been"",""fave""","Mulege, Mexico",GearyOutWest
+"""want""","Bangkok, Thailand",GearyOutWest
+"""want""","Victoria, British Columbia, Canada",GearyOutWest
+"""want""","Erie, PA, USA",GearyOutWest
+"""want""","Wilmington, NC, USA",GearyOutWest
+"""want""","Puerto Plata, Dominican Republic",GearyOutWest
+"""been"",""fave""","Hermosillo, Mexico",GearyOutWest
+"""want""","Punta Cana, Dominican Republic",GearyOutWest
+"""been""","Washington DC, DC, USA",GearyOutWest
+"""want""","Whistler, British Columbia, Canada",GearyOutWest
+"""been""","Mexican Hat, UT, USA",GearyOutWest
+"""want""","Glasgow, UK",GearyOutWest
+"""want""","Nerja, Spain",GearyOutWest
+"""want""","La Fortuna de San Carlos, Costa Rica",GearyOutWest
+"""been""","Pikeville, KY, USA",GearyOutWest
+"""want""","Norfolk, VA, USA",GearyOutWest
+"""want""","Bangor, ME, USA",GearyOutWest
+"""want""","Hilo, HI, USA",GearyOutWest
+"""want""","Hollywood, FL, USA",GearyOutWest
+"""been""","Daytona Beach, FL, USA",GearyOutWest
+"""want""","Adeje, Spain",GearyOutWest
+"""want""","Winston Salem, NC, USA",GearyOutWest
+"""been"",""fave""","Indianapolis, IN, USA",GearyOutWest
+"""want""","Bend, OR, USA",GearyOutWest
+"""been""","Estancia, NM, USA",GearyOutWest
+"""been""","Elephant Butte, NM, USA",GearyOutWest
+"""been""","Cabo San Lucas, Mexico",GearyOutWest
+"""want""","Billings, MT, USA",GearyOutWest
+"""want""","San Jose del Cabo, Mexico",GearyOutWest
+"""want""","Moscow, Russia",GearyOutWest
+"""want""","Shanghai, China",GearyOutWest
+"""been""","Amityville, NY, USA",GearyOutWest
+"""want""","Santo Domingo, Dominican Republic",GearyOutWest
+"""been"",""fave""","Madrid, Spain",GearyOutWest
+"""want""","Virginia Beach, VA, USA",GearyOutWest
+"""want""","Verona, Italy",GearyOutWest
+"""been""","Delbarton, WV, USA",GearyOutWest
+"""been""","Venice, Italy",GearyOutWest
+"""want""","Battle Creek, MI, USA",GearyOutWest
+"""been""","Lancaster, PA, USA",GearyOutWest
+"""want""","Rehoboth Beach, DE, USA",GearyOutWest
+"""want""","Puerto Aventuras, Mexico",GearyOutWest
+"""been""","Mesilla, NM, USA",GearyOutWest
+"""been""","Montgomery, AL, USA",GearyOutWest
+"""want""","Milan, Italy",GearyOutWest
+"""want""","Staten Island, NY, USA",GearyOutWest
+"""want""","Buenos Aires, Argentina",GearyOutWest
+"""want""","Johor Bahru, Malaysia",GearyOutWest
+"""been"",""fave""","Soliman Bay, Mexico",GearyOutWest
+"""want""","Mar del Plata, Argentina",GearyOutWest
+"""want""","Cody, WY, USA",GearyOutWest
+"""been""","Eastpoint, FL, USA",GearyOutWest
+"""been"",""fave""","Ronda, Spain",GearyOutWest
+"""been"",""want"",""fave""","Guejar Sierra, Spain",GearyOutWest
+"""want""","Kos Town, Greece",GearyOutWest
+"""want""","Winnipeg, Manitoba, Canada",GearyOutWest
+"""want""","Manchester, NH, USA",GearyOutWest
+"""want""","Edinburgh, UK",GearyOutWest
+"""been""","Mobile, AL, USA",GearyOutWest
+"""want""","Bronx, NY, USA",GearyOutWest
+"""want""","Turin, Italy",GearyOutWest
+"""want""","Coventry, UK",GearyOutWest
+"""want""","Boise, ID, USA",GearyOutWest
+"""want""","Newport News, VA, USA",GearyOutWest
+"""been"",""fave""","Puerto Penasco, Mexico",GearyOutWest
+"""want""","Missoula, MT, USA",GearyOutWest
+"""want""","Kuala Lumpur, Malaysia",GearyOutWest
+"""been""","Genoa, Italy",GearyOutWest
+"""want""","Manila, Philippines",GearyOutWest
+"""want""","Killarney, Ireland",GearyOutWest
+"""been""","Temecula, CA, USA",GearyOutWest
+"""been""","Dayton, OH, USA",GearyOutWest
+"""want""","San Carlos de Bariloche, Argentina",GearyOutWest
+"""been"",""fave""","Santa Barbara, CA, USA",GearyOutWest
+"""want""","Ocala, FL, USA",GearyOutWest
+"""want""","Portland, ME, USA",GearyOutWest
+"""want""","Rhodes Town, Greece",GearyOutWest
+"""been""","Memphis, TN, USA",GearyOutWest
+"""want""","Huatulco, Mexico",GearyOutWest
+"""want""","Acapulco, Mexico",GearyOutWest
+"""been""","Santa Cruz, CA, USA",GearyOutWest
+"""been""","Nogales, Mexico",GearyOutWest
+"""want""","Ensenada, Mexico",GearyOutWest
+"""want""","Mellieha, Malta",GearyOutWest
+"""been""","Taos, NM, USA",GearyOutWest
+"""been"",""fave""","Pinetop-Lakeside, AZ, USA",GearyOutWest
+"""want""","Como, Italy",GearyOutWest
+"""want""","Oranjestad, Aruba",GearyOutWest
+"""been""","Beverly Hills, CA, USA",GearyOutWest
+"""want""","Palm - Eagle Beach, Aruba",GearyOutWest
+"""been""","Cheyenne, WY, USA",GearyOutWest
+"""want""","St. John's, Antigua and Barbuda",GearyOutWest
+"""want""","Grand Cayman, Cayman Islands",GearyOutWest
+"""want""","Kyoto, Japan",GearyOutWest
+"""want""","Cartagena, Colombia",GearyOutWest
+"""want""","Seven Mile Beach, Cayman Islands",GearyOutWest
+"""want""","Gettysburg, PA, USA",GearyOutWest
+"""want""","Osaka, Japan",GearyOutWest
+"""been""","Philadelphia, PA, USA",GearyOutWest
+"""been"",""fave""","Carrabelle, FL, USA",GearyOutWest
+"""been""","Gainesville, FL, USA",GearyOutWest
+"""been""","Berkeley, CA, USA",GearyOutWest
+"""been"",""fave""","Durango, CO, USA",GearyOutWest
+"""want""","Bellingham, WA, USA",GearyOutWest
+"""been""","Scituate, MA, USA",GearyOutWest
+"""want""","Tijuana, Mexico",GearyOutWest
+"""been"",""fave""","La Paz, Mexico",GearyOutWest
+"""been""","Branson, MO, USA",GearyOutWest
+"""been""","Cape May, NJ, USA",GearyOutWest
+"""want""","Havana, Cuba",GearyOutWest
+"""been""","Johnstown, PA, USA",GearyOutWest
+"""want""","Bologna, Italy",GearyOutWest
+"""been""","El Paso, TX, USA",GearyOutWest
+"""want""","Ventura, CA, USA",GearyOutWest
+"""been""","Little Rock, AR, USA",GearyOutWest
+"""been""","Wisconsin Dells, WI, USA",GearyOutWest
+"""been"",""fave""","Cape San Blas, FL, USA",GearyOutWest
+"""want""","Salta, Argentina",GearyOutWest
+"""want""","Willemstad, Curacao",GearyOutWest
+"""been""","Louisa, KY, USA",GearyOutWest
+"""want""","Louisville, KY, USA",GearyOutWest
+"""been"",""fave""","New York City, NY, USA",GearyOutWest
+"""been"",""fave""","Charlottesville, VA, USA",GearyOutWest
+"""been""","Williamson, WV, USA",GearyOutWest
+"""been""","Sausalito, CA, USA",GearyOutWest
+"""been"",""fave""","Pittsburg, KS, USA",GearyOutWest
+"""want""","Anchorage, AK, USA",GearyOutWest
+"""want""","St. George, UT, USA",GearyOutWest
+"""been"",""fave""","Mazatlan, Mexico",GearyOutWest
+"""want""","Belize City, Belize",GearyOutWest
+"""want""","Banff, Alberta, Canada",GearyOutWest
+"""been"",""fave""","Rincon, Puerto Rico",GearyOutWest
+"""want""","Edmonton, Alberta, Canada",GearyOutWest
+"""want""","Calgary, Alberta, Canada",GearyOutWest
+"""want""","Galway, Ireland",GearyOutWest
+"""want""","San Pedro, Belize",GearyOutWest
+"""want""","Dublin, Ireland",GearyOutWest
+"""been""","Atlanta, GA, USA",GearyOutWest
+"""been""","Hereford, AZ, USA",GearyOutWest
+"""want""","Cork, Ireland",GearyOutWest
+"""want""","Naha, Japan",GearyOutWest
+"""been""","Santa Rosa, NM, USA",GearyOutWest
+"""been""","Santa Rosa, CA, USA",GearyOutWest
+"""been""","Willcox, AZ, USA",GearyOutWest
+"""been""","Irving, TX, USA",GearyOutWest
+"""been""","Cocoa Beach, FL, USA",GearyOutWest
+"""want""","Nagoya, Japan",GearyOutWest
+"""been""","Richmond, VA, USA",GearyOutWest
+"""been"",""want""","Clearwater, FL, USA",GearyOutWest
+"""want""","Cambridge, MA, USA",GearyOutWest
+"""want""","Puerto Rico, Spain",GearyOutWest
+"""been"",""fave""","Narragansett, RI, USA",GearyOutWest
+"""been""","Santa Monica, CA, USA",GearyOutWest
+"""want""","Praia da Rocha, Portugal",GearyOutWest
+"""want""","Guadalajara, Mexico",GearyOutWest
+"""want""","El Arenal, Spain",GearyOutWest
+"""want""","Puerto Vallarta, Mexico",GearyOutWest
+"""want""","South Bend, IN, USA",GearyOutWest
+"""want""","Poipu, HI, USA",GearyOutWest
+"""want""","Portsmouth, NH, USA",GearyOutWest
+"""want""","Siena, Italy",GearyOutWest
+"""want""","Lihue, HI, USA",GearyOutWest
+"""been"",""fave""","Cranston, RI, USA",GearyOutWest
+"""been""","Boston, MA, USA",GearyOutWest
+"""been""","Bolivar, MO, USA",GearyOutWest
+"""been"",""fave""","Asheville, NC, USA",GearyOutWest
+"""been"",""fave""","New Orleans, LA, USA",GearyOutWest
+"""been"",""fave""","Honolulu, HI, USA",GearyOutWest
+"""been"",""fave""","Port Canaveral, FL, USA",GearyOutWest
+"""been""","Columbia, SC, USA",GearyOutWest
+"""want""","Pigeon Forge, TN, USA",GearyOutWest
+"""want""","Treasure Island, FL, USA",GearyOutWest
+"""been""","Colorado Springs, CO, USA",GearyOutWest
+"""been"",""fave""","Houston, TX, USA",GearyOutWest
+"""been""","Conway, SC, USA",GearyOutWest
+"""been"",""fave""","Charlestown, RI, USA",GearyOutWest
+"""want""","Pompano Beach, FL, USA",GearyOutWest
+"""been""","Kansas City, KS, USA",GearyOutWest
+"""been"",""fave""","Port Saint Joe, FL, USA",GearyOutWest
+"""been""","West Logan, WV, USA",GearyOutWest
+"""been"",""fave""","Juno Beach, FL, USA",GearyOutWest
+"""been"",""fave""","Jupiter, FL, USA",GearyOutWest
+"""been""","Ocean City, NJ, USA",GearyOutWest
+"""want""","Seattle, WA, USA",GearyOutWest
+"""want""","Yellowstone National Park, WY, USA",GearyOutWest
+"""want""","Lahaina, HI, USA",GearyOutWest
+"""been"",""fave""","San Juan, Puerto Rico",GearyOutWest
+"""want""","Kihei, HI, USA",GearyOutWest
+"""been"",""fave""","Chinle, AZ, USA",GearyOutWest
+"""want""","Sunny Beach, Bulgaria",GearyOutWest
+"""want""","Kailua-Kona, HI, USA",GearyOutWest
+"""want""","Cincinnati, OH, USA",GearyOutWest
+"""want""","Calistoga, CA, USA",GearyOutWest
+"""been"",""fave""","San Diego, CA, USA",GearyOutWest
+"""want""","Williamsburg, VA, USA",GearyOutWest
+"""been""","Benson, AZ, USA",GearyOutWest
+"""been""","Nogales, AZ, USA",GearyOutWest
+"""been"",""fave""","Bisbee, AZ, USA",GearyOutWest
+"""been"",""fave""","Overgaard, AZ, USA",GearyOutWest
+"""want""","Qawra, Malta",GearyOutWest
+"""been"",""fave""","Bullhead City, AZ, USA",GearyOutWest
+"""been""","South San Francisco, CA, USA",GearyOutWest
+"""want""","Rio de Janeiro, Brazil",GearyOutWest
+"""been"",""fave""","Hermann, MO, USA",GearyOutWest
+"""want""","Moab, UT, USA",GearyOutWest
+"""been""","West Islip, NY, USA",GearyOutWest
+"""want""","San Jose, Costa Rica",GearyOutWest
+"""want""","Gatlinburg, TN, USA",GearyOutWest
+"""want""","Punta del Este, Uruguay",GearyOutWest
+"""been""","Fort Walton Beach, FL, USA",GearyOutWest
+"""been"",""fave""","Isle of Palms, SC, USA",GearyOutWest
+"""want""","Fort Myers Beach, FL, USA",GearyOutWest
+"""been""","Kissimmee, FL, USA",GearyOutWest
+"""been"",""fave""","Carlsbad, CA, USA",GearyOutWest
+"""want""","Fort Myers, FL, USA",GearyOutWest
+"""been""","San Jose, CA, USA",GearyOutWest
+"""been""","Plano, TX, USA",GearyOutWest
+"""been""","Carmel, CA, USA",GearyOutWest
+"""want""","Knoxville, TN, USA",GearyOutWest
+"""want""","San Luis Obispo, CA, USA",GearyOutWest
+"""want""","Porto, Portugal",GearyOutWest
+"""been""","Denver, CO, USA",GearyOutWest
+"""been""","Cape Canaveral, FL, USA",GearyOutWest
+"""been"",""fave""","St. Augustine, FL, USA",GearyOutWest
+"""want""","Kapaa, HI, USA",GearyOutWest
+"""been"",""fave""","Ganado, AZ, USA",GearyOutWest
+"""want""","Madison, WI, USA",GearyOutWest
+"""been"",""fave""","Hot Springs, AR, USA",GearyOutWest
+"""been"",""fave""","Newport, RI, USA",GearyOutWest
+"""been"",""fave""","Columbia, MO, USA",GearyOutWest
+"""want""","Castries, St. Lucia",GearyOutWest
+"""want""","Gros Islet, St. Lucia",GearyOutWest
+"""want""","Buffalo, NY, USA",GearyOutWest
+"""want""","Soufriere, St. Lucia",GearyOutWest
+"""been"",""fave""","Flagstaff, AZ, USA",GearyOutWest
+"""want""","George Town, Malaysia",GearyOutWest
+"""been""","West Hollywood, CA, USA",GearyOutWest
+"""want""","New Braunfels, TX, USA",GearyOutWest
+"""want""","Olympia, WA, USA",GearyOutWest
+"""been""","Clifton, AZ, USA",GearyOutWest
+"""want""","Tacoma, WA, USA",GearyOutWest
+"""been""","Cochise, AZ, USA",GearyOutWest
+"""been"",""fave""","Charleston, SC, USA",GearyOutWest
+"""been"",""fave""","Port Aransas, TX, USA",GearyOutWest
+"""want""","Bogota, Colombia",GearyOutWest
+"""want""","Playa d'en Bossa, Spain",GearyOutWest
+"""been"",""fave""","Kiawah Island, SC, USA",GearyOutWest
+"""been""","Mount Vernon, IL, USA",GearyOutWest
+"""been""","Fort Lauderdale, FL, USA",GearyOutWest
+"""want""","Sao Paulo, Brazil",GearyOutWest
+"""want""","Key West, FL, USA",GearyOutWest
+"""want""","Naples, FL, USA",GearyOutWest
+"""want""","Bar Harbor, ME, USA",GearyOutWest
+"""want""","Brooklyn, NY, USA",GearyOutWest
+"""been""","Providence, RI, USA",GearyOutWest
+"""been""","Estes Park, CO, USA",GearyOutWest
+"""want""","Jaco, Costa Rica",GearyOutWest
+"""been"",""want""","Chilecito, Argentina",GearyOutWest
+"""been""","Triangle, VA, USA",GearyOutWest
+"""been"",""fave""","Cruz Bay, U.S. Virgin Islands",GearyOutWest
+"""been"",""fave""","Palm Beach, FL, USA",GearyOutWest
+"""want""","Juneau, AK, USA",GearyOutWest
+"""want""","Lake Havasu City, AZ, USA",GearyOutWest
+"""been"",""want"",""fave""","Les Deux-Alpes, France",GearyOutWest
+"""want""","Budapest, Hungary",GearyOutWest
+"""want""","Costa Adeje, Spain",GearyOutWest
+"""been"",""want"",""fave""","L'Alpe-d'Huez, France",GearyOutWest
+"""want""","Panama City, Panama",GearyOutWest
+"""want""","Nassau, Bahamas",GearyOutWest
+"""want""","Paradise Island, Bahamas",GearyOutWest
+"""been"",""fave""","Tombstone, AZ, USA",GearyOutWest
+"""been"",""fave""","Breckenridge, CO, USA",GearyOutWest
+"""want""","Quebec City, Quebec, Canada",GearyOutWest
+"""been"",""fave""","Montreal, Quebec, Canada",GearyOutWest
+"""been""","Lubbock, TX, USA",GearyOutWest
+"""been"",""fave""","Boulder, CO, USA",GearyOutWest
+"""been"",""fave""","Fajardo, Puerto Rico",GearyOutWest
+"""been"",""fave""","Santa Fe, NM, USA",GearyOutWest
+"""been"",""fave""","San Francisco, CA, USA",GearyOutWest
+"""want""","Page, AZ, USA",GearyOutWest
+"""been""","San Antonio, TX, USA",GearyOutWest
+"""been"",""fave""","St. Thomas, U.S. Virgin Islands",GearyOutWest
+"""want""","Puerto Princesa, Philippines",GearyOutWest
+"""want""","Salem, MA, USA",GearyOutWest
+"""want""","Cozumel, Mexico",GearyOutWest
+"""want""","Supai, AZ, USA",GearyOutWest
+"""been"",""fave""","Tucson, AZ, USA",GearyOutWest
+"""want""","Riccione, Italy",GearyOutWest
+"""been"",""fave""","Jerome, AZ, USA",GearyOutWest
+"""been"",""fave""","Charlotte Amalie, U.S. Virgin Islands",GearyOutWest
+"""been"",""fave""","Tulum, Mexico",GearyOutWest
+"""been"",""fave""","Playa del Carmen, Mexico",GearyOutWest
+"""want""","Half Moon Bay, CA, USA",GearyOutWest
+"""been""","Thatcher, AZ, USA",GearyOutWest
+"""want""","Merida, Mexico",GearyOutWest
+"""want""","Spokane, WA, USA",GearyOutWest
+"""been"",""fave""","Kingman, AZ, USA",GearyOutWest
+"""been"",""fave""","Isla Mujeres, Mexico",GearyOutWest
+"""been""","Camden, SC, USA",GearyOutWest
+"""want""","Windsor, Ontario, Canada",GearyOutWest
+"""been""","Amarillo, TX, USA",GearyOutWest
+"""been""","Groton, CT, USA",GearyOutWest
+"""been"",""fave""","Laguna Beach, CA, USA",GearyOutWest
+"""been""","Tempe, AZ, USA",GearyOutWest
+"""been"",""fave""","Kayenta, AZ, USA",GearyOutWest
+"""been"",""fave""","Vail, CO, USA",GearyOutWest
+"""been""","Big Sur, CA, USA",GearyOutWest
+"""been"",""fave""","Puerto Morelos, Mexico",GearyOutWest
+"""been""","Jacksonville, FL, USA",GearyOutWest
+"""been"",""fave""","San Carlos, Mexico",GearyOutWest
+"""been"",""fave""","Corpus Christi, TX, USA",GearyOutWest
+"""been"",""fave""","Guaymas, Mexico",GearyOutWest
+"""want""","Tamarindo, Costa Rica",GearyOutWest
+"""been""","Salt Lake City, UT, USA",GearyOutWest
+"""been""","El Dorado Springs, MO, USA",GearyOutWest
+"""want""","Ocean City, MD, USA",GearyOutWest
+"""want""","Montego Bay, Jamaica",GearyOutWest
+"""been""","Point Pleasant Beach, NJ, USA",GearyOutWest
+"""want""","Ocho Rios, Jamaica",GearyOutWest
+"""been""","Morenci, AZ, USA",GearyOutWest
+"""want""","Geneva, Switzerland",GearyOutWest
+"""want""","Singapore, Singapore",GearyOutWest
+"""want""","Seaside, OR, USA",GearyOutWest
+"""been"",""fave""","Austin, TX, USA",GearyOutWest
+"""want""","Pensacola, FL, USA",GearyOutWest
+"""been""","Garden City Beach, SC, USA",GearyOutWest
+"""want""","Runaway Bay, Jamaica",GearyOutWest
+"""been"",""fave""","Warwick, RI, USA",GearyOutWest
+"""been"",""fave""","Coronado, CA, USA",GearyOutWest
+"""been""","Mesa, AZ, USA",GearyOutWest
+"""been""","Sonoma, CA, USA",GearyOutWest
+"""been""","Miami Beach, FL, USA",GearyOutWest
+"""been"",""want""","Miami, FL, USA",GearyOutWest
+"""been"",""fave""","Georgetown, SC, USA",GearyOutWest
+"""want""","Playa de Muro, Spain",GearyOutWest
+"""been""","Anaheim, CA, USA",GearyOutWest
+"""been"",""fave""","Munds Park, AZ, USA",GearyOutWest
+"""want""","Tampa, FL, USA",GearyOutWest
+"""want""","Tallahassee, FL, USA",GearyOutWest
+"""been"",""fave""","Melbourne, FL, USA",GearyOutWest
+"""want""","Biarritz, France",GearyOutWest
+"""been"",""fave""","Melbourne Beach, FL, USA",GearyOutWest
+"""want""","Denarau Island, Fiji",GearyOutWest
+"""been""","Toms River, NJ, USA",GearyOutWest
+"""been"",""fave""","Lamar, MO, USA",GearyOutWest
+"""been""","Clovis, NM, USA",GearyOutWest
+"""want""","Savannah, GA, USA",GearyOutWest
+"""want""","Villa Carlos Paz, Argentina",GearyOutWest
+"""been""","Albuquerque, NM, USA",GearyOutWest
+"""been""","Petrified Forest National Park, AZ, USA",GearyOutWest
+"""want""","Freeport, Bahamas",GearyOutWest
+"""want""","Baltimore, MD, USA",GearyOutWest
+"""want""","Antigua, Guatemala",GearyOutWest
+"""want""","Ketchikan, AK, USA",GearyOutWest
+"""been""","Arlington, TX, USA",GearyOutWest
+"""been""","Panama City, FL, USA",GearyOutWest
+"""been""","North Myrtle Beach, SC, USA",GearyOutWest
+"""been""","Buena Park, CA, USA",GearyOutWest
+"""want""","Eureka, CA, USA",GearyOutWest
+"""want""","Lisbon, Portugal",GearyOutWest
+"""want""","Shenzhen, China",GearyOutWest
+"""been"",""fave""","Tsaile, AZ, USA",GearyOutWest
+"""want""","Lucerne, Switzerland",GearyOutWest
+"""want""","St. Petersburg, Russia",GearyOutWest
+"""been"",""fave""","Tubac, AZ, USA",GearyOutWest
+"""been"",""fave""","Greenville, SC, USA",GearyOutWest
+"""want""","Nashville, TN, USA",GearyOutWest
+"""want""","Panama City Beach, FL, USA",GearyOutWest

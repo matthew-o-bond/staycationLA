@@ -1,0 +1,604 @@
+tag,place,user
+"""been""","Catas Altas, Brazil",mes227
+"""been""","Lakewood, CO, USA",mes227
+"""been""","Loyalton, CA, USA",mes227
+"""been""","Midleton, Ireland",mes227
+"""been""","Coolangatta, Australia",mes227
+"""been""","Puntarenas, Costa Rica",mes227
+"""been""","Cambridge, UK",mes227
+"""been""","Deadwood, SD, USA",mes227
+"""been""","Johannesburg, South Africa",mes227
+"""been""","Vestmannaeyjar, Iceland",mes227
+"""been""","McDermitt, NV, USA",mes227
+"""been""","Hveragerdi, Iceland",mes227
+"""been""","Bristol, UK",mes227
+"""been""","Mina, NV, USA",mes227
+"""been""","Reykjavik, Iceland",mes227
+"""been""","Guarulhos, Brazil",mes227
+"""been""","Alamosa, CO, USA",mes227
+"""been""","Downieville, CA, USA",mes227
+"""been""","Niagara-on-the-Lake, Ontario, Canada",mes227
+"""been""","Herradura, Costa Rica",mes227
+"""been""","Niagara Falls, Ontario, Canada",mes227
+"""been""","Mc Gill, NV, USA",mes227
+"""been""","Saint Louis, MO, USA",mes227
+"""been""","Mississauga, Ontario, Canada",mes227
+"""been""","Auburn, CA, USA",mes227
+"""been""","Dingle, Ireland",mes227
+"""been""","Leadville, CO, USA",mes227
+"""been""","Lead, SD, USA",mes227
+"""been""","Dublin, CA, USA",mes227
+"""been""","Manteca, CA, USA",mes227
+"""been""","Littleton, CO, USA",mes227
+"""been""","Crazy Horse, SD, USA",mes227
+"""been""","Casablanca, Morocco",mes227
+"""been"",""fave""","Istanbul, Turkey",mes227
+"""been""","Selcuk, Turkey",mes227
+"""been""","Newcastle, Australia",mes227
+"""been""","Portland, OR, USA",mes227
+"""been""","Aix-en-Provence, France",mes227
+"""been""","San Jose, Costa Rica",mes227
+"""been""","Overton, NV, USA",mes227
+"""been""","Minneapolis, MN, USA",mes227
+"""been""","Quepos, Costa Rica",mes227
+"""been""","Pahrump, NV, USA",mes227
+"""been""","Barranca, Peru",mes227
+"""been""","Tokyo, Japan",mes227
+"""been"",""fave""","Rio de Janeiro, Brazil",mes227
+"""been""","Englewood, CO, USA",mes227
+"""been""","Salem, OR, USA",mes227
+"""been""","Chico, CA, USA",mes227
+"""been""","Graeagle, CA, USA",mes227
+"""been""","Mariposa, CA, USA",mes227
+"""been""","Knights Ferry, CA, USA",mes227
+"""been""","Evergreen, CO, USA",mes227
+"""been""","China Lake, CA, USA",mes227
+"""been""","Grass Valley, CA, USA",mes227
+"""been""","Wellington, New Zealand",mes227
+"""been""","Frankfurt, Germany",mes227
+"""been""","Kings Beach, CA, USA",mes227
+"""been""","Scottsdale, AZ, USA",mes227
+"""been""","Round Mountain, NV, USA",mes227
+"""been""","Ruth, NV, USA",mes227
+"""been""","Oxford, UK",mes227
+"""been""","Christchurch, New Zealand",mes227
+"""been""","Pulau Tioman, Malaysia",mes227
+"""been""","Sao Paulo, Brazil",mes227
+"""been""","Kilbeggan, Ireland",mes227
+"""been""","Ashford, UK",mes227
+"""been""","Aptos, CA, USA",mes227
+"""been""","Reno, NV, USA",mes227
+"""been""","Maui, HI, USA",mes227
+"""been""","Fort Collins, CO, USA",mes227
+"""been""","El Dorado, CA, USA",mes227
+"""been""","Yountville, CA, USA",mes227
+"""been""","El Cerrito, CA, USA",mes227
+"""been""","La Jolla, CA, USA",mes227
+"""been""","Barstow, CA, USA",mes227
+"""been""","Orlando, FL, USA",mes227
+"""been""","Paita, Peru",mes227
+"""been""","Silver City, ID, USA",mes227
+"""been""","Thingvellir, Iceland",mes227
+"""been""","Perth, Australia",mes227
+"""been""","Auckland Central, New Zealand",mes227
+"""been""","Melbourne, Australia",mes227
+"""been""","Cannes, France",mes227
+"""been""","Marbella, Costa Rica",mes227
+"""been""","Ormond Beach, FL, USA",mes227
+"""been""","Richfield, MN, USA",mes227
+"""been""","Punta Hermosa, Peru",mes227
+"""been""","Belem, Brazil",mes227
+"""been""","Gualala, CA, USA",mes227
+"""been""","El Sobrante, CA, USA",mes227
+"""been""","Vail, CO, USA",mes227
+"""been""","Elk Grove, CA, USA",mes227
+"""been""","Albuquerque, NM, USA",mes227
+"""been""","Half Moon Bay, CA, USA",mes227
+"""been""","Victor, CO, USA",mes227
+"""been""","Nashville, TN, USA",mes227
+"""been""","Phuket, Thailand",mes227
+"""been""","Towaoc, CO, USA",mes227
+"""been""","El Segundo, CA, USA",mes227
+"""been""","Bagenalstown, Ireland",mes227
+"""been""","Swan Valley, Australia",mes227
+"""been""","Nice, France",mes227
+"""been""","Novo Progresso, Brazil",mes227
+"""been""","Almaty, Kazakhstan",mes227
+"""been""","Stockton-on-Tees, UK",mes227
+"""been""","Brisbane, CA, USA",mes227
+"""been""","Ukiah, CA, USA",mes227
+"""been""","Boulder, CO, USA",mes227
+"""been""","Colma, CA, USA",mes227
+"""been""","Brockway, CA, USA",mes227
+"""been""","Breckenridge, CO, USA",mes227
+"""been""","Danville, CA, USA",mes227
+"""been""","Union City, CA, USA",mes227
+"""been""","Salt Lake City, UT, USA",mes227
+"""been""","Golden, CO, USA",mes227
+"""been""","Corpus Christi, TX, USA",mes227
+"""been""","Morrison, CO, USA",mes227
+"""been""","Monteria, Colombia",mes227
+"""been""","Emeryville, CA, USA",mes227
+"""been""","Daintree, Australia",mes227
+"""been""","Newcastle upon Tyne, UK",mes227
+"""been""","Hermosillo, Mexico",mes227
+"""been""","Porto Alegre, Brazil",mes227
+"""been""","Vacaville, CA, USA",mes227
+"""been""","Nosara, Costa Rica",mes227
+"""been""","La Oroya, Peru",mes227
+"""been""","Vancouver, British Columbia, Canada",mes227
+"""been""","Salt Spring Island, British Columbia, Canada",mes227
+"""been""","Coquimbo, Chile",mes227
+"""been""","Fair Oaks, CA, USA",mes227
+"""been""","Belize City, Belize",mes227
+"""been""","Concord, CA, USA",mes227
+"""been""","Leadore, ID, USA",mes227
+"""been""","Tarkwa, Ghana",mes227
+"""been""","Hercules, CA, USA",mes227
+"""been""","Burlingame, CA, USA",mes227
+"""been""","Vallejo, CA, USA",mes227
+"""been""","Tucson, AZ, USA",mes227
+"""been""","Richmond, British Columbia, Canada",mes227
+"""been""","Fermoy, Ireland",mes227
+"""been""","North Vancouver, British Columbia, Canada",mes227
+"""been""","San Francisco, CA, USA",mes227
+"""been""","Spokane, WA, USA",mes227
+"""been""","Carlow, Ireland",mes227
+"""been""","Hayward, CA, USA",mes227
+"""been""","Santa Fe, NM, USA",mes227
+"""been""","San Pedro, Belize",mes227
+"""been""","Ambergris Caye, Belize",mes227
+"""been""","Swakopmund, Namibia",mes227
+"""been""","Marseille, France",mes227
+"""been""","Walvis Bay, Namibia",mes227
+"""been""","La Serena, Chile",mes227
+"""been""","Portillo, Chile",mes227
+"""been""","Kamloops, British Columbia, Canada",mes227
+"""been""","Victorville, CA, USA",mes227
+"""been""","Castle Rock, CO, USA",mes227
+"""been"",""fave""","Bangkok, Thailand",mes227
+"""been""","Playa Avellanas, Costa Rica",mes227
+"""been""","Adare, Ireland",mes227
+"""been""","Hollister, CA, USA",mes227
+"""been""","Sonoma, CA, USA",mes227
+"""been""","Miami, FL, USA",mes227
+"""been""","Sonora, CA, USA",mes227
+"""been""","Miami Beach, FL, USA",mes227
+"""been""","Taipei, Taiwan",mes227
+"""been""","Tampa, FL, USA",mes227
+"""been""","California City, CA, USA",mes227
+"""been""","Carbondale, CO, USA",mes227
+"""been""","San Jose de Maipo, Chile",mes227
+"""been""","Izmir, Turkey",mes227
+"""been""","Chorrillos, Peru",mes227
+"""been""","Bergama, Turkey",mes227
+"""been""","Cesme, Turkey",mes227
+"""been""","Iquique, Chile",mes227
+"""been""","Brasilia, Brazil",mes227
+"""been"",""fave""","Paris, France",mes227
+"""been""","Dawson City, Yukon, Canada",mes227
+"""been""","Santa Cruz, Chile",mes227
+"""been""","Antofagasta, Chile",mes227
+"""been""","Arica, Chile",mes227
+"""been""","Zurich, Switzerland",mes227
+"""been""","Soquel, CA, USA",mes227
+"""been""","Amsterdam, The Netherlands",mes227
+"""been""","Angels Camp, CA, USA",mes227
+"""been""","Mendocino, CA, USA",mes227
+"""been""","Olympic Valley, CA, USA",mes227
+"""been""","Anaheim, CA, USA",mes227
+"""been""","Khon Kaen, Thailand",mes227
+"""been""","Ventry, Ireland",mes227
+"""been""","Izabal, Guatemala",mes227
+"""been""","Randsburg, CA, USA",mes227
+"""been""","Menlo Park, CA, USA",mes227
+"""been""","Orange, CA, USA",mes227
+"""been""","Merced, CA, USA",mes227
+"""been""","Alturas, CA, USA",mes227
+"""been""","Red Bluff, CA, USA",mes227
+"""been""","Redding, CA, USA",mes227
+"""been""","Santiago, Chile",mes227
+"""been""","Valparaiso, Chile",mes227
+"""been""","Tullamore, Ireland",mes227
+"""been""","Milan, Italy",mes227
+"""been""","Temuco, Chile",mes227
+"""been""","Reykholt, Iceland",mes227
+"""been""","Guatemala City, Guatemala",mes227
+"""been""","Valdivia, Chile",mes227
+"""been""","Villarrica, Chile",mes227
+"""been""","Hvolsvollur, Iceland",mes227
+"""been""","Hella, Iceland",mes227
+"""been""","Grindavik, Iceland",mes227
+"""been""","Mumbai, India",mes227
+"""been""","Redwood City, CA, USA",mes227
+"""been""","Chapel Hill, NC, USA",mes227
+"""been""","Charlotte, NC, USA",mes227
+"""been""","Vielsalm, Belgium",mes227
+"""been""","Alamo, CA, USA",mes227
+"""been""","Pacific Grove, CA, USA",mes227
+"""been""","Albany, CA, USA",mes227
+"""been""","Pacifica, CA, USA",mes227
+"""been""","Alameda, CA, USA",mes227
+"""been""","Cajamarca, Peru",mes227
+"""been""","Port Douglas, Australia",mes227
+"""been""","Surfers Paradise, Australia",mes227
+"""been""","Edinburgh, UK",mes227
+"""been""","Battle Mountain, NV, USA",mes227
+"""been""","Beatty, NV, USA",mes227
+"""been""","Recife, Brazil",mes227
+"""been""","Blanding, UT, USA",mes227
+"""been""","Mojave, CA, USA",mes227
+"""been""","Modesto, CA, USA",mes227
+"""been""","Palmdale, CA, USA",mes227
+"""been""","Palo Alto, CA, USA",mes227
+"""been""","Lancaster, CA, USA",mes227
+"""been""","Rio Linda, CA, USA",mes227
+"""been""","San Luis Potosi, Mexico",mes227
+"""been""","Lathrop, CA, USA",mes227
+"""been"",""want""","Sydney, Australia",mes227
+"""been""","Carlin, NV, USA",mes227
+"""been""","Dallas, TX, USA",mes227
+"""been""","Carson City, NV, USA",mes227
+"""been""","Glasgow, UK",mes227
+"""been""","Mareeba, Australia",mes227
+"""been""","Brisbane, Australia",mes227
+"""been""","Accra, Ghana",mes227
+"""been""","Cairns, Australia",mes227
+"""been""","Callao, Peru",mes227
+"""been""","Lee Vining, CA, USA",mes227
+"""been""","Oneroa, New Zealand",mes227
+"""been""","Monterey, CA, USA",mes227
+"""been""","Atyrau, Kazakhstan",mes227
+"""been""","Rodeo, CA, USA",mes227
+"""been""","Moraga, CA, USA",mes227
+"""been""","Morgan Hill, CA, USA",mes227
+"""been""","Playa Hermosa, Costa Rica",mes227
+"""been""","East Ely, NV, USA",mes227
+"""been""","Madrid, Spain",mes227
+"""been""","Ely, NV, USA",mes227
+"""been""","Elko, NV, USA",mes227
+"""been""","Rapid City, SD, USA",mes227
+"""been""","Kaikoura, New Zealand",mes227
+"""been""","Piura, Peru",mes227
+"""been""","Crystal Bay, NV, USA",mes227
+"""been""","Belo Horizonte, Brazil",mes227
+"""been""","Pittsburgh, PA, USA",mes227
+"""been""","Alta, UT, USA",mes227
+"""been""","Roseville, CA, USA",mes227
+"""been""","Moss Landing, CA, USA",mes227
+"""been""","Aneth, UT, USA",mes227
+"""been""","Hopland, CA, USA",mes227
+"""been""","Exmouth, Australia",mes227
+"""been""","Casablanca, Chile",mes227
+"""been""","Livermore, CA, USA",mes227
+"""been""","Mount Shasta, CA, USA",mes227
+"""been""","Huntington Beach, CA, USA",mes227
+"""been""","Gerlach, NV, USA",mes227
+"""been""","Goldfield, NV, USA",mes227
+"""been""","Golconda, NV, USA",mes227
+"""been""","Brighton, UT, USA",mes227
+"""been""","Ilo, Peru",mes227
+"""been""","Bountiful, UT, USA",mes227
+"""been""","St. Lawrence Gap, Barbados",mes227
+"""been""","Fallon, NV, USA",mes227
+"""been""","Eureka, NV, USA",mes227
+"""been""","Gabbs, NV, USA",mes227
+"""been""","Fernley, NV, USA",mes227
+"""been""","Nova Lima, Brazil",mes227
+"""been""","Fort Worth, TX, USA",mes227
+"""been""","Sacramento, CA, USA",mes227
+"""been""","Ouro Preto, Brazil",mes227
+"""been""","Mountain View, CA, USA",mes227
+"""been""","Contagem, Brazil",mes227
+"""been""","Yarm, UK",mes227
+"""been""","Fort Bragg, CA, USA",mes227
+"""been""","Phoenix, AZ, USA",mes227
+"""been""","Calama, Chile",mes227
+"""been""","Lone Pine, CA, USA",mes227
+"""been""","Napa, CA, USA",mes227
+"""been""","Jackpot, NV, USA",mes227
+"""been""","Pitlochry, UK",mes227
+"""been""","Hawthorne, NV, USA",mes227
+"""been"",""fave""","Salvador, Brazil",mes227
+"""been""","Perth, UK",mes227
+"""been""","Incline Village, NV, USA",mes227
+"""been""","Imlay, NV, USA",mes227
+"""been""","Long Beach, CA, USA",mes227
+"""been""","Apodaca, Mexico",mes227
+"""been""","Pinole, CA, USA",mes227
+"""been""","Ione, CA, USA",mes227
+"""been""","Aurora, CO, USA",mes227
+"""been""","Durham, NC, USA",mes227
+"""been""","Nevada City, CA, USA",mes227
+"""been""","Los Altos, CA, USA",mes227
+"""been""","Fremont, CA, USA",mes227
+"""been""","Aspen, CO, USA",mes227
+"""been""","Los Angeles, CA, USA",mes227
+"""been""","Chillan, Chile",mes227
+"""been""","Keystone, CO, USA",mes227
+"""been""","Placerville, CA, USA",mes227
+"""been""","Fresno, CA, USA",mes227
+"""been""","Chaiten, Chile",mes227
+"""been""","Manhattan, NV, USA",mes227
+"""been""","Dugway, UT, USA",mes227
+"""been""","Luning, NV, USA",mes227
+"""been"",""fave""","London, UK",mes227
+"""been""","Futaleufu, Chile",mes227
+"""been""","Draper, UT, USA",mes227
+"""want""","Munich, Germany",mes227
+"""been""","Riyadh, Saudi Arabia",mes227
+"""been""","Las Vegas, NV, USA",mes227
+"""been""","Laughlin, NV, USA",mes227
+"""been""","Lovelock, NV, USA",mes227
+"""been""","Jamestown, CA, USA",mes227
+"""been""","Chicago, IL, USA",mes227
+"""been""","Eugene, OR, USA",mes227
+"""been""","Wendover, UT, USA",mes227
+"""been""","Hayes, UK",mes227
+"""been""","West Jordan, UT, USA",mes227
+"""been""","Turlock, CA, USA",mes227
+"""been""","Fortaleza, Brazil",mes227
+"""been""","Abu Dhabi, United Arab Emirates",mes227
+"""been""","Stirling, UK",mes227
+"""been""","Lagos, Nigeria",mes227
+"""been""","Noumea, New Caledonia",mes227
+"""been""","El Salvador, Chile",mes227
+"""been""","Whitehorse, Yukon, Canada",mes227
+"""been""","Soke, Turkey",mes227
+"""been""","Daytona Beach, FL, USA",mes227
+"""been""","St. Petersburg, Russia",mes227
+"""been""","Sierra City, CA, USA",mes227
+"""been""","Ica, Peru",mes227
+"""been""","Singapore, Singapore",mes227
+"""been""","Aguas Calientes, Peru",mes227
+"""been""","Teddington, UK",mes227
+"""been""","Caraz, Peru",mes227
+"""been""","Subic, Philippines",mes227
+"""been""","Montreal, Quebec, Canada",mes227
+"""been""","Huaraz, Peru",mes227
+"""been""","Midvale, UT, USA",mes227
+"""been""","Boise, ID, USA",mes227
+"""been""","Midway, UT, USA",mes227
+"""been""","Duck Key, FL, USA",mes227
+"""been""","Nazca, Peru",mes227
+"""been""","Bend, OR, USA",mes227
+"""been""","Montezuma Creek, UT, USA",mes227
+"""been""","Tulum, Mexico",mes227
+"""been""","Playa del Carmen, Mexico",mes227
+"""been""","Toronto, Ontario, Canada",mes227
+"""been""","Hawaii Volcanoes National Park, HI, USA",mes227
+"""been""","Cancun, Mexico",mes227
+"""been""","Cozumel, Mexico",mes227
+"""been"",""fave""","Budapest, Hungary",mes227
+"""been""","Panama City, Panama",mes227
+"""been""","Evanston, WY, USA",mes227
+"""been""","Mexico City, Mexico",mes227
+"""been""","Hilo, HI, USA",mes227
+"""been""","Death Valley National Park, CA, USA",mes227
+"""been""","Spearfish, SD, USA",mes227
+"""been""","Hong Kong, China",mes227
+"""been""","Vina del Mar, Chile",mes227
+"""been""","Dubai, United Arab Emirates",mes227
+"""been""","Sturgis, SD, USA",mes227
+"""been""","Ogden, UT, USA",mes227
+"""been""","Orem, UT, USA",mes227
+"""been""","Pisco, Peru",mes227
+"""been""","Margarita Island, Venezuela",mes227
+"""been""","Pleasanton, CA, USA",mes227
+"""been""","Niagara Falls, NY, USA",mes227
+"""been""","Lizard Island, Australia",mes227
+"""been""","Currumbin, Australia",mes227
+"""been""","Jakarta, Indonesia",mes227
+"""been""","Murray, UT, USA",mes227
+"""been""","Oruro, Bolivia",mes227
+"""been""","Lombok, Indonesia",mes227
+"""been""","Kusadasi, Turkey",mes227
+"""been""","Talca, Chile",mes227
+"""been""","Raleigh, NC, USA",mes227
+"""been""","Levanto, Italy",mes227
+"""been""","Copiapo, Chile",mes227
+"""been""","Ollantaytambo, Peru",mes227
+"""been""","Iquitos, Peru",mes227
+"""been""","Lima, Peru",mes227
+"""been""","Puerto Barrios, Guatemala",mes227
+"""been"",""fave""","Machu Picchu, Peru",mes227
+"""been""","Esquel, Argentina",mes227
+"""been""","Cork, Ireland",mes227
+"""been""","Dublin, Ireland",mes227
+"""been""","Ubud, Indonesia",mes227
+"""been""","Pirque, Chile",mes227
+"""been""","Arequipa, Peru",mes227
+"""been"",""fave""","Cusco, Peru",mes227
+"""been""","Waiheke Island, New Zealand",mes227
+"""been""","Fremantle, Australia",mes227
+"""been""","Wonju, South Korea",mes227
+"""been""","Caracas, Venezuela",mes227
+"""been""","Uyuni, Bolivia",mes227
+"""been""","Jeddah, Saudi Arabia",mes227
+"""been""","Oakland, CA, USA",mes227
+"""been""","Genoa, Italy",mes227
+"""been""","Park City, UT, USA",mes227
+"""been""","Surabaya, Indonesia",mes227
+"""been"",""fave""","Portofino, Italy",mes227
+"""been""","Urubamba, Peru",mes227
+"""been""","Chattanooga, TN, USA",mes227
+"""been""","Quincy, CA, USA",mes227
+"""been""","Rancho Cordova, CA, USA",mes227
+"""been""","Walnut Creek, CA, USA",mes227
+"""been""","Walnut Grove, CA, USA",mes227
+"""been""","Folsom, CA, USA",mes227
+"""been""","Puerto Vallarta, Mexico",mes227
+"""been""","Middleton, ID, USA",mes227
+"""been""","Cortez, CO, USA",mes227
+"""been""","South San Francisco, CA, USA",mes227
+"""been""","Bridgetown, Barbados",mes227
+"""been""","Nogales, AZ, USA",mes227
+"""been""","Bonaire, Caribbean",mes227
+"""been""","Mayo, Yukon, Canada",mes227
+"""been""","Calistoga, CA, USA",mes227
+"""been""","Davao City, Philippines",mes227
+"""been""","Manila, Philippines",mes227
+"""been""","Quezon City, Philippines",mes227
+"""been""","Makati, Philippines",mes227
+"""been""","Guadalajara, Mexico",mes227
+"""been""","Kuala Lumpur, Malaysia",mes227
+"""been""","Calgary, Alberta, Canada",mes227
+"""been""","Nampa, ID, USA",mes227
+"""been""","Salinas, CA, USA",mes227
+"""been""","Bakersfield, CA, USA",mes227
+"""been""","Monterrey, Mexico",mes227
+"""been""","Daly City, CA, USA",mes227
+"""been""","St. Helena, CA, USA",mes227
+"""been""","Squaw Valley, CA, USA",mes227
+"""been""","Idaho Springs, CO, USA",mes227
+"""been""","Colorado Springs, CO, USA",mes227
+"""been""","Campbell, CA, USA",mes227
+"""been""","Mountain Home, ID, USA",mes227
+"""been""","El Jadida, Morocco",mes227
+"""been""","Watsonville, CA, USA",mes227
+"""been""","San Carlos de Bariloche, Argentina",mes227
+"""been""","Acapulco, Mexico",mes227
+"""been""","Nogales, Mexico",mes227
+"""been""","Lahaina, HI, USA",mes227
+"""been""","Naples, FL, USA",mes227
+"""been""","Price, UT, USA",mes227
+"""been""","Cripple Creek, CO, USA",mes227
+"""been""","Marathon, FL, USA",mes227
+"""been""","West Sacramento, CA, USA",mes227
+"""been""","Key Largo, FL, USA",mes227
+"""been""","Capitola, CA, USA",mes227
+"""been""","Provo, UT, USA",mes227
+"""been""","Seattle, WA, USA",mes227
+"""been""","Fort Lauderdale, FL, USA",mes227
+"""been""","Suisun City, CA, USA",mes227
+"""been""","Davis, CA, USA",mes227
+"""been""","Chiclayo, Peru",mes227
+"""been""","Stockton, CA, USA",mes227
+"""been""","San Bruno, CA, USA",mes227
+"""been""","Petaling Jaya, Malaysia",mes227
+"""been""","Seoul, South Korea",mes227
+"""been""","Jordan Valley, OR, USA",mes227
+"""been""","La Paz, Bolivia",mes227
+"""been""","Bogota, Colombia",mes227
+"""been""","Chios, Greece",mes227
+"""been""","Tijuana, Mexico",mes227
+"""been""","Kailua-Kona, HI, USA",mes227
+"""been""","San Diego, CA, USA",mes227
+"""been""","San Felipe, Mexico",mes227
+"""been""","Dillon, CO, USA",mes227
+"""been""","Custer, SD, USA",mes227
+"""been""","New Orleans, LA, USA",mes227
+"""been""","Asheville, NC, USA",mes227
+"""been""","Sunnyvale, CA, USA",mes227
+"""been""","Denver, CO, USA",mes227
+"""been""","Martinez, CA, USA",mes227
+"""been""","Carmel, CA, USA",mes227
+"""been""","Buenos Aires, Argentina",mes227
+"""been""","Cartago, Costa Rica",mes227
+"""been""","Carmichael, CA, USA",mes227
+"""been""","Carmel Valley, CA, USA",mes227
+"""been""","San Jose, CA, USA",mes227
+"""been""","Diamond Springs, CA, USA",mes227
+"""been""","Manokwari, Indonesia",mes227
+"""been""","Carnelian Bay, CA, USA",mes227
+"""been""","Houston, TX, USA",mes227
+"""been""","Sorong, Indonesia",mes227
+"""been""","Poas Volcano National Park, Costa Rica",mes227
+"""been""","Jaen, Peru",mes227
+"""been""","South Lake Tahoe, CA, USA",mes227
+"""been""","Trujillo, Peru",mes227
+"""been""","Puerto Maldonado, Peru",mes227
+"""been""","Puno, Peru",mes227
+"""been""","Alajuela, Costa Rica",mes227
+"""been""","Juliaca, Peru",mes227
+"""been""","Honolulu, HI, USA",mes227
+"""been""","Coral Bay, Australia",mes227
+"""been""","Atlanta, GA, USA",mes227
+"""been""","Hentiesbaai, Namibia",mes227
+"""been""","Tahoe Vista, CA, USA",mes227
+"""been""","Independence, CA, USA",mes227
+"""been""","Paracas, Peru",mes227
+"""been""","Snowbird, UT, USA",mes227
+"""been""","Heber City, UT, USA",mes227
+"""been""","Susanville, CA, USA",mes227
+"""been""","Nicoya, Costa Rica",mes227
+"""been""","Liberia, Costa Rica",mes227
+"""been""","Castroville, CA, USA",mes227
+"""been""","Bodrum City, Turkey",mes227
+"""been""","San Pablo, CA, USA",mes227
+"""been""","Castro Valley, CA, USA",mes227
+"""been""","Tahoe City, CA, USA",mes227
+"""been""","Sandy, UT, USA",mes227
+"""been""","San Mateo, CA, USA",mes227
+"""been""","Berkeley, CA, USA",mes227
+"""been""","Sutter Creek, CA, USA",mes227
+"""been""","Playa Negra, Costa Rica",mes227
+"""been""","Pucon, Chile",mes227
+"""been""","Puerto Montt, Chile",mes227
+"""been""","Austin, NV, USA",mes227
+"""been""","Kailua, HI, USA",mes227
+"""been""","Santa Cruz, CA, USA",mes227
+"""been""","Big Pine, CA, USA",mes227
+"""been""","Chihuahua, Mexico",mes227
+"""been""","Santa Clara, CA, USA",mes227
+"""been""","Omaha, NE, USA",mes227
+"""been""","Tulelake, CA, USA",mes227
+"""been""","New York City, NY, USA",mes227
+"""been""","Winters, CA, USA",mes227
+"""been""","Beverly Hills, CA, USA",mes227
+"""been""","Santa Cruz, Costa Rica",mes227
+"""been""","Cedarville, CA, USA",mes227
+"""been""","Tamarindo, Costa Rica",mes227
+"""been""","Santa Barbara, CA, USA",mes227
+"""been""","Petrolina, Brazil",mes227
+"""been""","Tehachapi, CA, USA",mes227
+"""been""","Chitre, Panama",mes227
+"""been""","Cordoba, Argentina",mes227
+"""been""","Klamath Falls, OR, USA",mes227
+"""been""","Amargosa Valley, NV, USA",mes227
+"""been""","Coos Bay, OR, USA",mes227
+"""been""","Playa Grande, Costa Rica",mes227
+"""been""","Woodland, CA, USA",mes227
+"""been""","Playa Flamingo, Costa Rica",mes227
+"""been""","Playa Samara, Costa Rica",mes227
+"""been""","Boulder City, NV, USA",mes227
+"""been""","Saratoga, CA, USA",mes227
+"""been""","Tooele, UT, USA",mes227
+"""been""","Cahuita, Costa Rica",mes227
+"""been""","Yungay, Peru",mes227
+"""been""","Woodside, CA, USA",mes227
+"""been""","Bishop, CA, USA",mes227
+"""been""","Puerto Limon, Costa Rica",mes227
+"""been""","Santa Rosa, CA, USA",mes227
+"""been""","Yolo, CA, USA",mes227
+"""been""","Salmon, ID, USA",mes227
+"""been""","Stateline, NV, USA",mes227
+"""been""","Antigua, Guatemala",mes227
+"""been""","Tonopah, NV, USA",mes227
+"""been""","Heredia, Costa Rica",mes227
+"""been""","Valmy, NV, USA",mes227
+"""been""","Bodega Bay, CA, USA",mes227
+"""been""","Washington DC, DC, USA",mes227
+"""been""","Philadelphia, PA, USA",mes227
+"""been""","Silverpeak, NV, USA",mes227
+"""been""","Sparks, NV, USA",mes227
+"""been""","Death Valley Junction, CA, USA",mes227
+"""been""","Mendoza, Argentina",mes227
+"""been""","Sausalito, CA, USA",mes227
+"""been""","Carajas, Brazil",mes227
+"""been""","Tracy, CA, USA",mes227
+"""been""","Miramar, Costa Rica",mes227
+"""been""","San Juan, Argentina",mes227
+"""been""","Tacna, Peru",mes227
+"""been""","Boonville, CA, USA",mes227
+"""been""","San Luis, Argentina",mes227
+"""been""","Boron, CA, USA",mes227
+"""been""","Para de Minas, Brazil",mes227
+"""been""","Winnemucca, NV, USA",mes227
+"""been""","Zephyr Cove, NV, USA",mes227
+"""been""","Truckee, CA, USA",mes227
+"""been""","Tortuguero, Costa Rica",mes227
+"""been""","Virginia City, NV, USA",mes227
+"""been""","Taos, NM, USA",mes227
+"""been""","West Wendover, NV, USA",mes227
+"""been""","Wells, NV, USA",mes227

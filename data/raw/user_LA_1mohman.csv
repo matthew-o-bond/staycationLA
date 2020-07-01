@@ -1,0 +1,618 @@
+tag,place,user
+"""want""","Cape Town Central, South Africa",1mohman
+"""been""","Papetoai, French Polynesia",1mohman
+"""been""","Mendocino, CA, USA",1mohman
+"""been""","Mira Mesa, CA, USA",1mohman
+"""been""","Ontario, CA, USA",1mohman
+"""been""","Rancho Cucamonga, CA, USA",1mohman
+"""been""","Rancho Santa Fe, CA, USA",1mohman
+"""been""","Menifee, CA, USA",1mohman
+"""been""","Orange, CA, USA",1mohman
+"""been""","Ha'apiti, French Polynesia",1mohman
+"""been""","Kankakee, IL, USA",1mohman
+"""been""","Frigate Bay, St. Kitts and Nevis",1mohman
+"""been"",""fave""","Florence, Italy",1mohman
+"""been""","Hauru, French Polynesia",1mohman
+"""been""","Traverse City, MI, USA",1mohman
+"""been""","Livorno, Italy",1mohman
+"""want""","Pisa, Italy",1mohman
+"""been""","Afareaitu, French Polynesia",1mohman
+"""been""","Oxnard, CA, USA",1mohman
+"""been""","Charlotte, NC, USA",1mohman
+"""been""","Dunmore East, Ireland",1mohman
+"""been"",""fave""","Sorrento, Italy",1mohman
+"""been""","Iowa City, IA, USA",1mohman
+"""been""","Naples, Italy",1mohman
+"""want""","Moscow, Russia",1mohman
+"""want""","Amalfi, Italy",1mohman
+"""been""","Beatty, NV, USA",1mohman
+"""want""","Munich, Germany",1mohman
+"""been""","Marshalltown, IA, USA",1mohman
+"""want""","London, UK",1mohman
+"""been""","Jurupa Valley, CA, USA",1mohman
+"""been"",""fave""","Pacific Grove, CA, USA",1mohman
+"""been""","Rialto, CA, USA",1mohman
+"""been""","Monrovia, CA, USA",1mohman
+"""been""","Cabo San Lucas, Mexico",1mohman
+"""been""","Bryce Canyon City, UT, USA",1mohman
+"""been""","Palm Desert, CA, USA",1mohman
+"""been""","Palm Springs, CA, USA",1mohman
+"""been""","Palmdale, CA, USA",1mohman
+"""been""","Lancaster, CA, USA",1mohman
+"""been""","Blue Diamond, NV, USA",1mohman
+"""been""","Cal Nev Ari, NV, USA",1mohman
+"""been""","Caliente, NV, USA",1mohman
+"""want""","Stockholm, Sweden",1mohman
+"""want""","Reykjavik, Iceland",1mohman
+"""been"",""fave""","Rome, Italy",1mohman
+"""want""","Whistler, British Columbia, Canada",1mohman
+"""been""","Crystal, NV, USA",1mohman
+"""been""","Dorp Sint Michiel, Curacao",1mohman
+"""want""","Brussels, Belgium",1mohman
+"""been""","Carson City, NV, USA",1mohman
+"""been""","Cottonwood Cove, NV, USA",1mohman
+"""been""","Sint Jozefsdal, Curacao",1mohman
+"""been""","Kipahulu, HI, USA",1mohman
+"""been""","Vancouver, British Columbia, Canada",1mohman
+"""want""","Victoria, British Columbia, Canada",1mohman
+"""been""","Dallas, TX, USA",1mohman
+"""been""","Wailua, HI, USA",1mohman
+"""been""","Kahala, HI, USA",1mohman
+"""been""","Sunset Beach, HI, USA",1mohman
+"""been""","Riverside, CA, USA",1mohman
+"""been""","Wickenburg, AZ, USA",1mohman
+"""been""","Monterey, CA, USA",1mohman
+"""been""","Williams, AZ, USA",1mohman
+"""been""","Willow Beach, AZ, USA",1mohman
+"""been""","Kildare, Ireland",1mohman
+"""been""","Maharepa, French Polynesia",1mohman
+"""been""","Kenner, LA, USA",1mohman
+"""been""","Tutu, U.S. Virgin Islands",1mohman
+"""want""","Istanbul, Turkey",1mohman
+"""been""","Waterford, Ireland",1mohman
+"""been""","Elko, NV, USA",1mohman
+"""been""","Ely, NV, USA",1mohman
+"""want""","Ushuaia, Argentina",1mohman
+"""been""","Weehawken, NJ, USA",1mohman
+"""been""","Moreno Valley, CA, USA",1mohman
+"""been""","Cisco, UT, USA",1mohman
+"""been""","Leucadia, CA, USA",1mohman
+"""been""","Soto, Curacao",1mohman
+"""been""","Pebble Beach, CA, USA",1mohman
+"""been""","Morro Bay, CA, USA",1mohman
+"""want""","Milan, Italy",1mohman
+"""been""","Paso Robles, CA, USA",1mohman
+"""been""","Castleisland, Ireland",1mohman
+"""been""","Moss Landing, CA, USA",1mohman
+"""been""","Bolongo Bay, U.S. Virgin Islands",1mohman
+"""want""","Auckland Central, New Zealand",1mohman
+"""want""","Perth, Australia",1mohman
+"""want""","Buenos Aires, Argentina",1mohman
+"""been""","Maalaea, HI, USA",1mohman
+"""been""","Goldfield, NV, USA",1mohman
+"""been""","Alamo, NV, USA",1mohman
+"""been""","Amargosa Valley, NV, USA",1mohman
+"""want""","Turin, Italy",1mohman
+"""want""","Melbourne, Australia",1mohman
+"""been""","Brian Head, UT, USA",1mohman
+"""been""","Rutherford, CA, USA",1mohman
+"""been""","Denton, TX, USA",1mohman
+"""been""","Perris, CA, USA",1mohman
+"""been""","Fort Worth, TX, USA",1mohman
+"""been""","Bryce, UT, USA",1mohman
+"""been""","Little River, CA, USA",1mohman
+"""been""","Petaluma, CA, USA",1mohman
+"""been""","Cobh, Ireland",1mohman
+"""been""","Coal Harbour, British Columbia, Canada",1mohman
+"""been""","Indian Springs, NV, USA",1mohman
+"""been""","Goodsprings, NV, USA",1mohman
+"""want""","Christchurch, New Zealand",1mohman
+"""been""","Henderson, NV, USA",1mohman
+"""want""","Glasgow, UK",1mohman
+"""been""","Fort McDowell, AZ, USA",1mohman
+"""want""","Rotorua, New Zealand",1mohman
+"""been""","Fort Irwin, CA, USA",1mohman
+"""been""","Washington DC, DC, USA",1mohman
+"""been""","Napa, CA, USA",1mohman
+"""been""","Indio, CA, USA",1mohman
+"""been""","Inglewood, CA, USA",1mohman
+"""been""","National City, CA, USA",1mohman
+"""been""","Cayon, St. Kitts and Nevis",1mohman
+"""been""","New Haven, CT, USA",1mohman
+"""been""","Muir Beach, CA, USA",1mohman
+"""been""","Phoenix, AZ, USA",1mohman
+"""been""","Fort Bragg, CA, USA",1mohman
+"""been""","Loma Linda, CA, USA",1mohman
+"""been""","Murrieta, CA, USA",1mohman
+"""been""","Purgatory, CO, USA",1mohman
+"""been""","Long Beach, CA, USA",1mohman
+"""been""","Needles, CA, USA",1mohman
+"""been""","Pirae, French Polynesia",1mohman
+"""been"",""fave""","Venice, Italy",1mohman
+"""want""","Verona, Italy",1mohman
+"""been""","Las Vegas, NV, USA",1mohman
+"""been""","Montour, IA, USA",1mohman
+"""been""","Laughlin, NV, USA",1mohman
+"""been""","Bushmills, UK",1mohman
+"""want""","Helsinki, Finland",1mohman
+"""want""","Madrid, Spain",1mohman
+"""want""","Queenstown, New Zealand",1mohman
+"""been""","Los Angeles, CA, USA",1mohman
+"""been""","Placentia, CA, USA",1mohman
+"""been""","Cottonwood, AZ, USA",1mohman
+"""been""","Frenchtown, U.S. Virgin Islands",1mohman
+"""been""","New Castle, St. Kitts and Nevis",1mohman
+"""been""","Oceanside, OR, USA",1mohman
+"""been""","Big Sur, CA, USA",1mohman
+"""been""","Fullerton, CA, USA",1mohman
+"""been""","Irvine, CA, USA",1mohman
+"""been""","Irwindale, CA, USA",1mohman
+"""been""","Duck Creek Village, UT, USA",1mohman
+"""been""","Cornville, AZ, USA",1mohman
+"""been""","Portrush, UK",1mohman
+"""been""","Jean, NV, USA",1mohman
+"""been""","Kittredge, CO, USA",1mohman
+"""been""","Pupukea, HI, USA",1mohman
+"""been""","Dolan Springs, AZ, USA",1mohman
+"""been""","Chicago, IL, USA",1mohman
+"""been""","Moapa, NV, USA",1mohman
+"""been""","Mount Charleston, NV, USA",1mohman
+"""been""","Malmok Beach, Aruba",1mohman
+"""been""","Punaauia, French Polynesia",1mohman
+"""been""","Mercury, NV, USA",1mohman
+"""been""","Mesquite, NV, USA",1mohman
+"""been""","Cook's  Bay, French Polynesia",1mohman
+"""been""","Newport Beach, CA, USA",1mohman
+"""been""","Rimrock, AZ, USA",1mohman
+"""been""","Rainier, OR, USA",1mohman
+"""been""","Lucerne Valley, CA, USA",1mohman
+"""been""","Geyserville, CA, USA",1mohman
+"""been""","Garden Grove, CA, USA",1mohman
+"""been""","Salida, CO, USA",1mohman
+"""been""","Norco, CA, USA",1mohman
+"""been""","Joshua Tree, CA, USA",1mohman
+"""been""","Gingerland, St. Kitts and Nevis",1mohman
+"""been""","Gilroy, CA, USA",1mohman
+"""been""","Tramore, Ireland",1mohman
+"""been""","Glen Ellen, CA, USA",1mohman
+"""been""","Biloxi, MS, USA",1mohman
+"""been""","Pioche, NV, USA",1mohman
+"""been""","Overton, NV, USA",1mohman
+"""been""","Pahrump, NV, USA",1mohman
+"""been""","Cork, Ireland",1mohman
+"""been""","Shawnee, CO, USA",1mohman
+"""been""","North Palm Springs, CA, USA",1mohman
+"""been""","Dublin, Ireland",1mohman
+"""been""","Manchester, CA, USA",1mohman
+"""been""","Fort Mohave, AZ, USA",1mohman
+"""been""","Newmarket-on-Fergus, Ireland",1mohman
+"""been""","Littleton, CO, USA",1mohman
+"""been""","Fountain Hills, AZ, USA",1mohman
+"""been""","Portland, OR, USA",1mohman
+"""been""","Glendora, CA, USA",1mohman
+"""been""","Leadville, CO, USA",1mohman
+"""been""","Fillmore, UT, USA",1mohman
+"""been""","Malibu, CA, USA",1mohman
+"""been""","North Las Vegas, NV, USA",1mohman
+"""been""","Paradera, Aruba",1mohman
+"""been"",""fave""","Dubrovnik, Croatia",1mohman
+"""been""","Searchlight, NV, USA",1mohman
+"""been""","Killarney, Ireland",1mohman
+"""want""","Genoa, Italy",1mohman
+"""been""","Scottsdale, AZ, USA",1mohman
+"""been""","Gilbert, AZ, USA",1mohman
+"""been""","Marina, CA, USA",1mohman
+"""been""","Glendale, AZ, USA",1mohman
+"""been""","Sedona, AZ, USA",1mohman
+"""been""","San Juan, Puerto Rico",1mohman
+"""been""","Saint Helens, OR, USA",1mohman
+"""been""","Camp Verde, AZ, USA",1mohman
+"""been""","Evergreen, CO, USA",1mohman
+"""been""","Chino, CA, USA",1mohman
+"""been""","Turtle Beach, St. Kitts and Nevis",1mohman
+"""been""","Chino Hills, CA, USA",1mohman
+"""been""","Snowflake, AZ, USA",1mohman
+"""been""","Fairplay, CO, USA",1mohman
+"""been""","Marina del Rey, CA, USA",1mohman
+"""been""","Globe, AZ, USA",1mohman
+"""been""","Goodyear, AZ, USA",1mohman
+"""been""","Primm, NV, USA",1mohman
+"""been""","Rachel, NV, USA",1mohman
+"""been""","Reno, NV, USA",1mohman
+"""been""","Murano, Italy",1mohman
+"""been""","Gretna, LA, USA",1mohman
+"""been""","Detroit, MI, USA",1mohman
+"""been""","Nelson, NV, USA",1mohman
+"""been"",""fave""","Kotor, Montenegro",1mohman
+"""been""","Limerick, Ireland",1mohman
+"""been""","Chula Vista, CA, USA",1mohman
+"""been""","El Cajon, CA, USA",1mohman
+"""been""","La Jolla, CA, USA",1mohman
+"""been""","Barstow, CA, USA",1mohman
+"""been""","Gainesville, MS, USA",1mohman
+"""been""","La Mesa, CA, USA",1mohman
+"""been""","Telluride, CO, USA",1mohman
+"""been""","Makaha, HI, USA",1mohman
+"""been""","Bailey, CO, USA",1mohman
+"""been""","The Colony, TX, USA",1mohman
+"""want""","Rio de Janeiro, Brazil",1mohman
+"""been""","Napili-Honokowai, HI, USA",1mohman
+"""been""","Yountville, CA, USA",1mohman
+"""been""","City of Industry, CA, USA",1mohman
+"""been""","Sun City, AZ, USA",1mohman
+"""been""","Surprise, AZ, USA",1mohman
+"""been""","La Quinta, CA, USA",1mohman
+"""been""","Jerome, AZ, USA",1mohman
+"""been""","Greenwich, CT, USA",1mohman
+"""want""","Johannesburg, South Africa",1mohman
+"""been""","Astoria, OR, USA",1mohman
+"""been""","Elk, CA, USA",1mohman
+"""been""","Laguna Hills, CA, USA",1mohman
+"""been""","Half Moon Bay, CA, USA",1mohman
+"""been""","Kingman, AZ, USA",1mohman
+"""been""","Mazatlan, Mexico",1mohman
+"""been""","Albuquerque, NM, USA",1mohman
+"""been""","SeaTac, WA, USA",1mohman
+"""been""","La Selva Beach, CA, USA",1mohman
+"""been""","Twin Lakes, CO, USA",1mohman
+"""been""","Baltimore, MD, USA",1mohman
+"""been""","Macroom, Ireland",1mohman
+"""been""","Tempe, AZ, USA",1mohman
+"""been""","Laguna Beach, CA, USA",1mohman
+"""been""","Temple Bar Marina, AZ, USA",1mohman
+"""been""","Vail, CO, USA",1mohman
+"""been""","Midleton, Ireland",1mohman
+"""been""","Black Hawk, CO, USA",1mohman
+"""been""","Puerto Vallarta, Mexico",1mohman
+"""been""","Hoboken, NJ, USA",1mohman
+"""been""","Georgetown, CO, USA",1mohman
+"""been""","Morrison, CO, USA",1mohman
+"""been""","Lake Havasu City, AZ, USA",1mohman
+"""been""","Willemstad, Curacao",1mohman
+"""been""","Seaside, OR, USA",1mohman
+"""been""","Tonopah, AZ, USA",1mohman
+"""been""","Lake Montezuma, AZ, USA",1mohman
+"""been""","Curacao, Caribbean",1mohman
+"""been""","Lake Elsinore, CA, USA",1mohman
+"""been""","Laguna Niguel, CA, USA",1mohman
+"""been""","Upland, CA, USA",1mohman
+"""been""","Escondido, CA, USA",1mohman
+"""been""","Breckenridge, CO, USA",1mohman
+"""been""","Belize City, Belize",1mohman
+"""been""","Golden, CO, USA",1mohman
+"""been""","Salt Lake City, UT, USA",1mohman
+"""been""","Adare, Ireland",1mohman
+"""been""","Encinitas, CA, USA",1mohman
+"""been""","Litchfield Park, AZ, USA",1mohman
+"""been""","Glenwood Springs, CO, USA",1mohman
+"""been""","Niwot, CO, USA",1mohman
+"""been""","Boulder, CO, USA",1mohman
+"""been""","Jamaica, NY, USA",1mohman
+"""been""","Grand Junction, CO, USA",1mohman
+"""been""","Eureka, CA, USA",1mohman
+"""been""","Buena Vista, CO, USA",1mohman
+"""been""","Kanturk, Ireland",1mohman
+"""want""","Siena, Italy",1mohman
+"""been""","The Dalles, OR, USA",1mohman
+"""been""","Buena Park, CA, USA",1mohman
+"""been""","Palm - Eagle Beach, Aruba",1mohman
+"""been""","Westminster, CO, USA",1mohman
+"""been""","Oranjestad, Aruba",1mohman
+"""been""","Tillamook, OR, USA",1mohman
+"""been""","Aruba, Caribbean",1mohman
+"""been""","Corona, CA, USA",1mohman
+"""been""","Ensenada, Mexico",1mohman
+"""been""","Santa Fe, NM, USA",1mohman
+"""been"",""fave""","San Francisco, CA, USA",1mohman
+"""been""","San Antonio, TX, USA",1mohman
+"""been""","Burbank, CA, USA",1mohman
+"""been""","Hemet, CA, USA",1mohman
+"""been""","Maricopa, AZ, USA",1mohman
+"""been""","St. Kitts, St. Kitts and Nevis",1mohman
+"""been""","Vallejo, CA, USA",1mohman
+"""been""","San Nicolas, Aruba",1mohman
+"""been""","Arikok National Park, Aruba",1mohman
+"""been""","Tucson, AZ, USA",1mohman
+"""been""","Tijuana, Mexico",1mohman
+"""been""","Rosarito, Mexico",1mohman
+"""been""","Tessera, Italy",1mohman
+"""been""","Charlestown, St. Kitts and Nevis",1mohman
+"""been""","Highland, CA, USA",1mohman
+"""been""","Canon City, CO, USA",1mohman
+"""been""","Costa Mesa, CA, USA",1mohman
+"""been""","Solana Beach, CA, USA",1mohman
+"""been""","Carbondale, CO, USA",1mohman
+"""been""","Basseterre, St. Kitts and Nevis",1mohman
+"""been""","Meadview, AZ, USA",1mohman
+"""been""","Hesperia, CA, USA",1mohman
+"""been""","Mesa, AZ, USA",1mohman
+"""been""","Gypsum, CO, USA",1mohman
+"""been""","Sabana Westpunt, Curacao",1mohman
+"""been""","Coronado, CA, USA",1mohman
+"""been""","Sonoma, CA, USA",1mohman
+"""been""","Mukilteo, WA, USA",1mohman
+"""been""","Miami, FL, USA",1mohman
+"""been""","Central City, CO, USA",1mohman
+"""been""","Estes Park, CO, USA",1mohman
+"""been""","Miami Beach, FL, USA",1mohman
+"""been""","Solvang, CA, USA",1mohman
+"""been""","Victorville, CA, USA",1mohman
+"""been""","Calabasas, CA, USA",1mohman
+"""been""","Tampa, FL, USA",1mohman
+"""been""","Jersey City, NJ, USA",1mohman
+"""been""","Grand Canyon National Park, AZ, USA",1mohman
+"""want""","Geneva, Switzerland",1mohman
+"""want""","Warsaw, Poland",1mohman
+"""been""","Anaheim, CA, USA",1mohman
+"""been""","Vista, CA, USA",1mohman
+"""been""","Oatman, AZ, USA",1mohman
+"""been""","Calistoga, CA, USA",1mohman
+"""been""","Death Valley National Park, CA, USA",1mohman
+"""been""","Anahola, HI, USA",1mohman
+"""been""","Tacoma, WA, USA",1mohman
+"""been""","New River, AZ, USA",1mohman
+"""been""","Covina, CA, USA",1mohman
+"""been""","Fillmore, CA, USA",1mohman
+"""been""","Kapaa, HI, USA",1mohman
+"""been""","Kaumakani, HI, USA",1mohman
+"""been""","Hanapepe, HI, USA",1mohman
+"""been""","Kalaheo, HI, USA",1mohman
+"""been""","Kelso, WA, USA",1mohman
+"""been""","Hanalei, HI, USA",1mohman
+"""been""","Buckeye, AZ, USA",1mohman
+"""been""","Des Moines, IA, USA",1mohman
+"""been""","Hanamaulu, HI, USA",1mohman
+"""been""","Bullhead City, AZ, USA",1mohman
+"""been""","Eleele, HI, USA",1mohman
+"""been""","South San Francisco, CA, USA",1mohman
+"""been""","Haena, HI, USA",1mohman
+"""been""","Cambria, CA, USA",1mohman
+"""been""","Pine, CO, USA",1mohman
+"""been""","Flagstaff, AZ, USA",1mohman
+"""been""","Los Alamos, NM, USA",1mohman
+"""been""","Hawaii Kai, HI, USA",1mohman
+"""been""","Anthem, AZ, USA",1mohman
+"""been""","Papeete, French Polynesia",1mohman
+"""been""","St. Helena, CA, USA",1mohman
+"""been""","Watsonville, CA, USA",1mohman
+"""been""","Great Basin National Park, NV, USA",1mohman
+"""been""","Haleakala National Park, HI, USA",1mohman
+"""been""","Salinas, CA, USA",1mohman
+"""been""","Idaho Springs, CO, USA",1mohman
+"""been""","Colorado Springs, CO, USA",1mohman
+"""been""","Fontana, CA, USA",1mohman
+"""been""","Carefree, AZ, USA",1mohman
+"""been""","West Vancouver, British Columbia, Canada",1mohman
+"""been""","Thousand Oaks, CA, USA",1mohman
+"""been""","Casa Grande, AZ, USA",1mohman
+"""been""","Cozumel, Mexico",1mohman
+"""been""","Plano, TX, USA",1mohman
+"""been""","Moab, UT, USA",1mohman
+"""been""","San Bernardino, CA, USA",1mohman
+"""been""","Baker, CA, USA",1mohman
+"""been""","Como, CO, USA",1mohman
+"""been""","Bakersfield, CA, USA",1mohman
+"""been""","Dana Point, CA, USA",1mohman
+"""been""","Conifer, CO, USA",1mohman
+"""been""","Baker, NV, USA",1mohman
+"""been""","Arue, French Polynesia",1mohman
+"""been""","Albion, CA, USA",1mohman
+"""been""","Civitavecchia, Italy",1mohman
+"""been""","Faa'a, French Polynesia",1mohman
+"""been""","Newark, NJ, USA",1mohman
+"""been""","Cotton Ground, St. Kitts and Nevis",1mohman
+"""been""","Chandler, AZ, USA",1mohman
+"""been""","West Hollywood, CA, USA",1mohman
+"""been""","Temae, French Polynesia",1mohman
+"""been""","San Dimas, CA, USA",1mohman
+"""been""","Del Mar, CA, USA",1mohman
+"""want""","Cairo, Egypt",1mohman
+"""been""","Haiku, HI, USA",1mohman
+"""been""","Jefferson, CO, USA",1mohman
+"""been""","West Covina, CA, USA",1mohman
+"""been""","Puunene, HI, USA",1mohman
+"""been""","Wailuku, HI, USA",1mohman
+"""been""","San Jacinto, CA, USA",1mohman
+"""been""","Paia, HI, USA",1mohman
+"""been""","Seattle, WA, USA",1mohman
+"""been""","Pukalani, HI, USA",1mohman
+"""been""","Lahaina, HI, USA",1mohman
+"""been""","Makawao, HI, USA",1mohman
+"""been""","Kihei, HI, USA",1mohman
+"""been""","Cardiff-by-the-Sea, CA, USA",1mohman
+"""been""","Fort Lauderdale, FL, USA",1mohman
+"""been""","Kula, HI, USA",1mohman
+"""been""","Cripple Creek, CO, USA",1mohman
+"""been""","Hana, HI, USA",1mohman
+"""been""","Kahului, HI, USA",1mohman
+"""been""","Twentynine Palms, CA, USA",1mohman
+"""been""","San Diego, CA, USA",1mohman
+"""been""","Clackamas, OR, USA",1mohman
+"""want""","Interlaken, Switzerland",1mohman
+"""been""","Hood River, OR, USA",1mohman
+"""been""","Sun City, CA, USA",1mohman
+"""been""","Cedar Rapids, IA, USA",1mohman
+"""been""","Diamond Bar, CA, USA",1mohman
+"""been""","Carpinteria, CA, USA",1mohman
+"""been""","Carlsbad, CA, USA",1mohman
+"""been""","Houston, TX, USA",1mohman
+"""want""","Dubai, United Arab Emirates",1mohman
+"""been""","Kealia, HI, USA",1mohman
+"""been""","Carmel, CA, USA",1mohman
+"""been""","San Jose, CA, USA",1mohman
+"""been""","Kekaha, HI, USA",1mohman
+"""been""","Carmel Valley, CA, USA",1mohman
+"""been""","Waimea, HI, USA",1mohman
+"""been"",""fave""","Poipu, HI, USA",1mohman
+"""been""","Ka'anapali, HI, USA",1mohman
+"""been""","Princeville, HI, USA",1mohman
+"""been"",""want""","Lihue, HI, USA",1mohman
+"""been""","San Luis Obispo, CA, USA",1mohman
+"""been""","Makaweli, HI, USA",1mohman
+"""been"",""fave""","Denver, CO, USA",1mohman
+"""been""","Boston, MA, USA",1mohman
+"""been""","Koloa, HI, USA",1mohman
+"""been""","San Marcos, CA, USA",1mohman
+"""been""","Haverhill, IA, USA",1mohman
+"""been""","Arasji, Aruba",1mohman
+"""been""","Lawai, HI, USA",1mohman
+"""been""","New Orleans, LA, USA",1mohman
+"""been""","Honolulu, HI, USA",1mohman
+"""been""","Kilauea, HI, USA",1mohman
+"""been"",""fave""","Vienna, Austria",1mohman
+"""been""","Castroville, CA, USA",1mohman
+"""been""","Green River, UT, USA",1mohman
+"""want""","St. Petersburg, Russia",1mohman
+"""been""","Sandy, UT, USA",1mohman
+"""want""","Krakow, Poland",1mohman
+"""been""","White Hills, AZ, USA",1mohman
+"""been""","Pearl City, HI, USA",1mohman
+"""been""","Wahiawa, HI, USA",1mohman
+"""been""","Laie, HI, USA",1mohman
+"""been""","Mililani, HI, USA",1mohman
+"""been""","Eagle, CO, USA",1mohman
+"""been""","San Simeon, CA, USA",1mohman
+"""been""","Fruita, CO, USA",1mohman
+"""been""","Kailua, HI, USA",1mohman
+"""been""","Kaneohe, HI, USA",1mohman
+"""been""","Kahalu u, HI, USA",1mohman
+"""been""","Kahuku, HI, USA",1mohman
+"""been""","Clatskanie, OR, USA",1mohman
+"""been""","Puerto Rico, Caribbean",1mohman
+"""been""","Barber, Curacao",1mohman
+"""want""","Budapest, Hungary",1mohman
+"""been""","Beverly Hills, CA, USA",1mohman
+"""been""","Village of Oak Creek, AZ, USA",1mohman
+"""been""","Temecula, CA, USA",1mohman
+"""been""","Richfield, UT, USA",1mohman
+"""been""","Santa Barbara, CA, USA",1mohman
+"""been""","Long Beach, WA, USA",1mohman
+"""been""","San Ysidro, CA, USA",1mohman
+"""been""","Tecopa, CA, USA",1mohman
+"""been""","Kaaawa, HI, USA",1mohman
+"""been""","Longview, WA, USA",1mohman
+"""been""","Haleiwa, HI, USA",1mohman
+"""been""","Avondale, AZ, USA",1mohman
+"""been""","Hauula, HI, USA",1mohman
+"""been""","Ventura, CA, USA",1mohman
+"""been""","Rockville, UT, USA",1mohman
+"""been""","Ewa Beach, HI, USA",1mohman
+"""been""","Santa Cruz, CA, USA",1mohman
+"""been""","Springfield, IL, USA",1mohman
+"""been""","Aiea, HI, USA",1mohman
+"""been""","St. George, UT, USA",1mohman
+"""been""","Cedar City, UT, USA",1mohman
+"""been""","Columbia City, OR, USA",1mohman
+"""been""","New York City, NY, USA",1mohman
+"""been""","Boulder City, NV, USA",1mohman
+"""been""","Klamath Falls, OR, USA",1mohman
+"""been""","Apache Junction, AZ, USA",1mohman
+"""been""","Charlotte Amalie, U.S. Virgin Islands",1mohman
+"""been""","Tonopah, NV, USA",1mohman
+"""been""","Santa Rosa, CA, USA",1mohman
+"""been""","Hurricane, UT, USA",1mohman
+"""been""","Santa Ynez, CA, USA",1mohman
+"""been""","Yorba Linda, CA, USA",1mohman
+"""been""","Santa Maria, CA, USA",1mohman
+"""been""","St. Thomas, U.S. Virgin Islands",1mohman
+"""been""","Yermo, CA, USA",1mohman
+"""been""","Thousand Palms, CA, USA",1mohman
+"""been""","Santa Monica, CA, USA",1mohman
+"""been""","Panguitch Lake, UT, USA",1mohman
+"""been""","Thompson, UT, USA",1mohman
+"""been""","Santee, CA, USA",1mohman
+"""been""","Stateline, NV, USA",1mohman
+"""been""","Aspen, CO, USA",1mohman
+"""want""","Oslo, Norway",1mohman
+"""been""","Newcastle West, Ireland",1mohman
+"""been""","Ballintoy, UK",1mohman
+"""been""","Ballymena, UK",1mohman
+"""been""","Seaside, CA, USA",1mohman
+"""been""","Lewisville, TX, USA",1mohman
+"""been""","Sausalito, CA, USA",1mohman
+"""been""","Zion National Park, UT, USA",1mohman
+"""been""","Memphis, TN, USA",1mohman
+"""been""","Havensight, U.S. Virgin Islands",1mohman
+"""been""","Death Valley Junction, CA, USA",1mohman
+"""been""","Waipahu, HI, USA",1mohman
+"""want""","Montreal, Quebec, Canada",1mohman
+"""been""","Waianae, HI, USA",1mohman
+"""been""","Waimanalo, HI, USA",1mohman
+"""been""","Waialua, HI, USA",1mohman
+"""been""","Tera Kora, Curacao",1mohman
+"""been""","Kapalua, HI, USA",1mohman
+"""want""","Copenhagen, Denmark",1mohman
+"""want""","Auckland, New Zealand",1mohman
+"""been""","Tustin, CA, USA",1mohman
+"""been""","Koke'e State Park, HI, USA",1mohman
+"""been""","Coralville, IA, USA",1mohman
+"""been""","Dundalk, Ireland",1mohman
+"""been""","Azusa, CA, USA",1mohman
+"""been""","Solon, IA, USA",1mohman
+"""been""","Lagun, Curacao",1mohman
+"""been""","Avalon, CA, USA",1mohman
+"""been"",""fave""","Barcelona, Spain",1mohman
+"""been""","Shoshone, CA, USA",1mohman
+"""been""","Kanab, UT, USA",1mohman
+"""been""","Virgin, UT, USA",1mohman
+"""been""","North Vancouver, British Columbia, Canada",1mohman
+"""want""","Amsterdam, The Netherlands",1mohman
+"""want""","Zurich, Switzerland",1mohman
+"""want""","Paris, France",1mohman
+"""been""","Cathlamet, WA, USA",1mohman
+"""been""","Ballymoney, UK",1mohman
+"""been""","Oahu, HI, USA",1mohman
+"""been""","Apple Valley, CA, USA",1mohman
+"""been""","Waihee, HI, USA",1mohman
+"""been""","Strawberry, AZ, USA",1mohman
+"""been""","Mamaroneck, NY, USA",1mohman
+"""been""","Maui, HI, USA",1mohman
+"""want""","Salzburg, Austria",1mohman
+"""been""","Rathcoole, Ireland",1mohman
+"""been""","Kauai, HI, USA",1mohman
+"""been""","Waimea, HI, USA",1mohman
+"""been""","Albion, IA, USA",1mohman
+"""been""","Baker City, OR, USA",1mohman
+"""been""","Vaiare, French Polynesia",1mohman
+"""been""","Liscannor, Ireland",1mohman
+"""been""","Ballycastle, UK",1mohman
+"""been""","Belfast, UK",1mohman
+"""want""","Berlin, Germany",1mohman
+"""been"",""fave""","Moorea, French Polynesia",1mohman
+"""been""","Ennis, Ireland",1mohman
+"""been""","Blarney, Ireland",1mohman
+"""been""","Tama, IA, USA",1mohman
+"""been""","Swisher, IA, USA",1mohman
+"""want""","Alice Springs, Australia",1mohman
+"""want""","Sydney, Australia",1mohman
+"""been""","New Rochelle, NY, USA",1mohman
+"""been""","Point Arena, CA, USA",1mohman
+"""been""","Point Reyes Station, CA, USA",1mohman
+"""been""","Noord, Aruba",1mohman
+"""been""","Tahiti, French Polynesia",1mohman
+"""been""","Dungarvan, Ireland",1mohman
+"""want""","Cairns, Australia",1mohman
+"""been""","Sint Willibrordus, Curacao",1mohman
+"""been""","Gulfport, MS, USA",1mohman
+"""been""","Pomona, CA, USA",1mohman
+"""been""","Roatan, Honduras",1mohman
+"""been""","Bridal Veil, OR, USA",1mohman
+"""been""","Ann Arbor, MI, USA",1mohman
+"""been""","Toledo, IA, USA",1mohman
+"""been""","Pelham Manor, NY, USA",1mohman
+"""been""","Pelham, NY, USA",1mohman
+"""been""","Wailea, HI, USA",1mohman
+"""been""","Cannes, France",1mohman
+"""been""","Nipton, CA, USA",1mohman
+"""been""","San Nicolo, Italy",1mohman
+"""been""","Centennial, CO, USA",1mohman
+"""been""","Poway, CA, USA",1mohman
+"""been""","Springdale, UT, USA",1mohman
+"""been""","Panguitch, UT, USA",1mohman
+"""been""","Metairie, LA, USA",1mohman
+"""been""","North Liberty, IA, USA",1mohman
+"""been""","Cannon Beach, OR, USA",1mohman
+"""been""","Ojai, CA, USA",1mohman
+"""want""","Prague, Czech Republic",1mohman
+"""been""","Oceanside, CA, USA",1mohman
+"""been""","Furnace Creek, CA, USA",1mohman

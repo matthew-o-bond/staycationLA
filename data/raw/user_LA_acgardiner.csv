@@ -1,0 +1,694 @@
+tag,place,user
+"""been""","Nice, France",acgardiner
+"""been""","Ann Arbor, MI, USA",acgardiner
+"""been""","Dijon, France",acgardiner
+"""been""","Bournemouth, UK",acgardiner
+"""been""","Pinar del Rio, Cuba",acgardiner
+"""been""","Cumberland, British Columbia, Canada",acgardiner
+"""been""","Gothenburg, Sweden",acgardiner
+"""been""","Queenstown, New Zealand",acgardiner
+"""been""","N'Djamena, Chad",acgardiner
+"""been""","Saint-Tropez, France",acgardiner
+"""been""","Newcastle upon Tyne, UK",acgardiner
+"""been""","Brighton, UK",acgardiner
+"""been""","Tarija, Bolivia",acgardiner
+"""been""","Copenhagen, Denmark",acgardiner
+"""been""","Dallas, TX, USA",acgardiner
+"""been""","Youbou, British Columbia, Canada",acgardiner
+"""been""","Frankfurt, Germany",acgardiner
+"""been""","Aberdeen, UK",acgardiner
+"""been""","St Ives, UK",acgardiner
+"""been""","Avignon, France",acgardiner
+"""been""","Oviedo, Spain",acgardiner
+"""been""","Hamburg, Germany",acgardiner
+"""been""","Slough, UK",acgardiner
+"""been""","Provincetown, MA, USA",acgardiner
+"""been""","Oxford, UK",acgardiner
+"""been""","Auckland Central, New Zealand",acgardiner
+"""been""","South Lake Tahoe, CA, USA",acgardiner
+"""been""","Van Buren, AR, USA",acgardiner
+"""been""","Bradford West Gwillimbury, Ontario, Canada",acgardiner
+"""been""","Fayetteville, NC, USA",acgardiner
+"""been""","Wailea, HI, USA",acgardiner
+"""been""","Mount Airy, NC, USA",acgardiner
+"""been""","Melbourne, Australia",acgardiner
+"""been""","Perth, Australia",acgardiner
+"""been""","Greenwood, British Columbia, Canada",acgardiner
+"""been""","Wabasha, MN, USA",acgardiner
+"""been""","Cannes, France",acgardiner
+"""been""","Port Moody, British Columbia, Canada",acgardiner
+"""been""","Bath, UK",acgardiner
+"""been""","Christchurch, New Zealand",acgardiner
+"""been""","Athens, Greece",acgardiner
+"""been""","Orland, CA, USA",acgardiner
+"""been""","Charlotte, NC, USA",acgardiner
+"""been""","Paihia, New Zealand",acgardiner
+"""been""","Lexington, KY, USA",acgardiner
+"""been""","Red Bluff, CA, USA",acgardiner
+"""been""","Napanee, Ontario, Canada",acgardiner
+"""been""","Redding, CA, USA",acgardiner
+"""been""","Wellington, New Zealand",acgardiner
+"""been""","Malaga, Spain",acgardiner
+"""been""","Kapalua, HI, USA",acgardiner
+"""been""","Gary, IN, USA",acgardiner
+"""been""","York, UK",acgardiner
+"""been""","Cambridge, UK",acgardiner
+"""been""","Kingston, Ontario, Canada",acgardiner
+"""been""","Oklahoma City, OK, USA",acgardiner
+"""been""","Brussels, Belgium",acgardiner
+"""been""","Hamilton, Ontario, Canada",acgardiner
+"""been""","Whitby, UK",acgardiner
+"""been""","Cadiz, Spain",acgardiner
+"""been""","Nuremberg, Germany",acgardiner
+"""been""","London, Ontario, Canada",acgardiner
+"""been""","Bristol, UK",acgardiner
+"""been""","Rome, Italy",acgardiner
+"""been""","Cardiff, UK",acgardiner
+"""been""","Niagara-on-the-Lake, Ontario, Canada",acgardiner
+"""been""","Ashland, OR, USA",acgardiner
+"""been""","Niagara Falls, Ontario, Canada",acgardiner
+"""been""","Yokohama, Japan",acgardiner
+"""been""","Lake Placid, NY, USA",acgardiner
+"""been""","Stockholm, Sweden",acgardiner
+"""been""","Niagara Falls, NY, USA",acgardiner
+"""been""","Islamabad, Pakistan",acgardiner
+"""been""","Colombo, Sri Lanka",acgardiner
+"""been""","Marrakech, Morocco",acgardiner
+"""been""","Rabat, Morocco",acgardiner
+"""been""","Tangier, Morocco",acgardiner
+"""been""","Sydney, Australia",acgardiner
+"""been""","Belleville, Ontario, Canada",acgardiner
+"""been""","Barrie, Ontario, Canada",acgardiner
+"""want""","Berlin, Germany",acgardiner
+"""been""","Seville, Spain",acgardiner
+"""been""","Glenview, IL, USA",acgardiner
+"""been""","Chester, UK",acgardiner
+"""been""","Burlington, Ontario, Canada",acgardiner
+"""been""","Ballycastle, UK",acgardiner
+"""been""","Granada, Spain",acgardiner
+"""been""","Cottage Grove, MN, USA",acgardiner
+"""been""","Orem, UT, USA",acgardiner
+"""want""","Rio de Janeiro, Brazil",acgardiner
+"""been""","Johannesburg, South Africa",acgardiner
+"""been""","Tokyo, Japan",acgardiner
+"""been""","Canyonville, OR, USA",acgardiner
+"""been""","Oakland, CA, USA",acgardiner
+"""been""","Canberra, Australia",acgardiner
+"""been""","San Jose, Costa Rica",acgardiner
+"""been""","DuBois, PA, USA",acgardiner
+"""been""","Agadir, Morocco",acgardiner
+"""been""","Bukoba, Tanzania",acgardiner
+"""been""","Casablanca, Morocco",acgardiner
+"""want""","Istanbul, Turkey",acgardiner
+"""been""","Fes, Morocco",acgardiner
+"""been""","La Crosse, WI, USA",acgardiner
+"""been""","Keswick, UK",acgardiner
+"""been""","Pisa, Italy",acgardiner
+"""been""","Dar es Salaam, Tanzania",acgardiner
+"""been""","Boca Raton, FL, USA",acgardiner
+"""been""","Florence, Italy",acgardiner
+"""been""","Salmo, British Columbia, Canada",acgardiner
+"""been""","Jerusalem, Israel",acgardiner
+"""been""","Tel Aviv, Israel",acgardiner
+"""been""","Mykonos Town, Greece",acgardiner
+"""been""","Amman, Jordan",acgardiner
+"""been""","Guayaquil, Ecuador",acgardiner
+"""been""","Tehran, Iran",acgardiner
+"""been""","Liverpool, UK",acgardiner
+"""been""","Kenosha, WI, USA",acgardiner
+"""been"",""want""","London, UK",acgardiner
+"""been""","Antwerp, Belgium",acgardiner
+"""been""","The Hague, The Netherlands",acgardiner
+"""been""","Leicester, UK",acgardiner
+"""been""","Rotterdam, The Netherlands",acgardiner
+"""been""","Naples, Italy",acgardiner
+"""been""","Ayr, UK",acgardiner
+"""been""","Blackpool, UK",acgardiner
+"""been""","Capri, Italy",acgardiner
+"""been""","Amalfi, Italy",acgardiner
+"""been""","Haverfordwest, UK",acgardiner
+"""been""","Grants Pass, OR, USA",acgardiner
+"""been""","Gallup, NM, USA",acgardiner
+"""been""","Munich, Germany",acgardiner
+"""been""","Sidney, British Columbia, Canada",acgardiner
+"""been""","Ahmedabad, India",acgardiner
+"""been""","Oakville, Ontario, Canada",acgardiner
+"""been""","Port-Daniel, Quebec, Canada",acgardiner
+"""been""","Oshawa, Ontario, Canada",acgardiner
+"""been""","Ottawa, Ontario, Canada",acgardiner
+"""been""","Boise, ID, USA",acgardiner
+"""been""","North Bay, Ontario, Canada",acgardiner
+"""been""","Virginia Beach, VA, USA",acgardiner
+"""been""","Basel, Switzerland",acgardiner
+"""been""","Gold Hill, OR, USA",acgardiner
+"""been""","New Denver, British Columbia, Canada",acgardiner
+"""been""","Lillooet, British Columbia, Canada",acgardiner
+"""been""","Lake Cowichan, British Columbia, Canada",acgardiner
+"""been""","Glasgow, MT, USA",acgardiner
+"""been""","Zagreb, Croatia",acgardiner
+"""been""","Alanya, Turkey",acgardiner
+"""been""","Isfahan, Iran",acgardiner
+"""been""","Beijing, China",acgardiner
+"""been""","Antalya, Turkey",acgardiner
+"""been""","Nadi, Fiji",acgardiner
+"""been""","Port Coquitlam, British Columbia, Canada",acgardiner
+"""been""","Dubai, United Arab Emirates",acgardiner
+"""been""","Shanghai, China",acgardiner
+"""been""","Suva, Fiji",acgardiner
+"""been""","Hong Kong, China",acgardiner
+"""been""","Battle Creek, MI, USA",acgardiner
+"""been""","Jakarta, Indonesia",acgardiner
+"""been""","Waimea, HI, USA",acgardiner
+"""been""","Golden, British Columbia, Canada",acgardiner
+"""been""","Hilo, HI, USA",acgardiner
+"""been""","Nelson, British Columbia, Canada",acgardiner
+"""been""","Mission, British Columbia, Canada",acgardiner
+"""been""","Vieux Fort, St. Lucia",acgardiner
+"""been""","Geneva, Switzerland",acgardiner
+"""been""","Farmington, NM, USA",acgardiner
+"""been""","Bern, Switzerland",acgardiner
+"""been""","Tamarindo, Costa Rica",acgardiner
+"""been""","Sucre, Bolivia",acgardiner
+"""been""","Kos Town, Greece",acgardiner
+"""been""","Balikesir, Turkey",acgardiner
+"""been""","Hobart, Australia",acgardiner
+"""been""","Newport, OR, USA",acgardiner
+"""been""","Courtenay, British Columbia, Canada",acgardiner
+"""been""","Grand Canyon National Park, AZ, USA",acgardiner
+"""been""","Bursa, Turkey",acgardiner
+"""been""","Charlottetown, Prince Edward Island, Canada",acgardiner
+"""been""","Northbrook, IL, USA",acgardiner
+"""been""","Rockhampton, Australia",acgardiner
+"""been""","Surfers Paradise, Australia",acgardiner
+"""been""","Townsville, Australia",acgardiner
+"""been""","Prague, Czech Republic",acgardiner
+"""been""","Racine, WI, USA",acgardiner
+"""been""","Charlo, New Brunswick, Canada",acgardiner
+"""been""","Thessaloniki, Greece",acgardiner
+"""been""","Algarve, Portugal",acgardiner
+"""been""","Belgrade, Serbia",acgardiner
+"""been""","Papeete, French Polynesia",acgardiner
+"""been""","Colwood, British Columbia, Canada",acgardiner
+"""been""","Brockville, Ontario, Canada",acgardiner
+"""been""","Faro, Portugal",acgardiner
+"""been""","Bracebridge, Ontario, Canada",acgardiner
+"""been""","Darwin, Australia",acgardiner
+"""been""","Collingwood, Ontario, Canada",acgardiner
+"""been""","Brisbane, Australia",acgardiner
+"""been""","Eugene, OR, USA",acgardiner
+"""been""","Cairns, Australia",acgardiner
+"""been""","Cobourg, Ontario, Canada",acgardiner
+"""been""","Chatham, Ontario, Canada",acgardiner
+"""been""","Sault Ste. Marie, Ontario, Canada",acgardiner
+"""been""","Truro, Nova Scotia, Canada",acgardiner
+"""been""","Reston, VA, USA",acgardiner
+"""been""","Bremerton, WA, USA",acgardiner
+"""been""","Manchester, UK",acgardiner
+"""been""","Oslo, Norway",acgardiner
+"""been""","Daytona Beach, FL, USA",acgardiner
+"""been"",""want""","Washington DC, DC, USA",acgardiner
+"""been""","Luxembourg City, Luxembourg",acgardiner
+"""been""","Sudbury, Ontario, Canada",acgardiner
+"""been""","Thunder Bay, Ontario, Canada",acgardiner
+"""been""","Toronto, Ontario, Canada",acgardiner
+"""been""","Oaxaca, Mexico",acgardiner
+"""been""","Christiansted, U.S. Virgin Islands",acgardiner
+"""been""","Mexico City, Mexico",acgardiner
+"""been""","Panama City, Panama",acgardiner
+"""been""","Fargo, ND, USA",acgardiner
+"""been""","Baghdad, Iraq",acgardiner
+"""been""","Abidjan, Ivory Coast",acgardiner
+"""been""","Kuwait City, Kuwait",acgardiner
+"""been""","Beirut, Lebanon",acgardiner
+"""been""","Dalhousie, New Brunswick, Canada",acgardiner
+"""been""","Dili, East Timor",acgardiner
+"""been""","Gaziantep, Turkey",acgardiner
+"""been""","South Bend, IN, USA",acgardiner
+"""been""","Coupeville, WA, USA",acgardiner
+"""been""","Cocoa Beach, FL, USA",acgardiner
+"""been""","Philadelphia, PA, USA",acgardiner
+"""been""","Ferndale, WA, USA",acgardiner
+"""been""","Clearwater, FL, USA",acgardiner
+"""been""","Portland, ME, USA",acgardiner
+"""been""","Duxford, UK",acgardiner
+"""been""","Bellingham, WA, USA",acgardiner
+"""been""","Devils Lake, ND, USA",acgardiner
+"""been""","Gettysburg, PA, USA",acgardiner
+"""been""","Medford, OR, USA",acgardiner
+"""been""","Salzburg, Austria",acgardiner
+"""been""","Waterloo, Ontario, Canada",acgardiner
+"""been""","Budapest, Hungary",acgardiner
+"""been""","Trenton, Ontario, Canada",acgardiner
+"""been""","Chiang Rai, Thailand",acgardiner
+"""been""","Blaine, WA, USA",acgardiner
+"""been""","Whitby, Ontario, Canada",acgardiner
+"""been""","Louisville, KY, USA",acgardiner
+"""been""","Everett, WA, USA",acgardiner
+"""been""","Everson, WA, USA",acgardiner
+"""been""","Quito, Ecuador",acgardiner
+"""been""","Cuenca, Ecuador",acgardiner
+"""been""","Bainbridge Island, WA, USA",acgardiner
+"""been""","Heidelberg, Germany",acgardiner
+"""been""","Taos, NM, USA",acgardiner
+"""been""","Stuttgart, Germany",acgardiner
+"""been""","Vienna, Austria",acgardiner
+"""been""","Kitchener, Ontario, Canada",acgardiner
+"""been""","Patong, Thailand",acgardiner
+"""been""","Kincardine, Ontario, Canada",acgardiner
+"""been""","Abel Tasman National Park, New Zealand",acgardiner
+"""been""","Mayne Island, British Columbia, Canada",acgardiner
+"""been""","Zurich, Ontario, Canada",acgardiner
+"""been""","Newmarket, Ontario, Canada",acgardiner
+"""been""","Quathiaski Cove, British Columbia, Canada",acgardiner
+"""been""","Kapolei, HI, USA",acgardiner
+"""been""","Willows, CA, USA",acgardiner
+"""been""","Lynden, WA, USA",acgardiner
+"""been""","Richmond, VA, USA",acgardiner
+"""been""","Sterling, VA, USA",acgardiner
+"""been""","Kailua, HI, USA",acgardiner
+"""been""","Lynnwood, WA, USA",acgardiner
+"""been""","Williams, CA, USA",acgardiner
+"""been""","Lausanne, Switzerland",acgardiner
+"""been""","Edmonds, WA, USA",acgardiner
+"""been""","Puyallup, WA, USA",acgardiner
+"""been""","Barcelona, Spain",acgardiner
+"""been""","Cut Bank, MT, USA",acgardiner
+"""been""","Tsawwassen, British Columbia, Canada",acgardiner
+"""been""","Cologne, Germany",acgardiner
+"""been""","Atlanta, GA, USA",acgardiner
+"""been""","Amsterdam, The Netherlands",acgardiner
+"""been""","Loma, MT, USA",acgardiner
+"""been""","Coquitlam, British Columbia, Canada",acgardiner
+"""been""","Rugby, ND, USA",acgardiner
+"""been""","Lincoln City, OR, USA",acgardiner
+"""been""","Richmond, British Columbia, Canada",acgardiner
+"""been""","North Vancouver, British Columbia, Canada",acgardiner
+"""been""","Santa Barbara, CA, USA",acgardiner
+"""been""","New York City, NY, USA",acgardiner
+"""been""","Hamah, Syria",acgardiner
+"""been""","Nairobi, Kenya",acgardiner
+"""been""","Port Townsend, WA, USA",acgardiner
+"""been""","Ocala, FL, USA",acgardiner
+"""been""","Poulsbo, WA, USA",acgardiner
+"""been""","Markham, Ontario, Canada",acgardiner
+"""been""","Charlottesville, VA, USA",acgardiner
+"""been""","Anchorage, AK, USA",acgardiner
+"""been""","Paris, France",acgardiner
+"""been""","Coburg, OR, USA",acgardiner
+"""been""","Portsmouth, UK",acgardiner
+"""been""","Southampton, UK",acgardiner
+"""been""","Zurich, Switzerland",acgardiner
+"""been""","Lyon, France",acgardiner
+"""been""","Beverly Hills, CA, USA",acgardiner
+"""been""","El Paso, TX, USA",acgardiner
+"""been""","Cedar City, UT, USA",acgardiner
+"""been""","Chamonix, France",acgardiner
+"""been""","Wisconsin Dells, WI, USA",acgardiner
+"""been""","Maryborough, Australia",acgardiner
+"""been""","Cottage Grove, OR, USA",acgardiner
+"""been""","Abbotsford, British Columbia, Canada",acgardiner
+"""been""","St. George, UT, USA",acgardiner
+"""been""","Canmore, Alberta, Canada",acgardiner
+"""been""","Kerman, Iran",acgardiner
+"""been""","Karachi, Pakistan",acgardiner
+"""been""","Cornwall, Ontario, Canada",acgardiner
+"""been""","Aleppo, Syria",acgardiner
+"""been""","Langley City, British Columbia, Canada",acgardiner
+"""been""","Adana, Turkey",acgardiner
+"""been""","Picton, Ontario, Canada",acgardiner
+"""been""","Kihei, HI, USA",acgardiner
+"""been""","San Diego, CA, USA",acgardiner
+"""been""","Williamsburg, VA, USA",acgardiner
+"""been""","Kailua-Kona, HI, USA",acgardiner
+"""been""","Hana, HI, USA",acgardiner
+"""been""","West Hollywood, CA, USA",acgardiner
+"""been""","Kotzebue, AK, USA",acgardiner
+"""been""","Seattle, WA, USA",acgardiner
+"""been""","Geneva, NY, USA",acgardiner
+"""been""","Rochester, NY, USA",acgardiner
+"""been""","Vienna, VA, USA",acgardiner
+"""been""","Lahaina, HI, USA",acgardiner
+"""been""","Kalispell, MT, USA",acgardiner
+"""been""","Agra, India",acgardiner
+"""been""","Fort Lauderdale, FL, USA",acgardiner
+"""been""","Jacksonville, OR, USA",acgardiner
+"""been""","Deming, WA, USA",acgardiner
+"""been""","Naples, FL, USA",acgardiner
+"""been""","Saint-Louis, Senegal",acgardiner
+"""been""","Koloa, HI, USA",acgardiner
+"""been""","Cashel, Ireland",acgardiner
+"""been""","Denver, CO, USA",acgardiner
+"""been""","Honolulu, HI, USA",acgardiner
+"""been""","La Conner, WA, USA",acgardiner
+"""been""","Fort Myers, FL, USA",acgardiner
+"""been""","Ziguinchor, Senegal",acgardiner
+"""been""","Houston, TX, USA",acgardiner
+"""been""","Fort Myers Beach, FL, USA",acgardiner
+"""been""","Kissimmee, FL, USA",acgardiner
+"""been""","Kingston, WA, USA",acgardiner
+"""been""","San Jose, CA, USA",acgardiner
+"""been""","Windermere, Ontario, Canada",acgardiner
+"""been""","Caracas, Venezuela",acgardiner
+"""been""","Princeville, HI, USA",acgardiner
+"""been""","Boston, MA, USA",acgardiner
+"""been""","Poipu, HI, USA",acgardiner
+"""been""","Lawai, HI, USA",acgardiner
+"""been""","New Orleans, LA, USA",acgardiner
+"""been""","Lihue, HI, USA",acgardiner
+"""been""","International Falls, MN, USA",acgardiner
+"""been""","Burlington, ND, USA",acgardiner
+"""been""","Zinder, Niger",acgardiner
+"""been""","Macau, China",acgardiner
+"""been""","Cape Canaveral, FL, USA",acgardiner
+"""been""","San Luis Obispo, CA, USA",acgardiner
+"""been""","St. Augustine, FL, USA",acgardiner
+"""been""","Los Alamos, NM, USA",acgardiner
+"""been""","Olympia, WA, USA",acgardiner
+"""been""","Tacoma, WA, USA",acgardiner
+"""been""","Charleston, SC, USA",acgardiner
+"""been""","Flagstaff, AZ, USA",acgardiner
+"""been""","Miramichi, New Brunswick, Canada",acgardiner
+"""been""","Sumner, WA, USA",acgardiner
+"""been""","Dublin, VA, USA",acgardiner
+"""been""","La Paz, Mexico",acgardiner
+"""been""","Madison, WI, USA",acgardiner
+"""been""","Loreto, Mexico",acgardiner
+"""been""","Minato, Japan",acgardiner
+"""been""","Wasaga Beach, Ontario, Canada",acgardiner
+"""been""","Pitt Meadows, British Columbia, Canada",acgardiner
+"""been""","Buffalo, NY, USA",acgardiner
+"""been""","Ladner, British Columbia, Canada",acgardiner
+"""been""","Innisfil, Ontario, Canada",acgardiner
+"""been""","Yangon (Rangoon), Myanmar",acgardiner
+"""been""","La Paz, Bolivia",acgardiner
+"""been""","Bogota, Colombia",acgardiner
+"""been""","Shibuya, Japan",acgardiner
+"""been""","Quetta, Pakistan",acgardiner
+"""been""","Shinjuku, Japan",acgardiner
+"""been""","Waikoloa, HI, USA",acgardiner
+"""been""","Seoul, South Korea",acgardiner
+"""been""","Gaspe, Quebec, Canada",acgardiner
+"""been""","Gibsons, British Columbia, Canada",acgardiner
+"""been""","Colorado Springs, CO, USA",acgardiner
+"""been""","Siena, Italy",acgardiner
+"""been""","Oak Harbor, WA, USA",acgardiner
+"""been""","Weed, CA, USA",acgardiner
+"""been""","Port Hope, Ontario, Canada",acgardiner
+"""been""","Concord, Ontario, Canada",acgardiner
+"""been""","Woodbridge, Ontario, Canada",acgardiner
+"""been""","Volcano, HI, USA",acgardiner
+"""been""","Bismarck, ND, USA",acgardiner
+"""been""","Oranjestad, Aruba",acgardiner
+"""been""","Sapporo, Japan",acgardiner
+"""been""","Hiroshima, Japan",acgardiner
+"""been""","Seven Mile Beach, Cayman Islands",acgardiner
+"""been""","Kyoto, Japan",acgardiner
+"""been""","Kobe, Japan",acgardiner
+"""been""","Garden Bay, British Columbia, Canada",acgardiner
+"""been""","Nagasaki, Japan",acgardiner
+"""been""","Knoxville, TN, USA",acgardiner
+"""been""","Osaka, Japan",acgardiner
+"""been""","Pickering, Ontario, Canada",acgardiner
+"""been""","Port Colborne, Ontario, Canada",acgardiner
+"""been""","Fukuoka, Japan",acgardiner
+"""been""","Powell River, British Columbia, Canada",acgardiner
+"""been""","Madeira Park, British Columbia, Canada",acgardiner
+"""been""","Great Falls, VA, USA",acgardiner
+"""been""","Cardinal, Ontario, Canada",acgardiner
+"""been""","Panama City Beach, FL, USA",acgardiner
+"""been""","Hilton Head, SC, USA",acgardiner
+"""been""","Whitehorse, Yukon, Canada",acgardiner
+"""been""","Tuba City, AZ, USA",acgardiner
+"""been""","Prince Albert, Saskatchewan, Canada",acgardiner
+"""been""","Regina, Saskatchewan, Canada",acgardiner
+"""been""","Saskatoon, Saskatchewan, Canada",acgardiner
+"""been""","Lagos, Nigeria",acgardiner
+"""been""","Rarotonga, Cook Islands",acgardiner
+"""been""","Santa Fe, NM, USA",acgardiner
+"""been""","Duluth, MN, USA",acgardiner
+"""been""","San Antonio, TX, USA",acgardiner
+"""been""","Friday Harbor, WA, USA",acgardiner
+"""been""","Porto, Portugal",acgardiner
+"""been""","Roberts Creek, British Columbia, Canada",acgardiner
+"""been""","San Francisco, CA, USA",acgardiner
+"""been""","Page, AZ, USA",acgardiner
+"""been""","West Glacier, MT, USA",acgardiner
+"""been""","Lugano, Switzerland",acgardiner
+"""been""","Damascus, Syria",acgardiner
+"""been""","Spokane, WA, USA",acgardiner
+"""been""","Mill Bay, British Columbia, Canada",acgardiner
+"""been""","Saturna Island, British Columbia, Canada",acgardiner
+"""been""","Morrisburg, Ontario, Canada",acgardiner
+"""been""","Hornby Island, British Columbia, Canada",acgardiner
+"""been""","Corning, CA, USA",acgardiner
+"""been""","Nassau, Bahamas",acgardiner
+"""been""","Kirkland Lake, Ontario, Canada",acgardiner
+"""been""","Austin, TX, USA",acgardiner
+"""been""","Tallahassee, FL, USA",acgardiner
+"""been""","Tadoussac, Quebec, Canada",acgardiner
+"""been""","Mount Vernon, WA, USA",acgardiner
+"""been""","Trois-Rivieres, Quebec, Canada",acgardiner
+"""been""","Central Saanich, British Columbia, Canada",acgardiner
+"""been""","Sutherlin, OR, USA",acgardiner
+"""been""","Pensacola, FL, USA",acgardiner
+"""been""","Montreal, Quebec, Canada",acgardiner
+"""been""","Quebec City, Quebec, Canada",acgardiner
+"""been""","Havre, MT, USA",acgardiner
+"""been""","Providence, RI, USA",acgardiner
+"""been""","Crescent City, CA, USA",acgardiner
+"""been""","Zermatt, Switzerland",acgardiner
+"""been""","Syracuse, NY, USA",acgardiner
+"""been""","Iroquois Falls, Ontario, Canada",acgardiner
+"""been""","Columbia, MD, USA",acgardiner
+"""been""","Williston, ND, USA",acgardiner
+"""been""","Freeport, Bahamas",acgardiner
+"""been""","Singapore, Singapore",acgardiner
+"""been""","Port Vila, Vanuatu",acgardiner
+"""been""","Talent, OR, USA",acgardiner
+"""been""","King City, Ontario, Canada",acgardiner
+"""been""","Stanhope, UK",acgardiner
+"""been""","Miami, FL, USA",acgardiner
+"""been""","Miami Beach, FL, USA",acgardiner
+"""been""","Anaheim, CA, USA",acgardiner
+"""been""","Tampa, FL, USA",acgardiner
+"""been""","Port McNeill, British Columbia, Canada",acgardiner
+"""been""","Anderson, CA, USA",acgardiner
+"""been""","Cottonwood, CA, USA",acgardiner
+"""want""","St. Petersburg, Russia",acgardiner
+"""been""","Kapuskasing, Ontario, Canada",acgardiner
+"""been""","Sechelt, British Columbia, Canada",acgardiner
+"""been""","Waukegan, IL, USA",acgardiner
+"""been""","West Vancouver, British Columbia, Canada",acgardiner
+"""been""","Aldergrove, British Columbia, Canada",acgardiner
+"""been""","Evanston, IL, USA",acgardiner
+"""been""","Grimsby, Ontario, Canada",acgardiner
+"""been""","Amarillo, TX, USA",acgardiner
+"""been""","South Beach, OR, USA",acgardiner
+"""been""","Castlegar, British Columbia, Canada",acgardiner
+"""been""","Campbell River, British Columbia, Canada",acgardiner
+"""been""","Burnaby, British Columbia, Canada",acgardiner
+"""been""","Savannah, GA, USA",acgardiner
+"""been""","Baltimore, MD, USA",acgardiner
+"""been""","Neuchatel, Switzerland",acgardiner
+"""been""","Albuquerque, NM, USA",acgardiner
+"""been""","Lucerne, Switzerland",acgardiner
+"""been""","Lake City, MN, USA",acgardiner
+"""been""","Ocho Rios, Jamaica",acgardiner
+"""been""","Montego Bay, Jamaica",acgardiner
+"""been""","Lisbon, Portugal",acgardiner
+"""been""","Bowen Island, British Columbia, Canada",acgardiner
+"""been""","Beaufort, SC, USA",acgardiner
+"""been""","Kayenta, AZ, USA",acgardiner
+"""been""","Bowmanville, Ontario, Canada",acgardiner
+"""been""","Sainte Anne des Monts, Quebec, Canada",acgardiner
+"""been""","Nashville, TN, USA",acgardiner
+"""been""","Juneau, AK, USA",acgardiner
+"""been""","Aurora, Ontario, Canada",acgardiner
+"""been""","Fanny Bay, British Columbia, Canada",acgardiner
+"""been""","Palm Beach, FL, USA",acgardiner
+"""been""","Bloomfield, Ontario, Canada",acgardiner
+"""been""","Kandy, Sri Lanka",acgardiner
+"""been""","Minot, ND, USA",acgardiner
+"""been""","Jacksonville, FL, USA",acgardiner
+"""been""","Port Angeles, WA, USA",acgardiner
+"""been""","Salt Lake City, UT, USA",acgardiner
+"""been""","Peggy's Cove, Nova Scotia, Canada",acgardiner
+"""been""","Interlaken, Switzerland",acgardiner
+"""been""","San Juan, Puerto Rico",acgardiner
+"""been""","Coombs, British Columbia, Canada",acgardiner
+"""been""","Cotonou, Benin",acgardiner
+"""been""","Ajax, Ontario, Canada",acgardiner
+"""been""","Cochabamba, Bolivia",acgardiner
+"""been""","Port Hardy, British Columbia, Canada",acgardiner
+"""been""","Egmont, British Columbia, Canada",acgardiner
+"""been""","Arnprior, Ontario, Canada",acgardiner
+"""been""","Boulder, CO, USA",acgardiner
+"""been""","Twin Falls, ID, USA",acgardiner
+"""been""","Waskesiu Lake, Saskatchewan, Canada",acgardiner
+"""been""","Palm Coast, FL, USA",acgardiner
+"""been""","Santa Cruz, Bolivia",acgardiner
+"""been""","Scottsdale, AZ, USA",acgardiner
+"""been""","Sedona, AZ, USA",acgardiner
+"""been""","Madrid, Spain",acgardiner
+"""been""","Salem, OR, USA",acgardiner
+"""want""","Ho Chi Minh City, Vietnam",acgardiner
+"""been""","Monrovia, Liberia",acgardiner
+"""been""","Ladysmith, British Columbia, Canada",acgardiner
+"""been""","Cap-Chat, Quebec, Canada",acgardiner
+"""been""","Gravenhurst, Ontario, Canada",acgardiner
+"""been""","Gibraltar, Europe",acgardiner
+"""been""","Inverness, UK",acgardiner
+"""been""","Mont Tremblant, Quebec, Canada",acgardiner
+"""been""","Venice, Italy",acgardiner
+"""been""","Warwick, Australia",acgardiner
+"""been""","Matane, Quebec, Canada",acgardiner
+"""been""","Winnipeg, Manitoba, Canada",acgardiner
+"""been""","Reno, NV, USA",acgardiner
+"""been""","Red Wing, MN, USA",acgardiner
+"""been""","Moncton, New Brunswick, Canada",acgardiner
+"""been""","Chandler, Quebec, Canada",acgardiner
+"""been""","Yakima, WA, USA",acgardiner
+"""been""","Ainsworth Hot Springs, British Columbia, Canada",acgardiner
+"""been""","Paspebiac, Quebec, Canada",acgardiner
+"""been""","Anacortes, WA, USA",acgardiner
+"""been""","Myrtle Beach, SC, USA",acgardiner
+"""been""","Show Low, AZ, USA",acgardiner
+"""been""","Caplan, Quebec, Canada",acgardiner
+"""been""","Bamako, Mali",acgardiner
+"""been""","Rogue River, OR, USA",acgardiner
+"""been""","Tofino, British Columbia, Canada",acgardiner
+"""been""","Frederick, MD, USA",acgardiner
+"""been""","Vernon, British Columbia, Canada",acgardiner
+"""been""","Victoria, British Columbia, Canada",acgardiner
+"""been""","Whitefish, MT, USA",acgardiner
+"""been""","Vancouver Island, British Columbia, Canada",acgardiner
+"""been""","Detroit, MI, USA",acgardiner
+"""been""","Vancouver, British Columbia, Canada",acgardiner
+"""been""","White Rock, British Columbia, Canada",acgardiner
+"""been""","Halfmoon Bay, British Columbia, Canada",acgardiner
+"""been""","Whistler, British Columbia, Canada",acgardiner
+"""been""","Roseburg, OR, USA",acgardiner
+"""been""","Orlando, FL, USA",acgardiner
+"""been""","Silver Springs, FL, USA",acgardiner
+"""been""","Florence, SC, USA",acgardiner
+"""been""","Yreka, CA, USA",acgardiner
+"""been""","McCloud, CA, USA",acgardiner
+"""been""","Holbrook, AZ, USA",acgardiner
+"""been""","La Jolla, CA, USA",acgardiner
+"""been""","Grenada, CA, USA",acgardiner
+"""been""","Valencia, Spain",acgardiner
+"""been""","Norwalk, CT, USA",acgardiner
+"""been""","Newport Beach, CA, USA",acgardiner
+"""been""","Arlington, VA, USA",acgardiner
+"""been""","Edinburgh, UK",acgardiner
+"""been""","Abuja, Nigeria",acgardiner
+"""been""","Birmingham, UK",acgardiner
+"""been""","Annapolis, MD, USA",acgardiner
+"""been""","Kigali, Rwanda",acgardiner
+"""been""","Dartmouth, Nova Scotia, Canada",acgardiner
+"""been""","Halifax, Nova Scotia, Canada",acgardiner
+"""been""","Hakodate, Japan",acgardiner
+"""been""","St. Petersburg, FL, USA",acgardiner
+"""been""","Bonaventure, Quebec, Canada",acgardiner
+"""been""","St. Pete Beach, FL, USA",acgardiner
+"""been""","Algonquin Provincial Park, Ontario, Canada",acgardiner
+"""been""","Padua, Italy",acgardiner
+"""been""","Saint John, New Brunswick, Canada",acgardiner
+"""been""","Glasgow, UK",acgardiner
+"""been""","Sainte Agathe des Monts, Quebec, Canada",acgardiner
+"""been""","Leeds, UK",acgardiner
+"""been""","Newcastle, Ontario, Canada",acgardiner
+"""been""","St. John's, Newfoundland and Labrador, Canada",acgardiner
+"""been""","Meaford, Ontario, Canada",acgardiner
+"""been""","Minneapolis, MN, USA",acgardiner
+"""been""","Kansas City, MO, USA",acgardiner
+"""been""","Dunsmuir, CA, USA",acgardiner
+"""been""","Sarasota, FL, USA",acgardiner
+"""been""","Winston, OR, USA",acgardiner
+"""been""","Portland, OR, USA",acgardiner
+"""been""","Mont-Saint-Pierre, Quebec, Canada",acgardiner
+"""been""","West Palm Beach, FL, USA",acgardiner
+"""been""","Dakar, Senegal",acgardiner
+"""been""","Malibu, CA, USA",acgardiner
+"""been""","Como, Italy",acgardiner
+"""been""","Riviere du Loup, Quebec, Canada",acgardiner
+"""been""","Gananoque, Ontario, Canada",acgardiner
+"""been""","Perce, Quebec, Canada",acgardiner
+"""been""","Orillia, Ontario, Canada",acgardiner
+"""been""","Puerto Vallarta, Mexico",acgardiner
+"""been""","Baton Rouge, LA, USA",acgardiner
+"""been""","Sainte-Adele, Quebec, Canada",acgardiner
+"""been""","Calgary, Alberta, Canada",acgardiner
+"""been""","Lake Louise, Alberta, Canada",acgardiner
+"""been""","Banff, Alberta, Canada",acgardiner
+"""been""","Makati, Philippines",acgardiner
+"""been""","Edmonton, Alberta, Canada",acgardiner
+"""been""","Kuala Lumpur, Malaysia",acgardiner
+"""been""","Emporia, VA, USA",acgardiner
+"""been""","Manila, Philippines",acgardiner
+"""been""","Jasper, Alberta, Canada",acgardiner
+"""been""","New Delhi, India",acgardiner
+"""been""","Clearfield, PA, USA",acgardiner
+"""been""","Long Beach, CA, USA",acgardiner
+"""been""","Pendleton, OR, USA",acgardiner
+"""been""","Phoenix, AZ, USA",acgardiner
+"""been""","Phoenix, OR, USA",acgardiner
+"""been""","Cavendish, Prince Edward Island, Canada",acgardiner
+"""been""","Sooke, British Columbia, Canada",acgardiner
+"""been""","Rimouski, Quebec, Canada",acgardiner
+"""been""","Darjeeling, India",acgardiner
+"""been""","Kolkata (Calcutta), India",acgardiner
+"""been""","Bathurst, New Brunswick, Canada",acgardiner
+"""been""","Avalon, CA, USA",acgardiner
+"""been""","Mumbai, India",acgardiner
+"""been""","Qualicum Beach, British Columbia, Canada",acgardiner
+"""been""","Havana, Cuba",acgardiner
+"""been"",""want""","Las Vegas, NV, USA",acgardiner
+"""been""","Auckland, New Zealand",acgardiner
+"""been""","Acapulco, Mexico",acgardiner
+"""been""","Gladstone, Australia",acgardiner
+"""been""","Mackay, Australia",acgardiner
+"""been""","Aqaba, Jordan",acgardiner
+"""been""","Bradford, PA, USA",acgardiner
+"""been""","Oakland, OR, USA",acgardiner
+"""been""","Chicago, IL, USA",acgardiner
+"""been""","Kingaroy, Australia",acgardiner
+"""been""","Wellington, Ontario, Canada",acgardiner
+"""been""","Los Angeles, CA, USA",acgardiner
+"""been""","Waterford, Ireland",acgardiner
+"""been""","Milan, Italy",acgardiner
+"""been""","Bundaberg, Australia",acgardiner
+"""been""","Vaughan, Ontario, Canada",acgardiner
+"""been""","Milwaukee, WI, USA",acgardiner
+"""been""","Fort Langley, British Columbia, Canada",acgardiner
+"""been""","Alicante, Spain",acgardiner
+"""been""","Nanaimo, British Columbia, Canada",acgardiner
+"""been""","Cabo San Lucas, Mexico",acgardiner
+"""been""","Kelowna, British Columbia, Canada",acgardiner
+"""been""","Kamloops, British Columbia, Canada",acgardiner
+"""been""","Penticton, British Columbia, Canada",acgardiner
+"""been""","San Jose del Cabo, Mexico",acgardiner
+"""been""","New Westminster, British Columbia, Canada",acgardiner
+"""been""","Blue Mountains, Ontario, Canada",acgardiner
+"""been""","Willemstad, Curacao",acgardiner
+"""been""","Ingham, Australia",acgardiner
+"""been""","Hornbrook, CA, USA",acgardiner
+"""been""","Pittsburgh, PA, USA",acgardiner
+"""been"",""want""","Dublin, Ireland",acgardiner
+"""been""","Trois-Pistoles, Quebec, Canada",acgardiner
+"""been""","Genoa, Italy",acgardiner
+"""been""","Taipei, Taiwan",acgardiner
+"""been""","Surrey, British Columbia, Canada",acgardiner
+"""been""","Bangkok, Thailand",acgardiner
+"""been""","Chiang Mai, Thailand",acgardiner
+"""been""","St. George's, Grenada",acgardiner
+"""been""","Pattaya, Thailand",acgardiner
+"""been""","Winona, MN, USA",acgardiner
+"""want""","Moscow, Russia",acgardiner
+"""been""","Nelson, New Zealand",acgardiner
+"""been""","Chemainus, British Columbia, Canada",acgardiner
+"""been""","Duncan, British Columbia, Canada",acgardiner
+"""been""","Sacramento, CA, USA",acgardiner
+"""been""","Izmir, Turkey",acgardiner
+"""been""","Fort Worth, TX, USA",acgardiner
+"""been""","Cardwell, Australia",acgardiner

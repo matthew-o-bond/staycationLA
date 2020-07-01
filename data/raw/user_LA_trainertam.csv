@@ -1,0 +1,340 @@
+tag,place,user
+"""been""","Carlsbad, CA, USA",trainertam
+"""been""","Saint Paul, MN, USA",trainertam
+"""been""","New Smyrna Beach, FL, USA",trainertam
+"""been""","Carmel, CA, USA",trainertam
+"""been""","Fort Myers Beach, FL, USA",trainertam
+"""been""","Kissimmee, FL, USA",trainertam
+"""been""","San Jose, CA, USA",trainertam
+"""been""","Fort Myers, FL, USA",trainertam
+"""been""","Anchorage, AK, USA",trainertam
+"""been""","Little Rock, AR, USA",trainertam
+"""been""","Wisconsin Dells, WI, USA",trainertam
+"""been""","New York City, NY, USA",trainertam
+"""want""","Puerto Penasco, Mexico",trainertam
+"""been""","Omaha, NE, USA",trainertam
+"""been""","Ventura, CA, USA",trainertam
+"""been""","Charlottesville, VA, USA",trainertam
+"""been""","El Paso, TX, USA",trainertam
+"""been""","Palm Desert, CA, USA",trainertam
+"""been"",""want""","Palm Springs, CA, USA",trainertam
+"""been""","Palo Alto, CA, USA",trainertam
+"""been""","Cape May, NJ, USA",trainertam
+"""been""","Cape Town Central, South Africa",trainertam
+"""been""","Grand Canyon National Park, AZ, USA",trainertam
+"""been""","Williamsburg, VA, USA",trainertam
+"""been""","Key West, FL, USA",trainertam
+"""been""","Pacific Grove, CA, USA",trainertam
+"""been""","Naples, FL, USA",trainertam
+"""been""","Long Island City, NY, USA",trainertam
+"""been""","Fort Lauderdale, FL, USA",trainertam
+"""been""","Branson, MO, USA",trainertam
+"""been""","Milwaukee, WI, USA",trainertam
+"""been""","Cambridge, MA, USA",trainertam
+"""been""","Gainesville, FL, USA",trainertam
+"""been""","Richmond, VA, USA",trainertam
+"""been""","Durango, CO, USA",trainertam
+"""been""","Berkeley, CA, USA",trainertam
+"""been""","Atlanta, GA, USA",trainertam
+"""been""","Rochester, NY, USA",trainertam
+"""been""","Portsmouth, NH, USA",trainertam
+"""been""","Helsinki, Finland",trainertam
+"""been""","Monterey, CA, USA",trainertam
+"""been""","Pasadena, CA, USA",trainertam
+"""been""","Dallas, TX, USA",trainertam
+"""been""","Houston, TX, USA",trainertam
+"""been""","Augusta, GA, USA",trainertam
+"""been""","Ocean City, NJ, USA",trainertam
+"""been""","Denver, CO, USA",trainertam
+"""been""","Fort Walton Beach, FL, USA",trainertam
+"""been""","Venice, Italy",trainertam
+"""been""","San Luis Obispo, CA, USA",trainertam
+"""been""","St. Augustine, FL, USA",trainertam
+"""been""","Punta Cana, Dominican Republic",trainertam
+"""been""","South Lake Tahoe, CA, USA",trainertam
+"""been""","Cape Coral, FL, USA",trainertam
+"""been""","Cape Canaveral, FL, USA",trainertam
+"""been""","Beverly Hills, CA, USA",trainertam
+"""been""","Wichita, KS, USA",trainertam
+"""been"",""fave""","Playa del Carmen, Mexico",trainertam
+"""been""","Honolulu, HI, USA",trainertam
+"""been""","Santa Barbara, CA, USA",trainertam
+"""been""","Temecula, CA, USA",trainertam
+"""been""","Ocala, FL, USA",trainertam
+"""been""","St. Thomas, U.S. Virgin Islands",trainertam
+"""been""","New Orleans, LA, USA",trainertam
+"""been""","Memphis, TN, USA",trainertam
+"""been""","Asheville, NC, USA",trainertam
+"""been""","Boston, MA, USA",trainertam
+"""been""","Morro Bay, CA, USA",trainertam
+"""been""","Glasgow, UK",trainertam
+"""been""","Rapid City, SD, USA",trainertam
+"""been""","Cancun, Mexico",trainertam
+"""been""","Maui, HI, USA",trainertam
+"""been""","Chichen Itza, Mexico",trainertam
+"""been""","Cozumel, Mexico",trainertam
+"""been""","Pittsburgh, PA, USA",trainertam
+"""been""","Manchester, UK",trainertam
+"""been""","San Simeon, CA, USA",trainertam
+"""been""","Mackinaw City, MI, USA",trainertam
+"""been""","Lauderdale-By-The-Sea, FL, USA",trainertam
+"""been""","Santa Monica, CA, USA",trainertam
+"""been""","Clearwater, FL, USA",trainertam
+"""been""","Jesolo, Italy",trainertam
+"""been""","San Diego, CA, USA",trainertam
+"""been""","Kailua-Kona, HI, USA",trainertam
+"""been""","Cincinnati, OH, USA",trainertam
+"""been""","Cocoa Beach, FL, USA",trainertam
+"""been""","Santa Rosa, CA, USA",trainertam
+"""been""","Toronto, Ontario, Canada",trainertam
+"""been""","Lahaina, HI, USA",trainertam
+"""been""","Irving, TX, USA",trainertam
+"""been""","Seattle, WA, USA",trainertam
+"""been""","Yellowstone National Park, WY, USA",trainertam
+"""been""","Sacramento, CA, USA",trainertam
+"""been""","Birmingham, UK",trainertam
+"""been""","St. George, UT, USA",trainertam
+"""been""","Edinburgh, UK",trainertam
+"""been""","Hampton, NH, USA",trainertam
+"""been""","Santa Cruz, CA, USA",trainertam
+"""been""","Huntington Beach, CA, USA",trainertam
+"""been""","Fort Worth, TX, USA",trainertam
+"""been""","Mystic, CT, USA",trainertam
+"""been""","Cody, WY, USA",trainertam
+"""been""","Hershey, PA, USA",trainertam
+"""been"",""fave""","Las Vegas, NV, USA",trainertam
+"""been""","Puerto Vallarta, Mexico",trainertam
+"""been""","Wildwood, NJ, USA",trainertam
+"""been""","Laughlin, NV, USA",trainertam
+"""been""","Alexandria, VA, USA",trainertam
+"""been""","Long Beach, CA, USA",trainertam
+"""been""","Saratoga Springs, NY, USA",trainertam
+"""been""","Vero Beach, FL, USA",trainertam
+"""been""","Gulf Shores, AL, USA",trainertam
+"""been""","Saint Louis, MO, USA",trainertam
+"""been""","Phoenix, AZ, USA",trainertam
+"""been""","South Bend, IN, USA",trainertam
+"""been""","New Haven, CT, USA",trainertam
+"""been""","Heidelberg, Germany",trainertam
+"""been""","Napa, CA, USA",trainertam
+"""been""","Inglewood, CA, USA",trainertam
+"""been""","Baton Rouge, LA, USA",trainertam
+"""been""","Newport Beach, CA, USA",trainertam
+"""been""","Tustin, CA, USA",trainertam
+"""been""","West Yellowstone, MT, USA",trainertam
+"""been""","Portland, ME, USA",trainertam
+"""been""","Henderson, NV, USA",trainertam
+"""been""","Chicago, IL, USA",trainertam
+"""been""","Taos, NM, USA",trainertam
+"""been""","Irvine, CA, USA",trainertam
+"""been""","Louisville, KY, USA",trainertam
+"""been""","Pismo Beach, CA, USA",trainertam
+"""been""","Annapolis, MD, USA",trainertam
+"""been""","Los Angeles, CA, USA",trainertam
+"""been""","Fresno, CA, USA",trainertam
+"""been""","Galveston, TX, USA",trainertam
+"""been""","Daytona Beach, FL, USA",trainertam
+"""been""","Kansas City, MO, USA",trainertam
+"""been""","Minneapolis, MN, USA",trainertam
+"""been""","Biloxi, MS, USA",trainertam
+"""been""","Holmes Beach, FL, USA",trainertam
+"""been""","Hollywood, FL, USA",trainertam
+"""been""","Eureka Springs, AR, USA",trainertam
+"""been"",""fave""","Amsterdam, The Netherlands",trainertam
+"""been""","Norfolk, VA, USA",trainertam
+"""been""","Bronx, NY, USA",trainertam
+"""been""","Dayton, OH, USA",trainertam
+"""been""","St. Pete Beach, FL, USA",trainertam
+"""been""","Wilmington, NC, USA",trainertam
+"""been""","Eugene, OR, USA",trainertam
+"""been""","St. Petersburg, FL, USA",trainertam
+"""been""","Arlington, VA, USA",trainertam
+"""been""","Reno, NV, USA",trainertam
+"""been""","Washington DC, DC, USA",trainertam
+"""been""","Aspen, CO, USA",trainertam
+"""been""","Davenport, FL, USA",trainertam
+"""been""","Garden Grove, CA, USA",trainertam
+"""been""","Izmir, Turkey",trainertam
+"""been""","Southampton, UK",trainertam
+"""been""","Boise, ID, USA",trainertam
+"""been""","Mammoth Lakes, CA, USA",trainertam
+"""been""","Chatham, MA, USA",trainertam
+"""been""","Philadelphia, PA, USA",trainertam
+"""been""","Scottsdale, AZ, USA",trainertam
+"""been""","Gettysburg, PA, USA",trainertam
+"""been""","Roanoke, VA, USA",trainertam
+"""been""","Sarasota, FL, USA",trainertam
+"""been""","Birmingham, AL, USA",trainertam
+"""been""","Portland, OR, USA",trainertam
+"""been""","Fargo, ND, USA",trainertam
+"""been""","Dublin, Ireland",trainertam
+"""been""","West Palm Beach, FL, USA",trainertam
+"""been""","Malibu, CA, USA",trainertam
+"""been""","Indianapolis, IN, USA",trainertam
+"""been""","Detroit, MI, USA",trainertam
+"""been""","Grand Rapids, MI, USA",trainertam
+"""been""","Mobile, AL, USA",trainertam
+"""been""","Macon, GA, USA",trainertam
+"""been""","Salt Lake City, UT, USA",trainertam
+"""been""","Corpus Christi, TX, USA",trainertam
+"""been""","Green Bay, WI, USA",trainertam
+"""been""","Jacksonville, FL, USA",trainertam
+"""been""","Myrtle Beach, SC, USA",trainertam
+"""been""","Lancaster, PA, USA",trainertam
+"""been""","Sedona, AZ, USA",trainertam
+"""been""","Brighton, UK",trainertam
+"""been""","Marina del Rey, CA, USA",trainertam
+"""been""","Big Sur, CA, USA",trainertam
+"""been""","Bend, OR, USA",trainertam
+"""been""","Steamboat Springs, CO, USA",trainertam
+"""been""","Allentown, PA, USA",trainertam
+"""been""","Jackson, WY, USA",trainertam
+"""been""","Boca Raton, FL, USA",trainertam
+"""been""","Virginia Beach, VA, USA",trainertam
+"""been""","Bangor, ME, USA",trainertam
+"""been""","Savannah, GA, USA",trainertam
+"""been""","Baltimore, MD, USA",trainertam
+"""been""","Albuquerque, NM, USA",trainertam
+"""been""","Newport, OR, USA",trainertam
+"""been""","Charleston, WV, USA",trainertam
+"""been""","Billings, MT, USA",trainertam
+"""been""","Hildesheim, Germany",trainertam
+"""been""","Fort Collins, CO, USA",trainertam
+"""been""","Erie, PA, USA",trainertam
+"""been""","La Jolla, CA, USA",trainertam
+"""been""","Winston Salem, NC, USA",trainertam
+"""been""","Montgomery, AL, USA",trainertam
+"""been""","Siesta Key, FL, USA",trainertam
+"""been""","Orlando, FL, USA",trainertam
+"""been""","Tijuana, Mexico",trainertam
+"""been""","Durban, South Africa",trainertam
+"""been""","Bradenton Beach, FL, USA",trainertam
+"""been""","Hilo, HI, USA",trainertam
+"""been""","Juneau, AK, USA",trainertam
+"""been""","Palm Beach, FL, USA",trainertam
+"""been""","Bath, UK",trainertam
+"""been""","Ensenada, Mexico",trainertam
+"""been""","Park City, UT, USA",trainertam
+"""been""","Gulfport, MS, USA",trainertam
+"""been""","Hyannis, MA, USA",trainertam
+"""been""","Nashville, TN, USA",trainertam
+"""been""","Greenville, SC, USA",trainertam
+"""been""","Lake Placid, NY, USA",trainertam
+"""been""","Amarillo, TX, USA",trainertam
+"""been""","Vail, CO, USA",trainertam
+"""been""","Laguna Beach, CA, USA",trainertam
+"""been""","Half Moon Bay, CA, USA",trainertam
+"""been""","Niagara Falls, NY, USA",trainertam
+"""been""","St. John's, Antigua and Barbuda",trainertam
+"""been""","Athens, Greece",trainertam
+"""been""","Pretoria, South Africa",trainertam
+"""been""","Grand Junction, CO, USA",trainertam
+"""been""","Ocean City, MD, USA",trainertam
+"""been""","North Myrtle Beach, SC, USA",trainertam
+"""been""","Arlington, TX, USA",trainertam
+"""been""","Ashland, OR, USA",trainertam
+"""been""","Raleigh, NC, USA",trainertam
+"""been""","Atlantic City, NJ, USA",trainertam
+"""been""","Lake George, NY, USA",trainertam
+"""been""","Oxford, UK",trainertam
+"""been""","Sioux Falls, SD, USA",trainertam
+"""been""","Boulder, CO, USA",trainertam
+"""been""","Breckenridge, CO, USA",trainertam
+"""been""","Cleveland, OH, USA",trainertam
+"""been""","Freeport, Bahamas",trainertam
+"""been""","Mesa, AZ, USA",trainertam
+"""been""","Coronado, CA, USA",trainertam
+"""been""","Pensacola, FL, USA",trainertam
+"""been""","Niagara Falls, Ontario, Canada",trainertam
+"""been""","Niagara-on-the-Lake, Ontario, Canada",trainertam
+"""been""","Ogunquit, ME, USA",trainertam
+"""been""","Old Orchard Beach, ME, USA",trainertam
+"""been""","Austin, TX, USA",trainertam
+"""been""","Gatlinburg, TN, USA",trainertam
+"""been""","Isle of Palms, SC, USA",trainertam
+"""been""","Luray, VA, USA",trainertam
+"""been""","Syracuse, NY, USA",trainertam
+"""been""","Moab, UT, USA",trainertam
+"""been""","Greensboro, NC, USA",trainertam
+"""been""","Spokane, WA, USA",trainertam
+"""been""","Huntsville, AL, USA",trainertam
+"""been""","Fayetteville, NC, USA",trainertam
+"""been""","Oklahoma City, OK, USA",trainertam
+"""been""","Selcuk, Turkey",trainertam
+"""been""","Panama City Beach, FL, USA",trainertam
+"""been""","Panama City, FL, USA",trainertam
+"""been""","Johannesburg, South Africa",trainertam
+"""been""","Duluth, MN, USA",trainertam
+"""been""","Flagstaff, AZ, USA",trainertam
+"""been""","Nassau, Bahamas",trainertam
+"""been""","Calistoga, CA, USA",trainertam
+"""been""","Mykonos Town, Greece",trainertam
+"""been""","Buffalo, NY, USA",trainertam
+"""been""","Newport, RI, USA",trainertam
+"""been""","Shreveport, LA, USA",trainertam
+"""been""","Lubbock, TX, USA",trainertam
+"""been""","York, UK",trainertam
+"""been""","Cambridge, UK",trainertam
+"""been""","Oceanside, CA, USA",trainertam
+"""been""","Stowe, VT, USA",trainertam
+"""been""","Carolina Beach, NC, USA",trainertam
+"""been""","Jersey City, NJ, USA",trainertam
+"""been""","Tallahassee, FL, USA",trainertam
+"""been""","Columbus, OH, USA",trainertam
+"""been""","Solvang, CA, USA",trainertam
+"""been""","Tulum, Mexico",trainertam
+"""been""","Anaheim, CA, USA",trainertam
+"""been""","Tampa, FL, USA",trainertam
+"""been""","Oakland, CA, USA",trainertam
+"""been"",""fave""","Miami Beach, FL, USA",trainertam
+"""been""","Sonoma, CA, USA",trainertam
+"""been""","Chattanooga, TN, USA",trainertam
+"""been""","Miami, FL, USA",trainertam
+"""been""","Pompano Beach, FL, USA",trainertam
+"""been""","Colorado Springs, CO, USA",trainertam
+"""been""","Lake Geneva, WI, USA",trainertam
+"""been""","Lexington, KY, USA",trainertam
+"""been""","Columbia, SC, USA",trainertam
+"""been""","Traverse City, MI, USA",trainertam
+"""been""","Providence, RI, USA",trainertam
+"""been""","Pigeon Forge, TN, USA",trainertam
+"""been""","Albany, NY, USA",trainertam
+"""been""","London, UK",trainertam
+"""been""","Brooklyn, NY, USA",trainertam
+"""been""","Munich, Germany",trainertam
+"""been""","Port Aransas, TX, USA",trainertam
+"""been""","Bar Harbor, ME, USA",trainertam
+"""been""","Tacoma, WA, USA",trainertam
+"""been""","Port Elizabeth, South Africa",trainertam
+"""been""","Windermere, UK",trainertam
+"""been""","Cambria, CA, USA",trainertam
+"""been""","Blackpool, UK",trainertam
+"""been""","Rotterdam, The Netherlands",trainertam
+"""been""","Split, Croatia",trainertam
+"""been""","South San Francisco, CA, USA",trainertam
+"""been""","Coeur d'Alene, ID, USA",trainertam
+"""been""","Dubrovnik, Croatia",trainertam
+"""been""","San Juan, Puerto Rico",trainertam
+"""been""","Mendocino, CA, USA",trainertam
+"""been""","Des Moines, IA, USA",trainertam
+"""been""","West Hollywood, CA, USA",trainertam
+"""been""","Burlington, VT, USA",trainertam
+"""been""","Tucson, AZ, USA",trainertam
+"""been""","San Antonio, TX, USA",trainertam
+"""been""","Springfield, MO, USA",trainertam
+"""been""","Salem, MA, USA",trainertam
+"""been""","San Francisco, CA, USA",trainertam
+"""been""","Charleston, SC, USA",trainertam
+"""been""","Provincetown, MA, USA",trainertam
+"""been""","Ann Arbor, MI, USA",trainertam
+"""been""","Charlotte, NC, USA",trainertam
+"""been""","Santa Fe, NM, USA",trainertam
+"""been""","Tulsa, OK, USA",trainertam
+"""been""","Knoxville, TN, USA",trainertam
+"""been""","Las Cruces, NM, USA",trainertam
+"""been""","Harrisburg, PA, USA",trainertam
+"""been""","Hartford, CT, USA",trainertam
+"""been""","Newark, NJ, USA",trainertam
+"""been""","Dana Point, CA, USA",trainertam
+"""been""","Kansas City, KS, USA",trainertam
+"""been""","Nags Head, NC, USA",trainertam

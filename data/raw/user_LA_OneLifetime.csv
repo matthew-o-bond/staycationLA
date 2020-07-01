@@ -1,0 +1,481 @@
+tag,place,user
+"""been""","Kahuku, HI, USA",OneLifetime
+"""been""","Kahalu u, HI, USA",OneLifetime
+"""been""","Tahoe City, CA, USA",OneLifetime
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",OneLifetime
+"""been""","Kailua, HI, USA",OneLifetime
+"""been""","Berkeley, CA, USA",OneLifetime
+"""been""","Cathedral City, CA, USA",OneLifetime
+"""been""","San Mateo, CA, USA",OneLifetime
+"""been""","Tinley Park, IL, USA",OneLifetime
+"""been""","Pearl City, HI, USA",OneLifetime
+"""want""","Montreal, Quebec, Canada",OneLifetime
+"""been""","Roxas City, Philippines",OneLifetime
+"""been""","Kapolei, HI, USA",OneLifetime
+"""been""","Laie, HI, USA",OneLifetime
+"""been""","Atlanta, GA, USA",OneLifetime
+"""been""","Anilao, Philippines",OneLifetime
+"""want""","Budapest, Hungary",OneLifetime
+"""been"",""fave""","Palawan Island, Philippines",OneLifetime
+"""been"",""fave""","El Nido, Philippines",OneLifetime
+"""been"",""want"",""fave""","Puerto Princesa, Philippines",OneLifetime
+"""want""","Bohol Island, Philippines",OneLifetime
+"""been""","Subic, Philippines",OneLifetime
+"""want""","Nassau, Bahamas",OneLifetime
+"""want""","Tulum, Mexico",OneLifetime
+"""been""","Bellflower, CA, USA",OneLifetime
+"""been""","Zion National Park, UT, USA",OneLifetime
+"""want""","Port Barton, Philippines",OneLifetime
+"""been""","Denver, CO, USA",OneLifetime
+"""been""","San Luis Obispo, CA, USA",OneLifetime
+"""been""","Kissimmee, FL, USA",OneLifetime
+"""been""","Carmel, CA, USA",OneLifetime
+"""been""","San Juan Capistrano, CA, USA",OneLifetime
+"""been""","Beaumont, CA, USA",OneLifetime
+"""been""","Desert Hot Springs, CA, USA",OneLifetime
+"""been""","Boulder City, NV, USA",OneLifetime
+"""been""","Carlsbad, CA, USA",OneLifetime
+"""been""","New York City, NY, USA",OneLifetime
+"""been""","Pupukea, HI, USA",OneLifetime
+"""been""","Everett, WA, USA",OneLifetime
+"""been""","Carson, CA, USA",OneLifetime
+"""been""","Westminster, CA, USA",OneLifetime
+"""been""","Diamond Bar, CA, USA",OneLifetime
+"""been"",""want""","San Jose, CA, USA",OneLifetime
+"""been""","Ventura, CA, USA",OneLifetime
+"""been""","Haleiwa, HI, USA",OneLifetime
+"""been""","Ewa Beach, HI, USA",OneLifetime
+"""been""","Wisconsin Dells, WI, USA",OneLifetime
+"""been""","Stateline, NV, USA",OneLifetime
+"""been""","Cardiff-by-the-Sea, CA, USA",OneLifetime
+"""been""","Key West, FL, USA",OneLifetime
+"""been""","San Gabriel, CA, USA",OneLifetime
+"""want""","Cancun, Mexico",OneLifetime
+"""been""","Fort Lauderdale, FL, USA",OneLifetime
+"""been""","San Diego, CA, USA",OneLifetime
+"""been""","Twentynine Palms, CA, USA",OneLifetime
+"""want""","Toronto, Ontario, Canada",OneLifetime
+"""been""","Kahului, HI, USA",OneLifetime
+"""been""","Santa Ynez, CA, USA",OneLifetime
+"""been""","Kailua-Kona, HI, USA",OneLifetime
+"""been"",""fave""","Santa Monica, CA, USA",OneLifetime
+"""been""","Wrightwood, CA, USA",OneLifetime
+"""been""","Concepcion, Philippines",OneLifetime
+"""been""","Calamba, Philippines",OneLifetime
+"""been""","Paia, HI, USA",OneLifetime
+"""been"",""fave""","Seattle, WA, USA",OneLifetime
+"""been""","Kihei, HI, USA",OneLifetime
+"""want""","Skagway, AK, USA",OneLifetime
+"""been""","Lahaina, HI, USA",OneLifetime
+"""been""","Lingayen, Philippines",OneLifetime
+"""been""","Ocean City, NJ, USA",OneLifetime
+"""been""","Mariveles, Philippines",OneLifetime
+"""been""","Tigbauan, Philippines",OneLifetime
+"""been""","Santa Clarita, CA, USA",OneLifetime
+"""been""","Santa Cruz, CA, USA",OneLifetime
+"""been""","Haleakala National Park, HI, USA",OneLifetime
+"""been""","Santa Ana, CA, USA",OneLifetime
+"""been""","Temecula, CA, USA",OneLifetime
+"""been""","Big Bear City, CA, USA",OneLifetime
+"""been""","Santa Barbara, CA, USA",OneLifetime
+"""been"",""fave""","Honolulu, HI, USA",OneLifetime
+"""been""","Santa Clara, CA, USA",OneLifetime
+"""been""","Catalina Island, CA, USA",OneLifetime
+"""been""","Cerritos, CA, USA",OneLifetime
+"""been""","Beverly Hills, CA, USA",OneLifetime
+"""been"",""fave""","New Orleans, LA, USA",OneLifetime
+"""want""","Boston, MA, USA",OneLifetime
+"""been""","Batad, Philippines",OneLifetime
+"""been""","Long Branch, NJ, USA",OneLifetime
+"""want""","Pagudpud, Philippines",OneLifetime
+"""been""","Buenavista, Philippines",OneLifetime
+"""want""","Glacier Bay National Park and Preserve, AK, USA",OneLifetime
+"""been""","Haiku, HI, USA",OneLifetime
+"""been"",""fave""","Grand Canyon National Park, AZ, USA",OneLifetime
+"""been"",""want""","Jakarta, Indonesia",OneLifetime
+"""been""","Celebration, FL, USA",OneLifetime
+"""been""","San Simeon, CA, USA",OneLifetime
+"""been""","Visalia, CA, USA",OneLifetime
+"""been""","Covina, CA, USA",OneLifetime
+"""been""","Flagstaff, AZ, USA",OneLifetime
+"""been""","Calistoga, CA, USA",OneLifetime
+"""been""","Buffalo, NY, USA",OneLifetime
+"""been""","Lakewood, NJ, USA",OneLifetime
+"""been""","Newark, NJ, USA",OneLifetime
+"""been""","Oslo, Norway",OneLifetime
+"""been""","Barotac Nuevo, Philippines",OneLifetime
+"""been""","Sonoma, CA, USA",OneLifetime
+"""been""","Santa Barbara Island, CA, USA",OneLifetime
+"""been""","Miami, FL, USA",OneLifetime
+"""been""","Miami Beach, FL, USA",OneLifetime
+"""been""","Torre Del Greco, Italy",OneLifetime
+"""been""","Solvang, CA, USA",OneLifetime
+"""been""","Victorville, CA, USA",OneLifetime
+"""been""","Lido di Ostia, Italy",OneLifetime
+"""been""","Santa Cruz Island, CA, USA",OneLifetime
+"""been""","Anaheim, CA, USA",OneLifetime
+"""been""","Tampa, FL, USA",OneLifetime
+"""been""","Coronado, CA, USA",OneLifetime
+"""want""","Romblon Island, Philippines",OneLifetime
+"""been""","Hermosa Beach, CA, USA",OneLifetime
+"""been""","Vernon, CA, USA",OneLifetime
+"""been""","Austin, TX, USA",OneLifetime
+"""been""","Costa Mesa, CA, USA",OneLifetime
+"""been""","Houston, TX, USA",OneLifetime
+"""want""","Sitka, AK, USA",OneLifetime
+"""been""","Subic Bay Freeport Zone, Philippines",OneLifetime
+"""been""","Nueva Valencia, Philippines",OneLifetime
+"""been""","Olympia, Greece",OneLifetime
+"""been""","Saggart, Ireland",OneLifetime
+"""been""","Burlingame, CA, USA",OneLifetime
+"""want""","Dubrovnik, Croatia",OneLifetime
+"""been""","Burbank, CA, USA",OneLifetime
+"""been""","Corona, CA, USA",OneLifetime
+"""been""","Big Sur, CA, USA",OneLifetime
+"""been""","West Hollywood, CA, USA",OneLifetime
+"""been""","San Clemente, CA, USA",OneLifetime
+"""been""","Tucson, AZ, USA",OneLifetime
+"""been""","Key Colony Beach, FL, USA",OneLifetime
+"""been""","San Dimas, CA, USA",OneLifetime
+"""been""","West Covina, CA, USA",OneLifetime
+"""been""","San Antonio, TX, USA",OneLifetime
+"""been""","Clark Freeport Zone, Philippines",OneLifetime
+"""been"",""want""","San Francisco, CA, USA",OneLifetime
+"""been""","Ostia Antica, Italy",OneLifetime
+"""want""","Lisbon, Portugal",OneLifetime
+"""been""","Thousand Oaks, CA, USA",OneLifetime
+"""want""","Lucerne, Switzerland",OneLifetime
+"""been""","Bakersfield, CA, USA",OneLifetime
+"""been""","Dana Point, CA, USA",OneLifetime
+"""been""","San Bernardino, CA, USA",OneLifetime
+"""been""","Culver City, CA, USA",OneLifetime
+"""been""","Cypress, CA, USA",OneLifetime
+"""want""","Laoag, Philippines",OneLifetime
+"""been""","Camp Pendleton, CA, USA",OneLifetime
+"""been""","Kapalua, HI, USA",OneLifetime
+"""been""","Neptune, NJ, USA",OneLifetime
+"""want""","Geneva, Switzerland",OneLifetime
+"""been""","New Brunswick, NJ, USA",OneLifetime
+"""been""","Brooklyn, NY, USA",OneLifetime
+"""been""","Cambria, CA, USA",OneLifetime
+"""been"",""fave""","Boracay, Philippines",OneLifetime
+"""been"",""want""","Cebu Island, Philippines",OneLifetime
+"""been""","South Gate, CA, USA",OneLifetime
+"""want""","Singapore, Singapore",OneLifetime
+"""been""","Peachtree City, GA, USA",OneLifetime
+"""been""","Big Pine Key, FL, USA",OneLifetime
+"""been""","Salzburg, Austria",OneLifetime
+"""been""","Dresden, Germany",OneLifetime
+"""been""","Bratislava, Slovakia",OneLifetime
+"""been""","San Jose de Buenavista, Philippines",OneLifetime
+"""been""","Corfu, Greece",OneLifetime
+"""been""","Trecase, Italy",OneLifetime
+"""been""","Morong, Philippines",OneLifetime
+"""been""","Amsterdam, The Netherlands",OneLifetime
+"""been""","Mactan Island, Philippines",OneLifetime
+"""been"",""fave""","Paris, France",OneLifetime
+"""want""","Zurich, Switzerland",OneLifetime
+"""been""","Sant'Agnello, Italy",OneLifetime
+"""want""","Niagara Falls, NY, USA",OneLifetime
+"""been""","Janiuay, Philippines",OneLifetime
+"""been""","Atlantic City, NJ, USA",OneLifetime
+"""been""","Mestre, Italy",OneLifetime
+"""been"",""fave""","Sydney, Australia",OneLifetime
+"""been""","Pomona, CA, USA",OneLifetime
+"""been""","Cadiz, Philippines",OneLifetime
+"""been""","Vienna, Austria",OneLifetime
+"""been""","Pleasanton, CA, USA",OneLifetime
+"""been""","Pototan, Philippines",OneLifetime
+"""been""","Truckee, CA, USA",OneLifetime
+"""been""","Nuevo Vallarta, Mexico",OneLifetime
+"""want""","Nice, France",OneLifetime
+"""want""","Beijing, China",OneLifetime
+"""been""","Wailea, HI, USA",OneLifetime
+"""want""","Dubai, United Arab Emirates",OneLifetime
+"""been"",""want""","Hong Kong, China",OneLifetime
+"""been""","Channel Islands National Park, CA, USA",OneLifetime
+"""been""","Chindonan Island, Philippines",OneLifetime
+"""been""","Roxas, Philippines",OneLifetime
+"""been""","Batad, Philippines",OneLifetime
+"""been"",""fave""","Bryce Canyon National Park, UT, USA",OneLifetime
+"""been""","Carles, Philippines",OneLifetime
+"""been""","Seal Beach, CA, USA",OneLifetime
+"""been""","Kahala, HI, USA",OneLifetime
+"""been""","Torrance, CA, USA",OneLifetime
+"""been""","Sant'Agata sui Due Golfi, Italy",OneLifetime
+"""been""","Sunset Beach, HI, USA",OneLifetime
+"""been""","Sausalito, CA, USA",OneLifetime
+"""been""","Borrego Springs, CA, USA",OneLifetime
+"""been""","Little Torch Key, FL, USA",OneLifetime
+"""been""","Angeles City, Philippines",OneLifetime
+"""been"",""fave""","Tagaytay, Philippines",OneLifetime
+"""been""","Ajuy, Philippines",OneLifetime
+"""been""","Bath, UK",OneLifetime
+"""want""","Nairobi, Kenya",OneLifetime
+"""been""","Olongapo, Philippines",OneLifetime
+"""been""","Santee, CA, USA",OneLifetime
+"""been""","Piraeus, Greece",OneLifetime
+"""been""","Philadelphia, PA, USA",OneLifetime
+"""been""","Duck Key, FL, USA",OneLifetime
+"""been""","Mammoth Lakes, CA, USA",OneLifetime
+"""been""","Simi Valley, CA, USA",OneLifetime
+"""been""","Gettysburg, PA, USA",OneLifetime
+"""been""","Tsawwassen, British Columbia, Canada",OneLifetime
+"""been"",""fave""","Santorini, Greece",OneLifetime
+"""want""","Barcelona, Spain",OneLifetime
+"""want""","Cusco, Peru",OneLifetime
+"""been""","Mykonos, Greece",OneLifetime
+"""want""","Lima, Peru",OneLifetime
+"""been""","Waimanalo, HI, USA",OneLifetime
+"""been""","Waipahu, HI, USA",OneLifetime
+"""been"",""fave""","Coron, Philippines",OneLifetime
+"""been""","Fremantle, Australia",OneLifetime
+"""been""","Waialua, HI, USA",OneLifetime
+"""been""","Culion, Philippines",OneLifetime
+"""been"",""fave""","Washington DC, DC, USA",OneLifetime
+"""been""","Prague, Czech Republic",OneLifetime
+"""been""","Oak Lawn, IL, USA",OneLifetime
+"""been""","Death Valley Junction, CA, USA",OneLifetime
+"""been""","Ocean Beach, NY, USA",OneLifetime
+"""been""","Guam, Mariana Islands",OneLifetime
+"""want""","Patong, Thailand",OneLifetime
+"""been""","Copenhagen, Denmark",OneLifetime
+"""been""","Oak Forest, IL, USA",OneLifetime
+"""been""","Hawaii Kai, HI, USA",OneLifetime
+"""been""","Taguig City, Philippines",OneLifetime
+"""been""","Romainville, France",OneLifetime
+"""been""","Pasadena, CA, USA",OneLifetime
+"""been""","Monterey Park, CA, USA",OneLifetime
+"""been""","Williams, AZ, USA",OneLifetime
+"""been""",Disneyland Paris,OneLifetime
+"""want""","Stockholm, Sweden",OneLifetime
+"""been""","Monterey, CA, USA",OneLifetime
+"""been""","Tremezzina, Italy",OneLifetime
+"""been""","Vatican City, Vatican City",OneLifetime
+"""been""","Riverside, CA, USA",OneLifetime
+"""been"",""fave""","Rome, Italy",OneLifetime
+"""been""","Busuanga Island, Philippines",OneLifetime
+"""been""","Limay, Philippines",OneLifetime
+"""been""","Brian Head, UT, USA",OneLifetime
+"""been""","Montebello, CA, USA",OneLifetime
+"""been""","Caloocan, Philippines",OneLifetime
+"""been""","Palos Verdes Estates, CA, USA",OneLifetime
+"""been""","West Long Branch, NJ, USA",OneLifetime
+"""been""","Lancaster, CA, USA",OneLifetime
+"""been""","Pittsburgh, PA, USA",OneLifetime
+"""been""","Palmdale, CA, USA",OneLifetime
+"""been""","Naples, Italy",OneLifetime
+"""been""","Palm Springs, CA, USA",OneLifetime
+"""been""","Sorrento, Italy",OneLifetime
+"""been""","Mojave, CA, USA",OneLifetime
+"""been""","Lakeside, CA, USA",OneLifetime
+"""been""","Palm Desert, CA, USA",OneLifetime
+"""been"",""fave""","Capri, Italy",OneLifetime
+"""been""","Monrovia, CA, USA",OneLifetime
+"""been""","Pacific Grove, CA, USA",OneLifetime
+"""want""","Munich, Germany",OneLifetime
+"""been""","London, UK",OneLifetime
+"""been""","Modesto, CA, USA",OneLifetime
+"""been""","Pala, CA, USA",OneLifetime
+"""been""","Mission Viejo, CA, USA",OneLifetime
+"""want""","Melbourne, Australia",OneLifetime
+"""want""","Rio de Janeiro, Brazil",OneLifetime
+"""been"",""want"",""fave""","Perth, Australia",OneLifetime
+"""want""","Auckland Central, New Zealand",OneLifetime
+"""been""","Maasin, Philippines",OneLifetime
+"""been""","San Sebastiano al Vesuvio, Italy",OneLifetime
+"""been""","Idyllwild, CA, USA",OneLifetime
+"""been""","Pico Rivera, CA, USA",OneLifetime
+"""been""","Orion, Philippines",OneLifetime
+"""want""","Phnom Penh, Cambodia",OneLifetime
+"""been""","Sacramento, CA, USA",OneLifetime
+"""been""","Huntington Park, CA, USA",OneLifetime
+"""been""","Frankfurt, Germany",OneLifetime
+"""been""","Kalibo, Philippines",OneLifetime
+"""been""","Huntington Beach, CA, USA",OneLifetime
+"""been""","Paranaque, Philippines",OneLifetime
+"""been""","Marikina, Philippines",OneLifetime
+"""been""","Maui, HI, USA",OneLifetime
+"""been""","Las Pinas, Philippines",OneLifetime
+"""been""","Muntinlupa, Philippines",OneLifetime
+"""been""","Oahu, HI, USA",OneLifetime
+"""been""","Arcadia, CA, USA",OneLifetime
+"""want""","Seville, Spain",OneLifetime
+"""been""","Taal, Philippines",OneLifetime
+"""been""","Berlin, Germany",OneLifetime
+"""been""","Paso Robles, CA, USA",OneLifetime
+"""been"",""fave""","Pebble Beach, CA, USA",OneLifetime
+"""been""","Morro Bay, CA, USA",OneLifetime
+"""been""","Rosemead, CA, USA",OneLifetime
+"""been""","Long Island City, NY, USA",OneLifetime
+"""been""","Moreno Valley, CA, USA",OneLifetime
+"""been""","Windsor, UK",OneLifetime
+"""been""","Willendorf in der Wachau, Austria",OneLifetime
+"""been""","Roissy-en-France, France",OneLifetime
+"""been""","Oceanside, CA, USA",OneLifetime
+"""been"",""fave""","Venice, Italy",OneLifetime
+"""been""","Pilar, Philippines",OneLifetime
+"""been""","Ojai, CA, USA",OneLifetime
+"""been""","Oakville, CA, USA",OneLifetime
+"""want""","Madrid, Spain",OneLifetime
+"""been"",""want""","Oakland, CA, USA",OneLifetime
+"""been""","San Juan, Philippines",OneLifetime
+"""want""","Glasgow, UK",OneLifetime
+"""been""","Sangat Island, Philippines",OneLifetime
+"""want""","Romblon, Philippines",OneLifetime
+"""been""","Yosemite National Park, CA, USA",OneLifetime
+"""been""","Taytay, Philippines",OneLifetime
+"""been""","Oxnard, CA, USA",OneLifetime
+"""been"",""fave""","Florence, Italy",OneLifetime
+"""want""","Shanghai, China",OneLifetime
+"""been""","Redondo Beach, CA, USA",OneLifetime
+"""been""","Redlands, CA, USA",OneLifetime
+"""want""","Niagara Falls, Ontario, Canada",OneLifetime
+"""want""","Tokyo, Japan",OneLifetime
+"""been""","Piano di Sorrento, Italy",OneLifetime
+"""been""","Orange, CA, USA",OneLifetime
+"""been""","Bailly-Romainvilliers, France",OneLifetime
+"""want""","Istanbul, Turkey",OneLifetime
+"""been""","Rancho Palos Verdes, CA, USA",OneLifetime
+"""been""","Ontario, CA, USA",OneLifetime
+"""been""","Rancho Mirage, CA, USA",OneLifetime
+"""been""","La Mirada, CA, USA",OneLifetime
+"""want""","Acapulco, Mexico",OneLifetime
+"""been""","El Segundo, CA, USA",OneLifetime
+"""been""","La Puente, CA, USA",OneLifetime
+"""been""","La Palma, CA, USA",OneLifetime
+"""been""","Ocean City, MD, USA",OneLifetime
+"""been""","Point Pleasant Beach, NJ, USA",OneLifetime
+"""been""","Baltimore, MD, USA",OneLifetime
+"""been""","Tarlac, Philippines",OneLifetime
+"""been""","Danube-Auen National Park, Austria",OneLifetime
+"""been""","Davao City, Philippines",OneLifetime
+"""been""","City of Industry, CA, USA",OneLifetime
+"""been"",""fave""","Makati, Philippines",OneLifetime
+"""been""","La Habra, CA, USA",OneLifetime
+"""been""","Orlando, FL, USA",OneLifetime
+"""want""","Kuala Lumpur, Malaysia",OneLifetime
+"""been""","Manila, Philippines",OneLifetime
+"""been""","Pasay, Philippines",OneLifetime
+"""been""","Jordan, Philippines",OneLifetime
+"""been""","Como, Italy",OneLifetime
+"""been""","Balanga City, Philippines",OneLifetime
+"""been""","Mandaluyong, Philippines",OneLifetime
+"""been""","Yountville, CA, USA",OneLifetime
+"""been""","Quezon City, Philippines",OneLifetime
+"""been""","Pasig, Philippines",OneLifetime
+"""been""","Claremont, CA, USA",OneLifetime
+"""been""","La Jolla, CA, USA",OneLifetime
+"""been""","San Fernando, Philippines",OneLifetime
+"""been""","Tijuana, Mexico",OneLifetime
+"""been""","El Cajon, CA, USA",OneLifetime
+"""been""","Salt Lake City, UT, USA",OneLifetime
+"""been""","Trenton, NJ, USA",OneLifetime
+"""want""","Paoay, Philippines",OneLifetime
+"""been""","Ensenada, Mexico",OneLifetime
+"""been""","Batangas City, Philippines",OneLifetime
+"""been""","Cavite City, Philippines",OneLifetime
+"""want""","Aruba, Caribbean",OneLifetime
+"""been""","Marina del Rey, CA, USA",OneLifetime
+"""want""","Kyoto, Japan",OneLifetime
+"""been""","Chino Hills, CA, USA",OneLifetime
+"""been""","Chino, CA, USA",OneLifetime
+"""been""","Baguio, Philippines",OneLifetime
+"""want""","Osaka, Japan",OneLifetime
+"""been""","East Los Angeles, CA, USA",OneLifetime
+"""been""","Buena Park, CA, USA",OneLifetime
+"""been""","Buellton, CA, USA",OneLifetime
+"""been""","Compton, CA, USA",OneLifetime
+"""been""","Mykonos Town, Greece",OneLifetime
+"""been""","Milan, Italy",OneLifetime
+"""want""","Ketchikan, AK, USA",OneLifetime
+"""been""","Commerce, CA, USA",OneLifetime
+"""been""","Corfu Town, Greece",OneLifetime
+"""been""","Hawthorne, CA, USA",OneLifetime
+"""been""","Encinitas, CA, USA",OneLifetime
+"""been""","Sugarloaf Key, FL, USA",OneLifetime
+"""been""","Edinburgh, UK",OneLifetime
+"""been""","Escondido, CA, USA",OneLifetime
+"""been""","Laguna Woods, CA, USA",OneLifetime
+"""been""","Miagao, Philippines",OneLifetime
+"""been""","Laguna Niguel, CA, USA",OneLifetime
+"""been""","Lake Elsinore, CA, USA",OneLifetime
+"""want""","Juneau, AK, USA",OneLifetime
+"""been""","Lake Arrowhead, CA, USA",OneLifetime
+"""been""","Lake Havasu City, AZ, USA",OneLifetime
+"""been""","Barstow, CA, USA",OneLifetime
+"""been""","Laguna Beach, CA, USA",OneLifetime
+"""been""","El Toro, CA, USA",OneLifetime
+"""been""","Kingman, AZ, USA",OneLifetime
+"""want""","Kuta, Indonesia",OneLifetime
+"""been"",""fave""","Samal Island, Philippines",OneLifetime
+"""been""","Vancouver, British Columbia, Canada",OneLifetime
+"""want""","Chiang Mai, Thailand",OneLifetime
+"""want""","Bangkok, Thailand",OneLifetime
+"""been""","Annapolis, MD, USA",OneLifetime
+"""been""","Newport Beach, CA, USA",OneLifetime
+"""been"",""fave""","Victoria, British Columbia, Canada",OneLifetime
+"""been""","Oceanport, NJ, USA",OneLifetime
+"""been""","Mesquite, NV, USA",OneLifetime
+"""been""","Ferndale, MD, USA",OneLifetime
+"""been""","North Las Vegas, NV, USA",OneLifetime
+"""been"",""want""","Chicago, IL, USA",OneLifetime
+"""been""","Guimaras Island, Philippines",OneLifetime
+"""want""","Phuket, Thailand",OneLifetime
+"""been""","Pismo Beach, CA, USA",OneLifetime
+"""been""","Irvine, CA, USA",OneLifetime
+"""been""","Lacock, UK",OneLifetime
+"""been""","Cabatuan, Philippines",OneLifetime
+"""been""","Fresno, CA, USA",OneLifetime
+"""been""","Guimbal, Philippines",OneLifetime
+"""been""","Los Angeles, CA, USA",OneLifetime
+"""want""","Siem Reap, Cambodia",OneLifetime
+"""been"",""fave""","San Jose del Cabo, Mexico",OneLifetime
+"""been""","Cabo San Lucas, Mexico",OneLifetime
+"""been""","Balboa Island, CA, USA",OneLifetime
+"""been""","Azusa, CA, USA",OneLifetime
+"""been""","Dumangas, Philippines",OneLifetime
+"""been""","Long Beach, CA, USA",OneLifetime
+"""been""","Needles, CA, USA",OneLifetime
+"""want""","Oslob, Philippines",OneLifetime
+"""been""","Reno, NV, USA",OneLifetime
+"""been""","Primm, NV, USA",OneLifetime
+"""been""","Phoenix, AZ, USA",OneLifetime
+"""want""","Moscow, Russia",OneLifetime
+"""been"",""fave""","Napa, CA, USA",OneLifetime
+"""been""","Lompoc, CA, USA",OneLifetime
+"""been""","Indio, CA, USA",OneLifetime
+"""been""","Indian Wells, CA, USA",OneLifetime
+"""been""","Sedona, AZ, USA",OneLifetime
+"""been""","Orly, France",OneLifetime
+"""been""","Henderson, NV, USA",OneLifetime
+"""been""","South Lake Tahoe, CA, USA",OneLifetime
+"""been""","Jean, NV, USA",OneLifetime
+"""been""","Malibu, CA, USA",OneLifetime
+"""been""","Norwalk, CA, USA",OneLifetime
+"""been""","Dublin, Ireland",OneLifetime
+"""been""","Glendale, CA, USA",OneLifetime
+"""been""","West Palm Beach, FL, USA",OneLifetime
+"""been""","Manhattan Beach, CA, USA",OneLifetime
+"""been""","Galveston, TX, USA",OneLifetime
+"""been""","Puerto Vallarta, Mexico",OneLifetime
+"""been""","North Palm Springs, CA, USA",OneLifetime
+"""been""","Laughlin, NV, USA",OneLifetime
+"""been"",""want"",""fave""","Las Vegas, NV, USA",OneLifetime
+"""been""","Mazatlan, Mexico",OneLifetime
+"""been""","Downey, CA, USA",OneLifetime
+"""been""","Saint Louis, MO, USA",OneLifetime
+"""been""","San Miguel, Philippines",OneLifetime
+"""been""","Bay Saint Louis, MS, USA",OneLifetime
+"""been""","Joshua Tree, CA, USA",OneLifetime
+"""been""","Lapu Lapu, Philippines",OneLifetime
+"""been""","Gardena, CA, USA",OneLifetime
+"""been"",""want""","Cebu City, Philippines",OneLifetime
+"""been""","Arlington, VA, USA",OneLifetime
+"""been""","Negros Island, Philippines",OneLifetime
+"""been""","Garden Grove, CA, USA",OneLifetime
+"""been""","Lynwood, CA, USA",OneLifetime
+"""been""","Bacolod, Philippines",OneLifetime
+"""been""","Island of Capri, Italy",OneLifetime
+"""been""","Julian, CA, USA",OneLifetime
+"""been"",""want""","Iloilo City, Philippines",OneLifetime

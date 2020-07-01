@@ -1,0 +1,800 @@
+tag,place,user
+"""been""","Amistad National Recreational Area, TX, USA",Adventure_Debi
+"""been""","Hershey, PA, USA",Adventure_Debi
+"""been""","Taos, NM, USA",Adventure_Debi
+"""been""","Puerto Williams, Chile",Adventure_Debi
+"""been""","McMinnville, OR, USA",Adventure_Debi
+"""been""","Medford, OR, USA",Adventure_Debi
+"""been""","Avignon, France",Adventure_Debi
+"""been""","Santa Rosa, CA, USA",Adventure_Debi
+"""been""","Mazama, WA, USA",Adventure_Debi
+"""been""","Santa Ynez, CA, USA",Adventure_Debi
+"""been""","Bellingham, WA, USA",Adventure_Debi
+"""been""","Santa Maria, CA, USA",Adventure_Debi
+"""been""","Woodside, CA, USA",Adventure_Debi
+"""been""","Marysville, WA, USA",Adventure_Debi
+"""been""","Santa Monica, CA, USA",Adventure_Debi
+"""been""","Wrightwood, CA, USA",Adventure_Debi
+"""been""","Oxford, UK",Adventure_Debi
+"""been""","Madras, OR, USA",Adventure_Debi
+"""been""","Maple Valley, WA, USA",Adventure_Debi
+"""been""","Portland, ME, USA",Adventure_Debi
+"""been""","Bellevue, WA, USA",Adventure_Debi
+"""been""","Idaho Falls, ID, USA",Adventure_Debi
+"""been""","Scotts Valley, CA, USA",Adventure_Debi
+"""been""","Seaside, CA, USA",Adventure_Debi
+"""been""","Seal Beach, CA, USA",Adventure_Debi
+"""been""","Sausalito, CA, USA",Adventure_Debi
+"""been""","Monte-Carlo, Monaco",Adventure_Debi
+"""been""","Bainbridge Island, WA, USA",Adventure_Debi
+"""been""","Lincoln City, OR, USA",Adventure_Debi
+"""been""","Lakeside, OR, USA",Adventure_Debi
+"""been"",""fave""","San Simeon, CA, USA",Adventure_Debi
+"""been""","Nice, France",Adventure_Debi
+"""been""","Castroville, CA, USA",Adventure_Debi
+"""been""","Cayucos, CA, USA",Adventure_Debi
+"""been""","Port Alsworth, AK, USA",Adventure_Debi
+"""been""","San Mateo, CA, USA",Adventure_Debi
+"""been""","Williams, CA, USA",Adventure_Debi
+"""been""","La Grande, OR, USA",Adventure_Debi
+"""been""","Klamath Falls, OR, USA",Adventure_Debi
+"""been""","La Pine, OR, USA",Adventure_Debi
+"""been""","Lake Oswego, OR, USA",Adventure_Debi
+"""been""","Yering, Australia",Adventure_Debi
+"""been""","Branson, MO, USA",Adventure_Debi
+"""been""","Branson West, MO, USA",Adventure_Debi
+"""been""","McLaren Vale, Australia",Adventure_Debi
+"""been""","Santa Cruz, CA, USA",Adventure_Debi
+"""been""","Overland Park, KS, USA",Adventure_Debi
+"""been""","Santa Clara, CA, USA",Adventure_Debi
+"""been""","Bharatpur, India",Adventure_Debi
+"""been""","Long Beach, WA, USA",Adventure_Debi
+"""been""","Santa Barbara, CA, USA",Adventure_Debi
+"""been""","Leavenworth, WA, USA",Adventure_Debi
+"""been""","Bath, UK",Adventure_Debi
+"""been""","Henderson, NC, USA",Adventure_Debi
+"""been""","Anchorage, AK, USA",Adventure_Debi
+"""been""","Beaverton, OR, USA",Adventure_Debi
+"""been""","Billings, MT, USA",Adventure_Debi
+"""been""","Winston Salem, NC, USA",Adventure_Debi
+"""been""","Bend, OR, USA",Adventure_Debi
+"""been""","Nelson, New Zealand",Adventure_Debi
+"""been""","Barcelona, Spain",Adventure_Debi
+"""been""","Omaha, NE, USA",Adventure_Debi
+"""been""","Chehalis, WA, USA",Adventure_Debi
+"""been""","Chelan, WA, USA",Adventure_Debi
+"""been""","Kerikeri, New Zealand",Adventure_Debi
+"""been""","Centralia, WA, USA",Adventure_Debi
+"""been""","Wilmington, NC, USA",Adventure_Debi
+"""been""","North Bend, OR, USA",Adventure_Debi
+"""been""","Dexter, NM, USA",Adventure_Debi
+"""been""","Bandon, OR, USA",Adventure_Debi
+"""been""","Atlanta, GA, USA",Adventure_Debi
+"""been""","Stratford-upon-Avon, UK",Adventure_Debi
+"""been""","Newport, OR, USA",Adventure_Debi
+"""been""","Castle Rock, WA, USA",Adventure_Debi
+"""been""","Richmond, VA, USA",Adventure_Debi
+"""been""","Stone Mountain, GA, USA",Adventure_Debi
+"""been""","Deming, NM, USA",Adventure_Debi
+"""been""","Myrtle Point, OR, USA",Adventure_Debi
+"""been""","Osoyoos, British Columbia, Canada",Adventure_Debi
+"""been""","Oxford, NC, USA",Adventure_Debi
+"""been""","Milton Freewater, OR, USA",Adventure_Debi
+"""been""","Big Bear Lake, CA, USA",Adventure_Debi
+"""been""","Tamuning, Mariana Islands",Adventure_Debi
+"""been""","Dededo, Mariana Islands",Adventure_Debi
+"""been""","Washington DC, DC, USA",Adventure_Debi
+"""been""","Hagatna, Mariana Islands",Adventure_Debi
+"""been""","Amsterdam, The Netherlands",Adventure_Debi
+"""been""","Daytona Beach, FL, USA",Adventure_Debi
+"""been""","Cheyenne, WY, USA",Adventure_Debi
+"""been""","Syracuse, NY, USA",Adventure_Debi
+"""been""","Edinburgh, UK",Adventure_Debi
+"""been""","Spokane, WA, USA",Adventure_Debi
+"""been""","Fair Oaks, CA, USA",Adventure_Debi
+"""been""","Burbank, CA, USA",Adventure_Debi
+"""been""","Kodiak Island, AK, USA",Adventure_Debi
+"""been""","Spanaway, WA, USA",Adventure_Debi
+"""been""","Fairfield, CA, USA",Adventure_Debi
+"""been""","Pozzallo, Italy",Adventure_Debi
+"""been""","Ketchikan, AK, USA",Adventure_Debi
+"""been""","Asti, Italy",Adventure_Debi
+"""been""","Turin, Italy",Adventure_Debi
+"""been""","Eureka, CA, USA",Adventure_Debi
+"""been""","Buellton, CA, USA",Adventure_Debi
+"""been""","Picton, New Zealand",Adventure_Debi
+"""been""","Penticton, British Columbia, Canada",Adventure_Debi
+"""been""","Waikoloa, HI, USA",Adventure_Debi
+"""been""","Prince George, British Columbia, Canada",Adventure_Debi
+"""been""","Hagerman, ID, USA",Adventure_Debi
+"""been""","Pahoa, HI, USA",Adventure_Debi
+"""been""","Vancouver, British Columbia, Canada",Adventure_Debi
+"""been""","Gallipoli, Italy",Adventure_Debi
+"""been""","Milan, Italy",Adventure_Debi
+"""been""","New Delhi, India",Adventure_Debi
+"""been""","Jaipur, India",Adventure_Debi
+"""been""","Austin, TX, USA",Adventure_Debi
+"""been""","Kapaa, HI, USA",Adventure_Debi
+"""been""","Adelaide, Australia",Adventure_Debi
+"""been""","Victoria, British Columbia, Canada",Adventure_Debi
+"""been""","Ahwahnee, CA, USA",Adventure_Debi
+"""been""","Sequim, WA, USA",Adventure_Debi
+"""been""","Kingman, AZ, USA",Adventure_Debi
+"""been""","Iliamna, AK, USA",Adventure_Debi
+"""been""","Elk Grove, CA, USA",Adventure_Debi
+"""been""","Lihue, HI, USA",Adventure_Debi
+"""been""","Hope, AK, USA",Adventure_Debi
+"""been""","SeaTac, WA, USA",Adventure_Debi
+"""been""","Frisco, CO, USA",Adventure_Debi
+"""been""","Custer, SD, USA",Adventure_Debi
+"""been""","Amarillo, TX, USA",Adventure_Debi
+"""been""","Verona, Italy",Adventure_Debi
+"""been""","Venice, Italy",Adventure_Debi
+"""been""","Laguna Beach, CA, USA",Adventure_Debi
+"""been""","Kayenta, AZ, USA",Adventure_Debi
+"""been""","Vail, CO, USA",Adventure_Debi
+"""been""","New Orleans, LA, USA",Adventure_Debi
+"""been""","Brindisi, Italy",Adventure_Debi
+"""been""","Bari, Italy",Adventure_Debi
+"""been""","Jerome, AZ, USA",Adventure_Debi
+"""been""","Sydney, Australia",Adventure_Debi
+"""been""","Lanai City, HI, USA",Adventure_Debi
+"""been""","North Myrtle Beach, SC, USA",Adventure_Debi
+"""been""","Poipu, HI, USA",Adventure_Debi
+"""been""","Martinez, CA, USA",Adventure_Debi
+"""been""","Kings Canyon, Australia",Adventure_Debi
+"""been""","Alice Springs, Australia",Adventure_Debi
+"""been""","Yulara, Australia",Adventure_Debi
+"""been""","Cairns, Australia",Adventure_Debi
+"""been""","Kasilof, AK, USA",Adventure_Debi
+"""been""","Kenai, AK, USA",Adventure_Debi
+"""been""","Vacaville, CA, USA",Adventure_Debi
+"""been""","Twin Falls, ID, USA",Adventure_Debi
+"""been""","Lahaina, HI, USA",Adventure_Debi
+"""been""","Skagway, AK, USA",Adventure_Debi
+"""been""","Kihei, HI, USA",Adventure_Debi
+"""been""","Ukiah, CA, USA",Adventure_Debi
+"""been"",""fave""","Kailua-Kona, HI, USA",Adventure_Debi
+"""been""","Hana, HI, USA",Adventure_Debi
+"""been""","Lake Arrowhead, CA, USA",Adventure_Debi
+"""been""","Seward, AK, USA",Adventure_Debi
+"""been""","Juneau, AK, USA",Adventure_Debi
+"""been""","Glasgow, UK",Adventure_Debi
+"""been""","Laguna Niguel, CA, USA",Adventure_Debi
+"""been""","Seattle, WA, USA",Adventure_Debi
+"""been""","John Day, OR, USA",Adventure_Debi
+"""been""","Halifax, Nova Scotia, Canada",Adventure_Debi
+"""been""","Junction City, OR, USA",Adventure_Debi
+"""been""","Joseph, OR, USA",Adventure_Debi
+"""been""","Jacksonville, OR, USA",Adventure_Debi
+"""been""","San Gabriel, CA, USA",Adventure_Debi
+"""been""","North Pole, AK, USA",Adventure_Debi
+"""been""","Taormina, Italy",Adventure_Debi
+"""been""","Key West, FL, USA",Adventure_Debi
+"""been""","Florence, Italy",Adventure_Debi
+"""been""","Ninilchik, AK, USA",Adventure_Debi
+"""been""","West Hollywood, CA, USA",Adventure_Debi
+"""been""","Key Largo, FL, USA",Adventure_Debi
+"""been""","San Dimas, CA, USA",Adventure_Debi
+"""been""","Laredo, TX, USA",Adventure_Debi
+"""been""","Pisa, Italy",Adventure_Debi
+"""been""","Kanha National Park, India",Adventure_Debi
+"""been""","Langtry, TX, USA",Adventure_Debi
+"""been""","Williamsburg, VA, USA",Adventure_Debi
+"""been""","Lucca, Italy",Adventure_Debi
+"""been""","Beaver Creek, Yukon, Canada",Adventure_Debi
+"""been""","Tukwila, WA, USA",Adventure_Debi
+"""been""","West Covina, CA, USA",Adventure_Debi
+"""been""","Port Saint Lucie, FL, USA",Adventure_Debi
+"""been""","Syracuse, Italy",Adventure_Debi
+"""been""","Palermo, Italy",Adventure_Debi
+"""been""","Sainte Anne de Beaupre, Quebec, Canada",Adventure_Debi
+"""been""","La Conner, WA, USA",Adventure_Debi
+"""been""","San Luis Obispo, CA, USA",Adventure_Debi
+"""been""","Toutle, WA, USA",Adventure_Debi
+"""been""","Kirkland, WA, USA",Adventure_Debi
+"""been""","Palmer, AK, USA",Adventure_Debi
+"""been""","Paxson, AK, USA",Adventure_Debi
+"""been""","Kissimmee, FL, USA",Adventure_Debi
+"""been""","Catania, Italy",Adventure_Debi
+"""been""","Carpinteria, CA, USA",Adventure_Debi
+"""been""","Carlsbad, CA, USA",Adventure_Debi
+"""been""","San Jose, CA, USA",Adventure_Debi
+"""been""","Old Harbor, AK, USA",Adventure_Debi
+"""been""","Carmel, CA, USA",Adventure_Debi
+"""been"",""want"",""fave""","Niagara Falls, Ontario, Canada",Adventure_Debi
+"""been""","Cache Creek, British Columbia, Canada",Adventure_Debi
+"""been""","Burns Lake, British Columbia, Canada",Adventure_Debi
+"""been""","Hood River, OR, USA",Adventure_Debi
+"""been""","Coeur d'Alene, ID, USA",Adventure_Debi
+"""been""","Dawson Creek, British Columbia, Canada",Adventure_Debi
+"""been""","Cambria, CA, USA",Adventure_Debi
+"""been""","Oliver, British Columbia, Canada",Adventure_Debi
+"""been""","Kennewick, WA, USA",Adventure_Debi
+"""been""","Folsom, CA, USA",Adventure_Debi
+"""been""","York, UK",Adventure_Debi
+"""been""","Visalia, CA, USA",Adventure_Debi
+"""been""","Calistoga, CA, USA",Adventure_Debi
+"""been""","Tacoma, WA, USA",Adventure_Debi
+"""been""","Fish Camp, CA, USA",Adventure_Debi
+"""been""","Brooklyn, NY, USA",Adventure_Debi
+"""been""","Fairbanks, AK, USA",Adventure_Debi
+"""been""","Charleston, SC, USA",Adventure_Debi
+"""been""","London, UK",Adventure_Debi
+"""been""","San Bernardino, CA, USA",Adventure_Debi
+"""been""","Nenana, AK, USA",Adventure_Debi
+"""been""","Gustavus, AK, USA",Adventure_Debi
+"""been""","Weed, CA, USA",Adventure_Debi
+"""been""","Salton City, CA, USA",Adventure_Debi
+"""been""","St. Helena, CA, USA",Adventure_Debi
+"""been""","Watsonville, CA, USA",Adventure_Debi
+"""been""","Salinas, CA, USA",Adventure_Debi
+"""been""","Liverpool, UK",Adventure_Debi
+"""been""","Campbell, CA, USA",Adventure_Debi
+"""been""","Moose Pass, AK, USA",Adventure_Debi
+"""been""","Peggy's Cove, Nova Scotia, Canada",Adventure_Debi
+"""been""","Naknek, AK, USA",Adventure_Debi
+"""been""","Page, AZ, USA",Adventure_Debi
+"""been""","Carcross, Yukon, Canada",Adventure_Debi
+"""been""","Las Vegas, NV, USA",Adventure_Debi
+"""been""","Laughlin, NV, USA",Adventure_Debi
+"""been""","San Antonio de Areco, Argentina",Adventure_Debi
+"""been"",""fave""","Palm Cove, Australia",Adventure_Debi
+"""been""","San Juan, Puerto Rico",Adventure_Debi
+"""been""","Pendleton, OR, USA",Adventure_Debi
+"""been""","Long Beach, CA, USA",Adventure_Debi
+"""been""","Philomath, OR, USA",Adventure_Debi
+"""been""","Lompoc, CA, USA",Adventure_Debi
+"""been""","Lecce, Italy",Adventure_Debi
+"""been""","Lone Pine, CA, USA",Adventure_Debi
+"""been""","Lodi, CA, USA",Adventure_Debi
+"""been""","Phoenix, AZ, USA",Adventure_Debi
+"""been""","Loma Mar, CA, USA",Adventure_Debi
+"""been""","Fort Bragg, CA, USA",Adventure_Debi
+"""been""","Loma Linda, CA, USA",Adventure_Debi
+"""been""","Henderson, NV, USA",Adventure_Debi
+"""been""","Baton Rouge, LA, USA",Adventure_Debi
+"""been""","Ontario, OR, USA",Adventure_Debi
+"""been""","Garberville, CA, USA",Adventure_Debi
+"""been""","Placerville, CA, USA",Adventure_Debi
+"""been""","Fresno, CA, USA",Adventure_Debi
+"""been""","Los Angeles, CA, USA",Adventure_Debi
+"""been""","Brackettville, TX, USA",Adventure_Debi
+"""been""","Pismo Beach, CA, USA",Adventure_Debi
+"""been"",""fave""","Puerto Ayora, Ecuador",Adventure_Debi
+"""been""","Keystone, CO, USA",Adventure_Debi
+"""been""","Aguas Calientes, Peru",Adventure_Debi
+"""been""","Deadhorse, AK, USA",Adventure_Debi
+"""been"",""fave""","Santa Cruz, Ecuador",Adventure_Debi
+"""been""","Incline Village, NV, USA",Adventure_Debi
+"""been""","Fox, AK, USA",Adventure_Debi
+"""been"",""fave""","Kennicott, AK, USA",Adventure_Debi
+"""been""","McCarthy, AK, USA",Adventure_Debi
+"""been""","Fernley, NV, USA",Adventure_Debi
+"""been""","Garda, Italy",Adventure_Debi
+"""been""","Pebble Beach, CA, USA",Adventure_Debi
+"""been""","Paso Robles, CA, USA",Adventure_Debi
+"""been""","Island of Hawaii, HI, USA",Adventure_Debi
+"""been""","Barstow, CA, USA",Adventure_Debi
+"""been""","Keystone, SD, USA",Adventure_Debi
+"""been""","Destruction Bay, Yukon, Canada",Adventure_Debi
+"""been"",""fave""","Virgin Gorda, British Virgin Islands",Adventure_Debi
+"""been""","Wounded Knee, SD, USA",Adventure_Debi
+"""been""","Petaluma, CA, USA",Adventure_Debi
+"""been""","Pescadero, CA, USA",Adventure_Debi
+"""been""","Burwash Landing, Yukon, Canada",Adventure_Debi
+"""been""","Loreto, Mexico",Adventure_Debi
+"""been""","Rosarito, Mexico",Adventure_Debi
+"""been""","Seven Mile Beach, Cayman Islands",Adventure_Debi
+"""been""","Ensenada, Mexico",Adventure_Debi
+"""been""","Scottsburg, OR, USA",Adventure_Debi
+"""been""","Ballard, CA, USA",Adventure_Debi
+"""been""","Woodinville, WA, USA",Adventure_Debi
+"""been""","Seldovia, AK, USA",Adventure_Debi
+"""been""","Yakima, WA, USA",Adventure_Debi
+"""been""","Marina del Rey, CA, USA",Adventure_Debi
+"""been""","Anacortes, WA, USA",Adventure_Debi
+"""been""","Winthrop, WA, USA",Adventure_Debi
+"""been""","Salem, OR, USA",Adventure_Debi
+"""been""","Scottsdale, AZ, USA",Adventure_Debi
+"""been""","Sedona, AZ, USA",Adventure_Debi
+"""been""","Tijuana, Mexico",Adventure_Debi
+"""been"",""fave""","King Edward Point, South America",Adventure_Debi
+"""been""","Reno, NV, USA",Adventure_Debi
+"""been""","Ciudad Juarez, Mexico",Adventure_Debi
+"""been""","Bologna, Italy",Adventure_Debi
+"""been""","Whidbey Island, WA, USA",Adventure_Debi
+"""been""","Soldotna, AK, USA",Adventure_Debi
+"""been""","Yreka, CA, USA",Adventure_Debi
+"""been""","McCloud, CA, USA",Adventure_Debi
+"""been""","Roseburg, OR, USA",Adventure_Debi
+"""been""","Auburn, WA, USA",Adventure_Debi
+"""been""","Puerto Vallarta, Mexico",Adventure_Debi
+"""been""","Pahrump, NV, USA",Adventure_Debi
+"""been""","Nixon, NV, USA",Adventure_Debi
+"""been""","Minneapolis, MN, USA",Adventure_Debi
+"""been""","North Las Vegas, NV, USA",Adventure_Debi
+"""been""","Hong Kong, China",Adventure_Debi
+"""been""","Prineville, OR, USA",Adventure_Debi
+"""been""","San Juan Island, WA, USA",Adventure_Debi
+"""been""","Garden Grove, CA, USA",Adventure_Debi
+"""been""","Reedsport, OR, USA",Adventure_Debi
+"""been""","Redmond, OR, USA",Adventure_Debi
+"""been""","Los Osos, CA, USA",Adventure_Debi
+"""been""","Los Olivos, CA, USA",Adventure_Debi
+"""been""","Rimrock, AZ, USA",Adventure_Debi
+"""been""","Margarita Island, Venezuela",Adventure_Debi
+"""been""","Edmonton, Alberta, Canada",Adventure_Debi
+"""been""","Caracas, Venezuela",Adventure_Debi
+"""been""","Minden, NV, USA",Adventure_Debi
+"""been""","Saint Louis, MO, USA",Adventure_Debi
+"""been""","Powers, OR, USA",Adventure_Debi
+"""been""","Gonzales, CA, USA",Adventure_Debi
+"""been""","Goleta, CA, USA",Adventure_Debi
+"""been""","Glendale, CA, USA",Adventure_Debi
+"""been""","Anchor Point, AK, USA",Adventure_Debi
+"""been""","Malibu, CA, USA",Adventure_Debi
+"""been""","Prudhoe Bay, AK, USA",Adventure_Debi
+"""been""","Port Orford, OR, USA",Adventure_Debi
+"""been""","Monterosso al Mare, Italy",Adventure_Debi
+"""been""","Vernazza, Italy",Adventure_Debi
+"""been""","Portland, OR, USA",Adventure_Debi
+"""been""","Eagle Pass, TX, USA",Adventure_Debi
+"""been""","Riomaggiore, Italy",Adventure_Debi
+"""been""","Dawson City, Yukon, Canada",Adventure_Debi
+"""been""","Williams Lake, British Columbia, Canada",Adventure_Debi
+"""been""","Tunuyan, Argentina",Adventure_Debi
+"""been""","Oklahoma City, OK, USA",Adventure_Debi
+"""been""","Volterra, Italy",Adventure_Debi
+"""been""","Buenos Aires, Argentina",Adventure_Debi
+"""been""","Lourdes, France",Adventure_Debi
+"""been""","Cachi, Argentina",Adventure_Debi
+"""been""","Roanoke Island, NC, USA",Adventure_Debi
+"""been""","Oakland, CA, USA",Adventure_Debi
+"""been""","Cannon Beach, OR, USA",Adventure_Debi
+"""been""","Teslin, Yukon, Canada",Adventure_Debi
+"""been""","Park City, UT, USA",Adventure_Debi
+"""been""","West Kelowna, British Columbia, Canada",Adventure_Debi
+"""been""","Sturgis, SD, USA",Adventure_Debi
+"""been""","Meghauli, Nepal",Adventure_Debi
+"""been""","Burns, OR, USA",Adventure_Debi
+"""been""","Gallup, NM, USA",Adventure_Debi
+"""been""","Raleigh, NC, USA",Adventure_Debi
+"""been""","Brookings, OR, USA",Adventure_Debi
+"""been""","Dease Lake, British Columbia, Canada",Adventure_Debi
+"""been""","Kodiak National Wildlife Refuge, AK, USA",Adventure_Debi
+"""been""","Bozeman, MT, USA",Adventure_Debi
+"""been""","Bridal Veil, OR, USA",Adventure_Debi
+"""been""","Cleveland, OH, USA",Adventure_Debi
+"""been""","Viareggio, Italy",Adventure_Debi
+"""been""","Monument Valley, UT, USA",Adventure_Debi
+"""been""","Angier, NC, USA",Adventure_Debi
+"""been""","Palm Springs, CA, USA",Adventure_Debi
+"""been""","Palm Desert, CA, USA",Adventure_Debi
+"""been""","Palo Alto, CA, USA",Adventure_Debi
+"""been""","Pacific Grove, CA, USA",Adventure_Debi
+"""been""","Carson City, NV, USA",Adventure_Debi
+"""been""","Mendoza, Argentina",Adventure_Debi
+"""been""","Summerland, British Columbia, Canada",Adventure_Debi
+"""been""","Uvalde, TX, USA",Adventure_Debi
+"""been""","Dallas, TX, USA",Adventure_Debi
+"""been""","Lee Vining, CA, USA",Adventure_Debi
+"""been""","Pasadena, CA, USA",Adventure_Debi
+"""been""","Conway, AR, USA",Adventure_Debi
+"""been""","Palos Verdes Estates, CA, USA",Adventure_Debi
+"""been""","Jackson, WY, USA",Adventure_Debi
+"""been""","Kitty Hawk, NC, USA",Adventure_Debi
+"""been""","Jamaica, Caribbean",Adventure_Debi
+"""been""","Wiseman, AK, USA",Adventure_Debi
+"""been""","Atchison, KS, USA",Adventure_Debi
+"""been""","Chiusi, Italy",Adventure_Debi
+"""been""","Ranthambore National Park, India",Adventure_Debi
+"""been""","Ocho Rios, Jamaica",Adventure_Debi
+"""been""","Yarra Glen, Australia",Adventure_Debi
+"""been""","Oroville, CA, USA",Adventure_Debi
+"""been""","Lukla, Nepal",Adventure_Debi
+"""been""","Namche Bazaar, Nepal",Adventure_Debi
+"""been""","Oxnard, CA, USA",Adventure_Debi
+"""been""","Puerto San Carlos, Mexico",Adventure_Debi
+"""been""","Groom, TX, USA",Adventure_Debi
+"""been""","Bandhavgarh National Park, India",Adventure_Debi
+"""been""","Picayune, MS, USA",Adventure_Debi
+"""been""","Guayaquil, Ecuador",Adventure_Debi
+"""been""","Dundee, OR, USA",Adventure_Debi
+"""been""","Rotorua, New Zealand",Adventure_Debi
+"""been""","Uluru-Kata Tjuta National Park, Australia",Adventure_Debi
+"""been""","Wellington, New Zealand",Adventure_Debi
+"""been""","Diamond Lake, OR, USA",Adventure_Debi
+"""been""","Tauranga, New Zealand",Adventure_Debi
+"""been""","Virginia City, NV, USA",Adventure_Debi
+"""been""","Manhattan, KS, USA",Adventure_Debi
+"""been""","Drain, OR, USA",Adventure_Debi
+"""been""","Christchurch, New Zealand",Adventure_Debi
+"""been""","Dorena, OR, USA",Adventure_Debi
+"""been""","Blenheim, New Zealand",Adventure_Debi
+"""been""","Sandpoint, ID, USA",Adventure_Debi
+"""been""","Fort Lewis, WA, USA",Adventure_Debi
+"""been""","Frankfurt, Germany",Adventure_Debi
+"""been""","Bishop, CA, USA",Adventure_Debi
+"""been""","Tonopah, NV, USA",Adventure_Debi
+"""been""","Depoe Bay, OR, USA",Adventure_Debi
+"""been""","Queenstown, New Zealand",Adventure_Debi
+"""been""","Stateline, NV, USA",Adventure_Debi
+"""been""","Milford Sound, New Zealand",Adventure_Debi
+"""been""","West Yellowstone, MT, USA",Adventure_Debi
+"""been""","Wailea, HI, USA",Adventure_Debi
+"""been""","Memphis, TN, USA",Adventure_Debi
+"""been""","Everett, WA, USA",Adventure_Debi
+"""been""","Trinidad, CA, USA",Adventure_Debi
+"""been""","Bonny Doon, CA, USA",Adventure_Debi
+"""been""","Montalcino, Italy",Adventure_Debi
+"""been""","Hilo, HI, USA",Adventure_Debi
+"""been""","Eagle, CO, USA",Adventure_Debi
+"""been""","Waimea, HI, USA",Adventure_Debi
+"""been""","Snowbird, UT, USA",Adventure_Debi
+"""been""","Berkeley, CA, USA",Adventure_Debi
+"""been""","Tahoe City, CA, USA",Adventure_Debi
+"""been""","Susanville, CA, USA",Adventure_Debi
+"""been""","Edmonds, WA, USA",Adventure_Debi
+"""been""","Puyallup, WA, USA",Adventure_Debi
+"""been""","Ben Lomond, CA, USA",Adventure_Debi
+"""been""","Staunton, VA, USA",Adventure_Debi
+"""been""","Corvallis, OR, USA",Adventure_Debi
+"""been""","Cottage Grove, OR, USA",Adventure_Debi
+"""been""","Melbourne, Australia",Adventure_Debi
+"""been""","Napier, New Zealand",Adventure_Debi
+"""been""","Coos Bay, OR, USA",Adventure_Debi
+"""been""","Auckland Central, New Zealand",Adventure_Debi
+"""been""","Temecula, CA, USA",Adventure_Debi
+"""been""","Plymouth, UK",Adventure_Debi
+"""been""","Duvall, WA, USA",Adventure_Debi
+"""been""","Templeton, CA, USA",Adventure_Debi
+"""been""","Big Pine, CA, USA",Adventure_Debi
+"""been""","Port Townsend, WA, USA",Adventure_Debi
+"""been""","Tengboche, Nepal",Adventure_Debi
+"""been""","Beverly Hills, CA, USA",Adventure_Debi
+"""been""","Cantwell, AK, USA",Adventure_Debi
+"""been""","Big Lake, AK, USA",Adventure_Debi
+"""been""","Milsons Point, Australia",Adventure_Debi
+"""been""","Deception Island, Antarctica",Adventure_Debi
+"""been""","Gold Beach, OR, USA",Adventure_Debi
+"""been""","Kuranda, Australia",Adventure_Debi
+"""been""","Fox Glacier, New Zealand",Adventure_Debi
+"""been""","Little Rock, AR, USA",Adventure_Debi
+"""been""","New York City, NY, USA",Adventure_Debi
+"""been""","Buhl, ID, USA",Adventure_Debi
+"""been""","Carlsbad, NM, USA",Adventure_Debi
+"""been""","Boise, ID, USA",Adventure_Debi
+"""been""","Cologne, Germany",Adventure_Debi
+"""been""","El Paso, TX, USA",Adventure_Debi
+"""been""","Ventura, CA, USA",Adventure_Debi
+"""been""","Franz Josef, New Zealand",Adventure_Debi
+"""been""","Daintree, Australia",Adventure_Debi
+"""been""","Carmacks, Yukon, Canada",Adventure_Debi
+"""been""","Chickaloon, AK, USA",Adventure_Debi
+"""been""","Chicken, AK, USA",Adventure_Debi
+"""been""","Frenchglen, OR, USA",Adventure_Debi
+"""been""","Gardiner, OR, USA",Adventure_Debi
+"""been""","Fossil, OR, USA",Adventure_Debi
+"""been""","Fort Rock, OR, USA",Adventure_Debi
+"""been""","Stanford, CA, USA",Adventure_Debi
+"""been""","Rawlins, WY, USA",Adventure_Debi
+"""been""","Brighton, UK",Adventure_Debi
+"""been"",""fave""","Stromboli, Italy",Adventure_Debi
+"""been""","Eugene, OR, USA",Adventure_Debi
+"""been""","Arco, ID, USA",Adventure_Debi
+"""been""","Merriam, KS, USA",Adventure_Debi
+"""been""","Hatteras, NC, USA",Adventure_Debi
+"""been""","Florence, OR, USA",Adventure_Debi
+"""been""","Death Valley Junction, CA, USA",Adventure_Debi
+"""been""","Enterprise, OR, USA",Adventure_Debi
+"""been""","Truckee, CA, USA",Adventure_Debi
+"""been""","Mammoth Lakes, CA, USA",Adventure_Debi
+"""been""","Devils Tower, WY, USA",Adventure_Debi
+"""been""","Molinos, Argentina",Adventure_Debi
+"""been""","Paris, France",Adventure_Debi
+"""been""","Gettysburg, PA, USA",Adventure_Debi
+"""been""","Philadelphia, PA, USA",Adventure_Debi
+"""been""","Versailles, France",Adventure_Debi
+"""been""","Gig Harbor, WA, USA",Adventure_Debi
+"""been""","Hollywood, FL, USA",Adventure_Debi
+"""been""","Sant'Agnello, Italy",Adventure_Debi
+"""been""","Lima, Peru",Adventure_Debi
+"""been""","Cusco, Peru",Adventure_Debi
+"""been""","Altadena, CA, USA",Adventure_Debi
+"""been""","Ollantaytambo, Peru",Adventure_Debi
+"""been""","Machu Picchu, Peru",Adventure_Debi
+"""been""","Harpers Ferry, WV, USA",Adventure_Debi
+"""been""","Valdez, AK, USA",Adventure_Debi
+"""been""","Alhambra, CA, USA",Adventure_Debi
+"""been""","Corning, CA, USA",Adventure_Debi
+"""been""","Marco Island, FL, USA",Adventure_Debi
+"""been""","Two Rivers, AK, USA",Adventure_Debi
+"""been""","Healdsburg, CA, USA",Adventure_Debi
+"""been""","Sitka, AK, USA",Adventure_Debi
+"""been""","Moab, UT, USA",Adventure_Debi
+"""been""","The Dalles, OR, USA",Adventure_Debi
+"""been""","Mulege, Mexico",Adventure_Debi
+"""been""","Anaheim, CA, USA",Adventure_Debi
+"""been""","Sonoma, CA, USA",Adventure_Debi
+"""been""","Miami Beach, FL, USA",Adventure_Debi
+"""been""","Miami, FL, USA",Adventure_Debi
+"""been""","Mount Vernon, WA, USA",Adventure_Debi
+"""been""","Sunriver, OR, USA",Adventure_Debi
+"""been""","Solvang, CA, USA",Adventure_Debi
+"""been""","Castle Rock, CO, USA",Adventure_Debi
+"""been""","Big Bend National Park, TX, USA",Adventure_Debi
+"""been""","Tampa, FL, USA",Adventure_Debi
+"""been""","Nome, AK, USA",Adventure_Debi
+"""been""","Sutherlin, OR, USA",Adventure_Debi
+"""been""","Mukilteo, WA, USA",Adventure_Debi
+"""been""","Flagstaff, AZ, USA",Adventure_Debi
+"""been""","Whittier, AK, USA",Adventure_Debi
+"""been""","Willow, AK, USA",Adventure_Debi
+"""been""","Wrangell, AK, USA",Adventure_Debi
+"""been""","Costa Mesa, CA, USA",Adventure_Debi
+"""been""","Coronado, CA, USA",Adventure_Debi
+"""been""","Wasilla, AK, USA",Adventure_Debi
+"""been""","Newport, RI, USA",Adventure_Debi
+"""been""","Half Moon Bay, CA, USA",Adventure_Debi
+"""been""","Coachella, CA, USA",Adventure_Debi
+"""been""","Beaver Creek, CO, USA",Adventure_Debi
+"""been""","Boston, MA, USA",Adventure_Debi
+"""been""","Asheville, NC, USA",Adventure_Debi
+"""been""","Talkeetna, AK, USA",Adventure_Debi
+"""been""","Honolulu, HI, USA",Adventure_Debi
+"""been""","Madrid, Spain",Adventure_Debi
+"""been""","Yelapa, Mexico",Adventure_Debi
+"""been""","Sisters, OR, USA",Adventure_Debi
+"""been""","Ciudad Acuna, Mexico",Adventure_Debi
+"""been""","Bhaktapur, Nepal",Adventure_Debi
+"""been""","Piedras Negras, Mexico",Adventure_Debi
+"""been""","Kotzebue, AK, USA",Adventure_Debi
+"""been""","Copper Center, AK, USA",Adventure_Debi
+"""been""","Tok, AK, USA",Adventure_Debi
+"""been""","Acampo, CA, USA",Adventure_Debi
+"""been""","Chinle, AZ, USA",Adventure_Debi
+"""been""","Trapper Creek, AK, USA",Adventure_Debi
+"""been""","Harmony, CA, USA",Adventure_Debi
+"""been""","Salisbury, UK",Adventure_Debi
+"""been""","Walla Walla, WA, USA",Adventure_Debi
+"""been""","San Diego, CA, USA",Adventure_Debi
+"""been""","Yellowstone National Park, WY, USA",Adventure_Debi
+"""been""","Katni, India",Adventure_Debi
+"""been""","Coburg, OR, USA",Adventure_Debi
+"""been""","Suisun City, CA, USA",Adventure_Debi
+"""been""","Matera, Italy",Adventure_Debi
+"""been""","Port Angeles, WA, USA",Adventure_Debi
+"""been""","Fort Lauderdale, FL, USA",Adventure_Debi
+"""been""","Bharatpur, Nepal",Adventure_Debi
+"""been""","Naples, FL, USA",Adventure_Debi
+"""been""","Flamingo, FL, USA",Adventure_Debi
+"""been""","Stockton, CA, USA",Adventure_Debi
+"""been""","Salt Lake City, UT, USA",Adventure_Debi
+"""been""","Cave Junction, OR, USA",Adventure_Debi
+"""been""","Geneva, NY, USA",Adventure_Debi
+"""been"",""fave""","Sagarmatha National Park, Nepal",Adventure_Debi
+"""been""","Dillon, CO, USA",Adventure_Debi
+"""been""","Houston, TX, USA",Adventure_Debi
+"""been""","Sunnyvale, CA, USA",Adventure_Debi
+"""been""","Petrified Forest National Park, AZ, USA",Adventure_Debi
+"""been""","Denver, CO, USA",Adventure_Debi
+"""been""","Kathmandu, Nepal",Adventure_Debi
+"""been""","Okanagan Falls, British Columbia, Canada",Adventure_Debi
+"""been""","Fort Myers Beach, FL, USA",Adventure_Debi
+"""been""","Chitwan National Park, Nepal",Adventure_Debi
+"""been""","Fort Myers, FL, USA",Adventure_Debi
+"""been""","Oroville, WA, USA",Adventure_Debi
+"""been""","Paicines, CA, USA",Adventure_Debi
+"""been""","Albuquerque, NM, USA",Adventure_Debi
+"""been""","Greymouth, New Zealand",Adventure_Debi
+"""been""","Whangarei, New Zealand",Adventure_Debi
+"""been""","Moscow, ID, USA",Adventure_Debi
+"""been""","South San Francisco, CA, USA",Adventure_Debi
+"""been""","Antelope, CA, USA",Adventure_Debi
+"""been""","Olympia, WA, USA",Adventure_Debi
+"""been""","Crestline, CA, USA",Adventure_Debi
+"""been""","Omak, WA, USA",Adventure_Debi
+"""been""","Bar Harbor, ME, USA",Adventure_Debi
+"""been""","Covina, CA, USA",Adventure_Debi
+"""been""","Marfa, TX, USA",Adventure_Debi
+"""been""","Crescent City, CA, USA",Adventure_Debi
+"""been""","Estes Park, CO, USA",Adventure_Debi
+"""been""","Cardiff, UK",Adventure_Debi
+"""been""","Rome, Italy",Adventure_Debi
+"""been""","Munich, Germany",Adventure_Debi
+"""been""","Nampa, ID, USA",Adventure_Debi
+"""been""","Capri, Italy",Adventure_Debi
+"""been""","King Salmon, AK, USA",Adventure_Debi
+"""been""","Salem, MA, USA",Adventure_Debi
+"""been""","Sorrento, Italy",Adventure_Debi
+"""been""","Naples, Italy",Adventure_Debi
+"""been""","Bakersfield, CA, USA",Adventure_Debi
+"""been""","Dana Point, CA, USA",Adventure_Debi
+"""been""","Tucson, AZ, USA",Adventure_Debi
+"""been""","Pompeii, Italy",Adventure_Debi
+"""been""","Colorado Springs, CO, USA",Adventure_Debi
+"""been""","Everglades City, FL, USA",Adventure_Debi
+"""been""","Culver City, CA, USA",Adventure_Debi
+"""been""","Del Rio, TX, USA",Adventure_Debi
+"""been""","Friday Harbor, WA, USA",Adventure_Debi
+"""been""","Santa Fe, NM, USA",Adventure_Debi
+"""been""","San Francisco, CA, USA",Adventure_Debi
+"""been""","San Antonio, TX, USA",Adventure_Debi
+"""been"",""fave""","Amalfi, Italy",Adventure_Debi
+"""been""","100 Mile House, British Columbia, Canada",Adventure_Debi
+"""been""","Scenic, SD, USA",Adventure_Debi
+"""been""","Napa, CA, USA",Adventure_Debi
+"""been""","Indio, CA, USA",Adventure_Debi
+"""been""","Inglewood, CA, USA",Adventure_Debi
+"""been""","Mountain View, CA, USA",Adventure_Debi
+"""been""","Atascadero, CA, USA",Adventure_Debi
+"""been""","Coonabarabran, Australia",Adventure_Debi
+"""been""","Ozark, MO, USA",Adventure_Debi
+"""been""","Galveston, TX, USA",Adventure_Debi
+"""been""","Godoy Cruz, Argentina",Adventure_Debi
+"""been""","Chicago, IL, USA",Adventure_Debi
+"""been""","Welches, OR, USA",Adventure_Debi
+"""been""","Cottonwood, AZ, USA",Adventure_Debi
+"""been""","Avalon, CA, USA",Adventure_Debi
+"""been""","Nuku'alofa, Tonga",Adventure_Debi
+"""been""","Auburn, CA, USA",Adventure_Debi
+"""been""","Azusa, CA, USA",Adventure_Debi
+"""been""","Avila Beach, CA, USA",Adventure_Debi
+"""been""","Moss Landing, CA, USA",Adventure_Debi
+"""been""","Veneta, OR, USA",Adventure_Debi
+"""been""","Yuma, AZ, USA",Adventure_Debi
+"""been""","Roseville, CA, USA",Adventure_Debi
+"""been""","Morro Bay, CA, USA",Adventure_Debi
+"""been""","Rosemead, CA, USA",Adventure_Debi
+"""been""","Haines Junction, Yukon, Canada",Adventure_Debi
+"""been""","Rapid City, SD, USA",Adventure_Debi
+"""been""","Umpqua, OR, USA",Adventure_Debi
+"""been""","Watson Lake, Yukon, Canada",Adventure_Debi
+"""been""","Zion National Park, UT, USA",Adventure_Debi
+"""been""","Shenandoah National Park, VA, USA",Adventure_Debi
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",Adventure_Debi
+"""been""","Sidney, NE, USA",Adventure_Debi
+"""been""","Eagle Plains, Yukon, Canada",Adventure_Debi
+"""been""","San Gimignano, Italy",Adventure_Debi
+"""been""","Fort Worth, TX, USA",Adventure_Debi
+"""been""","Alba, Italy",Adventure_Debi
+"""been""","Bryce, UT, USA",Adventure_Debi
+"""been""","Siena, Italy",Adventure_Debi
+"""been""","Mount Shasta, CA, USA",Adventure_Debi
+"""been""","Huntington Beach, CA, USA",Adventure_Debi
+"""been""","Hume, CA, USA",Adventure_Debi
+"""been""","Sacramento, CA, USA",Adventure_Debi
+"""been""","Huntington Park, CA, USA",Adventure_Debi
+"""been""","Mount Baldy, CA, USA",Adventure_Debi
+"""been""","Scottsbluff, NE, USA",Adventure_Debi
+"""been""","Lassen Volcanic National Park, CA, USA",Adventure_Debi
+"""been""","Arcadia, CA, USA",Adventure_Debi
+"""been""","Arcata, CA, USA",Adventure_Debi
+"""been""","Point Lookout, MO, USA",Adventure_Debi
+"""been""","Rochester, MN, USA",Adventure_Debi
+"""been""","Dublin, Ireland",Adventure_Debi
+"""been""","Myrtle Beach, SC, USA",Adventure_Debi
+"""been""","Auckland, New Zealand",Adventure_Debi
+"""been""","East Los Angeles, CA, USA",Adventure_Debi
+"""been""","Okeechobee, FL, USA",Adventure_Debi
+"""been""","Kenai Fjords National Park, AK, USA",Adventure_Debi
+"""been""","Roche Harbor, WA, USA",Adventure_Debi
+"""been"",""fave""","Katmai National Park and Preserve, AK, USA",Adventure_Debi
+"""been""","Joshua Tree National Park, CA, USA",Adventure_Debi
+"""been""","Salta, Argentina",Adventure_Debi
+"""been""","Cork, Ireland",Adventure_Debi
+"""been""","Homer, AK, USA",Adventure_Debi
+"""been""","Richland, WA, USA",Adventure_Debi
+"""been""","Haines, AK, USA",Adventure_Debi
+"""been""","La Jolla, CA, USA",Adventure_Debi
+"""been""","Healy, AK, USA",Adventure_Debi
+"""been""","El Monte, CA, USA",Adventure_Debi
+"""been""","Orlando, FL, USA",Adventure_Debi
+"""been""","Glennallen, AK, USA",Adventure_Debi
+"""been""","Grand Teton National Park, WY, USA",Adventure_Debi
+"""been""","Holbrook, AZ, USA",Adventure_Debi
+"""been""","La Honda, CA, USA",Adventure_Debi
+"""been"",""fave""","Grand Canyon National Park, AZ, USA",Adventure_Debi
+"""been""","Glacier Bay National Park and Preserve, AK, USA",Adventure_Debi
+"""been""","Redmond, WA, USA",Adventure_Debi
+"""been""","Fort Collins, CO, USA",Adventure_Debi
+"""been""","La Canada Flintridge, CA, USA",Adventure_Debi
+"""been""","Everglades National Park, FL, USA",Adventure_Debi
+"""been""","Girdwood, AK, USA",Adventure_Debi
+"""been""","Denali National Park and Preserve, AK, USA",Adventure_Debi
+"""been""","Kenai Lake, AK, USA",Adventure_Debi
+"""been""","Death Valley National Park, CA, USA",Adventure_Debi
+"""been""","Crater Lake National Park, OR, USA",Adventure_Debi
+"""been""","Cafayate, Argentina",Adventure_Debi
+"""been""","Lujan de Cuyo, Argentina",Adventure_Debi
+"""been""","Carlsbad Caverns National Park, NM, USA",Adventure_Debi
+"""been""","Newport Beach, CA, USA",Adventure_Debi
+"""been""","Bryce Canyon National Park, UT, USA",Adventure_Debi
+"""been""","Nadi, Fiji",Adventure_Debi
+"""been""","Biscayne National Park, FL, USA",Adventure_Debi
+"""been""","Badlands National Park, SD, USA",Adventure_Debi
+"""been""","Kansas City, MO, USA",Adventure_Debi
+"""been""","Cowes, Australia",Adventure_Debi
+"""been""","Yachats, OR, USA",Adventure_Debi
+"""been""","Dunsmuir, CA, USA",Adventure_Debi
+"""been""","Kilkenny, Ireland",Adventure_Debi
+"""been""","Nagpur, India",Adventure_Debi
+"""been"",""fave""","Crazy Horse, SD, USA",Adventure_Debi
+"""been""","Silverthorne, CO, USA",Adventure_Debi
+"""been""","Pisac, Peru",Adventure_Debi
+"""been""","Aurora, CO, USA",Adventure_Debi
+"""been""","Aspen, CO, USA",Adventure_Debi
+"""been""","West Palm Beach, FL, USA",Adventure_Debi
+"""been""","Killarney, Ireland",Adventure_Debi
+"""been""","Winston, OR, USA",Adventure_Debi
+"""been""","Urubamba, Peru",Adventure_Debi
+"""been""","Tongatapu Island, Tonga",Adventure_Debi
+"""been"",""fave""","Neiafu, Tonga",Adventure_Debi
+"""been""","Angastaco, Argentina",Adventure_Debi
+"""been""","Denarau Island, Fiji",Adventure_Debi
+"""been""","Roswell, NM, USA",Adventure_Debi
+"""been""","Berchtesgaden, Germany",Adventure_Debi
+"""been""","Eagle, AK, USA",Adventure_Debi
+"""been""","Eagle River, AK, USA",Adventure_Debi
+"""been""","Applegate, OR, USA",Adventure_Debi
+"""been""","Montepulciano, Italy",Adventure_Debi
+"""been""","Ashland, OR, USA",Adventure_Debi
+"""been""","Stuttgart, Germany",Adventure_Debi
+"""been""","Topanga, CA, USA",Adventure_Debi
+"""been""","Fort Yukon, AK, USA",Adventure_Debi
+"""been""","Fritz Creek, AK, USA",Adventure_Debi
+"""been""","Ester, AK, USA",Adventure_Debi
+"""been""","Alamogordo, NM, USA",Adventure_Debi
+"""been""","Tierra del Fuego National Park, Argentina",Adventure_Debi
+"""been""","Ushuaia, Argentina",Adventure_Debi
+"""been""","Heidelberg, Germany",Adventure_Debi
+"""been""","Clear, AK, USA",Adventure_Debi
+"""been""","Surf City, NC, USA",Adventure_Debi
+"""been""","Chitina, AK, USA",Adventure_Debi
+"""been""","Circle, AK, USA",Adventure_Debi
+"""been""","Boca Raton, FL, USA",Adventure_Debi
+"""been""","Marsala, Italy",Adventure_Debi
+"""been""","Toronto, Ontario, Canada",Adventure_Debi
+"""been""","Delta Junction, AK, USA",Adventure_Debi
+"""been""","Dillingham, AK, USA",Adventure_Debi
+"""been""","Cordova, AK, USA",Adventure_Debi
+"""been""","Pomona, CA, USA",Adventure_Debi
+"""been""","Cozumel, Mexico",Adventure_Debi
+"""been""","Coldfoot, AK, USA",Adventure_Debi
+"""been""","Cooper Landing, AK, USA",Adventure_Debi
+"""been""","Cancun, Mexico",Adventure_Debi
+"""been""","Agness, OR, USA",Adventure_Debi
+"""been""","Mexico City, Mexico",Adventure_Debi
+"""been""","Ragusa, Italy",Adventure_Debi
+"""been""","Charlottetown, Prince Edward Island, Canada",Adventure_Debi
+"""been""","Ravello, Italy",Adventure_Debi
+"""been""","Big Sur, CA, USA",Adventure_Debi
+"""been""","Hope, British Columbia, Canada",Adventure_Debi
+"""been""","Monterey, CA, USA",Adventure_Debi
+"""been""","Quebec City, Quebec, Canada",Adventure_Debi
+"""been""","Riverside, CA, USA",Adventure_Debi
+"""been""","Williams, AZ, USA",Adventure_Debi
+"""been""","Monterey Park, CA, USA",Adventure_Debi
+"""been""","Montreal, Quebec, Canada",Adventure_Debi
+"""been""","Rio Vista, CA, USA",Adventure_Debi
+"""been""","Whitehorse, Yukon, Canada",Adventure_Debi
+"""been""","Menlo Park, CA, USA",Adventure_Debi
+"""been""","Merced, CA, USA",Adventure_Debi
+"""been""","Rancho Palos Verdes, CA, USA",Adventure_Debi
+"""been""","Mendocino, CA, USA",Adventure_Debi
+"""been""","Nags Head, NC, USA",Adventure_Debi
+"""been""","Agra, India",Adventure_Debi
+"""been""","South Lake Tahoe, CA, USA",Adventure_Debi
+"""been""","Caribou, ME, USA",Adventure_Debi
+"""been""","Tulsa, OK, USA",Adventure_Debi
+"""been""","Hartford, CT, USA",Adventure_Debi
+"""been""","Redwood City, CA, USA",Adventure_Debi
+"""been""","Yosemite National Park, CA, USA",Adventure_Debi
+"""been""","Redding, CA, USA",Adventure_Debi
+"""been""","Redondo Beach, CA, USA",Adventure_Debi
+"""been""","Thetford, UK",Adventure_Debi
+"""been""","Red Bluff, CA, USA",Adventure_Debi
+"""been""","Positano, Italy",Adventure_Debi
+"""been""","Springfield, MO, USA",Adventure_Debi
+"""been""","Sawai Madhopur, India",Adventure_Debi

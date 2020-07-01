@@ -1,0 +1,326 @@
+tag,place,user
+"""been""","Syracuse, NY, USA",California_Wine
+"""been""","Mazatlan, Mexico",California_Wine
+"""been""","Latham, NY, USA",California_Wine
+"""been""","Georgetown, KY, USA",California_Wine
+"""been""","Ruidoso, NM, USA",California_Wine
+"""been""","Cuernavaca, Mexico",California_Wine
+"""been""","Roswell, NM, USA",California_Wine
+"""been""","Oklahoma City, OK, USA",California_Wine
+"""been""","Puerto Vallarta, Mexico",California_Wine
+"""been""","Nacogdoches, TX, USA",California_Wine
+"""been""","Pensacola, FL, USA",California_Wine
+"""been""","Eau Claire, WI, USA",California_Wine
+"""been""","Austin, TX, USA",California_Wine
+"""been""","Panama City Beach, FL, USA",California_Wine
+"""been""","Vienna, Austria",California_Wine
+"""been""","San Francisco, CA, USA",California_Wine
+"""been""","Mesa, AZ, USA",California_Wine
+"""been""","San Antonio, TX, USA",California_Wine
+"""been""","Santa Fe, NM, USA",California_Wine
+"""been""","Duluth, MN, USA",California_Wine
+"""been""","Shreveport, LA, USA",California_Wine
+"""been""","Afitos, Greece",California_Wine
+"""been""","Cedar Island, NC, USA",California_Wine
+"""been""","Tucson, AZ, USA",California_Wine
+"""been""","Ciudad Juarez, Mexico",California_Wine
+"""been""","Volcano, HI, USA",California_Wine
+"""been""","Gander, Newfoundland and Labrador, Canada",California_Wine
+"""been""","Waikoloa, HI, USA",California_Wine
+"""been""","Acapulco, Mexico",California_Wine
+"""been""","Niagara Falls, NY, USA",California_Wine
+"""been"",""fave""","Sant Antoni de Portmany, Spain",California_Wine
+"""been""","Boulder, CO, USA",California_Wine
+"""been""","Tulsa, OK, USA",California_Wine
+"""been""","Hudson, WI, USA",California_Wine
+"""been""","Knoxville, TN, USA",California_Wine
+"""been""","Eureka, CA, USA",California_Wine
+"""been""","Buellton, CA, USA",California_Wine
+"""been""","Salzburg, Austria",California_Wine
+"""been""","Charleston, SC, USA",California_Wine
+"""been""","Kitty Hawk, NC, USA",California_Wine
+"""been""","Pepeekeo, HI, USA",California_Wine
+"""been""","Scranton, PA, USA",California_Wine
+"""been""","Charlotte, NC, USA",California_Wine
+"""been""","Chimney Rock, NC, USA",California_Wine
+"""been""","Princeton, NJ, USA",California_Wine
+"""been""","Lincoln, NE, USA",California_Wine
+"""been""","Cadillac, MI, USA",California_Wine
+"""been""","Trenton, NJ, USA",California_Wine
+"""been""","Raton, NM, USA",California_Wine
+"""been""","Kandahar, Afghanistan",California_Wine
+"""been""","Clovis, NM, USA",California_Wine
+"""been"",""fave""","Prague, Czech Republic",California_Wine
+"""been""","Pilsen, Czech Republic",California_Wine
+"""been""","Gallup, NM, USA",California_Wine
+"""been""","San Jose del Cabo, Mexico",California_Wine
+"""been""","Kingman, AZ, USA",California_Wine
+"""been""","Cabo San Lucas, Mexico",California_Wine
+"""been""","Tempe, AZ, USA",California_Wine
+"""been""","Vail, CO, USA",California_Wine
+"""been""","Port Arthur, TX, USA",California_Wine
+"""been""","Montpelier, VT, USA",California_Wine
+"""been""","Amarillo, TX, USA",California_Wine
+"""been""","Kenmore, WA, USA",California_Wine
+"""been""","Hanalei, HI, USA",California_Wine
+"""been""","Kirkland, WA, USA",California_Wine
+"""been""","Houston, TX, USA",California_Wine
+"""been""","Lake Havasu City, AZ, USA",California_Wine
+"""been"",""fave""","Paris, France",California_Wine
+"""been""","Kapaa, HI, USA",California_Wine
+"""been""","Beaumont, TX, USA",California_Wine
+"""been""","Madison, WI, USA",California_Wine
+"""been""","Columbia, SC, USA",California_Wine
+"""been""","Solitude, UT, USA",California_Wine
+"""been""","Flagstaff, AZ, USA",California_Wine
+"""been""","Dallas, TX, USA",California_Wine
+"""been""","Fort Collins, CO, USA",California_Wine
+"""been""","Holbrook, AZ, USA",California_Wine
+"""been""","Asheville, NC, USA",California_Wine
+"""been""","Vicksburg, MS, USA",California_Wine
+"""been""","New Orleans, LA, USA",California_Wine
+"""been""","Lihue, HI, USA",California_Wine
+"""been""","Boston, MA, USA",California_Wine
+"""been""","Poipu, HI, USA",California_Wine
+"""been""","Orlando, FL, USA",California_Wine
+"""been""","Waimea, HI, USA",California_Wine
+"""been""","Barcelona, Spain",California_Wine
+"""been""","Detroit, MI, USA",California_Wine
+"""been""","Buxton, NC, USA",California_Wine
+"""been""","Honolulu, HI, USA",California_Wine
+"""been""","Farmington, NM, USA",California_Wine
+"""been""","Grand Rapids, MI, USA",California_Wine
+"""been""","Puerto Penasco, Mexico",California_Wine
+"""been""","Ottawa, Ontario, Canada",California_Wine
+"""been""","Monrovia, CA, USA",California_Wine
+"""been""","Palm Springs, CA, USA",California_Wine
+"""been""","Modesto, CA, USA",California_Wine
+"""been""","Myrtle Beach, SC, USA",California_Wine
+"""been""","Fort Myers, FL, USA",California_Wine
+"""been""","Cedar Rapids, IA, USA",California_Wine
+"""been""","Key West, FL, USA",California_Wine
+"""been""","Grand Canyon National Park, AZ, USA",California_Wine
+"""been""","Marathon, FL, USA",California_Wine
+"""been""","Kealakekua, HI, USA",California_Wine
+"""been""","Rochester, NY, USA",California_Wine
+"""been""","Cleveland, OH, USA",California_Wine
+"""been""","Ka'anapali, HI, USA",California_Wine
+"""been""","Hartford, CT, USA",California_Wine
+"""been""","Sioux Falls, SD, USA",California_Wine
+"""been""","Jacksonville, FL, USA",California_Wine
+"""been""","Hermosillo, Mexico",California_Wine
+"""been""","Redding, CA, USA",California_Wine
+"""been""","Oslo, Norway",California_Wine
+"""been""","Vancouver, British Columbia, Canada",California_Wine
+"""been""","Greenfield, WI, USA",California_Wine
+"""been""","Jupiter, FL, USA",California_Wine
+"""been""","Macon, GA, USA",California_Wine
+"""been""","Salt Lake City, UT, USA",California_Wine
+"""been""","Sofia, Bulgaria",California_Wine
+"""been""","Roissy-en-France, France",California_Wine
+"""been""","Chandler, AZ, USA",California_Wine
+"""been""","Raleigh, NC, USA",California_Wine
+"""been""","Cooperstown, NY, USA",California_Wine
+"""been""","Madrid, Spain",California_Wine
+"""been""","Acadia National Park, ME, USA",California_Wine
+"""been""","Dubai, United Arab Emirates",California_Wine
+"""been""","Las Cruces, NM, USA",California_Wine
+"""been""","Ontario, CA, USA",California_Wine
+"""been""","Nashville, TN, USA",California_Wine
+"""been""","Isla Mujeres, Mexico",California_Wine
+"""been""","Camarillo, CA, USA",California_Wine
+"""been""","South Pasadena, CA, USA",California_Wine
+"""been""","SeaTac, WA, USA",California_Wine
+"""been""","Walnut Creek, CA, USA",California_Wine
+"""been""","Greenville, SC, USA",California_Wine
+"""been""","Salinas, CA, USA",California_Wine
+"""been""","Colorado Springs, CO, USA",California_Wine
+"""been""","Des Moines, IA, USA",California_Wine
+"""been""","Cancun, Mexico",California_Wine
+"""been""","Chichen Itza, Mexico",California_Wine
+"""been""","Baltimore, MD, USA",California_Wine
+"""been""","Casa Grande, AZ, USA",California_Wine
+"""been""","Albuquerque, NM, USA",California_Wine
+"""been""","Morgan City, LA, USA",California_Wine
+"""been""","Savannah, GA, USA",California_Wine
+"""been""","Kuwait City, Kuwait",California_Wine
+"""been""","Doha, Qatar",California_Wine
+"""been""","Oswiecim, Poland",California_Wine
+"""been""","La Crosse, WI, USA",California_Wine
+"""been""","Albany, NY, USA",California_Wine
+"""been""","Plymouth, MA, USA",California_Wine
+"""been""","Columbus, OH, USA",California_Wine
+"""been""","Sault Ste. Marie, Ontario, Canada",California_Wine
+"""been""","Chattanooga, TN, USA",California_Wine
+"""been""","Martha's Vineyard, MA, USA",California_Wine
+"""been""","Anaheim, CA, USA",California_Wine
+"""been""","Lubbock, TX, USA",California_Wine
+"""been""","Mexico City, Mexico",California_Wine
+"""been""","Bar Harbor, ME, USA",California_Wine
+"""been""","Calexico, CA, USA",California_Wine
+"""been""","Monroe, LA, USA",California_Wine
+"""been""","Tallahassee, FL, USA",California_Wine
+"""been""","Thessaloniki, Greece",California_Wine
+"""been""","Tampa, FL, USA",California_Wine
+"""been""","Miami Beach, FL, USA",California_Wine
+"""been""","Providence, RI, USA",California_Wine
+"""been"",""fave""","Berchtesgaden, Germany",California_Wine
+"""been""","Matamoros, Mexico",California_Wine
+"""been""","Beaver Bay, MN, USA",California_Wine
+"""been""","Slidell, LA, USA",California_Wine
+"""been""","Hawaii Volcanoes National Park, HI, USA",California_Wine
+"""been""","Budapest, Hungary",California_Wine
+"""been""","Jean, NV, USA",California_Wine
+"""been""","Taos, NM, USA",California_Wine
+"""been""","Sant Josep de Sa Talaia, Spain",California_Wine
+"""been""","Ocracoke, NC, USA",California_Wine
+"""been""","Jefferson, NH, USA",California_Wine
+"""been""","Needles, CA, USA",California_Wine
+"""been""","Alexandria, VA, USA",California_Wine
+"""been""","Napa, CA, USA",California_Wine
+"""been""","Tokyo, Japan",California_Wine
+"""been""","Fort Bragg, CA, USA",California_Wine
+"""been""","Purgatory, CO, USA",California_Wine
+"""been""","Niagara Falls, Ontario, Canada",California_Wine
+"""been""","Phoenix, AZ, USA",California_Wine
+"""been""","Morgantown, WV, USA",California_Wine
+"""been""","Krakow, Poland",California_Wine
+"""been""","Skopje, Republic of North Macedonia",California_Wine
+"""been""","Cheyenne, WY, USA",California_Wine
+"""been""","Wurzburg, Germany",California_Wine
+"""been""","Sault Ste. Marie, MI, USA",California_Wine
+"""been""","Socorro, NM, USA",California_Wine
+"""been""","Philadelphia, PA, USA",California_Wine
+"""been""","Rolla, MO, USA",California_Wine
+"""been""","Baton Rouge, LA, USA",California_Wine
+"""been""","Lafayette, LA, USA",California_Wine
+"""been""","Peoria, AZ, USA",California_Wine
+"""been""","Quebec City, Quebec, Canada",California_Wine
+"""been""","Montreal, Quebec, Canada",California_Wine
+"""been""","Sacramento, CA, USA",California_Wine
+"""been""","Payson, AZ, USA",California_Wine
+"""been""","Paradise Valley, AZ, USA",California_Wine
+"""been""","Parker, AZ, USA",California_Wine
+"""been""","Avery Island, LA, USA",California_Wine
+"""been""","Nassau, Bahamas",California_Wine
+"""been""","Roanoke, VA, USA",California_Wine
+"""been""","Playa del Carmen, Mexico",California_Wine
+"""been""","Tulum, Mexico",California_Wine
+"""been""","Laurel, MD, USA",California_Wine
+"""been""","Fussen, Germany",California_Wine
+"""been""","Longview, TX, USA",California_Wine
+"""been""","Silver Bay, MN, USA",California_Wine
+"""been""","Saint Joseph, MI, USA",California_Wine
+"""been""","Santa Rosa, NM, USA",California_Wine
+"""been""","Fridley, MN, USA",California_Wine
+"""been""","Edinburgh, IN, USA",California_Wine
+"""been""","Yuma, AZ, USA",California_Wine
+"""been""","Binghamton, NY, USA",California_Wine
+"""been""","Elmira, NY, USA",California_Wine
+"""been""","Sumter, SC, USA",California_Wine
+"""been""","Alta, UT, USA",California_Wine
+"""been""","Eugene, OR, USA",California_Wine
+"""been""","Whiteface, TX, USA",California_Wine
+"""been""","Albert Lea, MN, USA",California_Wine
+"""been""","Mackinaw City, MI, USA",California_Wine
+"""been""","Killeen, TX, USA",California_Wine
+"""been""","Oahu, HI, USA",California_Wine
+"""been""","London, UK",California_Wine
+"""been""","Munich, Germany",California_Wine
+"""been""","Hohenschwangau, Germany",California_Wine
+"""been""","Riyadh, Saudi Arabia",California_Wine
+"""been""","Shannon, Ireland",California_Wine
+"""been""","Pasadena, CA, USA",California_Wine
+"""been""","Athens, GA, USA",California_Wine
+"""been""","Monterey, CA, USA",California_Wine
+"""been""","Erie, PA, USA",California_Wine
+"""been""","Charleston, WV, USA",California_Wine
+"""been""","Winter Park, CO, USA",California_Wine
+"""been""","Gainesville, FL, USA",California_Wine
+"""been""","Denver, CO, USA",California_Wine
+"""been""","Waimea, HI, USA",California_Wine
+"""been""","Durango, CO, USA",California_Wine
+"""been"",""fave""","Nara, Japan",California_Wine
+"""been""","Saint Paul, MN, USA",California_Wine
+"""been""","Alexandria, LA, USA",California_Wine
+"""been""","Island of Hawaii, HI, USA",California_Wine
+"""been""","Kauai, HI, USA",California_Wine
+"""been""","Augusta, GA, USA",California_Wine
+"""been""","Two Harbors, MN, USA",California_Wine
+"""been""","Guadalupe, AZ, USA",California_Wine
+"""been""","Kihei, HI, USA",California_Wine
+"""been""","Odessa, TX, USA",California_Wine
+"""been""","Lahaina, HI, USA",California_Wine
+"""been""","Makawao, HI, USA",California_Wine
+"""been""","Paia, HI, USA",California_Wine
+"""been""","Seattle, WA, USA",California_Wine
+"""been""","Bangor, ME, USA",California_Wine
+"""been""","Leavenworth, WA, USA",California_Wine
+"""been""","Los Algodones, Mexico",California_Wine
+"""been""","San Diego, CA, USA",California_Wine
+"""been""","Kailua-Kona, HI, USA",California_Wine
+"""been""","Mobile, AL, USA",California_Wine
+"""been""","Reno, NV, USA",California_Wine
+"""been""","Red Wing, MN, USA",California_Wine
+"""been""","Middleton, WI, USA",California_Wine
+"""been""","Fountain Hills, AZ, USA",California_Wine
+"""been""","Abilene, TX, USA",California_Wine
+"""been""","Kernville, CA, USA",California_Wine
+"""been""","Fort Worth, TX, USA",California_Wine
+"""been""","Brighton, UT, USA",California_Wine
+"""been""","Glendale, CA, USA",California_Wine
+"""been""","Birmingham, AL, USA",California_Wine
+"""been""","Gilbert, AZ, USA",California_Wine
+"""been""","Omaha, NE, USA",California_Wine
+"""been""","Taylorsville, IN, USA",California_Wine
+"""been""","Glendale, AZ, USA",California_Wine
+"""been""","West Palm Beach, FL, USA",California_Wine
+"""been""","Woburn, MA, USA",California_Wine
+"""been""","Little Rock, AR, USA",California_Wine
+"""been""","Scottsdale, AZ, USA",California_Wine
+"""been""","El Paso, TX, USA",California_Wine
+"""been""","Indianapolis, IN, USA",California_Wine
+"""been""","Kaaawa, HI, USA",California_Wine
+"""been""","Columbus, GA, USA",California_Wine
+"""been""","Perryville, MO, USA",California_Wine
+"""been""","Bernalillo, NM, USA",California_Wine
+"""been""","Minneapolis, MN, USA",California_Wine
+"""been""","New York City, NY, USA",California_Wine
+"""been""","Pittsburgh, PA, USA",California_Wine
+"""been""","Schenectady, NY, USA",California_Wine
+"""been""","Gilroy, CA, USA",California_Wine
+"""been""","San Felipe, Mexico",California_Wine
+"""been""","Tijuana, Mexico",California_Wine
+"""been""","Danbury, CT, USA",California_Wine
+"""been""","Kapolei, HI, USA",California_Wine
+"""been""","Memphis, TN, USA",California_Wine
+"""been""","Kyoto, Japan",California_Wine
+"""been""","Izumisano, Japan",California_Wine
+"""been""","Atlanta, GA, USA",California_Wine
+"""been""","Osaka, Japan",California_Wine
+"""been""","Chiyoda, Japan",California_Wine
+"""been""","Ibiza, Spain",California_Wine
+"""been""","Wahiawa, HI, USA",California_Wine
+"""been""","Milwaukee, WI, USA",California_Wine
+"""been""","St. Petersburg, FL, USA",California_Wine
+"""been""","Washington DC, DC, USA",California_Wine
+"""been""","Kaneohe, HI, USA",California_Wine
+"""been""","Manassas, VA, USA",California_Wine
+"""been""","Saint Louis, MO, USA",California_Wine
+"""been""","Schwaig, Germany",California_Wine
+"""been""","Ellicott City, MD, USA",California_Wine
+"""been""","Saratoga Springs, NY, USA",California_Wine
+"""been""","Fresno, CA, USA",California_Wine
+"""been""","Los Angeles, CA, USA",California_Wine
+"""been""","Quartzsite, AZ, USA",California_Wine
+"""been""","Keystone, CO, USA",California_Wine
+"""been""","Prescott, AZ, USA",California_Wine
+"""been""","Los Alamitos, CA, USA",California_Wine
+"""been""","Hatteras, NC, USA",California_Wine
+"""been""","Louisville, KY, USA",California_Wine
+"""been""","Seoul, South Korea",California_Wine
+"""been""","Chicago, IL, USA",California_Wine
+"""been""","Frankfurt, Germany",California_Wine
+"""been""","Bratislava, Slovakia",California_Wine
+"""been""","Saint Charles, MO, USA",California_Wine
+"""been""","Las Vegas, NV, USA",California_Wine

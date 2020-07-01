@@ -1,0 +1,500 @@
+tag,place,user
+"""been""","Boca Raton, FL, USA",pmnoyes
+"""been""","Frenchville, ME, USA",pmnoyes
+"""been""","Jackson, WY, USA",pmnoyes
+"""been""","Phan Rang-Thap Cham, Vietnam",pmnoyes
+"""been""","Cleveland, OH, USA",pmnoyes
+"""been""","Montgomery, AL, USA",pmnoyes
+"""been""","Raleigh, NC, USA",pmnoyes
+"""been""","South Freeport, ME, USA",pmnoyes
+"""been""","Gorham, ME, USA",pmnoyes
+"""been""","South Portland, ME, USA",pmnoyes
+"""been""","Bridgewater, ME, USA",pmnoyes
+"""been""","Brewer, ME, USA",pmnoyes
+"""been""","Mainz, Germany",pmnoyes
+"""been""","Pine Mountain, GA, USA",pmnoyes
+"""been""","Sinclair, ME, USA",pmnoyes
+"""been""","Fort Kent, ME, USA",pmnoyes
+"""been""","Fort Fairfield, ME, USA",pmnoyes
+"""been""","Bradenton Beach, FL, USA",pmnoyes
+"""been""","Haverhill, MA, USA",pmnoyes
+"""been""","Lilburn, GA, USA",pmnoyes
+"""been""","Dorp Sint Michiel, Curacao",pmnoyes
+"""been""","Bamberg, Germany",pmnoyes
+"""been""","Haarlem, The Netherlands",pmnoyes
+"""been""","Sanremo, Italy",pmnoyes
+"""been""","Paris, France",pmnoyes
+"""been""","North Conway, NH, USA",pmnoyes
+"""been""","Falmouth, Jamaica",pmnoyes
+"""been""","Amsterdam, The Netherlands",pmnoyes
+"""been""","Freeport, ME, USA",pmnoyes
+"""been""","New Sweden, ME, USA",pmnoyes
+"""been""","Blaine, ME, USA",pmnoyes
+"""been""","Dunedin, FL, USA",pmnoyes
+"""been""","Bangor, ME, USA",pmnoyes
+"""been""","Millinocket, ME, USA",pmnoyes
+"""been""","Yarmouth, ME, USA",pmnoyes
+"""been""","Sydney, Australia",pmnoyes
+"""been""","Ellsworth, ME, USA",pmnoyes
+"""been""","Belfast, ME, USA",pmnoyes
+"""been""","Norcross, GA, USA",pmnoyes
+"""been""","Lancaster, PA, USA",pmnoyes
+"""been""","Berchtesgaden, Germany",pmnoyes
+"""been""","Vienna, Austria",pmnoyes
+"""been""","Conway, NH, USA",pmnoyes
+"""been""","York Beach, ME, USA",pmnoyes
+"""been""","Mannheim, Germany",pmnoyes
+"""been""","Stuttgart, Germany",pmnoyes
+"""been""","Falmouth, ME, USA",pmnoyes
+"""been""","Monticello, ME, USA",pmnoyes
+"""been""","Mars Hill, ME, USA",pmnoyes
+"""been""","Hilo, HI, USA",pmnoyes
+"""been""","Mapleton, ME, USA",pmnoyes
+"""been""","Windham, ME, USA",pmnoyes
+"""been""","Stone Mountain, GA, USA",pmnoyes
+"""been""","Norfolk, VA, USA",pmnoyes
+"""been""","Newburyport, MA, USA",pmnoyes
+"""been""","Mattawamkeag, ME, USA",pmnoyes
+"""been""","Newbury, MA, USA",pmnoyes
+"""been""","Salzburg, Austria",pmnoyes
+"""been""","Chester, NH, USA",pmnoyes
+"""been""","Heidelberg, Germany",pmnoyes
+"""been""","Maggie Valley, NC, USA",pmnoyes
+"""been""","Innsbruck, Austria",pmnoyes
+"""been""","Corfu Town, Greece",pmnoyes
+"""been""","Karlsruhe, Germany",pmnoyes
+"""been""","Wilmington, NC, USA",pmnoyes
+"""been""","Mobile, AL, USA",pmnoyes
+"""been""","Scarborough, ME, USA",pmnoyes
+"""been""","Killeen, TX, USA",pmnoyes
+"""been""","Strasbourg, France",pmnoyes
+"""been""","Charlotte, NC, USA",pmnoyes
+"""been""","Luxembourg City, Luxembourg",pmnoyes
+"""been""","Basel, Switzerland",pmnoyes
+"""been""","Cherokee, NC, USA",pmnoyes
+"""been""","Marietta, GA, USA",pmnoyes
+"""been""","Kennebunkport, ME, USA",pmnoyes
+"""been""","Kennebunk, ME, USA",pmnoyes
+"""been""","Oslo, Norway",pmnoyes
+"""been""","Houlton, ME, USA",pmnoyes
+"""been""","Lexington, KY, USA",pmnoyes
+"""been""","Howland, ME, USA",pmnoyes
+"""been""","Canton, MS, USA",pmnoyes
+"""been""","Tel Aviv, Israel",pmnoyes
+"""been""","Tulsa, OK, USA",pmnoyes
+"""been""","Fayetteville, NC, USA",pmnoyes
+"""been""","Tuscaloosa, AL, USA",pmnoyes
+"""been""","Clarksville, TN, USA",pmnoyes
+"""been""","Manchester, UK",pmnoyes
+"""been""","Caribou, ME, USA",pmnoyes
+"""been""","Plum Island, MA, USA",pmnoyes
+"""been"",""want""","Cholderton, UK",pmnoyes
+"""been""","Jackson, MS, USA",pmnoyes
+"""been""","Cherbourg-Octeville, France",pmnoyes
+"""been""","Oklahoma City, OK, USA",pmnoyes
+"""been""","Chattanooga, TN, USA",pmnoyes
+"""been""","Lisbon, Portugal",pmnoyes
+"""been""","Eilat, Israel",pmnoyes
+"""been""","Ogunquit, ME, USA",pmnoyes
+"""been""","Loganville, GA, USA",pmnoyes
+"""been""","Old Town, ME, USA",pmnoyes
+"""been""","Old Orchard Beach, ME, USA",pmnoyes
+"""been""","Camden, ME, USA",pmnoyes
+"""been""","Orono, ME, USA",pmnoyes
+"""been""","Cape Elizabeth, ME, USA",pmnoyes
+"""been""","Lucerne, Switzerland",pmnoyes
+"""been""","Oakland, CA, USA",pmnoyes
+"""been""","Geneva, Switzerland",pmnoyes
+"""been""","Brunswick, ME, USA",pmnoyes
+"""been""","Tokyo, Japan",pmnoyes
+"""been""","Bucksport, ME, USA",pmnoyes
+"""been""","Bern, Switzerland",pmnoyes
+"""been""","Gainesville, FL, USA",pmnoyes
+"""been""","Richmond, VA, USA",pmnoyes
+"""been""","Lake City, FL, USA",pmnoyes
+"""been""","Celebration, FL, USA",pmnoyes
+"""been""","Hampton, NH, USA",pmnoyes
+"""been""","El Paso, TX, USA",pmnoyes
+"""been""","Omaha, NE, USA",pmnoyes
+"""been""","New York City, NY, USA",pmnoyes
+"""been""","Little Rock, AR, USA",pmnoyes
+"""been""","Halifax, Nova Scotia, Canada",pmnoyes
+"""been""","Anchorage, AK, USA",pmnoyes
+"""been""","Lakeland, FL, USA",pmnoyes
+"""been""","Stonington, ME, USA",pmnoyes
+"""been""","Carlsbad, NM, USA",pmnoyes
+"""been""","Ocala, FL, USA",pmnoyes
+"""been""","Beverly Hills, CA, USA",pmnoyes
+"""been""","Lake Wales, FL, USA",pmnoyes
+"""been""","Santa Cruz, CA, USA",pmnoyes
+"""been""","Civitavecchia, Italy",pmnoyes
+"""been""","Branson, MO, USA",pmnoyes
+"""been""","Gstaad, Switzerland",pmnoyes
+"""been""","Seattle, WA, USA",pmnoyes
+"""been""","Yellowstone National Park, WY, USA",pmnoyes
+"""been""","Skagway, AK, USA",pmnoyes
+"""been""","Kennesaw, GA, USA",pmnoyes
+"""been""","Saint John, New Brunswick, Canada",pmnoyes
+"""been""","Cincinnati, OH, USA",pmnoyes
+"""been""","Titusville, FL, USA",pmnoyes
+"""been""","San Diego, CA, USA",pmnoyes
+"""been""","Flagler Beach, FL, USA",pmnoyes
+"""been""","Fort Lauderdale, FL, USA",pmnoyes
+"""been""","San Jose, Costa Rica",pmnoyes
+"""been""","Williamsburg, VA, USA",pmnoyes
+"""been""","Key West, FL, USA",pmnoyes
+"""been""","Stockholm, ME, USA",pmnoyes
+"""been""","Raymond, NH, USA",pmnoyes
+"""been""","Ocean City, NJ, USA",pmnoyes
+"""been""","Boston, MA, USA",pmnoyes
+"""been""","Fredericton, New Brunswick, Canada",pmnoyes
+"""been""","Moncton, New Brunswick, Canada",pmnoyes
+"""been""","Asheville, NC, USA",pmnoyes
+"""been""","Custer, SD, USA",pmnoyes
+"""been""","Vicksburg, MS, USA",pmnoyes
+"""been""","New Orleans, LA, USA",pmnoyes
+"""been""","San Jose, CA, USA",pmnoyes
+"""been""","Fort Myers Beach, FL, USA",pmnoyes
+"""been""","Kissimmee, FL, USA",pmnoyes
+"""been""","Fort Myers, FL, USA",pmnoyes
+"""been""","Honolulu, HI, USA",pmnoyes
+"""been""","Pigeon Forge, TN, USA",pmnoyes
+"""been""","Ho Chi Minh City, Vietnam",pmnoyes
+"""been""","Nha Trang, Vietnam",pmnoyes
+"""been""","Columbia, SC, USA",pmnoyes
+"""been""","Carlsbad, CA, USA",pmnoyes
+"""been""","Carmel, CA, USA",pmnoyes
+"""been""","Cape Canaveral, FL, USA",pmnoyes
+"""been""","Houston, TX, USA",pmnoyes
+"""been""","Denver, CO, USA",pmnoyes
+"""been""","Fort Walton Beach, FL, USA",pmnoyes
+"""been""","San Luis Obispo, CA, USA",pmnoyes
+"""been""","Da Lat, Vietnam",pmnoyes
+"""been""","St. Augustine, FL, USA",pmnoyes
+"""been""","Zermatt, Switzerland",pmnoyes
+"""been""","Hartland, New Brunswick, Canada",pmnoyes
+"""been""","Victoria, British Columbia, Canada",pmnoyes
+"""been""","Plaistow, NH, USA",pmnoyes
+"""been""","Newport, RI, USA",pmnoyes
+"""been""","Portsmouth, NH, USA",pmnoyes
+"""been""","Vancouver, British Columbia, Canada",pmnoyes
+"""been""","Buffalo, NY, USA",pmnoyes
+"""been""","Winder, GA, USA",pmnoyes
+"""been""","Roanoke, VA, USA",pmnoyes
+"""been""","Madawaska, ME, USA",pmnoyes
+"""been""","Livigno, Italy",pmnoyes
+"""been""","Andover, UK",pmnoyes
+"""been""","Westbrook, ME, USA",pmnoyes
+"""been""","Bronx, NY, USA",pmnoyes
+"""been""","Punta Cana, Dominican Republic",pmnoyes
+"""been""","Kamloops, British Columbia, Canada",pmnoyes
+"""been""","Pensacola Beach, FL, USA",pmnoyes
+"""been""","La Romana, Dominican Republic",pmnoyes
+"""been""","Saint Agatha, ME, USA",pmnoyes
+"""been""","Limestone, ME, USA",pmnoyes
+"""been""","Hollywood, FL, USA",pmnoyes
+"""been""","Snellville, GA, USA",pmnoyes
+"""been""","Lincoln, ME, USA",pmnoyes
+"""been""","Cody, WY, USA",pmnoyes
+"""been""","Belize City, Belize",pmnoyes
+"""been""","Salisbury, MA, USA",pmnoyes
+"""been""","Daytona Beach, FL, USA",pmnoyes
+"""been""","Indianapolis, IN, USA",pmnoyes
+"""been""","San Pedro, Belize",pmnoyes
+"""been""","Delray Beach, FL, USA",pmnoyes
+"""been""","Santo Domingo, Dominican Republic",pmnoyes
+"""been""","Hershey, PA, USA",pmnoyes
+"""been""","Washington DC, DC, USA",pmnoyes
+"""been""","Gettysburg, PA, USA",pmnoyes
+"""been""","Cocoa Beach, FL, USA",pmnoyes
+"""been""","Philadelphia, PA, USA",pmnoyes
+"""been""","Washburn, ME, USA",pmnoyes
+"""been""","Lauderdale-By-The-Sea, FL, USA",pmnoyes
+"""been""","Clearwater, FL, USA",pmnoyes
+"""been""","Portland, ME, USA",pmnoyes
+"""been""","Hohenfels, Germany",pmnoyes
+"""been""","Hailey, ID, USA",pmnoyes
+"""been""","Waterville, ME, USA",pmnoyes
+"""been""","Presque Isle, ME, USA",pmnoyes
+"""been""","Pownal, ME, USA",pmnoyes
+"""been""","Bologna, Italy",pmnoyes
+"""been""","Jasper National Park, Alberta, Canada",pmnoyes
+"""been""","Jasper, Alberta, Canada",pmnoyes
+"""been""","Willemstad, Curacao",pmnoyes
+"""been""","Curacao, Caribbean",pmnoyes
+"""been""","Lake Louise, Alberta, Canada",pmnoyes
+"""been""","Cockburn Town, Turks and Caicos",pmnoyes
+"""been""","Calgary, Alberta, Canada",pmnoyes
+"""been""","Grand Turk, Turks and Caicos",pmnoyes
+"""been""","Bradenton, FL, USA",pmnoyes
+"""been""","Banff National Park, Alberta, Canada",pmnoyes
+"""been""","Banff, Alberta, Canada",pmnoyes
+"""been""","Rincon, Puerto Rico",pmnoyes
+"""been""","Van Buren, ME, USA",pmnoyes
+"""been""","Unity, ME, USA",pmnoyes
+"""been""","Puerto Vallarta, Mexico",pmnoyes
+"""been""","Coral Gables, FL, USA",pmnoyes
+"""been""","Memphis, TN, USA",pmnoyes
+"""been""","Louisville, KY, USA",pmnoyes
+"""been""","Helen, GA, USA",pmnoyes
+"""been""","Manhattan, KS, USA",pmnoyes
+"""been""","Missoula, MT, USA",pmnoyes
+"""been""","Bridgetown, Barbados",pmnoyes
+"""been""","West Yellowstone, MT, USA",pmnoyes
+"""been""","Manassas, VA, USA",pmnoyes
+"""been""","Atlanta, GA, USA",pmnoyes
+"""been""","Dahlonega, GA, USA",pmnoyes
+"""been""","North Myrtle Beach, SC, USA",pmnoyes
+"""been""","Ciudad Juarez, Mexico",pmnoyes
+"""been""","Colmberg, Germany",pmnoyes
+"""been""","SeaTac, WA, USA",pmnoyes
+"""been""","Genoa, Italy",pmnoyes
+"""been""","Nashville, TN, USA",pmnoyes
+"""been""","Manila, Philippines",pmnoyes
+"""been""","Jacksonville, FL, USA",pmnoyes
+"""been""","Grafenwohr, Germany",pmnoyes
+"""been""","Charlestown, St. Kitts and Nevis",pmnoyes
+"""been""","Corpus Christi, TX, USA",pmnoyes
+"""been""","Bermuda, Caribbean",pmnoyes
+"""been""","Salt Lake City, UT, USA",pmnoyes
+"""been""","Tijuana, Mexico",pmnoyes
+"""been""","Palm Beach, FL, USA",pmnoyes
+"""been""","Ensenada, Mexico",pmnoyes
+"""been""","Juneau, AK, USA",pmnoyes
+"""been""","Breckenridge, CO, USA",pmnoyes
+"""been""","Boulder, CO, USA",pmnoyes
+"""been""","Yakima, WA, USA",pmnoyes
+"""been""","Oranjestad, Aruba",pmnoyes
+"""been""","Aruba, Caribbean",pmnoyes
+"""been""","Seven Mile Beach, Cayman Islands",pmnoyes
+"""been""","Baguio, Philippines",pmnoyes
+"""been""","George Town, Cayman Islands",pmnoyes
+"""been""","Cartagena, Colombia",pmnoyes
+"""been""","St. John's, Antigua and Barbuda",pmnoyes
+"""been""","Pleiku, Vietnam",pmnoyes
+"""been""","Colon, Panama",pmnoyes
+"""been""","Steamboat Springs, CO, USA",pmnoyes
+"""been""","Manitou Springs, CO, USA",pmnoyes
+"""been""","Winter Haven, FL, USA",pmnoyes
+"""been""","Murrells Inlet, SC, USA",pmnoyes
+"""been""","Myrtle Beach, SC, USA",pmnoyes
+"""been""","Milan, Italy",pmnoyes
+"""been""","Bora Bora, French Polynesia",pmnoyes
+"""been""","Bogota, Colombia",pmnoyes
+"""been""","Columbus, GA, USA",pmnoyes
+"""been""","Seoul, South Korea",pmnoyes
+"""been""","Sarasota, FL, USA",pmnoyes
+"""been""","Tortola, British Virgin Islands",pmnoyes
+"""been""","Whitefish, MT, USA",pmnoyes
+"""been""","Barstow, CA, USA",pmnoyes
+"""been""","Riviere du Loup, Quebec, Canada",pmnoyes
+"""been""","Maracaibo, Venezuela",pmnoyes
+"""been""","Orlando, FL, USA",pmnoyes
+"""been""","Orange City, FL, USA",pmnoyes
+"""been""","Moorea, French Polynesia",pmnoyes
+"""been""","Reno, NV, USA",pmnoyes
+"""been""","Philipsburg, St Martin \u002F St Maarten",pmnoyes
+"""been""","Soufriere, St. Lucia",pmnoyes
+"""been""","Vilseck, Germany",pmnoyes
+"""been""","Landshut, Germany",pmnoyes
+"""been""","Vigo, Spain",pmnoyes
+"""been""","Anaheim, CA, USA",pmnoyes
+"""been""","Flagstaff, AZ, USA",pmnoyes
+"""been""","Charleston, SC, USA",pmnoyes
+"""been""","Salisbury, UK",pmnoyes
+"""been""","Tarpon Springs, FL, USA",pmnoyes
+"""been""","Jacksonville Beach, FL, USA",pmnoyes
+"""been""","Plantation, FL, USA",pmnoyes
+"""been""","Newark, NJ, USA",pmnoyes
+"""been""","Venice, Italy",pmnoyes
+"""been""","Challis, ID, USA",pmnoyes
+"""been""","Verona, Italy",pmnoyes
+"""been""","Gibraltar, Europe",pmnoyes
+"""been""","Greensboro, NC, USA",pmnoyes
+"""been""","Inverness, UK",pmnoyes
+"""been""","Springfield, MA, USA",pmnoyes
+"""been""","Gatlinburg, TN, USA",pmnoyes
+"""been""","Colorado Springs, CO, USA",pmnoyes
+"""been""","Edinburgh, UK",pmnoyes
+"""been""","Edmundston, New Brunswick, Canada",pmnoyes
+"""been""","Dahab, Egypt",pmnoyes
+"""been""","Kansas City, KS, USA",pmnoyes
+"""been""","Salinas, CA, USA",pmnoyes
+"""been""","Knoxville, TN, USA",pmnoyes
+"""been""","Bakersfield, CA, USA",pmnoyes
+"""been""","Jupiter, FL, USA",pmnoyes
+"""been""","Dubrovnik, Croatia",pmnoyes
+"""been""","San Francisco, CA, USA",pmnoyes
+"""been""","San Juan, Puerto Rico",pmnoyes
+"""been""","San Antonio, TX, USA",pmnoyes
+"""been""","Woodstock, New Brunswick, Canada",pmnoyes
+"""been""","Tucson, AZ, USA",pmnoyes
+"""been""","Unterseen, Switzerland",pmnoyes
+"""been""","Alpharetta, GA, USA",pmnoyes
+"""been""","Ketchikan, AK, USA",pmnoyes
+"""been""","Big Sur, CA, USA",pmnoyes
+"""been""","Messina, Italy",pmnoyes
+"""been""","Panama City Beach, FL, USA",pmnoyes
+"""been""","Utrecht, The Netherlands",pmnoyes
+"""been""","Panama City, FL, USA",pmnoyes
+"""been""","Osan, South Korea",pmnoyes
+"""been""","Bar Harbor, ME, USA",pmnoyes
+"""been""","Brooklyn, NY, USA",pmnoyes
+"""been""","Fairbanks, AK, USA",pmnoyes
+"""been""","Antigua, Guatemala",pmnoyes
+"""been""","Ocho Rios, Jamaica",pmnoyes
+"""been""","Montego Bay, Jamaica",pmnoyes
+"""been""","Plaster Rock, New Brunswick, Canada",pmnoyes
+"""been""","Florence, Italy",pmnoyes
+"""been""","Providence, RI, USA",pmnoyes
+"""been""","Whitehorse, Yukon, Canada",pmnoyes
+"""been""","Pensacola, FL, USA",pmnoyes
+"""been""","Suwon, South Korea",pmnoyes
+"""been""","Tampa, FL, USA",pmnoyes
+"""been""","Sonoma, CA, USA",pmnoyes
+"""been""","Miami Beach, FL, USA",pmnoyes
+"""been""","Miami, FL, USA",pmnoyes
+"""been""","Daegu, South Korea",pmnoyes
+"""been""","Tallahassee, FL, USA",pmnoyes
+"""been""","Playas del Coco, Costa Rica",pmnoyes
+"""been""","Freeport, Bahamas",pmnoyes
+"""been""","Albuquerque, NM, USA",pmnoyes
+"""been""","Baltimore, MD, USA",pmnoyes
+"""been""","Christchurch, UK",pmnoyes
+"""been""","Savannah, GA, USA",pmnoyes
+"""been""","London, UK",pmnoyes
+"""been""","Quebec City, Quebec, Canada",pmnoyes
+"""been""","Cheongju, South Korea",pmnoyes
+"""been""","Milwaukee, WI, USA",pmnoyes
+"""been""","Rapid City, SD, USA",pmnoyes
+"""been""","Brunswick, GA, USA",pmnoyes
+"""been""","Antwerp, Belgium",pmnoyes
+"""been""","Hohenschwangau, Germany",pmnoyes
+"""been""","Ingolstadt, Germany",pmnoyes
+"""been""","Greenville, NC, USA",pmnoyes
+"""been""","Munich, Germany",pmnoyes
+"""been""","Nassau, Bahamas",pmnoyes
+"""been""","Pyeongtaek, South Korea",pmnoyes
+"""been""","Kauai, HI, USA",pmnoyes
+"""been""","Zion National Park, UT, USA",pmnoyes
+"""been""","Rome, Italy",pmnoyes
+"""been""","Fort Worth, TX, USA",pmnoyes
+"""been""","Noumea, New Caledonia",pmnoyes
+"""been""","Reykjavik, Iceland",pmnoyes
+"""been""","Vatican City, Vatican City",pmnoyes
+"""been""","Nuremberg, Germany",pmnoyes
+"""been""","Riverside, CA, USA",pmnoyes
+"""been""","Duluth, GA, USA",pmnoyes
+"""been""","Busan, South Korea",pmnoyes
+"""been""","Monterey, CA, USA",pmnoyes
+"""been""","Regensburg, Germany",pmnoyes
+"""been""","Brussels, Belgium",pmnoyes
+"""been""","Augusta, GA, USA",pmnoyes
+"""been""","Maui, HI, USA",pmnoyes
+"""been""","Grasmere, UK",pmnoyes
+"""been""","Livorno, Italy",pmnoyes
+"""been""","San Salvador, El Salvador",pmnoyes
+"""been""","Pisa, Italy",pmnoyes
+"""been""","Managua, Nicaragua",pmnoyes
+"""been""","Bryce, UT, USA",pmnoyes
+"""been""","Pizzo, Italy",pmnoyes
+"""been""","Panama City, Panama",pmnoyes
+"""been""","Charlotte Amalie, U.S. Virgin Islands",pmnoyes
+"""been""","Amalfi, Italy",pmnoyes
+"""been""","Sorrento, Italy",pmnoyes
+"""been""","Mammoth Cave National Park, KY, USA",pmnoyes
+"""been""","Milford, CT, USA",pmnoyes
+"""been""","Rotterdam, The Netherlands",pmnoyes
+"""been""","Naples, Italy",pmnoyes
+"""been""","Mount Rainier National Park, WA, USA",pmnoyes
+"""been""","Cancun, Mexico",pmnoyes
+"""been""","Garmisch-Partenkirchen, Germany",pmnoyes
+"""been""","Georgetown, MA, USA",pmnoyes
+"""been""","Toronto, Ontario, Canada",pmnoyes
+"""been""","Bremen, Germany",pmnoyes
+"""been""","Bremerhaven, Germany",pmnoyes
+"""been""","Dillard, GA, USA",pmnoyes
+"""been""","Grand Canyon National Park, AZ, USA",pmnoyes
+"""been""","Hamburg, Germany",pmnoyes
+"""been""","Papeete, French Polynesia",pmnoyes
+"""been""","Haleakala National Park, HI, USA",pmnoyes
+"""been""","Hartford, CT, USA",pmnoyes
+"""been""","Saint Paul, MN, USA",pmnoyes
+"""been""","Oxford, UK",pmnoyes
+"""been""","Ottawa, Ontario, Canada",pmnoyes
+"""been""","Kittery, ME, USA",pmnoyes
+"""been""","Elizabethtown, KY, USA",pmnoyes
+"""been""","Cambridge, UK",pmnoyes
+"""been""","Augsburg, Germany",pmnoyes
+"""been""","Perth-Andover, New Brunswick, Canada",pmnoyes
+"""been""","Malaga, Spain",pmnoyes
+"""been""","Carlsbad Caverns National Park, NM, USA",pmnoyes
+"""been""","Suva, Fiji",pmnoyes
+"""been""","Dallas, TX, USA",pmnoyes
+"""been""","Glacier Bay National Park and Preserve, AK, USA",pmnoyes
+"""been""","Glacier National Park, MT, USA",pmnoyes
+"""been""","Athens, GA, USA",pmnoyes
+"""been""","Wurzburg, Germany",pmnoyes
+"""been""","Liege, Belgium",pmnoyes
+"""been""","Rowley, MA, USA",pmnoyes
+"""been""","Cumberland Center, ME, USA",pmnoyes
+"""been""","Annapolis, MD, USA",pmnoyes
+"""been""","Cairo, Egypt",pmnoyes
+"""been""","San Pedro Sula, Honduras",pmnoyes
+"""been""","Arlington, VA, USA",pmnoyes
+"""been""","Tegucigalpa, Honduras",pmnoyes
+"""been""","Cleveland, GA, USA",pmnoyes
+"""been""","Luxor, Egypt",pmnoyes
+"""been""","Gainesville, GA, USA",pmnoyes
+"""been""","Saint Augustine Beach, FL, USA",pmnoyes
+"""been""","Nairobi, Kenya",pmnoyes
+"""been""","Schiphol, The Netherlands",pmnoyes
+"""been""","Chicago, IL, USA",pmnoyes
+"""been""","Minneapolis, MN, USA",pmnoyes
+"""been""","Biloxi, MS, USA",pmnoyes
+"""been""","Kansas City, MO, USA",pmnoyes
+"""been""","Aspen, CO, USA",pmnoyes
+"""been""","Darmstadt, Germany",pmnoyes
+"""been""","Birmingham, AL, USA",pmnoyes
+"""been""","Frankfurt, Germany",pmnoyes
+"""been""","Sanford, FL, USA",pmnoyes
+"""been""","Portland, OR, USA",pmnoyes
+"""been""","Sandestin, FL, USA",pmnoyes
+"""been""","College Park, GA, USA",pmnoyes
+"""been""","Spartanburg, SC, USA",pmnoyes
+"""been""","West Palm Beach, FL, USA",pmnoyes
+"""been""","Durham, NC, USA",pmnoyes
+"""been""","Bath, UK",pmnoyes
+"""been""","Bruges, Belgium",pmnoyes
+"""been""","Kassel, Germany",pmnoyes
+"""been""","St. Pete Beach, FL, USA",pmnoyes
+"""been""","Mogadishu, Somalia",pmnoyes
+"""been""","Comayagua, Honduras",pmnoyes
+"""been""","Ruedesheim am Rhein, Germany",pmnoyes
+"""been""","St. Petersburg, FL, USA",pmnoyes
+"""been""","Wiesbaden, Germany",pmnoyes
+"""been""","Greenville, MS, USA",pmnoyes
+"""been""","Gulf Shores, AL, USA",pmnoyes
+"""been""","Alexandria, VA, USA",pmnoyes
+"""been""","Guatemala City, Guatemala",pmnoyes
+"""been""","Phoenix, AZ, USA",pmnoyes
+"""been""","Fort Bragg, CA, USA",pmnoyes
+"""been""","New Haven, CT, USA",pmnoyes
+"""been""","Pueblo, CO, USA",pmnoyes
+"""been""","Eindhoven, The Netherlands",pmnoyes
+"""been""","Dusseldorf, Germany",pmnoyes
+"""been""","Galveston, TX, USA",pmnoyes
+"""been""","Sacramento, CA, USA",pmnoyes
+"""been""","Barcelona, Spain",pmnoyes
+"""been""","Bethesda, MD, USA",pmnoyes
+"""been""","Las Vegas, NV, USA",pmnoyes
+"""been""","Cologne, Germany",pmnoyes
+"""been""","Ashland, ME, USA",pmnoyes
+"""been""","Los Angeles, CA, USA",pmnoyes
+"""been""","Fort Benning, GA, USA",pmnoyes
+"""been""","Pittsburgh, PA, USA",pmnoyes
+"""been""","Saint-Tropez, France",pmnoyes
+"""been""","Long Beach, CA, USA",pmnoyes
+"""been""","Augusta, ME, USA",pmnoyes
+"""been""","Auburn, AL, USA",pmnoyes
+"""been""","Baton Rouge, LA, USA",pmnoyes

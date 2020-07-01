@@ -1,0 +1,430 @@
+tag,place,user
+"""been""","Los Angeles, CA, USA",marshcanon
+"""been""","Fresno, CA, USA",marshcanon
+"""been""","Wooster, OH, USA",marshcanon
+"""want""","Portland, OR, USA",marshcanon
+"""been""","Durham, NC, USA",marshcanon
+"""been""","Pismo Beach, CA, USA",marshcanon
+"""want""","Queenstown, New Zealand",marshcanon
+"""want""","Nice, France",marshcanon
+"""been""","Saint Louis, MO, USA",marshcanon
+"""been""","Covington, KY, USA",marshcanon
+"""want""","Kardamena, Greece",marshcanon
+"""been""","Alexandria, VA, USA",marshcanon
+"""been""","Long Beach, CA, USA",marshcanon
+"""been""","Arlington, VA, USA",marshcanon
+"""want""","Hoi An, Vietnam",marshcanon
+"""want""","Ao Nang, Thailand",marshcanon
+"""been""","Toledo, OH, USA",marshcanon
+"""been""","Newport Beach, CA, USA",marshcanon
+"""want""","Frankfurt, Germany",marshcanon
+"""want""","Tel Aviv, Israel",marshcanon
+"""want""","Jerusalem, Israel",marshcanon
+"""been""","Las Vegas, NV, USA",marshcanon
+"""been""","Wildwood, NJ, USA",marshcanon
+"""want""","Ciutadella, Spain",marshcanon
+"""been""","Laughlin, NV, USA",marshcanon
+"""been""","Secaucus, NJ, USA",marshcanon
+"""want""","Bruges, Belgium",marshcanon
+"""been""","Santa Teresa, Costa Rica",marshcanon
+"""want""","Palma de Mallorca, Spain",marshcanon
+"""want""","Cannes, France",marshcanon
+"""want""","Athens, Greece",marshcanon
+"""been""","Chicago, IL, USA",marshcanon
+"""been""","Annapolis, MD, USA",marshcanon
+"""been""","Huntington Beach, CA, USA",marshcanon
+"""been""","Beachwood, OH, USA",marshcanon
+"""been""","Tallmadge, OH, USA",marshcanon
+"""been""","Monte Verde, Brazil",marshcanon
+"""been""","Mill Valley, CA, USA",marshcanon
+"""want""","Marrakech, Morocco",marshcanon
+"""want""","Istanbul, Turkey",marshcanon
+"""been""","Arraial do Cabo, Brazil",marshcanon
+"""been""","Cheltenham, UK",marshcanon
+"""been""","Dusseldorf, Germany",marshcanon
+"""want""","Armutalan, Turkey",marshcanon
+"""want""","Puerto Rico, Spain",marshcanon
+"""want""","Barcelona, Spain",marshcanon
+"""want""","Cologne, Germany",marshcanon
+"""been""","Pittsburgh, PA, USA",marshcanon
+"""been""","Napa, CA, USA",marshcanon
+"""been""","Tokyo, Japan",marshcanon
+"""been""","Phoenix, AZ, USA",marshcanon
+"""want""","Colombo, Sri Lanka",marshcanon
+"""want""","Brighton, UK",marshcanon
+"""want""","Copenhagen, Denmark",marshcanon
+"""want""","Wailea, HI, USA",marshcanon
+"""been""","Fort Worth, TX, USA",marshcanon
+"""want""","Los Cristianos, Spain",marshcanon
+"""been""","Sacramento, CA, USA",marshcanon
+"""want""","Porto Alegre, Brazil",marshcanon
+"""been"",""fave""","La Jolla, CA, USA",marshcanon
+"""been""","Orlando, FL, USA",marshcanon
+"""been""","Yountville, CA, USA",marshcanon
+"""want""","Detroit, MI, USA",marshcanon
+"""been""","Dresden, Germany",marshcanon
+"""been""","Ocean City, MD, USA",marshcanon
+"""been""","Tempe, AZ, USA",marshcanon
+"""been""","Laguna Beach, CA, USA",marshcanon
+"""been""","Half Moon Bay, CA, USA",marshcanon
+"""been""","Narita, Japan",marshcanon
+"""been""","Myrtle Beach, SC, USA",marshcanon
+"""want""","Curitiba, Brazil",marshcanon
+"""been""","Southampton, UK",marshcanon
+"""been""","Paris, France",marshcanon
+"""want""","Brasilia, Brazil",marshcanon
+"""been""","Foz do Iguacu, Brazil",marshcanon
+"""want""","Lyon, France",marshcanon
+"""want""","Zurich, Switzerland",marshcanon
+"""want""","Amsterdam, The Netherlands",marshcanon
+"""been""","Malibu, CA, USA",marshcanon
+"""want""","Ilha de Boipeba, Brazil",marshcanon
+"""been""","Birmingham, AL, USA",marshcanon
+"""want""","Marmaris, Turkey",marshcanon
+"""want""","Auckland Central, New Zealand",marshcanon
+"""want""","Melbourne, Australia",marshcanon
+"""been""","Praia do Forte, Brazil",marshcanon
+"""want""","Vienna, Austria",marshcanon
+"""been""","Reno, NV, USA",marshcanon
+"""been""","Manaus, Brazil",marshcanon
+"""want""","Recife, Brazil",marshcanon
+"""want""","Thessaloniki, Greece",marshcanon
+"""want""","St. Petersburg, FL, USA",marshcanon
+"""been""","Youngstown, OH, USA",marshcanon
+"""want""","Nha Trang, Vietnam",marshcanon
+"""been""","Sedona, AZ, USA",marshcanon
+"""been""","Marina del Rey, CA, USA",marshcanon
+"""want""","Hanoi, Vietnam",marshcanon
+"""want""","Ho Chi Minh City, Vietnam",marshcanon
+"""been""","Scottsdale, AZ, USA",marshcanon
+"""want""","Mumbai, India",marshcanon
+"""been""","Kansas City, MO, USA",marshcanon
+"""want""","Salzburg, Austria",marshcanon
+"""been""","Minneapolis, MN, USA",marshcanon
+"""want""","Biloxi, MS, USA",marshcanon
+"""want""","Rose Hall, Jamaica",marshcanon
+"""want""","Kalamaki, Greece",marshcanon
+"""want""","New Delhi, India",marshcanon
+"""want""","Tampa, FL, USA",marshcanon
+"""been""","Greensboro, NC, USA",marshcanon
+"""been""","Sonoma, CA, USA",marshcanon
+"""been""","Miami, FL, USA",marshcanon
+"""want""","Chiang Mai, Thailand",marshcanon
+"""want""","Austin, TX, USA",marshcanon
+"""want""","Gatlinburg, TN, USA",marshcanon
+"""want""","Punta Cana, Dominican Republic",marshcanon
+"""want""","Bangkok, Thailand",marshcanon
+"""been""","Solvang, CA, USA",marshcanon
+"""want""","Taipei, Taiwan",marshcanon
+"""been""","Knoxville, TN, USA",marshcanon
+"""been""","Coronado, CA, USA",marshcanon
+"""want""","Oslo, Norway",marshcanon
+"""want""","Puerto Plata, Dominican Republic",marshcanon
+"""want""","Ottawa, Ontario, Canada",marshcanon
+"""been""","Cambria, CA, USA",marshcanon
+"""been""","Calistoga, CA, USA",marshcanon
+"""been""","South Lake Tahoe, CA, USA",marshcanon
+"""want""","Spokane, WA, USA",marshcanon
+"""been""","Buffalo, NY, USA",marshcanon
+"""been""","Flagstaff, AZ, USA",marshcanon
+"""want""","Moscow, Russia",marshcanon
+"""want""","Marsa Alam, Egypt",marshcanon
+"""want""","Manchester, UK",marshcanon
+"""been""","Syracuse, NY, USA",marshcanon
+"""been""","La Fortuna de San Carlos, Costa Rica",marshcanon
+"""been""","Anaheim, CA, USA",marshcanon
+"""want""","Hersonissos, Greece",marshcanon
+"""want""","Siem Reap, Cambodia",marshcanon
+"""been""","Miami Beach, FL, USA",marshcanon
+"""been""","Tupelo, MS, USA",marshcanon
+"""want""","Boulder, CO, USA",marshcanon
+"""want""","Varadero, Cuba",marshcanon
+"""been""","Toronto, Ontario, Canada",marshcanon
+"""want""","Breckenridge, CO, USA",marshcanon
+"""been""","Boston, MA, USA",marshcanon
+"""want""","Asheville, NC, USA",marshcanon
+"""been""","New Orleans, LA, USA",marshcanon
+"""want""","Havana, Cuba",marshcanon
+"""been""","Honolulu, HI, USA",marshcanon
+"""been""","Brisbane, CA, USA",marshcanon
+"""want""","Lisbon, Portugal",marshcanon
+"""been""","San Diego, CA, USA",marshcanon
+"""been""","Nashville, TN, USA",marshcanon
+"""want""","Lucerne, Switzerland",marshcanon
+"""been""","Elk Grove, CA, USA",marshcanon
+"""been""","Seattle, WA, USA",marshcanon
+"""want""","Lahaina, HI, USA",marshcanon
+"""want""","Cayo Santa Maria, Cuba",marshcanon
+"""want""","Kailua-Kona, HI, USA",marshcanon
+"""been""","Burbank, CA, USA",marshcanon
+"""been""","Cincinnati, OH, USA",marshcanon
+"""been""","Burlingame, CA, USA",marshcanon
+"""been""","Vallejo, CA, USA",marshcanon
+"""been"",""fave""","Pilanesberg National Park, South Africa",marshcanon
+"""been"",""fave""","Cabo Frio, Brazil",marshcanon
+"""been""","Healdsburg, CA, USA",marshcanon
+"""been""","Liberia, Costa Rica",marshcanon
+"""want""","Shanghai, China",marshcanon
+"""been""","Cape Town Central, South Africa",marshcanon
+"""been""","North Myrtle Beach, SC, USA",marshcanon
+"""want""","Montreal, Quebec, Canada",marshcanon
+"""want""","Geneva, Switzerland",marshcanon
+"""want""","Ayia Napa, Cyprus",marshcanon
+"""want""","Quebec City, Quebec, Canada",marshcanon
+"""want""","Anchorage, AK, USA",marshcanon
+"""want""","Acapulco, Mexico",marshcanon
+"""want""","Magaluf, Spain",marshcanon
+"""been""","Salt Lake City, UT, USA",marshcanon
+"""been""","San Luis Obispo, CA, USA",marshcanon
+"""want""","Kuala Lumpur, Malaysia",marshcanon
+"""been""","Denver, CO, USA",marshcanon
+"""been""","Carmel, CA, USA",marshcanon
+"""been""","San Jose, CA, USA",marshcanon
+"""want""","Manila, Philippines",marshcanon
+"""been""","Jacksonville, FL, USA",marshcanon
+"""been""","Carlsbad, CA, USA",marshcanon
+"""been""","Jaco, Costa Rica",marshcanon
+"""want""","Karon, Thailand",marshcanon
+"""want""","Fukuoka, Japan",marshcanon
+"""been""","Tijuana, Mexico",marshcanon
+"""want""","Nabq Bay, Egypt",marshcanon
+"""been""","San Simeon, CA, USA",marshcanon
+"""been""","Albuquerque, NM, USA",marshcanon
+"""been""","Celebration, FL, USA",marshcanon
+"""been""","Williamsburg, VA, USA",marshcanon
+"""want""","St. John's, Antigua and Barbuda",marshcanon
+"""been""","Baltimore, MD, USA",marshcanon
+"""been""","Berkeley, CA, USA",marshcanon
+"""been""","Stellenbosch, South Africa",marshcanon
+"""want""","Sapporo, Japan",marshcanon
+"""want""","Kobe, Japan",marshcanon
+"""been""","Gainesville, FL, USA",marshcanon
+"""want""","Kyoto, Japan",marshcanon
+"""been""","Osaka, Japan",marshcanon
+"""want""","Savannah, GA, USA",marshcanon
+"""want""","Cartagena, Colombia",marshcanon
+"""been""","Ocean City, NJ, USA",marshcanon
+"""want""","Funchal, Portugal",marshcanon
+"""want""","Paphos, Cyprus",marshcanon
+"""want""","Puerto de Santiago, Spain",marshcanon
+"""been""","Sandusky, OH, USA",marshcanon
+"""been""","Starkville, MS, USA",marshcanon
+"""been""","Parma, OH, USA",marshcanon
+"""want""","Estes Park, CO, USA",marshcanon
+"""been""","Houston, TX, USA",marshcanon
+"""been""","Colorado Springs, CO, USA",marshcanon
+"""been""","Teresopolis, Brazil",marshcanon
+"""been""","Sandton, South Africa",marshcanon
+"""been""","St. Helena, CA, USA",marshcanon
+"""been""","Brooklyn, NY, USA",marshcanon
+"""want""","Guangzhou, China",marshcanon
+"""been""","Providence, RI, USA",marshcanon
+"""been""","San Jose, Costa Rica",marshcanon
+"""want""","Kota Kinabalu, Malaysia",marshcanon
+"""want""","Sao Paulo, Brazil",marshcanon
+"""want""","Seoul, South Korea",marshcanon
+"""want""","Bogota, Colombia",marshcanon
+"""want""","Ubatuba, Brazil",marshcanon
+"""been""","San Francisco, CA, USA",marshcanon
+"""been""","Fort Lauderdale, FL, USA",marshcanon
+"""been""","San Antonio, TX, USA",marshcanon
+"""been""","Burlington, VT, USA",marshcanon
+"""want""","Naples, FL, USA",marshcanon
+"""been"",""want""","Tucson, AZ, USA",marshcanon
+"""want""","Gumbet, Turkey",marshcanon
+"""been""","Charleston, SC, USA",marshcanon
+"""been""","Johannesburg, South Africa",marshcanon
+"""been""","West Hollywood, CA, USA",marshcanon
+"""want""","Santa Fe, NM, USA",marshcanon
+"""want""","Bodrum City, Turkey",marshcanon
+"""want""","Nusa Dua, Indonesia",marshcanon
+"""been"",""fave""","Punta del Este, Uruguay",marshcanon
+"""want""","Guardalavaca, Cuba",marshcanon
+"""been""","Newark, NJ, USA",marshcanon
+"""been""","Rio de Janeiro, Brazil",marshcanon
+"""been""","Niteroi, Brazil",marshcanon
+"""want""","Porto, Portugal",marshcanon
+"""been""","Paraty, Brazil",marshcanon
+"""been""","Sausalito, CA, USA",marshcanon
+"""want""","Taba, Egypt",marshcanon
+"""been""","Hershey, PA, USA",marshcanon
+"""been""","Medina, OH, USA",marshcanon
+"""want""","San Juan, Puerto Rico",marshcanon
+"""want""","Hurghada, Egypt",marshcanon
+"""want""","El Gouna, Egypt",marshcanon
+"""want""","Dubrovnik, Croatia",marshcanon
+"""want""","Makadi Bay, Egypt",marshcanon
+"""been""","Louisville, KY, USA",marshcanon
+"""been""","Big Sur, CA, USA",marshcanon
+"""been""","Santa Clara, CA, USA",marshcanon
+"""want""","Cayo Guillermo, Cuba",marshcanon
+"""been"",""fave""","Santa Barbara, CA, USA",marshcanon
+"""been""","Santa Cruz, CA, USA",marshcanon
+"""want""","Runaway Bay, Jamaica",marshcanon
+"""been""","Memphis, TN, USA",marshcanon
+"""been""","Beverly Hills, CA, USA",marshcanon
+"""want""","Ocho Rios, Jamaica",marshcanon
+"""want""","Negril, Jamaica",marshcanon
+"""want""","Bologna, Italy",marshcanon
+"""been""","South Jordan, UT, USA",marshcanon
+"""been""","University, MS, USA",marshcanon
+"""want""","St. Petersburg, Russia",marshcanon
+"""want""","Bayahibe, Dominican Republic",marshcanon
+"""been""","Freeport, Bahamas",marshcanon
+"""been""","Akron, OH, USA",marshcanon
+"""been""","Santa Monica, CA, USA",marshcanon
+"""been""","Santa Rosa, CA, USA",marshcanon
+"""been""","Puerto Iguazu, Argentina",marshcanon
+"""want""","Singapore, Singapore",marshcanon
+"""want""","Sant Antoni de Portmany, Spain",marshcanon
+"""been""","El Paso, TX, USA",marshcanon
+"""been""","Ventura, CA, USA",marshcanon
+"""want""","Omaha, NE, USA",marshcanon
+"""been""","New York City, NY, USA",marshcanon
+"""want""","Genoa, Italy",marshcanon
+"""want""","Abu Dhabi, United Arab Emirates",marshcanon
+"""want""","Tulum, Mexico",marshcanon
+"""been""","Playa del Carmen, Mexico",marshcanon
+"""been""","Richmond, VA, USA",marshcanon
+"""been""","Cambridge, MA, USA",marshcanon
+"""been""","Atlanta, GA, USA",marshcanon
+"""want""","Banff, Alberta, Canada",marshcanon
+"""been""","Lancaster, PA, USA",marshcanon
+"""been""","Dublin, Ireland",marshcanon
+"""want""","Bengaluru, India",marshcanon
+"""want""","Virginia Beach, VA, USA",marshcanon
+"""want""","Krakow, Poland",marshcanon
+"""been""","Cancun, Mexico",marshcanon
+"""want""","Budapest, Hungary",marshcanon
+"""been""","Oaxaca, Mexico",marshcanon
+"""been""","Mexico City, Mexico",marshcanon
+"""been""","Erie, PA, USA",marshcanon
+"""been""","Indianapolis, IN, USA",marshcanon
+"""been""","Washington DC, DC, USA",marshcanon
+"""been""","Dayton, OH, USA",marshcanon
+"""been""","Buenos Aires, Argentina",marshcanon
+"""want""","Milan, Italy",marshcanon
+"""want""","Jakarta, Indonesia",marshcanon
+"""want""","Daytona Beach, FL, USA",marshcanon
+"""been""","Austintown, OH, USA",marshcanon
+"""want""","San Salvador, El Salvador",marshcanon
+"""been"",""fave""","Mammoth Lakes, CA, USA",marshcanon
+"""been""","Wilmington, NC, USA",marshcanon
+"""want""","Playa de las Americas, Spain",marshcanon
+"""been""","Macau, China",marshcanon
+"""been""","Cabo San Lucas, Mexico",marshcanon
+"""been""","San Jose del Cabo, Mexico",marshcanon
+"""been""","Gettysburg, PA, USA",marshcanon
+"""want""","Protaras, Cyprus",marshcanon
+"""been""","North Jackson, OH, USA",marshcanon
+"""been""","Philadelphia, PA, USA",marshcanon
+"""want""","El Calafate, Argentina",marshcanon
+"""been""","Hong Kong, China",marshcanon
+"""been"",""fave""","Grand Canyon National Park, AZ, USA",marshcanon
+"""been""","Dubai, United Arab Emirates",marshcanon
+"""want""","Kusadasi, Turkey",marshcanon
+"""been""","West Point, MS, USA",marshcanon
+"""been""","North Canton, OH, USA",marshcanon
+"""want""","Vancouver, British Columbia, Canada",marshcanon
+"""want""","Holguin, Cuba",marshcanon
+"""been""","Oakland, CA, USA",marshcanon
+"""want""","Whistler, British Columbia, Canada",marshcanon
+"""been""","Maidenhead, UK",marshcanon
+"""want""","Nairobi, Kenya",marshcanon
+"""been""","Glasgow, UK",marshcanon
+"""been""","Montevideo, Uruguay",marshcanon
+"""been"",""fave""","Ilha Grande, Brazil",marshcanon
+"""want""","Antalya, Turkey",marshcanon
+"""want""","Beijing, China",marshcanon
+"""want""","Alanya, Turkey",marshcanon
+"""want""","Mombasa, Kenya",marshcanon
+"""been""","Armacao dos Buzios, Brazil",marshcanon
+"""want""","Tallinn, Estonia",marshcanon
+"""want""","Venice, Italy",marshcanon
+"""want""","Belo Horizonte, Brazil",marshcanon
+"""want""","Surfers Paradise, Australia",marshcanon
+"""want""","Machu Picchu, Peru",marshcanon
+"""been""","Oxford, MS, USA",marshcanon
+"""want""","Lima, Peru",marshcanon
+"""want""","Bophut, Thailand",marshcanon
+"""want""","Cusco, Peru",marshcanon
+"""been""","Birmingham, UK",marshcanon
+"""want""","Turin, Italy",marshcanon
+"""been""","Edinburgh, UK",marshcanon
+"""want""","Hammamet, Tunisia",marshcanon
+"""want""","Sousse, Tunisia",marshcanon
+"""want""","Ubud, Indonesia",marshcanon
+"""want""","Sanur, Indonesia",marshcanon
+"""want""","Cairo, Egypt",marshcanon
+"""want""","Melaka, Malaysia",marshcanon
+"""been""","Chattanooga, TN, USA",marshcanon
+"""been""","Columbus, OH, USA",marshcanon
+"""been""","Ratingen, Germany",marshcanon
+"""been""","Angra Dos Reis, Brazil",marshcanon
+"""want""","Valencia, Spain",marshcanon
+"""been""","Santiago, Chile",marshcanon
+"""want""","Porto Seguro, Brazil",marshcanon
+"""want""","Benidorm, Spain",marshcanon
+"""been""","Florence, Italy",marshcanon
+"""been""","Salvador, Brazil",marshcanon
+"""been""","Niagara Falls, NY, USA",marshcanon
+"""been""","Atlantic City, NJ, USA",marshcanon
+"""want""","Kata Beach, Thailand",marshcanon
+"""want""","Santa Eulalia del Rio, Spain",marshcanon
+"""been"",""fave""","Lulea, Sweden",marshcanon
+"""want""","Helsinki, Finland",marshcanon
+"""want""","Madrid, Spain",marshcanon
+"""want""","Patong, Thailand",marshcanon
+"""want""","Prague, Czech Republic",marshcanon
+"""been""","Cleveland, OH, USA",marshcanon
+"""been""","Raleigh, NC, USA",marshcanon
+"""been""","Brighton, UT, USA",marshcanon
+"""been""","Canton, OH, USA",marshcanon
+"""want""","Munich, Germany",marshcanon
+"""want""","Fortaleza, Brazil",marshcanon
+"""want""","Auckland, New Zealand",marshcanon
+"""been""","London, UK",marshcanon
+"""been""","Stockholm, Sweden",marshcanon
+"""been""","Cambridge, UK",marshcanon
+"""been""","Cardiff, UK",marshcanon
+"""been""","Rome, Italy",marshcanon
+"""been""","Palo Alto, CA, USA",marshcanon
+"""been""","Palm Desert, CA, USA",marshcanon
+"""been""","Palm Springs, CA, USA",marshcanon
+"""want""","Jackson, WY, USA",marshcanon
+"""been""","Niagara Falls, Ontario, Canada",marshcanon
+"""been""","Niagara-on-the-Lake, Ontario, Canada",marshcanon
+"""want""","Naples, Italy",marshcanon
+"""want""","Faliraki, Greece",marshcanon
+"""want""","Laganas, Greece",marshcanon
+"""been""","Pasadena, CA, USA",marshcanon
+"""been""","Williams, AZ, USA",marshcanon
+"""been""","Monterey, CA, USA",marshcanon
+"""been""","Redding, CA, USA",marshcanon
+"""been""","Dallas, TX, USA",marshcanon
+"""been""","Albany, NY, USA",marshcanon
+"""want""","Sydney, Australia",marshcanon
+"""want""","Seminyak, Indonesia",marshcanon
+"""want""","Brisbane, Australia",marshcanon
+"""been""","Oxford, UK",marshcanon
+"""been""","Columbus, MS, USA",marshcanon
+"""been""","Reading, UK",marshcanon
+"""want""","Hamburg, Germany",marshcanon
+"""been"",""fave""","Yosemite National Park, CA, USA",marshcanon
+"""been""","Mendocino, CA, USA",marshcanon
+"""want""","Minato, Japan",marshcanon
+"""been""","Cuyahoga Falls, OH, USA",marshcanon
+"""want""","Shinjuku, Japan",marshcanon
+"""been""","Shibuya, Japan",marshcanon
+"""want""","Oia, Greece",marshcanon
+"""been""","Jackson, MS, USA",marshcanon
+"""want""","Marbella, Spain",marshcanon
+"""want""","Seville, Spain",marshcanon
+"""want""","Berlin, Germany",marshcanon
+"""want""","Kathmandu, Nepal",marshcanon
+"""been""","Itaparica, Brazil",marshcanon
+"""want""","Torremolinos, Spain",marshcanon
+"""been""","Lexington, KY, USA",marshcanon
+"""been""","Harrisburg, PA, USA",marshcanon
+"""been""","Charlotte, NC, USA",marshcanon
+"""been""","Hartford, CT, USA",marshcanon

@@ -1,0 +1,414 @@
+tag,place,user
+"""want""","Seven Mile Beach, Cayman Islands",YogiJCC
+"""want""","Palm - Eagle Beach, Aruba",YogiJCC
+"""want""","Oranjestad, Aruba",YogiJCC
+"""been""","Barranquilla, Colombia",YogiJCC
+"""been""","St. John's, Antigua and Barbuda",YogiJCC
+"""been"",""want""","Antigua, Antigua and Barbuda",YogiJCC
+"""been""","Bayahibe, Dominican Republic",YogiJCC
+"""been""","Cartagena, Colombia",YogiJCC
+"""want""","Galway, Ireland",YogiJCC
+"""want""","Medellin, Colombia",YogiJCC
+"""been""","Pereira, Colombia",YogiJCC
+"""been""","Dublin, Ireland",YogiJCC
+"""been""","Cleveland, OH, USA",YogiJCC
+"""want""","Acapulco, Mexico",YogiJCC
+"""been"",""want""","Paramaribo, Suriname",YogiJCC
+"""want""","Hyderabad, India",YogiJCC
+"""been""","Salta, Argentina",YogiJCC
+"""want""","Mazatlan, Mexico",YogiJCC
+"""been""","Playa Blanca, Spain",YogiJCC
+"""want""","Seoul, South Korea",YogiJCC
+"""been""","Puerto Vallarta, Mexico",YogiJCC
+"""been""","Bogota, Colombia",YogiJCC
+"""want""","Los Roques National Park, Venezuela",YogiJCC
+"""been"",""want""","Tbilisi, Georgia",YogiJCC
+"""been""","La Paz, Bolivia",YogiJCC
+"""been""","San Juan del Sur, Nicaragua",YogiJCC
+"""been"",""fave""","Guadalajara, Mexico",YogiJCC
+"""been"",""want""","Caracas, Venezuela",YogiJCC
+"""been"",""fave""","Philipsburg, St Martin \u002F St Maarten",YogiJCC
+"""want""","Gumbet, Turkey",YogiJCC
+"""been"",""fave""","Washington DC, DC, USA",YogiJCC
+"""want""","Castries, St. Lucia",YogiJCC
+"""been"",""want""","Morrocoy National Park, Venezuela",YogiJCC
+"""want""","Punta del Este, Uruguay",YogiJCC
+"""been""","Bronx, NY, USA",YogiJCC
+"""been""","Playa Mujeres, Mexico",YogiJCC
+"""been""","St. Barthelemy, Caribbean",YogiJCC
+"""been""","Remedios, Cuba",YogiJCC
+"""been""","Hollywood, FL, USA",YogiJCC
+"""want""","Daytona Beach, FL, USA",YogiJCC
+"""been"",""fave""","Kotor, Montenegro",YogiJCC
+"""want""","Cabo San Lucas, Mexico",YogiJCC
+"""want""","Moscow, Russia",YogiJCC
+"""been""","Santo Domingo, Dominican Republic",YogiJCC
+"""been""","Belize City, Belize",YogiJCC
+"""want""","Kos Town, Greece",YogiJCC
+"""been""","Bocas Town, Panama",YogiJCC
+"""want""","Siem Reap, Cambodia",YogiJCC
+"""been""","Varadero, Cuba",YogiJCC
+"""want""","Willemstad, Curacao",YogiJCC
+"""been""","Guadalajara, Spain",YogiJCC
+"""want""","San Pedro, Belize",YogiJCC
+"""been"",""want""","Maupiti Island, French Polynesia",YogiJCC
+"""been"",""want""","Nueva Gerona, Cuba",YogiJCC
+"""been"",""want""","Baracoa, Cuba",YogiJCC
+"""been""","Camaguey, Cuba",YogiJCC
+"""been""","Havana, Cuba",YogiJCC
+"""been""","Santiago de Cuba, Cuba",YogiJCC
+"""been"",""fave""","Cuba, Caribbean",YogiJCC
+"""want""","Cebu City, Philippines",YogiJCC
+"""been""","Niagara Falls, NY, USA",YogiJCC
+"""want""","Virginia Beach, VA, USA",YogiJCC
+"""been""","St. Vincent, St. Vincent and the Grenadines",YogiJCC
+"""been""","Lloret de Mar, Spain",YogiJCC
+"""want""","Kuala Lumpur, Malaysia",YogiJCC
+"""been"",""want""","San Andres Island, Colombia",YogiJCC
+"""been""","Santa Marta, Colombia",YogiJCC
+"""want""","Manila, Philippines",YogiJCC
+"""been""","Atlantic City, NJ, USA",YogiJCC
+"""been""","Puerto Iguazu, Argentina",YogiJCC
+"""want""","Muscat, Oman",YogiJCC
+"""been""","Ensenada, Mexico",YogiJCC
+"""been""","Tijuana, Mexico",YogiJCC
+"""been""","Fort Worth, TX, USA",YogiJCC
+"""want""","Merida, Mexico",YogiJCC
+"""want""","Monterey, CA, USA",YogiJCC
+"""been"",""fave""","Playa del Carmen, Mexico",YogiJCC
+"""been"",""fave""","Tulum, Mexico",YogiJCC
+"""been""","Charlotte Amalie, U.S. Virgin Islands",YogiJCC
+"""been"",""fave""","Montreal, Quebec, Canada",YogiJCC
+"""want""","Bengaluru, India",YogiJCC
+"""been""","Quebec City, Quebec, Canada",YogiJCC
+"""want""","Beirut, Lebanon",YogiJCC
+"""been"",""want""","Guayaquil, Ecuador",YogiJCC
+"""want""","Funchal, Portugal",YogiJCC
+"""been""","Panama City, Panama",YogiJCC
+"""want""","Palm Springs, CA, USA",YogiJCC
+"""been""","Pittsburgh, PA, USA",YogiJCC
+"""want""","Paphos, Cyprus",YogiJCC
+"""been""","Civitavecchia, Italy",YogiJCC
+"""want""","Budapest, Hungary",YogiJCC
+"""want""","Jakarta, Indonesia",YogiJCC
+"""been""","Tamarindo, Costa Rica",YogiJCC
+"""been""","Milwaukee, WI, USA",YogiJCC
+"""want""","Kyiv (Kiev), Ukraine",YogiJCC
+"""want""","Lisbon, Portugal",YogiJCC
+"""been"",""want""","Larnaca, Cyprus",YogiJCC
+"""been""","Lucerne, Switzerland",YogiJCC
+"""been""","Lugano, Switzerland",YogiJCC
+"""want""","Johannesburg, South Africa",YogiJCC
+"""want""","Porto, Portugal",YogiJCC
+"""want""","Warsaw, Poland",YogiJCC
+"""been""","Paraty, Brazil",YogiJCC
+"""been""","Sucre, Bolivia",YogiJCC
+"""been""","Cardenas, Cuba",YogiJCC
+"""been"",""fave""","Guardalavaca, Cuba",YogiJCC
+"""been""","Rio de Janeiro, Brazil",YogiJCC
+"""been"",""fave""","Manuel Antonio, Costa Rica",YogiJCC
+"""been""","Interlaken, Switzerland",YogiJCC
+"""been""","Jaco, Costa Rica",YogiJCC
+"""want""","Alanya, Turkey",YogiJCC
+"""want""","Antalya, Turkey",YogiJCC
+"""been""","Charlotte, NC, USA",YogiJCC
+"""want""","Nairobi, Kenya",YogiJCC
+"""been""","Provincetown, MA, USA",YogiJCC
+"""want""","Hong Kong, China",YogiJCC
+"""want""","Dubai, United Arab Emirates",YogiJCC
+"""want""","Beijing, China",YogiJCC
+"""been""","San Juan, Puerto Rico",YogiJCC
+"""been""","Los Angeles, CA, USA",YogiJCC
+"""want""","Mahe Island, Seychelles",YogiJCC
+"""been""","Chicago, IL, USA",YogiJCC
+"""been"",""want"",""fave""","Santa Cruz, Bolivia",YogiJCC
+"""been""","Nuevo Vallarta, Mexico",YogiJCC
+"""been""","Las Vegas, NV, USA",YogiJCC
+"""want""","Manchester, UK",YogiJCC
+"""want""","Bavaro, Dominican Republic",YogiJCC
+"""been"",""want""","Dubrovnik, Croatia",YogiJCC
+"""want""","Negril, Jamaica",YogiJCC
+"""want""","Ocho Rios, Jamaica",YogiJCC
+"""been""","Sayulita, Mexico",YogiJCC
+"""been""","Cayo Largo, Cuba",YogiJCC
+"""been""","Stuttgart, Germany",YogiJCC
+"""been"",""fave""","Buenos Aires, Argentina",YogiJCC
+"""been""","Echteld, The Netherlands",YogiJCC
+"""been""","Phoenix, AZ, USA",YogiJCC
+"""want""","Runaway Bay, Jamaica",YogiJCC
+"""want""","Napa, CA, USA",YogiJCC
+"""been""","Long Beach, CA, USA",YogiJCC
+"""want""","Mar del Plata, Argentina",YogiJCC
+"""want""","Ottawa, Ontario, Canada",YogiJCC
+"""been""","Antigua, Guatemala",YogiJCC
+"""want""","Lagos, Portugal",YogiJCC
+"""want""","Algarve, Portugal",YogiJCC
+"""want""","Shanghai, China",YogiJCC
+"""been""","Liberia, Costa Rica",YogiJCC
+"""been""","Dallas, TX, USA",YogiJCC
+"""want""","Krakow, Poland",YogiJCC
+"""want""","Freeport, Bahamas",YogiJCC
+"""want""","Cape Town Central, South Africa",YogiJCC
+"""want""","Pune, India",YogiJCC
+"""been""","Playa Samara, Costa Rica",YogiJCC
+"""been"",""want""","Maui, HI, USA",YogiJCC
+"""been""","Sacramento, CA, USA",YogiJCC
+"""want""","St. Petersburg, Russia",YogiJCC
+"""want""","Singapore, Singapore",YogiJCC
+"""been""","Puerto Morelos, Mexico",YogiJCC
+"""been""","Geneva, Switzerland",YogiJCC
+"""been""","Toronto, Ontario, Canada",YogiJCC
+"""been""","Santa Clara, Cuba",YogiJCC
+"""want""","Fajardo, Puerto Rico",YogiJCC
+"""been""","Mexico City, Mexico",YogiJCC
+"""been""","Cancun, Mexico",YogiJCC
+"""been""","Chichen Itza, Mexico",YogiJCC
+"""been""","Nassau, Bahamas",YogiJCC
+"""want""","Adeje, Spain",YogiJCC
+"""want""","Doha, Qatar",YogiJCC
+"""been"",""want""","Paradise Island, Bahamas",YogiJCC
+"""been""","Basel, Switzerland",YogiJCC
+"""want""","Abu Dhabi, United Arab Emirates",YogiJCC
+"""want""","Oslo, Norway",YogiJCC
+"""been""","Amsterdam, The Netherlands",YogiJCC
+"""been""","Favaro Veneto, Italy",YogiJCC
+"""been""","La Jolla, CA, USA",YogiJCC
+"""want""","Curitiba, Brazil",YogiJCC
+"""been""","Orlando, FL, USA",YogiJCC
+"""been""","Detroit, MI, USA",YogiJCC
+"""been""","Accra, Ghana",YogiJCC
+"""want""","Brasilia, Brazil",YogiJCC
+"""been""","Paris, France",YogiJCC
+"""been""","Foz do Iguacu, Brazil",YogiJCC
+"""been""","Winterthur, Switzerland",YogiJCC
+"""want""","Salt Lake City, UT, USA",YogiJCC
+"""been""","Zurich, Switzerland",YogiJCC
+"""want""","Nashville, TN, USA",YogiJCC
+"""want""","Icmeler, Turkey",YogiJCC
+"""been""","San Francisco, Mexico",YogiJCC
+"""want""","Costa Adeje, Spain",YogiJCC
+"""been""","Toulon, France",YogiJCC
+"""been""","La Penita de Jaltemba, Mexico",YogiJCC
+"""want""","Baltimore, MD, USA",YogiJCC
+"""want""","Albuquerque, NM, USA",YogiJCC
+"""want""","Marseille, France",YogiJCC
+"""been""","Barcelona, Spain",YogiJCC
+"""been""","Cologne, Germany",YogiJCC
+"""been""","Mykonos, Greece",YogiJCC
+"""been""","Dusseldorf, Germany",YogiJCC
+"""want""","Savannah, GA, USA",YogiJCC
+"""been""","Salamanca, Spain",YogiJCC
+"""been""","Eindhoven, The Netherlands",YogiJCC
+"""been""","Bucerias, Mexico",YogiJCC
+"""been""","Vienna, Austria",YogiJCC
+"""want""","Porto de Galinhas, Brazil",YogiJCC
+"""been""","West Palm Beach, FL, USA",YogiJCC
+"""want""","New Delhi, India",YogiJCC
+"""want""","Kolkata (Calcutta), India",YogiJCC
+"""been""","Scottsdale, AZ, USA",YogiJCC
+"""want""","Mumbai, India",YogiJCC
+"""been""","Alicante, Spain",YogiJCC
+"""been""","Sedona, AZ, USA",YogiJCC
+"""want""","Minneapolis, MN, USA",YogiJCC
+"""want""","Chennai (Madras), India",YogiJCC
+"""want""","Heidelberg, Germany",YogiJCC
+"""been""","Brooklyn, NY, USA",YogiJCC
+"""want""","Valletta, Malta",YogiJCC
+"""been""","Providence, RI, USA",YogiJCC
+"""been"",""want""","Mykonos Town, Greece",YogiJCC
+"""been""","Salzburg, Austria",YogiJCC
+"""been""","Guantanamo, Cuba",YogiJCC
+"""want""","St. Pete Beach, FL, USA",YogiJCC
+"""want""","Maceio, Brazil",YogiJCC
+"""been""","Tucson, AZ, USA",YogiJCC
+"""been""","San Francisco, CA, USA",YogiJCC
+"""been""","Baden-Baden, Germany",YogiJCC
+"""been""","Dresden, Germany",YogiJCC
+"""want""","Santa Fe, NM, USA",YogiJCC
+"""want""","San Antonio, TX, USA",YogiJCC
+"""been""","Montpellier, France",YogiJCC
+"""been""","Cienfuegos, Cuba",YogiJCC
+"""been""","Portland, OR, USA",YogiJCC
+"""want""","Wailea, HI, USA",YogiJCC
+"""want""","Tampa, FL, USA",YogiJCC
+"""been"",""fave""","Cayo Coco, Cuba",YogiJCC
+"""been""","Miami, FL, USA",YogiJCC
+"""been""","Miami Beach, FL, USA",YogiJCC
+"""been"",""fave""","Machu Picchu, Peru",YogiJCC
+"""want""","Luxor, Egypt",YogiJCC
+"""been""","Prague, Czech Republic",YogiJCC
+"""been"",""want""","Karachi, Pakistan",YogiJCC
+"""want""","Cairo, Egypt",YogiJCC
+"""want""","Montevideo, Uruguay",YogiJCC
+"""been""","Palma de Mallorca, Spain",YogiJCC
+"""want""","Cannes, France",YogiJCC
+"""been"",""want"",""fave""","Athens, Greece",YogiJCC
+"""been""","Holguin, Cuba",YogiJCC
+"""been"",""want""","Menorca, Spain",YogiJCC
+"""want""","Bergen, Norway",YogiJCC
+"""want""","Bruges, Belgium",YogiJCC
+"""been""","San Jose, Costa Rica",YogiJCC
+"""want""","Brisbane, Australia",YogiJCC
+"""want""","Kallithea, Greece",YogiJCC
+"""want""","Quito, Ecuador",YogiJCC
+"""want""","Riga, Latvia",YogiJCC
+"""been""","Anaheim, CA, USA",YogiJCC
+"""been""","Lima, Peru",YogiJCC
+"""been""","Arequipa, Peru",YogiJCC
+"""been""","Tikal National Park, Guatemala",YogiJCC
+"""been""","Cusco, Peru",YogiJCC
+"""been"",""want""","Tallinn, Estonia",YogiJCC
+"""want""","Austin, TX, USA",YogiJCC
+"""been""","Sao Paulo, Brazil",YogiJCC
+"""been""","Frankfurt, Germany",YogiJCC
+"""been""","Hamburg, Germany",YogiJCC
+"""want""","Bilbao, Spain",YogiJCC
+"""want""","Sydney, Australia",YogiJCC
+"""been""","Pawtucket, RI, USA",YogiJCC
+"""been""","Patong, Thailand",YogiJCC
+"""want""","Santiago, Chile",YogiJCC
+"""want""","Monte-Carlo, Monaco",YogiJCC
+"""been""","Krabi Town, Thailand",YogiJCC
+"""been""","Toledo, Spain",YogiJCC
+"""want""","Copenhagen, Denmark",YogiJCC
+"""want""","Adelaide, Australia",YogiJCC
+"""want""","Joao Pessoa, Brazil",YogiJCC
+"""want""","Puerto de la Cruz, Spain",YogiJCC
+"""want""","Palmanova, Spain",YogiJCC
+"""want""","Myrtle Beach, SC, USA",YogiJCC
+"""want""","Vail, CO, USA",YogiJCC
+"""want""","Las Terrenas, Dominican Republic",YogiJCC
+"""been"",""want""","Tenerife, Spain",YogiJCC
+"""want""","Agios Nikolaos, Greece",YogiJCC
+"""been""","Karon, Thailand",YogiJCC
+"""want""","Nice, France",YogiJCC
+"""want""","Gothenburg, Sweden",YogiJCC
+"""been""","Hannover, Germany",YogiJCC
+"""been"",""want"",""fave""","Cayo Santa Maria, Cuba",YogiJCC
+"""been""","Anchorage, AK, USA",YogiJCC
+"""want""","Liverpool, UK",YogiJCC
+"""been""","London, UK",YogiJCC
+"""want""","Antwerp, Belgium",YogiJCC
+"""been""","New York City, NY, USA",YogiJCC
+"""been""","Rotterdam, The Netherlands",YogiJCC
+"""been"",""want""","Naples, Italy",YogiJCC
+"""been"",""want""","Mancora, Peru",YogiJCC
+"""want""","Fethiye, Turkey",YogiJCC
+"""been""","Fort Lauderdale, FL, USA",YogiJCC
+"""want""","Porto Seguro, Brazil",YogiJCC
+"""been""","Valencia, Spain",YogiJCC
+"""want""","Salvador, Brazil",YogiJCC
+"""want""","Carmel, CA, USA",YogiJCC
+"""been""","Fort Myers, FL, USA",YogiJCC
+"""been""","Fort Myers Beach, FL, USA",YogiJCC
+"""been""","Kissimmee, FL, USA",YogiJCC
+"""been""","San Jose, CA, USA",YogiJCC
+"""been""","Florence, Italy",YogiJCC
+"""want""","Denver, CO, USA",YogiJCC
+"""been""","Livorno, Italy",YogiJCC
+"""been""","Atlanta, GA, USA",YogiJCC
+"""want""","Playa de las Americas, Spain",YogiJCC
+"""been""","Niagara-on-the-Lake, Ontario, Canada",YogiJCC
+"""been"",""want""","Memphis, TN, USA",YogiJCC
+"""been""","Niagara Falls, Ontario, Canada",YogiJCC
+"""been""","Santiago de los Caballeros, Dominican Republic",YogiJCC
+"""been""","Granada, Nicaragua",YogiJCC
+"""been""","Isla Verde, Puerto Rico",YogiJCC
+"""want""","Ho Chi Minh City, Vietnam",YogiJCC
+"""want""","Hanoi, Vietnam",YogiJCC
+"""been""","Zaragoza, Spain",YogiJCC
+"""been""","West Hollywood, CA, USA",YogiJCC
+"""been""","Berlin, Germany",YogiJCC
+"""been""","Granada, Spain",YogiJCC
+"""been""","Torremolinos, Spain",YogiJCC
+"""been""","Seville, Spain",YogiJCC
+"""want""","Belfast, UK",YogiJCC
+"""been""","Newark, NJ, USA",YogiJCC
+"""been""","Bangkok, Thailand",YogiJCC
+"""been""","Chiang Mai, Thailand",YogiJCC
+"""want""","Hershey, PA, USA",YogiJCC
+"""want""","Jericoacoara, Brazil",YogiJCC
+"""been""","Munich, Germany",YogiJCC
+"""been""","Kata Beach, Thailand",YogiJCC
+"""want""","Taipei, Taiwan",YogiJCC
+"""want""","Fortaleza, Brazil",YogiJCC
+"""been""","Malaga, Spain",YogiJCC
+"""been""","Phuket, Thailand",YogiJCC
+"""been""","Marbella, Spain",YogiJCC
+"""want""","Colorado Springs, CO, USA",YogiJCC
+"""been""","Brussels, Belgium",YogiJCC
+"""been""","Philadelphia, PA, USA",YogiJCC
+"""been""","Cordoba, Spain",YogiJCC
+"""want""","Punta Cana, Dominican Republic",YogiJCC
+"""want""","Stockholm, Sweden",YogiJCC
+"""want""","Reykjavik, Iceland",YogiJCC
+"""been""","Cadiz, Spain",YogiJCC
+"""want""","Ixtapa, Mexico",YogiJCC
+"""been""","Nuremberg, Germany",YogiJCC
+"""been""","Puerto Plata, Dominican Republic",YogiJCC
+"""been""","La Romana, Dominican Republic",YogiJCC
+"""been""","Rome, Italy",YogiJCC
+"""want""","San Jose del Cabo, Mexico",YogiJCC
+"""want""","Da Nang, Vietnam",YogiJCC
+"""been""","Saratoga Springs, NY, USA",YogiJCC
+"""want""","Macau, China",YogiJCC
+"""been"",""want""","Mecca, Saudi Arabia",YogiJCC
+"""been""","Sitges, Spain",YogiJCC
+"""want""","Glasgow, UK",YogiJCC
+"""been""","Vancouver, British Columbia, Canada",YogiJCC
+"""want""","Hoi An, Vietnam",YogiJCC
+"""been""","Charleston, SC, USA",YogiJCC
+"""want""","Victoria, British Columbia, Canada",YogiJCC
+"""been"",""want""","Melbourne, Australia",YogiJCC
+"""been""","Leon, Nicaragua",YogiJCC
+"""want""","Recife, Brazil",YogiJCC
+"""been""","Milan, Italy",YogiJCC
+"""want""","Marrakech, Morocco",YogiJCC
+"""want""","Auckland Central, New Zealand",YogiJCC
+"""want""","Edinburgh, UK",YogiJCC
+"""want""","Amman, Jordan",YogiJCC
+"""want""","Jerusalem, Israel",YogiJCC
+"""been"",""fave""","Tayrona National Park, Colombia",YogiJCC
+"""want""","Tel Aviv, Israel",YogiJCC
+"""been""","Flagstaff, AZ, USA",YogiJCC
+"""been""","Houston, TX, USA",YogiJCC
+"""been""","Buffalo, NY, USA",YogiJCC
+"""been""","Flores, Guatemala",YogiJCC
+"""been""","Newport, RI, USA",YogiJCC
+"""want""","Tokyo, Japan",YogiJCC
+"""want""","Santa Cruz, CA, USA",YogiJCC
+"""been""","Punta de Mita, Mexico",YogiJCC
+"""want""","Akumal, Mexico",YogiJCC
+"""been""","Santa Monica, CA, USA",YogiJCC
+"""want""","Casablanca, Morocco",YogiJCC
+"""want""","Istanbul, Turkey",YogiJCC
+"""want""","Fes, Morocco",YogiJCC
+"""want""","Benidorm, Spain",YogiJCC
+"""want""","Clearwater, FL, USA",YogiJCC
+"""been"",""want""","Puerto Padre, Cuba",YogiJCC
+"""want""","Williamsburg, VA, USA",YogiJCC
+"""been"",""want""","Honolulu, HI, USA",YogiJCC
+"""been""","Boston, MA, USA",YogiJCC
+"""been""","New Orleans, LA, USA",YogiJCC
+"""want""","Belo Horizonte, Brazil",YogiJCC
+"""want""","Cayo Guillermo, Cuba",YogiJCC
+"""been""","Armacao dos Buzios, Brazil",YogiJCC
+"""been""","Deventer, The Netherlands",YogiJCC
+"""been""","Madrid, Spain",YogiJCC
+"""want""","Helsinki, Finland",YogiJCC
+"""want""","Colombo, Sri Lanka",YogiJCC
+"""been""","Seward, AK, USA",YogiJCC
+"""want""","Santa Barbara, CA, USA",YogiJCC
+"""been""","Ilha Grande, Brazil",YogiJCC
+"""want""","Kihei, HI, USA",YogiJCC
+"""been"",""want""","Islamabad, Pakistan",YogiJCC
+"""been""","San Diego, CA, USA",YogiJCC
+"""want""","Kailua-Kona, HI, USA",YogiJCC
+"""been""","Cincinnati, OH, USA",YogiJCC
+"""been"",""want""","Venice, Italy",YogiJCC
+"""been""","Seattle, WA, USA",YogiJCC
+"""want""","Lahaina, HI, USA",YogiJCC
+"""want""","Verona, Italy",YogiJCC
+"""want""","Halifax, Nova Scotia, Canada",YogiJCC
+"""been""","Mont Tremblant, Quebec, Canada",YogiJCC
+"""been""","Beverly Hills, CA, USA",YogiJCC

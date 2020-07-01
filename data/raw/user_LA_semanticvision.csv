@@ -1,0 +1,770 @@
+tag,place,user
+"""been""","Aquileia, Italy",semanticvision
+"""been""","Seguret, France",semanticvision
+"""been""","Udine, Italy",semanticvision
+"""been""","Kunming, China",semanticvision
+"""been""","Seoul, South Korea",semanticvision
+"""been""","Grinzane Cavour, Italy",semanticvision
+"""been""","San Lorenzo de El Escorial, Spain",semanticvision
+"""been""","Charlotte, NC, USA",semanticvision
+"""been""","Manarola, Italy",semanticvision
+"""been""","Oxnard, CA, USA",semanticvision
+"""been""","El Escorial, Spain",semanticvision
+"""been""","Vernazza, Italy",semanticvision
+"""been""","Riomaggiore, Italy",semanticvision
+"""been""","Monterosso al Mare, Italy",semanticvision
+"""been""","Tomar, Portugal",semanticvision
+"""been""","Canicattini Bagni, Italy",semanticvision
+"""been""","Nagasaki, Japan",semanticvision
+"""been""","La Spezia, Italy",semanticvision
+"""been""","Buftea, Romania",semanticvision
+"""been""","Osaka, Japan",semanticvision
+"""been""","Burgau, Portugal",semanticvision
+"""been"",""fave""","Kyoto, Japan",semanticvision
+"""been""","Kobe, Japan",semanticvision
+"""been""","Sapporo, Japan",semanticvision
+"""been""","Tijuana, Mexico",semanticvision
+"""been""","Ontario, CA, USA",semanticvision
+"""been""","Fontane Bianche, Italy",semanticvision
+"""been""","Orange, CA, USA",semanticvision
+"""been""","Ensenada, Mexico",semanticvision
+"""been""","Bellagio, Italy",semanticvision
+"""been""","Cremona, Italy",semanticvision
+"""been"",""fave""","Varenna, Italy",semanticvision
+"""been""","Jesi, Italy",semanticvision
+"""been""","Como, Italy",semanticvision
+"""been""","Bergamo, Italy",semanticvision
+"""been""","Sortino, Italy",semanticvision
+"""been""","Oakland, CA, USA",semanticvision
+"""been""","Oakville, CA, USA",semanticvision
+"""been""","Peabody, MA, USA",semanticvision
+"""been""","Leccio, Italy",semanticvision
+"""been""","Oceanside, CA, USA",semanticvision
+"""been""","Valenii de Munte, Romania",semanticvision
+"""been""","Ojai, CA, USA",semanticvision
+"""been""","Baveno, Italy",semanticvision
+"""been""","Sirmione, Italy",semanticvision
+"""been""","Milan, Italy",semanticvision
+"""been""","Qingdao, China",semanticvision
+"""been""","Cassibile, Italy",semanticvision
+"""been""","Stresa, Italy",semanticvision
+"""been""","Bagnoregio, Italy",semanticvision
+"""been""","Lincoln, CA, USA",semanticvision
+"""been""","Crespano del Grappa, Italy",semanticvision
+"""been""","Matsumoto, Japan",semanticvision
+"""been""","Hayashima-cho, Japan",semanticvision
+"""been""","Kanazawa, Japan",semanticvision
+"""been""","Komatsu, Japan",semanticvision
+"""been""","Lennox, CA, USA",semanticvision
+"""been""","Giurgiu, Romania",semanticvision
+"""been""","Takayama, Japan",semanticvision
+"""been""","Tenryu-mura, Japan",semanticvision
+"""been""","Gifu, Japan",semanticvision
+"""been""","Fukui, Japan",semanticvision
+"""been""","Satsumasendai, Japan",semanticvision
+"""been""","Gavorrano, Italy",semanticvision
+"""been""","Pico Rivera, CA, USA",semanticvision
+"""been""","Lazise, Italy",semanticvision
+"""been""","Latina, Italy",semanticvision
+"""been""","Kirishima, Japan",semanticvision
+"""been""","Pederobba, Italy",semanticvision
+"""been""","Keelung, Taiwan",semanticvision
+"""been""","Santillana del Mar, Spain",semanticvision
+"""been""","Ito, Japan",semanticvision
+"""been""","Niigata, Japan",semanticvision
+"""been""","Nanaimo, British Columbia, Canada",semanticvision
+"""been""","Paso Robles, CA, USA",semanticvision
+"""been""","Agira, Italy",semanticvision
+"""been""","Pebble Beach, CA, USA",semanticvision
+"""been""","San Pietro in Cariano, Italy",semanticvision
+"""been""","Pitesti, Romania",semanticvision
+"""been""","Ploiesti, Romania",semanticvision
+"""been""","Tainan, Taiwan",semanticvision
+"""been""","Taipei, Taiwan",semanticvision
+"""been""","Lancaster, CA, USA",semanticvision
+"""been""","Lakewood, CA, USA",semanticvision
+"""been""","Carson City, NV, USA",semanticvision
+"""been""","Palos Verdes Estates, CA, USA",semanticvision
+"""been""","Paramount, CA, USA",semanticvision
+"""been""","Pasadena, CA, USA",semanticvision
+"""been""","Saint Paul, MN, USA",semanticvision
+"""been""","Serralunga d'Alba, Italy",semanticvision
+"""been""","Bologna, Italy",semanticvision
+"""been""","Nagoya, Japan",semanticvision
+"""been""","Toyohashi, Japan",semanticvision
+"""been""","Dallas, TX, USA",semanticvision
+"""been""","Lawndale, CA, USA",semanticvision
+"""been""","Richland, MS, USA",semanticvision
+"""been""","Raymond, MS, USA",semanticvision
+"""been""","San Donato Milanese, Italy",semanticvision
+"""been""","City of San Marino, San Marino",semanticvision
+"""been""","Palmdale, CA, USA",semanticvision
+"""been""","Ravenna, Italy",semanticvision
+"""been""","Palo Alto, CA, USA",semanticvision
+"""been""","Bloomington, MN, USA",semanticvision
+"""been""","Pisa, Italy",semanticvision
+"""been""","Dobova, Slovenia",semanticvision
+"""been""","Gilroy, CA, USA",semanticvision
+"""been""","Taormina, Italy",semanticvision
+"""been""","Marcon, Italy",semanticvision
+"""been""","Syracuse, Italy",semanticvision
+"""been""","Palermo, Italy",semanticvision
+"""been""","Hakusan, Japan",semanticvision
+"""been""","Chiba, Japan",semanticvision
+"""been""","Gardena, CA, USA",semanticvision
+"""been""","Florence, Italy",semanticvision
+"""been""","Garden Grove, CA, USA",semanticvision
+"""been""","Cortona, Italy",semanticvision
+"""been""","Otaru, Japan",semanticvision
+"""been""","Narita, Japan",semanticvision
+"""been""","Benalmadena, Spain",semanticvision
+"""been""","Barstow, CA, USA",semanticvision
+"""been""","Pelago, Italy",semanticvision
+"""been""","Minneapolis, MN, USA",semanticvision
+"""been""","Weimar, Germany",semanticvision
+"""been""","London, UK",semanticvision
+"""been""","Glendora, CA, USA",semanticvision
+"""been""","Glendale, CA, USA",semanticvision
+"""been""","Nanao, Japan",semanticvision
+"""been""","Yokohama, Japan",semanticvision
+"""been""","Hakone-machi, Japan",semanticvision
+"""been""","Kawasaki, Japan",semanticvision
+"""been""","Lakewood, CO, USA",semanticvision
+"""been""","Bernalda, Italy",semanticvision
+"""been""","Kesennuma, Japan",semanticvision
+"""been""","Malaga, Spain",semanticvision
+"""been""","Fountain Valley, CA, USA",semanticvision
+"""been""","San Felice, Italy",semanticvision
+"""been""","Foster City, CA, USA",semanticvision
+"""been"",""fave""","Cordoba, Spain",semanticvision
+"""been""","Kurashiki, Japan",semanticvision
+"""been""","Okayama, Japan",semanticvision
+"""been""","Cadiz, Spain",semanticvision
+"""been""","Aljezur, Portugal",semanticvision
+"""been""","Pismo Beach, CA, USA",semanticvision
+"""been""","Victoria, British Columbia, Canada",semanticvision
+"""been""","Kamisu, Japan",semanticvision
+"""been""","Salt Lake City, UT, USA",semanticvision
+"""been""","Vancouver, British Columbia, Canada",semanticvision
+"""been""","Placentia, CA, USA",semanticvision
+"""been""","Tofino, British Columbia, Canada",semanticvision
+"""been""","Las Vegas, NV, USA",semanticvision
+"""been""","Zaragoza, Spain",semanticvision
+"""been""","Satu Mare, Romania",semanticvision
+"""been""","Fullerton, CA, USA",semanticvision
+"""been""","Torremolinos, Spain",semanticvision
+"""been"",""fave""","Granada, Spain",semanticvision
+"""been""","Chitose, Japan",semanticvision
+"""been""","Seville, Spain",semanticvision
+"""been""","Hakodate, Japan",semanticvision
+"""been""","Piesport, Germany",semanticvision
+"""been""","Yamanashi, Japan",semanticvision
+"""been""","Somma Lombardo, Italy",semanticvision
+"""been""","Koshu, Japan",semanticvision
+"""been""","Piazza Armerina, Italy",semanticvision
+"""been""","Villefranche-de-Conflent, France",semanticvision
+"""been""","Romano d'Ezzelino, Italy",semanticvision
+"""been""","Jerusalem, Israel",semanticvision
+"""been""","Tel Aviv, Israel",semanticvision
+"""been""","Hacienda Heights, CA, USA",semanticvision
+"""been""","Kaysersberg, France",semanticvision
+"""been"",""fave""","Nara, Japan",semanticvision
+"""been""","Lujan de Cuyo, Argentina",semanticvision
+"""been""","Brighton, CO, USA",semanticvision
+"""been""","Padua, Italy",semanticvision
+"""been""","Treviso, Italy",semanticvision
+"""been""","Monreale, Italy",semanticvision
+"""been""","Hawthorne, CA, USA",semanticvision
+"""been""","Pasadena, TX, USA",semanticvision
+"""been""","Hawaiian Gardens, CA, USA",semanticvision
+"""been""","Fiumicino, Italy",semanticvision
+"""been""","Callao, Peru",semanticvision
+"""been""","Ribeauville, France",semanticvision
+"""been""","Sosa, Japan",semanticvision
+"""been""","Torano Nuovo, Italy",semanticvision
+"""been""","Noto, Italy",semanticvision
+"""been""","Agoura Hills, CA, USA",semanticvision
+"""been""","Floridia, Italy",semanticvision
+"""been""","Torcello, Italy",semanticvision
+"""been""","Massa Marittima, Italy",semanticvision
+"""been""","Chino Hills, CA, USA",semanticvision
+"""been""","Santo Stefano Belbo, Italy",semanticvision
+"""been"",""fave""","Venice, Italy",semanticvision
+"""been""","Chino, CA, USA",semanticvision
+"""been"",""fave""","Verona, Italy",semanticvision
+"""been""","Tokyo, Japan",semanticvision
+"""been""","Yountville, CA, USA",semanticvision
+"""been""","Vila Nova de Gaia, Portugal",semanticvision
+"""been""","Nikko, Japan",semanticvision
+"""been""","Nasushiobara, Japan",semanticvision
+"""been""","Modica, Italy",semanticvision
+"""been""","Reno, NV, USA",semanticvision
+"""been""","Dessau, Germany",semanticvision
+"""been""","Messina, Italy",semanticvision
+"""been""","Istanbul, Turkey",semanticvision
+"""been""","Catania, Italy",semanticvision
+"""been""","Primm, NV, USA",semanticvision
+"""been""","Dover, UK",semanticvision
+"""been""","Augusta, Italy",semanticvision
+"""been""","Cagliari, Italy",semanticvision
+"""been""","Claremont, CA, USA",semanticvision
+"""been""","City of Industry, CA, USA",semanticvision
+"""been""","Ormoz, Slovenia",semanticvision
+"""been""","Kenting National Park, Taiwan",semanticvision
+"""been""","Himeji, Japan",semanticvision
+"""been""","Niagara Falls, Ontario, Canada",semanticvision
+"""been""","Ferreira do Zezere, Portugal",semanticvision
+"""been""","Gradisca d'Isonzo, Italy",semanticvision
+"""been""","Kamakura, Japan",semanticvision
+"""been""","Tangier, Morocco",semanticvision
+"""been""","Gaucin, Spain",semanticvision
+"""been""","Weil am Rhein, Germany",semanticvision
+"""been""","Newark, NJ, USA",semanticvision
+"""been""","Noboribetsu, Japan",semanticvision
+"""been""","Valladolid, Spain",semanticvision
+"""been""","Marseille, France",semanticvision
+"""been""","Salamanca, Spain",semanticvision
+"""been""","Segovia, Spain",semanticvision
+"""been""","Girona, Spain",semanticvision
+"""been"",""fave""","Barcelona, Spain",semanticvision
+"""been"",""fave""","Pitigliano, Italy",semanticvision
+"""been""","Colorado Springs, CO, USA",semanticvision
+"""been""","Pienza, Italy",semanticvision
+"""been""","Stanton, CA, USA",semanticvision
+"""been""","Anaheim, CA, USA",semanticvision
+"""been""","Covina, CA, USA",semanticvision
+"""been""","Annecy, France",semanticvision
+"""been""","Boston, MA, USA",semanticvision
+"""been""","Chamonix, France",semanticvision
+"""been""","Ljutomer, Slovenia",semanticvision
+"""been""","Huzhou, China",semanticvision
+"""been""","Amsterdam, The Netherlands",semanticvision
+"""been""","Linguaglossa, Italy",semanticvision
+"""been""","Nicolosi, Italy",semanticvision
+"""been""","Lyon, France",semanticvision
+"""been""","Baldwin Park, CA, USA",semanticvision
+"""been""","Dana Point, CA, USA",semanticvision
+"""been""","Baker, CA, USA",semanticvision
+"""been""","Lagoa, Portugal",semanticvision
+"""been""","Cypress, CA, USA",semanticvision
+"""been""","South El Monte, CA, USA",semanticvision
+"""been""","South Gate, CA, USA",semanticvision
+"""been""","Cupertino, CA, USA",semanticvision
+"""been""","Culver City, CA, USA",semanticvision
+"""been""","South Pasadena, CA, USA",semanticvision
+"""been""","South San Francisco, CA, USA",semanticvision
+"""been""","Cudahy, CA, USA",semanticvision
+"""been"",""fave""","Roussillon, France",semanticvision
+"""been""","Castagnole Lanze, Italy",semanticvision
+"""been""","Cincinnati, OH, USA",semanticvision
+"""been""","San Diego, CA, USA",semanticvision
+"""been""","Corona del Mar, CA, USA",semanticvision
+"""been""","Corona, CA, USA",semanticvision
+"""been""","Baden-Baden, Germany",semanticvision
+"""been""","Compton, CA, USA",semanticvision
+"""been""","New York City, NY, USA",semanticvision
+"""been""","Healdsburg, CA, USA",semanticvision
+"""been""","Solvang, CA, USA",semanticvision
+"""been""","Commerce, CA, USA",semanticvision
+"""been""","Sonoma, CA, USA",semanticvision
+"""been""","Freiburg im Breisgau, Germany",semanticvision
+"""been""","Murano, Italy",semanticvision
+"""been""","Alhambra, CA, USA",semanticvision
+"""been""","Aliso Viejo, CA, USA",semanticvision
+"""been""","Salzburg, Austria",semanticvision
+"""been""","Marsala, Italy",semanticvision
+"""been""","Marina di Grosseto, Italy",semanticvision
+"""been""","Canelli, Italy",semanticvision
+"""been""","Altadena, CA, USA",semanticvision
+"""been""","Costa Mesa, CA, USA",semanticvision
+"""been""","Coronado, CA, USA",semanticvision
+"""been""","Hermosa Beach, CA, USA",semanticvision
+"""been""","San Quirico d'Orcia, Italy",semanticvision
+"""been""","Stuttgart, Germany",semanticvision
+"""been""","Tosa, Japan",semanticvision
+"""been""","Fuenmayor, Spain",semanticvision
+"""been""","Vienna, Austria",semanticvision
+"""been""","Azeitao, Portugal",semanticvision
+"""been""","Lima, Peru",semanticvision
+"""been"",""fave""","Prague, Czech Republic",semanticvision
+"""been""","San Sebastian - Donostia, Spain",semanticvision
+"""been""","Chateauneuf-du-Pape, France",semanticvision
+"""been""","Southampton, NY, USA",semanticvision
+"""been""","Susaki, Japan",semanticvision
+"""been""","Apt, France",semanticvision
+"""been""","Burgas, Bulgaria",semanticvision
+"""been""","Weifang, China",semanticvision
+"""been""","Temecula, CA, USA",semanticvision
+"""been"",""fave""","Arles, France",semanticvision
+"""been""","Temple City, CA, USA",semanticvision
+"""been""","Bilbao, Spain",semanticvision
+"""been""","Avignon, France",semanticvision
+"""been""","Berkeley, CA, USA",semanticvision
+"""been""","Belmont Shore, CA, USA",semanticvision
+"""been""","Ginza, Japan",semanticvision
+"""been""","San Francisco, CA, USA",semanticvision
+"""been""","Big Bear City, CA, USA",semanticvision
+"""been""","Balboa Island, CA, USA",semanticvision
+"""been""","Westhofen, Germany",semanticvision
+"""been""","Stevenson Ranch, CA, USA",semanticvision
+"""been""","Beverly Hills, CA, USA",semanticvision
+"""been""","Monte-Carlo, Monaco",semanticvision
+"""been""","Thousand Oaks, CA, USA",semanticvision
+"""been""","Nagaoka, Japan",semanticvision
+"""been""","Nice, France",semanticvision
+"""been""","Sunnyvale, CA, USA",semanticvision
+"""been""","Denver, CO, USA",semanticvision
+"""been""","Davis, CA, USA",semanticvision
+"""been""","Choshi, Japan",semanticvision
+"""been""","Obuse-machi, Japan",semanticvision
+"""been""","Gordes, France",semanticvision
+"""been""","Aso, Japan",semanticvision
+"""been""","Ureshino, Japan",semanticvision
+"""been""","Bellflower, CA, USA",semanticvision
+"""been""","Houston, TX, USA",semanticvision
+"""been"",""fave""","Toledo, Spain",semanticvision
+"""been""","Bell Gardens, CA, USA",semanticvision
+"""been""","Bell, CA, USA",semanticvision
+"""been""","Diamond Bar, CA, USA",semanticvision
+"""been""","Port O'Connor, TX, USA",semanticvision
+"""been""","Valpovo, Croatia",semanticvision
+"""been""","Belisce, Croatia",semanticvision
+"""been""","Burgos, Spain",semanticvision
+"""been""","Leon, Spain",semanticvision
+"""been""","Portsmouth, NH, USA",semanticvision
+"""been""","Voluntari, Romania",semanticvision
+"""been""","Takasaki, Japan",semanticvision
+"""been""","Beremend, Hungary",semanticvision
+"""been""","Cozumel, Mexico",semanticvision
+"""been""","Maipu, Argentina",semanticvision
+"""been""","Joshua Tree National Park, CA, USA",semanticvision
+"""been""","Toronto, Ontario, Canada",semanticvision
+"""been""","Ronchamp, France",semanticvision
+"""been""","Positano, Italy",semanticvision
+"""been""","Chateau-Renard, France",semanticvision
+"""been""","Ivanjkovci, Slovenia",semanticvision
+"""been""","Ubuyama-mura, Japan",semanticvision
+"""been""","Tustin, CA, USA",semanticvision
+"""been""","Possagno, Italy",semanticvision
+"""been""","Saftica, Romania",semanticvision
+"""been""","Ravello, Italy",semanticvision
+"""been""","Ragusa, Italy",semanticvision
+"""been""","Calatafimi-Segesta, Italy",semanticvision
+"""been""","Torrance, CA, USA",semanticvision
+"""been""","Trabuco Canyon, CA, USA",semanticvision
+"""been""","Santa Firmina, Italy",semanticvision
+"""been""","Kuma-mura, Japan",semanticvision
+"""been""","Magong, Taiwan",semanticvision
+"""been""","Salsomaggiore Terme, Italy",semanticvision
+"""been""","Buttrio, Italy",semanticvision
+"""been""","Pomona, CA, USA",semanticvision
+"""been""","Vista Flores, Argentina",semanticvision
+"""been""","Colmar, France",semanticvision
+"""been""","Neviglie, Italy",semanticvision
+"""been""","Nazare, Portugal",semanticvision
+"""been""","Montesilvano, Italy",semanticvision
+"""been""","Montepulciano, Italy",semanticvision
+"""been""","Mammoth Lakes, CA, USA",semanticvision
+"""been""","Sinaia, Romania",semanticvision
+"""been""","Predeal, Romania",semanticvision
+"""been""","Philadelphia, PA, USA",semanticvision
+"""been""","Treiso, Italy",semanticvision
+"""been""","Montemassi, Italy",semanticvision
+"""been""","Isola Bella, Italy",semanticvision
+"""been""","Fuzhou, China",semanticvision
+"""been""","Bayonne, France",semanticvision
+"""been""","Strasbourg, France",semanticvision
+"""been""","Avila, Spain",semanticvision
+"""been""","Antequera, Spain",semanticvision
+"""been""","Paestum, Italy",semanticvision
+"""been""","Fuengirola, Spain",semanticvision
+"""been""","Tarifa, Spain",semanticvision
+"""been"",""fave""","Orvieto, Italy",semanticvision
+"""been""","Rocca San Giovanni, Italy",semanticvision
+"""been""","Carrapateira, Portugal",semanticvision
+"""been""","Saint-Jean-de-Luz, France",semanticvision
+"""been""","Butimanu, Romania",semanticvision
+"""been""","Figueres, Spain",semanticvision
+"""been""","Hualien City, Taiwan",semanticvision
+"""been""","Lexington, KY, USA",semanticvision
+"""been""","Portlligat, Spain",semanticvision
+"""been""","Unzen, Japan",semanticvision
+"""been""","Mont-Saint-Michel, France",semanticvision
+"""been""","Redondo Beach, CA, USA",semanticvision
+"""been""","Palazzolo Acreide, Italy",semanticvision
+"""been""","Zafferana Etnea, Italy",semanticvision
+"""been"",""fave""","Fukuoka, Japan",semanticvision
+"""been""","Kakamigahara, Japan",semanticvision
+"""been""","Hida, Japan",semanticvision
+"""been""","Rancho Cucamonga, CA, USA",semanticvision
+"""been""","Rancho Dominguez, CA, USA",semanticvision
+"""been""","Rancho Palos Verdes, CA, USA",semanticvision
+"""been""","Jackson, MS, USA",semanticvision
+"""been""","Rancho Santa Margarita, CA, USA",semanticvision
+"""been""","Tsushima, Japan",semanticvision
+"""been""","Koto, Japan",semanticvision
+"""been""","Postioma, Italy",semanticvision
+"""been""","Chuo, Japan",semanticvision
+"""been""","Chiyoda, Japan",semanticvision
+"""been""","Plovdiv, Bulgaria",semanticvision
+"""been""","Awaji, Japan",semanticvision
+"""been""","Cape Elizabeth, ME, USA",semanticvision
+"""been""","Ramona, CA, USA",semanticvision
+"""been""","Rancho Bernardo, CA, USA",semanticvision
+"""been""","Richmond, KY, USA",semanticvision
+"""been""","Sumida, Japan",semanticvision
+"""been""","Shinjuku, Japan",semanticvision
+"""been""","Shibuya, Japan",semanticvision
+"""been""","Varna, Bulgaria",semanticvision
+"""been""","Setagaya, Japan",semanticvision
+"""been""","Ota, Japan",semanticvision
+"""been""","Brasov, Romania",semanticvision
+"""been""","Minato, Japan",semanticvision
+"""been""","Meguro, Japan",semanticvision
+"""been""","Niagara Falls, NY, USA",semanticvision
+"""been""","Poway, CA, USA",semanticvision
+"""been""","Erlanger, KY, USA",semanticvision
+"""been""","Yuzawa-machi, Japan",semanticvision
+"""been""","Cignano, Italy",semanticvision
+"""been""","Otopeni, Romania",semanticvision
+"""been""","Kochi, Japan",semanticvision
+"""been""","Gravina di Catania, Italy",semanticvision
+"""been""","Matsuyama, Japan",semanticvision
+"""been""","Rowland Heights, CA, USA",semanticvision
+"""been""","Taito, Japan",semanticvision
+"""been""","Rutherford, CA, USA",semanticvision
+"""been""","Sacramento, CA, USA",semanticvision
+"""been""","New Richmond, WI, USA",semanticvision
+"""been""","Akashi, Japan",semanticvision
+"""been""","Alba Adriatica, Italy",semanticvision
+"""been""","Alba, Italy",semanticvision
+"""been""","Agrigento, Italy",semanticvision
+"""been""","Villa San Giovanni, Italy",semanticvision
+"""been"",""fave""","Ronda, Spain",semanticvision
+"""been"",""fave""","Siena, Italy",semanticvision
+"""been""","Sendai, Japan",semanticvision
+"""been""","Huntington Park, CA, USA",semanticvision
+"""been""","San Gimignano, Italy",semanticvision
+"""been""","Huntington Beach, CA, USA",semanticvision
+"""been""","Koriyama, Japan",semanticvision
+"""been""","Long Island City, NY, USA",semanticvision
+"""been""","Rolling Hills, CA, USA",semanticvision
+"""been""","Rolling Hills Estates, CA, USA",semanticvision
+"""been""","Rosemead, CA, USA",semanticvision
+"""been""","Arcadia, CA, USA",semanticvision
+"""been""","Assisi, Italy",semanticvision
+"""been""","Caltagirone, Italy",semanticvision
+"""been""","Signoressa, Italy",semanticvision
+"""been""","Arezzo, Italy",semanticvision
+"""been""","Otok, Croatia",semanticvision
+"""been""","Beppu, Japan",semanticvision
+"""been""","Vila Nogueira de Azeitao, Portugal",semanticvision
+"""been""","Miyazaki, Japan",semanticvision
+"""been""","Kumamoto, Japan",semanticvision
+"""been""","Kagoshima, Japan",semanticvision
+"""been""","Agrelo, Argentina",semanticvision
+"""been""","Riverside, CA, USA",semanticvision
+"""been""","Osceola, WI, USA",semanticvision
+"""been""","Elciego, Spain",semanticvision
+"""been""","Anacapri, Italy",semanticvision
+"""been""","Priolo Gargallo, Italy",semanticvision
+"""been""","Melilli, Italy",semanticvision
+"""been""","Oamishirasato, Japan",semanticvision
+"""been""","Beaumes-de-Venise, France",semanticvision
+"""been""","Venafro, Italy",semanticvision
+"""been""","Elche, Spain",semanticvision
+"""been""","Borso del Grappa, Italy",semanticvision
+"""been""","Downey, CA, USA",semanticvision
+"""been""","Coazzolo, Italy",semanticvision
+"""been""","June Lake, CA, USA",semanticvision
+"""been""","Sliven, Bulgaria",semanticvision
+"""been""","Astorga, Spain",semanticvision
+"""been""","Berea, KY, USA",semanticvision
+"""been""","Serravalle Scrivia, Italy",semanticvision
+"""been""","Norwalk, CA, USA",semanticvision
+"""been""","Temse, Belgium",semanticvision
+"""been""","Munich, Germany",semanticvision
+"""been""","Sorrento, Italy",semanticvision
+"""been""","Salerno, Italy",semanticvision
+"""been""","Amalfi, Italy",semanticvision
+"""been""","Laguardia, Spain",semanticvision
+"""been""","Kenwood, CA, USA",semanticvision
+"""been""","Duarte, CA, USA",semanticvision
+"""been""","Pompeii, Italy",semanticvision
+"""been""","Jerez De La Frontera, Spain",semanticvision
+"""been""","Sant'Albino, Italy",semanticvision
+"""been""","Naples, Italy",semanticvision
+"""been""","Newport Beach, CA, USA",semanticvision
+"""been""","Capri, Italy",semanticvision
+"""been""","Higashiosaka, Japan",semanticvision
+"""been""","Minamiuonuma, Japan",semanticvision
+"""been""","Joetsu, Japan",semanticvision
+"""been""","Montebelluna, Italy",semanticvision
+"""been""","Sado, Japan",semanticvision
+"""been""","Aurora, CO, USA",semanticvision
+"""been""","Fussen, Germany",semanticvision
+"""been""","Augsburg, Germany",semanticvision
+"""been""","Campobasso, Italy",semanticvision
+"""been""","Dinkelsbuhl, Germany",semanticvision
+"""been""","Nordlingen, Germany",semanticvision
+"""been""","Rothenburg, Germany",semanticvision
+"""been""","Inglewood, CA, USA",semanticvision
+"""been""","Vatican City, Vatican City",semanticvision
+"""been""","Rome, Italy",semanticvision
+"""been""","Wenshan County, China",semanticvision
+"""been""","Brussels, Belgium",semanticvision
+"""been""","Nuremberg, Germany",semanticvision
+"""been""","Chicago, IL, USA",semanticvision
+"""been""","Artesia, CA, USA",semanticvision
+"""been""","Batignano, Italy",semanticvision
+"""been""","Shiraoi-cho, Japan",semanticvision
+"""been""","Sobetsu-cho, Japan",semanticvision
+"""been""","Shinagawa, Japan",semanticvision
+"""been""","Belfast, UK",semanticvision
+"""been""","Hounslow, UK",semanticvision
+"""been""","Berlin, Germany",semanticvision
+"""been""","Irwindale, CA, USA",semanticvision
+"""been""","Irvine, CA, USA",semanticvision
+"""been""","Avalon, CA, USA",semanticvision
+"""been""","New Haven, CT, USA",semanticvision
+"""been""","Avola, Italy",semanticvision
+"""been""","Taunton, UK",semanticvision
+"""been""","Changsha, China",semanticvision
+"""been""","Azusa, CA, USA",semanticvision
+"""been""","Avila Beach, CA, USA",semanticvision
+"""been""","Tunuyan, Argentina",semanticvision
+"""been""","Shirakawa-mura, Japan",semanticvision
+"""been""","Birmingham, UK",semanticvision
+"""been""","Sakai, Japan",semanticvision
+"""been""","Brea, CA, USA",semanticvision
+"""been""","Laguna Hills, CA, USA",semanticvision
+"""been""","Laguna Beach, CA, USA",semanticvision
+"""been""","South Burlington, VT, USA",semanticvision
+"""been""","La Verne, CA, USA",semanticvision
+"""been""","El Toro, CA, USA",semanticvision
+"""been""","El Segundo, CA, USA",semanticvision
+"""been""","La Puente, CA, USA",semanticvision
+"""been""","Mascalucia, Italy",semanticvision
+"""been""","Vaison-la-Romaine, France",semanticvision
+"""been""","La Palma, CA, USA",semanticvision
+"""been""","Isola Madre, Italy",semanticvision
+"""been""","Ueda, Japan",semanticvision
+"""been""","La Mirada, CA, USA",semanticvision
+"""been""","Glendale, CO, USA",semanticvision
+"""been""","Upland, CA, USA",semanticvision
+"""been""","Chikuma, Japan",semanticvision
+"""been""","Vacaville, CA, USA",semanticvision
+"""been"",""fave""","Chiaramonte Gulfi, Italy",semanticvision
+"""been""","Holmdel, NJ, USA",semanticvision
+"""been""","Santiago de Compostela, Spain",semanticvision
+"""been""","Escondido, CA, USA",semanticvision
+"""been""","Encinitas, CA, USA",semanticvision
+"""been""","Lake Forest, CA, USA",semanticvision
+"""been""","Emeryville, CA, USA",semanticvision
+"""been""","Laguna Woods, CA, USA",semanticvision
+"""been""","Bad Kreuznach, Germany",semanticvision
+"""been""","Laguna Niguel, CA, USA",semanticvision
+"""been""","Solarino, Italy",semanticvision
+"""been""","Affi, Italy",semanticvision
+"""been""","Gela, Italy",semanticvision
+"""been""","Madrid, Spain",semanticvision
+"""been""","Haro, Spain",semanticvision
+"""been""","Logrono, Spain",semanticvision
+"""been""","East Los Angeles, CA, USA",semanticvision
+"""been""","Gibraltar, Europe",semanticvision
+"""been""","Ichinoseki, Japan",semanticvision
+"""been""","Orlando, FL, USA",semanticvision
+"""been""","Ruse, Bulgaria",semanticvision
+"""been""","Detroit, MI, USA",semanticvision
+"""been""","Yambol, Bulgaria",semanticvision
+"""been""","Qiubei County, China",semanticvision
+"""been""","El Monte, CA, USA",semanticvision
+"""been""","San Lazzaro di Savena, Italy",semanticvision
+"""been""","La Jolla, CA, USA",semanticvision
+"""been""","La Habra, CA, USA",semanticvision
+"""been""","Alicante, Spain",semanticvision
+"""been""","La Canada Flintridge, CA, USA",semanticvision
+"""been""","Pamplona, Spain",semanticvision
+"""been""","Bargino, Italy",semanticvision
+"""been""","Minheim, Germany",semanticvision
+"""been""","Chiayi, Taiwan",semanticvision
+"""been""","La Granja de San Ildefonso, Spain",semanticvision
+"""been""","Cambria, CA, USA",semanticvision
+"""been""","Camarillo, CA, USA",semanticvision
+"""been""","St. Helena, CA, USA",semanticvision
+"""been""","Calistoga, CA, USA",semanticvision
+"""been""","Salinas, CA, USA",semanticvision
+"""been""","Burlington, VT, USA",semanticvision
+"""been""","Enna, Italy",semanticvision
+"""been""","Hsinchu, Taiwan",semanticvision
+"""been""","Kaohsiung, Taiwan",semanticvision
+"""been""","Hoofddorp, The Netherlands",semanticvision
+"""been""","Taoyuan, Taiwan",semanticvision
+"""been""","Taichung, Taiwan",semanticvision
+"""been"",""fave""","Paris, France",semanticvision
+"""been""","Versailles, France",semanticvision
+"""been""","Vista, CA, USA",semanticvision
+"""been""","Southampton, UK",semanticvision
+"""been""","Walnut, CA, USA",semanticvision
+"""been""","Seattle, WA, USA",semanticvision
+"""been""","Carcassonne Center, France",semanticvision
+"""been""","Enniskillen, UK",semanticvision
+"""been""","Tumbes, Peru",semanticvision
+"""been""","Nimes, France",semanticvision
+"""been""","Narbonne, France",semanticvision
+"""been""","Trier, Germany",semanticvision
+"""been""","Minamisoma, Japan",semanticvision
+"""been""","Montevarchi, Italy",semanticvision
+"""been""","Forli, Italy",semanticvision
+"""been""","Fairfield, CA, USA",semanticvision
+"""been""","Burbank, CA, USA",semanticvision
+"""been""","Buena Park, CA, USA",semanticvision
+"""been""","Dresden, Germany",semanticvision
+"""been""","Vernon, CA, USA",semanticvision
+"""been""","Rosa, Italy",semanticvision
+"""been""","Victorville, CA, USA",semanticvision
+"""been""","Suzette, France",semanticvision
+"""been""","Milagros, Spain",semanticvision
+"""been"",""fave""","Gigondas, France",semanticvision
+"""been""","Castagnole, Italy",semanticvision
+"""been""","Otama-mura, Japan",semanticvision
+"""been""","Chacras de Coria, Argentina",semanticvision
+"""been""","Calabasas, CA, USA",semanticvision
+"""been""","Evora, Portugal",semanticvision
+"""been""","Cabazon, CA, USA",semanticvision
+"""been""","Albi, France",semanticvision
+"""been""","Vallejo, CA, USA",semanticvision
+"""been""","Atlanta, GA, USA",semanticvision
+"""been""","Luton, UK",semanticvision
+"""been""","Frankfurt, Germany",semanticvision
+"""been""","Potsdam, Germany",semanticvision
+"""been""","Godoy Cruz, Argentina",semanticvision
+"""been""","Winters, CA, USA",semanticvision
+"""been""","Santa Ana, CA, USA",semanticvision
+"""been""","Santa Ana Heights, CA, USA",semanticvision
+"""been""","Santa Barbara, CA, USA",semanticvision
+"""been""","Santa Clara, CA, USA",semanticvision
+"""been""","Santa Clarita, CA, USA",semanticvision
+"""been""","Topanga, CA, USA",semanticvision
+"""been""","Santa Fe Springs, CA, USA",semanticvision
+"""been""","Cadaques, Spain",semanticvision
+"""been""","Centennial, CO, USA",semanticvision
+"""been""","Castelnuovo di Val di Cecina, Italy",semanticvision
+"""been""","Pesquera de Duero, Spain",semanticvision
+"""been""","Wintrich, Germany",semanticvision
+"""been""","Brooklyn, NY, USA",semanticvision
+"""been""","Asahi, Japan",semanticvision
+"""been""","Bruges, Belgium",semanticvision
+"""been""","San Mateo, CA, USA",semanticvision
+"""been""","Rennes, France",semanticvision
+"""been""","Yame, Japan",semanticvision
+"""been""","Cerritos, CA, USA",semanticvision
+"""been""","San Simeon, CA, USA",semanticvision
+"""been""","Noventa di Piave, Italy",semanticvision
+"""been""","Stara Zagora, Bulgaria",semanticvision
+"""been""","Westminster, CA, USA",semanticvision
+"""been""","San Jose, CA, USA",semanticvision
+"""been""","San Juan Capistrano, CA, USA",semanticvision
+"""been""","Tamano, Japan",semanticvision
+"""been""","Whittier, CA, USA",semanticvision
+"""been""","San Marino, CA, USA",semanticvision
+"""been""","Imabari, Japan",semanticvision
+"""been""","Rochester, NY, USA",semanticvision
+"""been""","Montalcino, Italy",semanticvision
+"""been""","West Covina, CA, USA",semanticvision
+"""been""","West Hollywood, CA, USA",semanticvision
+"""been""","Carson, CA, USA",semanticvision
+"""been""","San Clemente, CA, USA",semanticvision
+"""been""","Johnstown, CO, USA",semanticvision
+"""been""","Impruneta, Italy",semanticvision
+"""been""","Carpinteria, CA, USA",semanticvision
+"""been""","San Dimas, CA, USA",semanticvision
+"""been""","Reguengos de Monsaraz, Portugal",semanticvision
+"""been""","Kimitsu, Japan",semanticvision
+"""been""","San Gabriel, CA, USA",semanticvision
+"""been""","Westlake Village, CA, USA",semanticvision
+"""been""","Carmel, CA, USA",semanticvision
+"""been""","Bonn, Germany",semanticvision
+"""been""","Saiki, Japan",semanticvision
+"""been""","Carlsbad, CA, USA",semanticvision
+"""been""","Cologne, Germany",semanticvision
+"""been""","Peschiera del Garda, Italy",semanticvision
+"""been""","Taitung City, Taiwan",semanticvision
+"""been""","Valenca Do Douro, Portugal",semanticvision
+"""been""","Sierra Madre, CA, USA",semanticvision
+"""been""","Lisbon, Portugal",semanticvision
+"""been""","Ebetsu, Japan",semanticvision
+"""been""","Obidos, Portugal",semanticvision
+"""been""","Sintra, Portugal",semanticvision
+"""been""","Setubal, Portugal",semanticvision
+"""been""","Palmela, Portugal",semanticvision
+"""been""","Lido di Venezia, Italy",semanticvision
+"""been""","Pingtung City, Taiwan",semanticvision
+"""been""","Villafranca Tirrena, Italy",semanticvision
+"""been""","Guayaquil, Ecuador",semanticvision
+"""been""","Andorra la Vella, Andorra",semanticvision
+"""been""","Lamego, Portugal",semanticvision
+"""been""","Erice, Italy",semanticvision
+"""been""","Warsaw, Poland",semanticvision
+"""been""","Washington DC, DC, USA",semanticvision
+"""been""","Bucharest, Romania",semanticvision
+"""been""","Hong Kong, China",semanticvision
+"""been""","Neive, Italy",semanticvision
+"""been""","Naoshima-cho, Japan",semanticvision
+"""been""","Zagreb, Croatia",semanticvision
+"""been""","Beijing, China",semanticvision
+"""been""","Sausalito, CA, USA",semanticvision
+"""been""","Sofia, Bulgaria",semanticvision
+"""been""","Seal Beach, CA, USA",semanticvision
+"""been""","Jumilla, Spain",semanticvision
+"""been""","Manzano, Italy",semanticvision
+"""been""","Porto, Portugal",semanticvision
+"""been""","Lugano, Switzerland",semanticvision
+"""been""","Rio Mau, Portugal",semanticvision
+"""been""","Budapest, Hungary",semanticvision
+"""been""","Santa Monica, CA, USA",semanticvision
+"""been""","Santa Rosa, CA, USA",semanticvision
+"""been""","Yorba Linda, CA, USA",semanticvision
+"""been""","Garda, Italy",semanticvision
+"""been""","Portland, ME, USA",semanticvision
+"""been""","Penafiel, Spain",semanticvision
+"""been""","Consuegra, Spain",semanticvision
+"""been""","Ljubljana, Slovenia",semanticvision
+"""been""","Maribor, Slovenia",semanticvision
+"""been""","Grosseto, Italy",semanticvision
+"""been""","Coxen Hole, Honduras",semanticvision
+"""been""","Caltanissetta, Italy",semanticvision
+"""been"",""fave""","Civita di Bagnoregio, Italy",semanticvision
+"""been""","Albufeira, Portugal",semanticvision
+"""been""","New Taipei, Taiwan",semanticvision
+"""been""","Algarve, Portugal",semanticvision
+"""been""","Lagos, Portugal",semanticvision
+"""been""","Buenos Aires, Argentina",semanticvision
+"""been"",""fave""","Arcos de la Frontera, Spain",semanticvision
+"""been""","Bedoin, France",semanticvision
+"""been""","Cherry Valley, CA, USA",semanticvision
+"""been""","Sagres, Portugal",semanticvision
+"""been""","Ferno, Italy",semanticvision
+"""been""","Honfleur, France",semanticvision
+"""been""","Pula, Croatia",semanticvision
+"""been""","Luxembourg City, Luxembourg",semanticvision
+"""been""","Volterra, Italy",semanticvision
+"""been""","Cefalu, Italy",semanticvision
+"""been""","Vers-Pont-du-Gard, France",semanticvision
+"""been""","Abu Dhabi, United Arab Emirates",semanticvision
+"""been""","Basel, Switzerland",semanticvision
+"""been""","Shanghai, China",semanticvision
+"""been""","Ceske Budejovice, Czech Republic",semanticvision
+"""been""","Desenzano Del Garda, Italy",semanticvision
+"""been""","Cesky Krumlov, Czech Republic",semanticvision
+"""been""","Boldesti-Scaeni, Romania",semanticvision
+"""been""","Quinto di Treviso, Italy",semanticvision
+"""been""","Chiusi, Italy",semanticvision
+"""been""","Signal Hill, CA, USA",semanticvision
+"""been""","Osijek, Croatia",semanticvision
+"""been""","Simi Valley, CA, USA",semanticvision
+"""been""","Coimbra, Portugal",semanticvision
+"""been""","Mendoza, Argentina",semanticvision
+"""been""","Belem, Portugal",semanticvision
+"""been""","Lucerne, Switzerland",semanticvision
+"""been"",""fave""","Batalha, Portugal",semanticvision

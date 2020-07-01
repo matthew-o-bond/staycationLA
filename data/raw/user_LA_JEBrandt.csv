@@ -1,0 +1,520 @@
+tag,place,user
+"""been""","Devine, TX, USA",JEBrandt
+"""been""","Athens, GA, USA",JEBrandt
+"""been""","Monterey, CA, USA",JEBrandt
+"""been""","Rohnert Park, CA, USA",JEBrandt
+"""been""","Pebble Beach, CA, USA",JEBrandt
+"""want""","Hyderabad, India",JEBrandt
+"""been""","Stockdale, TX, USA",JEBrandt
+"""been""","Alta, UT, USA",JEBrandt
+"""been""","Sterling City, TX, USA",JEBrandt
+"""been""","Boerne, TX, USA",JEBrandt
+"""been""","Christine, TX, USA",JEBrandt
+"""been""","Ladyville, Belize",JEBrandt
+"""been"",""fave""","Pittsburgh, PA, USA",JEBrandt
+"""been""","Fredericksburg, TX, USA",JEBrandt
+"""been""","Winslow, AZ, USA",JEBrandt
+"""been""","Waco, TX, USA",JEBrandt
+"""been""","Vega, TX, USA",JEBrandt
+"""been""","Vanderpool, TX, USA",JEBrandt
+"""been""","Heber Springs, AR, USA",JEBrandt
+"""been""","Petaluma, CA, USA",JEBrandt
+"""been""","Hearne, TX, USA",JEBrandt
+"""been""","Sacramento, CA, USA",JEBrandt
+"""been""","Fort Stockton, TX, USA",JEBrandt
+"""been""","Hempstead, TX, USA",JEBrandt
+"""been""","Spur, TX, USA",JEBrandt
+"""been""","Victoria, TX, USA",JEBrandt
+"""been""","Huehuetenango, Guatemala",JEBrandt
+"""been""","Salama, Guatemala",JEBrandt
+"""been""","Fort Worth, TX, USA",JEBrandt
+"""been""","Santa Lucia Cotzumalguapa, Guatemala",JEBrandt
+"""been""","Tapachula, Mexico",JEBrandt
+"""been""","Spring, TX, USA",JEBrandt
+"""been""","Helotes, TX, USA",JEBrandt
+"""want""","Genoa, Italy",JEBrandt
+"""been""","San Vicente Pacaya, Guatemala",JEBrandt
+"""been""","Seine Bight Village, Belize",JEBrandt
+"""been""","Gastonia, NC, USA",JEBrandt
+"""been""","Hartford, CT, USA",JEBrandt
+"""been""","Arcata, CA, USA",JEBrandt
+"""been""","Oxnard, CA, USA",JEBrandt
+"""been""","Aptos, CA, USA",JEBrandt
+"""been""","Niles, MI, USA",JEBrandt
+"""been""","Houma, LA, USA",JEBrandt
+"""been""","Burrell Boom, Belize",JEBrandt
+"""been""","Van Horn, TX, USA",JEBrandt
+"""been""","Centerville, TX, USA",JEBrandt
+"""been""","Harper, TX, USA",JEBrandt
+"""been""","Floresville, TX, USA",JEBrandt
+"""been""","Flores, Guatemala",JEBrandt
+"""been""","Dalhart, TX, USA",JEBrandt
+"""been""","Hallettsville, TX, USA",JEBrandt
+"""been""","Hale Center, TX, USA",JEBrandt
+"""been""","Falls City, TX, USA",JEBrandt
+"""been""","Island of Hawaii, HI, USA",JEBrandt
+"""been"",""fave""","Antigua, Guatemala",JEBrandt
+"""been""","Lancaster, CA, USA",JEBrandt
+"""been""","Kauai, HI, USA",JEBrandt
+"""want""","Dublin, Ireland",JEBrandt
+"""been""","Ponca City, OK, USA",JEBrandt
+"""been"",""want""","San Juan, Puerto Rico",JEBrandt
+"""been""","Utopia, TX, USA",JEBrandt
+"""been""","Iztapa, Guatemala",JEBrandt
+"""been""","Dallas, TX, USA",JEBrandt
+"""been""","Saint Louis, MO, USA",JEBrandt
+"""want""","Essaouira, Morocco",JEBrandt
+"""been""","Auburn, AL, USA",JEBrandt
+"""been""","Eden, TX, USA",JEBrandt
+"""been""","Concan, TX, USA",JEBrandt
+"""been""","Buda, TX, USA",JEBrandt
+"""been""","Sarita, TX, USA",JEBrandt
+"""been""","Terlingua, TX, USA",JEBrandt
+"""been""","Buffalo Gap, TX, USA",JEBrandt
+"""been""","Eagar, AZ, USA",JEBrandt
+"""been""","Bryan, TX, USA",JEBrandt
+"""want""","Banff, Alberta, Canada",JEBrandt
+"""been""","Conroe, TX, USA",JEBrandt
+"""been""","Guadalajara, Mexico",JEBrandt
+"""been""","Buchanan Dam, TX, USA",JEBrandt
+"""been""","Temple, TX, USA",JEBrandt
+"""been""","Paramus, NJ, USA",JEBrandt
+"""been""","San Marcos, TX, USA",JEBrandt
+"""been""","Kansas City, MO, USA",JEBrandt
+"""been""","Georgetown, TX, USA",JEBrandt
+"""been""","Taft, TX, USA",JEBrandt
+"""been""","Tahoka, TX, USA",JEBrandt
+"""been""","George West, TX, USA",JEBrandt
+"""been""","Malibu, CA, USA",JEBrandt
+"""been""","Giddings, TX, USA",JEBrandt
+"""been""","Eureka Springs, AR, USA",JEBrandt
+"""been""","Comfort, TX, USA",JEBrandt
+"""been""","Abilene, TX, USA",JEBrandt
+"""been""","Nuevo Laredo, Mexico",JEBrandt
+"""been""","Taylor, TX, USA",JEBrandt
+"""been""","Colorado City, TX, USA",JEBrandt
+"""been""","Weslaco, TX, USA",JEBrandt
+"""been""","Sandia, TX, USA",JEBrandt
+"""been""","Gillett, TX, USA",JEBrandt
+"""been""","Sanderson, TX, USA",JEBrandt
+"""been""","Birmingham, AL, USA",JEBrandt
+"""been""","Lafayette, LA, USA",JEBrandt
+"""been""","Evansville, IN, USA",JEBrandt
+"""been""","Meridian, MS, USA",JEBrandt
+"""been""","San Angelo, TX, USA",JEBrandt
+"""been""","Brady, TX, USA",JEBrandt
+"""been""","Brackettville, TX, USA",JEBrandt
+"""been""","Ciudad Juarez, Mexico",JEBrandt
+"""been""","Pueblo, CO, USA",JEBrandt
+"""want""","Umag, Croatia",JEBrandt
+"""been""","Rolla, MO, USA",JEBrandt
+"""been""","Baton Rouge, LA, USA",JEBrandt
+"""been""","Loleta, CA, USA",JEBrandt
+"""been"",""fave""","Napa, CA, USA",JEBrandt
+"""been""","Fortuna, CA, USA",JEBrandt
+"""been""","Aspen, CO, USA",JEBrandt
+"""been""","Dublin, TX, USA",JEBrandt
+"""been""","Sweetwater, TX, USA",JEBrandt
+"""been""","Gatesville, TX, USA",JEBrandt
+"""been""","Brenham, TX, USA",JEBrandt
+"""been""","College Station, TX, USA",JEBrandt
+"""been""","Driftwood, TX, USA",JEBrandt
+"""been""","Garrison, TX, USA",JEBrandt
+"""been""","Phoenix, AZ, USA",JEBrandt
+"""been""","Cisco, TX, USA",JEBrandt
+"""been""","Strawn, TX, USA",JEBrandt
+"""been""","Las Vegas, NV, USA",JEBrandt
+"""been""","Hillsboro, TX, USA",JEBrandt
+"""been""","Los Angeles, CA, USA",JEBrandt
+"""been""","Chicago, IL, USA",JEBrandt
+"""been""","Salado, TX, USA",JEBrandt
+"""been""","Galveston, TX, USA",JEBrandt
+"""been""","Hobson, TX, USA",JEBrandt
+"""been""","Sugar Land, TX, USA",JEBrandt
+"""been""","Gainesville, TX, USA",JEBrandt
+"""been""","Clayton, NM, USA",JEBrandt
+"""been""","Ithaca, NY, USA",JEBrandt
+"""been""","St. Catharines, Ontario, Canada",JEBrandt
+"""been""","Chimayo, NM, USA",JEBrandt
+"""been""","Buchanan, MI, USA",JEBrandt
+"""been""","Teaneck, NJ, USA",JEBrandt
+"""been""","Amarillo, TX, USA",JEBrandt
+"""been""","Beeville, TX, USA",JEBrandt
+"""been""","Sinton, TX, USA",JEBrandt
+"""been""","Hawaii Volcanoes National Park, HI, USA",JEBrandt
+"""been""","Jerome, AZ, USA",JEBrandt
+"""been""","Pearsall, TX, USA",JEBrandt
+"""been""","Riviera, TX, USA",JEBrandt
+"""been""","Salt Lake City, UT, USA",JEBrandt
+"""been""","Pawnee, TX, USA",JEBrandt
+"""been""","Half Moon Bay, CA, USA",JEBrandt
+"""been""","Canyon, TX, USA",JEBrandt
+"""been"",""fave""","Fort Davis, TX, USA",JEBrandt
+"""been""","Nashville, TN, USA",JEBrandt
+"""been"",""want""","Corpus Christi, TX, USA",JEBrandt
+"""been""","Trondheim, Norway",JEBrandt
+"""been""","Robstown, TX, USA",JEBrandt
+"""been""","Kingman, AZ, USA",JEBrandt
+"""been""","Pecos, TX, USA",JEBrandt
+"""been""","Robert Lee, TX, USA",JEBrandt
+"""been""","Peggy, TX, USA",JEBrandt
+"""been""","Trinidad, CO, USA",JEBrandt
+"""been""","Tynan, TX, USA",JEBrandt
+"""been""","Skidmore, TX, USA",JEBrandt
+"""been""","Evanston, IL, USA",JEBrandt
+"""been""","Greenville, SC, USA",JEBrandt
+"""want""","Tarifa, Spain",JEBrandt
+"""been""","Lincoln, NE, USA",JEBrandt
+"""been""","Trenton, NJ, USA",JEBrandt
+"""been""","Ukiah, CA, USA",JEBrandt
+"""been""","Boulder, CO, USA",JEBrandt
+"""been""","Bastrop, TX, USA",JEBrandt
+"""been""","Anson, TX, USA",JEBrandt
+"""been""","Golden, CO, USA",JEBrandt
+"""been""","Panna Maria, TX, USA",JEBrandt
+"""been""","Granby, CO, USA",JEBrandt
+"""been""","Andrews, TX, USA",JEBrandt
+"""been""","Calvert, TX, USA",JEBrandt
+"""been""","Pasadena, TX, USA",JEBrandt
+"""been""","Cuero, TX, USA",JEBrandt
+"""been""","Rio Grande City, TX, USA",JEBrandt
+"""been""","Aransas Pass, TX, USA",JEBrandt
+"""been""","Walsenburg, CO, USA",JEBrandt
+"""been""","Shiner, TX, USA",JEBrandt
+"""been""","Tegucigalpa, Honduras",JEBrandt
+"""been""","Ozona, TX, USA",JEBrandt
+"""want""","Montevideo, Uruguay",JEBrandt
+"""been""","Seguin, TX, USA",JEBrandt
+"""been""","San Juan Sacatepequez, Guatemala",JEBrandt
+"""been"",""fave""","Sedona, AZ, USA",JEBrandt
+"""been""","Creel, Mexico",JEBrandt
+"""been""","Englewood, CO, USA",JEBrandt
+"""been""","Selma, TX, USA",JEBrandt
+"""been""","Timpson, TX, USA",JEBrandt
+"""been""","Cerocahui, Mexico",JEBrandt
+"""been""","Three Rivers, TX, USA",JEBrandt
+"""been""","Scottsdale, AZ, USA",JEBrandt
+"""been"",""fave""","Chihuahua, Mexico",JEBrandt
+"""been""","Manitou Springs, CO, USA",JEBrandt
+"""been""","Cotulla, TX, USA",JEBrandt
+"""been""","Palestine, TX, USA",JEBrandt
+"""been""","Willow City, TX, USA",JEBrandt
+"""been""","Refugio, TX, USA",JEBrandt
+"""been""","Seminole, TX, USA",JEBrandt
+"""want""","Machu Picchu, Peru",JEBrandt
+"""been""","Tikal National Park, Guatemala",JEBrandt
+"""been""","San Jose, Guatemala",JEBrandt
+"""been""","Quetzaltenango, Guatemala",JEBrandt
+"""been""","McKinleyville, CA, USA",JEBrandt
+"""been""","Alice, TX, USA",JEBrandt
+"""been""","Ohiopyle, PA, USA",JEBrandt
+"""been""","Retalhuleu, Guatemala",JEBrandt
+"""been""","Bulverde, TX, USA",JEBrandt
+"""been""","Thornton, CO, USA",JEBrandt
+"""been""","Orlando, FL, USA",JEBrandt
+"""been""","El Campo, TX, USA",JEBrandt
+"""been""","Balmorhea, TX, USA",JEBrandt
+"""been""","Burnet, TX, USA",JEBrandt
+"""been""","Whitsett, TX, USA",JEBrandt
+"""been""","Seadrift, TX, USA",JEBrandt
+"""been""","Bandera, TX, USA",JEBrandt
+"""been""","Alpine, TX, USA",JEBrandt
+"""been""","The Woodlands, TX, USA",JEBrandt
+"""been""","Yountville, CA, USA",JEBrandt
+"""want""","Singapore, Singapore",JEBrandt
+"""want""","Alicante, Spain",JEBrandt
+"""been""","Flagstaff, AZ, USA",JEBrandt
+"""been"",""fave""","Eleuthera, Bahamas",JEBrandt
+"""been""","Tarrytown, NY, USA",JEBrandt
+"""been""","Eleele, HI, USA",JEBrandt
+"""been""","Midland, Ontario, Canada",JEBrandt
+"""been""","Los Alamos, NM, USA",JEBrandt
+"""been""","Port Aransas, TX, USA",JEBrandt
+"""been""","Gatlinburg, TN, USA",JEBrandt
+"""been""","Pahoa, HI, USA",JEBrandt
+"""want""","Moab, UT, USA",JEBrandt
+"""been""","Greensboro, NC, USA",JEBrandt
+"""been""","Marfa, TX, USA",JEBrandt
+"""been""","Volcano, HI, USA",JEBrandt
+"""been""","New Braunfels, TX, USA",JEBrandt
+"""been""","Runge, TX, USA",JEBrandt
+"""been"",""want""","Buenos Aires, Argentina",JEBrandt
+"""been""","Anahola, HI, USA",JEBrandt
+"""been""","Tavernier, FL, USA",JEBrandt
+"""been""","Lago Vista, TX, USA",JEBrandt
+"""been""","Calistoga, CA, USA",JEBrandt
+"""been""","Port Isabel, TX, USA",JEBrandt
+"""been""","Solola, Guatemala",JEBrandt
+"""been""","Ciudad Vieja, Guatemala",JEBrandt
+"""been""","Blanco, TX, USA",JEBrandt
+"""been""","Newark, NJ, USA",JEBrandt
+"""been""","Columbia, MO, USA",JEBrandt
+"""been""","Nassau, Bahamas",JEBrandt
+"""want""","San Carlos de Bariloche, Argentina",JEBrandt
+"""been""","Daly City, CA, USA",JEBrandt
+"""been""","Pleasanton, TX, USA",JEBrandt
+"""been""","Samoa, CA, USA",JEBrandt
+"""been""","Kyle, TX, USA",JEBrandt
+"""been""","Manor, TX, USA",JEBrandt
+"""been""","San Francisco, CA, USA",JEBrandt
+"""been""","Page, AZ, USA",JEBrandt
+"""been""","Round Rock, TX, USA",JEBrandt
+"""been""","Round Top, TX, USA",JEBrandt
+"""been""","Mill Run, PA, USA",JEBrandt
+"""been""","Plainview, TX, USA",JEBrandt
+"""been"",""fave""","San Antonio, TX, USA",JEBrandt
+"""been""","Navasota, TX, USA",JEBrandt
+"""been""","Thousand Oaks, CA, USA",JEBrandt
+"""been""","Del Rio, TX, USA",JEBrandt
+"""been""","Alpharetta, GA, USA",JEBrandt
+"""been""","Santa Fe, NM, USA",JEBrandt
+"""been""","Marble Falls, TX, USA",JEBrandt
+"""been""","Watsonville, CA, USA",JEBrandt
+"""been""","Agua Dulce, CA, USA",JEBrandt
+"""been""","Colorado Springs, CO, USA",JEBrandt
+"""been""","Marathon, TX, USA",JEBrandt
+"""been""","La Grange, TX, USA",JEBrandt
+"""been""","Knoxville, TN, USA",JEBrandt
+"""been""","Hannibal, MO, USA",JEBrandt
+"""been""","Luling, TX, USA",JEBrandt
+"""want""","Playa del Carmen, Mexico",JEBrandt
+"""been"",""want""","Merida, Mexico",JEBrandt
+"""been""","Lufkin, TX, USA",JEBrandt
+"""been""","Big Lake, TX, USA",JEBrandt
+"""been""","Estes Park, CO, USA",JEBrandt
+"""been""","Bertram, TX, USA",JEBrandt
+"""been""","Big Spring, TX, USA",JEBrandt
+"""want""","Bordeaux, France",JEBrandt
+"""want""","Oslo, Norway",JEBrandt
+"""been""","Lytle, TX, USA",JEBrandt
+"""been""","Eureka, CA, USA",JEBrandt
+"""been""","Rosenberg, TX, USA",JEBrandt
+"""been""","Nacogdoches, TX, USA",JEBrandt
+"""been""","Spicewood, TX, USA",JEBrandt
+"""been""","Aspermont, TX, USA",JEBrandt
+"""been""","San Salvador, El Salvador",JEBrandt
+"""been""","Red Lodge, MT, USA",JEBrandt
+"""been""","Castle Rock, CO, USA",JEBrandt
+"""been""","Somerset, TX, USA",JEBrandt
+"""been""","Rockdale, TX, USA",JEBrandt
+"""want""","Oaxaca, Mexico",JEBrandt
+"""been""","Ferndale, CA, USA",JEBrandt
+"""been""","Mexico City, Mexico",JEBrandt
+"""been""","Rockport, TX, USA",JEBrandt
+"""been""","Somerville, TX, USA",JEBrandt
+"""been""","Albuquerque, NM, USA",JEBrandt
+"""been""","Austin, TX, USA",JEBrandt
+"""been""","Des Plaines, IL, USA",JEBrandt
+"""been""","Snyder, TX, USA",JEBrandt
+"""been""","Tampa, FL, USA",JEBrandt
+"""been""","Sonoma, CA, USA",JEBrandt
+"""been""","Miami, FL, USA",JEBrandt
+"""been""","Castroville, TX, USA",JEBrandt
+"""been""","Luckenbach, TX, USA",JEBrandt
+"""been""","Toronto, Ontario, Canada",JEBrandt
+"""been""","Canon City, CO, USA",JEBrandt
+"""been""","Muleshoe, TX, USA",JEBrandt
+"""been""","Lubbock, TX, USA",JEBrandt
+"""been""","Mountain Home, TX, USA",JEBrandt
+"""been""","Cedar Park, TX, USA",JEBrandt
+"""been""","Fajardo, Puerto Rico",JEBrandt
+"""been""","Sonora, TX, USA",JEBrandt
+"""been""","Koke'e State Park, HI, USA",JEBrandt
+"""been""","Lodge Grass, MT, USA",JEBrandt
+"""been""","Menard, TX, USA",JEBrandt
+"""been""","Richmond, VA, USA",JEBrandt
+"""been""","Little Rock, AR, USA",JEBrandt
+"""been""","Springfield, IL, USA",JEBrandt
+"""been""","El Paso, TX, USA",JEBrandt
+"""been""","Schaumburg, IL, USA",JEBrandt
+"""been""","Ventura, CA, USA",JEBrandt
+"""been""","Santa Catarina Palopo, Guatemala",JEBrandt
+"""been""","Heber City, UT, USA",JEBrandt
+"""been""","Snowbird, UT, USA",JEBrandt
+"""been""","Santa Catarina Pinula, Guatemala",JEBrandt
+"""been""","Beverly Hills, CA, USA",JEBrandt
+"""been""","Sandia Park, NM, USA",JEBrandt
+"""been""","New York City, NY, USA",JEBrandt
+"""been""","Leakey, TX, USA",JEBrandt
+"""been""","Medina, TX, USA",JEBrandt
+"""been""","Zunil, Guatemala",JEBrandt
+"""been""","Capulin, NM, USA",JEBrandt
+"""been""","Odem, TX, USA",JEBrandt
+"""been""","Odessa, TX, USA",JEBrandt
+"""been""","Escuintla, Guatemala",JEBrandt
+"""been""","Medicine Bow, WY, USA",JEBrandt
+"""been""","Iraan, TX, USA",JEBrandt
+"""been"",""fave""","Santa Barbara, CA, USA",JEBrandt
+"""been""","Grand Island, NE, USA",JEBrandt
+"""been""","El Fuerte, Mexico",JEBrandt
+"""been""","Portsmouth, NH, USA",JEBrandt
+"""been"",""fave""","Kailua-Kona, HI, USA",JEBrandt
+"""been""","San Diego, CA, USA",JEBrandt
+"""been""","Lihue, HI, USA",JEBrandt
+"""been""","Presidio, TX, USA",JEBrandt
+"""been""","Huntsville, TX, USA",JEBrandt
+"""been""","Islamorada, FL, USA",JEBrandt
+"""been""","Lawai, HI, USA",JEBrandt
+"""been""","Langtry, TX, USA",JEBrandt
+"""been""","McDade, TX, USA",JEBrandt
+"""been"",""want""","New Orleans, LA, USA",JEBrandt
+"""been""","Marathon, FL, USA",JEBrandt
+"""been""","Poipu, HI, USA",JEBrandt
+"""been""","Fort Lauderdale, FL, USA",JEBrandt
+"""been""","Boston, MA, USA",JEBrandt
+"""been""","Waimea, HI, USA",JEBrandt
+"""been""","Lamesa, TX, USA",JEBrandt
+"""been""","Princeville, HI, USA",JEBrandt
+"""been""","Mc Coy, TX, USA",JEBrandt
+"""been""","Laredo, TX, USA",JEBrandt
+"""been""","Key Largo, FL, USA",JEBrandt
+"""been""","Hutto, TX, USA",JEBrandt
+"""been""","Key West, FL, USA",JEBrandt
+"""been""","Tecate, Mexico",JEBrandt
+"""been""","Pigeon Forge, TN, USA",JEBrandt
+"""been""","Honolulu, HI, USA",JEBrandt
+"""been""","Koloa, HI, USA",JEBrandt
+"""been""","Asheville, NC, USA",JEBrandt
+"""been""","Kilauea, HI, USA",JEBrandt
+"""been""","Cuba, MO, USA",JEBrandt
+"""been""","Hanalei, HI, USA",JEBrandt
+"""been""","Big Bend National Park, TX, USA",JEBrandt
+"""been""","Houston, TX, USA",JEBrandt
+"""been""","Haena, HI, USA",JEBrandt
+"""been""","Poth, TX, USA",JEBrandt
+"""been""","Buffalo, NY, USA",JEBrandt
+"""been""","Hanapepe, HI, USA",JEBrandt
+"""been""","Portland, TX, USA",JEBrandt
+"""been""","Post, TX, USA",JEBrandt
+"""been""","Horseshoe Bay, TX, USA",JEBrandt
+"""been""","Mathis, TX, USA",JEBrandt
+"""been"",""fave""","Kapaa, HI, USA",JEBrandt
+"""been""","Mason, TX, USA",JEBrandt
+"""been""","Nixon, TX, USA",JEBrandt
+"""been""","Matador, TX, USA",JEBrandt
+"""been""","Carmel, CA, USA",JEBrandt
+"""want""","Zurich, Switzerland",JEBrandt
+"""been""","San Jose, CA, USA",JEBrandt
+"""been"",""fave""","Denver, CO, USA",JEBrandt
+"""been""","Normanna, TX, USA",JEBrandt
+"""been""","Hopkins, Belize",JEBrandt
+"""been""","West Lafayette, IN, USA",JEBrandt
+"""been"",""fave""","Guatemala City, Guatemala",JEBrandt
+"""been""","Chichicastenango, Guatemala",JEBrandt
+"""been""","Kennard, TX, USA",JEBrandt
+"""been""","Santiago Atitlan, Guatemala",JEBrandt
+"""been""","Panajachel, Guatemala",JEBrandt
+"""been""","Kerrville, TX, USA",JEBrandt
+"""been""","Coban, Guatemala",JEBrandt
+"""been""","Todos Santos, Guatemala",JEBrandt
+"""want""","Prague, Czech Republic",JEBrandt
+"""been""","Karnes City, TX, USA",JEBrandt
+"""been""","Lockhart, TX, USA",JEBrandt
+"""been""","Katy, TX, USA",JEBrandt
+"""been""","Santa Cruz del Quiche, Guatemala",JEBrandt
+"""been""","Llano, TX, USA",JEBrandt
+"""been""","Gettysburg, PA, USA",JEBrandt
+"""been""","Morgantown, WV, USA",JEBrandt
+"""been""","Casper, WY, USA",JEBrandt
+"""been""","Cheyenne, WY, USA",JEBrandt
+"""been""","Kemah, TX, USA",JEBrandt
+"""been""","Truchas, NM, USA",JEBrandt
+"""been""","Demarest, NJ, USA",JEBrandt
+"""been""","Monterrico, Guatemala",JEBrandt
+"""been""","Socorro, NM, USA",JEBrandt
+"""been""","Sundance, UT, USA",JEBrandt
+"""been""","Sheridan, WY, USA",JEBrandt
+"""been""","Washington DC, DC, USA",JEBrandt
+"""been""","Philadelphia, PA, USA",JEBrandt
+"""been""","Junction, TX, USA",JEBrandt
+"""been""","Jourdanton, TX, USA",JEBrandt
+"""been""","Santa Monica, CA, USA",JEBrandt
+"""been""","Santa Rosa, CA, USA",JEBrandt
+"""been""","South Bend, IN, USA",JEBrandt
+"""been""","Tesuque, NM, USA",JEBrandt
+"""been""","Bodega Bay, CA, USA",JEBrandt
+"""been""","Taos, NM, USA",JEBrandt
+"""been""","Bradenton, FL, USA",JEBrandt
+"""been""","Atlanta, GA, USA",JEBrandt
+"""been""","Louisville, KY, USA",JEBrandt
+"""been""","Memphis, TN, USA",JEBrandt
+"""want""","Athens, Greece",JEBrandt
+"""been"",""fave""","Bergen, Norway",JEBrandt
+"""been""","Trinidad, CA, USA",JEBrandt
+"""been""","Owensboro, KY, USA",JEBrandt
+"""want""","Valencia, Spain",JEBrandt
+"""been""","Bethel, ME, USA",JEBrandt
+"""been""","Big Pine Key, FL, USA",JEBrandt
+"""been""","Stillwater, OK, USA",JEBrandt
+"""been""","Rincon, Puerto Rico",JEBrandt
+"""want""","Madrid, Spain",JEBrandt
+"""been""","San Antonio, Belize",JEBrandt
+"""been""","Ranchos De Taos, NM, USA",JEBrandt
+"""want""","Ho Chi Minh City, Vietnam",JEBrandt
+"""been""","Raton, NM, USA",JEBrandt
+"""been""","Point Reyes Station, CA, USA",JEBrandt
+"""want""","Whistler, British Columbia, Canada",JEBrandt
+"""been""","San Ignacio, Belize",JEBrandt
+"""been""","Belmopan, Belize",JEBrandt
+"""been""","London, UK",JEBrandt
+"""been""","Simi Valley, CA, USA",JEBrandt
+"""been""","Keauhou, HI, USA",JEBrandt
+"""been""","Knott, TX, USA",JEBrandt
+"""been""","Laupahoehoe, HI, USA",JEBrandt
+"""been""","Placencia, Belize",JEBrandt
+"""been""","Naalehu, HI, USA",JEBrandt
+"""been""","Dangriga, Belize",JEBrandt
+"""want""","Cadiz, Spain",JEBrandt
+"""been""","San Pedro, Belize",JEBrandt
+"""been""","Ambergris Caye, Belize",JEBrandt
+"""been""","Captain Cook, HI, USA",JEBrandt
+"""been""","Billings, MT, USA",JEBrandt
+"""been""","Ardmore, OK, USA",JEBrandt
+"""been""","Kingsland, TX, USA",JEBrandt
+"""been""","Holualoa, HI, USA",JEBrandt
+"""been""","Belize City, Belize",JEBrandt
+"""been""","Hilo, HI, USA",JEBrandt
+"""been""","Killeen, TX, USA",JEBrandt
+"""been""","Espanola, NM, USA",JEBrandt
+"""been""","Honokaa, HI, USA",JEBrandt
+"""been""","Waimea, HI, USA",JEBrandt
+"""been"",""fave""","Caye Caulker, Belize",JEBrandt
+"""want""","Santo Domingo, Dominican Republic",JEBrandt
+"""been""","Kingsville, TX, USA",JEBrandt
+"""want""","Istanbul, Turkey",JEBrandt
+"""been""","Arkansas City, KS, USA",JEBrandt
+"""been""","Joliet, IL, USA",JEBrandt
+"""been""","Jackson, MS, USA",JEBrandt
+"""been""","Quirigua, Guatemala",JEBrandt
+"""been""","Mississauga, Ontario, Canada",JEBrandt
+"""been"",""fave""","Niagara-on-the-Lake, Ontario, Canada",JEBrandt
+"""been""","Niagara Falls, Ontario, Canada",JEBrandt
+"""been""","Tuscaloosa, AL, USA",JEBrandt
+"""been""","Hamilton, Ontario, Canada",JEBrandt
+"""been""","Las Vegas, NM, USA",JEBrandt
+"""been""","Peten, Guatemala",JEBrandt
+"""been""","Izabal, Guatemala",JEBrandt
+"""been""","Redway, CA, USA",JEBrandt
+"""been""","Springfield, MO, USA",JEBrandt
+"""been""","Charlotte, NC, USA",JEBrandt
+"""been""","Gregory, TX, USA",JEBrandt
+"""been""","Wimberley, TX, USA",JEBrandt
+"""want""","Vientiane, Laos",JEBrandt
+"""been""","Chattanooga, TN, USA",JEBrandt
+"""been""","Rio Rancho, NM, USA",JEBrandt
+"""been""","Shreveport, LA, USA",JEBrandt
+"""been""","Albany, NY, USA",JEBrandt
+"""been""","Glorieta, NM, USA",JEBrandt
+"""been""","Oklahoma City, OK, USA",JEBrandt
+"""been""","Niagara Falls, NY, USA",JEBrandt
+"""been""","Gary, IN, USA",JEBrandt
+"""want""","Edinburgh, UK",JEBrandt
+"""been""","Puerto Quetzal, Guatemala",JEBrandt
+"""been""","Algonquin Provincial Park, Ontario, Canada",JEBrandt
+"""been""","Oakland, CA, USA",JEBrandt
+"""been""","Roswell, NM, USA",JEBrandt
+"""been""","Park City, UT, USA",JEBrandt
+"""been""","Goliad, TX, USA",JEBrandt
+"""been""","Gonzales, TX, USA",JEBrandt
+"""been""","Amatitlan, Guatemala",JEBrandt
+"""been""","Columbus, OH, USA",JEBrandt

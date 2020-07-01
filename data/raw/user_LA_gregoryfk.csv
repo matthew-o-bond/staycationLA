@@ -1,0 +1,15 @@
+tag,place,user
+"""been""","Bridgeport, CT, USA",gregoryfk
+"""been""","San Francisco, CA, USA",gregoryfk
+"""been""","Las Vegas, NV, USA",gregoryfk
+"""been""","London, UK",gregoryfk
+"""been"",""fave""","New York City, NY, USA",gregoryfk
+"""want""","Istanbul, Turkey",gregoryfk
+"""been"",""fave""","Rome, Italy",gregoryfk
+"""want""","Venice, Italy",gregoryfk
+"""been"",""want"",""fave""","Barcelona, Spain",gregoryfk
+"""been""","Florence, Italy",gregoryfk
+"""been""","Tempe, AZ, USA",gregoryfk
+"""want""","Amsterdam, The Netherlands",gregoryfk
+"""been""","Los Angeles, CA, USA",gregoryfk
+"""been""","Winslow, AZ, USA",gregoryfk

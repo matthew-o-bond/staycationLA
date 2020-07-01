@@ -1,0 +1,811 @@
+tag,place,user
+"""been""","Cerreto di Spoleto, Italy",DTAsia
+"""been""","Rethymnon, Greece",DTAsia
+"""been""","Maastricht, The Netherlands",DTAsia
+"""been""","Ouagadougou, Burkina Faso",DTAsia
+"""been""","Battambang, Cambodia",DTAsia
+"""been""","Apeldoorn, The Netherlands",DTAsia
+"""been""","Morgex, Italy",DTAsia
+"""been""","Kabale, Uganda",DTAsia
+"""been""","Harare, Zimbabwe",DTAsia
+"""been""","Roquebrune-Cap-Martin, France",DTAsia
+"""been""","Heraklion, Greece",DTAsia
+"""been""","Bernex, France",DTAsia
+"""been""","Boise, ID, USA",DTAsia
+"""been""","Marseille, France",DTAsia
+"""been""","Xichang, China",DTAsia
+"""been""","Barcelona, Spain",DTAsia
+"""been""","Saint-Remy-de-Provence, France",DTAsia
+"""been""","Bandos, Asia",DTAsia
+"""been""","Falsterbo, Sweden",DTAsia
+"""been""","Bukavu, Democratic Republic of the Congo",DTAsia
+"""been""","Trelleborg, Sweden",DTAsia
+"""been""","N'Djamena, Chad",DTAsia
+"""been""","Monte-Carlo, Monaco",DTAsia
+"""been""","Uvira, Democratic Republic of the Congo",DTAsia
+"""been""","Bujumbura, Burundi",DTAsia
+"""been""","Yaounde, Cameroon",DTAsia
+"""been""","Pangani, Tanzania",DTAsia
+"""been""","Le Boulou, France",DTAsia
+"""been""","Bangui, Central African Republic",DTAsia
+"""been""","Diani Beach, Kenya",DTAsia
+"""been""","Sarre, Italy",DTAsia
+"""been""","Cannes, France",DTAsia
+"""been""","Addis Ababa, Ethiopia",DTAsia
+"""been""","Athens, Greece",DTAsia
+"""been""","Poughkeepsie, NY, USA",DTAsia
+"""been""","Staten Island, NY, USA",DTAsia
+"""been""","Colle di Val d'Elsa, Italy",DTAsia
+"""been""","Kayanza, Burundi",DTAsia
+"""been""","Eugene, OR, USA",DTAsia
+"""been""","Rumonge, Burundi",DTAsia
+"""been""","Spello, Italy",DTAsia
+"""been""","Bagni di Tivoli, Italy",DTAsia
+"""been""","Nice, France",DTAsia
+"""been""","Teton Village, WY, USA",DTAsia
+"""been""","Schiphol, The Netherlands",DTAsia
+"""been""","Narni, Italy",DTAsia
+"""been""","Adigrat, Ethiopia",DTAsia
+"""been""","Noida, India",DTAsia
+"""been""","Bago, Myanmar",DTAsia
+"""been""","Ayutthaya, Thailand",DTAsia
+"""been""","Cha-am, Thailand",DTAsia
+"""been""","Pienza, Italy",DTAsia
+"""been""","Kibuye, Rwanda",DTAsia
+"""been""","Libreville, Gabon",DTAsia
+"""been""","Wilmington, DE, USA",DTAsia
+"""been""","Accra, Ghana",DTAsia
+"""been""","Arusha, Tanzania",DTAsia
+"""been""","Juan-les-Pins, France",DTAsia
+"""been""","Johannesburg, South Africa",DTAsia
+"""been""","Torremolinos, Spain",DTAsia
+"""been""","Tokyo, Japan",DTAsia
+"""been""","Granada, Spain",DTAsia
+"""been""","Seville, Spain",DTAsia
+"""been""","Niagara Falls, Ontario, Canada",DTAsia
+"""been""","Philadelphia, PA, USA",DTAsia
+"""been""","West Yellowstone, MT, USA",DTAsia
+"""been""","Mammoth Lakes, CA, USA",DTAsia
+"""been""","Kennett Square, PA, USA",DTAsia
+"""been""","Akron, OH, USA",DTAsia
+"""been""","Sydney, Australia",DTAsia
+"""been""","Murano, Italy",DTAsia
+"""been""","Islamabad, Pakistan",DTAsia
+"""been""","Colombo, Sri Lanka",DTAsia
+"""been""","Malaga, Spain",DTAsia
+"""been""","Brisbane, Australia",DTAsia
+"""been""","Torrance, CA, USA",DTAsia
+"""been""","Pretoria, South Africa",DTAsia
+"""been""","Dayton, OH, USA",DTAsia
+"""been""","Shinyanga, Tanzania",DTAsia
+"""been""","Kingston, Ontario, Canada",DTAsia
+"""been""","Kibeho, Rwanda",DTAsia
+"""been""","Butembo, Democratic Republic of the Congo",DTAsia
+"""been""","Canberra, Australia",DTAsia
+"""been""","Istanbul, Turkey",DTAsia
+"""been""","Bukoba, Tanzania",DTAsia
+"""been""","Windermere, UK",DTAsia
+"""been""","White Plains, NY, USA",DTAsia
+"""been""","Hyderabad, Pakistan",DTAsia
+"""been""","Guayaquil, Ecuador",DTAsia
+"""been""","Malmo, Sweden",DTAsia
+"""been""","Goma, Democratic Republic of the Congo",DTAsia
+"""been""","Dar es Salaam, Tanzania",DTAsia
+"""been""","Wonsan, North Korea",DTAsia
+"""been""","El Paso, TX, USA",DTAsia
+"""been""","Cedar City, UT, USA",DTAsia
+"""been""","Berkeley, CA, USA",DTAsia
+"""been""","Florence, Italy",DTAsia
+"""been""","Tahoe City, CA, USA",DTAsia
+"""been""","Lucca, Italy",DTAsia
+"""been""","Tel Aviv, Israel",DTAsia
+"""been""","Jerusalem, Israel",DTAsia
+"""been""","Amman, Jordan",DTAsia
+"""been""","Cordoba, Spain",DTAsia
+"""been""","Stockholm, Sweden",DTAsia
+"""been""","New York City, NY, USA",DTAsia
+"""been""","Otavalo, Ecuador",DTAsia
+"""been""","Hezuo, China",DTAsia
+"""been""","Mbale, Uganda",DTAsia
+"""been""","Tehran, Iran",DTAsia
+"""been""","Tunis, Tunisia",DTAsia
+"""been""","Serengeti National Park, Tanzania",DTAsia
+"""been""","Kilimanjaro National Park, Tanzania",DTAsia
+"""been""","London, UK",DTAsia
+"""been""","Winnipeg, Manitoba, Canada",DTAsia
+"""been""","Fort Nelson, British Columbia, Canada",DTAsia
+"""been""","Hartford, CT, USA",DTAsia
+"""been""","Bouake, Ivory Coast",DTAsia
+"""been""","Ann Arbor, MI, USA",DTAsia
+"""been""","Hanoi, Vietnam",DTAsia
+"""been""","Chadds Ford, PA, USA",DTAsia
+"""been""","Traverse City, MI, USA",DTAsia
+"""been""","Cyangugu, Rwanda",DTAsia
+"""been""","Bamburi, Kenya",DTAsia
+"""been""","Nyanza, Rwanda",DTAsia
+"""been""","Northport, MI, USA",DTAsia
+"""been""","Phobjikha Valley, Bhutan",DTAsia
+"""been""","Palermo, Italy",DTAsia
+"""been""","Antsirabe, Madagascar",DTAsia
+"""been""","Cortona, Italy",DTAsia
+"""been""","Puri, India",DTAsia
+"""been""","Vancouver, British Columbia, Canada",DTAsia
+"""been""","Victoria, British Columbia, Canada",DTAsia
+"""been""","Dhaka City, Bangladesh",DTAsia
+"""been""","Saint Genis des Fontaines, France",DTAsia
+"""been""","Laroque des Alberes, France",DTAsia
+"""been""","Mae Ai, Thailand",DTAsia
+"""been""","Catania, Italy",DTAsia
+"""been""","Jayapura, Indonesia",DTAsia
+"""been""","Suttons Bay, MI, USA",DTAsia
+"""been""","Wamena, Indonesia",DTAsia
+"""been""","Cape Breton Island, Nova Scotia, Canada",DTAsia
+"""been""","Mendocino, CA, USA",DTAsia
+"""been""","Rancho Palos Verdes, CA, USA",DTAsia
+"""been""","Ameland, The Netherlands",DTAsia
+"""been""","Saint-Andre, France",DTAsia
+"""been""","Turin, Italy",DTAsia
+"""been""","Phnom Penh, Cambodia",DTAsia
+"""been""","Chittagong City, Bangladesh",DTAsia
+"""been""","Ngaoundere, Cameroon",DTAsia
+"""been""","Lexington, KY, USA",DTAsia
+"""been""","Venice, Italy",DTAsia
+"""been""","Abbottabad, Pakistan",DTAsia
+"""been""","Mont Tremblant, Quebec, Canada",DTAsia
+"""been""","Sialkot, Pakistan",DTAsia
+"""been""","Mannar, Sri Lanka",DTAsia
+"""been""","Redondo Beach, CA, USA",DTAsia
+"""been""","Albany, NY, USA",DTAsia
+"""been""","Ulaanbaatar, Mongolia",DTAsia
+"""been""","Glasgow, UK",DTAsia
+"""been""","Courmayeur, Italy",DTAsia
+"""been""","Vientiane, Laos",DTAsia
+"""been""","Jasper, Alberta, Canada",DTAsia
+"""been""","Edmonton, Alberta, Canada",DTAsia
+"""been""","Boali, Central African Republic",DTAsia
+"""been""","New Delhi, India",DTAsia
+"""been""","Banff, Alberta, Canada",DTAsia
+"""been""","Mysuru (Mysore), India",DTAsia
+"""been""","Mumbai, India",DTAsia
+"""been""","Calgary, Alberta, Canada",DTAsia
+"""been""","Puerto Vallarta, Mexico",DTAsia
+"""been""","Jaipur, India",DTAsia
+"""been""","Lake Louise, Alberta, Canada",DTAsia
+"""been""","Mazatlan, Mexico",DTAsia
+"""been""","Chennai (Madras), India",DTAsia
+"""been""","Kolkata (Calcutta), India",DTAsia
+"""been""","Yosemite National Park, CA, USA",DTAsia
+"""been""","Niagara Falls, NY, USA",DTAsia
+"""been""","San Martino di Portoferraio, Italy",DTAsia
+"""been""","Bergamo, Italy",DTAsia
+"""been""","Auckland, New Zealand",DTAsia
+"""been""","Beira, Mozambique",DTAsia
+"""been""","Recife, Brazil",DTAsia
+"""been""","Les Mosses, Switzerland",DTAsia
+"""been""","Acapulco, Mexico",DTAsia
+"""been""","Milan, Italy",DTAsia
+"""been""","Mazar-i-Sharif, Afghanistan",DTAsia
+"""been""","Jalalabad, Afghanistan",DTAsia
+"""been""","Bequia, St. Vincent and the Grenadines",DTAsia
+"""been""","Murten, Switzerland",DTAsia
+"""been""","Faa'a, French Polynesia",DTAsia
+"""been""","Gashora, Rwanda",DTAsia
+"""been""","Ampara, Sri Lanka",DTAsia
+"""been""","Murree, Pakistan",DTAsia
+"""been""","Montelimar, Nicaragua",DTAsia
+"""been""","Efate, Vanuatu",DTAsia
+"""been""","Blanes, Spain",DTAsia
+"""been""","Rhinebeck, NY, USA",DTAsia
+"""been""","New Paltz, NY, USA",DTAsia
+"""been""","Garoua, Cameroon",DTAsia
+"""been""","Le Grand-Bornand, France",DTAsia
+"""been""","Manarola, Italy",DTAsia
+"""been""","Swakopmund, Namibia",DTAsia
+"""been""","Brattleboro, VT, USA",DTAsia
+"""been""","Dawson City, Yukon, Canada",DTAsia
+"""been""","Cadaques, Spain",DTAsia
+"""been""","Grants Pass, OR, USA",DTAsia
+"""been""","Placencia, Belize",DTAsia
+"""been""","Chiang Mai, Thailand",DTAsia
+"""been""","Bangkok, Thailand",DTAsia
+"""been""","Riomaggiore, Italy",DTAsia
+"""been""","Genoa, Italy",DTAsia
+"""been""","La Spezia, Italy",DTAsia
+"""been""","Jimbaran, Indonesia",DTAsia
+"""been""","Kinshasa, Democratic Republic of the Congo",DTAsia
+"""been""","Anse Marcel, St Martin \u002F St Maarten",DTAsia
+"""been""","Steamboat Springs, CO, USA",DTAsia
+"""been""","Osogbo, Nigeria",DTAsia
+"""been""","Tahoua, Niger",DTAsia
+"""been""","Borghetto di Tuoro, Italy",DTAsia
+"""been""","Zanzibar Island, Tanzania",DTAsia
+"""been""","Kabul, Afghanistan",DTAsia
+"""been""","Punakha, Bhutan",DTAsia
+"""been""","Yangon (Rangoon), Myanmar",DTAsia
+"""been""","Seoul, South Korea",DTAsia
+"""been""","Mbarara, Uganda",DTAsia
+"""been""","Detroit, MI, USA",DTAsia
+"""been""","Chengdu, China",DTAsia
+"""been""","Dearborn, MI, USA",DTAsia
+"""been""","Homer, AK, USA",DTAsia
+"""been""","Kandahar, Afghanistan",DTAsia
+"""been""","La Jolla, CA, USA",DTAsia
+"""been""","Qingdao, China",DTAsia
+"""been""","Nusa Dua, Indonesia",DTAsia
+"""been""","Brazzaville, Republic of the Congo",DTAsia
+"""been""","Kuta, Indonesia",DTAsia
+"""been""","Bocas Town, Panama",DTAsia
+"""been""","Kyoto, Japan",DTAsia
+"""been""","Deruta, Italy",DTAsia
+"""been""","Arezzo, Italy",DTAsia
+"""been""","Embu, Kenya",DTAsia
+"""been""","Djenne, Mali",DTAsia
+"""been""","Kayonza, Rwanda",DTAsia
+"""been""","Collodi, Italy",DTAsia
+"""been""","Meerufenfushi, Asia",DTAsia
+"""been""","Tsavo, Kenya",DTAsia
+"""been""","Kunming, China",DTAsia
+"""been""","Manila, Philippines",DTAsia
+"""been""","Kalkaska, MI, USA",DTAsia
+"""been""","Ceret, France",DTAsia
+"""been""","Kalamazoo, MI, USA",DTAsia
+"""been""","Kuala Lumpur, Malaysia",DTAsia
+"""been""","Male, Asia",DTAsia
+"""been""","Kansas City, MO, USA",DTAsia
+"""been""","Iringa, Tanzania",DTAsia
+"""been""","Guiuan, Philippines",DTAsia
+"""been""","Vinci, Italy",DTAsia
+"""been""","Segou, Mali",DTAsia
+"""been""","Gao, Mali",DTAsia
+"""been""","Assisi, Italy",DTAsia
+"""been""","Gubbio, Italy",DTAsia
+"""been""","St. John's, Antigua and Barbuda",DTAsia
+"""been""","Osaka, Japan",DTAsia
+"""been""","Piombino, Italy",DTAsia
+"""been""","San Gimignano, Italy",DTAsia
+"""been""","Siena, Italy",DTAsia
+"""been""","Honiara, Solomon Islands",DTAsia
+"""been""","Fiumicino, Italy",DTAsia
+"""been""","Houghton Lake, MI, USA",DTAsia
+"""been""","Napa, CA, USA",DTAsia
+"""been""","Lanzhou, China",DTAsia
+"""been""","Toledo, OH, USA",DTAsia
+"""been""","New Haven, CT, USA",DTAsia
+"""been""","Kribi, Cameroon",DTAsia
+"""been""","Mountain View, CA, USA",DTAsia
+"""been""","Incheon, South Korea",DTAsia
+"""been""","Seminyak, Indonesia",DTAsia
+"""been""","Kaghan, Pakistan",DTAsia
+"""been""","Scheveningen, The Netherlands",DTAsia
+"""been""","Interlochen, MI, USA",DTAsia
+"""been""","Maubisse, East Timor",DTAsia
+"""been""","Ghandruk, Nepal",DTAsia
+"""been""","Cottonwood, AZ, USA",DTAsia
+"""been""","Muranga, Kenya",DTAsia
+"""been""","Whitehorse, Yukon, Canada",DTAsia
+"""been""","Regina, Saskatchewan, Canada",DTAsia
+"""been""","Otterlo, The Netherlands",DTAsia
+"""been""","Saskatoon, Saskatchewan, Canada",DTAsia
+"""been""","Pune, India",DTAsia
+"""been""","Galle, Sri Lanka",DTAsia
+"""been""","Port Vila, Vanuatu",DTAsia
+"""been""","Ouahigouya, Burkina Faso",DTAsia
+"""been""","Trincomalee, Sri Lanka",DTAsia
+"""been""","Buea, Cameroon",DTAsia
+"""been""","Pecatu, Indonesia",DTAsia
+"""been""","Sidi Bou Said, Tunisia",DTAsia
+"""been""","Higgins Lake, MI, USA",DTAsia
+"""been""","Anuradhapura, Sri Lanka",DTAsia
+"""been""","Udaipur, India",DTAsia
+"""been""","Saint-Gervais-les-Bains, France",DTAsia
+"""been""","Jaffna, Sri Lanka",DTAsia
+"""been""","Luderitz, Namibia",DTAsia
+"""been""","Kandy, Sri Lanka",DTAsia
+"""been""","Monterey, CA, USA",DTAsia
+"""been""","Long Island City, NY, USA",DTAsia
+"""been""","Stone Town, Tanzania",DTAsia
+"""been""","Jaisalmer, India",DTAsia
+"""been""","Jodhpur, India",DTAsia
+"""been""","Monte Castello di Vibio, Italy",DTAsia
+"""been""","Namanga, Kenya",DTAsia
+"""been""","Sigiriya, Sri Lanka",DTAsia
+"""been""","Lucknow, India",DTAsia
+"""been""","Agra, India",DTAsia
+"""been""","Porto Santo Stefano, Italy",DTAsia
+"""been""","Muktinath, Nepal",DTAsia
+"""been""","Lake Manyara National Park, Tanzania",DTAsia
+"""been""","Thika, Kenya",DTAsia
+"""been""","Bryce, UT, USA",DTAsia
+"""been""","Sacramento, CA, USA",DTAsia
+"""been""","Canton, OH, USA",DTAsia
+"""been""","Tacloban, Philippines",DTAsia
+"""been""","Lokichoggio, Kenya",DTAsia
+"""been""","Madurai, India",DTAsia
+"""been""","Coimbatore, India",DTAsia
+"""been""","Rusumo, Rwanda",DTAsia
+"""been""","Pistoia, Italy",DTAsia
+"""been""","Denali National Park and Preserve, AK, USA",DTAsia
+"""been""","Figueres, Spain",DTAsia
+"""been""","Ponza Island, Italy",DTAsia
+"""been""","Crater Lake National Park, OR, USA",DTAsia
+"""been""","Rochester, NY, USA",DTAsia
+"""been""","Leiderdorp, The Netherlands",DTAsia
+"""been""","Seward, AK, USA",DTAsia
+"""been""","Porto Azzurro, Italy",DTAsia
+"""been""","Tanauan City, Philippines",DTAsia
+"""been""","Riga, Latvia",DTAsia
+"""been""","Fuengirola, Spain",DTAsia
+"""been""","Suva, Fiji",DTAsia
+"""been""","Dubai, United Arab Emirates",DTAsia
+"""been""","Nadi, Fiji",DTAsia
+"""been""","Orvieto, Italy",DTAsia
+"""been""","Hood River, OR, USA",DTAsia
+"""been""","Papeete, French Polynesia",DTAsia
+"""been""","Utica, NY, USA",DTAsia
+"""been""","Bandiagara, Mali",DTAsia
+"""been""","Bam, Iran",DTAsia
+"""been""","Ottawa, Ontario, Canada",DTAsia
+"""been""","Sucre, Bolivia",DTAsia
+"""been""","Carmel, CA, USA",DTAsia
+"""been""","Carlsbad, CA, USA",DTAsia
+"""been""","Gurugram (Gurgaon), India",DTAsia
+"""been""","Glacier National Park, MT, USA",DTAsia
+"""been""","Cape Town Central, South Africa",DTAsia
+"""been""","Montecatini Terme, Italy",DTAsia
+"""been""","Narvik, Norway",DTAsia
+"""been""","Merida, Mexico",DTAsia
+"""been""","Oslo, Norway",DTAsia
+"""been""","Tarrytown, NY, USA",DTAsia
+"""been""","Montepulciano, Italy",DTAsia
+"""been""","Norcia, Italy",DTAsia
+"""been""","Ngorongoro Conservation Area, Tanzania",DTAsia
+"""been""","Moshi, Tanzania",DTAsia
+"""been""","Mafia Island, Tanzania",DTAsia
+"""been""","Bengaluru, India",DTAsia
+"""been""","Quebec City, Quebec, Canada",DTAsia
+"""been""","Montreal, Quebec, Canada",DTAsia
+"""been""","Calistoga, CA, USA",DTAsia
+"""been""","Tacoma, WA, USA",DTAsia
+"""been""","Pescia, Italy",DTAsia
+"""been""","Port Moresby, Papua New Guinea",DTAsia
+"""been""","Kagbeni, Nepal",DTAsia
+"""been""","Mexico City, Mexico",DTAsia
+"""been""","Thunder Bay, Ontario, Canada",DTAsia
+"""been""","Toronto, Ontario, Canada",DTAsia
+"""been""","Abu, India",DTAsia
+"""been""","Pana, IL, USA",DTAsia
+"""been""","Windsor, Ontario, Canada",DTAsia
+"""been""","Kochi (Cochin), India",DTAsia
+"""been""","Tarawa Atoll, Republic of Kiribati",DTAsia
+"""been""","Vienna, Austria",DTAsia
+"""been""","Collazzone, Italy",DTAsia
+"""been""","Mopti, Mali",DTAsia
+"""been""","Naivasha, Kenya",DTAsia
+"""been""","Spokane, WA, USA",DTAsia
+"""been""","Brooklyn, NY, USA",DTAsia
+"""been""","Fairbanks, AK, USA",DTAsia
+"""been""","Brookline, MA, USA",DTAsia
+"""been""","Eureka, CA, USA",DTAsia
+"""been""","Panama City Beach, FL, USA",DTAsia
+"""been""","East Hampton, NY, USA",DTAsia
+"""been""","Tahaa, French Polynesia",DTAsia
+"""been""","Syracuse, NY, USA",DTAsia
+"""been""","Ko Lanta, Thailand",DTAsia
+"""been""","Ruhengeri, Rwanda",DTAsia
+"""been""","Gisenyi, Rwanda",DTAsia
+"""been""","Quito, Ecuador",DTAsia
+"""been""","Cuenca, Ecuador",DTAsia
+"""been""","Kano, Nigeria",DTAsia
+"""been""","Valparaiso, Chile",DTAsia
+"""been""","Ibadan, Nigeria",DTAsia
+"""been""","Villa Adriana, Italy",DTAsia
+"""been""","Baltimore, MD, USA",DTAsia
+"""been""","Naypyidaw, Myanmar",DTAsia
+"""been""","Austin, TX, USA",DTAsia
+"""been""","San Quirico d'Orcia, Italy",DTAsia
+"""been""","Santiago, Chile",DTAsia
+"""been""","Ibarra, Ecuador",DTAsia
+"""been""","Haarlem, The Netherlands",DTAsia
+"""been""","Zurich, Switzerland",DTAsia
+"""been""","Lake Leelanau, MI, USA",DTAsia
+"""been""","Tanna Island, Vanuatu",DTAsia
+"""been""","Erbil, Iraq",DTAsia
+"""been""","Amsterdam, The Netherlands",DTAsia
+"""been""","Mandalay, Myanmar",DTAsia
+"""been""","Machu Picchu, Peru",DTAsia
+"""been""","Hyde Park, NY, USA",DTAsia
+"""been""","Lausanne, Switzerland",DTAsia
+"""been""","Lima, Peru",DTAsia
+"""been""","Cusco, Peru",DTAsia
+"""been""","Hoboken, NJ, USA",DTAsia
+"""been""","Gonder, Ethiopia",DTAsia
+"""been""","Lansing, MI, USA",DTAsia
+"""been""","Herat, Afghanistan",DTAsia
+"""been""","Leland, MI, USA",DTAsia
+"""been""","Gan Island, Asia",DTAsia
+"""been""","Butare, Rwanda",DTAsia
+"""been""","Paro, Bhutan",DTAsia
+"""been""","Cabimas, Venezuela",DTAsia
+"""been""","Peshawar, Pakistan",DTAsia
+"""been""","Luang Prabang, Laos",DTAsia
+"""been""","Lahore, Pakistan",DTAsia
+"""been""","Karachi, Pakistan",DTAsia
+"""been""","Patan (Lalitpur), Nepal",DTAsia
+"""been""","Copenhagen, Denmark",DTAsia
+"""been""","Kathmandu, Nepal",DTAsia
+"""been""","Bertoua, Cameroon",DTAsia
+"""been""","Nagarkot, Nepal",DTAsia
+"""been""","Bamenda, Cameroon",DTAsia
+"""been""","Mbeya, Tanzania",DTAsia
+"""been""","Morogoro, Tanzania",DTAsia
+"""been""","Erie, PA, USA",DTAsia
+"""been""","Bend, OR, USA",DTAsia
+"""been""","Beaverton, OR, USA",DTAsia
+"""been""","Lijiang, China",DTAsia
+"""been""","Ystad, Sweden",DTAsia
+"""been""","Bonn, Germany",DTAsia
+"""been""","Cologne, Germany",DTAsia
+"""been""","Shelter Island, NY, USA",DTAsia
+"""been""","Chitwan National Park, Nepal",DTAsia
+"""been""","Pokhara, Nepal",DTAsia
+"""been""","Guadalcanal Island, Solomon Islands",DTAsia
+"""been""","Bruges, Belgium",DTAsia
+"""been""","Svaneke, Denmark",DTAsia
+"""been""","Frankfurt, Germany",DTAsia
+"""been""","Roenne, Denmark",DTAsia
+"""been""","Kibungo, Rwanda",DTAsia
+"""been""","Gisborne, New Zealand",DTAsia
+"""been""","Auckland Central, New Zealand",DTAsia
+"""been""","Napier, New Zealand",DTAsia
+"""been""","Medford, OR, USA",DTAsia
+"""been""","Indianapolis, IN, USA",DTAsia
+"""been""","Hershey, PA, USA",DTAsia
+"""been""","Manchester, NH, USA",DTAsia
+"""been""","Batticaloa, Sri Lanka",DTAsia
+"""been""","Washington DC, DC, USA",DTAsia
+"""been""","Forli, Italy",DTAsia
+"""been""","Kisangani, Democratic Republic of the Congo",DTAsia
+"""been""","Rotorua, New Zealand",DTAsia
+"""been""","Bophut, Thailand",DTAsia
+"""been""","Wellington, New Zealand",DTAsia
+"""been""","Taupo, New Zealand",DTAsia
+"""been""","Phuket Town, Thailand",DTAsia
+"""been""","Bellingham, WA, USA",DTAsia
+"""been""","Northport, NY, USA",DTAsia
+"""been""","Machakos, Kenya",DTAsia
+"""been""","Tsavo National Park West, Kenya",DTAsia
+"""been""","Thimphu, Bhutan",DTAsia
+"""been""","Brussels, Belgium",DTAsia
+"""been""","Santa Rosa, CA, USA",DTAsia
+"""been""","Kampala, Uganda",DTAsia
+"""been""","Zaventem, Belgium",DTAsia
+"""been""","Lusaka, Zambia",DTAsia
+"""been""","Santa Monica, CA, USA",DTAsia
+"""been""","Manggis, Indonesia",DTAsia
+"""been""","Louisville, KY, USA",DTAsia
+"""been""","Shinjuku, Japan",DTAsia
+"""been""","Hasle, Denmark",DTAsia
+"""been""","Ilorin, Nigeria",DTAsia
+"""been""","Atlanta, GA, USA",DTAsia
+"""been""","Liege, Belgium",DTAsia
+"""been""","Berlin, Germany",DTAsia
+"""been""","Nakuru, Kenya",DTAsia
+"""been""","Amagansett, NY, USA",DTAsia
+"""been""","Ternaard, The Netherlands",DTAsia
+"""been""","Nai Yang, Thailand",DTAsia
+"""been""","Sausalito, CA, USA",DTAsia
+"""been""","Portland, ME, USA",DTAsia
+"""been""","Thulusdhoo Island, Asia",DTAsia
+"""been""","Da Nang, Vietnam",DTAsia
+"""been""","Leiden, The Netherlands",DTAsia
+"""been""","Cambridge, MA, USA",DTAsia
+"""been""","Delft, The Netherlands",DTAsia
+"""been""","Lido di Ostia, Italy",DTAsia
+"""been""","Skelleftea, Sweden",DTAsia
+"""been""","Gudhjem, Denmark",DTAsia
+"""been""","Rome, Italy",DTAsia
+"""been""","Tivoli, Italy",DTAsia
+"""been""","Vatican City, Vatican City",DTAsia
+"""been""","Rumbek, South Sudan",DTAsia
+"""been""","Omaha, NE, USA",DTAsia
+"""been""","Anchorage, AK, USA",DTAsia
+"""been""","Tsavo National Park East, Kenya",DTAsia
+"""been""","Seattle, WA, USA",DTAsia
+"""been""","Lahaina, HI, USA",DTAsia
+"""been""","The Hague, The Netherlands",DTAsia
+"""been""","Rotterdam, The Netherlands",DTAsia
+"""been""","Santa Barbara, CA, USA",DTAsia
+"""been""","Antwerp, Belgium",DTAsia
+"""been""","Fang, Thailand",DTAsia
+"""been""","Antananarivo, Madagascar",DTAsia
+"""been""","Ngong, Kenya",DTAsia
+"""been""","Ghorepani, Nepal",DTAsia
+"""been""","Madrid, Spain",DTAsia
+"""been""","Helsinki, Finland",DTAsia
+"""been""","Tarangire National Park, Tanzania",DTAsia
+"""been""","Roscommon, MI, USA",DTAsia
+"""been""","Burano, Italy",DTAsia
+"""been""","Marmaris, Turkey",DTAsia
+"""been""","Mikumi National Park, Tanzania",DTAsia
+"""been""","Trou aux Biches, Africa",DTAsia
+"""been""","Maputo, Mozambique",DTAsia
+"""been""","Grand Baie, Africa",DTAsia
+"""been""","Timbuktu, Mali",DTAsia
+"""been""","Palm Springs, CA, USA",DTAsia
+"""been""","Palo Alto, CA, USA",DTAsia
+"""been""","Port Elizabeth, St. Vincent and the Grenadines",DTAsia
+"""been""","Marangu, Tanzania",DTAsia
+"""been""","Dallas, TX, USA",DTAsia
+"""been""","Valencia, Spain",DTAsia
+"""been""","Lilongwe, Malawi",DTAsia
+"""been""","Montauk, NY, USA",DTAsia
+"""been""","Bamako, Mali",DTAsia
+"""been""","Mauritius, Africa",DTAsia
+"""been""","Hulhumale, Asia",DTAsia
+"""been""","Nonthaburi, Thailand",DTAsia
+"""been""","Island Harbour, Anguilla",DTAsia
+"""been""","Amersfoort, The Netherlands",DTAsia
+"""been""","Benidorm, Spain",DTAsia
+"""been""","Bhopal, India",DTAsia
+"""been""","Utrecht, The Netherlands",DTAsia
+"""been""","Kilifi, Kenya",DTAsia
+"""been""","Entebbe, Uganda",DTAsia
+"""been""","Niamey, Niger",DTAsia
+"""been""","Abuja, Nigeria",DTAsia
+"""been""","Ontario, CA, USA",DTAsia
+"""been""","San Gennaro Collodi, Italy",DTAsia
+"""been""","Kigali, Rwanda",DTAsia
+"""been""","Jomsom, Nepal",DTAsia
+"""been""","Windhoek, Namibia",DTAsia
+"""been""","Bhaktapur, Nepal",DTAsia
+"""been""","Biratnagar, Nepal",DTAsia
+"""been""","Ascona, Switzerland",DTAsia
+"""been""","Janakpur, Nepal",DTAsia
+"""been""","Gorkha, Nepal",DTAsia
+"""been""","Ghermu, Nepal",DTAsia
+"""been""","Khartoum, Sudan",DTAsia
+"""been""","Mbabane, Eswatini (Swaziland)",DTAsia
+"""been""","Lome, Togo",DTAsia
+"""been""","Port-Vendres, France",DTAsia
+"""been""","Annapurna Region, Nepal",DTAsia
+"""been""","Dakar, Senegal",DTAsia
+"""been""","Quelimane, Mozambique",DTAsia
+"""been""","Cassis, France",DTAsia
+"""been""","Bandipur, Nepal",DTAsia
+"""been""","Hulhule Island, Asia",DTAsia
+"""been""","Xai-Xai, Mozambique",DTAsia
+"""been""","Mtwara, Tanzania",DTAsia
+"""been""","Melbourne, Australia",DTAsia
+"""been""","Muzaffarabad, Pakistan",DTAsia
+"""been""","Inhambane, Mozambique",DTAsia
+"""been""","Verbier, Switzerland",DTAsia
+"""been""","Oakland, CA, USA",DTAsia
+"""been""","Paje, Tanzania",DTAsia
+"""been""","Vavuniya, Sri Lanka",DTAsia
+"""been""","Columbus, OH, USA",DTAsia
+"""been""","Bridgetown, Barbados",DTAsia
+"""been""","Bonaire, Caribbean",DTAsia
+"""been""","Park City, UT, USA",DTAsia
+"""been""","Kralendijk, Bonaire",DTAsia
+"""been""","Jackson, WY, USA",DTAsia
+"""been""","Douala, Cameroon",DTAsia
+"""been""","Matemwe, Tanzania",DTAsia
+"""been""","Cleveland, OH, USA",DTAsia
+"""been""","Mek'ele, Ethiopia",DTAsia
+"""been""","Siem Reap, Cambodia",DTAsia
+"""been""","Nyeri, Kenya",DTAsia
+"""been""","Dublin, Ireland",DTAsia
+"""been""","Marigot, St. Barthelemy",DTAsia
+"""been""","Galway, Ireland",DTAsia
+"""been""","Wangdue, Bhutan",DTAsia
+"""been""","Brasilia, Brazil",DTAsia
+"""been""","Cork, Ireland",DTAsia
+"""been""","Kilinochchi, Sri Lanka",DTAsia
+"""been""","Malindi, Kenya",DTAsia
+"""been""","Sevare, Mali",DTAsia
+"""been""","Les Baux de Provence, France",DTAsia
+"""been""","Albano Laziale, Italy",DTAsia
+"""been""","Saint-Josse-ten-Noode, Belgium",DTAsia
+"""been""","Mexico, MO, USA",DTAsia
+"""been""","Hudson, NY, USA",DTAsia
+"""been""","Reno, NV, USA",DTAsia
+"""been""","Ostia Antica, Italy",DTAsia
+"""been""","Glen Arbor, MI, USA",DTAsia
+"""been""","Merida, Venezuela",DTAsia
+"""been""","Grand Case, St Martin \u002F St Maarten",DTAsia
+"""been""","Bodrum City, Turkey",DTAsia
+"""been""","Scottsdale, AZ, USA",DTAsia
+"""been""","Nizwa, Oman",DTAsia
+"""been""","Sedona, AZ, USA",DTAsia
+"""been""","Ruyigi, Burundi",DTAsia
+"""been""","Virgin Gorda, British Virgin Islands",DTAsia
+"""been""","Ankara, Turkey",DTAsia
+"""been""","La Paz, Bolivia",DTAsia
+"""been""","St. Barthelemy, Caribbean",DTAsia
+"""been""","San Juan del Sur, Nicaragua",DTAsia
+"""been""","Gustavia, St. Barthelemy",DTAsia
+"""been""","Grand Rapids, MI, USA",DTAsia
+"""been""","Hyderabad, India",DTAsia
+"""been""","Bogota, Colombia",DTAsia
+"""been""","Timbavati Private Nature Reserve, South Africa",DTAsia
+"""been""","Caracas, Venezuela",DTAsia
+"""been""","Porlamar, Venezuela",DTAsia
+"""been""","Montesquieu des Alberes, France",DTAsia
+"""been""","Habere-Poche, France",DTAsia
+"""been""","Ravenna, Italy",DTAsia
+"""been""","Rimini, Italy",DTAsia
+"""been""","St. Jean, St. Barthelemy",DTAsia
+"""been""","Gros Islet, St. Lucia",DTAsia
+"""been""","Maroua, Cameroon",DTAsia
+"""been""","Rawalpindi, Pakistan",DTAsia
+"""been""","St Martin \u002F St Maarten, Caribbean",DTAsia
+"""been""","Bologna, Italy",DTAsia
+"""been""","Philipsburg, St Martin \u002F St Maarten",DTAsia
+"""been""","Lerici, Italy",DTAsia
+"""been""","Sukkur, Pakistan",DTAsia
+"""been""","Annapolis, MD, USA",DTAsia
+"""been""","Arlington, VA, USA",DTAsia
+"""been""","Watamu, Kenya",DTAsia
+"""been""","Makati, Philippines",DTAsia
+"""been""","Skanor, Sweden",DTAsia
+"""been""","Portland, OR, USA",DTAsia
+"""been""","Mwanza, Tanzania",DTAsia
+"""been""","South Lake Tahoe, CA, USA",DTAsia
+"""been""","Bagamoyo, Tanzania",DTAsia
+"""been""","San Venanzo, Italy",DTAsia
+"""been""","Gitega, Burundi",DTAsia
+"""been""","Usa River, Tanzania",DTAsia
+"""been""","Faisalabad, Pakistan",DTAsia
+"""been""","Banda Aceh, Indonesia",DTAsia
+"""been""","Mount Hagen, Papua New Guinea",DTAsia
+"""been""","Saint-Emilion, France",DTAsia
+"""been""","Locarno, Switzerland",DTAsia
+"""been""","Lone Pine, CA, USA",DTAsia
+"""been""","Alexandria, VA, USA",DTAsia
+"""been""","Long Beach, CA, USA",DTAsia
+"""been""","Phoenix, AZ, USA",DTAsia
+"""been""","Kingston, Jamaica",DTAsia
+"""been""","Montego Bay, Jamaica",DTAsia
+"""been""","Abu Dhabi, United Arab Emirates",DTAsia
+"""been""","Palawan Island, Philippines",DTAsia
+"""been""","Ocho Rios, Jamaica",DTAsia
+"""been""","Bharatpur, Nepal",DTAsia
+"""been""","Negril, Jamaica",DTAsia
+"""been""","Formia, Italy",DTAsia
+"""been""","Las Vegas, NV, USA",DTAsia
+"""been""","Quetta, Pakistan",DTAsia
+"""been""","Multan, Pakistan",DTAsia
+"""been""","Montelimar, France",DTAsia
+"""been""","Dhulikhel, Nepal",DTAsia
+"""been""","Bagan, Myanmar",DTAsia
+"""been""","Banyuls-sur-mer, France",DTAsia
+"""been""","Los Angeles, CA, USA",DTAsia
+"""been""","Singapore, Singapore",DTAsia
+"""been""","Salinas, Ecuador",DTAsia
+"""been""","Gstaad, Switzerland",DTAsia
+"""been""","Muhanga, Rwanda",DTAsia
+"""been""","Li, Thailand",DTAsia
+"""been""","Frascati, Italy",DTAsia
+"""been""","Muncho Lake, British Columbia, Canada",DTAsia
+"""been""","Lee Vining, CA, USA",DTAsia
+"""been""","Mariental, Namibia",DTAsia
+"""been""","Kassala, Sudan",DTAsia
+"""been""","Muscat, Oman",DTAsia
+"""been""","Montecatini Val di Cecina, Italy",DTAsia
+"""been""","Axum, Ethiopia",DTAsia
+"""been""","Lagos, Nigeria",DTAsia
+"""been""","Kampong Speu, Cambodia",DTAsia
+"""been""","Prey Veng, Cambodia",DTAsia
+"""been""","Zhaojue County, China",DTAsia
+"""been""","Petaluma, CA, USA",DTAsia
+"""been""","San Juan, Puerto Rico",DTAsia
+"""been""","Cotonou, Benin",DTAsia
+"""been""","Goa Velha, India",DTAsia
+"""been""","Santa Cruz, Bolivia",DTAsia
+"""been""","Sagaing, Myanmar",DTAsia
+"""been""","Bern, Switzerland",DTAsia
+"""been""","Geneva, Switzerland",DTAsia
+"""been""","Cincinnati, OH, USA",DTAsia
+"""been""","Lalibela, Ethiopia",DTAsia
+"""been""","Provo, UT, USA",DTAsia
+"""been""","Boston, MA, USA",DTAsia
+"""been""","Cannobio, Italy",DTAsia
+"""been""","Beijing, China",DTAsia
+"""been""","Basel, Switzerland",DTAsia
+"""been""","Sofia, Bulgaria",DTAsia
+"""been""","Antalya, Turkey",DTAsia
+"""been""","Mombasa, Kenya",DTAsia
+"""been""","Musoma, Tanzania",DTAsia
+"""been""","Side, Turkey",DTAsia
+"""been""","Argentiere, France",DTAsia
+"""been""","Medan, Indonesia",DTAsia
+"""been""","Hong Kong, China",DTAsia
+"""been""","Pyay, Myanmar",DTAsia
+"""been""","Lucerne, Switzerland",DTAsia
+"""been""","Cascais, Portugal",DTAsia
+"""been""","Castiglione del Lago, Italy",DTAsia
+"""been""","Kigoma, Tanzania",DTAsia
+"""been""","Lisbon, Portugal",DTAsia
+"""been""","Honolulu, HI, USA",DTAsia
+"""been""","Jakarta, Indonesia",DTAsia
+"""been""","Sandusky, OH, USA",DTAsia
+"""been""","Buffalo, NY, USA",DTAsia
+"""been""","Denver, CO, USA",DTAsia
+"""been""","Kusadasi, Turkey",DTAsia
+"""been""","Houston, TX, USA",DTAsia
+"""been""","Hollum, The Netherlands",DTAsia
+"""been""","Panama City, Panama",DTAsia
+"""been""","Nes, The Netherlands",DTAsia
+"""been""","Dokkum, The Netherlands",DTAsia
+"""been""","Anaheim, CA, USA",DTAsia
+"""been""","Vellore, India",DTAsia
+"""been""","Holwerd, The Netherlands",DTAsia
+"""been""","Zurich, Ontario, Canada",DTAsia
+"""been""","Finkum, The Netherlands",DTAsia
+"""been""","Moundou, Chad",DTAsia
+"""been""","Lagos, Portugal",DTAsia
+"""been""","Bora Bora, French Polynesia",DTAsia
+"""been""","Sittwe, Myanmar",DTAsia
+"""been""","Damascus, Syria",DTAsia
+"""been""","Indore, India",DTAsia
+"""been""","Kyaikto, Myanmar",DTAsia
+"""been""","M'Baiki, Central African Republic",DTAsia
+"""been""","Kansas City, KS, USA",DTAsia
+"""been""","Newark, NJ, USA",DTAsia
+"""been""","San Miniato, Italy",DTAsia
+"""been""","Santa Fe, NM, USA",DTAsia
+"""been""","Doha, Qatar",DTAsia
+"""been""","San Antonio, TX, USA",DTAsia
+"""been""","San Francisco, CA, USA",DTAsia
+"""been""","Abidjan, Ivory Coast",DTAsia
+"""been""","Manchester, VT, USA",DTAsia
+"""been""","Colorado Springs, CO, USA",DTAsia
+"""been""","Wyomissing, PA, USA",DTAsia
+"""been""","Dili, East Timor",DTAsia
+"""been""","Beirut, Lebanon",DTAsia
+"""been""","Myitkyina, Myanmar",DTAsia
+"""been""","Montalcino, Italy",DTAsia
+"""been""","Tucson, AZ, USA",DTAsia
+"""been""","Todi, Italy",DTAsia
+"""been""","Maracaibo, Venezuela",DTAsia
+"""been""","Estes Park, CO, USA",DTAsia
+"""been""","Chiang Rai, Thailand",DTAsia
+"""been""","Unalaska, AK, USA",DTAsia
+"""been""","Budapest, Hungary",DTAsia
+"""been""","Hua Hin, Thailand",DTAsia
+"""been""","Noordwijk, The Netherlands",DTAsia
+"""been""","Athi River, Kenya",DTAsia
+"""been""","Monte a Pescia, Italy",DTAsia
+"""been""","Sonoma, CA, USA",DTAsia
+"""been""","Miami, FL, USA",DTAsia
+"""been""","Miami Beach, FL, USA",DTAsia
+"""been""","Albuquerque, NM, USA",DTAsia
+"""been""","Lomanthang, Nepal",DTAsia
+"""been""","Shela, Kenya",DTAsia
+"""been""","Patong, Thailand",DTAsia
+"""been""","Guatemala City, Guatemala",DTAsia
+"""been""","Ithaca, NY, USA",DTAsia
+"""been""","Mogadishu, Somalia",DTAsia
+"""been""","Grayling, MI, USA",DTAsia
+"""been""","Half Moon Bay, CA, USA",DTAsia
+"""been""","Lido di Venezia, Italy",DTAsia
+"""been""","Salt Lake City, UT, USA",DTAsia
+"""been""","Sanur, Indonesia",DTAsia
+"""been""","Hollviken, Sweden",DTAsia
+"""been""","Brouilla, France",DTAsia
+"""been""","Groveland, CA, USA",DTAsia
+"""been""","Hammamet, Tunisia",DTAsia
+"""been""","Flushing, NY, USA",DTAsia
+"""been""","Collioure, France",DTAsia
+"""been""","Fishkill, NY, USA",DTAsia
+"""been""","Nimes, France",DTAsia
+"""been""","Sarajevo, Bosnia and Herzegovina",DTAsia
+"""been""","Charlestown, St. Vincent and the Grenadines",DTAsia
+"""been""","Nairobi, Kenya",DTAsia
+"""been""","Lamu Island, Kenya",DTAsia
+"""been""","Boulder, CO, USA",DTAsia
+"""been""","Paris, France",DTAsia
+"""been""","Cairo, Egypt",DTAsia
+"""been""","Pyongyang, North Korea",DTAsia
+"""been""","Tegucigalpa, Honduras",DTAsia
+"""been""","Cox's Bazar, Bangladesh",DTAsia

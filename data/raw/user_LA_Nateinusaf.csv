@@ -1,0 +1,781 @@
+tag,place,user
+"""been""","Crater Lake National Park, OR, USA",Nateinusaf
+"""been""","Victoria, TX, USA",Nateinusaf
+"""been""","Devine, TX, USA",Nateinusaf
+"""been""","Pordenone, Italy",Nateinusaf
+"""been""","Saint Paul, MN, USA",Nateinusaf
+"""been""","Merritt, British Columbia, Canada",Nateinusaf
+"""been""","Warsaw, Poland",Nateinusaf
+"""been""","Dongducheon, South Korea",Nateinusaf
+"""been""","Yeosu, South Korea",Nateinusaf
+"""been""","Tonsberg, Norway",Nateinusaf
+"""been""","Bucharest, Romania",Nateinusaf
+"""been""","Saginaw, MI, USA",Nateinusaf
+"""been""","Grand Forks, British Columbia, Canada",Nateinusaf
+"""been""","Bled, Slovenia",Nateinusaf
+"""been""","Sarajevo, Bosnia and Herzegovina",Nateinusaf
+"""been""","Zagreb, Croatia",Nateinusaf
+"""been""","Oahu, HI, USA",Nateinusaf
+"""been""","Princeton, British Columbia, Canada",Nateinusaf
+"""been""","Chisinau, Moldova",Nateinusaf
+"""been""","Hondo, TX, USA",Nateinusaf
+"""been""","San Angelo, TX, USA",Nateinusaf
+"""been""","Oslo, Norway",Nateinusaf
+"""been""","Montegrotto Terme, Italy",Nateinusaf
+"""been""","Doha, Qatar",Nateinusaf
+"""been""","Sweimah, Jordan",Nateinusaf
+"""been""","Port Douglas, Australia",Nateinusaf
+"""been""","Maribor, Slovenia",Nateinusaf
+"""been""","Ljubljana, Slovenia",Nateinusaf
+"""been""","Surfers Paradise, Australia",Nateinusaf
+"""been""","Trail, British Columbia, Canada",Nateinusaf
+"""been""","Manchester, UK",Nateinusaf
+"""been""","Baghdad, Iraq",Nateinusaf
+"""been""","North Cascades National Park, WA, USA",Nateinusaf
+"""been""","Naramata, British Columbia, Canada",Nateinusaf
+"""been""","Kuwait City, Kuwait",Nateinusaf
+"""been""","Avery, ID, USA",Nateinusaf
+"""been""","Mannheim, Germany",Nateinusaf
+"""been""","Mexico City, Mexico",Nateinusaf
+"""been""","Alexandria, VA, USA",Nateinusaf
+"""been""","Stuttgart, Germany",Nateinusaf
+"""been""","Ma'in, Jordan",Nateinusaf
+"""been""","Cairns, Australia",Nateinusaf
+"""been""","Boerne, TX, USA",Nateinusaf
+"""been""","Waco, TX, USA",Nateinusaf
+"""been""","Toronto, Ontario, Canada",Nateinusaf
+"""been""","Mogliano Veneto, Italy",Nateinusaf
+"""been""","Malolos, Philippines",Nateinusaf
+"""been""","Phoenix, AZ, USA",Nateinusaf
+"""been""","Milwaukee, WI, USA",Nateinusaf
+"""been""","Flint, MI, USA",Nateinusaf
+"""been""","Sydney, Australia",Nateinusaf
+"""been""","Belgrade, Serbia",Nateinusaf
+"""been""","Budapest, Hungary",Nateinusaf
+"""been""","Kyiv (Kiev), Ukraine",Nateinusaf
+"""been""","Brisbane, Australia",Nateinusaf
+"""been""","Valley, WA, USA",Nateinusaf
+"""been""","Los Angeles, CA, USA",Nateinusaf
+"""been""","Veradale, WA, USA",Nateinusaf
+"""been""","Abano Terme, Italy",Nateinusaf
+"""been""","Portland, OR, USA",Nateinusaf
+"""been""","Mexico, Philippines",Nateinusaf
+"""been"",""want""","Las Vegas, NV, USA",Nateinusaf
+"""been""","Quilchena, British Columbia, Canada",Nateinusaf
+"""been""","Lignano Pineta, Italy",Nateinusaf
+"""been""","Pendleton, OR, USA",Nateinusaf
+"""been""","Codru, Moldova",Nateinusaf
+"""been""","San Marcos, TX, USA",Nateinusaf
+"""been""","Arlington, VA, USA",Nateinusaf
+"""been""","Midland, MI, USA",Nateinusaf
+"""been""","Montreal, Quebec, Canada",Nateinusaf
+"""been""","Quebec City, Quebec, Canada",Nateinusaf
+"""been""","Saint Louis, MO, USA",Nateinusaf
+"""been""","Camenca, Moldova",Nateinusaf
+"""been""","Abu Dhabi, United Arab Emirates",Nateinusaf
+"""been""","Airway Heights, WA, USA",Nateinusaf
+"""been""","Ashford, WA, USA",Nateinusaf
+"""been""","Addy, WA, USA",Nateinusaf
+"""been""","Dubrovnik, Croatia",Nateinusaf
+"""been""","Manhattan Beach, CA, USA",Nateinusaf
+"""been""","Wilbur, WA, USA",Nateinusaf
+"""been""","Split, Croatia",Nateinusaf
+"""been""","Bulverde, TX, USA",Nateinusaf
+"""been""","Westport, WA, USA",Nateinusaf
+"""been""","Aberdeen, WA, USA",Nateinusaf
+"""been""","West Richland, WA, USA",Nateinusaf
+"""been""","Wenatchee, WA, USA",Nateinusaf
+"""been""","Gwangju, South Korea",Nateinusaf
+"""been""","Pula, Croatia",Nateinusaf
+"""been""","Zadar, Croatia",Nateinusaf
+"""been""","Minneapolis, MN, USA",Nateinusaf
+"""been""","Wauconda, WA, USA",Nateinusaf
+"""been""","Waterville, WA, USA",Nateinusaf
+"""been""","Sammamish, WA, USA",Nateinusaf
+"""been""","Waverly, WA, USA",Nateinusaf
+"""been""","Schertz, TX, USA",Nateinusaf
+"""been""","Almira, WA, USA",Nateinusaf
+"""been""","Marina del Rey, CA, USA",Nateinusaf
+"""been""","Warden, WA, USA",Nateinusaf
+"""been""","Midway, British Columbia, Canada",Nateinusaf
+"""been""","Positano, Italy",Nateinusaf
+"""been""","Anacortes, WA, USA",Nateinusaf
+"""been""","Castlegar, British Columbia, Canada",Nateinusaf
+"""been""","Plat, Croatia",Nateinusaf
+"""been""","Ardenvoir, WA, USA",Nateinusaf
+"""been""","Keremeos, British Columbia, Canada",Nateinusaf
+"""been""","Puerto de la Cruz, Spain",Nateinusaf
+"""been""","Santa Cruz de Tenerife, Spain",Nateinusaf
+"""been""","Bozeman, MT, USA",Nateinusaf
+"""been""","Battle Creek, MI, USA",Nateinusaf
+"""been""","Fallujah, Iraq",Nateinusaf
+"""been""","Weiskirchen, Germany",Nateinusaf
+"""been""","Spokane Valley, WA, USA",Nateinusaf
+"""been""","Praia, Cape Verde",Nateinusaf
+"""been""","Monte-Carlo, Monaco",Nateinusaf
+"""been""","Beaverton, OR, USA",Nateinusaf
+"""been""","Bend, OR, USA",Nateinusaf
+"""been""","Las Palmas de Gran Canaria, Spain",Nateinusaf
+"""been""","Chewelah, WA, USA",Nateinusaf
+"""been""","Nice, France",Nateinusaf
+"""been""","Guagua, Philippines",Nateinusaf
+"""been""","Airlie Beach, Australia",Nateinusaf
+"""been""","Cannon Beach, OR, USA",Nateinusaf
+"""been""","Bath, UK",Nateinusaf
+"""been""","Kirkuk, Iraq",Nateinusaf
+"""been""","Palma de Mallorca, Spain",Nateinusaf
+"""been""","Cannes, France",Nateinusaf
+"""been""","Athens, Greece",Nateinusaf
+"""been""","Norman, OK, USA",Nateinusaf
+"""been""","Ramadi, Iraq",Nateinusaf
+"""been""","Oxford, UK",Nateinusaf
+"""been""","Safi, Jordan",Nateinusaf
+"""been""","Djibouti, Djibouti",Nateinusaf
+"""been""","Vasteras, Sweden",Nateinusaf
+"""been""","Heidelberg, Germany",Nateinusaf
+"""been""","Marghera, Italy",Nateinusaf
+"""been""","Vienna, Austria",Nateinusaf
+"""been""","Lublin, Poland",Nateinusaf
+"""been""","Wroclaw, Poland",Nateinusaf
+"""been""","Karlsruhe, Germany",Nateinusaf
+"""been""","Neunkirchen, Germany",Nateinusaf
+"""been""","Quarto D'Altino, Italy",Nateinusaf
+"""been""","Salzburg, Austria",Nateinusaf
+"""been""","Oklahoma City, OK, USA",Nateinusaf
+"""been""","Ajlun, Jordan",Nateinusaf
+"""been""","Uvalde, TX, USA",Nateinusaf
+"""been""","Dallas, TX, USA",Nateinusaf
+"""been""","Amsterdam, The Netherlands",Nateinusaf
+"""been""","Universal City, TX, USA",Nateinusaf
+"""been""","Richmond, British Columbia, Canada",Nateinusaf
+"""been""","Leoben, Austria",Nateinusaf
+"""been""","Graz, Austria",Nateinusaf
+"""been""","Lake Country, British Columbia, Canada",Nateinusaf
+"""been""","Klagenfurt, Austria",Nateinusaf
+"""been""","Minsk, Belarus",Nateinusaf
+"""been""","Osoyoos, British Columbia, Canada",Nateinusaf
+"""been""","Bamberg, Germany",Nateinusaf
+"""been""","Zurich, Switzerland",Nateinusaf
+"""been""","Langley City, British Columbia, Canada",Nateinusaf
+"""been""","Cairo, Egypt",Nateinusaf
+"""been""","D'Hanis, TX, USA",Nateinusaf
+"""been""","Marseille, France",Nateinusaf
+"""been""","Barcelona, Spain",Nateinusaf
+"""been""","Girona, Spain",Nateinusaf
+"""been""","Hammamet, Tunisia",Nateinusaf
+"""been""","El Paso, TX, USA",Nateinusaf
+"""been""","Port Townsend, WA, USA",Nateinusaf
+"""been""","Denver, CO, USA",Nateinusaf
+"""been""","Chesapeake, VA, USA",Nateinusaf
+"""been""","Duvall, WA, USA",Nateinusaf
+"""been""","McQueeney, TX, USA",Nateinusaf
+"""been""","Dryden, WA, USA",Nateinusaf
+"""been""","Poulsbo, WA, USA",Nateinusaf
+"""been""","Pocatello, ID, USA",Nateinusaf
+"""been""","Plummer, ID, USA",Nateinusaf
+"""been""","Valencia, Spain",Nateinusaf
+"""been""","Tampere, Finland",Nateinusaf
+"""been""","Puyallup, WA, USA",Nateinusaf
+"""been""","Irving, TX, USA",Nateinusaf
+"""been""","Pullman, WA, USA",Nateinusaf
+"""want""","Cape Town Central, South Africa",Nateinusaf
+"""been""","Pamplona, Spain",Nateinusaf
+"""been""","Corvallis, OR, USA",Nateinusaf
+"""been""","Little Rock, AR, USA",Nateinusaf
+"""been""","Al-Maghtas, Jordan",Nateinusaf
+"""been""","New York City, NY, USA",Nateinusaf
+"""been""","Montebelluna, Italy",Nateinusaf
+"""been""","Benidorm, Spain",Nateinusaf
+"""been""","Samal, Philippines",Nateinusaf
+"""been""","McAllen, TX, USA",Nateinusaf
+"""been""","Bangkok, Thailand",Nateinusaf
+"""been""","Pateros, WA, USA",Nateinusaf
+"""been""","Davenport, WA, USA",Nateinusaf
+"""been""","Huntsville, TX, USA",Nateinusaf
+"""been""","Pasco, WA, USA",Nateinusaf
+"""been""","Luby Bay, ID, USA",Nateinusaf
+"""been""","Ponderay, ID, USA",Nateinusaf
+"""been""","Deer Park, WA, USA",Nateinusaf
+"""been""","Peshastin, WA, USA",Nateinusaf
+"""been""","Post Falls, ID, USA",Nateinusaf
+"""been""","Princeton, ID, USA",Nateinusaf
+"""been""","Priest River, ID, USA",Nateinusaf
+"""been""","Beverly Hills, CA, USA",Nateinusaf
+"""been""","Charlottesville, VA, USA",Nateinusaf
+"""been""","Adeje, Spain",Nateinusaf
+"""been""","Clackamas, OR, USA",Nateinusaf
+"""been""","Walla Walla, WA, USA",Nateinusaf
+"""been""","San Diego, CA, USA",Nateinusaf
+"""been""","Espoo, Finland",Nateinusaf
+"""been""","Helsinki, Finland",Nateinusaf
+"""been""","Cincinnati, OH, USA",Nateinusaf
+"""been""","Madrid, Spain",Nateinusaf
+"""been""","Everett, WA, USA",Nateinusaf
+"""been""","Memphis, TN, USA",Nateinusaf
+"""been""","Leeds, UK",Nateinusaf
+"""been""","Jalalabad, Afghanistan",Nateinusaf
+"""been""","Fife, WA, USA",Nateinusaf
+"""been""","Federal Way, WA, USA",Nateinusaf
+"""been""","Troy, MT, USA",Nateinusaf
+"""been""","Landstuhl, Germany",Nateinusaf
+"""been""","Ellensburg, WA, USA",Nateinusaf
+"""been""","Quincy, WA, USA",Nateinusaf
+"""been""","Electric City, WA, USA",Nateinusaf
+"""been""","Saint Maries, ID, USA",Nateinusaf
+"""been""","Elmer City, WA, USA",Nateinusaf
+"""been""","Sandpoint, ID, USA",Nateinusaf
+"""been""","Ephrata, WA, USA",Nateinusaf
+"""been""","Enumclaw, WA, USA",Nateinusaf
+"""been""","Entiat, WA, USA",Nateinusaf
+"""been""","Tokyo, Japan",Nateinusaf
+"""been""","Glacier, WA, USA",Nateinusaf
+"""been""","Gig Harbor, WA, USA",Nateinusaf
+"""been""","Belfast, UK",Nateinusaf
+"""been""","Casablanca, Morocco",Nateinusaf
+"""been""","Istanbul, Turkey",Nateinusaf
+"""been""","Abucay, Philippines",Nateinusaf
+"""been""","Agadir, Morocco",Nateinusaf
+"""been""","Marrakech, Morocco",Nateinusaf
+"""been""","Newcastle, UK",Nateinusaf
+"""been""","Fes, Morocco",Nateinusaf
+"""been""","Rabat, Morocco",Nateinusaf
+"""been""","Meknes, Morocco",Nateinusaf
+"""been""","Santa Rita, Philippines",Nateinusaf
+"""been""","Gold Bar, WA, USA",Nateinusaf
+"""been""","Wurzburg, Germany",Nateinusaf
+"""been""","Berlin, Germany",Nateinusaf
+"""been""","Calumpit, Philippines",Nateinusaf
+"""want""","San Jose, Costa Rica",Nateinusaf
+"""been""","Bremen, Germany",Nateinusaf
+"""been""","Guiguinto, Philippines",Nateinusaf
+"""been""","Kaleden, British Columbia, Canada",Nateinusaf
+"""been""","Rome, Italy",Nateinusaf
+"""been""","Forks, WA, USA",Nateinusaf
+"""want""","Rio de Janeiro, Brazil",Nateinusaf
+"""been""","Brownton, MN, USA",Nateinusaf
+"""been""","Katy, TX, USA",Nateinusaf
+"""been""","Fruitland, WA, USA",Nateinusaf
+"""been""","Vatican City, Vatican City",Nateinusaf
+"""been""","Brussels, Belgium",Nateinusaf
+"""been""","Philadelphia, PA, USA",Nateinusaf
+"""been""","West Kelowna, British Columbia, Canada",Nateinusaf
+"""been""","Norfolk, VA, USA",Nateinusaf
+"""been""","Hakalau, HI, USA",Nateinusaf
+"""been""","Boise, ID, USA",Nateinusaf
+"""been""","Captain Cook, HI, USA",Nateinusaf
+"""been""","Riyadh, Saudi Arabia",Nateinusaf
+"""been""","Hilo, HI, USA",Nateinusaf
+"""been""","Ansan, South Korea",Nateinusaf
+"""been""","Bonners Ferry, ID, USA",Nateinusaf
+"""been""","Munich, Germany",Nateinusaf
+"""been""","Manama, Bahrain",Nateinusaf
+"""been""","Sorrento, Italy",Nateinusaf
+"""been""","Waimea, HI, USA",Nateinusaf
+"""been""","Naples, Italy",Nateinusaf
+"""been""","Holualoa, HI, USA",Nateinusaf
+"""been""","Honomu, HI, USA",Nateinusaf
+"""been""","Mecca, Saudi Arabia",Nateinusaf
+"""been""","Eugene, OR, USA",Nateinusaf
+"""been""","Osan, South Korea",Nateinusaf
+"""been""","Kerrville, TX, USA",Nateinusaf
+"""been""","Grand Coulee, WA, USA",Nateinusaf
+"""been""","Killeen, TX, USA",Nateinusaf
+"""been""","Mosul, Iraq",Nateinusaf
+"""been""","Amman, Jordan",Nateinusaf
+"""been""","Madaba, Jordan",Nateinusaf
+"""been""","Jerash, Jordan",Nateinusaf
+"""been""","Great Falls, MT, USA",Nateinusaf
+"""been""","Corpus Christi, TX, USA",Nateinusaf
+"""been""","Salt Lake City, UT, USA",Nateinusaf
+"""been""","Bibione, Italy",Nateinusaf
+"""been""","Methow, WA, USA",Nateinusaf
+"""been""","Auburn, WA, USA",Nateinusaf
+"""been""","Medical Lake, WA, USA",Nateinusaf
+"""been""","Mead, WA, USA",Nateinusaf
+"""been""","Canyon Lake, TX, USA",Nateinusaf
+"""been""","Port Angeles, WA, USA",Nateinusaf
+"""been""","Mount Pleasant, MI, USA",Nateinusaf
+"""been""","Grand Rapids, MI, USA",Nateinusaf
+"""been""","Gardermoen, Norway",Nateinusaf
+"""been""","Sandefjord, Norway",Nateinusaf
+"""been""","Al Khobar, Saudi Arabia",Nateinusaf
+"""been""","Yakima, WA, USA",Nateinusaf
+"""been""","Bassano Del Grappa, Italy",Nateinusaf
+"""been""","Woodinville, WA, USA",Nateinusaf
+"""been""","Seguin, TX, USA",Nateinusaf
+"""been""","Salem, OR, USA",Nateinusaf
+"""been""","Wichita Falls, TX, USA",Nateinusaf
+"""been""","Winthrop, WA, USA",Nateinusaf
+"""been""","Selma, TX, USA",Nateinusaf
+"""been""","Seaside, OR, USA",Nateinusaf
+"""been""","Lubbock, TX, USA",Nateinusaf
+"""been""","Naches, WA, USA",Nateinusaf
+"""been""","Kingston, ID, USA",Nateinusaf
+"""been""","Moses Lake, WA, USA",Nateinusaf
+"""been""","Ketchum, ID, USA",Nateinusaf
+"""been""","Cedar Creek, TX, USA",Nateinusaf
+"""been""","Mukilteo, WA, USA",Nateinusaf
+"""been""","Mount Vernon, WA, USA",Nateinusaf
+"""been""","Siena, Italy",Nateinusaf
+"""been""","Assisi, Italy",Nateinusaf
+"""been""","The Dalles, OR, USA",Nateinusaf
+"""been""","Honaunau, HI, USA",Nateinusaf
+"""been""","Osaka, Japan",Nateinusaf
+"""been""","Kyoto, Japan",Nateinusaf
+"""been""","Montesano, WA, USA",Nateinusaf
+"""been""","Monroe, WA, USA",Nateinusaf
+"""been""","Lewiston, ID, USA",Nateinusaf
+"""been""","Albuquerque, NM, USA",Nateinusaf
+"""been""","Casarsa della Delizia, Italy",Nateinusaf
+"""been""","San Juan, Philippines",Nateinusaf
+"""been""","Seoul, South Korea",Nateinusaf
+"""been""","Clearwater, British Columbia, Canada",Nateinusaf
+"""been""","Teresa, Philippines",Nateinusaf
+"""been""","Colfax, WA, USA",Nateinusaf
+"""been""","Odessa, WA, USA",Nateinusaf
+"""been""","Ocean Shores, WA, USA",Nateinusaf
+"""been""","Miami, FL, USA",Nateinusaf
+"""been""","McCall, ID, USA",Nateinusaf
+"""been""","Cassis, France",Nateinusaf
+"""been""","Oak Harbor, WA, USA",Nateinusaf
+"""been""","Northport, WA, USA",Nateinusaf
+"""been""","Byron Bay, Australia",Nateinusaf
+"""been""","Plano, TX, USA",Nateinusaf
+"""been""","Cle Elum, WA, USA",Nateinusaf
+"""been""","Okanogan, WA, USA",Nateinusaf
+"""been""","Aqaba, Jordan",Nateinusaf
+"""been""","Nagoya, Japan",Nateinusaf
+"""been""","Del Rio, TX, USA",Nateinusaf
+"""been""","San Antonio, TX, USA",Nateinusaf
+"""been""","Manila, Philippines",Nateinusaf
+"""been""","Friday Harbor, WA, USA",Nateinusaf
+"""been""","Moscow, ID, USA",Nateinusaf
+"""been""","Nespelem, WA, USA",Nateinusaf
+"""been""","Idabel Lake, British Columbia, Canada",Nateinusaf
+"""been""","Asolo, Italy",Nateinusaf
+"""been""","Nine Mile Falls, WA, USA",Nateinusaf
+"""been""","Newport, WA, USA",Nateinusaf
+"""been""","Tulameen, British Columbia, Canada",Nateinusaf
+"""been""","Vantaa, Finland",Nateinusaf
+"""been""","Irbid, Jordan",Nateinusaf
+"""been""","Tucson, AZ, USA",Nateinusaf
+"""been""","Houston, TX, USA",Nateinusaf
+"""been""","Coulee City, WA, USA",Nateinusaf
+"""been""","Otis Orchards, WA, USA",Nateinusaf
+"""been""","Othello, WA, USA",Nateinusaf
+"""been""","Curlew, WA, USA",Nateinusaf
+"""been""","Mountain Home, ID, USA",Nateinusaf
+"""been""","Colorado Springs, CO, USA",Nateinusaf
+"""been""","Creston, WA, USA",Nateinusaf
+"""been""","Killarney, Ireland",Nateinusaf
+"""been""","Palouse, WA, USA",Nateinusaf
+"""been""","Boston, MA, USA",Nateinusaf
+"""been""","Greenwood, British Columbia, Canada",Nateinusaf
+"""been""","Butte, MT, USA",Nateinusaf
+"""been""","Kilkenny, Ireland",Nateinusaf
+"""been""","Honolulu, HI, USA",Nateinusaf
+"""been""","Cosmopolis, WA, USA",Nateinusaf
+"""been""","Orondo, WA, USA",Nateinusaf
+"""been""","Peachland, British Columbia, Canada",Nateinusaf
+"""been""","Beaumont, TX, USA",Nateinusaf
+"""been""","Omak, WA, USA",Nateinusaf
+"""been""","Colville, WA, USA",Nateinusaf
+"""been""","Olympia, WA, USA",Nateinusaf
+"""been""","Port Aransas, TX, USA",Nateinusaf
+"""been""","Marion, TX, USA",Nateinusaf
+"""been""","Orient, WA, USA",Nateinusaf
+"""been""","Connell, WA, USA",Nateinusaf
+"""been""","Concrete, WA, USA",Nateinusaf
+"""been""","Conconully, WA, USA",Nateinusaf
+"""been""","Cork, Ireland",Nateinusaf
+"""been""","Oroville, WA, USA",Nateinusaf
+"""been""","Port O'Connor, TX, USA",Nateinusaf
+"""been""","Gwangyang, South Korea",Nateinusaf
+"""been""","Dublin, Ireland",Nateinusaf
+"""been""","Hahn, Germany",Nateinusaf
+"""been""","Fort Worth, TX, USA",Nateinusaf
+"""been""","Umm Qais, Jordan",Nateinusaf
+"""been""","Dana, Jordan",Nateinusaf
+"""been""","Al Salt, Jordan",Nateinusaf
+"""been""","Azraq, Jordan",Nateinusaf
+"""been""","Uijeongbu, South Korea",Nateinusaf
+"""been""","Geneva, Switzerland",Nateinusaf
+"""been""","Playa del Ingles, Spain",Nateinusaf
+"""been""","Salou, Spain",Nateinusaf
+"""been""","Dubai, United Arab Emirates",Nateinusaf
+"""been""","Galveston, TX, USA",Nateinusaf
+"""been""","Luxembourg City, Luxembourg",Nateinusaf
+"""been""","Playa de las Americas, Spain",Nateinusaf
+"""been""","Cadoneghe, Italy",Nateinusaf
+"""been""","Albufeira, Portugal",Nateinusaf
+"""been""","Summerland, British Columbia, Canada",Nateinusaf
+"""been""","Jesolo, Italy",Nateinusaf
+"""been""","Fredericksburg, TX, USA",Nateinusaf
+"""been""","Santa Maria, Cape Verde",Nateinusaf
+"""been""","Garda, Italy",Nateinusaf
+"""been""","Chicago, IL, USA",Nateinusaf
+"""been""","Shoubak, Jordan",Nateinusaf
+"""been""","Zermatt, Switzerland",Nateinusaf
+"""been""","Teruel, Spain",Nateinusaf
+"""been""","Tignes, France",Nateinusaf
+"""been""","St. Petersburg, Russia",Nateinusaf
+"""been""","Mabalacat, Philippines",Nateinusaf
+"""been""","Ulsan, South Korea",Nateinusaf
+"""been""","Suwon, South Korea",Nateinusaf
+"""been""","Krakow, Poland",Nateinusaf
+"""been""","Umm Qays, Jordan",Nateinusaf
+"""been""","College Station, TX, USA",Nateinusaf
+"""been""","Jeonju, South Korea",Nateinusaf
+"""been""","Toledo, OH, USA",Nateinusaf
+"""been""","Incheon, South Korea",Nateinusaf
+"""been""","Marne-la-Vallee, France",Nateinusaf
+"""been""","Busan, South Korea",Nateinusaf
+"""been""","Minalin, Philippines",Nateinusaf
+"""been""","Gyeongju, South Korea",Nateinusaf
+"""been""","Daejeon, South Korea",Nateinusaf
+"""been""","Daegu, South Korea",Nateinusaf
+"""been""","Jeju, South Korea",Nateinusaf
+"""been""","Republic, WA, USA",Nateinusaf
+"""been""","Abilene, TX, USA",Nateinusaf
+"""been""","Changwon, South Korea",Nateinusaf
+"""been""","Renton, WA, USA",Nateinusaf
+"""been""","Bandera, TX, USA",Nateinusaf
+"""been""","Richland, WA, USA",Nateinusaf
+"""been""","Funchal, Portugal",Nateinusaf
+"""been""","Petra - Wadi Musa, Jordan",Nateinusaf
+"""been""","Rice, WA, USA",Nateinusaf
+"""been""","Ramstein-Miesenbach, Germany",Nateinusaf
+"""been""","Clark Freeport Zone, Philippines",Nateinusaf
+"""been""","Redmond, WA, USA",Nateinusaf
+"""been""","Reardan, WA, USA",Nateinusaf
+"""been""","The Woodlands, TX, USA",Nateinusaf
+"""been""","Okanagan Falls, British Columbia, Canada",Nateinusaf
+"""been""","Kansas City, MO, USA",Nateinusaf
+"""been""","Arona, Spain",Nateinusaf
+"""been""","Kalamazoo, MI, USA",Nateinusaf
+"""been""","Maspalomas, Spain",Nateinusaf
+"""been""","Obersteinbach, France",Nateinusaf
+"""been""","Converse, TX, USA",Nateinusaf
+"""been""","Alamo Heights, TX, USA",Nateinusaf
+"""been""","Lucerne, Switzerland",Nateinusaf
+"""been""","Paphos, Cyprus",Nateinusaf
+"""been""","Hedley, British Columbia, Canada",Nateinusaf
+"""been""","Temple, TX, USA",Nateinusaf
+"""been""","Conegliano, Italy",Nateinusaf
+"""been""","Asilah, Morocco",Nateinusaf
+"""been""","Lisbon, Portugal",Nateinusaf
+"""been""","Copenhagen, Denmark",Nateinusaf
+"""been""","Brighton, UK",Nateinusaf
+"""been""","Gresham, OR, USA",Nateinusaf
+"""been""","Hawaii Kai, HI, USA",Nateinusaf
+"""been""","Iasi, Romania",Nateinusaf
+"""been""","Cawston, British Columbia, Canada",Nateinusaf
+"""been""","Ardmore, OK, USA",Nateinusaf
+"""been""","Hannover, Germany",Nateinusaf
+"""been""","Virginia Beach, VA, USA",Nateinusaf
+"""been""","Pupukea, HI, USA",Nateinusaf
+"""been""","Keauhou, HI, USA",Nateinusaf
+"""been""","Kealakekua, HI, USA",Nateinusaf
+"""been""","Keaau, HI, USA",Nateinusaf
+"""been""","Cheonan, South Korea",Nateinusaf
+"""been""","Tambre, Italy",Nateinusaf
+"""been""","Angeles City, Philippines",Nateinusaf
+"""been""","Bruges, Belgium",Nateinusaf
+"""been""","Wiesbaden, Germany",Nateinusaf
+"""been""","Atlantic City, NJ, USA",Nateinusaf
+"""been""","Potsdam, Germany",Nateinusaf
+"""been""","Karak, Jordan",Nateinusaf
+"""been""","Bagram, Afghanistan",Nateinusaf
+"""been""","Bann, Germany",Nateinusaf
+"""been""","Bratislava, Slovakia",Nateinusaf
+"""been""","Hamburg, Germany",Nateinusaf
+"""been""","Frankfurt, Germany",Nateinusaf
+"""been""","Wimberley, TX, USA",Nateinusaf
+"""been""","Tulsa, OK, USA",Nateinusaf
+"""been""","Rock Creek, British Columbia, Canada",Nateinusaf
+"""been""","Tabaqat Fahl, Jordan",Nateinusaf
+"""been""","Mindelo, Cape Verde",Nateinusaf
+"""been""","Kaiserslautern, Germany",Nateinusaf
+"""been""","Mainz, Germany",Nateinusaf
+"""been""","Pyeongtaek, South Korea",Nateinusaf
+"""been""","Montpellier, France",Nateinusaf
+"""been""","Saarbrucken, Germany",Nateinusaf
+"""been""","Sunset Beach, HI, USA",Nateinusaf
+"""been""","Portsmouth, VA, USA",Nateinusaf
+"""been""","Kahala, HI, USA",Nateinusaf
+"""been""","Prague, Czech Republic",Nateinusaf
+"""been""","Lanikai, HI, USA",Nateinusaf
+"""been""","Yancey, TX, USA",Nateinusaf
+"""been""","Redondo Beach, CA, USA",Nateinusaf
+"""been""","Wailea, HI, USA",Nateinusaf
+"""been""","Tallinn, Estonia",Nateinusaf
+"""been""","Karachi, Pakistan",Nateinusaf
+"""been""","Jeddah, Saudi Arabia",Nateinusaf
+"""been""","Paris, France",Nateinusaf
+"""been""","Cologne, Germany",Nateinusaf
+"""been""","Puerto Rico, Spain",Nateinusaf
+"""been""","Bucheon, South Korea",Nateinusaf
+"""want""","Machu Picchu, Peru",Nateinusaf
+"""been""","Shanghai, China",Nateinusaf
+"""been""","Hauula, HI, USA",Nateinusaf
+"""been""","Haleiwa, HI, USA",Nateinusaf
+"""been""","Kaaawa, HI, USA",Nateinusaf
+"""been""","Branson, MO, USA",Nateinusaf
+"""been""","Orani, Philippines",Nateinusaf
+"""been""","Bacolor, Philippines",Nateinusaf
+"""been""","Tripoli, Libya",Nateinusaf
+"""been""","Elk River, ID, USA",Nateinusaf
+"""been""","Stra, Italy",Nateinusaf
+"""been""","Anchorage, AK, USA",Nateinusaf
+"""been""","Loon Lake, WA, USA",Nateinusaf
+"""been""","Loomis, WA, USA",Nateinusaf
+"""been""","Aiea, HI, USA",Nateinusaf
+"""been""","Omaha, NE, USA",Nateinusaf
+"""been""","Ewa Beach, HI, USA",Nateinusaf
+"""been""","Wisconsin Dells, WI, USA",Nateinusaf
+"""been""","Coulee Dam, WA, USA",Nateinusaf
+"""been""","Whistler, British Columbia, Canada",Nateinusaf
+"""been""","Victoria, British Columbia, Canada",Nateinusaf
+"""been"",""want""","Seattle, WA, USA",Nateinusaf
+"""been""","Vernon, British Columbia, Canada",Nateinusaf
+"""been""","Puunene, HI, USA",Nateinusaf
+"""been""","Porec, Croatia",Nateinusaf
+"""been""","Williamsburg, VA, USA",Nateinusaf
+"""been""","Broadbeach, Australia",Nateinusaf
+"""been""","Vancouver, British Columbia, Canada",Nateinusaf
+"""been""","Twisp, WA, USA",Nateinusaf
+"""been""","Lamont, WA, USA",Nateinusaf
+"""been""","Laredo, TX, USA",Nateinusaf
+"""been""","Leavenworth, WA, USA",Nateinusaf
+"""been""","Venice, Italy",Nateinusaf
+"""been""","Kihei, HI, USA",Nateinusaf
+"""been""","Oliver, British Columbia, Canada",Nateinusaf
+"""been""","Verona, Italy",Nateinusaf
+"""been""","Paju, South Korea",Nateinusaf
+"""been""","Lahaina, HI, USA",Nateinusaf
+"""been""","Kahului, HI, USA",Nateinusaf
+"""been""","Seward, AK, USA",Nateinusaf
+"""been""","Kailua-Kona, HI, USA",Nateinusaf
+"""been""","Hana, HI, USA",Nateinusaf
+"""been""","Maple Falls, WA, USA",Nateinusaf
+"""been""","Manson, WA, USA",Nateinusaf
+"""been""","Bellevue, WA, USA",Nateinusaf
+"""been""","Santa Barbara, CA, USA",Nateinusaf
+"""been""","Padua, Italy",Nateinusaf
+"""been""","Glasgow, UK",Nateinusaf
+"""been""","Waialua, HI, USA",Nateinusaf
+"""been""","Santa Monica, CA, USA",Nateinusaf
+"""been""","Treviso, Italy",Nateinusaf
+"""been""","Marysville, WA, USA",Nateinusaf
+"""been"",""want""","Bellingham, WA, USA",Nateinusaf
+"""been""","Merano, Italy",Nateinusaf
+"""been""","Waimanalo, HI, USA",Nateinusaf
+"""been""","Waianae, HI, USA",Nateinusaf
+"""been""","Courmayeur, Italy",Nateinusaf
+"""been""","Waipahu, HI, USA",Nateinusaf
+"""been""","Wahiawa, HI, USA",Nateinusaf
+"""been""","Pearl City, HI, USA",Nateinusaf
+"""been""","Hvar, Croatia",Nateinusaf
+"""been""","Hayden Lake, ID, USA",Nateinusaf
+"""been""","Crikvenica, Croatia",Nateinusaf
+"""been""","Cavtat, Croatia",Nateinusaf
+"""been""","Hayden, ID, USA",Nateinusaf
+"""been""","Lynnwood, WA, USA",Nateinusaf
+"""been""","Malaga, WA, USA",Nateinusaf
+"""been""","Big White, British Columbia, Canada",Nateinusaf
+"""been""","Bainbridge Island, WA, USA",Nateinusaf
+"""been""","Malott, WA, USA",Nateinusaf
+"""been""","Malo, WA, USA",Nateinusaf
+"""been""","Kunia, HI, USA",Nateinusaf
+"""been""","Kapolei, HI, USA",Nateinusaf
+"""been""","Lincoln City, OR, USA",Nateinusaf
+"""been""","Missoula, MT, USA",Nateinusaf
+"""been""","Mililani, HI, USA",Nateinusaf
+"""been""","Laie, HI, USA",Nateinusaf
+"""been""","Atlanta, GA, USA",Nateinusaf
+"""been""","Kahuku, HI, USA",Nateinusaf
+"""been""","Kahalu u, HI, USA",Nateinusaf
+"""been""","Kaneohe, HI, USA",Nateinusaf
+"""been""","Kailua, HI, USA",Nateinusaf
+"""been""","Edinburgh, UK",Nateinusaf
+"""been""","Turin, Italy",Nateinusaf
+"""been""","Al Ain, United Arab Emirates",Nateinusaf
+"""been""","Torremolinos, Spain",Nateinusaf
+"""been""","Idaho Falls, ID, USA",Nateinusaf
+"""been""","Bridgeport, WA, USA",Nateinusaf
+"""been""","Brewster, WA, USA",Nateinusaf
+"""been""","Ludwigswinkel, Germany",Nateinusaf
+"""been""","Granada, Spain",Nateinusaf
+"""been""","Seville, Spain",Nateinusaf
+"""been""","Zaragoza, Spain",Nateinusaf
+"""been""","Live Oak, TX, USA",Nateinusaf
+"""been""","Mazama, WA, USA",Nateinusaf
+"""been""","Blaine, WA, USA",Nateinusaf
+"""been""","Kellogg, ID, USA",Nateinusaf
+"""been""","Malaga, Spain",Nateinusaf
+"""been""","Marbella, Spain",Nateinusaf
+"""been""","York, UK",Nateinusaf
+"""been""","Bremerton, WA, USA",Nateinusaf
+"""been""","Stockholm, Sweden",Nateinusaf
+"""been""","Washington DC, DC, USA",Nateinusaf
+"""been""","North Bend, OR, USA",Nateinusaf
+"""been""","Indianapolis, IN, USA",Nateinusaf
+"""been""","Castle Rock, WA, USA",Nateinusaf
+"""been""","Cashmere, WA, USA",Nateinusaf
+"""been""","Liverpool, UK",Nateinusaf
+"""been""","Centralia, WA, USA",Nateinusaf
+"""been""","Cheney, WA, USA",Nateinusaf
+"""been""","Chelan Falls, WA, USA",Nateinusaf
+"""been""","Chelan, WA, USA",Nateinusaf
+"""been""","Chehalis, WA, USA",Nateinusaf
+"""been""","London, UK",Nateinusaf
+"""been""","Palermo, Italy",Nateinusaf
+"""been""","West Branch, MI, USA",Nateinusaf
+"""been""","Camas, WA, USA",Nateinusaf
+"""been""","Carson, WA, USA",Nateinusaf
+"""been""","Carlton, WA, USA",Nateinusaf
+"""been""","Florence, Italy",Nateinusaf
+"""been""","Livorno, Italy",Nateinusaf
+"""been""","Pisa, Italy",Nateinusaf
+"""been""","Astoria, OR, USA",Nateinusaf
+"""been""","Spirit Lake, ID, USA",Nateinusaf
+"""been""","Silverton, ID, USA",Nateinusaf
+"""been""","Homer, AK, USA",Nateinusaf
+"""been""","Bastrop, TX, USA",Nateinusaf
+"""been""","Detroit, MI, USA",Nateinusaf
+"""been""","Bologna, Italy",Nateinusaf
+"""been""","Parma, Italy",Nateinusaf
+"""been""","Appiano sulla Strada del Vino, Italy",Nateinusaf
+"""been""","Rimini, Italy",Nateinusaf
+"""been""","Sur, Oman",Nateinusaf
+"""been""","Dearborn, MI, USA",Nateinusaf
+"""been""","Rockport, WA, USA",Nateinusaf
+"""been""","Kabul, Afghanistan",Nateinusaf
+"""been""","Rockford, WA, USA",Nateinusaf
+"""been""","Lansing, MI, USA",Nateinusaf
+"""been""","Hermosa, Philippines",Nateinusaf
+"""been""","Riverside, WA, USA",Nateinusaf
+"""been""","Ritzville, WA, USA",Nateinusaf
+"""been""","Amarillo, TX, USA",Nateinusaf
+"""been""","Salalah, Oman",Nateinusaf
+"""been""","Snoqualmie Pass, WA, USA",Nateinusaf
+"""been""","Wallace, ID, USA",Nateinusaf
+"""been""","Brooklyn, NY, USA",Nateinusaf
+"""been""","Snoqualmie, WA, USA",Nateinusaf
+"""been""","Coalmont, British Columbia, Canada",Nateinusaf
+"""been""","Snohomish, WA, USA",Nateinusaf
+"""been""","Lignano Sabbiadoro, Italy",Nateinusaf
+"""been""","Fairbanks, AK, USA",Nateinusaf
+"""been""","Granite Falls, WA, USA",Nateinusaf
+"""been""","Troy, ID, USA",Nateinusaf
+"""been""","Aransas Pass, TX, USA",Nateinusaf
+"""been""","Skykomish, WA, USA",Nateinusaf
+"""been""","Rockport, TX, USA",Nateinusaf
+"""been""","Livigno, Italy",Nateinusaf
+"""been""","East Lansing, MI, USA",Nateinusaf
+"""want""","Sao Paulo, Brazil",Nateinusaf
+"""been""","Vancouver, WA, USA",Nateinusaf
+"""been""","Maalaea, HI, USA",Nateinusaf
+"""been""","Sequim, WA, USA",Nateinusaf
+"""been""","Selah, WA, USA",Nateinusaf
+"""been""","Nashville, TN, USA",Nateinusaf
+"""been""","Chuncheon, South Korea",Nateinusaf
+"""been""","Burbank, CA, USA",Nateinusaf
+"""been""","Caneva, Italy",Nateinusaf
+"""been""","Arlington, TX, USA",Nateinusaf
+"""been""","Sedro Woolley, WA, USA",Nateinusaf
+"""been""","SeaTac, WA, USA",Nateinusaf
+"""been""","Tyler, TX, USA",Nateinusaf
+"""been""","Belton, TX, USA",Nateinusaf
+"""been""","Saint Cloud, MN, USA",Nateinusaf
+"""been""","Ciudad Acuna, Mexico",Nateinusaf
+"""been""","Waikoloa, HI, USA",Nateinusaf
+"""been""","Volcano, HI, USA",Nateinusaf
+"""been""","Calhau, Cape Verde",Nateinusaf
+"""been""","Issaquah, WA, USA",Nateinusaf
+"""been""","Anahola, HI, USA",Nateinusaf
+"""been""","Banff, Alberta, Canada",Nateinusaf
+"""been""","Pahoa, HI, USA",Nateinusaf
+"""been""","Lake Louise, Alberta, Canada",Nateinusaf
+"""been""","Calgary, Alberta, Canada",Nateinusaf
+"""been""","Papaikou, HI, USA",Nateinusaf
+"""been""","Edmonton, Alberta, Canada",Nateinusaf
+"""been""","Hunters, WA, USA",Nateinusaf
+"""been""","Caldwell, ID, USA",Nateinusaf
+"""been""","Austin, TX, USA",Nateinusaf
+"""been""","Round Rock, TX, USA",Nateinusaf
+"""been""","Worley, ID, USA",Nateinusaf
+"""been""","Inchelium, WA, USA",Nateinusaf
+"""been""","Calder, ID, USA",Nateinusaf
+"""been""","Port d'Alcudia, Spain",Nateinusaf
+"""been""","Stehekin, WA, USA",Nateinusaf
+"""been""","Stresa, Italy",Nateinusaf
+"""been""","Mantua, Italy",Nateinusaf
+"""been""","New Braunfels, TX, USA",Nateinusaf
+"""been""","Milan, Italy",Nateinusaf
+"""been""","Qualicum Beach, British Columbia, Canada",Nateinusaf
+"""been""","Pahala, HI, USA",Nateinusaf
+"""been""","Sooke, British Columbia, Canada",Nateinusaf
+"""been""","Hoquiam, WA, USA",Nateinusaf
+"""been""","Spokane, WA, USA",Nateinusaf
+"""been""","Spangle, WA, USA",Nateinusaf
+"""been""","Palmanova, Spain",Nateinusaf
+"""been""","Kirchberg, Austria",Nateinusaf
+"""been""","Coeur d'Alene, ID, USA",Nateinusaf
+"""been""","Hartline, WA, USA",Nateinusaf
+"""been""","Ciudad Juarez, Mexico",Nateinusaf
+"""been""","Harrington, WA, USA",Nateinusaf
+"""been""","Soap Lake, WA, USA",Nateinusaf
+"""been""","Llucmajor, Spain",Nateinusaf
+"""been""","Bellagio, Italy",Nateinusaf
+"""been""","Como, Italy",Nateinusaf
+"""been""","Sprague, WA, USA",Nateinusaf
+"""been""","Helena, MT, USA",Nateinusaf
+"""been""","San Fernando, Philippines",Nateinusaf
+"""been""","San Fernando La Union, Philippines",Nateinusaf
+"""been""","Penticton, British Columbia, Canada",Nateinusaf
+"""been""","Lacey, WA, USA",Nateinusaf
+"""been""","Princeville, HI, USA",Nateinusaf
+"""been""","Kelowna, British Columbia, Canada",Nateinusaf
+"""been""","Poipu, HI, USA",Nateinusaf
+"""been""","Moscow, Russia",Nateinusaf
+"""been""","Waimea, HI, USA",Nateinusaf
+"""been""","Tonasket, WA, USA",Nateinusaf
+"""been""","Harrison Hot Springs, British Columbia, Canada",Nateinusaf
+"""been""","Kittitas, WA, USA",Nateinusaf
+"""been""","Dalton Gardens, ID, USA",Nateinusaf
+"""been""","Lopud, Croatia",Nateinusaf
+"""been""","Kirkland, WA, USA",Nateinusaf
+"""been""","Kamloops, British Columbia, Canada",Nateinusaf
+"""been""","Genoa, Italy",Nateinusaf
+"""been""","Surrey, British Columbia, Canada",Nateinusaf
+"""been""","Tumtum, WA, USA",Nateinusaf
+"""been""","Tukwila, WA, USA",Nateinusaf
+"""been""","Lawai, HI, USA",Nateinusaf
+"""been""","Koloa, HI, USA",Nateinusaf
+"""been""","Lihue, HI, USA",Nateinusaf
+"""been""","Monterosso al Mare, Italy",Nateinusaf
+"""been""","Kilauea, HI, USA",Nateinusaf
+"""been""","Kekaha, HI, USA",Nateinusaf
+"""been""","Chilliwack, British Columbia, Canada",Nateinusaf
+"""been""","Kettle Falls, WA, USA",Nateinusaf
+"""been""","Kalaheo, HI, USA",Nateinusaf
+"""been""","Hanapepe, HI, USA",Nateinusaf
+"""been""","Madison, WI, USA",Nateinusaf
+"""been""","Kapaa, HI, USA",Nateinusaf
+"""been""","Tacoma, WA, USA",Nateinusaf
+"""been""","Keller, WA, USA",Nateinusaf
+"""been""","Vodice, Croatia",Nateinusaf
+"""been""","Sumner, WA, USA",Nateinusaf
+"""been""","Kent, WA, USA",Nateinusaf
+"""been""","West Hollywood, CA, USA",Nateinusaf
+"""been""","Kennewick, WA, USA",Nateinusaf
+"""been""","Wonju, South Korea",Nateinusaf
+"""been""","Kelso, WA, USA",Nateinusaf
+"""been""","Trieste, Italy",Nateinusaf
+"""been""","Udine, Italy",Nateinusaf
+"""been""","Thorp, WA, USA",Nateinusaf
+"""been""","Haena, HI, USA",Nateinusaf
+"""been""","Eleele, HI, USA",Nateinusaf
+"""been""","Hanalei, HI, USA",Nateinusaf
+"""been""","Hood River, OR, USA",Nateinusaf

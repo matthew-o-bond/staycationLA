@@ -1,0 +1,365 @@
+tag,place,user
+"""been""","Niagara Falls, Ontario, Canada",technocleric
+"""been""","Taos, NM, USA",technocleric
+"""been""","London, Ontario, Canada",technocleric
+"""been""","Hershey, PA, USA",technocleric
+"""been""","Alexandria, VA, USA",technocleric
+"""been""","Pocono Manor, PA, USA",technocleric
+"""been""","Long Beach, CA, USA",technocleric
+"""been""","Napa, CA, USA",technocleric
+"""been""","Indio, CA, USA",technocleric
+"""been""","Inglewood, CA, USA",technocleric
+"""been""","Indian Wells, CA, USA",technocleric
+"""been""","Phoenix, AZ, USA",technocleric
+"""been""","New Haven, CT, USA",technocleric
+"""been""","Mountain View, CA, USA",technocleric
+"""been""","Yorba Linda, CA, USA",technocleric
+"""been""","Santa Maria, CA, USA",technocleric
+"""been""","Clearwater, FL, USA",technocleric
+"""been""","Tiberias, Israel",technocleric
+"""been""","Santa Monica, CA, USA",technocleric
+"""been""","Bellingham, WA, USA",technocleric
+"""been""","Five Islands, Nova Scotia, Canada",technocleric
+"""been""","Rome, Italy",technocleric
+"""been""","Las Vegas, NV, USA",technocleric
+"""been""","Akron, OH, USA",technocleric
+"""been""","Vatican City, Vatican City",technocleric
+"""been""","Yokohama, Japan",technocleric
+"""been""","Stockholm, Sweden",technocleric
+"""been""","Stateline, NV, USA",technocleric
+"""been""","Missoula, MT, USA",technocleric
+"""been""","Sparks, NV, USA",technocleric
+"""been""","Chicago, IL, USA",technocleric
+"""been""","Fresno, CA, USA",technocleric
+"""been""","Bellevue, WA, USA",technocleric
+"""been""","Los Angeles, CA, USA",technocleric
+"""been""","Prescott, AZ, USA",technocleric
+"""been""","South Bend, IN, USA",technocleric
+"""been""","Montreal, Quebec, Canada",technocleric
+"""been""","Irvine, CA, USA",technocleric
+"""been""","Singapore, Singapore",technocleric
+"""been""","Sausalito, CA, USA",technocleric
+"""been""","Avalon, CA, USA",technocleric
+"""been""","Portland, ME, USA",technocleric
+"""been""","Incline Village, NV, USA",technocleric
+"""been""","Torrance, CA, USA",technocleric
+"""been""","Brewster, MA, USA",technocleric
+"""been""","Rio de Janeiro, Brazil",technocleric
+"""been""","Rockville, MD, USA",technocleric
+"""been""","Tokyo, Japan",technocleric
+"""been""","Henderson, NV, USA",technocleric
+"""been""","Gloucester, MA, USA",technocleric
+"""been"",""fave""","Hoi An, Vietnam",technocleric
+"""been""","Captain Cook, HI, USA",technocleric
+"""been""","Morro Bay, CA, USA",technocleric
+"""been""","Rapid City, SD, USA",technocleric
+"""been""","San Simeon, CA, USA",technocleric
+"""been""","Paso Robles, CA, USA",technocleric
+"""been""","Celebration, FL, USA",technocleric
+"""been""","Haifa, Israel",technocleric
+"""been""","Berkeley, CA, USA",technocleric
+"""been""","Hilo, HI, USA",technocleric
+"""been""","Irving, TX, USA",technocleric
+"""been""","Jerusalem, Israel",technocleric
+"""been""","Staunton, VA, USA",technocleric
+"""been""","Tel Aviv, Israel",technocleric
+"""been""","Lucerne, Switzerland",technocleric
+"""been""","Nara, Japan",technocleric
+"""been""","Sacramento, CA, USA",technocleric
+"""been""","Munich, Germany",technocleric
+"""been""","Huntington Beach, CA, USA",technocleric
+"""been""","Mystic, CT, USA",technocleric
+"""been""","Strongsville, OH, USA",technocleric
+"""been""","Fort Worth, TX, USA",technocleric
+"""been""","Naperville, IL, USA",technocleric
+"""been""","Santa Cruz, CA, USA",technocleric
+"""been""","Santa Clara, CA, USA",technocleric
+"""been""","Temecula, CA, USA",technocleric
+"""been""","Appleton, WI, USA",technocleric
+"""been""","Schaumburg, IL, USA",technocleric
+"""been""","Santa Barbara, CA, USA",technocleric
+"""been""","Yankton, SD, USA",technocleric
+"""been""","Santa Ana, CA, USA",technocleric
+"""been""","Lakeland, FL, USA",technocleric
+"""been""","London, UK",technocleric
+"""been""","Beverly Hills, CA, USA",technocleric
+"""been""","Da Nang, Vietnam",technocleric
+"""been""","Palo Alto, CA, USA",technocleric
+"""been""","Shanghai, China",technocleric
+"""been""","Palm Springs, CA, USA",technocleric
+"""been""","Stamford, CT, USA",technocleric
+"""been""","Halong Bay, Vietnam",technocleric
+"""been""","Palm Desert, CA, USA",technocleric
+"""been""","Hanoi, Vietnam",technocleric
+"""been""","Da Lat, Vietnam",technocleric
+"""been""","Fort Lauderdale, FL, USA",technocleric
+"""been""","Nha Trang, Vietnam",technocleric
+"""been""","Ho Chi Minh City, Vietnam",technocleric
+"""been""","Pacific Grove, CA, USA",technocleric
+"""been""","Naples, FL, USA",technocleric
+"""been""","Beijing, China",technocleric
+"""been""","San Clemente, CA, USA",technocleric
+"""been""","Williamsburg, VA, USA",technocleric
+"""been""","Bucharest, Romania",technocleric
+"""been""","San Bruno, CA, USA",technocleric
+"""been""","West Hollywood, CA, USA",technocleric
+"""been""","Hong Kong, China",technocleric
+"""been""","Port Saint Lucie, FL, USA",technocleric
+"""been""","Salt Lake City, UT, USA",technocleric
+"""been""","Saint Paul, MN, USA",technocleric
+"""been""","Vancouver, British Columbia, Canada",technocleric
+"""been""","Big Sur, CA, USA",technocleric
+"""been""","Victoria, British Columbia, Canada",technocleric
+"""been""","Bloomington, MN, USA",technocleric
+"""been""","Williams, AZ, USA",technocleric
+"""been""","Monterey, CA, USA",technocleric
+"""been""","Rapla, Estonia",technocleric
+"""been""","Pasadena, CA, USA",technocleric
+"""been""","Dallas, TX, USA",technocleric
+"""been""","Gurnee, IL, USA",technocleric
+"""been""","Riverside, CA, USA",technocleric
+"""been""","Nuevo Vallarta, Mexico",technocleric
+"""been""","Cape Canaveral, FL, USA",technocleric
+"""been""","San Luis Obispo, CA, USA",technocleric
+"""been""","Sunnyvale, CA, USA",technocleric
+"""been""","Denver, CO, USA",technocleric
+"""been""","La Crosse, WI, USA",technocleric
+"""been""","Diamond Bar, CA, USA",technocleric
+"""been""","Houston, TX, USA",technocleric
+"""been""","Hamamatsu, Japan",technocleric
+"""been""","San Jose, CA, USA",technocleric
+"""been""","Carlsbad, CA, USA",technocleric
+"""been""","Carmel, CA, USA",technocleric
+"""been""","Desert Hot Springs, CA, USA",technocleric
+"""been""","Eastham, MA, USA",technocleric
+"""been""","Savannah, GA, USA",technocleric
+"""been""","Portsmouth, NH, USA",technocleric
+"""been""","Edgartown, MA, USA",technocleric
+"""been""","Albuquerque, NM, USA",technocleric
+"""been""","Geneva, Switzerland",technocleric
+"""been""","Baltimore, MD, USA",technocleric
+"""been""","Halifax, Nova Scotia, Canada",technocleric
+"""been""","Merced, CA, USA",technocleric
+"""been""","Orange, CA, USA",technocleric
+"""been""","Las Cruces, NM, USA",technocleric
+"""been""","Ontario, CA, USA",technocleric
+"""been""","Chapel Hill, NC, USA",technocleric
+"""been""","Coeur d'Alene, ID, USA",technocleric
+"""been""","Rancho Mirage, CA, USA",technocleric
+"""been""","Cambria, CA, USA",technocleric
+"""been""","Windsor, Ontario, Canada",technocleric
+"""been""","Kansas City, KS, USA",technocleric
+"""been""","Tacoma, WA, USA",technocleric
+"""been""","Charleston, SC, USA",technocleric
+"""been""","Lake Geneva, WI, USA",technocleric
+"""been""","Edinburgh, UK",technocleric
+"""been""","Tarpon Springs, FL, USA",technocleric
+"""been""","Phnom Penh, Cambodia",technocleric
+"""been""","Providence, RI, USA",technocleric
+"""been""","Estes Park, CO, USA",technocleric
+"""been""","Blaine, MN, USA",technocleric
+"""want""","Cooperstown, NY, USA",technocleric
+"""been""","Vancouver, WA, USA",technocleric
+"""been""","Milpitas, CA, USA",technocleric
+"""been""","Minami-cho, Japan",technocleric
+"""been""","Toronto, Ontario, Canada",technocleric
+"""been""","Hartford, CT, USA",technocleric
+"""been""","Oxnard, CA, USA",technocleric
+"""been""","Edina, MN, USA",technocleric
+"""been""","Redondo Beach, CA, USA",technocleric
+"""been""","Redding, CA, USA",technocleric
+"""been""","Bakersfield, CA, USA",technocleric
+"""been""","Plano, TX, USA",technocleric
+"""been""","Tucson, AZ, USA",technocleric
+"""been""","Des Moines, IA, USA",technocleric
+"""been""","Cozumel, Mexico",technocleric
+"""been""","Manchester, VT, USA",technocleric
+"""been""","Colorado Springs, CO, USA",technocleric
+"""been""","Santa Fe, NM, USA",technocleric
+"""been""","San Antonio, TX, USA",technocleric
+"""been""","Provincetown, MA, USA",technocleric
+"""been""","San Francisco, CA, USA",technocleric
+"""been""","Salem, MA, USA",technocleric
+"""been""","West Glacier, MT, USA",technocleric
+"""been""","Oakhurst, CA, USA",technocleric
+"""been""","Banff, Alberta, Canada",technocleric
+"""been""","Cary, NC, USA",technocleric
+"""been""","Cointrin, Switzerland",technocleric
+"""been""","Puerto Vallarta, Mexico",technocleric
+"""been""","Ogunquit, ME, USA",technocleric
+"""been""","Bucerias, Mexico",technocleric
+"""been""","Spokane, WA, USA",technocleric
+"""been""","Vienna, Austria",technocleric
+"""been""","Burlingame, CA, USA",technocleric
+"""been""","Huntsville, AL, USA",technocleric
+"""been""","Buena Park, CA, USA",technocleric
+"""been""","Burbank, CA, USA",technocleric
+"""been""","Eureka, CA, USA",technocleric
+"""been""","Arlington, TX, USA",technocleric
+"""been""","Rockford, IL, USA",technocleric
+"""been""","Dennis Port, MA, USA",technocleric
+"""been""","Edmonton, Alberta, Canada",technocleric
+"""been""","Rancho Bernardo, CA, USA",technocleric
+"""been""","Waikoloa, HI, USA",technocleric
+"""been""","Oceanside, CA, USA",technocleric
+"""been""","Advocate Harbour, Nova Scotia, Canada",technocleric
+"""been""","Sonoma, CA, USA",technocleric
+"""been""","Oakland, CA, USA",technocleric
+"""been""","Niagara Falls, NY, USA",technocleric
+"""been""","Miami, FL, USA",technocleric
+"""been""","Ciudad Juarez, Mexico",technocleric
+"""been""","Anaheim, CA, USA",technocleric
+"""been""","Tampa, FL, USA",technocleric
+"""been""","Solvang, CA, USA",technocleric
+"""been""","Flagstaff, AZ, USA",technocleric
+"""been""","Costa Mesa, CA, USA",technocleric
+"""been""","Cannon Beach, OR, USA",technocleric
+"""been""","Coronado, CA, USA",technocleric
+"""been""","Mesa, AZ, USA",technocleric
+"""been""","Park City, UT, USA",technocleric
+"""been""","Hermosa Beach, CA, USA",technocleric
+"""been""","Nagoya, Japan",technocleric
+"""been""","Duluth, MN, USA",technocleric
+"""been""","Newport, RI, USA",technocleric
+"""been""","Naha, Japan",technocleric
+"""been""","Shreveport, LA, USA",technocleric
+"""been""","Duong To, Vietnam",technocleric
+"""been""","Hanalei, HI, USA",technocleric
+"""been""","Buffalo, NY, USA",technocleric
+"""been""","Nanaimo, British Columbia, Canada",technocleric
+"""been""","Lake George, NY, USA",technocleric
+"""been""","Cabo San Lucas, Mexico",technocleric
+"""been""","Nashville, IN, USA",technocleric
+"""been""","Raleigh, NC, USA",technocleric
+"""been""","Half Moon Bay, CA, USA",technocleric
+"""been""","Brea, CA, USA",technocleric
+"""been""","Clovis, CA, USA",technocleric
+"""been""","Laguna Beach, CA, USA",technocleric
+"""been""","Tempe, AZ, USA",technocleric
+"""been""","Nashville, TN, USA",technocleric
+"""been""","Vail, CO, USA",technocleric
+"""been""","Sisters, OR, USA",technocleric
+"""been""","La Quinta, CA, USA",technocleric
+"""been""","Honolulu, HI, USA",technocleric
+"""been""","SeaTac, WA, USA",technocleric
+"""been""","El Segundo, CA, USA",technocleric
+"""been""","Boca Raton, FL, USA",technocleric
+"""been""","Hyannis, MA, USA",technocleric
+"""been""","Princeville, HI, USA",technocleric
+"""been""","Poipu, HI, USA",technocleric
+"""been""","San Jose del Cabo, Mexico",technocleric
+"""been""","Boston, MA, USA",technocleric
+"""been""","Lihue, HI, USA",technocleric
+"""been""","Custer, SD, USA",technocleric
+"""been""","Lincoln, NE, USA",technocleric
+"""been""","New Orleans, LA, USA",technocleric
+"""been""","Sioux Falls, SD, USA",technocleric
+"""been""","Cleveland, OH, USA",technocleric
+"""been""","Parrsboro, Nova Scotia, Canada",technocleric
+"""been""","Katsuura, Japan",technocleric
+"""been""","Bozeman, MT, USA",technocleric
+"""been""","Breckenridge, CO, USA",technocleric
+"""been""","Glenwood Springs, CO, USA",technocleric
+"""been""","Bangkok, Thailand",technocleric
+"""been""","Encinitas, CA, USA",technocleric
+"""been""","Londrina, Brazil",technocleric
+"""been""","Boulder, CO, USA",technocleric
+"""been""","Kihei, HI, USA",technocleric
+"""been""","Lake Havasu City, AZ, USA",technocleric
+"""been""","Paris, France",technocleric
+"""been""","Kailua-Kona, HI, USA",technocleric
+"""been""","Cincinnati, OH, USA",technocleric
+"""been""","San Diego, CA, USA",technocleric
+"""been""","Boothbay Harbor, ME, USA",technocleric
+"""been""","Bradenton Beach, FL, USA",technocleric
+"""been""","Sendai, Japan",technocleric
+"""been""","Tombstone, AZ, USA",technocleric
+"""been""","Ocean City, MD, USA",technocleric
+"""been""","Seattle, WA, USA",technocleric
+"""been""","Roseville, MN, USA",technocleric
+"""been""","Lahaina, HI, USA",technocleric
+"""been""","Zurich, Switzerland",technocleric
+"""been""","Billings, MT, USA",technocleric
+"""been""","Green Bay, WI, USA",technocleric
+"""been""","Lancaster, PA, USA",technocleric
+"""been""","Bend, OR, USA",technocleric
+"""been""","Omaha, NE, USA",technocleric
+"""been""","Scottsdale, AZ, USA",technocleric
+"""been""","New York City, NY, USA",technocleric
+"""been""","Riga, Latvia",technocleric
+"""been""","Jurmala, Latvia",technocleric
+"""been""","Sihanoukville, Cambodia",technocleric
+"""been""","Glendale, AZ, USA",technocleric
+"""been""","Sedona, AZ, USA",technocleric
+"""been""","Liepaja, Latvia",technocleric
+"""been""","Mount Pleasant, SC, USA",technocleric
+"""been""","Virginia Beach, VA, USA",technocleric
+"""been""","Salem, OR, USA",technocleric
+"""been""","Boise, ID, USA",technocleric
+"""been""","South Yarmouth, MA, USA",technocleric
+"""been""","Ventura, CA, USA",technocleric
+"""been""","El Paso, TX, USA",technocleric
+"""been""","Rochester, MN, USA",technocleric
+"""been""","Grand Rapids, MI, USA",technocleric
+"""been""","Wisconsin Dells, WI, USA",technocleric
+"""been""","Reno, NV, USA",technocleric
+"""been""","Erie, PA, USA",technocleric
+"""been""","Charleston, WV, USA",technocleric
+"""been""","Ormond Beach, FL, USA",technocleric
+"""been""","Orlando, FL, USA",technocleric
+"""been""","Tartu, Estonia",technocleric
+"""been""","La Jolla, CA, USA",technocleric
+"""been""","Fort Collins, CO, USA",technocleric
+"""been""","Tallinn, Estonia",technocleric
+"""been""","Norfolk, VA, USA",technocleric
+"""been""","Kailua, HI, USA",technocleric
+"""been""","Anna Maria, FL, USA",technocleric
+"""been""","Milwaukee, WI, USA",technocleric
+"""been""","Worcester, MA, USA",technocleric
+"""been""","Atlanta, GA, USA",technocleric
+"""been""","Brasov, Romania",technocleric
+"""been""","Fargo, ND, USA",technocleric
+"""been""","Tijuana, Mexico",technocleric
+"""been""","Rosarito, Mexico",technocleric
+"""been""","St. Petersburg, FL, USA",technocleric
+"""been""","Deadwood, SD, USA",technocleric
+"""been""","St. Pete Beach, FL, USA",technocleric
+"""been""","Old Saybrook, CT, USA",technocleric
+"""been""","Newport News, VA, USA",technocleric
+"""been""","Prague, Czech Republic",technocleric
+"""been""","Eugene, OR, USA",technocleric
+"""been""","Saint Augustine Beach, FL, USA",technocleric
+"""been""","Bradenton, FL, USA",technocleric
+"""been""","Norwalk, CT, USA",technocleric
+"""been""","Garden Grove, CA, USA",technocleric
+"""been""","Dayton, OH, USA",technocleric
+"""been""","Newport Beach, CA, USA",technocleric
+"""been""","Tustin, CA, USA",technocleric
+"""been""","Arlington, VA, USA",technocleric
+"""been""","Sao Paulo, Brazil",technocleric
+"""been""","Frankfurt, Germany",technocleric
+"""been""","Turlock, CA, USA",technocleric
+"""been""","Annapolis, MD, USA",technocleric
+"""been""","Truckee, CA, USA",technocleric
+"""been""","Minneapolis, MN, USA",technocleric
+"""been""","South Lake Tahoe, CA, USA",technocleric
+"""been""","Fairfax, VA, USA",technocleric
+"""been""","Manhattan Beach, CA, USA",technocleric
+"""been""","Portland, OR, USA",technocleric
+"""been""","Dublin, CA, USA",technocleric
+"""been""","Malibu, CA, USA",technocleric
+"""been""","Birmingham, AL, USA",technocleric
+"""been""","Durham, NC, USA",technocleric
+"""been""","Aspen, CO, USA",technocleric
+"""been""","Wilmington, DE, USA",technocleric
+"""been""","Philadelphia, PA, USA",technocleric
+"""been""","Osaka, Japan",technocleric
+"""been""","Aurora, CO, USA",technocleric
+"""been""","Wakayama, Japan",technocleric
+"""been""","Daytona Beach, FL, USA",technocleric
+"""been""","Chatham, MA, USA",technocleric
+"""been""","Kobe, Japan",technocleric
+"""been""","Kyoto, Japan",technocleric
+"""been""","Washington DC, DC, USA",technocleric
+"""been""","Sapporo, Japan",technocleric
+"""been""","Gettysburg, PA, USA",technocleric

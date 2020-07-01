@@ -1,0 +1,576 @@
+tag,place,user
+"""been"",""fave""","Valencia, Spain",pseudocajun
+"""want""","Seattle, WA, USA",pseudocajun
+"""been""","Coldwater, MI, USA",pseudocajun
+"""been""","Navarre, FL, USA",pseudocajun
+"""been""","Peebles, OH, USA",pseudocajun
+"""been""","Lahaina, HI, USA",pseudocajun
+"""been""","Fort Lauderdale, FL, USA",pseudocajun
+"""been""","Vienna, VA, USA",pseudocajun
+"""been""","Fertile, MN, USA",pseudocajun
+"""been""","Ocean City, NJ, USA",pseudocajun
+"""been""","Kailua-Kona, HI, USA",pseudocajun
+"""been""","San Diego, CA, USA",pseudocajun
+"""been""","Palermo, Italy",pseudocajun
+"""been"",""fave""","Taormina, Italy",pseudocajun
+"""been""","West Lafayette, IN, USA",pseudocajun
+"""been""","Denver, CO, USA",pseudocajun
+"""been""","St. Augustine, FL, USA",pseudocajun
+"""been""","Fort Walton Beach, FL, USA",pseudocajun
+"""been""","Weymouth, UK",pseudocajun
+"""been""","Kissimmee, FL, USA",pseudocajun
+"""want""","Florence, Italy",pseudocajun
+"""been""","Marmaris, Turkey",pseudocajun
+"""been""","New Smyrna Beach, FL, USA",pseudocajun
+"""been""","Fort Myers, FL, USA",pseudocajun
+"""been""","Dana Point, CA, USA",pseudocajun
+"""been""","St. George, UT, USA",pseudocajun
+"""been""","New York City, NY, USA",pseudocajun
+"""been""","Champaign, IL, USA",pseudocajun
+"""been""","Saint-Remy-la-Varenne, France",pseudocajun
+"""been"",""fave""","Key West, FL, USA",pseudocajun
+"""been""","Islamorada, FL, USA",pseudocajun
+"""been""","Florida City, FL, USA",pseudocajun
+"""been""","London, UK",pseudocajun
+"""been""","Key Largo, FL, USA",pseudocajun
+"""been""","Keflavik, Iceland",pseudocajun
+"""want""","Naples, Italy",pseudocajun
+"""been""","Kealia, HI, USA",pseudocajun
+"""been""","Homestead, FL, USA",pseudocajun
+"""been""","Bangkok, Thailand",pseudocajun
+"""been""","Beaumont, TX, USA",pseudocajun
+"""been""","Kalaheo, HI, USA",pseudocajun
+"""want""","Vancouver, British Columbia, Canada",pseudocajun
+"""been""","Hanapepe, HI, USA",pseudocajun
+"""been""","Dover, DE, USA",pseudocajun
+"""been""","Hanamaulu, HI, USA",pseudocajun
+"""been""","Hanalei, HI, USA",pseudocajun
+"""been""","Chillicothe, OH, USA",pseudocajun
+"""been""","Flagstaff, AZ, USA",pseudocajun
+"""want""","Chiang Mai, Thailand",pseudocajun
+"""been"",""fave""","Rome, Italy",pseudocajun
+"""been""","Bristol, UK",pseudocajun
+"""been""","Reykjavik, Iceland",pseudocajun
+"""been"",""fave""","Cordoba, Spain",pseudocajun
+"""been""","Columbia, SC, USA",pseudocajun
+"""been""","Vik, Iceland",pseudocajun
+"""been"",""fave""","Isle of Skye, UK",pseudocajun
+"""been"",""fave""","Ocala, FL, USA",pseudocajun
+"""been""","Houston, TX, USA",pseudocajun
+"""been""","Stockholm, Sweden",pseudocajun
+"""want""","Hanoi, Vietnam",pseudocajun
+"""been""","Waimea, HI, USA",pseudocajun
+"""want""","Ho Chi Minh City, Vietnam",pseudocajun
+"""been""","Princeville, HI, USA",pseudocajun
+"""been""","Sandusky, OH, USA",pseudocajun
+"""been"",""fave""","Poipu, HI, USA",pseudocajun
+"""been""","Boston, MA, USA",pseudocajun
+"""been""","Lihue, HI, USA",pseudocajun
+"""been""","Cape Canaveral, FL, USA",pseudocajun
+"""been""","Vicksburg, MS, USA",pseudocajun
+"""been""","New Orleans, LA, USA",pseudocajun
+"""been""","Koloa, HI, USA",pseudocajun
+"""been""","Asheville, NC, USA",pseudocajun
+"""been""","Honolulu, HI, USA",pseudocajun
+"""been""","Cape May, NJ, USA",pseudocajun
+"""want""","Torremolinos, Spain",pseudocajun
+"""been"",""fave""","Granada, Spain",pseudocajun
+"""been""","Rush, KY, USA",pseudocajun
+"""been""","San Rafael, CA, USA",pseudocajun
+"""been""","Berkeley, CA, USA",pseudocajun
+"""been""","Gainesville, FL, USA",pseudocajun
+"""been"",""fave""","Seville, Spain",pseudocajun
+"""been""","Santa Fe, NM, USA",pseudocajun
+"""been""","San Antonio, TX, USA",pseudocajun
+"""been"",""fave""","San Francisco, CA, USA",pseudocajun
+"""been""","Page, AZ, USA",pseudocajun
+"""been"",""fave""","Aix-en-Provence, France",pseudocajun
+"""been""","Seahouses, UK",pseudocajun
+"""been""","Oxford, UK",pseudocajun
+"""been""","Arles, France",pseudocajun
+"""been""","Tallahassee, FL, USA",pseudocajun
+"""been""","Yardley, PA, USA",pseudocajun
+"""been""","Selfoss, Iceland",pseudocajun
+"""been""","Austin, TX, USA",pseudocajun
+"""been""","Pensacola, FL, USA",pseudocajun
+"""been""","York, PA, USA",pseudocajun
+"""been""","Bilbao, Spain",pseudocajun
+"""been""","Avignon, France",pseudocajun
+"""been"",""fave""","San Sebastian - Donostia, Spain",pseudocajun
+"""been""","Waikoloa, HI, USA",pseudocajun
+"""been""","Marathon Shores, FL, USA",pseudocajun
+"""been""","Knoxville, TN, USA",pseudocajun
+"""been""","Sugarloaf Key, FL, USA",pseudocajun
+"""been""","Moab, UT, USA",pseudocajun
+"""been""","Harpers Ferry, WV, USA",pseudocajun
+"""been""","Siem Reap, Cambodia",pseudocajun
+"""been""","Holy Island, UK",pseudocajun
+"""been""","Athens, Greece",pseudocajun
+"""been""","Charleston, SC, USA",pseudocajun
+"""been""","East Lansing, MI, USA",pseudocajun
+"""been""","Bath, UK",pseudocajun
+"""been""","Panama City Beach, FL, USA",pseudocajun
+"""been""","Panama City, FL, USA",pseudocajun
+"""been""","Tuba City, AZ, USA",pseudocajun
+"""been""","Greenville, SC, USA",pseudocajun
+"""been""","Albuquerque, NM, USA",pseudocajun
+"""been"",""fave""","Petrified Forest National Park, AZ, USA",pseudocajun
+"""been""","Baltimore, MD, USA",pseudocajun
+"""been""","Boone, NC, USA",pseudocajun
+"""been"",""fave""","Kapaau, HI, USA",pseudocajun
+"""been""","Cheboygan, MI, USA",pseudocajun
+"""been""","Newark, NJ, USA",pseudocajun
+"""been""","Farmington Hills, MI, USA",pseudocajun
+"""been""","Lambertville, NJ, USA",pseudocajun
+"""been""","Bournemouth, UK",pseudocajun
+"""been""","Charlotte, MI, USA",pseudocajun
+"""been""","Anaheim, CA, USA",pseudocajun
+"""been""","St. Helena, CA, USA",pseudocajun
+"""been""","Everglades City, FL, USA",pseudocajun
+"""been""","Nice, France",pseudocajun
+"""been""","Pompano Beach, FL, USA",pseudocajun
+"""been"",""fave""","Miami Beach, FL, USA",pseudocajun
+"""been""","Sonoma, CA, USA",pseudocajun
+"""been""","Breaks, VA, USA",pseudocajun
+"""been""","Miami, FL, USA",pseudocajun
+"""been""","Tampa, FL, USA",pseudocajun
+"""been""","Zihuatanejo, Mexico",pseudocajun
+"""been""","Charlevoix, MI, USA",pseudocajun
+"""been""","Santo Domingo de la Calzada, Spain",pseudocajun
+"""been""","Santander, Spain",pseudocajun
+"""been""","Newcastle upon Tyne, UK",pseudocajun
+"""want""","Copenhagen, Denmark",pseudocajun
+"""been""","Begur, Spain",pseudocajun
+"""been""","Calistoga, CA, USA",pseudocajun
+"""been"",""fave""","Amorgos, Greece",pseudocajun
+"""been""","Bar Harbor, ME, USA",pseudocajun
+"""been""","Bochum, Germany",pseudocajun
+"""been""","Myrtle Beach, SC, USA",pseudocajun
+"""been""","Evergreen, CO, USA",pseudocajun
+"""been""","Natchez, MS, USA",pseudocajun
+"""been""","Gray, LA, USA",pseudocajun
+"""been""","Stone Harbor, NJ, USA",pseudocajun
+"""been"",""fave""","Grand Isle, LA, USA",pseudocajun
+"""been""","Gretna, LA, USA",pseudocajun
+"""been""","Greenwell Springs, LA, USA",pseudocajun
+"""been""","Dearborn, MI, USA",pseudocajun
+"""been"",""fave""","Marseille, France",pseudocajun
+"""been""","Naxos, Greece",pseudocajun
+"""been"",""fave""","Barcelona, Spain",pseudocajun
+"""been"",""fave""","Santorini, Greece",pseudocajun
+"""been""","Burgos, Spain",pseudocajun
+"""been""","Wilkes-Barre, PA, USA",pseudocajun
+"""been""","Girona, Spain",pseudocajun
+"""been""","Sarasota, FL, USA",pseudocajun
+"""been""","Jacksonville, FL, USA",pseudocajun
+"""been""","Bensalem, PA, USA",pseudocajun
+"""been""","Salt Lake City, UT, USA",pseudocajun
+"""been""","Sandestin, FL, USA",pseudocajun
+"""been"",""fave""","Golden Meadow, LA, USA",pseudocajun
+"""been""","Altamonte Springs, FL, USA",pseudocajun
+"""been""","Gramercy, LA, USA",pseudocajun
+"""been""","Apalachicola, FL, USA",pseudocajun
+"""been""","Invergordon, UK",pseudocajun
+"""been""","Gonzales, LA, USA",pseudocajun
+"""been""","Bush, LA, USA",pseudocajun
+"""been""","Burnside, LA, USA",pseudocajun
+"""been""","Bunkie, LA, USA",pseudocajun
+"""been""","Minneapolis, MN, USA",pseudocajun
+"""been""","Biloxi, MS, USA",pseudocajun
+"""been""","Kalkaska, MI, USA",pseudocajun
+"""been""","Gaylord, MI, USA",pseudocajun
+"""been"",""fave""","Amsterdam, The Netherlands",pseudocajun
+"""been""","Sedona, AZ, USA",pseudocajun
+"""been""","Poggibonsi, Italy",pseudocajun
+"""been""","Hodonin, Czech Republic",pseudocajun
+"""want""","Paris, France",pseudocajun
+"""been""","Berwyn, PA, USA",pseudocajun
+"""been""","Pottstown, PA, USA",pseudocajun
+"""been""","Bala Cynwyd, PA, USA",pseudocajun
+"""been"",""fave""","Laguna Beach, CA, USA",pseudocajun
+"""been""","South Miami, FL, USA",pseudocajun
+"""been""","Falls Church, VA, USA",pseudocajun
+"""been""","Covington, LA, USA",pseudocajun
+"""been""","Hagerstown, MD, USA",pseudocajun
+"""been""","Clovis, NM, USA",pseudocajun
+"""been""","Lansing, MI, USA",pseudocajun
+"""been""","Crowley, LA, USA",pseudocajun
+"""been""","Nimes, France",pseudocajun
+"""been"",""fave""","Varanasi, India",pseudocajun
+"""want""","Costa Teguise, Spain",pseudocajun
+"""been""","Perpignan, France",pseudocajun
+"""been""","Narbonne, France",pseudocajun
+"""been"",""fave""","Bodrum City, Turkey",pseudocajun
+"""been""","Palm Beach, FL, USA",pseudocajun
+"""been""","Madeira Beach, FL, USA",pseudocajun
+"""been""","Morrison, CO, USA",pseudocajun
+"""been"",""fave""","Agra, India",pseudocajun
+"""been""","Orlando, FL, USA",pseudocajun
+"""been""","Tabernash, CO, USA",pseudocajun
+"""been""","Yaphank, NY, USA",pseudocajun
+"""been""","Ocean City, MD, USA",pseudocajun
+"""been""","Grayling, MI, USA",pseudocajun
+"""been""","Detroit, MI, USA",pseudocajun
+"""been""","Grand Rapids, MI, USA",pseudocajun
+"""want""","Oludeniz, Turkey",pseudocajun
+"""been""","Mill Valley, CA, USA",pseudocajun
+"""been"",""fave""","St. Lucia, Caribbean",pseudocajun
+"""been""","Didim, Turkey",pseudocajun
+"""been""","Long Beach, CA, USA",pseudocajun
+"""been""","Napa, CA, USA",pseudocajun
+"""been"",""fave""","Avery Island, LA, USA",pseudocajun
+"""been"",""fave""","St. Petersburg, Russia",pseudocajun
+"""been"",""fave""","Erfoud, Morocco",pseudocajun
+"""been""","Rayne, LA, USA",pseudocajun
+"""been""","Drammen, Norway",pseudocajun
+"""been""","St. Michaels, MD, USA",pseudocajun
+"""been""","Leesville, LA, USA",pseudocajun
+"""been""","Reserve, LA, USA",pseudocajun
+"""been""","Vienna, Austria",pseudocajun
+"""been""","Larose, LA, USA",pseudocajun
+"""been""","Raceland, LA, USA",pseudocajun
+"""been""","LaPlace, LA, USA",pseudocajun
+"""been"",""fave""","Baton Rouge, LA, USA",pseudocajun
+"""been""","Flint, MI, USA",pseudocajun
+"""been""","Batchelor, LA, USA",pseudocajun
+"""been""","Bikaner, India",pseudocajun
+"""been""","Jaisalmer, India",pseudocajun
+"""been""","Jodhpur, India",pseudocajun
+"""been""","Trebon, Czech Republic",pseudocajun
+"""been""","Mykonos Town, Greece",pseudocajun
+"""been""","Bardstown, KY, USA",pseudocajun
+"""been""","Buenos Aires, Argentina",pseudocajun
+"""been""","Saqqara, Egypt",pseudocajun
+"""been""","Portland, OR, USA",pseudocajun
+"""been""","Philae, Egypt",pseudocajun
+"""been"",""fave""","Huntington Beach, CA, USA",pseudocajun
+"""been""","Spartanburg, SC, USA",pseudocajun
+"""been""","Nabq Bay, Egypt",pseudocajun
+"""been""","Lake Charles, LA, USA",pseudocajun
+"""been""","Eunice, LA, USA",pseudocajun
+"""been""","Rockville, MD, USA",pseudocajun
+"""been"",""fave""","Pride, LA, USA",pseudocajun
+"""been""","Rock Hall, MD, USA",pseudocajun
+"""been"",""fave""","Lafayette, LA, USA",pseudocajun
+"""been""","Volterra, Italy",pseudocajun
+"""been""","Zachary, LA, USA",pseudocajun
+"""been""","Ponchatoula, LA, USA",pseudocajun
+"""been""","Laurel, MD, USA",pseudocajun
+"""want""","Krakow, Poland",pseudocajun
+"""want""","Dubrovnik, Croatia",pseudocajun
+"""been""","McComb, MS, USA",pseudocajun
+"""been""","Port Allen, LA, USA",pseudocajun
+"""been""","Phoenix, AZ, USA",pseudocajun
+"""been"",""fave""","Udaipur, India",pseudocajun
+"""been""","St. Pete Beach, FL, USA",pseudocajun
+"""been""","St. Petersburg, FL, USA",pseudocajun
+"""been""","Empuriabrava, Spain",pseudocajun
+"""been""","Gilroy, CA, USA",pseudocajun
+"""been""","Pittsburgh, PA, USA",pseudocajun
+"""been"",""fave""","Gangi, Italy",pseudocajun
+"""been""","Annapolis, MD, USA",pseudocajun
+"""been"",""fave""","Breaux Bridge, LA, USA",pseudocajun
+"""want""","Montreal, Quebec, Canada",pseudocajun
+"""been""","Kalamazoo, MI, USA",pseudocajun
+"""been""","Oslo, Norway",pseudocajun
+"""been""","Brusly, LA, USA",pseudocajun
+"""been""","Petoskey, MI, USA",pseudocajun
+"""been""","Mandeville, LA, USA",pseudocajun
+"""been""","Mamou, LA, USA",pseudocajun
+"""been""","Castellina In Chianti, Italy",pseudocajun
+"""been""","Silver Spring, MD, USA",pseudocajun
+"""been""","Costa Adeje, Spain",pseudocajun
+"""been"",""fave""","Cesky Krumlov, Czech Republic",pseudocajun
+"""been""","Leadville, CO, USA",pseudocajun
+"""been""","Cruz Bay, U.S. Virgin Islands",pseudocajun
+"""been""","West Palm Beach, FL, USA",pseudocajun
+"""been""","Chicago, IL, USA",pseudocajun
+"""been""","Los Angeles, CA, USA",pseudocajun
+"""been""","Newtown, PA, USA",pseudocajun
+"""been""","Bay Saint Louis, MS, USA",pseudocajun
+"""been""","Frederic, MI, USA",pseudocajun
+"""been""","Livingston, LA, USA",pseudocajun
+"""been""","Interlochen, MI, USA",pseudocajun
+"""been"",""fave""","Fordoche, LA, USA",pseudocajun
+"""been""","Orvieto, Italy",pseudocajun
+"""been""","Berwick, LA, USA",pseudocajun
+"""been""","Bethesda, MD, USA",pseudocajun
+"""been""","Las Vegas, NV, USA",pseudocajun
+"""been""","Elkton, MD, USA",pseudocajun
+"""been""","Newport Beach, CA, USA",pseudocajun
+"""been""","Figueres, Spain",pseudocajun
+"""been""","Covington, KY, USA",pseudocajun
+"""been""","Ann Arbor, MI, USA",pseudocajun
+"""been""","Pacifica, CA, USA",pseudocajun
+"""been""","Chadds Ford, PA, USA",pseudocajun
+"""been""","Mission Viejo, CA, USA",pseudocajun
+"""want""","Salou, Spain",pseudocajun
+"""been""","Opelousas, LA, USA",pseudocajun
+"""been""","Larkspur, CA, USA",pseudocajun
+"""been""","Vacherie, LA, USA",pseudocajun
+"""been"",""fave""","Houma, LA, USA",pseudocajun
+"""been""","Goreme, Turkey",pseudocajun
+"""want""","Lisbon, Portugal",pseudocajun
+"""want""","Paphos, Cyprus",pseudocajun
+"""been""","Denham Springs, LA, USA",pseudocajun
+"""been"",""fave""","Leh, India",pseudocajun
+"""been""","DeRidder, LA, USA",pseudocajun
+"""been"",""want""","Hawaii Volcanoes National Park, HI, USA",pseudocajun
+"""been""","Delos, Greece",pseudocajun
+"""been""","Corbridge, UK",pseudocajun
+"""been""","Elizabethtown, KY, USA",pseudocajun
+"""been""","Redondo Beach, CA, USA",pseudocajun
+"""been""","Blue Bell, PA, USA",pseudocajun
+"""been"",""fave""","Petra - Wadi Musa, Jordan",pseudocajun
+"""been""","Bainbridge - Ross County, OH, USA",pseudocajun
+"""been""","New Hope, PA, USA",pseudocajun
+"""been""","Ashland, KY, USA",pseudocajun
+"""been"",""fave""","Tickfaw, LA, USA",pseudocajun
+"""been""","Tangipahoa, LA, USA",pseudocajun
+"""want""","Funchal, Portugal",pseudocajun
+"""been""","Napoleonville, LA, USA",pseudocajun
+"""been""","Traverse City, MI, USA",pseudocajun
+"""been""","New Roads, LA, USA",pseudocajun
+"""been""","Thibodaux, LA, USA",pseudocajun
+"""been""","New Iberia, LA, USA",pseudocajun
+"""want""","Gaziantep, Turkey",pseudocajun
+"""been""","Natchitoches, LA, USA",pseudocajun
+"""been""","Henderson, LA, USA",pseudocajun
+"""been""","Cozumel, Mexico",pseudocajun
+"""been""","Alexandria, LA, USA",pseudocajun
+"""been""","Saint Ignace, MI, USA",pseudocajun
+"""been""","Warren, MI, USA",pseudocajun
+"""been""","Winnfield, LA, USA",pseudocajun
+"""been""","Abbeville, LA, USA",pseudocajun
+"""been""","Pineville, LA, USA",pseudocajun
+"""been""","Duplessis, LA, USA",pseudocajun
+"""been""","Antalya, Turkey",pseudocajun
+"""been"",""fave""","Erice, Italy",pseudocajun
+"""been""","Saginaw, MI, USA",pseudocajun
+"""been""","Kenner, LA, USA",pseudocajun
+"""been""","Mackinaw City, MI, USA",pseudocajun
+"""want""","Budapest, Hungary",pseudocajun
+"""been""","Manistee, MI, USA",pseudocajun
+"""been""","Catlettsburg, KY, USA",pseudocajun
+"""been""","Carter, KY, USA",pseudocajun
+"""been""","Strasburg, PA, USA",pseudocajun
+"""been""","Dallas, TX, USA",pseudocajun
+"""been""","Stroudsburg, PA, USA",pseudocajun
+"""been""","Paris, Ontario, Canada",pseudocajun
+"""been""","Amite, LA, USA",pseudocajun
+"""been""","Side, Turkey",pseudocajun
+"""been""","Dornoch, UK",pseudocajun
+"""been""","San Cassiano, Italy",pseudocajun
+"""been""","Pearl River, LA, USA",pseudocajun
+"""been""","Donaldsonville, LA, USA",pseudocajun
+"""been""","Jefferson, LA, USA",pseudocajun
+"""been"",""fave""","Grand Canyon National Park, AZ, USA",pseudocajun
+"""been""","Palmetto, LA, USA",pseudocajun
+"""been""","Jeanerette, LA, USA",pseudocajun
+"""been""","Kusadasi, Turkey",pseudocajun
+"""want""","Balikesir, Turkey",pseudocajun
+"""been""","Romulus, MI, USA",pseudocajun
+"""been""","Jennings, LA, USA",pseudocajun
+"""want""","Bursa, Turkey",pseudocajun
+"""been""","Roscommon, MI, USA",pseudocajun
+"""been""","Campton, KY, USA",pseudocajun
+"""been""","Hazel Green, KY, USA",pseudocajun
+"""been""","Milas, Turkey",pseudocajun
+"""been""","Sydney, Australia",pseudocajun
+"""been""","Huntsville, AL, USA",pseudocajun
+"""been"",""fave""","Cadaques, Spain",pseudocajun
+"""been""","Kolkata (Calcutta), India",pseudocajun
+"""been""","Canet-en-Roussillon, France",pseudocajun
+"""been""","Atlantic City, NJ, USA",pseudocajun
+"""want""","Corralejo, Spain",pseudocajun
+"""want""","Mumbai, India",pseudocajun
+"""been""","Beziers, France",pseudocajun
+"""been""","Jaipur, India",pseudocajun
+"""been""","Mount Sterling, KY, USA",pseudocajun
+"""been""","Blaine, KY, USA",pseudocajun
+"""been""","Huntington, WV, USA",pseudocajun
+"""been""","New Delhi, India",pseudocajun
+"""been""","Shreveport, LA, USA",pseudocajun
+"""been""","Kom Ombo, Egypt",pseudocajun
+"""been""","Marksville, LA, USA",pseudocajun
+"""been""","Hattiesburg, MS, USA",pseudocajun
+"""want""","Cusco, Peru",pseudocajun
+"""been"",""fave""","Blanchland, UK",pseudocajun
+"""been""","Brisbane, Australia",pseudocajun
+"""been""","Georgetown, KY, USA",pseudocajun
+"""been""","Niagara Falls, NY, USA",pseudocajun
+"""been"",""want""","Machu Picchu, Peru",pseudocajun
+"""been""","Upper Darby, PA, USA",pseudocajun
+"""been""","State College, PA, USA",pseudocajun
+"""been""","Lima, Peru",pseudocajun
+"""been""","Harrisburg, PA, USA",pseudocajun
+"""been"",""fave""","Pals, Spain",pseudocajun
+"""been""","Benton Harbor, MI, USA",pseudocajun
+"""been""","Gulfport, MS, USA",pseudocajun
+"""been""","Morehead, KY, USA",pseudocajun
+"""been""","Saint Gabriel, LA, USA",pseudocajun
+"""been""","Cynthiana, KY, USA",pseudocajun
+"""been""","Ocean Springs, MS, USA",pseudocajun
+"""been"",""want""","Aswan, Egypt",pseudocajun
+"""been""","Luxor, Egypt",pseudocajun
+"""been"",""fave""","San Gimignano, Italy",pseudocajun
+"""been""","Giza, Egypt",pseudocajun
+"""been""","Greenville, ME, USA",pseudocajun
+"""been""","Ypsilanti, MI, USA",pseudocajun
+"""been"",""want""","Cairo, Egypt",pseudocajun
+"""been""","Frenchburg, KY, USA",pseudocajun
+"""been""","Cherokee, NC, USA",pseudocajun
+"""been""","Charlotte, NC, USA",pseudocajun
+"""been"",""fave""","Santillana del Mar, Spain",pseudocajun
+"""been""","Olema, CA, USA",pseudocajun
+"""been""","Siena, Italy",pseudocajun
+"""been""","Lednice, Czech Republic",pseudocajun
+"""been""","Sunshine, LA, USA",pseudocajun
+"""been""","Sunset, LA, USA",pseudocajun
+"""been""","Jackson, MS, USA",pseudocajun
+"""been""","Lexington, KY, USA",pseudocajun
+"""been""","Sulphur, LA, USA",pseudocajun
+"""been"",""fave""","Morgan City, LA, USA",pseudocajun
+"""been""","Hammond, LA, USA",pseudocajun
+"""been""","Bruin, KY, USA",pseudocajun
+"""want""","Hua Hin, Thailand",pseudocajun
+"""been""","Harvey, LA, USA",pseudocajun
+"""been""","Grayson, KY, USA",pseudocajun
+"""been""","Greenup, KY, USA",pseudocajun
+"""been"",""fave""","Hayman Island, Australia",pseudocajun
+"""been""","Columbus, OH, USA",pseudocajun
+"""been""","Concordville, PA, USA",pseudocajun
+"""been"",""fave""","Prague, Czech Republic",pseudocajun
+"""been""","Joliet, IL, USA",pseudocajun
+"""been""","Pascagoula, MS, USA",pseudocajun
+"""been""","Metairie, LA, USA",pseudocajun
+"""been""","Slidell, LA, USA",pseudocajun
+"""been""","Slaughter, LA, USA",pseudocajun
+"""been""","Monroe, LA, USA",pseudocajun
+"""been""","Ironton, OH, USA",pseudocajun
+"""been""","Lancaster, PA, USA",pseudocajun
+"""been""","Maysville, KY, USA",pseudocajun
+"""been""","Hendersonville, NC, USA",pseudocajun
+"""been""","Mobile, AL, USA",pseudocajun
+"""been""","Exton, PA, USA",pseudocajun
+"""been""","Ostia Antica, Italy",pseudocajun
+"""been""","Prestonsburg, KY, USA",pseudocajun
+"""been""","Bangor, ME, USA",pseudocajun
+"""been""","Enna, Italy",pseudocajun
+"""been""","Porvoo, Finland",pseudocajun
+"""been""","West Chester, PA, USA",pseudocajun
+"""been""","West Conshohocken, PA, USA",pseudocajun
+"""been""","Hillsboro, OH, USA",pseudocajun
+"""been""","Midelt, Morocco",pseudocajun
+"""been"",""fave""","Hondarribia, Spain",pseudocajun
+"""been""","Dublin, Ireland",pseudocajun
+"""been""","Pikeville, KY, USA",pseudocajun
+"""been""","Indianapolis, IN, USA",pseudocajun
+"""been""","Downingtown, PA, USA",pseudocajun
+"""been""","South Shore, KY, USA",pseudocajun
+"""been""","Martin, KY, USA",pseudocajun
+"""been""","Jackson, WY, USA",pseudocajun
+"""been""","Winchester, KY, USA",pseudocajun
+"""been""","Washington, VA, USA",pseudocajun
+"""been""","Willard, KY, USA",pseudocajun
+"""been""","Gallup, NM, USA",pseudocajun
+"""been"",""fave""","Point Reyes Station, CA, USA",pseudocajun
+"""been""","Lahaska, PA, USA",pseudocajun
+"""been""","Hella, Iceland",pseudocajun
+"""been""","Frankfort, KY, USA",pseudocajun
+"""been""","Rosedale, LA, USA",pseudocajun
+"""been""","Gardiner, ME, USA",pseudocajun
+"""been""","Wayne, PA, USA",pseudocajun
+"""been"",""fave""","Boumalne Dades, Morocco",pseudocajun
+"""been""","Inez, KY, USA",pseudocajun
+"""been""","Waimea, HI, USA",pseudocajun
+"""been""","Honokaa, HI, USA",pseudocajun
+"""been""","Holualoa, HI, USA",pseudocajun
+"""been"",""want""","Hilo, HI, USA",pseudocajun
+"""been"",""fave""","Hawi, HI, USA",pseudocajun
+"""been""","Flemingsburg, KY, USA",pseudocajun
+"""been""","Flatwoods, KY, USA",pseudocajun
+"""been""","Big Pine Key, FL, USA",pseudocajun
+"""been""","Fort Wayne, IN, USA",pseudocajun
+"""been""","Florence, KY, USA",pseudocajun
+"""been""","Isonville, KY, USA",pseudocajun
+"""been""","Midway, KY, USA",pseudocajun
+"""been""","Battle Creek, MI, USA",pseudocajun
+"""been""","Boca Raton, FL, USA",pseudocajun
+"""been""","Palamos, Spain",pseudocajun
+"""been""","Meknes, Morocco",pseudocajun
+"""been""","Rabat, Morocco",pseudocajun
+"""been""","King of Prussia, PA, USA",pseudocajun
+"""been""","Lewes, DE, USA",pseudocajun
+"""been"",""fave""","Fes, Morocco",pseudocajun
+"""been""","Marrakech, Morocco",pseudocajun
+"""want""","Milan, Italy",pseudocajun
+"""been"",""fave""","Selcuk, Turkey",pseudocajun
+"""been""","Olive Hill, KY, USA",pseudocajun
+"""been""","Taos, NM, USA",pseudocajun
+"""been"",""fave""","Kukuihaele, HI, USA",pseudocajun
+"""been""","Philadelphia, PA, USA",pseudocajun
+"""been""","Hershey, PA, USA",pseudocajun
+"""been""","Sausalito, CA, USA",pseudocajun
+"""been""","Kanab, UT, USA",pseudocajun
+"""been""","Webbville, KY, USA",pseudocajun
+"""been""","Paducah, KY, USA",pseudocajun
+"""been""","Louisville, KY, USA",pseudocajun
+"""been""","Owingsville, KY, USA",pseudocajun
+"""been""","Louisa, KY, USA",pseudocajun
+"""want""","Turin, Italy",pseudocajun
+"""been""","Moravsky Krumlov, Czech Republic",pseudocajun
+"""been""","Tel Aviv, Israel",pseudocajun
+"""been""","Long Key, FL, USA",pseudocajun
+"""been""","Edinburgh, UK",pseudocajun
+"""been""","Haifa, Israel",pseudocajun
+"""want""","Melbourne, Australia",pseudocajun
+"""been"",""fave""","Jerusalem, Israel",pseudocajun
+"""been""","Eilat, Israel",pseudocajun
+"""been""","Palafrugell, Spain",pseudocajun
+"""want""","Puerto Del Carmen, Spain",pseudocajun
+"""been""","Tunica, MS, USA",pseudocajun
+"""been""","Newport, KY, USA",pseudocajun
+"""been""","Salt Lick, KY, USA",pseudocajun
+"""been""","Nicholasville, KY, USA",pseudocajun
+"""been""","Salyersville, KY, USA",pseudocajun
+"""been"",""fave""","Sandy Hook, KY, USA",pseudocajun
+"""been""","South Bend, IN, USA",pseudocajun
+"""been""","Glasgow, UK",pseudocajun
+"""been""","Cocoa Beach, FL, USA",pseudocajun
+"""been""","Tiburon, CA, USA",pseudocajun
+"""been""","Clewiston, FL, USA",pseudocajun
+"""been""","Santa Rosa, CA, USA",pseudocajun
+"""been""","Clearwater, FL, USA",pseudocajun
+"""been""","Atlanta, GA, USA",pseudocajun
+"""been""","Merzouga, Morocco",pseudocajun
+"""been""","Ouarzazate, Morocco",pseudocajun
+"""been""","Manassas, VA, USA",pseudocajun
+"""been""","Mason, OH, USA",pseudocajun
+"""been""","Fargo, ND, USA",pseudocajun
+"""been""","Daytona Beach, FL, USA",pseudocajun
+"""been""","Playa Blanca, Spain",pseudocajun
+"""been""","Ait Ben Haddou, Morocco",pseudocajun
+"""been"",""want""","Venice, Italy",pseudocajun
+"""been""","Wilmington, DE, USA",pseudocajun
+"""been""","Fort William, UK",pseudocajun
+"""been""","Madrid, Spain",pseudocajun
+"""been""","Memphis, TN, USA",pseudocajun
+"""been""","Delray Beach, FL, USA",pseudocajun
+"""been"",""fave""","Helsinki, Finland",pseudocajun
+"""been""","Gibraltar, Europe",pseudocajun
+"""been""","Wick, UK",pseudocajun
+"""been""","Inverness, UK",pseudocajun
+"""been""","Haro, Spain",pseudocajun
+"""been""","Hollywood, FL, USA",pseudocajun
+"""want""","Maspalomas, Spain",pseudocajun
+"""been""","Paintsville, KY, USA",pseudocajun
+"""been""","Shelbyville, KY, USA",pseudocajun
+"""been""","Paris, KY, USA",pseudocajun
+"""been""","Portsmouth, OH, USA",pseudocajun
+"""been""","Washington DC, DC, USA",pseudocajun
+"""been""","Casablanca, Morocco",pseudocajun
+"""been"",""want"",""fave""","Istanbul, Turkey",pseudocajun
+"""been""","West Liberty, KY, USA",pseudocajun
+"""been""","Sicily, Italy",pseudocajun
+"""been""","Newark, DE, USA",pseudocajun

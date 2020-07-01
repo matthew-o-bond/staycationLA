@@ -1,0 +1,557 @@
+tag,place,user
+"""been""","Great Basin National Park, NV, USA",JaguarFeather
+"""been""","Great Smoky Mountains National Park, TN, USA",JaguarFeather
+"""been""","Clines Corners, NM, USA",JaguarFeather
+"""been""","Cloudcroft, NM, USA",JaguarFeather
+"""been""","Youngstown, NY, USA",JaguarFeather
+"""been""","Fort Davis, TX, USA",JaguarFeather
+"""been""","Brownsville, TX, USA",JaguarFeather
+"""been""","Corpus Christi, TX, USA",JaguarFeather
+"""been""","Monahans, TX, USA",JaguarFeather
+"""been""","Soldotna, AK, USA",JaguarFeather
+"""been""","Pea Ridge, AR, USA",JaguarFeather
+"""been""","El Portal, CA, USA",JaguarFeather
+"""been""","Alpine, TX, USA",JaguarFeather
+"""been""","SeaTac, WA, USA",JaguarFeather
+"""been""","Amarillo, TX, USA",JaguarFeather
+"""been""","Alvin, TX, USA",JaguarFeather
+"""been""","Port Angeles, WA, USA",JaguarFeather
+"""been""","Telluride, CO, USA",JaguarFeather
+"""been""","Beeville, TX, USA",JaguarFeather
+"""been""","Alvarado, TX, USA",JaguarFeather
+"""been""","La Mesa, CA, USA",JaguarFeather
+"""been""","Canyon Lake, TX, USA",JaguarFeather
+"""been""","Bedford, TX, USA",JaguarFeather
+"""been""","Orlando, FL, USA",JaguarFeather
+"""been""","Jacksonville, FL, USA",JaguarFeather
+"""been""","Clovis, NM, USA",JaguarFeather
+"""been""","Lucerne, Switzerland",JaguarFeather
+"""been""","Jamaica, NY, USA",JaguarFeather
+"""been""","Mammoth Cave National Park, KY, USA",JaguarFeather
+"""been""","Mount Rainier National Park, WA, USA",JaguarFeather
+"""been""","Nashville, TN, USA",JaguarFeather
+"""been""","Pecos, TX, USA",JaguarFeather
+"""been""","Sedro Woolley, WA, USA",JaguarFeather
+"""been""","Glennallen, AK, USA",JaguarFeather
+"""been""","Sells, AZ, USA",JaguarFeather
+"""been""","Englewood, CO, USA",JaguarFeather
+"""been""","Rockport, TX, USA",JaguarFeather
+"""been""","Albuquerque, NM, USA",JaguarFeather
+"""been""","Penwell, TX, USA",JaguarFeather
+"""been""","Snyder, TX, USA",JaguarFeather
+"""been""","Smithville, TX, USA",JaguarFeather
+"""been""","Cozumel, Mexico",JaguarFeather
+"""been""","Manitou Springs, CO, USA",JaguarFeather
+"""been""","Belton, TX, USA",JaguarFeather
+"""been""","Apalachicola, FL, USA",JaguarFeather
+"""been""","Panama City, Panama",JaguarFeather
+"""been""","Grindelwald, Switzerland",JaguarFeather
+"""been"",""fave""","Arches National Park, UT, USA",JaguarFeather
+"""been""","Interlaken, Switzerland",JaguarFeather
+"""been"",""fave""","Canyonlands National Park, UT, USA",JaguarFeather
+"""been"",""fave""","Capitol Reef National Park, UT, USA",JaguarFeather
+"""been""","Abilene, TX, USA",JaguarFeather
+"""been""","Lubbock, TX, USA",JaguarFeather
+"""been""","Scottsdale, AZ, USA",JaguarFeather
+"""been""","Aberdeen, WA, USA",JaguarFeather
+"""been""","Sedona, AZ, USA",JaguarFeather
+"""been""","Loveland, CO, USA",JaguarFeather
+"""been""","Sonora, TX, USA",JaguarFeather
+"""been""","Cedar Park, TX, USA",JaguarFeather
+"""been""","Birmingham, AL, USA",JaguarFeather
+"""been""","Malibu, CA, USA",JaguarFeather
+"""been""","Littleton, CO, USA",JaguarFeather
+"""been""","Silverton, CO, USA",JaguarFeather
+"""been""","Fayetteville, AR, USA",JaguarFeather
+"""been""","Estes Park, CO, USA",JaguarFeather
+"""been""","Big Spring, TX, USA",JaguarFeather
+"""been""","Pflugerville, TX, USA",JaguarFeather
+"""been""","Bertram, TX, USA",JaguarFeather
+"""been""","Brooklyn, NY, USA",JaguarFeather
+"""been""","Fairbanks, AK, USA",JaguarFeather
+"""been""","Big Lake, TX, USA",JaguarFeather
+"""been""","Sarasota, FL, USA",JaguarFeather
+"""been""","Arosa, Switzerland",JaguarFeather
+"""been""","Wengen, Switzerland",JaguarFeather
+"""been""","Kansas City, MO, USA",JaguarFeather
+"""been""","Chur, Switzerland",JaguarFeather
+"""been""","Elizabeth, NJ, USA",JaguarFeather
+"""been""","Denali National Park and Preserve, AK, USA",JaguarFeather
+"""been""","Eureka Springs, AR, USA",JaguarFeather
+"""been""","Leadville, CO, USA",JaguarFeather
+"""been""","Spicewood, TX, USA",JaguarFeather
+"""been""","Saint Augustine Beach, FL, USA",JaguarFeather
+"""been""","Silver City, NM, USA",JaguarFeather
+"""been""","Kyle, TX, USA",JaguarFeather
+"""been""","Quincy, MA, USA",JaguarFeather
+"""been""","San Francisco, CA, USA",JaguarFeather
+"""been""","Page, AZ, USA",JaguarFeather
+"""been""","Mountainair, NM, USA",JaguarFeather
+"""been""","Round Rock, TX, USA",JaguarFeather
+"""been""","Plano, TX, USA",JaguarFeather
+"""been""","Aguas Calientes, Peru",JaguarFeather
+"""been""","San Antonio, TX, USA",JaguarFeather
+"""been""","Aspen, CO, USA",JaguarFeather
+"""been""","Del Rio, TX, USA",JaguarFeather
+"""been""","Santa Fe, NM, USA",JaguarFeather
+"""been""","Blanco, TX, USA",JaguarFeather
+"""been""","Zermatt, Switzerland",JaguarFeather
+"""been""","Sion, Switzerland",JaguarFeather
+"""been""","Black Mountain, NC, USA",JaguarFeather
+"""been""","Tucson, AZ, USA",JaguarFeather
+"""been""","Helena, MT, USA",JaguarFeather
+"""been""","Santa Anna, TX, USA",JaguarFeather
+"""been""","Anaheim, CA, USA",JaguarFeather
+"""been""","Taylor, TX, USA",JaguarFeather
+"""been""","West Orange, TX, USA",JaguarFeather
+"""been""","Chimney Rock, CO, USA",JaguarFeather
+"""been""","Columbus, TX, USA",JaguarFeather
+"""been""","Colorado City, TX, USA",JaguarFeather
+"""been""","Invergarry, UK",JaguarFeather
+"""been""","Eden, TX, USA",JaguarFeather
+"""been""","Brownwood, TX, USA",JaguarFeather
+"""been""","Tampa, FL, USA",JaguarFeather
+"""been""","Bisbee, AZ, USA",JaguarFeather
+"""been""","Bernalillo, NM, USA",JaguarFeather
+"""been""","Chinchero, Peru",JaguarFeather
+"""been""","Buffalo Gap, TX, USA",JaguarFeather
+"""been""","Coronado, CA, USA",JaguarFeather
+"""been""","Ouray, CO, USA",JaguarFeather
+"""been""","Buda, TX, USA",JaguarFeather
+"""been""","Pensacola, FL, USA",JaguarFeather
+"""been""","Canon City, CO, USA",JaguarFeather
+"""been""","Buchanan Dam, TX, USA",JaguarFeather
+"""been""","Suwannee, FL, USA",JaguarFeather
+"""been""","Pagosa Springs, CO, USA",JaguarFeather
+"""been""","Tallahassee, FL, USA",JaguarFeather
+"""been""","Valdez, AK, USA",JaguarFeather
+"""been""","Temple, TX, USA",JaguarFeather
+"""been""","Elgin, TX, USA",JaguarFeather
+"""been""","Austin, TX, USA",JaguarFeather
+"""been""","Texarkana, TX, USA",JaguarFeather
+"""been""","Beaver, OK, USA",JaguarFeather
+"""been""","Reno, NV, USA",JaguarFeather
+"""been""","Manchester, UK",JaguarFeather
+"""been""","Hudson, NY, USA",JaguarFeather
+"""been""","Capitan, NM, USA",JaguarFeather
+"""been""","Carrizozo, NM, USA",JaguarFeather
+"""been""","Zion National Park, UT, USA",JaguarFeather
+"""been""","Ozona, TX, USA",JaguarFeather
+"""been""","Tuba City, AZ, USA",JaguarFeather
+"""been""","Red Rock, TX, USA",JaguarFeather
+"""been""","Kenai, AK, USA",JaguarFeather
+"""been""","Ballinger, TX, USA",JaguarFeather
+"""been""","Tusayan, AZ, USA",JaguarFeather
+"""been""","Grand Junction, CO, USA",JaguarFeather
+"""been""","Balmorhea, TX, USA",JaguarFeather
+"""been""","Burnet, TX, USA",JaguarFeather
+"""been""","Nassau, Bahamas",JaguarFeather
+"""been""","Buena Park, CA, USA",JaguarFeather
+"""been""","Buena Vista, CO, USA",JaguarFeather
+"""been""","Burbank, CA, USA",JaguarFeather
+"""been""","Marble Canyon, AZ, USA",JaguarFeather
+"""been""","Boulder, CO, USA",JaguarFeather
+"""been""","Crane, TX, USA",JaguarFeather
+"""been""","Golden, CO, USA",JaguarFeather
+"""been""","Basel, Switzerland",JaguarFeather
+"""been""","Sidney, British Columbia, Canada",JaguarFeather
+"""been""","Arlington, TX, USA",JaguarFeather
+"""been""","Wichita Falls, TX, USA",JaguarFeather
+"""been""","Santa Elena, Costa Rica",JaguarFeather
+"""been""","Luxembourg City, Luxembourg",JaguarFeather
+"""been""","Santa Maria, Portugal",JaguarFeather
+"""been""","Playa del Carmen, Mexico",JaguarFeather
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",JaguarFeather
+"""been""","Tulum, Mexico",JaguarFeather
+"""been""","Chama, NM, USA",JaguarFeather
+"""been""","Quirigua, Guatemala",JaguarFeather
+"""been""","Tombstone, AZ, USA",JaguarFeather
+"""been""","Kingman, AZ, USA",JaguarFeather
+"""been""","Richardson, TX, USA",JaguarFeather
+"""been""","Andice, TX, USA",JaguarFeather
+"""been""","Brienz, Switzerland",JaguarFeather
+"""been""","Talkeetna, AK, USA",JaguarFeather
+"""been""","Kayenta, AZ, USA",JaguarFeather
+"""been""","Teec Nos Pos, AZ, USA",JaguarFeather
+"""been""","Tempe, AZ, USA",JaguarFeather
+"""been""","Vail, CO, USA",JaguarFeather
+"""been""","Laguna Beach, CA, USA",JaguarFeather
+"""been""","Bastrop, TX, USA",JaguarFeather
+"""been""","Montrose, CO, USA",JaguarFeather
+"""been""","Andrews, TX, USA",JaguarFeather
+"""been""","Kapalua, HI, USA",JaguarFeather
+"""been""","Thun, Switzerland",JaguarFeather
+"""been""","Bern, Switzerland",JaguarFeather
+"""been""","Chimayo, NM, USA",JaguarFeather
+"""been""","Geneva, Switzerland",JaguarFeather
+"""been""","Claunch, NM, USA",JaguarFeather
+"""been""","Iraan, TX, USA",JaguarFeather
+"""been""","St. George, UT, USA",JaguarFeather
+"""been""","Durango, CO, USA",JaguarFeather
+"""been""","Little Rock, AR, USA",JaguarFeather
+"""been""","Lawrence, KS, USA",JaguarFeather
+"""been""","St. Augustine, FL, USA",JaguarFeather
+"""been""","Haleiwa, HI, USA",JaguarFeather
+"""been""","Cape Canaveral, FL, USA",JaguarFeather
+"""been""","Green River, UT, USA",JaguarFeather
+"""been""","Irving, TX, USA",JaguarFeather
+"""been""","Edmonds, WA, USA",JaguarFeather
+"""been""","Flims, Switzerland",JaguarFeather
+"""been""","Anchorage, AK, USA",JaguarFeather
+"""been""","Kaunakakai, HI, USA",JaguarFeather
+"""been""","Coulee Dam, WA, USA",JaguarFeather
+"""been""","Carlsbad, NM, USA",JaguarFeather
+"""been""","New York City, NY, USA",JaguarFeather
+"""been""","Santa Rosa, NM, USA",JaguarFeather
+"""been""","George Town, Cayman Islands",JaguarFeather
+"""been""","Santa Teresa, NM, USA",JaguarFeather
+"""been""","Seven Mile Beach, Cayman Islands",JaguarFeather
+"""been""","San Jose, CA, USA",JaguarFeather
+"""been""","Kissimmee, FL, USA",JaguarFeather
+"""been""","Hanksville, UT, USA",JaguarFeather
+"""been""","North Pole, AK, USA",JaguarFeather
+"""been""","Denver, CO, USA",JaguarFeather
+"""been""","Laie, HI, USA",JaguarFeather
+"""been""","Atlanta, GA, USA",JaguarFeather
+"""been""","Bergen op Zoom, The Netherlands",JaguarFeather
+"""been""","Everett, WA, USA",JaguarFeather
+"""been""","Midland, TX, USA",JaguarFeather
+"""been""","Palmer, AK, USA",JaguarFeather
+"""been""","Fort Lauderdale, FL, USA",JaguarFeather
+"""been""","Liberty Hill, TX, USA",JaguarFeather
+"""been""","Mount Vernon, IL, USA",JaguarFeather
+"""been""","Bainbridge Island, WA, USA",JaguarFeather
+"""been""","Memphis, TN, USA",JaguarFeather
+"""been""","Jarrell, TX, USA",JaguarFeather
+"""been""","Johnson City, TX, USA",JaguarFeather
+"""been""","Sulphur, OK, USA",JaguarFeather
+"""been""","Kailua, HI, USA",JaguarFeather
+"""been""","Sparks, NV, USA",JaguarFeather
+"""been""","Kahuku, HI, USA",JaguarFeather
+"""been""","Kapolei, HI, USA",JaguarFeather
+"""been""","Shiprock, NM, USA",JaguarFeather
+"""been""","Kaneohe, HI, USA",JaguarFeather
+"""been""","Socorro, NM, USA",JaguarFeather
+"""been""","West Hollywood, CA, USA",JaguarFeather
+"""been""","Key West, FL, USA",JaguarFeather
+"""been""","Crested Butte, CO, USA",JaguarFeather
+"""been""","Kansas City, KS, USA",JaguarFeather
+"""been""","Dana Point, CA, USA",JaguarFeather
+"""been""","Death Valley Junction, CA, USA",JaguarFeather
+"""been""","Rock Springs, WY, USA",JaguarFeather
+"""been""","Junction, TX, USA",JaguarFeather
+"""been""","Forks, WA, USA",JaguarFeather
+"""been""","Waianae, HI, USA",JaguarFeather
+"""been""","Marblemount, WA, USA",JaguarFeather
+"""been""","Sunspot, NM, USA",JaguarFeather
+"""been""","Taos, NM, USA",JaguarFeather
+"""been""","Texico, NM, USA",JaguarFeather
+"""been""","King of Prussia, PA, USA",JaguarFeather
+"""been""","Wawona, CA, USA",JaguarFeather
+"""been""","Grants, NM, USA",JaguarFeather
+"""been""","Gettysburg, PA, USA",JaguarFeather
+"""been""","South San Francisco, CA, USA",JaguarFeather
+"""been""","Jacksonville Beach, FL, USA",JaguarFeather
+"""been""","Casa Grande, AZ, USA",JaguarFeather
+"""been""","Boquete, Panama",JaguarFeather
+"""been""","Cameron, AZ, USA",JaguarFeather
+"""been""","Lockhart, TX, USA",JaguarFeather
+"""been""","Kanab, UT, USA",JaguarFeather
+"""been""","Katy, TX, USA",JaguarFeather
+"""been""","Staten Island, NY, USA",JaguarFeather
+"""been""","Llano, TX, USA",JaguarFeather
+"""been""","Mescalero, NM, USA",JaguarFeather
+"""been""","Philadelphia, PA, USA",JaguarFeather
+"""been""","Mesilla Park, NM, USA",JaguarFeather
+"""been""","Shoshoni, WY, USA",JaguarFeather
+"""been""","Waikoloa, HI, USA",JaguarFeather
+"""been""","Marble Falls, TX, USA",JaguarFeather
+"""been""","Marathon, TX, USA",JaguarFeather
+"""been""","Knoxville, TN, USA",JaguarFeather
+"""been""","Port Aransas, TX, USA",JaguarFeather
+"""been""","Tacoma, WA, USA",JaguarFeather
+"""been""","Port Arthur, TX, USA",JaguarFeather
+"""been""","Gatlinburg, TN, USA",JaguarFeather
+"""been""","Pahoa, HI, USA",JaguarFeather
+"""been""","Olympia, WA, USA",JaguarFeather
+"""been""","Moab, UT, USA",JaguarFeather
+"""been""","Louisville, KY, USA",JaguarFeather
+"""been""","Papaikou, HI, USA",JaguarFeather
+"""been""","Marfa, TX, USA",JaguarFeather
+"""been""","San Pedro, Belize",JaguarFeather
+"""been""","Volcano, HI, USA",JaguarFeather
+"""been""","Aztec, NM, USA",JaguarFeather
+"""been""","New Braunfels, TX, USA",JaguarFeather
+"""been""","Jasper, Alberta, Canada",JaguarFeather
+"""been""","Sausalito, CA, USA",JaguarFeather
+"""been""","Caye Caulker, Belize",JaguarFeather
+"""been""","Lago Vista, TX, USA",JaguarFeather
+"""been""","Port Bolivar, TX, USA",JaguarFeather
+"""been""","Belize City, Belize",JaguarFeather
+"""been""","Hanalei, HI, USA",JaguarFeather
+"""been""","Big Bend National Park, TX, USA",JaguarFeather
+"""been""","Houston, TX, USA",JaguarFeather
+"""been""","Hot Springs, AR, USA",JaguarFeather
+"""been""","Post, TX, USA",JaguarFeather
+"""been""","Horseshoe Bay, TX, USA",JaguarFeather
+"""been""","Beaumont, TX, USA",JaguarFeather
+"""been""","Cortez, CO, USA",JaguarFeather
+"""been""","San Ignacio, Belize",JaguarFeather
+"""been""","Belmopan, Belize",JaguarFeather
+"""been""","Flagstaff, AZ, USA",JaguarFeather
+"""been""","Los Alamos, NM, USA",JaguarFeather
+"""been""","West Yellowstone, MT, USA",JaguarFeather
+"""been""","Saltillo, Mexico",JaguarFeather
+"""been""","Monterrey, Mexico",JaguarFeather
+"""been""","Brig, Switzerland",JaguarFeather
+"""been""","East Glacier Park, MT, USA",JaguarFeather
+"""been""","Santa Monica, CA, USA",JaguarFeather
+"""been""","Ciudad Juarez, Mexico",JaguarFeather
+"""been""","Cocoa Beach, FL, USA",JaguarFeather
+"""been""","Waycross, GA, USA",JaguarFeather
+"""been""","Lihue, HI, USA",JaguarFeather
+"""been""","Santa Cruz, CA, USA",JaguarFeather
+"""been""","Vicksburg, MS, USA",JaguarFeather
+"""been""","Poipu, HI, USA",JaguarFeather
+"""been""","Boston, MA, USA",JaguarFeather
+"""been""","Waimea, HI, USA",JaguarFeather
+"""been""","Princeville, HI, USA",JaguarFeather
+"""been""","Notrees, TX, USA",JaguarFeather
+"""been""","Lampasas, TX, USA",JaguarFeather
+"""been""","Haiku, HI, USA",JaguarFeather
+"""been""","Lanai City, HI, USA",JaguarFeather
+"""been""","Honolulu, HI, USA",JaguarFeather
+"""been""","Gunnison, CO, USA",JaguarFeather
+"""been""","Koloa, HI, USA",JaguarFeather
+"""been""","Asheville, NC, USA",JaguarFeather
+"""been""","Kilauea, HI, USA",JaguarFeather
+"""been""","Calgary, Alberta, Canada",JaguarFeather
+"""been""","Lake Louise, Alberta, Canada",JaguarFeather
+"""been""","Banff, Alberta, Canada",JaguarFeather
+"""been""","Catskill, NY, USA",JaguarFeather
+"""been""","Beverly Hills, CA, USA",JaguarFeather
+"""want""","Santa Ana, CA, USA",JaguarFeather
+"""been""","Laredo, TX, USA",JaguarFeather
+"""been""","Santa Clarita, CA, USA",JaguarFeather
+"""been""","Hutto, TX, USA",JaguarFeather
+"""been""","Lahaina, HI, USA",JaguarFeather
+"""been""","Leander, TX, USA",JaguarFeather
+"""been""","Kula, HI, USA",JaguarFeather
+"""been""","Port Townsend, WA, USA",JaguarFeather
+"""been""","Paia, HI, USA",JaguarFeather
+"""been""","Seattle, WA, USA",JaguarFeather
+"""been""","Torrey, UT, USA",JaguarFeather
+"""been""","Odessa, TX, USA",JaguarFeather
+"""been""","Wailuku, HI, USA",JaguarFeather
+"""been""","Hana, HI, USA",JaguarFeather
+"""been""","San Diego, CA, USA",JaguarFeather
+"""been""","Kihei, HI, USA",JaguarFeather
+"""been""","Chinle, AZ, USA",JaguarFeather
+"""been""","Kahului, HI, USA",JaguarFeather
+"""been""","Seward, AK, USA",JaguarFeather
+"""been""","Jackson, WY, USA",JaguarFeather
+"""been""","Ambleside, UK",JaguarFeather
+"""been""","Grasmere, UK",JaguarFeather
+"""been""","Pueblo of Acoma, NM, USA",JaguarFeather
+"""been""","Kendal, UK",JaguarFeather
+"""been""","Gallup, NM, USA",JaguarFeather
+"""been""","Quemado, NM, USA",JaguarFeather
+"""been""","Keswick, UK",JaguarFeather
+"""been""","Raton, NM, USA",JaguarFeather
+"""been""","Mobile, AL, USA",JaguarFeather
+"""been""","Cahuita, Costa Rica",JaguarFeather
+"""been""","Norman, OK, USA",JaguarFeather
+"""been""","Stone Mountain, GA, USA",JaguarFeather
+"""been""","Glen Rose, TX, USA",JaguarFeather
+"""been""","Davis, OK, USA",JaguarFeather
+"""been""","Princeton, KY, USA",JaguarFeather
+"""been""","Red River, NM, USA",JaguarFeather
+"""been""","Niagara Falls, NY, USA",JaguarFeather
+"""been""","Chorrillos, Peru",JaguarFeather
+"""been""","London, UK",JaguarFeather
+"""been""","Franconia, NH, USA",JaguarFeather
+"""been""","Panguitch, UT, USA",JaguarFeather
+"""been""","Austin, NV, USA",JaguarFeather
+"""been""","Windermere, UK",JaguarFeather
+"""been""","Victoria, British Columbia, Canada",JaguarFeather
+"""been""","Chattanooga, TN, USA",JaguarFeather
+"""been""","Drumright, OK, USA",JaguarFeather
+"""been""","Norcross, GA, USA",JaguarFeather
+"""been""","Stroud, OK, USA",JaguarFeather
+"""been""","Monteverde Cloud Forest Reserve, Costa Rica",JaguarFeather
+"""been""","Cascade Locks, OR, USA",JaguarFeather
+"""been""","Orange Walk, Belize",JaguarFeather
+"""been""","Charleroi, Belgium",JaguarFeather
+"""been""","Brussels, Belgium",JaguarFeather
+"""been""","Oklahoma City, OK, USA",JaguarFeather
+"""been""","Roswell, NM, USA",JaguarFeather
+"""been""","Hobbs, NM, USA",JaguarFeather
+"""been""","Ruidoso, NM, USA",JaguarFeather
+"""been""","Ruidoso Downs, NM, USA",JaguarFeather
+"""been""","Ada, OK, USA",JaguarFeather
+"""been""","Puerto Jimenez, Costa Rica",JaguarFeather
+"""been""","Granite Shoals, TX, USA",JaguarFeather
+"""been""","Daytona Beach, FL, USA",JaguarFeather
+"""been""","Grand Prairie, TX, USA",JaguarFeather
+"""been""","Duncan, OK, USA",JaguarFeather
+"""been""","Yosemite National Park, CA, USA",JaguarFeather
+"""been""","Washington DC, DC, USA",JaguarFeather
+"""been""","Loa, UT, USA",JaguarFeather
+"""been""","Birmingham, UK",JaguarFeather
+"""been""","Kerrville, TX, USA",JaguarFeather
+"""been""","Lehi, UT, USA",JaguarFeather
+"""been""","Kermit, TX, USA",JaguarFeather
+"""been""","Edinburgh, UK",JaguarFeather
+"""been""","Truth or Consequences, NM, USA",JaguarFeather
+"""been""","Tularosa, NM, USA",JaguarFeather
+"""been""","Moriarty, NM, USA",JaguarFeather
+"""been""","Artesia, NM, USA",JaguarFeather
+"""been""","Bronx, NY, USA",JaguarFeather
+"""been""","Worms, Germany",JaguarFeather
+"""been""","Datil, NM, USA",JaguarFeather
+"""been""","Deming, NM, USA",JaguarFeather
+"""been""","Captain Cook, HI, USA",JaguarFeather
+"""been""","Alajuela, Costa Rica",JaguarFeather
+"""been""","La Fortuna de San Carlos, Costa Rica",JaguarFeather
+"""been""","Huntsville, AL, USA",JaguarFeather
+"""been""","Courmayeur, Italy",JaguarFeather
+"""been""","Aosta, Italy",JaguarFeather
+"""been""","Alamogordo, NM, USA",JaguarFeather
+"""been""","Kingsville, TX, USA",JaguarFeather
+"""been""","Vaughn, NM, USA",JaguarFeather
+"""been""","Kingsland, TX, USA",JaguarFeather
+"""been""","El Prado, NM, USA",JaguarFeather
+"""been""","Delta Junction, AK, USA",JaguarFeather
+"""been""","Inverness, UK",JaguarFeather
+"""been""","Carenero Island, Panama",JaguarFeather
+"""been""","Winston Salem, NC, USA",JaguarFeather
+"""been""","Mount Washington, NH, USA",JaguarFeather
+"""been""","Concord, NH, USA",JaguarFeather
+"""been""","Chehalis, WA, USA",JaguarFeather
+"""been""","Zuni, NM, USA",JaguarFeather
+"""been""","Hilo, HI, USA",JaguarFeather
+"""been""","Mexican Hat, UT, USA",JaguarFeather
+"""been""","Espanola, NM, USA",JaguarFeather
+"""been""","Honokaa, HI, USA",JaguarFeather
+"""been""","Waimea, HI, USA",JaguarFeather
+"""been""","Farmington, NM, USA",JaguarFeather
+"""been""","Niagara Falls, Ontario, Canada",JaguarFeather
+"""been""","Seminole, OK, USA",JaguarFeather
+"""been""","Healdton, OK, USA",JaguarFeather
+"""been""","Matthews, NC, USA",JaguarFeather
+"""been""","North Conway, NH, USA",JaguarFeather
+"""been""","Monticello, UT, USA",JaguarFeather
+"""been"",""fave""","Monument Valley, UT, USA",JaguarFeather
+"""been""","Fort Sumner, NM, USA",JaguarFeather
+"""been""","Ocean View, HI, USA",JaguarFeather
+"""been""","Fort Worth, TX, USA",JaguarFeather
+"""been""","Ely, NV, USA",JaguarFeather
+"""been""","Chandler, OK, USA",JaguarFeather
+"""been""","Ivybridge, UK",JaguarFeather
+"""been""","Fort Stockton, TX, USA",JaguarFeather
+"""been""","Denton, TX, USA",JaguarFeather
+"""been""","Spring, TX, USA",JaguarFeather
+"""been""","Rogers, AR, USA",JaguarFeather
+"""been""","Lausanne, Switzerland",JaguarFeather
+"""been""","Reims, France",JaguarFeather
+"""been""","Why, AZ, USA",JaguarFeather
+"""been""","Monterey, CA, USA",JaguarFeather
+"""been""","Lee Vining, CA, USA",JaguarFeather
+"""been""","Pasadena, CA, USA",JaguarFeather
+"""been""","Bonn, Germany",JaguarFeather
+"""been""","Walburg, TX, USA",JaguarFeather
+"""been""","Pratt, KS, USA",JaguarFeather
+"""been""","Boerne, TX, USA",JaguarFeather
+"""been""","Friendswood, TX, USA",JaguarFeather
+"""been""","Stonewall, TX, USA",JaguarFeather
+"""been""","Waco, TX, USA",JaguarFeather
+"""been""","Fredericksburg, TX, USA",JaguarFeather
+"""been""","Paris, France",JaguarFeather
+"""been""","Hillsboro, TX, USA",JaguarFeather
+"""been""","Chamonix, France",JaguarFeather
+"""been""","Zurich, Switzerland",JaguarFeather
+"""been""","San Angelo, TX, USA",JaguarFeather
+"""been""","Koblenz, Germany",JaguarFeather
+"""been""","Brady, TX, USA",JaguarFeather
+"""been""","Galveston, TX, USA",JaguarFeather
+"""been""","Salado, TX, USA",JaguarFeather
+"""been""","Sugar Land, TX, USA",JaguarFeather
+"""been""","Oxnard, CA, USA",JaguarFeather
+"""been""","Milpitas, CA, USA",JaguarFeather
+"""been""","Mainz, Germany",JaguarFeather
+"""been""","Allegany, NY, USA",JaguarFeather
+"""been""","Las Vegas, NV, USA",JaguarFeather
+"""been""","San Marcos, TX, USA",JaguarFeather
+"""been""","Coleman, TX, USA",JaguarFeather
+"""been""","Sweetwater, TX, USA",JaguarFeather
+"""been""","College Station, TX, USA",JaguarFeather
+"""been""","Brenham, TX, USA",JaguarFeather
+"""been""","Dripping Springs, TX, USA",JaguarFeather
+"""been""","Visp, Switzerland",JaguarFeather
+"""been""","Sunrise Beach, TX, USA",JaguarFeather
+"""been""","Escalante, UT, USA",JaguarFeather
+"""been""","Georgetown, TX, USA",JaguarFeather
+"""been""","Cushing, OK, USA",JaguarFeather
+"""been""","Mansfield, MA, USA",JaguarFeather
+"""been""","Provincetown, MA, USA",JaguarFeather
+"""been""","Plymouth, MA, USA",JaguarFeather
+"""been""","Saint Louis, MO, USA",JaguarFeather
+"""been""","Wink, TX, USA",JaguarFeather
+"""been""","Euless, TX, USA",JaguarFeather
+"""been""","Enid, OK, USA",JaguarFeather
+"""been""","Tulsa, OK, USA",JaguarFeather
+"""been""","Maras, Peru",JaguarFeather
+"""been""","Pawhuska, OK, USA",JaguarFeather
+"""been""","Wimberley, TX, USA",JaguarFeather
+"""been""","Pawnee, OK, USA",JaguarFeather
+"""been""","Newport Beach, CA, USA",JaguarFeather
+"""been""","Grapevine, TX, USA",JaguarFeather
+"""been""","Salida, CO, USA",JaguarFeather
+"""been""","Ridgway, CO, USA",JaguarFeather
+"""been""","Arlington, VA, USA",JaguarFeather
+"""been""","Frankfurt, Germany",JaguarFeather
+"""been""","Puerto Barrios, Guatemala",JaguarFeather
+"""been""","Cusco, Peru",JaguarFeather
+"""been""","Prescott, AZ, USA",JaguarFeather
+"""been""","Iquitos, Peru",JaguarFeather
+"""been""","Los Angeles, CA, USA",JaguarFeather
+"""been""","Lima, Peru",JaguarFeather
+"""been""","Carlisle, UK",JaguarFeather
+"""been""","Tikal National Park, Guatemala",JaguarFeather
+"""been""","Charlotte, NC, USA",JaguarFeather
+"""been""","Chapel Hill, NC, USA",JaguarFeather
+"""been""","Las Cruces, NM, USA",JaguarFeather
+"""been""","Las Vegas, NM, USA",JaguarFeather
+"""been""","Salina, KS, USA",JaguarFeather
+"""been""","Broken Bow, OK, USA",JaguarFeather
+"""been""","Bocas Town, Panama",JaguarFeather
+"""been""","Winters, TX, USA",JaguarFeather
+"""been""","Lawton, OK, USA",JaguarFeather
+"""been""","Machu Picchu, Peru",JaguarFeather
+"""been""","Ollantaytambo, Peru",JaguarFeather
+"""been""","Bentonville, AR, USA",JaguarFeather
+"""been""","Phoenix, AZ, USA",JaguarFeather
+"""been""","Lincoln, NM, USA",JaguarFeather
+"""been""","Ponca City, OK, USA",JaguarFeather
+"""been""","Pisac, Peru",JaguarFeather
+"""been""","Long Beach, CA, USA",JaguarFeather
+"""been""","Alamosa, CO, USA",JaguarFeather
+"""been""","Folkston, GA, USA",JaguarFeather
+"""been""","Baton Rouge, LA, USA",JaguarFeather
+"""been""","Forest Hill, TX, USA",JaguarFeather
+"""been""","Kleine Scheidegg, Switzerland",JaguarFeather
+"""been""","Uvalde, TX, USA",JaguarFeather
+"""been""","Dallas, TX, USA",JaguarFeather
+"""been""","Prague, OK, USA",JaguarFeather
+"""been""","Pueblo, CO, USA",JaguarFeather
+"""been""","Lauterbrunnen, Switzerland",JaguarFeather
+"""been""","Boulder, UT, USA",JaguarFeather
+"""been""","Bluff, UT, USA",JaguarFeather
+"""been""","Del Valle, TX, USA",JaguarFeather
+"""been""","Blanding, UT, USA",JaguarFeather
+"""been""","Bicknell, UT, USA",JaguarFeather
+"""been""","Oahu, HI, USA",JaguarFeather
+"""been""","Winslow, AZ, USA",JaguarFeather
+"""been""","Stratford-upon-Avon, UK",JaguarFeather
+"""been""","Yuma, AZ, USA",JaguarFeather
+"""been""","Newcastle upon Tyne, UK",JaguarFeather

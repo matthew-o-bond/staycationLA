@@ -1,0 +1,464 @@
+tag,place,user
+"""been""","Phoenix, AZ, USA",DTM56
+"""been""","San Sebastian de la Gomera, Spain",DTM56
+"""been""","Aldeburgh, UK",DTM56
+"""been""","Bournemouth, UK",DTM56
+"""been""","Bury St. Edmunds, UK",DTM56
+"""been""","Lavenham, UK",DTM56
+"""been""","Long Beach, CA, USA",DTM56
+"""been""","Lacock, UK",DTM56
+"""been""","Nice, France",DTM56
+"""been""","Woodbridge, UK",DTM56
+"""been""","Gothenburg, Sweden",DTM56
+"""been""","Tenerife, Spain",DTM56
+"""been""","Hunningham, UK",DTM56
+"""been""","Baton Rouge, LA, USA",DTM56
+"""been""","Tudeley, UK",DTM56
+"""been""","Tunis, Tunisia",DTM56
+"""been""","Brancaster, UK",DTM56
+"""been""","Playa de Santiago, Spain",DTM56
+"""been""","Sudbury, UK",DTM56
+"""been""","Banbury, UK",DTM56
+"""been""","Hay-on-Wye, UK",DTM56
+"""been""","Oakham, UK",DTM56
+"""been""","Los Angeles, CA, USA",DTM56
+"""been""","Brighton, UK",DTM56
+"""been""","Chicago, IL, USA",DTM56
+"""been""","Lewes, UK",DTM56
+"""been""","Chinon, France",DTM56
+"""been""","Rye, UK",DTM56
+"""been""","Lido di Venezia, Italy",DTM56
+"""been""","Copenhagen, Denmark",DTM56
+"""been""","Stratford-upon-Avon, UK",DTM56
+"""been""","Claremont, South Africa",DTM56
+"""been""","Wittedrift, South Africa",DTM56
+"""been""","Melbourn, UK",DTM56
+"""been""","Las Vegas, NV, USA",DTM56
+"""been""","Bay Saint Louis, MS, USA",DTM56
+"""been""","Mondello, Italy",DTM56
+"""been""","Bramber, UK",DTM56
+"""been""","Hamburg, Germany",DTM56
+"""been""","Ghent, Belgium",DTM56
+"""been""","Melbourne, Australia",DTM56
+"""been""","Frankfurt, Germany",DTM56
+"""been""","Perth, Australia",DTM56
+"""been""","Swanbourne, UK",DTM56
+"""been""","Newlands, South Africa",DTM56
+"""been""","Koita, Greece",DTM56
+"""been""","Sao Paulo, Brazil",DTM56
+"""been""","Bedford, UK",DTM56
+"""been""","Arure, Spain",DTM56
+"""been""","Masham, UK",DTM56
+"""been""","Bath, UK",DTM56
+"""been""","Snettisham, UK",DTM56
+"""been""","Bruges, Belgium",DTM56
+"""been""","Brancaster Staithe, UK",DTM56
+"""been""","Burnham Market, UK",DTM56
+"""been""","Cannes, France",DTM56
+"""been""","Athens, Greece",DTM56
+"""been""","Dartmouth, UK",DTM56
+"""been""","Thornham, UK",DTM56
+"""been""","Frejus, France",DTM56
+"""been""","La Gomera, Spain",DTM56
+"""been""","Tenno, Italy",DTM56
+"""been""","Nashik, India",DTM56
+"""been""","Kingham, UK",DTM56
+"""been""","Plattekloof, South Africa",DTM56
+"""been"",""fave""","Natchez, MS, USA",DTM56
+"""been""","Shinjuku, Japan",DTM56
+"""been""","Rome, Italy",DTM56
+"""been""","Cordoba, Spain",DTM56
+"""been""","Bristol, UK",DTM56
+"""been""","Tivoli, Italy",DTM56
+"""been""","Stockholm, Sweden",DTM56
+"""been""","Norwich, UK",DTM56
+"""been""","Aylesbury, UK",DTM56
+"""been""","High Wycombe, UK",DTM56
+"""been""","Goudhurst, UK",DTM56
+"""been""","Brussels, Belgium",DTM56
+"""been""","Whitby, UK",DTM56
+"""been""","Cambridge, UK",DTM56
+"""been""","Murano, Italy",DTM56
+"""been""","Ely, UK",DTM56
+"""been""","Northampton, UK",DTM56
+"""been""","Munich, Germany",DTM56
+"""been""","Niagara Falls, Ontario, Canada",DTM56
+"""been""","Saint Francis Bay, South Africa",DTM56
+"""been""","Solitaire, Namibia",DTM56
+"""been""","Johannesburg, South Africa",DTM56
+"""been""","Belfast, UK",DTM56
+"""been""","Granada, Spain",DTM56
+"""been""","Jersey, UK",DTM56
+"""been""","Gytheio, Greece",DTM56
+"""been""","Tokyo, Japan",DTM56
+"""been""","North York Moors National Park, UK",DTM56
+"""been""","Orlando, FL, USA",DTM56
+"""been""","Seville, Spain",DTM56
+"""been""","Berlin, Germany",DTM56
+"""been""","Detroit, MI, USA",DTM56
+"""been""","Fontenay-aux-Roses, France",DTM56
+"""been""","Rio de Janeiro, Brazil",DTM56
+"""been""","Wakefield, UK",DTM56
+"""been""","Ipswich, UK",DTM56
+"""been""","Eastbourne, UK",DTM56
+"""been""","Noordhoek, South Africa",DTM56
+"""been""","Oudtshoorn, South Africa",DTM56
+"""been""","Merstham, UK",DTM56
+"""been""","Horringer, UK",DTM56
+"""been""","Palermo, Italy",DTM56
+"""been""","Knysna, South Africa",DTM56
+"""been""","Taormina, Italy",DTM56
+"""been""","George, South Africa",DTM56
+"""been""","Syracuse, Italy",DTM56
+"""been""","Hermanus, South Africa",DTM56
+"""been""","Constantia, South Africa",DTM56
+"""been""","Whitstable, UK",DTM56
+"""been""","Matera, Italy",DTM56
+"""been""","Florence, Italy",DTM56
+"""been""","Chawston, UK",DTM56
+"""been""","Vallehermoso, Spain",DTM56
+"""been""","Pisa, Italy",DTM56
+"""been""","Mykonos Town, Greece",DTM56
+"""been""","King's Lynn, UK",DTM56
+"""been""","Paarl, South Africa",DTM56
+"""been""","Bletchingley, UK",DTM56
+"""been""","Ambleside, UK",DTM56
+"""been""","Valencia, Spain",DTM56
+"""been""","Marrakech, Morocco",DTM56
+"""been""","Wiveton, UK",DTM56
+"""been""","Portland, OR, USA",DTM56
+"""been""","Trelleborg, Sweden",DTM56
+"""been""","Prudhoe Bay, AK, USA",DTM56
+"""been""","Wells-next-the-Sea, UK",DTM56
+"""been""","Sorrento, Italy",DTM56
+"""been""","Stellenbosch, South Africa",DTM56
+"""been""","Salerno, Italy",DTM56
+"""been""","Capri, Italy",DTM56
+"""been""","Pompeii, Italy",DTM56
+"""been""","Naples, Italy",DTM56
+"""been""","Lincoln, UK",DTM56
+"""been""","Liverpool, UK",DTM56
+"""been""","London, UK",DTM56
+"""been""","Antwerp, Belgium",DTM56
+"""been""","Manama, Bahrain",DTM56
+"""been""","Biloxi, MS, USA",DTM56
+"""been""","Plettenberg Bay, South Africa",DTM56
+"""been""","Woburn, UK",DTM56
+"""been""","Port Elizabeth, South Africa",DTM56
+"""been""","Riyadh, Saudi Arabia",DTM56
+"""been""","Simondium, South Africa",DTM56
+"""been""","Lambersart, France",DTM56
+"""been""","Huntsville, AL, USA",DTM56
+"""been""","Venice, Italy",DTM56
+"""been""","Verona, Italy",DTM56
+"""been""","Winster, UK",DTM56
+"""been""","Madrid, Spain",DTM56
+"""been""","Dunstable, UK",DTM56
+"""been""","Simon's Town, South Africa",DTM56
+"""been""","Helsinki, Finland",DTM56
+"""been""","Gallipoli, Italy",DTM56
+"""been""","Bangkok, Thailand",DTM56
+"""been""","Chattanooga, TN, USA",DTM56
+"""been""","Lichtenstein, Germany",DTM56
+"""been""","Nunnington, UK",DTM56
+"""been""","Alghero, Italy",DTM56
+"""been""","Metairie, LA, USA",DTM56
+"""been"",""fave""","Slidell, LA, USA",DTM56
+"""been""","Sassari, Italy",DTM56
+"""been""","Table Mountain National Park, South Africa",DTM56
+"""been""","Riviersonderend, South Africa",DTM56
+"""been""","Sicily, Italy",DTM56
+"""been""","Royal Tunbridge Wells, UK",DTM56
+"""been""","Catania, Italy",DTM56
+"""been""","Therfield, UK",DTM56
+"""been""","Vancouver, British Columbia, Canada",DTM56
+"""been""","Alberobello, Italy",DTM56
+"""been""","Diss, UK",DTM56
+"""been""","Darley Dale, UK",DTM56
+"""been""","Warwick, UK",DTM56
+"""been""","Birmingham, UK",DTM56
+"""been""","Edinburgh, UK",DTM56
+"""been""","Daylesford, UK",DTM56
+"""been""","Turin, Italy",DTM56
+"""been""","Windhoek, Namibia",DTM56
+"""been""","Milan, Italy",DTM56
+"""been""","Ashbourne, UK",DTM56
+"""been""","Minsk Mazowiecki, Poland",DTM56
+"""been""","Bolton Abbey, UK",DTM56
+"""been""","Gulfport, MS, USA",DTM56
+"""been""","Leeds, UK",DTM56
+"""been""","Glasgow, UK",DTM56
+"""been""","Avebury, UK",DTM56
+"""been""","Treviso, Italy",DTM56
+"""been""","Nature's Valley, South Africa",DTM56
+"""been""","Arrington, UK",DTM56
+"""been""","Brill, UK",DTM56
+"""been""","Brome, UK",DTM56
+"""been""","Kuala Lumpur, Malaysia",DTM56
+"""been""","Harpenden, UK",DTM56
+"""been""","Dunwich, UK",DTM56
+"""been""","Braies, Italy",DTM56
+"""been""","Sea Point, South Africa",DTM56
+"""been""","Calgary, Alberta, Canada",DTM56
+"""been""","Calatafimi-Segesta, Italy",DTM56
+"""been""","Dallas, TX, USA",DTM56
+"""been""","Morston, UK",DTM56
+"""been""","Orford, UK",DTM56
+"""been""","Orwell, UK",DTM56
+"""been""","Holt, UK",DTM56
+"""been""","Hunstanton, UK",DTM56
+"""been""","New Delhi, India",DTM56
+"""been""","Sandringham, UK",DTM56
+"""been""","Titchwell, UK",DTM56
+"""been""","Nagoya, Japan",DTM56
+"""been""","Mumbai, India",DTM56
+"""been""","Chennai (Madras), India",DTM56
+"""been""","Kolkata (Calcutta), India",DTM56
+"""been""","Armscote, UK",DTM56
+"""been""","Chatillon, France",DTM56
+"""been""","Harvey, LA, USA",DTM56
+"""been""","Charlotte, NC, USA",DTM56
+"""been""","Tokai, South Africa",DTM56
+"""been""","Picayune, MS, USA",DTM56
+"""been""","Swakopmund, Namibia",DTM56
+"""been""","Blickling, UK",DTM56
+"""been""","Walvis Bay, Namibia",DTM56
+"""been""","Letheringsett, UK",DTM56
+"""been""","Stanford, South Africa",DTM56
+"""been""","Havana, Cuba",DTM56
+"""been""","The Crags, South Africa",DTM56
+"""been""","Ischia, Italy",DTM56
+"""been""","Snape, UK",DTM56
+"""been""","Southwold, UK",DTM56
+"""been""","Thibodaux, LA, USA",DTM56
+"""been""","Kursk, Russia",DTM56
+"""been""","Iver Heath, UK",DTM56
+"""been""","Moscow, Russia",DTM56
+"""been""","Dublin, Ireland",DTM56
+"""been""","Old Hunstanton, UK",DTM56
+"""been""","Dun Laoghaire, Ireland",DTM56
+"""been""","Birgu (Vittoriosa), Malta",DTM56
+"""been""","Lucknow, India",DTM56
+"""been""","Santo Stefano di Sessanio, Italy",DTM56
+"""been""","Kwandwe Private Game Reserve, South Africa",DTM56
+"""been""","Itteringham, UK",DTM56
+"""been""","Philadelphia, PA, USA",DTM56
+"""been""","Rodmell, UK",DTM56
+"""been""","St. Lucia, Caribbean",DTM56
+"""been""","Bologna, Italy",DTM56
+"""been""","Wickham, UK",DTM56
+"""been""","Namib-Naukluft Park, Namibia",DTM56
+"""been""","St. Brelade, UK",DTM56
+"""been""","St. Aubin, UK",DTM56
+"""been""","Dyrham, UK",DTM56
+"""been""","Vueltas, Spain",DTM56
+"""been""","Calver, UK",DTM56
+"""been""","Madikwe Game Reserve, South Africa",DTM56
+"""been""","Atlanta, GA, USA",DTM56
+"""been""","Agrigento, Italy",DTM56
+"""been""","Seoul, South Korea",DTM56
+"""been""","Stanton, UK",DTM56
+"""been""","Beeley, UK",DTM56
+"""been""","St. Paul's Bay, Malta",DTM56
+"""been""","Temecula, CA, USA",DTM56
+"""been""","Lipari, Italy",DTM56
+"""been""","Kobe, Japan",DTM56
+"""been""","Shepreth, UK",DTM56
+"""been""","Kyoto, Japan",DTM56
+"""been""","Memphis, TN, USA",DTM56
+"""been""","Anchorage, AK, USA",DTM56
+"""been""","Lecce, Italy",DTM56
+"""been""","New York City, NY, USA",DTM56
+"""been""","Osaka, Japan",DTM56
+"""been""","Huntingdon, UK",DTM56
+"""been""","Bromeswell, UK",DTM56
+"""been""","Nafplio, Greece",DTM56
+"""been""","Lenno, Italy",DTM56
+"""been""","Clearwater, FL, USA",DTM56
+"""been""","Yorba Linda, CA, USA",DTM56
+"""been""","Stanhoe, UK",DTM56
+"""been""","Ringstead, UK",DTM56
+"""been""","Madingley, UK",DTM56
+"""been""","Riva Del Garda, Italy",DTM56
+"""been""","Abu Dhabi, United Arab Emirates",DTM56
+"""been""","Nieu-Bethesda, South Africa",DTM56
+"""been""","Doha, Qatar",DTM56
+"""been""","Vidago, Portugal",DTM56
+"""been""","Kirtlington, UK",DTM56
+"""been""","Maltahohe, Namibia",DTM56
+"""been""","Otranto, Italy",DTM56
+"""been""","Hawkedon, UK",DTM56
+"""been""","Monguelfo-Tesido, Italy",DTM56
+"""been""","Castellammare del Golfo, Italy",DTM56
+"""been""","West Drayton, UK",DTM56
+"""been""","Garda, Italy",DTM56
+"""been""","Shenzhen, China",DTM56
+"""been""","Singapore, Singapore",DTM56
+"""been""","Harkerville, South Africa",DTM56
+"""been""","Washington DC, DC, USA",DTM56
+"""been""","Pune, India",DTM56
+"""been""","Ruislip, UK",DTM56
+"""been""","Montreal, Quebec, Canada",DTM56
+"""been""","Quebec City, Quebec, Canada",DTM56
+"""been""","Porto, Portugal",DTM56
+"""been""","Stonedge, UK",DTM56
+"""been""","Virginia Beach, VA, USA",DTM56
+"""been""","Redhill, UK",DTM56
+"""been""","Saltford, UK",DTM56
+"""been""","Bakewell, UK",DTM56
+"""been""","Lisbon, Portugal",DTM56
+"""been""","Chesterfield, UK",DTM56
+"""been""","Great Massingham, UK",DTM56
+"""been""","Realmonte, Italy",DTM56
+"""been""","Heidelberg, South Africa",DTM56
+"""been""","Noto, Italy",DTM56
+"""been""","Tuxford, UK",DTM56
+"""been""","Dubrovnik, Croatia",DTM56
+"""been""","Ilkley, UK",DTM56
+"""been""","Andorra la Vella, Andorra",DTM56
+"""been""","Ragusa, Italy",DTM56
+"""been""","Riversdale, South Africa",DTM56
+"""been""","Waddesdon, UK",DTM56
+"""been""","Coimbatore, India",DTM56
+"""been""","Walmer Estate, South Africa",DTM56
+"""been""","Burnham Overy Staithe, UK",DTM56
+"""been""","Ripon, UK",DTM56
+"""been""","Westleton, UK",DTM56
+"""been""","Mariental, Namibia",DTM56
+"""been""","Horningsea, UK",DTM56
+"""been""","Cortina d'Ampezzo, Italy",DTM56
+"""been""","Valdez, AK, USA",DTM56
+"""been""","San Francisco, CA, USA",DTM56
+"""been""","Corona, CA, USA",DTM56
+"""been""","Saumur, France",DTM56
+"""been""","San Antonio, TX, USA",DTM56
+"""been""","Zagreb, Croatia",DTM56
+"""been""","Beijing, China",DTM56
+"""been""","Basel, Switzerland",DTM56
+"""been""","Riga, Latvia",DTM56
+"""been""","Clay Cross, UK",DTM56
+"""been""","Hong Kong, China",DTM56
+"""been""","Dubai, United Arab Emirates",DTM56
+"""been""","Tallinn, Estonia",DTM56
+"""been""","Luxembourg City, Luxembourg",DTM56
+"""been""","Oslo, Norway",DTM56
+"""been""","Muscat, Oman",DTM56
+"""been""","Miami, FL, USA",DTM56
+"""been""","Miami Beach, FL, USA",DTM56
+"""been""","Keurboomstrand, South Africa",DTM56
+"""been""","Matroosfontein, South Africa",DTM56
+"""been""","Marlow, UK",DTM56
+"""been""","Cape Town Central, South Africa",DTM56
+"""been""","Shanghai, China",DTM56
+"""been""","Camps Bay, South Africa",DTM56
+"""been""","Prague, Czech Republic",DTM56
+"""been""","Sedgefield, South Africa",DTM56
+"""been""","Swellendam, South Africa",DTM56
+"""been""","Franschhoek, South Africa",DTM56
+"""been""","Cefalu, Italy",DTM56
+"""been""","Hout Bay, South Africa",DTM56
+"""been""","Prince Albert, South Africa",DTM56
+"""been""","Green Point, South Africa",DTM56
+"""been""","Baltimore, MD, USA",DTM56
+"""been""","Bromley, UK",DTM56
+"""been""","Buenos Aires, Argentina",DTM56
+"""been""","Laguna Beach, CA, USA",DTM56
+"""been""","North Creake, UK",DTM56
+"""been""","Belgrade, Serbia",DTM56
+"""been""","Milton Keynes, UK",DTM56
+"""been""","Savannah, GA, USA",DTM56
+"""been""","Lille, France",DTM56
+"""been""","Kyiv (Kiev), Ukraine",DTM56
+"""been""","Covington, LA, USA",DTM56
+"""been""","Hemingford Grey, UK",DTM56
+"""been""","Odell, UK",DTM56
+"""been""","Burano, Italy",DTM56
+"""been""","Graaff-Reinet, South Africa",DTM56
+"""been""","Sydney, Australia",DTM56
+"""been""","Birchover, UK",DTM56
+"""been""","Anaheim, CA, USA",DTM56
+"""been""","Tropea, Italy",DTM56
+"""been""","Stuttgart, Germany",DTM56
+"""been""","Chaves, Portugal",DTM56
+"""been""","Amarante, Portugal",DTM56
+"""been""","Scilla, Italy",DTM56
+"""been""","Storms River, South Africa",DTM56
+"""been""","Manchester, UK",DTM56
+"""been""","Chipping Campden, UK",DTM56
+"""been""","Kuwait City, Kuwait",DTM56
+"""been""","Cayo Las Brujas, Cuba",DTM56
+"""been""","Frederiksberg, Denmark",DTM56
+"""been""","Bratislava, Slovakia",DTM56
+"""been""","Uxbridge, UK",DTM56
+"""been""","Bel Ombre, Africa",DTM56
+"""been""","Nashville, TN, USA",DTM56
+"""been""","Bressanone, Italy",DTM56
+"""been""","Panama City Beach, FL, USA",DTM56
+"""been""","Toronto, Ontario, Canada",DTM56
+"""been""","Brunico, Italy",DTM56
+"""been""","Bray on Thames, UK",DTM56
+"""been""","Seattle, WA, USA",DTM56
+"""been""","Salzburg, Austria",DTM56
+"""been""","Ladismith, South Africa",DTM56
+"""been""","Dobbiaco, Italy",DTM56
+"""been""","Malton, UK",DTM56
+"""been""","Dresden, Germany",DTM56
+"""been""","Budapest, Hungary",DTM56
+"""been""","Much Hadham, UK",DTM56
+"""been""","San Diego, CA, USA",DTM56
+"""been""","Framlingham, UK",DTM56
+"""been""","Summerstrand, South Africa",DTM56
+"""been""","Sesto, Italy",DTM56
+"""been""","Dereham, UK",DTM56
+"""been""","Boston, MA, USA",DTM56
+"""been""","Monemvasia, Greece",DTM56
+"""been""","New Orleans, LA, USA",DTM56
+"""been""","Richmond-upon-Thames, UK",DTM56
+"""been""","Vienna, Austria",DTM56
+"""been""","Wilderness, South Africa",DTM56
+"""been""","De Rust, South Africa",DTM56
+"""been""","Charlottesville, VA, USA",DTM56
+"""been""","Harrogate, UK",DTM56
+"""been""","Perca, Italy",DTM56
+"""been""","Hoedspruit, South Africa",DTM56
+"""been""","Ljubljana, Slovenia",DTM56
+"""been""","Stromboli, Italy",DTM56
+"""been""","Malcesine, Italy",DTM56
+"""been""","Valletta, Malta",DTM56
+"""been""","Baslow, UK",DTM56
+"""been""","Mdina, Malta",DTM56
+"""been""","Calitzdorp, South Africa",DTM56
+"""been""","Rabat, Malta",DTM56
+"""been""","Cologne, Germany",DTM56
+"""been""","Dusseldorf, Germany",DTM56
+"""been""","Marseille, France",DTM56
+"""been""","Charleston, SC, USA",DTM56
+"""been""","Moreton-in-Marsh, UK",DTM56
+"""been""","Barcelona, Spain",DTM56
+"""been""","Toulon, France",DTM56
+"""been""","Heacham, UK",DTM56
+"""been""","Bled, Slovenia",DTM56
+"""been""","Ostuni, Italy",DTM56
+"""been""","Flagstaff, AZ, USA",DTM56
+"""been""","Thorpe Market, UK",DTM56
+"""been""","Isola Vulcano, Italy",DTM56
+"""been""","Kingswood, UK",DTM56
+"""been""","Kingston upon Thames, UK",DTM56
+"""been""","Scopello, Italy",DTM56
+"""been""","Houston, TX, USA",DTM56
+"""been""","Upper Slaughter, UK",DTM56
+"""been""","Zurich, Switzerland",DTM56
+"""been""","Warsaw, Poland",DTM56
+"""been""","Cairo, Egypt",DTM56
+"""been""","Paris, France",DTM56
+"""been""","Pizzo, Italy",DTM56
+"""been""","Luxor, Egypt",DTM56
+"""been""","Aswan, Egypt",DTM56
+"""been""","Bridgnorth, UK",DTM56
+"""been""","Snowshill, UK",DTM56
+"""been""","Willowmore, South Africa",DTM56
+"""been""","Torcello, Italy",DTM56
+"""been""","Key West, FL, USA",DTM56
+"""been""","Stow-on-the-Wold, UK",DTM56
+"""been""","Amsterdam, The Netherlands",DTM56
+"""been""","Great Yarmouth, UK",DTM56

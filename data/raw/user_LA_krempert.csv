@@ -1,0 +1,531 @@
+tag,place,user
+"""been""","Phoenix, AZ, USA",krempert
+"""been""","Napa, CA, USA",krempert
+"""been"",""want""","Monte-Carlo, Monaco",krempert
+"""want""","South Lake Tahoe, CA, USA",krempert
+"""been""","Long Beach, CA, USA",krempert
+"""want""","Elounda, Greece",krempert
+"""been""","Gulf Shores, AL, USA",krempert
+"""want""","Costa Teguise, Spain",krempert
+"""want""","Playa d'en Bossa, Spain",krempert
+"""been"",""want""","Nice, France",krempert
+"""want""","Gothenburg, Sweden",krempert
+"""been""","Tunis, Tunisia",krempert
+"""been""","Avalon, CA, USA",krempert
+"""been""","Philo, CA, USA",krempert
+"""want""","Sacramento, CA, USA",krempert
+"""want""","Saint-Malo, France",krempert
+"""want""","Torquay, UK",krempert
+"""want""","Portland, OR, USA",krempert
+"""been""","Beaune, France",krempert
+"""been""","Bath, UK",krempert
+"""been""","Evansville, IN, USA",krempert
+"""want""","Bruges, Belgium",krempert
+"""want""","Cannes, France",krempert
+"""want""","Athens, Greece",krempert
+"""want""","Palma de Mallorca, Spain",krempert
+"""been""","Eze, France",krempert
+"""been""","St. Pete Beach, FL, USA",krempert
+"""want""","San Sebastian - Donostia, Spain",krempert
+"""been""","Frankfurt, Germany",krempert
+"""want""","Antibes, France",krempert
+"""been""","Fredericksburg, TX, USA",krempert
+"""been""","Arlington, VA, USA",krempert
+"""been""","Oxford, UK",krempert
+"""want""","Hamburg, Germany",krempert
+"""been""","Livade, Croatia",krempert
+"""want""","Avignon, France",krempert
+"""been""","Port Dickson, Malaysia",krempert
+"""been""","St. Petersburg, FL, USA",krempert
+"""been""","Milwaukee, WI, USA",krempert
+"""want""","Sao Paulo, Brazil",krempert
+"""want""","Ixtapa, Mexico",krempert
+"""want""","Rio de Janeiro, Brazil",krempert
+"""want""","Pismo Beach, CA, USA",krempert
+"""been""","Assos, Greece",krempert
+"""been""","Los Angeles, CA, USA",krempert
+"""been""","Chicago, IL, USA",krempert
+"""been""","Aspen, CO, USA",krempert
+"""been""","Galveston, TX, USA",krempert
+"""been"",""want""","Berlin, Germany",krempert
+"""want""","Icmeler, Turkey",krempert
+"""want""","Alvor, Portugal",krempert
+"""want""","San Jose, Costa Rica",krempert
+"""been"",""want""","Las Vegas, NV, USA",krempert
+"""want""","Johannesburg, South Africa",krempert
+"""been""","Salzburg, Austria",krempert
+"""want""","Kathmandu, Nepal",krempert
+"""want""","Seville, Spain",krempert
+"""want""","Rose Hall, Jamaica",krempert
+"""want""","Granada, Spain",krempert
+"""been""","Valletta, Malta",krempert
+"""been""","Mdina, Malta",krempert
+"""want""","Bratislava, Slovakia",krempert
+"""been""","Cephalonia, Greece",krempert
+"""been"",""want""","Carcassonne Center, France",krempert
+"""want""","Imerovigli, Greece",krempert
+"""want""","Legian, Indonesia",krempert
+"""want""","Montpellier, France",krempert
+"""been""","Collioure, France",krempert
+"""been""","Long Beach, MS, USA",krempert
+"""want""","Palm Springs, CA, USA",krempert
+"""want""","Port d'Alcudia, Spain",krempert
+"""want""","Sa Coma, Spain",krempert
+"""been""","Traverse City, MI, USA",krempert
+"""want""","Sydney, Australia",krempert
+"""been""","Fort Worth, TX, USA",krempert
+"""been"",""fave""","Paris, France",krempert
+"""want""","Cairns, Australia",krempert
+"""been""","Lexington, KY, USA",krempert
+"""want""","Brisbane, Australia",krempert
+"""want""","Lyon, France",krempert
+"""want""","Zurich, Switzerland",krempert
+"""want""","Rhodes Town, Greece",krempert
+"""been""","Portsmouth, UK",krempert
+"""want""","Corralejo, Spain",krempert
+"""been""","Cadaques, Spain",krempert
+"""been"",""want""","Amsterdam, The Netherlands",krempert
+"""want""","Ao Nang, Thailand",krempert
+"""want""","Bergen, Norway",krempert
+"""want""","Port Douglas, Australia",krempert
+"""want""","Midoun, Tunisia",krempert
+"""want""","Prague, Czech Republic",krempert
+"""want""","Monastir, Tunisia",krempert
+"""want""","Reims, France",krempert
+"""want""","Bandung, Indonesia",krempert
+"""want""","Lima, Peru",krempert
+"""want""","Cusco, Peru",krempert
+"""been"",""want""","Sanur, Indonesia",krempert
+"""want""","Salamanca, Spain",krempert
+"""want""","Cologne, Germany",krempert
+"""been""","Puerto Rico, Spain",krempert
+"""been"",""want""","Barcelona, Spain",krempert
+"""want""","Marseille, France",krempert
+"""been""","Maui, HI, USA",krempert
+"""want""","Tallinn, Estonia",krempert
+"""been""","Dallas, TX, USA",krempert
+"""want""","Patong, Thailand",krempert
+"""want""","Palmanova, Spain",krempert
+"""want""","Puerto de la Cruz, Spain",krempert
+"""want""","Saint-Tropez, France",krempert
+"""been""","Harleton, TX, USA",krempert
+"""been"",""want""","Copenhagen, Denmark",krempert
+"""want""","Wailea, HI, USA",krempert
+"""want""","Monterey, CA, USA",krempert
+"""want""","Port de Pollenca, Spain",krempert
+"""want""","Ottawa, Ontario, Canada",krempert
+"""been""","Atlantic City, NJ, USA",krempert
+"""been""","Oklahoma City, OK, USA",krempert
+"""been""","Motovun, Croatia",krempert
+"""want""","Riga, Latvia",krempert
+"""want""","Kemer, Turkey",krempert
+"""been""","Dubai, United Arab Emirates",krempert
+"""want""","Zagreb, Croatia",krempert
+"""been""","Beijing, China",krempert
+"""been""","Grand Prairie, TX, USA",krempert
+"""want""","Side, Turkey",krempert
+"""want""","Antalya, Turkey",krempert
+"""been""","Hong Kong, China",krempert
+"""want""","Bucharest, Romania",krempert
+"""want""","Alanya, Turkey",krempert
+"""been""","Shanghai, China",krempert
+"""been""","Pulau Mabul, Malaysia",krempert
+"""want""","Strasbourg, France",krempert
+"""want""","Bordeaux, France",krempert
+"""been""","Korcula Island, Croatia",krempert
+"""want""","Niagara Falls, NY, USA",krempert
+"""been"",""want""","Hvar, Croatia",krempert
+"""want""","Warsaw, Poland",krempert
+"""want""","Cairo, Egypt",krempert
+"""been""","Grapevine, TX, USA",krempert
+"""want""","Luxor, Egypt",krempert
+"""want""","Marsa Alam, Egypt",krempert
+"""been""","Civitavecchia, Italy",krempert
+"""want""","Hersonissos, Greece",krempert
+"""been""","Winnsboro, TX, USA",krempert
+"""been""","Cancun, Mexico",krempert
+"""want""","Positano, Italy",krempert
+"""want""","Mexico City, Mexico",krempert
+"""been""","Korcula Town, Croatia",krempert
+"""want""","La Fortuna de San Carlos, Costa Rica",krempert
+"""been""","Toronto, Ontario, Canada",krempert
+"""want""","Holguin, Cuba",krempert
+"""been""","Mendocino, CA, USA",krempert
+"""been""","Bengaluru, India",krempert
+"""been"",""want""","Charlotte, NC, USA",krempert
+"""want""","Nags Head, NC, USA",krempert
+"""been""","Bovec, Slovenia",krempert
+"""want""","Phuket Town, Thailand",krempert
+"""been""","Bohinjsko Jezero, Slovenia",krempert
+"""want""","Karon, Thailand",krempert
+"""been""","Bled, Slovenia",krempert
+"""want""","Buenos Aires, Argentina",krempert
+"""want""","Toulouse, France",krempert
+"""want""","Jackson, WY, USA",krempert
+"""want""","Lille, France",krempert
+"""been"",""fave""","Erice, Italy",krempert
+"""want""","Nuevo Vallarta, Mexico",krempert
+"""want""","Jakarta, Indonesia",krempert
+"""been""","Orange Beach, AL, USA",krempert
+"""want""","Park City, UT, USA",krempert
+"""been""","Grand Canyon National Park, AZ, USA",krempert
+"""want""","Kusadasi, Turkey",krempert
+"""want""","Oludeniz, Turkey",krempert
+"""want""","Cayo Largo, Cuba",krempert
+"""want""","Guardalavaca, Cuba",krempert
+"""been""","Denali National Park and Preserve, AK, USA",krempert
+"""been""","Corfu Town, Greece",krempert
+"""want""","Playa de Muro, Spain",krempert
+"""been""","Puchong, Malaysia",krempert
+"""want""","Freeport, Bahamas",krempert
+"""want""","Virginia Beach, VA, USA",krempert
+"""been""","Murano, Italy",krempert
+"""want""","Budapest, Hungary",krempert
+"""want""","Lancaster, PA, USA",krempert
+"""been""","Zion National Park, UT, USA",krempert
+"""want""","Vienna, Austria",krempert
+"""been""","Jamaica, Caribbean",krempert
+"""want""","Tropea, Italy",krempert
+"""been""","Washington DC, DC, USA",krempert
+"""been""","Indianapolis, IN, USA",krempert
+"""want""","Puerto de Santiago, Spain",krempert
+"""been""","Hollywood, FL, USA",krempert
+"""want""","Negril, Jamaica",krempert
+"""been"",""want""","Ocho Rios, Jamaica",krempert
+"""want""","Panama City, Panama",krempert
+"""want""","Runaway Bay, Jamaica",krempert
+"""want""","Krakow, Poland",krempert
+"""want""","El Gouna, Egypt",krempert
+"""been""","Cozumel, Mexico",krempert
+"""been""","Charlotte Amalie, U.S. Virgin Islands",krempert
+"""been""","St. Thomas, U.S. Virgin Islands",krempert
+"""want""","Tamarindo, Costa Rica",krempert
+"""want""","Lucerne, Switzerland",krempert
+"""been""","Volterra, Italy",krempert
+"""want""","Lisbon, Portugal",krempert
+"""want""","Playa del Carmen, Mexico",krempert
+"""been""","Tulum, Mexico",krempert
+"""been""","Luxembourg City, Luxembourg",krempert
+"""been""","Point Arena, CA, USA",krempert
+"""want""","Oslo, Norway",krempert
+"""want""","Montepulciano, Italy",krempert
+"""been""","Montreal, Quebec, Canada",krempert
+"""want""","Quebec City, Quebec, Canada",krempert
+"""been""","Cruz Bay, U.S. Virgin Islands",krempert
+"""been"",""want""","St. Petersburg, Russia",krempert
+"""want""","Big Sur, CA, USA",krempert
+"""been""","Singapore, Singapore",krempert
+"""want""","Cape Town Central, South Africa",krempert
+"""been""","Virgin Islands National Park, U.S. Virgin Islands",krempert
+"""been""","Nassau, Bahamas",krempert
+"""want""","Orvieto, Italy",krempert
+"""been""","Paradise Island, Bahamas",krempert
+"""want""","Castellina In Chianti, Italy",krempert
+"""want""","Nerja, Spain",krempert
+"""want""","Adeje, Spain",krempert
+"""want""","Geneva, Switzerland",krempert
+"""been""","Bernard, ME, USA",krempert
+"""want""","Denarau Island, Fiji",krempert
+"""been""","Portland, ME, USA",krempert
+"""want""","Gros Islet, St. Lucia",krempert
+"""been""","Santa Monica, CA, USA",krempert
+"""been""","Clearwater, FL, USA",krempert
+"""want""","Castries, St. Lucia",krempert
+"""been""","St Martin \u002F St Maarten, Caribbean",krempert
+"""been""","Soufriere, St. Lucia",krempert
+"""been""","Santa Rosa, CA, USA",krempert
+"""been""","Cocoa Beach, FL, USA",krempert
+"""been""","Philipsburg, St Martin \u002F St Maarten",krempert
+"""want""","Ankara, Turkey",krempert
+"""been""","Kotor, Montenegro",krempert
+"""been""","Karnack, TX, USA",krempert
+"""been""","Philadelphia, PA, USA",krempert
+"""want""","West Yellowstone, MT, USA",krempert
+"""want""","Assisi, Italy",krempert
+"""been""","Santa Cruz, CA, USA",krempert
+"""been""","Paleokastritsa, Greece",krempert
+"""been""","Grand Case, St Martin \u002F St Maarten",krempert
+"""been"",""want""","San Gimignano, Italy",krempert
+"""been"",""want""","Siena, Italy",krempert
+"""been""","Santa Barbara, CA, USA",krempert
+"""want""","Taba, Egypt",krempert
+"""want""","Makadi Bay, Egypt",krempert
+"""want""","Mont-Saint-Michel, France",krempert
+"""been""","Split, Croatia",krempert
+"""been"",""want""","Dubrovnik, Croatia",krempert
+"""want""","Manhattan, MT, USA",krempert
+"""want""","Calas de Majorca, Spain",krempert
+"""been""","Atlanta, GA, USA",krempert
+"""been""","Irving, TX, USA",krempert
+"""been""","San Juan, Puerto Rico",krempert
+"""want""","Macau, China",krempert
+"""been""","Daytona Beach, FL, USA",krempert
+"""been""","Seoul, South Korea",krempert
+"""want""","Protaras, Cyprus",krempert
+"""been""","Memphis, TN, USA",krempert
+"""been""","Louisville, KY, USA",krempert
+"""been""","Jefferson, TX, USA",krempert
+"""want""","Kota Kinabalu, Malaysia",krempert
+"""been""","Cortez, FL, USA",krempert
+"""been""","Bathsheba, Barbados",krempert
+"""been""","Longboat Key, FL, USA",krempert
+"""want""","Kuta, Indonesia",krempert
+"""want""","Hounslow, UK",krempert
+"""been""","Madrid, NM, USA",krempert
+"""want""","Porto, Portugal",krempert
+"""been""","Bradenton, FL, USA",krempert
+"""been""","Taos, NM, USA",krempert
+"""been""","Seattle, WA, USA",krempert
+"""been""","Fort Lauderdale, FL, USA",krempert
+"""want""","Lahaina, HI, USA",krempert
+"""want""","Naples, FL, USA",krempert
+"""been""","Fox, AK, USA",krempert
+"""been""","Wailuku, HI, USA",krempert
+"""been""","Bridgetown, Barbados",krempert
+"""want""","Como, Italy",krempert
+"""want""","Belek, Turkey",krempert
+"""been"",""fave""","Key West, FL, USA",krempert
+"""been"",""fave""","Kralendijk, Bonaire",krempert
+"""want""","Williamsburg, VA, USA",krempert
+"""want""","Bellagio, Italy",krempert
+"""been""","Manila, Philippines",krempert
+"""want""","Jasper, Alberta, Canada",krempert
+"""been"",""fave""","Kuala Lumpur, Malaysia",krempert
+"""been""","Lake Louise, Alberta, Canada",krempert
+"""been""","Calgary, Alberta, Canada",krempert
+"""been""","Semur-en-Auxois, France",krempert
+"""been""","Banff, Alberta, Canada",krempert
+"""want""","Kihei, HI, USA",krempert
+"""want""","Mazatlan, Mexico",krempert
+"""been""","Seward, AK, USA",krempert
+"""want""","Puerto Vallarta, Mexico",krempert
+"""want""","Kailua-Kona, HI, USA",krempert
+"""been""","San Diego, CA, USA",krempert
+"""been""","Wisconsin Dells, WI, USA",krempert
+"""want""","Havana, Cuba",krempert
+"""want""","Charlottesville, VA, USA",krempert
+"""been""","Cockburn Town, Turks and Caicos",krempert
+"""want""","Monterosso al Mare, Italy",krempert
+"""been""","Treasure Island, FL, USA",krempert
+"""been""","Grand Turk, Turks and Caicos",krempert
+"""been""","Riomaggiore, Italy",krempert
+"""been""","Willemstad, Curacao",krempert
+"""been""","La Spezia, Italy",krempert
+"""been""","Portofino, Italy",krempert
+"""been""","Osaka, Japan",krempert
+"""been""","Vernazza, Italy",krempert
+"""been""","Jastrebarsko, Croatia",krempert
+"""been""","Colorado Springs, CO, USA",krempert
+"""want""","Genoa, Italy",krempert
+"""been""","Kobe, Japan",krempert
+"""want""","Cartagena, Colombia",krempert
+"""been""","Kyoto, Japan",krempert
+"""want""","Sapporo, Japan",krempert
+"""want""","Anchorage, AK, USA",krempert
+"""been""","New York City, NY, USA",krempert
+"""want""","Playa Mujeres, Mexico",krempert
+"""been""","Hot Springs, AR, USA",krempert
+"""been""","Port Aransas, TX, USA",krempert
+"""been"",""want""","Dublin, Ireland",krempert
+"""been""","Corniglia, Italy",krempert
+"""been""","Madison, WI, USA",krempert
+"""want""","Galway, Ireland",krempert
+"""want""","Kapaa, HI, USA",krempert
+"""been""","New Braunfels, TX, USA",krempert
+"""been"",""want""","Charleston, SC, USA",krempert
+"""been""","Manarola, Italy",krempert
+"""been""","Newport, RI, USA",krempert
+"""been""","St. John's, Antigua and Barbuda",krempert
+"""been"",""want""","San Pedro, Belize",krempert
+"""want""","Seven Mile Beach, Cayman Islands",krempert
+"""been""","Palm - Eagle Beach, Aruba",krempert
+"""been""","Durango, CO, USA",krempert
+"""been""","Oranjestad, Aruba",krempert
+"""been""","Beverly Hills, CA, USA",krempert
+"""been""","Pigeon Forge, TN, USA",krempert
+"""been""","Flagstaff, AZ, USA",krempert
+"""want""","Poipu, HI, USA",krempert
+"""been""","Houston, TX, USA",krempert
+"""been""","Boston, MA, USA",krempert
+"""want""","Soller, Spain",krempert
+"""been""","San Luis Obispo, CA, USA",krempert
+"""want""","St. Augustine, FL, USA",krempert
+"""been"",""fave""","New Orleans, LA, USA",krempert
+"""been""","Branson, MO, USA",krempert
+"""been""","Carmel, CA, USA",krempert
+"""been""","San Jose, CA, USA",krempert
+"""been""","Fort Myers, FL, USA",krempert
+"""been""","Carlsbad, CA, USA",krempert
+"""been"",""fave""","Fort Myers Beach, FL, USA",krempert
+"""been""","Kissimmee, FL, USA",krempert
+"""been""","Nevis, St. Kitts and Nevis",krempert
+"""been""","Fort Walton Beach, FL, USA",krempert
+"""been""","Denver, CO, USA",krempert
+"""been""","Charlestown, St. Kitts and Nevis",krempert
+"""been""","Pottsboro, TX, USA",krempert
+"""want""","Bologna, Italy",krempert
+"""want""","Lindos, Greece",krempert
+"""want""","Huatulco, Mexico",krempert
+"""been""","Cebu City, Philippines",krempert
+"""want""","Acapulco, Mexico",krempert
+"""been""","Asheville, NC, USA",krempert
+"""want""","Honolulu, HI, USA",krempert
+"""want""","Ayia Napa, Cyprus",krempert
+"""been""","San Francisco, CA, USA",krempert
+"""want""","Hanoi, Vietnam",krempert
+"""been""","Albion, CA, USA",krempert
+"""been""","Silver City, NM, USA",krempert
+"""been""","Santa Fe, NM, USA",krempert
+"""been""","San Antonio, TX, USA",krempert
+"""want""","Ho Chi Minh City, Vietnam",krempert
+"""been""","Healdsburg, CA, USA",krempert
+"""been""","Arlington, TX, USA",krempert
+"""been""","Pittsburg, TX, USA",krempert
+"""been""","Panama City Beach, FL, USA",krempert
+"""want""","Madrid, Spain",krempert
+"""been"",""want""","Helsinki, Finland",krempert
+"""been""","Saline di Volterra, Italy",krempert
+"""want""","Verona, Italy",krempert
+"""want""","Alicante, Spain",krempert
+"""want""","Venice, Italy",krempert
+"""want""","El Arenal, Spain",krempert
+"""want""","Pattaya, Thailand",krempert
+"""been""","Avon, CO, USA",krempert
+"""been""","Tucson, AZ, USA",krempert
+"""been""","Taipei, Taiwan",krempert
+"""been""","Plano, TX, USA",krempert
+"""been""","Gatlinburg, TN, USA",krempert
+"""want""","Chiang Mai, Thailand",krempert
+"""want""","Bangkok, Thailand",krempert
+"""been""","Breckenridge, CO, USA",krempert
+"""been""","Greve in Chianti, Italy",krempert
+"""want""","Glasgow, UK",krempert
+"""want""","Moscow, Russia",krempert
+"""been""","Melaka, Malaysia",krempert
+"""want""","Siem Reap, Cambodia",krempert
+"""been""","Albuquerque, NM, USA",krempert
+"""want""","North Myrtle Beach, SC, USA",krempert
+"""been""","Roseau, Dominica",krempert
+"""want""","Savannah, GA, USA",krempert
+"""been""","Anaheim, CA, USA",krempert
+"""been""","Nashville, TN, USA",krempert
+"""want""","Santo Domingo, Dominican Republic",krempert
+"""want""","Edinburgh, UK",krempert
+"""want""","Turin, Italy",krempert
+"""want""","Phnom Penh, Cambodia",krempert
+"""want""","Marne-la-Vallee, France",krempert
+"""want""","Fethiye, Turkey",krempert
+"""want""","Cabo San Lucas, Mexico",krempert
+"""been""","Tampa, FL, USA",krempert
+"""want""","Puerto Plata, Dominican Republic",krempert
+"""want""","Milan, Italy",krempert
+"""been""","Brooklyn, NY, USA",krempert
+"""been""","Fairbanks, AK, USA",krempert
+"""want""","Punta Cana, Dominican Republic",krempert
+"""been""","Sonoma, CA, USA",krempert
+"""been""","Miami, FL, USA",krempert
+"""been""","Providence, RI, USA",krempert
+"""been""","Estes Park, CO, USA",krempert
+"""been""","Miami Beach, FL, USA",krempert
+"""been""","Pensacola, FL, USA",krempert
+"""want""","Bar Harbor, ME, USA",krempert
+"""been""","Coronado, CA, USA",krempert
+"""been""","Austin, TX, USA",krempert
+"""want""","Playa del Ingles, Spain",krempert
+"""want""","Whistler, British Columbia, Canada",krempert
+"""been"",""fave""","Victoria, British Columbia, Canada",krempert
+"""want""","Salou, Spain",krempert
+"""been""","Vancouver, British Columbia, Canada",krempert
+"""want""","Tofino, British Columbia, Canada",krempert
+"""been""","Mount Pleasant, SC, USA",krempert
+"""been""","Marble, CO, USA",krempert
+"""been""","Steamboat Springs, CO, USA",krempert
+"""been""","Richardson, TX, USA",krempert
+"""been""","Sevierville, TN, USA",krempert
+"""want""","Myrtle Beach, SC, USA",krempert
+"""want""","Caleta de Fuste, Spain",krempert
+"""want""","Cambridge, UK",krempert
+"""want""","Brussels, Belgium",krempert
+"""want""","Marbella, Spain",krempert
+"""been""","Northampton, UK",krempert
+"""been""","Scottsdale, AZ, USA",krempert
+"""been""","Addison, TX, USA",krempert
+"""been""","Marina del Rey, CA, USA",krempert
+"""been""","Castiglion Fiorentino, Italy",krempert
+"""been""","Sedona, AZ, USA",krempert
+"""want""","Malaga, Spain",krempert
+"""been""","Rome, Italy",krempert
+"""want""","Cardiff, UK",krempert
+"""been""","Bristol, UK",krempert
+"""want""","Cadiz, Spain",krempert
+"""been"",""want""","Stockholm, Sweden",krempert
+"""been""","Yokohama, Japan",krempert
+"""want""","Reykjavik, Iceland",krempert
+"""want""","Cordoba, Spain",krempert
+"""want""","Norwich, UK",krempert
+"""been""","Nuremberg, Germany",krempert
+"""want""","Niagara Falls, Ontario, Canada",krempert
+"""want""","Reno, NV, USA",krempert
+"""want""","Playa Blanca, Spain",krempert
+"""want""","San Vito lo Capo, Italy",krempert
+"""been""","Salt Lake City, UT, USA",krempert
+"""been""","Birmingham, AL, USA",krempert
+"""been""","Anna Maria, FL, USA",krempert
+"""been""","Mount Vernon, VA, USA",krempert
+"""want""","Cala Millor, Spain",krempert
+"""been""","Munich, Germany",krempert
+"""been""","West Palm Beach, FL, USA",krempert
+"""been""","Malibu, CA, USA",krempert
+"""want""","Ca'n Picafort, Spain",krempert
+"""want""","Melbourne, Australia",krempert
+"""want""","Naples, Italy",krempert
+"""been""","Corpus Christi, TX, USA",krempert
+"""want""","Vilamoura, Portugal",krempert
+"""been""","Eureka Springs, AR, USA",krempert
+"""been""","London, UK",krempert
+"""want""","Liverpool, UK",krempert
+"""want""","Perth, Australia",krempert
+"""want""","Antwerp, Belgium",krempert
+"""been""","Biloxi, MS, USA",krempert
+"""want""","Amalfi, Italy",krempert
+"""want""","Auckland Central, New Zealand",krempert
+"""been""","Kansas City, MO, USA",krempert
+"""want""","Windermere, UK",krempert
+"""want""","Capri, Italy",krempert
+"""been"",""fave""","Langkawi, Malaysia",krempert
+"""want""","Blackpool, UK",krempert
+"""want""","Sorrento, Italy",krempert
+"""been""","Sarasota, FL, USA",krempert
+"""want""","Cala d'Or, Spain",krempert
+"""been""","Elk, CA, USA",krempert
+"""been""","Vail, CO, USA",krempert
+"""been""","Livorno, Italy",krempert
+"""want""","Rotorua, New Zealand",krempert
+"""want""","Lucca, Italy",krempert
+"""been"",""want""","Florence, Italy",krempert
+"""want""","Maspalomas, Spain",krempert
+"""want""","Bayahibe, Dominican Republic",krempert
+"""want""","Pisa, Italy",krempert
+"""been""","Gualala, CA, USA",krempert
+"""want""","Jerusalem, Israel",krempert
+"""been"",""want""","Palermo, Italy",krempert
+"""been"",""fave""","Cortona, Italy",krempert
+"""been"",""want""","Taormina, Italy",krempert
+"""want""","Lucea, Jamaica",krempert
+"""want""","Halifax, Nova Scotia, Canada",krempert
+"""want""","Kata Beach, Thailand",krempert
+"""want""","Tangier, Morocco",krempert
+"""been""","La Jolla, CA, USA",krempert
+"""want""","Valencia, Spain",krempert
+"""want""","Marrakech, Morocco",krempert
+"""been""","Siesta Key, FL, USA",krempert
+"""been""","Orlando, FL, USA",krempert
+"""want""","Queenstown, New Zealand",krempert
+"""been""","Yountville, CA, USA",krempert
+"""want""","Casablanca, Morocco",krempert
+"""want""","Istanbul, Turkey",krempert
+"""want""","Agadir, Morocco",krempert
+"""want""","Benidorm, Spain",krempert
+"""want""","Catania, Italy",krempert
+"""been""","Tokyo, Japan",krempert
+"""want""","Sant Antoni de Portmany, Spain",krempert

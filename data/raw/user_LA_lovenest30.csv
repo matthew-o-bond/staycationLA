@@ -1,0 +1,589 @@
+tag,place,user
+"""want""","Granada, Spain",lovenest30
+"""want""","Torremolinos, Spain",lovenest30
+"""want""","Belfast, UK",lovenest30
+"""want""","Johannesburg, South Africa",lovenest30
+"""want""","Casablanca, Morocco",lovenest30
+"""want""","Istanbul, Turkey",lovenest30
+"""want""","Lauderdale-By-The-Sea, FL, USA",lovenest30
+"""want""","Fes, Morocco",lovenest30
+"""want""","Marrakech, Morocco",lovenest30
+"""been"",""want"",""fave""","Santa Monica, CA, USA",lovenest30
+"""want""","Tangier, Morocco",lovenest30
+"""want""","Santa Cruz, CA, USA",lovenest30
+"""want""","Escazu, Costa Rica",lovenest30
+"""want""","Rio de Janeiro, Brazil",lovenest30
+"""want""","Hanmer Springs, New Zealand",lovenest30
+"""want""","Santa Barbara, CA, USA",lovenest30
+"""want""","San Jose, Costa Rica",lovenest30
+"""want""","Kefalos, Greece",lovenest30
+"""want""","Tokyo, Japan",lovenest30
+"""want""","Seville, Spain",lovenest30
+"""want""","Huelva, Spain",lovenest30
+"""want""","Tremezzina, Italy",lovenest30
+"""want""","Vatican City, Vatican City",lovenest30
+"""want""","Stockholm, Sweden",lovenest30
+"""want""","Rome, Italy",lovenest30
+"""want""","Islamabad, Pakistan",lovenest30
+"""want""","Colombo, Sri Lanka",lovenest30
+"""been""","Gawler, Australia",lovenest30
+"""been"",""want"",""fave""","Beverly Hills, CA, USA",lovenest30
+"""want""","Nabq Bay, Egypt",lovenest30
+"""want""","Marbella, Spain",lovenest30
+"""want""","Malaga, Spain",lovenest30
+"""want""","Yokohama, Japan",lovenest30
+"""want""","Kawasaki, Japan",lovenest30
+"""want""","Regensburg, Germany",lovenest30
+"""want""","Nuremberg, Germany",lovenest30
+"""want""","Palma de Mallorca, Spain",lovenest30
+"""want""","Cannes, France",lovenest30
+"""want""","Kassel, Germany",lovenest30
+"""want""","Athens, Greece",lovenest30
+"""want""","Stavanger, Norway",lovenest30
+"""want""","Piraeus, Greece",lovenest30
+"""want""","Dakar, Senegal",lovenest30
+"""want""","Delphi, Greece",lovenest30
+"""been""","Wellington, New Zealand",lovenest30
+"""been""","Tauranga, New Zealand",lovenest30
+"""been""","Blenheim, New Zealand",lovenest30
+"""want""","El Paso, TX, USA",lovenest30
+"""want""","Ulaanbaatar, Mongolia",lovenest30
+"""want""","Dunedin, New Zealand",lovenest30
+"""been""","Christchurch, New Zealand",lovenest30
+"""want""","Munnar, India",lovenest30
+"""been"",""want"",""fave""","New York City, NY, USA",lovenest30
+"""been""","Rotorua, New Zealand",lovenest30
+"""want""","Anchorage, AK, USA",lovenest30
+"""been""","Paihia, New Zealand",lovenest30
+"""been""","Taupo, New Zealand",lovenest30
+"""want""","Beaune, France",lovenest30
+"""been""","New Plymouth, New Zealand",lovenest30
+"""want""","Bruges, Belgium",lovenest30
+"""want""","Ruedesheim am Rhein, Germany",lovenest30
+"""want""","Rhodes Town, Greece",lovenest30
+"""want""","Kalamaki, Greece",lovenest30
+"""want""","Ialyssos, Greece",lovenest30
+"""want""","Durban, South Africa",lovenest30
+"""want""","Hamburg, Germany",lovenest30
+"""want""","Playa d'en Bossa, Spain",lovenest30
+"""want""","Adamas, Greece",lovenest30
+"""been""","Legian, Indonesia",lovenest30
+"""want""","Cala Blanca, Spain",lovenest30
+"""want""","Bergen, Norway",lovenest30
+"""want""","Phnom Penh, Cambodia",lovenest30
+"""want""","Perth, Australia",lovenest30
+"""been""","McLaren Vale, Australia",lovenest30
+"""want""","Sao Paulo, Brazil",lovenest30
+"""been""","Auckland Central, New Zealand",lovenest30
+"""been""","Waitakere City, New Zealand",lovenest30
+"""been""","Hamilton, New Zealand",lovenest30
+"""been""","Mangere, New Zealand",lovenest30
+"""want""","Willingen, Germany",lovenest30
+"""been"",""fave""","Melbourne, Australia",lovenest30
+"""want""","Aracaju, Brazil",lovenest30
+"""want""","Broome, Australia",lovenest30
+"""want""","Antibes, France",lovenest30
+"""want""","Frankfurt, Germany",lovenest30
+"""want""","San Sebastian - Donostia, Spain",lovenest30
+"""want""","Aberdeen, UK",lovenest30
+"""want""","Bilbao, Spain",lovenest30
+"""want""","Avignon, France",lovenest30
+"""want""","Pretoria, South Africa",lovenest30
+"""want""","Panormos, Greece",lovenest30
+"""want""","Saint-Tropez, France",lovenest30
+"""want""","Great Falls, MT, USA",lovenest30
+"""want""","Puerto de la Cruz, Spain",lovenest30
+"""want""","Porters, Barbados",lovenest30
+"""want""","Yerevan, Armenia",lovenest30
+"""want""","Dhaka City, Bangladesh",lovenest30
+"""want""","Antananarivo, Madagascar",lovenest30
+"""want""","Hollywood, FL, USA",lovenest30
+"""want""","Monte-Carlo, Monaco",lovenest30
+"""want""","Toledo, Spain",lovenest30
+"""want""","Copenhagen, Denmark",lovenest30
+"""want""","Dijon, France",lovenest30
+"""want""","Hannover, Germany",lovenest30
+"""been""","Broadbeach, Australia",lovenest30
+"""want""","Daytona Beach, FL, USA",lovenest30
+"""want""","Halong Bay, Vietnam",lovenest30
+"""want""","Hanoi, Vietnam",lovenest30
+"""want""","Ho Chi Minh City, Vietnam",lovenest30
+"""want""","Hue, Vietnam",lovenest30
+"""want""","Bangkok, Thailand",lovenest30
+"""want""","Chiang Mai, Thailand",lovenest30
+"""been""","Warkworth, New Zealand",lovenest30
+"""want""","Gramado, Brazil",lovenest30
+"""want""","Vladivostok, Russia",lovenest30
+"""want""","Nice, France",lovenest30
+"""want""","Gothenburg, Sweden",lovenest30
+"""want""","Magadan, Russia",lovenest30
+"""want""","Lyon, France",lovenest30
+"""want""","Zurich, Switzerland",lovenest30
+"""want""","Enniskillen, UK",lovenest30
+"""want""","Sendai, Japan",lovenest30
+"""want""","Cienfuegos, Cuba",lovenest30
+"""want""","Brasilia, Brazil",lovenest30
+"""want""","Huangshan, China",lovenest30
+"""want""","Taipei, Taiwan",lovenest30
+"""been""","Russell, New Zealand",lovenest30
+"""want""","Konstanz, Germany",lovenest30
+"""been""","Lyndoch, Australia",lovenest30
+"""want""","Amsterdam, The Netherlands",lovenest30
+"""want""","Santo Domingo, Dominican Republic",lovenest30
+"""been""","Versailles, France",lovenest30
+"""want""","Haarlem, The Netherlands",lovenest30
+"""been"",""fave""","Paris, France",lovenest30
+"""want""","Moscow, Russia",lovenest30
+"""been"",""want""","Bronx, NY, USA",lovenest30
+"""want""","Valladolid, Spain",lovenest30
+"""want""","Marseille, France",lovenest30
+"""want""","Dusseldorf, Germany",lovenest30
+"""want""","Salamanca, Spain",lovenest30
+"""want""","Dortmund, Germany",lovenest30
+"""want""","Leon, Spain",lovenest30
+"""want""","Cologne, Germany",lovenest30
+"""want""","Bonn, Germany",lovenest30
+"""want""","Matsumoto, Japan",lovenest30
+"""want""","San Pedro, Belize",lovenest30
+"""want""","Spa, Belgium",lovenest30
+"""want""","Havana, Cuba",lovenest30
+"""want""","Tianjin, China",lovenest30
+"""want""","Naoussa, Greece",lovenest30
+"""been""","Reims, France",lovenest30
+"""want""","Puerto Rico, Spain",lovenest30
+"""been""","Epernay, France",lovenest30
+"""want""","Saint-Remy-de-Provence, France",lovenest30
+"""want""","Santiago de Cuba, Cuba",lovenest30
+"""want""","Barcelona, Spain",lovenest30
+"""want""","Heidelberg, Germany",lovenest30
+"""want""","Vienna, Austria",lovenest30
+"""want""","Ushuaia, Argentina",lovenest30
+"""want""","Nagoya, Japan",lovenest30
+"""been"",""want"",""fave""","Brooklyn, NY, USA",lovenest30
+"""want""","Fairbanks, AK, USA",lovenest30
+"""want""","Mae Nam, Thailand",lovenest30
+"""want""","Dominical, Costa Rica",lovenest30
+"""want""","Esmeraldas, Ecuador",lovenest30
+"""want""","Innsbruck, Austria",lovenest30
+"""want""","Montpellier, France",lovenest30
+"""want""","Sliema, Malta",lovenest30
+"""want""","Palmanova, Spain",lovenest30
+"""want""","Valletta, Malta",lovenest30
+"""want""","Hjorring, Denmark",lovenest30
+"""want""","Maracaibo, Venezuela",lovenest30
+"""want""","Bruhl, Germany",lovenest30
+"""want""","Mykonos Town, Greece",lovenest30
+"""been""","Marananga, Australia",lovenest30
+"""want""","Mt. Cook Village, New Zealand",lovenest30
+"""want""","San Francisco, CA, USA",lovenest30
+"""want""","Salzburg, Austria",lovenest30
+"""want""","Kuala Lumpur, Malaysia",lovenest30
+"""want""","Troulos, Greece",lovenest30
+"""want""","Laguna Beach, CA, USA",lovenest30
+"""want""","Manila, Philippines",lovenest30
+"""want""","Baden-Baden, Germany",lovenest30
+"""want""","Dresden, Germany",lovenest30
+"""want""","Victoria, Seychelles",lovenest30
+"""want""","Luxembourg City, Luxembourg",lovenest30
+"""want""","Osaka, Japan",lovenest30
+"""want""","Trujillo, Peru",lovenest30
+"""want""","Tromso, Norway",lovenest30
+"""want""","Cartagena, Colombia",lovenest30
+"""want""","Kyoto, Japan",lovenest30
+"""want""","Fukuoka, Japan",lovenest30
+"""want""","Palm - Eagle Beach, Aruba",lovenest30
+"""want""","Caen, France",lovenest30
+"""want""","Oslo, Norway",lovenest30
+"""want""","Sapa, Vietnam",lovenest30
+"""want""","Oranjestad, Aruba",lovenest30
+"""want""","Nagasaki, Japan",lovenest30
+"""want""","Santa Cruz, Portugal",lovenest30
+"""want""","Fox Glacier, New Zealand",lovenest30
+"""want""","Hyde Park, NY, USA",lovenest30
+"""want""","Alajuela, Costa Rica",lovenest30
+"""want""","Austin, TX, USA",lovenest30
+"""want""","Franz Josef, New Zealand",lovenest30
+"""want""","Nuevo Vallarta, Mexico",lovenest30
+"""want""","Frascati, Italy",lovenest30
+"""want""","Cat Ba, Vietnam",lovenest30
+"""been"",""want"",""fave""","Anaheim, CA, USA",lovenest30
+"""want""","Tampa, FL, USA",lovenest30
+"""want""","Raipur, India",lovenest30
+"""want""","Kobe, Japan",lovenest30
+"""want""","Sonoma, CA, USA",lovenest30
+"""want""","Miami, FL, USA",lovenest30
+"""want""","Hvar, Croatia",lovenest30
+"""want""","Hiroshima, Japan",lovenest30
+"""want""","Miami Beach, FL, USA",lovenest30
+"""want""","Olympia, Greece",lovenest30
+"""want""","Sapporo, Japan",lovenest30
+"""want""","Apia, Samoa",lovenest30
+"""want""","La Plata, Argentina",lovenest30
+"""want""","Guangzhou, China",lovenest30
+"""want""","Seoul, South Korea",lovenest30
+"""want""","Toulouse, France",lovenest30
+"""want""","Lagos, Portugal",lovenest30
+"""want""","Hyderabad, India",lovenest30
+"""want""","Hangzhou, China",lovenest30
+"""want""","Lourdes, France",lovenest30
+"""want""","Stuttgart, Germany",lovenest30
+"""want""","Mannheim, Germany",lovenest30
+"""want""","Hoboken, NJ, USA",lovenest30
+"""want""","Albuquerque, NM, USA",lovenest30
+"""want""","Ottawa, Ontario, Canada",lovenest30
+"""want""","Cashel, Ireland",lovenest30
+"""want""","Buenos Aires, Argentina",lovenest30
+"""want""","Yangon (Rangoon), Myanmar",lovenest30
+"""want""","Medina, Saudi Arabia",lovenest30
+"""want""","Chengdu, China",lovenest30
+"""want""","Bogota, Colombia",lovenest30
+"""want""","Boquete, Panama",lovenest30
+"""want""","Tetouan, Morocco",lovenest30
+"""want""","Trondheim, Norway",lovenest30
+"""want""","Cape Town Central, South Africa",lovenest30
+"""been""","Kuta, Indonesia",lovenest30
+"""been""","Nusa Dua, Indonesia",lovenest30
+"""want""","Alexandria, Egypt",lovenest30
+"""been""","Jimbaran, Indonesia",lovenest30
+"""been""","Ohakune, New Zealand",lovenest30
+"""want""","Karlovy Vary, Czech Republic",lovenest30
+"""want""","La Rioja, Argentina",lovenest30
+"""want""","Philipsburg, St Martin \u002F St Maarten",lovenest30
+"""want""","Bergerac City, France",lovenest30
+"""want""","Manzanillo, Costa Rica",lovenest30
+"""want""","Biarritz, France",lovenest30
+"""want""","Shanghai, China",lovenest30
+"""want""","Playa Flamingo, Costa Rica",lovenest30
+"""want""","Playa Hermosa, Costa Rica",lovenest30
+"""want""","Puerto Morelos, Mexico",lovenest30
+"""want""","Toronto, Ontario, Canada",lovenest30
+"""been""","Auckland, New Zealand",lovenest30
+"""want""","New Orleans, LA, USA",lovenest30
+"""been""","Pukenui, New Zealand",lovenest30
+"""want""","Honolulu, HI, USA",lovenest30
+"""want""","Mexico City, Mexico",lovenest30
+"""want""","Cala Major, Spain",lovenest30
+"""want""","Sun City, South Africa",lovenest30
+"""want""","Fujairah, United Arab Emirates",lovenest30
+"""want""","Bern, Switzerland",lovenest30
+"""want""","Punaauia, French Polynesia",lovenest30
+"""want""","Guardalavaca, Cuba",lovenest30
+"""want""","Varna, Bulgaria",lovenest30
+"""want""","Golturkbuku, Turkey",lovenest30
+"""want""","Geneva, Switzerland",lovenest30
+"""been"",""fave""","Savusavu, Fiji",lovenest30
+"""want""","Fuengirola, Spain",lovenest30
+"""want""","Nantes, France",lovenest30
+"""been""","Lautoka, Fiji",lovenest30
+"""want""","Mostar, Bosnia and Herzegovina",lovenest30
+"""want""","Cancun, Mexico",lovenest30
+"""want""","Orvieto, Italy",lovenest30
+"""want""","Assos, Turkey",lovenest30
+"""want""","Bodrum City, Turkey",lovenest30
+"""want""","Cordoba, Argentina",lovenest30
+"""want""","Salalah, Oman",lovenest30
+"""want""","Castellina In Chianti, Italy",lovenest30
+"""want""","Adeje, Spain",lovenest30
+"""been""","Matakana, New Zealand",lovenest30
+"""been""","Devonport, New Zealand",lovenest30
+"""want""","Blue Mountains, Ontario, Canada",lovenest30
+"""want""","Playa del Carmen, Mexico",lovenest30
+"""want""","Tigre, Argentina",lovenest30
+"""want""","Castellaneta, Italy",lovenest30
+"""want""","Kotor, Montenegro",lovenest30
+"""want""","Agra, India",lovenest30
+"""want""","Zadar, Croatia",lovenest30
+"""want""","Irkutsk, Russia",lovenest30
+"""want""","Port Elizabeth, South Africa",lovenest30
+"""want""","Montreal, Quebec, Canada",lovenest30
+"""want""","Quebec City, Quebec, Canada",lovenest30
+"""want""","Novosibirsk, Russia",lovenest30
+"""been""","Denarau Island, Fiji",lovenest30
+"""been"",""fave""","Sonaisali Island, Fiji",lovenest30
+"""want""","Stellenbosch, South Africa",lovenest30
+"""want""","Udaipur, India",lovenest30
+"""want""","Costa Adeje, Spain",lovenest30
+"""want""","Odessa, Ukraine",lovenest30
+"""want""","Dahab, Egypt",lovenest30
+"""want""","Jodhpur, India",lovenest30
+"""want""","Gangtok, India",lovenest30
+"""want""","Vichy, France",lovenest30
+"""want""","Haikou, China",lovenest30
+"""want""","Armutalan, Turkey",lovenest30
+"""want""","Hurghada, Egypt",lovenest30
+"""want""","Tamarindo, Costa Rica",lovenest30
+"""been"",""want"",""fave""","West Hollywood, CA, USA",lovenest30
+"""want""","Negril, Jamaica",lovenest30
+"""want""","Lucerne, Switzerland",lovenest30
+"""want""","Fort Lauderdale, FL, USA",lovenest30
+"""want""","Estoril, Portugal",lovenest30
+"""want""","Constantia, South Africa",lovenest30
+"""want""","Fatima, Portugal",lovenest30
+"""want""","Nuku'alofa, Tonga",lovenest30
+"""want""","Saint-Emilion, France",lovenest30
+"""want""","Port-au-Prince, Haiti",lovenest30
+"""been"",""fave""","Singapore, Singapore",lovenest30
+"""want""","Port Vila, Vanuatu",lovenest30
+"""want""","Krakow, Poland",lovenest30
+"""want""","Baton Rouge, LA, USA",lovenest30
+"""want""","Gardone Riviera, Italy",lovenest30
+"""want""","St. Petersburg, Russia",lovenest30
+"""want""","Ibiza Town, Spain",lovenest30
+"""want""","Mojacar, Spain",lovenest30
+"""want""","Porto, Portugal",lovenest30
+"""want""","St. Moritz, Switzerland",lovenest30
+"""want""","Playa de Muro, Spain",lovenest30
+"""want""","Locarno, Switzerland",lovenest30
+"""want""","Freeport, Bahamas",lovenest30
+"""want""","Puerto Calero, Spain",lovenest30
+"""want""","Damascus, Syria",lovenest30
+"""want""","Busan, South Korea",lovenest30
+"""want""","Abu Dhabi, United Arab Emirates",lovenest30
+"""want""","Paradise Island, Bahamas",lovenest30
+"""want""","Las Vegas, NV, USA",lovenest30
+"""want""","Nassau, Bahamas",lovenest30
+"""want""","Salto, Uruguay",lovenest30
+"""want""","Qawra, Malta",lovenest30
+"""want""","Lagos, Nigeria",lovenest30
+"""want""","Alicante, Spain",lovenest30
+"""want""","Bocas Town, Panama",lovenest30
+"""want""","Kuwait City, Kuwait",lovenest30
+"""want""","Canico, Portugal",lovenest30
+"""been"",""fave""","Seppeltsfield, Australia",lovenest30
+"""want""","Doha, Qatar",lovenest30
+"""want""","Macau, China",lovenest30
+"""been"",""want""","Chicago, IL, USA",lovenest30
+"""been"",""want"",""fave""","Los Angeles, CA, USA",lovenest30
+"""want""","Fort Worth, TX, USA",lovenest30
+"""want""","Papeete, French Polynesia",lovenest30
+"""want""","Budapest, Hungary",lovenest30
+"""want""","Kyiv (Kiev), Ukraine",lovenest30
+"""want""","Ica, Peru",lovenest30
+"""want""","San Salvador, El Salvador",lovenest30
+"""want""","Managua, Nicaragua",lovenest30
+"""want""","Quarteira, Portugal",lovenest30
+"""want""","Bengaluru, India",lovenest30
+"""want""","Alba, Italy",lovenest30
+"""want""","Phoenix, AZ, USA",lovenest30
+"""want""","Napa, CA, USA",lovenest30
+"""want""","Seminyak, Indonesia",lovenest30
+"""want""","Lhasa, China",lovenest30
+"""want""","Playa Paraiso, Mexico",lovenest30
+"""want""","Granada, Nicaragua",lovenest30
+"""want""","Jakarta, Indonesia",lovenest30
+"""want""","Warsaw, Poland",lovenest30
+"""want""","Juan Dolio, Dominican Republic",lovenest30
+"""want""","Hobart, Australia",lovenest30
+"""want""","Parma, Italy",lovenest30
+"""want""","Sunny Beach, Bulgaria",lovenest30
+"""want""","Modena, Italy",lovenest30
+"""want""","San Agustin, Spain",lovenest30
+"""want""","Bologna, Italy",lovenest30
+"""want""","Playa del Ingles, Spain",lovenest30
+"""want""","Albena, Bulgaria",lovenest30
+"""been"",""want"",""fave""","Malibu, CA, USA",lovenest30
+"""want""","Salou, Spain",lovenest30
+"""want""","Hersonissos, Greece",lovenest30
+"""been""","Adelaide, Australia",lovenest30
+"""want""","Antalya, Turkey",lovenest30
+"""want""","Sofia, Bulgaria",lovenest30
+"""want""","Mombasa, Kenya",lovenest30
+"""want""","Beijing, China",lovenest30
+"""want""","Grand Rapids, MI, USA",lovenest30
+"""been""","Sigatoka, Fiji",lovenest30
+"""want""","Dubai, United Arab Emirates",lovenest30
+"""been""","Nadi, Fiji",lovenest30
+"""want""","Tekirova, Turkey",lovenest30
+"""want""","Hong Kong, China",lovenest30
+"""want""","Bucharest, Romania",lovenest30
+"""been""","Suva, Fiji",lovenest30
+"""want""","Detroit, MI, USA",lovenest30
+"""want""","Phuket Town, Thailand",lovenest30
+"""want""","Padang, Indonesia",lovenest30
+"""want""","Puerto Iguazu, Argentina",lovenest30
+"""want""","Bardolino, Italy",lovenest30
+"""want""","La Paz, Mexico",lovenest30
+"""want""","Cayo Santa Maria, Cuba",lovenest30
+"""want""","Tijuana, Mexico",lovenest30
+"""been""","Birkenhead, New Zealand",lovenest30
+"""want""","Umag, Croatia",lovenest30
+"""want""","Sveti Stefan, Montenegro",lovenest30
+"""want""","Montevideo, Uruguay",lovenest30
+"""want""","Giza, Egypt",lovenest30
+"""want""","Cairo, Egypt",lovenest30
+"""want""","Karachi, Pakistan",lovenest30
+"""want""","Calais, France",lovenest30
+"""want""","Portland, OR, USA",lovenest30
+"""want""","Minsk, Belarus",lovenest30
+"""want""","Luxor, Egypt",lovenest30
+"""want""","Nairobi, Kenya",lovenest30
+"""want""","Surabaya, Indonesia",lovenest30
+"""want""","Playa Matapalo, Costa Rica",lovenest30
+"""want""","Aguadilla, Puerto Rico",lovenest30
+"""want""","Jeddah, Saudi Arabia",lovenest30
+"""want""","Pwani Mchangani, Tanzania",lovenest30
+"""been""","Piha, New Zealand",lovenest30
+"""want""","Kilkenny, Ireland",lovenest30
+"""want""","Trinidad, Cuba",lovenest30
+"""want""","Genoa, Italy",lovenest30
+"""want""","Acapulco, Mexico",lovenest30
+"""want""","Orlando, FL, USA",lovenest30
+"""want""","Hammamet, Tunisia",lovenest30
+"""been""","Ubud, Indonesia",lovenest30
+"""want""","Cusco, Peru",lovenest30
+"""want""","Tregde, Norway",lovenest30
+"""want""","Sanur, Indonesia",lovenest30
+"""want""","Lima, Peru",lovenest30
+"""want""","Iquitos, Peru",lovenest30
+"""want""","Midoun, Tunisia",lovenest30
+"""want""","Nagpur, India",lovenest30
+"""want""","Machu Picchu, Peru",lovenest30
+"""want""","Kansas City, MO, USA",lovenest30
+"""want""","Corralejo, Spain",lovenest30
+"""want""","Bandung, Indonesia",lovenest30
+"""want""","Karousades, Greece",lovenest30
+"""want""","Mandalay, Myanmar",lovenest30
+"""want""","Monastir, Tunisia",lovenest30
+"""want""","Caracas, Venezuela",lovenest30
+"""want""","Puerto Vallarta, Mexico",lovenest30
+"""want""","Banff, Alberta, Canada",lovenest30
+"""want""","Dublin, Ireland",lovenest30
+"""want""","Donegal Town, Ireland",lovenest30
+"""been""","Akaroa, New Zealand",lovenest30
+"""want""","Lardos, Greece",lovenest30
+"""want""","Fremantle, Australia",lovenest30
+"""want""","Cork, Ireland",lovenest30
+"""want""","Guanajuato, Mexico",lovenest30
+"""want""","Marsascala, Malta",lovenest30
+"""been""","Whakatane, New Zealand",lovenest30
+"""want""","Calgary, Alberta, Canada",lovenest30
+"""been""","Waiheke Island, New Zealand",lovenest30
+"""been""","Picton, New Zealand",lovenest30
+"""been""","Waitomo Caves, New Zealand",lovenest30
+"""want""","Vilamoura, Portugal",lovenest30
+"""want""","Patong, Thailand",lovenest30
+"""want""","Santiago, Chile",lovenest30
+"""want""","Los Alcazares, Spain",lovenest30
+"""want""","Pefkos, Greece",lovenest30
+"""want""","Guatemala City, Guatemala",lovenest30
+"""want""","Darjeeling, India",lovenest30
+"""been""","Albany, New Zealand",lovenest30
+"""want""","Chennai (Madras), India",lovenest30
+"""want""","Jaipur, India",lovenest30
+"""want""","Mumbai, India",lovenest30
+"""want""","Quito, Ecuador",lovenest30
+"""want""","Wroclaw, Poland",lovenest30
+"""want""","Cassis, France",lovenest30
+"""want""","New Delhi, India",lovenest30
+"""want""","Playa de Palma, Spain",lovenest30
+"""want""","Milan, Italy",lovenest30
+"""want""","Canberra, Australia",lovenest30
+"""want""","Puerto Del Carmen, Spain",lovenest30
+"""want""","Chiang Rai, Thailand",lovenest30
+"""want""","Prague, Czech Republic",lovenest30
+"""want""","Lafayette, IN, USA",lovenest30
+"""want""","Vinales, Cuba",lovenest30
+"""want""","Talamanca, Spain",lovenest30
+"""want""","Kata Beach, Thailand",lovenest30
+"""been""","Takapuna, New Zealand",lovenest30
+"""want""","Como, Italy",lovenest30
+"""want""","Rio Grande, Puerto Rico",lovenest30
+"""want""","Bellagio, Italy",lovenest30
+"""want""","Skagen, Denmark",lovenest30
+"""want""","Cabo San Lucas, Mexico",lovenest30
+"""want""","Addis Ababa, Ethiopia",lovenest30
+"""want""","Melaka, Malaysia",lovenest30
+"""want""","Arusha, Tanzania",lovenest30
+"""want""","Anjuna, India",lovenest30
+"""want""","Townsville, Australia",lovenest30
+"""want""","Vancouver, British Columbia, Canada",lovenest30
+"""want""","Glasgow, UK",lovenest30
+"""want""","Holetown, Barbados",lovenest30
+"""want""","Port Douglas, Australia",lovenest30
+"""been""","Surfers Paradise, Australia",lovenest30
+"""want""","Whistler, British Columbia, Canada",lovenest30
+"""want""","Anissaras, Greece",lovenest30
+"""want""","San Sebastian de los Reyes, Spain",lovenest30
+"""want""","Manaus, Brazil",lovenest30
+"""want""","Sandy Bay, Jamaica",lovenest30
+"""want""","Alice Springs, Australia",lovenest30
+"""want""","Cairns, Australia",lovenest30
+"""been""","Brisbane, Australia",lovenest30
+"""want""","Edinburgh, UK",lovenest30
+"""want""","Turin, Italy",lovenest30
+"""want""","Asti, Italy",lovenest30
+"""want""","Niagara Falls, NY, USA",lovenest30
+"""been"",""fave""","Sydney, Australia",lovenest30
+"""want""","Kathmandu, Nepal",lovenest30
+"""want""","Pushkar, India",lovenest30
+"""been""","Kumeu, New Zealand",lovenest30
+"""want""","Naxos Town, Greece",lovenest30
+"""want""","Valencia, Spain",lovenest30
+"""been""","Kaikoura, New Zealand",lovenest30
+"""want""","Wittenberg, Germany",lovenest30
+"""want""","Torrevieja, Spain",lovenest30
+"""want""","Dallas, TX, USA",lovenest30
+"""want""","Benidorm, Spain",lovenest30
+"""want""","Catania, Italy",lovenest30
+"""want""","Larvik, Norway",lovenest30
+"""want""","Leipzig, Germany",lovenest30
+"""want""","Pamplona, Spain",lovenest30
+"""want""","Venice, Italy",lovenest30
+"""want""","Harare, Zimbabwe",lovenest30
+"""want""","Victoria Falls, Zimbabwe",lovenest30
+"""want""","Helsinki, Finland",lovenest30
+"""want""","Margaret River, Australia",lovenest30
+"""want""","Trujillo, Spain",lovenest30
+"""want""","Ouagadougou, Burkina Faso",lovenest30
+"""want""","Lake Tekapo, New Zealand",lovenest30
+"""been""","St Kilda, Australia",lovenest30
+"""been"",""want"",""fave""","Long Island City, NY, USA",lovenest30
+"""want""","Queenstown, New Zealand",lovenest30
+"""want""","Milford Sound, New Zealand",lovenest30
+"""want""","Te Anau, New Zealand",lovenest30
+"""want""","Victoria Falls, Zambia",lovenest30
+"""been""","Bondi, Australia",lovenest30
+"""want""","Madrid, Spain",lovenest30
+"""want""","West Bay, Honduras",lovenest30
+"""want""","Oia, Greece",lovenest30
+"""want""","Stone Town, Tanzania",lovenest30
+"""want""","Becici, Montenegro",lovenest30
+"""want""","Verona, Italy",lovenest30
+"""want""","Salerno, Italy",lovenest30
+"""want""","Rotterdam, The Netherlands",lovenest30
+"""want""","Amalfi, Italy",lovenest30
+"""want""","The Hague, The Netherlands",lovenest30
+"""want""","Mecca, Saudi Arabia",lovenest30
+"""want""","Antwerp, Belgium",lovenest30
+"""want""","Riyadh, Saudi Arabia",lovenest30
+"""want""","Tehran, Iran",lovenest30
+"""want""","Tunis, Tunisia",lovenest30
+"""want""","Calas de Majorca, Spain",lovenest30
+"""want""","Hoi An, Vietnam",lovenest30
+"""want""","Munich, Germany",lovenest30
+"""been"",""want""","London, UK",lovenest30
+"""been""","Mangawhai Heads, New Zealand",lovenest30
+"""want""","Da Nang, Vietnam",lovenest30
+"""want""","Pompeii, Italy",lovenest30
+"""want""","Naples, Italy",lovenest30
+"""want""","Livingstone, Zambia",lovenest30
+"""want""","Capri, Italy",lovenest30
+"""want""","Playa Blanca, Spain",lovenest30
+"""want""","Port Arthur, Australia",lovenest30
+"""want""","Palermo, Italy",lovenest30
+"""want""","Salvador, Brazil",lovenest30
+"""want""","Blue Bay, Africa",lovenest30
+"""want""","Jerusalem, Israel",lovenest30
+"""want""","Tel Aviv, Israel",lovenest30
+"""want""","Amman, Jordan",lovenest30
+"""want""","McLeod Ganj, India",lovenest30
+"""been""","Te Arai, New Zealand",lovenest30
+"""want""","Dar es Salaam, Tanzania",lovenest30
+"""been""","Mangawhai, New Zealand",lovenest30
+"""want""","Niagara Falls, Ontario, Canada",lovenest30
+"""want""","Doolin, Ireland",lovenest30
+"""want""","Lucca, Italy",lovenest30
+"""want""","Lubeck, Germany",lovenest30
+"""want""","Kiel, Germany",lovenest30
+"""want""","Palm Springs, CA, USA",lovenest30
+"""want""","Florence, Italy",lovenest30

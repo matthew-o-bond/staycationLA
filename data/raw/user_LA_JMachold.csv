@@ -1,0 +1,530 @@
+tag,place,user
+"""been""","Topanga, CA, USA",JMachold
+"""been""","Mulranny, Ireland",JMachold
+"""been""","Belfort, France",JMachold
+"""been""","Strasbourg, France",JMachold
+"""been""","Buffalo, NY, USA",JMachold
+"""been""","Pahoa, HI, USA",JMachold
+"""been""","South San Francisco, CA, USA",JMachold
+"""been""","Urubamba, Peru",JMachold
+"""been""","Luxembourg City, Luxembourg",JMachold
+"""been""","Buckeye, AZ, USA",JMachold
+"""been""","Tacoma, WA, USA",JMachold
+"""been""","Olympia, WA, USA",JMachold
+"""want""","Cairo, Egypt",JMachold
+"""been""","Waikoloa, HI, USA",JMachold
+"""want""","Montevideo, Uruguay",JMachold
+"""want""","Giza, Egypt",JMachold
+"""been""","Hermosa Beach, CA, USA",JMachold
+"""been""","Denali National Park and Preserve, AK, USA",JMachold
+"""been""","Mesa, AZ, USA",JMachold
+"""been""","Stevenson Ranch, CA, USA",JMachold
+"""been""","Honolulu, HI, USA",JMachold
+"""been""","Jersey City, NJ, USA",JMachold
+"""want""","Geneva, Switzerland",JMachold
+"""want""","Mombasa, Kenya",JMachold
+"""been""","Kapaa, HI, USA",JMachold
+"""been""","Sonoma, CA, USA",JMachold
+"""been""","Miami Beach, FL, USA",JMachold
+"""been""","Sonora, CA, USA",JMachold
+"""been""","Miami, FL, USA",JMachold
+"""been""","Basel, Switzerland",JMachold
+"""want""","Dubai, United Arab Emirates",JMachold
+"""been""","Madison, WI, USA",JMachold
+"""want""","Beijing, China",JMachold
+"""been""","Wasilla, AK, USA",JMachold
+"""been""","Anderson, CA, USA",JMachold
+"""been""","Coronado, CA, USA",JMachold
+"""been""","Hidden Hills, CA, USA",JMachold
+"""been""","Anaheim, CA, USA",JMachold
+"""been""","Highland, CA, USA",JMachold
+"""been""","Mykonos Town, Greece",JMachold
+"""want""","Prague, Czech Republic",JMachold
+"""want""","Hong Kong, China",JMachold
+"""been""","Solana Beach, CA, USA",JMachold
+"""been""","Soledad, CA, USA",JMachold
+"""been""","Cottonwood, CA, USA",JMachold
+"""been""","Victorville, CA, USA",JMachold
+"""been""","Calabasas, CA, USA",JMachold
+"""been""","Toronto, Ontario, Canada",JMachold
+"""been""","South Lake Tahoe, CA, USA",JMachold
+"""want""","Brisbane, Australia",JMachold
+"""been""","Mannheim, Germany",JMachold
+"""been""","Crawley, UK",JMachold
+"""want""","Sydney, Australia",JMachold
+"""been""","Tucson, AZ, USA",JMachold
+"""been""","Cozumel, Mexico",JMachold
+"""been""","Fort Lauderdale, FL, USA",JMachold
+"""been""","Kusadasi, Turkey",JMachold
+"""been""","Grand Canyon National Park, AZ, USA",JMachold
+"""been""","Cancun, Mexico",JMachold
+"""been""","Brooklyn, NY, USA",JMachold
+"""been""","Davis, CA, USA",JMachold
+"""been""","Stockton, CA, USA",JMachold
+"""been""","San Bruno, CA, USA",JMachold
+"""been""","West Hollywood, CA, USA",JMachold
+"""want""","Bar Harbor, ME, USA",JMachold
+"""been""","Canakkale, Turkey",JMachold
+"""been""","San Clemente, CA, USA",JMachold
+"""been""","Del Mar, CA, USA",JMachold
+"""been""","Charlottetown, Prince Edward Island, Canada",JMachold
+"""been""","West Sacramento, CA, USA",JMachold
+"""been""","San Fernando, CA, USA",JMachold
+"""been""","Key Largo, FL, USA",JMachold
+"""been""","Westlake Village, CA, USA",JMachold
+"""been""","Newark, NJ, USA",JMachold
+"""been""","San Francisco, CA, USA",JMachold
+"""want""","Papeete, French Polynesia",JMachold
+"""been""","San Bernardino, CA, USA",JMachold
+"""been""","Saint Amarin, France",JMachold
+"""been""","Thousand Oaks, CA, USA",JMachold
+"""been""","Santa Fe, NM, USA",JMachold
+"""been""","Culver City, CA, USA",JMachold
+"""been""","Colorado Springs, CO, USA",JMachold
+"""been""","Salinas, CA, USA",JMachold
+"""been""","Weed, CA, USA",JMachold
+"""been""","Daly City, CA, USA",JMachold
+"""been""","Baker, CA, USA",JMachold
+"""been""","Dana Point, CA, USA",JMachold
+"""been""","Cavendish, Prince Edward Island, Canada",JMachold
+"""been""","Susanville, CA, USA",JMachold
+"""been""","Williams, CA, USA",JMachold
+"""been""","Kailua, HI, USA",JMachold
+"""been""","Kahuku, HI, USA",JMachold
+"""been""","San Simeon, CA, USA",JMachold
+"""want""","Zurich, Switzerland",JMachold
+"""been""","Lynnwood, WA, USA",JMachold
+"""been""","Paris, France",JMachold
+"""been""","Ventura, CA, USA",JMachold
+"""been""","Willows, CA, USA",JMachold
+"""been""","Berkeley, CA, USA",JMachold
+"""been""","Tahoe City, CA, USA",JMachold
+"""been""","Tahoe Vista, CA, USA",JMachold
+"""been""","Catalina Island, CA, USA",JMachold
+"""been""","Carlsbad, CA, USA",JMachold
+"""been""","Carmel, CA, USA",JMachold
+"""been""","Desert Hot Springs, CA, USA",JMachold
+"""been""","Lindos, Greece",JMachold
+"""been""","Stromboli, Italy",JMachold
+"""been""","Heidelberg, Germany",JMachold
+"""been""","New Delhi, India",JMachold
+"""been""","Baden-Baden, Germany",JMachold
+"""been""","Everett, WA, USA",JMachold
+"""been""","Memphis, TN, USA",JMachold
+"""been""","Jaipur, India",JMachold
+"""been""","San Jose, CA, USA",JMachold
+"""been""","Summerland, CA, USA",JMachold
+"""been""","Carpinteria, CA, USA",JMachold
+"""been""","Carson, CA, USA",JMachold
+"""been""","Denver, CO, USA",JMachold
+"""been""","Mahwah, India",JMachold
+"""been""","San Luis Obispo, CA, USA",JMachold
+"""been""","Santa Maria, CA, USA",JMachold
+"""been""","Santa Monica, CA, USA",JMachold
+"""been""","Kailua-Kona, HI, USA",JMachold
+"""been""","Sparks, NV, USA",JMachold
+"""been""","San Diego, CA, USA",JMachold
+"""been""","Kihei, HI, USA",JMachold
+"""been""","Stateline, NV, USA",JMachold
+"""been""","Mykonos, Greece",JMachold
+"""been""","Lahaina, HI, USA",JMachold
+"""been""","Boston, MA, USA",JMachold
+"""been""","Villefranche-sur-Mer, France",JMachold
+"""been""","Lakewood, WA, USA",JMachold
+"""been""","Lakewood  Pierce County, WA, USA",JMachold
+"""been""","Santa Rosa, CA, USA",JMachold
+"""been""","Blythe, CA, USA",JMachold
+"""been""","Beverly Hills, CA, USA",JMachold
+"""been""","San Ysidro, CA, USA",JMachold
+"""been""","Boulder City, NV, USA",JMachold
+"""want""","Amsterdam, The Netherlands",JMachold
+"""been""","Anchorage, AK, USA",JMachold
+"""been""","New York City, NY, USA",JMachold
+"""been""","Little Rock, AR, USA",JMachold
+"""been""","Wisconsin Dells, WI, USA",JMachold
+"""been""","Springfield, IL, USA",JMachold
+"""been""","Longview, WA, USA",JMachold
+"""been""","Seattle, WA, USA",JMachold
+"""been""","Barcelona, Spain",JMachold
+"""been"",""fave""","Santorini, Greece",JMachold
+"""been""","Celuk, Indonesia",JMachold
+"""been""","Reims, France",JMachold
+"""been""","Cusco, Peru",JMachold
+"""been"",""fave""","Ubud, Indonesia",JMachold
+"""been""","Sanur, Indonesia",JMachold
+"""been""","Santa Ana, CA, USA",JMachold
+"""been"",""fave""","Machu Picchu, Peru",JMachold
+"""been""","Temecula, CA, USA",JMachold
+"""been""","Santa Barbara, CA, USA",JMachold
+"""been""","Lima, Peru",JMachold
+"""been""","Santa Clara, CA, USA",JMachold
+"""been""","Chester, CA, USA",JMachold
+"""been""","Santa Clarita, CA, USA",JMachold
+"""been""","Richmond, British Columbia, Canada",JMachold
+"""been""","Santa Cruz, CA, USA",JMachold
+"""been""","Ollantaytambo, Peru",JMachold
+"""been""","Stillwater, MN, USA",JMachold
+"""been""","Saint Louis, MO, USA",JMachold
+"""been""","Geiranger, Norway",JMachold
+"""been"",""fave""","Agra, India",JMachold
+"""been""","Kotor, Montenegro",JMachold
+"""been""","Ballyvoy, UK",JMachold
+"""want""","Sharm El Sheikh, Egypt",JMachold
+"""been""","Arlington, VA, USA",JMachold
+"""been""","Gilroy, CA, USA",JMachold
+"""been""","Glen Ellen, CA, USA",JMachold
+"""been""","Avalon, CA, USA",JMachold
+"""been""","Dommeldange, Luxembourg",JMachold
+"""been""","Auburn, CA, USA",JMachold
+"""been""","Newport Beach, CA, USA",JMachold
+"""been""","Garden Grove, CA, USA",JMachold
+"""been""","Ehrenberg, AZ, USA",JMachold
+"""been""","Las Vegas, NV, USA",JMachold
+"""been""","Denpasar, Indonesia",JMachold
+"""been""","Saint Charles, MO, USA",JMachold
+"""been""","Newbury Park, CA, USA",JMachold
+"""been""","Los Angeles, CA, USA",JMachold
+"""been""","Fresno, CA, USA",JMachold
+"""been""","Bentonville, AR, USA",JMachold
+"""been""","Roseburg, OR, USA",JMachold
+"""been""","Newhall, CA, USA",JMachold
+"""been""","Jamestown, CA, USA",JMachold
+"""been""","Fullerton, CA, USA",JMachold
+"""been""","Chicago, IL, USA",JMachold
+"""been""","Annapolis, MD, USA",JMachold
+"""been""","Mathura, India",JMachold
+"""been""","Sausheim, France",JMachold
+"""been""","Cushendun, UK",JMachold
+"""been""","Irvine, CA, USA",JMachold
+"""been""","Quartzsite, AZ, USA",JMachold
+"""been""","Pismo Beach, CA, USA",JMachold
+"""been""","Los Alamos, CA, USA",JMachold
+"""been""","Isla Vista, CA, USA",JMachold
+"""been""","Reno, NV, USA",JMachold
+"""been""","Funabashi, Japan",JMachold
+"""been""","Primm, NV, USA",JMachold
+"""been""","Sakura, Japan",JMachold
+"""want""","Rio de Janeiro, Brazil",JMachold
+"""been""","Goodyear, AZ, USA",JMachold
+"""been""","Nusa Dua, Indonesia",JMachold
+"""been""","Milo, Italy",JMachold
+"""been""","Kuta, Indonesia",JMachold
+"""been""","Steamboat Springs, CO, USA",JMachold
+"""been""","Jimbaran, Indonesia",JMachold
+"""been""","Glendale, AZ, USA",JMachold
+"""been""","Sedona, AZ, USA",JMachold
+"""been""","Chiriaco Summit, CA, USA",JMachold
+"""been""","Aspen, CO, USA",JMachold
+"""been""","Scottsdale, AZ, USA",JMachold
+"""been""","Harwich, UK",JMachold
+"""been""","West End, Honduras",JMachold
+"""been""","Kings Beach, CA, USA",JMachold
+"""been""","Marina del Rey, CA, USA",JMachold
+"""been""","Kuching, Malaysia",JMachold
+"""been""","Minneapolis, MN, USA",JMachold
+"""been""","North Las Vegas, NV, USA",JMachold
+"""been""","Grand Cayman, Cayman Islands",JMachold
+"""been""","George Town, Cayman Islands",JMachold
+"""been""","Noida, India",JMachold
+"""been""","Wilsonville, OR, USA",JMachold
+"""been""","Malibu, CA, USA",JMachold
+"""want""","Budapest, Hungary",JMachold
+"""been""","Manhattan Beach, CA, USA",JMachold
+"""been""","Salome, AZ, USA",JMachold
+"""want""","Seoul, South Korea",JMachold
+"""been""","Portland, OR, USA",JMachold
+"""been""","King City, CA, USA",JMachold
+"""been""","Goleta, CA, USA",JMachold
+"""been""","Waterville, Ireland",JMachold
+"""been""","Bharatpur, India",JMachold
+"""been""","Cashel, Ireland",JMachold
+"""been""","North Palm Springs, CA, USA",JMachold
+"""been""","Glendale, CA, USA",JMachold
+"""been""","Ocean City, MD, USA",JMachold
+"""been""","Petulu, Indonesia",JMachold
+"""been""","Laguna Beach, CA, USA",JMachold
+"""been""","Tempe, AZ, USA",JMachold
+"""been""","Salt Lake City, UT, USA",JMachold
+"""been""","Coachella, CA, USA",JMachold
+"""been""","Half Moon Bay, CA, USA",JMachold
+"""been""","El Segundo, CA, USA",JMachold
+"""been""","La Quinta, CA, USA",JMachold
+"""been""","Talkeetna, AK, USA",JMachold
+"""been""","Boyes Hot Springs, CA, USA",JMachold
+"""been""","Vail, CO, USA",JMachold
+"""been""","Detroit, MI, USA",JMachold
+"""been""","Cushendall, UK",JMachold
+"""been""","Vancouver, WA, USA",JMachold
+"""been""","Grenada, CA, USA",JMachold
+"""been""","Albuquerque, NM, USA",JMachold
+"""been""","La Jolla, CA, USA",JMachold
+"""been""","Baltimore, MD, USA",JMachold
+"""been""","Talent, OR, USA",JMachold
+"""been""","La Mesa, CA, USA",JMachold
+"""been""","Orlando, FL, USA",JMachold
+"""been""","Shoreline, WA, USA",JMachold
+"""been""","Bushmills, UK",JMachold
+"""been""","Quebec City, Quebec, Canada",JMachold
+"""been""","Montreal, Quebec, Canada",JMachold
+"""been""","Chula Vista, CA, USA",JMachold
+"""been""","El Cajon, CA, USA",JMachold
+"""been""","Yountville, CA, USA",JMachold
+"""been""","Yreka, CA, USA",JMachold
+"""been""","Fort Collins, CO, USA",JMachold
+"""been""","Big Sur, CA, USA",JMachold
+"""been""","San Salvador, Bahamas",JMachold
+"""want""","Montego Bay, Jamaica",JMachold
+"""been""","Agoura, CA, USA",JMachold
+"""been""","Singapore, Singapore",JMachold
+"""been""","Corona, CA, USA",JMachold
+"""want""","Santa Cruz, Ecuador",JMachold
+"""want""","Cape Town Central, South Africa",JMachold
+"""been""","Barstow, CA, USA",JMachold
+"""been""","Jurong, Singapore",JMachold
+"""been""","Agoura Hills, CA, USA",JMachold
+"""been""","Salem, OR, USA",JMachold
+"""been""","Buena Park, CA, USA",JMachold
+"""been""","Vallejo, CA, USA",JMachold
+"""been""","Burbank, CA, USA",JMachold
+"""been""","Hemet, CA, USA",JMachold
+"""want""","St. Petersburg, Russia",JMachold
+"""been""","Hercules, CA, USA",JMachold
+"""been""","Fairfield, CA, USA",JMachold
+"""been""","Hoboken, NJ, USA",JMachold
+"""want""","San Juan, Puerto Rico",JMachold
+"""been""","Goverdhan, India",JMachold
+"""been""","Killorglin, Ireland",JMachold
+"""been""","Dromahair, Ireland",JMachold
+"""been""","Santa Barbara de Samana, Dominican Republic",JMachold
+"""been""","Sneem, Ireland",JMachold
+"""been""","Laxey, UK",JMachold
+"""been""","Onchan, UK",JMachold
+"""been""","Dubrovnik, Croatia",JMachold
+"""been""","Hawthorne, CA, USA",JMachold
+"""been""","Escondido, CA, USA",JMachold
+"""been""","Breckenridge, CO, USA",JMachold
+"""been""","Vacaville, CA, USA",JMachold
+"""been""","Tonopah, AZ, USA",JMachold
+"""been""","Civitavecchia, Italy",JMachold
+"""been""","Ballasalla, UK",JMachold
+"""been""","Lake Arrowhead, CA, USA",JMachold
+"""been""","Kenai, AK, USA",JMachold
+"""been""","Encinitas, CA, USA",JMachold
+"""been""","Vancouver, British Columbia, Canada",JMachold
+"""been""","Ajmer, India",JMachold
+"""been""","Martha's Vineyard, MA, USA",JMachold
+"""been""","Victoria, British Columbia, Canada",JMachold
+"""been""","Whistler, British Columbia, Canada",JMachold
+"""been""","Venice, Italy",JMachold
+"""been""","Rancho Cucamonga, CA, USA",JMachold
+"""been""","Rancho Mirage, CA, USA",JMachold
+"""been""","Olympic Valley, CA, USA",JMachold
+"""been""","Rancho Palos Verdes, CA, USA",JMachold
+"""been""","Ontario, CA, USA",JMachold
+"""been""","Faridabad, India",JMachold
+"""been""","Rancho Santa Fe, CA, USA",JMachold
+"""been""","Glasgow, UK",JMachold
+"""want""","Santiago de Compostela, Spain",JMachold
+"""want""","Antananarivo, Madagascar",JMachold
+"""been""","Ballineanig, Ireland",JMachold
+"""want""","Cabo San Lucas, Mexico",JMachold
+"""want""","San Jose del Cabo, Mexico",JMachold
+"""been""","Douglas, UK",JMachold
+"""been""","Isle of Man, UK",JMachold
+"""been""","Oakland, CA, USA",JMachold
+"""been""","Inverness, UK",JMachold
+"""want""","Madrid, Spain",JMachold
+"""been""","Oceanside, CA, USA",JMachold
+"""been"",""fave""","Shanghai, China",JMachold
+"""been""","Dallas, TX, USA",JMachold
+"""want""","Ho Chi Minh City, Vietnam",JMachold
+"""been""","Dunquin, Ireland",JMachold
+"""been""","Cap d'Ail, France",JMachold
+"""been""","Saint John, New Brunswick, Canada",JMachold
+"""want""","Buenos Aires, Argentina",JMachold
+"""been""","Palm Desert, CA, USA",JMachold
+"""been""","Palm Springs, CA, USA",JMachold
+"""been""","Bagnolet, France",JMachold
+"""want""","Ushuaia, Argentina",JMachold
+"""been""","Dundee, UK",JMachold
+"""been""","Fatehpur Sikri, India",JMachold
+"""been""","Larne, UK",JMachold
+"""been""","Port Erin, UK",JMachold
+"""been""","Narita, Japan",JMachold
+"""been""","Rhodes Town, Greece",JMachold
+"""been""","Redding, CA, USA",JMachold
+"""been""","Orland, CA, USA",JMachold
+"""been""","Redlands, CA, USA",JMachold
+"""been""","Redondo Beach, CA, USA",JMachold
+"""been""","Mill Creek, CA, USA",JMachold
+"""want""","Phnom Penh, Cambodia",JMachold
+"""been""","Millbrae, CA, USA",JMachold
+"""been""","Oxnard, CA, USA",JMachold
+"""been""","Edinburgh, UK",JMachold
+"""been""","Red Bluff, CA, USA",JMachold
+"""been""","St. George, Bermuda",JMachold
+"""been""","Hamilton, Bermuda",JMachold
+"""been""","Milwaukee, WI, USA",JMachold
+"""been""","Castlemaine, Ireland",JMachold
+"""want""","Acapulco, Mexico",JMachold
+"""been""","Mackinaw City, MI, USA",JMachold
+"""been""","Surrey, British Columbia, Canada",JMachold
+"""want""","King George Island, Antarctica",JMachold
+"""been""","Homewood, CA, USA",JMachold
+"""been""","Roseville, CA, USA",JMachold
+"""been""","Morro Bay, CA, USA",JMachold
+"""been""","Kyoto, Japan",JMachold
+"""been""","Lincoln, CA, USA",JMachold
+"""been""","Killarney, Ireland",JMachold
+"""been""","Oranjestad, Aruba",JMachold
+"""been""","Palm - Eagle Beach, Aruba",JMachold
+"""been""","Chuo, Japan",JMachold
+"""been""","Ensenada, Mexico",JMachold
+"""been""","Chiyoda, Japan",JMachold
+"""been""","Bunkyo, Japan",JMachold
+"""been""","Paraguana Peninsula, Venezuela",JMachold
+"""been""","Kralendijk, Bonaire",JMachold
+"""been""","Yachiyo, Japan",JMachold
+"""been""","Tijuana, Mexico",JMachold
+"""want""","Aqaba, Jordan",JMachold
+"""been""","Saint Paul, MN, USA",JMachold
+"""been""","Portmagee, Ireland",JMachold
+"""been""","Montecito, CA, USA",JMachold
+"""been""","Riverside, CA, USA",JMachold
+"""been""","Monterey, CA, USA",JMachold
+"""been""","Pasadena, CA, USA",JMachold
+"""been""","Westport, Ireland",JMachold
+"""been""","Dingle, Ireland",JMachold
+"""been""","Cockburn Town, Turks and Caicos",JMachold
+"""been""","Minato, Japan",JMachold
+"""been""","Willemstad, Curacao",JMachold
+"""been""","Incline Village, NV, USA",JMachold
+"""been""","Shinjuku, Japan",JMachold
+"""been""","Henderson, NV, USA",JMachold
+"""want""","Saint-Pierre, North America",JMachold
+"""been""","Shibuya, Japan",JMachold
+"""been""","Apple Valley, CA, USA",JMachold
+"""been""","Imperial Beach, CA, USA",JMachold
+"""been""","Indian Wells, CA, USA",JMachold
+"""been""","Phoenix, AZ, USA",JMachold
+"""been""","Napa, CA, USA",JMachold
+"""been""","Indio, CA, USA",JMachold
+"""been""","Inglewood, CA, USA",JMachold
+"""been""","Long Beach, CA, USA",JMachold
+"""want""","Paro, Bhutan",JMachold
+"""been""","Loma Linda, CA, USA",JMachold
+"""want""","Puerto Vallarta, Mexico",JMachold
+"""been"",""want""","Banff, Alberta, Canada",JMachold
+"""been""","Mallow, Ireland",JMachold
+"""been""","Taito, Japan",JMachold
+"""been""","Eidfjord, Norway",JMachold
+"""want""","Moscow, Russia",JMachold
+"""been""","Mount Shasta, CA, USA",JMachold
+"""been""","Huntington Beach, CA, USA",JMachold
+"""been""","Appleton, WI, USA",JMachold
+"""been""","Sacramento, CA, USA",JMachold
+"""been""","Weehawken, NJ, USA",JMachold
+"""been""","Dublin, Ireland",JMachold
+"""been""","Belize City, Belize",JMachold
+"""been""","Truckee, CA, USA",JMachold
+"""want""","Easter Island, Chile",JMachold
+"""been""","New Glasgow, Prince Edward Island, Canada",JMachold
+"""been""","West Bay, Cayman Islands",JMachold
+"""been""","Manningtree, UK",JMachold
+"""been"",""fave""","Athens, Greece",JMachold
+"""been""","Piraeus, Greece",JMachold
+"""been""","Staten Island, NY, USA",JMachold
+"""been""","Shasta, CA, USA",JMachold
+"""been""","Shasta Lake, CA, USA",JMachold
+"""been""","Eugene, OR, USA",JMachold
+"""been""","Fermoy, Ireland",JMachold
+"""been""","Donore, Ireland",JMachold
+"""been""","Torrance, CA, USA",JMachold
+"""been""","Tracy, CA, USA",JMachold
+"""been""","Monte-Carlo, Monaco",JMachold
+"""been""","Hilo, HI, USA",JMachold
+"""been""","St. Martins, New Brunswick, Canada",JMachold
+"""been""","Honokaa, HI, USA",JMachold
+"""been""","Taos, NM, USA",JMachold
+"""been""","Waimea, HI, USA",JMachold
+"""been""","Brighton, UK",JMachold
+"""want""","Copenhagen, Denmark",JMachold
+"""been""","Nice, France",JMachold
+"""been""","Anacapri, Italy",JMachold
+"""been""","Crete, Greece",JMachold
+"""been""","Chania Town, Greece",JMachold
+"""been""","Portland, ME, USA",JMachold
+"""want""","Victoria Falls, Zimbabwe",JMachold
+"""been""","Heraklion, Greece",JMachold
+"""been""","Gaspe, Quebec, Canada",JMachold
+"""been""","Ballintoy, UK",JMachold
+"""been""","Wailea, HI, USA",JMachold
+"""been""","Simi Valley, CA, USA",JMachold
+"""been""","Mammoth Lakes, CA, USA",JMachold
+"""want""","Melbourne, Australia",JMachold
+"""want""","Pago Pago, American Samoa",JMachold
+"""been""","Bellingham, WA, USA",JMachold
+"""been""","Philadelphia, PA, USA",JMachold
+"""been""","Derry, UK",JMachold
+"""been""","Blaine, WA, USA",JMachold
+"""want""","Berlin, Germany",JMachold
+"""been""","Washington DC, DC, USA",JMachold
+"""want""","Kathmandu, Nepal",JMachold
+"""been""","Colchester, UK",JMachold
+"""been""","Aberdeen, UK",JMachold
+"""been""","Alesund, Norway",JMachold
+"""been""","Darmstadt, Germany",JMachold
+"""been""","Frankfurt, Germany",JMachold
+"""been""","Bergen, Norway",JMachold
+"""want""","Auckland Central, New Zealand",JMachold
+"""been""","Big Pine Key, FL, USA",JMachold
+"""been"",""fave""","Rome, Italy",JMachold
+"""want""","Reykjavik, Iceland",JMachold
+"""been""","Vatican City, Vatican City",JMachold
+"""been""","Capri, Italy",JMachold
+"""been""","Naples, Italy",JMachold
+"""been""","Maam Cross, Ireland",JMachold
+"""been""","Pompeii, Italy",JMachold
+"""been""","London, UK",JMachold
+"""been""","Island of Capri, Italy",JMachold
+"""want""","Munich, Germany",JMachold
+"""been""","Mulhouse, France",JMachold
+"""been""","Halifax, Nova Scotia, Canada",JMachold
+"""been""","Sydney, Nova Scotia, Canada",JMachold
+"""been""","Park City, UT, USA",JMachold
+"""been""","Belfast, UK",JMachold
+"""been""","Ballycastle, UK",JMachold
+"""been""","Tokyo, Japan",JMachold
+"""been""","Bayonne, NJ, USA",JMachold
+"""been""","Aguas Calientes, Peru",JMachold
+"""been""","Inishmore, Ireland",JMachold
+"""been""","Ballinskelligs, Ireland",JMachold
+"""been""","Cashel, Ireland",JMachold
+"""been""","Port Hueneme, CA, USA",JMachold
+"""been""","Oxford, MS, USA",JMachold
+"""been""","Shinagawa, Japan",JMachold
+"""been""","Bhiwadi, India",JMachold
+"""been""","Fiumicino, Italy",JMachold
+"""been""","Taormina, Italy",JMachold
+"""been""","Niagara Falls, NY, USA",JMachold
+"""been""","Castletown, UK",JMachold
+"""been""","Messina, Italy",JMachold
+"""want""","Marrakech, Morocco",JMachold
+"""been""","Selcuk, Turkey",JMachold
+"""been""","Amer, India",JMachold
+"""been""","Pushkar, India",JMachold
+"""been"",""fave""","Istanbul, Turkey",JMachold
+"""been""","Eagle River, AK, USA",JMachold
+"""been""","Niagara Falls, Ontario, Canada",JMachold
+"""been""","Point Mugu, CA, USA",JMachold
+"""been""","Ashland, OR, USA",JMachold
+"""been""","Sorrento, Italy",JMachold
+"""been""","Atlantic City, NJ, USA",JMachold
+"""been""","Grants Pass, OR, USA",JMachold
+"""been"",""fave""","Florence, Italy",JMachold
+"""been""","Pomona, CA, USA",JMachold
+"""been""","Livorno, Italy",JMachold
+"""want""","Jerusalem, Israel",JMachold
+"""want""","Tel Aviv, Israel",JMachold
+"""been""","Pisa, Italy",JMachold
+"""want""","Haifa, Israel",JMachold

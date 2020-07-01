@@ -1,0 +1,526 @@
+tag,place,user
+"""been""","Shakopee, MN, USA",cidbliq
+"""been""","Brookings, SD, USA",cidbliq
+"""been""","Rapid City, SD, USA",cidbliq
+"""been""","Monterey, CA, USA",cidbliq
+"""been""","Pasadena, CA, USA",cidbliq
+"""been""","Fort Worth, TX, USA",cidbliq
+"""been""","Troutdale, OR, USA",cidbliq
+"""been""","Williams, AZ, USA",cidbliq
+"""been""","Pella, IA, USA",cidbliq
+"""been""","Winona, MN, USA",cidbliq
+"""been""","South Sioux City, NE, USA",cidbliq
+"""been""","Owatonna, MN, USA",cidbliq
+"""been""","North Kansas City, MO, USA",cidbliq
+"""been""","Kadoka, SD, USA",cidbliq
+"""been""","Palo Alto, CA, USA",cidbliq
+"""been""","Mission Viejo, CA, USA",cidbliq
+"""been""","Modesto, CA, USA",cidbliq
+"""been""","Sheldon, IA, USA",cidbliq
+"""been""","York, NE, USA",cidbliq
+"""been""","Victoria, British Columbia, Canada",cidbliq
+"""been""","Phoenix, AZ, USA",cidbliq
+"""been""","Mondamin, IA, USA",cidbliq
+"""been""","Whistler, British Columbia, Canada",cidbliq
+"""been""","Dallas, TX, USA",cidbliq
+"""been""","Mount Shasta, CA, USA",cidbliq
+"""been""","Huntington Beach, CA, USA",cidbliq
+"""been""","Sacramento, CA, USA",cidbliq
+"""been""","Missouri Valley, IA, USA",cidbliq
+"""been""","Altoona, IA, USA",cidbliq
+"""been""","Sumner, MO, USA",cidbliq
+"""been""","Ames, IA, USA",cidbliq
+"""been""","Amana, IA, USA",cidbliq
+"""been""","Saint Paul, MN, USA",cidbliq
+"""been""","Pierre, SD, USA",cidbliq
+"""been""","Yankton, SD, USA",cidbliq
+"""been""","Brunswick, GA, USA",cidbliq
+"""been""","Albert Lea, MN, USA",cidbliq
+"""been""","Hornick, IA, USA",cidbliq
+"""been""","Okoboji, IA, USA",cidbliq
+"""been""","Springfield, MO, USA",cidbliq
+"""want""","Providenciales, Turks and Caicos",cidbliq
+"""been""","Grand Turk, Turks and Caicos",cidbliq
+"""been""","Wall, SD, USA",cidbliq
+"""been""","Murdo, SD, USA",cidbliq
+"""been""","Oakland, CA, USA",cidbliq
+"""been""","Kelowna, British Columbia, Canada",cidbliq
+"""been""","New Westminster, British Columbia, Canada",cidbliq
+"""been""","Barbados, Caribbean",cidbliq
+"""been""","Ute, IA, USA",cidbliq
+"""been""","Bridgetown, Barbados",cidbliq
+"""been""","Union Hall, Barbados",cidbliq
+"""been""","North Sioux City, SD, USA",cidbliq
+"""been""","Vancouver, British Columbia, Canada",cidbliq
+"""been""","Bloomington, MN, USA",cidbliq
+"""been""","Blue Earth, MN, USA",cidbliq
+"""been""","Oxford, MS, USA",cidbliq
+"""been""","Sergeant Bluff, IA, USA",cidbliq
+"""been""","Iowa City, IA, USA",cidbliq
+"""been""","Oto, IA, USA",cidbliq
+"""been""","Ottumwa, IA, USA",cidbliq
+"""been""","Oxnard, CA, USA",cidbliq
+"""been""","Redding, CA, USA",cidbliq
+"""been""","Surrey, British Columbia, Canada",cidbliq
+"""been""","Banff, Alberta, Canada",cidbliq
+"""been""","Edmonton, Alberta, Canada",cidbliq
+"""been""","Onawa, IA, USA",cidbliq
+"""been""","Calgary, Alberta, Canada",cidbliq
+"""been""","Orange City, IA, USA",cidbliq
+"""been""","Jasper, Alberta, Canada",cidbliq
+"""been""","Mapleton, IA, USA",cidbliq
+"""been""","Ida Grove, IA, USA",cidbliq
+"""been""","Orange, CA, USA",cidbliq
+"""been""","Vermillion, SD, USA",cidbliq
+"""been""","Rancho Palos Verdes, CA, USA",cidbliq
+"""been""","Mitchell, SD, USA",cidbliq
+"""been""","Belize City, Belize",cidbliq
+"""been""","Big Pine Key, FL, USA",cidbliq
+"""been""","Jackson, WY, USA",cidbliq
+"""been""","Moville, IA, USA",cidbliq
+"""been"",""fave""","Puerto Morelos, Mexico",cidbliq
+"""been""","Big Sur, CA, USA",cidbliq
+"""been""","Austin, MN, USA",cidbliq
+"""been""","Worthing, Barbados",cidbliq
+"""been""","Sioux Falls, SD, USA",cidbliq
+"""been""","Mountain Home, AR, USA",cidbliq
+"""been""","Cannon Beach, OR, USA",cidbliq
+"""been""","Strawberry Point, IA, USA",cidbliq
+"""been""","Spearfish, SD, USA",cidbliq
+"""been""","Canby, OR, USA",cidbliq
+"""been""","Sturgis, SD, USA",cidbliq
+"""been""","La Crosse, WI, USA",cidbliq
+"""been""","Chehalis, WA, USA",cidbliq
+"""been""","Chelan, WA, USA",cidbliq
+"""been""","Turin, IA, USA",cidbliq
+"""been""","Gillette, WY, USA",cidbliq
+"""been""","Logan, IA, USA",cidbliq
+"""been""","Cheney, WA, USA",cidbliq
+"""been""","Centralia, WA, USA",cidbliq
+"""been""","Fulton, KY, USA",cidbliq
+"""been""","San Nicolas, Aruba",cidbliq
+"""been""","Ashland, OR, USA",cidbliq
+"""been""","Billings, MT, USA",cidbliq
+"""been""","Pomona, CA, USA",cidbliq
+"""been""","Jonesboro, AR, USA",cidbliq
+"""been""","Ricketts, IA, USA",cidbliq
+"""been""","Aruba, Caribbean",cidbliq
+"""been""","Oranjestad, Aruba",cidbliq
+"""been""","Palm - Eagle Beach, Aruba",cidbliq
+"""been""","St. John's, Antigua and Barbuda",cidbliq
+"""been""","Seven Mile Beach, Cayman Islands",cidbliq
+"""been""","Grants Pass, OR, USA",cidbliq
+"""been""","Gresham, OR, USA",cidbliq
+"""been""","Bozeman, MT, USA",cidbliq
+"""been""","Beaverton, OR, USA",cidbliq
+"""been""","Bend, OR, USA",cidbliq
+"""been""","Gold Bar, WA, USA",cidbliq
+"""been""","Sioux City, IA, USA",cidbliq
+"""been""","Gorst, WA, USA",cidbliq
+"""been""","Council Bluffs, IA, USA",cidbliq
+"""been""","Heathrow, FL, USA",cidbliq
+"""been""","Burien, WA, USA",cidbliq
+"""been""","Graham, WA, USA",cidbliq
+"""been""","Sloan, IA, USA",cidbliq
+"""been""","Buckley, WA, USA",cidbliq
+"""been""","Spokane Valley, WA, USA",cidbliq
+"""been""","Davenport, FL, USA",cidbliq
+"""been""","Coralville, IA, USA",cidbliq
+"""been""","Burlington, WA, USA",cidbliq
+"""been""","Kellogg, ID, USA",cidbliq
+"""been""","Correctionville, IA, USA",cidbliq
+"""been""","West Des Moines, IA, USA",cidbliq
+"""been""","Cody, WY, USA",cidbliq
+"""been""","Teton Village, WY, USA",cidbliq
+"""been""","Carnation, WA, USA",cidbliq
+"""been""","Torrance, CA, USA",cidbliq
+"""been""","Battle Creek, IA, USA",cidbliq
+"""been""","Camas, WA, USA",cidbliq
+"""been""","Burnsville, MN, USA",cidbliq
+"""been""","Long Key, FL, USA",cidbliq
+"""been""","Cashmere, WA, USA",cidbliq
+"""been""","Longboat Key, FL, USA",cidbliq
+"""been""","Castle Rock, WA, USA",cidbliq
+"""been""","Eugene, OR, USA",cidbliq
+"""been""","Great Falls, MT, USA",cidbliq
+"""been""","Bellingham, WA, USA",cidbliq
+"""been""","Federal Way, WA, USA",cidbliq
+"""been""","Devils Tower, WY, USA",cidbliq
+"""been""","Duck Key, FL, USA",cidbliq
+"""been""","Fife, WA, USA",cidbliq
+"""been""","Boise, ID, USA",cidbliq
+"""been""","Marysville, WA, USA",cidbliq
+"""been""","Storm Lake, IA, USA",cidbliq
+"""been""","Black Diamond, WA, USA",cidbliq
+"""been""","Blaine, WA, USA",cidbliq
+"""been""","Ashland, NE, USA",cidbliq
+"""been""","Forks, WA, USA",cidbliq
+"""been""","Winterset, IA, USA",cidbliq
+"""been""","Big Horn, WY, USA",cidbliq
+"""been""","Bonney Lake, WA, USA",cidbliq
+"""been""","Bothell, WA, USA",cidbliq
+"""been""","Spirit Lake, IA, USA",cidbliq
+"""been""","Daytona Beach, FL, USA",cidbliq
+"""been""","Bremerton, WA, USA",cidbliq
+"""been""","San Juan, Puerto Rico",cidbliq
+"""been""","George, WA, USA",cidbliq
+"""been""","Gig Harbor, WA, USA",cidbliq
+"""been""","Brier, WA, USA",cidbliq
+"""been""","Whiting, IA, USA",cidbliq
+"""been""","Spencer, IA, USA",cidbliq
+"""been""","McMinnville, OR, USA",cidbliq
+"""been""","West Vancouver, British Columbia, Canada",cidbliq
+"""been""","Medford, OR, USA",cidbliq
+"""been""","Sundance, WY, USA",cidbliq
+"""been""","Sheridan, WY, USA",cidbliq
+"""been""","Coupeville, WA, USA",cidbliq
+"""been""","Buffalo, WY, USA",cidbliq
+"""been""","Edgewood, WA, USA",cidbliq
+"""been""","Pullman, WA, USA",cidbliq
+"""been""","Edmonds, WA, USA",cidbliq
+"""been""","Puyallup, WA, USA",cidbliq
+"""been""","Irving, TX, USA",cidbliq
+"""been""","Lynnwood, WA, USA",cidbliq
+"""been""","Celebration, FL, USA",cidbliq
+"""been""","Casselberry, FL, USA",cidbliq
+"""been""","Cozumel, Mexico",cidbliq
+"""been""","Quincy, WA, USA",cidbliq
+"""want""","Cancun, Mexico",cidbliq
+"""been""","Lake Mary, FL, USA",cidbliq
+"""been""","Rainier, WA, USA",cidbliq
+"""been""","Sammamish, WA, USA",cidbliq
+"""been""","Burnaby, British Columbia, Canada",cidbliq
+"""been""","Lynden, WA, USA",cidbliq
+"""been""","Ellensburg, WA, USA",cidbliq
+"""been""","Brookfield, MO, USA",cidbliq
+"""been""","Ventura, CA, USA",cidbliq
+"""been""","Tybee Island, GA, USA",cidbliq
+"""been""","Edgewood, IA, USA",cidbliq
+"""been""","Klamath Falls, OR, USA",cidbliq
+"""been""","Leawood, KS, USA",cidbliq
+"""been"",""want""","Omaha, NE, USA",cidbliq
+"""been""","New York City, NY, USA",cidbliq
+"""been""","Lake Oswego, OR, USA",cidbliq
+"""been""","Coulee Dam, WA, USA",cidbliq
+"""been""","Dyersville, IA, USA",cidbliq
+"""been"",""want""","San Jose, CA, USA",cidbliq
+"""been""","Enumclaw, WA, USA",cidbliq
+"""been""","Cedar Rapids, IA, USA",cidbliq
+"""been""","Olathe, KS, USA",cidbliq
+"""been""","Maple Valley, WA, USA",cidbliq
+"""been""","Belfair, WA, USA",cidbliq
+"""been""","Fall City, WA, USA",cidbliq
+"""been""","Bellevue, WA, USA",cidbliq
+"""been""","Denver, CO, USA",cidbliq
+"""been""","San Luis Obispo, CA, USA",cidbliq
+"""been""","Whittier, CA, USA",cidbliq
+"""been""","Memphis, TN, USA",cidbliq
+"""been""","St. Augustine, FL, USA",cidbliq
+"""been""","Everett, WA, USA",cidbliq
+"""been""","Kissimmee, FL, USA",cidbliq
+"""been""","Crater Lake National Park, OR, USA",cidbliq
+"""been""","San Juan Capistrano, CA, USA",cidbliq
+"""been""","Tunica, MS, USA",cidbliq
+"""been""","Lincoln City, OR, USA",cidbliq
+"""been""","Atlanta, GA, USA",cidbliq
+"""been""","West Yellowstone, MT, USA",cidbliq
+"""been"",""want""","Missoula, MT, USA",cidbliq
+"""been""","Santa Monica, CA, USA",cidbliq
+"""been""","Clive, IA, USA",cidbliq
+"""been"",""want""","Clearwater, FL, USA",cidbliq
+"""been"",""fave""","Nassau, Bahamas",cidbliq
+"""been""","Tukwila, WA, USA",cidbliq
+"""been""","Clermont, FL, USA",cidbliq
+"""been""","Paradise Island, Bahamas",cidbliq
+"""been""","Lake Forest Park, WA, USA",cidbliq
+"""been""","Tumwater, WA, USA",cidbliq
+"""been""","Lake Stevens, WA, USA",cidbliq
+"""been""","Santa Maria, CA, USA",cidbliq
+"""been""","New Providence Island, Bahamas",cidbliq
+"""been""","McAllen, TX, USA",cidbliq
+"""been""","Cruz Bay, U.S. Virgin Islands",cidbliq
+"""been""","Virgin Islands National Park, U.S. Virgin Islands",cidbliq
+"""been""","Parkland, WA, USA",cidbliq
+"""been""","Cocoa Beach, FL, USA",cidbliq
+"""been""","Savaneta, Aruba",cidbliq
+"""been""","Lakewood, WA, USA",cidbliq
+"""been""","Union Gap, WA, USA",cidbliq
+"""been""","Faribault, MN, USA",cidbliq
+"""been""","Oakville, Ontario, Canada",cidbliq
+"""been""","Clinton, MT, USA",cidbliq
+"""been""","Lacey, WA, USA",cidbliq
+"""been""","Tupelo, MS, USA",cidbliq
+"""been""","Custer, SD, USA",cidbliq
+"""been""","Laurel, MT, USA",cidbliq
+"""been""","Olympic National Park, WA, USA",cidbliq
+"""been""","Charlotte Amalie, U.S. Virgin Islands",cidbliq
+"""been""","Leavenworth, WA, USA",cidbliq
+"""been""","Clear Lake, IA, USA",cidbliq
+"""been""","Beverly Hills, CA, USA",cidbliq
+"""been""","Poulsbo, WA, USA",cidbliq
+"""been""","East Wenatchee, WA, USA",cidbliq
+"""been""","Easton, WA, USA",cidbliq
+"""been""","Longview, WA, USA",cidbliq
+"""been""","Eastsound, WA, USA",cidbliq
+"""been""","Eatonville, WA, USA",cidbliq
+"""been""","Santa Cruz, CA, USA",cidbliq
+"""been""","Santa Barbara, CA, USA",cidbliq
+"""been""","Dupont, WA, USA",cidbliq
+"""been""","Santa Clara, CA, USA",cidbliq
+"""been""","Mount Rainier National Park, WA, USA",cidbliq
+"""been""","Port Orchard, WA, USA",cidbliq
+"""been""","Duvall, WA, USA",cidbliq
+"""been""","Santa Ana, CA, USA",cidbliq
+"""been""","East Olympia, WA, USA",cidbliq
+"""been""","Port Townsend, WA, USA",cidbliq
+"""been""","Temecula, CA, USA",cidbliq
+"""been""","Branson, MO, USA",cidbliq
+"""been""","Des Moines, WA, USA",cidbliq
+"""been"",""want""","Seattle, WA, USA",cidbliq
+"""been""","Toronto, Ontario, Canada",cidbliq
+"""been""","Overland Park, KS, USA",cidbliq
+"""been""","Columbus, NE, USA",cidbliq
+"""been""","Clackamas, OR, USA",cidbliq
+"""been""","Livingston, MT, USA",cidbliq
+"""been""","Cincinnati, OH, USA",cidbliq
+"""been""","Walla Walla, WA, USA",cidbliq
+"""been""","San Diego, CA, USA",cidbliq
+"""been""","Lolo, MT, USA",cidbliq
+"""been""","Anaheim, CA, USA",cidbliq
+"""been""","Denison, IA, USA",cidbliq
+"""been""","Des Moines, IA, USA",cidbliq
+"""been""","Charleston, SC, USA",cidbliq
+"""been""","Kelso, WA, USA",cidbliq
+"""been""","South San Francisco, CA, USA",cidbliq
+"""been""","Kenmore, WA, USA",cidbliq
+"""been""","Tenino, WA, USA",cidbliq
+"""been""","Kent, WA, USA",cidbliq
+"""been""","Sumner, WA, USA",cidbliq
+"""been""","Edgewood, FL, USA",cidbliq
+"""been""","Port Isabel, TX, USA",cidbliq
+"""been""","Olympia, WA, USA",cidbliq
+"""been""","Suquamish, WA, USA",cidbliq
+"""been""","Tacoma, WA, USA",cidbliq
+"""been""","Omak, WA, USA",cidbliq
+"""been""","Colville, WA, USA",cidbliq
+"""been""","Clinton, MO, USA",cidbliq
+"""been""","Newark, NJ, USA",cidbliq
+"""been""","Independence, MO, USA",cidbliq
+"""been""","Ocean Shores, WA, USA",cidbliq
+"""been""","Miami Beach, FL, USA",cidbliq
+"""been""","Issaquah, WA, USA",cidbliq
+"""been""","Indian Rocks Beach, FL, USA",cidbliq
+"""been""","Colfax, WA, USA",cidbliq
+"""been""","Miami, FL, USA",cidbliq
+"""been""","Butte, MT, USA",cidbliq
+"""been""","Mankato, MN, USA",cidbliq
+"""been""","Oroville, WA, USA",cidbliq
+"""been""","Orting, WA, USA",cidbliq
+"""been""","Mesa, AZ, USA",cidbliq
+"""been""","La Conner, WA, USA",cidbliq
+"""been""","Pacific, WA, USA",cidbliq
+"""been""","Houston, TX, USA",cidbliq
+"""been"",""want""","Tampa, FL, USA",cidbliq
+"""been""","La Grande, WA, USA",cidbliq
+"""been""","Melbourne, FL, USA",cidbliq
+"""been""","Solvang, CA, USA",cidbliq
+"""been""","Kirkland, WA, USA",cidbliq
+"""been""","Covington, WA, USA",cidbliq
+"""been""","Grand Island, NE, USA",cidbliq
+"""been""","Kettle Falls, WA, USA",cidbliq
+"""been""","Lewiston, ID, USA",cidbliq
+"""been""","Danbury, IA, USA",cidbliq
+"""been""","Hillsboro, OR, USA",cidbliq
+"""been""","Flagstaff, AZ, USA",cidbliq
+"""been""","Hood River, OR, USA",cidbliq
+"""been""","Gretna, NE, USA",cidbliq
+"""been""","Carter Lake, IA, USA",cidbliq
+"""been""","The Dalles, OR, USA",cidbliq
+"""been""","South Padre Island, TX, USA",cidbliq
+"""been""","Chandler, AZ, USA",cidbliq
+"""been""","Carroll, IA, USA",cidbliq
+"""been""","Newcastle, WA, USA",cidbliq
+"""been""","South Prairie, WA, USA",cidbliq
+"""been""","Fort Lauderdale, FL, USA",cidbliq
+"""been""","Key West, FL, USA",cidbliq
+"""been""","Tigard, OR, USA",cidbliq
+"""been""","Spanaway, WA, USA",cidbliq
+"""been""","Hilton Head, SC, USA",cidbliq
+"""been""","Islamorada, FL, USA",cidbliq
+"""been""","Soap Lake, WA, USA",cidbliq
+"""been""","San Clemente, CA, USA",cidbliq
+"""been""","Key Largo, FL, USA",cidbliq
+"""been""","South Cle Elum, WA, USA",cidbliq
+"""been""","West Hollywood, CA, USA",cidbliq
+"""been""","Snohomish, WA, USA",cidbliq
+"""been""","Naches, WA, USA",cidbliq
+"""been""","Snoqualmie, WA, USA",cidbliq
+"""been""","Snoqualmie Pass, WA, USA",cidbliq
+"""been""","Kansas City, KS, USA",cidbliq
+"""been""","Hastings, MN, USA",cidbliq
+"""been""","Vancouver, WA, USA",cidbliq
+"""been""","Hardin, MT, USA",cidbliq
+"""been""","Blair, NE, USA",cidbliq
+"""been""","Eagan, MN, USA",cidbliq
+"""been""","Eden Prairie, MN, USA",cidbliq
+"""been""","Steilacoom, WA, USA",cidbliq
+"""been""","Weed, CA, USA",cidbliq
+"""been""","Cle Elum, WA, USA",cidbliq
+"""been""","Bakersfield, CA, USA",cidbliq
+"""been""","North Bend, WA, USA",cidbliq
+"""been""","Stanwood, WA, USA",cidbliq
+"""been"",""want""","Treasure Island, FL, USA",cidbliq
+"""been""","Oak Harbor, WA, USA",cidbliq
+"""been""","Deer Lodge, MT, USA",cidbliq
+"""been""","Hobart, WA, USA",cidbliq
+"""been""","Hoodsport, WA, USA",cidbliq
+"""been""","Friday Harbor, WA, USA",cidbliq
+"""been""","Spokane, WA, USA",cidbliq
+"""been""","Moscow, ID, USA",cidbliq
+"""been""","Coeur d'Alene, ID, USA",cidbliq
+"""been""","Normandy Park, WA, USA",cidbliq
+"""been""","San Francisco, CA, USA",cidbliq
+"""been""","Richmond, British Columbia, Canada",cidbliq
+"""been""","Fremont, NE, USA",cidbliq
+"""been""","North Vancouver, British Columbia, Canada",cidbliq
+"""been""","Boys Town, NE, USA",cidbliq
+"""been""","Edina, MN, USA",cidbliq
+"""been""","Fort Calhoun, NE, USA",cidbliq
+"""been""","Sisters, OR, USA",cidbliq
+"""been""","La Vista, NE, USA",cidbliq
+"""been""","SeaTac, WA, USA",cidbliq
+"""been""","Mill Creek, WA, USA",cidbliq
+"""been""","Milton, WA, USA",cidbliq
+"""been""","Sedro Woolley, WA, USA",cidbliq
+"""been""","Longwood, FL, USA",cidbliq
+"""been""","Tempe, AZ, USA",cidbliq
+"""been""","Beaufort, SC, USA",cidbliq
+"""been""","Brownsville, TX, USA",cidbliq
+"""been""","Astoria, OR, USA",cidbliq
+"""been""","Jacksonville, FL, USA",cidbliq
+"""been""","Mercer Island, WA, USA",cidbliq
+"""been""","Salt Lake City, UT, USA",cidbliq
+"""been""","Orlando, FL, USA",cidbliq
+"""been""","Port Angeles, WA, USA",cidbliq
+"""been""","Lexington, NE, USA",cidbliq
+"""been""","Ralston, NE, USA",cidbliq
+"""been""","Lincoln, NE, USA",cidbliq
+"""been""","Altamonte Springs, FL, USA",cidbliq
+"""been""","Silverdale, WA, USA",cidbliq
+"""been""","Mount Vernon, WA, USA",cidbliq
+"""been""","Mountlake Terrace, WA, USA",cidbliq
+"""been""","Skykomish, WA, USA",cidbliq
+"""been""","Yreka, CA, USA",cidbliq
+"""been""","Mukilteo, WA, USA",cidbliq
+"""been""","Arlington, WA, USA",cidbliq
+"""been""","Shoreline, WA, USA",cidbliq
+"""been""","Auburn, WA, USA",cidbliq
+"""been""","Moses Lake, WA, USA",cidbliq
+"""been""","Granite Falls, WA, USA",cidbliq
+"""been""","Bluffton, SC, USA",cidbliq
+"""been""","Winter Park, FL, USA",cidbliq
+"""been""","Sequim, WA, USA",cidbliq
+"""been""","Winter Springs, FL, USA",cidbliq
+"""been""","Savannah, GA, USA",cidbliq
+"""been""","Monroe, WA, USA",cidbliq
+"""been""","St. Lawrence Gap, Barbados",cidbliq
+"""been""","Shelton, WA, USA",cidbliq
+"""been""","Rockley, Barbados",cidbliq
+"""been""","Bellevue, NE, USA",cidbliq
+"""been""","Lee's Summit, MO, USA",cidbliq
+"""been""","Saint Cloud, MN, USA",cidbliq
+"""been""","Dakota City, NE, USA",cidbliq
+"""been""","Salem, OR, USA",cidbliq
+"""been""","Burlingame, CA, USA",cidbliq
+"""been""","Ritzville, WA, USA",cidbliq
+"""been""","Burbank, CA, USA",cidbliq
+"""been""","Winthrop, WA, USA",cidbliq
+"""been""","Arlington, TX, USA",cidbliq
+"""been""","Buena Park, CA, USA",cidbliq
+"""been""","Keystone, SD, USA",cidbliq
+"""been""","Wilbur, WA, USA",cidbliq
+"""been""","Marathon Shores, FL, USA",cidbliq
+"""been""","Wallace, ID, USA",cidbliq
+"""been""","Camp Verde, AZ, USA",cidbliq
+"""been""","Elk Point, SD, USA",cidbliq
+"""been""","Redondo, WA, USA",cidbliq
+"""been""","Renton, WA, USA",cidbliq
+"""been""","Hastings, Barbados",cidbliq
+"""been""","Pender, NE, USA",cidbliq
+"""been""","Rochester, MN, USA",cidbliq
+"""been""","Papillion, NE, USA",cidbliq
+"""been""","Detroit, MI, USA",cidbliq
+"""been""","Seaside, OR, USA",cidbliq
+"""been""","Kearney, NE, USA",cidbliq
+"""been""","Roslyn, WA, USA",cidbliq
+"""been""","Roy, WA, USA",cidbliq
+"""been""","Medina, WA, USA",cidbliq
+"""been""","Madeira Beach, FL, USA",cidbliq
+"""been""","Yelm, WA, USA",cidbliq
+"""been""","Yarrow Point, WA, USA",cidbliq
+"""been""","Woodinville, WA, USA",cidbliq
+"""been""","Kingman, AZ, USA",cidbliq
+"""been""","Woodland, WA, USA",cidbliq
+"""been""","Yakima, WA, USA",cidbliq
+"""been""","West Point, NE, USA",cidbliq
+"""been""","Fort Dodge, IA, USA",cidbliq
+"""been""","Wayne, NE, USA",cidbliq
+"""been""","North Platte, NE, USA",cidbliq
+"""been""","Dakota Dunes, SD, USA",cidbliq
+"""been""","Garden Grove, CA, USA",cidbliq
+"""been""","Saint Cloud, FL, USA",cidbliq
+"""been""","Newport Beach, CA, USA",cidbliq
+"""been""","Holetown, Barbados",cidbliq
+"""been""","Redmond, OR, USA",cidbliq
+"""been""","Yamhill, OR, USA",cidbliq
+"""been""","Woodburn, OR, USA",cidbliq
+"""been""","Crazy Horse, SD, USA",cidbliq
+"""been"",""want""","Chicago, IL, USA",cidbliq
+"""been""","Los Angeles, CA, USA",cidbliq
+"""been"",""want"",""fave""","Walt Disney World, FL, USA",cidbliq
+"""been""","Vashon, WA, USA",cidbliq
+"""been""","Minneapolis, MN, USA",cidbliq
+"""been""","Kansas City, MO, USA",cidbliq
+"""been""","Wenatchee, WA, USA",cidbliq
+"""been""","Irvine, CA, USA",cidbliq
+"""been""","Prescott, AZ, USA",cidbliq
+"""been""","Redmond, WA, USA",cidbliq
+"""been""","Pismo Beach, CA, USA",cidbliq
+"""been""","Roseburg, OR, USA",cidbliq
+"""been""","Le Mars, IA, USA",cidbliq
+"""been""","Mahahual, Mexico",cidbliq
+"""been""","Long Beach, CA, USA",cidbliq
+"""been""","Deadwood, SD, USA",cidbliq
+"""been""","Valparaiso, NE, USA",cidbliq
+"""been""","Anthon, IA, USA",cidbliq
+"""been""","Reno, NV, USA",cidbliq
+"""been""","Red Wing, MN, USA",cidbliq
+"""been""","Springfield, NE, USA",cidbliq
+"""been""","Woodbury, MN, USA",cidbliq
+"""been""","Worthington, MN, USA",cidbliq
+"""been""","Chico, CA, USA",cidbliq
+"""been""","Windermere, FL, USA",cidbliq
+"""been""","Algona, WA, USA",cidbliq
+"""been""","Sedona, AZ, USA",cidbliq
+"""been""","Galveston, TX, USA",cidbliq
+"""been""","West Linn, OR, USA",cidbliq
+"""been""","Oregon City, OR, USA",cidbliq
+"""been""","Sanford, FL, USA",cidbliq
+"""been""","Mississauga, Ontario, Canada",cidbliq
+"""been""","Niagara Falls, Ontario, Canada",cidbliq
+"""been""","Laughlin, NV, USA",cidbliq
+"""been""","Las Vegas, NV, USA",cidbliq
+"""been""","Hamilton, Ontario, Canada",cidbliq
+"""been""","Marceline, MO, USA",cidbliq
+"""been""","Wilsonville, OR, USA",cidbliq
+"""been""","Glendale, CA, USA",cidbliq
+"""been""","Malibu, CA, USA",cidbliq
+"""been""","Aberdeen, WA, USA",cidbliq
+"""been""","Portland, OR, USA",cidbliq
+"""been"",""want""","St. Pete Beach, FL, USA",cidbliq
+"""been""","St. Petersburg, FL, USA",cidbliq
+"""been""","Shawnee Mission, KS, USA",cidbliq
+"""been""","Hastings, NE, USA",cidbliq
+"""been""","Norfolk, NE, USA",cidbliq
+"""been""","Saint Joseph, MO, USA",cidbliq
+"""been""","Saint Louis, MO, USA",cidbliq

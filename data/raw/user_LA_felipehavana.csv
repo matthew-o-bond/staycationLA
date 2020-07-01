@@ -1,0 +1,558 @@
+tag,place,user
+"""been""","Princeton, NJ, USA",felipehavana
+"""been""","Kyrenia, Cyprus",felipehavana
+"""been""","Larnaca, Cyprus",felipehavana
+"""been""","Famagusta, Cyprus",felipehavana
+"""been""","Vaduz, Liechtenstein",felipehavana
+"""been""","Warsaw, Poland",felipehavana
+"""been""","Baltimore, MD, USA",felipehavana
+"""been""","Albuquerque, NM, USA",felipehavana
+"""been""","Escondido, CA, USA",felipehavana
+"""been""","Palm Harbor, FL, USA",felipehavana
+"""been""","Leavesden, UK",felipehavana
+"""been""","Savannah, GA, USA",felipehavana
+"""been""","Estoril, Portugal",felipehavana
+"""been""","Lisbon, Portugal",felipehavana
+"""been""","Palm Beach, FL, USA",felipehavana
+"""been""","Jaca, Spain",felipehavana
+"""been""","Lucerne, Switzerland",felipehavana
+"""been""","Cascais, Portugal",felipehavana
+"""been""","Chichen Itza, Mexico",felipehavana
+"""been""","Amersham, UK",felipehavana
+"""been""","Nicosia, Cyprus",felipehavana
+"""been""","Paphos, Cyprus",felipehavana
+"""been""","Riga, Latvia",felipehavana
+"""been""","Limassol City, Cyprus",felipehavana
+"""been""","Salt Lake City, UT, USA",felipehavana
+"""been""","Holguin, Cuba",felipehavana
+"""been""","Trinidad, Cuba",felipehavana
+"""been""","Quarteira, Portugal",felipehavana
+"""been""","Positano, Italy",felipehavana
+"""been""","Funchal, Portugal",felipehavana
+"""been""","Cancun, Mexico",felipehavana
+"""been""","Sintra, Portugal",felipehavana
+"""been""","Mexico City, Mexico",felipehavana
+"""been""","Mora de Rubielos, Spain",felipehavana
+"""been""","Luxembourg City, Luxembourg",felipehavana
+"""been""","Petit St.Vincent, St. Vincent and the Grenadines",felipehavana
+"""been""","Dunstable, UK",felipehavana
+"""been""","Doha, Qatar",felipehavana
+"""been""","Elche, Spain",felipehavana
+"""been""","Trat, Thailand",felipehavana
+"""been""","Murla, Spain",felipehavana
+"""been""","La Jolla, CA, USA",felipehavana
+"""been""","Ben Tre, Vietnam",felipehavana
+"""been""","Orlando, FL, USA",felipehavana
+"""been""","Rouen, France",felipehavana
+"""been""","Angers, France",felipehavana
+"""been""","Strasbourg, France",felipehavana
+"""been""","Hemel Hempstead, UK",felipehavana
+"""been""","Tulum, Mexico",felipehavana
+"""been""","Bordeaux, France",felipehavana
+"""been""","Playa del Carmen, Mexico",felipehavana
+"""been""","Basel, Switzerland",felipehavana
+"""been""","Mijas, Spain",felipehavana
+"""been""","Mojacar, Spain",felipehavana
+"""been""","Saint-Doulchard, France",felipehavana
+"""been""","Nassau, Bahamas",felipehavana
+"""been""","Episkopi, Cyprus",felipehavana
+"""been""","Freeport, Bahamas",felipehavana
+"""been""","Sierra Nevada, Spain",felipehavana
+"""been""","Laguna Beach, CA, USA",felipehavana
+"""been""","Half Moon Bay, CA, USA",felipehavana
+"""been""","Coquelles, France",felipehavana
+"""been""","Biarritz, France",felipehavana
+"""been""","Geneva, Switzerland",felipehavana
+"""been""","Myrtle Beach, SC, USA",felipehavana
+"""been""","Evanston, IL, USA",felipehavana
+"""been""","Bern, Switzerland",felipehavana
+"""been""","Cernobbio, Italy",felipehavana
+"""been""","Twickenham, UK",felipehavana
+"""want""","Mumbai, India",felipehavana
+"""been""","Richmond-upon-Thames, UK",felipehavana
+"""been""","Vienna, Austria",felipehavana
+"""been""","Newark, NJ, USA",felipehavana
+"""want""","New Delhi, India",felipehavana
+"""been""","Honolulu, HI, USA",felipehavana
+"""been""","Houston, TX, USA",felipehavana
+"""been""","Bakersfield, CA, USA",felipehavana
+"""been""","Tring, UK",felipehavana
+"""been""","Wembley, UK",felipehavana
+"""been""","Newport, RI, USA",felipehavana
+"""been""","Port d'Alcudia, Spain",felipehavana
+"""been""","Anaheim, CA, USA",felipehavana
+"""been""","Albufeira, Portugal",felipehavana
+"""been""","Toulouse, France",felipehavana
+"""been""","Treasure Island, FL, USA",felipehavana
+"""been""","Pompano Beach, FL, USA",felipehavana
+"""been""","Carvoeiro, Portugal",felipehavana
+"""been""","Crawley, UK",felipehavana
+"""been""","Palatine, IL, USA",felipehavana
+"""been""","Watford, UK",felipehavana
+"""been""","Rosemont, IL, USA",felipehavana
+"""been""","Algarve, Portugal",felipehavana
+"""been""","Milton Keynes, UK",felipehavana
+"""been""","Rochester, NY, USA",felipehavana
+"""been""","Faro, Portugal",felipehavana
+"""been""","Lagos, Portugal",felipehavana
+"""been""","Moraira, Spain",felipehavana
+"""been""","Berkhamsted, UK",felipehavana
+"""been""","Capitola, CA, USA",felipehavana
+"""been""","Mount Prospect, IL, USA",felipehavana
+"""been""","Naples, FL, USA",felipehavana
+"""been""","Fort Lauderdale, FL, USA",felipehavana
+"""been""","Charleston, SC, USA",felipehavana
+"""been""","Krakow, Poland",felipehavana
+"""been""","Lancaster, UK",felipehavana
+"""been""","West Hollywood, CA, USA",felipehavana
+"""been""","Leamington Spa, UK",felipehavana
+"""been""","Manchester, UK",felipehavana
+"""been""","Portimao, Portugal",felipehavana
+"""been""","Chipping Campden, UK",felipehavana
+"""been""","Sagres, Portugal",felipehavana
+"""been""","Versailles, France",felipehavana
+"""been""","Paris, France",felipehavana
+"""been""","Luxor, Egypt",felipehavana
+"""been""","Giza, Egypt",felipehavana
+"""been""","Cairo, Egypt",felipehavana
+"""been""","Wendover, UK",felipehavana
+"""been""","Jersey City, NJ, USA",felipehavana
+"""been""","Nairobi, Kenya",felipehavana
+"""been""","Denia, Spain",felipehavana
+"""been""","San Francisco, CA, USA",felipehavana
+"""been""","Javea, Spain",felipehavana
+"""been""","Indian Rocks Beach, FL, USA",felipehavana
+"""been""","Tampa, FL, USA",felipehavana
+"""been""","Miami Beach, FL, USA",felipehavana
+"""been""","Miami, FL, USA",felipehavana
+"""been""","Montpellier, France",felipehavana
+"""been""","Alcala, Spain",felipehavana
+"""been""","Carcassonne Center, France",felipehavana
+"""been""","Aigues-Mortes, France",felipehavana
+"""been""","Val d'Isere, France",felipehavana
+"""been""","Costa Mesa, CA, USA",felipehavana
+"""been""","Austin, TX, USA",felipehavana
+"""been""","Perpignan, France",felipehavana
+"""been""","Weston Turville, UK",felipehavana
+"""been""","Nimes, France",felipehavana
+"""been""","Dubai, United Arab Emirates",felipehavana
+"""been""","Sliema, Malta",felipehavana
+"""want""","Hong Kong, China",felipehavana
+"""been""","Bridlington, UK",felipehavana
+"""been""","Valletta, Malta",felipehavana
+"""been""","Mombasa, Kenya",felipehavana
+"""been""","Salzburg, Austria",felipehavana
+"""been""","Ko Chang, Thailand",felipehavana
+"""been""","South San Francisco, CA, USA",felipehavana
+"""been""","Playa del Ingles, Spain",felipehavana
+"""been""","Zahara de los Atunes, Spain",felipehavana
+"""been""","Brentwood, UK",felipehavana
+"""been""","Cayo Largo, Cuba",felipehavana
+"""been""","Brooklyn, NY, USA",felipehavana
+"""been""","Providence, RI, USA",felipehavana
+"""been""","Tarpon Springs, FL, USA",felipehavana
+"""been""","Hounslow, UK",felipehavana
+"""been""","Nancy, France",felipehavana
+"""been""","Benalmadena, Spain",felipehavana
+"""been""","Gloucester, UK",felipehavana
+"""been""","Parcent, Spain",felipehavana
+"""been""","Harrogate, UK",felipehavana
+"""been""","Salou, Spain",felipehavana
+"""been""","Clacton-on-Sea, UK",felipehavana
+"""been""","Santa Ponsa, Spain",felipehavana
+"""been""","Castro Marim, Portugal",felipehavana
+"""been""","Augusta, GA, USA",felipehavana
+"""been""","Sacramento, CA, USA",felipehavana
+"""been""","Cork, Ireland",felipehavana
+"""been""","Esposende (Rivadavia), Spain",felipehavana
+"""been""","Trieste, Italy",felipehavana
+"""been""","Aquileia, Italy",felipehavana
+"""been""","Dublin, Ireland",felipehavana
+"""been""","Montmarault, France",felipehavana
+"""been""","Galway, Ireland",felipehavana
+"""been""","Phoenix, AZ, USA",felipehavana
+"""been""","Indian Wells, CA, USA",felipehavana
+"""been""","St. John's, Antigua and Barbuda",felipehavana
+"""been""","Saint Julian's, Malta",felipehavana
+"""been""","Palm - Eagle Beach, Aruba",felipehavana
+"""been""","Napa, CA, USA",felipehavana
+"""been""","Long Beach, CA, USA",felipehavana
+"""been""","Seven Mile Beach, Cayman Islands",felipehavana
+"""been""","Pittsburgh, PA, USA",felipehavana
+"""been""","Hondarribia, Spain",felipehavana
+"""been""","Pedreguer, Spain",felipehavana
+"""been""","Siena, Italy",felipehavana
+"""been""","Luz, Portugal",felipehavana
+"""been""","Palm Springs, CA, USA",felipehavana
+"""been""","Palo Alto, CA, USA",felipehavana
+"""been""","Paleokastritsa, Greece",felipehavana
+"""been""","Tijuana, Mexico",felipehavana
+"""been""","Livigno, Italy",felipehavana
+"""been""","Fort Worth, TX, USA",felipehavana
+"""been""","Greenford, UK",felipehavana
+"""been""","Pasadena, CA, USA",felipehavana
+"""been""","Monterey, CA, USA",felipehavana
+"""been""","Sezana, Slovenia",felipehavana
+"""been""","Acapulco, Mexico",felipehavana
+"""been""","Magaluf, Spain",felipehavana
+"""been""","Big Sur, CA, USA",felipehavana
+"""been""","Cojimar, Cuba",felipehavana
+"""been""","Arcachon, France",felipehavana
+"""been""","Bridgetown, Barbados",felipehavana
+"""been""","Bracknell, UK",felipehavana
+"""been""","Benissa, Spain",felipehavana
+"""been""","Palmanova, Spain",felipehavana
+"""been""","Barbados, Caribbean",felipehavana
+"""been""","Vale do Lobo, Portugal",felipehavana
+"""been""","St. Petersburg, Russia",felipehavana
+"""been""","Cerise, France",felipehavana
+"""been""","Kansas City, MO, USA",felipehavana
+"""been""","Ronda, Spain",felipehavana
+"""been""","St. Petersburg, FL, USA",felipehavana
+"""been""","North Las Vegas, NV, USA",felipehavana
+"""been""","West Drayton, UK",felipehavana
+"""been""","Montego Bay, Jamaica",felipehavana
+"""been""","Sauze d'Oulx, Italy",felipehavana
+"""been""","West Palm Beach, FL, USA",felipehavana
+"""been""","Kingston, Jamaica",felipehavana
+"""been""","Garda, Italy",felipehavana
+"""been""","Akrotiri, Cyprus",felipehavana
+"""been""","Malibu, CA, USA",felipehavana
+"""been""","Charleston, WV, USA",felipehavana
+"""been""","Negril, Jamaica",felipehavana
+"""been""","Grado, Italy",felipehavana
+"""been""","Ocho Rios, Jamaica",felipehavana
+"""been""","Tignes, France",felipehavana
+"""been""","Xativa, Spain",felipehavana
+"""been""","Val Thorens, France",felipehavana
+"""been""","Qawra, Malta",felipehavana
+"""been""","St. Paul's Bay, Malta",felipehavana
+"""been""","Sarasota, FL, USA",felipehavana
+"""been""","Ribadavia, Spain",felipehavana
+"""been""","Reno, NV, USA",felipehavana
+"""been""","Scottsdale, AZ, USA",felipehavana
+"""been""","Marina del Rey, CA, USA",felipehavana
+"""been""","Las Vegas, NV, USA",felipehavana
+"""been""","Laughlin, NV, USA",felipehavana
+"""been""","Sandown, UK",felipehavana
+"""been""","Sharm El Sheikh, Egypt",felipehavana
+"""been""","Andorra la Vella, Andorra",felipehavana
+"""been""","Interlaken, Switzerland",felipehavana
+"""been""","Los Angeles, CA, USA",felipehavana
+"""been""","Chicago, IL, USA",felipehavana
+"""been""","Wengen, Switzerland",felipehavana
+"""been""","South Lake Tahoe, CA, USA",felipehavana
+"""been""","Southport, UK",felipehavana
+"""been""","Corfu Town, Greece",felipehavana
+"""been""","Saint Louis, MO, USA",felipehavana
+"""been""","Gros Islet, St. Lucia",felipehavana
+"""been""","Hayes, UK",felipehavana
+"""been""","Castries, St. Lucia",felipehavana
+"""been""","Lugano, Switzerland",felipehavana
+"""been""","St. Pete Beach, FL, USA",felipehavana
+"""been""","Johannesburg, South Africa",felipehavana
+"""been""","Soufriere, St. Lucia",felipehavana
+"""been""","St. Moritz, Switzerland",felipehavana
+"""been""","Granges-les-Beaumont, France",felipehavana
+"""been""","Covington, KY, USA",felipehavana
+"""been""","Newport Beach, CA, USA",felipehavana
+"""been""","Zermatt, Switzerland",felipehavana
+"""been""","Guardalavaca, Cuba",felipehavana
+"""been""","Benitachell, Spain",felipehavana
+"""been""","Utrecht, The Netherlands",felipehavana
+"""been""","Champoluc, Italy",felipehavana
+"""been""","Torrevieja, Spain",felipehavana
+"""been""","Kingston-upon-Hull, UK",felipehavana
+"""been""","Calpe, Spain",felipehavana
+"""been""","Benidorm, Spain",felipehavana
+"""been""","Lake Geneva, WI, USA",felipehavana
+"""been""","Marlow, UK",felipehavana
+"""been""","Cape Town Central, South Africa",felipehavana
+"""been""","Ambleside, UK",felipehavana
+"""been""","Valencia, Spain",felipehavana
+"""been""","Roquetas de Mar, Spain",felipehavana
+"""been""","Stoos, Switzerland",felipehavana
+"""been""","Argeles-sur-Mer, France",felipehavana
+"""been""","Palermo, Italy",felipehavana
+"""been""","Frankfort, KY, USA",felipehavana
+"""been""","Weymouth, UK",felipehavana
+"""been""","Lucca, Italy",felipehavana
+"""been""","Grasmere, UK",felipehavana
+"""been""","Cleveland, OH, USA",felipehavana
+"""been""","Keswick, UK",felipehavana
+"""been""","Kendal, UK",felipehavana
+"""been""","King's Lynn, UK",felipehavana
+"""been""","Niagara Falls, NY, USA",felipehavana
+"""been""","Teulada, Spain",felipehavana
+"""been""","Amalfi, Italy",felipehavana
+"""been""","Blackpool, UK",felipehavana
+"""been""","Morzine, France",felipehavana
+"""been""","Windermere, UK",felipehavana
+"""been""","Sorrento, Italy",felipehavana
+"""been""","Gary, IN, USA",felipehavana
+"""been""","Glasgow, UK",felipehavana
+"""been""","Sitges, Spain",felipehavana
+"""been""","Courmayeur, Italy",felipehavana
+"""been""","St. Andrews, UK",felipehavana
+"""been""","Leeds, UK",felipehavana
+"""been""","Aosta, Italy",felipehavana
+"""been""","Ayia Napa, Cyprus",felipehavana
+"""been""","Ascot, UK",felipehavana
+"""been""","Salisbury, UK",felipehavana
+"""been""","Tarragona, Spain",felipehavana
+"""been""","Stansted Mountfitchet, UK",felipehavana
+"""been""","Vigo, Spain",felipehavana
+"""been""","Santiago de Compostela, Spain",felipehavana
+"""been""","Windsor, UK",felipehavana
+"""been""","Kuusamo, Finland",felipehavana
+"""been""","La Rosiere, France",felipehavana
+"""been""","Atlantic City, NJ, USA",felipehavana
+"""been""","Avila, Spain",felipehavana
+"""been""","Venice, Italy",felipehavana
+"""been""","Fort William, UK",felipehavana
+"""been""","Logrono, Spain",felipehavana
+"""been""","Christchurch, UK",felipehavana
+"""been""","Roses, Spain",felipehavana
+"""been""","Cartagena, Spain",felipehavana
+"""been""","Paignton, UK",felipehavana
+"""been""","St. Albans, UK",felipehavana
+"""been""","Sardinia, Italy",felipehavana
+"""been""","Hertford, UK",felipehavana
+"""been""","Madrid, Spain",felipehavana
+"""been""","Cuenca, Spain",felipehavana
+"""been""","Fuengirola, Spain",felipehavana
+"""been""","Murcia, Spain",felipehavana
+"""been""","Praia da Rocha, Portugal",felipehavana
+"""been""","Nerja, Spain",felipehavana
+"""been""","Virginia Beach, VA, USA",felipehavana
+"""been""","Boca Raton, FL, USA",felipehavana
+"""been""","Ninh Binh, Vietnam",felipehavana
+"""been""","Pamplona, Spain",felipehavana
+"""been""","Douglas, UK",felipehavana
+"""been""","Shanklin, UK",felipehavana
+"""been""","Ventnor, UK",felipehavana
+"""want""","Tokyo, Japan",felipehavana
+"""been""","Milan, Italy",felipehavana
+"""been""","Redding, CA, USA",felipehavana
+"""been""","Varadero, Cuba",felipehavana
+"""been""","Perth, Australia",felipehavana
+"""been""","Charlotte, NC, USA",felipehavana
+"""been""","Mazatlan, Mexico",felipehavana
+"""been""","Melbourne, Australia",felipehavana
+"""been""","Puerto Vallarta, Mexico",felipehavana
+"""been""","Dallas, TX, USA",felipehavana
+"""been""","Santiago de Cuba, Cuba",felipehavana
+"""been""","Camaguey, Cuba",felipehavana
+"""been""","Lexington, KY, USA",felipehavana
+"""been""","Havana, Cuba",felipehavana
+"""been""","Birmingham, UK",felipehavana
+"""been""","Warwick, UK",felipehavana
+"""been""","Edinburgh, UK",felipehavana
+"""been""","Coventry, UK",felipehavana
+"""been""","Turin, Italy",felipehavana
+"""been""","Bradford, UK",felipehavana
+"""been""","Croydon, UK",felipehavana
+"""been""","Siem Reap, Cambodia",felipehavana
+"""been""","Mellieha, Malta",felipehavana
+"""been""","Palm Desert, CA, USA",felipehavana
+"""been""","Quinta do Lago, Portugal",felipehavana
+"""been""","Gandia, Spain",felipehavana
+"""been""","Fuente Alamo, Spain",felipehavana
+"""been""","Chiang Mai, Thailand",felipehavana
+"""been""","Bangkok, Thailand",felipehavana
+"""been""","Cabo San Lucas, Mexico",felipehavana
+"""been""","Oakland, CA, USA",felipehavana
+"""been""","Alicante, Spain",felipehavana
+"""been""","Calais, France",felipehavana
+"""been""","Rubielos de Mora, Spain",felipehavana
+"""been""","Malindi, Kenya",felipehavana
+"""been""","San Jose del Cabo, Mexico",felipehavana
+"""been""","Oban, UK",felipehavana
+"""been""","Bergamo, Italy",felipehavana
+"""been""","Como, Italy",felipehavana
+"""been""","Bellagio, Italy",felipehavana
+"""been""","Ho Chi Minh City, Vietnam",felipehavana
+"""been""","Hanoi, Vietnam",felipehavana
+"""been""","Halong Bay, Vietnam",felipehavana
+"""been""","Oklahoma City, OK, USA",felipehavana
+"""been""","Rancho Mirage, CA, USA",felipehavana
+"""been""","Ontario, CA, USA",felipehavana
+"""been""","Verbier, Switzerland",felipehavana
+"""been""","Ko Lanta, Thailand",felipehavana
+"""been""","Knutsford, UK",felipehavana
+"""been""","Stratford-upon-Avon, UK",felipehavana
+"""been""","Beverly Hills, CA, USA",felipehavana
+"""been""","Lymington, UK",felipehavana
+"""been""","Lytham St Anne's, UK",felipehavana
+"""been""","Gata de Gorgos, Spain",felipehavana
+"""been""","Bradenton, FL, USA",felipehavana
+"""been""","Santa Cruz, CA, USA",felipehavana
+"""been""","Tossa de Mar, Spain",felipehavana
+"""been""","Atlanta, GA, USA",felipehavana
+"""been""","Segovia, Spain",felipehavana
+"""been""","Cheltenham, UK",felipehavana
+"""been""","Salamanca, Spain",felipehavana
+"""been""","La Thuile, Italy",felipehavana
+"""been""","Burgos, Spain",felipehavana
+"""been""","Santa Barbara, CA, USA",felipehavana
+"""been""","Temecula, CA, USA",felipehavana
+"""been""","Barcelona, Spain",felipehavana
+"""been""","Eindhoven, The Netherlands",felipehavana
+"""been""","Marseille, France",felipehavana
+"""been""","Montreux, Switzerland",felipehavana
+"""been""","Troyes, France",felipehavana
+"""been""","Reims, France",felipehavana
+"""been""","Girona, Spain",felipehavana
+"""been""","Epernay, France",felipehavana
+"""been""","Lauderdale-By-The-Sea, FL, USA",felipehavana
+"""been""","Klamath Falls, OR, USA",felipehavana
+"""been""","Peniscola, Spain",felipehavana
+"""been""","Richmond, VA, USA",felipehavana
+"""been""","Alhama de Murcia, Spain",felipehavana
+"""been""","Amsterdam, The Netherlands",felipehavana
+"""been""","Santa Monica, CA, USA",felipehavana
+"""been""","Clearwater, FL, USA",felipehavana
+"""been""","Chamonix, France",felipehavana
+"""been""","Zurich, Switzerland",felipehavana
+"""been""","Annecy, France",felipehavana
+"""been""","Southampton, UK",felipehavana
+"""been""","Santa Rosa, CA, USA",felipehavana
+"""been""","Portsmouth, UK",felipehavana
+"""been""","Port de Pollenca, Spain",felipehavana
+"""been""","Megeve, France",felipehavana
+"""been""","Lyon, France",felipehavana
+"""been""","Karpathos, Greece",felipehavana
+"""been""","Torquay, UK",felipehavana
+"""been""","Anse Cochon, St. Lucia",felipehavana
+"""been""","Saint-Malo, France",felipehavana
+"""been""","Corvera, Spain",felipehavana
+"""been""","Frejus, France",felipehavana
+"""been""","Stafford, UK",felipehavana
+"""been""","Wailea, HI, USA",felipehavana
+"""been""","New York City, NY, USA",felipehavana
+"""been""","Cullera, Spain",felipehavana
+"""been""","Carlsbad, CA, USA",felipehavana
+"""been""","Bournemouth, UK",felipehavana
+"""been""","Soller, Spain",felipehavana
+"""been""","Hannover, Germany",felipehavana
+"""been""","Carmel, CA, USA",felipehavana
+"""been""","Desert Hot Springs, CA, USA",felipehavana
+"""been""","Fort Myers Beach, FL, USA",felipehavana
+"""been""","Kissimmee, FL, USA",felipehavana
+"""been""","San Jose, CA, USA",felipehavana
+"""been""","Fort Myers, FL, USA",felipehavana
+"""been""","Nice, France",felipehavana
+"""been""","Dijon, France",felipehavana
+"""been""","La Azohia, Spain",felipehavana
+"""been""","Heraklion, Greece",felipehavana
+"""been""","Crete, Greece",felipehavana
+"""been""","Agios Nikolaos, Greece",felipehavana
+"""been""","Kapalua, HI, USA",felipehavana
+"""been""","Worthing, UK",felipehavana
+"""been""","Krabi Town, Thailand",felipehavana
+"""been""","San Diego, CA, USA",felipehavana
+"""been""","Cincinnati, OH, USA",felipehavana
+"""been""","Lloret de Mar, Spain",felipehavana
+"""been""","Schaumburg, IL, USA",felipehavana
+"""been""","Boston, MA, USA",felipehavana
+"""been""","New Orleans, LA, USA",felipehavana
+"""been""","Newcastle upon Tyne, UK",felipehavana
+"""been""","Brighton, UK",felipehavana
+"""been""","Bourges, France",felipehavana
+"""been""","Rethymnon, Greece",felipehavana
+"""been""","Berkeley, CA, USA",felipehavana
+"""been""","Risoul, France",felipehavana
+"""been""","Santander, Spain",felipehavana
+"""been""","Hastings, UK",felipehavana
+"""been""","Saint-Tropez, France",felipehavana
+"""been""","Avoriaz, France",felipehavana
+"""been""","Monte-Carlo, Monaco",felipehavana
+"""been""","Casablanca, Morocco",felipehavana
+"""been""","Nottingham, UK",felipehavana
+"""been""","Berlin, Germany",felipehavana
+"""been""","Aix-en-Provence, France",felipehavana
+"""been""","Vilagarcia de Arousa, Spain",felipehavana
+"""been""","Vilamoura, Portugal",felipehavana
+"""been""","Newquay, UK",felipehavana
+"""been""","Taunton, UK",felipehavana
+"""been""","La Rochelle, France",felipehavana
+"""been""","Zaragoza, Spain",felipehavana
+"""been""","La Jonquera, Spain",felipehavana
+"""been""","Marrakech, Morocco",felipehavana
+"""been""","Wroclaw, Poland",felipehavana
+"""been""","Indianapolis, IN, USA",felipehavana
+"""been""","Norfolk, VA, USA",felipehavana
+"""been""","Teruel, Spain",felipehavana
+"""been""","Oxford, UK",felipehavana
+"""been""","Sydney, Australia",felipehavana
+"""been""","Hollywood, FL, USA",felipehavana
+"""been""","Niagara Falls, Ontario, Canada",felipehavana
+"""been""","Bilbao, Spain",felipehavana
+"""been""","Alresford, UK",felipehavana
+"""been""","St Ives, UK",felipehavana
+"""been""","Sheffield, UK",felipehavana
+"""been""","Arles, France",felipehavana
+"""been""","Reading, UK",felipehavana
+"""been""","Marne-la-Vallee, France",felipehavana
+"""been""","Hamburg, Germany",felipehavana
+"""been""","Great Missenden, UK",felipehavana
+"""been""","San Sebastian - Donostia, Spain",felipehavana
+"""been""","L'Alfas del Pi, Spain",felipehavana
+"""been""","Jerusalem, Israel",felipehavana
+"""been""","Aberdeen, UK",felipehavana
+"""been""","Scarborough, UK",felipehavana
+"""been""","Slough, UK",felipehavana
+"""been""","Antibes, France",felipehavana
+"""been""","Calas de Majorca, Spain",felipehavana
+"""been""","Hoi An, Vietnam",felipehavana
+"""been""","Cala d'Or, Spain",felipehavana
+"""been""","Bath, UK",felipehavana
+"""been""","Athens, Greece",felipehavana
+"""been""","Exeter, UK",felipehavana
+"""been""","Palma de Mallorca, Spain",felipehavana
+"""been""","Cannes, France",felipehavana
+"""been""","Da Nang, Vietnam",felipehavana
+"""been""","Leicester, UK",felipehavana
+"""been""","Pompeii, Italy",felipehavana
+"""been""","Naples, Italy",felipehavana
+"""been""","Vieux Fort, St. Lucia",felipehavana
+"""been""","Almeria, Spain",felipehavana
+"""been""","Rotterdam, The Netherlands",felipehavana
+"""been""","Keflavik, Iceland",felipehavana
+"""been""","Durham, UK",felipehavana
+"""been""","The Hague, The Netherlands",felipehavana
+"""been""","London, UK",felipehavana
+"""been""","Liverpool, UK",felipehavana
+"""been""","Le Touquet \u2013 Paris-Plage, France",felipehavana
+"""been""","Munich, Germany",felipehavana
+"""been""","Louisville, KY, USA",felipehavana
+"""been""","Ixtapa, Mexico",felipehavana
+"""been""","Cardiff, UK",felipehavana
+"""been""","Rome, Italy",felipehavana
+"""been""","Sausalito, CA, USA",felipehavana
+"""been""","Norwich, UK",felipehavana
+"""been""","Cordoba, Spain",felipehavana
+"""been""","Bristol, UK",felipehavana
+"""been""","Vatican City, Vatican City",felipehavana
+"""been""","Longboat Key, FL, USA",felipehavana
+"""been""","York, UK",felipehavana
+"""been""","Cambridge, UK",felipehavana
+"""been""","Swansea, UK",felipehavana
+"""been""","Marbella, Spain",felipehavana
+"""been""","Eastbourne, UK",felipehavana
+"""been""","Brussels, Belgium",felipehavana
+"""been""","Malaga, Spain",felipehavana
+"""been""","Estepona, Spain",felipehavana
+"""been""","Bolans, Antigua and Barbuda",felipehavana
+"""been""","Mammoth Lakes, CA, USA",felipehavana
+"""been""","Washington DC, DC, USA",felipehavana
+"""been""","Melgaco, Portugal",felipehavana
+"""been""","Rickenbach, Switzerland",felipehavana
+"""been""","Philadelphia, PA, USA",felipehavana
+"""been""","Altea, Spain",felipehavana
+"""been""","Seville, Spain",felipehavana
+"""been""","Chester, UK",felipehavana
+"""been""","Granada, Spain",felipehavana
+"""been""","Poole, UK",felipehavana
+"""been""","Torremolinos, Spain",felipehavana
+"""been""","Jersey, UK",felipehavana

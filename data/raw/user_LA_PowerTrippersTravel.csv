@@ -1,0 +1,832 @@
+tag,place,user
+"""been""","Stamford, CT, USA",PowerTrippersTravel
+"""been""","Palm Desert, CA, USA",PowerTrippersTravel
+"""been""","Mason City, IA, USA",PowerTrippersTravel
+"""been""","Blue Earth, MN, USA",PowerTrippersTravel
+"""been""","Sioux Center, IA, USA",PowerTrippersTravel
+"""been""","Bloomington, MN, USA",PowerTrippersTravel
+"""been""","Edgartown, MA, USA",PowerTrippersTravel
+"""been""","Eastham, MA, USA",PowerTrippersTravel
+"""been""","Winter Park, CO, USA",PowerTrippersTravel
+"""been""","Cattolica, Italy",PowerTrippersTravel
+"""been""","Linville, NC, USA",PowerTrippersTravel
+"""been""","Corolla, NC, USA",PowerTrippersTravel
+"""been""","Pasadena, CA, USA",PowerTrippersTravel
+"""been""","Watford City, ND, USA",PowerTrippersTravel
+"""been""","Dallas, TX, USA",PowerTrippersTravel
+"""been""","Carson City, NV, USA",PowerTrippersTravel
+"""been""","Saint Paul, MN, USA",PowerTrippersTravel
+"""been""","Falmouth, MA, USA",PowerTrippersTravel
+"""been""","Olympic Valley, CA, USA",PowerTrippersTravel
+"""been""","Augusta, GA, USA",PowerTrippersTravel
+"""been""","Las Cruces, NM, USA",PowerTrippersTravel
+"""been""","Tuscaloosa, AL, USA",PowerTrippersTravel
+"""been""","Charlotte, NC, USA",PowerTrippersTravel
+"""been""","Las Vegas, NM, USA",PowerTrippersTravel
+"""been""","Cherokee, NC, USA",PowerTrippersTravel
+"""been""","Akumal, Mexico",PowerTrippersTravel
+"""been""","Watertown, SD, USA",PowerTrippersTravel
+"""been""","Bowling Green, KY, USA",PowerTrippersTravel
+"""been""","Plymouth, MA, USA",PowerTrippersTravel
+"""been""","Spring Green, WI, USA",PowerTrippersTravel
+"""been""","Dalhart, TX, USA",PowerTrippersTravel
+"""been""","Manly, IA, USA",PowerTrippersTravel
+"""been""","Provincetown, MA, USA",PowerTrippersTravel
+"""been""","Grapevine, TX, USA",PowerTrippersTravel
+"""been""","Wall, SD, USA",PowerTrippersTravel
+"""been""","Enid, OK, USA",PowerTrippersTravel
+"""been""","State College, PA, USA",PowerTrippersTravel
+"""been""","Kennebunkport, ME, USA",PowerTrippersTravel
+"""been""","Kennebunk, ME, USA",PowerTrippersTravel
+"""been""","Marquette, IA, USA",PowerTrippersTravel
+"""been""","Kittery, ME, USA",PowerTrippersTravel
+"""been""","Alexandria, VA, USA",PowerTrippersTravel
+"""been""","Lone Pine, CA, USA",PowerTrippersTravel
+"""been""","Senigallia, Italy",PowerTrippersTravel
+"""been""","Long Beach, CA, USA",PowerTrippersTravel
+"""been""","Peguche, Ecuador",PowerTrippersTravel
+"""been""","San Marcos, TX, USA",PowerTrippersTravel
+"""been""","Pendleton, OR, USA",PowerTrippersTravel
+"""been""","Lodi, CA, USA",PowerTrippersTravel
+"""been""","Phoenix, AZ, USA",PowerTrippersTravel
+"""been""","Fort Bragg, CA, USA",PowerTrippersTravel
+"""been""","Salina, KS, USA",PowerTrippersTravel
+"""been""","Baton Rouge, LA, USA",PowerTrippersTravel
+"""been""","Incline Village, NV, USA",PowerTrippersTravel
+"""been""","Lafayette, LA, USA",PowerTrippersTravel
+"""been""","Paris, France",PowerTrippersTravel
+"""been""","Hawthorne, NV, USA",PowerTrippersTravel
+"""been""","Henderson, NV, USA",PowerTrippersTravel
+"""been""","Fresno, CA, USA",PowerTrippersTravel
+"""been""","Los Angeles, CA, USA",PowerTrippersTravel
+"""been""","San Angelo, TX, USA",PowerTrippersTravel
+"""been""","Ontario, OR, USA",PowerTrippersTravel
+"""been""","Keystone, CO, USA",PowerTrippersTravel
+"""been""","Prescott, AZ, USA",PowerTrippersTravel
+"""been""","Durham, NC, USA",PowerTrippersTravel
+"""been""","Saint Charles, MO, USA",PowerTrippersTravel
+"""been""","Covington, KY, USA",PowerTrippersTravel
+"""been""","Las Vegas, NV, USA",PowerTrippersTravel
+"""been""","Annapolis, MD, USA",PowerTrippersTravel
+"""been""","Huron, SD, USA",PowerTrippersTravel
+"""been""","Waco, TX, USA",PowerTrippersTravel
+"""been""","Savage, MN, USA",PowerTrippersTravel
+"""been""","Elkhart, IN, USA",PowerTrippersTravel
+"""been""","Quito, Ecuador",PowerTrippersTravel
+"""been""","Elko, NV, USA",PowerTrippersTravel
+"""been""","Ely, NV, USA",PowerTrippersTravel
+"""been""","Milwaukee, WI, USA",PowerTrippersTravel
+"""been""","Shakopee, MN, USA",PowerTrippersTravel
+"""been""","Byron, GA, USA",PowerTrippersTravel
+"""been""","Mackinaw City, MI, USA",PowerTrippersTravel
+"""been""","Liberty, MO, USA",PowerTrippersTravel
+"""been""","Mackinac Island, MI, USA",PowerTrippersTravel
+"""been""","Hermosa, SD, USA",PowerTrippersTravel
+"""been""","Payson, AZ, USA",PowerTrippersTravel
+"""been""","Bridgeport, CT, USA",PowerTrippersTravel
+"""been""","Augusta, ME, USA",PowerTrippersTravel
+"""been""","Petaluma, CA, USA",PowerTrippersTravel
+"""been""","Paradise Valley, AZ, USA",PowerTrippersTravel
+"""been""","Hill City, SD, USA",PowerTrippersTravel
+"""been""","Manistique, MI, USA",PowerTrippersTravel
+"""been""","Saint Ignace, MI, USA",PowerTrippersTravel
+"""been""","Evansville, IN, USA",PowerTrippersTravel
+"""been""","Yosemite, KY, USA",PowerTrippersTravel
+"""been""","Shoreview, MN, USA",PowerTrippersTravel
+"""been""","Doral, FL, USA",PowerTrippersTravel
+"""been""","Winston Salem, NC, USA",PowerTrippersTravel
+"""been""","Mount Washington, NH, USA",PowerTrippersTravel
+"""been""","Big Sky, MT, USA",PowerTrippersTravel
+"""been""","Billings, MT, USA",PowerTrippersTravel
+"""been""","Bend, OR, USA",PowerTrippersTravel
+"""been""","Gillette, WY, USA",PowerTrippersTravel
+"""been""","Green River, WY, USA",PowerTrippersTravel
+"""been""","Richland Center, WI, USA",PowerTrippersTravel
+"""been""","Monument Valley, UT, USA",PowerTrippersTravel
+"""been"",""fave""","Washington DC, DC, USA",PowerTrippersTravel
+"""been""","Bozeman, MT, USA",PowerTrippersTravel
+"""been""","North Conway, NH, USA",PowerTrippersTravel
+"""been""","Baker City, OR, USA",PowerTrippersTravel
+"""been""","Homestead, PA, USA",PowerTrippersTravel
+"""been""","Hutchinson, KS, USA",PowerTrippersTravel
+"""been""","Evanston, WY, USA",PowerTrippersTravel
+"""been""","Erie, PA, USA",PowerTrippersTravel
+"""been""","Evansville, WY, USA",PowerTrippersTravel
+"""been""","Midway, UT, USA",PowerTrippersTravel
+"""been""","Farmington, NM, USA",PowerTrippersTravel
+"""been""","Logan, UT, USA",PowerTrippersTravel
+"""been""","Truth or Consequences, NM, USA",PowerTrippersTravel
+"""been""","Tucumcari, NM, USA",PowerTrippersTravel
+"""been""","Roanoke, VA, USA",PowerTrippersTravel
+"""been""","Hays, KS, USA",PowerTrippersTravel
+"""been""","De Leon Springs, FL, USA",PowerTrippersTravel
+"""been""","Daytona Beach, FL, USA",PowerTrippersTravel
+"""been""","Prairie du Chien, WI, USA",PowerTrippersTravel
+"""been""","Robertsdale, AL, USA",PowerTrippersTravel
+"""been""","Auburn, NY, USA",PowerTrippersTravel
+"""been""","Apple Valley, MN, USA",PowerTrippersTravel
+"""been""","South Lake Tahoe, CA, USA",PowerTrippersTravel
+"""been""","Indianapolis, IN, USA",PowerTrippersTravel
+"""been""","Winthrop, MA, USA",PowerTrippersTravel
+"""been""","Simi Valley, CA, USA",PowerTrippersTravel
+"""been""","Cody, WY, USA",PowerTrippersTravel
+"""been""","Huntsville, AL, USA",PowerTrippersTravel
+"""been""","Oklahoma City, OK, USA",PowerTrippersTravel
+"""been""","Texarkana, AR, USA",PowerTrippersTravel
+"""been""","Fano, Italy",PowerTrippersTravel
+"""been""","Edmond, OK, USA",PowerTrippersTravel
+"""been""","Rockford, IA, USA",PowerTrippersTravel
+"""been""","Oak Bluffs, MA, USA",PowerTrippersTravel
+"""been""","Oakhurst, CA, USA",PowerTrippersTravel
+"""been""","Orleans, MA, USA",PowerTrippersTravel
+"""been""","Shreveport, LA, USA",PowerTrippersTravel
+"""been""","Oakland, CA, USA",PowerTrippersTravel
+"""been""","Kill Devil Hills, NC, USA",PowerTrippersTravel
+"""been""","Cannon Beach, OR, USA",PowerTrippersTravel
+"""been""","Oceanside, CA, USA",PowerTrippersTravel
+"""been""","Columbus, OH, USA",PowerTrippersTravel
+"""been""","Rudd, IA, USA",PowerTrippersTravel
+"""been""","Lake Geneva, WI, USA",PowerTrippersTravel
+"""been""","Marietta, GA, USA",PowerTrippersTravel
+"""been""","Dennis, MA, USA",PowerTrippersTravel
+"""been""","Austin, MN, USA",PowerTrippersTravel
+"""been""","Gallup, NM, USA",PowerTrippersTravel
+"""been""","Raleigh, NC, USA",PowerTrippersTravel
+"""been""","North Truro, MA, USA",PowerTrippersTravel
+"""been""","Norman, OK, USA",PowerTrippersTravel
+"""been""","Glen Rose, TX, USA",PowerTrippersTravel
+"""been""","Burns, OR, USA",PowerTrippersTravel
+"""been""","Spearfish, SD, USA",PowerTrippersTravel
+"""been""","Ogden, UT, USA",PowerTrippersTravel
+"""been""","Jackson, WY, USA",PowerTrippersTravel
+"""been""","Sturgis, SD, USA",PowerTrippersTravel
+"""been""","La Crosse, WI, USA",PowerTrippersTravel
+"""been""","Park City, UT, USA",PowerTrippersTravel
+"""been""","Orem, UT, USA",PowerTrippersTravel
+"""been""","Sioux Falls, SD, USA",PowerTrippersTravel
+"""been""","Cleveland, OH, USA",PowerTrippersTravel
+"""been""","Rock Falls, IA, USA",PowerTrippersTravel
+"""been""","Jonesboro, AR, USA",PowerTrippersTravel
+"""been""","South Portland, ME, USA",PowerTrippersTravel
+"""been""","Vyshhorod, Ukraine",PowerTrippersTravel
+"""been""","Seattle, WA, USA",PowerTrippersTravel
+"""been""","Laredo, TX, USA",PowerTrippersTravel
+"""been""","West Hollywood, CA, USA",PowerTrippersTravel
+"""been""","Key Largo, FL, USA",PowerTrippersTravel
+"""been""","San Clemente, CA, USA",PowerTrippersTravel
+"""been""","Williamsburg, VA, USA",PowerTrippersTravel
+"""been""","Dundee, IA, USA",PowerTrippersTravel
+"""been""","Key West, FL, USA",PowerTrippersTravel
+"""been""","Carlsbad, CA, USA",PowerTrippersTravel
+"""been""","Riviera Beach, FL, USA",PowerTrippersTravel
+"""been""","San Jose, CA, USA",PowerTrippersTravel
+"""been""","Carmel, CA, USA",PowerTrippersTravel
+"""been""","Joseph, OR, USA",PowerTrippersTravel
+"""been""","Bryson City, NC, USA",PowerTrippersTravel
+"""been""","Santo Domingo, Dominican Republic",PowerTrippersTravel
+"""been""","Rochester, NY, USA",PowerTrippersTravel
+"""been""","San Marino, CA, USA",PowerTrippersTravel
+"""been""","Cape Coral, FL, USA",PowerTrippersTravel
+"""been""","Peoria, IL, USA",PowerTrippersTravel
+"""been""","Branson, MO, USA",PowerTrippersTravel
+"""been""","San Juan Capistrano, CA, USA",PowerTrippersTravel
+"""been""","Olathe, KS, USA",PowerTrippersTravel
+"""been""","Kissimmee, FL, USA",PowerTrippersTravel
+"""been""","Dyersville, IA, USA",PowerTrippersTravel
+"""been""","Cape Canaveral, FL, USA",PowerTrippersTravel
+"""been""","St. Augustine, FL, USA",PowerTrippersTravel
+"""been""","La Romana, Dominican Republic",PowerTrippersTravel
+"""been""","Jamestown, ND, USA",PowerTrippersTravel
+"""been""","San Pedro de Macoris, Dominican Republic",PowerTrippersTravel
+"""been""","Custer, SD, USA",PowerTrippersTravel
+"""been""","Lewistown, MT, USA",PowerTrippersTravel
+"""been""","New Orleans, LA, USA",PowerTrippersTravel
+"""been""","Coeur d'Alene, ID, USA",PowerTrippersTravel
+"""been""","Madison, WI, USA",PowerTrippersTravel
+"""been""","Hot Springs, AR, USA",PowerTrippersTravel
+"""been""","Cortez, CO, USA",PowerTrippersTravel
+"""been""","Burlington, VT, USA",PowerTrippersTravel
+"""been""","Tacoma, WA, USA",PowerTrippersTravel
+"""been""","Fish Camp, CA, USA",PowerTrippersTravel
+"""been""","Des Moines, IA, USA",PowerTrippersTravel
+"""been""","Kennewick, WA, USA",PowerTrippersTravel
+"""been""","Hood River, OR, USA",PowerTrippersTravel
+"""been""","Grand Forks, ND, USA",PowerTrippersTravel
+"""been""","Columbia, SC, USA",PowerTrippersTravel
+"""been""","Pigeon Forge, TN, USA",PowerTrippersTravel
+"""been""","Blowing Rock, NC, USA",PowerTrippersTravel
+"""been""","Issaquah, WA, USA",PowerTrippersTravel
+"""been""","Kendall, FL, USA",PowerTrippersTravel
+"""been""","Greensboro, NC, USA",PowerTrippersTravel
+"""been""","San Bernardino, CA, USA",PowerTrippersTravel
+"""been""","Round Rock, TX, USA",PowerTrippersTravel
+"""been""","Independence, MO, USA",PowerTrippersTravel
+"""been""","Port Canaveral, FL, USA",PowerTrippersTravel
+"""been""","Port Charlotte, FL, USA",PowerTrippersTravel
+"""been""","Idaho Springs, CO, USA",PowerTrippersTravel
+"""been""","Stevenson, WA, USA",PowerTrippersTravel
+"""been""","Jupiter, FL, USA",PowerTrippersTravel
+"""been""","Maple Grove, MN, USA",PowerTrippersTravel
+"""been""","Mankato, MN, USA",PowerTrippersTravel
+"""been""","Port Saint Lucie, FL, USA",PowerTrippersTravel
+"""been""","Carpi, Italy",PowerTrippersTravel
+"""been""","Baker, NV, USA",PowerTrippersTravel
+"""been""","New Braunfels, TX, USA",PowerTrippersTravel
+"""been"",""fave""","Charleston, SC, USA",PowerTrippersTravel
+"""been""","Boone, NC, USA",PowerTrippersTravel
+"""been""","Gatlinburg, TN, USA",PowerTrippersTravel
+"""been""","Cheyenne, WY, USA",PowerTrippersTravel
+"""been""","Portland, ME, USA",PowerTrippersTravel
+"""been"",""fave""","Cocoa Beach, FL, USA",PowerTrippersTravel
+"""been""","Cocoa, FL, USA",PowerTrippersTravel
+"""been""","Waterloo, IA, USA",PowerTrippersTravel
+"""been""","Goodland, KS, USA",PowerTrippersTravel
+"""been""","Hershey, PA, USA",PowerTrippersTravel
+"""been""","Miles City, MT, USA",PowerTrippersTravel
+"""been""","Cheektowaga, NY, USA",PowerTrippersTravel
+"""been""","Missoula, MT, USA",PowerTrippersTravel
+"""been""","Buffalo, WY, USA",PowerTrippersTravel
+"""been""","Kanab, UT, USA",PowerTrippersTravel
+"""been""","Casper, WY, USA",PowerTrippersTravel
+"""been""","West Des Moines, IA, USA",PowerTrippersTravel
+"""been""","Louisville, KY, USA",PowerTrippersTravel
+"""been""","Helen, GA, USA",PowerTrippersTravel
+"""been""","Mascoutah, IL, USA",PowerTrippersTravel
+"""been""","Idaho Falls, ID, USA",PowerTrippersTravel
+"""been""","Quincy, IL, USA",PowerTrippersTravel
+"""been""","Hurricane, UT, USA",PowerTrippersTravel
+"""been""","West Yarmouth, MA, USA",PowerTrippersTravel
+"""been""","Burano, Italy",PowerTrippersTravel
+"""been""","Overland Park, KS, USA",PowerTrippersTravel
+"""been""","Malta, MT, USA",PowerTrippersTravel
+"""been""","Garden City, KS, USA",PowerTrippersTravel
+"""been""","San Rafael, CA, USA",PowerTrippersTravel
+"""been""","Lakeview, OR, USA",PowerTrippersTravel
+"""been""","Mason, OH, USA",PowerTrippersTravel
+"""been""","Livingston, MT, USA",PowerTrippersTravel
+"""been""","Richmond, VA, USA",PowerTrippersTravel
+"""been""","Atlanta, GA, USA",PowerTrippersTravel
+"""been""","Odessa, TX, USA",PowerTrippersTravel
+"""been""","Solidaridad, Mexico",PowerTrippersTravel
+"""been""","Franklin, TN, USA",PowerTrippersTravel
+"""been""","Santa Ana, CA, USA",PowerTrippersTravel
+"""been""","Santa Barbara, CA, USA",PowerTrippersTravel
+"""been""","Santa Cruz, CA, USA",PowerTrippersTravel
+"""been""","Santa Clarita, CA, USA",PowerTrippersTravel
+"""been""","Clearwater, FL, USA",PowerTrippersTravel
+"""been""","Klamath Falls, OR, USA",PowerTrippersTravel
+"""been""","Clermont, FL, USA",PowerTrippersTravel
+"""been""","Santa Monica, CA, USA",PowerTrippersTravel
+"""been""","Green River, UT, USA",PowerTrippersTravel
+"""been""","Cherry Hill, NJ, USA",PowerTrippersTravel
+"""been""","Boulder City, NV, USA",PowerTrippersTravel
+"""been""","Wisconsin Dells, WI, USA",PowerTrippersTravel
+"""been""","Springfield, IL, USA",PowerTrippersTravel
+"""been""","Omaha, NE, USA",PowerTrippersTravel
+"""been""","Steamboat Springs, CO, USA",PowerTrippersTravel
+"""been""","Evergreen, CO, USA",PowerTrippersTravel
+"""been""","Centennial, CO, USA",PowerTrippersTravel
+"""been""","Okeechobee, FL, USA",PowerTrippersTravel
+"""been""","Mount Pleasant, SC, USA",PowerTrippersTravel
+"""been""","Alton, KS, USA",PowerTrippersTravel
+"""been""","Winter Haven, FL, USA",PowerTrippersTravel
+"""been""","Snowmass Village, CO, USA",PowerTrippersTravel
+"""been""","Glendale, AZ, USA",PowerTrippersTravel
+"""been""","Klamath, CA, USA",PowerTrippersTravel
+"""been""","Englewood, CO, USA",PowerTrippersTravel
+"""been""","Myrtle Beach, SC, USA",PowerTrippersTravel
+"""been""","Red Wing, MN, USA",PowerTrippersTravel
+"""been"",""fave""","Nafplio, Greece",PowerTrippersTravel
+"""been""","Valentine, NE, USA",PowerTrippersTravel
+"""been""","La Jolla, CA, USA",PowerTrippersTravel
+"""been""","Telluride, CO, USA",PowerTrippersTravel
+"""been""","Ormond Beach, FL, USA",PowerTrippersTravel
+"""been""","Charleston, WV, USA",PowerTrippersTravel
+"""been""","Orlando, FL, USA",PowerTrippersTravel
+"""been""","Richland, WA, USA",PowerTrippersTravel
+"""been""","Aurora, CO, USA",PowerTrippersTravel
+"""been""","Abilene, KS, USA",PowerTrippersTravel
+"""been""","Aspen, CO, USA",PowerTrippersTravel
+"""been""","El Cajon, CA, USA",PowerTrippersTravel
+"""been""","El Centro, CA, USA",PowerTrippersTravel
+"""been""","Holbrook, AZ, USA",PowerTrippersTravel
+"""been""","Fort Collins, CO, USA",PowerTrippersTravel
+"""been""","Rochester, MN, USA",PowerTrippersTravel
+"""been""","Middle Caicos, Turks and Caicos",PowerTrippersTravel
+"""been""","Kearney, NE, USA",PowerTrippersTravel
+"""been"",""fave""","North Caicos, Turks and Caicos",PowerTrippersTravel
+"""been""","Detroit, MI, USA",PowerTrippersTravel
+"""been""","June Lake, CA, USA",PowerTrippersTravel
+"""been""","Norwalk, CT, USA",PowerTrippersTravel
+"""been""","Apopka, FL, USA",PowerTrippersTravel
+"""been""","Niland, CA, USA",PowerTrippersTravel
+"""been""","Salida, CO, USA",PowerTrippersTravel
+"""been""","Deadwood, SD, USA",PowerTrippersTravel
+"""been""","Jefferson City, MO, USA",PowerTrippersTravel
+"""been""","Silverthorne, CO, USA",PowerTrippersTravel
+"""been""","Abilene, TX, USA",PowerTrippersTravel
+"""been""","Escalante, UT, USA",PowerTrippersTravel
+"""been""","Birmingham, AL, USA",PowerTrippersTravel
+"""been""","West Palm Beach, FL, USA",PowerTrippersTravel
+"""been""","Kansas City, MO, USA",PowerTrippersTravel
+"""been""","Joplin, MO, USA",PowerTrippersTravel
+"""been""","Spokane, WA, USA",PowerTrippersTravel
+"""been""","Davenport, IA, USA",PowerTrippersTravel
+"""been""","Page, AZ, USA",PowerTrippersTravel
+"""been""","Hoquiam, WA, USA",PowerTrippersTravel
+"""been""","Alpharetta, GA, USA",PowerTrippersTravel
+"""been""","Grand Lake, CO, USA",PowerTrippersTravel
+"""been""","Arlington, TX, USA",PowerTrippersTravel
+"""been""","Grand Junction, CO, USA",PowerTrippersTravel
+"""been""","Buena Park, CA, USA",PowerTrippersTravel
+"""been""","Eureka, CA, USA",PowerTrippersTravel
+"""been""","Wheat Ridge, CO, USA",PowerTrippersTravel
+"""been""","Burbank, CA, USA",PowerTrippersTravel
+"""been""","Greeley, CO, USA",PowerTrippersTravel
+"""been""","Vergennes, VT, USA",PowerTrippersTravel
+"""been""","Panama City Beach, FL, USA",PowerTrippersTravel
+"""been""","Greenwood Village, CO, USA",PowerTrippersTravel
+"""been""","Mesa, AZ, USA",PowerTrippersTravel
+"""been""","Detroit Lakes, MN, USA",PowerTrippersTravel
+"""been""","Saint Cloud, MN, USA",PowerTrippersTravel
+"""been""","Duluth, MN, USA",PowerTrippersTravel
+"""been""","Stowe, VT, USA",PowerTrippersTravel
+"""been""","Rome, Italy",PowerTrippersTravel
+"""been""","Rockport, TX, USA",PowerTrippersTravel
+"""been""","Fredericksburg, VA, USA",PowerTrippersTravel
+"""been""","Brooklyn, NY, USA",PowerTrippersTravel
+"""been""","Austin, TX, USA",PowerTrippersTravel
+"""been""","Pensacola, FL, USA",PowerTrippersTravel
+"""been""","Victorville, CA, USA",PowerTrippersTravel
+"""been""","Caldwell, ID, USA",PowerTrippersTravel
+"""been""","Havre, MT, USA",PowerTrippersTravel
+"""been""","Eagan, MN, USA",PowerTrippersTravel
+"""been""","Jersey City, NJ, USA",PowerTrippersTravel
+"""been""","Syracuse, NY, USA",PowerTrippersTravel
+"""been""","Ancona, Italy",PowerTrippersTravel
+"""been""","Pesaro, Italy",PowerTrippersTravel
+"""been""","Hardin, MT, USA",PowerTrippersTravel
+"""been""","Vatican City, Vatican City",PowerTrippersTravel
+"""been""","Eden Prairie, MN, USA",PowerTrippersTravel
+"""been""","Savannah, GA, USA",PowerTrippersTravel
+"""been""","Kingman, AZ, USA",PowerTrippersTravel
+"""been""","Sun Valley, ID, USA",PowerTrippersTravel
+"""been""","Tyler, TX, USA",PowerTrippersTravel
+"""been""","Williston, ND, USA",PowerTrippersTravel
+"""been""","Fort Smith, AR, USA",PowerTrippersTravel
+"""been""","El Portal, CA, USA",PowerTrippersTravel
+"""been""","Fraser, CO, USA",PowerTrippersTravel
+"""been""","Frisco, CO, USA",PowerTrippersTravel
+"""been""","Amarillo, TX, USA",PowerTrippersTravel
+"""been""","Nashville, TN, USA",PowerTrippersTravel
+"""been""","Laguna Beach, CA, USA",PowerTrippersTravel
+"""been""","Kayenta, AZ, USA",PowerTrippersTravel
+"""been""","Bloomington, IN, USA",PowerTrippersTravel
+"""been""","Vail, CO, USA",PowerTrippersTravel
+"""been""","Roseville, MN, USA",PowerTrippersTravel
+"""been""","Lake Ozark, MO, USA",PowerTrippersTravel
+"""been""","Ocean City, MD, USA",PowerTrippersTravel
+"""been""","Istanbul, Turkey",PowerTrippersTravel
+"""been""","Baltimore, MD, USA",PowerTrippersTravel
+"""been""","Golden, CO, USA",PowerTrippersTravel
+"""been""","Twin Falls, ID, USA",PowerTrippersTravel
+"""been""","Crystal Lake, IA, USA",PowerTrippersTravel
+"""been""","Blue Ridge, GA, USA",PowerTrippersTravel
+"""been""","Granby, CO, USA",PowerTrippersTravel
+"""been""","Jacksonville, FL, USA",PowerTrippersTravel
+"""been""","Georgetown, CO, USA",PowerTrippersTravel
+"""been""","Palm Beach, FL, USA",PowerTrippersTravel
+"""been""","Encinitas, CA, USA",PowerTrippersTravel
+"""been""","Palm Coast, FL, USA",PowerTrippersTravel
+"""been""","Glenwood Springs, CO, USA",PowerTrippersTravel
+"""been""","Banner Elk, NC, USA",PowerTrippersTravel
+"""been""","Westminster, CO, USA",PowerTrippersTravel
+"""been""","North Myrtle Beach, SC, USA",PowerTrippersTravel
+"""been""","Lincoln, NE, USA",PowerTrippersTravel
+"""been""","Mission Viejo, CA, USA",PowerTrippersTravel
+"""been""","Mycenae, Greece",PowerTrippersTravel
+"""been""","Modesto, CA, USA",PowerTrippersTravel
+"""been""","Corinth, Greece",PowerTrippersTravel
+"""been""","Piedmont, SD, USA",PowerTrippersTravel
+"""been""","Blanding, UT, USA",PowerTrippersTravel
+"""been""","Big Water, UT, USA",PowerTrippersTravel
+"""been""","Patras, Greece",PowerTrippersTravel
+"""been""","Olympia, Greece",PowerTrippersTravel
+"""been""","Orvieto, Italy",PowerTrippersTravel
+"""been""","Carlsbad Caverns National Park, NM, USA",PowerTrippersTravel
+"""been""","Monterey, CA, USA",PowerTrippersTravel
+"""been""","Williams, AZ, USA",PowerTrippersTravel
+"""been""","Xcaret, Mexico",PowerTrippersTravel
+"""been""","Long Island City, NY, USA",PowerTrippersTravel
+"""been""","Acadia National Park, ME, USA",PowerTrippersTravel
+"""been""","Grand Canyon National Park, AZ, USA",PowerTrippersTravel
+"""been""","Mendocino, CA, USA",PowerTrippersTravel
+"""been""","Lawton, OK, USA",PowerTrippersTravel
+"""been""","Nags Head, NC, USA",PowerTrippersTravel
+"""been""","Everglades National Park, FL, USA",PowerTrippersTravel
+"""been""","Avon, CO, USA",PowerTrippersTravel
+"""been""","Oacoma, SD, USA",PowerTrippersTravel
+"""been""","Orange City, IA, USA",PowerTrippersTravel
+"""been""","Springfield, MO, USA",PowerTrippersTravel
+"""been""","Jackson, MS, USA",PowerTrippersTravel
+"""been""","Liverpool, NY, USA",PowerTrippersTravel
+"""been""","Walnut Grove, MN, USA",PowerTrippersTravel
+"""been""","Walker, MN, USA",PowerTrippersTravel
+"""been""","Murdo, SD, USA",PowerTrippersTravel
+"""been""","Tulsa, OK, USA",PowerTrippersTravel
+"""been""","Osage, IA, USA",PowerTrippersTravel
+"""been""","Lexington, KY, USA",PowerTrippersTravel
+"""been""","Wimberley, TX, USA",PowerTrippersTravel
+"""been""","Harrisburg, PA, USA",PowerTrippersTravel
+"""been""","Iowa City, IA, USA",PowerTrippersTravel
+"""been""","Traverse City, MI, USA",PowerTrippersTravel
+"""been""","Marotta, Italy",PowerTrippersTravel
+"""been""","Kyiv (Kiev), Ukraine",PowerTrippersTravel
+"""been""","Ann Arbor, MI, USA",PowerTrippersTravel
+"""been""","Amana, IA, USA",PowerTrippersTravel
+"""been""","Inglewood, CA, USA",PowerTrippersTravel
+"""been""","Chamberlain, SD, USA",PowerTrippersTravel
+"""been""","Ames, IA, USA",PowerTrippersTravel
+"""been""","Altoona, IA, USA",PowerTrippersTravel
+"""been""","Amsterdam, The Netherlands",PowerTrippersTravel
+"""been""","Needles, CA, USA",PowerTrippersTravel
+"""been""","Venice, FL, USA",PowerTrippersTravel
+"""been""","Gulf Shores, AL, USA",PowerTrippersTravel
+"""been""","Toledo, OH, USA",PowerTrippersTravel
+"""been""","New Haven, CT, USA",PowerTrippersTravel
+"""been""","Le Claire, IA, USA",PowerTrippersTravel
+"""been""","Brewster, MA, USA",PowerTrippersTravel
+"""been""","Le Mars, IA, USA",PowerTrippersTravel
+"""been""","Vero Beach, FL, USA",PowerTrippersTravel
+"""been""","Worthington, MN, USA",PowerTrippersTravel
+"""been""","Alexandria, MN, USA",PowerTrippersTravel
+"""been""","Woodbury, MN, USA",PowerTrippersTravel
+"""been""","Cottonwood, AZ, USA",PowerTrippersTravel
+"""been""","Warrenton, OR, USA",PowerTrippersTravel
+"""been""","Algona, IA, USA",PowerTrippersTravel
+"""been""","Frisco, TX, USA",PowerTrippersTravel
+"""been""","Albert Lea, MN, USA",PowerTrippersTravel
+"""been""","Chicago, IL, USA",PowerTrippersTravel
+"""been""","Buzzards Bay, MA, USA",PowerTrippersTravel
+"""been""","Leland, IA, USA",PowerTrippersTravel
+"""been""","Osage Beach, MO, USA",PowerTrippersTravel
+"""been""","Wildwood, NJ, USA",PowerTrippersTravel
+"""been""","Rapid City, SD, USA",PowerTrippersTravel
+"""been""","Fredericksburg, TX, USA",PowerTrippersTravel
+"""been""","Roseville, CA, USA",PowerTrippersTravel
+"""been""","Arnolds Park, IA, USA",PowerTrippersTravel
+"""been""","Pittsburgh, PA, USA",PowerTrippersTravel
+"""been""","Redfield, SD, USA",PowerTrippersTravel
+"""been""","Waldport, OR, USA",PowerTrippersTravel
+"""been""","Winslow, AZ, USA",PowerTrippersTravel
+"""been""","Barnstable, MA, USA",PowerTrippersTravel
+"""been""","Scottsbluff, NE, USA",PowerTrippersTravel
+"""been""","Wichita, KS, USA",PowerTrippersTravel
+"""been""","Alamosa, CO, USA",PowerTrippersTravel
+"""been""","Azusa, CA, USA",PowerTrippersTravel
+"""been""","Brian Head, UT, USA",PowerTrippersTravel
+"""been""","Sacramento, CA, USA",PowerTrippersTravel
+"""been""","Pierre, SD, USA",PowerTrippersTravel
+"""been""","Pueblo, CO, USA",PowerTrippersTravel
+"""been""","Fort Worth, TX, USA",PowerTrippersTravel
+"""been""","Canton, OH, USA",PowerTrippersTravel
+"""been""","Bryce, UT, USA",PowerTrippersTravel
+"""been""","Owatonna, MN, USA",PowerTrippersTravel
+"""been""","Lake Mills, IA, USA",PowerTrippersTravel
+"""been""","Lancaster, PA, USA",PowerTrippersTravel
+"""been""","Dodge City, KS, USA",PowerTrippersTravel
+"""been""","Storm Lake, IA, USA",PowerTrippersTravel
+"""been""","Virginia Beach, VA, USA",PowerTrippersTravel
+"""been""","Gold Beach, OR, USA",PowerTrippersTravel
+"""been""","Story City, IA, USA",PowerTrippersTravel
+"""been""","Strawberry Point, IA, USA",PowerTrippersTravel
+"""been""","Great Falls, MT, USA",PowerTrippersTravel
+"""been""","Woolwich, ME, USA",PowerTrippersTravel
+"""been""","Maggie Valley, NC, USA",PowerTrippersTravel
+"""been""","Ojo Caliente, NM, USA",PowerTrippersTravel
+"""been""","Mobile, AL, USA",PowerTrippersTravel
+"""been""","Norfolk, VA, USA",PowerTrippersTravel
+"""been""","Galena, IL, USA",PowerTrippersTravel
+"""been""","San Antonio de Pichincha, Ecuador",PowerTrippersTravel
+"""been""","South Yarmouth, MA, USA",PowerTrippersTravel
+"""been""","Gardiner, MT, USA",PowerTrippersTravel
+"""been""","Kerrville, TX, USA",PowerTrippersTravel
+"""been""","Council Bluffs, IA, USA",PowerTrippersTravel
+"""been""","Sioux City, IA, USA",PowerTrippersTravel
+"""been""","Rehoboth Beach, DE, USA",PowerTrippersTravel
+"""been""","Hobe Sound, FL, USA",PowerTrippersTravel
+"""been""","Hollywood, FL, USA",PowerTrippersTravel
+"""been""","Tomah, WI, USA",PowerTrippersTravel
+"""been""","Wilson, WY, USA",PowerTrippersTravel
+"""been""","Glasgow, MT, USA",PowerTrippersTravel
+"""been""","Glendive, MT, USA",PowerTrippersTravel
+"""been""","Burnsville, MN, USA",PowerTrippersTravel
+"""been""","Morgantown, WV, USA",PowerTrippersTravel
+"""been""","Spirit Lake, IA, USA",PowerTrippersTravel
+"""been""","Boise, ID, USA",PowerTrippersTravel
+"""been""","Wendover, UT, USA",PowerTrippersTravel
+"""been""","Teton Village, WY, USA",PowerTrippersTravel
+"""been""","Fargo, ND, USA",PowerTrippersTravel
+"""been""","Bronx, NY, USA",PowerTrippersTravel
+"""been""","Roswell, NM, USA",PowerTrippersTravel
+"""been""","Panama City, Panama",PowerTrippersTravel
+"""been""","Atlantic City, NJ, USA",PowerTrippersTravel
+"""been""","Ruidoso, NM, USA",PowerTrippersTravel
+"""been""","Olympic National Park, WA, USA",PowerTrippersTravel
+"""been""","Riccione, Italy",PowerTrippersTravel
+"""been""","Gary, IN, USA",PowerTrippersTravel
+"""been""","Otavalo, Ecuador",PowerTrippersTravel
+"""been""","Springdale, UT, USA",PowerTrippersTravel
+"""been""","Mitchell, SD, USA",PowerTrippersTravel
+"""been""","Vineyard Haven, MA, USA",PowerTrippersTravel
+"""been""","Hattiesburg, MS, USA",PowerTrippersTravel
+"""been""","Orange Beach, AL, USA",PowerTrippersTravel
+"""been""","Cancun, Mexico",PowerTrippersTravel
+"""been""","Nassau, Bahamas",PowerTrippersTravel
+"""been""","Chichen Itza, Mexico",PowerTrippersTravel
+"""been""","Paradise Island, Bahamas",PowerTrippersTravel
+"""been""","Monroe, LA, USA",PowerTrippersTravel
+"""been""","Chattanooga, TN, USA",PowerTrippersTravel
+"""been""","Argos, Greece",PowerTrippersTravel
+"""been""","Waltham, MA, USA",PowerTrippersTravel
+"""been""","Ventura, IA, USA",PowerTrippersTravel
+"""been""","Isla Mujeres, Mexico",PowerTrippersTravel
+"""been""","Playa del Carmen, Mexico",PowerTrippersTravel
+"""been""","Tulum, Mexico",PowerTrippersTravel
+"""been""","Cape Porpoise, ME, USA",PowerTrippersTravel
+"""been""","Cape Elizabeth, ME, USA",PowerTrippersTravel
+"""been""","Stillwater, OK, USA",PowerTrippersTravel
+"""been""","Thompson, IA, USA",PowerTrippersTravel
+"""been""","Nashville, IN, USA",PowerTrippersTravel
+"""been""","Bonita Springs, FL, USA",PowerTrippersTravel
+"""been""","Wauwatosa, WI, USA",PowerTrippersTravel
+"""been""","Bradenton Beach, FL, USA",PowerTrippersTravel
+"""been""","Grace Bay, Turks and Caicos",PowerTrippersTravel
+"""been""","Point Arena, CA, USA",PowerTrippersTravel
+"""been""","Freeport, Bahamas",PowerTrippersTravel
+"""been""","Martha's Vineyard, MA, USA",PowerTrippersTravel
+"""been""","Chanhassen, MN, USA",PowerTrippersTravel
+"""been""","Niagara Falls, NY, USA",PowerTrippersTravel
+"""been""","Red River, NM, USA",PowerTrippersTravel
+"""been""","Lake Placid, NY, USA",PowerTrippersTravel
+"""been""","Alamogordo, NM, USA",PowerTrippersTravel
+"""been""","Logan, OH, USA",PowerTrippersTravel
+"""been""","Truro, MA, USA",PowerTrippersTravel
+"""been""","Gulfport, MS, USA",PowerTrippersTravel
+"""been""","Hyannis, MA, USA",PowerTrippersTravel
+"""been""","Waupaca, WI, USA",PowerTrippersTravel
+"""been""","Hull, MA, USA",PowerTrippersTravel
+"""been""","Provo, UT, USA",PowerTrippersTravel
+"""been""","Yellowstone National Park, WY, USA",PowerTrippersTravel
+"""been""","Torrey, UT, USA",PowerTrippersTravel
+"""been""","McAllen, TX, USA",PowerTrippersTravel
+"""been""","Crested Butte, CO, USA",PowerTrippersTravel
+"""been""","Fort Lauderdale, FL, USA",PowerTrippersTravel
+"""been""","Cripple Creek, CO, USA",PowerTrippersTravel
+"""been""","Hanlontown, IA, USA",PowerTrippersTravel
+"""been""","Naples, FL, USA",PowerTrippersTravel
+"""been""","Portsmouth, NH, USA",PowerTrippersTravel
+"""been""","Fort Myers, FL, USA",PowerTrippersTravel
+"""been""","Padua, Italy",PowerTrippersTravel
+"""been""","Cincinnati, OH, USA",PowerTrippersTravel
+"""been""","Titusville, FL, USA",PowerTrippersTravel
+"""been""","Charlottesville, VA, USA",PowerTrippersTravel
+"""been""","Walla Walla, WA, USA",PowerTrippersTravel
+"""been""","San Diego, CA, USA",PowerTrippersTravel
+"""been""","Geneva, NY, USA",PowerTrippersTravel
+"""been""","Hot Springs, SD, USA",PowerTrippersTravel
+"""been""","Sidney, MT, USA",PowerTrippersTravel
+"""been""","Wellfleet, MA, USA",PowerTrippersTravel
+"""been""","Little America, WY, USA",PowerTrippersTravel
+"""been""","Topeka, KS, USA",PowerTrippersTravel
+"""been""","Houston, TX, USA",PowerTrippersTravel
+"""been""","Cedar Rapids, IA, USA",PowerTrippersTravel
+"""been""","Cedar Falls, IA, USA",PowerTrippersTravel
+"""been""","Fort Myers Beach, FL, USA",PowerTrippersTravel
+"""been""","Lawrence, KS, USA",PowerTrippersTravel
+"""been""","Dillon, CO, USA",PowerTrippersTravel
+"""been""","Denver, CO, USA",PowerTrippersTravel
+"""been""","Sandusky, OH, USA",PowerTrippersTravel
+"""been""","Charles City, IA, USA",PowerTrippersTravel
+"""been""","Pocatello, ID, USA",PowerTrippersTravel
+"""been""","Captiva Island, FL, USA",PowerTrippersTravel
+"""been""","Laramie, WY, USA",PowerTrippersTravel
+"""been""","Boston, MA, USA",PowerTrippersTravel
+"""been""","Asheville, NC, USA",PowerTrippersTravel
+"""been""","Valley Forge, PA, USA",PowerTrippersTravel
+"""been"",""fave""","Venice, Italy",PowerTrippersTravel
+"""been""","Vicksburg, MS, USA",PowerTrippersTravel
+"""been""","Verona, Italy",PowerTrippersTravel
+"""been""","Moscow, ID, USA",PowerTrippersTravel
+"""been""","Beaumont, TX, USA",PowerTrippersTravel
+"""been""","Buffalo Center, IA, USA",PowerTrippersTravel
+"""been""","Port Aransas, TX, USA",PowerTrippersTravel
+"""been""","Newark, NJ, USA",PowerTrippersTravel
+"""been""","Meridian, ID, USA",PowerTrippersTravel
+"""been""","Britt, IA, USA",PowerTrippersTravel
+"""been""","Tequesta, FL, USA",PowerTrippersTravel
+"""been""","Flagstaff, AZ, USA",PowerTrippersTravel
+"""been""","Murfreesboro, TN, USA",PowerTrippersTravel
+"""been""","Medora, ND, USA",PowerTrippersTravel
+"""been""","Buffalo, NY, USA",PowerTrippersTravel
+"""been""","Knoxville, TN, USA",PowerTrippersTravel
+"""been""","Moab, UT, USA",PowerTrippersTravel
+"""been""","Kansas City, KS, USA",PowerTrippersTravel
+"""been""","Grand Island, NE, USA",PowerTrippersTravel
+"""been""","Plano, TX, USA",PowerTrippersTravel
+"""been""","Aberdeen, SD, USA",PowerTrippersTravel
+"""been""","Colorado Springs, CO, USA",PowerTrippersTravel
+"""been""","Everglades City, FL, USA",PowerTrippersTravel
+"""been""","Nampa, ID, USA",PowerTrippersTravel
+"""been""","Bakersfield, CA, USA",PowerTrippersTravel
+"""been""","Chandler, AZ, USA",PowerTrippersTravel
+"""been""","Cooperstown, NY, USA",PowerTrippersTravel
+"""been""","Stockton, CA, USA",PowerTrippersTravel
+"""been""","Bismarck, ND, USA",PowerTrippersTravel
+"""been""","Champaign, IL, USA",PowerTrippersTravel
+"""been""","Marfa, TX, USA",PowerTrippersTravel
+"""been""","Townsend, TN, USA",PowerTrippersTravel
+"""been""","Luray, VA, USA",PowerTrippersTravel
+"""been""","Columbia, MO, USA",PowerTrippersTravel
+"""been""","Three Rivers, CA, USA",PowerTrippersTravel
+"""been""","Butte, MT, USA",PowerTrippersTravel
+"""been""","Sundance, WY, USA",PowerTrippersTravel
+"""been""","Dickinson, ND, USA",PowerTrippersTravel
+"""been""","Forks, WA, USA",PowerTrippersTravel
+"""been""","Salmon, ID, USA",PowerTrippersTravel
+"""been""","South Bend, IN, USA",PowerTrippersTravel
+"""been""","Ciudad Juarez, Mexico",PowerTrippersTravel
+"""been""","Bodega Bay, CA, USA",PowerTrippersTravel
+"""been""","Mammoth Lakes, CA, USA",PowerTrippersTravel
+"""been""","Devils Tower, WY, USA",PowerTrippersTravel
+"""been""","Sparks, NV, USA",PowerTrippersTravel
+"""been""","Tropic, UT, USA",PowerTrippersTravel
+"""been""","Sheridan, WY, USA",PowerTrippersTravel
+"""been""","Philadelphia, PA, USA",PowerTrippersTravel
+"""been""","Stateline, NV, USA",PowerTrippersTravel
+"""been""","West Yellowstone, MT, USA",PowerTrippersTravel
+"""been""","Tonopah, NV, USA",PowerTrippersTravel
+"""been""","Gettysburg, PA, USA",PowerTrippersTravel
+"""been""","Bartlett, NH, USA",PowerTrippersTravel
+"""been""","Midland, TX, USA",PowerTrippersTravel
+"""been""","Memphis, TN, USA",PowerTrippersTravel
+"""been""","Manhattan, KS, USA",PowerTrippersTravel
+"""been""","Paducah, KY, USA",PowerTrippersTravel
+"""been""","Trinidad, CA, USA",PowerTrippersTravel
+"""been""","Glamis, CA, USA",PowerTrippersTravel
+"""been""","Truckee, CA, USA",PowerTrippersTravel
+"""been""","Coralville, IA, USA",PowerTrippersTravel
+"""been""","Wells, NV, USA",PowerTrippersTravel
+"""been""","Tijuana, Mexico",PowerTrippersTravel
+"""been""","Dayton, OH, USA",PowerTrippersTravel
+"""been""","Sandwich, MA, USA",PowerTrippersTravel
+"""been""","Winnemucca, NV, USA",PowerTrippersTravel
+"""been""","West Wendover, NV, USA",PowerTrippersTravel
+"""been""","Wells, ME, USA",PowerTrippersTravel
+"""been""","Bradenton, FL, USA",PowerTrippersTravel
+"""been""","Mira, Italy",PowerTrippersTravel
+"""been""","Death Valley Junction, CA, USA",PowerTrippersTravel
+"""been""","Rock Springs, WY, USA",PowerTrippersTravel
+"""been""","Rawlins, WY, USA",PowerTrippersTravel
+"""been""","Trenton, ME, USA",PowerTrippersTravel
+"""been""","Post Falls, ID, USA",PowerTrippersTravel
+"""been""","Tahoe Vista, CA, USA",PowerTrippersTravel
+"""been""","Gainesville, FL, USA",PowerTrippersTravel
+"""been""","Tahoe City, CA, USA",PowerTrippersTravel
+"""been""","Valdosta, GA, USA",PowerTrippersTravel
+"""been""","Beverly Hills, CA, USA",PowerTrippersTravel
+"""been""","Ravenna, Italy",PowerTrippersTravel
+"""been""","Darby, MT, USA",PowerTrippersTravel
+"""been""","El Paso, TX, USA",PowerTrippersTravel
+"""been""","Tunica, MS, USA",PowerTrippersTravel
+"""been""","Clear Lake, IA, USA",PowerTrippersTravel
+"""been""","Chippewa Falls, WI, USA",PowerTrippersTravel
+"""been""","Coos Bay, OR, USA",PowerTrippersTravel
+"""been""","Ocala, FL, USA",PowerTrippersTravel
+"""been""","Liberal, KS, USA",PowerTrippersTravel
+"""been""","St. George, UT, USA",PowerTrippersTravel
+"""been""","Bishop, CA, USA",PowerTrippersTravel
+"""been""","Snowshoe, WV, USA",PowerTrippersTravel
+"""been""","Irving, TX, USA",PowerTrippersTravel
+"""been""","Providenciales, Turks and Caicos",PowerTrippersTravel
+"""been"",""fave""","New York City, NY, USA",PowerTrippersTravel
+"""been""","Akron, OH, USA",PowerTrippersTravel
+"""been""","Carlsbad, NM, USA",PowerTrippersTravel
+"""been""","Moran, WY, USA",PowerTrippersTravel
+"""been""","Little Rock, AR, USA",PowerTrippersTravel
+"""been""","Cedar City, UT, USA",PowerTrippersTravel
+"""been""","Yakima, WA, USA",PowerTrippersTravel
+"""been""","Manitou Springs, CO, USA",PowerTrippersTravel
+"""been""","Folly Beach, SC, USA",PowerTrippersTravel
+"""been""","Green Bay, WI, USA",PowerTrippersTravel
+"""been""","Scottsdale, AZ, USA",PowerTrippersTravel
+"""been""","Loveland, CO, USA",PowerTrippersTravel
+"""been""","Sedona, AZ, USA",PowerTrippersTravel
+"""been""","Chico, CA, USA",PowerTrippersTravel
+"""been""","Mariposa, CA, USA",PowerTrippersTravel
+"""been""","Sevierville, TN, USA",PowerTrippersTravel
+"""been""","Marina del Rey, CA, USA",PowerTrippersTravel
+"""been""","Reno, NV, USA",PowerTrippersTravel
+"""been""","Natchez, MS, USA",PowerTrippersTravel
+"""been""","Athens, Greece",PowerTrippersTravel
+"""been""","Barstow, CA, USA",PowerTrippersTravel
+"""been""","Frederick, MD, USA",PowerTrippersTravel
+"""been""","Roseburg, OR, USA",PowerTrippersTravel
+"""been""","Ashford, WA, USA",PowerTrippersTravel
+"""been""","Rockaway Beach, OR, USA",PowerTrippersTravel
+"""been""","Fertile, IA, USA",PowerTrippersTravel
+"""been""","Chula Vista, CA, USA",PowerTrippersTravel
+"""been""","Keystone, SD, USA",PowerTrippersTravel
+"""been""","Sun City, AZ, USA",PowerTrippersTravel
+"""been""","Lakewood, CO, USA",PowerTrippersTravel
+"""been""","Redmond, OR, USA",PowerTrippersTravel
+"""been""","St. Pete Beach, FL, USA",PowerTrippersTravel
+"""been""","St. Petersburg, FL, USA",PowerTrippersTravel
+"""been""","Youngstown, OH, USA",PowerTrippersTravel
+"""been""","Saint Augustine Beach, FL, USA",PowerTrippersTravel
+"""been""","Arlington, VA, USA",PowerTrippersTravel
+"""been""","Maryland Heights, MO, USA",PowerTrippersTravel
+"""been""","North Platte, NE, USA",PowerTrippersTravel
+"""been""","Saint Joseph, MO, USA",PowerTrippersTravel
+"""been""","Saint Louis, MO, USA",PowerTrippersTravel
+"""been""","Mesquite, NV, USA",PowerTrippersTravel
+"""been""","Littleton, CO, USA",PowerTrippersTravel
+"""been""","Sanibel Island, FL, USA",PowerTrippersTravel
+"""been""","Longmont, CO, USA",PowerTrippersTravel
+"""been""","Lead, SD, USA",PowerTrippersTravel
+"""been""","Columbus, GA, USA",PowerTrippersTravel
+"""been""","Sarasota, FL, USA",PowerTrippersTravel
+"""been""","Eureka Springs, AR, USA",PowerTrippersTravel
+"""been""","Malibu, CA, USA",PowerTrippersTravel
+"""been""","Ogallala, NE, USA",PowerTrippersTravel
+"""been""","Paradise Valley, NV, USA",PowerTrippersTravel
+"""been""","Minneapolis, MN, USA",PowerTrippersTravel
+"""been""","North Las Vegas, NV, USA",PowerTrippersTravel
+"""been""","Germfask, MI, USA",PowerTrippersTravel
+"""been""","Santa Fe, NM, USA",PowerTrippersTravel
+"""been""","San Francisco, CA, USA",PowerTrippersTravel
+"""been""","Lewiston, ID, USA",PowerTrippersTravel
+"""been""","San Antonio, TX, USA",PowerTrippersTravel
+"""been""","Jackson, TN, USA",PowerTrippersTravel
+"""been""","Hilton Head, SC, USA",PowerTrippersTravel
+"""been""","Voorhees, NJ, USA",PowerTrippersTravel
+"""been""","Tusayan, AZ, USA",PowerTrippersTravel
+"""been""","Broomfield, CO, USA",PowerTrippersTravel
+"""been""","Marco Island, FL, USA",PowerTrippersTravel
+"""been""","Buena Vista, CO, USA",PowerTrippersTravel
+"""been""","Coronado, CA, USA",PowerTrippersTravel
+"""been""","Ouray, CO, USA",PowerTrippersTravel
+"""been""","Hesperia, CA, USA",PowerTrippersTravel
+"""been""","Tucson, AZ, USA",PowerTrippersTravel
+"""been""","Isle of Palms, SC, USA",PowerTrippersTravel
+"""been""","Sonoma, CA, USA",PowerTrippersTravel
+"""been""","Providence, RI, USA",PowerTrippersTravel
+"""been""","Crescent City, CA, USA",PowerTrippersTravel
+"""been""","McCall, ID, USA",PowerTrippersTravel
+"""been""","Estes Park, CO, USA",PowerTrippersTravel
+"""been""","Miami, FL, USA",PowerTrippersTravel
+"""been""","Sunriver, OR, USA",PowerTrippersTravel
+"""been""","Bar Harbor, ME, USA",PowerTrippersTravel
+"""been""","Hermann, MO, USA",PowerTrippersTravel
+"""been""","Canon City, CO, USA",PowerTrippersTravel
+"""been""","Pagosa Springs, CO, USA",PowerTrippersTravel
+"""been""","Castle Rock, CO, USA",PowerTrippersTravel
+"""been""","Lubbock, TX, USA",PowerTrippersTravel
+"""been""","Tampa, FL, USA",PowerTrippersTravel
+"""been""","Merritt Island, FL, USA",PowerTrippersTravel
+"""been""","Tallahassee, FL, USA",PowerTrippersTravel
+"""been""","Melbourne, FL, USA",PowerTrippersTravel
+"""been""","Melbourne Beach, FL, USA",PowerTrippersTravel
+"""been""","Bisbee, AZ, USA",PowerTrippersTravel
+"""been""","The Dalles, OR, USA",PowerTrippersTravel
+"""been""","Chesterfield, MO, USA",PowerTrippersTravel
+"""been""","Red Lodge, MT, USA",PowerTrippersTravel
+"""been""","Greenville, SC, USA",PowerTrippersTravel
+"""been""","Montrose, CO, USA",PowerTrippersTravel
+"""been""","Black Hawk, CO, USA",PowerTrippersTravel
+"""been""","Supai, AZ, USA",PowerTrippersTravel
+"""been""","Groveland, CA, USA",PowerTrippersTravel
+"""been""","Anaheim, CA, USA",PowerTrippersTravel
+"""been""","Forest City, IA, USA",PowerTrippersTravel
+"""been""","Tempe, AZ, USA",PowerTrippersTravel
+"""been""","Vilano Beach, FL, USA",PowerTrippersTravel
+"""been""","Cape Girardeau, MO, USA",PowerTrippersTravel
+"""been""","Ithaca, NY, USA",PowerTrippersTravel
+"""been""","Tombstone, AZ, USA",PowerTrippersTravel
+"""been""","Breckenridge, CO, USA",PowerTrippersTravel
+"""been""","Garner, IA, USA",PowerTrippersTravel
+"""been""","Salt Lake City, UT, USA",PowerTrippersTravel
+"""been""","Stuart, FL, USA",PowerTrippersTravel
+"""been""","Alturas, CA, USA",PowerTrippersTravel
+"""been""","Corpus Christi, TX, USA",PowerTrippersTravel
+"""been""","Hannibal, MO, USA",PowerTrippersTravel
+"""been""","Morrison, CO, USA",PowerTrippersTravel
+"""been""","Ketchum, ID, USA",PowerTrippersTravel
+"""been""","Boulder, CO, USA",PowerTrippersTravel
+"""been""","New Ulm, MN, USA",PowerTrippersTravel
+"""been""","Minot, ND, USA",PowerTrippersTravel
+"""been""","Niagara Falls, Ontario, Canada",PowerTrippersTravel
+"""been""","Pisa, Italy",PowerTrippersTravel
+"""been""","Sisters, OR, USA",PowerTrippersTravel
+"""been""","Macon, GA, USA",PowerTrippersTravel
+"""been""","Florence, Italy",PowerTrippersTravel

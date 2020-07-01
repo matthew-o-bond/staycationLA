@@ -1,0 +1,616 @@
+tag,place,user
+"""been""","Rancho Cucamonga, CA, USA",kdnorth
+"""been""","Ontario, CA, USA",kdnorth
+"""been""","Olympic Valley, CA, USA",kdnorth
+"""been""","Orange, CA, USA",kdnorth
+"""been""","Walnut, IA, USA",kdnorth
+"""been""","Sulphur, LA, USA",kdnorth
+"""been""","Dallas, TX, USA",kdnorth
+"""been""","Quartz Hill, CA, USA",kdnorth
+"""been""","Oakland, CA, USA",kdnorth
+"""been""","Oceanside, CA, USA",kdnorth
+"""been""","Rancho Cordova, CA, USA",kdnorth
+"""want""","Bruges, Belgium",kdnorth
+"""been""","Spokane Valley, WA, USA",kdnorth
+"""been""","Eagle River, AK, USA",kdnorth
+"""been""","Bear River City, UT, USA",kdnorth
+"""been""","Beaver, UT, USA",kdnorth
+"""been""","Bingham Canyon, UT, USA",kdnorth
+"""been""","Van Horn, TX, USA",kdnorth
+"""been""","Bluffdale, UT, USA",kdnorth
+"""been""","Proberta, CA, USA",kdnorth
+"""been""","Columbus, OH, USA",kdnorth
+"""been""","DuBois, PA, USA",kdnorth
+"""been""","Phelps, NY, USA",kdnorth
+"""been""","Canyonville, OR, USA",kdnorth
+"""been""","Cooper Landing, AK, USA",kdnorth
+"""been""","Bountiful, UT, USA",kdnorth
+"""been"",""fave""","Niagara Falls, NY, USA",kdnorth
+"""been""","Brighton, UT, USA",kdnorth
+"""been""","Pond, CA, USA",kdnorth
+"""been""","Pomona, CA, USA",kdnorth
+"""been""","Bullfrog, UT, USA",kdnorth
+"""been""","Fort Stockton, TX, USA",kdnorth
+"""been""","Castle Dale, UT, USA",kdnorth
+"""been""","Centerville, UT, USA",kdnorth
+"""been""","Centerfield, UT, USA",kdnorth
+"""been""","Portola, CA, USA",kdnorth
+"""been""","Ashland, OR, USA",kdnorth
+"""been""","North Salt Lake, UT, USA",kdnorth
+"""been""","Elko, NV, USA",kdnorth
+"""been""","Ely, NV, USA",kdnorth
+"""been""","Oakley, UT, USA",kdnorth
+"""been""","Menlo, IA, USA",kdnorth
+"""been""","Moraga, CA, USA",kdnorth
+"""been""","Jackson, WY, USA",kdnorth
+"""been""","Paso Robles, CA, USA",kdnorth
+"""been""","Alta, UT, USA",kdnorth
+"""been""","Morro Bay, CA, USA",kdnorth
+"""been""","Umatilla, OR, USA",kdnorth
+"""been""","Rosamond, CA, USA",kdnorth
+"""been""","Alpine, UT, USA",kdnorth
+"""been""","Sturgis, SD, USA",kdnorth
+"""been""","Ogden, UT, USA",kdnorth
+"""want""","Rome, Italy",kdnorth
+"""been""","Saginaw, MI, USA",kdnorth
+"""been""","Orem, UT, USA",kdnorth
+"""been""","Mackinaw City, MI, USA",kdnorth
+"""been""","Paradise, UT, USA",kdnorth
+"""been""","Park Valley, UT, USA",kdnorth
+"""been""","Park City, UT, USA",kdnorth
+"""been""","Carson City, NV, USA",kdnorth
+"""want""","London, UK",kdnorth
+"""been""","Ripon, CA, USA",kdnorth
+"""been""","Montclair, CA, USA",kdnorth
+"""been""","Lathrop, CA, USA",kdnorth
+"""been""","Riverside, CA, USA",kdnorth
+"""been""","Paradise, CA, USA",kdnorth
+"""been""","Lawndale, CA, USA",kdnorth
+"""been""","Chattanooga, TN, USA",kdnorth
+"""been""","Pasadena, CA, USA",kdnorth
+"""been""","Monterey Park, CA, USA",kdnorth
+"""been""","Monterey, CA, USA",kdnorth
+"""been""","Lodi, NY, USA",kdnorth
+"""been""","Saint Paul, MN, USA",kdnorth
+"""been""","D'Iberville, MS, USA",kdnorth
+"""been""","Carlin, NV, USA",kdnorth
+"""been""","Battle Mountain, NV, USA",kdnorth
+"""been""","York, NE, USA",kdnorth
+"""been""","Pacific Grove, CA, USA",kdnorth
+"""been""","Mojave, CA, USA",kdnorth
+"""been""","Palm Desert, CA, USA",kdnorth
+"""been""","Modesto, CA, USA",kdnorth
+"""been""","Ridgecrest, CA, USA",kdnorth
+"""been""","Lancaster, CA, USA",kdnorth
+"""been""","Palmdale, CA, USA",kdnorth
+"""been""","Palm Springs, CA, USA",kdnorth
+"""been""","Bloomington, MN, USA",kdnorth
+"""been""","Redding, CA, USA",kdnorth
+"""been""","Red Bluff, CA, USA",kdnorth
+"""been""","Redwood City, CA, USA",kdnorth
+"""been""","Lordsburg, NM, USA",kdnorth
+"""been""","Redlands, CA, USA",kdnorth
+"""been""","Solitude, UT, USA",kdnorth
+"""been""","Oxnard, CA, USA",kdnorth
+"""been""","Winnie, TX, USA",kdnorth
+"""been""","Oroville, CA, USA",kdnorth
+"""been""","Las Cruces, NM, USA",kdnorth
+"""been""","Iowa City, IA, USA",kdnorth
+"""been""","Ann Arbor, MI, USA",kdnorth
+"""been""","Wendover, UT, USA",kdnorth
+"""been""","Leeds, UT, USA",kdnorth
+"""been""","Kent, TX, USA",kdnorth
+"""been""","Wellsville, UT, USA",kdnorth
+"""been""","West Jordan, UT, USA",kdnorth
+"""been""","Levan, UT, USA",kdnorth
+"""been""","West Bountiful, UT, USA",kdnorth
+"""been""","Lehi, UT, USA",kdnorth
+"""been""","West Valley City, UT, USA",kdnorth
+"""been""","Lindon, UT, USA",kdnorth
+"""been""","West Point, UT, USA",kdnorth
+"""been""","Shasta Lake, CA, USA",kdnorth
+"""been""","Jerome, ID, USA",kdnorth
+"""been""","Logan, UT, USA",kdnorth
+"""been""","Daytona Beach, FL, USA",kdnorth
+"""been""","Woodruff, UT, USA",kdnorth
+"""been""","Willard, UT, USA",kdnorth
+"""been""","Woods Cross, UT, USA",kdnorth
+"""want""","Venice, Italy",kdnorth
+"""been""","Magna, UT, USA",kdnorth
+"""been""","Fort Bridger, WY, USA",kdnorth
+"""been""","Tracy, CA, USA",kdnorth
+"""been""","Mapleton, UT, USA",kdnorth
+"""been""","Idaho Falls, ID, USA",kdnorth
+"""been""","Manti, UT, USA",kdnorth
+"""been""","Evanston, WY, USA",kdnorth
+"""been""","Boron, CA, USA",kdnorth
+"""been""","Medford, OR, USA",kdnorth
+"""been""","Wadsworth, NV, USA",kdnorth
+"""been""","Virginia City, NV, USA",kdnorth
+"""been""","Winnemucca, NV, USA",kdnorth
+"""been""","West Wendover, NV, USA",kdnorth
+"""been""","Wells, NV, USA",kdnorth
+"""been""","Truckee, CA, USA",kdnorth
+"""been""","Midway, UT, USA",kdnorth
+"""been""","Midvale, UT, USA",kdnorth
+"""been""","Cocoa, FL, USA",kdnorth
+"""been""","Green River, WY, USA",kdnorth
+"""been""","Cocoa Beach, FL, USA",kdnorth
+"""been""","Santa Monica, CA, USA",kdnorth
+"""been""","Waterloo, IA, USA",kdnorth
+"""been""","Gillette, WY, USA",kdnorth
+"""been""","Blythe, CA, USA",kdnorth
+"""been""","Mona, UT, USA",kdnorth
+"""been"",""want"",""fave""","Clearwater, FL, USA",kdnorth
+"""been""","Santa Ynez, CA, USA",kdnorth
+"""been""","Cabo San Lucas, Mexico",kdnorth
+"""been""","West Yellowstone, MT, USA",kdnorth
+"""been""","Stateline, NV, USA",kdnorth
+"""been""","Sparks, NV, USA",kdnorth
+"""been""","Missoula, MT, USA",kdnorth
+"""been""","Moroni, UT, USA",kdnorth
+"""been""","Morgan, UT, USA",kdnorth
+"""been""","Santa Ana, CA, USA",kdnorth
+"""been""","Rigby, ID, USA",kdnorth
+"""been""","Mount Pleasant, UT, USA",kdnorth
+"""been""","Tehachapi, CA, USA",kdnorth
+"""been""","Glenns Ferry, ID, USA",kdnorth
+"""been""","Murray, UT, USA",kdnorth
+"""been""","San Ysidro, CA, USA",kdnorth
+"""been""","Santa Clarita, CA, USA",kdnorth
+"""been""","Woodbridge, CA, USA",kdnorth
+"""been"",""fave""","Santa Barbara, CA, USA",kdnorth
+"""been""","Rexburg, ID, USA",kdnorth
+"""been""","Temecula, CA, USA",kdnorth
+"""been""","Santa Cruz, CA, USA",kdnorth
+"""been""","Nephi, UT, USA",kdnorth
+"""been""","Biggs, CA, USA",kdnorth
+"""been""","North Logan, UT, USA",kdnorth
+"""been""","Salem, UT, USA",kdnorth
+"""been""","Elbe, WA, USA",kdnorth
+"""been""","Willcox, AZ, USA",kdnorth
+"""been""","Grouse Creek, UT, USA",kdnorth
+"""been""","Sandy, UT, USA",kdnorth
+"""been""","Salina, UT, USA",kdnorth
+"""been""","Green River, UT, USA",kdnorth
+"""been""","Gunnison, UT, USA",kdnorth
+"""been""","Santaquin, UT, USA",kdnorth
+"""been""","Orange, TX, USA",kdnorth
+"""been""","Santa Clara, UT, USA",kdnorth
+"""been""","Scipio, UT, USA",kdnorth
+"""been""","Snowbird, UT, USA",kdnorth
+"""been""","Smithfield, UT, USA",kdnorth
+"""been""","Hanksville, UT, USA",kdnorth
+"""been""","Heber City, UT, USA",kdnorth
+"""been""","Snowville, UT, USA",kdnorth
+"""been""","Newark, NY, USA",kdnorth
+"""been""","Pleasanton, CA, USA",kdnorth
+"""been""","Rawlins, WY, USA",kdnorth
+"""been""","Atlanta, GA, USA",kdnorth
+"""been""","Auburn, NY, USA",kdnorth
+"""been""","South Jordan, UT, USA",kdnorth
+"""been""","Helper, UT, USA",kdnorth
+"""been""","South Weber, UT, USA",kdnorth
+"""been""","Dayton, OH, USA",kdnorth
+"""been""","South Salt Lake, UT, USA",kdnorth
+"""been""","Henefer, UT, USA",kdnorth
+"""been""","Memphis, TN, USA",kdnorth
+"""been""","Spring City, UT, USA",kdnorth
+"""been""","Stuart, IA, USA",kdnorth
+"""been""","Hinckley, UT, USA",kdnorth
+"""been""","Spanish Fork, UT, USA",kdnorth
+"""been""","Midland, TX, USA",kdnorth
+"""been""","Holladay, UT, USA",kdnorth
+"""been""","Springville, UT, USA",kdnorth
+"""been""","Hooper, UT, USA",kdnorth
+"""been""","Palmyra, NY, USA",kdnorth
+"""been""","Bellevue, WA, USA",kdnorth
+"""been""","Bozeman, MT, USA",kdnorth
+"""been""","Bend, OR, USA",kdnorth
+"""been""","Billings, MT, USA",kdnorth
+"""been""","Death Valley Junction, CA, USA",kdnorth
+"""been""","Rock Springs, WY, USA",kdnorth
+"""been""","Sundance, UT, USA",kdnorth
+"""been""","Sunset, UT, USA",kdnorth
+"""been""","Huntsville, UT, USA",kdnorth
+"""been""","Burley, ID, USA",kdnorth
+"""been""","Sheridan, WY, USA",kdnorth
+"""been""","Tabiona, UT, USA",kdnorth
+"""been""","Hurricane, UT, USA",kdnorth
+"""been""","Syracuse, UT, USA",kdnorth
+"""been""","Boise, ID, USA",kdnorth
+"""been""","Taylorsville, UT, USA",kdnorth
+"""been""","Hyrum, UT, USA",kdnorth
+"""been""","Junction, TX, USA",kdnorth
+"""been""","Ivins, UT, USA",kdnorth
+"""been""","Buffalo, WY, USA",kdnorth
+"""been""","Terre Haute, IN, USA",kdnorth
+"""been""","Kamas, UT, USA",kdnorth
+"""been""","Tooele, UT, USA",kdnorth
+"""been""","Baker City, OR, USA",kdnorth
+"""been""","Great Falls, MT, USA",kdnorth
+"""been""","Tijuana, Mexico",kdnorth
+"""been""","Mobile, AL, USA",kdnorth
+"""been""","Cheyenne, WY, USA",kdnorth
+"""been""","Tremonton, UT, USA",kdnorth
+"""been""","Katy, TX, USA",kdnorth
+"""been""","Toquerville, UT, USA",kdnorth
+"""been""","Sundance, WY, USA",kdnorth
+"""been""","Bremerton, WA, USA",kdnorth
+"""been""","Cody, WY, USA",kdnorth
+"""been""","Kearns, UT, USA",kdnorth
+"""been""","Vernal, UT, USA",kdnorth
+"""been""","Kaysville, UT, USA",kdnorth
+"""been""","Veyo, UT, USA",kdnorth
+"""been""","La Verkin, UT, USA",kdnorth
+"""been""","Hollywood, FL, USA",kdnorth
+"""been""","Clifton Springs, NY, USA",kdnorth
+"""been""","Indianapolis, IN, USA",kdnorth
+"""been""","Eugene, OR, USA",kdnorth
+"""been""","Blackfoot, ID, USA",kdnorth
+"""been""","Deming, NM, USA",kdnorth
+"""been""","Bliss, ID, USA",kdnorth
+"""been""","Simi Valley, CA, USA",kdnorth
+"""been""","Layton, UT, USA",kdnorth
+"""been""","Wellington, UT, USA",kdnorth
+"""been""","Washington, UT, USA",kdnorth
+"""been""","Visalia, CA, USA",kdnorth
+"""been""","Meridian, ID, USA",kdnorth
+"""been""","Flagstaff, AZ, USA",kdnorth
+"""been""","Covina, CA, USA",kdnorth
+"""been""","Eleele, HI, USA",kdnorth
+"""been""","Tacoma, WA, USA",kdnorth
+"""been""","Olympia, WA, USA",kdnorth
+"""been""","Vista, CA, USA",kdnorth
+"""been""","Kennewick, WA, USA",kdnorth
+"""been"",""fave""","Anaheim, CA, USA",kdnorth
+"""been""","Anderson, CA, USA",kdnorth
+"""been""","Spreckels, CA, USA",kdnorth
+"""been""","Des Moines, IA, USA",kdnorth
+"""been""","Helena, MT, USA",kdnorth
+"""been""","Beaumont, TX, USA",kdnorth
+"""been""","Fontana, CA, USA",kdnorth
+"""been""","Buffalo, NY, USA",kdnorth
+"""been""","American Fork, UT, USA",kdnorth
+"""been""","Wasilla, AK, USA",kdnorth
+"""want""","Honolulu, HI, USA",kdnorth
+"""been""","Coronado, CA, USA",kdnorth
+"""been""","Caldwell, ID, USA",kdnorth
+"""been""","Malad City, ID, USA",kdnorth
+"""been""","Tallahassee, FL, USA",kdnorth
+"""been""","Asheville, NC, USA",kdnorth
+"""been""","Soledad, CA, USA",kdnorth
+"""been""","Solana Beach, CA, USA",kdnorth
+"""been""","Palisade, CO, USA",kdnorth
+"""been""","Austin, TX, USA",kdnorth
+"""been""","Houston, TX, USA",kdnorth
+"""been""","Miami, FL, USA",kdnorth
+"""been""","Cottonwood, CA, USA",kdnorth
+"""been""","Solvang, CA, USA",kdnorth
+"""been""","Tampa, FL, USA",kdnorth
+"""been""","Sonoma, CA, USA",kdnorth
+"""been""","Little America, WY, USA",kdnorth
+"""been""","New Orleans, LA, USA",kdnorth
+"""want""","Boston, MA, USA",kdnorth
+"""been""","Walla Walla, WA, USA",kdnorth
+"""been""","Commerce, CA, USA",kdnorth
+"""been"",""fave""","San Diego, CA, USA",kdnorth
+"""been""","Grand Junction, CO, USA",kdnorth
+"""been""","Alameda, CA, USA",kdnorth
+"""been""","Seward, AK, USA",kdnorth
+"""been""","Hayward, CA, USA",kdnorth
+"""been""","Payson, UT, USA",kdnorth
+"""been""","Vallejo, CA, USA",kdnorth
+"""been""","Burbank, CA, USA",kdnorth
+"""been""","Pleasant Grove, UT, USA",kdnorth
+"""been""","Buena Park, CA, USA",kdnorth
+"""been""","Compton, CA, USA",kdnorth
+"""been""","Price, UT, USA",kdnorth
+"""been""","Vail, AZ, USA",kdnorth
+"""been""","Corona, CA, USA",kdnorth
+"""been""","Provo, UT, USA",kdnorth
+"""been""","Corning, CA, USA",kdnorth
+"""been""","Providence, UT, USA",kdnorth
+"""been""","Randolph, UT, USA",kdnorth
+"""been""","Agoura Hills, CA, USA",kdnorth
+"""been""","Lyman, WY, USA",kdnorth
+"""been""","Duluth, MN, USA",kdnorth
+"""been""","Seneca Falls, NY, USA",kdnorth
+"""been"",""fave""","Seattle, WA, USA",kdnorth
+"""been""","Yellowstone National Park, WY, USA",kdnorth
+"""been""","Richmond, UT, USA",kdnorth
+"""been""","Odessa, TX, USA",kdnorth
+"""been""","New York City, NY, USA",kdnorth
+"""been""","Richfield, UT, USA",kdnorth
+"""been""","Omaha, NE, USA",kdnorth
+"""been""","Port Townsend, WA, USA",kdnorth
+"""been""","Riverside, UT, USA",kdnorth
+"""been""","Riverdale, UT, USA",kdnorth
+"""been"",""fave""","Anchorage, AK, USA",kdnorth
+"""been""","Port Orchard, WA, USA",kdnorth
+"""been""","Lake Arrowhead, CA, USA",kdnorth
+"""been""","Tonopah, AZ, USA",kdnorth
+"""been""","Riverton, UT, USA",kdnorth
+"""been""","Littlefield, AZ, USA",kdnorth
+"""been""","Roy, UT, USA",kdnorth
+"""been""","Golden, CO, USA",kdnorth
+"""been""","Union City, CA, USA",kdnorth
+"""been""","Hawthorne, CA, USA",kdnorth
+"""been""","Roosevelt, UT, USA",kdnorth
+"""been""","Lake Isabella, CA, USA",kdnorth
+"""been""","St. George, UT, USA",kdnorth
+"""been""","Boulder, CO, USA",kdnorth
+"""been""","Encinitas, CA, USA",kdnorth
+"""been""","Vacaville, CA, USA",kdnorth
+"""been""","Upland, CA, USA",kdnorth
+"""been""","Twin Falls, ID, USA",kdnorth
+"""been""","Waterloo, NY, USA",kdnorth
+"""been""","Ventura, CA, USA",kdnorth
+"""been""","Lincoln, NE, USA",kdnorth
+"""been""","Watkins Glen, NY, USA",kdnorth
+"""been""","Lexington, NE, USA",kdnorth
+"""been""","Cedar City, UT, USA",kdnorth
+"""been""","Moorcroft, WY, USA",kdnorth
+"""been""","Little Rock, AR, USA",kdnorth
+"""been""","Springfield, IL, USA",kdnorth
+"""been""","Mountain View, WY, USA",kdnorth
+"""been""","El Paso, TX, USA",kdnorth
+"""been""","San Miguel, CA, USA",kdnorth
+"""been""","San Mateo, CA, USA",kdnorth
+"""been""","Castro Valley, CA, USA",kdnorth
+"""been""","Sutter, CA, USA",kdnorth
+"""been""","SeaTac, WA, USA",kdnorth
+"""been""","Tahoe Vista, CA, USA",kdnorth
+"""been""","Tahoe City, CA, USA",kdnorth
+"""been""","Pocatello, ID, USA",kdnorth
+"""been""","Taft, CA, USA",kdnorth
+"""been""","La Grande, OR, USA",kdnorth
+"""been""","Willard, NY, USA",kdnorth
+"""been""","Klamath Falls, OR, USA",kdnorth
+"""been""","Preston, ID, USA",kdnorth
+"""been""","Nashville, TN, USA",kdnorth
+"""been""","Sequim, WA, USA",kdnorth
+"""been""","Lima, MT, USA",kdnorth
+"""been""","Zion National Park, UT, USA",kdnorth
+"""been""","Savannah, GA, USA",kdnorth
+"""been""","Beverly Hills, CA, USA",kdnorth
+"""been""","Albuquerque, NM, USA",kdnorth
+"""been""","LaBelle, FL, USA",kdnorth
+"""been""","San Jose, CA, USA",kdnorth
+"""been""","Carmel Valley, CA, USA",kdnorth
+"""been""","Fort Pierce, FL, USA",kdnorth
+"""been""","Carmel, CA, USA",kdnorth
+"""been""","Carlsbad, CA, USA",kdnorth
+"""been""","Desert Center, CA, USA",kdnorth
+"""been""","Cedar Rapids, IA, USA",kdnorth
+"""been""","Sunnyvale, CA, USA",kdnorth
+"""been""","Denver, CO, USA",kdnorth
+"""been""","Silverdale, WA, USA",kdnorth
+"""been""","San Leandro, CA, USA",kdnorth
+"""been""","Carpinteria, CA, USA",kdnorth
+"""been""","Fort Myers, FL, USA",kdnorth
+"""been""","Moses Lake, WA, USA",kdnorth
+"""been""","Diamond Bar, CA, USA",kdnorth
+"""been""","Kissimmee, FL, USA",kdnorth
+"""been""","Sonora, TX, USA",kdnorth
+"""been""","San Luis Obispo, CA, USA",kdnorth
+"""been""","Lubbock, TX, USA",kdnorth
+"""been""","St. Augustine, FL, USA",kdnorth
+"""been""","Snoqualmie, WA, USA",kdnorth
+"""been""","Cape Canaveral, FL, USA",kdnorth
+"""been""","Cape Coral, FL, USA",kdnorth
+"""been""","Sodus, NY, USA",kdnorth
+"""been""","Sodus Point, NY, USA",kdnorth
+"""been""","Estes Park, CO, USA",kdnorth
+"""been""","Vancouver, WA, USA",kdnorth
+"""been""","Kemmerer, WY, USA",kdnorth
+"""been""","West Hollywood, CA, USA",kdnorth
+"""been""","Davis, CA, USA",kdnorth
+"""been""","Stockton, CA, USA",kdnorth
+"""been""","West Covina, CA, USA",kdnorth
+"""been""","Tucson, AZ, USA",kdnorth
+"""been""","Roosevelt, TX, USA",kdnorth
+"""been""","Oakley, ID, USA",kdnorth
+"""been""","Delano, CA, USA",kdnorth
+"""been""","Port Saint Lucie, FL, USA",kdnorth
+"""been""","West Sacramento, CA, USA",kdnorth
+"""been""","San Dimas, CA, USA",kdnorth
+"""been""","Del Mar, CA, USA",kdnorth
+"""been""","Casey, IA, USA",kdnorth
+"""been""","Baywood Park, CA, USA",kdnorth
+"""been""","Naples, FL, USA",kdnorth
+"""been""","Spokane, WA, USA",kdnorth
+"""been""","Fort Lauderdale, FL, USA",kdnorth
+"""been""","Grand Island, NE, USA",kdnorth
+"""been""","Brigham City, UT, USA",kdnorth
+"""been""","San Antonio, TX, USA",kdnorth
+"""been""","Santa Fe, NM, USA",kdnorth
+"""been""","Thousand Oaks, CA, USA",kdnorth
+"""been""","Geneva, NY, USA",kdnorth
+"""been""","Rochester, NY, USA",kdnorth
+"""been""","San Francisco, CA, USA",kdnorth
+"""been""","Watsonville, CA, USA",kdnorth
+"""been""","Shenzhen, China",kdnorth
+"""been""","Moose Pass, AK, USA",kdnorth
+"""been""","Weed, CA, USA",kdnorth
+"""been""","Salinas, CA, USA",kdnorth
+"""been""","Salida, CA, USA",kdnorth
+"""been""","Squaw Valley, CA, USA",kdnorth
+"""been""","Colorado Springs, CO, USA",kdnorth
+"""been""","Mountain Home, ID, USA",kdnorth
+"""been""","Hermiston, OR, USA",kdnorth
+"""been""","Bakersfield, CA, USA",kdnorth
+"""been""","Dana Point, CA, USA",kdnorth
+"""been""","Baker, CA, USA",kdnorth
+"""been""","Nampa, ID, USA",kdnorth
+"""been""","Gothenburg, NE, USA",kdnorth
+"""been""","San Bernardino, CA, USA",kdnorth
+"""been""","Geneva, NE, USA",kdnorth
+"""been""","Henrietta, NY, USA",kdnorth
+"""been""","Butte, MT, USA",kdnorth
+"""been""","Canandaigua, NY, USA",kdnorth
+"""been""","Columbia, MO, USA",kdnorth
+"""been""","Moab, UT, USA",kdnorth
+"""been""","Garden Grove, CA, USA",kdnorth
+"""been""","Fruitland, UT, USA",kdnorth
+"""been""","Hong Kong, China",kdnorth
+"""been""","Fruit Heights, UT, USA",kdnorth
+"""been""","Garland, UT, USA",kdnorth
+"""been""","Newport Beach, CA, USA",kdnorth
+"""been""","Garden City, UT, USA",kdnorth
+"""been""","Goshen, UT, USA",kdnorth
+"""been""","Grantsville, UT, USA",kdnorth
+"""been""","Saint Augustine Beach, FL, USA",kdnorth
+"""been""","Lakewood, CO, USA",kdnorth
+"""been""","Downey, CA, USA",kdnorth
+"""been""","Portland, OR, USA",kdnorth
+"""been""","Saint Joseph, MO, USA",kdnorth
+"""been""","Saint Louis, MO, USA",kdnorth
+"""been""","Mesquite, NV, USA",kdnorth
+"""been""","Hastings, NE, USA",kdnorth
+"""been""","Aspen, CO, USA",kdnorth
+"""been""","Avoca, IA, USA",kdnorth
+"""been""","Nevada City, CA, USA",kdnorth
+"""been""","Aurora, CO, USA",kdnorth
+"""been""","Los Angeles, CA, USA",kdnorth
+"""been""","Fremont, CA, USA",kdnorth
+"""been""","Rifle, CO, USA",kdnorth
+"""been""","Pismo Beach, CA, USA",kdnorth
+"""been""","Chicago, IL, USA",kdnorth
+"""been""","Fullerton, CA, USA",kdnorth
+"""been""","Renton, WA, USA",kdnorth
+"""been""","Placerville, CA, USA",kdnorth
+"""been""","Fresno, CA, USA",kdnorth
+"""been""","Ozona, TX, USA",kdnorth
+"""been""","Toledo, OH, USA",kdnorth
+"""been""","Pendleton, OR, USA",kdnorth
+"""been""","Laughlin, NV, USA",kdnorth
+"""been""","Nebraska City, NE, USA",kdnorth
+"""been""","Atlantic, IA, USA",kdnorth
+"""been""","Barstow, CA, USA",kdnorth
+"""been""","Las Vegas, NV, USA",kdnorth
+"""want""","Cancun, Mexico",kdnorth
+"""been""","Lovelock, NV, USA",kdnorth
+"""been""","Pine Valley, UT, USA",kdnorth
+"""been""","Lodi, CA, USA",kdnorth
+"""been""","Sealy, TX, USA",kdnorth
+"""been""","Arroyo Grande, CA, USA",kdnorth
+"""been""","Joshua Tree National Park, CA, USA",kdnorth
+"""been""","Imperial Beach, CA, USA",kdnorth
+"""been""","Loma Linda, CA, USA",kdnorth
+"""been""","Phoenix, AZ, USA",kdnorth
+"""been""","Yakima, WA, USA",kdnorth
+"""been""","Long Beach, CA, USA",kdnorth
+"""been""","Myrtle Beach, SC, USA",kdnorth
+"""been""","Afton, WY, USA",kdnorth
+"""been""","Fortuna, CA, USA",kdnorth
+"""been""","Inglewood, CA, USA",kdnorth
+"""been""","Indio, CA, USA",kdnorth
+"""been""","Ontario, OR, USA",kdnorth
+"""been""","Clarion, PA, USA",kdnorth
+"""been""","Cottonwood Heights, UT, USA",kdnorth
+"""been""","Vero Beach, FL, USA",kdnorth
+"""been""","Henderson, NV, USA",kdnorth
+"""been""","Baton Rouge, LA, USA",kdnorth
+"""been""","Jackpot, NV, USA",kdnorth
+"""been""","Imlay, NV, USA",kdnorth
+"""been""","Flint, MI, USA",kdnorth
+"""been""","Incline Village, NV, USA",kdnorth
+"""want""","Sydney, Australia",kdnorth
+"""been""","Auburn, CA, USA",kdnorth
+"""been""","Petaluma, CA, USA",kdnorth
+"""been""","Aurora, UT, USA",kdnorth
+"""been""","Sacramento, CA, USA",kdnorth
+"""been""","Livermore, CA, USA",kdnorth
+"""been""","Mount Shasta, CA, USA",kdnorth
+"""been""","Huntington Beach, CA, USA",kdnorth
+"""been""","Saint Ignace, MI, USA",kdnorth
+"""been""","Fernley, NV, USA",kdnorth
+"""been""","Fallon, NV, USA",kdnorth
+"""been""","Jacksonville, FL, USA",kdnorth
+"""been""","O'Fallon, MO, USA",kdnorth
+"""been""","Port Angeles, WA, USA",kdnorth
+"""been""","Salt Lake City, UT, USA",kdnorth
+"""been""","Sidney, NE, USA",kdnorth
+"""been""","Milwaukee, WI, USA",kdnorth
+"""been""","Hope, AK, USA",kdnorth
+"""been""","Amarillo, TX, USA",kdnorth
+"""been""","Laguna Beach, CA, USA",kdnorth
+"""been""","Rapid City, SD, USA",kdnorth
+"""been""","Eldridge, CA, USA",kdnorth
+"""been""","Clearfield, UT, USA",kdnorth
+"""been""","Elk Grove, CA, USA",kdnorth
+"""been""","Brea, CA, USA",kdnorth
+"""been""","Coalville, UT, USA",kdnorth
+"""been""","Boerne, TX, USA",kdnorth
+"""been""","Clinton, UT, USA",kdnorth
+"""been""","Corinne, UT, USA",kdnorth
+"""been""","Warren, OH, USA",kdnorth
+"""want""","Paris, France",kdnorth
+"""been""","Girdwood, AK, USA",kdnorth
+"""been""","Greenfield, CA, USA",kdnorth
+"""been""","Chula Vista, CA, USA",kdnorth
+"""been""","Mc Farland, CA, USA",kdnorth
+"""been""","Edwards, CA, USA",kdnorth
+"""been""","Agoura, CA, USA",kdnorth
+"""been""","Gridley, CA, USA",kdnorth
+"""been""","La Jolla, CA, USA",kdnorth
+"""been"",""fave""","Orlando, FL, USA",kdnorth
+"""been""","City of Industry, CA, USA",kdnorth
+"""been""","Delta, UT, USA",kdnorth
+"""been""","Yuba City, CA, USA",kdnorth
+"""been""","El Dorado, CA, USA",kdnorth
+"""been""","Yreka, CA, USA",kdnorth
+"""been""","Citrus Heights, CA, USA",kdnorth
+"""been""","Draper, UT, USA",kdnorth
+"""been""","Dugway, UT, USA",kdnorth
+"""been""","Eagle Mountain, UT, USA",kdnorth
+"""been""","Kearney, NE, USA",kdnorth
+"""been""","Detroit, MI, USA",kdnorth
+"""been""","Marina del Rey, CA, USA",kdnorth
+"""been""","Sedona, AZ, USA",kdnorth
+"""been""","Marina, CA, USA",kdnorth
+"""been""","Loveland, CO, USA",kdnorth
+"""been""","Maricopa, CA, USA",kdnorth
+"""been""","Scottsdale, AZ, USA",kdnorth
+"""been""","Eden, UT, USA",kdnorth
+"""been""","Echo, UT, USA",kdnorth
+"""been""","Clint, TX, USA",kdnorth
+"""been""","Englewood, CO, USA",kdnorth
+"""been""","Klamath, CA, USA",kdnorth
+"""been""","Chico, CA, USA",kdnorth
+"""been""","Mariposa, CA, USA",kdnorth
+"""been""","Ephraim, UT, USA",kdnorth
+"""been""","Enterprise, UT, USA",kdnorth
+"""been""","Marysville, CA, USA",kdnorth
+"""been""","Grass Valley, CA, USA",kdnorth
+"""been""","Erda, UT, USA",kdnorth
+"""been""","Okeechobee, FL, USA",kdnorth
+"""been""","Chualar, CA, USA",kdnorth
+"""been""","Gonzales, LA, USA",kdnorth
+"""been""","Reno, NV, USA",kdnorth
+"""been""","Silver Springs, NV, USA",kdnorth
+"""been""","Glendale, CA, USA",kdnorth
+"""been""","Eureka, UT, USA",kdnorth
+"""been""","Farmington, UT, USA",kdnorth
+"""been""","Fairview, UT, USA",kdnorth
+"""been""","Kernville, CA, USA",kdnorth
+"""been""","Dublin, CA, USA",kdnorth
+"""been""","Malibu, CA, USA",kdnorth
+"""been""","Fayette, UT, USA",kdnorth
+"""been""","San Simon, AZ, USA",kdnorth
+"""been""","Norwalk, CA, USA",kdnorth
+"""been""","Fillmore, UT, USA",kdnorth
+"""been""","Columbus, TX, USA",kdnorth
+"""been""","Gonzales, CA, USA",kdnorth
+"""been""","Fountain Green, UT, USA",kdnorth
+"""been""","King City, CA, USA",kdnorth
+"""been""","Longmont, CO, USA",kdnorth
+"""been""","Manteca, CA, USA",kdnorth
+"""been""","Manhattan Beach, CA, USA",kdnorth
+"""been""","Dunsmuir, CA, USA",kdnorth
+"""been""","North Las Vegas, NV, USA",kdnorth
+"""been""","Minneapolis, MN, USA",kdnorth
+"""been""","Ogallala, NE, USA",kdnorth
+"""been""","Kansas City, MO, USA",kdnorth
+"""been""","Cozad, NE, USA",kdnorth

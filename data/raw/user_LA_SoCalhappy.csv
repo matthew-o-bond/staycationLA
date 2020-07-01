@@ -1,0 +1,432 @@
+tag,place,user
+"""been""","Assisi, Italy",SoCalhappy
+"""been""","Palo Alto, CA, USA",SoCalhappy
+"""been""","Palm Desert, CA, USA",SoCalhappy
+"""been""","Palm Springs, CA, USA",SoCalhappy
+"""been""","Ankara, Turkey",SoCalhappy
+"""been""","Iguazu National Park, Argentina",SoCalhappy
+"""been""","Cesky Krumlov, Czech Republic",SoCalhappy
+"""been""","Sumilon Island, Philippines",SoCalhappy
+"""been""","Puerto Iguazu, Argentina",SoCalhappy
+"""been""","Bodrum City, Turkey",SoCalhappy
+"""been""","Kotor, Montenegro",SoCalhappy
+"""been""","Agra, India",SoCalhappy
+"""been""","Tagaytay, Philippines",SoCalhappy
+"""been""","Williams, AZ, USA",SoCalhappy
+"""been""","Pasadena, CA, USA",SoCalhappy
+"""been""","Monterey, CA, USA",SoCalhappy
+"""been""","Dallas, TX, USA",SoCalhappy
+"""been""","Paso Robles, CA, USA",SoCalhappy
+"""been""","San Miguel de Allende, Mexico",SoCalhappy
+"""been""","Ponce, Puerto Rico",SoCalhappy
+"""been""","Split, Croatia",SoCalhappy
+"""been"",""want""","San Juan, Puerto Rico",SoCalhappy
+"""been""","Dubrovnik, Croatia",SoCalhappy
+"""been""","Aguas Calientes, Peru",SoCalhappy
+"""been""","Izu, Japan",SoCalhappy
+"""been""","Seminyak, Indonesia",SoCalhappy
+"""been""","Seoul, South Korea",SoCalhappy
+"""been""","Macau, China",SoCalhappy
+"""been""","Sacramento, CA, USA",SoCalhappy
+"""been""","Milwaukee, WI, USA",SoCalhappy
+"""been""","Protaras, Cyprus",SoCalhappy
+"""been""","Huntington Beach, CA, USA",SoCalhappy
+"""been""","Alexandria, Egypt",SoCalhappy
+"""been""","Nusa Dua, Indonesia",SoCalhappy
+"""been""","Punta del Este, Uruguay",SoCalhappy
+"""been""","Jimbaran, Indonesia",SoCalhappy
+"""been""","Kuta, Indonesia",SoCalhappy
+"""been""","Phoenix, AZ, USA",SoCalhappy
+"""been""","Denpasar, Indonesia",SoCalhappy
+"""been""","Quebec City, Quebec, Canada",SoCalhappy
+"""been""","Kandy, Sri Lanka",SoCalhappy
+"""been""","Kalutara, Sri Lanka",SoCalhappy
+"""been""","Montreal, Quebec, Canada",SoCalhappy
+"""been""","Punta Arenas, Chile",SoCalhappy
+"""been""","Abu Dhabi, United Arab Emirates",SoCalhappy
+"""been""","Springdale, UT, USA",SoCalhappy
+"""been""","Isla Mujeres, Mexico",SoCalhappy
+"""been""","Petra - Wadi Musa, Jordan",SoCalhappy
+"""been""","Oceanside, CA, USA",SoCalhappy
+"""been""","Ojai, CA, USA",SoCalhappy
+"""been""","Oakland, CA, USA",SoCalhappy
+"""been""","Cancun, Mexico",SoCalhappy
+"""been""","Thekkady, India",SoCalhappy
+"""been""","Fortaleza, Brazil",SoCalhappy
+"""been""","Oaxaca, Mexico",SoCalhappy
+"""been""","Mexico City, Mexico",SoCalhappy
+"""been""","Pamukkale, Turkey",SoCalhappy
+"""been""","Big Sur, CA, USA",SoCalhappy
+"""been""","Limassol City, Cyprus",SoCalhappy
+"""been""","Charlotte, NC, USA",SoCalhappy
+"""been""","St. Petersburg, Russia",SoCalhappy
+"""been""","Paphos, Cyprus",SoCalhappy
+"""been""","Larnaca, Cyprus",SoCalhappy
+"""been""","Kyrenia, Cyprus",SoCalhappy
+"""been""","Lucerne, Switzerland",SoCalhappy
+"""been""","Stanley, Falkland Islands",SoCalhappy
+"""been""","Lisbon, Portugal",SoCalhappy
+"""been""","Famagusta, Cyprus",SoCalhappy
+"""been""","Singapore, Singapore",SoCalhappy
+"""been""","Negombo, Sri Lanka",SoCalhappy
+"""been""","Salvador, Brazil",SoCalhappy
+"""been""","Golden, British Columbia, Canada",SoCalhappy
+"""been""","Cebu Island, Philippines",SoCalhappy
+"""been""","Geneva, Switzerland",SoCalhappy
+"""been""","Vancouver, British Columbia, Canada",SoCalhappy
+"""been""","Pattaya, Thailand",SoCalhappy
+"""been""","Victoria, British Columbia, Canada",SoCalhappy
+"""been""","Ayia Napa, Cyprus",SoCalhappy
+"""been""","Taipei, Taiwan",SoCalhappy
+"""been""","Ka'anapali, HI, USA",SoCalhappy
+"""been""","Bangkok, Thailand",SoCalhappy
+"""been""","Venice, Italy",SoCalhappy
+"""been""","Mont Tremblant, Quebec, Canada",SoCalhappy
+"""been""","Helsinki, Finland",SoCalhappy
+"""been""","Madrid, Spain",SoCalhappy
+"""been""","Bari, Italy",SoCalhappy
+"""been""","Okayama, Japan",SoCalhappy
+"""been""","Kurashiki, Japan",SoCalhappy
+"""been""","Kelowna, British Columbia, Canada",SoCalhappy
+"""been""","Siem Reap, Cambodia",SoCalhappy
+"""been""","Sendai, Japan",SoCalhappy
+"""been""","Belo Horizonte, Brazil",SoCalhappy
+"""been""","Izmir, Turkey",SoCalhappy
+"""been""","Armacao dos Buzios, Brazil",SoCalhappy
+"""been""","Toyama, Japan",SoCalhappy
+"""been""","Waimea, HI, USA",SoCalhappy
+"""been""","Cesme, Turkey",SoCalhappy
+"""been""","Hilo, HI, USA",SoCalhappy
+"""been""","Boca Raton, FL, USA",SoCalhappy
+"""been""","Niigata, Japan",SoCalhappy
+"""been""","Aomori, Japan",SoCalhappy
+"""been""","Shizuoka, Japan",SoCalhappy
+"""been""","Atami, Japan",SoCalhappy
+"""been""","Montenegro, Colombia",SoCalhappy
+"""been""","Milan, Italy",SoCalhappy
+"""been""","Mykonos Town, Greece",SoCalhappy
+"""been""","Jaipur, India",SoCalhappy
+"""been""","New Delhi, India",SoCalhappy
+"""been""","Turin, Italy",SoCalhappy
+"""been""","Hakodate, Japan",SoCalhappy
+"""been""","Park City, UT, USA",SoCalhappy
+"""been""","Marmaris, Turkey",SoCalhappy
+"""been""","Pensacola Beach, FL, USA",SoCalhappy
+"""been""","Corfu Town, Greece",SoCalhappy
+"""been""","Whistler, British Columbia, Canada",SoCalhappy
+"""been""","Taos, NM, USA",SoCalhappy
+"""been""","Monterrey, Mexico",SoCalhappy
+"""been""","Foz do Iguacu, Brazil",SoCalhappy
+"""been""","Curitiba, Brazil",SoCalhappy
+"""been""","Miyazaki, Japan",SoCalhappy
+"""been""","Kumamoto, Japan",SoCalhappy
+"""been""","Mammoth Lakes, CA, USA",SoCalhappy
+"""been""","Beppu, Japan",SoCalhappy
+"""been""","Davao City, Philippines",SoCalhappy
+"""been""","Como, Italy",SoCalhappy
+"""been""","Makati, Philippines",SoCalhappy
+"""been""","Bellagio, Italy",SoCalhappy
+"""been""","Kuala Lumpur, Malaysia",SoCalhappy
+"""been""","Bergamo, Italy",SoCalhappy
+"""been""","Kagoshima, Japan",SoCalhappy
+"""been""","Manila, Philippines",SoCalhappy
+"""been""","Ensenada, Mexico",SoCalhappy
+"""been""","Nagasaki, Japan",SoCalhappy
+"""been""","Wakayama, Japan",SoCalhappy
+"""been""","Baguio, Philippines",SoCalhappy
+"""been""","Osaka, Japan",SoCalhappy
+"""been""","Otsu, Japan",SoCalhappy
+"""been""","Nagano, Japan",SoCalhappy
+"""been""","Fukuoka, Japan",SoCalhappy
+"""been""","Truckee, CA, USA",SoCalhappy
+"""been""","Sapporo, Japan",SoCalhappy
+"""been""","South Lake Tahoe, CA, USA",SoCalhappy
+"""been""","Kyoto, Japan",SoCalhappy
+"""been""","Bellingham, WA, USA",SoCalhappy
+"""been""","Kobe, Japan",SoCalhappy
+"""been""","Hiroshima, Japan",SoCalhappy
+"""been""","Ravenna, Italy",SoCalhappy
+"""been""","Mont-Saint-Michel, France",SoCalhappy
+"""been""","Kanazawa, Japan",SoCalhappy
+"""been""","Hollywood, FL, USA",SoCalhappy
+"""been""","Washington DC, DC, USA",SoCalhappy
+"""been""","Matsumoto, Japan",SoCalhappy
+"""been""","Matsuyama, Japan",SoCalhappy
+"""been""","Jasper, Alberta, Canada",SoCalhappy
+"""been""","Guanajuato, Mexico",SoCalhappy
+"""been""","Daytona Beach, FL, USA",SoCalhappy
+"""been""","Calgary, Alberta, Canada",SoCalhappy
+"""been""","Edmonton, Alberta, Canada",SoCalhappy
+"""been""","Takamatsu, Japan",SoCalhappy
+"""been""","Puerto Vallarta, Mexico",SoCalhappy
+"""been""","Banff, Alberta, Canada",SoCalhappy
+"""been""","Lake Louise, Alberta, Canada",SoCalhappy
+"""been""","Rincon, Puerto Rico",SoCalhappy
+"""been""","Wilmington, NC, USA",SoCalhappy
+"""been""","Nagoya, Japan",SoCalhappy
+"""been""","Naha, Japan",SoCalhappy
+"""been""","Lapu Lapu, Philippines",SoCalhappy
+"""been""","Cebu City, Philippines",SoCalhappy
+"""been""","Huatulco, Mexico",SoCalhappy
+"""been""","Ishigaki, Japan",SoCalhappy
+"""been""","Oita, Japan",SoCalhappy
+"""been""","Fort Lauderdale, FL, USA",SoCalhappy
+"""been""","Kahului, HI, USA",SoCalhappy
+"""been""","Fort Walton Beach, FL, USA",SoCalhappy
+"""been""","Kailua-Kona, HI, USA",SoCalhappy
+"""been""","Hana, HI, USA",SoCalhappy
+"""been""","Denver, CO, USA",SoCalhappy
+"""been""","St. Augustine, FL, USA",SoCalhappy
+"""been""","San Luis Obispo, CA, USA",SoCalhappy
+"""been""","Carmel, CA, USA",SoCalhappy
+"""been""","Fort Myers, FL, USA",SoCalhappy
+"""been""","New Smyrna Beach, FL, USA",SoCalhappy
+"""been""","Heraklion, Greece",SoCalhappy
+"""been""","San Diego, CA, USA",SoCalhappy
+"""been""","Fort Myers Beach, FL, USA",SoCalhappy
+"""been""","Kissimmee, FL, USA",SoCalhappy
+"""been""","Carlsbad, CA, USA",SoCalhappy
+"""been""","Lahaina, HI, USA",SoCalhappy
+"""been""","Gothenburg, Sweden",SoCalhappy
+"""been""","Paia, HI, USA",SoCalhappy
+"""been""","Seattle, WA, USA",SoCalhappy
+"""been""","Nice, France",SoCalhappy
+"""been""","Amman, Jordan",SoCalhappy
+"""been""","Cape Canaveral, FL, USA",SoCalhappy
+"""been""","Cape Coral, FL, USA",SoCalhappy
+"""been""","Berkeley, CA, USA",SoCalhappy
+"""been""","Eze, France",SoCalhappy
+"""been""","Honolulu, HI, USA",SoCalhappy
+"""been""","Cannes, France",SoCalhappy
+"""been""","New Orleans, LA, USA",SoCalhappy
+"""been""","Boston, MA, USA",SoCalhappy
+"""been""","Bruges, Belgium",SoCalhappy
+"""been""","Lihue, HI, USA",SoCalhappy
+"""been""","Poipu, HI, USA",SoCalhappy
+"""been""","Athens, Greece",SoCalhappy
+"""been""","Manhattan, MT, USA",SoCalhappy
+"""been""","Rio de Janeiro, Brazil",SoCalhappy
+"""been""","Celebration, FL, USA",SoCalhappy
+"""been""","Santa Barbara, CA, USA",SoCalhappy
+"""been""","Kailua, HI, USA",SoCalhappy
+"""been""","Kapolei, HI, USA",SoCalhappy
+"""been""","Santa Cruz, CA, USA",SoCalhappy
+"""been""","Cambridge, MA, USA",SoCalhappy
+"""been""","Temecula, CA, USA",SoCalhappy
+"""been""","Beverly Hills, CA, USA",SoCalhappy
+"""been""","Frankfurt, Germany",SoCalhappy
+"""been""","San Sebastian - Donostia, Spain",SoCalhappy
+"""been""","Atlanta, GA, USA",SoCalhappy
+"""been""","Carolina, Puerto Rico",SoCalhappy
+"""been""","Natal, Brazil",SoCalhappy
+"""been""","St. George, UT, USA",SoCalhappy
+"""been""","Sao Paulo, Brazil",SoCalhappy
+"""been""","New York City, NY, USA",SoCalhappy
+"""been""","Cocoa Beach, FL, USA",SoCalhappy
+"""been""","Granada, Spain",SoCalhappy
+"""been""","Santa Monica, CA, USA",SoCalhappy
+"""been""","Clearwater, FL, USA",SoCalhappy
+"""been""","Legian, Indonesia",SoCalhappy
+"""been""","Springfield, IL, USA",SoCalhappy
+"""been""","Ventura, CA, USA",SoCalhappy
+"""been""","Kalamaki, Greece",SoCalhappy
+"""been""","Shinagawa, Japan",SoCalhappy
+"""been""","Haleiwa, HI, USA",SoCalhappy
+"""been""","El Paso, TX, USA",SoCalhappy
+"""been""","Seville, Spain",SoCalhappy
+"""been""","Hakone-machi, Japan",SoCalhappy
+"""been""","Munich, Germany",SoCalhappy
+"""been""","Tucson, AZ, USA",SoCalhappy
+"""been""","Stockholm, Sweden",SoCalhappy
+"""been""","Cordoba, Spain",SoCalhappy
+"""been""","Vatican City, Vatican City",SoCalhappy
+"""been""","Brussels, Belgium",SoCalhappy
+"""been""","Solvang, CA, USA",SoCalhappy
+"""been""","Mesa, AZ, USA",SoCalhappy
+"""been""","Tallahassee, FL, USA",SoCalhappy
+"""been""","Rome, Italy",SoCalhappy
+"""been""","Coronado, CA, USA",SoCalhappy
+"""been""","Colombo, Sri Lanka",SoCalhappy
+"""been""","Austin, TX, USA",SoCalhappy
+"""been""","Pensacola, FL, USA",SoCalhappy
+"""been""","Santa Fe, NM, USA",SoCalhappy
+"""been""","Malaga, Spain",SoCalhappy
+"""been""","Yokohama, Japan",SoCalhappy
+"""been""","Kawasaki, Japan",SoCalhappy
+"""been""","San Antonio, TX, USA",SoCalhappy
+"""been""","San Francisco, CA, USA",SoCalhappy
+"""been""","Halifax, Nova Scotia, Canada",SoCalhappy
+"""been""","Chiyoda, Japan",SoCalhappy
+"""been""","Fajardo, Puerto Rico",SoCalhappy
+"""been""","Unawatuna, Sri Lanka",SoCalhappy
+"""been""","Miami Beach, FL, USA",SoCalhappy
+"""been""","Anaheim, CA, USA",SoCalhappy
+"""been""","Tampa, FL, USA",SoCalhappy
+"""been""","Miami, FL, USA",SoCalhappy
+"""been""","Sonoma, CA, USA",SoCalhappy
+"""been""","Antwerp, Belgium",SoCalhappy
+"""been""","Noida, India",SoCalhappy
+"""been""","Providence, RI, USA",SoCalhappy
+"""been""","London, UK",SoCalhappy
+"""been""","Urayasu, Japan",SoCalhappy
+"""been""","Narita, Japan",SoCalhappy
+"""been""","Pompeii, Italy",SoCalhappy
+"""been""","Naples, Italy",SoCalhappy
+"""been""","Newark, NJ, USA",SoCalhappy
+"""been""","Valencia, Spain",SoCalhappy
+"""been""","Himeji, Japan",SoCalhappy
+"""been""","Selcuk, Turkey",SoCalhappy
+"""been""","Columbia, SC, USA",SoCalhappy
+"""been""","Flagstaff, AZ, USA",SoCalhappy
+"""been""","St. Helena, CA, USA",SoCalhappy
+"""been"",""want""","Houston, TX, USA",SoCalhappy
+"""been""","Treasure Island, FL, USA",SoCalhappy
+"""been""","Kapaa, HI, USA",SoCalhappy
+"""been""","West Bay, Honduras",SoCalhappy
+"""been""","Pisa, Italy",SoCalhappy
+"""been""","Grand Forks, ND, USA",SoCalhappy
+"""been""","Florence, Italy",SoCalhappy
+"""been""","Nara, Japan",SoCalhappy
+"""been""","Kapalua, HI, USA",SoCalhappy
+"""been""","Nikko, Japan",SoCalhappy
+"""been""","Shanghai, China",SoCalhappy
+"""been""","Saitama, Japan",SoCalhappy
+"""been""","Dana Point, CA, USA",SoCalhappy
+"""been""","Del Mar, CA, USA",SoCalhappy
+"""been""","Naples, FL, USA",SoCalhappy
+"""been""","Burlington, VT, USA",SoCalhappy
+"""been""","Istanbul, Turkey",SoCalhappy
+"""been""","Waikoloa, HI, USA",SoCalhappy
+"""been""","Tokyo, Japan",SoCalhappy
+"""been""","Volcano, HI, USA",SoCalhappy
+"""been""","Sicily, Italy",SoCalhappy
+"""been""","Moab, UT, USA",SoCalhappy
+"""been""","Nuevo Vallarta, Mexico",SoCalhappy
+"""been""","Winter Park, FL, USA",SoCalhappy
+"""been""","Surabaya, Indonesia",SoCalhappy
+"""been""","Brno, Czech Republic",SoCalhappy
+"""been""","Tallinn, Estonia",SoCalhappy
+"""been""","Sofia, Bulgaria",SoCalhappy
+"""been""","Antalya, Turkey",SoCalhappy
+"""been""","Oslo, Norway",SoCalhappy
+"""been""","Yountville, CA, USA",SoCalhappy
+"""been""","Zagreb, Croatia",SoCalhappy
+"""been""","Kumarakom, India",SoCalhappy
+"""been""","Beijing, China",SoCalhappy
+"""been""","Dubai, United Arab Emirates",SoCalhappy
+"""been""","Lima, Peru",SoCalhappy
+"""been""","Machu Picchu, Peru",SoCalhappy
+"""been""","La Jolla, CA, USA",SoCalhappy
+"""been""","Telluride, CO, USA",SoCalhappy
+"""been""","Siesta Key, FL, USA",SoCalhappy
+"""been""","Orlando, FL, USA",SoCalhappy
+"""been""","Cairo, Egypt",SoCalhappy
+"""been""","Montevideo, Uruguay",SoCalhappy
+"""been""","Giza, Egypt",SoCalhappy
+"""been""","Sweimah, Jordan",SoCalhappy
+"""been""","Toronto, Ontario, Canada",SoCalhappy
+"""been""","Ko Pha Ngan, Thailand",SoCalhappy
+"""been""","Minato, Japan",SoCalhappy
+"""been""","Jakarta, Indonesia",SoCalhappy
+"""been""","Tempe, AZ, USA",SoCalhappy
+"""been""","Vail, CO, USA",SoCalhappy
+"""been""","Laguna Beach, CA, USA",SoCalhappy
+"""been""","Half Moon Bay, CA, USA",SoCalhappy
+"""been""","Lille, France",SoCalhappy
+"""been""","Papeete, French Polynesia",SoCalhappy
+"""been""","Palm Beach, FL, USA",SoCalhappy
+"""been""","Faro, Portugal",SoCalhappy
+"""been""","Lagos, Portugal",SoCalhappy
+"""been""","Vienna, Austria",SoCalhappy
+"""been""","Toulouse, France",SoCalhappy
+"""been""","Goreme, Turkey",SoCalhappy
+"""been""","Urgup, Turkey",SoCalhappy
+"""been""","Bora Bora, French Polynesia",SoCalhappy
+"""been""","Lourdes, France",SoCalhappy
+"""been""","Savannah, GA, USA",SoCalhappy
+"""been""","Buenos Aires, Argentina",SoCalhappy
+"""been""","Oia, Greece",SoCalhappy
+"""been""","Thessaloniki, Greece",SoCalhappy
+"""been""","Baltimore, MD, USA",SoCalhappy
+"""been""","Algarve, Portugal",SoCalhappy
+"""been""","Sydney, Australia",SoCalhappy
+"""been""","Chuo, Japan",SoCalhappy
+"""been""","Albuquerque, NM, USA",SoCalhappy
+"""been""","Ottawa, Ontario, Canada",SoCalhappy
+"""been""","Toshima, Japan",SoCalhappy
+"""been""","Hong Kong, China",SoCalhappy
+"""been""","Side, Turkey",SoCalhappy
+"""been""","Escondido, CA, USA",SoCalhappy
+"""been""","Breckenridge, CO, USA",SoCalhappy
+"""been""","Panama City, FL, USA",SoCalhappy
+"""been""","Oludeniz, Turkey",SoCalhappy
+"""been""","Ketchikan, AK, USA",SoCalhappy
+"""been""","Burbank, CA, USA",SoCalhappy
+"""been""","Heidelberg, Germany",SoCalhappy
+"""been""","Panama City Beach, FL, USA",SoCalhappy
+"""been""","Kusadasi, Turkey",SoCalhappy
+"""been""","Valletta, Malta",SoCalhappy
+"""been""","Ushuaia, Argentina",SoCalhappy
+"""been""","Healdsburg, CA, USA",SoCalhappy
+"""been""","Astoria, OR, USA",SoCalhappy
+"""been""","Jacksonville, FL, USA",SoCalhappy
+"""been""","Shibuya, Japan",SoCalhappy
+"""been""","Salt Lake City, UT, USA",SoCalhappy
+"""been""","Shinjuku, Japan",SoCalhappy
+"""been""","Canmore, Alberta, Canada",SoCalhappy
+"""been""","Osoyoos, British Columbia, Canada",SoCalhappy
+"""been""","Vero Beach, FL, USA",SoCalhappy
+"""been""","Long Beach, CA, USA",SoCalhappy
+"""been""","Salzburg, Austria",SoCalhappy
+"""been""","Island of Malta, Malta",SoCalhappy
+"""been""","Indian Wells, CA, USA",SoCalhappy
+"""been""","Napa, CA, USA",SoCalhappy
+"""been""","San Carlos de Bariloche, Argentina",SoCalhappy
+"""been""","Pismo Beach, CA, USA",SoCalhappy
+"""been""","Montpellier, France",SoCalhappy
+"""been""","Koper, Slovenia",SoCalhappy
+"""been""","Hua Hin, Thailand",SoCalhappy
+"""been""","Avalon, CA, USA",SoCalhappy
+"""been""","Carcassonne Center, France",SoCalhappy
+"""been""","Henderson, NV, USA",SoCalhappy
+"""been""","Troodos, Cyprus",SoCalhappy
+"""been""","Chicago, IL, USA",SoCalhappy
+"""been""","Bratislava, Slovakia",SoCalhappy
+"""been""","Los Angeles, CA, USA",SoCalhappy
+"""been""","Annecy, France",SoCalhappy
+"""been""","Newport Beach, CA, USA",SoCalhappy
+"""been""","Amsterdam, The Netherlands",SoCalhappy
+"""been""","Las Vegas, NV, USA",SoCalhappy
+"""been""","Rhodes Town, Greece",SoCalhappy
+"""been""","Paris, France",SoCalhappy
+"""been""","Zurich, Switzerland",SoCalhappy
+"""been""","Valparaiso, Chile",SoCalhappy
+"""been""","Santiago, Chile",SoCalhappy
+"""been""","St. Petersburg, FL, USA",SoCalhappy
+"""been""","St. Pete Beach, FL, USA",SoCalhappy
+"""been""","Saint Augustine Beach, FL, USA",SoCalhappy
+"""been""","Barcelona, Spain",SoCalhappy
+"""been""","West Palm Beach, FL, USA",SoCalhappy
+"""been""","Aspen, CO, USA",SoCalhappy
+"""been""","Leon, Spain",SoCalhappy
+"""been""","Cologne, Germany",SoCalhappy
+"""been""","Sanur, Indonesia",SoCalhappy
+"""been""","Cusco, Peru",SoCalhappy
+"""been""","Ubud, Indonesia",SoCalhappy
+"""been""","Reims, France",SoCalhappy
+"""been""","Epernay, France",SoCalhappy
+"""been""","Reno, NV, USA",SoCalhappy
+"""been""","Portland, OR, USA",SoCalhappy
+"""been""","Queretaro City, Mexico",SoCalhappy
+"""been""","Prague, Czech Republic",SoCalhappy
+"""been""","Sarasota, FL, USA",SoCalhappy
+"""been""","Malibu, CA, USA",SoCalhappy
+"""been""","Wailea, HI, USA",SoCalhappy
+"""been""","Sandestin, FL, USA",SoCalhappy
+"""been""","Manhattan Beach, CA, USA",SoCalhappy
+"""been""","Scottsdale, AZ, USA",SoCalhappy
+"""been""","Miyakojima, Japan",SoCalhappy
+"""been""","Marina del Rey, CA, USA",SoCalhappy
+"""been""","Monte-Carlo, Monaco",SoCalhappy
+"""been""","Toledo, Spain",SoCalhappy
+"""been""","Copenhagen, Denmark",SoCalhappy

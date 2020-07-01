@@ -1,0 +1,195 @@
+
+<html>
+<head>
+  <title>staycationLA</title>
+
+  <link href='https://fonts.googleapis.com/css?family=Nunito:700,400,300' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+   <style type="text/css">
+
+ 
+   .navbar-brand {
+    color: #e32!important;
+  font-family: 'Nunito', sans-serif;
+    font-size: 68px;
+    line-height: 20px;
+    font-weight: bold;
+}
+.nav-upper {
+    margin-bottom: 0px;
+    min-height: 70px;   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ffffff;
+}
+
+.nav-lower .navbar-nav > li > a {
+    color: #000;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    }
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #4CAF50;
+  color: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+}
+
+th, 
+td {
+    padding: 2px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size: large;
+    vertical-align: middle;
+    min-width: 110px;
+    border: none;
+}
+th {
+    vertical-align: bottom;
+}
+
+table td:first-child {
+    padding: 0px;
+    padding-bottom: 2px;
+    border: none;
+    width: 15em;
+    min-width: 15em;
+    max-width: 15em;    
+}
+
+
+tbody {
+  tr {
+    &:hover {
+      background-color: rgba(255,255,255,0.3);
+    }
+  }
+  td {
+    position: relative;
+    &:hover {
+      &:before {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: -9999px;
+        bottom: -9999px;
+        background-color: rgba(255,255,255,0.2);
+        z-index: -1;
+      }
+    }
+  }
+}
+
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
+    content: '\2b83';
+  line-height:0;
+
+}
+
+th.sorttable_sorted::after {
+  content: '\2b63';
+  line-height:0;
+}
+th.sorttable_sorted_reverse::after {
+  content: '\2b61';
+  line-height:0;
+}
+#sorttable_sortfwdind, #sorttable_sortrevind { display: none; }
+
+
+
+   </style>
+   <script src="{{url_for('static', filename='sorttable.js')}}"></script>
+</head>
+<body>
+    <nav class="navbar navbar-default navbar-static-top nav-upper">
+        <div class="container">
+            <div class="navbar-header">
+
+
+                <!-- Branding Image -->
+                               <a class="navbar-brand" href="{{ url_for('home') }}">
+                    staycationLA
+                </a>
+            </div>
+
+        </div>
+    </nav>
+
+    <nav class="navbar navbar-default navbar-static-top nav-lower">
+        <div class="container">
+
+
+            <div class="collapse navbar-collapse" id="app-navbar-collapse2">
+                <!-- Left Side Of Navbar -->
+                <ul class="nav navbar-nav">
+                   <!--  <li><a >Home</a></li> -->
+                     <li><a  href="{{ url_for('home') }}"> Home</a></li>    
+                     <li><a > About Me</a></li>       
+                   <!--   come back and add links to homepage and about me page once it's created (see original quiz html)  -->       
+                </ul>               
+            </div>
+        </div>
+    </nav>
+
+
+  <div class="container">
+  	<div class="row">
+     		<div class="col-md-12"> 
+
+     <h3><strong>{{send_name}}</strong> reviews mention 
+     <br><strong>{{keyword1}}, {{keyword2}}, and {{keyword3}},</strong>
+     <br>so I recommend these LA attractions:</h3>
+        <br><div style="overflow-x:auto">
+        {{senddf|safe}}
+        </div>
+     <p>Results are recommended based on similar reviews on a travel website</p>   
+
+
+
+       <div class="row question">
+          <div class="col-md-12">
+          	<div class="row">
+     
+    
+      		</div>
+   	 </div> 
+      </div>
+      
+      
+   		</div>
+ 	</div>
+  </div>
+
+
+</body>
+</html>

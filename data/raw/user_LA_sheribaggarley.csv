@@ -1,0 +1,536 @@
+tag,place,user
+"""want""","Rio de Janeiro, Brazil",sheribaggarley
+"""want""","Tangier, Morocco",sheribaggarley
+"""want""","Marrakech, Morocco",sheribaggarley
+"""been""","Epsom, UK",sheribaggarley
+"""been""","Vallejo, CA, USA",sheribaggarley
+"""been""","Buena Park, CA, USA",sheribaggarley
+"""been""","Falmouth, UK",sheribaggarley
+"""been""","Nottingham, UK",sheribaggarley
+"""want""","Melbourne, Australia",sheribaggarley
+"""been""","Burbank, CA, USA",sheribaggarley
+"""been""","Ennis, Ireland",sheribaggarley
+"""been""","The Dalles, OR, USA",sheribaggarley
+"""want""","Salem, MA, USA",sheribaggarley
+"""been""","Scrignac, France",sheribaggarley
+"""want""","Berlin, Germany",sheribaggarley
+"""been""","Eureka, CA, USA",sheribaggarley
+"""been"",""fave""","San Francisco, CA, USA",sheribaggarley
+"""been""","Blarney, Ireland",sheribaggarley
+"""been""","Newquay, UK",sheribaggarley
+"""want""","Fes, Morocco",sheribaggarley
+"""want""","Casablanca, Morocco",sheribaggarley
+"""want""","Perth, Australia",sheribaggarley
+"""been""","Tillamook, OR, USA",sheribaggarley
+"""been""","Stansted Mountfitchet, UK",sheribaggarley
+"""been""","Thousand Oaks, CA, USA",sheribaggarley
+"""been""","Boston, UK",sheribaggarley
+"""been""","Poitiers, France",sheribaggarley
+"""want""","Auckland Central, New Zealand",sheribaggarley
+"""been""","East Grinstead, UK",sheribaggarley
+"""been""","Torgiano, Italy",sheribaggarley
+"""been""","Chester, UK",sheribaggarley
+"""been""","Newbury, UK",sheribaggarley
+"""been""","Camberley, UK",sheribaggarley
+"""been""","Huddersfield, UK",sheribaggarley
+"""been""","Luton, UK",sheribaggarley
+"""been""","Slough, UK",sheribaggarley
+"""been""","Croydon, UK",sheribaggarley
+"""want""","Bergen, Norway",sheribaggarley
+"""been""","Sidmouth, UK",sheribaggarley
+"""been""","Hawthorne, CA, USA",sheribaggarley
+"""been""","Darlington, UK",sheribaggarley
+"""been""","Escondido, CA, USA",sheribaggarley
+"""been""","Poole, UK",sheribaggarley
+"""been""","Ukiah, CA, USA",sheribaggarley
+"""been""","Encinitas, CA, USA",sheribaggarley
+"""been""","Aberdeen, UK",sheribaggarley
+"""been""","St. Neots, UK",sheribaggarley
+"""want""","Frankfurt, Germany",sheribaggarley
+"""been""","Lyme Regis, UK",sheribaggarley
+"""been""","Harwich, UK",sheribaggarley
+"""want""","Chaweng, Thailand",sheribaggarley
+"""been"",""fave""","Oxford, UK",sheribaggarley
+"""been""","Crewe, UK",sheribaggarley
+"""been""","Henley-on-Thames, UK",sheribaggarley
+"""been""","Reading, UK",sheribaggarley
+"""been""","Avignon, France",sheribaggarley
+"""been""","St Ives, UK",sheribaggarley
+"""been""","Sheffield, UK",sheribaggarley
+"""been""","Alameda, CA, USA",sheribaggarley
+"""want""","Niagara Falls, Ontario, Canada",sheribaggarley
+"""want""","Sao Paulo, Brazil",sheribaggarley
+"""been""","Taunton, UK",sheribaggarley
+"""been""","Stamford, UK",sheribaggarley
+"""been""","Ruislip, UK",sheribaggarley
+"""been""","South San Francisco, CA, USA",sheribaggarley
+"""been""","Camarillo, CA, USA",sheribaggarley
+"""been""","Stoke-on-Trent, UK",sheribaggarley
+"""want""","Queenstown, New Zealand",sheribaggarley
+"""been""","Sisters, OR, USA",sheribaggarley
+"""been""","Torquay, UK",sheribaggarley
+"""been""","Plymouth, UK",sheribaggarley
+"""been""","Saint-Malo, France",sheribaggarley
+"""been""","Yeovil, UK",sheribaggarley
+"""been"",""fave""","Bath, UK",sheribaggarley
+"""been""","Sunbury, UK",sheribaggarley
+"""want""","Bruges, Belgium",sheribaggarley
+"""been""","Wolverhampton, UK",sheribaggarley
+"""been""","Worthing, UK",sheribaggarley
+"""been""","Pont-Aven, France",sheribaggarley
+"""been""","Glastonbury, UK",sheribaggarley
+"""been"",""fave""","Athens, Greece",sheribaggarley
+"""been""","Ostend, Belgium",sheribaggarley
+"""want""","Wailea, HI, USA",sheribaggarley
+"""been"",""fave""","Quimper, France",sheribaggarley
+"""been""","Exeter, UK",sheribaggarley
+"""want""","Cannes, France",sheribaggarley
+"""been""","Kettering, UK",sheribaggarley
+"""been""","Tavistock, UK",sheribaggarley
+"""been""","Folkestone, UK",sheribaggarley
+"""been""","Solvang, CA, USA",sheribaggarley
+"""been""","Vancouver, WA, USA",sheribaggarley
+"""been""","Amboise, France",sheribaggarley
+"""been""","Crescent City, CA, USA",sheribaggarley
+"""been""","Costa Mesa, CA, USA",sheribaggarley
+"""been""","Hermosa Beach, CA, USA",sheribaggarley
+"""been""","Mesa, AZ, USA",sheribaggarley
+"""been""","Blois, France",sheribaggarley
+"""want""","Christchurch, New Zealand",sheribaggarley
+"""been""","Bournemouth, UK",sheribaggarley
+"""been""","Bury St. Edmunds, UK",sheribaggarley
+"""been""","Dunoon, UK",sheribaggarley
+"""been"",""fave""","Anaheim, CA, USA",sheribaggarley
+"""been""","Dorchester, UK",sheribaggarley
+"""want""","Nice, France",sheribaggarley
+"""want""","Yokohama, Japan",sheribaggarley
+"""been""","Redhill, UK",sheribaggarley
+"""been""","Richmond, UK",sheribaggarley
+"""been""","Basildon, UK",sheribaggarley
+"""want""","Halifax, Nova Scotia, Canada",sheribaggarley
+"""been""","Ashford, UK",sheribaggarley
+"""been""","Chico, CA, USA",sheribaggarley
+"""been""","Marina del Rey, CA, USA",sheribaggarley
+"""been""","Stratford-upon-Avon, UK",sheribaggarley
+"""been""","Scottsdale, AZ, USA",sheribaggarley
+"""been""","Salem, OR, USA",sheribaggarley
+"""been""","Cogne, Italy",sheribaggarley
+"""been""","Brighton, UK",sheribaggarley
+"""been""","Lewes, UK",sheribaggarley
+"""been""","Chenonceaux, France",sheribaggarley
+"""been""","Hastings, UK",sheribaggarley
+"""been""","Rye, UK",sheribaggarley
+"""want""","Copenhagen, Denmark",sheribaggarley
+"""been""","Enniskerry, Ireland",sheribaggarley
+"""been""","Halifax, UK",sheribaggarley
+"""want""","St. John's, Newfoundland and Labrador, Canada",sheribaggarley
+"""been""","San Vincenzo, Italy",sheribaggarley
+"""been""","Guildford, UK",sheribaggarley
+"""been""","Great Yarmouth, UK",sheribaggarley
+"""been""","Astoria, OR, USA",sheribaggarley
+"""been""","Manhattan Beach, CA, USA",sheribaggarley
+"""been""","Malibu, CA, USA",sheribaggarley
+"""want""","Monte-Carlo, Monaco",sheribaggarley
+"""been""","Seaside, OR, USA",sheribaggarley
+"""been""","Glendale, CA, USA",sheribaggarley
+"""been""","Lausanne, Switzerland",sheribaggarley
+"""want""","Phnom Penh, Cambodia",sheribaggarley
+"""been""","Cheltenham, UK",sheribaggarley
+"""been""","Cirencester, UK",sheribaggarley
+"""been""","Barcelona, Spain",sheribaggarley
+"""want""","Marseille, France",sheribaggarley
+"""been""","Bunratty, Ireland",sheribaggarley
+"""been""","Abingdon, UK",sheribaggarley
+"""been""","North Las Vegas, NV, USA",sheribaggarley
+"""been""","Lymington, UK",sheribaggarley
+"""been"",""fave""","Laguna Beach, CA, USA",sheribaggarley
+"""want""","Bangkok, Thailand",sheribaggarley
+"""been""","Tempe, AZ, USA",sheribaggarley
+"""been"",""fave""","Paris, France",sheribaggarley
+"""been""","El Segundo, CA, USA",sheribaggarley
+"""been""","Versailles, France",sheribaggarley
+"""been""","Muenster, Germany",sheribaggarley
+"""want""","Zurich, Switzerland",sheribaggarley
+"""been""","Southampton, UK",sheribaggarley
+"""want""","Moscow, Russia",sheribaggarley
+"""want""","Whistler, British Columbia, Canada",sheribaggarley
+"""been""","Portsmouth, UK",sheribaggarley
+"""been""","Lyon, France",sheribaggarley
+"""been""","Victoria, British Columbia, Canada",sheribaggarley
+"""been""","Vancouver, British Columbia, Canada",sheribaggarley
+"""been""","Amsterdam, The Netherlands",sheribaggarley
+"""been""","Stroud, UK",sheribaggarley
+"""been""","Loano, Italy",sheribaggarley
+"""been""","Roseburg, OR, USA",sheribaggarley
+"""been""","La Jolla, CA, USA",sheribaggarley
+"""want""","Ho Chi Minh City, Vietnam",sheribaggarley
+"""want""","Santo Domingo, Dominican Republic",sheribaggarley
+"""been""","Barstow, CA, USA",sheribaggarley
+"""been"",""fave""","Trier, Germany",sheribaggarley
+"""want""","Dresden, Germany",sheribaggarley
+"""been""","Kingston upon Thames, UK",sheribaggarley
+"""been""","Long Beach, CA, USA",sheribaggarley
+"""been""","Waterford, Ireland",sheribaggarley
+"""been""","Napa, CA, USA",sheribaggarley
+"""been""","Indio, CA, USA",sheribaggarley
+"""been""","Pacific City, OR, USA",sheribaggarley
+"""been""","Inglewood, CA, USA",sheribaggarley
+"""been""","Lone Pine, CA, USA",sheribaggarley
+"""been"",""fave""","Milan, Italy",sheribaggarley
+"""been""","Indian Wells, CA, USA",sheribaggarley
+"""been""","Phoenix, AZ, USA",sheribaggarley
+"""been""","Pendleton, OR, USA",sheribaggarley
+"""want""","Sydney, Australia",sheribaggarley
+"""want""","Cairns, Australia",sheribaggarley
+"""been""","Gretna Green, UK",sheribaggarley
+"""want""","Brisbane, Australia",sheribaggarley
+"""want""","Chiyoda, Japan",sheribaggarley
+"""want""","New Delhi, India",sheribaggarley
+"""want""","Mumbai, India",sheribaggarley
+"""been""","Miramare, Italy",sheribaggarley
+"""want""","Jaipur, India",sheribaggarley
+"""want""","Darjeeling, India",sheribaggarley
+"""been""","Sacramento, CA, USA",sheribaggarley
+"""been""","Bradford, UK",sheribaggarley
+"""been"",""fave""","Portland, OR, USA",sheribaggarley
+"""been""","Mount Shasta, CA, USA",sheribaggarley
+"""been""","Huntington Beach, CA, USA",sheribaggarley
+"""want""","Machu Picchu, Peru",sheribaggarley
+"""been""","Asti, Italy",sheribaggarley
+"""want""","Lima, Peru",sheribaggarley
+"""been""","Edinburgh, UK",sheribaggarley
+"""been""","Coventry, UK",sheribaggarley
+"""been""","Tiverton, UK",sheribaggarley
+"""been""","Chichester, UK",sheribaggarley
+"""been""","Turin, Italy",sheribaggarley
+"""been""","Arundel, UK",sheribaggarley
+"""want""","Canberra, Australia",sheribaggarley
+"""been""","Morlaix, France",sheribaggarley
+"""been""","Montevarchi, Italy",sheribaggarley
+"""been""","Redditch, UK",sheribaggarley
+"""been""","Arroyo Grande, CA, USA",sheribaggarley
+"""been""","Windsor, UK",sheribaggarley
+"""been""","Maidenhead, UK",sheribaggarley
+"""been""","Pittsburgh, PA, USA",sheribaggarley
+"""want""","Tallinn, Estonia",sheribaggarley
+"""been""","Leeds, UK",sheribaggarley
+"""been""","Garden Grove, CA, USA",sheribaggarley
+"""been""","Sitges, Spain",sheribaggarley
+"""been""","Newport Beach, CA, USA",sheribaggarley
+"""been""","Glasgow, UK",sheribaggarley
+"""been""","Salisbury, UK",sheribaggarley
+"""been""","Treviso, Italy",sheribaggarley
+"""been""","Roissy-en-France, France",sheribaggarley
+"""been""","Truro, UK",sheribaggarley
+"""been""","Paignton, UK",sheribaggarley
+"""been""","Fullerton, CA, USA",sheribaggarley
+"""been""","Fresno, CA, USA",sheribaggarley
+"""want""","Prague, Czech Republic",sheribaggarley
+"""been"",""fave""","Los Angeles, CA, USA",sheribaggarley
+"""been""","Pismo Beach, CA, USA",sheribaggarley
+"""been""","Inverness, UK",sheribaggarley
+"""been""","Evesham, UK",sheribaggarley
+"""want""","Hua Hin, Thailand",sheribaggarley
+"""been""","Irvine, CA, USA",sheribaggarley
+"""been""","Winchester, UK",sheribaggarley
+"""been""","Worcester, UK",sheribaggarley
+"""been""","Exmouth, UK",sheribaggarley
+"""been""","Madrid, Spain",sheribaggarley
+"""been""","St. Albans, UK",sheribaggarley
+"""want""","Helsinki, Finland",sheribaggarley
+"""want""","Kata Beach, Thailand",sheribaggarley
+"""been""","Verona, Italy",sheribaggarley
+"""been""","Vicenza, Italy",sheribaggarley
+"""been""","Las Vegas, NV, USA",sheribaggarley
+"""been"",""fave""","Venice, Italy",sheribaggarley
+"""want""","Mont Tremblant, Quebec, Canada",sheribaggarley
+"""been""","Modesto, CA, USA",sheribaggarley
+"""been""","Palm Desert, CA, USA",sheribaggarley
+"""been""","Genets, France",sheribaggarley
+"""been""","Chatham, UK",sheribaggarley
+"""been""","Canterbury, UK",sheribaggarley
+"""been""","Dover, UK",sheribaggarley
+"""been""","Catania, Italy",sheribaggarley
+"""want""","Kathmandu, Nepal",sheribaggarley
+"""been""","Palm Springs, CA, USA",sheribaggarley
+"""been""","Redwood City, CA, USA",sheribaggarley
+"""been""","Redondo Beach, CA, USA",sheribaggarley
+"""been""","Redding, CA, USA",sheribaggarley
+"""been""","Bude, UK",sheribaggarley
+"""been"",""fave""","Florence, Italy",sheribaggarley
+"""been""","Pisa, Italy",sheribaggarley
+"""been""","Palermo, Italy",sheribaggarley
+"""been""","Bridgwater, UK",sheribaggarley
+"""been""","Oxnard, CA, USA",sheribaggarley
+"""want""","Bophut, Thailand",sheribaggarley
+"""been""","Pebble Beach, CA, USA",sheribaggarley
+"""been""","Morro Bay, CA, USA",sheribaggarley
+"""want""","Munich, Germany",sheribaggarley
+"""been""","Leicester, UK",sheribaggarley
+"""been""","Naples, Italy",sheribaggarley
+"""been"",""fave""","Pompeii, Italy",sheribaggarley
+"""want""","London, UK",sheribaggarley
+"""been""","Amalfi, Italy",sheribaggarley
+"""been""","St Austell, UK",sheribaggarley
+"""been"",""fave""","Capri, Italy",sheribaggarley
+"""been""","Castelfranco di Sopra, Italy",sheribaggarley
+"""been""","Salerno, Italy",sheribaggarley
+"""been""","Sorrento, Italy",sheribaggarley
+"""been""","Llandudno, UK",sheribaggarley
+"""want""","Hoi An, Vietnam",sheribaggarley
+"""been""","Stevenage, UK",sheribaggarley
+"""been""","Ipswich, UK",sheribaggarley
+"""been""","Eastbourne, UK",sheribaggarley
+"""been""","Riverside, CA, USA",sheribaggarley
+"""been""","York, UK",sheribaggarley
+"""been"",""fave""","Cambridge, UK",sheribaggarley
+"""been""","Brussels, Belgium",sheribaggarley
+"""been""","Northampton, UK",sheribaggarley
+"""been""","Bognor Regis, UK",sheribaggarley
+"""been"",""fave""","Rome, Italy",sheribaggarley
+"""been""","Cardiff, UK",sheribaggarley
+"""been""","Bristol, UK",sheribaggarley
+"""want""","Stockholm, Sweden",sheribaggarley
+"""been""","Middlesbrough, UK",sheribaggarley
+"""been""","Tivoli, Italy",sheribaggarley
+"""been""","Norwich, UK",sheribaggarley
+"""been""","Vatican City, Vatican City",sheribaggarley
+"""been""","Pasadena, CA, USA",sheribaggarley
+"""want""","St. Petersburg, Russia",sheribaggarley
+"""want""","Singapore, Singapore",sheribaggarley
+"""been""","Bangor, UK",sheribaggarley
+"""want""","Zermatt, Switzerland",sheribaggarley
+"""want""","Krakow, Poland",sheribaggarley
+"""been""","Hounslow, UK",sheribaggarley
+"""been""","Kings Langley, UK",sheribaggarley
+"""been""","Saint-Emilion, France",sheribaggarley
+"""want""","Auckland, New Zealand",sheribaggarley
+"""been""","Locarno, Switzerland",sheribaggarley
+"""been""","Lugano, Switzerland",sheribaggarley
+"""been""","Hayes, UK",sheribaggarley
+"""been""","Clearwater, British Columbia, Canada",sheribaggarley
+"""want""","Freeport, Bahamas",sheribaggarley
+"""want""","Macau, China",sheribaggarley
+"""been""","Hemel Hempstead, UK",sheribaggarley
+"""been""","Garda, Italy",sheribaggarley
+"""been""","Wembley, UK",sheribaggarley
+"""been""","Charlotte, NC, USA",sheribaggarley
+"""been""","Rancho Palos Verdes, CA, USA",sheribaggarley
+"""been""","Ontario, CA, USA",sheribaggarley
+"""been"",""fave""","Assisi, Italy",sheribaggarley
+"""been""","Mendocino, CA, USA",sheribaggarley
+"""want""","Doha, Qatar",sheribaggarley
+"""want""","Montreal, Quebec, Canada",sheribaggarley
+"""been""","Perugia, Italy",sheribaggarley
+"""been""","Burgess Hill, UK",sheribaggarley
+"""been"",""fave""","Siena, Italy",sheribaggarley
+"""want""","Beirut, Lebanon",sheribaggarley
+"""want""","Nassau, Bahamas",sheribaggarley
+"""want""","Paradise Island, Bahamas",sheribaggarley
+"""been""","Beaulieu, UK",sheribaggarley
+"""been""","Anacapri, Italy",sheribaggarley
+"""been""","Borehamwood, UK",sheribaggarley
+"""been""","Merced, CA, USA",sheribaggarley
+"""been""","Menlo Park, CA, USA",sheribaggarley
+"""been""","Orange, CA, USA",sheribaggarley
+"""want""","Jackson, WY, USA",sheribaggarley
+"""been""","Oakland, CA, USA",sheribaggarley
+"""been""","Buckhurst Hill, UK",sheribaggarley
+"""been""","Weston super Mare, UK",sheribaggarley
+"""want""","Abu Dhabi, United Arab Emirates",sheribaggarley
+"""been"",""fave""","Cannon Beach, OR, USA",sheribaggarley
+"""want""","Chattanooga, TN, USA",sheribaggarley
+"""been""","Ojai, CA, USA",sheribaggarley
+"""been""","Oceanside, CA, USA",sheribaggarley
+"""been""","Rimini, Italy",sheribaggarley
+"""want""","Lancaster, PA, USA",sheribaggarley
+"""been""","Gold Beach, OR, USA",sheribaggarley
+"""been""","Bend, OR, USA",sheribaggarley
+"""been""","Modena, Italy",sheribaggarley
+"""been"",""want"",""fave""","Huelgoat, France",sheribaggarley
+"""been""","Bologna, Italy",sheribaggarley
+"""been""","Mont-Saint-Michel, France",sheribaggarley
+"""want""","Mexico City, Mexico",sheribaggarley
+"""been"",""fave""","Crater Lake National Park, OR, USA",sheribaggarley
+"""been""","Southend-on-Sea, UK",sheribaggarley
+"""want""","Toronto, Ontario, Canada",sheribaggarley
+"""been""","Dublin, Ireland",sheribaggarley
+"""been""","Grants Pass, OR, USA",sheribaggarley
+"""been""","Galway, Ireland",sheribaggarley
+"""want""","Bengaluru, India",sheribaggarley
+"""want""","Riga, Latvia",sheribaggarley
+"""been""","Cork, Ireland",sheribaggarley
+"""been""","Arras, France",sheribaggarley
+"""been""","Kilkenny, Ireland",sheribaggarley
+"""been""","Eugene, OR, USA",sheribaggarley
+"""want""","Cairo, Egypt",sheribaggarley
+"""been""","Tralee, Ireland",sheribaggarley
+"""been""","Portofino, Italy",sheribaggarley
+"""want""","Luxor, Egypt",sheribaggarley
+"""been""","Genoa, Italy",sheribaggarley
+"""been""","Clacton-on-Sea, UK",sheribaggarley
+"""been""","Chelmsford, UK",sheribaggarley
+"""been""","Ryde, UK",sheribaggarley
+"""been""","Newport, OR, USA",sheribaggarley
+"""want""","Dubai, United Arab Emirates",sheribaggarley
+"""want""","Beijing, China",sheribaggarley
+"""been""","Limerick, Ireland",sheribaggarley
+"""been""","Bergamo, Italy",sheribaggarley
+"""been""","Como, Italy",sheribaggarley
+"""want""","Hong Kong, China",sheribaggarley
+"""been""","Castlebar, Ireland",sheribaggarley
+"""been""","Llanelli, UK",sheribaggarley
+"""been""","Roscoff, France",sheribaggarley
+"""been""","Cowes, UK",sheribaggarley
+"""been"",""fave""","Garibaldi, OR, USA",sheribaggarley
+"""been""","Calais, France",sheribaggarley
+"""been""","Cannigione, Italy",sheribaggarley
+"""want""","Gettysburg, PA, USA",sheribaggarley
+"""been""","Santa Ynez, CA, USA",sheribaggarley
+"""been""","Santa Rosa, CA, USA",sheribaggarley
+"""been""","Swindon, UK",sheribaggarley
+"""been""","Santa Monica, CA, USA",sheribaggarley
+"""been""","Bishop, CA, USA",sheribaggarley
+"""been""","Santa Maria, CA, USA",sheribaggarley
+"""been""","Sittingbourne, UK",sheribaggarley
+"""been""","Torrance, CA, USA",sheribaggarley
+"""been""","Varese, Italy",sheribaggarley
+"""been""","Mammoth Lakes, CA, USA",sheribaggarley
+"""want""","Naha, Japan",sheribaggarley
+"""been""","Bodega Bay, CA, USA",sheribaggarley
+"""been""","Carhaix-Plouguer, France",sheribaggarley
+"""been""","Harrogate, UK",sheribaggarley
+"""been""","Philadelphia, PA, USA",sheribaggarley
+"""been""","Gloucester, UK",sheribaggarley
+"""been""","Margate, UK",sheribaggarley
+"""want""","Heidelberg, Germany",sheribaggarley
+"""been""","Peterborough, UK",sheribaggarley
+"""been""","Marina di Campo, Italy",sheribaggarley
+"""been""","Medford, OR, USA",sheribaggarley
+"""been""","Santa Cruz, CA, USA",sheribaggarley
+"""been""","Santa Clarita, CA, USA",sheribaggarley
+"""been""","Santa Clara, CA, USA",sheribaggarley
+"""been""","Santa Barbara, CA, USA",sheribaggarley
+"""been""","Santa Ana, CA, USA",sheribaggarley
+"""been""","Potters Bar, UK",sheribaggarley
+"""been""","Crawley, UK",sheribaggarley
+"""want""","Vienna, Austria",sheribaggarley
+"""want""","Buenos Aires, Argentina",sheribaggarley
+"""been""","Chesterfield, UK",sheribaggarley
+"""been""","Lille, France",sheribaggarley
+"""been""","Watford, UK",sheribaggarley
+"""been""","Bradford-on-Avon, UK",sheribaggarley
+"""been""","Deal, UK",sheribaggarley
+"""been""","Maidstone, UK",sheribaggarley
+"""want""","Guadalajara, Mexico",sheribaggarley
+"""been""","Woking, UK",sheribaggarley
+"""been""","Plattsburgh, NY, USA",sheribaggarley
+"""want""","Fukuoka, Japan",sheribaggarley
+"""want""","Hamilton, Bermuda",sheribaggarley
+"""want""","Marsa Alam, Egypt",sheribaggarley
+"""been""","Preston, UK",sheribaggarley
+"""been""","Romford, UK",sheribaggarley
+"""been""","Leamington Spa, UK",sheribaggarley
+"""been""","Deauville City, France",sheribaggarley
+"""want""","Kyoto, Japan",sheribaggarley
+"""been""","Manchester, UK",sheribaggarley
+"""been""","Cobham, UK",sheribaggarley
+"""want""","Sapporo, Japan",sheribaggarley
+"""want""","Acapulco, Mexico",sheribaggarley
+"""been""","Bayeux, France",sheribaggarley
+"""been""","Caen, France",sheribaggarley
+"""been""","Palinuro, Italy",sheribaggarley
+"""been""","Lincoln City, OR, USA",sheribaggarley
+"""been""","Everett, WA, USA",sheribaggarley
+"""been""","Death Valley Junction, CA, USA",sheribaggarley
+"""want""","St. John's, Antigua and Barbuda",sheribaggarley
+"""been""","Seaside, CA, USA",sheribaggarley
+"""been""","Seal Beach, CA, USA",sheribaggarley
+"""want""","Seven Mile Beach, Cayman Islands",sheribaggarley
+"""want""","Shanghai, China",sheribaggarley
+"""been""","Sausalito, CA, USA",sheribaggarley
+"""been""","Harrow, UK",sheribaggarley
+"""been""","Horsham, UK",sheribaggarley
+"""want""","Manila, Philippines",sheribaggarley
+"""been""","Le Mans, France",sheribaggarley
+"""want""","Kuala Lumpur, Malaysia",sheribaggarley
+"""been""","Manzanita, OR, USA",sheribaggarley
+"""been""","Rosarito, Mexico",sheribaggarley
+"""been""","Tijuana, Mexico",sheribaggarley
+"""been""","Ensenada, Mexico",sheribaggarley
+"""been""","Le Havre, France",sheribaggarley
+"""been""","Montesilvano, Italy",sheribaggarley
+"""been""","Depoe Bay, OR, USA",sheribaggarley
+"""been""","Enfield, UK",sheribaggarley
+"""want""","Oslo, Norway",sheribaggarley
+"""been""","Chantilly, VA, USA",sheribaggarley
+"""want""","Kota Kinabalu, Malaysia",sheribaggarley
+"""been""","San Clemente, CA, USA",sheribaggarley
+"""been"",""fave""","Petersfield, UK",sheribaggarley
+"""been"",""fave""","Seattle, WA, USA",sheribaggarley
+"""been""","Big Sur, CA, USA",sheribaggarley
+"""been""","Del Mar, CA, USA",sheribaggarley
+"""been""","Davis, CA, USA",sheribaggarley
+"""been""","West Hollywood, CA, USA",sheribaggarley
+"""want""","Nusa Dua, Indonesia",sheribaggarley
+"""been""","Stockton, CA, USA",sheribaggarley
+"""want""","Cape Town Central, South Africa",sheribaggarley
+"""been""","Pau, France",sheribaggarley
+"""been""","King's Lynn, UK",sheribaggarley
+"""been""","Bern, Switzerland",sheribaggarley
+"""want""","Jimbaran, Indonesia",sheribaggarley
+"""been"",""fave""","San Diego, CA, USA",sheribaggarley
+"""want""","Limassol City, Cyprus",sheribaggarley
+"""want""","Kailua-Kona, HI, USA",sheribaggarley
+"""been""","Chessington, UK",sheribaggarley
+"""been""","Havant, UK",sheribaggarley
+"""want""","Geneva, Switzerland",sheribaggarley
+"""been""","San Bernardino, CA, USA",sheribaggarley
+"""been""","San Andreas, CA, USA",sheribaggarley
+"""been""","Bakersfield, CA, USA",sheribaggarley
+"""been""","Dana Point, CA, USA",sheribaggarley
+"""been""","Farnborough, UK",sheribaggarley
+"""been""","St. Helena, CA, USA",sheribaggarley
+"""been""","Ventura, CA, USA",sheribaggarley
+"""been""","Culver City, CA, USA",sheribaggarley
+"""want""","Charlottesville, VA, USA",sheribaggarley
+"""been""","Dinan, France",sheribaggarley
+"""been""","Aldershot, UK",sheribaggarley
+"""been""","Brest, France",sheribaggarley
+"""been""","Marlow, UK",sheribaggarley
+"""been""","Lucerne, Switzerland",sheribaggarley
+"""been""","Butte, MT, USA",sheribaggarley
+"""been""","Lisbon, Portugal",sheribaggarley
+"""been""","Dinard, France",sheribaggarley
+"""been""","Dieppe, France",sheribaggarley
+"""been""","Coos Bay, OR, USA",sheribaggarley
+"""been""","Klamath Falls, OR, USA",sheribaggarley
+"""been""","Corvallis, OR, USA",sheribaggarley
+"""been""","Perros-Guirec, France",sheribaggarley
+"""been""","Vichy, France",sheribaggarley
+"""want""","Larnaca, Cyprus",sheribaggarley
+"""been""","Clermont-Ferrand, France",sheribaggarley
+"""been""","Lacona, Italy",sheribaggarley
+"""been""","San Simeon, CA, USA",sheribaggarley
+"""been""","Cathedral City, CA, USA",sheribaggarley
+"""been""","Montpelier, VT, USA",sheribaggarley
+"""been""","Tacoma, WA, USA",sheribaggarley
+"""been""","Berkeley, CA, USA",sheribaggarley
+"""want""","Taba, Egypt",sheribaggarley
+"""been""","Hood River, OR, USA",sheribaggarley
+"""been""","Beverly Hills, CA, USA",sheribaggarley
+"""been""","Southport, UK",sheribaggarley
+"""been""","Riva Del Garda, Italy",sheribaggarley
+"""been""","Flagstaff, AZ, USA",sheribaggarley
+"""been""","Chorley, UK",sheribaggarley
+"""been""","Gstaad, Switzerland",sheribaggarley
+"""want""","Karon, Thailand",sheribaggarley
+"""been""","San Luis Obispo, CA, USA",sheribaggarley
+"""been""","Carpinteria, CA, USA",sheribaggarley
+"""been""","San Jose, CA, USA",sheribaggarley
+"""been""","Carlsbad, CA, USA",sheribaggarley
+"""been""","Desert Hot Springs, CA, USA",sheribaggarley
+"""been""","Wadebridge, UK",sheribaggarley
+"""want""","Honolulu, HI, USA",sheribaggarley
+"""been""","Sandown, UK",sheribaggarley
+"""want""","Nabq Bay, Egypt",sheribaggarley

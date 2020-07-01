@@ -1,0 +1,623 @@
+tag,place,user
+"""been""","Norwalk, CT, USA",mldelrosa
+"""been""","Taormina, Italy",mldelrosa
+"""been""","Garden Grove, CA, USA",mldelrosa
+"""been""","Annapolis, MD, USA",mldelrosa
+"""been""","Palermo, Italy",mldelrosa
+"""been""","Arlington, VA, USA",mldelrosa
+"""been""","Phnom Penh, Cambodia",mldelrosa
+"""been""","Newport Beach, CA, USA",mldelrosa
+"""been""","Roluos, Cambodia",mldelrosa
+"""been""","St. Petersburg, FL, USA",mldelrosa
+"""been""","St. Pete Beach, FL, USA",mldelrosa
+"""been""","Mabula Private Game Reserve, South Africa",mldelrosa
+"""been""","Saint Augustine Beach, FL, USA",mldelrosa
+"""been""","Valencia, Spain",mldelrosa
+"""been""","Osijek, Croatia",mldelrosa
+"""been""","Kansas City, MO, USA",mldelrosa
+"""been""","Minneapolis, MN, USA",mldelrosa
+"""been""","Biloxi, MS, USA",mldelrosa
+"""been""","Narita, Japan",mldelrosa
+"""been""","Capri, Italy",mldelrosa
+"""been"",""want""","Cape Town Central, South Africa",mldelrosa
+"""been""","Sorrento, Italy",mldelrosa
+"""been""","West Palm Beach, FL, USA",mldelrosa
+"""been""","Durham, NC, USA",mldelrosa
+"""been""","Aspen, CO, USA",mldelrosa
+"""been""","Amalfi, Italy",mldelrosa
+"""been""","Birmingham, AL, USA",mldelrosa
+"""been""","Eureka Springs, AR, USA",mldelrosa
+"""been""","Portland, OR, USA",mldelrosa
+"""been""","Crazy Horse, SD, USA",mldelrosa
+"""been""","Sarasota, FL, USA",mldelrosa
+"""been""","Tortuguero, Costa Rica",mldelrosa
+"""been""","Malibu, CA, USA",mldelrosa
+"""been""","Manhattan Beach, CA, USA",mldelrosa
+"""been""","Titisee-Neustadt, Germany",mldelrosa
+"""been""","Rincon, Puerto Rico",mldelrosa
+"""been""","Aguilar, Philippines",mldelrosa
+"""been""","Saint Louis, MO, USA",mldelrosa
+"""been""","Pisa, Italy",mldelrosa
+"""been""","Florence, Italy",mldelrosa
+"""been""","Scottsdale, AZ, USA",mldelrosa
+"""been""","Venice, Italy",mldelrosa
+"""been""","Kumarakom, India",mldelrosa
+"""been""","Marina del Rey, CA, USA",mldelrosa
+"""been""","Mont Tremblant, Quebec, Canada",mldelrosa
+"""been""","Helsinki, Finland",mldelrosa
+"""been""","Sedona, AZ, USA",mldelrosa
+"""been""","Callao, Peru",mldelrosa
+"""been""","Christchurch, UK",mldelrosa
+"""been""","Myrtle Beach, SC, USA",mldelrosa
+"""been""","Sevierville, TN, USA",mldelrosa
+"""been""","Allentown, PA, USA",mldelrosa
+"""been""","Steamboat Springs, CO, USA",mldelrosa
+"""been""","Grand Haven, MI, USA",mldelrosa
+"""been""","Sharjah, United Arab Emirates",mldelrosa
+"""been""","Grand Rapids, MI, USA",mldelrosa
+"""been""","Glasgow, UK",mldelrosa
+"""been""","Tokyo, Japan",mldelrosa
+"""been""","Detroit, MI, USA",mldelrosa
+"""been""","Sinaia, Romania",mldelrosa
+"""been""","Vientiane, Laos",mldelrosa
+"""been""","Fort Collins, CO, USA",mldelrosa
+"""been""","La Jolla, CA, USA",mldelrosa
+"""been""","Siesta Key, FL, USA",mldelrosa
+"""been""","Orlando, FL, USA",mldelrosa
+"""been""","Algiers, Algeria",mldelrosa
+"""been""","Halifax, Nova Scotia, Canada",mldelrosa
+"""been""","Reno, NV, USA",mldelrosa
+"""want""","Shanghai, China",mldelrosa
+"""been""","Madrid, Spain",mldelrosa
+"""been""","Inverness, UK",mldelrosa
+"""been""","Vicenza, Italy",mldelrosa
+"""been""","North Myrtle Beach, SC, USA",mldelrosa
+"""been""","Hamburg, Germany",mldelrosa
+"""been""","Haifa, Israel",mldelrosa
+"""been""","SeaTac, WA, USA",mldelrosa
+"""been""","Jerusalem, Israel",mldelrosa
+"""been""","Bergen, Norway",mldelrosa
+"""been""","Tel Aviv, Israel",mldelrosa
+"""been""","Greenville, SC, USA",mldelrosa
+"""been""","Vail, CO, USA",mldelrosa
+"""been""","Laguna Beach, CA, USA",mldelrosa
+"""been""","Nashville, TN, USA",mldelrosa
+"""want""","Sao Paulo, Brazil",mldelrosa
+"""been""","Half Moon Bay, CA, USA",mldelrosa
+"""been""","Jamaica, NY, USA",mldelrosa
+"""been""","San Jose, Costa Rica",mldelrosa
+"""been""","Rio de Janeiro, Brazil",mldelrosa
+"""been""","Hoi An, Vietnam",mldelrosa
+"""been""","Toms River, NJ, USA",mldelrosa
+"""been""","Oxon Hill, MD, USA",mldelrosa
+"""been""","Astoria, OR, USA",mldelrosa
+"""been""","Lincoln, NE, USA",mldelrosa
+"""been""","Flushing, NY, USA",mldelrosa
+"""been""","Jacksonville, FL, USA",mldelrosa
+"""been""","Da Nang, Vietnam",mldelrosa
+"""been""","Macon, GA, USA",mldelrosa
+"""been""","Chester, UK",mldelrosa
+"""been""","Berlin, Germany",mldelrosa
+"""been""","Salt Lake City, UT, USA",mldelrosa
+"""been""","Seville, Spain",mldelrosa
+"""been""","Athens, Greece",mldelrosa
+"""been""","Juneau, AK, USA",mldelrosa
+"""been""","Seaside, OR, USA",mldelrosa
+"""been""","Palm Beach, FL, USA",mldelrosa
+"""been""","Cannes, France",mldelrosa
+"""been""","Kempton Park, South Africa",mldelrosa
+"""been""","Bath, UK",mldelrosa
+"""been""","Pangkal Pinang, Indonesia",mldelrosa
+"""been""","Agadir, Morocco",mldelrosa
+"""been""","Casablanca, Morocco",mldelrosa
+"""been""","Istanbul, Turkey",mldelrosa
+"""been""","Fes, Morocco",mldelrosa
+"""been""","Marrakech, Morocco",mldelrosa
+"""been""","Rabat, Morocco",mldelrosa
+"""been""","Boulder, CO, USA",mldelrosa
+"""been""","Tangier, Morocco",mldelrosa
+"""been""","Niagara-on-the-Lake, Ontario, Canada",mldelrosa
+"""been""","Niagara Falls, Ontario, Canada",mldelrosa
+"""been""","Ocean City, MD, USA",mldelrosa
+"""been""","Ithaca, NY, USA",mldelrosa
+"""been""","Frankfurt, Germany",mldelrosa
+"""been""","Avignon, France",mldelrosa
+"""been""","Eureka, CA, USA",mldelrosa
+"""been""","Tucson, AZ, USA",mldelrosa
+"""been""","Panama City, FL, USA",mldelrosa
+"""been""","Nuremberg, Germany",mldelrosa
+"""been""","Stockholm, Sweden",mldelrosa
+"""been""","Ketchikan, AK, USA",mldelrosa
+"""been""","Buena Park, CA, USA",mldelrosa
+"""been""","Arlington, TX, USA",mldelrosa
+"""been""","Cordoba, Spain",mldelrosa
+"""been""","Vatican City, Vatican City",mldelrosa
+"""been""","Burbank, CA, USA",mldelrosa
+"""been""","Tivoli, Italy",mldelrosa
+"""been""","Burlingame, CA, USA",mldelrosa
+"""been""","Panama City Beach, FL, USA",mldelrosa
+"""been""","Rome, Italy",mldelrosa
+"""been""","Victoria Falls, Zimbabwe",mldelrosa
+"""been""","Spokane, WA, USA",mldelrosa
+"""been""","Manuel Antonio, Costa Rica",mldelrosa
+"""been""","Nieuwpoort, Curacao",mldelrosa
+"""been""","Jersey City, NJ, USA",mldelrosa
+"""been""","Amatitlan, Guatemala",mldelrosa
+"""been""","Bar Harbor, ME, USA",mldelrosa
+"""been""","Munich, Germany",mldelrosa
+"""been""","Fairbanks, AK, USA",mldelrosa
+"""been""","London, UK",mldelrosa
+"""been""","Providence, RI, USA",mldelrosa
+"""been""","Antwerp, Belgium",mldelrosa
+"""been""","Brooklyn, NY, USA",mldelrosa
+"""been""","Liverpool, UK",mldelrosa
+"""been""","Johannesburg, South Africa",mldelrosa
+"""been""","Syracuse, NY, USA",mldelrosa
+"""been""","Pompeii, Italy",mldelrosa
+"""been""","Estes Park, CO, USA",mldelrosa
+"""been""","Rotterdam, The Netherlands",mldelrosa
+"""been""","Naples, Italy",mldelrosa
+"""been""","Costa Mesa, CA, USA",mldelrosa
+"""been""","Granada, Spain",mldelrosa
+"""been""","Vancouver, WA, USA",mldelrosa
+"""been""","Torremolinos, Spain",mldelrosa
+"""been""","Solvang, CA, USA",mldelrosa
+"""been""","Mesa, AZ, USA",mldelrosa
+"""been""","Tallahassee, FL, USA",mldelrosa
+"""been""","Melbourne, FL, USA",mldelrosa
+"""been""","Coronado, CA, USA",mldelrosa
+"""been""","Belfast, UK",mldelrosa
+"""been""","Austin, TX, USA",mldelrosa
+"""been""","Pensacola, FL, USA",mldelrosa
+"""been""","Miami Beach, FL, USA",mldelrosa
+"""been""","Peterhof, Russia",mldelrosa
+"""been""","Puntarenas, Costa Rica",mldelrosa
+"""been""","Tampa, FL, USA",mldelrosa
+"""been""","Miami, FL, USA",mldelrosa
+"""been""","Sonoma, CA, USA",mldelrosa
+"""been""","Ixtapa, Mexico",mldelrosa
+"""been""","Rothenburg, Germany",mldelrosa
+"""been""","Savannah, GA, USA",mldelrosa
+"""been""","Malaga, Spain",mldelrosa
+"""been""","Baltimore, MD, USA",mldelrosa
+"""been""","York, UK",mldelrosa
+"""been""","Brussels, Belgium",mldelrosa
+"""been""","Cadiz, Spain",mldelrosa
+"""want""","Barcelona, Spain",mldelrosa
+"""been""","Auckland, New Zealand",mldelrosa
+"""been""","Marseille, France",mldelrosa
+"""been""","Dusseldorf, Germany",mldelrosa
+"""been""","Salamanca, Spain",mldelrosa
+"""been""","Leon, Spain",mldelrosa
+"""been""","Cologne, Germany",mldelrosa
+"""been""","Ontario, CA, USA",mldelrosa
+"""been""","Charlotte, NC, USA",mldelrosa
+"""been""","Rancho Mirage, CA, USA",mldelrosa
+"""been""","Big Sur, CA, USA",mldelrosa
+"""been""","Oceanside, CA, USA",mldelrosa
+"""been""","Braulio Carrillo National Park, Costa Rica",mldelrosa
+"""been""","Ojai, CA, USA",mldelrosa
+"""been""","Konstanz, Germany",mldelrosa
+"""been""","Toledo, Spain",mldelrosa
+"""been""","Zurich, Switzerland",mldelrosa
+"""been""","Lyon, France",mldelrosa
+"""been""","Lexington, KY, USA",mldelrosa
+"""been""","Amsterdam, The Netherlands",mldelrosa
+"""been""","Redondo Beach, CA, USA",mldelrosa
+"""been""","Harrisburg, PA, USA",mldelrosa
+"""been""","Redding, CA, USA",mldelrosa
+"""been""","Albany, NY, USA",mldelrosa
+"""been""","Lausanne, Switzerland",mldelrosa
+"""been"",""fave""","Puerto Iguazu, Argentina",mldelrosa
+"""been""","Heraklion, Greece",mldelrosa
+"""been""","Palm Desert, CA, USA",mldelrosa
+"""been""","Palm Springs, CA, USA",mldelrosa
+"""been""","Saint Paul, MN, USA",mldelrosa
+"""been""","Monte-Carlo, Monaco",mldelrosa
+"""been""","Romulus, MI, USA",mldelrosa
+"""been""","Copenhagen, Denmark",mldelrosa
+"""been""","Addis Ababa, Ethiopia",mldelrosa
+"""been""","Wailea, HI, USA",mldelrosa
+"""been""","Anacapri, Italy",mldelrosa
+"""been""","Monterey, CA, USA",mldelrosa
+"""been""","Dallas, TX, USA",mldelrosa
+"""been""","Winter Park, CO, USA",mldelrosa
+"""been""","Panormos, Greece",mldelrosa
+"""been""","Palo Alto, CA, USA",mldelrosa
+"""been""","Aarhus, Denmark",mldelrosa
+"""been""","Athens, GA, USA",mldelrosa
+"""been""","Nice, France",mldelrosa
+"""been""","Paso Robles, CA, USA",mldelrosa
+"""been""","Cusco, Peru",mldelrosa
+"""been""","Lourdes, France",mldelrosa
+"""been""","Lima, Peru",mldelrosa
+"""been"",""fave""","Prague, Czech Republic",mldelrosa
+"""been""","Argassi, Greece",mldelrosa
+"""been""","Bogor, Indonesia",mldelrosa
+"""been""","Morro Bay, CA, USA",mldelrosa
+"""been""","Rapid City, SD, USA",mldelrosa
+"""been""","Fredericksburg, TX, USA",mldelrosa
+"""been""","Milwaukee, WI, USA",mldelrosa
+"""been""","Pittsburgh, PA, USA",mldelrosa
+"""been""","Hampton, VA, USA",mldelrosa
+"""been""","Williams, AZ, USA",mldelrosa
+"""been""","Pasadena, CA, USA",mldelrosa
+"""been""","Guatemala City, Guatemala",mldelrosa
+"""been""","Vienna, Austria",mldelrosa
+"""been""","Long Island City, NY, USA",mldelrosa
+"""been""","Ushuaia, Argentina",mldelrosa
+"""been""","Vilnius, Lithuania",mldelrosa
+"""been""","Santiago, Chile",mldelrosa
+"""been""","Sacramento, CA, USA",mldelrosa
+"""been""","Valparaiso, Chile",mldelrosa
+"""been""","Hill City, SD, USA",mldelrosa
+"""been""","Quito, Ecuador",mldelrosa
+"""been""","Fort Worth, TX, USA",mldelrosa
+"""been""","La Fortuna de San Carlos, Costa Rica",mldelrosa
+"""been""","Tallinn, Estonia",mldelrosa
+"""been""","Huntington Beach, CA, USA",mldelrosa
+"""been""","Roatan, Honduras",mldelrosa
+"""been""","Wichita, KS, USA",mldelrosa
+"""been""","Kalocsa, Hungary",mldelrosa
+"""been""","Buenos Aires, Argentina",mldelrosa
+"""been""","Innsbruck, Austria",mldelrosa
+"""been""","New Haven, CT, USA",mldelrosa
+"""been""","Beijing, China",mldelrosa
+"""been""","Phoenix, AZ, USA",mldelrosa
+"""been""","Valletta, Malta",mldelrosa
+"""been""","Dubai, United Arab Emirates",mldelrosa
+"""been""","Mainz, Germany",mldelrosa
+"""been""","Chamberlain, SD, USA",mldelrosa
+"""been""","Koblenz, Germany",mldelrosa
+"""been""","Bucharest, Romania",mldelrosa
+"""been""","Hong Kong, China",mldelrosa
+"""been""","Long Beach, CA, USA",mldelrosa
+"""been""","Venice, FL, USA",mldelrosa
+"""been""","Salzburg, Austria",mldelrosa
+"""been""","Riga, Latvia",mldelrosa
+"""been""","Indian Wells, CA, USA",mldelrosa
+"""been""","Napa, CA, USA",mldelrosa
+"""been""","Alexandria, VA, USA",mldelrosa
+"""been""","Nuevo Vallarta, Mexico",mldelrosa
+"""want""","Holguin, Cuba",mldelrosa
+"""been""","Laughlin, NV, USA",mldelrosa
+"""been""","Las Vegas, NV, USA",mldelrosa
+"""been""","Wildwood, NJ, USA",mldelrosa
+"""been""","Wildwood Crest, NJ, USA",mldelrosa
+"""been""","Southampton, UK",mldelrosa
+"""been""","Paris, France",mldelrosa
+"""been""","Muscat, Oman",mldelrosa
+"""been""","Irvine, CA, USA",mldelrosa
+"""been""","Heidelberg, Germany",mldelrosa
+"""been""","Pismo Beach, CA, USA",mldelrosa
+"""been""","Warsaw, Poland",mldelrosa
+"""been""","Cairo, Egypt",mldelrosa
+"""been""","Puerto Madryn, Argentina",mldelrosa
+"""been""","Montevideo, Uruguay",mldelrosa
+"""been""","Giza, Egypt",mldelrosa
+"""been""","Avalon, CA, USA",mldelrosa
+"""been""","Luxor, Egypt",mldelrosa
+"""been"",""want""","Nairobi, Kenya",mldelrosa
+"""been""","Chicago, IL, USA",mldelrosa
+"""been""","Galveston, TX, USA",mldelrosa
+"""been""","Los Angeles, CA, USA",mldelrosa
+"""been""","Vero Beach, FL, USA",mldelrosa
+"""been""","Baton Rouge, LA, USA",mldelrosa
+"""been""","Henderson, NV, USA",mldelrosa
+"""been""","Baden-Baden, Germany",mldelrosa
+"""been""","Cancun, Mexico",mldelrosa
+"""been""","San Salvador, El Salvador",mldelrosa
+"""been""","Cozumel, Mexico",mldelrosa
+"""been""","Davenport, FL, USA",mldelrosa
+"""been""","Lucerne, Switzerland",mldelrosa
+"""been""","Dubois, WY, USA",mldelrosa
+"""been""","Eugene, OR, USA",mldelrosa
+"""been""","Newport News, VA, USA",mldelrosa
+"""been""","Civitavecchia, Italy",mldelrosa
+"""been""","Bronx, NY, USA",mldelrosa
+"""been""","Fargo, ND, USA",mldelrosa
+"""been""","Toronto, Ontario, Canada",mldelrosa
+"""been""","Truckee, CA, USA",mldelrosa
+"""been""","Phuket Town, Thailand",mldelrosa
+"""been""","Panama City, Panama",mldelrosa
+"""been""","Wilmington, DE, USA",mldelrosa
+"""been""","Kusadasi, Turkey",mldelrosa
+"""been""","Hollywood, FL, USA",mldelrosa
+"""been""","Cody, WY, USA",mldelrosa
+"""been""","Washington DC, DC, USA",mldelrosa
+"""been""","Staten Island, NY, USA",mldelrosa
+"""been""","Indianapolis, IN, USA",mldelrosa
+"""been""","Saratoga Springs, NY, USA",mldelrosa
+"""been""","Hershey, PA, USA",mldelrosa
+"""been""","Daytona Beach, FL, USA",mldelrosa
+"""been""","Lisbon, Portugal",mldelrosa
+"""been""","Belgrade, Serbia",mldelrosa
+"""been""","Punta Arenas, Chile",mldelrosa
+"""been""","Bordeaux, France",mldelrosa
+"""been""","Jeju, South Korea",mldelrosa
+"""been""","Virginia Beach, VA, USA",mldelrosa
+"""been"",""fave""","Budapest, Hungary",mldelrosa
+"""been""","Puerto Galera, Philippines",mldelrosa
+"""been""","El Nido, Philippines",mldelrosa
+"""been""","Subic, Philippines",mldelrosa
+"""want""","Busan, South Korea",mldelrosa
+"""been""","Nassau, Bahamas",mldelrosa
+"""been"",""want""","Puerto Princesa, Philippines",mldelrosa
+"""been""","Vigan, Philippines",mldelrosa
+"""been""","Lancaster, PA, USA",mldelrosa
+"""been""","Le Havre, France",mldelrosa
+"""been""","Xiamen, China",mldelrosa
+"""been""","Hobart, Australia",mldelrosa
+"""been""","Freeport, Bahamas",mldelrosa
+"""been""","Manchester, UK",mldelrosa
+"""been""","Oslo, Norway",mldelrosa
+"""been""","Mangalore, India",mldelrosa
+"""been""","Hilo, HI, USA",mldelrosa
+"""been""","Charlotte Amalie, U.S. Virgin Islands",mldelrosa
+"""been""","Bern, Switzerland",mldelrosa
+"""been""","Norfolk, VA, USA",mldelrosa
+"""been""","Montreal, Quebec, Canada",mldelrosa
+"""been""","Newport, OR, USA",mldelrosa
+"""been""","Montgomery, AL, USA",mldelrosa
+"""want""","Quebec City, Quebec, Canada",mldelrosa
+"""been""","Mobile, AL, USA",mldelrosa
+"""been""","Wilmington, NC, USA",mldelrosa
+"""been""","Tulum, Mexico",mldelrosa
+"""been""","Playa del Carmen, Mexico",mldelrosa
+"""been""","Theodore Roosevelt National Park, ND, USA",mldelrosa
+"""been""","Basel, Switzerland",mldelrosa
+"""been""","Bangor, ME, USA",mldelrosa
+"""been""","Antigua, Guatemala",mldelrosa
+"""been""","Boca Raton, FL, USA",mldelrosa
+"""been""","Jackson, WY, USA",mldelrosa
+"""been""","Raleigh, NC, USA",mldelrosa
+"""been""","Vidin, Bulgaria",mldelrosa
+"""been""","Cleveland, OH, USA",mldelrosa
+"""been""","Sioux Falls, SD, USA",mldelrosa
+"""been""","Lake George, NY, USA",mldelrosa
+"""been""","Tagaytay, Philippines",mldelrosa
+"""been""","Split, Croatia",mldelrosa
+"""been""","San Juan, Puerto Rico",mldelrosa
+"""been""","Dubrovnik, Croatia",mldelrosa
+"""been""","Zadar, Croatia",mldelrosa
+"""been"",""want""","Singapore, Singapore",mldelrosa
+"""been""","Bradenton Beach, FL, USA",mldelrosa
+"""been""","Manta, Ecuador",mldelrosa
+"""been""","Shenzhen, China",mldelrosa
+"""been""","St. Petersburg, Russia",mldelrosa
+"""been""","Nyaungshwe, Myanmar",mldelrosa
+"""been""","Brisbane, Australia",mldelrosa
+"""been""","Ocho Rios, Jamaica",mldelrosa
+"""been""","Seminyak, Indonesia",mldelrosa
+"""been""","Kingston, Jamaica",mldelrosa
+"""been""","Stanley, Falkland Islands",mldelrosa
+"""been""","Sydney, Australia",mldelrosa
+"""been""","Puerto Montt, Chile",mldelrosa
+"""been""","Atlantic City, NJ, USA",mldelrosa
+"""been""","Playa Avellanas, Costa Rica",mldelrosa
+"""been""","Interlaken, Switzerland",mldelrosa
+"""been""","Grindelwald, Switzerland",mldelrosa
+"""been""","Philipsburg, St Martin \u002F St Maarten",mldelrosa
+"""been""","Atlantic Beach, NC, USA",mldelrosa
+"""been""","Zermatt, Switzerland",mldelrosa
+"""been""","Niagara Falls, NY, USA",mldelrosa
+"""been""","Chattanooga, TN, USA",mldelrosa
+"""been""","Oakland, CA, USA",mldelrosa
+"""been""","Columbus, OH, USA",mldelrosa
+"""been""","Lake Placid, NY, USA",mldelrosa
+"""been""","Mykonos Town, Greece",mldelrosa
+"""been""","Shreveport, LA, USA",mldelrosa
+"""been""","Sainte-Anne, Martinique",mldelrosa
+"""been""","Park City, UT, USA",mldelrosa
+"""been""","Fira, Greece",mldelrosa
+"""been""","Oia, Greece",mldelrosa
+"""been""","Guilin, China",mldelrosa
+"""been""","Flagstaff, AZ, USA",mldelrosa
+"""been""","Xi'an, China",mldelrosa
+"""been""","Buffalo, NY, USA",mldelrosa
+"""been""","Medora, ND, USA",mldelrosa
+"""been""","Guangzhou, China",mldelrosa
+"""been""","Tacoma, WA, USA",mldelrosa
+"""been""","Anaheim, CA, USA",mldelrosa
+"""been""","La Serena, Chile",mldelrosa
+"""been""","Cambria, CA, USA",mldelrosa
+"""been""","Des Moines, IA, USA",mldelrosa
+"""been""","Newark, NJ, USA",mldelrosa
+"""been""","Coquimbo, Chile",mldelrosa
+"""been""","Scranton, PA, USA",mldelrosa
+"""been""","Oranjestad, Aruba",mldelrosa
+"""been""","Bologna, Italy",mldelrosa
+"""been""","Waikoloa, HI, USA",mldelrosa
+"""been""","Volcano, HI, USA",mldelrosa
+"""been""","Bismarck, ND, USA",mldelrosa
+"""been""","Seven Mile Beach, Cayman Islands",mldelrosa
+"""been""","Charleston, SC, USA",mldelrosa
+"""been""","Greensboro, NC, USA",mldelrosa
+"""been""","Colorado Springs, CO, USA",mldelrosa
+"""been""","Alexandria, Egypt",mldelrosa
+"""been""","Gatlinburg, TN, USA",mldelrosa
+"""been""","Pompano Beach, FL, USA",mldelrosa
+"""been""","Everglades City, FL, USA",mldelrosa
+"""been""","Knoxville, TN, USA",mldelrosa
+"""been""","Bakersfield, CA, USA",mldelrosa
+"""been""","Dana Point, CA, USA",mldelrosa
+"""been""","Kansas City, KS, USA",mldelrosa
+"""been""","Foz do Iguacu, Brazil",mldelrosa
+"""been""","Pensacola Beach, FL, USA",mldelrosa
+"""been""","Nuevo Arenal, Costa Rica",mldelrosa
+"""been""","Dublin, Ireland",mldelrosa
+"""been""","Rincon de Guayabitos, Mexico",mldelrosa
+"""been""","Yangon (Rangoon), Myanmar",mldelrosa
+"""want""","Cork, Ireland",mldelrosa
+"""been""","Bogota, Colombia",mldelrosa
+"""been""","San Antonio, TX, USA",mldelrosa
+"""been""","San Francisco, CA, USA",mldelrosa
+"""been""","Page, AZ, USA",mldelrosa
+"""been""","Seoul, South Korea",mldelrosa
+"""been""","Seward, AK, USA",mldelrosa
+"""been""","San Clemente, CA, USA",mldelrosa
+"""been""","Kailua-Kona, HI, USA",mldelrosa
+"""been""","Hana, HI, USA",mldelrosa
+"""been""","San Dimas, CA, USA",mldelrosa
+"""been""","Cincinnati, OH, USA",mldelrosa
+"""been""","Naples, FL, USA",mldelrosa
+"""been""","Kihei, HI, USA",mldelrosa
+"""been""","West Hollywood, CA, USA",mldelrosa
+"""been""","San Diego, CA, USA",mldelrosa
+"""been""","Williamsburg, VA, USA",mldelrosa
+"""been""","Davao City, Philippines",mldelrosa
+"""been""","Huntsville, TX, USA",mldelrosa
+"""been""","Fort Lauderdale, FL, USA",mldelrosa
+"""been""","Veliko Tarnovo, Bulgaria",mldelrosa
+"""been""","Ocean City, NJ, USA",mldelrosa
+"""been""","Kapalua, HI, USA",mldelrosa
+"""been""","Assisi, Italy",mldelrosa
+"""been""","Acapulco, Mexico",mldelrosa
+"""been""","Sunny Isles Beach, FL, USA",mldelrosa
+"""been""","Flam, Norway",mldelrosa
+"""been""","Siena, Italy",mldelrosa
+"""want""","Cebu City, Philippines",mldelrosa
+"""been""","Laramie, WY, USA",mldelrosa
+"""been""","Boston, MA, USA",mldelrosa
+"""been""","Lihue, HI, USA",mldelrosa
+"""been""","Custer, SD, USA",mldelrosa
+"""been""","Catskill, NY, USA",mldelrosa
+"""been""","Princeville, HI, USA",mldelrosa
+"""been""","Poipu, HI, USA",mldelrosa
+"""been""","Columbia, SC, USA",mldelrosa
+"""been""","Batangas City, Philippines",mldelrosa
+"""been""","Honolulu, HI, USA",mldelrosa
+"""been""","Nagasaki, Japan",mldelrosa
+"""been""","Denver, CO, USA",mldelrosa
+"""been""","New Orleans, LA, USA",mldelrosa
+"""been""","St. Augustine, FL, USA",mldelrosa
+"""been""","Cartagena, Colombia",mldelrosa
+"""been""","San Luis Obispo, CA, USA",mldelrosa
+"""been""","Baguio, Philippines",mldelrosa
+"""been""","Carmel, CA, USA",mldelrosa
+"""been""","Desert Hot Springs, CA, USA",mldelrosa
+"""been""","Fort Myers, FL, USA",mldelrosa
+"""been""","San Jose, CA, USA",mldelrosa
+"""been""","Palm - Eagle Beach, Aruba",mldelrosa
+"""been""","Houston, TX, USA",mldelrosa
+"""been""","Fort Myers Beach, FL, USA",mldelrosa
+"""been""","Kissimmee, FL, USA",mldelrosa
+"""been""","Wellington, New Zealand",mldelrosa
+"""been""","Christchurch, New Zealand",mldelrosa
+"""been""","Dunedin, New Zealand",mldelrosa
+"""been""","Cape Coral, FL, USA",mldelrosa
+"""been""","Ensenada, Mexico",mldelrosa
+"""been""","North Wildwood, NJ, USA",mldelrosa
+"""been""","Rochester, NY, USA",mldelrosa
+"""been""","La Paz, Mexico",mldelrosa
+"""been""","Rosarito, Mexico",mldelrosa
+"""been""","Queenstown, New Zealand",mldelrosa
+"""been""","Tijuana, Mexico",mldelrosa
+"""been""","South Lake Tahoe, CA, USA",mldelrosa
+"""been""","Kuala Lumpur, Malaysia",mldelrosa
+"""been""","Kapaa, HI, USA",mldelrosa
+"""been""","Makati, Philippines",mldelrosa
+"""been""","Carlsbad, CA, USA",mldelrosa
+"""been""","Quezon City, Philippines",mldelrosa
+"""been""","Hanalei, HI, USA",mldelrosa
+"""been""","Newport, RI, USA",mldelrosa
+"""been""","Pigeon Forge, TN, USA",mldelrosa
+"""been"",""want""","Manila, Philippines",mldelrosa
+"""been""","Pasay, Philippines",mldelrosa
+"""been""","Kailua, HI, USA",mldelrosa
+"""been""","Kapolei, HI, USA",mldelrosa
+"""been""","Cambridge, MA, USA",mldelrosa
+"""been""","Richmond, VA, USA",mldelrosa
+"""been""","Gainesville, FL, USA",mldelrosa
+"""been""","Auckland Central, New Zealand",mldelrosa
+"""been""","Manaus, Brazil",mldelrosa
+"""been""","Macau, China",mldelrosa
+"""been""","Rotorua, New Zealand",mldelrosa
+"""been""","Milan, Italy",mldelrosa
+"""been"",""want""","Siem Reap, Cambodia",mldelrosa
+"""been""","Cherry Hill, NJ, USA",mldelrosa
+"""been""","Wisconsin Dells, WI, USA",mldelrosa
+"""been""","Arica, Chile",mldelrosa
+"""been""","Moscow, Russia",mldelrosa
+"""been""","El Paso, TX, USA",mldelrosa
+"""been""","Santa Barbara, CA, USA",mldelrosa
+"""been""","New York City, NY, USA",mldelrosa
+"""been""","Santa Clara, CA, USA",mldelrosa
+"""been""","Santa Cruz, CA, USA",mldelrosa
+"""been""","Omaha, NE, USA",mldelrosa
+"""been""","Orient Bay, St Martin \u002F St Maarten",mldelrosa
+"""been""","Anchorage, AK, USA",mldelrosa
+"""been""","San Juan, Philippines",mldelrosa
+"""been""","Santa Ana, CA, USA",mldelrosa
+"""been""","Ocala, FL, USA",mldelrosa
+"""been""","Chesapeake, VA, USA",mldelrosa
+"""been""","Temecula, CA, USA",mldelrosa
+"""been""","St. George, UT, USA",mldelrosa
+"""been""","Kinsale, Ireland",mldelrosa
+"""been""","Branson, MO, USA",mldelrosa
+"""been""","Calangute, India",mldelrosa
+"""been""","Mazatlan, Mexico",mldelrosa
+"""been""","Manzanillo, Mexico",mldelrosa
+"""been""","Belize City, Belize",mldelrosa
+"""been""","Puerto Vallarta, Mexico",mldelrosa
+"""want""","Havana, Cuba",mldelrosa
+"""been""","Lake Louise, Alberta, Canada",mldelrosa
+"""been""","Melbourne, Australia",mldelrosa
+"""been""","Banff, Alberta, Canada",mldelrosa
+"""been""","Zihuatanejo, Mexico",mldelrosa
+"""been""","Cape May, NJ, USA",mldelrosa
+"""want""","Guadalajara, Mexico",mldelrosa
+"""been""","White Plains, NY, USA",mldelrosa
+"""been""","Edinburgh, UK",mldelrosa
+"""been""","Beverly Hills, CA, USA",mldelrosa
+"""been""","Edmonton, Alberta, Canada",mldelrosa
+"""been""","Willemstad, Curacao",mldelrosa
+"""want""","Calgary, Alberta, Canada",mldelrosa
+"""been""","Lahaina, HI, USA",mldelrosa
+"""been""","Charlottesville, VA, USA",mldelrosa
+"""been""","Jasper, Alberta, Canada",mldelrosa
+"""been""","Seattle, WA, USA",mldelrosa
+"""been""","Cocoa Beach, FL, USA",mldelrosa
+"""been""","Philadelphia, PA, USA",mldelrosa
+"""been""","Gettysburg, PA, USA",mldelrosa
+"""been""","Santa Monica, CA, USA",mldelrosa
+"""been""","Mammoth Lakes, CA, USA",mldelrosa
+"""been""","Clearwater, FL, USA",mldelrosa
+"""been""","Portland, ME, USA",mldelrosa
+"""been""","Santa Rosa, CA, USA",mldelrosa
+"""been""","Barra del Colorado Wildlife Refuge, Costa Rica",mldelrosa
+"""been""","Halong Bay, Vietnam",mldelrosa
+"""been""","Hanoi, Vietnam",mldelrosa
+"""been""","Ho Chi Minh City, Vietnam",mldelrosa
+"""been""","Hue, Vietnam",mldelrosa
+"""been""","Ka'anapali, HI, USA",mldelrosa
+"""been""","Victoria, British Columbia, Canada",mldelrosa
+"""been""","Vancouver, British Columbia, Canada",mldelrosa
+"""been""","Kilkenny, Ireland",mldelrosa
+"""been""","Whistler, British Columbia, Canada",mldelrosa
+"""been""","Lauderdale-By-The-Sea, FL, USA",mldelrosa
+"""want""","Killarney, Ireland",mldelrosa
+"""been""","Bellingham, WA, USA",mldelrosa
+"""been""","Louisville, KY, USA",mldelrosa
+"""been""","Longboat Key, FL, USA",mldelrosa
+"""been""","Izmir, Turkey",mldelrosa
+"""been""","Memphis, TN, USA",mldelrosa
+"""been""","Bradenton, FL, USA",mldelrosa
+"""been""","Coral Gables, FL, USA",mldelrosa
+"""been""","Pagudpud, Philippines",mldelrosa
+"""been""","Bellevue, WA, USA",mldelrosa
+"""been"",""want""","Mumbai, India",mldelrosa
+"""want""","Taipei, Taiwan",mldelrosa
+"""been""","Bangkok, Thailand",mldelrosa
+"""been""","Stateline, NV, USA",mldelrosa
+"""been""","Puerto Plata, Dominican Republic",mldelrosa
+"""been""","West Yellowstone, MT, USA",mldelrosa
+"""been""","Rawlins, WY, USA",mldelrosa
+"""been""","Bellagio, Italy",mldelrosa
+"""been""","Cabo San Lucas, Mexico",mldelrosa
+"""been""","Sausalito, CA, USA",mldelrosa
+"""been""","San Jose del Cabo, Mexico",mldelrosa
+"""been""","Atlanta, GA, USA",mldelrosa
+"""been""","Limerick, Ireland",mldelrosa
+"""been""","Karousades, Greece",mldelrosa
+"""been""","St. George's, Grenada",mldelrosa

@@ -1,0 +1,478 @@
+tag,place,user
+"""been""","Cordoba, Argentina",albala
+"""been""","Helsinki, Finland",albala
+"""been""","Madrid, Spain",albala
+"""been""","Rincon, Puerto Rico",albala
+"""been""","Tigre, Argentina",albala
+"""been""","Pattaya, Thailand",albala
+"""been""","Winnipeg, Manitoba, Canada",albala
+"""been""","Hollywood, FL, USA",albala
+"""been""","Bangkok, Thailand",albala
+"""been""","Daytona Beach, FL, USA",albala
+"""been""","Taipei, Taiwan",albala
+"""been""","Izmir, Turkey",albala
+"""been""","Glasgow, UK",albala
+"""been""","Cesme, Turkey",albala
+"""been""","Moscow, Russia",albala
+"""been""","Mar del Plata, Argentina",albala
+"""been""","Edinburgh, UK",albala
+"""been""","Trabzon, Turkey",albala
+"""been""","Samsun, Turkey",albala
+"""been""","Hershey, PA, USA",albala
+"""been""","Johor Bahru, Malaysia",albala
+"""been""","Buenos Aires, Argentina",albala
+"""been""","Marmaris, Turkey",albala
+"""been""","Naupactus, Greece",albala
+"""been""","Philadelphia, PA, USA",albala
+"""been""","Louisville, KY, USA",albala
+"""been""","Gettysburg, PA, USA",albala
+"""been""","Santo Domingo, Dominican Republic",albala
+"""been""","Milan, Italy",albala
+"""been""","Washington DC, DC, USA",albala
+"""been""","Puerto Plata, Dominican Republic",albala
+"""been""","Punta Cana, Dominican Republic",albala
+"""been""","Victoria, British Columbia, Canada",albala
+"""been""","Vancouver, British Columbia, Canada",albala
+"""been""","Seekonk, MA, USA",albala
+"""been""","Port Macquarie, Australia",albala
+"""been""","Whitby, UK",albala
+"""been""","Brussels, Belgium",albala
+"""been""","Cadiz, Spain",albala
+"""been""","Stockholm, Sweden",albala
+"""been""","Malaga, Spain",albala
+"""been""","Marbella, Spain",albala
+"""been""","Maracaibo, Venezuela",albala
+"""been""","Chernobyl, Ukraine",albala
+"""been""","Bloemfontein, South Africa",albala
+"""been""","Vatican City, Vatican City",albala
+"""been""","Rome, Italy",albala
+"""been""","Jaco, Costa Rica",albala
+"""been""","Niagara-on-the-Lake, Ontario, Canada",albala
+"""been""","Memphis, TN, USA",albala
+"""been""","Niagara Falls, Ontario, Canada",albala
+"""been""","Santa Barbara, CA, USA",albala
+"""been""","Richmond, VA, USA",albala
+"""been""","Munich, Germany",albala
+"""been""","Atlanta, GA, USA",albala
+"""been""","Beverly Hills, CA, USA",albala
+"""been""","Naples, Italy",albala
+"""been"",""fave""","Dakar, Senegal",albala
+"""been""","London, UK",albala
+"""been""","Port Elizabeth, South Africa",albala
+"""been""","Antwerp, Belgium",albala
+"""been""","Liverpool, UK",albala
+"""been""","East London, South Africa",albala
+"""been""","Stellenbosch, South Africa",albala
+"""been""","Langkawi, Malaysia",albala
+"""been""","Melbourne, Australia",albala
+"""been""","Irving, TX, USA",albala
+"""been""","New York City, NY, USA",albala
+"""been""","Manville, RI, USA",albala
+"""been""","Omaha, NE, USA",albala
+"""been""","Santa Monica, CA, USA",albala
+"""been""","Clearwater, FL, USA",albala
+"""been""","Lincoln, RI, USA",albala
+"""been""","Perth, Australia",albala
+"""been""","Tomsk, Russia",albala
+"""been""","Malmo, Sweden",albala
+"""been""","North Providence, RI, USA",albala
+"""been""","Windhoek, Namibia",albala
+"""been""","Narragansett, RI, USA",albala
+"""been""","Auckland Central, New Zealand",albala
+"""been""","Paarl, South Africa",albala
+"""been""","Fort Lauderdale, FL, USA",albala
+"""been""","Mendoza, Argentina",albala
+"""been""","Constantia, South Africa",albala
+"""been""","Kailua-Kona, HI, USA",albala
+"""been""","Fort Myers Beach, FL, USA",albala
+"""been""","Kissimmee, FL, USA",albala
+"""been""","Greenville, RI, USA",albala
+"""been""","Denver, CO, USA",albala
+"""been""","San Diego, CA, USA",albala
+"""been"",""fave""","Marrakech, Morocco",albala
+"""been""","Valencia, Spain",albala
+"""been""","Mayrhofen, Austria",albala
+"""been""","Lahaina, HI, USA",albala
+"""been""","Wellington, New Zealand",albala
+"""been""","Seattle, WA, USA",albala
+"""been""","Charlottesville, VA, USA",albala
+"""been""","Tarsus, Turkey",albala
+"""been""","Christchurch, New Zealand",albala
+"""been"",""fave""","Cape Town Central, South Africa",albala
+"""been""","Istanbul, Turkey",albala
+"""been""","Benidorm, Spain",albala
+"""been""","Branson, MO, USA",albala
+"""been""","Tokyo, Japan",albala
+"""been""","Honolulu, HI, USA",albala
+"""been""","East Greenwich, RI, USA",albala
+"""been""","Somerset West, South Africa",albala
+"""been""","Woonsocket, RI, USA",albala
+"""been""","Cumberland, RI, USA",albala
+"""been""","Asheville, NC, USA",albala
+"""been""","Cranston, RI, USA",albala
+"""been""","New Orleans, LA, USA",albala
+"""been""","Shanghai, China",albala
+"""been""","Williamsburg, VA, USA",albala
+"""been""","Lihue, HI, USA",albala
+"""been""","Boston, MA, USA",albala
+"""been""","East Providence, RI, USA",albala
+"""been""","Bodrum City, Turkey",albala
+"""been""","Ankara, Turkey",albala
+"""been""","Wuxi, China",albala
+"""been""","Charlotte, NC, USA",albala
+"""been""","Suzhou, China",albala
+"""been""","Mansfield, MA, USA",albala
+"""been""","Springfield, MO, USA",albala
+"""been""","Provincetown, MA, USA",albala
+"""been""","Novosibirsk, Russia",albala
+"""been""","Amritsar, India",albala
+"""been""","Harbin, China",albala
+"""been""","Tulsa, OK, USA",albala
+"""been""","Lviv, Ukraine",albala
+"""been""","Attleboro, MA, USA",albala
+"""been""","Sandefjord, Norway",albala
+"""been""","Dubrovnik, Croatia",albala
+"""been"",""fave""","Grapevine, TX, USA",albala
+"""been""","Hartford, CT, USA",albala
+"""been""","Durban, South Africa",albala
+"""been""","Tyumen, Russia",albala
+"""been""","Sao Paulo, Brazil",albala
+"""been""","Hangzhou, China",albala
+"""been""","Hyderabad, India",albala
+"""been""","Xi'an, China",albala
+"""been""","Guangzhou, China",albala
+"""been""","Bogota, Colombia",albala
+"""been""","Sandton, South Africa",albala
+"""been""","Chengdu, China",albala
+"""been""","Seoul, South Korea",albala
+"""been""","Pretoria, South Africa",albala
+"""been""","San Juan, Puerto Rico",albala
+"""been""","San Jose, Costa Rica",albala
+"""been"",""fave""","Macau, China",albala
+"""been""","Oak Bluffs, MA, USA",albala
+"""been""","Rajecke Teplice, Slovakia",albala
+"""been""","Vineyard Haven, MA, USA",albala
+"""been""","Teplicka Nad Vahom, Slovakia",albala
+"""been""","Punta del Este, Uruguay",albala
+"""been""","Jinan, China",albala
+"""been""","Sibiu, Romania",albala
+"""been""","Johannesburg, South Africa",albala
+"""been""","Brasov, Romania",albala
+"""been""","Rio de Janeiro, Brazil",albala
+"""been""","Porto, Portugal",albala
+"""been""","Oklahoma City, OK, USA",albala
+"""been""","Kluang, Malaysia",albala
+"""been""","Quezon City, Philippines",albala
+"""been""","Shinjuku, Japan",albala
+"""been""","Sunny Isles Beach, FL, USA",albala
+"""been""","Raleigh, NC, USA",albala
+"""been""","Manila, Philippines",albala
+"""been""","Pasay, Philippines",albala
+"""been""","Kuala Lumpur, Malaysia",albala
+"""been""","Makati, Philippines",albala
+"""been""","Banff, Alberta, Canada",albala
+"""been""","Mazatlan, Mexico",albala
+"""been""","Manzanillo, Mexico",albala
+"""been""","Puerto Vallarta, Mexico",albala
+"""been""","Curitiba, Brazil",albala
+"""been""","Brasilia, Brazil",albala
+"""been"",""fave""","Medellin, Colombia",albala
+"""been""","Osaka, Japan",albala
+"""been""","Kyoto, Japan",albala
+"""been""","Cali, Colombia",albala
+"""been""","Bytca, Slovakia",albala
+"""been""","Hiroshima, Japan",albala
+"""been""","Kobe, Japan",albala
+"""been""","Chuo, Japan",albala
+"""been""","Edmonton, Alberta, Canada",albala
+"""been""","Niagara Falls, NY, USA",albala
+"""been""","Nagpur, India",albala
+"""been""","Minato, Japan",albala
+"""been""","Dublin, Ireland",albala
+"""been""","Hyannis, MA, USA",albala
+"""been""","La Serena, Chile",albala
+"""been""","Lancaster, PA, USA",albala
+"""been""","Winston Salem, NC, USA",albala
+"""been""","Atlantic City, NJ, USA",albala
+"""been""","Otopeni, Romania",albala
+"""been""","Cluj-Napoca, Romania",albala
+"""been""","Grand Cayman, Cayman Islands",albala
+"""been""","Tianjin, China",albala
+"""been""","Tijuana, Mexico",albala
+"""been""","North Attleboro, MA, USA",albala
+"""been""","Oranjestad, Aruba",albala
+"""been""","Seven Mile Beach, Cayman Islands",albala
+"""been""","Palm - Eagle Beach, Aruba",albala
+"""been""","Worcester, MA, USA",albala
+"""been""","Wrentham, MA, USA",albala
+"""been""","Essaouira, Morocco",albala
+"""been""","Ayia Napa, Cyprus",albala
+"""been""","Porto Alegre, Brazil",albala
+"""been""","Kefalos, Greece",albala
+"""been""","Cebu City, Philippines",albala
+"""been""","Lapu Lapu, Philippines",albala
+"""been""","Acapulco, Mexico",albala
+"""been""","Virginia Beach, VA, USA",albala
+"""been""","Hilo, HI, USA",albala
+"""been""","Gdansk, Poland",albala
+"""been""","Kas, Turkey",albala
+"""been""","Poznan, Poland",albala
+"""been""","Dubai, United Arab Emirates",albala
+"""been""","Vina del Mar, Chile",albala
+"""been""","Manavgat, Turkey",albala
+"""been""","Bucharest, Romania",albala
+"""been""","Alanya, Turkey",albala
+"""been""","Antalya, Turkey",albala
+"""been""","Beijing, China",albala
+"""been""","Zamboanga City, Philippines",albala
+"""been""","Adelaide, Australia",albala
+"""been""","Bordeaux, France",albala
+"""been""","West Palm Beach, FL, USA",albala
+"""been""","Tripoli, Greece",albala
+"""been""","Radom, Poland",albala
+"""been""","Torun, Poland",albala
+"""been""","Belo Horizonte, Brazil",albala
+"""been""","Psalidi, Greece",albala
+"""been""","Kristiansand, Norway",albala
+"""been""","Warsaw, Poland",albala
+"""been""","La Ceiba, Honduras",albala
+"""been""","Montevideo, Uruguay",albala
+"""been""","Brno, Czech Republic",albala
+"""been""","Melaka, Malaysia",albala
+"""been""","Jerez De La Frontera, Spain",albala
+"""been""","Manchester, UK",albala
+"""been""","Lodz, Poland",albala
+"""been""","Adana, Turkey",albala
+"""been""","Trondheim, Norway",albala
+"""been""","Olomouc, Czech Republic",albala
+"""been""","Tegucigalpa, Honduras",albala
+"""been""","Portland, OR, USA",albala
+"""been""","Larnaca, Cyprus",albala
+"""been""","Malibu, CA, USA",albala
+"""been""","Patras, Greece",albala
+"""been""","Mbour, Senegal",albala
+"""been""","Toronto, Ontario, Canada",albala
+"""been""","Marina del Rey, CA, USA",albala
+"""been""","Minneapolis, MN, USA",albala
+"""been""","Paphos, Cyprus",albala
+"""been""","Olsztyn, Poland",albala
+"""been""","Srinagar, India",albala
+"""been""","Manaus, Brazil",albala
+"""been""","Faro, Portugal",albala
+"""been""","Bom Jesus, Brazil",albala
+"""been""","Carvoeiro, Portugal",albala
+"""been""","Kyiv (Kiev), Ukraine",albala
+"""been""","San Salvador, El Salvador",albala
+"""been"",""fave""","Thessaloniki, Greece",albala
+"""been""","Long Beach, CA, USA",albala
+"""been""","Albufeira, Portugal",albala
+"""been""","Toulouse, France",albala
+"""been""","Milton Keynes, UK",albala
+"""been""","Jakarta, Indonesia",albala
+"""been""","Mumbai, India",albala
+"""been""","Surat, India",albala
+"""been""","Gurugram (Gurgaon), India",albala
+"""been""","Kusadasi, Turkey",albala
+"""been""","Kolkata (Calcutta), India",albala
+"""been""","Nanjing, China",albala
+"""been""","Chennai (Madras), India",albala
+"""been""","Los Angeles, CA, USA",albala
+"""been""","Chicago, IL, USA",albala
+"""been""","Durham, NC, USA",albala
+"""been""","Mykonos Town, Greece",albala
+"""been""","Nuevo Vallarta, Mexico",albala
+"""been""","Arlington, VA, USA",albala
+"""been""","Las Vegas, NV, USA",albala
+"""been""","Bialystok, Poland",albala
+"""been""","Hong Kong, China",albala
+"""been""","New Delhi, India",albala
+"""been""","Ahmedabad, India",albala
+"""been""","Puerto Princesa, Philippines",albala
+"""been""","Pittsburgh, PA, USA",albala
+"""been""","Hefei, China",albala
+"""been""","Fuzhou, China",albala
+"""been""","Mindoro, Philippines",albala
+"""been""","Innsbruck, Austria",albala
+"""been""","Waco, TX, USA",albala
+"""been""","Guimaraes, Portugal",albala
+"""been""","Freeport, Bahamas",albala
+"""been""","Pondicherry, India",albala
+"""been""","Braganca, Portugal",albala
+"""been""","Braga, Portugal",albala
+"""been""","Kielce, Poland",albala
+"""been""","Krakow, Poland",albala
+"""been""","Fortaleza, Brazil",albala
+"""been""","Jamaica, Caribbean",albala
+"""been""","Vilamoura, Portugal",albala
+"""been""","Kottayam, India",albala
+"""been""","Thiruvananthapuram (Trivandrum), India",albala
+"""been""","Diyarbakir, Turkey",albala
+"""been""","Vienna, Austria",albala
+"""been""","Mangalore, India",albala
+"""been""","Kochi (Cochin), India",albala
+"""been""","Bucerias, Mexico",albala
+"""been""","Kalamata, Greece",albala
+"""been""","Fort Worth, TX, USA",albala
+"""been""","Sacramento, CA, USA",albala
+"""been""","Mystic, CT, USA",albala
+"""been""","Negril, Jamaica",albala
+"""been""","New Haven, CT, USA",albala
+"""been""","Phoenix, AZ, USA",albala
+"""been""","Wuhu, China",albala
+"""been""","Montego Bay, Jamaica",albala
+"""been""","Ocho Rios, Jamaica",albala
+"""been""","Lillehammer, Norway",albala
+"""been""","Ilawa, Poland",albala
+"""been""","Bengaluru, India",albala
+"""been""","Odessa, Ukraine",albala
+"""been""","Jodhpur, India",albala
+"""been""","Ludhiana, India",albala
+"""been""","Cancun, Mexico",albala
+"""been""","Antigua, Guatemala",albala
+"""been""","Cozumel, Mexico",albala
+"""been""","Veracruz, Mexico",albala
+"""been""","Cascais, Portugal",albala
+"""been""","Lucerne, Switzerland",albala
+"""been""","Flower Mound, TX, USA",albala
+"""been""","Mexico City, Mexico",albala
+"""been"",""fave""","Lisbon, Portugal",albala
+"""been""","Palm Springs, CA, USA",albala
+"""been""","Oaxaca, Mexico",albala
+"""been""","Povazska Bystrica, Slovakia",albala
+"""been""","Zakopane, Poland",albala
+"""been""","St. Thomas, U.S. Virgin Islands",albala
+"""been""","St. Petersburg, Russia",albala
+"""been""","Shenzhen, China",albala
+"""been""","Veliky Novgorod, Russia",albala
+"""been""","Singapore, Singapore",albala
+"""been""","Oslo, Norway",albala
+"""been""","Foxborough, MA, USA",albala
+"""been""","Pune, India",albala
+"""been""","Coimbra, Portugal",albala
+"""been""","Dallas, TX, USA",albala
+"""been""","Maui, HI, USA",albala
+"""been""","Aveiro, Portugal",albala
+"""been""","Merida, Mexico",albala
+"""been""","Geneva, Switzerland",albala
+"""been""","Tulum, Mexico",albala
+"""been""","Nassau, Bahamas",albala
+"""been""","Joal Fadiouth, Senegal",albala
+"""been""","Fall River, MA, USA",albala
+"""been""","Falmouth, MA, USA",albala
+"""been""","Quebec City, Quebec, Canada",albala
+"""been""","Montreal, Quebec, Canada",albala
+"""been""","Puerto Iguazu, Argentina",albala
+"""been""","Chania Town, Greece",albala
+"""been""","Nice, France",albala
+"""been""","Newark, NJ, USA",albala
+"""been"",""fave""","Luanda, Angola",albala
+"""been""","Heraklion, Greece",albala
+"""been""","Coeur d'Alene, ID, USA",albala
+"""been""","Merida, Venezuela",albala
+"""been""","Gothenburg, Sweden",albala
+"""been""","Bournemouth, UK",albala
+"""been""","Anaheim, CA, USA",albala
+"""been""","Buffalo, NY, USA",albala
+"""been""","Houston, TX, USA",albala
+"""been""","Iasi, Romania",albala
+"""been""","Central Falls, RI, USA",albala
+"""been""","Newport, RI, USA",albala
+"""been""","Bath, UK",albala
+"""been""","Caracas, Venezuela",albala
+"""been"",""fave""","Athens, Greece",albala
+"""been""","Bruges, Belgium",albala
+"""been""","Charleston, SC, USA",albala
+"""been""","West Hollywood, CA, USA",albala
+"""been""","Gatlinburg, TN, USA",albala
+"""been""","Naples, FL, USA",albala
+"""been""","Key West, FL, USA",albala
+"""been""","Burlington, VT, USA",albala
+"""been""","Jersey City, NJ, USA",albala
+"""been""","Frankfurt, Germany",albala
+"""been""","Spokane, WA, USA",albala
+"""been""","Hamburg, Germany",albala
+"""been""","Sheffield, UK",albala
+"""been""","Uppsala, Sweden",albala
+"""been""","Tucson, AZ, USA",albala
+"""been""","Pensacola, FL, USA",albala
+"""been""","Plano, TX, USA",albala
+"""been""","Austin, TX, USA",albala
+"""been""","San Francisco, CA, USA",albala
+"""been""","San Antonio, TX, USA",albala
+"""been""","Nottingham, UK",albala
+"""been""","Kalamaki, Greece",albala
+"""been""","Seville, Spain",albala
+"""been""","Berlin, Germany",albala
+"""been"",""fave""","Praia, Cape Verde",albala
+"""been""","La Rochelle, France",albala
+"""been""","Zaragoza, Spain",albala
+"""been""","Miami, FL, USA",albala
+"""been""","Tampa, FL, USA",albala
+"""been""","Granada, Spain",albala
+"""been""","Miami Beach, FL, USA",albala
+"""been""","Torremolinos, Spain",albala
+"""been""","Vancouver, WA, USA",albala
+"""been""","Providence, RI, USA",albala
+"""been""","Brooklyn, NY, USA",albala
+"""been""","Alvor, Portugal",albala
+"""been""","Gaborone, Botswana",albala
+"""been""","Salzburg, Austria",albala
+"""been""","Bratislava, Slovakia",albala
+"""been""","San Carlos de Bariloche, Argentina",albala
+"""been""","Dresden, Germany",albala
+"""been""","Pietermaritzburg, South Africa",albala
+"""been""","Greenville, SC, USA",albala
+"""been""","Nashville, TN, USA",albala
+"""been""","Stevenage, UK",albala
+"""been""","Montpellier, France",albala
+"""been""","Palm Beach, FL, USA",albala
+"""been""","Savannah, GA, USA",albala
+"""been""","Baltimore, MD, USA",albala
+"""been""","Praia da Rocha, Portugal",albala
+"""been""","Southampton, UK",albala
+"""been""","Paris, France",albala
+"""been""","Yangzhou, China",albala
+"""been""","West Warwick, RI, USA",albala
+"""been"",""fave""","Sydney, Australia",albala
+"""been""","Amsterdam, The Netherlands",albala
+"""been""","Jalandhar, India",albala
+"""been""","Zurich, Switzerland",albala
+"""been""","Brisbane, Australia",albala
+"""been""","Arlington, TX, USA",albala
+"""been"",""fave""","Santa Maria, Cape Verde",albala
+"""been""","Panama City Beach, FL, USA",albala
+"""been""","Indore, India",albala
+"""been""","Kaohsiung, Taiwan",albala
+"""been""","Macon, GA, USA",albala
+"""been""","Bergen, Norway",albala
+"""been""","Zilina, Slovakia",albala
+"""been""","Kristiansund, Norway",albala
+"""been""","Myrtle Beach, SC, USA",albala
+"""been""","Prague, Czech Republic",albala
+"""been""","Smithfield, RI, USA",albala
+"""been""","Batu Ferringhi, Malaysia",albala
+"""been""","Legazpi, Philippines",albala
+"""been""","Barcelona, Spain",albala
+"""been""","Tavira, Portugal",albala
+"""been""","Marseille, France",albala
+"""been""","General Santos, Philippines",albala
+"""been""","Guatemala City, Guatemala",albala
+"""been""","Warwick, RI, USA",albala
+"""been""","Phuket Town, Thailand",albala
+"""been""","Santiago, Chile",albala
+"""been""","Valparaiso, Chile",albala
+"""been""","Riverside, RI, USA",albala
+"""been""","Huainan, China",albala
+"""been""","Ocean City, MD, USA",albala
+"""been""","Pawtucket, RI, USA",albala
+"""been""","Santa Fe, Argentina",albala
+"""been""","Stavanger, Norway",albala
+"""been""","Orlando, FL, USA",albala
+"""been""","Newcastle upon Tyne, UK",albala
+"""been""","Copenhagen, Denmark",albala
+"""been""","Groningen, The Netherlands",albala
+"""been""","Somone, Senegal",albala
+"""been""","Detroit, MI, USA",albala
+"""been""","Wailea, HI, USA",albala
+"""been""","Rosario, Argentina",albala
+"""been""","Bydgoszcz, Poland",albala

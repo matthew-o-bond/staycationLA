@@ -1,0 +1,521 @@
+tag,place,user
+"""been""","Vila Nova de Gaia, Portugal",FOL-1003
+"""been""","Covas do Douro, Portugal",FOL-1003
+"""been""","Boston, MA, USA",FOL-1003
+"""been""","Arosa, Switzerland",FOL-1003
+"""been""","New Orleans, LA, USA",FOL-1003
+"""been""","Honolulu, HI, USA",FOL-1003
+"""been""","Holzhausen, Germany",FOL-1003
+"""been""","Portoroz, Slovenia",FOL-1003
+"""been""","Beirut, Lebanon",FOL-1003
+"""been""","Hechenberg, Germany",FOL-1003
+"""been""","Argos, Greece",FOL-1003
+"""been""","Salento, Colombia",FOL-1003
+"""been""","Lipica, Slovenia",FOL-1003
+"""been""","Fecamp, France",FOL-1003
+"""been""","St. Helena, CA, USA",FOL-1003
+"""been""","Andorra la Vella, Andorra",FOL-1003
+"""want""","Nauru, South Pacific",FOL-1003
+"""been""","Piran, Slovenia",FOL-1003
+"""been""","Werder upon Havel, Germany",FOL-1003
+"""been""","Anaheim, CA, USA",FOL-1003
+"""been""","St. Moritz, Switzerland",FOL-1003
+"""been""","Zemun, Serbia",FOL-1003
+"""been""","Porto, Portugal",FOL-1003
+"""been""","Punta Ala, Italy",FOL-1003
+"""been""","Hof bei Salzburg, Austria",FOL-1003
+"""been""","Freeport, Bahamas",FOL-1003
+"""been""","Antioch, CA, USA",FOL-1003
+"""been""","Tulum, Mexico",FOL-1003
+"""been""","Kailua-Kona, HI, USA",FOL-1003
+"""been""","El Toro, Spain",FOL-1003
+"""been""","San Diego, CA, USA",FOL-1003
+"""been""","Walim, Poland",FOL-1003
+"""been""","Gyeongju, South Korea",FOL-1003
+"""been""","Abu Dhabi, United Arab Emirates",FOL-1003
+"""been""","Busan, South Korea",FOL-1003
+"""been""","Oia, Greece",FOL-1003
+"""been""","Damascus, Syria",FOL-1003
+"""been""","Maria Worth, Austria",FOL-1003
+"""been""","Axum, Ethiopia",FOL-1003
+"""been""","Bled, Slovenia",FOL-1003
+"""been""","Neuzelle, Germany",FOL-1003
+"""been""","Brandenburg City, Germany",FOL-1003
+"""been""","Imperia, Italy",FOL-1003
+"""been""","Velden am Woerthersee, Austria",FOL-1003
+"""been""","Mexico City, Mexico",FOL-1003
+"""been""","New York City, NY, USA",FOL-1003
+"""been""","Toronto, Ontario, Canada",FOL-1003
+"""been""","Miami, FL, USA",FOL-1003
+"""been""","Chichen Itza, Mexico",FOL-1003
+"""been""","Miami Beach, FL, USA",FOL-1003
+"""been""","Twickenham, UK",FOL-1003
+"""been""","Krakow, Poland",FOL-1003
+"""been""","Bursa, Turkey",FOL-1003
+"""been""","Cambridge, MA, USA",FOL-1003
+"""been""","Gracanica, Kosovo",FOL-1003
+"""been""","Sokcho, South Korea",FOL-1003
+"""been""","Furnas, Portugal",FOL-1003
+"""been""","Sant Sadurni d'Anoia, Spain",FOL-1003
+"""been""","Agua de Pau, Portugal",FOL-1003
+"""been""","Atlanta, GA, USA",FOL-1003
+"""been""","Muscat, Oman",FOL-1003
+"""been""","Lana, Italy",FOL-1003
+"""been""","L'Isle-sur-la-Sorgue, France",FOL-1003
+"""been""","Kyiv (Kiev), Ukraine",FOL-1003
+"""been""","Fogo, Cape Verde",FOL-1003
+"""been""","Jaffa, Israel",FOL-1003
+"""been""","Santa Maria, Cape Verde",FOL-1003
+"""been""","Budapest, Hungary",FOL-1003
+"""been""","Beverly Hills, CA, USA",FOL-1003
+"""been""","Alcala, Spain",FOL-1003
+"""been""","Banyalbufar, Spain",FOL-1003
+"""been""","Cairo, Egypt",FOL-1003
+"""been""","Pyongyang, North Korea",FOL-1003
+"""been""","Tallinn, Estonia",FOL-1003
+"""been""","Hamah, Syria",FOL-1003
+"""been""","Luxor, Egypt",FOL-1003
+"""been""","Aleppo, Syria",FOL-1003
+"""been""","Tirana, Albania",FOL-1003
+"""been""","Aswan, Egypt",FOL-1003
+"""been""","Siena, Italy",FOL-1003
+"""been""","Santa Barbara, CA, USA",FOL-1003
+"""been""","Lipari, Italy",FOL-1003
+"""been""","Beijing, China",FOL-1003
+"""been""","Bar Harbor, ME, USA",FOL-1003
+"""been""","Kutna Hora, Czech Republic",FOL-1003
+"""been""","Kalkan, Turkey",FOL-1003
+"""been""","Dubai, United Arab Emirates",FOL-1003
+"""been""","Brooklyn, NY, USA",FOL-1003
+"""been""","Chisinau, Moldova",FOL-1003
+"""been""","Baalbeck, Lebanon",FOL-1003
+"""been""","Antalya, Turkey",FOL-1003
+"""been""","Sarajevo, Bosnia and Herzegovina",FOL-1003
+"""been""","Mombasa, Kenya",FOL-1003
+"""been""","Prague, Czech Republic",FOL-1003
+"""been""","Kafue National Park, Zambia",FOL-1003
+"""been""","Umag, Croatia",FOL-1003
+"""been""","Bucharest, Romania",FOL-1003
+"""been""","Side, Turkey",FOL-1003
+"""been""","Kom Ombo, Egypt",FOL-1003
+"""been""","Hong Kong, China",FOL-1003
+"""been""","Butare, Rwanda",FOL-1003
+"""been""","Ahrenshoop, Germany",FOL-1003
+"""been""","Szczecin, Poland",FOL-1003
+"""been""","Niederfinow, Germany",FOL-1003
+"""been""","San Francisco, CA, USA",FOL-1003
+"""been""","Ibiza Town, Spain",FOL-1003
+"""been""","Malbork, Poland",FOL-1003
+"""been""","Dolceacqua, Italy",FOL-1003
+"""been""","Davis, CA, USA",FOL-1003
+"""been""","Champaign, IL, USA",FOL-1003
+"""been""","Cilaos, Reunion Island",FOL-1003
+"""been""","Port d'Andratx, Spain",FOL-1003
+"""been""","Poznan, Poland",FOL-1003
+"""been""","Gdansk, Poland",FOL-1003
+"""been""","Riga, Latvia",FOL-1003
+"""been""","Felixstowe, UK",FOL-1003
+"""been""","Zanzibar Island, Tanzania",FOL-1003
+"""been""","Moab, UT, USA",FOL-1003
+"""been""","Naples, FL, USA",FOL-1003
+"""been""","Islamorada, FL, USA",FOL-1003
+"""been""","Dublin, Ireland",FOL-1003
+"""been""","Fort Lauderdale, FL, USA",FOL-1003
+"""been""","Marathon, FL, USA",FOL-1003
+"""been""","Key Colony Beach, FL, USA",FOL-1003
+"""been""","Hawi, HI, USA",FOL-1003
+"""been""","Pakwach, Uganda",FOL-1003
+"""been""","Waimea, HI, USA",FOL-1003
+"""been""","Washington DC, DC, USA",FOL-1003
+"""been""","Le Puy-Sainte-Reparade, France",FOL-1003
+"""been""","Kato Gouves, Greece",FOL-1003
+"""been""","Dobrota, Montenegro",FOL-1003
+"""been""","Seelow, Germany",FOL-1003
+"""been""","Addis Ababa, Ethiopia",FOL-1003
+"""been""","Arusha, Tanzania",FOL-1003
+"""been""","Keutschach am See, Austria",FOL-1003
+"""been""","Arona, Spain",FOL-1003
+"""been""","Coba, Mexico",FOL-1003
+"""been""","Roppenheim, France",FOL-1003
+"""been""","Garching bei Munchen, Germany",FOL-1003
+"""been""","Poughkeepsie, NY, USA",FOL-1003
+"""been""","Sabrosa, Portugal",FOL-1003
+"""been""","Grindavik, Iceland",FOL-1003
+"""been""","Hella, Iceland",FOL-1003
+"""been""","Valladolid, Mexico",FOL-1003
+"""been""","Bellagio, Italy",FOL-1003
+"""been""","Como, Italy",FOL-1003
+"""been""","Sausalito, CA, USA",FOL-1003
+"""been""","Fincken, Germany",FOL-1003
+"""been""","Westfield, MA, USA",FOL-1003
+"""been""","Unterschleissheim, Germany",FOL-1003
+"""been""","Oberwesel, Germany",FOL-1003
+"""been""","Milan, Italy",FOL-1003
+"""been""","San Juan Teotihuacan, Mexico",FOL-1003
+"""been""","Santa Monica, CA, USA",FOL-1003
+"""been""","Savudrija, Croatia",FOL-1003
+"""been""","Usedom, Germany",FOL-1003
+"""been""","Glashutte, Germany",FOL-1003
+"""been""","Koenigswinter, Germany",FOL-1003
+"""been""","Gerolimenas, Greece",FOL-1003
+"""been""","Elmau, Germany",FOL-1003
+"""been""","Shinagawa, Japan",FOL-1003
+"""been""","Lagavulin, UK",FOL-1003
+"""been""","Djibouti, Djibouti",FOL-1003
+"""been""","Hohenems, Austria",FOL-1003
+"""been""","Palmyra, Syria",FOL-1003
+"""been""","Homs, Syria",FOL-1003
+"""been""","Watamu, Kenya",FOL-1003
+"""been""","Hilden, Germany",FOL-1003
+"""been""","Petrele, Albania",FOL-1003
+"""been""","Sevan, Armenia",FOL-1003
+"""been""","Vagharshapat, Armenia",FOL-1003
+"""been""","Le Crotoy, France",FOL-1003
+"""been""","Lake George, NY, USA",FOL-1003
+"""been"",""fave""","Kilimanjaro National Park, Tanzania",FOL-1003
+"""been""","Sitges, Spain",FOL-1003
+"""been""","Vilanova i la Geltru, Spain",FOL-1003
+"""been""","Serengeti National Park, Tanzania",FOL-1003
+"""been""","Straupitz, Germany",FOL-1003
+"""been""","Merano, Italy",FOL-1003
+"""been""","Ahangama, Sri Lanka",FOL-1003
+"""been""","Port Askaig, UK",FOL-1003
+"""been""","Tunis, Tunisia",FOL-1003
+"""been""","Port Charlotte, UK",FOL-1003
+"""been""","Llandovery, UK",FOL-1003
+"""been""","Andong, South Korea",FOL-1003
+"""been""","Bowmore, UK",FOL-1003
+"""been""","Altenberg, Germany",FOL-1003
+"""been""","Vila Franca do Campo, Portugal",FOL-1003
+"""been""","Port Ellen, UK",FOL-1003
+"""been""","Habarana, Sri Lanka",FOL-1003
+"""been""","Tarvisio, Italy",FOL-1003
+"""been""","Philadelphia, PA, USA",FOL-1003
+"""been""","Victoria Falls, Zimbabwe",FOL-1003
+"""been""","Helsinki, Finland",FOL-1003
+"""been""","Madrid, Spain",FOL-1003
+"""been""","Venice, Italy",FOL-1003
+"""been""","Schoneiche, Germany",FOL-1003
+"""been""","Medford, OR, USA",FOL-1003
+"""been""","Kapaau, HI, USA",FOL-1003
+"""been""","St. Albans, UK",FOL-1003
+"""been""","Cinigiano, Italy",FOL-1003
+"""been""","Uberlingen, Germany",FOL-1003
+"""been""","Grassy Key, FL, USA",FOL-1003
+"""been""","Bernau, Germany",FOL-1003
+"""been""","Canterbury, UK",FOL-1003
+"""been""","Sicily, Italy",FOL-1003
+"""been""","Dessau, Germany",FOL-1003
+"""been""","Pissouri, Cyprus",FOL-1003
+"""been""","Leipzig, Germany",FOL-1003
+"""been""","Samarkand, Uzbekistan",FOL-1003
+"""been""","Bethlehem, Palestinian Territories",FOL-1003
+"""been""","Llangollen, UK",FOL-1003
+"""been""","Camp De Mar, Spain",FOL-1003
+"""been""","Istanbul, Turkey",FOL-1003
+"""been""","Marrakech, Morocco",FOL-1003
+"""been""","Etretat, France",FOL-1003
+"""been""","Wittenberg, Germany",FOL-1003
+"""been""","Ostseebad Heiligendamm, Germany",FOL-1003
+"""been""","Duck Key, FL, USA",FOL-1003
+"""been""","Sounio, Greece",FOL-1003
+"""been""","Santa Eulalia del Rio, Spain",FOL-1003
+"""been""","Weil am Rhein, Germany",FOL-1003
+"""been""","Livingstone, Zambia",FOL-1003
+"""been""","Scaglieri, Italy",FOL-1003
+"""been""","Niagara Falls, Ontario, Canada",FOL-1003
+"""been""","Kiel, Germany",FOL-1003
+"""been""","Jerusalem, Israel",FOL-1003
+"""been""","Dambulla, Sri Lanka",FOL-1003
+"""been""","Pisa, Italy",FOL-1003
+"""been""","Taormina, Italy",FOL-1003
+"""been"",""fave""","Florence, Italy",FOL-1003
+"""been""","Jerash, Jordan",FOL-1003
+"""been""","Dar es Salaam, Tanzania",FOL-1003
+"""been""","Tiraspol, Moldova",FOL-1003
+"""been""","Tel Aviv, Israel",FOL-1003
+"""been""","Amman, Jordan",FOL-1003
+"""been""","Erkrath, Germany",FOL-1003
+"""been""","Tegernsee, Germany",FOL-1003
+"""been"",""fave""","Bad Doberan, Germany",FOL-1003
+"""been""","Lubben, Germany",FOL-1003
+"""been""","Rottach-Egern, Germany",FOL-1003
+"""been""","Burton upon Trent, UK",FOL-1003
+"""been""","Reykjavik, Iceland",FOL-1003
+"""been""","Rome, Italy",FOL-1003
+"""been""","Islay, UK",FOL-1003
+"""been""","Pompeii, Italy",FOL-1003
+"""been""","Taito, Japan",FOL-1003
+"""been""","Weimar, Germany",FOL-1003
+"""been""","Sorrento, Italy",FOL-1003
+"""been""","Mittenwald, Germany",FOL-1003
+"""been""","Naples, Italy",FOL-1003
+"""been""","Montenegro, Colombia",FOL-1003
+"""been""","Monteverde Cloud Forest Reserve, Costa Rica",FOL-1003
+"""been""","London, UK",FOL-1003
+"""been""","Manuel Antonio, Costa Rica",FOL-1003
+"""been""","Seebad Heringsdorf, Germany",FOL-1003
+"""been"",""fave""","Munich, Germany",FOL-1003
+"""been""","Tokmok, Kyrgyzstan",FOL-1003
+"""been"",""fave""","Siwa, Egypt",FOL-1003
+"""been""","Markgroeningen, Germany",FOL-1003
+"""been""","Tokyo, Japan",FOL-1003
+"""been""","Brussels, Belgium",FOL-1003
+"""been""","Karakol, Kyrgyzstan",FOL-1003
+"""been""","Vatican City, Vatican City",FOL-1003
+"""been""","Chernobyl, Ukraine",FOL-1003
+"""been""","Cadenabbia di Griante, Italy",FOL-1003
+"""been""","Stockholm, Sweden",FOL-1003
+"""been""","Tashkent, Uzbekistan",FOL-1003
+"""been""","Kampala, Uganda",FOL-1003
+"""been""","Lusaka, Zambia",FOL-1003
+"""been""","San Jose, Costa Rica",FOL-1003
+"""been""","Richmond, UK",FOL-1003
+"""been""","Mauritius, Africa",FOL-1003
+"""been""","Sandton, South Africa",FOL-1003
+"""been""","Potsdam, Germany",FOL-1003
+"""been""","Beit Sahour, Palestinian Territories",FOL-1003
+"""been""","Woodstock, UK",FOL-1003
+"""been""","Uzgen, Kyrgyzstan",FOL-1003
+"""been""","Chiyoda, Japan",FOL-1003
+"""been""","Chuo, Japan",FOL-1003
+"""been"",""fave""","Berlin, Germany",FOL-1003
+"""been""","Johannesburg, South Africa",FOL-1003
+"""been""","Newquay, UK",FOL-1003
+"""been""","Koto, Japan",FOL-1003
+"""been""","Yerevan, Armenia",FOL-1003
+"""been""","Bad Nauheim, Germany",FOL-1003
+"""been""","Bishkek, Kyrgyzstan",FOL-1003
+"""been""","Asperg, Germany",FOL-1003
+"""been"",""fave""","Kigali, Rwanda",FOL-1003
+"""been""","Ibiza, Spain",FOL-1003
+"""been""","Bruges, Belgium",FOL-1003
+"""been""","Saturnia, Italy",FOL-1003
+"""been""","Folkestone, UK",FOL-1003
+"""been""","Atlantic City, NJ, USA",FOL-1003
+"""been""","Bath, UK",FOL-1003
+"""been""","Bergen, Norway",FOL-1003
+"""been""","Darmstadt, Germany",FOL-1003
+"""been""","Frankfurt, Germany",FOL-1003
+"""been""","Minato, Japan",FOL-1003
+"""been""","Ashland, OR, USA",FOL-1003
+"""been""","Bad Saarow, Germany",FOL-1003
+"""been""","Hamburg, Germany",FOL-1003
+"""been""","Arles, France",FOL-1003
+"""been""","Apricale, Italy",FOL-1003
+"""been""","Niagara Falls, NY, USA",FOL-1003
+"""been""","Mtwapa, Kenya",FOL-1003
+"""been""","Peenemunde, Germany",FOL-1003
+"""been""","Baikonur, Kazakhstan",FOL-1003
+"""been""","Phnom Penh, Cambodia",FOL-1003
+"""been""","St. George's, Grenada",FOL-1003
+"""been""","Grenada, Caribbean",FOL-1003
+"""been""","Kreuth, Germany",FOL-1003
+"""been""","Bangkok, Thailand",FOL-1003
+"""been""","Park City, UT, USA",FOL-1003
+"""been""","Wirsberg, Germany",FOL-1003
+"""been""","Chiang Mai, Thailand",FOL-1003
+"""been""","Costa Teguise, Spain",FOL-1003
+"""been""","Porto Kagio, Greece",FOL-1003
+"""been""","Punta Cana, Dominican Republic",FOL-1003
+"""been""","La Romana, Dominican Republic",FOL-1003
+"""been""","Fuerteventura, Spain",FOL-1003
+"""been""","Wiesbaden, Germany",FOL-1003
+"""been""","Tudela, Spain",FOL-1003
+"""been""","Porto Kayio, Greece",FOL-1003
+"""been""","Palma de Mallorca, Spain",FOL-1003
+"""been""","Athens, Greece",FOL-1003
+"""been""","Bad Gottleuba, Germany",FOL-1003
+"""been""","Mersea Island, UK",FOL-1003
+"""been""","Dornbirn, Austria",FOL-1003
+"""been""","New World Island, Newfoundland and Labrador, Canada",FOL-1003
+"""been""","Peso Da Regua, Portugal",FOL-1003
+"""been""","Voiron, France",FOL-1003
+"""been""","Tripoli, Libya",FOL-1003
+"""been""","Arta, Djibouti",FOL-1003
+"""been""","Rostock, Germany",FOL-1003
+"""been""","Copenhagen, Denmark",FOL-1003
+"""been""","Seebad Ahlbeck, Germany",FOL-1003
+"""been""","Monte-Carlo, Monaco",FOL-1003
+"""been""","Playa San Juan, Spain",FOL-1003
+"""been""","Brighton, UK",FOL-1003
+"""been""","Roquebrune-Cap-Martin, France",FOL-1003
+"""been""","Tenerife, Spain",FOL-1003
+"""been""","Woodbridge, UK",FOL-1003
+"""been""","Agios Nikolaos, Greece",FOL-1003
+"""been""","Heraklion, Greece",FOL-1003
+"""been""","Elounda, Greece",FOL-1003
+"""been""","Rose Hall, Jamaica",FOL-1003
+"""been""","Lipany, Slovakia",FOL-1003
+"""been""","Geiranger, Norway",FOL-1003
+"""been""","Ho Chi Minh City, Vietnam",FOL-1003
+"""been""","Hanoi, Vietnam",FOL-1003
+"""been""","Kingston upon Thames, UK",FOL-1003
+"""been""","Ludwigsburg, Germany",FOL-1003
+"""been""","Farnham, UK",FOL-1003
+"""been""","Cologne, Germany",FOL-1003
+"""been""","Dortmund, Germany",FOL-1003
+"""been""","Dusseldorf, Germany",FOL-1003
+"""been""","Domodedovo, Russia",FOL-1003
+"""been""","Sanremo, Italy",FOL-1003
+"""been""","Bonn, Germany",FOL-1003
+"""been""","Grand Anse, Grenada",FOL-1003
+"""been""","Lymington, UK",FOL-1003
+"""been""","Warnemunde, Germany",FOL-1003
+"""been""","Aachen, Germany",FOL-1003
+"""been""","Aqaba, Jordan",FOL-1003
+"""been""","Bamberg, Germany",FOL-1003
+"""been""","Santo Domingo, Dominican Republic",FOL-1003
+"""been""","Muenster, Germany",FOL-1003
+"""been""","Moscow, Russia",FOL-1003
+"""been""","Grenoble, France",FOL-1003
+"""been""","Amsterdam, The Netherlands",FOL-1003
+"""been""","Siem Reap, Cambodia",FOL-1003
+"""been""","Palm Springs, CA, USA",FOL-1003
+"""been""","Barcelona, Spain",FOL-1003
+"""been""","Hapcheon-Gun, South Korea",FOL-1003
+"""been""","Yangsan, South Korea",FOL-1003
+"""been""","Gonder, Ethiopia",FOL-1003
+"""been""","Osh, Kyrgyzstan",FOL-1003
+"""been""","Santa Marta, Colombia",FOL-1003
+"""been""","Victoria, Seychelles",FOL-1003
+"""been""","Nimes, France",FOL-1003
+"""been""","Koblenz, Germany",FOL-1003
+"""been""","Jinja, Uganda",FOL-1003
+"""been""","Stromboli, Italy",FOL-1003
+"""been""","Cartagena, Colombia",FOL-1003
+"""been""","Zurich, Switzerland",FOL-1003
+"""been""","Kyoto, Japan",FOL-1003
+"""been""","Paris, France",FOL-1003
+"""been""","Vinay, France",FOL-1003
+"""been""","Malibu, CA, USA",FOL-1003
+"""been""","Bridgetown, Barbados",FOL-1003
+"""been""","Portrush, UK",FOL-1003
+"""been""","Paju, South Korea",FOL-1003
+"""been""","Ostbevern, Germany",FOL-1003
+"""been""","Heidelberg, Germany",FOL-1003
+"""been""","St. Vincent, St. Vincent and the Grenadines",FOL-1003
+"""been""","Bregenz, Austria",FOL-1003
+"""been""","Valletta, Malta",FOL-1003
+"""been""","Torrelavit, Spain",FOL-1003
+"""been""","Koita, Greece",FOL-1003
+"""been""","Mazara del Vallo, Italy",FOL-1003
+"""been""","Uzes, France",FOL-1003
+"""been""","Baden-Baden, Germany",FOL-1003
+"""been""","Salzburg, Austria",FOL-1003
+"""been""","Bushmills, UK",FOL-1003
+"""been""","Dixon, CA, USA",FOL-1003
+"""been""","Praia da Vitoria, Portugal",FOL-1003
+"""been""","Mill Valley, CA, USA",FOL-1003
+"""been""","Bayreuth, Germany",FOL-1003
+"""been""","Las Vegas, NV, USA",FOL-1003
+"""been""","Bogota, Colombia",FOL-1003
+"""been""","Basingstoke, UK",FOL-1003
+"""been""","Tbilisi, Georgia",FOL-1003
+"""been""","Algarve, Portugal",FOL-1003
+"""been""","Menaggio, Italy",FOL-1003
+"""been""","Stuttgart, Germany",FOL-1003
+"""been""","Ruhengeri, Rwanda",FOL-1003
+"""been""","Chicago, IL, USA",FOL-1003
+"""been""","Marina di Campo, Italy",FOL-1003
+"""been""","Los Angeles, CA, USA",FOL-1003
+"""been""","Yaliciftlik, Turkey",FOL-1003
+"""been""","Richmond-upon-Thames, UK",FOL-1003
+"""been""","Vienna, Austria",FOL-1003
+"""been""","Alexandria, Egypt",FOL-1003
+"""been""","Karlsruhe, Germany",FOL-1003
+"""been""","Jamestown, CA, USA",FOL-1003
+"""been""","Gierloz, Poland",FOL-1003
+"""been""","Paris, TX, USA",FOL-1003
+"""been""","Oludeniz, Turkey",FOL-1003
+"""been""","Lagoa, Portugal",FOL-1003
+"""been""","Sagres, Portugal",FOL-1003
+"""been""","Roppongi, Japan",FOL-1003
+"""been""","Hiroshima, Japan",FOL-1003
+"""been""","Marciana, Italy",FOL-1003
+"""been""","Marina di Grosseto, Italy",FOL-1003
+"""been""","Groombridge, UK",FOL-1003
+"""been""","Saint Julian's, Malta",FOL-1003
+"""been""","Gulu, Uganda",FOL-1003
+"""been""","Seoul, South Korea",FOL-1003
+"""been""","Napa, CA, USA",FOL-1003
+"""been""","Berchtesgaden, Germany",FOL-1003
+"""been""","Masindi, Uganda",FOL-1003
+"""been""","Salt Lake City, UT, USA",FOL-1003
+"""been""","La Fortuna de San Carlos, Costa Rica",FOL-1003
+"""been""","New Haven, CT, USA",FOL-1003
+"""been""","Alajuela, Costa Rica",FOL-1003
+"""been""","Murchison Falls National Park, Uganda",FOL-1003
+"""been""","Cholpon Ata, Kyrgyzstan",FOL-1003
+"""been""","Koestenberg, Austria",FOL-1003
+"""been""","Elciego, Spain",FOL-1003
+"""been""","Sao Miguel, Portugal",FOL-1003
+"""been""","Guia de Isora, Spain",FOL-1003
+"""been""","Gori, Georgia",FOL-1003
+"""been""","Kotor, Montenegro",FOL-1003
+"""been""","Pueblo Tapao, Colombia",FOL-1003
+"""been""","Riezlern, Austria",FOL-1003
+"""been""","Solna, Sweden",FOL-1003
+"""been""","Boeun-gun, South Korea",FOL-1003
+"""been""","Oslo, Norway",FOL-1003
+"""been""","Mahe Island, Seychelles",FOL-1003
+"""been""","Sharm El Sheikh, Egypt",FOL-1003
+"""been""","Luxembourg City, Luxembourg",FOL-1003
+"""been""","Bagaces, Costa Rica",FOL-1003
+"""been""","Amarante, Portugal",FOL-1003
+"""been""","Kampong Thom, Cambodia",FOL-1003
+"""been""","Soufriere, St. Lucia",FOL-1003
+"""been""","St. Lucia, Caribbean",FOL-1003
+"""been""","Capoliveri, Italy",FOL-1003
+"""been""","Bukhara, Uzbekistan",FOL-1003
+"""been""","Yangyang-gun, South Korea",FOL-1003
+"""been""","Bodrum City, Turkey",FOL-1003
+"""been""","Khasab, Oman",FOL-1003
+"""been""","Castellabate, Italy",FOL-1003
+"""been""","Patara, Turkey",FOL-1003
+"""been""","Terceira, Portugal",FOL-1003
+"""been""","Ponta Delgada, Portugal",FOL-1003
+"""been""","Angra do Heroismo, Portugal",FOL-1003
+"""been""","Pristina, Kosovo",FOL-1003
+"""been""","Chorin, Germany",FOL-1003
+"""been""","Orhei, Moldova",FOL-1003
+"""been"",""fave""","Montego Bay, Jamaica",FOL-1003
+"""been""","Portoferraio, Italy",FOL-1003
+"""been""","Cascais, Portugal",FOL-1003
+"""been""","Lucerne, Switzerland",FOL-1003
+"""been""","Ludwikowice Klodzkie, Poland",FOL-1003
+"""been""","Belem, Portugal",FOL-1003
+"""been""","Debre Libanos, Ethiopia",FOL-1003
+"""been""","Can Tho, Vietnam",FOL-1003
+"""been""","Berlin, OH, USA",FOL-1003
+"""been""","Negombo, Sri Lanka",FOL-1003
+"""been""","La Jolla, CA, USA",FOL-1003
+"""been""","Orlando, FL, USA",FOL-1003
+"""been""","Geneva, Switzerland",FOL-1003
+"""been""","Singapore, Singapore",FOL-1003
+"""been""","Skopje, Republic of North Macedonia",FOL-1003
+"""been""","Hirschegg, Austria",FOL-1003
+"""been""","Huye, Rwanda",FOL-1003
+"""been""","Earth, TX, USA",FOL-1003
+"""been""","Ospedaletti, Italy",FOL-1003
+"""been""","St. Petersburg, Russia",FOL-1003
+"""been""","Cricova, Moldova",FOL-1003
+"""been""","Gelemis, Turkey",FOL-1003
+"""been""","San Juan, Puerto Rico",FOL-1003
+"""been""","Funchal, Portugal",FOL-1003
+"""been""","Porto Azzurro, Italy",FOL-1003
+"""been""","Castiglione Della Pescaia, Italy",FOL-1003
+"""been""","Porto Ercole, Italy",FOL-1003
+"""been""","Utica, IL, USA",FOL-1003
+"""been""","Lalibela, Ethiopia",FOL-1003
+"""been""","Antigua, Guatemala",FOL-1003
+"""been""","Urbana, IL, USA",FOL-1003
+"""been""","Bahir Dar, Ethiopia",FOL-1003
+"""been""","Lisbon, Portugal",FOL-1003
+"""been""","Deal, UK",FOL-1003
+"""been""","Costa Adeje, Spain",FOL-1003
+"""been""","Abu Simbel, Egypt",FOL-1003
+"""been""","Tortuguero, Costa Rica",FOL-1003
+"""been"",""fave""","Nicosia, Cyprus",FOL-1003
+"""been""","Limassol City, Cyprus",FOL-1003
+"""been""","Hurghada, Egypt",FOL-1003

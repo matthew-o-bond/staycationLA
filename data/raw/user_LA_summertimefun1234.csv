@@ -1,0 +1,459 @@
+tag,place,user
+"""want""","Oludeniz, Turkey",summertimefun1234
+"""want""","Guam, Mariana Islands",summertimefun1234
+"""want""","Santa Barbara, CA, USA",summertimefun1234
+"""want""","Memphis, TN, USA",summertimefun1234
+"""want""","Milan, Italy",summertimefun1234
+"""want""","Puerto Vallarta, Mexico",summertimefun1234
+"""want""","Banff, Alberta, Canada",summertimefun1234
+"""want""","Providenciales, Turks and Caicos",summertimefun1234
+"""been"",""want""","Beverly Hills, CA, USA",summertimefun1234
+"""want""","Buenos Aires, Argentina",summertimefun1234
+"""want""","Guadalajara, Mexico",summertimefun1234
+"""want""","Tumon, Mariana Islands",summertimefun1234
+"""been""","Jackson, NH, USA",summertimefun1234
+"""want""","Havana, Cuba",summertimefun1234
+"""been""","Philadelphia, PA, USA",summertimefun1234
+"""want""","Bora Bora, French Polynesia",summertimefun1234
+"""want""","Edinburgh, UK",summertimefun1234
+"""want""","San Pedro, Belize",summertimefun1234
+"""been""","South Bend, IN, USA",summertimefun1234
+"""want""","Narragansett, RI, USA",summertimefun1234
+"""want""","Cocoa Beach, FL, USA",summertimefun1234
+"""want""","Clearwater, FL, USA",summertimefun1234
+"""been"",""want""","Santa Monica, CA, USA",summertimefun1234
+"""want""","Skibbereen, Ireland",summertimefun1234
+"""want""","Santo Domingo, Dominican Republic",summertimefun1234
+"""been""","Middletown, RI, USA",summertimefun1234
+"""been""","Hampton, NH, USA",summertimefun1234
+"""want""","Southampton, NY, USA",summertimefun1234
+"""want""","Roseau, Dominica",summertimefun1234
+"""want""","Puerto Del Carmen, Spain",summertimefun1234
+"""been""","Lincoln, NH, USA",summertimefun1234
+"""been""","Westford, MA, USA",summertimefun1234
+"""been""","Weston, MA, USA",summertimefun1234
+"""want""","Taipei, Taiwan",summertimefun1234
+"""want""","Bangkok, Thailand",summertimefun1234
+"""been""","Cambridge, MA, USA",summertimefun1234
+"""want""","Rockport, ME, USA",summertimefun1234
+"""been""","Sherborn, MA, USA",summertimefun1234
+"""been""","Weymouth, MA, USA",summertimefun1234
+"""been""","Westwood, MA, USA",summertimefun1234
+"""been""","Woodstock, VT, USA",summertimefun1234
+"""want""","Atlanta, GA, USA",summertimefun1234
+"""want""","Puerto Plata, Dominican Republic",summertimefun1234
+"""been""","Lowell, MA, USA",summertimefun1234
+"""want""","Cabo San Lucas, Mexico",summertimefun1234
+"""want""","La Romana, Dominican Republic",summertimefun1234
+"""want""","San Jose del Cabo, Mexico",summertimefun1234
+"""want""","South Lake Tahoe, CA, USA",summertimefun1234
+"""want""","Portland, ME, USA",summertimefun1234
+"""want""","Phuket, Thailand",summertimefun1234
+"""want""","Hanoi, Vietnam",summertimefun1234
+"""want""","Antananarivo, Madagascar",summertimefun1234
+"""want""","Vancouver, British Columbia, Canada",summertimefun1234
+"""been""","Westborough, MA, USA",summertimefun1234
+"""been""","Sandwich, MA, USA",summertimefun1234
+"""want""","Whistler, British Columbia, Canada",summertimefun1234
+"""want""","Waterville Valley, NH, USA",summertimefun1234
+"""been""","Merrimack, NH, USA",summertimefun1234
+"""want""","Cape Town Central, South Africa",summertimefun1234
+"""want""","Benidorm, Spain",summertimefun1234
+"""want""","Playas del Coco, Costa Rica",summertimefun1234
+"""been""","Delray Beach, FL, USA",summertimefun1234
+"""been""","Newton, MA, USA",summertimefun1234
+"""been""","Woburn, MA, USA",summertimefun1234
+"""been"",""want""","Newburyport, MA, USA",summertimefun1234
+"""want""","Valencia, Spain",summertimefun1234
+"""want""","Mauritius, Africa",summertimefun1234
+"""want""","St. Lawrence Gap, Barbados",summertimefun1234
+"""been""","Worcester, MA, USA",summertimefun1234
+"""been""","Wrentham, MA, USA",summertimefun1234
+"""want""","Bangor, ME, USA",summertimefun1234
+"""been""","Norfolk, MA, USA",summertimefun1234
+"""been""","Washington DC, DC, USA",summertimefun1234
+"""been""","Schenectady, NY, USA",summertimefun1234
+"""want""","Florence, Italy",summertimefun1234
+"""been""","Manchester, NH, USA",summertimefun1234
+"""want""","Bretton Woods, NH, USA",summertimefun1234
+"""want""","Pisa, Italy",summertimefun1234
+"""want""","Windhoek, Namibia",summertimefun1234
+"""been""","Somerville, MA, USA",summertimefun1234
+"""been""","Wilmington, MA, USA",summertimefun1234
+"""want""","Kigali, Rwanda",summertimefun1234
+"""want""","Puerto Aventuras, Mexico",summertimefun1234
+"""been""","Winchester, MA, USA",summertimefun1234
+"""want""","Saint Julian's, Malta",summertimefun1234
+"""want""","Meredith, NH, USA",summertimefun1234
+"""been""","North Conway, NH, USA",summertimefun1234
+"""want""","Glasgow, UK",summertimefun1234
+"""been""","Dover, NH, USA",summertimefun1234
+"""want""","Marsa Alam, Egypt",summertimefun1234
+"""been""","Biddeford, ME, USA",summertimefun1234
+"""been""","North Easton, MA, USA",summertimefun1234
+"""been""","Haverhill, MA, USA",summertimefun1234
+"""been""","Stoneham, MA, USA",summertimefun1234
+"""been""","Stow, MA, USA",summertimefun1234
+"""want""","Halifax, Nova Scotia, Canada",summertimefun1234
+"""been""","Holliston, MA, USA",summertimefun1234
+"""been""","Sudbury, MA, USA",summertimefun1234
+"""want""","Friendship, ME, USA",summertimefun1234
+"""been""","Durham, NH, USA",summertimefun1234
+"""want""","Venice, Italy",summertimefun1234
+"""want""","Mount Washington, NH, USA",summertimefun1234
+"""want""","Inverness, UK",summertimefun1234
+"""want""","Helsinki, Finland",summertimefun1234
+"""been""","New Castle, NH, USA",summertimefun1234
+"""want""","Colombo, Sri Lanka",summertimefun1234
+"""been""","Concord, NH, USA",summertimefun1234
+"""want""","Playa Blanca, Spain",summertimefun1234
+"""want""","Madrid, Spain",summertimefun1234
+"""been""","North Andover, MA, USA",summertimefun1234
+"""want""","Virginia Beach, VA, USA",summertimefun1234
+"""want""","Big Sur, CA, USA",summertimefun1234
+"""want""","Puerto Morelos, Mexico",summertimefun1234
+"""been""","Harvard, MA, USA",summertimefun1234
+"""been""","Erie, PA, USA",summertimefun1234
+"""been""","Southborough, MA, USA",summertimefun1234
+"""been""","York Beach, ME, USA",summertimefun1234
+"""want""","Tokyo, Japan",summertimefun1234
+"""been""","York Harbor, ME, USA",summertimefun1234
+"""want""","Seville, Spain",summertimefun1234
+"""been""","Lake Placid, NY, USA",summertimefun1234
+"""been""","Acton, MA, USA",summertimefun1234
+"""want""","Berlin, Germany",summertimefun1234
+"""been""","Niagara Falls, NY, USA",summertimefun1234
+"""been""","Exeter, NH, USA",summertimefun1234
+"""want""","Krakow, Poland",summertimefun1234
+"""want""","Marrakech, Morocco",summertimefun1234
+"""been""","Norwood, MA, USA",summertimefun1234
+"""been""","Amesbury, MA, USA",summertimefun1234
+"""want""","Istanbul, Turkey",summertimefun1234
+"""want""","Columbus, OH, USA",summertimefun1234
+"""want""","Santa Maria, Cape Verde",summertimefun1234
+"""been""","Lancaster, MA, USA",summertimefun1234
+"""been""","Niagara Falls, Ontario, Canada",summertimefun1234
+"""been""","Lawrence, MA, USA",summertimefun1234
+"""been""","Wakefield, MA, USA",summertimefun1234
+"""want""","Sassofeltrio, Italy",summertimefun1234
+"""want""","Morro de Sao Paulo, Brazil",summertimefun1234
+"""want""","Oak Bluffs, MA, USA",summertimefun1234
+"""been""","Andover, MA, USA",summertimefun1234
+"""want""","Budapest, Hungary",summertimefun1234
+"""been""","Arlington, MA, USA",summertimefun1234
+"""want""","Eilat, Israel",summertimefun1234
+"""want""","Aberdeen, UK",summertimefun1234
+"""want""","Frankfurt, Germany",summertimefun1234
+"""want""","Jerusalem, Israel",summertimefun1234
+"""been""","Ashland, MA, USA",summertimefun1234
+"""want""","Haifa, Israel",summertimefun1234
+"""been""","Hopkinton, MA, USA",summertimefun1234
+"""been""","Hudson, MA, USA",summertimefun1234
+"""want""","Dar es Salaam, Tanzania",summertimefun1234
+"""want""","General Santos, Philippines",summertimefun1234
+"""been""","Northborough, MA, USA",summertimefun1234
+"""been""","Tewksbury, MA, USA",summertimefun1234
+"""want""","Hyannis, MA, USA",summertimefun1234
+"""been""","Cleveland, OH, USA",summertimefun1234
+"""been""","Ipswich, MA, USA",summertimefun1234
+"""been""","Truro, MA, USA",summertimefun1234
+"""want""","Hopkins, Belize",summertimefun1234
+"""want""","Grand Anse, Grenada",summertimefun1234
+"""want""","Palma de Mallorca, Spain",summertimefun1234
+"""want""","Cannes, France",summertimefun1234
+"""want""","Majorca, Spain",summertimefun1234
+"""want""","Pompeii, Italy",summertimefun1234
+"""been""","State College, PA, USA",summertimefun1234
+"""want""","Rotterdam, The Netherlands",summertimefun1234
+"""been""","Ayer, MA, USA",summertimefun1234
+"""want""","Nantucket, MA, USA",summertimefun1234
+"""want""","Liverpool, UK",summertimefun1234
+"""want""","London, UK",summertimefun1234
+"""want""","Munich, Germany",summertimefun1234
+"""want""","Jackson, WY, USA",summertimefun1234
+"""been""","Plymouth, MA, USA",summertimefun1234
+"""been""","Manchester-by-the-Sea, MA, USA",summertimefun1234
+"""want""","Costa Teguise, Spain",summertimefun1234
+"""want""","Oia, Greece",summertimefun1234
+"""been""","Wellesley, MA, USA",summertimefun1234
+"""want""","Reykjavik, Iceland",summertimefun1234
+"""want""","Rome, Italy",summertimefun1234
+"""been""","Lynn, MA, USA",summertimefun1234
+"""want""","Plum Island, MA, USA",summertimefun1234
+"""want""","Bristol, UK",summertimefun1234
+"""want""","Gilford, NH, USA",summertimefun1234
+"""want""","Brussels, Belgium",summertimefun1234
+"""want""","Stockholm, Sweden",summertimefun1234
+"""been""","Glen, NH, USA",summertimefun1234
+"""want""","Malaga, Spain",summertimefun1234
+"""want""","Victoria Falls, Zimbabwe",summertimefun1234
+"""been""","Danvers, MA, USA",summertimefun1234
+"""want""","Ao Nang, Thailand",summertimefun1234
+"""want""","Chaweng, Thailand",summertimefun1234
+"""been""","Dedham, MA, USA",summertimefun1234
+"""been""","Peabody, MA, USA",summertimefun1234
+"""been""","Lexington, MA, USA",summertimefun1234
+"""been""","Devens, MA, USA",summertimefun1234
+"""been""","Lincoln, MA, USA",summertimefun1234
+"""been""","Watertown, MA, USA",summertimefun1234
+"""been""","Dennis Port, MA, USA",summertimefun1234
+"""been""","Littleton, MA, USA",summertimefun1234
+"""been""","Wayland, MA, USA",summertimefun1234
+"""been""","Cary, NC, USA",summertimefun1234
+"""been""","Waltham, MA, USA",summertimefun1234
+"""been""","Ogunquit, ME, USA",summertimefun1234
+"""want""","Belfast, UK",summertimefun1234
+"""want""","Old Orchard Beach, ME, USA",summertimefun1234
+"""want""","Camden, ME, USA",summertimefun1234
+"""want""","Granada, Spain",summertimefun1234
+"""want""","Torremolinos, Spain",summertimefun1234
+"""want""","Dallas, TX, USA",summertimefun1234
+"""been""","Albany, NY, USA",summertimefun1234
+"""been""","Hartford, CT, USA",summertimefun1234
+"""been""","South Hampton, NH, USA",summertimefun1234
+"""want""","Warsaw, Poland",summertimefun1234
+"""been""","Mendon, MA, USA",summertimefun1234
+"""been""","Methuen, MA, USA",summertimefun1234
+"""want""","Edgartown, MA, USA",summertimefun1234
+"""want""","Rockport, MA, USA",summertimefun1234
+"""want""","Cologne, Germany",summertimefun1234
+"""been""","Medford, MA, USA",summertimefun1234
+"""been""","Medfield, MA, USA",summertimefun1234
+"""been""","Melrose, MA, USA",summertimefun1234
+"""want""","Marseille, France",summertimefun1234
+"""want""","Charlotte, NC, USA",summertimefun1234
+"""want""","Barcelona, Spain",summertimefun1234
+"""want""","Santorini, Greece",summertimefun1234
+"""been""","Revere, MA, USA",summertimefun1234
+"""been""","Kittery, ME, USA",summertimefun1234
+"""been""","Maynard, MA, USA",summertimefun1234
+"""want""","Amsterdam, The Netherlands",summertimefun1234
+"""want""","Ajaccio, France",summertimefun1234
+"""been""","Marlborough, MA, USA",summertimefun1234
+"""been""","Reading, MA, USA",summertimefun1234
+"""been""","Kennebunkport, ME, USA",summertimefun1234
+"""want""","Long Bay Beach, Turks and Caicos",summertimefun1234
+"""want""","Accra, Ghana",summertimefun1234
+"""want""","Wailea, HI, USA",summertimefun1234
+"""been""","Franklin, MA, USA",summertimefun1234
+"""been""","Needham, MA, USA",summertimefun1234
+"""been""","Natick, MA, USA",summertimefun1234
+"""been""","Bedford, MA, USA",summertimefun1234
+"""been""","Belmont, MA, USA",summertimefun1234
+"""been""","Bellingham, MA, USA",summertimefun1234
+"""been""","Corolla, NC, USA",summertimefun1234
+"""been""","Framingham, MA, USA",summertimefun1234
+"""been""","Foxborough, MA, USA",summertimefun1234
+"""want""","Nice, France",summertimefun1234
+"""want""","Crete, Greece",summertimefun1234
+"""want""","Turtle Cove, Turks and Caicos",summertimefun1234
+"""want""","Hua Hin, Thailand",summertimefun1234
+"""want""","Tenerife, Spain",summertimefun1234
+"""want""","Prague, Czech Republic",summertimefun1234
+"""want""","Lloret de Mar, Spain",summertimefun1234
+"""want""","Hobart, Australia",summertimefun1234
+"""been""","Millis, MA, USA",summertimefun1234
+"""been""","Milton, MA, USA",summertimefun1234
+"""been""","Fitchburg, MA, USA",summertimefun1234
+"""want""","Brighton, UK",summertimefun1234
+"""want""","New Delhi, India",summertimefun1234
+"""want""","Patong, Thailand",summertimefun1234
+"""been""","Bloomfield, CT, USA",summertimefun1234
+"""want""","Vienna, Austria",summertimefun1234
+"""been""","Mystic, CT, USA",summertimefun1234
+"""want""","Guatemala City, Guatemala",summertimefun1234
+"""want""","Santiago, Chile",summertimefun1234
+"""want""","Quito, Ecuador",summertimefun1234
+"""been""","Brewster, MA, USA",summertimefun1234
+"""want""","Brisbane, Australia",summertimefun1234
+"""want""","Guantanamo, Cuba",summertimefun1234
+"""want""","Sydney, Australia",summertimefun1234
+"""want""","Oahu, HI, USA",summertimefun1234
+"""want""","Algarve, Portugal",summertimefun1234
+"""want""","Napa, CA, USA",summertimefun1234
+"""been""","Westport, CT, USA",summertimefun1234
+"""want""","Hammamet, Tunisia",summertimefun1234
+"""want""","San Andres, Colombia",summertimefun1234
+"""want""","Costa Adeje, Spain",summertimefun1234
+"""want""","Pittsburgh, PA, USA",summertimefun1234
+"""want""","Cusco, Peru",summertimefun1234
+"""want""","Long Beach, CA, USA",summertimefun1234
+"""been""","Newington, CT, USA",summertimefun1234
+"""been""","Canton, CT, USA",summertimefun1234
+"""been""","Westbrook, CT, USA",summertimefun1234
+"""been""","West Hartford, CT, USA",summertimefun1234
+"""want""","Roatan, Honduras",summertimefun1234
+"""want""","Lima, Peru",summertimefun1234
+"""want""","Akumal, Mexico",summertimefun1234
+"""been""","Bourne, MA, USA",summertimefun1234
+"""want""","Corralejo, Spain",summertimefun1234
+"""been""","Gloucester, MA, USA",summertimefun1234
+"""been""","Billerica, MA, USA",summertimefun1234
+"""want""","Portland, OR, USA",summertimefun1234
+"""want""","Chicago, IL, USA",summertimefun1234
+"""been"",""want""","Los Angeles, CA, USA",summertimefun1234
+"""want""","Auckland, New Zealand",summertimefun1234
+"""want""","Paris, France",summertimefun1234
+"""want""","Cairo, Egypt",summertimefun1234
+"""want""","Rhodes, Greece",summertimefun1234
+"""want""","Giza, Egypt",summertimefun1234
+"""want""","Nairobi, Kenya",summertimefun1234
+"""been""","Clinton, CT, USA",summertimefun1234
+"""been""","Wethersfield, CT, USA",summertimefun1234
+"""been""","Duck, NC, USA",summertimefun1234
+"""want""","Sliema, Malta",summertimefun1234
+"""want""","Nadi, Fiji",summertimefun1234
+"""want""","Dubai, United Arab Emirates",summertimefun1234
+"""want""","Beijing, China",summertimefun1234
+"""want""","Saint Augustine Beach, FL, USA",summertimefun1234
+"""want""","Mykonos Town, Greece",summertimefun1234
+"""want""","Side, Turkey",summertimefun1234
+"""been""","Arlington, VA, USA",summertimefun1234
+"""been""","Canton, MA, USA",summertimefun1234
+"""been""","Brockton, MA, USA",summertimefun1234
+"""want""","Annapolis, MD, USA",summertimefun1234
+"""been""","Las Vegas, NV, USA",summertimefun1234
+"""been""","Burlington, MA, USA",summertimefun1234
+"""want""","Glacier National Park, MT, USA",summertimefun1234
+"""been""","Concord, MA, USA",summertimefun1234
+"""been""","Pawtucket, RI, USA",summertimefun1234
+"""want""","Runda, Tanzania",summertimefun1234
+"""want""","Cozumel, Mexico",summertimefun1234
+"""want""","Cancun, Mexico",summertimefun1234
+"""want""","Lisbon, Portugal",summertimefun1234
+"""want""","Managua, Nicaragua",summertimefun1234
+"""want""","Charlottetown, Prince Edward Island, Canada",summertimefun1234
+"""want""","Mount Desert Island, ME, USA",summertimefun1234
+"""want""","Armacao dos Buzios, Brazil",summertimefun1234
+"""want""","Bengaluru, India",summertimefun1234
+"""want""","Sedona, AZ, USA",summertimefun1234
+"""want""","Kansas City, MO, USA",summertimefun1234
+"""want""","Mexico City, Mexico",summertimefun1234
+"""want""","Gstaad, Switzerland",summertimefun1234
+"""want""","Panama City, Panama",summertimefun1234
+"""want""","Madeira, Portugal",summertimefun1234
+"""want""","Manchester, UK",summertimefun1234
+"""want""","Oslo, Norway",summertimefun1234
+"""want""","La Jolla, CA, USA",summertimefun1234
+"""want""","Marianopoli, Italy",summertimefun1234
+"""want""","Telluride, CO, USA",summertimefun1234
+"""want""","Siesta Key, FL, USA",summertimefun1234
+"""been""","Orlando, FL, USA",summertimefun1234
+"""want""","Doha, Qatar",summertimefun1234
+"""been""","Montreal, Quebec, Canada",summertimefun1234
+"""want""","Warwick, RI, USA",summertimefun1234
+"""want""","Quebec City, Quebec, Canada",summertimefun1234
+"""want""","Netanya, Israel",summertimefun1234
+"""been""","Farmington, CT, USA",summertimefun1234
+"""want""","Ithaca, NY, USA",summertimefun1234
+"""want""","Cruz Bay, U.S. Virgin Islands",summertimefun1234
+"""want""","Tulum, Mexico",summertimefun1234
+"""want""","Ocean City, MD, USA",summertimefun1234
+"""want""","Abu Dhabi, United Arab Emirates",summertimefun1234
+"""want""","Myrtle Beach, SC, USA",summertimefun1234
+"""want""","New Providence Island, Bahamas",summertimefun1234
+"""want""","Vail, CO, USA",summertimefun1234
+"""want""","Paradise Island, Bahamas",summertimefun1234
+"""want""","Freeport, Bahamas",summertimefun1234
+"""been""","Bavaro, Dominican Republic",summertimefun1234
+"""been""","Auburndale, FL, USA",summertimefun1234
+"""want""","Singapore, Singapore",summertimefun1234
+"""been""","Brooklyn, NY, USA",summertimefun1234
+"""want""","Stowe, VT, USA",summertimefun1234
+"""want""","Stratton Mountain, VT, USA",summertimefun1234
+"""been""","Brookline, MA, USA",summertimefun1234
+"""been""","Providence, RI, USA",summertimefun1234
+"""want""","Saint Francois, Guadeloupe",summertimefun1234
+"""want""","Port-au-Prince, Haiti",summertimefun1234
+"""want""","Bar Harbor, ME, USA",summertimefun1234
+"""want""","Ocho Rios, Jamaica",summertimefun1234
+"""want""","Friendship, St. Vincent and the Grenadines",summertimefun1234
+"""want""","Melbourne, Australia",summertimefun1234
+"""want""","Nabq Bay, Egypt",summertimefun1234
+"""want""","Nashville, TN, USA",summertimefun1234
+"""been""","Salem, MA, USA",summertimefun1234
+"""want""","San Francisco, CA, USA",summertimefun1234
+"""want""","San Antonio, TX, USA",summertimefun1234
+"""want""","Auckland Central, New Zealand",summertimefun1234
+"""want""","Runaway Bay, Jamaica",summertimefun1234
+"""want""","Marco Island, FL, USA",summertimefun1234
+"""been""","San Juan, Puerto Rico",summertimefun1234
+"""been""","El Yunque National Forest, Puerto Rico",summertimefun1234
+"""been""","Saugus, MA, USA",summertimefun1234
+"""want""","Dubrovnik, Croatia",summertimefun1234
+"""been""","Waterbury, VT, USA",summertimefun1234
+"""want""","Salt Lake City, UT, USA",summertimefun1234
+"""want""","Miami, FL, USA",summertimefun1234
+"""want""","Miami Beach, FL, USA",summertimefun1234
+"""want""","Austin, TX, USA",summertimefun1234
+"""want""","Playa de las Americas, Spain",summertimefun1234
+"""been""","Ludlow, VT, USA",summertimefun1234
+"""been""","Baltimore, MD, USA",summertimefun1234
+"""want""","Sao Paulo, Brazil",summertimefun1234
+"""want""","Savannah, GA, USA",summertimefun1234
+"""want""","Killington, VT, USA",summertimefun1234
+"""want""","St. Moritz, Switzerland",summertimefun1234
+"""want""","San Jose, Costa Rica",summertimefun1234
+"""want""","Gros Islet, St. Lucia",summertimefun1234
+"""want""","Soufriere, St. Lucia",summertimefun1234
+"""want""","East Hampton, NY, USA",summertimefun1234
+"""want""","Syracuse, NY, USA",summertimefun1234
+"""want""","Rio de Janeiro, Brazil",summertimefun1234
+"""want""","Playa del Ingles, Spain",summertimefun1234
+"""want""","Salou, Spain",summertimefun1234
+"""been""","Boston, MA, USA",summertimefun1234
+"""want""","Bologna, Italy",summertimefun1234
+"""want""","Philipsburg, St Martin \u002F St Maarten",summertimefun1234
+"""want""","Camp Nelson, CA, USA",summertimefun1234
+"""been""","Portsmouth, NH, USA",summertimefun1234
+"""want""","Block Island, RI, USA",summertimefun1234
+"""want""","Gramado, Brazil",summertimefun1234
+"""want""","Kihei, HI, USA",summertimefun1234
+"""been""","Rochester, NY, USA",summertimefun1234
+"""been""","Wellfleet, MA, USA",summertimefun1234
+"""want""","Lahaina, HI, USA",summertimefun1234
+"""want""","Bogota, Colombia",summertimefun1234
+"""want""","Wailuku, HI, USA",summertimefun1234
+"""want""","Cayenne, French Guiana",summertimefun1234
+"""want""","Seoul, South Korea",summertimefun1234
+"""want""","Seattle, WA, USA",summertimefun1234
+"""want""","Yellowstone National Park, WY, USA",summertimefun1234
+"""want""","Key West, FL, USA",summertimefun1234
+"""want""","Naples, FL, USA",summertimefun1234
+"""been""","Burlington, VT, USA",summertimefun1234
+"""want""","Dublin, Ireland",summertimefun1234
+"""want""","Galway, Ireland",summertimefun1234
+"""want""","St. John's, Antigua and Barbuda",summertimefun1234
+"""want""","Seven Mile Beach, Cayman Islands",summertimefun1234
+"""want""","Charleston, SC, USA",summertimefun1234
+"""want""","Aruba, Caribbean",summertimefun1234
+"""been""","New York City, NY, USA",summertimefun1234
+"""been""","Omaha, NE, USA",summertimefun1234
+"""want""","South Pole, Antarctica",summertimefun1234
+"""want""","Hiroshima, Japan",summertimefun1234
+"""been""","Newark, NJ, USA",summertimefun1234
+"""want""","Anchorage, AK, USA",summertimefun1234
+"""want""","Scranton, PA, USA",summertimefun1234
+"""want""","Cartagena, Colombia",summertimefun1234
+"""want""","Oranjestad, Aruba",summertimefun1234
+"""want""","Palm - Eagle Beach, Aruba",summertimefun1234
+"""been""","Jamestown, RI, USA",summertimefun1234
+"""been""","Kissimmee, FL, USA",summertimefun1234
+"""want""","Denver, CO, USA",summertimefun1234
+"""want""","Bermuda, Caribbean",summertimefun1234
+"""want""","St. George, Bermuda",summertimefun1234
+"""want""","Owls Head, ME, USA",summertimefun1234
+"""been""","Seabrook, NH, USA",summertimefun1234
+"""been""","Buffalo, NY, USA",summertimefun1234
+"""want""","Manila, Philippines",summertimefun1234
+"""been""","Newport, RI, USA",summertimefun1234
+"""want""","El Arenal, Spain",summertimefun1234
+"""want""","Barbados, Caribbean",summertimefun1234
+"""been""","Salem, NH, USA",summertimefun1234
+"""want""","Port of Spain, Trinidad and Tobago",summertimefun1234
+"""want""","Ayia Napa, Cyprus",summertimefun1234
+"""want""","Asheville, NC, USA",summertimefun1234
+"""want""","New Orleans, LA, USA",summertimefun1234
+"""been""","Rye, NH, USA",summertimefun1234
+"""want""","Honolulu, HI, USA",summertimefun1234
+"""want""","Cebu City, Philippines",summertimefun1234

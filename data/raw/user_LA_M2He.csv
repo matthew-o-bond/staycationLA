@@ -1,0 +1,340 @@
+tag,place,user
+"""been""","New York City, NY, USA",M2He
+"""been""","Kissimmee, FL, USA",M2He
+"""been""","Charlottesville, VA, USA",M2He
+"""been""","Carlsbad, NM, USA",M2He
+"""been""","Chesapeake, VA, USA",M2He
+"""been""","Bryce Canyon City, UT, USA",M2He
+"""been""","Oxford, UK",M2He
+"""been""","Springfield, IL, USA",M2He
+"""been""","Wroxton, UK",M2He
+"""been""","Saint Paul, MN, USA",M2He
+"""been""","Ocho Rios, Jamaica",M2He
+"""been""","Concord, NC, USA",M2He
+"""been""","Cortland, NY, USA",M2He
+"""been""","Ocean City, NJ, USA",M2He
+"""been""","Williams, AZ, USA",M2He
+"""been""","Jim Thorpe, PA, USA",M2He
+"""been""","Winter Park, CO, USA",M2He
+"""been""","Cape Coral, FL, USA",M2He
+"""been""","Runaway Bay, Jamaica",M2He
+"""been""","Manchester, CT, USA",M2He
+"""been""","Montauk, NY, USA",M2He
+"""been""","New Hope, PA, USA",M2He
+"""been"",""want""","Denver, CO, USA",M2He
+"""been""","Cape Canaveral, FL, USA",M2He
+"""been""","Bryce, UT, USA",M2He
+"""been""","Cincinnati, OH, USA",M2He
+"""been""","San Diego, CA, USA",M2He
+"""been""","Williamsburg, VA, USA",M2He
+"""been""","Weehawken, NJ, USA",M2He
+"""been""","Seattle, WA, USA",M2He
+"""been""","Round Top, NY, USA",M2He
+"""been""","Boulder, UT, USA",M2He
+"""been""","Dorado, Puerto Rico",M2He
+"""been""","San Juan, Puerto Rico",M2He
+"""been""","Long Beach Township, NJ, USA",M2He
+"""been""","Cape May, NJ, USA",M2He
+"""been""","El Yunque National Forest, Puerto Rico",M2He
+"""been""","Dover, DE, USA",M2He
+"""been""","Winslow, AZ, USA",M2He
+"""been""","Long Island City, NY, USA",M2He
+"""been""","Beverly Hills, CA, USA",M2He
+"""been""","Niagara Falls, Ontario, Canada",M2He
+"""been""","Bushkill, PA, USA",M2He
+"""been""","Bethlehem, PA, USA",M2He
+"""been""","West Berlin, NJ, USA",M2He
+"""been""","Gloucester, MA, USA",M2He
+"""been""","Parks, AZ, USA",M2He
+"""been""","Watertown, CT, USA",M2He
+"""been""","Delaware Water Gap, PA, USA",M2He
+"""been""","Ronks, PA, USA",M2He
+"""been""","Mystic, CT, USA",M2He
+"""been""","Galveston, TX, USA",M2He
+"""been""","Seaside Heights, NJ, USA",M2He
+"""been""","Montreal, Quebec, Canada",M2He
+"""been""","Richmond, VA, USA",M2He
+"""been""","Clearwater, FL, USA",M2He
+"""been""","Cambridge, MA, USA",M2He
+"""been""","Portland, ME, USA",M2He
+"""been""","Chester, PA, USA",M2He
+"""been""","Narragansett, RI, USA",M2He
+"""been""","Santa Monica, CA, USA",M2He
+"""been""","Milwaukee, WI, USA",M2He
+"""been""","Puerto Morelos, Mexico",M2He
+"""been""","Westwood, NJ, USA",M2He
+"""been""","Atlanta, GA, USA",M2He
+"""been""","Stratford-upon-Avon, UK",M2He
+"""been""","Hammonton, NJ, USA",M2He
+"""been""","Sandy Hook, NJ, USA",M2He
+"""been""","Hamburg, NJ, USA",M2He
+"""been""","Clifton, NJ, USA",M2He
+"""been""","Akron, OH, USA",M2He
+"""been""","West Yellowstone, MT, USA",M2He
+"""been""","Hamilton, NJ, USA",M2He
+"""been""","Westport, CT, USA",M2He
+"""want""","Venice, FL, USA",M2He
+"""been""","Harrisonburg, VA, USA",M2He
+"""been""","Alexandria, VA, USA",M2He
+"""been""","Hackensack, NJ, USA",M2He
+"""been""","Middleton, WI, USA",M2He
+"""been""","West Haven, CT, USA",M2He
+"""been""","New Haven, CT, USA",M2He
+"""been"",""want""","Phoenix, AZ, USA",M2He
+"""been""","Wyomissing, PA, USA",M2He
+"""been""","Austin, TX, USA",M2He
+"""been""","Alamogordo, NM, USA",M2He
+"""been""","Mesa, AZ, USA",M2He
+"""want""","Cancun, Mexico",M2He
+"""been""","Springfield, MA, USA",M2He
+"""been""","Chichen Itza, Mexico",M2He
+"""been""","Scranton, PA, USA",M2He
+"""been""","Moab, UT, USA",M2He
+"""been""","Greensboro, NC, USA",M2He
+"""been""","Luray, VA, USA",M2He
+"""been""","Syracuse, NY, USA",M2He
+"""been""","Elmer, NJ, USA",M2He
+"""been""","Gatlinburg, TN, USA",M2He
+"""been""","Dedham, MA, USA",M2He
+"""been""","Ridgewood, NJ, USA",M2He
+"""been""","Reading, PA, USA",M2He
+"""been""","Carolina Beach, NC, USA",M2He
+"""been""","Upper Black Eddy, PA, USA",M2He
+"""been""","Egg Harbor City, NJ, USA",M2He
+"""been""","Jersey City, NJ, USA",M2He
+"""been""","Martha's Vineyard, MA, USA",M2He
+"""been""","Rockford, IL, USA",M2He
+"""been""","Vineland, NJ, USA",M2He
+"""been""","Roswell, NM, USA",M2He
+"""been""","Miami Beach, FL, USA",M2He
+"""been""","Hvolsvollur, Iceland",M2He
+"""been""","Knoxville, TN, USA",M2He
+"""been""","York, PA, USA",M2He
+"""been""","Miami, FL, USA",M2He
+"""been""","State College, PA, USA",M2He
+"""been""","Anaheim, CA, USA",M2He
+"""been""","Tampa, FL, USA",M2He
+"""been""","Harrisburg, PA, USA",M2He
+"""been""","Provincetown, MA, USA",M2He
+"""been""","Versailles, France",M2He
+"""been""","Plymouth, MA, USA",M2He
+"""been""","Santa Fe, NM, USA",M2He
+"""want""","San Francisco, CA, USA",M2He
+"""been""","Page, AZ, USA",M2He
+"""been""","Toronto, Ontario, Canada",M2He
+"""been""","San Antonio, TX, USA",M2He
+"""been"",""want"",""fave""","Paris, France",M2He
+"""been""","Marietta, GA, USA",M2He
+"""been""","Salem, MA, USA",M2He
+"""been""","Tulum, Mexico",M2He
+"""been""","New Milford, NJ, USA",M2He
+"""been""","Fayetteville, NC, USA",M2He
+"""been""","Quarryville, PA, USA",M2He
+"""been""","Kerhonkson, NY, USA",M2He
+"""been""","Brooklyn, NY, USA",M2He
+"""been""","Milford, PA, USA",M2He
+"""been""","Killington, VT, USA",M2He
+"""been""","Clarksville, TN, USA",M2He
+"""been""","Columbia, SC, USA",M2He
+"""been""","Pigeon Forge, TN, USA",M2He
+"""been""","Treasure Island, FL, USA",M2He
+"""been""","East Sandwich, MA, USA",M2He
+"""been""","Colorado Springs, CO, USA",M2He
+"""been""","Block Island, RI, USA",M2He
+"""been""","Flanders, NJ, USA",M2He
+"""been""","Albany, NY, USA",M2He
+"""been""","Lares, Puerto Rico",M2He
+"""been""","Cooperstown, NY, USA",M2He
+"""been""","Boston, MA, USA",M2He
+"""been""","Asheville, NC, USA",M2He
+"""been""","Bordentown, NJ, USA",M2He
+"""been""","New Orleans, LA, USA",M2He
+"""been""","Bird in Hand, PA, USA",M2He
+"""been""","Lambertville, NJ, USA",M2He
+"""been""","Fajardo, Puerto Rico",M2He
+"""been""","Hartford, CT, USA",M2He
+"""been""","Charlotte, NC, USA",M2He
+"""been""","Newark, NJ, USA",M2He
+"""been""","Chapel Hill, NC, USA",M2He
+"""been""","Strasburg, PA, USA",M2He
+"""been""","Easton, PA, USA",M2He
+"""been""","Chambers, AZ, USA",M2He
+"""been""","Middletown, NY, USA",M2He
+"""been""",Disneyland Paris,M2He
+"""been""","Flagstaff, AZ, USA",M2He
+"""been""","West Hollywood, CA, USA",M2He
+"""been""","New Braunfels, TX, USA",M2He
+"""been""","Burlington, VT, USA",M2He
+"""been""","Newport, RI, USA",M2He
+"""been""","Portsmouth, NH, USA",M2He
+"""been""","Geneva, NY, USA",M2He
+"""been""","Tuxedo Park, NY, USA",M2He
+"""been""","Buffalo, NY, USA",M2He
+"""been""","Rochester, NY, USA",M2He
+"""been""","Brick, NJ, USA",M2He
+"""been""","North Wildwood, NJ, USA",M2He
+"""been""","Forked River, NJ, USA",M2He
+"""been""","Lawrenceville, NJ, USA",M2He
+"""been""","Carlisle, PA, USA",M2He
+"""been""","Fort Lauderdale, FL, USA",M2He
+"""been""","Skogar, Iceland",M2He
+"""been""","Birmingham, UK",M2He
+"""been""","Warwick, UK",M2He
+"""been""","Warwick, RI, USA",M2He
+"""been""","Stone Mountain, GA, USA",M2He
+"""been""","Woodstock, NY, USA",M2He
+"""been"",""want""","Salt Lake City, UT, USA",M2He
+"""been""","Marne-la-Vallee, France",M2He
+"""been""","Wrightsville Beach, NC, USA",M2He
+"""been""","Phillipsburg, NJ, USA",M2He
+"""been""","Cleveland, OH, USA",M2He
+"""been""","Billings, MT, USA",M2He
+"""been""","Osprey, FL, USA",M2He
+"""been""","La Fortuna de San Carlos, Costa Rica",M2He
+"""been""","Winston Salem, NC, USA",M2He
+"""been""","La Jolla, CA, USA",M2He
+"""been""","Mount Vernon, VA, USA",M2He
+"""been""","Wilkes-Barre, PA, USA",M2He
+"""been""","Orlando, FL, USA",M2He
+"""been""","Bensalem, PA, USA",M2He
+"""been""","Beach Haven, NJ, USA",M2He
+"""been""","Holbrook, AZ, USA",M2He
+"""been""","Altoona, PA, USA",M2He
+"""been""","Boulogne-Billancourt, France",M2He
+"""been""","Williamsport, PA, USA",M2He
+"""been""","Virginia Beach, VA, USA",M2He
+"""been""","Muncie, IN, USA",M2He
+"""been""","Boca Raton, FL, USA",M2He
+"""been""","Sun Valley, AZ, USA",M2He
+"""been""","Lake Powell, UT, USA",M2He
+"""been""","Ocean City, MD, USA",M2He
+"""been""","Ithaca, NY, USA",M2He
+"""been""","Warwick, NY, USA",M2He
+"""been""","Point Pleasant Beach, NJ, USA",M2He
+"""been""","Langhorne, PA, USA",M2He
+"""been""","Irondequoit, NY, USA",M2He
+"""been""","New Paltz, NY, USA",M2He
+"""been""","Teaneck, NJ, USA",M2He
+"""been""","Bozeman, MT, USA",M2He
+"""been""","Morristown, NJ, USA",M2He
+"""been""","Arecibo, Puerto Rico",M2He
+"""been""","Culebra, Puerto Rico",M2He
+"""been""","Green Bay, WI, USA",M2He
+"""been""","Hickory, NC, USA",M2He
+"""been""","North Conway, NH, USA",M2He
+"""been""","Arenal Volcano National Park, Costa Rica",M2He
+"""been""","Lancaster, PA, USA",M2He
+"""been""","Amarillo, TX, USA",M2He
+"""been""","Akumal, Mexico",M2He
+"""been""","Tempe, AZ, USA",M2He
+"""been""","Vail, CO, USA",M2He
+"""been"",""want""","Myrtle Beach, SC, USA",M2He
+"""been""","Palm Beach, FL, USA",M2He
+"""been""","Park City, UT, USA",M2He
+"""been""","Montclair, NJ, USA",M2He
+"""been""","Providence, RI, USA",M2He
+"""been""","Hoboken, NJ, USA",M2He
+"""been""","Estes Park, CO, USA",M2He
+"""been""","Watkins Glen, NY, USA",M2He
+"""been""","Trenton, NJ, USA",M2He
+"""been""","Princeton, NJ, USA",M2He
+"""been""","Elkin, NC, USA",M2He
+"""been"",""want""","Liberia, Costa Rica",M2He
+"""been""","Columbus, OH, USA",M2He
+"""been""","Roissy-en-France, France",M2He
+"""been""","Toms River, NJ, USA",M2He
+"""been""","Playa Conchal, Costa Rica",M2He
+"""been""","Jamaica, NY, USA",M2He
+"""been""","Chattanooga, TN, USA",M2He
+"""been""","Asbury Park, NJ, USA",M2He
+"""been""","Raleigh, NC, USA",M2He
+"""been""","Stowe, VT, USA",M2He
+"""been""","Sunset Beach, NC, USA",M2He
+"""been""","West Reading, PA, USA",M2He
+"""been""","Playas del Coco, Costa Rica",M2He
+"""been""","Playa Hermosa, Costa Rica",M2He
+"""been""","Boulder, CO, USA",M2He
+"""been""","North Charleston, SC, USA",M2He
+"""been""","Grand Junction, CO, USA",M2He
+"""been""","La Crosse, WI, USA",M2He
+"""been""","North Myrtle Beach, SC, USA",M2He
+"""been""","Alpharetta, GA, USA",M2He
+"""been"",""want""","Albuquerque, NM, USA",M2He
+"""been""","Atlantic City, NJ, USA",M2He
+"""been""","Jackson, NJ, USA",M2He
+"""been""","Eatontown, NJ, USA",M2He
+"""been""","Baltimore, MD, USA",M2He
+"""been""","Vernon, NJ, USA",M2He
+"""been""","Red Bank, NJ, USA",M2He
+"""been""","Moonachie, NJ, USA",M2He
+"""been""","Lake Placid, NY, USA",M2He
+"""been""","Jacksonville, FL, USA",M2He
+"""been""","Niagara Falls, NY, USA",M2He
+"""been""","Jackson, WY, USA",M2He
+"""been""","Nashville, TN, USA",M2He
+"""been""","Doylestown, PA, USA",M2He
+"""been""","Panama City Beach, FL, USA",M2He
+"""been""","Sandwich, MA, USA",M2He
+"""been""","Teton Village, WY, USA",M2He
+"""been""","Escalante, UT, USA",M2He
+"""been""","Ship Bottom, NJ, USA",M2He
+"""been""","Hershey, PA, USA",M2He
+"""been""","Secaucus, NJ, USA",M2He
+"""been""","Wildwood Crest, NJ, USA",M2He
+"""been""","Wildwood, NJ, USA",M2He
+"""been""","Seaside Park, NJ, USA",M2He
+"""been""","Columbia, NJ, USA",M2He
+"""been""","Chicago, IL, USA",M2He
+"""been"",""want""","Los Angeles, CA, USA",M2He
+"""been""","Marshalls Creek, PA, USA",M2He
+"""been""","Idaho Falls, ID, USA",M2He
+"""been""","Prescott, AZ, USA",M2He
+"""been""","South of the Border, SC, USA",M2He
+"""been""","Philadelphia, PA, USA",M2He
+"""been""","Newark, DE, USA",M2He
+"""been""","Annapolis, MD, USA",M2He
+"""been""","London, UK",M2He
+"""been""","Sun Prairie, WI, USA",M2He
+"""been""","Gettysburg, PA, USA",M2He
+"""been""","Little River, SC, USA",M2He
+"""been""","Saratoga Springs, NY, USA",M2He
+"""been""","Lincoln, NH, USA",M2He
+"""been""","St. Pete Beach, FL, USA",M2He
+"""been""","St. Petersburg, FL, USA",M2He
+"""been""","Staten Island, NY, USA",M2He
+"""been""","Chessy, France",M2He
+"""been""","Darien, CT, USA",M2He
+"""been""","Toledo, OH, USA",M2He
+"""been""","Arlington, VA, USA",M2He
+"""been""","Rehoboth Beach, DE, USA",M2He
+"""been""","Old Greenwich, CT, USA",M2He
+"""been""","Durham, NC, USA",M2He
+"""been""","Danbury, CT, USA",M2He
+"""been""","Nuevo Arenal, Costa Rica",M2He
+"""been""","Norfolk, VA, USA",M2He
+"""been""","Aspen, CO, USA",M2He
+"""been""","Vik, Iceland",M2He
+"""been""","Minneapolis, MN, USA",M2He
+"""been""","Washington DC, DC, USA",M2He
+"""been""","Parsippany, NJ, USA",M2He
+"""been""","Bronx, NY, USA",M2He
+"""been""","Paramus, NJ, USA",M2He
+"""want""","Rome, Italy",M2He
+"""been""","Reykjavik, Iceland",M2He
+"""been""","Truth or Consequences, NM, USA",M2He
+"""been""","Erie, PA, USA",M2He
+"""been""","Manchester, NH, USA",M2He
+"""been""","Indianapolis, IN, USA",M2He
+"""been""","Florence, SC, USA",M2He
+"""been""","Wilmington, DE, USA",M2He
+"""been""","Roanoke, VA, USA",M2He
+"""been""","Scottsdale, AZ, USA",M2He
+"""been""","Sedona, AZ, USA",M2He
+"""been""","Le Touquet \u2013 Paris-Plage, France",M2He
+"""been""","Stanhope, NJ, USA",M2He
+"""been""","Basking Ridge, NJ, USA",M2He
+"""been""","Wilmington, NC, USA",M2He
+"""been""","Barnegat Light, NJ, USA",M2He
+"""been""","Steamboat Springs, CO, USA",M2He
+"""been""","Allentown, PA, USA",M2He
+"""been""","Magny-le-Hongre, France",M2He

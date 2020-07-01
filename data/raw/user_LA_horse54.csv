@@ -1,0 +1,596 @@
+tag,place,user
+"""been""","Trongsa, Bhutan",horse54
+"""been""","Puerto Montt, Chile",horse54
+"""been""","Iguazu National Park, Argentina",horse54
+"""been""","Puerto Varas, Chile",horse54
+"""been""","Sevastopol, Europe",horse54
+"""been""","Sochi, Russia",horse54
+"""been""","Parque Nacional Vicente Perez Rosales, Chile",horse54
+"""been"",""fave""","Cesky Krumlov, Czech Republic",horse54
+"""been""","City of Industry, CA, USA",horse54
+"""been""","San Ramon, Costa Rica",horse54
+"""been""","Claremont, CA, USA",horse54
+"""been""","La Jolla, CA, USA",horse54
+"""been""","Punakha, Bhutan",horse54
+"""been""","El Monte, CA, USA",horse54
+"""been""","Orlando, FL, USA",horse54
+"""been""","Coca, Ecuador",horse54
+"""been""","La Canada Flintridge, CA, USA",horse54
+"""been""","Big Sur, CA, USA",horse54
+"""been""","Fogo Island, Newfoundland and Labrador, Canada",horse54
+"""been""","Tortola, British Virgin Islands",horse54
+"""been""","Road Town, British Virgin Islands",horse54
+"""been""","Chengdu, China",horse54
+"""been""","Waitomo Caves, New Zealand",horse54
+"""been""","Reno, NV, USA",horse54
+"""been""","Colon, Panama",horse54
+"""been""","Constanta, Romania",horse54
+"""been""","Salt Lake City, UT, USA",horse54
+"""been""","Port Angeles, WA, USA",horse54
+"""been""","Jimbaran, Indonesia",horse54
+"""been""","Batumi, Georgia",horse54
+"""been""","Kuta, Indonesia",horse54
+"""been""","George Town, Malaysia",horse54
+"""been""","Nusa Dua, Indonesia",horse54
+"""been""","Sedona, AZ, USA",horse54
+"""been""","Marina del Rey, CA, USA",horse54
+"""been""","Snowmass Village, CO, USA",horse54
+"""been""","Mariposa, CA, USA",horse54
+"""been""","Scottsdale, AZ, USA",horse54
+"""been""","Ensenada, Mexico",horse54
+"""been""","San Felipe, Mexico",horse54
+"""been""","Montclair, NJ, USA",horse54
+"""been""","Bonavista, Newfoundland and Labrador, Canada",horse54
+"""been""","Petrohue, Chile",horse54
+"""been""","Kuala Terengganu, Malaysia",horse54
+"""been""","Agoura, CA, USA",horse54
+"""been""","Osorno, Chile",horse54
+"""been""","Agoura Hills, CA, USA",horse54
+"""been""","Brighton, CO, USA",horse54
+"""been""","Xi'an, China",horse54
+"""been""","Seoul, South Korea",horse54
+"""been""","Upland, CA, USA",horse54
+"""been""","Breckenridge, CO, USA",horse54
+"""been""","Guangzhou, China",horse54
+"""been""","Virgin Gorda, British Virgin Islands",horse54
+"""been""","Hanford, CA, USA",horse54
+"""been""","Juneau, AK, USA",horse54
+"""been""","Lake Arrowhead, CA, USA",horse54
+"""been""","Ithaca, NY, USA",horse54
+"""been""","Makati, Philippines",horse54
+"""been""","Manila, Philippines",horse54
+"""been""","Bumthang, Bhutan",horse54
+"""been""","Buyukada, Turkey",horse54
+"""been""","Edfu, Egypt",horse54
+"""been""","Kuala Lumpur, Malaysia",horse54
+"""been""","Nagasaki, Japan",horse54
+"""been""","Fukuoka, Japan",horse54
+"""been""","Clovis, CA, USA",horse54
+"""been""","Laguna Beach, CA, USA",horse54
+"""been""","Kyoto, Japan",horse54
+"""been""","Hacienda Heights, CA, USA",horse54
+"""been""","Half Moon Bay, CA, USA",horse54
+"""been""","Coalinga, CA, USA",horse54
+"""been""","Barstow, CA, USA",horse54
+"""been""","Osaka, Japan",horse54
+"""been""","Jerome, AZ, USA",horse54
+"""been""","Oranjestad, Aruba",horse54
+"""been""","Siena, Italy",horse54
+"""been""","Palm - Eagle Beach, Aruba",horse54
+"""been""","Ureshino, Japan",horse54
+"""been""","Vail, CO, USA",horse54
+"""been""","Assisi, Italy",horse54
+"""been""","Takeo, Japan",horse54
+"""been""","Perugia, Italy",horse54
+"""been""","Ahwahnee, CA, USA",horse54
+"""been""","Banff, Alberta, Canada",horse54
+"""been""","Manzanillo, Mexico",horse54
+"""been""","Banff National Park, Alberta, Canada",horse54
+"""been""","Zihuatanejo, Mexico",horse54
+"""been""","Jasper, Alberta, Canada",horse54
+"""been""","Lake Louise, Alberta, Canada",horse54
+"""been""","Thousand Oaks, CA, USA",horse54
+"""been"",""fave""","Budapest, Hungary",horse54
+"""been""","Santa Fe, NM, USA",horse54
+"""been""","Richards Bay, South Africa",horse54
+"""been"",""fave""","San Francisco, CA, USA",horse54
+"""been""","Sonoma, CA, USA",horse54
+"""been""","Miami Beach, FL, USA",horse54
+"""been""","Miami, FL, USA",horse54
+"""been""","Solana Beach, CA, USA",horse54
+"""been""","Como, Italy",horse54
+"""been""","Solvang, CA, USA",horse54
+"""been""","Victorville, CA, USA",horse54
+"""been""","Coronado, CA, USA",horse54
+"""been""","Pensacola, FL, USA",horse54
+"""been""","Whittier, AK, USA",horse54
+"""been""","Costa Mesa, CA, USA",horse54
+"""been""","Ko Phi Phi Don, Thailand",horse54
+"""been""","Red Bank, NJ, USA",horse54
+"""want""","Buenos Aires, Argentina",horse54
+"""been""","Hanalei, HI, USA",horse54
+"""been""","Gander, Newfoundland and Labrador, Canada",horse54
+"""been""","Alhambra, CA, USA",horse54
+"""been""","Flagstaff, AZ, USA",horse54
+"""been""","Havana, Cuba",horse54
+"""been""","Volcano, HI, USA",horse54
+"""been""","Saga, Japan",horse54
+"""been""","Nagoya, Japan",horse54
+"""been""","Auckland, New Zealand",horse54
+"""been""","Waikoloa, HI, USA",horse54
+"""been""","Moab, UT, USA",horse54
+"""been""","Ushuaia, Argentina",horse54
+"""been""","Burbank, CA, USA",horse54
+"""been""","Valdez, AK, USA",horse54
+"""been""","Milan, Italy",horse54
+"""been""","Ketchikan, AK, USA",horse54
+"""been""","Nuqui, Colombia",horse54
+"""been""","Buellton, CA, USA",horse54
+"""been""","Fontana, CA, USA",horse54
+"""been""","Macau, China",horse54
+"""been""","Prince Rupert, British Columbia, Canada",horse54
+"""been""","Moscow, Russia",horse54
+"""been""","Newark, NJ, USA",horse54
+"""been""","Siem Reap, Cambodia",horse54
+"""been""","Kluang, Malaysia",horse54
+"""been""","Baldwin Park, CA, USA",horse54
+"""been""","Albuquerque, NM, USA",horse54
+"""been""","Stinson Beach, CA, USA",horse54
+"""been""","San Bernardino, CA, USA",horse54
+"""been""","Salinas, CA, USA",horse54
+"""been""","Dublin, Ireland",horse54
+"""been""","Dana Point, CA, USA",horse54
+"""been""","Kom Ombo, Egypt",horse54
+"""been""","Culver City, CA, USA",horse54
+"""been""","Colorado Springs, CO, USA",horse54
+"""been""","Bangkok, Thailand",horse54
+"""been""","Covina, CA, USA",horse54
+"""been""","Anaheim, CA, USA",horse54
+"""been""","Tucson, AZ, USA",horse54
+"""been""","Almaty, Kazakhstan",horse54
+"""been""","Brooklyn, NY, USA",horse54
+"""been""","Fairbanks, AK, USA",horse54
+"""been""","Cambria, CA, USA",horse54
+"""been""","Providence, RI, USA",horse54
+"""been""","Crestline, CA, USA",horse54
+"""been""","Camarillo, CA, USA",horse54
+"""been""","South Pasadena, CA, USA",horse54
+"""been""","Fillmore, CA, USA",horse54
+"""been""","Visalia, CA, USA",horse54
+"""been""","Bar Harbor, ME, USA",horse54
+"""been"",""fave""","Paro, Bhutan",horse54
+"""been""","Taipei, Taiwan",horse54
+"""been""","La Orotava, Spain",horse54
+"""been""","Bukhara, Uzbekistan",horse54
+"""been""","San Carlos, Costa Rica",horse54
+"""been""","Riverside, CA, USA",horse54
+"""been""","Monterey, CA, USA",horse54
+"""been""","Pasadena, CA, USA",horse54
+"""been""","Monterey Park, CA, USA",horse54
+"""been""","Bryce Canyon National Park, UT, USA",horse54
+"""been""","Dubai, United Arab Emirates",horse54
+"""been""","Beijing, China",horse54
+"""been""","Chongqing, China",horse54
+"""been""","Shanghai, China",horse54
+"""been""","Hong Kong, China",horse54
+"""been""","Hawaii Volcanoes National Park, HI, USA",horse54
+"""been""","Haleakala National Park, HI, USA",horse54
+"""been""","Belem, Portugal",horse54
+"""been""","Great Smoky Mountains National Park, TN, USA",horse54
+"""been""","Milpitas, CA, USA",horse54
+"""been""","Estoril, Portugal",horse54
+"""been""","Fatima, Portugal",horse54
+"""been""","Cascais, Portugal",horse54
+"""been""","Palm Springs, CA, USA",horse54
+"""been""","Grand Canyon National Park, AZ, USA",horse54
+"""been""","Rialto, CA, USA",horse54
+"""been""","Mission Viejo, CA, USA",horse54
+"""been""","Trondheim, Norway",horse54
+"""been""","Jakarta, Indonesia",horse54
+"""been""","Pacific Grove, CA, USA",horse54
+"""been""","Gurugram (Gurgaon), India",horse54
+"""been""","San Antonio De Belen, Costa Rica",horse54
+"""been""","Torheim, Norway",horse54
+"""been""","Oahu, HI, USA",horse54
+"""been""","Apple Valley, CA, USA",horse54
+"""been""","Rio Gatun, Panama",horse54
+"""been""","Panama City, Panama",horse54
+"""been""","Sacramento, CA, USA",horse54
+"""been""","Huntington Park, CA, USA",horse54
+"""been""","Arcadia, CA, USA",horse54
+"""been""","La Fortuna de San Carlos, Costa Rica",horse54
+"""been""","Huntington Beach, CA, USA",horse54
+"""been""","Hammerfest, Norway",horse54
+"""been""","Rowland Heights, CA, USA",horse54
+"""been""","Mount Baldy, CA, USA",horse54
+"""been""","Montreal, Quebec, Canada",horse54
+"""been""","Quebec City, Quebec, Canada",horse54
+"""been""","Bengaluru, India",horse54
+"""been""","Toronto, Ontario, Canada",horse54
+"""been""","Cruz Bay, U.S. Virgin Islands",horse54
+"""been""","Oaxaca, Mexico",horse54
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",horse54
+"""been""","Pebble Beach, CA, USA",horse54
+"""been""","Morro Bay, CA, USA",horse54
+"""been""","Oslo, Norway",horse54
+"""been""","Lemoore, CA, USA",horse54
+"""been""","Tromso, Norway",horse54
+"""been""","Kauai, HI, USA",horse54
+"""been""","Rosemead, CA, USA",horse54
+"""been""","Alta, UT, USA",horse54
+"""been""","Paso Robles, CA, USA",horse54
+"""been""","Moorpark, CA, USA",horse54
+"""been""","Bahia Solano, Colombia",horse54
+"""been""","Arenal Volcano National Park, Costa Rica",horse54
+"""been""","Thiruvananthapuram (Trivandrum), India",horse54
+"""been""","St. John, U.S. Virgin Islands",horse54
+"""been""","Arita-cho, Japan",horse54
+"""been"",""fave""","Nimmo Islet, British Columbia, Canada",horse54
+"""been""","Laughlin, NV, USA",horse54
+"""been""","Whitehorse, Yukon, Canada",horse54
+"""been""","Saqqara, Egypt",horse54
+"""been""","Philae, Egypt",horse54
+"""been""","Avalon, CA, USA",horse54
+"""been""","Wuhai, China",horse54
+"""been""","Las Vegas, NV, USA",horse54
+"""been""","Azusa, CA, USA",horse54
+"""been""","Avila Beach, CA, USA",horse54
+"""been""","Floreana, Ecuador",horse54
+"""been""","Chicago, IL, USA",horse54
+"""been""","Isabela, Ecuador",horse54
+"""been""","Incheon, South Korea",horse54
+"""been""","Prescott, AZ, USA",horse54
+"""been""","Newbury Park, CA, USA",horse54
+"""been""","Los Angeles, CA, USA",horse54
+"""been""","Keystone, CO, USA",horse54
+"""been""","Fresno, CA, USA",horse54
+"""been""","Los Gatos, CA, USA",horse54
+"""been""","Newhall, CA, USA",horse54
+"""been""","Zion National Park, UT, USA",horse54
+"""been""","Fernandina, Ecuador",horse54
+"""been""","Cheviot, New Zealand",horse54
+"""been""","Irvine, CA, USA",horse54
+"""been""","Pismo Beach, CA, USA",horse54
+"""been""","Fremont, CA, USA",horse54
+"""been""","Portland, OR, USA",horse54
+"""been""","Henderson, NV, USA",horse54
+"""been""","San Jose, Costa Rica",horse54
+"""been"",""fave""","Rio de Janeiro, Brazil",horse54
+"""been"",""fave""","Abu Simbel, Egypt",horse54
+"""been""","Pretoria, South Africa",horse54
+"""been""","Foster City, CA, USA",horse54
+"""been"",""want"",""fave""","Singapore, Singapore",horse54
+"""been""","Atascadero, CA, USA",horse54
+"""been""","Long Beach, CA, USA",horse54
+"""been""","Port Dickson, Malaysia",horse54
+"""been""","Frazier Park, CA, USA",horse54
+"""been""","Machala, Ecuador",horse54
+"""want""","Sao Paulo, Brazil",horse54
+"""been""","Lompoc, CA, USA",horse54
+"""been""","Santa Cruz, Ecuador",horse54
+"""been""","Djupivogur, Iceland",horse54
+"""been""","Johannesburg, South Africa",horse54
+"""been""","Inglewood, CA, USA",horse54
+"""been""","Mountain View, CA, USA",horse54
+"""been""","Phoenix, AZ, USA",horse54
+"""been"",""want""","St. Petersburg, Russia",horse54
+"""been""","Obidos, Portugal",horse54
+"""been""","Aspen, CO, USA",horse54
+"""been""","Sintra, Portugal",horse54
+"""been""","Sawai Madhopur, India",horse54
+"""been""","Udaipur, India",horse54
+"""been""","Joplin, MO, USA",horse54
+"""been""","King City, CA, USA",horse54
+"""been""","Goleta, CA, USA",horse54
+"""been""","Jaisalmer, India",horse54
+"""been"",""fave""","Lisbon, Portugal",horse54
+"""been""","Jodhpur, India",horse54
+"""been""","Malibu, CA, USA",horse54
+"""been""","Galveston, TX, USA",horse54
+"""been""","Odessa, Ukraine",horse54
+"""been""","Glendale, CA, USA",horse54
+"""been""","Hurghada, Egypt",horse54
+"""been""","Eureka Springs, AR, USA",horse54
+"""been""","Guayaquil, Ecuador",horse54
+"""been""","Hohhot, China",horse54
+"""been""","Agra, India",horse54
+"""been""","Frutillar, Chile",horse54
+"""been""","Gilroy, CA, USA",horse54
+"""been""","Downey, CA, USA",horse54
+"""been""","Wuhan, China",horse54
+"""been""","Gamboa, Panama",horse54
+"""been""","Wadi Rum, Jordan",horse54
+"""been""","Yalta, Europe",horse54
+"""been""","Sharm El Sheikh, Egypt",horse54
+"""been""","Garden Grove, CA, USA",horse54
+"""been""","Newport Beach, CA, USA",horse54
+"""been""","Arlington, VA, USA",horse54
+"""been""","Port Hardy, British Columbia, Canada",horse54
+"""been""","Yasuni National Park, Ecuador",horse54
+"""been""","Ensenada, Chile",horse54
+"""been""","Kawazu-cho, Japan",horse54
+"""been""","Kaikoura, New Zealand",horse54
+"""been""","Puerto de la Cruz, Spain",horse54
+"""been""","Santa Cruz de Tenerife, Spain",horse54
+"""been""","Santa Cruz de la Palma, Spain",horse54
+"""been""","Crete, Greece",horse54
+"""been""","Arrecife, Spain",horse54
+"""been""","Mount Washington, NH, USA",horse54
+"""been""","Stamsund, Norway",horse54
+"""been""","Simi Valley, CA, USA",horse54
+"""been""","Kovalam, India",horse54
+"""been""","Queens Village, NY, USA",horse54
+"""been""","Toledo, Spain",horse54
+"""been""","Captain Cook, HI, USA",horse54
+"""been""","Rotorua, New Zealand",horse54
+"""been""","Phobjikha Valley, Bhutan",horse54
+"""been""","Bath, UK",horse54
+"""been""","Pleasanton, CA, USA",horse54
+"""been""","Kristiansund, Norway",horse54
+"""been""","Hilo, HI, USA",horse54
+"""been""","Durban, South Africa",horse54
+"""been""","Palma de Mallorca, Spain",horse54
+"""been""","Majorca, Spain",horse54
+"""been""","Pomona, CA, USA",horse54
+"""been""","Bergen, Norway",horse54
+"""been""","Alesund, Norway",horse54
+"""been""","Frankfurt, Germany",horse54
+"""been""","Miami, OK, USA",horse54
+"""been""","Auckland Central, New Zealand",horse54
+"""been""","Perth, Australia",horse54
+"""been""","Kaohsiung, Taiwan",horse54
+"""been""","Wailea, HI, USA",horse54
+"""been""","Chittaurgarh, India",horse54
+"""been""","Nessebar, Bulgaria",horse54
+"""been""","Las Palmas de Gran Canaria, Spain",horse54
+"""been""","Gran Canaria, Spain",horse54
+"""been""","Athens, Greece",horse54
+"""been""","Taichung, Taiwan",horse54
+"""been""","Plymouth, UK",horse54
+"""been""","Ayutthaya, Thailand",horse54
+"""been""","Delphi, Greece",horse54
+"""been""","Wellington, New Zealand",horse54
+"""been""","Boca Raton, FL, USA",horse54
+"""been""","Gangtey, Bhutan",horse54
+"""been""","Christchurch, New Zealand",horse54
+"""been""","Port Rexton, Newfoundland and Labrador, Canada",horse54
+"""been""","Oak Park, CA, USA",horse54
+"""been""","Valldemossa, Spain",horse54
+"""been""","New Delhi, India",horse54
+"""been""","Mumbai, India",horse54
+"""been""","Jaipur, India",horse54
+"""been""","Oakland, CA, USA",horse54
+"""been""","Innsbruck, Austria",horse54
+"""been""","Newcastle, Australia",horse54
+"""been""","Salzburg, Austria",horse54
+"""been""","Melbourne, Australia",horse54
+"""been""","Stuttgart, Germany",horse54
+"""been""","Franconia, NH, USA",horse54
+"""been""","Toulouse, France",horse54
+"""been""","Evora, Portugal",horse54
+"""been""","King George Island, Antarctica",horse54
+"""been""","Livingston Island, Antarctica",horse54
+"""been""","Marghera, Italy",horse54
+"""been""","Vienna, Austria",horse54
+"""been""","Niagara Falls, NY, USA",horse54
+"""been""","Santiago, Chile",horse54
+"""been""","Elephant Island, Antarctica",horse54
+"""been""","Quito, Ecuador",horse54
+"""been""","Joe Batt's Arm, Newfoundland and Labrador, Canada",horse54
+"""been""","Deception Island, Antarctica",horse54
+"""been""","Park City, UT, USA",horse54
+"""been""","Amsterdam, The Netherlands",horse54
+"""been""","Linz, Austria",horse54
+"""been""","Ogden, UT, USA",horse54
+"""been""","Redwood City, CA, USA",horse54
+"""been"",""fave""","Barcelona, Spain",horse54
+"""been""","Melk, Austria",horse54
+"""been""","Santorini, Greece",horse54
+"""been""","Oxnard, CA, USA",horse54
+"""been""","Foz do Iguacu, Brazil",horse54
+"""been""","Durnstein, Austria",horse54
+"""been""","Redlands, CA, USA",horse54
+"""been""","Cano Negro, Costa Rica",horse54
+"""been""","Lima, Peru",horse54
+"""been""","Shinjuku, Japan",horse54
+"""been""","San Pedro de Atacama, Chile",horse54
+"""been""","Yosemite National Park, CA, USA",horse54
+"""been""","Jost Van Dyke, British Virgin Islands",horse54
+"""been""","Ojai, CA, USA",horse54
+"""been""","Ontario, CA, USA",horse54
+"""been""","Zurich, Switzerland",horse54
+"""been""","Menlo Park, CA, USA",horse54
+"""been""","Paris, France",horse54
+"""been""","Rancho Cucamonga, CA, USA",horse54
+"""been""","Aswan, Egypt",horse54
+"""been""","Cairo, Egypt",horse54
+"""been""","Giza, Egypt",horse54
+"""been""","Bintan Island, Indonesia",horse54
+"""been""","Luxor, Egypt",horse54
+"""been""","Luang Prabang, Laos",horse54
+"""been""","Bailly-Romainvilliers, France",horse54
+"""been""","Carlsbad, CA, USA",horse54
+"""been""","Carmel, CA, USA",horse54
+"""been""","Nha Trang, Vietnam",horse54
+"""been""","Pinar del Rio, Cuba",horse54
+"""been""","New York City, NY, USA",horse54
+"""been""","Ewa Beach, HI, USA",horse54
+"""been""","Anchorage, AK, USA",horse54
+"""been""","Wailuku, HI, USA",horse54
+"""been""","Gibraltar, Europe",horse54
+"""been""","Inverness, UK",horse54
+"""been""","Seattle, WA, USA",horse54
+"""been""","Yellowstone National Park, WY, USA",horse54
+"""been""","Helsinki, Finland",horse54
+"""been""","Makawao, HI, USA",horse54
+"""been""","San Marino, CA, USA",horse54
+"""been""","Madrid, Spain",horse54
+"""been""","Sunnyvale, CA, USA",horse54
+"""been""","Denver, CO, USA",horse54
+"""been""","San Luis Obispo, CA, USA",horse54
+"""been""","Whittier, CA, USA",horse54
+"""been""","Phuket, Thailand",horse54
+"""been""","San Jose, CA, USA",horse54
+"""been""","Carmel Valley, CA, USA",horse54
+"""been""","Summerland, CA, USA",horse54
+"""been""","Kissimmee, FL, USA",horse54
+"""been""","Ho Chi Minh City, Vietnam",horse54
+"""been""","Diamond Bar, CA, USA",horse54
+"""been""","San Juan Capistrano, CA, USA",horse54
+"""been""","Carpinteria, CA, USA",horse54
+"""been""","Ka'anapali, HI, USA",horse54
+"""been""","Vancouver, British Columbia, Canada",horse54
+"""been""","Baotou, China",horse54
+"""been""","Turkestan, Kazakhstan",horse54
+"""been""","Kaneohe, HI, USA",horse54
+"""been""","Atlanta, GA, USA",horse54
+"""been""","Skagafjordur, Iceland",horse54
+"""been""","Victoria, British Columbia, Canada",horse54
+"""been""","Kailua, HI, USA",horse54
+"""been""","Al Karnak, Egypt",horse54
+"""been""","Kahuku, HI, USA",horse54
+"""been""","Richmond, VA, USA",horse54
+"""been""","Devonport, UK",horse54
+"""been""","Canterbury, UK",horse54
+"""been""","Fort Lauderdale, FL, USA",horse54
+"""been""","Ventura, CA, USA",horse54
+"""been""","San Fernando, CA, USA",horse54
+"""been""","San Gabriel, CA, USA",horse54
+"""been""","Westlake Village, CA, USA",horse54
+"""been""","Sandy, UT, USA",horse54
+"""been""","Valencia, Spain",horse54
+"""been""","West Hollywood, CA, USA",horse54
+"""been""","Snowbird, UT, USA",horse54
+"""been""","San Carlos, CA, USA",horse54
+"""been""","Bass Lake, CA, USA",horse54
+"""been""","San Clemente, CA, USA",horse54
+"""been""","Del Mar, CA, USA",horse54
+"""been""","Beverly Hills, CA, USA",horse54
+"""been""","Townsville, Australia",horse54
+"""been""","Asheville, NC, USA",horse54
+"""been""","Kota Bharu, Malaysia",horse54
+"""been""","Kilauea, HI, USA",horse54
+"""been""","Lihue, HI, USA",horse54
+"""been""","New Orleans, LA, USA",horse54
+"""been""","Alor Setar, Malaysia",horse54
+"""been""","Honolulu, HI, USA",horse54
+"""been""","Port Douglas, Australia",horse54
+"""been""","Johor Bahru, Malaysia",horse54
+"""been""","Calatayud, Spain",horse54
+"""been""","Melaka, Malaysia",horse54
+"""been""","Mersing, Malaysia",horse54
+"""been""","Kapaa, HI, USA",horse54
+"""been""","Newport, RI, USA",horse54
+"""been""","Edinburgh, UK",horse54
+"""been""","Trabzon, Turkey",horse54
+"""been""","Santa Clarita, CA, USA",horse54
+"""been""","Santa Cruz, CA, USA",horse54
+"""want""","Prague, Czech Republic",horse54
+"""been""","Santa Ana, CA, USA",horse54
+"""been""","Houston, TX, USA",horse54
+"""been""","Santa Barbara, CA, USA",horse54
+"""been""","St. John's, Newfoundland and Labrador, Canada",horse54
+"""been""","Belmont, CA, USA",horse54
+"""been""","Castaic, CA, USA",horse54
+"""been""","Vinales, Cuba",horse54
+"""been""","Kihei, HI, USA",horse54
+"""been""","Kuantan, Malaysia",horse54
+"""been""","Kahului, HI, USA",horse54
+"""been""","Seward, AK, USA",horse54
+"""been""","Lahaina, HI, USA",horse54
+"""been""","Kailua-Kona, HI, USA",horse54
+"""been""","Hana, HI, USA",horse54
+"""been""","Venice, Italy",horse54
+"""been""","Yokohama, Japan",horse54
+"""been""","San Diego, CA, USA",horse54
+"""been""","Poipu, HI, USA",horse54
+"""been""","San Simeon, CA, USA",horse54
+"""been""","Boston, MA, USA",horse54
+"""been""","Waimea, HI, USA",horse54
+"""been""","Branson, MO, USA",horse54
+"""been""","Princeville, HI, USA",horse54
+"""been""","Trinity, Newfoundland and Labrador, Canada",horse54
+"""been""","Windsor, UK",horse54
+"""been""","San Mateo, CA, USA",horse54
+"""been""","Mbabane, Eswatini (Swaziland)",horse54
+"""been""","Berkeley, CA, USA",horse54
+"""been""","Durango, CO, USA",horse54
+"""been""","Williamsburg, VA, USA",horse54
+"""been""","Playa de Palma, Spain",horse54
+"""been""","Niagara-on-the-Lake, Ontario, Canada",horse54
+"""been""","Niagara Falls, Ontario, Canada",horse54
+"""been""","Mary, Turkmenistan",horse54
+"""been""","Kapalua, HI, USA",horse54
+"""been""","Ein Bokek, Israel",horse54
+"""been""","Samarkand, Uzbekistan",horse54
+"""been""","Teton Village, WY, USA",horse54
+"""been""","Granada, Spain",horse54
+"""been"",""fave""","Tokyo, Japan",horse54
+"""been""","Taos, NM, USA",horse54
+"""been""","Cadiz, Spain",horse54
+"""been""","Passau, Germany",horse54
+"""been""","Regensburg, Germany",horse54
+"""been""","Colombo, Sri Lanka",horse54
+"""been""","Marbella, Spain",horse54
+"""been""","Ashgabat, Turkmenistan",horse54
+"""been""","Thimphu, Bhutan",horse54
+"""been""","Portland, ME, USA",horse54
+"""been"",""want""","Bratislava, Slovakia",horse54
+"""been""","Pittsburg, KS, USA",horse54
+"""been""","Tashkent, Uzbekistan",horse54
+"""been""","Santa Maria, CA, USA",horse54
+"""been""","Volda, Norway",horse54
+"""been""","Santa Monica, CA, USA",horse54
+"""been""","Cairns, Australia",horse54
+"""been"",""fave""","Seminyak, Indonesia",horse54
+"""been""","Sydney, Australia",horse54
+"""been""","Penzance, UK",horse54
+"""been""","Hamburg, Germany",horse54
+"""been""","Seville, Spain",horse54
+"""been""","Yinchuan, China",horse54
+"""been""","Stykkisholmur, Iceland",horse54
+"""want""","Berlin, Germany",horse54
+"""been""","Agadir, Morocco",horse54
+"""been""","Great Smoky Mountains National Park, NC, USA",horse54
+"""been""","Zaragoza, Spain",horse54
+"""been"",""fave""","Marrakech, Morocco",horse54
+"""been""","Casablanca, Morocco",horse54
+"""been"",""fave""","Istanbul, Turkey",horse54
+"""been""","Khiva, Uzbekistan",horse54
+"""been""","Fes, Morocco",horse54
+"""been""","Tiburon, CA, USA",horse54
+"""been""","Cocoa Beach, FL, USA",horse54
+"""been""","Santa Ynez, CA, USA",horse54
+"""been""","Tangier, Morocco",horse54
+"""been""","Daytona Beach, FL, USA",horse54
+"""been"",""fave""","Petra - Wadi Musa, Jordan",horse54
+"""been""","Ixtapa, Mexico",horse54
+"""been""","Shell Beach, CA, USA",horse54
+"""been""","Fira, Greece",horse54
+"""been""","Waipahu, HI, USA",horse54
+"""been""","Sorrento, Italy",horse54
+"""been""","Washington DC, DC, USA",horse54
+"""been""","Florence, Italy",horse54
+"""been""","Pearl City, HI, USA",horse54
+"""been""","Akureyri, Iceland",horse54
+"""been""","Ouarzazate, Morocco",horse54
+"""been""","Jakar, Bhutan",horse54
+"""been""","Amman, Jordan",horse54
+"""been""","Amed, Indonesia",horse54
+"""been""","Paradise Harbour, Antarctica",horse54
+"""been""","Madaba, Jordan",horse54
+"""been""","Las Terrazas, Cuba",horse54
+"""been""","Ait Ben Haddou, Morocco",horse54
+"""been""","Mammoth Lakes, CA, USA",horse54
+"""been""","Reykjavik, Iceland",horse54
+"""been""","Rome, Italy",horse54
+"""been""","Siglufjordur, Iceland",horse54
+"""been""","Cardiff, UK",horse54
+"""been""","Philadelphia, PA, USA",horse54
+"""been""","Cordoba, Spain",horse54
+"""been""","Bristol, UK",horse54
+"""been""","Kirkenes, Norway",horse54
+"""been""","Husavik, Iceland",horse54
+"""been""","London, UK",horse54
+"""been""","Munich, Germany",horse54
+"""been""","Calama, Chile",horse54

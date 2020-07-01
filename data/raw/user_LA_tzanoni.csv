@@ -1,0 +1,354 @@
+tag,place,user
+"""been""","Ponferrada, Spain",tzanoni
+"""been""","Beverly Hills, CA, USA",tzanoni
+"""been""","Praia de Sao Lourenco, Brazil",tzanoni
+"""been""","Porto Xavier, Brazil",tzanoni
+"""been""","Havana, Cuba",tzanoni
+"""been""","Tupa, Brazil",tzanoni
+"""been""","Cayo Largo, Cuba",tzanoni
+"""been""","Varadero, Cuba",tzanoni
+"""been""","Buenos Aires, Argentina",tzanoni
+"""been""","Palhoca, Brazil",tzanoni
+"""been""","Tatui, Brazil",tzanoni
+"""been""","Marilia, Brazil",tzanoni
+"""been""","Santiago, Chile",tzanoni
+"""been""","Manaus, Brazil",tzanoni
+"""been""","Monte Siao, Brazil",tzanoni
+"""been""","Santo Angelo, Brazil",tzanoni
+"""been""","Serra Negra, Brazil",tzanoni
+"""been""","Sarria, Spain",tzanoni
+"""been""","Itapecerica da Serra, Brazil",tzanoni
+"""been""","Araraquara, Brazil",tzanoni
+"""been""","Taboao da Serra, Brazil",tzanoni
+"""been""","Eagle, CO, USA",tzanoni
+"""been""","Ushuaia, Argentina",tzanoni
+"""been""","Timbo, Brazil",tzanoni
+"""been""","Itapui, Brazil",tzanoni
+"""been""","El Calafate, Argentina",tzanoni
+"""been""","Riviere du Loup, Quebec, Canada",tzanoni
+"""been""","Porto Feliz, Brazil",tzanoni
+"""been""","Navegantes, Brazil",tzanoni
+"""been""","Lagoa da Conceicao, Brazil",tzanoni
+"""been""","Ourinhos, Brazil",tzanoni
+"""been""","Atibaia, Brazil",tzanoni
+"""been""","Itaparica, Brazil",tzanoni
+"""been""","Joinville, Brazil",tzanoni
+"""been""","Jaragua Do Sul, Brazil",tzanoni
+"""been""","Porto de Galinhas, Brazil",tzanoni
+"""been""","New Delhi, India",tzanoni
+"""been""","Las Vegas, NV, USA",tzanoni
+"""been""","Bonito, Brazil",tzanoni
+"""been""","Acadia National Park, ME, USA",tzanoni
+"""been""","Coral Gables, FL, USA",tzanoni
+"""been""","Piedade, Brazil",tzanoni
+"""been""","Punta Cana, Dominican Republic",tzanoni
+"""been""","Barreirinhas, Brazil",tzanoni
+"""want""","Beijing, China",tzanoni
+"""been""","Limoges, France",tzanoni
+"""been""","Los Angeles, CA, USA",tzanoni
+"""been""","Praia Grande, Brazil",tzanoni
+"""been""","Sao Jose Dos Pinhais, Brazil",tzanoni
+"""been""","Iporanga, Brazil",tzanoni
+"""been""","Florianopolis, Brazil",tzanoni
+"""been""","Londrina, Brazil",tzanoni
+"""been""","Blumenau, Brazil",tzanoni
+"""been""","La Romana, Dominican Republic",tzanoni
+"""been""","Itajai, Brazil",tzanoni
+"""been""","San Diego, CA, USA",tzanoni
+"""been""","Prado, Brazil",tzanoni
+"""been""","Maceio, Brazil",tzanoni
+"""been""","Aguas de Santa Barbara, Brazil",tzanoni
+"""want""","Amsterdam, The Netherlands",tzanoni
+"""been""","Rockville, MD, USA",tzanoni
+"""been""","Sao Francisco Xavier, Brazil",tzanoni
+"""been""","Cananeia, Brazil",tzanoni
+"""been""","Santa Monica, CA, USA",tzanoni
+"""been""","Ipojuca, Brazil",tzanoni
+"""been""","Izmir, Turkey",tzanoni
+"""been""","Mateiros, Brazil",tzanoni
+"""been""","Paris, France",tzanoni
+"""been""","Montevideo, Uruguay",tzanoni
+"""been""","Goiania, Brazil",tzanoni
+"""been""","Ilha do Mel, Brazil",tzanoni
+"""want""","Lima, Peru",tzanoni
+"""been""","Foz do Iguacu, Brazil",tzanoni
+"""been""","Brasilia, Brazil",tzanoni
+"""been""","Itaunas, Brazil",tzanoni
+"""want""","Cusco, Peru",tzanoni
+"""been""","Curitiba, Brazil",tzanoni
+"""been""","Vitoria, Brazil",tzanoni
+"""want""","Machu Picchu, Peru",tzanoni
+"""been""","New York City, NY, USA",tzanoni
+"""been""","Lindoia, Brazil",tzanoni
+"""been""","Cairu, Brazil",tzanoni
+"""been""","Aguas de Lindoia, Brazil",tzanoni
+"""been""","Nilo Pecanha, Brazil",tzanoni
+"""been""","Cunha, Brazil",tzanoni
+"""been""","Coyhaique, Chile",tzanoni
+"""been""","Ribeirao Bonito, Brazil",tzanoni
+"""been""","Boicucanga, Brazil",tzanoni
+"""been""","Balsamo, Brazil",tzanoni
+"""been""","Batalha, Portugal",tzanoni
+"""been""","Salvador, Brazil",tzanoni
+"""been""","Fatima, Portugal",tzanoni
+"""been""","Sao Vicente, Brazil",tzanoni
+"""been""","Pocos de Caldas, Brazil",tzanoni
+"""been""","Porto Seguro, Brazil",tzanoni
+"""been""","Mangaratiba, Brazil",tzanoni
+"""been""","Lisbon, Portugal",tzanoni
+"""been""","Florence, Italy",tzanoni
+"""been""","Nevsehir, Turkey",tzanoni
+"""been""","Petrolina, Brazil",tzanoni
+"""been""","Canakkale, Turkey",tzanoni
+"""been""","Trancoso, Brazil",tzanoni
+"""been""","Guaira, Brazil",tzanoni
+"""been""","Flagstaff, AZ, USA",tzanoni
+"""been""","Cambara do Sul, Brazil",tzanoni
+"""been""","Rio Branco, Brazil",tzanoni
+"""been""","Remanso, Brazil",tzanoni
+"""been""","Puyuhuapi, Chile",tzanoni
+"""been""","Avon, CO, USA",tzanoni
+"""been""","Ponta Grossa, Brazil",tzanoni
+"""been""","Santa Rita Do Passa Quatro, Brazil",tzanoni
+"""been""","Descalvado, Brazil",tzanoni
+"""been""","Grand Canyon National Park, AZ, USA",tzanoni
+"""been""","Socorro, Brazil",tzanoni
+"""been""","Pamplona, Spain",tzanoni
+"""been"",""fave""","Cape Town Central, South Africa",tzanoni
+"""been""","Anaheim, CA, USA",tzanoni
+"""been""","Picinguaba, Brazil",tzanoni
+"""been""","Cabo Frio, Brazil",tzanoni
+"""been""","Pompeia, Brazil",tzanoni
+"""been""","Juquei, Brazil",tzanoni
+"""been""","Picarras, Brazil",tzanoni
+"""been""","Madrid, Spain",tzanoni
+"""been""","Ouro Preto, Brazil",tzanoni
+"""want""","Hong Kong, China",tzanoni
+"""been""","Miami, FL, USA",tzanoni
+"""been""","Quebec City, Quebec, Canada",tzanoni
+"""been""","Dubai, United Arab Emirates",tzanoni
+"""been""","Miami Beach, FL, USA",tzanoni
+"""been""","Montreal, Quebec, Canada",tzanoni
+"""been""","Mariana, Brazil",tzanoni
+"""been""","Sao Luiz do Paraitinga, Brazil",tzanoni
+"""been""","Ilheus, Brazil",tzanoni
+"""been""","Boston, MA, USA",tzanoni
+"""been""","Maringa, Brazil",tzanoni
+"""been""","Ibitinga, Brazil",tzanoni
+"""been""","Kissimmee, FL, USA",tzanoni
+"""been""","Guaraquecaba, Brazil",tzanoni
+"""been""","Ibiuna, Brazil",tzanoni
+"""been""","Abadiania, Brazil",tzanoni
+"""been""","Sao Sebastiao, Brazil",tzanoni
+"""been""","Venice, Italy",tzanoni
+"""been""","Porto Joffre, Brazil",tzanoni
+"""been""","Penha, Brazil",tzanoni
+"""been""","Zion National Park, UT, USA",tzanoni
+"""been""","Cape Canaveral, FL, USA",tzanoni
+"""been""","Logrono, Spain",tzanoni
+"""been""","Abu Dhabi, United Arab Emirates",tzanoni
+"""been""","Sao Luis, Brazil",tzanoni
+"""been""","Belo Horizonte, Brazil",tzanoni
+"""been""","Santiago de Compostela, Spain",tzanoni
+"""been""","Tucson, AZ, USA",tzanoni
+"""been""","Alto Paraiso de Goias, Brazil",tzanoni
+"""been""","Morretes, Brazil",tzanoni
+"""been""","San Francisco, CA, USA",tzanoni
+"""been""","Chobe National Park, Botswana",tzanoni
+"""been""","Ottawa, Ontario, Canada",tzanoni
+"""been""","Sao Roque, Brazil",tzanoni
+"""been""","Sao Pedro, Brazil",tzanoni
+"""been""","Itubera, Brazil",tzanoni
+"""been""","Brumadinho, Brazil",tzanoni
+"""been""","Key Largo, FL, USA",tzanoni
+"""been""","Key West, FL, USA",tzanoni
+"""been""","Pamukkale, Turkey",tzanoni
+"""been""","Flamingo, FL, USA",tzanoni
+"""been""","Pomerode, Brazil",tzanoni
+"""been""","Nazare, Portugal",tzanoni
+"""been""","Fort Lauderdale, FL, USA",tzanoni
+"""been""","Angra Dos Reis, Brazil",tzanoni
+"""been""","Veranopolis, Brazil",tzanoni
+"""been""","Sao Sebastiao, Brazil",tzanoni
+"""been""","Mestre, Italy",tzanoni
+"""been""","Toronto, Ontario, Canada",tzanoni
+"""been""","Ilha Solteira, Brazil",tzanoni
+"""been""","Tres Lagoas, Brazil",tzanoni
+"""been""","Visconde de Maua, Brazil",tzanoni
+"""been""","Campo Grande, Brazil",tzanoni
+"""been""","Apiai, Brazil",tzanoni
+"""been""","Caninde de Sao Francisco, Brazil",tzanoni
+"""been""","Fernando de Noronha, Brazil",tzanoni
+"""been""","Santana de Parnaiba, Brazil",tzanoni
+"""been""","Lazaro, Brazil",tzanoni
+"""been""","Teresopolis, Brazil",tzanoni
+"""been""","Glenwood Springs, CO, USA",tzanoni
+"""been""","Anapolis, Brazil",tzanoni
+"""been""","Boituva, Brazil",tzanoni
+"""been""","Bento Goncalves, Brazil",tzanoni
+"""been""","Ibira, Brazil",tzanoni
+"""been""","Sorocaba, Brazil",tzanoni
+"""been""","Pirassununga, Brazil",tzanoni
+"""been""","Itapira, Brazil",tzanoni
+"""been""","Sao Caetano do Sul, Brazil",tzanoni
+"""been""","Istanbul, Turkey",tzanoni
+"""been""","Sao Paulo, Brazil",tzanoni
+"""been""","Camamu, Brazil",tzanoni
+"""been""","Olimpia, Brazil",tzanoni
+"""been""","Taboquinhas, Brazil",tzanoni
+"""been""","Dourado, Brazil",tzanoni
+"""been""","Natal, Brazil",tzanoni
+"""been""","Aracaju, Brazil",tzanoni
+"""been""","Barra Velha, Brazil",tzanoni
+"""been""","Praia do Forte, Brazil",tzanoni
+"""been""","Petrified Forest National Park, AZ, USA",tzanoni
+"""been""","Caldas Novas, Brazil",tzanoni
+"""been""","Ubatuba, Brazil",tzanoni
+"""been""","Cuiaba, Brazil",tzanoni
+"""been""","Salto, Brazil",tzanoni
+"""been""","Sao Miguel dos Milagres, Brazil",tzanoni
+"""been""","Minturn, CO, USA",tzanoni
+"""been""","Extrema, Brazil",tzanoni
+"""been""","Garca, Brazil",tzanoni
+"""been""","South Miami, FL, USA",tzanoni
+"""been""","Vail, CO, USA",tzanoni
+"""been""","Piracicaba, Brazil",tzanoni
+"""been""","Niteroi, Brazil",tzanoni
+"""been""","Trinidad, Paraguay",tzanoni
+"""been""","Pirapora do Bom Jesus, Brazil",tzanoni
+"""been""","Orlando, FL, USA",tzanoni
+"""been""","Bar Harbor, ME, USA",tzanoni
+"""been""","Pocone, Brazil",tzanoni
+"""been""","Sao Jose Dos Campos, Brazil",tzanoni
+"""been""","Lima Duarte, Brazil",tzanoni
+"""been""","Sao Jose Do Rio Preto, Brazil",tzanoni
+"""been""","Sao Jose do Vale do Rio Preto, Brazil",tzanoni
+"""been""","Sao Carlos, Brazil",tzanoni
+"""been"",""fave""","Rio de Janeiro, Brazil",tzanoni
+"""been""","Sao Bernardo Do Campo, Brazil",tzanoni
+"""been""","Guaxupe, Brazil",tzanoni
+"""been""","Santos, Brazil",tzanoni
+"""been""","Petropolis, Brazil",tzanoni
+"""been""","Varzea Grande, Brazil",tzanoni
+"""been""","Itariri, Brazil",tzanoni
+"""been""","Itupeva, Brazil",tzanoni
+"""been""","Santo Andre, Brazil",tzanoni
+"""been""","Paraty, Brazil",tzanoni
+"""been""","Mirassol, Brazil",tzanoni
+"""been""","Ribeirao Preto, Brazil",tzanoni
+"""been""","Carapicuiba, Brazil",tzanoni
+"""been""","Brattleboro, VT, USA",tzanoni
+"""been""","Aquidauana, Brazil",tzanoni
+"""been""","Ilhabela, Brazil",tzanoni
+"""been""","Santa Barbara d'Oeste, Brazil",tzanoni
+"""been""","Rome, Italy",tzanoni
+"""been""","Aracoiaba Da Serra, Brazil",tzanoni
+"""been""","Fortaleza, Brazil",tzanoni
+"""been""","Vatican City, Vatican City",tzanoni
+"""been""","Lucknow, India",tzanoni
+"""been""","Ankara, Turkey",tzanoni
+"""been""","Agra, India",tzanoni
+"""been""","Porto Velho, Brazil",tzanoni
+"""been""","Miranda, Brazil",tzanoni
+"""been""","Barra de Sao Miguel, Brazil",tzanoni
+"""been""","Victoria Falls, Zimbabwe",tzanoni
+"""been""","Guaruja, Brazil",tzanoni
+"""been"",""fave""","London, UK",tzanoni
+"""been""","Kasane, Botswana",tzanoni
+"""been""","Domingos Martins, Brazil",tzanoni
+"""been""","Balneario Camboriu, Brazil",tzanoni
+"""been""","Lins, Brazil",tzanoni
+"""been""","San Ignacio, Paraguay",tzanoni
+"""been""","Jundiai, Brazil",tzanoni
+"""been""","Itu, Brazil",tzanoni
+"""been""","Guarulhos, Brazil",tzanoni
+"""been""","Obidos, Portugal",tzanoni
+"""been""","Resende, Brazil",tzanoni
+"""been""","Queluz, Portugal",tzanoni
+"""been""","Navarrete, Spain",tzanoni
+"""been""","Sintra, Portugal",tzanoni
+"""been""","Hontanas, Spain",tzanoni
+"""been""","Fromista, Spain",tzanoni
+"""been""","Najera, Spain",tzanoni
+"""been""","Vargem Grande Paulista, Brazil",tzanoni
+"""been""","Naples, Italy",tzanoni
+"""been""","Livingstone, Zambia",tzanoni
+"""been""","Pompeii, Italy",tzanoni
+"""been""","Leandro N. Alem, Argentina",tzanoni
+"""been""","Chapada dos Guimaraes, Brazil",tzanoni
+"""been""","Aquiraz, Brazil",tzanoni
+"""been""","Praia Grande, Brazil",tzanoni
+"""been""","Campos Do Jordao, Brazil",tzanoni
+"""been""","Campinas, Brazil",tzanoni
+"""been""","Bauru, Brazil",tzanoni
+"""been""","Barueri, Brazil",tzanoni
+"""been""","Sahagun, Spain",tzanoni
+"""been""","Canela, Brazil",tzanoni
+"""been""","Burgos, Spain",tzanoni
+"""been""","Saint-Jean-Pied-de-Port, France",tzanoni
+"""been""","Brotas, Brazil",tzanoni
+"""been""","Leon, Spain",tzanoni
+"""been""","Maresias, Brazil",tzanoni
+"""been""","Ciudad Del Este, Paraguay",tzanoni
+"""want""","Lencois, Brazil",tzanoni
+"""been""","Birmingham, AL, USA",tzanoni
+"""been""","Goncalves, Brazil",tzanoni
+"""been""","Bertioga, Brazil",tzanoni
+"""been"",""fave""","Washington DC, DC, USA",tzanoni
+"""been""","Diadema, Brazil",tzanoni
+"""been""","Venda Nova Do Imigrante, Brazil",tzanoni
+"""been""","Sao Miguel das Missoes, Brazil",tzanoni
+"""been""","Paraguacu, Brazil",tzanoni
+"""been""","Jau, Brazil",tzanoni
+"""been""","Aracatuba, Brazil",tzanoni
+"""been""","Puente la Reina, Spain",tzanoni
+"""been""","Cascavel, Brazil",tzanoni
+"""been""","Vila Velha, Brazil",tzanoni
+"""been""","Osvaldo Cruz, Brazil",tzanoni
+"""been""","Santo Domingo de la Calzada, Spain",tzanoni
+"""been""","Osasco, Brazil",tzanoni
+"""been""","Antonina, Brazil",tzanoni
+"""been""","Aracoiaba, Brazil",tzanoni
+"""been""","Los Arcos, Spain",tzanoni
+"""been""","Pirenopolis, Brazil",tzanoni
+"""been""","Santo Amaro do Maranhao, Brazil",tzanoni
+"""been""","Catanduva, Brazil",tzanoni
+"""been""","Piacabucu, Brazil",tzanoni
+"""been""","Astorga, Spain",tzanoni
+"""been""","Paranapiacaba, Brazil",tzanoni
+"""been""","Monte Verde, Brazil",tzanoni
+"""been""","Birigui, Brazil",tzanoni
+"""been""","Toledo, Spain",tzanoni
+"""been""","Posadas, Argentina",tzanoni
+"""been""","Puerto Iguazu, Argentina",tzanoni
+"""been""","Joao Pessoa, Brazil",tzanoni
+"""been""","Porto Alegre, Brazil",tzanoni
+"""been""","Jalapao State Park, Brazil",tzanoni
+"""been""","Serra dos Orgaos National Park, Brazil",tzanoni
+"""been""","Santo Antonio do Pinhal, Brazil",tzanoni
+"""been""","Paranagua, Brazil",tzanoni
+"""been""","Sao Francisco do Sul, Brazil",tzanoni
+"""been""","Itirapina, Brazil",tzanoni
+"""been""","Gramado, Brazil",tzanoni
+"""been""","Caxias Do Sul, Brazil",tzanoni
+"""been""","Sao Raimundo Nonato, Brazil",tzanoni
+"""been""","Castro, Brazil",tzanoni
+"""been""","Palmas, Brazil",tzanoni
+"""been""","Jaboticatubas, Brazil",tzanoni
+"""been""","Praia da Pipa, Brazil",tzanoni
+"""been""","Machado, Brazil",tzanoni
+"""been""","Caraguatatuba, Brazil",tzanoni
+"""been""","Brodowski, Brazil",tzanoni
+"""been""","Urubici, Brazil",tzanoni
+"""been""","Batatais, Brazil",tzanoni
+"""been""","Aparecida, Brazil",tzanoni
+"""been""","Itaipava, Brazil",tzanoni
+"""been""","Encarnacion, Paraguay",tzanoni
+"""been""","Ilha do Cardoso, Brazil",tzanoni
+"""been""","Aguas de Sao Pedro, Brazil",tzanoni
+"""been""","Caparao, Brazil",tzanoni
+"""been""","Peruibe, Brazil",tzanoni
+"""been""","Belem, Brazil",tzanoni
+"""been""","Cotia, Brazil",tzanoni
+"""been""","Puerto Rio Tranquilo, Chile",tzanoni
+"""been""","Puerto Guadal, Chile",tzanoni

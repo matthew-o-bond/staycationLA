@@ -1,0 +1,456 @@
+tag,place,user
+"""been""","Newark, NJ, USA",losita
+"""been""","Cortez, CO, USA",losita
+"""been""","Ignacio, CO, USA",losita
+"""been""","Houston, TX, USA",losita
+"""been""","Palenque, Mexico",losita
+"""been""","Bakersfield, CA, USA",losita
+"""been""","New Orleans, LA, USA",losita
+"""been""","Salinas, CA, USA",losita
+"""want""","Asheville, NC, USA",losita
+"""been""","Los Ranchos de Albuquerque, NM, USA",losita
+"""been"",""fave""","Bisbee, AZ, USA",losita
+"""been""","Marsala, Italy",losita
+"""been"",""fave""","San Juan Island, WA, USA",losita
+"""been""","Boston, MA, USA",losita
+"""want""","Williamsburg, VA, USA",losita
+"""been""","Vienna, Austria",losita
+"""been""","Chinle, AZ, USA",losita
+"""been""","Laredo, TX, USA",losita
+"""been""","Lourdes, France",losita
+"""been""","Walla Walla, WA, USA",losita
+"""been""","San Diego, CA, USA",losita
+"""been""","South San Francisco, CA, USA",losita
+"""been"",""fave""","Truro, UK",losita
+"""been""","Mogollon, NM, USA",losita
+"""been""","Carlsbad, CA, USA",losita
+"""been""","Carmel, CA, USA",losita
+"""been""","Santa Fe, NM, USA",losita
+"""been"",""fave""","Friday Harbor, WA, USA",losita
+"""been""","San Antonio, TX, USA",losita
+"""been""","San Francisco, CA, USA",losita
+"""been""","Mountainair, NM, USA",losita
+"""been""","San Luis Obispo, CA, USA",losita
+"""been""","Harpers Ferry, WV, USA",losita
+"""been""","Mestre, Italy",losita
+"""been""","Three Rivers, CA, USA",losita
+"""been""","Gatlinburg, TN, USA",losita
+"""been""","Olympia, Greece",losita
+"""been""","Denver, CO, USA",losita
+"""been""","San Juan Capistrano, CA, USA",losita
+"""been"",""fave""","White Oaks, NM, USA",losita
+"""been""","Caen, France",losita
+"""been""","Kutna Hora, Czech Republic",losita
+"""been""","Bayeux, France",losita
+"""been""","Molveno, Italy",losita
+"""been""","San Jose, CA, USA",losita
+"""been""","Plano, TX, USA",losita
+"""been""","Prague, Czech Republic",losita
+"""been""","Issaquah, WA, USA",losita
+"""been""","Aztec, NM, USA",losita
+"""been""","New Braunfels, TX, USA",losita
+"""been""","Manchester, UK",losita
+"""want""","Charleston, SC, USA",losita
+"""been""","Honfleur, France",losita
+"""been""","Moab, UT, USA",losita
+"""been""","Tacoma, WA, USA",losita
+"""been""","Creede, CO, USA",losita
+"""been""","Crested Butte, CO, USA",losita
+"""been""","Los Alamos, NM, USA",losita
+"""been""","Flagstaff, AZ, USA",losita
+"""been""","Marfa, TX, USA",losita
+"""been""","San Clemente, CA, USA",losita
+"""been""","Murfreesboro, TN, USA",losita
+"""been""","Poros, Greece",losita
+"""been""","San Bruno, CA, USA",losita
+"""been"",""fave""","Rouen, France",losita
+"""been""","Le Havre, France",losita
+"""been""","Clovis, NM, USA",losita
+"""been""","Albuquerque, NM, USA",losita
+"""been""","Corrales, NM, USA",losita
+"""been""","Vancouver, WA, USA",losita
+"""been""","Sonora, TX, USA",losita
+"""been""","Coimbra, Portugal",losita
+"""been""","Bern, Switzerland",losita
+"""been"",""fave""","Tombstone, AZ, USA",losita
+"""been""","Loving, TX, USA",losita
+"""been""","Escondido, CA, USA",losita
+"""been""","Golden, CO, USA",losita
+"""been""","Muleshoe, TX, USA",losita
+"""been""","Lubbock, TX, USA",losita
+"""been""","Campeche, Mexico",losita
+"""been""","Kiotari, Greece",losita
+"""been""","Crescent City, CA, USA",losita
+"""been""","Hampton, UK",losita
+"""been""","Amarillo, TX, USA",losita
+"""been""","Silver City, NM, USA",losita
+"""been"",""fave""","Eyam, UK",losita
+"""been""","Tempe, AZ, USA",losita
+"""been""","Kayenta, AZ, USA",losita
+"""been""","Tucson, AZ, USA",losita
+"""been""","El Segundo, CA, USA",losita
+"""been""","Lucerne, Switzerland",losita
+"""been""","Carnac, France",losita
+"""been""","Brentwood, CA, USA",losita
+"""been""","Half Moon Bay, CA, USA",losita
+"""been""","Laguna Beach, CA, USA",losita
+"""been""","Spokane, WA, USA",losita
+"""been""","Kingman, AZ, USA",losita
+"""been""","Hermosa Beach, CA, USA",losita
+"""been""","Mesa, AZ, USA",losita
+"""been""","Burnaby, British Columbia, Canada",losita
+"""been""","Lisbon, Portugal",losita
+"""been""","Solvang, CA, USA",losita
+"""been""","Civitavecchia, Italy",losita
+"""been""","Pozzuoli, Italy",losita
+"""been""","Pagosa Springs, CO, USA",losita
+"""been""","Coronado, CA, USA",losita
+"""been""","Ouray, CO, USA",losita
+"""been""","Austin, TX, USA",losita
+"""been""","Prato, Italy",losita
+"""been""","Mykonos Town, Greece",losita
+"""been""","Sonoma, CA, USA",losita
+"""been""","Pasadena, TX, USA",losita
+"""been""","Celestun, Mexico",losita
+"""been"",""fave""","Lidice, Czech Republic",losita
+"""been""","Fort Davis, TX, USA",losita
+"""been""","Brownsville, TX, USA",losita
+"""been""","Margate, UK",losita
+"""been""","Port Angeles, WA, USA",losita
+"""been""","SeaTac, WA, USA",losita
+"""been""","Pecos, NM, USA",losita
+"""been""","Tyler, TX, USA",losita
+"""been""","Burbank, CA, USA",losita
+"""been""","Arlington, TX, USA",losita
+"""been""","Eureka, CA, USA",losita
+"""been""","Grand Junction, CO, USA",losita
+"""been""","Nashville, TN, USA",losita
+"""been""","Pecos, TX, USA",losita
+"""been""","Ravello, Italy",losita
+"""been""","Datil, NM, USA",losita
+"""been""","Mora, NM, USA",losita
+"""been""","Moriarty, NM, USA",losita
+"""been""","Cuba, NM, USA",losita
+"""been"",""fave""","York, UK",losita
+"""been""","Cambridge, UK",losita
+"""been""","Brussels, Belgium",losita
+"""been""","Deming, NM, USA",losita
+"""been""","Saint-Emilion, France",losita
+"""been""","Granada, Spain",losita
+"""been""","Torremolinos, Spain",losita
+"""been""","Llandudno, UK",losita
+"""been""","Truth or Consequences, NM, USA",losita
+"""been""","Tucumcari, NM, USA",losita
+"""been""","Newport, OR, USA",losita
+"""been""","North Bend, OR, USA",losita
+"""been""","Pythagorion, Greece",losita
+"""been"",""want"",""fave""","Pushkin, Russia",losita
+"""been""","Aix-en-Provence, France",losita
+"""been""","Carlisle, UK",losita
+"""been""","Blarney, Ireland",losita
+"""been""","Newquay, UK",losita
+"""been""","Mousehole, UK",losita
+"""been""","Seville, Spain",losita
+"""been""","Truckee, CA, USA",losita
+"""been"",""fave""","Falmouth, UK",losita
+"""been""","Nottingham, UK",losita
+"""been""","Mexican Hat, UT, USA",losita
+"""been""","Penzance, UK",losita
+"""been""","Oxford, UK",losita
+"""been""","Washington DC, DC, USA",losita
+"""been""","Oswiecim, Poland",losita
+"""been""","Tierra Amarilla, NM, USA",losita
+"""been"",""want"",""fave""","St. Petersburg, Russia",losita
+"""been""","Kerry, UK",losita
+"""been""","Saskatoon, Saskatchewan, Canada",losita
+"""been""","Gold Beach, OR, USA",losita
+"""been""","Bend, OR, USA",losita
+"""been""","Farmington, NM, USA",losita
+"""been""","Estancia, NM, USA",losita
+"""been""","Encino, NM, USA",losita
+"""been""","Merida, Mexico",losita
+"""been""","Tulum, Mexico",losita
+"""been"",""fave""","Avignon, France",losita
+"""been"",""fave""","St Ives, UK",losita
+"""been"",""fave""","Arles, France",losita
+"""want""","Tintagel, UK",losita
+"""been""","Anacapri, Italy",losita
+"""been"",""fave""","Bruges, Belgium",losita
+"""been""","Bath, UK",losita
+"""been""","Edgewood, NM, USA",losita
+"""been""","Ojo Caliente, NM, USA",losita
+"""been""","Lassi, Greece",losita
+"""been""","Dulce, NM, USA",losita
+"""been""","Whites City, NM, USA",losita
+"""been""","Willard, NM, USA",losita
+"""been"",""fave""","Delphi, Greece",losita
+"""been""","Torquay, UK",losita
+"""been""","Mexico City, Mexico",losita
+"""been""","Piraeus, Greece",losita
+"""been""","Stoke-on-Trent, UK",losita
+"""been"",""fave""","Saint-Malo, France",losita
+"""been""","Athens, Greece",losita
+"""been""","Stafford, UK",losita
+"""been"",""fave""","Ieper (Ypres), Belgium",losita
+"""been""","Chichen Itza, Mexico",losita
+"""been""","Saint-Gilles, Belgium",losita
+"""been""","Dijon, France",losita
+"""been"",""fave""","Krakow, Poland",losita
+"""been""","San Miniato, Italy",losita
+"""been""","Eugene, OR, USA",losita
+"""been""","Vaughn, NM, USA",losita
+"""been""","Lincoln City, OR, USA",losita
+"""been""","Santa Rosa, NM, USA",losita
+"""been""","Monte-Carlo, Monaco",losita
+"""been""","Nice, France",losita
+"""been""","Santa Cruz, CA, USA",losita
+"""been""","Canyonlands National Park, UT, USA",losita
+"""been""","Bellevue, WA, USA",losita
+"""been""","Santa Clara, CA, USA",losita
+"""been""","Chartres, France",losita
+"""been""","Fall City, WA, USA",losita
+"""been""","Santa Barbara, CA, USA",losita
+"""been""","Carlsbad Caverns National Park, NM, USA",losita
+"""been""","Midland, TX, USA",losita
+"""been""","Santa Ana, CA, USA",losita
+"""been""","Bellingham, WA, USA",losita
+"""been""","Orleans, France",losita
+"""been""","Toledo, Spain",losita
+"""been"",""fave""","Stratford-upon-Avon, UK",losita
+"""been""","Grants, NM, USA",losita
+"""been""","Segovia, Spain",losita
+"""been"",""fave""","Gettysburg, PA, USA",losita
+"""been""","Tours, France",losita
+"""been""","Berkeley, CA, USA",losita
+"""been""","Tahoe City, CA, USA",losita
+"""been"",""fave""","Durango, CO, USA",losita
+"""been""","Junction, TX, USA",losita
+"""been""","Cologne, Germany",losita
+"""been""","Grand Canyon National Park, AZ, USA",losita
+"""been""","Medford, OR, USA",losita
+"""been""","San Simeon, CA, USA",losita
+"""been""","Ornos, Greece",losita
+"""been""","Magdalena, NM, USA",losita
+"""been""","Taos, NM, USA",losita
+"""been""","Madrid, NM, USA",losita
+"""been""","Sausalito, CA, USA",losita
+"""been""","Troyes, France",losita
+"""been""","Aix-les-Bains, France",losita
+"""been""","Lausanne, Switzerland",losita
+"""been""","Bodega Bay, CA, USA",losita
+"""been""","Barcelona, Spain",losita
+"""been""","Seattle, WA, USA",losita
+"""been""","Yellowstone National Park, WY, USA",losita
+"""been""","Toulon, France",losita
+"""been""","Little Rock, AR, USA",losita
+"""been""","Long Beach, WA, USA",losita
+"""been""","Port Townsend, WA, USA",losita
+"""been""","Franklin, TN, USA",losita
+"""been""","Courchevel, France",losita
+"""been""","Lyon, France",losita
+"""been""","New York City, NY, USA",losita
+"""been""","Seal Beach, CA, USA",losita
+"""been""","Carlsbad, NM, USA",losita
+"""been""","Odessa, TX, USA",losita
+"""been""","Boulder City, NV, USA",losita
+"""been""","Amsterdam, The Netherlands",losita
+"""been""","St. George, UT, USA",losita
+"""been""","Tonopah, NV, USA",losita
+"""been""","Socorro, NM, USA",losita
+"""been""","Coos Bay, OR, USA",losita
+"""been""","Stateline, NV, USA",losita
+"""been""","Shiprock, NM, USA",losita
+"""been""","Klamath Falls, OR, USA",losita
+"""been""","Sparks, NV, USA",losita
+"""been""","Santa Monica, CA, USA",losita
+"""been""","El Paso, TX, USA",losita
+"""been""","Springer, NM, USA",losita
+"""been"",""fave""","Versailles, France",losita
+"""been"",""fave""","Paris, France",losita
+"""been""","Atlanta, GA, USA",losita
+"""been""","Fowey, UK",losita
+"""been""","Montpellier, France",losita
+"""been""","Nimes, France",losita
+"""been""","Irving, TX, USA",losita
+"""been""","Johnson City, TX, USA",losita
+"""been""","Cambridge, MA, USA",losita
+"""been""","Las Manchas, Spain",losita
+"""been""","Calgary, Alberta, Canada",losita
+"""been""","Artesia, NM, USA",losita
+"""been""","Las Cruces, NM, USA",losita
+"""been""","Las Vegas, NM, USA",losita
+"""been""","Cambourne, UK",losita
+"""been""","Dallas, TX, USA",losita
+"""been""","Marlborough, UK",losita
+"""been""","Redwood City, CA, USA",losita
+"""been""","Redondo Beach, CA, USA",losita
+"""want""","Nags Head, NC, USA",losita
+"""been""","Redding, CA, USA",losita
+"""been""","Ciudad Juarez, Mexico",losita
+"""been""","Milan, Italy",losita
+"""been""","Harlingen, TX, USA",losita
+"""been""","Tholos, Greece",losita
+"""been""","Jemez Pueblo, NM, USA",losita
+"""been"",""fave""","Mendocino, CA, USA",losita
+"""been""","Jemez Springs, NM, USA",losita
+"""been""","Van Alstyne, TX, USA",losita
+"""been""","Turin, Italy",losita
+"""been"",""fave""","Edinburgh, UK",losita
+"""been""","Warwick, UK",losita
+"""been""","Monterey, CA, USA",losita
+"""been""","Saintes-Maries-de-la-Mer, France",losita
+"""been""","Pasadena, CA, USA",losita
+"""been""","Windsor, UK",losita
+"""been""","Lincoln, NM, USA",losita
+"""been""","Huntingdon, UK",losita
+"""been""","Venice, Italy",losita
+"""been""","Lovington, NM, USA",losita
+"""been""","Lordsburg, NM, USA",losita
+"""been""","Raton, NM, USA",losita
+"""been""","Ranchos De Taos, NM, USA",losita
+"""been""","Helsinki, Finland",losita
+"""been""","Park City, UT, USA",losita
+"""been""","Madrid, Spain",losita
+"""been""","Evesham, UK",losita
+"""been""","Verona, Italy",losita
+"""been""","Cannon Beach, OR, USA",losita
+"""been""","Gallup, NM, USA",losita
+"""been""","Chattanooga, TN, USA",losita
+"""been""","Fort Sumner, NM, USA",losita
+"""been""","Valencia, Spain",losita
+"""been""","Dieppe, France",losita
+"""been""","Dover, UK",losita
+"""been""","Messina, Italy",losita
+"""been""","Conwy, UK",losita
+"""been""","Big Sur, CA, USA",losita
+"""been""","Chatham, UK",losita
+"""been"",""fave""","Canterbury, UK",losita
+"""been""","Syracuse, Italy",losita
+"""been""","Palermo, Italy",losita
+"""been""","Oklahoma City, OK, USA",losita
+"""been""","Jal, NM, USA",losita
+"""been"",""fave""","Ashland, OR, USA",losita
+"""been""","Pisa, Italy",losita
+"""been"",""fave""","Lucca, Italy",losita
+"""been""","Kissamos, Greece",losita
+"""been"",""fave""","Florence, Italy",losita
+"""been""","Fiesole, Italy",losita
+"""been""","Monument Valley, UT, USA",losita
+"""been"",""fave""","Sorrento, Italy",losita
+"""been""","Dubrovnik, Croatia",losita
+"""been""","Grants Pass, OR, USA",losita
+"""been""","Oceanside, CA, USA",losita
+"""been""","Roy, NM, USA",losita
+"""been""","Korinos, Greece",losita
+"""been""","Ruidoso, NM, USA",losita
+"""been""","Oakland, CA, USA",losita
+"""been""","Roswell, NM, USA",losita
+"""been""","Hobbs, NM, USA",losita
+"""been""","Hillsboro, NM, USA",losita
+"""been""","Peterhof, Russia",losita
+"""been""","Hatch, NM, USA",losita
+"""been""","London, UK",losita
+"""been""","Fiumicino, Italy",losita
+"""been""","Liverpool, UK",losita
+"""been"",""fave""","The Hague, The Netherlands",losita
+"""been""","Capri, Italy",losita
+"""been""","Pompeii, Italy",losita
+"""been""","Naples, Italy",losita
+"""been"",""fave""","Reykjavik, Iceland",losita
+"""been""","Cardiff, UK",losita
+"""been""","Rome, Italy",losita
+"""been""","Cordoba, Spain",losita
+"""been"",""fave""","Vatican City, Vatican City",losita
+"""been""","Alamogordo, NM, USA",losita
+"""been""","Reserve, NM, USA",losita
+"""been""","Bernalillo, NM, USA",losita
+"""been""","North Las Vegas, NV, USA",losita
+"""been"",""fave""","Potos, Greece",losita
+"""been""","Bloomfield, NM, USA",losita
+"""been"",""fave""","Felixstowe, UK",losita
+"""been""","Wenatchee, WA, USA",losita
+"""been""","The Woodlands, TX, USA",losita
+"""been""","Texas City, TX, USA",losita
+"""been""","Richland, WA, USA",losita
+"""want""","Porto, Portugal",losita
+"""been""","Manhattan Beach, CA, USA",losita
+"""been""","Silverton, CO, USA",losita
+"""been""","Redmond, WA, USA",losita
+"""been""","Malibu, CA, USA",losita
+"""been""","Abilene, TX, USA",losita
+"""been""","Clifden, Ireland",losita
+"""been""","Istanbul, Turkey",losita
+"""been""","Belen, NM, USA",losita
+"""been""","Mesa Verde National Park, CO, USA",losita
+"""been""","Seguin, TX, USA",losita
+"""been""","Arlington, VA, USA",losita
+"""been""","Jenner, CA, USA",losita
+"""been""","Salida, CO, USA",losita
+"""been""","Newport Beach, CA, USA",losita
+"""been""","Wichita Falls, TX, USA",losita
+"""been""","Aurora, CO, USA",losita
+"""been""","Fort Collins, CO, USA",losita
+"""been""","Alpine, AZ, USA",losita
+"""been""","Holbrook, AZ, USA",losita
+"""been""","Springerville, AZ, USA",losita
+"""been""","Portland, OR, USA",losita
+"""been""","Alpine, TX, USA",losita
+"""been""","Agrigento, Italy",losita
+"""been""","La Jolla, CA, USA",losita
+"""been""","Telluride, CO, USA",losita
+"""been""","Dingle, Ireland",losita
+"""been"",""fave""","Assisi, Italy",losita
+"""been""","Izamal, Mexico",losita
+"""been""","Reno, NV, USA",losita
+"""been"",""fave""","Siena, Italy",losita
+"""been""","Carrizozo, NM, USA",losita
+"""been""","Sedona, AZ, USA",losita
+"""been""","Anacortes, WA, USA",losita
+"""been""","Marina del Rey, CA, USA",losita
+"""been""","Scottsdale, AZ, USA",losita
+"""been""","White Sands, NM, USA",losita
+"""been""","Goldfield, NV, USA",losita
+"""been""","Sacramento, CA, USA",losita
+"""been""","Huntington Beach, CA, USA",losita
+"""been""","Sugar Land, TX, USA",losita
+"""been""","Galveston, TX, USA",losita
+"""been""","City of San Marino, San Marino",losita
+"""been""","Vancouver, British Columbia, Canada",losita
+"""been""","Whistler, British Columbia, Canada",losita
+"""been""","Bologna, Italy",losita
+"""been""","Victoria, British Columbia, Canada",losita
+"""been""","Garland, TX, USA",losita
+"""been""","Avon, CO, USA",losita
+"""been""","Morro Bay, CA, USA",losita
+"""been""","Stansted Mountfitchet, UK",losita
+"""been""","Winslow, AZ, USA",losita
+"""been""","College Station, TX, USA",losita
+"""been""","Sciacca, Italy",losita
+"""been""","Las Vegas, NV, USA",losita
+"""been""","Kamloops, British Columbia, Canada",losita
+"""been""","Dublin, Ireland",losita
+"""been""","Udine, Italy",losita
+"""been""","Cork, Ireland",losita
+"""been""","Laughlin, NV, USA",losita
+"""been""","Grindavik, Iceland",losita
+"""been""","Mont-Saint-Michel, France",losita
+"""been""","Fort Stockton, TX, USA",losita
+"""been""","Chicago, IL, USA",losita
+"""been""","Denton, TX, USA",losita
+"""been""","Fresno, CA, USA",losita
+"""been""","Chickamauga, GA, USA",losita
+"""been""","Prescott, AZ, USA",losita
+"""been""","Spring, TX, USA",losita
+"""been""","Los Angeles, CA, USA",losita
+"""been""","Fort Worth, TX, USA",losita
+"""been""","Kilkenny, Ireland",losita
+"""want""","Portofino, Italy",losita
+"""want""","Genoa, Italy",losita
+"""been""","Henderson, NV, USA",losita
+"""been""","Fort Bragg, CA, USA",losita
+"""been""","Izmir, Turkey",losita
+"""been""","Phoenix, AZ, USA",losita
+"""been"",""fave""","Fredericksburg, TX, USA",losita
+"""been""","Stonewall, TX, USA",losita
+"""been""","Long Beach, CA, USA",losita
+"""been""","Waco, TX, USA",losita

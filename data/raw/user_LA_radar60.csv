@@ -1,0 +1,363 @@
+tag,place,user
+"""been""","Sanford, NC, USA",radar60
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",radar60
+"""been""","Cambridge, Ontario, Canada",radar60
+"""been""","Burlington, Ontario, Canada",radar60
+"""been""","Henderson, NV, USA",radar60
+"""want""","Patagonia, AZ, USA",radar60
+"""been""","Quebec City, Quebec, Canada",radar60
+"""been""","Munich, Germany",radar60
+"""been""","Sacramento, CA, USA",radar60
+"""been""","Montreal, Quebec, Canada",radar60
+"""been""","London, UK",radar60
+"""been""","Livermore, CA, USA",radar60
+"""been""","Payson, AZ, USA",radar60
+"""been""","Peach Springs, AZ, USA",radar60
+"""been""","Philadelphia, PA, USA",radar60
+"""been""","Rotterdam, The Netherlands",radar60
+"""been""","Santa Clara, CA, USA",radar60
+"""been""","Leiden, The Netherlands",radar60
+"""been""","Santa Barbara, CA, USA",radar60
+"""been""","Santa Cruz, CA, USA",radar60
+"""been""","Antwerp, Belgium",radar60
+"""been""","Santa Clarita, CA, USA",radar60
+"""been""","Paradise Valley, AZ, USA",radar60
+"""been""","The Hague, The Netherlands",radar60
+"""been""","Beverly Hills, CA, USA",radar60
+"""been""","Panama City, Panama",radar60
+"""been""","Guelph, Ontario, Canada",radar60
+"""been""","Laval, Quebec, Canada",radar60
+"""been""","Las Vegas, NV, USA",radar60
+"""been""","Laughlin, NV, USA",radar60
+"""been""","Fira, Greece",radar60
+"""been""","Pebble Beach, CA, USA",radar60
+"""been""","Morro Bay, CA, USA",radar60
+"""been""","Windsor, Ontario, Canada",radar60
+"""been""","Dobson, NC, USA",radar60
+"""been"",""want"",""fave""","Rocky Mountain National Park, CO, USA",radar60
+"""been""","Passau, Germany",radar60
+"""been""","Forks, WA, USA",radar60
+"""been""","Paso Robles, CA, USA",radar60
+"""been""","San Simeon, CA, USA",radar60
+"""been""","Brussels, Belgium",radar60
+"""been""","Oia, Greece",radar60
+"""been""","Nabq Bay, Egypt",radar60
+"""been""","Bellingham, WA, USA",radar60
+"""been""","Reykjavik, Iceland",radar60
+"""been""","Belmont, CA, USA",radar60
+"""been""","Rome, Italy",radar60
+"""been""","Ben Lomond, CA, USA",radar60
+"""been""","Fresno, CA, USA",radar60
+"""been""","Los Angeles, CA, USA",radar60
+"""been""","Cottonwood, AZ, USA",radar60
+"""been""","Wittenberg, Germany",radar60
+"""been""","Utrecht, The Netherlands",radar60
+"""been""","Delta, British Columbia, Canada",radar60
+"""been""","Courtenay, British Columbia, Canada",radar60
+"""been""","Istanbul, Turkey",radar60
+"""been""","Chicago, IL, USA",radar60
+"""been""","Milwaukee, WI, USA",radar60
+"""been""","Pismo Beach, CA, USA",radar60
+"""been""","Los Alamos, CA, USA",radar60
+"""been""","Atlanta, GA, USA",radar60
+"""been""","Skopje, Republic of North Macedonia",radar60
+"""been""","Pittsburg, CA, USA",radar60
+"""been""","Prescott, AZ, USA",radar60
+"""been""","Dover, UK",radar60
+"""want""","San Carlos, Mexico",radar60
+"""been""","Tracy, CA, USA",radar60
+"""been""","Niagara Falls, Ontario, Canada",radar60
+"""been""","Mississauga, Ontario, Canada",radar60
+"""been""","London, Ontario, Canada",radar60
+"""been""","Kingston, Ontario, Canada",radar60
+"""been""","Napa, CA, USA",radar60
+"""been""","Lompoc, CA, USA",radar60
+"""been""","Hamilton, Ontario, Canada",radar60
+"""been""","Erfurt, Germany",radar60
+"""been""","Rila, Bulgaria",radar60
+"""been""","Atascadero, CA, USA",radar60
+"""been""","Inglewood, CA, USA",radar60
+"""been""","Delft, The Netherlands",radar60
+"""been""","Arroyo Grande, CA, USA",radar60
+"""been""","Long Beach, CA, USA",radar60
+"""been""","El Gouna, Egypt",radar60
+"""been""","Santa Rosa, CA, USA",radar60
+"""been""","Florence, Italy",radar60
+"""been""","New York City, NY, USA",radar60
+"""been""","Boulder City, NV, USA",radar60
+"""been""","Santa Ynez, CA, USA",radar60
+"""been""","Pisa, Italy",radar60
+"""been""","Gabrovo, Bulgaria",radar60
+"""been""","Campbell River, British Columbia, Canada",radar60
+"""been""","Phoenix, AZ, USA",radar60
+"""been""","Burnaby, British Columbia, Canada",radar60
+"""been""","Cedar City, UT, USA",radar60
+"""been""","South Bend, IN, USA",radar60
+"""been""","Kiel, Germany",radar60
+"""been""","Rapid City, SD, USA",radar60
+"""been""","Ventura, CA, USA",radar60
+"""been""","Santa Maria, CA, USA",radar60
+"""been""","Santa Margarita, CA, USA",radar60
+"""been""","Santa Monica, CA, USA",radar60
+"""been""","Niagara-on-the-Lake, Ontario, Canada",radar60
+"""been""","Dallas, TX, USA",radar60
+"""been""","Deurne, The Netherlands",radar60
+"""been""","Oroville, CA, USA",radar60
+"""been""","Oxnard, CA, USA",radar60
+"""been""","Ruedesheim am Rhein, Germany",radar60
+"""been""","Athens, Greece",radar60
+"""been""","San Diego, CA, USA",radar60
+"""been""","Colorado Springs, CO, USA",radar60
+"""been""","La Conner, WA, USA",radar60
+"""been""","Nuweiba, Egypt",radar60
+"""been""","Chinle, AZ, USA",radar60
+"""been""","Bakersfield, CA, USA",radar60
+"""been""","Safaga, Egypt",radar60
+"""been""","Seattle, WA, USA",radar60
+"""been"",""want"",""fave""","Yellowstone National Park, WY, USA",radar60
+"""been""","Houston, TX, USA",radar60
+"""been""","Ostend, Belgium",radar60
+"""been""","Bruges, Belgium",radar60
+"""been""","Schiedam, The Netherlands",radar60
+"""been""","Ain Sukhna, Egypt",radar60
+"""been""","Boulder, UT, USA",radar60
+"""been""","Orcutt, CA, USA",radar60
+"""been""","Big Water, UT, USA",radar60
+"""been""","Romulus, MI, USA",radar60
+"""been""","Orange, CA, USA",radar60
+"""been""","Honolulu, HI, USA",radar60
+"""been""","Mostar, Bosnia and Herzegovina",radar60
+"""been""","Ucluelet, British Columbia, Canada",radar60
+"""been""","Boston, MA, USA",radar60
+"""been""","Cambria, CA, USA",radar60
+"""been""","Bleiswijk, The Netherlands",radar60
+"""been""","Wolfsburg, Germany",radar60
+"""been""","Camarillo, CA, USA",radar60
+"""been""","Saint Paul, MN, USA",radar60
+"""been"",""want""","New Orleans, LA, USA",radar60
+"""been""","Veliko Tarnovo, Bulgaria",radar60
+"""been""","Noord, Aruba",radar60
+"""been""","Someren-Heide, The Netherlands",radar60
+"""been""","Benson, AZ, USA",radar60
+"""been""","Bisbee, AZ, USA",radar60
+"""been""","Lemon Cove, CA, USA",radar60
+"""been""","Fletcher, NC, USA",radar60
+"""been""","Mount Airy, NC, USA",radar60
+"""been"",""fave""","Monterey, CA, USA",radar60
+"""been""","Williams, AZ, USA",radar60
+"""been""","Pasadena, CA, USA",radar60
+"""been""","Flagstaff, AZ, USA",radar60
+"""been""","Berlin, Germany",radar60
+"""been""","Carpinteria, CA, USA",radar60
+"""been""","San Luis Obispo, CA, USA",radar60
+"""been""","Casmalia, CA, USA",radar60
+"""been""","Sunnyvale, CA, USA",radar60
+"""been""","Denver, CO, USA",radar60
+"""been""","Alexandria, Egypt",radar60
+"""been""","Buffalo, NY, USA",radar60
+"""been""","Liege, Belgium",radar60
+"""been""","Plovdiv, Bulgaria",radar60
+"""been""","San Jose, CA, USA",radar60
+"""been""","Round Rock, TX, USA",radar60
+"""been""","Carmel, CA, USA",radar60
+"""been""","Charlotte, NC, USA",radar60
+"""been""","Newark, NJ, USA",radar60
+"""been""","West Hollywood, CA, USA",radar60
+"""been""","Hamburg, Germany",radar60
+"""been""","Tacoma, WA, USA",radar60
+"""been""","Charleston, SC, USA",radar60
+"""been""","Frankfurt, Germany",radar60
+"""been""","Kingsville, Ontario, Canada",radar60
+"""been""","Pacific Grove, CA, USA",radar60
+"""been""","Three Rivers, CA, USA",radar60
+"""been""","Ghent, Belgium",radar60
+"""been""","Moab, UT, USA",radar60
+"""been""","Chandler, AZ, USA",radar60
+"""been""","Porterville, CA, USA",radar60
+"""been""","Saint Jerome, Quebec, Canada",radar60
+"""been""","Niagara Falls, NY, USA",radar60
+"""been""","Twin Falls, ID, USA",radar60
+"""been"",""fave""","Yosemite National Park, CA, USA",radar60
+"""been""","Osoyoos, British Columbia, Canada",radar60
+"""been""","Abbotsford, British Columbia, Canada",radar60
+"""been""","Kitzbuhel, Austria",radar60
+"""been""","Lake Havasu City, AZ, USA",radar60
+"""been""","Tucson, AZ, USA",radar60
+"""been""","Paris, France",radar60
+"""been""","Surrey, British Columbia, Canada",radar60
+"""been""","Park City, UT, USA",radar60
+"""been""","Zurich, Switzerland",radar60
+"""been""","Salzburg, Austria",radar60
+"""been""","Amsterdam, The Netherlands",radar60
+"""been""","El Quseir, Egypt",radar60
+"""been""","San Francisco, CA, USA",radar60
+"""been""","Page, AZ, USA",radar60
+"""been""","Agia Paraskevi, Greece",radar60
+"""been""","Thousand Oaks, CA, USA",radar60
+"""been""","Haarlem, The Netherlands",radar60
+"""been""","Asten, The Netherlands",radar60
+"""been""","Muenster, Germany",radar60
+"""been""","Tombstone, AZ, USA",radar60
+"""been""","Pawleys Island, SC, USA",radar60
+"""been""","Soma Bay, Egypt",radar60
+"""been""","Half Moon Bay, CA, USA",radar60
+"""been""","Palm - Eagle Beach, Aruba",radar60
+"""been""","Spokane, WA, USA",radar60
+"""been""","Kingman, AZ, USA",radar60
+"""been""","Brentwood, CA, USA",radar60
+"""been""","Brea, CA, USA",radar60
+"""been""","Oranjestad, Aruba",radar60
+"""been""","Someren, The Netherlands",radar60
+"""been""","Punta de Mita, Mexico",radar60
+"""been""","Boulder Creek, CA, USA",radar60
+"""been""","La Quinta, CA, USA",radar60
+"""been""","Surprise, AZ, USA",radar60
+"""been""","Fort Wayne, IN, USA",radar60
+"""been""","Sainte-Adele, Quebec, Canada",radar60
+"""been""","Guadalupe, CA, USA",radar60
+"""been""","Veldhoven, The Netherlands",radar60
+"""been""","Clovis, CA, USA",radar60
+"""been""","Tempe, AZ, USA",radar60
+"""been""","Kayenta, AZ, USA",radar60
+"""been""","Vail, CO, USA",radar60
+"""been""","Koblenz, Germany",radar60
+"""been"",""fave""","Estes Park, CO, USA",radar60
+"""been""","Saarbrucken, Germany",radar60
+"""been""","Brooklyn, NY, USA",radar60
+"""been""","Mainz, Germany",radar60
+"""been""","Trier, Germany",radar60
+"""been""","Sioux Falls, SD, USA",radar60
+"""been""","Cleveland, OH, USA",radar60
+"""been""","Hissarya, Bulgaria",radar60
+"""been""","Paradera, Aruba",radar60
+"""been""","Oakland, CA, USA",radar60
+"""want""","Jackson, WY, USA",radar60
+"""been""","Ramona, CA, USA",radar60
+"""been""","Oceanside, CA, USA",radar60
+"""been""","Byron, CA, USA",radar60
+"""been""","Austin, TX, USA",radar60
+"""been""","Solvang, CA, USA",radar60
+"""been""","Victorville, CA, USA",radar60
+"""been""","Soledad, CA, USA",radar60
+"""been""","Anaheim, CA, USA",radar60
+"""been""","Monument Valley, UT, USA",radar60
+"""been""","Calabasas, CA, USA",radar60
+"""been""","Bochum, Germany",radar60
+"""been""","Albuquerque, NM, USA",radar60
+"""been""","Copenhagen, Denmark",radar60
+"""been""","Dinteloord, The Netherlands",radar60
+"""been""","Groningen, The Netherlands",radar60
+"""been""","Mesa, AZ, USA",radar60
+"""been""","South Lake Tahoe, CA, USA",radar60
+"""been""","Richmond, British Columbia, Canada",radar60
+"""been""","Puerto Vallarta, Mexico",radar60
+"""been""","North Vancouver, British Columbia, Canada",radar60
+"""been""","Schiphol, The Netherlands",radar60
+"""been""","Gallup, NM, USA",radar60
+"""been""","Queretaro City, Mexico",radar60
+"""been""","Uden, The Netherlands",radar60
+"""been""","North Charleston, SC, USA",radar60
+"""been""","North Myrtle Beach, SC, USA",radar60
+"""been""","Essen, Germany",radar60
+"""been""","Buellton, CA, USA",radar60
+"""been""","SeaTac, WA, USA",radar60
+"""been""","Breda, The Netherlands",radar60
+"""been""","Bonn, Germany",radar60
+"""been""","Salt Lake City, UT, USA",radar60
+"""been""","Dusseldorf, Germany",radar60
+"""been""","Calgary, Alberta, Canada",radar60
+"""been""","Duisburg, Germany",radar60
+"""been""","Eindhoven, The Netherlands",radar60
+"""been""","Cologne, Germany",radar60
+"""been""","Guanajuato, Mexico",radar60
+"""been""","Dortmund, Germany",radar60
+"""been""","Lauterbrunnen, Switzerland",radar60
+"""been""","Vancouver, British Columbia, Canada",radar60
+"""been""","Pinehurst, NC, USA",radar60
+"""been""","Nuevo Vallarta, Mexico",radar60
+"""been"",""want"",""fave""","Arches National Park, UT, USA",radar60
+"""been""","Manhattan Beach, CA, USA",radar60
+"""been"",""fave""","Badlands National Park, SD, USA",radar60
+"""been""","Washington DC, DC, USA",radar60
+"""been""","King City, CA, USA",radar60
+"""been""","Mersa Matruh, Egypt",radar60
+"""been""","Monschau, Germany",radar60
+"""been""","Aswan, Egypt",radar60
+"""been""","Luxor, Egypt",radar60
+"""been""","Aspen, CO, USA",radar60
+"""been""","Cairo, Egypt",radar60
+"""been""","Giza, Egypt",radar60
+"""been""","Glendale, CA, USA",radar60
+"""been""","Dublin, CA, USA",radar60
+"""been""","Malibu, CA, USA",radar60
+"""been""","Plainville, CT, USA",radar60
+"""been""","Santa Nella, CA, USA",radar60
+"""been""","White Rock, British Columbia, Canada",radar60
+"""been""","Whistler, British Columbia, Canada",radar60
+"""been""","Vernon, British Columbia, Canada",radar60
+"""want""","Hermosillo, Mexico",radar60
+"""been""","Victoria, British Columbia, Canada",radar60
+"""been""","Kamloops, British Columbia, Canada",radar60
+"""been""","Harrison Hot Springs, British Columbia, Canada",radar60
+"""been""","Myrtle Beach, SC, USA",radar60
+"""been""","Winston Salem, NC, USA",radar60
+"""been""","Gretna, LA, USA",radar60
+"""been""","Port Alberni, British Columbia, Canada",radar60
+"""been""","Mont Tremblant, Quebec, Canada",radar60
+"""been""","Basel, Switzerland",radar60
+"""been""","Los Olivos, CA, USA",radar60
+"""been""","Venice, Italy",radar60
+"""been""","Detroit, MI, USA",radar60
+"""been""","Zandvoort, The Netherlands",radar60
+"""been""","Luxembourg City, Luxembourg",radar60
+"""been""","Sofia, Bulgaria",radar60
+"""been""","Barstow, CA, USA",radar60
+"""been""","Cochem, Germany",radar60
+"""been""","Mills River, NC, USA",radar60
+"""been""","Prince George, British Columbia, Canada",radar60
+"""been""","Penticton, British Columbia, Canada",radar60
+"""been""","Nanaimo, British Columbia, Canada",radar60
+"""been""","Newark, DE, USA",radar60
+"""been""","Kelowna, British Columbia, Canada",radar60
+"""been""","Toronto, Ontario, Canada",radar60
+"""been""","Jesolo, Italy",radar60
+"""been""","St. Catharines, Ontario, Canada",radar60
+"""been""","Kaprun, Austria",radar60
+"""been""","Mayrhofen, Austria",radar60
+"""been""","Zell am See, Austria",radar60
+"""been""","Saalbach-Hinterglemm, Austria",radar60
+"""been""","Kitchener, Ontario, Canada",radar60
+"""been""","Staten Island, NY, USA",radar60
+"""been""","Qualicum Beach, British Columbia, Canada",radar60
+"""been""","Kanab, UT, USA",radar60
+"""been""","Hoofddorp, The Netherlands",radar60
+"""been""","Holbrook, AZ, USA",radar60
+"""been""","Yuba City, CA, USA",radar60
+"""been""","Fort Collins, CO, USA",radar60
+"""been""","Pravets, Bulgaria",radar60
+"""been""","Meadows of Dan, VA, USA",radar60
+"""been""","Portland, OR, USA",radar60
+"""been""","Georgetown, TX, USA",radar60
+"""been""","Heidelberg, Germany",radar60
+"""been""","North Las Vegas, NV, USA",radar60
+"""been""","Overton, NV, USA",radar60
+"""been""","Ottawa, Ontario, Canada",radar60
+"""been""","Bronx, NY, USA",radar60
+"""been""","Deming, NM, USA",radar60
+"""been""","Oakville, Ontario, Canada",radar60
+"""been""","Marysville, CA, USA",radar60
+"""want""","Green Valley, AZ, USA",radar60
+"""been""","Sierra Vista, AZ, USA",radar60
+"""been""","Minneapolis, MN, USA",radar60
+"""been""","Chiriaco Summit, CA, USA",radar60
+"""been""","Scottsdale, AZ, USA",radar60
+"""been""","Maidstone, UK",radar60
+"""been""","Glendale, AZ, USA",radar60
+"""been""","Cody, WY, USA",radar60
+"""been""","Seligman, AZ, USA",radar60
+"""been""","Gatineau, Quebec, Canada",radar60
+"""been""","Anacortes, WA, USA",radar60
+"""been""","Simi Valley, CA, USA",radar60
+"""been""","Mannheim, Germany",radar60
+"""been""","Stuttgart, Germany",radar60
+"""been""","Boise, ID, USA",radar60

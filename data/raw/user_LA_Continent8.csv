@@ -1,0 +1,834 @@
+tag,place,user
+"""been""","Pittsburgh, PA, USA",Continent8
+"""been""","Banos, Ecuador",Continent8
+"""been""","Rapid City, SD, USA",Continent8
+"""been""","Fredericksburg, TX, USA",Continent8
+"""been""","Ushuaia, Argentina",Continent8
+"""been""","La Seu d'Urgell, Spain",Continent8
+"""been""","Mesenich, Germany",Continent8
+"""been""","Nehren, Germany",Continent8
+"""been""","Mueden, Germany",Continent8
+"""been""","Urzig, Germany",Continent8
+"""been""","Saint Paul, NE, USA",Continent8
+"""been""","Avon, CO, USA",Continent8
+"""been""","Baosici, Montenegro",Continent8
+"""been""","Pueblo, CO, USA",Continent8
+"""been""","Bryce, UT, USA",Continent8
+"""been""","Mystic, CT, USA",Continent8
+"""been""","Sacramento, CA, USA",Continent8
+"""been""","Fort Worth, TX, USA",Continent8
+"""been""","Pierre, SD, USA",Continent8
+"""been""","Wichita, KS, USA",Continent8
+"""been""","Kinheim, Germany",Continent8
+"""been""","Ediger-Eller, Germany",Continent8
+"""been""","Modesto, CA, USA",Continent8
+"""been""","Long Island City, NY, USA",Continent8
+"""been""","Colera, Spain",Continent8
+"""been""","Paro, Bhutan",Continent8
+"""been""","Monterey, CA, USA",Continent8
+"""been""","Williams, AZ, USA",Continent8
+"""been""","Chlebice, Poland",Continent8
+"""been""","Lexington, KY, USA",Continent8
+"""been""","Arcugnano, Italy",Continent8
+"""been""","Lutz, Germany",Continent8
+"""been""","Colon, Panama",Continent8
+"""been""","Mont-Saint-Michel, France",Continent8
+"""been""","Alexandria, Egypt",Continent8
+"""been""","Iowa City, IA, USA",Continent8
+"""been""","Jackson, MS, USA",Continent8
+"""been""","Fayetteville, NC, USA",Continent8
+"""been""","Kranj, Slovenia",Continent8
+"""been""","Chiclayo, Peru",Continent8
+"""been""","Bullay, Germany",Continent8
+"""been""","Redwood City, CA, USA",Continent8
+"""been""","Taos Ski Valley, NM, USA",Continent8
+"""been""","Tulsa, OK, USA",Continent8
+"""been""","Harrisburg, PA, USA",Continent8
+"""been""","Enkirch, Germany",Continent8
+"""been""","Bogota, Colombia",Continent8
+"""been""","Erden, Germany",Continent8
+"""been""","Kostanjica, Montenegro",Continent8
+"""been""","Torre del Lago Puccini, Italy",Continent8
+"""been""","Siena, Italy",Continent8
+"""been""","King George Island, Antarctica",Continent8
+"""been""","Brauneberg, Germany",Continent8
+"""been""","Deception Island, Antarctica",Continent8
+"""been""","Ruidoso, NM, USA",Continent8
+"""been""","Portbou, Spain",Continent8
+"""been""","Mitchell, SD, USA",Continent8
+"""been""","Daxin County, China",Continent8
+"""been""","Juliaca, Peru",Continent8
+"""been""","Puno, Peru",Continent8
+"""been""","Trujillo, Peru",Continent8
+"""been""","Battipaglia, Italy",Continent8
+"""been""","Vietri sul Mare, Italy",Continent8
+"""been""","Astoria, OR, USA",Continent8
+"""been""","Jacksonville, FL, USA",Continent8
+"""been""","Moselkern, Germany",Continent8
+"""been""","Iguazu National Park, Argentina",Continent8
+"""been""","Chattanooga, TN, USA",Continent8
+"""been""","Trsteno, Croatia",Continent8
+"""been""","Savannah, GA, USA",Continent8
+"""been""","Cetara, Italy",Continent8
+"""been""","Roswell, NM, USA",Continent8
+"""been""","Angel Fire, NM, USA",Continent8
+"""been""","Pimonte, Italy",Continent8
+"""been""","Conca dei Marini, Italy",Continent8
+"""been""","Furore, Italy",Continent8
+"""been""","Raton, NM, USA",Continent8
+"""been""","Stillwater, OK, USA",Continent8
+"""want""","Plymouth, CA, USA",Continent8
+"""been""","Niagara Falls, NY, USA",Continent8
+"""been""","Berlin, Germany",Continent8
+"""been""","Boca Raton, FL, USA",Continent8
+"""been""","Brooklyn, NY, USA",Continent8
+"""been""","Kamenari, Montenegro",Continent8
+"""been""","Abbeville, France",Continent8
+"""been""","Auckland Central, New Zealand",Continent8
+"""been""","Ballarat, Australia",Continent8
+"""been""","Wanaka, New Zealand",Continent8
+"""been""","Launceston, Australia",Continent8
+"""been""","Page, AZ, USA",Continent8
+"""been""","Perth, Australia",Continent8
+"""been""","Melbourne, Australia",Continent8
+"""been""","West Glacier, MT, USA",Continent8
+"""been""","Mobile, AL, USA",Continent8
+"""been""","Pompeii, Italy",Continent8
+"""been""","Antwerp, Belgium",Continent8
+"""been""","Broken Hill, Australia",Continent8
+"""been""","Shengjin, Albania",Continent8
+"""been""","Greensboro, NC, USA",Continent8
+"""been""","Atkinson, NE, USA",Continent8
+"""been""","Gatlinburg, TN, USA",Continent8
+"""been""","Naples, Italy",Continent8
+"""been""","Boise, ID, USA",Continent8
+"""been""","Amalfi, Italy",Continent8
+"""been""","Krov, Germany",Continent8
+"""been""","Brussels, Belgium",Continent8
+"""been""","Fussen, Germany",Continent8
+"""been""","Great Falls, MT, USA",Continent8
+"""been""","Sveti Lovrec, Croatia",Continent8
+"""been""","Ararat, Australia",Continent8
+"""been""","Puenderich, Germany",Continent8
+"""been""","Newcastle, Australia",Continent8
+"""been""","Cortez, CO, USA",Continent8
+"""been""","Hot Springs, AR, USA",Continent8
+"""been""","Beatrice, NE, USA",Continent8
+"""been""","Rome, Italy",Continent8
+"""been""","McPherson, KS, USA",Continent8
+"""been""","Bronx, NY, USA",Continent8
+"""been""","Lihue, HI, USA",Continent8
+"""been""","Custer, SD, USA",Continent8
+"""been""","New Orleans, LA, USA",Continent8
+"""been""","Eugene, OR, USA",Continent8
+"""been""","Tulare, CA, USA",Continent8
+"""been""","Concordia, KS, USA",Continent8
+"""been""","Marysville, KS, USA",Continent8
+"""been""","Sioux City, IA, USA",Continent8
+"""been""","Seward, AK, USA",Continent8
+"""been""","Hana, HI, USA",Continent8
+"""been""","Oberfell, Germany",Continent8
+"""been""","Posedarje, Croatia",Continent8
+"""been""","Casina, Italy",Continent8
+"""been""","Seattle, WA, USA",Continent8
+"""been""","Lahaina, HI, USA",Continent8
+"""been""","Kihei, HI, USA",Continent8
+"""been""","Matera, Italy",Continent8
+"""been""","Potenza, Italy",Continent8
+"""been""","Hollywood, FL, USA",Continent8
+"""been""","Ashland, NE, USA",Continent8
+"""been""","West Wendover, NV, USA",Continent8
+"""been""","Colby, KS, USA",Continent8
+"""been""","Manhattan, KS, USA",Continent8
+"""been""","Anchorage, AK, USA",Continent8
+"""been""","Windsor, UK",Continent8
+"""been""","Uluru-Kata Tjuta National Park, Australia",Continent8
+"""been""","Wellington, New Zealand",Continent8
+"""been""","Katherine, Australia",Continent8
+"""been""","Taupo, New Zealand",Continent8
+"""been""","Rotorua, New Zealand",Continent8
+"""been""","Wisconsin Dells, WI, USA",Continent8
+"""been""","Chinchero, Peru",Continent8
+"""been""","Omaha, NE, USA",Continent8
+"""been""","Toritto, Italy",Continent8
+"""been""","Geelong, Australia",Continent8
+"""been""","Truckee, CA, USA",Continent8
+"""been""","Kailua, HI, USA",Continent8
+"""been""","West Yellowstone, MT, USA",Continent8
+"""been""","Thimphu, Bhutan",Continent8
+"""been""","East Glacier Park, MT, USA",Continent8
+"""been""","Ferrandina, Italy",Continent8
+"""been""","Bernkastel-Kues, Germany",Continent8
+"""been""","Zell (Mosel), Germany",Continent8
+"""been""","Kalgoorlie-Boulder, Australia",Continent8
+"""been""","Queenstown, New Zealand",Continent8
+"""been""","Atlanta, GA, USA",Continent8
+"""been""","Cochem, Germany",Continent8
+"""been""","Warrnambool, Australia",Continent8
+"""been""","Hulst, The Netherlands",Continent8
+"""been""","Memphis, TN, USA",Continent8
+"""been""","Santiago, Chile",Continent8
+"""been""","Valparaiso, Chile",Continent8
+"""been""","Omis, Croatia",Continent8
+"""been""","Jablanac, Croatia",Continent8
+"""been""","Dayton, OH, USA",Continent8
+"""been""","Cuenca, Ecuador",Continent8
+"""been""","Quito, Ecuador",Continent8
+"""been""","Agerola, Italy",Continent8
+"""been""","San Simeon, CA, USA",Continent8
+"""been""","Mestre, Italy",Continent8
+"""been""","Cava De' Tirreni, Italy",Continent8
+"""been""","Lima, Peru",Continent8
+"""been""","Cusco, Peru",Continent8
+"""been""","Columbus, NE, USA",Continent8
+"""been""","Arequipa, Peru",Continent8
+"""been""","Philadelphia, PA, USA",Continent8
+"""been""","Dinosaur, CO, USA",Continent8
+"""been""","Baska Voda, Croatia",Continent8
+"""been""","Mammoth Lakes, CA, USA",Continent8
+"""been""","Overland Park, KS, USA",Continent8
+"""been""","Branson, MO, USA",Continent8
+"""been""","Bratislava, Slovakia",Continent8
+"""been""","Klamath Falls, OR, USA",Continent8
+"""been""","Machu Picchu, Peru",Continent8
+"""been""","Ollantaytambo, Peru",Continent8
+"""been""","Katoomba, Australia",Continent8
+"""been""","Gettysburg, PA, USA",Continent8
+"""been""","Vienna, Austria",Continent8
+"""been""","Santa Cruz, CA, USA",Continent8
+"""been""","Santa Barbara, CA, USA",Continent8
+"""been""","Marina di Massa, Italy",Continent8
+"""been""","Marina di Pietrasanta, Italy",Continent8
+"""been""","Tullah, Australia",Continent8
+"""been""","Orahovac, Montenegro",Continent8
+"""been""","Altamura, Italy",Continent8
+"""been""","Brasilia, Brazil",Continent8
+"""been""","Urubamba, Peru",Continent8
+"""been""","Chadron, NE, USA",Continent8
+"""been""","Olathe, KS, USA",Continent8
+"""been""","Peoria, IL, USA",Continent8
+"""been""","Szekesfehervar, Hungary",Continent8
+"""been""","Keenesburg, CO, USA",Continent8
+"""been""","Torrington, WY, USA",Continent8
+"""been""","Julesburg, CO, USA",Continent8
+"""been""","Pisac, Peru",Continent8
+"""been""","West Hollywood, CA, USA",Continent8
+"""been""","Maiori, Italy",Continent8
+"""been""","Queenstown, Australia",Continent8
+"""been""","Traben-Trarbach, Germany",Continent8
+"""been""","Dubai, United Arab Emirates",Continent8
+"""been""","Kalispell, MT, USA",Continent8
+"""been""","Carlsbad Caverns National Park, NM, USA",Continent8
+"""been""","Wheatland, WY, USA",Continent8
+"""been""","Cape Coral, FL, USA",Continent8
+"""been""","Cape Canaveral, FL, USA",Continent8
+"""been""","Halls Gap, Australia",Continent8
+"""been""","San Luis Obispo, CA, USA",Continent8
+"""been""","Columbia, SC, USA",Continent8
+"""been""","Carmel, CA, USA",Continent8
+"""been""","San Jose, CA, USA",Continent8
+"""been""","Graach, Germany",Continent8
+"""been""","Zaostrog, Croatia",Continent8
+"""been""","Hood River, OR, USA",Continent8
+"""been""","Burwell, NE, USA",Continent8
+"""been""","Hilo, HI, USA",Continent8
+"""been""","Coeur d'Alene, ID, USA",Continent8
+"""been""","Gruda, Croatia",Continent8
+"""been""","Nagarkot, Nepal",Continent8
+"""been""","Hot Sulphur Springs, CO, USA",Continent8
+"""been""","Holyoke, CO, USA",Continent8
+"""been""","Kathmandu, Nepal",Continent8
+"""been""","Pokhara, Nepal",Continent8
+"""been""","Tacoma, WA, USA",Continent8
+"""been""","Visalia, CA, USA",Continent8
+"""been""","Poasito, Costa Rica",Continent8
+"""been""","Charleston, SC, USA",Continent8
+"""been""","Port Fairy, Australia",Continent8
+"""been""","New Braunfels, TX, USA",Continent8
+"""been""","Torquay, Australia",Continent8
+"""been""","Monte-Carlo, Monaco",Continent8
+"""been""","Bicheno, Australia",Continent8
+"""been""","McCook, NE, USA",Continent8
+"""been""","Des Moines, IA, USA",Continent8
+"""been""","Besalu, Spain",Continent8
+"""been""","Richmond, British Columbia, Canada",Continent8
+"""been""","Apollo Bay, Australia",Continent8
+"""been""","Deloraine, Australia",Continent8
+"""been""","Pompano Beach, FL, USA",Continent8
+"""been""","Marseille, France",Continent8
+"""been""","Bremm, Germany",Continent8
+"""been""","Terezin, Czech Republic",Continent8
+"""been""","Pensacola Beach, FL, USA",Continent8
+"""been""","Przno, Montenegro",Continent8
+"""been""","Brno, Czech Republic",Continent8
+"""been""","Alas, Spain",Continent8
+"""been""","Spokane, WA, USA",Continent8
+"""been""","Pommern, Germany",Continent8
+"""been""","Burbank, CA, USA",Continent8
+"""been""","Greeley, CO, USA",Continent8
+"""been""","Panama City Beach, FL, USA",Continent8
+"""been""","Panama City, FL, USA",Continent8
+"""been""","Escaldes-Engordany, Andorra",Continent8
+"""been""","Arlington, TX, USA",Continent8
+"""been""","Cannes, France",Continent8
+"""been""","Grand Junction, CO, USA",Continent8
+"""been""","Soldeu, Andorra",Continent8
+"""been""","Athens, Greece",Continent8
+"""been""","Prague, Czech Republic",Continent8
+"""been""","Gyangze County, China",Continent8
+"""been""","Shigatse, China",Continent8
+"""been""","Milford, KS, USA",Continent8
+"""been""","Pisak, Croatia",Continent8
+"""been""","Austin, TX, USA",Continent8
+"""been""","Pensacola, FL, USA",Continent8
+"""been""","Nice, France",Continent8
+"""been""","Mesa, AZ, USA",Continent8
+"""been""","Lexington, NE, USA",Continent8
+"""been""","Lincoln, NE, USA",Continent8
+"""been""","Eaglehawk Neck, Australia",Continent8
+"""been""","Lewellen, NE, USA",Continent8
+"""been""","Puntarenas, Costa Rica",Continent8
+"""been""","Kingman, AZ, USA",Continent8
+"""been""","Watsons Bay, Australia",Continent8
+"""been""","Vail, CO, USA",Continent8
+"""been""","SeaTac, WA, USA",Continent8
+"""been""","Laguna Beach, CA, USA",Continent8
+"""been""","Amarillo, TX, USA",Continent8
+"""been""","Nashville, TN, USA",Continent8
+"""been""","Frisco, CO, USA",Continent8
+"""been""","Avranches, France",Continent8
+"""been""","Trinidad, CO, USA",Continent8
+"""been""","North Charleston, SC, USA",Continent8
+"""been""","Trojane, Slovenia",Continent8
+"""been""","Esparza, Costa Rica",Continent8
+"""been""","Regina, Saskatchewan, Canada",Continent8
+"""been""","Saskatoon, Saskatchewan, Canada",Continent8
+"""been""","Kimball, NE, USA",Continent8
+"""been""","Whitehorse, Yukon, Canada",Continent8
+"""been""","Granby, CO, USA",Continent8
+"""been""","Golden, CO, USA",Continent8
+"""been""","Twin Falls, ID, USA",Continent8
+"""been""","Glenwood Springs, CO, USA",Continent8
+"""been""","Cabanaconde, Peru",Continent8
+"""been""","Lake Havasu City, AZ, USA",Continent8
+"""been""","Palm Beach, FL, USA",Continent8
+"""been""","Georgetown, CO, USA",Continent8
+"""been""","Kearney, NE, USA",Continent8
+"""been""","Detroit, MI, USA",Continent8
+"""been""","Juniata, NE, USA",Continent8
+"""been""","Waco, NE, USA",Continent8
+"""been""","Sterling, CO, USA",Continent8
+"""been""","Steamboat Springs, CO, USA",Continent8
+"""been""","Evergreen, CO, USA",Continent8
+"""been""","South Fork, CO, USA",Continent8
+"""been""","Empire, CO, USA",Continent8
+"""been""","Snowmass Village, CO, USA",Continent8
+"""been""","Goshen, Australia",Continent8
+"""been""","Agard, Hungary",Continent8
+"""been""","Imperial, NE, USA",Continent8
+"""been""","Valentine, NE, USA",Continent8
+"""been""","Fort Morgan, CO, USA",Continent8
+"""been""","Telluride, CO, USA",Continent8
+"""been""","Orlando, FL, USA",Continent8
+"""been""","Freycinet, Australia",Continent8
+"""been""","Fort Collins, CO, USA",Continent8
+"""been""","Agra, India",Continent8
+"""been""","Varanasi, India",Continent8
+"""been""","Reggio Emilia, Italy",Continent8
+"""been""","Holdrege, NE, USA",Continent8
+"""been""","Kansas City, MO, USA",Continent8
+"""been""","Ellenz-Poltersdorf, Germany",Continent8
+"""been""","Beilstein, Germany",Continent8
+"""been""","Mira, Italy",Continent8
+"""been""","Biloxi, MS, USA",Continent8
+"""been""","Thedford, NE, USA",Continent8
+"""been""","Aspen, CO, USA",Continent8
+"""been""","Denali National Park and Preserve, AK, USA",Continent8
+"""been""","Neum, Bosnia and Herzegovina",Continent8
+"""been""","Salida, CO, USA",Continent8
+"""been""","Triabunna, Australia",Continent8
+"""been""","Deadwood, SD, USA",Continent8
+"""been""","Toronto, Ontario, Canada",Continent8
+"""been""","Cancun, Mexico",Continent8
+"""been""","Paracas, Peru",Continent8
+"""been""","Richmond, Australia",Continent8
+"""been""","Hastings, NE, USA",Continent8
+"""been""","Silverthorne, CO, USA",Continent8
+"""been""","Birmingham, AL, USA",Continent8
+"""been""","Silver Plume, CO, USA",Continent8
+"""been""","West Palm Beach, FL, USA",Continent8
+"""been""","Quebec City, Quebec, Canada",Continent8
+"""been""","Montreal, Quebec, Canada",Continent8
+"""been""","Minheim, Germany",Continent8
+"""been""","Nanning, China",Continent8
+"""been""","Senj, Croatia",Continent8
+"""been""","Vero Beach, FL, USA",Continent8
+"""been""","Napa, CA, USA",Continent8
+"""been""","Podgora, Croatia",Continent8
+"""been""","Sumner, NE, USA",Continent8
+"""been""","San Giuliano Terme, Italy",Continent8
+"""been""","Windsor, Ontario, Canada",Continent8
+"""been""","Divaca, Slovenia",Continent8
+"""been""","Massa, Italy",Continent8
+"""been""","Incheon, South Korea",Continent8
+"""been""","Chicago, IL, USA",Continent8
+"""been""","Ingapirca, Ecuador",Continent8
+"""been""","Rifle, CO, USA",Continent8
+"""been""","Galveston, TX, USA",Continent8
+"""been""","Lambayeque, Peru",Continent8
+"""been""","Bentonville, AR, USA",Continent8
+"""been""","Puerto Natales, Chile",Continent8
+"""been""","Busan, South Korea",Continent8
+"""been""","Stapleton, NE, USA",Continent8
+"""been""","Playa del Carmen, Mexico",Continent8
+"""been""","Klotten, Germany",Continent8
+"""been""","Brodenbach, Germany",Continent8
+"""been""","Milan, Italy",Continent8
+"""been""","Briedel, Germany",Continent8
+"""been""","Scamander, Australia",Continent8
+"""been""","Zeltingen-Rachtig, Germany",Continent8
+"""been""","Augusta, GA, USA",Continent8
+"""been""","Guthrie, OK, USA",Continent8
+"""been""","Neef, Germany",Continent8
+"""been""","Aqaba, Jordan",Continent8
+"""been""","Alf, Germany",Continent8
+"""been""","Sorell, Australia",Continent8
+"""been""","Ponte Buggianese, Italy",Continent8
+"""been""","St Helens, Australia",Continent8
+"""been""","Turin, Italy",Continent8
+"""been""","Velipoje, Albania",Continent8
+"""been""","New Norfolk, Australia",Continent8
+"""been""","Buenos Aires, Argentina",Continent8
+"""been""","Jasper, Alberta, Canada",Continent8
+"""been""","Mole Creek, Australia",Continent8
+"""been""","Yankton, SD, USA",Continent8
+"""been""","San Giovanni Lupatoto, Italy",Continent8
+"""been""","Kanfanar, Croatia",Continent8
+"""been""","Lethbridge, Alberta, Canada",Continent8
+"""been""","Puerto Vallarta, Mexico",Continent8
+"""been""","Port Arthur, Australia",Continent8
+"""been""","Lake Louise, Alberta, Canada",Continent8
+"""been""","Elko, NV, USA",Continent8
+"""been""","Banff, Alberta, Canada",Continent8
+"""been""","Edmonton, Alberta, Canada",Continent8
+"""been""","Calgary, Alberta, Canada",Continent8
+"""been""","Orford, Australia",Continent8
+"""been""","Saint Paul, MN, USA",Continent8
+"""been""","La Spezia, Italy",Continent8
+"""been""","Genoa, Italy",Continent8
+"""been""","Riomaggiore, Italy",Continent8
+"""been""","Baderna, Croatia",Continent8
+"""been""","Sveti Stefan, Montenegro",Continent8
+"""been""","Vancouver, British Columbia, Canada",Continent8
+"""been""","Hatzenport, Germany",Continent8
+"""been""","Victoria, British Columbia, Canada",Continent8
+"""been""","Bloomington, MN, USA",Continent8
+"""been""","Pasadena, CA, USA",Continent8
+"""been""","Wray, CO, USA",Continent8
+"""been""","Alma, NE, USA",Continent8
+"""been""","Hanoi, Vietnam",Continent8
+"""been""","Alliance, NE, USA",Continent8
+"""been""","Prince George, British Columbia, Canada",Continent8
+"""been""","Wolcott, CO, USA",Continent8
+"""been""","Vladimir, Montenegro",Continent8
+"""been""","Westbury, Australia",Continent8
+"""been""","Kluesserath, Germany",Continent8
+"""been""","Koper, Slovenia",Continent8
+"""been""","Strahan, Australia",Continent8
+"""been""","Albion, NE, USA",Continent8
+"""been""","Dallas, TX, USA",Continent8
+"""been""","Stewart, British Columbia, Canada",Continent8
+"""been""","Kamloops, British Columbia, Canada",Continent8
+"""been""","Cabo San Lucas, Mexico",Continent8
+"""been""","York, NE, USA",Continent8
+"""been""","Zeehan, Australia",Continent8
+"""been""","San Juan de Chuccho, Peru",Continent8
+"""been""","Budva, Montenegro",Continent8
+"""been""","Las Cruces, NM, USA",Continent8
+"""been""","Charlotte, NC, USA",Continent8
+"""been""","Herceg-Novi, Montenegro",Continent8
+"""been""","Susanj, Montenegro",Continent8
+"""been""","Barstow, CA, USA",Continent8
+"""been""","Igalo, Montenegro",Continent8
+"""been""","Kuta, Indonesia",Continent8
+"""been""","Tatabanya, Hungary",Continent8
+"""been""","Keystone, SD, USA",Continent8
+"""been""","Atwood, KS, USA",Continent8
+"""been""","Tapachula, Mexico",Continent8
+"""been""","Vodice, Croatia",Continent8
+"""been""","Guilin, China",Continent8
+"""been""","Wall, SD, USA",Continent8
+"""been""","Xi'an, China",Continent8
+"""been""","Kunming, China",Continent8
+"""been""","Bar, Montenegro",Continent8
+"""been""","Manarola, Italy",Continent8
+"""been""","Tucepi, Croatia",Continent8
+"""been""","Lukovo, Croatia",Continent8
+"""been""","Ston, Croatia",Continent8
+"""been""","Perast, Montenegro",Continent8
+"""been""","Tingri County, China",Continent8
+"""been""","Waitomo Caves, New Zealand",Continent8
+"""been""","Enid, OK, USA",Continent8
+"""been""","Kozina, Slovenia",Continent8
+"""been""","Guangzhou, China",Continent8
+"""been""","Adelaide River, Australia",Continent8
+"""been""","Bellver de Cerdanya, Spain",Continent8
+"""been""","Ambato, Ecuador",Continent8
+"""been""","Edmond, OK, USA",Continent8
+"""been""","Medellin, Colombia",Continent8
+"""been""","Zaton, Croatia",Continent8
+"""been""","Vodnjan, Croatia",Continent8
+"""been""","Umag, Croatia",Continent8
+"""been""","Huatulco, Mexico",Continent8
+"""been""","Oklahoma City, OK, USA",Continent8
+"""been""","Huntsville, AL, USA",Continent8
+"""been""","Salt Lake City, UT, USA",Continent8
+"""been""","Cartagena, Colombia",Continent8
+"""been""","Richmond, Australia",Continent8
+"""been""","Corpus Christi, TX, USA",Continent8
+"""been""","Columbus, OH, USA",Continent8
+"""been""","Taranna, Australia",Continent8
+"""been""","Biograd na Moru, Croatia",Continent8
+"""been""","Lerici, Italy",Continent8
+"""been""","Agliana, Italy",Continent8
+"""been""","Sutomore, Montenegro",Continent8
+"""been""","Oakland, CA, USA",Continent8
+"""been""","Albuquerque, NM, USA",Continent8
+"""been""","Lido Di Camaiore, Italy",Continent8
+"""been""","Ulcinj, Montenegro",Continent8
+"""been""","Bruttig-Fankel, Germany",Continent8
+"""been""","Punakha, Bhutan",Continent8
+"""been""","Park City, UT, USA",Continent8
+"""been""","Chucuito, Peru",Continent8
+"""been""","Ogden, UT, USA",Continent8
+"""been""","Norman, OK, USA",Continent8
+"""been""","Isla del Sol, Bolivia",Continent8
+"""been""","Aguas Calientes, Peru",Continent8
+"""been""","Gallup, NM, USA",Continent8
+"""been""","Sturgis, SD, USA",Continent8
+"""been""","Providence, RI, USA",Continent8
+"""been""","Estes Park, CO, USA",Continent8
+"""been""","Piesport, Germany",Continent8
+"""been""","Meljine, Montenegro",Continent8
+"""been""","Bar Harbor, ME, USA",Continent8
+"""been""","Tokyo, Japan",Continent8
+"""been""","Tucson, AZ, USA",Continent8
+"""been""","Sioux Falls, SD, USA",Continent8
+"""been""","Nazca, Peru",Continent8
+"""been""","Chivay, Peru",Continent8
+"""been""","Cleveland, OH, USA",Continent8
+"""been""","Petrovac, Montenegro",Continent8
+"""been""","Ica, Peru",Continent8
+"""been""","Maras, Peru",Continent8
+"""been""","Santa Fe, NM, USA",Continent8
+"""been""","San Antonio, TX, USA",Continent8
+"""been""","San Francisco, CA, USA",Continent8
+"""been""","Seminyak, Indonesia",Continent8
+"""been""","Harrison, NE, USA",Continent8
+"""been""","Lieser, Germany",Continent8
+"""been""","Aulla, Italy",Continent8
+"""been""","Niagara Falls, Ontario, Canada",Continent8
+"""been""","London, UK",Continent8
+"""been""","Monument Valley, UT, USA",Continent8
+"""been""","Hutchinson, KS, USA",Continent8
+"""been""","Moore, OK, USA",Continent8
+"""been""","Bend, OR, USA",Continent8
+"""been""","Shkoder, Albania",Continent8
+"""been""","Billings, MT, USA",Continent8
+"""been""","Moab, UT, USA",Continent8
+"""been""","Luray, VA, USA",Continent8
+"""been""","Petra - Wadi Musa, Jordan",Continent8
+"""been""","Los Alamos, NM, USA",Continent8
+"""been""","Midwest City, OK, USA",Continent8
+"""been""","Flagstaff, AZ, USA",Continent8
+"""been""","Newport, OR, USA",Continent8
+"""been""","Buffalo, NY, USA",Continent8
+"""been""","Trecase, Italy",Continent8
+"""been""","Honolulu, HI, USA",Continent8
+"""been""","Gunnison, CO, USA",Continent8
+"""been""","Kraljevica, Croatia",Continent8
+"""been""","Bijela, Montenegro",Continent8
+"""been""","Indianapolis, IN, USA",Continent8
+"""been""","Truth or Consequences, NM, USA",Continent8
+"""been""","Topeka, KS, USA",Continent8
+"""been""","Laramie, WY, USA",Continent8
+"""been""","Boston, MA, USA",Continent8
+"""been""","Asheville, NC, USA",Continent8
+"""been""","Morinj, Montenegro",Continent8
+"""been""","Pisa, Italy",Continent8
+"""been""","Cincinnati, OH, USA",Continent8
+"""been""","Walla Walla, WA, USA",Continent8
+"""been""","San Diego, CA, USA",Continent8
+"""been""","Washington DC, DC, USA",Continent8
+"""been""","Hot Springs, SD, USA",Continent8
+"""been""","Winnipeg, Manitoba, Canada",Continent8
+"""been""","Florence, Italy",Continent8
+"""been""","Daytona Beach, FL, USA",Continent8
+"""been""","Phillipsburg, KS, USA",Continent8
+"""been""","Padua, Italy",Continent8
+"""been""","Louisville, KY, USA",Continent8
+"""been""","New York City, NY, USA",Continent8
+"""been""","Karlobag, Croatia",Continent8
+"""been""","Carlsbad, NM, USA",Continent8
+"""been""","El Paso, TX, USA",Continent8
+"""been""","Coles Bay, Australia",Continent8
+"""been""","Little Rock, AR, USA",Continent8
+"""been""","Cedar City, UT, USA",Continent8
+"""been""","Cocoa Beach, FL, USA",Continent8
+"""been""","Santa Rosa, CA, USA",Continent8
+"""been""","Santa Monica, CA, USA",Continent8
+"""been""","Bellingham, WA, USA",Continent8
+"""been""","Clearwater, FL, USA",Continent8
+"""been""","Hamilton, Australia",Continent8
+"""been""","Ribes de Freser, Spain",Continent8
+"""been""","Monsummano Terme, Italy",Continent8
+"""been""","Lunahuana, Peru",Continent8
+"""been""","Bari, Italy",Continent8
+"""been""","Socorro, NM, USA",Continent8
+"""been""","Bayard, NE, USA",Continent8
+"""been""","Castelnovo ne' Monti, Italy",Continent8
+"""been""","Sant Joan de les Abadesses, Spain",Continent8
+"""been""","Durres, Albania",Continent8
+"""been""","Bellevue, WA, USA",Continent8
+"""been""","Idaho Falls, ID, USA",Continent8
+"""been""","Verona, Italy",Continent8
+"""been""","Venice, Italy",Continent8
+"""been""","Vicenza, Italy",Continent8
+"""been""","Portland, ME, USA",Continent8
+"""been""","Mumbai, India",Continent8
+"""been""","Dieblich, Germany",Continent8
+"""been""","Jaipur, India",Continent8
+"""been""","New Delhi, India",Continent8
+"""been""","Zgorzelec, Poland",Continent8
+"""been""","Tivat Municipality, Montenegro",Continent8
+"""been""","Coffs Harbour, Australia",Continent8
+"""been""","Canberra, Australia",Continent8
+"""been""","Snowbird, UT, USA",Continent8
+"""been""","Eagle, CO, USA",Continent8
+"""been""","Berkeley, CA, USA",Continent8
+"""been""","Gainesville, FL, USA",Continent8
+"""been""","Presidente Figueiredo, Brazil",Continent8
+"""been""","Pocatello, ID, USA",Continent8
+"""been""","Dolores, CO, USA",Continent8
+"""been""","Manaus, Brazil",Continent8
+"""been""","Sanur, Indonesia",Continent8
+"""been""","Ubud, Indonesia",Continent8
+"""been""","St. George, UT, USA",Continent8
+"""been""","Cheyenne, WY, USA",Continent8
+"""been""","Casper, WY, USA",Continent8
+"""been""","Brisbane, Australia",Continent8
+"""been""","Darwin, Australia",Continent8
+"""been""","Alice Springs, Australia",Continent8
+"""been""","Dunkirk, France",Continent8
+"""been""","Charlottesville, VA, USA",Continent8
+"""been""","Sydney, Australia",Continent8
+"""been""","Toulouse, France",Continent8
+"""been""","Tirana, Albania",Continent8
+"""been""","Aswan, Egypt",Continent8
+"""been""","Luxor, Egypt",Continent8
+"""been""","Giza, Egypt",Continent8
+"""been""","Cedar Rapids, IA, USA",Continent8
+"""been""","Cairo, Egypt",Continent8
+"""been""","Cody, WY, USA",Continent8
+"""been""","Lawrence, KS, USA",Continent8
+"""been""","Fort Lauderdale, FL, USA",Continent8
+"""been""","Provo, UT, USA",Continent8
+"""been""","Crested Butte, CO, USA",Continent8
+"""been""","Naples, FL, USA",Continent8
+"""been""","Paris, France",Continent8
+"""been""","Craig, CO, USA",Continent8
+"""been""","Portsmouth, NH, USA",Continent8
+"""been""","Risan, Montenegro",Continent8
+"""been""","Beijing, China",Continent8
+"""been""","Gretna, NE, USA",Continent8
+"""been""","Canillo, Andorra",Continent8
+"""been""","Tarraleah, Australia",Continent8
+"""been""","Koblenz, Germany",Continent8
+"""been""","Denver, CO, USA",Continent8
+"""been""","Dillon, CO, USA",Continent8
+"""been""","Fort Walton Beach, FL, USA",Continent8
+"""been""","Branxholm, Australia",Continent8
+"""been""","Houston, TX, USA",Continent8
+"""been""","Altopascio, Italy",Continent8
+"""been""","Dresden, Germany",Continent8
+"""been""","Fort Myers, FL, USA",Continent8
+"""been""","Trier, Germany",Continent8
+"""been""","Carcassonne Center, France",Continent8
+"""been""","Nimes, France",Continent8
+"""been""","Columbia, MO, USA",Continent8
+"""been""","Evansville, WY, USA",Continent8
+"""been""","Kansas City, KS, USA",Continent8
+"""been""","Olot, Spain",Continent8
+"""been""","Srebreno, Croatia",Continent8
+"""been""","Chartres, France",Continent8
+"""been""","Hobart, Australia",Continent8
+"""been""","Port Aransas, TX, USA",Continent8
+"""been""","Adelaide, Australia",Continent8
+"""been""","Chambord, France",Continent8
+"""been""","Bismarck, ND, USA",Continent8
+"""been""","Chandler, AZ, USA",Continent8
+"""been""","Fremont, NE, USA",Continent8
+"""been""","Inman, KS, USA",Continent8
+"""been""","Farwell, NE, USA",Continent8
+"""been""","Knoxville, TN, USA",Continent8
+"""been""","Bakersfield, CA, USA",Continent8
+"""been""","Colorado Springs, CO, USA",Continent8
+"""been""","Aberdeen, SD, USA",Continent8
+"""been""","Everglades City, FL, USA",Continent8
+"""been""","Camprodon, Spain",Continent8
+"""been""","Tours, France",Continent8
+"""been""","Casa Grande, AZ, USA",Continent8
+"""been""","Angri, Italy",Continent8
+"""been""","Fairbury, NE, USA",Continent8
+"""been""","Wailea, HI, USA",Continent8
+"""been""","Chesterfield, MO, USA",Continent8
+"""been""","Brush, CO, USA",Continent8
+"""been""","Buena Vista, CO, USA",Continent8
+"""been""","Campi Bisenzio, Italy",Continent8
+"""been""","Rennes, France",Continent8
+"""been""","Bruges, Belgium",Continent8
+"""been""","Jackson, WY, USA",Continent8
+"""been""","Anaheim, CA, USA",Continent8
+"""been""","Serravalle Pistoiese, Italy",Continent8
+"""been""","Red Cloud, NE, USA",Continent8
+"""been""","Torre Del Greco, Italy",Continent8
+"""been""","Miami Beach, FL, USA",Continent8
+"""been""","Lubbock, TX, USA",Continent8
+"""been""","Miami, FL, USA",Continent8
+"""been""","Tampa, FL, USA",Continent8
+"""been""","Parachute, CO, USA",Continent8
+"""been""","Tallahassee, FL, USA",Continent8
+"""been""","Carbondale, CO, USA",Continent8
+"""been""","Pagosa Springs, CO, USA",Continent8
+"""been""","Palisade, CO, USA",Continent8
+"""been""","Coronado, CA, USA",Continent8
+"""been""","Ouray, CO, USA",Continent8
+"""been""","Wasilla, AK, USA",Continent8
+"""been""","Puerto Ayora, Ecuador",Continent8
+"""been""","Potter, NE, USA",Continent8
+"""been""","Santo Stefano di Magra, Italy",Continent8
+"""been""","Santiago, Ecuador",Continent8
+"""been""","Montrose, CO, USA",Continent8
+"""been""","Greenville, SC, USA",Continent8
+"""been""","Gyor, Hungary",Continent8
+"""been""","San Cristobal, Ecuador",Continent8
+"""been""","Minturn, CO, USA",Continent8
+"""been""","Tempe, AZ, USA",Continent8
+"""been""","Santa Cruz, Ecuador",Continent8
+"""been""","Singapore, Singapore",Continent8
+"""been""","Zermatt, Switzerland",Continent8
+"""been""","Doniphan, NE, USA",Continent8
+"""been""","Budapest, Hungary",Continent8
+"""been""","Penshurst, Australia",Continent8
+"""been""","Pine Creek, Australia",Continent8
+"""been""","Breckenridge, CO, USA",Continent8
+"""been""","Tok, AK, USA",Continent8
+"""been""","Boulder, CO, USA",Continent8
+"""been""","Ketchum, ID, USA",Continent8
+"""been""","New Castle, CO, USA",Continent8
+"""been""","Seaside, OR, USA",Continent8
+"""been""","Morrison, CO, USA",Continent8
+"""been""","Llanca, Spain",Continent8
+"""been""","Fivizzano, Italy",Continent8
+"""been""","Guayaquil, Ecuador",Continent8
+"""been""","Cape Otway, Australia",Continent8
+"""been""","Gradac, Croatia",Continent8
+"""been""","Paxton, NE, USA",Continent8
+"""been""","Nocera Inferiore, Italy",Continent8
+"""been""","Sharm El Sheikh, Egypt",Continent8
+"""been""","Piran, Slovenia",Continent8
+"""been""","Ljubljana, Slovenia",Continent8
+"""been""","Taba, Egypt",Continent8
+"""been""","Copacabana, Bolivia",Continent8
+"""been""","Maribor, Slovenia",Continent8
+"""been""","Portoroz, Slovenia",Continent8
+"""been""","Postojna, Slovenia",Continent8
+"""been""","Manitou Springs, CO, USA",Continent8
+"""been""","Forte Dei Marmi, Italy",Continent8
+"""been""","Scottsdale, AZ, USA",Continent8
+"""been""","Sibenik, Croatia",Continent8
+"""been""","Sedona, AZ, USA",Continent8
+"""been""","Zadar, Croatia",Continent8
+"""been""","Pula, Croatia",Continent8
+"""been""","Dubrovnik, Croatia",Continent8
+"""been""","Riobamba, Ecuador",Continent8
+"""been""","Split, Croatia",Continent8
+"""been""","Gragnano, Italy",Continent8
+"""been""","Dugi Rat, Croatia",Continent8
+"""been""","Reno, NV, USA",Continent8
+"""been""","Celje, Slovenia",Continent8
+"""been""","Andorra la Vella, Andorra",Continent8
+"""been""","Siesta Key, FL, USA",Continent8
+"""been""","South Lake Tahoe, CA, USA",Continent8
+"""been""","Zivogosce, Croatia",Continent8
+"""been""","Dannebrog, NE, USA",Continent8
+"""been""","Pontecagnano Faiano, Italy",Continent8
+"""been""","Kotor, Montenegro",Continent8
+"""been""","Novi Vinodolski, Croatia",Continent8
+"""been""","Ogallala, NE, USA",Continent8
+"""been""","Cozad, NE, USA",Continent8
+"""been""","Minneapolis, MN, USA",Continent8
+"""been""","Niederfell, Germany",Continent8
+"""been""","Lhasa, China",Continent8
+"""been""","St. Petersburg, FL, USA",Continent8
+"""been""","Opuzen, Croatia",Continent8
+"""been""","Redmond, OR, USA",Continent8
+"""been""","Bern, Switzerland",Continent8
+"""been""","Pazin, Croatia",Continent8
+"""been""","Auckland, New Zealand",Continent8
+"""been""","Slano, Croatia",Continent8
+"""been""","Rovinj, Croatia",Continent8
+"""been""","Vore, Albania",Continent8
+"""been""","North Platte, NE, USA",Continent8
+"""been""","Norfolk, NE, USA",Continent8
+"""been""","Saint Joseph, MO, USA",Continent8
+"""been""","Saint Louis, MO, USA",Continent8
+"""been""","Columbus, GA, USA",Continent8
+"""been""","Portland, OR, USA",Continent8
+"""been""","Fayetteville, AR, USA",Continent8
+"""been""","Vaduz, Liechtenstein",Continent8
+"""been""","Malibu, CA, USA",Continent8
+"""been""","Eureka Springs, AR, USA",Continent8
+"""been""","Lucerne, Switzerland",Continent8
+"""been""","Baltra, Ecuador",Continent8
+"""been""","Salina, KS, USA",Continent8
+"""been""","Saint Charles, MO, USA",Continent8
+"""been""","Laughlin, NV, USA",Continent8
+"""been""","Las Vegas, NV, USA",Continent8
+"""been""","Opatija, Croatia",Continent8
+"""been""","Rijeka, Croatia",Continent8
+"""been""","Long Beach, CA, USA",Continent8
+"""been""","Reil, Germany",Continent8
+"""been""","Alexandria, VA, USA",Continent8
+"""been""","Caen, France",Continent8
+"""been""","Phoenix, AZ, USA",Continent8
+"""been""","Pendleton, OR, USA",Continent8
+"""been""","Hvar, Croatia",Continent8
+"""been""","Panama City, Panama",Continent8
+"""been""","Cavtat, Croatia",Continent8
+"""been""","Crikvenica, Croatia",Continent8
+"""been""","Baton Rouge, LA, USA",Continent8
+"""been""","Treis-Karden, Germany",Continent8
+"""been""","Morrill, NE, USA",Continent8
+"""been""","Winningen, Germany",Continent8
+"""been""","Losnich, Germany",Continent8
+"""been""","Henderson, NV, USA",Continent8
+"""been""","Fernandina, Ecuador",Continent8
+"""been""","Isabela, Ecuador",Continent8
+"""been""","Milwaukee, WI, USA",Continent8
+"""been""","Annapolis, MD, USA",Continent8
+"""been""","Kremmling, CO, USA",Continent8
+"""been""","Los Angeles, CA, USA",Continent8
+"""been""","Fresno, CA, USA",Continent8
+"""been""","Shanghai, China",Continent8
+"""been""","Keystone, CO, USA",Continent8
+"""been""","Prescott, AZ, USA",Continent8
+"""been""","Bartolome, Ecuador",Continent8
+"""been""","Luxembourg City, Luxembourg",Continent8
+"""been""","Guymon, OK, USA",Continent8
+"""been""","Basel, Switzerland",Continent8
+"""been""","Caserta, Italy",Continent8
+"""been""","Mullen, NE, USA",Continent8
+"""been""","Makarska, Croatia",Continent8
+"""been""","Angers, France",Continent8
+"""been""","Castellammare Di Stabia, Italy",Continent8

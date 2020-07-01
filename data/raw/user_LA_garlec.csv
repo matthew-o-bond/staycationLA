@@ -1,0 +1,742 @@
+tag,place,user
+"""been""","Gdansk, Poland",garlec
+"""been"",""want""","Riga, Latvia",garlec
+"""been"",""want""","Zagreb, Croatia",garlec
+"""been""","Kas, Turkey",garlec
+"""been""","Beijing, China",garlec
+"""want""","Kalkan, Turkey",garlec
+"""been""","Poznan, Poland",garlec
+"""been""","Chisinau, Moldova",garlec
+"""been""","Isfahan, Iran",garlec
+"""been""","Cefalu, Italy",garlec
+"""been""","Green Bay, WI, USA",garlec
+"""been""","Bucharest, Romania",garlec
+"""been"",""want""","Tekirova, Turkey",garlec
+"""been""","Side, Turkey",garlec
+"""want""","Manavgat, Turkey",garlec
+"""been""","Ottawa, Ontario, Canada",garlec
+"""been""","Orvieto, Italy",garlec
+"""been""","Detroit, MI, USA",garlec
+"""been""","Whitefish, MT, USA",garlec
+"""been""","Zlatibor, Serbia",garlec
+"""been""","Castellina In Chianti, Italy",garlec
+"""been""","Seaside, OR, USA",garlec
+"""want""","Biarritz, France",garlec
+"""been""","Fort Collins, CO, USA",garlec
+"""been""","Nisporeni, Moldova",garlec
+"""been""","Telluride, CO, USA",garlec
+"""been""","Natchez, MS, USA",garlec
+"""been""","Radda in Chianti, Italy",garlec
+"""been""","Orlando, FL, USA",garlec
+"""been""","La Jolla, CA, USA",garlec
+"""been""","Longyearbyen, Norway",garlec
+"""been""","Spitsbergen, Norway",garlec
+"""want""","Kusadasi, Turkey",garlec
+"""want""","Montevideo, Uruguay",garlec
+"""been""","Warsaw, Poland",garlec
+"""been""","Cairo, Egypt",garlec
+"""been""","Tirana, Albania",garlec
+"""been""","Aswan, Egypt",garlec
+"""been""","Oslo, Norway",garlec
+"""been""","Richland, WA, USA",garlec
+"""want""","Didim, Turkey",garlec
+"""been""","Minsk, Belarus",garlec
+"""been""","Luxor, Egypt",garlec
+"""been""","Homer, AK, USA",garlec
+"""been""","Luang Prabang, Laos",garlec
+"""been""","Ithaca, NY, USA",garlec
+"""want""","Nairobi, Kenya",garlec
+"""been""","Montegrotto Terme, Italy",garlec
+"""been""","Narvik, Norway",garlec
+"""been""","Pensacola Beach, FL, USA",garlec
+"""been""","Montecatini Terme, Italy",garlec
+"""been""","Tromso, Norway",garlec
+"""been""","Casamicciola Terme, Italy",garlec
+"""been""","Aspen, CO, USA",garlec
+"""been""","Beaver Creek, CO, USA",garlec
+"""been""","Salem, OR, USA",garlec
+"""been""","Vail, CO, USA",garlec
+"""been""","Half Moon Bay, CA, USA",garlec
+"""been""","Laguna Beach, CA, USA",garlec
+"""been""","Tempe, AZ, USA",garlec
+"""been""","Antalya, Turkey",garlec
+"""been""","Sarajevo, Bosnia and Herzegovina",garlec
+"""been""","Korce, Albania",garlec
+"""been""","Alanya, Turkey",garlec
+"""want""","Basel, Switzerland",garlec
+"""been""","Gjirokaster, Albania",garlec
+"""been""","Scio, OR, USA",garlec
+"""been""","Amarillo, TX, USA",garlec
+"""been""","Sofia, Bulgaria",garlec
+"""been""","Uchisar, Turkey",garlec
+"""been""","Nevsehir, Turkey",garlec
+"""been""","Managua, Nicaragua",garlec
+"""been""","Viareggio, Italy",garlec
+"""been""","Bled, Slovenia",garlec
+"""been"",""want""","Urgup, Turkey",garlec
+"""been""","Playa de las Americas, Spain",garlec
+"""been""","Brescia, Italy",garlec
+"""been"",""fave""","Mestre, Italy",garlec
+"""been""","Charlottetown, Prince Edward Island, Canada",garlec
+"""been""","Annapolis, MD, USA",garlec
+"""been""","Boulder, CO, USA",garlec
+"""been""","Albuquerque, NM, USA",garlec
+"""been""","Mexico City, Mexico",garlec
+"""been""","Toronto, Ontario, Canada",garlec
+"""been""","Bayeux, France",garlec
+"""been""","Bodo, Norway",garlec
+"""been""","Mtskheta, Georgia",garlec
+"""been""","Baltimore, MD, USA",garlec
+"""want""","Caen, France",garlec
+"""been""","Breckenridge, CO, USA",garlec
+"""been""","Savannah, GA, USA",garlec
+"""been""","Bender, Moldova",garlec
+"""been""","Panama City, Panama",garlec
+"""been""","Lubbock, TX, USA",garlec
+"""been""","Ljubljana, Slovenia",garlec
+"""been""","Chichen Itza, Mexico",garlec
+"""want""","Honfleur, France",garlec
+"""want""","Manchester, UK",garlec
+"""been""","Cancun, Mexico",garlec
+"""been""","Palm Beach, FL, USA",garlec
+"""been"",""want""","Pamukkale, Turkey",garlec
+"""been""","Bursa, Turkey",garlec
+"""been""","Lhasa, China",garlec
+"""been""","Ayvalik, Turkey",garlec
+"""been""","Balikesir, Turkey",garlec
+"""want""","Manali, India",garlec
+"""been""","Portoroz, Slovenia",garlec
+"""been""","Canakkale, Turkey",garlec
+"""been""","Meat Cove, Nova Scotia, Canada",garlec
+"""want""","Jakarta, Indonesia",garlec
+"""been""","Antigua, Spain",garlec
+"""been""","Greve in Chianti, Italy",garlec
+"""been""","Vienna, Austria",garlec
+"""been""","North Myrtle Beach, SC, USA",garlec
+"""been""","Panama City Beach, FL, USA",garlec
+"""been""","Ketchikan, AK, USA",garlec
+"""been""","Avalon, CA, USA",garlec
+"""been""","Arlington, TX, USA",garlec
+"""been""","Salt Lake City, UT, USA",garlec
+"""been""","Stuttgart, Germany",garlec
+"""been""","Port Angeles, WA, USA",garlec
+"""been""","Lourdes, France",garlec
+"""been""","Greenville, SC, USA",garlec
+"""been""","Jacksonville, FL, USA",garlec
+"""want""","Toulouse, France",garlec
+"""want""","Nashville, TN, USA",garlec
+"""been""","Astoria, OR, USA",garlec
+"""been""","Corpus Christi, TX, USA",garlec
+"""been""","Springfield, OR, USA",garlec
+"""been""","Belgrade, Serbia",garlec
+"""been""","Goreme, Turkey",garlec
+"""been""","Kyiv (Kiev), Ukraine",garlec
+"""been""","Avanos, Turkey",garlec
+"""been""","Hua Hin, Thailand",garlec
+"""been""","Syracuse, NY, USA",garlec
+"""been""","Bratislava, Slovakia",garlec
+"""been""","Kerman, Iran",garlec
+"""been""","Salzburg, Austria",garlec
+"""been""","Innsbruck, Austria",garlec
+"""been""","Tucson, AZ, USA",garlec
+"""been""","Austin, TX, USA",garlec
+"""been""","Tallahassee, FL, USA",garlec
+"""been""","Coronado, CA, USA",garlec
+"""want""","Hisaronu, Turkey",garlec
+"""been""","San Francisco, CA, USA",garlec
+"""been""","Page, AZ, USA",garlec
+"""been""","Tampa, FL, USA",garlec
+"""been""","Icmeler, Turkey",garlec
+"""want""","Ovacik, Turkey",garlec
+"""been""","Sonoma, CA, USA",garlec
+"""been""","Miami, FL, USA",garlec
+"""been""","San Antonio, TX, USA",garlec
+"""been""","Miami Beach, FL, USA",garlec
+"""been""","Sunny Isles Beach, FL, USA",garlec
+"""been""","Santa Fe, NM, USA",garlec
+"""been""","Knoxville, TN, USA",garlec
+"""been""","Capriana, Moldova",garlec
+"""been""","Pensacola, FL, USA",garlec
+"""been""","Wroclaw, Poland",garlec
+"""been""","New Delhi, India",garlec
+"""been""","Senigallia, Italy",garlec
+"""been""","Kolkata (Calcutta), India",garlec
+"""been""","Jaipur, India",garlec
+"""been""","Calistoga, CA, USA",garlec
+"""been""","Pleasant Bay, Nova Scotia, Canada",garlec
+"""been""","Walnut Creek, CA, USA",garlec
+"""been""","Vancouver, WA, USA",garlec
+"""been""","South San Francisco, CA, USA",garlec
+"""been""","Coeur d'Alene, ID, USA",garlec
+"""been""","Providence, RI, USA",garlec
+"""been""","Estes Park, CO, USA",garlec
+"""been""","Fredericksburg, VA, USA",garlec
+"""been""","Spokane, WA, USA",garlec
+"""been""","Brooklyn, NY, USA",garlec
+"""been""","Pec, Kosovo",garlec
+"""been""","Dresden, Germany",garlec
+"""been""","Kangerlussuaq, Greenland",garlec
+"""been""","Cusco, Peru",garlec
+"""been""","Newark, NJ, USA",garlec
+"""been""","Lima, Peru",garlec
+"""want""","Midoun, Tunisia",garlec
+"""been""","Iquitos, Peru",garlec
+"""been""","Machu Picchu, Peru",garlec
+"""been""","Mandalay, Myanmar",garlec
+"""want""","Monastir, Tunisia",garlec
+"""been""","Prague, Czech Republic",garlec
+"""been""","Klaipeda, Lithuania",garlec
+"""been""","Honolulu, HI, USA",garlec
+"""been""","Hood River, OR, USA",garlec
+"""been""","Columbia, SC, USA",garlec
+"""been""","Buffalo, NY, USA",garlec
+"""been""","Hot Springs, AR, USA",garlec
+"""been""","Cadaques, Spain",garlec
+"""been""","Amsterdam, The Netherlands",garlec
+"""been""","Kapaa, HI, USA",garlec
+"""been""","Newport, RI, USA",garlec
+"""been""","Madison, WI, USA",garlec
+"""want""","Lyon, France",garlec
+"""been""","Pompano Beach, FL, USA",garlec
+"""been""","Houston, TX, USA",garlec
+"""been""","Paris, France",garlec
+"""been""","Colorado Springs, CO, USA",garlec
+"""been""","Versailles, France",garlec
+"""been""","Brno, Czech Republic",garlec
+"""been""","Rochester, NY, USA",garlec
+"""been""","Tallinn, Estonia",garlec
+"""been""","Patong, Thailand",garlec
+"""been""","Santiago, Chile",garlec
+"""been""","Guatemala City, Guatemala",garlec
+"""been""","Vilnius, Lithuania",garlec
+"""been""","Portsmouth, NH, USA",garlec
+"""been""","Quito, Ecuador",garlec
+"""been""","Shelby, MT, USA",garlec
+"""been""","Flagstaff, AZ, USA",garlec
+"""been""","Crested Butte, CO, USA",garlec
+"""been""","Ternopil, Ukraine",garlec
+"""been""","Naples, FL, USA",garlec
+"""been""","Gatlinburg, TN, USA",garlec
+"""been""","Moab, UT, USA",garlec
+"""been""","Fort Lauderdale, FL, USA",garlec
+"""been""","Greensboro, NC, USA",garlec
+"""been""","New Braunfels, TX, USA",garlec
+"""been""","Charleston, SC, USA",garlec
+"""been""","Cologne, Germany",garlec
+"""been""","Salamanca, Spain",garlec
+"""been""","Segovia, Spain",garlec
+"""been""","Dusseldorf, Germany",garlec
+"""been""","Marseille, France",garlec
+"""been""","Waikoloa, HI, USA",garlec
+"""been"",""want""","Barcelona, Spain",garlec
+"""been""","San Bruno, CA, USA",garlec
+"""been""","West Hollywood, CA, USA",garlec
+"""been""","Port Aransas, TX, USA",garlec
+"""want""","Saint-Remy-de-Provence, France",garlec
+"""been""","Tacoma, WA, USA",garlec
+"""been""","Girona, Spain",garlec
+"""want""","Heraklion, Greece",garlec
+"""been""","Monte-Carlo, Monaco",garlec
+"""been""","John Day, OR, USA",garlec
+"""been""","Ann Arbor, MI, USA",garlec
+"""been""","Anchorage, AK, USA",garlec
+"""been""","Kihei, HI, USA",garlec
+"""been""","Denver, CO, USA",garlec
+"""been""","Lahaina, HI, USA",garlec
+"""been""","Telavi, Georgia",garlec
+"""been""","Seattle, WA, USA",garlec
+"""been""","Carmel, CA, USA",garlec
+"""been""","Desert Hot Springs, CA, USA",garlec
+"""been""","Charlottesville, VA, USA",garlec
+"""been""","San Marino, CA, USA",garlec
+"""been""","Carlsbad, CA, USA",garlec
+"""want""","Sarigerme, Turkey",garlec
+"""been""","Puerto de la Cruz, Spain",garlec
+"""been""","St. George, UT, USA",garlec
+"""been""","Tinerhir, Morocco",garlec
+"""been""","Copenhagen, Denmark",garlec
+"""been""","San Jose, CA, USA",garlec
+"""been""","Fort Myers, FL, USA",garlec
+"""been""","Maastricht, The Netherlands",garlec
+"""want""","Kathmandu, Nepal",garlec
+"""been""","Kissimmee, FL, USA",garlec
+"""been""","Port Townsend, WA, USA",garlec
+"""been""","Toledo, Spain",garlec
+"""been""","Stratford-upon-Avon, UK",garlec
+"""been""","Fergana, Uzbekistan",garlec
+"""been""","Delphi, Greece",garlec
+"""been"",""want""","Tehran, Iran",garlec
+"""been""","Anacapri, Italy",garlec
+"""been""","Budva, Montenegro",garlec
+"""been""","Playa de Muro, Spain",garlec
+"""been""","Albany, NY, USA",garlec
+"""been""","Wailea, HI, USA",garlec
+"""been""","Kailua-Kona, HI, USA",garlec
+"""been""","Cincinnati, OH, USA",garlec
+"""been""","Mala Mala Private Game Reserve, South Africa",garlec
+"""been""","San Diego, CA, USA",garlec
+"""been""","Berkeley, CA, USA",garlec
+"""been""","Asheville, NC, USA",garlec
+"""want""","Queenstown, New Zealand",garlec
+"""been""","Post Falls, ID, USA",garlec
+"""been""","Lihue, HI, USA",garlec
+"""been""","New Orleans, LA, USA",garlec
+"""been""","Poipu, HI, USA",garlec
+"""been""","Ixtapa, Mexico",garlec
+"""been""","Berat, Albania",garlec
+"""been""","Boston, MA, USA",garlec
+"""been""","Ilulissat, Greenland",garlec
+"""been""","Narsarsuaq, Greenland",garlec
+"""been""","Princeville, HI, USA",garlec
+"""want""","Las Palmas de Gran Canaria, Spain",garlec
+"""want""","Gothenburg, Sweden",garlec
+"""been""","Gainesville, FL, USA",garlec
+"""been""","Williamsburg, VA, USA",garlec
+"""been""","Durango, CO, USA",garlec
+"""been""","Alesund, Norway",garlec
+"""been""","Frankfurt, Germany",garlec
+"""been""","Bergen, Norway",garlec
+"""been""","Harar, Ethiopia",garlec
+"""been""","Lincoln City, OR, USA",garlec
+"""been""","Kristiansund, Norway",garlec
+"""been""","Yasuj, Iran",garlec
+"""been""","Memphis, TN, USA",garlec
+"""been""","Sale, Morocco",garlec
+"""been""","Santa Cruz, CA, USA",garlec
+"""been""","Atlanta, GA, USA",garlec
+"""want""","Tagaytay, Philippines",garlec
+"""been""","Beverly Hills, CA, USA",garlec
+"""been""","Bruges, Belgium",garlec
+"""been""","Palma de Mallorca, Spain",garlec
+"""been""","Cannes, France",garlec
+"""been""","Addis Ababa, Ethiopia",garlec
+"""been"",""want""","Athens, Greece",garlec
+"""been""","Santa Barbara, CA, USA",garlec
+"""been""","Missoula, MT, USA",garlec
+"""been""","Zaragoza, Spain",garlec
+"""been""","Jajce, Bosnia and Herzegovina",garlec
+"""been""","Cambridge, MA, USA",garlec
+"""been""","Akhaltsikhe, Georgia",garlec
+"""been""","Kailua, HI, USA",garlec
+"""been""","West Yellowstone, MT, USA",garlec
+"""been""","Richmond, VA, USA",garlec
+"""been""","Omaha, NE, USA",garlec
+"""been""","Arachova, Greece",garlec
+"""been""","New York City, NY, USA",garlec
+"""been""","Mestia, Georgia",garlec
+"""been""","Bagan, Myanmar",garlec
+"""been""","Laukvik, Norway",garlec
+"""been""","Shiraz, Iran",garlec
+"""been""","Mir, Belarus",garlec
+"""been""","Santa Monica, CA, USA",garlec
+"""been""","Clearwater, FL, USA",garlec
+"""been""","Oviedo, Spain",garlec
+"""been""","Hamburg, Germany",garlec
+"""been""","Bilbao, Spain",garlec
+"""been""","Medford, OR, USA",garlec
+"""been""","Edirne, Turkey",garlec
+"""been""","Malaga, Spain",garlec
+"""been""","Ashgabat, Turkmenistan",garlec
+"""been""","Kapalua, HI, USA",garlec
+"""been""","Tashkent, Uzbekistan",garlec
+"""been""","Ashland, OR, USA",garlec
+"""been""","Teton Village, WY, USA",garlec
+"""been""","Atlantic City, NJ, USA",garlec
+"""been""","Hershey, PA, USA",garlec
+"""been""","Taos, NM, USA",garlec
+"""been""","Qaanaaq, Greenland",garlec
+"""been""","Gig Harbor, WA, USA",garlec
+"""been""","Louisville, KY, USA",garlec
+"""been""","Gettysburg, PA, USA",garlec
+"""been""","Bow, WA, USA",garlec
+"""been""","Khiva, Uzbekistan",garlec
+"""been""","Tokyo, Japan",garlec
+"""been""","Svolvaer, Norway",garlec
+"""been""","Torremolinos, Spain",garlec
+"""been""","Puerto Del Carmen, Spain",garlec
+"""been""","Granada, Spain",garlec
+"""been""","London, UK",garlec
+"""been""","Seville, Spain",garlec
+"""been""","Liverpool, UK",garlec
+"""been""","Playa de Palma, Spain",garlec
+"""been""","Berlin, Germany",garlec
+"""been""","Antwerp, Belgium",garlec
+"""been""","Isafjordur, Iceland",garlec
+"""been""","Vientiane, Laos",garlec
+"""been""","Zanjan, Iran",garlec
+"""been""","Munich, Germany",garlec
+"""want""","Belfast, UK",garlec
+"""want""","Ulaanbaatar, Mongolia",garlec
+"""been""","Philadelphia, PA, USA",garlec
+"""been""","Louisbourg, Nova Scotia, Canada",garlec
+"""want""","Yokohama, Japan",garlec
+"""been""","Halifax, Nova Scotia, Canada",garlec
+"""been""","Sylhet City, Bangladesh",garlec
+"""been""","Bellingham, WA, USA",garlec
+"""been""","Rajshahi City, Bangladesh",garlec
+"""been""","Rome, Italy",garlec
+"""been""","Reykjavik, Iceland",garlec
+"""been""","Cordoba, Spain",garlec
+"""been""","Chernivtsi, Ukraine",garlec
+"""been"",""fave""","Nuremberg, Germany",garlec
+"""want""","Cadiz, Spain",garlec
+"""been""","Regensburg, Germany",garlec
+"""been""","Cambridge, UK",garlec
+"""been""","Brussels, Belgium",garlec
+"""been""","Stone Town, Tanzania",garlec
+"""been""","Pisa, Italy",garlec
+"""been""","Jerusalem, Israel",garlec
+"""been""","Amman, Jordan",garlec
+"""been""","Calas de Majorca, Spain",garlec
+"""been""","Dar es Salaam, Tanzania",garlec
+"""been""","Fargo, ND, USA",garlec
+"""been""","Kalaw, Myanmar",garlec
+"""been""","Piano di Sorrento, Italy",garlec
+"""been""","Hoi An, Vietnam",garlec
+"""been""","Norfolk, VA, USA",garlec
+"""been""","Petra - Wadi Musa, Jordan",garlec
+"""been""","Kunshan, China",garlec
+"""been""","Da Nang, Vietnam",garlec
+"""been""","Indianapolis, IN, USA",garlec
+"""been""","Daytona Beach, FL, USA",garlec
+"""been""","Amalfi, Italy",garlec
+"""been""","Livingstone, Zambia",garlec
+"""been""","Sorrento, Italy",garlec
+"""been""","Hollywood, FL, USA",garlec
+"""been""","Capri, Italy",garlec
+"""been""","Rotterdam, The Netherlands",garlec
+"""been""","Naples, Italy",garlec
+"""been""","Newport, OR, USA",garlec
+"""been""","The Hague, The Netherlands",garlec
+"""been""","Pompeii, Italy",garlec
+"""been""","Shkoder, Albania",garlec
+"""been""","Messina, Italy",garlec
+"""been""","Saranda, Albania",garlec
+"""been""","Fes, Morocco",garlec
+"""been""","Utrecht, The Netherlands",garlec
+"""been""","Casablanca, Morocco",garlec
+"""been""","Istanbul, Turkey",garlec
+"""been""","Tiraspol, Moldova",garlec
+"""want""","Meknes, Morocco",garlec
+"""been""","Dobrota, Montenegro",garlec
+"""been""","Marrakech, Morocco",garlec
+"""been""","Selcuk, Turkey",garlec
+"""been""","Tangier, Morocco",garlec
+"""been"",""want""","Rabat, Morocco",garlec
+"""been""","Wilmington, NC, USA",garlec
+"""been""","Ouarzazate, Morocco",garlec
+"""been""","Burlington, WA, USA",garlec
+"""been""","Roanoke, VA, USA",garlec
+"""been""","Goldendale, WA, USA",garlec
+"""been""","Sandnessjoen, Norway",garlec
+"""been""","Toba, Japan",garlec
+"""been""","Niagara Falls, Ontario, Canada",garlec
+"""been""","Medjugorje, Bosnia and Herzegovina",garlec
+"""been""","Palermo, Italy",garlec
+"""been""","Qaqortoq, Greenland",garlec
+"""been""","Boise, ID, USA",garlec
+"""been""","Taormina, Italy",garlec
+"""been""","Altinkum, Turkey",garlec
+"""been""","Eugene, OR, USA",garlec
+"""been""","Florence, Italy",garlec
+"""been""","Bend, OR, USA",garlec
+"""been""","Madrid, Spain",garlec
+"""been""","Helsinki, Finland",garlec
+"""been""","Billings, MT, USA",garlec
+"""been""","Mont Tremblant, Quebec, Canada",garlec
+"""want""","Fuengirola, Spain",garlec
+"""been""","Hanoi, Vietnam",garlec
+"""been""","Monument Valley, UT, USA",garlec
+"""been""","Kaokoland, Namibia",garlec
+"""been""","Hue, Vietnam",garlec
+"""been""","Ho Chi Minh City, Vietnam",garlec
+"""want""","Tripoli, Libya",garlec
+"""been""","Nha Trang, Vietnam",garlec
+"""been""","Mobile, AL, USA",garlec
+"""been""","Kopaonik, Serbia",garlec
+"""been""","Victoria, British Columbia, Canada",garlec
+"""been""","Whistler, British Columbia, Canada",garlec
+"""been""","Hvar, Croatia",garlec
+"""been""","Vancouver, British Columbia, Canada",garlec
+"""been""","Glasgow, UK",garlec
+"""been""","Tasiilaq, Greenland",garlec
+"""been""","Erie, PA, USA",garlec
+"""been""","Tarragona, Spain",garlec
+"""been""","Padua, Italy",garlec
+"""been""","Bozeman, MT, USA",garlec
+"""been""","Santiago de Compostela, Spain",garlec
+"""been""","Centralia, WA, USA",garlec
+"""been"",""want""","Bangkok, Thailand",garlec
+"""been""","Washington DC, DC, USA",garlec
+"""been""","Virginia Beach, VA, USA",garlec
+"""been""","Jermuk, Armenia",garlec
+"""been"",""want""","Almaty, Kazakhstan",garlec
+"""been""","San Jose del Cabo, Mexico",garlec
+"""been""","Shanghai, China",garlec
+"""been""","Cabo San Lucas, Mexico",garlec
+"""been""","Bukhara, Uzbekistan",garlec
+"""want""","Dalyan, Turkey",garlec
+"""been""","Venice, Italy",garlec
+"""been""","Grand Bank, Newfoundland and Labrador, Canada",garlec
+"""want""","Cirali, Turkey",garlec
+"""been""","Konya, Turkey",garlec
+"""been""","Turin, Italy",garlec
+"""been""","Phnom Penh, Cambodia",garlec
+"""been""","Pleasant Hill, CA, USA",garlec
+"""been""","Windhoek, Namibia",garlec
+"""been""","Bishkek, Kyrgyzstan",garlec
+"""been""","Raleigh, NC, USA",garlec
+"""been""","Sydney, Nova Scotia, Canada",garlec
+"""want""","Kos Town, Greece",garlec
+"""been""","Park City, UT, USA",garlec
+"""been""","Corner Brook, Newfoundland and Labrador, Canada",garlec
+"""been""","St. John's, Newfoundland and Labrador, Canada",garlec
+"""been""","Goris, Armenia",garlec
+"""been""","Narita, Japan",garlec
+"""been""","Chau Doc, Vietnam",garlec
+"""been""","Cannon Beach, OR, USA",garlec
+"""been""","Merano, Italy",garlec
+"""been""","Sioux Falls, SD, USA",garlec
+"""been""","Ronda, Spain",garlec
+"""want""","Oludeniz, Turkey",garlec
+"""been""","Cleveland, OH, USA",garlec
+"""been""","Milan, Italy",garlec
+"""want""","Yalikavak, Turkey",garlec
+"""been""","Yerevan, Armenia",garlec
+"""been""","Jackson, WY, USA",garlec
+"""been""","Saint John, New Brunswick, Canada",garlec
+"""been""","Baku, Azerbaijan",garlec
+"""been""","Dhaka City, Bangladesh",garlec
+"""been""","Erfoud, Morocco",garlec
+"""been""","Fredericton, New Brunswick, Canada",garlec
+"""been""","Sheki, Azerbaijan",garlec
+"""been"",""want""","Fethiye, Turkey",garlec
+"""been""","Niagara Falls, NY, USA",garlec
+"""been""","Marmaris, Turkey",garlec
+"""been""","Edinburgh, UK",garlec
+"""been""","Birmingham, UK",garlec
+"""been""","Vagharshapat, Armenia",garlec
+"""been""","Tatev, Armenia",garlec
+"""been""","Kolvereid, Norway",garlec
+"""want""","Belek, Turkey",garlec
+"""been""","Varenna, Italy",garlec
+"""been""","Mazatlan, Mexico",garlec
+"""been""","Puerto Vallarta, Mexico",garlec
+"""been""","Huatulco, Mexico",garlec
+"""been""","Cox's Bazar, Bangladesh",garlec
+"""been""","Shreveport, LA, USA",garlec
+"""been""","Acapulco, Mexico",garlec
+"""been""","Polignano a Mare, Italy",garlec
+"""been""","Bogra, Bangladesh",garlec
+"""been""","Ushuaia, Argentina",garlec
+"""been""","Kutaisi, Georgia",garlec
+"""want""","Lapu Lapu, Philippines",garlec
+"""been""","Tulsa, OK, USA",garlec
+"""been""","Barisal City, Bangladesh",garlec
+"""been""","Borjomi, Georgia",garlec
+"""been""","Columbus, OH, USA",garlec
+"""been""","Vernazza, Italy",garlec
+"""been""","Saint-Pierre, North America",garlec
+"""been""","Portofino, Italy",garlec
+"""been""","Chattanooga, TN, USA",garlec
+"""been""","Jackson, MS, USA",garlec
+"""been""","Skjolden, Norway",garlec
+"""been""","Kill Devil Hills, NC, USA",garlec
+"""been""","Sretnice, Bosnia and Herzegovina",garlec
+"""been""","Mendocino, CA, USA",garlec
+"""want""","Manila, Philippines",garlec
+"""been""","Oklahoma City, OK, USA",garlec
+"""been""","Saint Andrews, New Brunswick, Canada",garlec
+"""been""","Tremezzina, Italy",garlec
+"""been""","Nukus, Uzbekistan",garlec
+"""want""","San Pedro, Belize",garlec
+"""been""","Ontario, CA, USA",garlec
+"""been""","Charlotte, NC, USA",garlec
+"""want""","Mont-Saint-Michel, France",garlec
+"""been""","Springfield, MO, USA",garlec
+"""been""","Kitty Hawk, NC, USA",garlec
+"""been""","Siem Reap, Cambodia",garlec
+"""been""","Dallas, TX, USA",garlec
+"""want""","Altinkum, Turkey",garlec
+"""been""","Redding, CA, USA",garlec
+"""been"",""fave""","Moscow, Russia",garlec
+"""been""","Miquelon, North America",garlec
+"""been""","Izmir, Turkey",garlec
+"""been""","Lexington, KY, USA",garlec
+"""been""","Lamai Beach, Thailand",garlec
+"""been""","Essaouira, Morocco",garlec
+"""been""","Bologna, Italy",garlec
+"""want""","Beldibi, Turkey",garlec
+"""been""","South Lake Tahoe, CA, USA",garlec
+"""been""","Deception Island, Antarctica",garlec
+"""been""","Ravenna, Italy",garlec
+"""been""","Hartford, CT, USA",garlec
+"""been""","King George Island, Antarctica",garlec
+"""been""","Calgary, Alberta, Canada",garlec
+"""been""","Ny Alesund, Norway",garlec
+"""been""","Edmonton, Alberta, Canada",garlec
+"""been""","Guadalajara, Mexico",garlec
+"""been""","Khankendi, Azerbaijan",garlec
+"""been""","Banff, Alberta, Canada",garlec
+"""want""","Dublin, Ireland",garlec
+"""been""","Jasper, Alberta, Canada",garlec
+"""been""","Bodrum City, Turkey",garlec
+"""want""","Ankara, Turkey",garlec
+"""been""","Cesky Krumlov, Czech Republic",garlec
+"""been""","Palm Springs, CA, USA",garlec
+"""been""","Ceske Budejovice, Czech Republic",garlec
+"""been""","Palm Desert, CA, USA",garlec
+"""been""","Costa Calma, Spain",garlec
+"""been""","Taunggyi, Myanmar",garlec
+"""want""","Goynuk, Turkey",garlec
+"""been""","Winter Park, CO, USA",garlec
+"""been""","Brasov, Romania",garlec
+"""want""","Ortakent, Turkey",garlec
+"""want""","Gumbet, Turkey",garlec
+"""been""","Karlovy Vary, Czech Republic",garlec
+"""want""","George Town, Malaysia",garlec
+"""want""","Turgutreis, Turkey",garlec
+"""been""","Wuhan, China",garlec
+"""been""","Yalta, Europe",garlec
+"""been""","Taba, Egypt",garlec
+"""been""","Pasadena, CA, USA",garlec
+"""been""","Williams, AZ, USA",garlec
+"""been""","San Gimignano, Italy",garlec
+"""been""","Monterey, CA, USA",garlec
+"""been""","Siena, Italy",garlec
+"""been""","Livigno, Italy",garlec
+"""been""","Assisi, Italy",garlec
+"""been""","Enga, Norway",garlec
+"""been""","Perugia, Italy",garlec
+"""been""","Alicante, Spain",garlec
+"""been""","Long Island City, NY, USA",garlec
+"""been""","Agra, India",garlec
+"""been""","Geiranger, Norway",garlec
+"""been""","Maulvi Bazar, Bangladesh",garlec
+"""been""","Mostar, Bosnia and Herzegovina",garlec
+"""been""","Varanasi, India",garlec
+"""been""","Suzhou, China",garlec
+"""been""","Pienza, Italy",garlec
+"""want""","Hangzhou, China",garlec
+"""been""","Xi'an, China",garlec
+"""been""","Dzoraget, Armenia",garlec
+"""been""","Pittsburgh, PA, USA",garlec
+"""been""","Trebujeni, Moldova",garlec
+"""been""","Chaweng, Thailand",garlec
+"""been""","San Jose, Costa Rica",garlec
+"""been""","Bronnoysund, Norway",garlec
+"""want""","Kobe, Japan",garlec
+"""been""","Hiroshima, Japan",garlec
+"""been""","Wichita, KS, USA",garlec
+"""want""","Oranjestad, Aruba",garlec
+"""want""","Medellin, Colombia",garlec
+"""want""","Osaka, Japan",garlec
+"""been"",""want""","Kyoto, Japan",garlec
+"""been""","Fort Worth, TX, USA",garlec
+"""been""","Sacramento, CA, USA",garlec
+"""been""","Baton Rouge, LA, USA",garlec
+"""been""","Henderson, NV, USA",garlec
+"""been""","Milwaukee, WI, USA",garlec
+"""been""","Yangon (Rangoon), Myanmar",garlec
+"""been""","Farallon, Panama",garlec
+"""been""","Napa, CA, USA",garlec
+"""been""","Alexandria, VA, USA",garlec
+"""been""","Indian Wells, CA, USA",garlec
+"""been""","Barentsburg, Norway",garlec
+"""want""","Bogota, Colombia",garlec
+"""been"",""want""","Tbilisi, Georgia",garlec
+"""been""","Phoenix, AZ, USA",garlec
+"""want""","Guangzhou, China",garlec
+"""been"",""want""","Seoul, South Korea",garlec
+"""been""","Rapid City, SD, USA",garlec
+"""been""","Fredericksburg, TX, USA",garlec
+"""been""","Amherst, Nova Scotia, Canada",garlec
+"""been""","Khajuraho, India",garlec
+"""been""","Gyeongju, South Korea",garlec
+"""been""","Long Beach, CA, USA",garlec
+"""been""","Budapest, Hungary",garlec
+"""been""","Bandarban, Bangladesh",garlec
+"""been""","Las Vegas, NV, USA",garlec
+"""been""","Saskatoon, Saskatchewan, Canada",garlec
+"""been""","Kamala, Thailand",garlec
+"""been""","Kulusuk, Greenland",garlec
+"""been""","Portland, OR, USA",garlec
+"""been""","Hot Springs, VA, USA",garlec
+"""want""","Zermatt, Switzerland",garlec
+"""been""","Krakow, Poland",garlec
+"""been""","Kempton Park, South Africa",garlec
+"""been""","Fresno, CA, USA",garlec
+"""been""","Johannesburg, South Africa",garlec
+"""been""","Yachats, OR, USA",garlec
+"""been""","Los Angeles, CA, USA",garlec
+"""been""","Prairie City, OR, USA",garlec
+"""been"",""fave""","Murmansk, Russia",garlec
+"""want""","Pune, India",garlec
+"""been""","Pismo Beach, CA, USA",garlec
+"""been"",""want""","Kaliningrad, Russia",garlec
+"""been""","Odzun, Armenia",garlec
+"""been""","Skopje, Republic of North Macedonia",garlec
+"""want""","Singapore, Singapore",garlec
+"""been"",""want""","Opatija, Croatia",garlec
+"""been""","Gaziantep, Turkey",garlec
+"""want""","Beirut, Lebanon",garlec
+"""been""","Galveston, TX, USA",garlec
+"""want""","Doha, Qatar",garlec
+"""been""","Chicago, IL, USA",garlec
+"""been""","Riccione, Italy",garlec
+"""been""","Quebec City, Quebec, Canada",garlec
+"""been""","Montreal, Quebec, Canada",garlec
+"""been""","Ohrid, Republic of North Macedonia",garlec
+"""been""","Merida, Mexico",garlec
+"""want""","Mykonos Town, Greece",garlec
+"""want""","Busan, South Korea",garlec
+"""want""","Abu Dhabi, United Arab Emirates",garlec
+"""been""","Arlington, VA, USA",garlec
+"""been""","Jodhpur, India",garlec
+"""been""","Jhansi, India",garlec
+"""been"",""want""","Odessa, Ukraine",garlec
+"""been""","Tabor, Czech Republic",garlec
+"""been""","Hurghada, Egypt",garlec
+"""been""","St. Petersburg, FL, USA",garlec
+"""been""","Kansas City, MO, USA",garlec
+"""been""","Rovinj, Croatia",garlec
+"""been""","Minneapolis, MN, USA",garlec
+"""been""","Biloxi, MS, USA",garlec
+"""been""","Chuo, Japan",garlec
+"""been""","Positano, Italy",garlec
+"""been""","St. Teresa, Newfoundland and Labrador, Canada",garlec
+"""been""","San Juan, Puerto Rico",garlec
+"""been""","West Palm Beach, FL, USA",garlec
+"""been""","Plitvice Lakes National Park, Croatia",garlec
+"""been""","Cricova, Moldova",garlec
+"""been""","Udaipur, India",garlec
+"""want""","Pula, Croatia",garlec
+"""been""","Khujand, Tajikistan",garlec
+"""been""","Sawai Madhopur, India",garlec
+"""been""","Split, Croatia",garlec
+"""been"",""want""","Dubrovnik, Croatia",garlec
+"""been""","Birmingham, AL, USA",garlec
+"""been""","Sharm El Sheikh, Egypt",garlec
+"""been""","Lviv, Ukraine",garlec
+"""want""","Zadar, Croatia",garlec
+"""been""","Big Sur, CA, USA",garlec
+"""been""","Reno, NV, USA",garlec
+"""been""","Schiphol, The Netherlands",garlec
+"""been""","Ao Nang, Thailand",garlec
+"""been""","Shenzhen, China",garlec
+"""been""","Cape Town Central, South Africa",garlec
+"""been""","St. Petersburg, Russia",garlec
+"""been""","Dilijan, Armenia",garlec
+"""been""","Columbus, GA, USA",garlec
+"""been""","Ponza Island, Italy",garlec
+"""been""","Chianciano Terme, Italy",garlec
+"""been""","Trondheim, Norway",garlec
+"""been""","Yazd, Iran",garlec
+"""been""","Tabriz, Iran",garlec
+"""been""","Bophut, Thailand",garlec
+"""been""","Scottsdale, AZ, USA",garlec
+"""been""","Steamboat Springs, CO, USA",garlec
+"""want""","Lucerne, Switzerland",garlec
+"""been""","Antigua, Guatemala",garlec
+"""been""","Lisbon, Portugal",garlec
+"""been""","Sedona, AZ, USA",garlec

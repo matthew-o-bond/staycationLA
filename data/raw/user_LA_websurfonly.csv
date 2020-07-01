@@ -1,0 +1,525 @@
+tag,place,user
+"""been""","Port Douglas, Australia",websurfonly
+"""been""","Prague, Czech Republic",websurfonly
+"""been""","Mendocino, CA, USA",websurfonly
+"""been""","Ontario, CA, USA",websurfonly
+"""been""","Las Cruces, NM, USA",websurfonly
+"""been""","Orange, CA, USA",websurfonly
+"""been""","Kennebunkport, ME, USA",websurfonly
+"""been""","Lima, Peru",websurfonly
+"""been"",""fave""","Machu Picchu, Peru",websurfonly
+"""been""","Cusco, Peru",websurfonly
+"""been""","Cairns, Australia",websurfonly
+"""been""","Mykonos Town, Greece",websurfonly
+"""been""","Oakland, CA, USA",websurfonly
+"""been""","Oceanside, CA, USA",websurfonly
+"""been""","Ojai, CA, USA",websurfonly
+"""been""","Luxembourg City, Luxembourg",websurfonly
+"""been""","Oslo, Norway",websurfonly
+"""been""","Cairo, Egypt",websurfonly
+"""been""","Narvik, Norway",websurfonly
+"""been""","Manchester, UK",websurfonly
+"""been""","Tromso, Norway",websurfonly
+"""want""","Nairobi, Kenya",websurfonly
+"""been""","Giza, Egypt",websurfonly
+"""been""","Aswan, Egypt",websurfonly
+"""been""","Luxor, Egypt",websurfonly
+"""been""","Hobart, Australia",websurfonly
+"""been""","Revelstoke, British Columbia, Canada",websurfonly
+"""been""","Adelaide, Australia",websurfonly
+"""been""","South Lake Tahoe, CA, USA",websurfonly
+"""been""","Bac Ha, Vietnam",websurfonly
+"""been""","Puerto Escondido, Mexico",websurfonly
+"""been""","Nelson, British Columbia, Canada",websurfonly
+"""been""","Belem, Portugal",websurfonly
+"""been""","Trondheim, Norway",websurfonly
+"""been""","Santiago, Chile",websurfonly
+"""been""","Quito, Ecuador",websurfonly
+"""been""","Kristiansand, Norway",websurfonly
+"""been""","Bamberg, Germany",websurfonly
+"""been""","Rapid City, SD, USA",websurfonly
+"""been""","Fredericksburg, TX, USA",websurfonly
+"""been""","Milwaukee, WI, USA",websurfonly
+"""been""","Gloucester, MA, USA",websurfonly
+"""been""","Amsterdam, The Netherlands",websurfonly
+"""been""","Bled, Slovenia",websurfonly
+"""been""","Barcelona, Spain",websurfonly
+"""been""","Kyiv (Kiev), Ukraine",websurfonly
+"""been""","Montreal, Quebec, Canada",websurfonly
+"""been""","Boca Raton, FL, USA",websurfonly
+"""been""","Stratford, Ontario, Canada",websurfonly
+"""been""","Ontario, OR, USA",websurfonly
+"""been""","Trier, Germany",websurfonly
+"""been""","Toronto, Ontario, Canada",websurfonly
+"""been""","Henderson, NV, USA",websurfonly
+"""been""","Enniskillen, UK",websurfonly
+"""been""","Zurich, Switzerland",websurfonly
+"""been""","Paris, France",websurfonly
+"""been""","Windsor, Ontario, Canada",websurfonly
+"""been""","Charlotte Amalie, U.S. Virgin Islands",websurfonly
+"""been""","Rocky Mountain National Park, CO, USA",websurfonly
+"""been""","Nazareth, Israel",websurfonly
+"""been""","St. Thomas, U.S. Virgin Islands",websurfonly
+"""been""","Opatija, Croatia",websurfonly
+"""been""","Waxahachie, TX, USA",websurfonly
+"""been""","Ottawa, Ontario, Canada",websurfonly
+"""been""","Freiburg im Breisgau, Germany",websurfonly
+"""been""","Las Vegas, NV, USA",websurfonly
+"""been""","Laughlin, NV, USA",websurfonly
+"""been""","Etosha National Park, Namibia",websurfonly
+"""been""","Zagreb, Croatia",websurfonly
+"""been""","Beijing, China",websurfonly
+"""been""","Corfu, Greece",websurfonly
+"""been""","Salzburg, Austria",websurfonly
+"""been""","Sarajevo, Bosnia and Herzegovina",websurfonly
+"""been""","Hong Kong, China",websurfonly
+"""been""","Chongqing, China",websurfonly
+"""been""","Boise, ID, USA",websurfonly
+"""want""","Budapest, Hungary",websurfonly
+"""want""","Bucharest, Romania",websurfonly
+"""been""","Washington DC, DC, USA",websurfonly
+"""been""","Portland, OR, USA",websurfonly
+"""been""","Yachats, OR, USA",websurfonly
+"""been""","Kusadasi, Turkey",websurfonly
+"""been""","Nanjing, China",websurfonly
+"""been""","Heidelberg, Germany",websurfonly
+"""been""","Death Valley National Park, CA, USA",websurfonly
+"""been""","Jakarta, Indonesia",websurfonly
+"""been""","Paihia, New Zealand",websurfonly
+"""been""","Deadwood, SD, USA",websurfonly
+"""been""","Da Nang, Vietnam",websurfonly
+"""been""","Bath, UK",websurfonly
+"""been""","Bergen, Norway",websurfonly
+"""been""","Anacapri, Italy",websurfonly
+"""been""","Hoi An, Vietnam",websurfonly
+"""been""","Derry, UK",websurfonly
+"""been""","Oxford, UK",websurfonly
+"""been""","Centennial, CO, USA",websurfonly
+"""been""","Kansas City, MO, USA",websurfonly
+"""been""","Nara, Japan",websurfonly
+"""been""","Tel Aviv, Israel",websurfonly
+"""been""","Frankfurt, Germany",websurfonly
+"""been""","Jerusalem, Israel",websurfonly
+"""been""","Auckland Central, New Zealand",websurfonly
+"""been""","Geiranger, Norway",websurfonly
+"""been""","Haifa, Israel",websurfonly
+"""been""","Melbourne, Australia",websurfonly
+"""been""","Truckee, CA, USA",websurfonly
+"""been""","Skeleton Coast National Park, Namibia",websurfonly
+"""been""","Rogue River, OR, USA",websurfonly
+"""been""","Longboat Key, FL, USA",websurfonly
+"""been""","Whidbey Island, WA, USA",websurfonly
+"""been""","Seal Beach, CA, USA",websurfonly
+"""been""","Primm, NV, USA",websurfonly
+"""been""","Louisville, KY, USA",websurfonly
+"""been""","Noord, Aruba",websurfonly
+"""been""","Athens, Greece",websurfonly
+"""been""","Stavanger, Norway",websurfonly
+"""been""","Reno, NV, USA",websurfonly
+"""been""","Livingstone, Zambia",websurfonly
+"""been""","Dunedin, New Zealand",websurfonly
+"""been""","Wellington, New Zealand",websurfonly
+"""been""","Christchurch, New Zealand",websurfonly
+"""been""","Rotorua, New Zealand",websurfonly
+"""been""","Sausalito, CA, USA",websurfonly
+"""been""","Taupo, New Zealand",websurfonly
+"""been""","Torrance, CA, USA",websurfonly
+"""been""","Salem, OR, USA",websurfonly
+"""been""","Kaikoura, New Zealand",websurfonly
+"""been""","Kingston, Ontario, Canada",websurfonly
+"""been""","Tokyo, Japan",websurfonly
+"""been""","Niagara-on-the-Lake, Ontario, Canada",websurfonly
+"""been""","Nikko, Japan",websurfonly
+"""been""","Niagara Falls, Ontario, Canada",websurfonly
+"""been""","NamibRand Nature Reserve, Namibia",websurfonly
+"""been""","Crete, Greece",websurfonly
+"""been""","Keystone, SD, USA",websurfonly
+"""been""","Santa Monica, CA, USA",websurfonly
+"""been""","Santa Rosa, CA, USA",websurfonly
+"""been""","Detroit, MI, USA",websurfonly
+"""been""","Heraklion, Greece",websurfonly
+"""been""","Queenstown, New Zealand",websurfonly
+"""been""","Te Anau, New Zealand",websurfonly
+"""been""","Salt Lake City, UT, USA",websurfonly
+"""been""","Caracas, Venezuela",websurfonly
+"""been""","Port Angeles, WA, USA",websurfonly
+"""been""","Santa Barbara, CA, USA",websurfonly
+"""been""","Santa Cruz, CA, USA",websurfonly
+"""been""","Cologne, Germany",websurfonly
+"""been""","Eindhoven, The Netherlands",websurfonly
+"""been""","Bonn, Germany",websurfonly
+"""been""","Maastricht, The Netherlands",websurfonly
+"""been""","Toledo, Spain",websurfonly
+"""been""","Istanbul, Turkey",websurfonly
+"""been""","Temecula, CA, USA",websurfonly
+"""been""","Santa Ana, CA, USA",websurfonly
+"""been""","Bethlehem, Palestinian Territories",websurfonly
+"""been""","Seaside, OR, USA",websurfonly
+"""been""","Beverly Hills, CA, USA",websurfonly
+"""been""","Ithaca, NY, USA",websurfonly
+"""been""","San Simeon, CA, USA",websurfonly
+"""been""","Albuquerque, NM, USA",websurfonly
+"""been""","SeaTac, WA, USA",websurfonly
+"""been""","Berkeley, CA, USA",websurfonly
+"""been""","Durango, CO, USA",websurfonly
+"""been""","Lincoln, NE, USA",websurfonly
+"""been""","Bowness-on-Windermere, UK",websurfonly
+"""been""","Akureyri, Iceland",websurfonly
+"""been""","Grasmere, UK",websurfonly
+"""been""","Livorno, Italy",websurfonly
+"""been""","Florence, Italy",websurfonly
+"""been""","Taft, CA, USA",websurfonly
+"""been""","Astoria, OR, USA",websurfonly
+"""been""","Crescent City, CA, USA",websurfonly
+"""been""","Cape Canaveral, FL, USA",websurfonly
+"""been""","Estes Park, CO, USA",websurfonly
+"""been""","Vancouver, WA, USA",websurfonly
+"""been""","San Luis Obispo, CA, USA",websurfonly
+"""been""","Sunnyvale, CA, USA",websurfonly
+"""been""","Denver, CO, USA",websurfonly
+"""been""","Windermere, UK",websurfonly
+"""been""","Hofn, Iceland",websurfonly
+"""been""","Capri, Italy",websurfonly
+"""been""","Rhodes Town, Greece",websurfonly
+"""been""","Pompeii, Italy",websurfonly
+"""been""","The Hague, The Netherlands",websurfonly
+"""been""","Rotterdam, The Netherlands",websurfonly
+"""been""","Naples, Italy",websurfonly
+"""been""","Carmel, CA, USA",websurfonly
+"""been""","San Jose, CA, USA",websurfonly
+"""been""","Desert Hot Springs, CA, USA",websurfonly
+"""been""","Fort Myers, FL, USA",websurfonly
+"""been""","London, UK",websurfonly
+"""been""","Fort Myers Beach, FL, USA",websurfonly
+"""been""","Kissimmee, FL, USA",websurfonly
+"""been""","Liverpool, UK",websurfonly
+"""been""","Carlsbad, CA, USA",websurfonly
+"""been""","Munich, Germany",websurfonly
+"""been""","San Francisco, CA, USA",websurfonly
+"""been""","Page, AZ, USA",websurfonly
+"""been""","San Antonio, TX, USA",websurfonly
+"""been""","West Glacier, MT, USA",websurfonly
+"""been""","Salem, MA, USA",websurfonly
+"""been""","Spokane, WA, USA",websurfonly
+"""been""","San Clemente, CA, USA",websurfonly
+"""been""","Naples, FL, USA",websurfonly
+"""been""","Tucson, AZ, USA",websurfonly
+"""been""","Belfast, UK",websurfonly
+"""been""","Vatican City, Vatican City",websurfonly
+"""been""","Reykjavik, Iceland",websurfonly
+"""been""","Cardiff, UK",websurfonly
+"""been""","Rome, Italy",websurfonly
+"""been""","Whitby, UK",websurfonly
+"""been""","Victoria Falls, Zimbabwe",websurfonly
+"""been""","York, UK",websurfonly
+"""been""","Regensburg, Germany",websurfonly
+"""been""","Vik, Iceland",websurfonly
+"""been""","West Hollywood, CA, USA",websurfonly
+"""been""","Punta Gorda, FL, USA",websurfonly
+"""been""","Bar Harbor, ME, USA",websurfonly
+"""been""","Brooklyn, NY, USA",websurfonly
+"""been""","Copper Mountain, CO, USA",websurfonly
+"""been""","Fairbanks, AK, USA",websurfonly
+"""been""","Bakersfield, CA, USA",websurfonly
+"""been""","Dana Point, CA, USA",websurfonly
+"""been""","Moab, UT, USA",websurfonly
+"""been""","Alice Springs, Australia",websurfonly
+"""been""","Nampa, ID, USA",websurfonly
+"""been""","Manchester, VT, USA",websurfonly
+"""been""","York, PA, USA",websurfonly
+"""been""","Darwin, Australia",websurfonly
+"""been""","Colorado Springs, CO, USA",websurfonly
+"""been""","Sydney, Australia",websurfonly
+"""been""","Knoxville, TN, USA",websurfonly
+"""been""","Chester, UK",websurfonly
+"""been""","Thousand Oaks, CA, USA",websurfonly
+"""been""","Friday Harbor, WA, USA",websurfonly
+"""been""","Port Renfrew, British Columbia, Canada",websurfonly
+"""been""","Santa Fe, NM, USA",websurfonly
+"""been""","South San Francisco, CA, USA",websurfonly
+"""been""","Belize City, Belize",websurfonly
+"""been""","Cambria, CA, USA",websurfonly
+"""been""","Tacoma, WA, USA",websurfonly
+"""been""","Des Moines, IA, USA",websurfonly
+"""been""","Olympia, WA, USA",websurfonly
+"""been""","Burlington, VT, USA",websurfonly
+"""been""","Nome, AK, USA",websurfonly
+"""been""","Piano di Sorrento, Italy",websurfonly
+"""been""","Flagstaff, AZ, USA",websurfonly
+"""been""","Anaheim, CA, USA",websurfonly
+"""been""","Cabo San Lucas, Mexico",websurfonly
+"""been""","Nanaimo, British Columbia, Canada",websurfonly
+"""been""","Chobe National Park, Botswana",websurfonly
+"""been""","Siem Reap, Cambodia",websurfonly
+"""been""","Kamloops, British Columbia, Canada",websurfonly
+"""been""","Swakopmund, Namibia",websurfonly
+"""been""","Walvis Bay, Namibia",websurfonly
+"""been""","Warwick, UK",websurfonly
+"""been""","Highlands Ranch, CO, USA",websurfonly
+"""been""","Arundel, UK",websurfonly
+"""been""","Willemstad, Curacao",websurfonly
+"""been""","Visalia, CA, USA",websurfonly
+"""been""","New Braunfels, TX, USA",websurfonly
+"""been""","San Pedro, Belize",websurfonly
+"""been""","Tampa, FL, USA",websurfonly
+"""been""","Bangkok, Thailand",websurfonly
+"""been""","Sonoma, CA, USA",websurfonly
+"""been""","Custer, SD, USA",websurfonly
+"""been""","Placencia, Belize",websurfonly
+"""been""","Miami, FL, USA",websurfonly
+"""been""","Austin, TX, USA",websurfonly
+"""been""","Houston, TX, USA",websurfonly
+"""been""","Boston, MA, USA",websurfonly
+"""been""","Costa Mesa, CA, USA",websurfonly
+"""been""","Asheville, NC, USA",websurfonly
+"""been""","Pagosa Springs, CO, USA",websurfonly
+"""been""","New Orleans, LA, USA",websurfonly
+"""been""","Honolulu, HI, USA",websurfonly
+"""been""","Solvang, CA, USA",websurfonly
+"""been""","Miami Beach, FL, USA",websurfonly
+"""been""","Sapa, Vietnam",websurfonly
+"""been""","Nelspruit, South Africa",websurfonly
+"""been""","Hood River, OR, USA",websurfonly
+"""been""","Moscow, Russia",websurfonly
+"""been""","Kalispell, MT, USA",websurfonly
+"""been""","Mesa, AZ, USA",websurfonly
+"""been""","Coronado, CA, USA",websurfonly
+"""been""","Portsmouth, NH, USA",websurfonly
+"""been""","Seattle, WA, USA",websurfonly
+"""been""","Greenwood Village, CO, USA",websurfonly
+"""been""","Eureka, CA, USA",websurfonly
+"""been""","Buena Vista, CO, USA",websurfonly
+"""been""","Buena Park, CA, USA",websurfonly
+"""been""","Hana, HI, USA",websurfonly
+"""been""","Burbank, CA, USA",websurfonly
+"""been""","Seward, AK, USA",websurfonly
+"""been""","Burlingame, CA, USA",websurfonly
+"""been""","Walla Walla, WA, USA",websurfonly
+"""been""","Banff, Alberta, Canada",websurfonly
+"""been"",""fave""","Lake Louise, Alberta, Canada",websurfonly
+"""been""","John Day, OR, USA",websurfonly
+"""been""","Venice, Italy",websurfonly
+"""been""","Lethbridge, Alberta, Canada",websurfonly
+"""been""","Jasper, Alberta, Canada",websurfonly
+"""been""","Shanghai, China",websurfonly
+"""been""","Ketchikan, AK, USA",websurfonly
+"""been""","Healdsburg, CA, USA",websurfonly
+"""been""","Broomfield, CO, USA",websurfonly
+"""been""","Grand Junction, CO, USA",websurfonly
+"""been""","Madrid, Spain",websurfonly
+"""been""","Glenwood Springs, CO, USA",websurfonly
+"""been""","El Paso, TX, USA",websurfonly
+"""been""","Ventura, CA, USA",websurfonly
+"""been""","Ciudad Juarez, Mexico",websurfonly
+"""been""","Boulder, CO, USA",websurfonly
+"""been""","Port Townsend, WA, USA",websurfonly
+"""been""","Escondido, CA, USA",websurfonly
+"""been""","Breckenridge, CO, USA",websurfonly
+"""been""","Wisconsin Dells, WI, USA",websurfonly
+"""been""","Springfield, IL, USA",websurfonly
+"""been""","Omaha, NE, USA",websurfonly
+"""been""","St. George, UT, USA",websurfonly
+"""been""","Tok, AK, USA",websurfonly
+"""been""","New York City, NY, USA",websurfonly
+"""been""","Anchorage, AK, USA",websurfonly
+"""been""","Can Tho, Vietnam",websurfonly
+"""been""","King City, OR, USA",websurfonly
+"""been""","Ninh Binh, Vietnam",websurfonly
+"""been""","Sossusvlei, Namibia",websurfonly
+"""been""","Acapulco, Mexico",websurfonly
+"""been""","Cape Town Central, South Africa",websurfonly
+"""been""","Naha, Japan",websurfonly
+"""been""","Leavenworth, WA, USA",websurfonly
+"""been""","Juneau, AK, USA",websurfonly
+"""been""","Ambleside, UK",websurfonly
+"""been""","Tempe, AZ, USA",websurfonly
+"""been""","Walt Disney World, FL, USA",websurfonly
+"""been""","Laguna Beach, CA, USA",websurfonly
+"""been""","Vail, CO, USA",websurfonly
+"""been""","Amarillo, TX, USA",websurfonly
+"""been""","Half Moon Bay, CA, USA",websurfonly
+"""been""","Frisco, CO, USA",websurfonly
+"""been""","Narita, Japan",websurfonly
+"""been""","Cambridge, MA, USA",websurfonly
+"""been""","Lincoln City, OR, USA",websurfonly
+"""been""","Halifax, Nova Scotia, Canada",websurfonly
+"""been""","Grindavik, Iceland",websurfonly
+"""been""","Cork, Ireland",websurfonly
+"""been""","Dublin, Ireland",websurfonly
+"""been""","Windhoek, Namibia",websurfonly
+"""been""","Fort Collins, CO, USA",websurfonly
+"""been""","La Jolla, CA, USA",websurfonly
+"""been""","Siesta Key, FL, USA",websurfonly
+"""been""","Orlando, FL, USA",websurfonly
+"""been""","Telluride, CO, USA",websurfonly
+"""been""","Greenbrae, CA, USA",websurfonly
+"""been""","Bellevue, WA, USA",websurfonly
+"""been""","Dayton, OH, USA",websurfonly
+"""been""","Mont-Saint-Michel, France",websurfonly
+"""been""","Homer, AK, USA",websurfonly
+"""been""","Hakone-machi, Japan",websurfonly
+"""been""","Missoula, MT, USA",websurfonly
+"""been""","Dnipro, Ukraine",websurfonly
+"""been""","Stateline, NV, USA",websurfonly
+"""been""","West Yellowstone, MT, USA",websurfonly
+"""been""","Tralee, Ireland",websurfonly
+"""been""","Ulaanbaatar, Mongolia",websurfonly
+"""been""","Kilkenny, Ireland",websurfonly
+"""been""","Cheyenne, WY, USA",websurfonly
+"""been""","Hue, Vietnam",websurfonly
+"""been""","Steamboat Springs, CO, USA",websurfonly
+"""been""","Ho Chi Minh City, Vietnam",websurfonly
+"""been""","Hanoi, Vietnam",websurfonly
+"""been""","Snowmass Village, CO, USA",websurfonly
+"""been""","Sedona, AZ, USA",websurfonly
+"""been""","Gettysburg, PA, USA",websurfonly
+"""been""","Marina del Rey, CA, USA",websurfonly
+"""been""","Philadelphia, PA, USA",websurfonly
+"""been""","Anacortes, WA, USA",websurfonly
+"""been""","Chico, CA, USA",websurfonly
+"""been""","Nha Trang, Vietnam",websurfonly
+"""been""","King of Prussia, PA, USA",websurfonly
+"""been""","Mammoth Lakes, CA, USA",websurfonly
+"""been""","Medford, OR, USA",websurfonly
+"""been""","Moncton, New Brunswick, Canada",websurfonly
+"""been""","Manitou Springs, CO, USA",websurfonly
+"""been""","Kurashiki, Japan",websurfonly
+"""been""","Taos, NM, USA",websurfonly
+"""been""","Okayama, Japan",websurfonly
+"""been""","Bellingham, WA, USA",websurfonly
+"""been""","Halong Bay, Vietnam",websurfonly
+"""been""","Aurora, CO, USA",websurfonly
+"""been""","Malibu, CA, USA",websurfonly
+"""been""","Manhattan Beach, CA, USA",websurfonly
+"""been""","Littleton, CO, USA",websurfonly
+"""been""","Teton Village, WY, USA",websurfonly
+"""been""","Hakodate, Japan",websurfonly
+"""been""","Cody, WY, USA",websurfonly
+"""been""","Victoria, British Columbia, Canada",websurfonly
+"""been""","Vancouver, British Columbia, Canada",websurfonly
+"""been""","Aspen, CO, USA",websurfonly
+"""been""","Ushuaia, Argentina",websurfonly
+"""been""","Hershey, PA, USA",websurfonly
+"""been""","Tremonton, UT, USA",websurfonly
+"""been""","Vernal, UT, USA",websurfonly
+"""been""","Kruger National Park, South Africa",websurfonly
+"""been""","Arlington, VA, USA",websurfonly
+"""been""","San Juan, Puerto Rico",websurfonly
+"""been""","Garden Grove, CA, USA",websurfonly
+"""been""","Eugene, OR, USA",websurfonly
+"""been""","Fargo, ND, USA",websurfonly
+"""been""","Split, Croatia",websurfonly
+"""been""","Allenspark, CO, USA",websurfonly
+"""been""","Port Antonio, Jamaica",websurfonly
+"""been""","Ocho Rios, Jamaica",websurfonly
+"""been""","Odessa, Ukraine",websurfonly
+"""been""","Prescott, AZ, USA",websurfonly
+"""been""","Avila Beach, CA, USA",websurfonly
+"""been""","Los Angeles, CA, USA",websurfonly
+"""been""","Fresno, CA, USA",websurfonly
+"""been""","Melville Island, Australia",websurfonly
+"""been""","Azusa, CA, USA",websurfonly
+"""been""","Irvine, CA, USA",websurfonly
+"""been""","Pismo Beach, CA, USA",websurfonly
+"""been""","Great Falls, MT, USA",websurfonly
+"""been""","Hilo, HI, USA",websurfonly
+"""been"",""want""","Chicago, IL, USA",websurfonly
+"""been""","Yalta, Europe",websurfonly
+"""been""","Dubrovnik, Croatia",websurfonly
+"""been""","Fort-de-France, Martinique",websurfonly
+"""been""","Wuhan, China",websurfonly
+"""been""","Irkutsk, Russia",websurfonly
+"""been""","Fort Bragg, CA, USA",websurfonly
+"""been""","Russi, Italy",websurfonly
+"""been""","Napa, CA, USA",websurfonly
+"""been""","Lancaster, PA, USA",websurfonly
+"""been""","Phoenix, AZ, USA",websurfonly
+"""been""","Billings, MT, USA",websurfonly
+"""been""","Bend, OR, USA",websurfonly
+"""been""","Alexandria, VA, USA",websurfonly
+"""been""","Long Beach, CA, USA",websurfonly
+"""been""","Venice, FL, USA",websurfonly
+"""been""","Tiberias, Israel",websurfonly
+"""been""","Punta Arenas, Chile",websurfonly
+"""been""","Zion National Park, UT, USA",websurfonly
+"""been""","Dingle, Ireland",websurfonly
+"""been""","Grants Pass, OR, USA",websurfonly
+"""been""","Huntington Beach, CA, USA",websurfonly
+"""been""","Kenmare, Ireland",websurfonly
+"""been""","Aptos, CA, USA",websurfonly
+"""been""","Auckland, New Zealand",websurfonly
+"""been""","Big Sur, CA, USA",websurfonly
+"""been""","Quebec City, Quebec, Canada",websurfonly
+"""been""","North Conway, NH, USA",websurfonly
+"""been""","Waitomo Caves, New Zealand",websurfonly
+"""been""","Sioux Falls, SD, USA",websurfonly
+"""been""","Sacramento, CA, USA",websurfonly
+"""been""","Bozeman, MT, USA",websurfonly
+"""been""","Singapore, Singapore",websurfonly
+"""been""","St. Petersburg, Russia",websurfonly
+"""been""","Freeport, ME, USA",websurfonly
+"""been"",""fave""","Monument Valley, UT, USA",websurfonly
+"""been""","Port-au-Prince, Haiti",websurfonly
+"""been""","Ensenada, Mexico",websurfonly
+"""been""","St. John's, Antigua and Barbuda",websurfonly
+"""been""","Schiphol, The Netherlands",websurfonly
+"""been""","Paso Robles, CA, USA",websurfonly
+"""been""","Stellenbosch, South Africa",websurfonly
+"""been""","Rosarito, Mexico",websurfonly
+"""been""","Morro Bay, CA, USA",websurfonly
+"""been""","Sintra, Portugal",websurfonly
+"""been""","Tijuana, Mexico",websurfonly
+"""been""","Jackson, WY, USA",websurfonly
+"""been""","Queluz, Portugal",websurfonly
+"""been""","Lisbon, Portugal",websurfonly
+"""been""","Guangzhou, China",websurfonly
+"""been""","Xi'an, China",websurfonly
+"""been""","Guilin, China",websurfonly
+"""been""","Lake George, NY, USA",websurfonly
+"""been""","Knysna, South Africa",websurfonly
+"""been""","Chengdu, China",websurfonly
+"""been""","Hangzhou, China",websurfonly
+"""been""","Kunming, China",websurfonly
+"""been""","Cannon Beach, OR, USA",websurfonly
+"""been""","Winter Park, CO, USA",websurfonly
+"""been""","Pasadena, CA, USA",websurfonly
+"""been""","Williams, AZ, USA",websurfonly
+"""been""","Lake Placid, NY, USA",websurfonly
+"""been""","Lake Geneva, WI, USA",websurfonly
+"""been""","Kuala Lumpur, Malaysia",websurfonly
+"""been""","Guayaquil, Ecuador",websurfonly
+"""been""","Niagara Falls, NY, USA",websurfonly
+"""been""","Monterey, CA, USA",websurfonly
+"""been""","Cartagena, Colombia",websurfonly
+"""been""","Port Elizabeth, South Africa",websurfonly
+"""been""","Hiroshima, Japan",websurfonly
+"""been""","Cali, Colombia",websurfonly
+"""been""","Kyoto, Japan",websurfonly
+"""been""","Puno, Peru",websurfonly
+"""been""","Park City, UT, USA",websurfonly
+"""been""","Oranjestad, Aruba",websurfonly
+"""want""","Jaco, Costa Rica",websurfonly
+"""been""","Palm - Eagle Beach, Aruba",websurfonly
+"""been""","Pacific Grove, CA, USA",websurfonly
+"""been""","Oklahoma City, OK, USA",websurfonly
+"""been""","Palo Alto, CA, USA",websurfonly
+"""been""","Yosemite National Park, CA, USA",websurfonly
+"""been""","Palm Desert, CA, USA",websurfonly
+"""been""","Palm Springs, CA, USA",websurfonly
+"""been""","Sevastopol, Europe",websurfonly
+"""been""","Suzhou, China",websurfonly
+"""want""","Agra, India",websurfonly
+"""been""","Redding, CA, USA",websurfonly
+"""been""","Albany, NY, USA",websurfonly
+"""been""","Tulsa, OK, USA",websurfonly
+"""been""","Selfoss, Iceland",websurfonly
+"""been""","Oxnard, CA, USA",websurfonly
+"""want""","Yangon (Rangoon), Myanmar",websurfonly
+"""been""","Pretoria, South Africa",websurfonly
+"""been""","Redondo Beach, CA, USA",websurfonly
+"""been""","Alexandria, Egypt",websurfonly
+"""been""","George Town, Malaysia",websurfonly
+"""been""","Johannesburg, South Africa",websurfonly
+"""been""","Lexington, KY, USA",websurfonly
+"""been""","Plymouth, MA, USA",websurfonly
+"""been""","Penang Island, Malaysia",websurfonly

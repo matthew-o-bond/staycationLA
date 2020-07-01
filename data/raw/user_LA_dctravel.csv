@@ -1,0 +1,490 @@
+tag,place,user
+"""been""","American Canyon, CA, USA",dctravel
+"""been""","Anaheim, CA, USA",dctravel
+"""been""","Fair Haven, NJ, USA",dctravel
+"""been""","New Braunfels, TX, USA",dctravel
+"""been""","Micanopy, FL, USA",dctravel
+"""been""","Burlington, VT, USA",dctravel
+"""been""","Tarpon Springs, FL, USA",dctravel
+"""been""","Calistoga, CA, USA",dctravel
+"""been""","Dulles, VA, USA",dctravel
+"""been""","Jacksonville Beach, FL, USA",dctravel
+"""been""","Newport, RI, USA",dctravel
+"""been""","Kapaa, HI, USA",dctravel
+"""been""","South San Francisco, CA, USA",dctravel
+"""been""","Walnut Creek, CA, USA",dctravel
+"""been""","Des Moines, IA, USA",dctravel
+"""been""","Neptune City, NJ, USA",dctravel
+"""been""","Tarrytown, NY, USA",dctravel
+"""been""","New Brunswick, NJ, USA",dctravel
+"""been""","Damascus, MD, USA",dctravel
+"""been""","Cumberland, MD, USA",dctravel
+"""been""","Keyport, NJ, USA",dctravel
+"""been""","Columbia, MO, USA",dctravel
+"""been""","Cooperstown, NY, USA",dctravel
+"""been""","Ponte Vedra Beach, FL, USA",dctravel
+"""been""","Culver City, CA, USA",dctravel
+"""been""","Rosemont, IL, USA",dctravel
+"""been""","Tallulah Falls, GA, USA",dctravel
+"""been""","Port Canaveral, FL, USA",dctravel
+"""been""","Navasota, TX, USA",dctravel
+"""been""","Jog Road, FL, USA",dctravel
+"""been""","Salinas, CA, USA",dctravel
+"""been""","Pompano Beach, FL, USA",dctravel
+"""been""","St. Helena, CA, USA",dctravel
+"""been""","York, PA, USA",dctravel
+"""been""","McLean, VA, USA",dctravel
+"""been""","Springfield, MA, USA",dctravel
+"""been""","Waterbury, VT, USA",dctravel
+"""been""","Jupiter, FL, USA",dctravel
+"""been""","Acre, Israel",dctravel
+"""been""","Marble Falls, TX, USA",dctravel
+"""been""","Greenbelt, MD, USA",dctravel
+"""been""","Arad, Israel",dctravel
+"""been""","Grand Canyon National Park, AZ, USA",dctravel
+"""been""","Kendall, FL, USA",dctravel
+"""been""","Greensboro, NC, USA",dctravel
+"""been""","Alameda, CA, USA",dctravel
+"""been""","Lakewood, NJ, USA",dctravel
+"""been""","Newark, NJ, USA",dctravel
+"""been""","Rumson, NJ, USA",dctravel
+"""been""","Iselin, NJ, USA",dctravel
+"""been""","College Park, MD, USA",dctravel
+"""been""","East Rutherford, NJ, USA",dctravel
+"""been""","Red Bank, NJ, USA",dctravel
+"""been""","Jackson, NJ, USA",dctravel
+"""been""","Eatontown, NJ, USA",dctravel
+"""want""","Healdsburg, CA, USA",dctravel
+"""been""","Grand Junction, CO, USA",dctravel
+"""been""","Buena Park, CA, USA",dctravel
+"""been""","Milford, PA, USA",dctravel
+"""been""","San Antonio, TX, USA",dctravel
+"""been""","Pembroke Pines, FL, USA",dctravel
+"""been"",""want""","Fairfield, CA, USA",dctravel
+"""been""","Burlingame, CA, USA",dctravel
+"""been""","Del Rio, TX, USA",dctravel
+"""been""","San Francisco, CA, USA",dctravel
+"""been""","Cochrane, Alberta, Canada",dctravel
+"""been""","Ventnor City, NJ, USA",dctravel
+"""been""","East Brunswick, NJ, USA",dctravel
+"""been""","Vauxhall, NJ, USA",dctravel
+"""been""","Rahway, NJ, USA",dctravel
+"""been""","Elizabeth, NJ, USA",dctravel
+"""been""","Keansburg, NJ, USA",dctravel
+"""been""","Harrison, NY, USA",dctravel
+"""been""","Neptune, NJ, USA",dctravel
+"""been""","Coronado, CA, USA",dctravel
+"""been""","Hypoluxo, FL, USA",dctravel
+"""been""","Tallahassee, FL, USA",dctravel
+"""been""","Leesburg, VA, USA",dctravel
+"""been""","DeKalb, IL, USA",dctravel
+"""been""","Austin, TX, USA",dctravel
+"""been""","Cedar Creek, TX, USA",dctravel
+"""been""","Miami, FL, USA",dctravel
+"""been""","Fredericksburg, VA, USA",dctravel
+"""been""","Miami Beach, FL, USA",dctravel
+"""been""","Providence, RI, USA",dctravel
+"""been""","Brooklyn, NY, USA",dctravel
+"""been""","Stowe, VT, USA",dctravel
+"""been""","Deerfield, IL, USA",dctravel
+"""been""","Tampa, FL, USA",dctravel
+"""been"",""want""","Sonoma, CA, USA",dctravel
+"""been""","Indian Rocks Beach, FL, USA",dctravel
+"""been""","Brookline, MA, USA",dctravel
+"""been""","Columbia, MD, USA",dctravel
+"""been""","Edison, NJ, USA",dctravel
+"""been""","Jersey City, NJ, USA",dctravel
+"""been""","Jamesburg, NJ, USA",dctravel
+"""been""","Wall Township, NJ, USA",dctravel
+"""been""","Ocean City, MD, USA",dctravel
+"""been""","Point Pleasant Beach, NJ, USA",dctravel
+"""been""","Point Pleasant, NJ, USA",dctravel
+"""been""","Hazlet, NJ, USA",dctravel
+"""been""","Tinton Falls, NJ, USA",dctravel
+"""been""","Highlands, NJ, USA",dctravel
+"""been""","Vienna, Austria",dctravel
+"""been""","El Segundo, CA, USA",dctravel
+"""been""","Tiberias, Israel",dctravel
+"""been""","Palatka, FL, USA",dctravel
+"""been""","Savannah, GA, USA",dctravel
+"""been""","Safed, Israel",dctravel
+"""been""","Buffalo Grove, IL, USA",dctravel
+"""been""","Nashville, TN, USA",dctravel
+"""been""","Bloomington, IN, USA",dctravel
+"""been""","Petersburg, VA, USA",dctravel
+"""been""","Nassau, Bahamas",dctravel
+"""been""","Baltimore, MD, USA",dctravel
+"""been""","Albuquerque, NM, USA",dctravel
+"""been""","Altamonte Springs, FL, USA",dctravel
+"""been""","North Bethesda, MD, USA",dctravel
+"""been""","Ramat Gan, Israel",dctravel
+"""been""","Teaneck, NJ, USA",dctravel
+"""been""","Oakland, MD, USA",dctravel
+"""been""","Princeton, NJ, USA",dctravel
+"""been""","Flushing, NY, USA",dctravel
+"""been""","Montclair, NJ, USA",dctravel
+"""been""","Holmdel, NJ, USA",dctravel
+"""been""","Palm Beach, FL, USA",dctravel
+"""been""","Palm Beach Gardens, FL, USA",dctravel
+"""been""","Emeryville, CA, USA",dctravel
+"""been""","Ligonier, PA, USA",dctravel
+"""been""","Montreal, Quebec, Canada",dctravel
+"""been""","Morrison, CO, USA",dctravel
+"""been""","Hawthorne, CA, USA",dctravel
+"""been""","Jacksonville, FL, USA",dctravel
+"""been""","Macon, GA, USA",dctravel
+"""been""","Starke, FL, USA",dctravel
+"""been""","Salt Lake City, UT, USA",dctravel
+"""been""","Hagerstown, MD, USA",dctravel
+"""been""","Chevy Chase, MD, USA",dctravel
+"""been""","Toms River, NJ, USA",dctravel
+"""been""","Hanover, MD, USA",dctravel
+"""been""","Monmouth Beach, NJ, USA",dctravel
+"""been""","Alachua, FL, USA",dctravel
+"""been""","Mount Airy, MD, USA",dctravel
+"""been""","Marlboro, NJ, USA",dctravel
+"""been""","Margate City, NJ, USA",dctravel
+"""been""","Great Neck, NY, USA",dctravel
+"""been""","Matawan, NJ, USA",dctravel
+"""been""","Wichita Falls, TX, USA",dctravel
+"""been""","Jaffa, Israel",dctravel
+"""been""","Perth Amboy, NJ, USA",dctravel
+"""been""","Sedona, AZ, USA",dctravel
+"""been""","Loveland, CO, USA",dctravel
+"""been""","Morristown, NJ, USA",dctravel
+"""been""","Scottsdale, AZ, USA",dctravel
+"""been""","Winter Park, FL, USA",dctravel
+"""been""","Ein Gedi, Israel",dctravel
+"""been""","Caesarea, Israel",dctravel
+"""been""","Herzliya, Israel",dctravel
+"""been""","Frostburg, MD, USA",dctravel
+"""been""","Spring Lake, NJ, USA",dctravel
+"""been""","Gaithersburg, MD, USA",dctravel
+"""been""","Reno, NV, USA",dctravel
+"""been""","Summit, NJ, USA",dctravel
+"""been""","Strathmere, NJ, USA",dctravel
+"""been""","Kearney, NE, USA",dctravel
+"""been""","Toronto, Ontario, Canada",dctravel
+"""been""","Piscataway, NJ, USA",dctravel
+"""been""","Middletown, NJ, USA",dctravel
+"""been""","Yountville, CA, USA",dctravel
+"""been""","Orlando, FL, USA",dctravel
+"""been""","Concord, MA, USA",dctravel
+"""been""","Fort Collins, CO, USA",dctravel
+"""been""","Frederick, MD, USA",dctravel
+"""been""","Burnet, TX, USA",dctravel
+"""been""","Nazareth, Israel",dctravel
+"""been""","Netanya, Israel",dctravel
+"""been""","Florence, SC, USA",dctravel
+"""been""","St. Thomas, U.S. Virgin Islands",dctravel
+"""been""","Nahariya, Israel",dctravel
+"""been""","St. Croix, U.S. Virgin Islands",dctravel
+"""been""","Jericho, Palestinian Territories",dctravel
+"""been""","Germantown, MD, USA",dctravel
+"""been""","New Carrollton, MD, USA",dctravel
+"""been""","Plymouth, MN, USA",dctravel
+"""been""","Silver Spring, MD, USA",dctravel
+"""been""","Oceanport, NJ, USA",dctravel
+"""been""","Bowie, MD, USA",dctravel
+"""been""","Shrewsbury, NJ, USA",dctravel
+"""been""","Somerset, NJ, USA",dctravel
+"""been""","Jefferson City, MO, USA",dctravel
+"""been""","Maryland Heights, MO, USA",dctravel
+"""been""","Old Bridge, NJ, USA",dctravel
+"""been""","South Amboy, NJ, USA",dctravel
+"""been""","Brownwood, TX, USA",dctravel
+"""been""","Arlington, VA, USA",dctravel
+"""been""","Falls Church, VA, USA",dctravel
+"""been""","Bethany Beach, DE, USA",dctravel
+"""been""","Bryan, TX, USA",dctravel
+"""been""","Ashburn, VA, USA",dctravel
+"""been""","St. Pete Beach, FL, USA",dctravel
+"""been""","Wellington, FL, USA",dctravel
+"""been""","Durham, NC, USA",dctravel
+"""been""","Saint Augustine Beach, FL, USA",dctravel
+"""been""","Clayton, GA, USA",dctravel
+"""been""","Bridgeville, DE, USA",dctravel
+"""been""","St. Petersburg, FL, USA",dctravel
+"""been""","Saint Louis, MO, USA",dctravel
+"""been""","Ellicott City, MD, USA",dctravel
+"""been""","Minneapolis, MN, USA",dctravel
+"""been""","South Orange, NJ, USA",dctravel
+"""been""","Brunswick, MD, USA",dctravel
+"""been""","Parsippany, NJ, USA",dctravel
+"""been""","Columbia, PA, USA",dctravel
+"""been""","Malibu, CA, USA",dctravel
+"""been""","Birmingham, AL, USA",dctravel
+"""been""","Dillon, SC, USA",dctravel
+"""been""","Taylor, TX, USA",dctravel
+"""been""","West Palm Beach, FL, USA",dctravel
+"""been""","Fairfax, VA, USA",dctravel
+"""been""","Sarasota, FL, USA",dctravel
+"""been""","McHenry, MD, USA",dctravel
+"""been""","Sayreville, NJ, USA",dctravel
+"""been""","Derwood, MD, USA",dctravel
+"""been""","Rockville, MD, USA",dctravel
+"""been""","Linthicum Heights, MD, USA",dctravel
+"""been""","Sandy Hook, NJ, USA",dctravel
+"""been""","Braintree, MA, USA",dctravel
+"""been""","Sea Bright, NJ, USA",dctravel
+"""been""","Seaside Heights, NJ, USA",dctravel
+"""been""","Sea Isle City, NJ, USA",dctravel
+"""been""","Sea Girt, NJ, USA",dctravel
+"""been""","Santee, SC, USA",dctravel
+"""been""","Herndon, VA, USA",dctravel
+"""been""","Monroeville, PA, USA",dctravel
+"""been""","Eilat, Israel",dctravel
+"""been""","Phoenix, AZ, USA",dctravel
+"""been""","New Haven, CT, USA",dctravel
+"""been""","Haifa, Israel",dctravel
+"""been""","Dublin, TX, USA",dctravel
+"""been""","Jerusalem, Israel",dctravel
+"""been""","Foster City, CA, USA",dctravel
+"""been""","Tel Aviv, Israel",dctravel
+"""been""","College Station, TX, USA",dctravel
+"""been""","Napa, CA, USA",dctravel
+"""been""","Alexandria, VA, USA",dctravel
+"""been""","San Marcos, TX, USA",dctravel
+"""been""","Vero Beach, FL, USA",dctravel
+"""been""","Secaucus, NJ, USA",dctravel
+"""been""","Wildwood Crest, NJ, USA",dctravel
+"""been""","Wildwood, NJ, USA",dctravel
+"""been""","Seaside Park, NJ, USA",dctravel
+"""been""","Las Vegas, NV, USA",dctravel
+"""been""","Bethesda, MD, USA",dctravel
+"""been""","Short Hills, NJ, USA",dctravel
+"""been""","Woodbridge, NJ, USA",dctravel
+"""been""","Los Angeles, CA, USA",dctravel
+"""been""","Waldo, FL, USA",dctravel
+"""been""","Breezewood, PA, USA",dctravel
+"""been""","Chicago, IL, USA",dctravel
+"""been""","Adelphi, MD, USA",dctravel
+"""been""","Annapolis, MD, USA",dctravel
+"""been""","Beltsville, MD, USA",dctravel
+"""been"",""want""","Paris, France",dctravel
+"""been""","Framingham, MA, USA",dctravel
+"""been""","Kensington, MD, USA",dctravel
+"""been""","Bedford, MA, USA",dctravel
+"""been""","Brunswick, GA, USA",dctravel
+"""been""","Waco, TX, USA",dctravel
+"""been""","Rohnert Park, CA, USA",dctravel
+"""been""","Pebble Beach, CA, USA",dctravel
+"""been""","Pittsburgh, PA, USA",dctravel
+"""been""","Hampton, VA, USA",dctravel
+"""been""","Harrisonburg, VA, USA",dctravel
+"""been""","Lanham, MD, USA",dctravel
+"""been""","Darnestown, MD, USA",dctravel
+"""been""","Laurel, MD, USA",dctravel
+"""been""","LaVale, MD, USA",dctravel
+"""been""","West Long Branch, NJ, USA",dctravel
+"""been""","Anderson, IN, USA",dctravel
+"""been""","Shippensburg, PA, USA",dctravel
+"""been""","Sacramento, CA, USA",dctravel
+"""been""","Livermore, CA, USA",dctravel
+"""been""","Rutherford, CA, USA",dctravel
+"""been""","Fort Worth, TX, USA",dctravel
+"""been""","Ascutney, VT, USA",dctravel
+"""been""","Wheaton, MD, USA",dctravel
+"""been""","Wailea, HI, USA",dctravel
+"""been""","Easton, PA, USA",dctravel
+"""been""","Dillard, GA, USA",dctravel
+"""been""","Pacific Grove, CA, USA",dctravel
+"""been""","Richmond, CA, USA",dctravel
+"""been""","Frankfurt, Germany",dctravel
+"""been""","Maui, HI, USA",dctravel
+"""been""","Bloomington, MN, USA",dctravel
+"""been""","Saint Paul, MN, USA",dctravel
+"""been""","Potomac, MD, USA",dctravel
+"""been""","Fenwick Island, DE, USA",dctravel
+"""been""","Dallas, TX, USA",dctravel
+"""been""","Riverside, CA, USA",dctravel
+"""been""","Pasadena, CA, USA",dctravel
+"""been""","Monterey, CA, USA",dctravel
+"""been""","Marietta, GA, USA",dctravel
+"""been""","Harrisburg, PA, USA",dctravel
+"""been""","Tulsa, OK, USA",dctravel
+"""been""","Hanover, PA, USA",dctravel
+"""been""","Ontario, CA, USA",dctravel
+"""been""","Wellesley, MA, USA",dctravel
+"""been""","Olney, MD, USA",dctravel
+"""been""","Falling Waters, WV, USA",dctravel
+"""been""","Atlantic Highlands, NJ, USA",dctravel
+"""been""","Amherst, MA, USA",dctravel
+"""been""","Chapel Hill, NC, USA",dctravel
+"""been""","Grapevine, TX, USA",dctravel
+"""been""","Charlotte, NC, USA",dctravel
+"""been""","State College, PA, USA",dctravel
+"""been""","Redlands, CA, USA",dctravel
+"""been""","Millbrae, CA, USA",dctravel
+"""been""","Hartford, CT, USA",dctravel
+"""been""","Atlantic City, NJ, USA",dctravel
+"""been""","Wakefield, MA, USA",dctravel
+"""been""","Columbus, OH, USA",dctravel
+"""been""","Danvers, MA, USA",dctravel
+"""been""","Albany, NY, USA",dctravel
+"""been""","Yosemite National Park, CA, USA",dctravel
+"""been""","Lexington, MA, USA",dctravel
+"""been""","Mitspe Ramon, Israel",dctravel
+"""been""","Oakville, CA, USA",dctravel
+"""been""","Oakland, CA, USA",dctravel
+"""been"",""want""","London, UK",dctravel
+"""been""","Rocky Mount, NC, USA",dctravel
+"""been""","Waltham, MA, USA",dctravel
+"""been""","Niagara Falls, Ontario, Canada",dctravel
+"""been""","Cleveland, OH, USA",dctravel
+"""been""","Holyoke, MA, USA",dctravel
+"""been""","Lincolnshire, IL, USA",dctravel
+"""been""","Boca Raton, FL, USA",dctravel
+"""been""","New Rochelle, NY, USA",dctravel
+"""been""","Taunton, MA, USA",dctravel
+"""been""","Boynton Beach, FL, USA",dctravel
+"""been""","Northampton, MA, USA",dctravel
+"""been""","Capernaum, Israel",dctravel
+"""been""","Bethlehem, Palestinian Territories",dctravel
+"""been""","Rosh Hanikra, Israel",dctravel
+"""been""","Metulla, Israel",dctravel
+"""been""","West Conshohocken, PA, USA",dctravel
+"""been""","Lake George, NY, USA",dctravel
+"""been""","Raleigh, NC, USA",dctravel
+"""been""","Lewis Center, OH, USA",dctravel
+"""been""","Bennington, VT, USA",dctravel
+"""been""","Asbury Park, NJ, USA",dctravel
+"""been""","Baldwin, FL, USA",dctravel
+"""been""","Virginia Beach, VA, USA",dctravel
+"""been""","Jeffersonville, IN, USA",dctravel
+"""been""","Homestead, PA, USA",dctravel
+"""been""","Edinburgh, UK",dctravel
+"""been""","Stone Mountain, GA, USA",dctravel
+"""been""","Norfolk, VA, USA",dctravel
+"""been""","Winston Salem, NC, USA",dctravel
+"""been""","Aberdeen, NJ, USA",dctravel
+"""been""","Montgomery, AL, USA",dctravel
+"""been""","Belmar, NJ, USA",dctravel
+"""been""","Haverhill, FL, USA",dctravel
+"""been""","Oak Brook, IL, USA",dctravel
+"""been""","Dania Beach, FL, USA",dctravel
+"""been""","Rehoboth Beach, DE, USA",dctravel
+"""been""","Kerrville, TX, USA",dctravel
+"""been""","Tysons Corner, VA, USA",dctravel
+"""been""","Deal, NJ, USA",dctravel
+"""been""","Staten Island, NY, USA",dctravel
+"""been""","Daytona Beach, FL, USA",dctravel
+"""been""","Katy, TX, USA",dctravel
+"""been""","Lumberton, NC, USA",dctravel
+"""been""","Lockhart, TX, USA",dctravel
+"""been""","Delray Beach, FL, USA",dctravel
+"""been""","Reston, VA, USA",dctravel
+"""been""","Wilmington, DE, USA",dctravel
+"""been""","Lake Forest, IL, USA",dctravel
+"""been""","Hollywood, FL, USA",dctravel
+"""been""","Deerfield Beach, FL, USA",dctravel
+"""been""","Deptford, NJ, USA",dctravel
+"""been""","Indianapolis, IN, USA",dctravel
+"""been""","Schenectady, NY, USA",dctravel
+"""been""","Bronx, NY, USA",dctravel
+"""been""","Oneonta, NY, USA",dctravel
+"""been""","Lauderdale-By-The-Sea, FL, USA",dctravel
+"""been""","Cocoa, FL, USA",dctravel
+"""been""","Cocoa Beach, FL, USA",dctravel
+"""been""","Santa Monica, CA, USA",dctravel
+"""been""","Coconut Creek, FL, USA",dctravel
+"""been""","Clearwater, FL, USA",dctravel
+"""been""","Greenacres, FL, USA",dctravel
+"""been""","Santa Rosa, CA, USA",dctravel
+"""been""","Lawtey, FL, USA",dctravel
+"""been"",""want""","Washington DC, DC, USA",dctravel
+"""been""","Gettysburg, PA, USA",dctravel
+"""been""","Laurel, DE, USA",dctravel
+"""been""","Puerto Rico, Caribbean",dctravel
+"""been""","Wake Forest, NC, USA",dctravel
+"""been""","Philadelphia, PA, USA",dctravel
+"""been""","West Orange, NJ, USA",dctravel
+"""been""","Hershey, PA, USA",dctravel
+"""been""","Normal, IL, USA",dctravel
+"""been""","Sausalito, CA, USA",dctravel
+"""been""","Memphis, TN, USA",dctravel
+"""been""","Powell, OH, USA",dctravel
+"""been""","Live Oak, FL, USA",dctravel
+"""been""","Coral Gables, FL, USA",dctravel
+"""been""","Coral Springs, FL, USA",dctravel
+"""been""","Colts Neck, NJ, USA",dctravel
+"""been""","Louisville, KY, USA",dctravel
+"""been""","Harrison, NJ, USA",dctravel
+"""been""","Selma, NC, USA",dctravel
+"""been""","San Juan, Puerto Rico",dctravel
+"""been""","Port Jervis, NY, USA",dctravel
+"""been""","Banff, Alberta, Canada",dctravel
+"""been""","Walt Disney World, FL, USA",dctravel
+"""been""","North Miami Beach, FL, USA",dctravel
+"""been""","Lake Mary, FL, USA",dctravel
+"""been""","North Palm Beach, FL, USA",dctravel
+"""been""","Valdosta, GA, USA",dctravel
+"""been""","Lake City, FL, USA",dctravel
+"""been""","Berkeley, CA, USA",dctravel
+"""been""","Qiryat Shemona, Israel",dctravel
+"""been""","Gainesville, FL, USA",dctravel
+"""been""","Cedar Key, FL, USA",dctravel
+"""been""","Atlanta, GA, USA",dctravel
+"""been""","Celebration, FL, USA",dctravel
+"""been""","Schaumburg, IL, USA",dctravel
+"""been""","Dewey Beach, DE, USA",dctravel
+"""been""","Richmond, VA, USA",dctravel
+"""been""","Cape May, NJ, USA",dctravel
+"""been""","Manassas, VA, USA",dctravel
+"""been""","Long Branch, NJ, USA",dctravel
+"""been""","Cambridge, MA, USA",dctravel
+"""been""","White Plains, NY, USA",dctravel
+"""been""","Rye, NY, USA",dctravel
+"""been""","Beverly Hills, CA, USA",dctravel
+"""been""","Ocala, FL, USA",dctravel
+"""been""","Lantana, FL, USA",dctravel
+"""been""","Lake Worth, FL, USA",dctravel
+"""been""","Richmond Hill, GA, USA",dctravel
+"""been""","Springfield, IL, USA",dctravel
+"""been""","Georgetown, DE, USA",dctravel
+"""been""","El Paso, TX, USA",dctravel
+"""been""","Manasquan, NJ, USA",dctravel
+"""been""","Manalapan, NJ, USA",dctravel
+"""been""","New York City, NY, USA",dctravel
+"""been""","Croton on Hudson, NY, USA",dctravel
+"""been""","Maplewood, NJ, USA",dctravel
+"""been""","Cherry Hill, NJ, USA",dctravel
+"""been""","Fort Monmouth, NJ, USA",dctravel
+"""been""","Fort Lee, NJ, USA",dctravel
+"""been""","Key Biscayne, FL, USA",dctravel
+"""been""","Key Largo, FL, USA",dctravel
+"""been""","Port Saint Lucie, FL, USA",dctravel
+"""been""","Williamsburg, VA, USA",dctravel
+"""been""","Wheeling, WV, USA",dctravel
+"""been""","White River Junction, VT, USA",dctravel
+"""been""","Vienna, VA, USA",dctravel
+"""been""","Lahaina, HI, USA",dctravel
+"""been""","Fort Lauderdale, FL, USA",dctravel
+"""been""","Seattle, WA, USA",dctravel
+"""been""","San Diego, CA, USA",dctravel
+"""been""","Florham Park, NJ, USA",dctravel
+"""been""","North Brunswick, NJ, USA",dctravel
+"""been""","Kihei, HI, USA",dctravel
+"""been""","Shaker Heights, OH, USA",dctravel
+"""been""","Livingston, NJ, USA",dctravel
+"""been""","San Jose, CA, USA",dctravel
+"""been""","Denver, CO, USA",dctravel
+"""been""","Houston, TX, USA",dctravel
+"""been""","Kissimmee, FL, USA",dctravel
+"""been""","San Luis Obispo, CA, USA",dctravel
+"""been""","New Orleans, LA, USA",dctravel
+"""been""","Rabun Gap, GA, USA",dctravel
+"""been""","St. Augustine, FL, USA",dctravel
+"""been""","Lihue, HI, USA",dctravel
+"""been""","Cape Canaveral, FL, USA",dctravel
+"""been""","Boston, MA, USA",dctravel
+"""been""","Poipu, HI, USA",dctravel
+"""been""","Honolulu, HI, USA",dctravel
+"""been""","Linden, NJ, USA",dctravel
+"""been""","Oakhurst, NJ, USA",dctravel
+"""been""","Lincroft, NJ, USA",dctravel
+"""been""","Ocean Grove, NJ, USA",dctravel
+"""been""","Little Silver, NJ, USA",dctravel
+"""been""","Ocean City, NJ, USA",dctravel
+"""been""","Freehold, NJ, USA",dctravel
+"""been""","Ocean Township, NJ, USA",dctravel

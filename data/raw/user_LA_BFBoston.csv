@@ -1,0 +1,821 @@
+tag,place,user
+"""been""","Charleston, SC, USA",BFBoston
+"""been""","Burlington, VT, USA",BFBoston
+"""been""","Calistoga, CA, USA",BFBoston
+"""been""","Lake Hopatcong, NJ, USA",BFBoston
+"""been""","Roselle, NJ, USA",BFBoston
+"""been""","Madison, WI, USA",BFBoston
+"""been""","Bernardsville, NJ, USA",BFBoston
+"""been""","East Northport, NY, USA",BFBoston
+"""been""","Henderson Harbor, NY, USA",BFBoston
+"""been""","Lambertville, NJ, USA",BFBoston
+"""been""","Lakewood, NJ, USA",BFBoston
+"""been""","Roselle Park, NJ, USA",BFBoston
+"""been""","Lanoka Harbor, NJ, USA",BFBoston
+"""been""","Bloomfield, NJ, USA",BFBoston
+"""been""","Bologna, Italy",BFBoston
+"""been""","Malvern, PA, USA",BFBoston
+"""been""","Austin, TX, USA",BFBoston
+"""been""","Puerto Morelos, Mexico",BFBoston
+"""been""","Greensboro, NC, USA",BFBoston
+"""been""","Bradley Beach, NJ, USA",BFBoston
+"""been""","Riverhead, NY, USA",BFBoston
+"""been""","Cape Vincent, NY, USA",BFBoston
+"""been""","East Syracuse, NY, USA",BFBoston
+"""been""","Kailua-Kona, HI, USA",BFBoston
+"""been""","Burbank, CA, USA",BFBoston
+"""been""","Williamsburg, VA, USA",BFBoston
+"""been""","White River Junction, VT, USA",BFBoston
+"""been""","Brigantine, NJ, USA",BFBoston
+"""been""","Rochester, NY, USA",BFBoston
+"""been""","Los Glaciares National Park, Argentina",BFBoston
+"""been""","Nafplio, Greece",BFBoston
+"""been""","Seattle, WA, USA",BFBoston
+"""been""","Linden, NJ, USA",BFBoston
+"""been""","Kyoto, Japan",BFBoston
+"""been""","Osaka, Japan",BFBoston
+"""been""","Nagasaki, Japan",BFBoston
+"""been""","Lecce, Italy",BFBoston
+"""been""","Palm Beach, FL, USA",BFBoston
+"""been""","Palm Beach Shores, FL, USA",BFBoston
+"""been""","League City, TX, USA",BFBoston
+"""been""","Caldwell, NJ, USA",BFBoston
+"""been""","Catskill, NY, USA",BFBoston
+"""been""","Livingston, NJ, USA",BFBoston
+"""been""","New Orleans, LA, USA",BFBoston
+"""been""","Lihue, HI, USA",BFBoston
+"""been""","Poipu, HI, USA",BFBoston
+"""been""","Utica, NY, USA",BFBoston
+"""been""","Cape May, NJ, USA",BFBoston
+"""been""","Roslyn, NY, USA",BFBoston
+"""been""","Camden, NJ, USA",BFBoston
+"""been""","Long Branch, NJ, USA",BFBoston
+"""been""","Long Beach Township, NJ, USA",BFBoston
+"""been""","Spanish Town, British Virgin Islands",BFBoston
+"""been""","Madison, NJ, USA",BFBoston
+"""been""","Kardamili, Greece",BFBoston
+"""been""","Cape May Point, NJ, USA",BFBoston
+"""been""","Road Town, British Virgin Islands",BFBoston
+"""been""","Laguna Hills, CA, USA",BFBoston
+"""been""","Laguna Beach, CA, USA",BFBoston
+"""been""","Pushkin, Russia",BFBoston
+"""been""","Chesapeake City, MD, USA",BFBoston
+"""been""","Ocean City, MD, USA",BFBoston
+"""been""","Point Pleasant Beach, NJ, USA",BFBoston
+"""been""","Chestertown, MD, USA",BFBoston
+"""been""","Point Pleasant, NJ, USA",BFBoston
+"""been""","Hazlet, NJ, USA",BFBoston
+"""been""","Baltimore, MD, USA",BFBoston
+"""been""","Chevy Chase, MD, USA",BFBoston
+"""been""","Belcastel, France",BFBoston
+"""been""","Hightstown, NJ, USA",BFBoston
+"""been""","San Luis Obispo, CA, USA",BFBoston
+"""been""","St. Augustine, FL, USA",BFBoston
+"""been""","Cape Canaveral, FL, USA",BFBoston
+"""been""","St. Petersburg, Russia",BFBoston
+"""been""","San Jose, CA, USA",BFBoston
+"""been""","Carmel, CA, USA",BFBoston
+"""been""","Trigance, France",BFBoston
+"""been""","Leesburg, VA, USA",BFBoston
+"""been""","Carpinteria, CA, USA",BFBoston
+"""been""","Kissimmee, FL, USA",BFBoston
+"""been""","Princeton, NJ, USA",BFBoston
+"""been""","Hillside, NJ, USA",BFBoston
+"""been""","Jacksonville, FL, USA",BFBoston
+"""been""","Holmdel, NJ, USA",BFBoston
+"""been""","Follonica, Italy",BFBoston
+"""been""","Rahway, NJ, USA",BFBoston
+"""been""","Puerto Natales, Chile",BFBoston
+"""been""","South Burlington, VT, USA",BFBoston
+"""been""","Punta Arenas, Chile",BFBoston
+"""been""","Nashville, TN, USA",BFBoston
+"""been""","Fuzhou, China",BFBoston
+"""been""","West Hollywood, CA, USA",BFBoston
+"""been""","Key Biscayne, FL, USA",BFBoston
+"""been""","Key West, FL, USA",BFBoston
+"""been""","Port Saint Lucie, FL, USA",BFBoston
+"""been""","Iselin, NJ, USA",BFBoston
+"""been""","Lake Manyara National Park, Tanzania",BFBoston
+"""been""","Irvington, NJ, USA",BFBoston
+"""been""","Red Bank, NJ, USA",BFBoston
+"""been""","Noto, Italy",BFBoston
+"""been"",""want""","Petra - Wadi Musa, Jordan",BFBoston
+"""been""","Flores, Guatemala",BFBoston
+"""been""","Island Heights, NJ, USA",BFBoston
+"""been""","Anavyssos, Greece",BFBoston
+"""been""","San Juan, Puerto Rico",BFBoston
+"""been""","Big Sur, CA, USA",BFBoston
+"""been""","Jersey City, NJ, USA",BFBoston
+"""been""","Stowe, VT, USA",BFBoston
+"""been""","Jupiter, FL, USA",BFBoston
+"""been""","Mallaig, UK",BFBoston
+"""been""","Keansburg, NJ, USA",BFBoston
+"""been""","Funchal, Portugal",BFBoston
+"""been""","Chieti, Italy",BFBoston
+"""been""","Brooklyn, NY, USA",BFBoston
+"""been""","Syracuse, NY, USA",BFBoston
+"""been""","Madeira, Portugal",BFBoston
+"""been""","Alford, UK",BFBoston
+"""been""","Fiumicino, Italy",BFBoston
+"""been""","Brookline, MA, USA",BFBoston
+"""been""","Crisfield, MD, USA",BFBoston
+"""been""","Tarrytown, NY, USA",BFBoston
+"""been""","Keyport, NJ, USA",BFBoston
+"""been""","Orange, NJ, USA",BFBoston
+"""been""","Nairn, UK",BFBoston
+"""been""","Sarrebourg, France",BFBoston
+"""been""","Bari, Italy",BFBoston
+"""been""","Norwalk, CT, USA",BFBoston
+"""been""","Abu Ghosh, Israel",BFBoston
+"""been""","Newport Beach, CA, USA",BFBoston
+"""been""","Fort William, UK",BFBoston
+"""been""","Venice, Italy",BFBoston
+"""been""","Chatham, MA, USA",BFBoston
+"""been""","Verona, Italy",BFBoston
+"""been""","Brandywine, MD, USA",BFBoston
+"""been"",""fave""","Bangkok, Thailand",BFBoston
+"""been""","Chicago, IL, USA",BFBoston
+"""been""","Peterhof, Russia",BFBoston
+"""been""","Catania, Italy",BFBoston
+"""been""","Fuji, Japan",BFBoston
+"""been""","Paramus, NJ, USA",BFBoston
+"""been""","Vancouver, British Columbia, Canada",BFBoston
+"""been""","Parsippany, NJ, USA",BFBoston
+"""been""","Lido di Ostia, Italy",BFBoston
+"""been""","New London, CT, USA",BFBoston
+"""been""","New Haven, CT, USA",BFBoston
+"""been""","Napa, CA, USA",BFBoston
+"""been""","Edinburgh, UK",BFBoston
+"""been""","Perth Amboy, NJ, USA",BFBoston
+"""been""","Mountain View, CA, USA",BFBoston
+"""been""","Cabin John, MD, USA",BFBoston
+"""been""","Levittown, PA, USA",BFBoston
+"""been""","Great Neck, NY, USA",BFBoston
+"""been""","Narita, Japan",BFBoston
+"""been""","Mount Pocono, PA, USA",BFBoston
+"""been""","Milan, Italy",BFBoston
+"""been""","Mystic, CT, USA",BFBoston
+"""been""","Huntington Beach, CA, USA",BFBoston
+"""been""","Watch Hill, RI, USA",BFBoston
+"""been""","Rochester, MN, USA",BFBoston
+"""been""","Detroit, MI, USA",BFBoston
+"""been""","Greenport, NY, USA",BFBoston
+"""been""","Piscataway, NJ, USA",BFBoston
+"""been""","Milford, CT, USA",BFBoston
+"""been""","North Bethesda, MD, USA",BFBoston
+"""been""","Utne, Norway",BFBoston
+"""been""","Plainfield, NJ, USA",BFBoston
+"""been""","Tiverton, RI, USA",BFBoston
+"""been""","Bellagio, Italy",BFBoston
+"""been""","Como, Italy",BFBoston
+"""been""","Bergamo, Italy",BFBoston
+"""been""","Needham, MA, USA",BFBoston
+"""been""","Natick, MA, USA",BFBoston
+"""been""","Bedford, MA, USA",BFBoston
+"""been""","Watchung, NJ, USA",BFBoston
+"""been""","Belmont, MA, USA",BFBoston
+"""been""","La Jolla, CA, USA",BFBoston
+"""been""","Orlando, FL, USA",BFBoston
+"""been""","Fort Worth, TX, USA",BFBoston
+"""been""","Stresa, Italy",BFBoston
+"""been""","West Creek, NJ, USA",BFBoston
+"""been""","Greensboro, GA, USA",BFBoston
+"""been""","Varenna, Italy",BFBoston
+"""been""","Steamboat Springs, CO, USA",BFBoston
+"""been""","Pittsburgh, PA, USA",BFBoston
+"""been""","San Pedro, Belize",BFBoston
+"""been""","Epidavros, Greece",BFBoston
+"""been""","Braintree, MA, USA",BFBoston
+"""been""","Westfield, NJ, USA",BFBoston
+"""been""","Hinxton, UK",BFBoston
+"""been""","Brewster, MA, USA",BFBoston
+"""been""","Roscoff, France",BFBoston
+"""been""","West Palm Beach, FL, USA",BFBoston
+"""been""","San Ignacio, Belize",BFBoston
+"""been""","Vernazza, Italy",BFBoston
+"""been""","Woodbridge, NJ, USA",BFBoston
+"""been""","La Spezia, Italy",BFBoston
+"""been""","Riomaggiore, Italy",BFBoston
+"""been""","Monterosso al Mare, Italy",BFBoston
+"""been""","Wildwood Crest, NJ, USA",BFBoston
+"""been""","Bethesda, MD, USA",BFBoston
+"""been""","Wildwood, NJ, USA",BFBoston
+"""been""","Canton, MA, USA",BFBoston
+"""been""","Cancale, France",BFBoston
+"""been""","Belize City, Belize",BFBoston
+"""been""","Old Greenwich, CT, USA",BFBoston
+"""been""","Caye Caulker, Belize",BFBoston
+"""been""","Old Saybrook, CT, USA",BFBoston
+"""been""","Lynn, MA, USA",BFBoston
+"""been""","Castine, ME, USA",BFBoston
+"""been""","Nice, France",BFBoston
+"""been""","Tylerton, MD, USA",BFBoston
+"""been""","Lynnfield, MA, USA",BFBoston
+"""been""","Xouaxange, France",BFBoston
+"""been""","Malden, MA, USA",BFBoston
+"""been""","Manchester-by-the-Sea, MA, USA",BFBoston
+"""been""","Martha's Vineyard, MA, USA",BFBoston
+"""been""","Marblehead, MA, USA",BFBoston
+"""been""","Greymouth, New Zealand",BFBoston
+"""been""","Hokitika, New Zealand",BFBoston
+"""been""","Myrdal, Norway",BFBoston
+"""been""","Flam, Norway",BFBoston
+"""been""","Stratford-upon-Avon, UK",BFBoston
+"""been""","Gordes, France",BFBoston
+"""been""","Marlborough, MA, USA",BFBoston
+"""been""","Saint-Tropez, France",BFBoston
+"""been""","Maastricht, The Netherlands",BFBoston
+"""been""","Mashpee, MA, USA",BFBoston
+"""been""","Nantucket, MA, USA",BFBoston
+"""been""","St-Paul-de-Vence, France",BFBoston
+"""been""","Te Anau, New Zealand",BFBoston
+"""been""","Liverpool, NY, USA",BFBoston
+"""been""","Queenstown, New Zealand",BFBoston
+"""been""","Massa, Italy",BFBoston
+"""been""","Atlantic City, NJ, USA",BFBoston
+"""been""","Atlantic Highlands, NJ, USA",BFBoston
+"""been""","Melrose, MA, USA",BFBoston
+"""been""","Reading, UK",BFBoston
+"""been""","Andover, MA, USA",BFBoston
+"""been""","Avignon, France",BFBoston
+"""been""","Arlington, MA, USA",BFBoston
+"""been""","Arles, France",BFBoston
+"""been""","Wheaton, MD, USA",BFBoston
+"""been""","Deer Isle, ME, USA",BFBoston
+"""been""","Oxford, UK",BFBoston
+"""been""","Asbury Park, NJ, USA",BFBoston
+"""been""","San Jose, Costa Rica",BFBoston
+"""been""","Geelong, Australia",BFBoston
+"""been""","Christchurch, New Zealand",BFBoston
+"""been""","Prien am Chiemsee, Germany",BFBoston
+"""been""","Najac, France",BFBoston
+"""been""","Athens, Greece",BFBoston
+"""been""","Boynton Beach, FL, USA",BFBoston
+"""been""","Milton, MA, USA",BFBoston
+"""been""","Bath, UK",BFBoston
+"""been""","Melbourne, Australia",BFBoston
+"""been""","North Little Rock, AR, USA",BFBoston
+"""been""","Long Island City, NY, USA",BFBoston
+"""been""","Hopkinton, MA, USA",BFBoston
+"""been""","Swampscott, MA, USA",BFBoston
+"""been""","Hamilton, Ontario, Canada",BFBoston
+"""been""","Wadi Rum, Jordan",BFBoston
+"""been""","Washington, VA, USA",BFBoston
+"""been""","Stockholm, Sweden",BFBoston
+"""been""","Stockbridge, MA, USA",BFBoston
+"""been""","Stoughton, MA, USA",BFBoston
+"""been""","Blue Hill, ME, USA",BFBoston
+"""been""","Sturbridge, MA, USA",BFBoston
+"""been""","Monterey, CA, USA",BFBoston
+"""been""","Newburgh, NY, USA",BFBoston
+"""been""","Montecito, CA, USA",BFBoston
+"""been""","Granada, Spain",BFBoston
+"""been""","Seville, Spain",BFBoston
+"""been""","Brooklin, ME, USA",BFBoston
+"""been""","Hyannis, MA, USA",BFBoston
+"""been""","Puerto Jimenez, Costa Rica",BFBoston
+"""been""","Lake Placid, NY, USA",BFBoston
+"""been""","Walpole, MA, USA",BFBoston
+"""been""","Pisa, Italy",BFBoston
+"""been""","Lund, Sweden",BFBoston
+"""been""","Ercolano, Italy",BFBoston
+"""been""","Lenox, MA, USA",BFBoston
+"""been""","Helsingborg, Sweden",BFBoston
+"""been""","Florence, Italy",BFBoston
+"""been""","Lucca, Italy",BFBoston
+"""been""","Alexandria Bay, NY, USA",BFBoston
+"""been""","Lubeck, Germany",BFBoston
+"""been""","Taormina, Italy",BFBoston
+"""been""","Syracuse, Italy",BFBoston
+"""been""","Ann Arbor, MI, USA",BFBoston
+"""been""","Northeast Harbor, ME, USA",BFBoston
+"""been""","Vineyard Haven, MA, USA",BFBoston
+"""been""","Wakefield, MA, USA",BFBoston
+"""been""","Wells-next-the-Sea, UK",BFBoston
+"""been""","Hartford, CT, USA",BFBoston
+"""been""","Waltham, MA, USA",BFBoston
+"""been""","Ogunquit, ME, USA",BFBoston
+"""been""","Aquinnah, MA, USA",BFBoston
+"""been""","Redondo Beach, CA, USA",BFBoston
+"""been""","Tamarindo, Costa Rica",BFBoston
+"""been""","Liverpool, UK",BFBoston
+"""been""","Wayland, MA, USA",BFBoston
+"""been""","London, UK",BFBoston
+"""been""","Karlskrona, Sweden",BFBoston
+"""been""","Camden, ME, USA",BFBoston
+"""been""","Albany, NY, USA",BFBoston
+"""been""","Lexington, MA, USA",BFBoston
+"""been""","Tilghman, MD, USA",BFBoston
+"""been""","Watertown, MA, USA",BFBoston
+"""been""","Wellesley, MA, USA",BFBoston
+"""been""","Fayetteville, NC, USA",BFBoston
+"""been""","Mendocino, CA, USA",BFBoston
+"""been""","Malmo, Sweden",BFBoston
+"""been""","Siasconset, MA, USA",BFBoston
+"""been""","Rehoboth Beach, DE, USA",BFBoston
+"""been""","Modica, Italy",BFBoston
+"""been""","Somerville, MA, USA",BFBoston
+"""been""","Paestum, Italy",BFBoston
+"""been""","Naoshima-cho, Japan",BFBoston
+"""been""","Sherborn, MA, USA",BFBoston
+"""been""","Strasbourg, France",BFBoston
+"""been""","Bronx, NY, USA",BFBoston
+"""been""","Stony Brook, NY, USA",BFBoston
+"""been""","Braedstrup, Denmark",BFBoston
+"""been""","Teton Village, WY, USA",BFBoston
+"""been""","Norfolk, VA, USA",BFBoston
+"""been""","Montepulciano, Italy",BFBoston
+"""been""","Oslo, Norway",BFBoston
+"""been""","Basking Ridge, NJ, USA",BFBoston
+"""been""","Barnegat Light, NJ, USA",BFBoston
+"""been""","Barnegat, NJ, USA",BFBoston
+"""been""","Bay Head, NJ, USA",BFBoston
+"""been""","Batsto, NJ, USA",BFBoston
+"""been""","Newport News, VA, USA",BFBoston
+"""been""","Lewes, DE, USA",BFBoston
+"""been""","Lake Tekapo, New Zealand",BFBoston
+"""been""","Virginia Beach, VA, USA",BFBoston
+"""been""","South Bend, IN, USA",BFBoston
+"""been""","Chichen Itza, Mexico",BFBoston
+"""been""","Cancun, Mexico",BFBoston
+"""been""","Watford, UK",BFBoston
+"""been""","Ngorongoro Conservation Area, Tanzania",BFBoston
+"""been""","Belleville, NJ, USA",BFBoston
+"""been""","Belmar, NJ, USA",BFBoston
+"""been""","Beachwood, NJ, USA",BFBoston
+"""been""","Charlotte Amalie, U.S. Virgin Islands",BFBoston
+"""been""","Beach Haven, NJ, USA",BFBoston
+"""been""","Bethel, ME, USA",BFBoston
+"""been""","Hingham, MA, USA",BFBoston
+"""been""","Hilo, HI, USA",BFBoston
+"""been""","York Beach, ME, USA",BFBoston
+"""been""","Toronto, Ontario, Canada",BFBoston
+"""been""","Marina di Massa, Italy",BFBoston
+"""been""","Mycenae, Greece",BFBoston
+"""been""","Olympia, Greece",BFBoston
+"""been""","Beverly Hills, CA, USA",BFBoston
+"""been""","South Yarmouth, MA, USA",BFBoston
+"""been""","Mount Desert, ME, USA",BFBoston
+"""been""","New Rochelle, NY, USA",BFBoston
+"""been""","Kings Point, NY, USA",BFBoston
+"""been""","Menaggio, Italy",BFBoston
+"""been""","Langhorne, PA, USA",BFBoston
+"""been""","Irving, TX, USA",BFBoston
+"""been""","Boca Raton, FL, USA",BFBoston
+"""been""","Absecon, NJ, USA",BFBoston
+"""been""","Binghamton, NY, USA",BFBoston
+"""been""","Andover, NH, USA",BFBoston
+"""been""","Talloires, France",BFBoston
+"""been""","Moustiers Sainte-Marie, France",BFBoston
+"""been""","El Calafate, Argentina",BFBoston
+"""been""","Vienna, Austria",BFBoston
+"""been""","Ushuaia, Argentina",BFBoston
+"""been""","Cromer, UK",BFBoston
+"""been""","Montgomery, AL, USA",BFBoston
+"""been""","New York City, NY, USA",BFBoston
+"""been""","Vinalhaven, ME, USA",BFBoston
+"""been""","Ventura, CA, USA",BFBoston
+"""been""","Little Rock, AR, USA",BFBoston
+"""been""","Tilton, NH, USA",BFBoston
+"""been""","Salzburg, Austria",BFBoston
+"""been""","Snowbird, UT, USA",BFBoston
+"""been""","San Carlos de Bariloche, Argentina",BFBoston
+"""been""","Lima, Peru",BFBoston
+"""been""","Philadelphia, PA, USA",BFBoston
+"""been""","West Orange, NJ, USA",BFBoston
+"""been""","Cusco, Peru",BFBoston
+"""been""","Tangier Island, VA, USA",BFBoston
+"""been""","Marseille, France",BFBoston
+"""been""","Barcelona, Spain",BFBoston
+"""been""","Gettysburg, PA, USA",BFBoston
+"""been""","Harvey Cedars, NJ, USA",BFBoston
+"""been""","Port Washington, NY, USA",BFBoston
+"""been""","Waterville Valley, NH, USA",BFBoston
+"""been""","Port Jefferson, NY, USA",BFBoston
+"""been""","Quito, Ecuador",BFBoston
+"""been""","Sandwich, MA, USA",BFBoston
+"""been""","Shelburne, VT, USA",BFBoston
+"""been""","Scituate, MA, USA",BFBoston
+"""been""","Wilmington, DE, USA",BFBoston
+"""been""","Tallinn, Estonia",BFBoston
+"""been""","Sharon, MA, USA",BFBoston
+"""been""","Hollywood, FL, USA",BFBoston
+"""been""","Zurich, Switzerland",BFBoston
+"""been""","Death Valley Junction, CA, USA",BFBoston
+"""been""","Chamonix, France",BFBoston
+"""been""","Saxtons River, VT, USA",BFBoston
+"""been""","Wells, ME, USA",BFBoston
+"""been""","Annecy, France",BFBoston
+"""been""","Torquay, Australia",BFBoston
+"""been""","DeWitt, NY, USA",BFBoston
+"""been""","King of Prussia, PA, USA",BFBoston
+"""been""","Amsterdam, The Netherlands",BFBoston
+"""been""","Lorne, Australia",BFBoston
+"""been""","Staten Island, NY, USA",BFBoston
+"""been""","Lanciano, Italy",BFBoston
+"""been""","Poughkeepsie, NY, USA",BFBoston
+"""been""","Machu Picchu, Peru",BFBoston
+"""been""","Los Alamos, NM, USA",BFBoston
+"""been""","Puerto Montt, Chile",BFBoston
+"""been""","Puerto Varas, Chile",BFBoston
+"""been""","New Providence, NJ, USA",BFBoston
+"""been""","Newport, RI, USA",BFBoston
+"""been""","New Gretna, NJ, USA",BFBoston
+"""been""","Essex Fells, NJ, USA",BFBoston
+"""been""","Commack, NY, USA",BFBoston
+"""been""","Ewing, NJ, USA",BFBoston
+"""been""","Newark, NJ, USA",BFBoston
+"""been"",""want""","Miami, FL, USA",BFBoston
+"""been""","Miami Beach, FL, USA",BFBoston
+"""been""","Solvang, CA, USA",BFBoston
+"""been""","Anaheim, CA, USA",BFBoston
+"""been""","Sonoma, CA, USA",BFBoston
+"""been""","Block Island, RI, USA",BFBoston
+"""been""","Coronado, CA, USA",BFBoston
+"""been""","Bristol, RI, USA",BFBoston
+"""been""","Saugus, MA, USA",BFBoston
+"""been""","Hermosa Beach, CA, USA",BFBoston
+"""been""","Costa Mesa, CA, USA",BFBoston
+"""been""","Houston, TX, USA",BFBoston
+"""been""","Ostia Antica, Italy",BFBoston
+"""been""","Skaneateles, NY, USA",BFBoston
+"""been""","Springfield, MA, USA",BFBoston
+"""been""","West Point, NY, USA",BFBoston
+"""been""","Luray, VA, USA",BFBoston
+"""been""","Anacapri, Italy",BFBoston
+"""been""","Flemington, NJ, USA",BFBoston
+"""been""","Florham Park, NJ, USA",BFBoston
+"""been""","North Brunswick, NJ, USA",BFBoston
+"""been""","North Wildwood, NJ, USA",BFBoston
+"""been""","Portree, UK",BFBoston
+"""been""","Forked River, NJ, USA",BFBoston
+"""been""","Shinjuku, Japan",BFBoston
+"""been""","San Diego, CA, USA",BFBoston
+"""been""","Smithtown, NY, USA",BFBoston
+"""been""","Wellfleet, MA, USA",BFBoston
+"""been""","Portsmouth, NH, USA",BFBoston
+"""been""","Ocean Grove, NJ, USA",BFBoston
+"""been""","Ocean Gate, NJ, USA",BFBoston
+"""been""","Ocean City, NJ, USA",BFBoston
+"""been""","Freehold, NJ, USA",BFBoston
+"""been""","Nutley, NJ, USA",BFBoston
+"""been""","Dimitsana, Greece",BFBoston
+"""been""","Fukuoka, Japan",BFBoston
+"""been""","Breckenridge, CO, USA",BFBoston
+"""been""","Honolulu, HI, USA",BFBoston
+"""been""","Charlottesville, VA, USA",BFBoston
+"""been""","Stonington, ME, USA",BFBoston
+"""been""","Siena, Italy",BFBoston
+"""been""","San Gimignano, Italy",BFBoston
+"""been""","Jamestown, RI, USA",BFBoston
+"""been""","Glen Cove, NY, USA",BFBoston
+"""been""","Boston, MA, USA",BFBoston
+"""been""","Agrigento, Italy",BFBoston
+"""been""","Glen Ridge, NJ, USA",BFBoston
+"""been""","White Plains, NY, USA",BFBoston
+"""been""","Swans Island, ME, USA",BFBoston
+"""been""","Groton, CT, USA",BFBoston
+"""been""","South Miami, FL, USA",BFBoston
+"""been""","Berkeley, CA, USA",BFBoston
+"""been""","Durango, CO, USA",BFBoston
+"""been""","Millburn, NJ, USA",BFBoston
+"""been""","Ithaca, NY, USA",BFBoston
+"""been""","Albuquerque, NM, USA",BFBoston
+"""been""","Toms River, NJ, USA",BFBoston
+"""been""","Trenton, NJ, USA",BFBoston
+"""been""","Media, PA, USA",BFBoston
+"""been""","Grantchester, UK",BFBoston
+"""been""","Puerto Baquerizo Moreno, Ecuador",BFBoston
+"""been""","Santa Cruz, Ecuador",BFBoston
+"""been""","Puerto Ayora, Ecuador",BFBoston
+"""been""","Saverne, France",BFBoston
+"""been""","Baltra, Ecuador",BFBoston
+"""been""","Montreal, Quebec, Canada",BFBoston
+"""been""","Denver, CO, USA",BFBoston
+"""been""","Fort Myers, FL, USA",BFBoston
+"""been""","Fort Myers Beach, FL, USA",BFBoston
+"""been""","Union, NJ, USA",BFBoston
+"""been""","Jamesville, NY, USA",BFBoston
+"""been""","Tuckerton, NJ, USA",BFBoston
+"""been""","Flushing, NY, USA",BFBoston
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",BFBoston
+"""been""","Watertown, NY, USA",BFBoston
+"""been""","Playa del Carmen, Mexico",BFBoston
+"""been""","Salt Lake City, UT, USA",BFBoston
+"""been""","Merida, Mexico",BFBoston
+"""been""","Montclair, NJ, USA",BFBoston
+"""been""","Caneel Bay, U.S. Virgin Islands",BFBoston
+"""been""","East Brunswick, NJ, USA",BFBoston
+"""been""","Jericho, NY, USA",BFBoston
+"""been""","Neve Ativ, Golan Heights",BFBoston
+"""been""","Vauxhall, NJ, USA",BFBoston
+"""been""","Cruz Bay, U.S. Virgin Islands",BFBoston
+"""been""","Espanola, Ecuador",BFBoston
+"""been""","Safed, Israel",BFBoston
+"""been""","Fernandina, Ecuador",BFBoston
+"""been""","Floreana, Ecuador",BFBoston
+"""been""","Tiberias, Israel",BFBoston
+"""been""","Isabela, Ecuador",BFBoston
+"""been""","Naples, FL, USA",BFBoston
+"""been""","Nassau, Bahamas",BFBoston
+"""been""","Fort Lauderdale, FL, USA",BFBoston
+"""been""","Tucson, AZ, USA",BFBoston
+"""been""","Great Falls, VA, USA",BFBoston
+"""been""","Del Mar, CA, USA",BFBoston
+"""been""","Antigua, Guatemala",BFBoston
+"""been""","Killington, VT, USA",BFBoston
+"""been""","San Antonio, TX, USA",BFBoston
+"""been""","Praiano, Italy",BFBoston
+"""been""","Dinard, France",BFBoston
+"""been""","Santa Fe, NM, USA",BFBoston
+"""been""","East Orange, NJ, USA",BFBoston
+"""been""","Quincy, MA, USA",BFBoston
+"""been""","Salem, MA, USA",BFBoston
+"""been""","San Francisco, CA, USA",BFBoston
+"""been""","Ragusa, Italy",BFBoston
+"""been""","Egg Harbor Township, NJ, USA",BFBoston
+"""been""","Ravello, Italy",BFBoston
+"""been""","Edison, NJ, USA",BFBoston
+"""been""","Culver City, CA, USA",BFBoston
+"""been""","Carefree, AZ, USA",BFBoston
+"""been""","Yardley, PA, USA",BFBoston
+"""been""","Providence, RI, USA",BFBoston
+"""been""","Elizabeth, NJ, USA",BFBoston
+"""been""","Waretown, NJ, USA",BFBoston
+"""been""","Cold Spring Harbor, NY, USA",BFBoston
+"""been""","Neptune, NJ, USA",BFBoston
+"""been""","Positano, Italy",BFBoston
+"""been""","New Brunswick, NJ, USA",BFBoston
+"""been""","Bar Harbor, ME, USA",BFBoston
+"""been""","South San Francisco, CA, USA",BFBoston
+"""been""","South Pasadena, CA, USA",BFBoston
+"""been""","Madrid, Spain",BFBoston
+"""been""","Helsinki, Finland",BFBoston
+"""been""","Annapolis, MD, USA",BFBoston
+"""been""","Arlington, VA, USA",BFBoston
+"""been""","Cos Cob, CT, USA",BFBoston
+"""been""","Los Olivos, CA, USA",BFBoston
+"""been""","Cuenca, Spain",BFBoston
+"""been""","Smithville, NJ, USA",BFBoston
+"""been""","Ewell, MD, USA",BFBoston
+"""been""","Silver Spring, MD, USA",BFBoston
+"""been""","Fairfax, VA, USA",BFBoston
+"""been""","Solomons, MD, USA",BFBoston
+"""been""","Portland, OR, USA",BFBoston
+"""been""","Los Angeles, CA, USA",BFBoston
+"""been""","Prescott, AZ, USA",BFBoston
+"""been""","Keystone, CO, USA",BFBoston
+"""been""","Los Altos, CA, USA",BFBoston
+"""been""","Fullerton, CA, USA",BFBoston
+"""been""","Minneapolis, MN, USA",BFBoston
+"""been""","South Orange, NJ, USA",BFBoston
+"""been""","South Plainfield, NJ, USA",BFBoston
+"""been""","Arcos de la Frontera, Spain",BFBoston
+"""been""","Gaithersburg, MD, USA",BFBoston
+"""been""","Falls Church, VA, USA",BFBoston
+"""been""","Phoenix, AZ, USA",BFBoston
+"""been""","Accomac, VA, USA",BFBoston
+"""been""","Long Beach, CA, USA",BFBoston
+"""been""","Westport, CT, USA",BFBoston
+"""been""","Murcia, Spain",BFBoston
+"""been""","Alexandria, VA, USA",BFBoston
+"""been""","Birmingham, UK",BFBoston
+"""been""","Galesville, MD, USA",BFBoston
+"""been""","New Bedford, MA, USA",BFBoston
+"""been""","Marlboro, NJ, USA",BFBoston
+"""been""","Springfield, NJ, USA",BFBoston
+"""been""","Georgetown, MD, USA",BFBoston
+"""been""","Huntington Station, NY, USA",BFBoston
+"""been""","Fayetteville, NY, USA",BFBoston
+"""been""","Ronda, Spain",BFBoston
+"""been""","Surf City, NJ, USA",BFBoston
+"""been""","Concord, MA, USA",BFBoston
+"""been""","Glen Echo, MD, USA",BFBoston
+"""been""","Summit, NJ, USA",BFBoston
+"""been""","Les Baux de Provence, France",BFBoston
+"""been""","Morristown, NJ, USA",BFBoston
+"""been""","Pebble Beach, CA, USA",BFBoston
+"""been""","Leavesden, UK",BFBoston
+"""been""","Milwaukee, WI, USA",BFBoston
+"""been""","Greenwich, CT, USA",BFBoston
+"""been""","Framingham, MA, USA",BFBoston
+"""been""","Lynchburg, VA, USA",BFBoston
+"""been""","Cassis, France",BFBoston
+"""been""","Gloucester, MA, USA",BFBoston
+"""been""","Rehobeth, MD, USA",BFBoston
+"""been""","Lorton, VA, USA",BFBoston
+"""been""","New Hope, PA, USA",BFBoston
+"""been""","Ridge, MD, USA",BFBoston
+"""been""","Hunstanton, UK",BFBoston
+"""been""","Hamilton, Bermuda",BFBoston
+"""been""","Rock Hall, MD, USA",BFBoston
+"""been""","Kumamoto, Japan",BFBoston
+"""been""","Seaside Heights, NJ, USA",BFBoston
+"""been""","Marina del Rey, CA, USA",BFBoston
+"""been""","Sedona, AZ, USA",BFBoston
+"""been""","Torres del Paine National Park, Chile",BFBoston
+"""been""","Scottsdale, AZ, USA",BFBoston
+"""been""","Rockville, MD, USA",BFBoston
+"""been""","Sandy Hook, NJ, USA",BFBoston
+"""been""","Balestrand, Norway",BFBoston
+"""been""","Vevey, Switzerland",BFBoston
+"""been""","Scotch Plains, NJ, USA",BFBoston
+"""been""","Saint Mary's City, MD, USA",BFBoston
+"""been""","Malibu, CA, USA",BFBoston
+"""been""","Sanford, FL, USA",BFBoston
+"""been""","Goleta, CA, USA",BFBoston
+"""been""","Manhattan Beach, CA, USA",BFBoston
+"""been""","Short Hills, NJ, USA",BFBoston
+"""been""","Ship Bottom, NJ, USA",BFBoston
+"""been""","Secaucus, NJ, USA",BFBoston
+"""been""","St. Michaels, MD, USA",BFBoston
+"""been""","Edgewater, MD, USA",BFBoston
+"""been""","Seaside Park, NJ, USA",BFBoston
+"""been""","Las Vegas, NV, USA",BFBoston
+"""been""","Edgewood, MD, USA",BFBoston
+"""been""","San Marcos, TX, USA",BFBoston
+"""been""","Bristol, PA, USA",BFBoston
+"""been""","Severna Park, MD, USA",BFBoston
+"""been""","Mont-Saint-Michel, France",BFBoston
+"""been""","Takamatsu, Japan",BFBoston
+"""been""","Saint Louis, MO, USA",BFBoston
+"""been""","Bethany Beach, DE, USA",BFBoston
+"""been""","Darien, CT, USA",BFBoston
+"""been""","Dripping Springs, TX, USA",BFBoston
+"""been""","Danbury, CT, USA",BFBoston
+"""been""","Durham, NC, USA",BFBoston
+"""been""","Randolph, MA, USA",BFBoston
+"""been""","Amboise, France",BFBoston
+"""been""","Isle Au Haut, ME, USA",BFBoston
+"""been""","Aarhus, Denmark",BFBoston
+"""been""","Plymouth, MA, USA",BFBoston
+"""been""","Provincetown, MA, USA",BFBoston
+"""been""","Bournemouth, UK",BFBoston
+"""been""","Ojai, CA, USA",BFBoston
+"""been""","Chapel Hill, NC, USA",BFBoston
+"""been""","Riverside, CT, USA",BFBoston
+"""been""","Oakland, CA, USA",BFBoston
+"""been""","Reading, MA, USA",BFBoston
+"""been""","Kennebunkport, ME, USA",BFBoston
+"""been""","Revere, MA, USA",BFBoston
+"""been""","Copenhagen, Denmark",BFBoston
+"""been""","Madison, GA, USA",BFBoston
+"""been""","Helsingoer, Denmark",BFBoston
+"""been""","Oxford, MD, USA",BFBoston
+"""been""","Brighton, UK",BFBoston
+"""been""","Wailea, HI, USA",BFBoston
+"""been""","Leuven, Belgium",BFBoston
+"""been""","Frankfurt, Germany",BFBoston
+"""been""","Hamburg, Germany",BFBoston
+"""been""","Edgartown, MA, USA",BFBoston
+"""been""","Luton, UK",BFBoston
+"""been""","Essex, MA, USA",BFBoston
+"""been""","Dallas, TX, USA",BFBoston
+"""been""","Arusha, Tanzania",BFBoston
+"""been""","Potomac, MD, USA",BFBoston
+"""been""","Saint-Malo, France",BFBoston
+"""been""","Wiesbaden, Germany",BFBoston
+"""been""","Rennes, France",BFBoston
+"""been""","Plymouth, UK",BFBoston
+"""been""","Fairhaven, MA, USA",BFBoston
+"""been""","Saint Paul, MN, USA",BFBoston
+"""been""","Falmouth, MA, USA",BFBoston
+"""been""","Fall River, MA, USA",BFBoston
+"""been""","Bruges, Belgium",BFBoston
+"""been""","North Truro, MA, USA",BFBoston
+"""been""","Brussels, Belgium",BFBoston
+"""been""","Urbino, Italy",BFBoston
+"""been""","Cambridge, UK",BFBoston
+"""been""","Vatican City, Vatican City",BFBoston
+"""been""","Bristol, UK",BFBoston
+"""been""","Freeport, ME, USA",BFBoston
+"""been"",""want""","Rome, Italy",BFBoston
+"""been""","Tokyo, Japan",BFBoston
+"""been""","Pasadena, CA, USA",BFBoston
+"""been""","Cleveland, OH, USA",BFBoston
+"""been""","Munich, Germany",BFBoston
+"""been""","Park City, UT, USA",BFBoston
+"""been""","Norwood, MA, USA",BFBoston
+"""been""","Chilmark, MA, USA",BFBoston
+"""been""","Berlin, Germany",BFBoston
+"""been""","South Portland, ME, USA",BFBoston
+"""been""","Northampton, MA, USA",BFBoston
+"""been""","Southwest Harbor, ME, USA",BFBoston
+"""been""","Stonington, CT, USA",BFBoston
+"""been""","Yokohama, Japan",BFBoston
+"""been""","Palo Alto, CA, USA",BFBoston
+"""been""","Palm Springs, CA, USA",BFBoston
+"""been""","Stamford, CT, USA",BFBoston
+"""been""","Jackson, WY, USA",BFBoston
+"""been""","Mystras, Greece",BFBoston
+"""been""","Jerusalem, Israel",BFBoston
+"""been""","Tel Aviv, Israel",BFBoston
+"""been""","Haifa, Israel",BFBoston
+"""been"",""want""","Eilat, Israel",BFBoston
+"""been""","Oklahoma City, OK, USA",BFBoston
+"""been""","Oak Bluffs, MA, USA",BFBoston
+"""been""","Pescara, Italy",BFBoston
+"""been""","Matera, Italy",BFBoston
+"""been""","Carrboro, NC, USA",BFBoston
+"""been""","Oxnard, CA, USA",BFBoston
+"""been""","Guayaquil, Ecuador",BFBoston
+"""been""","Pompeii, Italy",BFBoston
+"""been""","Naples, Italy",BFBoston
+"""been""","Serengeti National Park, Tanzania",BFBoston
+"""been""","Dedham, MA, USA",BFBoston
+"""been""","Peabody, MA, USA",BFBoston
+"""been""","Leiden, The Netherlands",BFBoston
+"""been""","Capri, Italy",BFBoston
+"""been""","Otavalo, Ecuador",BFBoston
+"""been""","Amalfi, Italy",BFBoston
+"""been""","Dennis Port, MA, USA",BFBoston
+"""been""","Tarangire National Park, Tanzania",BFBoston
+"""want""","Nara, Japan",BFBoston
+"""been""","Hong Kong, China",BFBoston
+"""been""","Basel, Switzerland",BFBoston
+"""been""","Rockport, ME, USA",BFBoston
+"""been""","Westwood, MA, USA",BFBoston
+"""been""","Rouen, France",BFBoston
+"""been""","Schenectady, NY, USA",BFBoston
+"""been""","Oneida, NY, USA",BFBoston
+"""been""","Scarsdale, NY, USA",BFBoston
+"""been""","Acre, Israel",BFBoston
+"""been""","Nairobi, Kenya",BFBoston
+"""been""","Winchester, MA, USA",BFBoston
+"""been""","Sausalito, CA, USA",BFBoston
+"""been""","Newton, MA, USA",BFBoston
+"""been""","Coral Gables, FL, USA",BFBoston
+"""been""","Woburn, MA, USA",BFBoston
+"""been""","Geneva, Switzerland",BFBoston
+"""been""","Lizard Island, Australia",BFBoston
+"""been""","Williamstown, MA, USA",BFBoston
+"""been""","Orient, NY, USA",BFBoston
+"""been""","Oswego, NY, USA",BFBoston
+"""been""","Jaffa, Israel",BFBoston
+"""been""","Yarmouth Port, MA, USA",BFBoston
+"""been""","Santa Monica, CA, USA",BFBoston
+"""been""","Brescia, Italy",BFBoston
+"""been""","Woods Hole, MA, USA",BFBoston
+"""been""","Manhasset, NY, USA",BFBoston
+"""been""","Vieste, Italy",BFBoston
+"""been""","Manlius, NY, USA",BFBoston
+"""been""","Toulouse, France",BFBoston
+"""been""","Jericho, Palestinian Territories",BFBoston
+"""been""","Nazareth, Israel",BFBoston
+"""been""","Lake Worth, FL, USA",BFBoston
+"""been""","Santa Barbara, CA, USA",BFBoston
+"""been""","Kronshtadt, Russia",BFBoston
+"""been""","Alice Springs, Australia",BFBoston
+"""been""","Sydney, Australia",BFBoston
+"""been""","Honfleur, France",BFBoston
+"""been""","Deauville City, France",BFBoston
+"""been""","North Conway, NH, USA",BFBoston
+"""been""","Caen, France",BFBoston
+"""been""","Bayeux, France",BFBoston
+"""been""","Cairns, Australia",BFBoston
+"""been""","Buenos Aires, Argentina",BFBoston
+"""been""","San Simeon, CA, USA",BFBoston
+"""been""","Caesarea, Israel",BFBoston
+"""been""","Ein Gedi, Israel",BFBoston
+"""been""","Remoulins, France",BFBoston
+"""been""","Richmond, VA, USA",BFBoston
+"""been""","Cambridge, MA, USA",BFBoston
+"""been""","Johnson City, TX, USA",BFBoston
+"""been""","Nimes, France",BFBoston
+"""been""","Centerport, NY, USA",BFBoston
+"""been""","Atlanta, GA, USA",BFBoston
+"""been""","Chatham, NJ, USA",BFBoston
+"""been""","Manasquan, NJ, USA",BFBoston
+"""been""","Manahawkin, NJ, USA",BFBoston
+"""been""","Maplewood, NJ, USA",BFBoston
+"""been""","Hanover, NH, USA",BFBoston
+"""been""","Cherry Hill, NJ, USA",BFBoston
+"""been""","Selma, AL, USA",BFBoston
+"""been""","Guatemala City, Guatemala",BFBoston
+"""been""","Rye, NY, USA",BFBoston
+"""been""","Monemvasia, Greece",BFBoston
+"""been""","Fox Glacier, New Zealand",BFBoston
+"""been""","Tikal National Park, Guatemala",BFBoston
+"""been""","Poptun, Guatemala",BFBoston
+"""been""","Reims, France",BFBoston
+"""been""","Portland, ME, USA",BFBoston
+"""been""","West Tisbury, MA, USA",BFBoston
+"""been""","Northport, NY, USA",BFBoston
+"""been""","Tours, France",BFBoston
+"""been""","Taos, NM, USA",BFBoston
+"""been""","Cranford, NJ, USA",BFBoston
+"""been""","Panajachel, Guatemala",BFBoston
+"""been""","Colts Neck, NJ, USA",BFBoston
+"""been""","Indianapolis, IN, USA",BFBoston
+"""been""","Santiago Atitlan, Guatemala",BFBoston
+"""been""","Delray Beach, FL, USA",BFBoston
+"""been""","Reston, VA, USA",BFBoston
+"""been""","Versailles, France",BFBoston
+"""been""","Paris, France",BFBoston
+"""been""","Westport, MA, USA",BFBoston
+"""been""","Washington DC, DC, USA",BFBoston
+"""been""","Daytona Beach, FL, USA",BFBoston
+"""been""","City Island, NY, USA",BFBoston
+"""been""","Saratoga Springs, NY, USA",BFBoston
+"""been""","Saugerties, NY, USA",BFBoston
+"""been""","Deal, NJ, USA",BFBoston

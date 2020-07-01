@@ -1,0 +1,601 @@
+tag,place,user
+"""been""","Syracuse, NY, USA",debtaylor
+"""been""","Mombasa, Kenya",debtaylor
+"""been""","Hermosa Beach, CA, USA",debtaylor
+"""been""","Hesperia, CA, USA",debtaylor
+"""been""","Mesa, AZ, USA",debtaylor
+"""been""","Coronado, CA, USA",debtaylor
+"""been""","Highland, CA, USA",debtaylor
+"""been""","Costa Mesa, CA, USA",debtaylor
+"""been""","Spokane, WA, USA",debtaylor
+"""been""","Solana Beach, CA, USA",debtaylor
+"""been""","Austin, TX, USA",debtaylor
+"""been""","Solvang, CA, USA",debtaylor
+"""been""","Coto de Caza, CA, USA",debtaylor
+"""been""","Victorville, CA, USA",debtaylor
+"""been""","Cabazon, CA, USA",debtaylor
+"""been""","San Francisco, CA, USA",debtaylor
+"""been""","San Antonio, TX, USA",debtaylor
+"""been""","Corona, CA, USA",debtaylor
+"""been""","Fallbrook, CA, USA",debtaylor
+"""been""","Crater Lake National Park, OR, USA",debtaylor
+"""been""","Corona del Mar, CA, USA",debtaylor
+"""been""","Salem, MA, USA",debtaylor
+"""been""","Thousand Oaks, CA, USA",debtaylor
+"""want""","Denali National Park and Preserve, AK, USA",debtaylor
+"""been""","Round Rock, TX, USA",debtaylor
+"""been""","Plano, TX, USA",debtaylor
+"""been""","Alta Loma, CA, USA",debtaylor
+"""been""","Altadena, CA, USA",debtaylor
+"""been""","Nairobi, Kenya",debtaylor
+"""been""","Tucson, AZ, USA",debtaylor
+"""been""","Hayward, CA, USA",debtaylor
+"""want""","Ketchikan, AK, USA",debtaylor
+"""been""","Commerce, CA, USA",debtaylor
+"""been""","Balboa Island, CA, USA",debtaylor
+"""been""","Etiwanda, CA, USA",debtaylor
+"""been""","Arlington, TX, USA",debtaylor
+"""been""","Eureka, CA, USA",debtaylor
+"""been""","Buellton, CA, USA",debtaylor
+"""been""","Compton, CA, USA",debtaylor
+"""been""","Geneva, Switzerland",debtaylor
+"""been""","Buena Park, CA, USA",debtaylor
+"""been""","Burbank, CA, USA",debtaylor
+"""been""","Hemet, CA, USA",debtaylor
+"""been""","Burlingame, CA, USA",debtaylor
+"""been""","Knoxville, TN, USA",debtaylor
+"""been""","Lake Isabella, CA, USA",debtaylor
+"""been""","Hawaiian Gardens, CA, USA",debtaylor
+"""been""","Aliso Viejo, CA, USA",debtaylor
+"""been""","Ukiah, CA, USA",debtaylor
+"""been""","Hawthorne, CA, USA",debtaylor
+"""been""","Boulder, CO, USA",debtaylor
+"""been""","Ka'anapali, HI, USA",debtaylor
+"""been""","Upland, CA, USA",debtaylor
+"""been""","Colton, CA, USA",debtaylor
+"""been""","Escondido, CA, USA",debtaylor
+"""been""","Olympia, WA, USA",debtaylor
+"""been""","Alhambra, CA, USA",debtaylor
+"""been""","Golden, CO, USA",debtaylor
+"""been""","Volcano, HI, USA",debtaylor
+"""been""","Alameda, CA, USA",debtaylor
+"""been""","Springfield, MA, USA",debtaylor
+"""been""","Chimoio, Mozambique",debtaylor
+"""been""","Newark, NJ, USA",debtaylor
+"""want""","Prague, Czech Republic",debtaylor
+"""been""","Sharpsburg, MD, USA",debtaylor
+"""been""","Columbia, MO, USA",debtaylor
+"""been""","Lincoln, NE, USA",debtaylor
+"""been""","Princeton, NJ, USA",debtaylor
+"""been""","Cancun, Mexico",debtaylor
+"""been""","Fontana, CA, USA",debtaylor
+"""been""","Taxco, Mexico",debtaylor
+"""been""","Pompano Beach, FL, USA",debtaylor
+"""been""","Culver City, CA, USA",debtaylor
+"""been""","St. Helena, CA, USA",debtaylor
+"""been""","Nashville, TN, USA",debtaylor
+"""been""","Camp Pendleton, CA, USA",debtaylor
+"""been""","Salinas, CA, USA",debtaylor
+"""been""","Squaw Valley, CA, USA",debtaylor
+"""been""","Cypress, CA, USA",debtaylor
+"""been""","Mexico City, Mexico",debtaylor
+"""been""","Stanton, CA, USA",debtaylor
+"""been""","Oaxaca, Mexico",debtaylor
+"""been""","South San Francisco, CA, USA",debtaylor
+"""been""","Camarillo, CA, USA",debtaylor
+"""been""","Albuquerque, NM, USA",debtaylor
+"""been""","Cambria, CA, USA",debtaylor
+"""been""","South Pasadena, CA, USA",debtaylor
+"""been""","Leesburg, VA, USA",debtaylor
+"""been""","Baltimore, MD, USA",debtaylor
+"""been""","Fort Smith, AR, USA",debtaylor
+"""been""","St. Thomas, U.S. Virgin Islands",debtaylor
+"""been""","Charlotte Amalie, U.S. Virgin Islands",debtaylor
+"""been""","East Hanover, NJ, USA",debtaylor
+"""been""","Morris Plains, NJ, USA",debtaylor
+"""been""","Manchester, UK",debtaylor
+"""been""","Vienna, Austria",debtaylor
+"""been""","Covina, CA, USA",debtaylor
+"""been""","Fillmore, CA, USA",debtaylor
+"""been""","Vista, CA, USA",debtaylor
+"""been""","Calimesa, CA, USA",debtaylor
+"""been""","Visalia, CA, USA",debtaylor
+"""been""","Anaheim, CA, USA",debtaylor
+"""been""","South El Monte, CA, USA",debtaylor
+"""been""","Crestline, CA, USA",debtaylor
+"""been""","Walnut Creek, CA, USA",debtaylor
+"""want""","Sydney, Australia",debtaylor
+"""been""","South Gate, CA, USA",debtaylor
+"""been""","Walnut, CA, USA",debtaylor
+"""been""","Plantation, FL, USA",debtaylor
+"""been""","Calabasas, CA, USA",debtaylor
+"""been""","Villa Park, CA, USA",debtaylor
+"""been""","Tampa, FL, USA",debtaylor
+"""been""","Sonoma, CA, USA",debtaylor
+"""been""","Antioch, CA, USA",debtaylor
+"""been""","Miami, FL, USA",debtaylor
+"""want""","Toronto, Ontario, Canada",debtaylor
+"""been""","Brooklyn, NY, USA",debtaylor
+"""been""","Miami Beach, FL, USA",debtaylor
+"""been""","Hawaii Volcanoes National Park, HI, USA",debtaylor
+"""been""","Providence, RI, USA",debtaylor
+"""been""","Jersey City, NJ, USA",debtaylor
+"""been""","Richardson, TX, USA",debtaylor
+"""been""","Chula Vista, CA, USA",debtaylor
+"""been""","El Cajon, CA, USA",debtaylor
+"""been""","Goodyear, AZ, USA",debtaylor
+"""been""","Mount Vernon, VA, USA",debtaylor
+"""been""","East Los Angeles, CA, USA",debtaylor
+"""been""","Chino, CA, USA",debtaylor
+"""been""","Chino Hills, CA, USA",debtaylor
+"""been""","Allentown, PA, USA",debtaylor
+"""been""","New Bedford, MA, USA",debtaylor
+"""been""","Swift Current, Saskatchewan, Canada",debtaylor
+"""been""","Regina, Saskatchewan, Canada",debtaylor
+"""been""","Moose Jaw, Saskatchewan, Canada",debtaylor
+"""been""","Gaithersburg, MD, USA",debtaylor
+"""been""","Montgomery Village, MD, USA",debtaylor
+"""been""","Scottsdale, AZ, USA",debtaylor
+"""been""","Glendale, AZ, USA",debtaylor
+"""been""","Sedona, AZ, USA",debtaylor
+"""been""","Mariposa, CA, USA",debtaylor
+"""been""","Chico, CA, USA",debtaylor
+"""been""","Marina del Rey, CA, USA",debtaylor
+"""been""","Malibu, CA, USA",debtaylor
+"""been""","Duarte, CA, USA",debtaylor
+"""been""","Salt Lake City, UT, USA",debtaylor
+"""been""","Weston, FL, USA",debtaylor
+"""been""","Norwalk, CA, USA",debtaylor
+"""been""","Kernville, CA, USA",debtaylor
+"""been""","Manhattan Beach, CA, USA",debtaylor
+"""been""","Abilene, TX, USA",debtaylor
+"""been""","Goleta, CA, USA",debtaylor
+"""been""","Kapalua, HI, USA",debtaylor
+"""been""","Kansas City, MO, USA",debtaylor
+"""been""","Avondale, AZ, USA",debtaylor
+"""been""","Parsippany, NJ, USA",debtaylor
+"""been""","Laguna Niguel, CA, USA",debtaylor
+"""been""","Strathmore, Alberta, Canada",debtaylor
+"""been""","Lucerne, Switzerland",debtaylor
+"""been""","Laguna Woods, CA, USA",debtaylor
+"""been""","Tombstone, AZ, USA",debtaylor
+"""been"",""want""","Juneau, AK, USA",debtaylor
+"""been""","Lake Arrowhead, CA, USA",debtaylor
+"""been""","Lake Havasu City, AZ, USA",debtaylor
+"""been""","Lake Elsinore, CA, USA",debtaylor
+"""been""","Brisbane, CA, USA",debtaylor
+"""been""","Lake Forest, CA, USA",debtaylor
+"""been""","Encinitas, CA, USA",debtaylor
+"""been""","Clovis, CA, USA",debtaylor
+"""been""","Agoura Hills, CA, USA",debtaylor
+"""been""","Laguna Beach, CA, USA",debtaylor
+"""been""","Hacienda Heights, CA, USA",debtaylor
+"""been""","Laguna Hills, CA, USA",debtaylor
+"""been""","Coachella, CA, USA",debtaylor
+"""been""","Mayaguez, Puerto Rico",debtaylor
+"""been""","Half Moon Bay, CA, USA",debtaylor
+"""been"",""want""","San Juan, Puerto Rico",debtaylor
+"""been""","Brea, CA, USA",debtaylor
+"""been""","Ponce, Puerto Rico",debtaylor
+"""been""","Reno, NV, USA",debtaylor
+"""been""","Ocean City, MD, USA",debtaylor
+"""been""","La Mirada, CA, USA",debtaylor
+"""been""","La Palma, CA, USA",debtaylor
+"""been""","Morristown, NJ, USA",debtaylor
+"""been""","Hoonah, AK, USA",debtaylor
+"""been""","El Segundo, CA, USA",debtaylor
+"""been""","La Puente, CA, USA",debtaylor
+"""been""","Surprise, AZ, USA",debtaylor
+"""been""","Roseburg, OR, USA",debtaylor
+"""been""","La Quinta, CA, USA",debtaylor
+"""been""","Greenwich, CT, USA",debtaylor
+"""been""","El Toro, CA, USA",debtaylor
+"""been""","Amarillo, TX, USA",debtaylor
+"""been""","La Verne, CA, USA",debtaylor
+"""been""","La Habra, CA, USA",debtaylor
+"""been""","Yucaipa, CA, USA",debtaylor
+"""been""","Salem, OR, USA",debtaylor
+"""been""","City of Industry, CA, USA",debtaylor
+"""been""","Claremont, CA, USA",debtaylor
+"""been""","La Jolla, CA, USA",debtaylor
+"""been""","Orlando, FL, USA",debtaylor
+"""been""","La Mesa, CA, USA",debtaylor
+"""been""","El Monte, CA, USA",debtaylor
+"""been""","Frederick, MD, USA",debtaylor
+"""been""","Ndola, Zambia",debtaylor
+"""been""","Hershey, PA, USA",debtaylor
+"""been""","Bodega Bay, CA, USA",debtaylor
+"""been""","Sausalito, CA, USA",debtaylor
+"""been""","Trabuco Canyon, CA, USA",debtaylor
+"""been""","Torrance, CA, USA",debtaylor
+"""been""","Tracy, CA, USA",debtaylor
+"""been""","Medford, OR, USA",debtaylor
+"""been""","Hallandale Beach, FL, USA",debtaylor
+"""been""","Seal Beach, CA, USA",debtaylor
+"""been""","Tecate, Mexico",debtaylor
+"""been""","Cheyenne, WY, USA",debtaylor
+"""been""","Portland, ME, USA",debtaylor
+"""been""","Mammoth Lakes, CA, USA",debtaylor
+"""been""","Gettysburg, PA, USA",debtaylor
+"""been""","Philadelphia, PA, USA",debtaylor
+"""been""","Brewster, NY, USA",debtaylor
+"""been""","Tetouan, Morocco",debtaylor
+"""been""","Santa Maria, CA, USA",debtaylor
+"""been""","Ringling, OK, USA",debtaylor
+"""been""","Thousand Palms, CA, USA",debtaylor
+"""been""","Santa Monica, CA, USA",debtaylor
+"""been""","Wrightwood, CA, USA",debtaylor
+"""been""","Santa Rosa, CA, USA",debtaylor
+"""been""","Bloomington, CA, USA",debtaylor
+"""been""","Blue Jay, CA, USA",debtaylor
+"""been""","Santa Ynez, CA, USA",debtaylor
+"""been""","Yorba Linda, CA, USA",debtaylor
+"""been""","Blythe, CA, USA",debtaylor
+"""been""","South Bend, IN, USA",debtaylor
+"""been""","Saratoga, CA, USA",debtaylor
+"""been""","Santee, CA, USA",debtaylor
+"""been""","Santa Fe Springs, CA, USA",debtaylor
+"""been""","Fargo, ND, USA",debtaylor
+"""been""","Oaxtepec, Mexico",debtaylor
+"""been""","Bronx, NY, USA",debtaylor
+"""been""","Hollywood, FL, USA",debtaylor
+"""been""","Pearl City, HI, USA",debtaylor
+"""been""","Wahiawa, HI, USA",debtaylor
+"""been""","Rosarito, Mexico",debtaylor
+"""been""","Atlanta, GA, USA",debtaylor
+"""been""","Washington DC, DC, USA",debtaylor
+"""been""","Tijuana, Mexico",debtaylor
+"""been""","Memphis, TN, USA",debtaylor
+"""been""","Ensenada, Mexico",debtaylor
+"""been""","Cambridge, MA, USA",debtaylor
+"""been""","Lowell, MA, USA",debtaylor
+"""been""","Kaneohe, HI, USA",debtaylor
+"""been""","Tlaxcala, Mexico",debtaylor
+"""been""","Truckee, CA, USA",debtaylor
+"""been""","Tulare, CA, USA",debtaylor
+"""been""","Merrillville, IN, USA",debtaylor
+"""been""","Tustin, CA, USA",debtaylor
+"""been""","Turlock, CA, USA",debtaylor
+"""been""","Durban, South Africa",debtaylor
+"""been""","Tepoztlan, Mexico",debtaylor
+"""been""","Ciudad Obregon, Mexico",debtaylor
+"""been""","Bethlehem, PA, USA",debtaylor
+"""been""","Waimanalo, HI, USA",debtaylor
+"""been""","Westminster, CA, USA",debtaylor
+"""been""","Carlsbad, CA, USA",debtaylor
+"""been""","Carmel, CA, USA",debtaylor
+"""been""","San Jose, CA, USA",debtaylor
+"""been""","Beaumont, CA, USA",debtaylor
+"""been""","Desert Hot Springs, CA, USA",debtaylor
+"""been""","San Juan Capistrano, CA, USA",debtaylor
+"""been""","Sun City, CA, USA",debtaylor
+"""been""","Diamond Bar, CA, USA",debtaylor
+"""been""","Carpinteria, CA, USA",debtaylor
+"""been""","Bell, CA, USA",debtaylor
+"""been""","San Leandro, CA, USA",debtaylor
+"""been""","Carson, CA, USA",debtaylor
+"""been""","San Luis Obispo, CA, USA",debtaylor
+"""been""","Bell Gardens, CA, USA",debtaylor
+"""been""","Whittier, CA, USA",debtaylor
+"""been""","Provo, UT, USA",debtaylor
+"""been""","Denver, CO, USA",debtaylor
+"""been""","Seattle, WA, USA",debtaylor
+"""been""","Cardiff-by-the-Sea, CA, USA",debtaylor
+"""been""","Fort Lauderdale, FL, USA",debtaylor
+"""been""","Lahaina, HI, USA",debtaylor
+"""been""","Cuernavaca, Mexico",debtaylor
+"""been""","Skagway, AK, USA",debtaylor
+"""been""","San Jacinto, CA, USA",debtaylor
+"""been""","Guadalajara, Mexico",debtaylor
+"""been""","Mazatlan, Mexico",debtaylor
+"""been""","Puerto Vallarta, Mexico",debtaylor
+"""been""","Kilkenny, Ireland",debtaylor
+"""been""","San Diego, CA, USA",debtaylor
+"""been""","White Plains, NY, USA",debtaylor
+"""been""","Kihei, HI, USA",debtaylor
+"""been""","Seward, AK, USA",debtaylor
+"""been""","Chandler, AZ, USA",debtaylor
+"""been""","Klamath Falls, OR, USA",debtaylor
+"""been""","Stockton, CA, USA",debtaylor
+"""been""","Davis, CA, USA",debtaylor
+"""been""","West Covina, CA, USA",debtaylor
+"""been""","Banning, CA, USA",debtaylor
+"""been""","San Bruno, CA, USA",debtaylor
+"""been""","West Hollywood, CA, USA",debtaylor
+"""been""","Bass Lake, CA, USA",debtaylor
+"""been""","San Dimas, CA, USA",debtaylor
+"""been""","Del Mar, CA, USA",debtaylor
+"""been""","San Clemente, CA, USA",debtaylor
+"""been""","Delano, CA, USA",debtaylor
+"""been""","San Gabriel, CA, USA",debtaylor
+"""been""","Bakersfield, CA, USA",debtaylor
+"""been""","Dana Point, CA, USA",debtaylor
+"""been""","El Paso, TX, USA",debtaylor
+"""been""","Ventura, CA, USA",debtaylor
+"""been""","Baldwin Park, CA, USA",debtaylor
+"""been""","Ewa Beach, HI, USA",debtaylor
+"""been""","Little Rock, AR, USA",debtaylor
+"""been""","Rainier, WA, USA",debtaylor
+"""been""","Acapulco, Mexico",debtaylor
+"""been""","San Bernardino, CA, USA",debtaylor
+"""been""","Irving, TX, USA",debtaylor
+"""been""","San German, Puerto Rico",debtaylor
+"""been""","Cherry Hill, NJ, USA",debtaylor
+"""been""","Omaha, NE, USA",debtaylor
+"""been""","Aiea, HI, USA",debtaylor
+"""been""","New York City, NY, USA",debtaylor
+"""been""","Beverly Hills, CA, USA",debtaylor
+"""been""","Cooperstown, NY, USA",debtaylor
+"""been""","Cork, Ireland",debtaylor
+"""been""","San Ysidro, CA, USA",debtaylor
+"""been""","Tehachapi, CA, USA",debtaylor
+"""been""","Cerritos, CA, USA",debtaylor
+"""been""","Temecula, CA, USA",debtaylor
+"""been""","Santa Ana, CA, USA",debtaylor
+"""been""","Santa Clara, CA, USA",debtaylor
+"""been""","Santa Barbara, CA, USA",debtaylor
+"""been""","Temple City, CA, USA",debtaylor
+"""been""","Santa Cruz, CA, USA",debtaylor
+"""been""","Santa Clarita, CA, USA",debtaylor
+"""been""","San Simeon, CA, USA",debtaylor
+"""been""","Kalaheo, HI, USA",debtaylor
+"""been""","San Ramon, CA, USA",debtaylor
+"""been""","Newport, RI, USA",debtaylor
+"""been""","Houston, TX, USA",debtaylor
+"""been""","Kapaa, HI, USA",debtaylor
+"""been""","Puerto Nuevo, Mexico",debtaylor
+"""been""","Florham Park, NJ, USA",debtaylor
+"""been""","Flagstaff, AZ, USA",debtaylor
+"""been""","Carmel, NY, USA",debtaylor
+"""been""","Castaic, CA, USA",debtaylor
+"""been""","San Mateo, CA, USA",debtaylor
+"""been""","Branson, MO, USA",debtaylor
+"""been""","San Onofre, CA, USA",debtaylor
+"""been""","Cathedral City, CA, USA",debtaylor
+"""been""","Fond du Lac, WI, USA",debtaylor
+"""been""","Berkeley, CA, USA",debtaylor
+"""been""","Cayucos, CA, USA",debtaylor
+"""been""","Tahoe City, CA, USA",debtaylor
+"""been""","San Rafael, CA, USA",debtaylor
+"""been""","Calgary, Alberta, Canada",debtaylor
+"""been""","Poipu, HI, USA",debtaylor
+"""been""","Bellflower, CA, USA",debtaylor
+"""been""","Princeville, HI, USA",debtaylor
+"""been""","Topeka, KS, USA",debtaylor
+"""been""","Lihue, HI, USA",debtaylor
+"""been""","Medicine Hat, Alberta, Canada",debtaylor
+"""been""","Boston, MA, USA",debtaylor
+"""been""","Tumwater, WA, USA",debtaylor
+"""been""","Schererville, IN, USA",debtaylor
+"""been""","Dublin, Ireland",debtaylor
+"""been""","Galway, Ireland",debtaylor
+"""been""","New Orleans, LA, USA",debtaylor
+"""been""","Honolulu, HI, USA",debtaylor
+"""been""","Kilauea, HI, USA",debtaylor
+"""been""","Gibraltar, Europe",debtaylor
+"""been""","Madrid, Spain",debtaylor
+"""want""","Venice, Italy",debtaylor
+"""been""","Hermosillo, Mexico",debtaylor
+"""been""","Zacatecas, Mexico",debtaylor
+"""been""","Oak Glen, CA, USA",debtaylor
+"""been""","Poway, CA, USA",debtaylor
+"""been""","Windsor, UK",debtaylor
+"""been""","Cape Town Central, South Africa",debtaylor
+"""been""","Springfield, MO, USA",debtaylor
+"""been""","Gary, IN, USA",debtaylor
+"""been""","Harrisburg, PA, USA",debtaylor
+"""been""","San Jose del Cabo, Mexico",debtaylor
+"""been""","Cabo San Lucas, Mexico",debtaylor
+"""been""","Tulsa, OK, USA",debtaylor
+"""been""","Victoria, British Columbia, Canada",debtaylor
+"""been"",""want""","Vancouver, British Columbia, Canada",debtaylor
+"""been""","Pomona, CA, USA",debtaylor
+"""been""","La Fonda, Mexico",debtaylor
+"""been""","South Lake Tahoe, CA, USA",debtaylor
+"""been""","Porterville, CA, USA",debtaylor
+"""been""","Oshkosh, WI, USA",debtaylor
+"""been""","Edinburgh, UK",debtaylor
+"""been""","Norman, OK, USA",debtaylor
+"""been""","Rancho Cucamonga, CA, USA",debtaylor
+"""been""","Rancho Mirage, CA, USA",debtaylor
+"""been""","Rancho Dominguez, CA, USA",debtaylor
+"""want""","Halifax, Nova Scotia, Canada",debtaylor
+"""been""","Ontario, CA, USA",debtaylor
+"""been""","Menlo Park, CA, USA",debtaylor
+"""been""","Orange, CA, USA",debtaylor
+"""been""","Rancho Santa Margarita, CA, USA",debtaylor
+"""been""","Rancho Santa Fe, CA, USA",debtaylor
+"""been""","Menifee, CA, USA",debtaylor
+"""been""","Park City, UT, USA",debtaylor
+"""been""","Hatch, NM, USA",debtaylor
+"""been""","Albany, NY, USA",debtaylor
+"""been""","Plymouth, MA, USA",debtaylor
+"""been""","Ceuta, Spain",debtaylor
+"""been""","Tarragona, Spain",debtaylor
+"""been""","Columbus, OH, USA",debtaylor
+"""been""","Oakland, CA, USA",debtaylor
+"""been""","Oklahoma City, OK, USA",debtaylor
+"""been""","Ramona, CA, USA",debtaylor
+"""been""","Oceanside, CA, USA",debtaylor
+"""been""","Ojai, CA, USA",debtaylor
+"""been""","Rancho Bernardo, CA, USA",debtaylor
+"""want""","Brussels, Belgium",debtaylor
+"""been""","Marbella, Spain",debtaylor
+"""been""","Bend, OR, USA",debtaylor
+"""been""","Cordoba, Spain",debtaylor
+"""been""","Lancaster, PA, USA",debtaylor
+"""been""","Rome, Italy",debtaylor
+"""been""","Bozeman, MT, USA",debtaylor
+"""been""","Jurupa Valley, CA, USA",debtaylor
+"""been""","Munich, Germany",debtaylor
+"""been""","Ennis, Ireland",debtaylor
+"""been""","Signal Hill, CA, USA",debtaylor
+"""been""","Blarney, Ireland",debtaylor
+"""been""","Seville, Spain",debtaylor
+"""been""","Simi Valley, CA, USA",debtaylor
+"""been""","Johannesburg, South Africa",debtaylor
+"""been""","Granada, Spain",debtaylor
+"""been""","Lusaka, Zambia",debtaylor
+"""want""","Florence, Italy",debtaylor
+"""want""","Palermo, Italy",debtaylor
+"""been""","Eugene, OR, USA",debtaylor
+"""been""","Big Sur, CA, USA",debtaylor
+"""been""","Pleasanton, CA, USA",debtaylor
+"""been""","Valencia, Spain",debtaylor
+"""want""","Naples, Italy",debtaylor
+"""been""","Valparaiso, IN, USA",debtaylor
+"""been""","Port Elizabeth, South Africa",debtaylor
+"""been""","Erie, PA, USA",debtaylor
+"""been""","London, UK",debtaylor
+"""been""","Livingstone, Zambia",debtaylor
+"""been""","East London, South Africa",debtaylor
+"""been""","Cobh, Ireland",debtaylor
+"""been""","Ardmore, OK, USA",debtaylor
+"""been""","Hilo, HI, USA",debtaylor
+"""been""","Dar es Salaam, Tanzania",debtaylor
+"""been""","Las Vegas, NV, USA",debtaylor
+"""been""","Victoria Falls, Zimbabwe",debtaylor
+"""been""","Laughlin, NV, USA",debtaylor
+"""been""","Harare, Zimbabwe",debtaylor
+"""been""","Ozark, MO, USA",debtaylor
+"""been""","Nevada City, CA, USA",debtaylor
+"""been""","Pismo Beach, CA, USA",debtaylor
+"""been""","Los Alamitos, CA, USA",debtaylor
+"""been""","Irvine, CA, USA",debtaylor
+"""been""","Irwindale, CA, USA",debtaylor
+"""been""","Loma Linda, CA, USA",debtaylor
+"""been""","Imperial Beach, CA, USA",debtaylor
+"""been""","Napa, CA, USA",debtaylor
+"""been""","Avalon, CA, USA",debtaylor
+"""been""","Indian Wells, CA, USA",debtaylor
+"""been""","Georgetown, TX, USA",debtaylor
+"""been""","Lompoc, CA, USA",debtaylor
+"""been""","Indio, CA, USA",debtaylor
+"""been""","Inglewood, CA, USA",debtaylor
+"""been""","Alexandria, VA, USA",debtaylor
+"""been""","Foster City, CA, USA",debtaylor
+"""been""","National City, CA, USA",debtaylor
+"""been""","Long Beach, CA, USA",debtaylor
+"""been""","Fountain Valley, CA, USA",debtaylor
+"""been""","Victoria Falls, Zambia",debtaylor
+"""been""","Saint Louis, MO, USA",debtaylor
+"""been""","Azusa, CA, USA",debtaylor
+"""been""","Denton, MD, USA",debtaylor
+"""been""","Toledo, Spain",debtaylor
+"""been""","Rockville, MD, USA",debtaylor
+"""been""","Evansville, IN, USA",debtaylor
+"""been""","Portland, OR, USA",debtaylor
+"""been""","Lodi, CA, USA",debtaylor
+"""been""","New Haven, CT, USA",debtaylor
+"""been""","Mountain View, CA, USA",debtaylor
+"""been""","Phoenix, AZ, USA",debtaylor
+"""been""","Petaluma, CA, USA",debtaylor
+"""been""","Artesia, CA, USA",debtaylor
+"""been""","Running Springs, CA, USA",debtaylor
+"""been""","Mount Shasta, CA, USA",debtaylor
+"""been""","Huntington Beach, CA, USA",debtaylor
+"""been""","Sacramento, CA, USA",debtaylor
+"""been""","Huntington Park, CA, USA",debtaylor
+"""been""","Pico Rivera, CA, USA",debtaylor
+"""been""","Peoria, AZ, USA",debtaylor
+"""been""","Kafue National Park, Zambia",debtaylor
+"""been""","Idyllwild, CA, USA",debtaylor
+"""been""","Wailea, HI, USA",debtaylor
+"""been""","Lower Zambezi National Park, Zambia",debtaylor
+"""been""","South Luangwa National Park, Zambia",debtaylor
+"""been""","O'Fallon, MO, USA",debtaylor
+"""been""","Frankfurt, Germany",debtaylor
+"""been""","Pittsburgh, PA, USA",debtaylor
+"""been""","North Palm Springs, CA, USA",debtaylor
+"""been""","Glendale, CA, USA",debtaylor
+"""want""","Rapid City, SD, USA",debtaylor
+"""been""","Glendora, CA, USA",debtaylor
+"""been""","Gardena, CA, USA",debtaylor
+"""been""","Norco, CA, USA",debtaylor
+"""been""","Nipomo, CA, USA",debtaylor
+"""been""","Danbury, CT, USA",debtaylor
+"""been""","Julian, CA, USA",debtaylor
+"""been""","June Lake, CA, USA",debtaylor
+"""been""","Lytle Creek, CA, USA",debtaylor
+"""been""","Downey, CA, USA",debtaylor
+"""been""","Chatham, MA, USA",debtaylor
+"""been""","Addis Ababa, Ethiopia",debtaylor
+"""been""","Incline Village, NV, USA",debtaylor
+"""been""","Whippany, NJ, USA",debtaylor
+"""been""","Newport Beach, CA, USA",debtaylor
+"""been""","Athens, Greece",debtaylor
+"""been""","Garden Grove, CA, USA",debtaylor
+"""been""","Arlington, VA, USA",debtaylor
+"""been""","Fremont, CA, USA",debtaylor
+"""been""","Garland, TX, USA",debtaylor
+"""been""","Los Angeles, CA, USA",debtaylor
+"""been""","Fresno, CA, USA",debtaylor
+"""been""","Newbury Park, CA, USA",debtaylor
+"""been""","Placentia, CA, USA",debtaylor
+"""been""","Quartzsite, AZ, USA",debtaylor
+"""been""","Chicago, IL, USA",debtaylor
+"""been""","Fullerton, CA, USA",debtaylor
+"""been""","Annapolis, MD, USA",debtaylor
+"""been""","Bethesda, MD, USA",debtaylor
+"""been""","Chadds Ford, PA, USA",debtaylor
+"""been""","Long Island City, NY, USA",debtaylor
+"""been""","Rialto, CA, USA",debtaylor
+"""been""","Pacific Grove, CA, USA",debtaylor
+"""been""","Mission Viejo, CA, USA",debtaylor
+"""been""","Modesto, CA, USA",debtaylor
+"""been""","Palm Springs, CA, USA",debtaylor
+"""been""","Mojave, CA, USA",debtaylor
+"""been""","Palm Desert, CA, USA",debtaylor
+"""been""","Palo Alto, CA, USA",debtaylor
+"""been""","Palmdale, CA, USA",debtaylor
+"""been""","Monrovia, CA, USA",debtaylor
+"""been""","Gurnee, IL, USA",debtaylor
+"""been""","Milwaukee, WI, USA",debtaylor
+"""been""","Fort Worth, TX, USA",debtaylor
+"""been""","Red Bluff, CA, USA",debtaylor
+"""been""","Redlands, CA, USA",debtaylor
+"""been""","Redding, CA, USA",debtaylor
+"""been""","Redondo Beach, CA, USA",debtaylor
+"""been""","Midway City, CA, USA",debtaylor
+"""been""","Hartford, CT, USA",debtaylor
+"""been""","Redwood City, CA, USA",debtaylor
+"""been""","Reedley, CA, USA",debtaylor
+"""been""","Oxnard, CA, USA",debtaylor
+"""been""","Washington Grove, MD, USA",debtaylor
+"""been""","Kennebunkport, ME, USA",debtaylor
+"""been""","Wichita, KS, USA",debtaylor
+"""been""","Salinas, Puerto Rico",debtaylor
+"""been""","Barcelona, Spain",debtaylor
+"""been""","Perris, CA, USA",debtaylor
+"""been""","Appleton, WI, USA",debtaylor
+"""been""","Rowland Heights, CA, USA",debtaylor
+"""been""","Mount Baldy, CA, USA",debtaylor
+"""been""","Oahu, HI, USA",debtaylor
+"""been""","Lemon Grove, CA, USA",debtaylor
+"""been""","Winslow, AZ, USA",debtaylor
+"""been""","Chingola, Zambia",debtaylor
+"""been""","Moreno Valley, CA, USA",debtaylor
+"""been""","Romoland, CA, USA",debtaylor
+"""been""","Pebble Beach, CA, USA",debtaylor
+"""been""","Morro Bay, CA, USA",debtaylor
+"""been""","Leucadia, CA, USA",debtaylor
+"""been""","Rosemead, CA, USA",debtaylor
+"""been""","Morongo Valley, CA, USA",debtaylor
+"""been""","Arcadia, CA, USA",debtaylor
+"""been""","Aptos, CA, USA",debtaylor
+"""been""","Paris, France",debtaylor
+"""want""","Amsterdam, The Netherlands",debtaylor
+"""been""","Dallas, TX, USA",debtaylor
+"""been""","Zurich, Switzerland",debtaylor
+"""been""","Paso Robles, CA, USA",debtaylor
+"""been""","Palo Verde, CA, USA",debtaylor
+"""been""","Montclair, CA, USA",debtaylor
+"""been""","Paramount, CA, USA",debtaylor
+"""been""","Montebello, CA, USA",debtaylor
+"""been""","Mexicali, Mexico",debtaylor
+"""been""","Monterey, CA, USA",debtaylor
+"""been""","Riverside, CA, USA",debtaylor
+"""been""","Parker Dam, CA, USA",debtaylor
+"""been""","Lee Vining, CA, USA",debtaylor
+"""been""","Pasadena, CA, USA",debtaylor
+"""been""","Monterey Park, CA, USA",debtaylor

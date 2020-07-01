@@ -1,0 +1,516 @@
+tag,place,user
+"""been""","Scottsbluff, NE, USA",ET-MCMLX
+"""been""","Milwaukee, WI, USA",ET-MCMLX
+"""been""","Natick, MA, USA",ET-MCMLX
+"""been"",""fave""","Pisa, Italy",ET-MCMLX
+"""been""","Riverside, MO, USA",ET-MCMLX
+"""been""","Waco, TX, USA",ET-MCMLX
+"""been""","Rapid City, SD, USA",ET-MCMLX
+"""been""","Pasadena, CA, USA",ET-MCMLX
+"""been""","Pringle, SD, USA",ET-MCMLX
+"""been""","Monterey, CA, USA",ET-MCMLX
+"""been""","Provo, SD, USA",ET-MCMLX
+"""been""","Fort Worth, TX, USA",ET-MCMLX
+"""been""","Hill City, SD, USA",ET-MCMLX
+"""been""","Presho, SD, USA",ET-MCMLX
+"""been"",""fave""","Riverside, CA, USA",ET-MCMLX
+"""been""","Naples, Italy",ET-MCMLX
+"""been""","Pompeii, Italy",ET-MCMLX
+"""been""","Alliance, NE, USA",ET-MCMLX
+"""been""","North Kansas City, MO, USA",ET-MCMLX
+"""been""","Shinagawa, Japan",ET-MCMLX
+"""been""","Sorrento, Italy",ET-MCMLX
+"""been""","Rhodes Town, Greece",ET-MCMLX
+"""been""","Capri, Italy",ET-MCMLX
+"""been""","Saint Joseph, MI, USA",ET-MCMLX
+"""been""","Valencia, Spain",ET-MCMLX
+"""been""","South Sioux City, NE, USA",ET-MCMLX
+"""been""","Catania, Italy",ET-MCMLX
+"""been""","Sidney, NE, USA",ET-MCMLX
+"""been""","Messina, Italy",ET-MCMLX
+"""been""","Wamego, KS, USA",ET-MCMLX
+"""been""","Rochford, SD, USA",ET-MCMLX
+"""been""","Kadoka, SD, USA",ET-MCMLX
+"""been""","Canton, SD, USA",ET-MCMLX
+"""been""","Prairie Village, KS, USA",ET-MCMLX
+"""been""","Buffalo Gap, SD, USA",ET-MCMLX
+"""been""","Colleville-sur-Mer, France",ET-MCMLX
+"""been""","Guthrie, OK, USA",ET-MCMLX
+"""been""","Pittsburgh, PA, USA",ET-MCMLX
+"""been""","Hampton, VA, USA",ET-MCMLX
+"""been""","Stamford, CT, USA",ET-MCMLX
+"""been""","Palermo, Italy",ET-MCMLX
+"""been"",""fave""","Florence, Italy",ET-MCMLX
+"""been""","Winnipeg, Manitoba, Canada",ET-MCMLX
+"""been""","Minden, NE, USA",ET-MCMLX
+"""been""","Chiba, Japan",ET-MCMLX
+"""been""","Ainsworth, NE, USA",ET-MCMLX
+"""been""","Taormina, Italy",ET-MCMLX
+"""been""","Gurnee, IL, USA",ET-MCMLX
+"""been""","Iowa City, IA, USA",ET-MCMLX
+"""been""","Ottumwa, IA, USA",ET-MCMLX
+"""been""","Chamberlain, SD, USA",ET-MCMLX
+"""been""","Mason City, IA, USA",ET-MCMLX
+"""been""","Galveston, TX, USA",ET-MCMLX
+"""been""","Redondo Beach, CA, USA",ET-MCMLX
+"""been""","Berlin, Germany",ET-MCMLX
+"""been""","Vancouver, British Columbia, Canada",ET-MCMLX
+"""been""","Las Vegas, NV, USA",ET-MCMLX
+"""been""","Nebraska City, NE, USA",ET-MCMLX
+"""been""","Bethesda, MD, USA",ET-MCMLX
+"""been""","Osceola, IA, USA",ET-MCMLX
+"""been""","Munich, Germany",ET-MCMLX
+"""been""","Taipei, Taiwan",ET-MCMLX
+"""been""","Jonkoping, Sweden",ET-MCMLX
+"""been""","Lead, SD, USA",ET-MCMLX
+"""been""","London, UK",ET-MCMLX
+"""been""","Portland, OR, USA",ET-MCMLX
+"""been""","West, TX, USA",ET-MCMLX
+"""been""","Lexington, KY, USA",ET-MCMLX
+"""been""","Toledo, OH, USA",ET-MCMLX
+"""been""","Fukuyama, Japan",ET-MCMLX
+"""been""","Scenic, SD, USA",ET-MCMLX
+"""been""","Rome, Italy",ET-MCMLX
+"""been""","Hastings, NE, USA",ET-MCMLX
+"""been""","Brussels, Belgium",ET-MCMLX
+"""been""","Norfolk, NE, USA",ET-MCMLX
+"""been""","Cabo San Lucas, Mexico",ET-MCMLX
+"""been""","Saint Joseph, MO, USA",ET-MCMLX
+"""been""","Tivoli, Italy",ET-MCMLX
+"""been""","Saint Louis, MO, USA",ET-MCMLX
+"""been""","Vatican City, Vatican City",ET-MCMLX
+"""been""","Stockholm, Sweden",ET-MCMLX
+"""been""","Samburu National Reserve, Kenya",ET-MCMLX
+"""been""","Okoboji, IA, USA",ET-MCMLX
+"""been""","Joliet, IL, USA",ET-MCMLX
+"""been""","Ixtapa, Mexico",ET-MCMLX
+"""been""","North Platte, NE, USA",ET-MCMLX
+"""been""","Deadwood, SD, USA",ET-MCMLX
+"""been""","Crazy Horse, SD, USA",ET-MCMLX
+"""been""","Oakland, CA, USA",ET-MCMLX
+"""been""","Marietta, GA, USA",ET-MCMLX
+"""been""","Ogallala, NE, USA",ET-MCMLX
+"""been""","Kansas City, MO, USA",ET-MCMLX
+"""been""","Glasgow, UK",ET-MCMLX
+"""been""","Minneapolis, MN, USA",ET-MCMLX
+"""been""","Crawford, NE, USA",ET-MCMLX
+"""been""","Selcuk, Turkey",ET-MCMLX
+"""been""","Bartlesville, OK, USA",ET-MCMLX
+"""been""","Cozad, NE, USA",ET-MCMLX
+"""been""","Galveston Island, TX, USA",ET-MCMLX
+"""been""","Istanbul, Turkey",ET-MCMLX
+"""been""","Rockaway Beach, OR, USA",ET-MCMLX
+"""been""","Urbandale, IA, USA",ET-MCMLX
+"""been""","Edgemont, SD, USA",ET-MCMLX
+"""been""","Buenos Aires, Argentina",ET-MCMLX
+"""been""","Gatineau, Quebec, Canada",ET-MCMLX
+"""been""","Madrid, Spain",ET-MCMLX
+"""been""","Itabashi, Japan",ET-MCMLX
+"""been""","Mississauga, Ontario, Canada",ET-MCMLX
+"""been""","Kiruna, Sweden",ET-MCMLX
+"""been""","Keystone, SD, USA",ET-MCMLX
+"""been""","Tokyo, Japan",ET-MCMLX
+"""been""","Paxton, NE, USA",ET-MCMLX
+"""been""","Rochester, MN, USA",ET-MCMLX
+"""been""","Windsor, UK",ET-MCMLX
+"""been""","Detroit, MI, USA",ET-MCMLX
+"""been""","Kearney, NE, USA",ET-MCMLX
+"""been""","Seaside, OR, USA",ET-MCMLX
+"""been""","Emporia, KS, USA",ET-MCMLX
+"""been""","Yokohama, Japan",ET-MCMLX
+"""been""","Islip, NY, USA",ET-MCMLX
+"""been""","La Vista, NE, USA",ET-MCMLX
+"""been""","Petionville, Haiti",ET-MCMLX
+"""been""","Venice, Italy",ET-MCMLX
+"""been""","Red Oak, IA, USA",ET-MCMLX
+"""been""","Ensenada, Mexico",ET-MCMLX
+"""been""","El Dorado, KS, USA",ET-MCMLX
+"""been""","SeaTac, WA, USA",ET-MCMLX
+"""been""","Silverlake, WA, USA",ET-MCMLX
+"""been""","Mont-Saint-Michel, France",ET-MCMLX
+"""been""","Kobe, Japan",ET-MCMLX
+"""been""","Corpus Christi, TX, USA",ET-MCMLX
+"""been""","Kyoto, Japan",ET-MCMLX
+"""been""","Brownsville, TX, USA",ET-MCMLX
+"""been""","Osaka, Japan",ET-MCMLX
+"""been""","Nagasaki, Japan",ET-MCMLX
+"""been""","Port Angeles, WA, USA",ET-MCMLX
+"""been""","Lexington, NE, USA",ET-MCMLX
+"""been""","Salt Lake City, UT, USA",ET-MCMLX
+"""been""","Lincoln, NE, USA",ET-MCMLX
+"""been""","Bassett, NE, USA",ET-MCMLX
+"""been""","Macon, GA, USA",ET-MCMLX
+"""been""","Surrey, British Columbia, Canada",ET-MCMLX
+"""been""","Hiroshima, Japan",ET-MCMLX
+"""been""","Hutchinson, KS, USA",ET-MCMLX
+"""been""","Douville-en-Auge, France",ET-MCMLX
+"""been""","Matamoros, Mexico",ET-MCMLX
+"""been""","Cabourg, France",ET-MCMLX
+"""been""","Gruyeres, Switzerland",ET-MCMLX
+"""been""","Nashville, TN, USA",ET-MCMLX
+"""been""","Sequim, WA, USA",ET-MCMLX
+"""been""","Savannah, GA, USA",ET-MCMLX
+"""been""","Bellevue, NE, USA",ET-MCMLX
+"""been""","Baltimore, MD, USA",ET-MCMLX
+"""been""","Albuquerque, NM, USA",ET-MCMLX
+"""been""","Lee's Summit, MO, USA",ET-MCMLX
+"""been""","Seoul, South Korea",ET-MCMLX
+"""been""","Long Pine, NE, USA",ET-MCMLX
+"""been""","Longues-sur-Mer, France",ET-MCMLX
+"""been""","Storm Lake, IA, USA",ET-MCMLX
+"""been""","Story City, IA, USA",ET-MCMLX
+"""been""","Tillamook, OR, USA",ET-MCMLX
+"""been""","Ashland, NE, USA",ET-MCMLX
+"""been""","Eau Claire, WI, USA",ET-MCMLX
+"""been""","Veytaux, Switzerland",ET-MCMLX
+"""been""","Brooklyn, NY, USA",ET-MCMLX
+"""been""","Estes Park, CO, USA",ET-MCMLX
+"""been""","Eagle River, WI, USA",ET-MCMLX
+"""been""","Torre Del Greco, Italy",ET-MCMLX
+"""been""","Vancouver, WA, USA",ET-MCMLX
+"""been""","Eagan, MN, USA",ET-MCMLX
+"""been""","Jersey City, NJ, USA",ET-MCMLX
+"""been""","Hollywood, FL, USA",ET-MCMLX
+"""been""","Tajiri-cho, Japan",ET-MCMLX
+"""been""","Spirit Lake, IA, USA",ET-MCMLX
+"""been""","Daytona Beach, FL, USA",ET-MCMLX
+"""been""","Manor, TX, USA",ET-MCMLX
+"""been""","Indianapolis, IN, USA",ET-MCMLX
+"""want""","Jaipur, India",ET-MCMLX
+"""been""","Round Rock, TX, USA",ET-MCMLX
+"""been""","New Delhi, India",ET-MCMLX
+"""been""","Chasseneuil-du-Poitou, France",ET-MCMLX
+"""been""","Athens, OH, USA",ET-MCMLX
+"""been""","Mykonos Town, Greece",ET-MCMLX
+"""been""","Thousand Oaks, CA, USA",ET-MCMLX
+"""been""","Fremont, NE, USA",ET-MCMLX
+"""been""","San Francisco, CA, USA",ET-MCMLX
+"""been""","Port-Salut, Haiti",ET-MCMLX
+"""been""","Washington DC, DC, USA",ET-MCMLX
+"""been""","Agra, India",ET-MCMLX
+"""been""","Grand Forks, ND, USA",ET-MCMLX
+"""been""","Frascati, Italy",ET-MCMLX
+"""been""","Oak Brook, IL, USA",ET-MCMLX
+"""been""","Tacoma, WA, USA",ET-MCMLX
+"""been""","Council Bluffs, IA, USA",ET-MCMLX
+"""been""","Kelso, WA, USA",ET-MCMLX
+"""been""","Sioux City, IA, USA",ET-MCMLX
+"""been""","Jacmel, Haiti",ET-MCMLX
+"""been""","Interior, SD, USA",ET-MCMLX
+"""been""","Broken Bow, NE, USA",ET-MCMLX
+"""been""","Newark, NJ, USA",ET-MCMLX
+"""been""","Independence, MO, USA",ET-MCMLX
+"""been""","West Des Moines, IA, USA",ET-MCMLX
+"""been""","Sendai, Japan",ET-MCMLX
+"""been""","Gatlinburg, TN, USA",ET-MCMLX
+"""been""","Gering, NE, USA",ET-MCMLX
+"""been""","Shizuoka, Japan",ET-MCMLX
+"""been""","Sausalito, CA, USA",ET-MCMLX
+"""been""","Pigeon Forge, TN, USA",ET-MCMLX
+"""been""","Speedway, IN, USA",ET-MCMLX
+"""been""","Manhattan, KS, USA",ET-MCMLX
+"""been""","Paducah, KY, USA",ET-MCMLX
+"""been""","Louisville, KY, USA",ET-MCMLX
+"""been""","Rila, Bulgaria",ET-MCMLX
+"""been""","Toutle, WA, USA",ET-MCMLX
+"""been""","Houston, TX, USA",ET-MCMLX
+"""been""","Carcassonne, France",ET-MCMLX
+"""been""","Grand Island, NE, USA",ET-MCMLX
+"""been""","Matsuyama, Japan",ET-MCMLX
+"""been""","Kekaha, HI, USA",ET-MCMLX
+"""been""","Blue Springs, MO, USA",ET-MCMLX
+"""been""","Madison, WI, USA",ET-MCMLX
+"""been""","Gothenburg, NE, USA",ET-MCMLX
+"""been""","Hanalei, HI, USA",ET-MCMLX
+"""been""","Cottonwood Falls, KS, USA",ET-MCMLX
+"""been""","Beatrice, NE, USA",ET-MCMLX
+"""been""","Murfreesboro, TN, USA",ET-MCMLX
+"""been""","Flagstaff, AZ, USA",ET-MCMLX
+"""been""","Santa Monica, CA, USA",ET-MCMLX
+"""been""","Waterloo, IA, USA",ET-MCMLX
+"""been""","Louisburg, KS, USA",ET-MCMLX
+"""been""","Lauderdale-By-The-Sea, FL, USA",ET-MCMLX
+"""been""","Zihuatanejo, Mexico",ET-MCMLX
+"""been""","Puerto Vallarta, Mexico",ET-MCMLX
+"""been""","Mazatlan, Mexico",ET-MCMLX
+"""been""","Topeka, KS, USA",ET-MCMLX
+"""been""","Waimea, HI, USA",ET-MCMLX
+"""been""","Laramie, WY, USA",ET-MCMLX
+"""been""","Boston, MA, USA",ET-MCMLX
+"""been""","Nagoya, Japan",ET-MCMLX
+"""been""","New Orleans, LA, USA",ET-MCMLX
+"""been""","Lihue, HI, USA",ET-MCMLX
+"""been""","Custer, SD, USA",ET-MCMLX
+"""been""","Chadron, NE, USA",ET-MCMLX
+"""been""","Asheville, NC, USA",ET-MCMLX
+"""been""","Clarinda, IA, USA",ET-MCMLX
+"""been""","Lindsborg, KS, USA",ET-MCMLX
+"""been""","Beverly Hills, CA, USA",ET-MCMLX
+"""been""","Fukuoka, Japan",ET-MCMLX
+"""been""","Blagnac, France",ET-MCMLX
+"""been""","Clear Lake, IA, USA",ET-MCMLX
+"""been""","Ocala, FL, USA",ET-MCMLX
+"""been""","Poulsbo, WA, USA",ET-MCMLX
+"""been""","Tijuana, Mexico",ET-MCMLX
+"""been""","Branson, MO, USA",ET-MCMLX
+"""been"",""fave""","Kriens, Switzerland",ET-MCMLX
+"""been""","Sasebo, Japan",ET-MCMLX
+"""been""","Seattle, WA, USA",ET-MCMLX
+"""been""","Yellowstone National Park, WY, USA",ET-MCMLX
+"""been""","Lahaina, HI, USA",ET-MCMLX
+"""been""","Lusk, WY, USA",ET-MCMLX
+"""been""","Hot Springs, SD, USA",ET-MCMLX
+"""been""","San Diego, CA, USA",ET-MCMLX
+"""been""","Kagoshima, Japan",ET-MCMLX
+"""been""","Columbus, NE, USA",ET-MCMLX
+"""been""","Cincinnati, OH, USA",ET-MCMLX
+"""been""","Gainesville, FL, USA",ET-MCMLX
+"""been""","Lenexa, KS, USA",ET-MCMLX
+"""been""","Cambridge, MA, USA",ET-MCMLX
+"""been""","Irving, TX, USA",ET-MCMLX
+"""been""","Ottawa, KS, USA",ET-MCMLX
+"""been""","Overland Park, KS, USA",ET-MCMLX
+"""been""","Arromanches-les-Bains, France",ET-MCMLX
+"""been""","Schaumburg, IL, USA",ET-MCMLX
+"""been""","San Simeon, CA, USA",ET-MCMLX
+"""been""","Valdosta, GA, USA",ET-MCMLX
+"""been""","Naperville, IL, USA",ET-MCMLX
+"""been""","Lindos, Greece",ET-MCMLX
+"""been"",""fave""","Broc, Switzerland",ET-MCMLX
+"""been""","Sagamihara, Japan",ET-MCMLX
+"""been""","Leavenworth, KS, USA",ET-MCMLX
+"""been""","El Paso, TX, USA",ET-MCMLX
+"""been""","Newcastle, WY, USA",ET-MCMLX
+"""been""","Leawood, KS, USA",ET-MCMLX
+"""been""","Montbovon, Switzerland",ET-MCMLX
+"""been""","Rye, NY, USA",ET-MCMLX
+"""been""","Moran, WY, USA",ET-MCMLX
+"""been""","Little Rock, AR, USA",ET-MCMLX
+"""been""","Springfield, IL, USA",ET-MCMLX
+"""been""","New York City, NY, USA",ET-MCMLX
+"""been""","Omaha, NE, USA",ET-MCMLX
+"""been""","Kissimmee, FL, USA",ET-MCMLX
+"""been""","San Jose, CA, USA",ET-MCMLX
+"""been""","Olathe, KS, USA",ET-MCMLX
+"""been""","Canakkale, Turkey",ET-MCMLX
+"""been""","Memphis, TN, USA",ET-MCMLX
+"""been""","Lawrence, KS, USA",ET-MCMLX
+"""been""","Toronto, Ontario, Canada",ET-MCMLX
+"""been""","Peoria, IL, USA",ET-MCMLX
+"""been""","Bellevue, WA, USA",ET-MCMLX
+"""been""","Everett, WA, USA",ET-MCMLX
+"""been""","Cedar Rapids, IA, USA",ET-MCMLX
+"""been""","Denver, CO, USA",ET-MCMLX
+"""been"",""fave""","Lucerne, Switzerland",ET-MCMLX
+"""been""","Kitakyushu, Japan",ET-MCMLX
+"""been""","Rawlins, WY, USA",ET-MCMLX
+"""been""","Atlanta, GA, USA",ET-MCMLX
+"""been""","St. Gallen, Switzerland",ET-MCMLX
+"""been""","Port Chester, NY, USA",ET-MCMLX
+"""been""","West Yellowstone, MT, USA",ET-MCMLX
+"""been""","Bayard, NE, USA",ET-MCMLX
+"""been""","Devils Tower, WY, USA",ET-MCMLX
+"""been""","Buffalo, WY, USA",ET-MCMLX
+"""been""","West Hollywood, CA, USA",ET-MCMLX
+"""been""","Champaign, IL, USA",ET-MCMLX
+"""been""","Ottawa, Ontario, Canada",ET-MCMLX
+"""been""","Hong Kong, China",ET-MCMLX
+"""been""","Bellingham, WA, USA",ET-MCMLX
+"""been""","Fairway, KS, USA",ET-MCMLX
+"""been""","Fort Lauderdale, FL, USA",ET-MCMLX
+"""been""","Playa Blanca, Mexico",ET-MCMLX
+"""want""","Gdansk, Poland",ET-MCMLX
+"""been""","Dubuque, IA, USA",ET-MCMLX
+"""been""","Riposto, Italy",ET-MCMLX
+"""been""","Grand Teton National Park, WY, USA",ET-MCMLX
+"""been""","Newton, KS, USA",ET-MCMLX
+"""been""","Kusadasi, Turkey",ET-MCMLX
+"""been""","Dayton, OH, USA",ET-MCMLX
+"""been""","Teton Village, WY, USA",ET-MCMLX
+"""been""","Bremerton, WA, USA",ET-MCMLX
+"""been""","Nairobi, Kenya",ET-MCMLX
+"""been""","Culver City, CA, USA",ET-MCMLX
+"""been""","Junction City, KS, USA",ET-MCMLX
+"""been""","Lamu Island, Kenya",ET-MCMLX
+"""been""","Kansas City, KS, USA",ET-MCMLX
+"""been""","Etretat, France",ET-MCMLX
+"""been"",""fave""","Warsaw, Poland",ET-MCMLX
+"""been""","Jukkasjarvi, Sweden",ET-MCMLX
+"""been""","Rosemont, IL, USA",ET-MCMLX
+"""been""","McMinnville, OR, USA",ET-MCMLX
+"""been""","Burlington, IA, USA",ET-MCMLX
+"""been""","Cheyenne, WY, USA",ET-MCMLX
+"""been""","Casper, WY, USA",ET-MCMLX
+"""been""","Sundance, WY, USA",ET-MCMLX
+"""been""","Sofia, Bulgaria",ET-MCMLX
+"""been""","Mombasa, Kenya",ET-MCMLX
+"""been""","Philadelphia, PA, USA",ET-MCMLX
+"""been""","Anaheim, CA, USA",ET-MCMLX
+"""been""","Jodhpur, India",ET-MCMLX
+"""been""","Des Moines, IA, USA",ET-MCMLX
+"""been""","Fargo, ND, USA",ET-MCMLX
+"""been""","Miami, FL, USA",ET-MCMLX
+"""been""","Bayeux, France",ET-MCMLX
+"""been""","Miami Beach, FL, USA",ET-MCMLX
+"""been""","Caen, France",ET-MCMLX
+"""been""","Three Lakes, WI, USA",ET-MCMLX
+"""been""","Cody, WY, USA",ET-MCMLX
+"""been""","Bronx, NY, USA",ET-MCMLX
+"""been""","Thermopolis, WY, USA",ET-MCMLX
+"""been""","Patras, Greece",ET-MCMLX
+"""been""","Pensacola, FL, USA",ET-MCMLX
+"""been""","Tampa, FL, USA",ET-MCMLX
+"""been""","Castle Rock, WA, USA",ET-MCMLX
+"""been""","Austin, TX, USA",ET-MCMLX
+"""been""","Newport, OR, USA",ET-MCMLX
+"""been""","Toulouse, France",ET-MCMLX
+"""been""","Davenport, IA, USA",ET-MCMLX
+"""been""","Tusayan, AZ, USA",ET-MCMLX
+"""been""","Westminster, CO, USA",ET-MCMLX
+"""been""","Arlington, TX, USA",ET-MCMLX
+"""been""","Virginia Beach, VA, USA",ET-MCMLX
+"""been""","Panama City Beach, FL, USA",ET-MCMLX
+"""been""","Burbank, CA, USA",ET-MCMLX
+"""been""","Haiti, Caribbean",ET-MCMLX
+"""been""","Bern, Switzerland",ET-MCMLX
+"""want""","Krakow, Poland",ET-MCMLX
+"""been""","Port-au-Prince, Haiti",ET-MCMLX
+"""been""","Rhinelander, WI, USA",ET-MCMLX
+"""been""","Singapore, Singapore",ET-MCMLX
+"""been""","Boulder, CO, USA",ET-MCMLX
+"""been""","Creston, IA, USA",ET-MCMLX
+"""been""","Hamamatsu, Japan",ET-MCMLX
+"""been""","Fuji, Japan",ET-MCMLX
+"""been""","Montreal, Quebec, Canada",ET-MCMLX
+"""been""","Nassau, Bahamas",ET-MCMLX
+"""been""","Wind Cave National Park, SD, USA",ET-MCMLX
+"""been""","Le Havre, France",ET-MCMLX
+"""been""","Rouen, France",ET-MCMLX
+"""been"",""fave""","Cassino, Italy",ET-MCMLX
+"""been""","Daejeon, South Korea",ET-MCMLX
+"""been""","Saint Germain, WI, USA",ET-MCMLX
+"""been""","Jackson, WY, USA",ET-MCMLX
+"""been""","Montreux, Switzerland",ET-MCMLX
+"""been""","Richmond, British Columbia, Canada",ET-MCMLX
+"""been""","Laguna Beach, CA, USA",ET-MCMLX
+"""been""","Bloomington, IN, USA",ET-MCMLX
+"""been""","Evanston, IL, USA",ET-MCMLX
+"""been""","Greenwich, CT, USA",ET-MCMLX
+"""been""","Kaohsiung, Taiwan",ET-MCMLX
+"""been""","Zug, Switzerland",ET-MCMLX
+"""been""","Sioux Falls, SD, USA",ET-MCMLX
+"""been""","Cleveland, OH, USA",ET-MCMLX
+"""been""","Orlando, FL, USA",ET-MCMLX
+"""been""","Amsterdam, The Netherlands",ET-MCMLX
+"""been""","Paris, France",ET-MCMLX
+"""been""","New Taipei, Taiwan",ET-MCMLX
+"""been""","Aurora, IL, USA",ET-MCMLX
+"""been""","Benton Harbor, MI, USA",ET-MCMLX
+"""been"",""fave""","Zurich, Switzerland",ET-MCMLX
+"""been""","Lake Geneva, WI, USA",ET-MCMLX
+"""been""","Cannon Beach, OR, USA",ET-MCMLX
+"""been""","Spearfish, SD, USA",ET-MCMLX
+"""been""","Mykonos, Greece",ET-MCMLX
+"""been""","Dusseldorf, Germany",ET-MCMLX
+"""been""","Sturgis, SD, USA",ET-MCMLX
+"""been"",""fave""","Lausanne, Switzerland",ET-MCMLX
+"""been""","Barcelona, Spain",ET-MCMLX
+"""been""","Nanyuki Town, Kenya",ET-MCMLX
+"""been""","Naxos Town, Greece",ET-MCMLX
+"""been""","Bregenz, Austria",ET-MCMLX
+"""been""","Oklahoma City, OK, USA",ET-MCMLX
+"""been""","Scottsdale, AZ, USA",ET-MCMLX
+"""been""","Saint-Pierre-du-Mont, France",ET-MCMLX
+"""been""","Marina del Rey, CA, USA",ET-MCMLX
+"""been""","Sedona, AZ, USA",ET-MCMLX
+"""been""","Martin, SD, USA",ET-MCMLX
+"""been""","Columbus, OH, USA",ET-MCMLX
+"""been""","Ushuaia, Argentina",ET-MCMLX
+"""been""","Chattanooga, TN, USA",ET-MCMLX
+"""been""","Fiumicino, Italy",ET-MCMLX
+"""been""","Heidelberg, Germany",ET-MCMLX
+"""been""","Birmingham, AL, USA",ET-MCMLX
+"""been""","West Palm Beach, FL, USA",ET-MCMLX
+"""been""","Malibu, CA, USA",ET-MCMLX
+"""been""","Eureka Springs, AR, USA",ET-MCMLX
+"""been""","Clarksville, TN, USA",ET-MCMLX
+"""been""","Carcassonne Center, France",ET-MCMLX
+"""been""","Vermillion, SD, USA",ET-MCMLX
+"""been""","Mitchell, SD, USA",ET-MCMLX
+"""been""","Edmond, OK, USA",ET-MCMLX
+"""been""","Shawnee, KS, USA",ET-MCMLX
+"""been""","Shawnee Mission, KS, USA",ET-MCMLX
+"""been""","Abilene, KS, USA",ET-MCMLX
+"""been""","Sakai, Japan",ET-MCMLX
+"""been""","Nimes, France",ET-MCMLX
+"""been""","Talagante, Chile",ET-MCMLX
+"""been""","Springfield, MO, USA",ET-MCMLX
+"""been""","Port-en-Bessin-Huppain, France",ET-MCMLX
+"""been""","Ouistreham, France",ET-MCMLX
+"""been""","Kos Town, Greece",ET-MCMLX
+"""been""","Old Greenwich, CT, USA",ET-MCMLX
+"""been""","Newport Beach, CA, USA",ET-MCMLX
+"""been""","Carter Lake, IA, USA",ET-MCMLX
+"""been""","Arlington, VA, USA",ET-MCMLX
+"""been""","Cos Cob, CT, USA",ET-MCMLX
+"""been""","Norwalk, CT, USA",ET-MCMLX
+"""been""","Tulsa, OK, USA",ET-MCMLX
+"""been""","Bath, UK",ET-MCMLX
+"""been""","Chicago, IL, USA",ET-MCMLX
+"""been""","Charlotte, NC, USA",ET-MCMLX
+"""been""","Murdo, SD, USA",ET-MCMLX
+"""been""","Nemo, SD, USA",ET-MCMLX
+"""been""","Wall, SD, USA",ET-MCMLX
+"""been""","Bulle, Switzerland",ET-MCMLX
+"""been""","Piraeus, Greece",ET-MCMLX
+"""been""","Saint-Malo, France",ET-MCMLX
+"""been""","Cannes, France",ET-MCMLX
+"""been""","Atlantic, IA, USA",ET-MCMLX
+"""been""","Athens, Greece",ET-MCMLX
+"""been""","Poitiers, France",ET-MCMLX
+"""been""","Traverse City, MI, USA",ET-MCMLX
+"""been""","Alta, WY, USA",ET-MCMLX
+"""been""","Los Angeles, CA, USA",ET-MCMLX
+"""been""","Salina, KS, USA",ET-MCMLX
+"""been""","Dallas, TX, USA",ET-MCMLX
+"""been""","Katoomba, Australia",ET-MCMLX
+"""been""","Watertown, SD, USA",ET-MCMLX
+"""been""","North Sioux City, SD, USA",ET-MCMLX
+"""been""","Samode, India",ET-MCMLX
+"""been""","Long Beach, CA, USA",ET-MCMLX
+"""been""","Oelrichs, SD, USA",ET-MCMLX
+"""been""","Bloomington, MN, USA",ET-MCMLX
+"""been""","Frankfurt, Germany",ET-MCMLX
+"""been""","Hamburg, Germany",ET-MCMLX
+"""been""","Sydney, Australia",ET-MCMLX
+"""been""","York, NE, USA",ET-MCMLX
+"""been""","Monte-Carlo, Monaco",ET-MCMLX
+"""been""","Heraklion, Greece",ET-MCMLX
+"""been""","Phoenix, AZ, USA",ET-MCMLX
+"""been""","New Haven, CT, USA",ET-MCMLX
+"""been""","Winner, SD, USA",ET-MCMLX
+"""been""","Huntington Beach, CA, USA",ET-MCMLX
+"""been""","Sacramento, CA, USA",ET-MCMLX
+"""been""","Angle Inlet, MN, USA",ET-MCMLX
+"""been""","Amana, IA, USA",ET-MCMLX
+"""been"",""fave""","Alpnachstad, Switzerland",ET-MCMLX
+"""been""","Saint Paul, MN, USA",ET-MCMLX
+"""been""","Romulus, MI, USA",ET-MCMLX
+"""been""","Menomonie, WI, USA",ET-MCMLX
+"""been""","Taichung, Taiwan",ET-MCMLX
+"""been""","Hope Town, Bahamas",ET-MCMLX
+"""been""","Hermosa, SD, USA",ET-MCMLX
+"""been""","Pine Ridge, SD, USA",ET-MCMLX
+"""been""","Yankton, SD, USA",ET-MCMLX
+"""been""","Wichita, KS, USA",ET-MCMLX
+"""been""","Long Island City, NY, USA",ET-MCMLX
+"""been""","Wounded Knee, SD, USA",ET-MCMLX
+"""been""","Marsh Harbour, Bahamas",ET-MCMLX
+"""been""","Wailea, HI, USA",ET-MCMLX
+"""been""","Black Hawk, SD, USA",ET-MCMLX
+"""been""","Pickstown, SD, USA",ET-MCMLX
+"""been""","Piedmont, SD, USA",ET-MCMLX
+"""been""","Algona, IA, USA",ET-MCMLX
+"""been""","Liberty, MO, USA",ET-MCMLX
+"""been""","Gothenburg, Sweden",ET-MCMLX
+"""been""","Nice, France",ET-MCMLX

@@ -1,0 +1,324 @@
+tag,place,user
+"""want""","Brussels, Belgium",VNahmias
+"""want""","Budapest, Hungary",VNahmias
+"""been""","Tiberias, Israel",VNahmias
+"""want""","Stockholm, Sweden",VNahmias
+"""want""","Cadiz, Spain",VNahmias
+"""want""","Colombo, Sri Lanka",VNahmias
+"""want""","Freeport, Bahamas",VNahmias
+"""been""","La Jolla, CA, USA",VNahmias
+"""want""","Nassau, Bahamas",VNahmias
+"""want""","Siesta Key, FL, USA",VNahmias
+"""want""","Lugano, Switzerland",VNahmias
+"""want""","Zermatt, Switzerland",VNahmias
+"""been""","Billings, MT, USA",VNahmias
+"""want""","Rio de Janeiro, Brazil",VNahmias
+"""want""","Fes, Morocco",VNahmias
+"""want""","Casablanca, Morocco",VNahmias
+"""been""","Reno, NV, USA",VNahmias
+"""been""","Jackson, WY, USA",VNahmias
+"""want""","Tangier, Morocco",VNahmias
+"""want""","Berlin, Germany",VNahmias
+"""been""","San Jose, Costa Rica",VNahmias
+"""been""","South Lee, MA, USA",VNahmias
+"""want""","Seville, Spain",VNahmias
+"""want""","Shenzhen, China",VNahmias
+"""want""","Zaragoza, Spain",VNahmias
+"""want""","Ljubljana, Slovenia",VNahmias
+"""want""","Singapore, Singapore",VNahmias
+"""been""","Salt Lake City, UT, USA",VNahmias
+"""been""","Port Angeles, WA, USA",VNahmias
+"""been"",""fave""","Sedona, AZ, USA",VNahmias
+"""been""","Scottsdale, AZ, USA",VNahmias
+"""want""","Oxford, UK",VNahmias
+"""been""","Niagara Falls, Ontario, Canada",VNahmias
+"""been""","Niagara-on-the-Lake, Ontario, Canada",VNahmias
+"""been""","Marina del Rey, CA, USA",VNahmias
+"""want""","Nashville, TN, USA",VNahmias
+"""want""","Amman, Jordan",VNahmias
+"""been""","Watkins Glen, NY, USA",VNahmias
+"""been""","Flushing, NY, USA",VNahmias
+"""want""","Florence, Italy",VNahmias
+"""been""","Eilat, Israel",VNahmias
+"""been""","Hyannis, MA, USA",VNahmias
+"""want""","San Juan, Puerto Rico",VNahmias
+"""want""","Petra - Wadi Musa, Jordan",VNahmias
+"""been""","Lake George, NY, USA",VNahmias
+"""want""","Lisbon, Portugal",VNahmias
+"""want""","Pisa, Italy",VNahmias
+"""been"",""want"",""fave""","Tel Aviv, Israel",VNahmias
+"""been"",""fave""","Jerusalem, Israel",VNahmias
+"""been""","Haifa, Israel",VNahmias
+"""want""","Split, Croatia",VNahmias
+"""been"",""fave""","San Miguel de Allende, Mexico",VNahmias
+"""been""","Juneau, AK, USA",VNahmias
+"""want""","Amalfi, Italy",VNahmias
+"""been""","Palm Beach, FL, USA",VNahmias
+"""been""","Newport, OR, USA",VNahmias
+"""want""","Warsaw, Poland",VNahmias
+"""want""","The Hague, The Netherlands",VNahmias
+"""want""","Naples, Italy",VNahmias
+"""been""","Taba, Egypt",VNahmias
+"""want""","Pompeii, Italy",VNahmias
+"""want""","Zadar, Croatia",VNahmias
+"""been""","Stockbridge, MA, USA",VNahmias
+"""been"",""want""","London, UK",VNahmias
+"""want""","Antwerp, Belgium",VNahmias
+"""been""","Laguna Beach, CA, USA",VNahmias
+"""been""","Half Moon Bay, CA, USA",VNahmias
+"""want""","Agra, India",VNahmias
+"""want""","Reykjavik, Iceland",VNahmias
+"""been""","North Conway, NH, USA",VNahmias
+"""want""","Andorra la Vella, Andorra",VNahmias
+"""want""","Rome, Italy",VNahmias
+"""been""","South Lake Tahoe, CA, USA",VNahmias
+"""been""","Boca Raton, FL, USA",VNahmias
+"""been""","Bend, OR, USA",VNahmias
+"""want""","Ahmedabad, India",VNahmias
+"""want""","Bucharest, Romania",VNahmias
+"""want""","Hong Kong, China",VNahmias
+"""want""","Basel, Switzerland",VNahmias
+"""want""","Zagreb, Croatia",VNahmias
+"""want""","Beijing, China",VNahmias
+"""want""","Inverness, UK",VNahmias
+"""been""","Pittsfield, MA, USA",VNahmias
+"""want""","Verona, Italy",VNahmias
+"""want""","Madrid, Spain",VNahmias
+"""want""","Sarajevo, Bosnia and Herzegovina",VNahmias
+"""want""","Helsinki, Finland",VNahmias
+"""want""","Mombasa, Kenya",VNahmias
+"""been"",""fave""","San Francisco, CA, USA",VNahmias
+"""been""","Atlantic City, NJ, USA",VNahmias
+"""want""","Bern, Switzerland",VNahmias
+"""been""","Friday Harbor, WA, USA",VNahmias
+"""want""","Sonoma, CA, USA",VNahmias
+"""been""","Oakland, CA, USA",VNahmias
+"""been""","Bryce Canyon National Park, UT, USA",VNahmias
+"""been""","Miami Beach, FL, USA",VNahmias
+"""want""","San Antonio, TX, USA",VNahmias
+"""been""","Miami, FL, USA",VNahmias
+"""want""","Shanghai, China",VNahmias
+"""want""","Austin, TX, USA",VNahmias
+"""been""","Whistler, British Columbia, Canada",VNahmias
+"""been""","Santa Fe, NM, USA",VNahmias
+"""been""","Ruidoso, NM, USA",VNahmias
+"""want""","Geneva, Switzerland",VNahmias
+"""been""","Victoria, British Columbia, Canada",VNahmias
+"""been""","Oceanside, CA, USA",VNahmias
+"""want""","Tarifa, Spain",VNahmias
+"""been"",""fave""","Vancouver, British Columbia, Canada",VNahmias
+"""been""","Coronado, CA, USA",VNahmias
+"""been""","Tofino, British Columbia, Canada",VNahmias
+"""want""","Knoxville, TN, USA",VNahmias
+"""been""","Solvang, CA, USA",VNahmias
+"""been""","Oak Bluffs, MA, USA",VNahmias
+"""been""","Big Sur, CA, USA",VNahmias
+"""been""","Flagstaff, AZ, USA",VNahmias
+"""been""","Charleston, SC, USA",VNahmias
+"""want""","Dover, UK",VNahmias
+"""been""","Buffalo, NY, USA",VNahmias
+"""been""","Moab, UT, USA",VNahmias
+"""been""","Alamogordo, NM, USA",VNahmias
+"""want""","Lucerne, Switzerland",VNahmias
+"""been""","Niagara Falls, NY, USA",VNahmias
+"""been""","Burlington, VT, USA",VNahmias
+"""been""","Lake Placid, NY, USA",VNahmias
+"""been""","Winnipeg, Manitoba, Canada",VNahmias
+"""want""","Puebla, Mexico",VNahmias
+"""want""","Ottawa, Ontario, Canada",VNahmias
+"""want""","Kennebunkport, ME, USA",VNahmias
+"""been""","Cooperstown, NY, USA",VNahmias
+"""been""","Ein Gedi, Israel",VNahmias
+"""want""","Turin, Italy",VNahmias
+"""want""","Edinburgh, UK",VNahmias
+"""been""","Caesarea, Israel",VNahmias
+"""been""","Albuquerque, NM, USA",VNahmias
+"""been""","Baltimore, MD, USA",VNahmias
+"""been""","Savannah, GA, USA",VNahmias
+"""want""","Veracruz, Mexico",VNahmias
+"""want""","Charlotte, NC, USA",VNahmias
+"""want""","Perth, Australia",VNahmias
+"""been""","Cannon Beach, OR, USA",VNahmias
+"""want""","Mexico City, Mexico",VNahmias
+"""want""","Auckland Central, New Zealand",VNahmias
+"""been""","Culver City, CA, USA",VNahmias
+"""been""","Anaheim, CA, USA",VNahmias
+"""been""","St. Helena, CA, USA",VNahmias
+"""been""","Toronto, Ontario, Canada",VNahmias
+"""want""","St. John's, Newfoundland and Labrador, Canada",VNahmias
+"""want""","La Fortuna de San Carlos, Costa Rica",VNahmias
+"""been"",""fave""","Stowe, VT, USA",VNahmias
+"""been""","Dana Point, CA, USA",VNahmias
+"""been""","Quebec City, Quebec, Canada",VNahmias
+"""been""","Montreal, Quebec, Canada",VNahmias
+"""been""","Provincetown, MA, USA",VNahmias
+"""want""","Kochi (Cochin), India",VNahmias
+"""want""","Beirut, Lebanon",VNahmias
+"""been""","Tucson, AZ, USA",VNahmias
+"""been""","Coeur d'Alene, ID, USA",VNahmias
+"""been""","Rancho Mirage, CA, USA",VNahmias
+"""been""","Providence, RI, USA",VNahmias
+"""been""","Brooklyn, NY, USA",VNahmias
+"""want""","Venice, Italy",VNahmias
+"""been""","Menlo Park, CA, USA",VNahmias
+"""want""","Strasbourg, France",VNahmias
+"""want""","Oslo, Norway",VNahmias
+"""want""","Luxembourg City, Luxembourg",VNahmias
+"""want""","Como, Italy",VNahmias
+"""been""","Carlsbad, CA, USA",VNahmias
+"""been""","Carmel, CA, USA",VNahmias
+"""been""","Charlottesville, VA, USA",VNahmias
+"""want""","Anchorage, AK, USA",VNahmias
+"""been""","Ann Arbor, MI, USA",VNahmias
+"""been""","Falmouth, MA, USA",VNahmias
+"""been"",""want"",""fave""","New York City, NY, USA",VNahmias
+"""been""","Wisconsin Dells, WI, USA",VNahmias
+"""been""","Seattle, WA, USA",VNahmias
+"""been""","Alexandria Bay, NY, USA",VNahmias
+"""been""","Montauk, NY, USA",VNahmias
+"""want""","Salzburg, Austria",VNahmias
+"""want""","Aqaba, Jordan",VNahmias
+"""been""","Riverside, CA, USA",VNahmias
+"""been""","Monterey, CA, USA",VNahmias
+"""been""","Pasadena, CA, USA",VNahmias
+"""been""","San Jose, CA, USA",VNahmias
+"""want""","Fort Worth, TX, USA",VNahmias
+"""been""","Denver, CO, USA",VNahmias
+"""been""","San Luis Obispo, CA, USA",VNahmias
+"""want""","Jaipur, India",VNahmias
+"""been""","St. George, UT, USA",VNahmias
+"""been""","St. Augustine, FL, USA",VNahmias
+"""want""","Chennai (Madras), India",VNahmias
+"""want""","Quito, Ecuador",VNahmias
+"""want""","Milan, Italy",VNahmias
+"""want""","Sydney, Australia",VNahmias
+"""been""","Portsmouth, NH, USA",VNahmias
+"""want""","Santiago, Chile",VNahmias
+"""been""","Cambridge, MA, USA",VNahmias
+"""been""","Milwaukee, WI, USA",VNahmias
+"""been""","Edgartown, MA, USA",VNahmias
+"""want""","Brisbane, Australia",VNahmias
+"""been""","Richmond, VA, USA",VNahmias
+"""want""","Ushuaia, Argentina",VNahmias
+"""been""","Atlanta, GA, USA",VNahmias
+"""want""","Willemstad, Curacao",VNahmias
+"""want""","Buenos Aires, Argentina",VNahmias
+"""been""","Ventura, CA, USA",VNahmias
+"""been""","Edmonton, Alberta, Canada",VNahmias
+"""been""","Guanajuato, Mexico",VNahmias
+"""been""","Palm Desert, CA, USA",VNahmias
+"""been""","Palm Springs, CA, USA",VNahmias
+"""want""","Lake Louise, Alberta, Canada",VNahmias
+"""want""","Calgary, Alberta, Canada",VNahmias
+"""want""","Thessaloniki, Greece",VNahmias
+"""been""","West Hollywood, CA, USA",VNahmias
+"""want""","Banff, Alberta, Canada",VNahmias
+"""want""","Pittsburgh, PA, USA",VNahmias
+"""want""","Vienna, Austria",VNahmias
+"""want""","Dublin, Ireland",VNahmias
+"""want""","Monastir, Tunisia",VNahmias
+"""been""","Beverly Hills, CA, USA",VNahmias
+"""want""","Lima, Peru",VNahmias
+"""want""","Machu Picchu, Peru",VNahmias
+"""want""","Honolulu, HI, USA",VNahmias
+"""want""","Barcelona, Spain",VNahmias
+"""want""","Cusco, Peru",VNahmias
+"""been""","New Orleans, LA, USA",VNahmias
+"""want""","Cork, Ireland",VNahmias
+"""want""","Lausanne, Switzerland",VNahmias
+"""been""","Huntington Beach, CA, USA",VNahmias
+"""been""","Amsterdam, The Netherlands",VNahmias
+"""been""","Mystic, CT, USA",VNahmias
+"""been""","Newport, RI, USA",VNahmias
+"""been""","Sacramento, CA, USA",VNahmias
+"""want""","Mykonos Town, Greece",VNahmias
+"""been""","Madison, WI, USA",VNahmias
+"""want""","Lyon, France",VNahmias
+"""been""","North Vancouver, British Columbia, Canada",VNahmias
+"""been""","Richmond, British Columbia, Canada",VNahmias
+"""been""","Santa Barbara, CA, USA",VNahmias
+"""been""","Santa Cruz, CA, USA",VNahmias
+"""want""","Portofino, Italy",VNahmias
+"""been""","Paris, France",VNahmias
+"""want""","Cairo, Egypt",VNahmias
+"""want""","Montevideo, Uruguay",VNahmias
+"""want""","Giza, Egypt",VNahmias
+"""want""","Zurich, Switzerland",VNahmias
+"""been""","San Diego, CA, USA",VNahmias
+"""want""","Killarney, Ireland",VNahmias
+"""want""","Izmir, Turkey",VNahmias
+"""been""","San Simeon, CA, USA",VNahmias
+"""been""","Boston, MA, USA",VNahmias
+"""been""","Williamsburg, VA, USA",VNahmias
+"""been""","Morro Bay, CA, USA",VNahmias
+"""want""","Marne-la-Vallee, France",VNahmias
+"""want""","Kelowna, British Columbia, Canada",VNahmias
+"""been""","Berkeley, CA, USA",VNahmias
+"""been""","Durango, CO, USA",VNahmias
+"""been""","Las Vegas, NV, USA",VNahmias
+"""been""","Hershey, PA, USA",VNahmias
+"""been""","Sausalito, CA, USA",VNahmias
+"""want""","Riga, Latvia",VNahmias
+"""want""","Puerto Iguazu, Argentina",VNahmias
+"""want""","Taos, NM, USA",VNahmias
+"""been""","West Yarmouth, MA, USA",VNahmias
+"""want""","Nice, France",VNahmias
+"""been""","Laughlin, NV, USA",VNahmias
+"""want""","Victoria Falls, Zimbabwe",VNahmias
+"""been"",""fave""","Los Angeles, CA, USA",VNahmias
+"""been""","Portland, OR, USA",VNahmias
+"""been""","Chicago, IL, USA",VNahmias
+"""want""","Saint-Tropez, France",VNahmias
+"""been""","Portland, ME, USA",VNahmias
+"""been""","Pismo Beach, CA, USA",VNahmias
+"""want""","Tallinn, Estonia",VNahmias
+"""been""","Santa Monica, CA, USA",VNahmias
+"""want""","Toledo, Spain",VNahmias
+"""been""","Phoenix, AZ, USA",VNahmias
+"""want""","Cologne, Germany",VNahmias
+"""been""","Napa, CA, USA",VNahmias
+"""been""","Indio, CA, USA",VNahmias
+"""want""","Marseille, France",VNahmias
+"""been""","Long Beach, CA, USA",VNahmias
+"""been""","Avalon, CA, USA",VNahmias
+"""want""","Salamanca, Spain",VNahmias
+"""been""","Eugene, OR, USA",VNahmias
+"""been""","Santa Rosa, CA, USA",VNahmias
+"""been""","Alexandria, VA, USA",VNahmias
+"""been""","Fort Bragg, CA, USA",VNahmias
+"""want""","Minneapolis, MN, USA",VNahmias
+"""want""","Prague, Czech Republic",VNahmias
+"""want""","Aberdeen, UK",VNahmias
+"""want""","Ghent, Belgium",VNahmias
+"""want""","Xi'an, China",VNahmias
+"""want""","Bilbao, Spain",VNahmias
+"""want""","Seoul, South Korea",VNahmias
+"""want""","Frankfurt, Germany",VNahmias
+"""want""","Guangzhou, China",VNahmias
+"""been""","Bellevue, WA, USA",VNahmias
+"""been""","Malibu, CA, USA",VNahmias
+"""want""","Kobe, Japan",VNahmias
+"""want""","Memphis, TN, USA",VNahmias
+"""want""","Cannes, France",VNahmias
+"""want""","Rhodes Town, Greece",VNahmias
+"""want""","Bruges, Belgium",VNahmias
+"""been""","Annapolis, MD, USA",VNahmias
+"""want""","Bergen, Norway",VNahmias
+"""been""","West Palm Beach, FL, USA",VNahmias
+"""been""","Mesquite, NV, USA",VNahmias
+"""want""","Ronda, Spain",VNahmias
+"""want""","Assisi, Italy",VNahmias
+"""been""","Philadelphia, PA, USA",VNahmias
+"""want""","Athens, Greece",VNahmias
+"""been""","Chatham, MA, USA",VNahmias
+"""been""","Gettysburg, PA, USA",VNahmias
+"""been""","Joshua Tree, CA, USA",VNahmias
+"""been""","Arlington, VA, USA",VNahmias
+"""been""","Washington DC, DC, USA",VNahmias
+"""been""","Gilroy, CA, USA",VNahmias
+"""been""","Tijuana, Mexico",VNahmias
+"""been""","Lincoln, NH, USA",VNahmias
+"""want""","Las Palmas de Gran Canaria, Spain",VNahmias
+"""been""","Garden Grove, CA, USA",VNahmias
+"""want""","Livigno, Italy",VNahmias
+"""been""","Ensenada, Mexico",VNahmias

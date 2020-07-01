@@ -1,0 +1,655 @@
+tag,place,user
+"""been""","Rincon de La Vieja, Costa Rica",PickyBaer
+"""been""","Key West, FL, USA",PickyBaer
+"""been""","Lahaina, HI, USA",PickyBaer
+"""been""","Key Largo, FL, USA",PickyBaer
+"""been""","Skagway, AK, USA",PickyBaer
+"""been""","San Clemente, CA, USA",PickyBaer
+"""been""","Road Town, British Virgin Islands",PickyBaer
+"""been""","Seattle, WA, USA",PickyBaer
+"""been""","Big Sur, CA, USA",PickyBaer
+"""want""","Williamsburg, VA, USA",PickyBaer
+"""been""","Walla Walla, WA, USA",PickyBaer
+"""been""","San Diego, CA, USA",PickyBaer
+"""been""","Provo, UT, USA",PickyBaer
+"""been""","Kailua-Kona, HI, USA",PickyBaer
+"""been""","Deer Harbor, WA, USA",PickyBaer
+"""been""","Cincinnati, OH, USA",PickyBaer
+"""been""","Capitola, CA, USA",PickyBaer
+"""been""","Grand Case, St Martin \u002F St Maarten",PickyBaer
+"""been""","Dubuque, IA, USA",PickyBaer
+"""been""","Islamorada, FL, USA",PickyBaer
+"""been""","Simpson Bay, St Martin \u002F St Maarten",PickyBaer
+"""been""","City of San Marino, San Marino",PickyBaer
+"""been""","Margarita Island, Venezuela",PickyBaer
+"""want""","Seoul, South Korea",PickyBaer
+"""been""","Geneva, NY, USA",PickyBaer
+"""been""","Carmel Valley, CA, USA",PickyBaer
+"""been""","Kissimmee, FL, USA",PickyBaer
+"""been""","San Jose, CA, USA",PickyBaer
+"""been""","Leavenworth, WA, USA",PickyBaer
+"""been""","Carlsbad, CA, USA",PickyBaer
+"""been""","St. Lawrence Gap, Barbados",PickyBaer
+"""been""","Carmel, CA, USA",PickyBaer
+"""been""","Desert Hot Springs, CA, USA",PickyBaer
+"""been""","Sunnyvale, CA, USA",PickyBaer
+"""been""","Rosarito, Mexico",PickyBaer
+"""been""","Denver, CO, USA",PickyBaer
+"""been""","New Orleans, LA, USA",PickyBaer
+"""been""","St. John's, Antigua and Barbuda",PickyBaer
+"""been""","La Conner, WA, USA",PickyBaer
+"""been""","Tijuana, Mexico",PickyBaer
+"""been""","Houston, TX, USA",PickyBaer
+"""been""","George Town, Cayman Islands",PickyBaer
+"""been""","Boston, MA, USA",PickyBaer
+"""been""","Carpinteria, CA, USA",PickyBaer
+"""been""","Peoria, IL, USA",PickyBaer
+"""been""","English Harbour, Antigua and Barbuda",PickyBaer
+"""been""","Cape Coral, FL, USA",PickyBaer
+"""been""","Honolulu, HI, USA",PickyBaer
+"""been""","Cape Canaveral, FL, USA",PickyBaer
+"""been""","San Luis Obispo, CA, USA",PickyBaer
+"""been""","Asheville, NC, USA",PickyBaer
+"""been""","Ensenada, Mexico",PickyBaer
+"""want""","Saint Julian's, Malta",PickyBaer
+"""been""","Joseph, OR, USA",PickyBaer
+"""want""","Kyoto, Japan",PickyBaer
+"""been""","Aruba, Caribbean",PickyBaer
+"""been""","San Mateo, CA, USA",PickyBaer
+"""been""","Lanai City, HI, USA",PickyBaer
+"""been""","Oranjestad, Aruba",PickyBaer
+"""been""","Olympia, WA, USA",PickyBaer
+"""been""","Buffalo, NY, USA",PickyBaer
+"""been""","Sainte-Anne, Martinique",PickyBaer
+"""been""","Calistoga, CA, USA",PickyBaer
+"""been""","Tacoma, WA, USA",PickyBaer
+"""been""","Fish Camp, CA, USA",PickyBaer
+"""been""","Des Moines, IA, USA",PickyBaer
+"""been""","Hot Springs, AR, USA",PickyBaer
+"""been""","Cambria, CA, USA",PickyBaer
+"""been""","Kennewick, WA, USA",PickyBaer
+"""been""","South San Francisco, CA, USA",PickyBaer
+"""been""","Flagstaff, AZ, USA",PickyBaer
+"""been""","Tenino, WA, USA",PickyBaer
+"""been""","Walnut Creek, CA, USA",PickyBaer
+"""been""","Camarillo, CA, USA",PickyBaer
+"""been""","Coeur d'Alene, ID, USA",PickyBaer
+"""been""","Amesbury, UK",PickyBaer
+"""been""","Bolans, Antigua and Barbuda",PickyBaer
+"""been""","Pigeon Forge, TN, USA",PickyBaer
+"""been""","Culver City, CA, USA",PickyBaer
+"""been""","Como, Italy",PickyBaer
+"""been""","Pompano Beach, FL, USA",PickyBaer
+"""been""","Kirkland, WA, USA",PickyBaer
+"""been""","Madison, WI, USA",PickyBaer
+"""been""","Gatlinburg, TN, USA",PickyBaer
+"""been""","St. Lucia, Caribbean",PickyBaer
+"""been""","Salinas, CA, USA",PickyBaer
+"""been""","Hubertus, WI, USA",PickyBaer
+"""been""","Colorado Springs, CO, USA",PickyBaer
+"""been""","Gros Islet, St. Lucia",PickyBaer
+"""been""","St. Helena, CA, USA",PickyBaer
+"""been""","Moab, UT, USA",PickyBaer
+"""been""","Everglades City, FL, USA",PickyBaer
+"""been""","Castries, St. Lucia",PickyBaer
+"""been""","Ocean Shores, WA, USA",PickyBaer
+"""been""","Knoxville, TN, USA",PickyBaer
+"""been""","St. Jean, St. Barthelemy",PickyBaer
+"""want""","Protaras, Cyprus",PickyBaer
+"""been""","Bakersfield, CA, USA",PickyBaer
+"""been""","Dana Point, CA, USA",PickyBaer
+"""been""","Hood River, OR, USA",PickyBaer
+"""been""","Hillsboro, OR, USA",PickyBaer
+"""been""","San Bernardino, CA, USA",PickyBaer
+"""been""","Chandler, AZ, USA",PickyBaer
+"""been""","Milan, Italy",PickyBaer
+"""been""","San Bruno, CA, USA",PickyBaer
+"""been""","Davis, CA, USA",PickyBaer
+"""been""","West Hollywood, CA, USA",PickyBaer
+"""want""","Alexandria, Egypt",PickyBaer
+"""been""","Stockton, CA, USA",PickyBaer
+"""been""","Soufriere, St. Lucia",PickyBaer
+"""been""","Marigot, St Martin \u002F St Maarten",PickyBaer
+"""been""","Bismarck, ND, USA",PickyBaer
+"""been""","Philipsburg, St Martin \u002F St Maarten",PickyBaer
+"""been""","Chalais, France",PickyBaer
+"""been""","Vallejo, CA, USA",PickyBaer
+"""been""","Buena Park, CA, USA",PickyBaer
+"""been""","Panama City Beach, FL, USA",PickyBaer
+"""been""","Unalaska, AK, USA",PickyBaer
+"""been""","Burbank, CA, USA",PickyBaer
+"""been""","Eau Claire, WI, USA",PickyBaer
+"""been""","Panama City, FL, USA",PickyBaer
+"""been""","The Dalles, OR, USA",PickyBaer
+"""been""","Red Deer, Alberta, Canada",PickyBaer
+"""been""","Jackson, TN, USA",PickyBaer
+"""been""","Willemstad, Curacao",PickyBaer
+"""been""","Eureka, CA, USA",PickyBaer
+"""been""","San Francisco, CA, USA",PickyBaer
+"""been""","Page, AZ, USA",PickyBaer
+"""been""","Kodiak Island, AK, USA",PickyBaer
+"""been""","Scarborough, Trinidad and Tobago",PickyBaer
+"""want""","Havana, Cuba",PickyBaer
+"""been""","Burlingame, CA, USA",PickyBaer
+"""been""","Tucson, AZ, USA",PickyBaer
+"""been""","Fairfield, CA, USA",PickyBaer
+"""been""","Johnson City, TN, USA",PickyBaer
+"""been""","Spokane, WA, USA",PickyBaer
+"""been""","Dover, Barbados",PickyBaer
+"""been""","Jasper, Alberta, Canada",PickyBaer
+"""been""","Coronado, CA, USA",PickyBaer
+"""been""","Canon City, CO, USA",PickyBaer
+"""been""","San Antonio, TX, USA",PickyBaer
+"""been""","Pensacola, FL, USA",PickyBaer
+"""been""","Friday Harbor, WA, USA",PickyBaer
+"""been""","Santa Fe, NM, USA",PickyBaer
+"""been""","Sunriver, OR, USA",PickyBaer
+"""been""","Honaunau, HI, USA",PickyBaer
+"""been""","Vancouver, WA, USA",PickyBaer
+"""been""","Austin, TX, USA",PickyBaer
+"""want""","Melbourne, FL, USA",PickyBaer
+"""been""","Nanaimo, British Columbia, Canada",PickyBaer
+"""been""","Solana Beach, CA, USA",PickyBaer
+"""been""","Costa Mesa, CA, USA",PickyBaer
+"""been""","Tampa, FL, USA",PickyBaer
+"""want""","Moscow, Russia",PickyBaer
+"""been""","Solvang, CA, USA",PickyBaer
+"""want""","Ibiza Town, Spain",PickyBaer
+"""been""","Aomori, Japan",PickyBaer
+"""been""","Sonora, CA, USA",PickyBaer
+"""been""","Miami Beach, FL, USA",PickyBaer
+"""been""","Sonoma, CA, USA",PickyBaer
+"""been""","Miami, FL, USA",PickyBaer
+"""want""","Taipei, Taiwan",PickyBaer
+"""been""","Visalia, CA, USA",PickyBaer
+"""been""","Tavernier, FL, USA",PickyBaer
+"""been""","Providence, RI, USA",PickyBaer
+"""been""","Tillamook, OR, USA",PickyBaer
+"""been""","Tarpon Springs, FL, USA",PickyBaer
+"""been""","Bisbee, AZ, USA",PickyBaer
+"""been""","Brooklyn, NY, USA",PickyBaer
+"""been""","La Quinta, CA, USA",PickyBaer
+"""been""","Sisters, OR, USA",PickyBaer
+"""been""","St. Kitts, St. Kitts and Nevis",PickyBaer
+"""been""","SeaTac, WA, USA",PickyBaer
+"""been""","El Portal, CA, USA",PickyBaer
+"""been""","Amarillo, TX, USA",PickyBaer
+"""been""","El Segundo, CA, USA",PickyBaer
+"""want""","Albuquerque, NM, USA",PickyBaer
+"""been""","Laguna Beach, CA, USA",PickyBaer
+"""want""","Kuala Lumpur, Malaysia",PickyBaer
+"""been""","Anaheim, CA, USA",PickyBaer
+"""been""","Guerneville, CA, USA",PickyBaer
+"""been""","Vail, CO, USA",PickyBaer
+"""been""","Tempe, AZ, USA",PickyBaer
+"""been""","Sequim, WA, USA",PickyBaer
+"""been""","Nashville, TN, USA",PickyBaer
+"""been""","Half Moon Bay, CA, USA",PickyBaer
+"""been""","Kingman, AZ, USA",PickyBaer
+"""been""","Lansing, MI, USA",PickyBaer
+"""been""","Charlestown, St. Kitts and Nevis",PickyBaer
+"""been""","Lake Louise, Alberta, Canada",PickyBaer
+"""been""","Port Angeles, WA, USA",PickyBaer
+"""been""","Lake Havasu City, AZ, USA",PickyBaer
+"""been""","Emeryville, CA, USA",PickyBaer
+"""been""","Banff, Alberta, Canada",PickyBaer
+"""been""","Twin Falls, ID, USA",PickyBaer
+"""been""","Salt Lake City, UT, USA",PickyBaer
+"""been""","Hawthorne, CA, USA",PickyBaer
+"""been""","Golden, CO, USA",PickyBaer
+"""been""","Escondido, CA, USA",PickyBaer
+"""been""","Ukiah, CA, USA",PickyBaer
+"""been""","Encinitas, CA, USA",PickyBaer
+"""been""","Edmonton, Alberta, Canada",PickyBaer
+"""been""","Boulder, CO, USA",PickyBaer
+"""been""","Bridgetown, Barbados",PickyBaer
+"""been""","Bequia, St. Vincent and the Grenadines",PickyBaer
+"""been""","Breckenridge, CO, USA",PickyBaer
+"""been""","East Lansing, MI, USA",PickyBaer
+"""been""","Coral Bay, U.S. Virgin Islands",PickyBaer
+"""been""","Astoria, OR, USA",PickyBaer
+"""been""","Grand Junction, CO, USA",PickyBaer
+"""been""","Ketchikan, AK, USA",PickyBaer
+"""been""","Healdsburg, CA, USA",PickyBaer
+"""been""","Kralendijk, Bonaire",PickyBaer
+"""been""","Naalehu, HI, USA",PickyBaer
+"""been""","Hakodate, Japan",PickyBaer
+"""want""","Marmaris, Turkey",PickyBaer
+"""been""","Brentwood, TN, USA",PickyBaer
+"""been""","Billings, MT, USA",PickyBaer
+"""been""","Bandon, OR, USA",PickyBaer
+"""want""","Perth, UK",PickyBaer
+"""been""","Mobile, AL, USA",PickyBaer
+"""been""","Garibaldi, OR, USA",PickyBaer
+"""been""","Florence, Italy",PickyBaer
+"""been""","Cortona, Italy",PickyBaer
+"""been""","Newport, OR, USA",PickyBaer
+"""been""","Newberg, OR, USA",PickyBaer
+"""been""","Narita, Japan",PickyBaer
+"""been""","Kigali, Rwanda",PickyBaer
+"""been""","Bozeman, MT, USA",PickyBaer
+"""been""","Amalfi, Italy",PickyBaer
+"""been""","Hilo, HI, USA",PickyBaer
+"""been""","Holualoa, HI, USA",PickyBaer
+"""been""","Washington DC, DC, USA",PickyBaer
+"""been""","Mamora Bay, Antigua and Barbuda",PickyBaer
+"""been""","Rotterdam, The Netherlands",PickyBaer
+"""been""","Beaverton, OR, USA",PickyBaer
+"""been""","Gold Beach, OR, USA",PickyBaer
+"""been""","Bend, OR, USA",PickyBaer
+"""been""","Frigate Bay, St. Kitts and Nevis",PickyBaer
+"""been""","London, UK",PickyBaer
+"""want""","Dakar, Senegal",PickyBaer
+"""been""","Orient Bay, St Martin \u002F St Maarten",PickyBaer
+"""been""","Big Pine Key, FL, USA",PickyBaer
+"""been""","Victoria, British Columbia, Canada",PickyBaer
+"""been""","Dania Beach, FL, USA",PickyBaer
+"""been""","Vancouver, British Columbia, Canada",PickyBaer
+"""been""","Safi, Morocco",PickyBaer
+"""been""","Tustin, CA, USA",PickyBaer
+"""been""","St. George's, Grenada",PickyBaer
+"""been""","Whistler, British Columbia, Canada",PickyBaer
+"""been""","Grenada, Caribbean",PickyBaer
+"""want""","Rome, Italy",PickyBaer
+"""been""","Pensacola Beach, FL, USA",PickyBaer
+"""been""","Brussels, Belgium",PickyBaer
+"""want""","Stockholm, Sweden",PickyBaer
+"""been""","Cadiz, Spain",PickyBaer
+"""been"",""want""","Reykjavik, Iceland",PickyBaer
+"""been""","Camas, WA, USA",PickyBaer
+"""been""","Hollywood, FL, USA",PickyBaer
+"""want""","Malaga, Spain",PickyBaer
+"""been""","South Lake Tahoe, CA, USA",PickyBaer
+"""want""","Ho Chi Minh City, Vietnam",PickyBaer
+"""want""","Taunton, UK",PickyBaer
+"""been""","Great Falls, MT, USA",PickyBaer
+"""been""","Vieux Fort, St. Lucia",PickyBaer
+"""been""","Bronx, NY, USA",PickyBaer
+"""been""","Florence, OR, USA",PickyBaer
+"""been""","Seville, Spain",PickyBaer
+"""been""","Eugene, OR, USA",PickyBaer
+"""been""","Torremolinos, Spain",PickyBaer
+"""been""","Chester, UK",PickyBaer
+"""been""","Granada, Spain",PickyBaer
+"""been""","Boise, ID, USA",PickyBaer
+"""been""","Norcross, GA, USA",PickyBaer
+"""been""","Estacada, OR, USA",PickyBaer
+"""been""","Holetown, Barbados",PickyBaer
+"""been""","Wollongong, Australia",PickyBaer
+"""want""","Melbourne, Australia",PickyBaer
+"""been""","Forks, WA, USA",PickyBaer
+"""been""","Santa Ynez, CA, USA",PickyBaer
+"""been""","Cocoa Beach, FL, USA",PickyBaer
+"""been""","Santa Rosa, CA, USA",PickyBaer
+"""been""","Philadelphia, PA, USA",PickyBaer
+"""been""","Mammoth Lakes, CA, USA",PickyBaer
+"""been""","Depoe Bay, OR, USA",PickyBaer
+"""been""","Stateline, NV, USA",PickyBaer
+"""been""","West Yellowstone, MT, USA",PickyBaer
+"""want""","Haifa, Israel",PickyBaer
+"""been""","Radium Hot Springs, British Columbia, Canada",PickyBaer
+"""been""","Missoula, MT, USA",PickyBaer
+"""been""","Torrance, CA, USA",PickyBaer
+"""been""","Dar es Salaam, Tanzania",PickyBaer
+"""been""","Auckland Central, New Zealand",PickyBaer
+"""been""","Bodega Bay, CA, USA",PickyBaer
+"""want""","Amman, Jordan",PickyBaer
+"""been""","Coral Springs, FL, USA",PickyBaer
+"""want""","Perth, Australia",PickyBaer
+"""been""","Coral Gables, FL, USA",PickyBaer
+"""want""","Turin, Italy",PickyBaer
+"""want""","Tel Aviv, Israel",PickyBaer
+"""been""","Sausalito, CA, USA",PickyBaer
+"""been""","Everett, WA, USA",PickyBaer
+"""been""","Death Valley Junction, CA, USA",PickyBaer
+"""been""","Seaside, CA, USA",PickyBaer
+"""been""","Longboat Key, FL, USA",PickyBaer
+"""been""","Seal Beach, CA, USA",PickyBaer
+"""been"",""want""","Louisville, KY, USA",PickyBaer
+"""been""","Bellevue, WA, USA",PickyBaer
+"""been""","Idaho Falls, ID, USA",PickyBaer
+"""been""","West Des Moines, IA, USA",PickyBaer
+"""been""","Saratoga Springs, NY, USA",PickyBaer
+"""been""","Winnemucca, NV, USA",PickyBaer
+"""been""","Serengeti National Park, Tanzania",PickyBaer
+"""want""","Mecca, Saudi Arabia",PickyBaer
+"""been""","Karon, Thailand",PickyBaer
+"""want""","Phuket Town, Thailand",PickyBaer
+"""been""","Medford, OR, USA",PickyBaer
+"""want""","Taos, NM, USA",PickyBaer
+"""been""","McMinnville, OR, USA",PickyBaer
+"""been""","Christchurch, New Zealand",PickyBaer
+"""been""","Bellingham, WA, USA",PickyBaer
+"""been""","Truckee, CA, USA",PickyBaer
+"""been""","Sioux City, IA, USA",PickyBaer
+"""been""","Santa Cruz, Portugal",PickyBaer
+"""want""","Padua, Italy",PickyBaer
+"""been""","Cayucos, CA, USA",PickyBaer
+"""been""","Queenstown, New Zealand",PickyBaer
+"""been""","Tahoe Vista, CA, USA",PickyBaer
+"""been""","Atlanta, GA, USA",PickyBaer
+"""been""","Lynnwood, WA, USA",PickyBaer
+"""been""","Tahoe City, CA, USA",PickyBaer
+"""been""","Cathedral City, CA, USA",PickyBaer
+"""been""","Schaumburg, IL, USA",PickyBaer
+"""been""","North Miami Beach, FL, USA",PickyBaer
+"""been""","Berkeley, CA, USA",PickyBaer
+"""been""","Richmond, VA, USA",PickyBaer
+"""been""","San Simeon, CA, USA",PickyBaer
+"""been""","Algiers, Algeria",PickyBaer
+"""been""","Celebration, FL, USA",PickyBaer
+"""been""","San Rafael, CA, USA",PickyBaer
+"""been""","North Redington Beach, FL, USA",PickyBaer
+"""been""","Corvallis, OR, USA",PickyBaer
+"""been""","Lake Oswego, OR, USA",PickyBaer
+"""been""","Corbett, OR, USA",PickyBaer
+"""been""","Coos Bay, OR, USA",PickyBaer
+"""been""","Klamath Falls, OR, USA",PickyBaer
+"""been""","Gibraltar, Europe",PickyBaer
+"""been""","Venice, Italy",PickyBaer
+"""been""","Beverly Hills, CA, USA",PickyBaer
+"""been""","St Martin, UK",PickyBaer
+"""been""","Santa Ana, CA, USA",PickyBaer
+"""been""","Madrid, Spain",PickyBaer
+"""been""","Bainbridge Island, WA, USA",PickyBaer
+"""been""","Memphis, TN, USA",PickyBaer
+"""want""","Helsinki, Finland",PickyBaer
+"""been""","Santa Clarita, CA, USA",PickyBaer
+"""been""","Franklin, TN, USA",PickyBaer
+"""been""","Santa Clara, CA, USA",PickyBaer
+"""been""","Little Rock, AR, USA",PickyBaer
+"""been""","Springfield, IL, USA",PickyBaer
+"""been""","Santa Barbara, CA, USA",PickyBaer
+"""been""","Long Beach, WA, USA",PickyBaer
+"""been""","Temecula, CA, USA",PickyBaer
+"""been""","El Paso, TX, USA",PickyBaer
+"""been""","Eastsound, WA, USA",PickyBaer
+"""want""","Tokyo, Japan",PickyBaer
+"""been""","St. George, UT, USA",PickyBaer
+"""been""","New York City, NY, USA",PickyBaer
+"""been""","Santa Cruz, CA, USA",PickyBaer
+"""been""","Kapalua, HI, USA",PickyBaer
+"""been""","Boulder City, NV, USA",PickyBaer
+"""want""","Timbuktu, Mali",PickyBaer
+"""been""","Lincoln City, OR, USA",PickyBaer
+"""been""","Christchurch, UK",PickyBaer
+"""been""","Isle of Man, UK",PickyBaer
+"""been""","Rabat, Morocco",PickyBaer
+"""been""","Valencia, Spain",PickyBaer
+"""been""","Marrakech, Morocco",PickyBaer
+"""been""","Ventura, CA, USA",PickyBaer
+"""been""","Casablanca, Morocco",PickyBaer
+"""want""","Istanbul, Turkey",PickyBaer
+"""been""","Santa Monica, CA, USA",PickyBaer
+"""been""","Bishop, CA, USA",PickyBaer
+"""been""","Santa Maria, CA, USA",PickyBaer
+"""been""","Pacifica, CA, USA",PickyBaer
+"""been""","Pacific Grove, CA, USA",PickyBaer
+"""been""","Ann Arbor, MI, USA",PickyBaer
+"""been""","Modesto, CA, USA",PickyBaer
+"""been""","Palm Desert, CA, USA",PickyBaer
+"""been""","Palo Alto, CA, USA",PickyBaer
+"""been""","Palm Springs, CA, USA",PickyBaer
+"""been""","Bloomington, MN, USA",PickyBaer
+"""been""","Barcelona, Spain",PickyBaer
+"""been""","Albany, NY, USA",PickyBaer
+"""been""","Dallas, TX, USA",PickyBaer
+"""been""","Riverside, CA, USA",PickyBaer
+"""been""","Amsterdam, The Netherlands",PickyBaer
+"""been""","Monterey, CA, USA",PickyBaer
+"""been""","Lee Vining, CA, USA",PickyBaer
+"""been""","Pasadena, CA, USA",PickyBaer
+"""been""","Paris, France",PickyBaer
+"""been""","Arusha, Tanzania",PickyBaer
+"""want""","Zurich, Switzerland",PickyBaer
+"""been"",""fave""","Jolly Harbour, Antigua and Barbuda",PickyBaer
+"""been""","Rancho Palos Verdes, CA, USA",PickyBaer
+"""been""","Ontario, CA, USA",PickyBaer
+"""want""","Montpellier, France",PickyBaer
+"""want""","Salzburg, Austria",PickyBaer
+"""been""","Rancho Mirage, CA, USA",PickyBaer
+"""been""","Mendocino, CA, USA",PickyBaer
+"""been""","Olympic Valley, CA, USA",PickyBaer
+"""been""","Augusta, GA, USA",PickyBaer
+"""been""","Merced, CA, USA",PickyBaer
+"""been""","Innsbruck, Austria",PickyBaer
+"""been""","Menlo Park, CA, USA",PickyBaer
+"""been""","Orange, CA, USA",PickyBaer
+"""want""","Victoria Falls, Zimbabwe",PickyBaer
+"""been""","Tulsa, OK, USA",PickyBaer
+"""been""","Jackson, MS, USA",PickyBaer
+"""been""","Provincetown, MA, USA",PickyBaer
+"""been""","Kodiak, AK, USA",PickyBaer
+"""been""","Redding, CA, USA",PickyBaer
+"""been""","Redwood City, CA, USA",PickyBaer
+"""been""","Redondo Beach, CA, USA",PickyBaer
+"""want""","Vienna, Austria",PickyBaer
+"""been""","Milpitas, CA, USA",PickyBaer
+"""been""","Millbrae, CA, USA",PickyBaer
+"""been""","Oxnard, CA, USA",PickyBaer
+"""been""","Bujumbura, Burundi",PickyBaer
+"""want""","Kathmandu, Nepal",PickyBaer
+"""been""","Arrowtown, New Zealand",PickyBaer
+"""been""","Traverse City, MI, USA",PickyBaer
+"""been""","San Jose, Costa Rica",PickyBaer
+"""been""","Alice Springs, Australia",PickyBaer
+"""been""","Dutch Harbor, AK, USA",PickyBaer
+"""been""","Sydney, Australia",PickyBaer
+"""want""","Kolkata (Calcutta), India",PickyBaer
+"""been""","Sheboygan, WI, USA",PickyBaer
+"""want""","Darjeeling, India",PickyBaer
+"""been""","Oakhurst, CA, USA",PickyBaer
+"""want""","Mumbai, India",PickyBaer
+"""been""","Frankfurt, Germany",PickyBaer
+"""been""","Columbus, OH, USA",PickyBaer
+"""been""","Bilbao, Spain",PickyBaer
+"""been""","Hattiesburg, MS, USA",PickyBaer
+"""been""","Shreveport, LA, USA",PickyBaer
+"""been""","Cannon Beach, OR, USA",PickyBaer
+"""want""","Lima, Peru",PickyBaer
+"""want""","Cairns, Australia",PickyBaer
+"""been""","Bath, UK",PickyBaer
+"""been""","Miyako, Japan",PickyBaer
+"""been""","Oakland, CA, USA",PickyBaer
+"""been""","Lake Geneva, WI, USA",PickyBaer
+"""been""","Chattanooga, TN, USA",PickyBaer
+"""been""","Ojai, CA, USA",PickyBaer
+"""been""","Balboa Island, CA, USA",PickyBaer
+"""been""","Cap Estate, St. Lucia",PickyBaer
+"""been""","Oceanside, CA, USA",PickyBaer
+"""been""","Marietta, GA, USA",PickyBaer
+"""been""","Ostend, Belgium",PickyBaer
+"""been""","Jeddah, Saudi Arabia",PickyBaer
+"""want""","Cannes, France",PickyBaer
+"""been""","Metairie, LA, USA",PickyBaer
+"""been""","Oklahoma City, OK, USA",PickyBaer
+"""want""","Luxor, Egypt",PickyBaer
+"""been""","Joliet, IL, USA",PickyBaer
+"""want""","Las Palmas de Gran Canaria, Spain",PickyBaer
+"""been""","Pleasanton, CA, USA",PickyBaer
+"""been""","Jackson, WY, USA",PickyBaer
+"""been""","Wausau, WI, USA",PickyBaer
+"""been""","Point Reyes Station, CA, USA",PickyBaer
+"""been""","Tenerife, Spain",PickyBaer
+"""been""","North Little Rock, AR, USA",PickyBaer
+"""been""","Ogden, UT, USA",PickyBaer
+"""want""","Nice, France",PickyBaer
+"""been""","Wailea, HI, USA",PickyBaer
+"""been""","Bridal Veil, OR, USA",PickyBaer
+"""been""","Gresham, OR, USA",PickyBaer
+"""been""","Grants Pass, OR, USA",PickyBaer
+"""been""","Sturbridge, MA, USA",PickyBaer
+"""been""","Park City, UT, USA",PickyBaer
+"""been""","Santa Cruz de Tenerife, Spain",PickyBaer
+"""want""","San Cristobal de La Laguna, Spain",PickyBaer
+"""been""","Norman, OK, USA",PickyBaer
+"""want""","Monte-Carlo, Monaco",PickyBaer
+"""want""","Saint-Tropez, France",PickyBaer
+"""want""","Copenhagen, Denmark",PickyBaer
+"""been""","Ashland, OR, USA",PickyBaer
+"""been""","Herradura, Costa Rica",PickyBaer
+"""been""","Brookings, OR, USA",PickyBaer
+"""been""","Ipswich, MA, USA",PickyBaer
+"""want""","Vilnius, Lithuania",PickyBaer
+"""been""","Patong, Thailand",PickyBaer
+"""been""","Sedona, AZ, USA",PickyBaer
+"""been""","Marina del Rey, CA, USA",PickyBaer
+"""been""","Snowmass Village, CO, USA",PickyBaer
+"""been""","Scottsdale, AZ, USA",PickyBaer
+"""been""","Natchez, MS, USA",PickyBaer
+"""been""","Anacortes, WA, USA",PickyBaer
+"""been""","Winthrop, WA, USA",PickyBaer
+"""been""","Chico, CA, USA",PickyBaer
+"""been""","Mariposa, CA, USA",PickyBaer
+"""been""","Yakima, WA, USA",PickyBaer
+"""been""","Steamboat Springs, CO, USA",PickyBaer
+"""want""","Toronto, Ontario, Canada",PickyBaer
+"""been""","Green Bay, WI, USA",PickyBaer
+"""been""","Reno, NV, USA",PickyBaer
+"""want""","Kyiv (Kiev), Ukraine",PickyBaer
+"""been""","Lisbon, Portugal",PickyBaer
+"""been""","Hawaii Volcanoes National Park, HI, USA",PickyBaer
+"""been""","Roseburg, OR, USA",PickyBaer
+"""been""","Rockaway Beach, OR, USA",PickyBaer
+"""been""","Yountville, CA, USA",PickyBaer
+"""been""","Chula Vista, CA, USA",PickyBaer
+"""been""","Aspen, CO, USA",PickyBaer
+"""been""","Seaside, OR, USA",PickyBaer
+"""been""","Wenatchee, WA, USA",PickyBaer
+"""been""","Telluride, CO, USA",PickyBaer
+"""been""","La Jolla, CA, USA",PickyBaer
+"""been""","Fort Collins, CO, USA",PickyBaer
+"""been""","Westport, WA, USA",PickyBaer
+"""been""","Redmond, WA, USA",PickyBaer
+"""been""","Panama City, Panama",PickyBaer
+"""been""","Homer, AK, USA",PickyBaer
+"""been""","Renton, WA, USA",PickyBaer
+"""been""","Ormond Beach, FL, USA",PickyBaer
+"""been""","Orlando, FL, USA",PickyBaer
+"""been""","Sintra, Portugal",PickyBaer
+"""been""","Aurora, CO, USA",PickyBaer
+"""been""","Dearborn, MI, USA",PickyBaer
+"""been""","Mill Valley, CA, USA",PickyBaer
+"""been""","St. John, U.S. Virgin Islands",PickyBaer
+"""been""","Grand Rapids, MI, USA",PickyBaer
+"""been""","Funchal, Portugal",PickyBaer
+"""been""","Charlotte Amalie, U.S. Virgin Islands",PickyBaer
+"""been""","Detroit, MI, USA",PickyBaer
+"""been""","St. Thomas, U.S. Virgin Islands",PickyBaer
+"""been""","Cancun, Mexico",PickyBaer
+"""been""","St. Croix, U.S. Virgin Islands",PickyBaer
+"""been""","Barstow, CA, USA",PickyBaer
+"""been""","Salem, OR, USA",PickyBaer
+"""been""","Wichita Falls, TX, USA",PickyBaer
+"""been""","Christiansted, U.S. Virgin Islands",PickyBaer
+"""been""","Newport Beach, CA, USA",PickyBaer
+"""been""","Arlington, VA, USA",PickyBaer
+"""been""","Aurora, OR, USA",PickyBaer
+"""been""","Julian, CA, USA",PickyBaer
+"""been""","Washougal, WA, USA",PickyBaer
+"""been""","Gilroy, CA, USA",PickyBaer
+"""been""","June Lake, CA, USA",PickyBaer
+"""want""","Budapest, Hungary",PickyBaer
+"""been""","Portland, OR, USA",PickyBaer
+"""been""","Port Orford, OR, USA",PickyBaer
+"""been""","Wilsonville, OR, USA",PickyBaer
+"""want""","Bucharest, Romania",PickyBaer
+"""been""","Suva, Fiji",PickyBaer
+"""been""","Leadville, CO, USA",PickyBaer
+"""been""","Glendale, CA, USA",PickyBaer
+"""want""","St. Moritz, Switzerland",PickyBaer
+"""been""","Malibu, CA, USA",PickyBaer
+"""been""","Crater Lake National Park, OR, USA",PickyBaer
+"""been""","Kernville, CA, USA",PickyBaer
+"""been""","Vader, WA, USA",PickyBaer
+"""been""","West Palm Beach, FL, USA",PickyBaer
+"""been""","Goleta, CA, USA",PickyBaer
+"""been""","Zermatt, Switzerland",PickyBaer
+"""been""","Manhattan Beach, CA, USA",PickyBaer
+"""been""","College Park, GA, USA",PickyBaer
+"""been""","North Las Vegas, NV, USA",PickyBaer
+"""been""","Minneapolis, MN, USA",PickyBaer
+"""been""","Biloxi, MS, USA",PickyBaer
+"""been""","Kansas City, MO, USA",PickyBaer
+"""want""","Jakarta, Indonesia",PickyBaer
+"""been""","Grand Canyon National Park, AZ, USA",PickyBaer
+"""been""","Mountain View, CA, USA",PickyBaer
+"""been""","Indian Wells, CA, USA",PickyBaer
+"""been""","Phoenix, AZ, USA",PickyBaer
+"""been""","Fort Bragg, CA, USA",PickyBaer
+"""been""","Alexandria, VA, USA",PickyBaer
+"""been""","Long Beach, CA, USA",PickyBaer
+"""been""","Napa, CA, USA",PickyBaer
+"""been""","Lompoc, CA, USA",PickyBaer
+"""been""","Indio, CA, USA",PickyBaer
+"""been""","Inglewood, CA, USA",PickyBaer
+"""been""","Lone Pine, CA, USA",PickyBaer
+"""been""","College Station, TX, USA",PickyBaer
+"""been""","Vero Beach, FL, USA",PickyBaer
+"""been""","Stuttgart, Germany",PickyBaer
+"""been""","Arroyo Grande, CA, USA",PickyBaer
+"""want""","Lourdes, France",PickyBaer
+"""been""","Lafayette, LA, USA",PickyBaer
+"""been""","Henderson, NV, USA",PickyBaer
+"""been""","Lake Charles, LA, USA",PickyBaer
+"""been""","Oregon City, OR, USA",PickyBaer
+"""been""","Baton Rouge, LA, USA",PickyBaer
+"""been""","Arcata, CA, USA",PickyBaer
+"""want""","Buenos Aires, Argentina",PickyBaer
+"""been""","Incline Village, NV, USA",PickyBaer
+"""been""","Antigua, Guatemala",PickyBaer
+"""want""","Odessa, Ukraine",PickyBaer
+"""been""","San Juan, Puerto Rico",PickyBaer
+"""been""","Irvine, CA, USA",PickyBaer
+"""been""","Los Angeles, CA, USA",PickyBaer
+"""been""","Pismo Beach, CA, USA",PickyBaer
+"""want""","Split, Croatia",PickyBaer
+"""been""","Fremont, CA, USA",PickyBaer
+"""want""","Dubrovnik, Croatia",PickyBaer
+"""been""","Fullerton, CA, USA",PickyBaer
+"""been""","Ngorongoro Conservation Area, Tanzania",PickyBaer
+"""been""","Aptos, CA, USA",PickyBaer
+"""been""","Fresno, CA, USA",PickyBaer
+"""want""","Tromso, Norway",PickyBaer
+"""been""","Molokai, HI, USA",PickyBaer
+"""want""","Oslo, Norway",PickyBaer
+"""been""","Chicago, IL, USA",PickyBaer
+"""been""","Laughlin, NV, USA",PickyBaer
+"""been""","Island of Hawaii, HI, USA",PickyBaer
+"""been""","Saint Charles, MO, USA",PickyBaer
+"""been""","Toledo, OH, USA",PickyBaer
+"""been""","Pendleton, OR, USA",PickyBaer
+"""been""","Las Vegas, NV, USA",PickyBaer
+"""want""","Krakow, Poland",PickyBaer
+"""been""","Pacific City, OR, USA",PickyBaer
+"""want""","Yalta, Europe",PickyBaer
+"""been""","Cruz Bay, U.S. Virgin Islands",PickyBaer
+"""been""","Paso Robles, CA, USA",PickyBaer
+"""been""","Pebble Beach, CA, USA",PickyBaer
+"""been""","Roseville, CA, USA",PickyBaer
+"""been""","Morro Bay, CA, USA",PickyBaer
+"""been""","Milwaukee, WI, USA",PickyBaer
+"""been""","Orvieto, Italy",PickyBaer
+"""been""","Yuma, AZ, USA",PickyBaer
+"""want""","Montreal, Quebec, Canada",PickyBaer
+"""want""","Quebec City, Quebec, Canada",PickyBaer
+"""been""","Troutdale, OR, USA",PickyBaer
+"""been""","Timberline Lodge, OR, USA",PickyBaer
+"""been""","Elko, NV, USA",PickyBaer
+"""been""","Shakopee, MN, USA",PickyBaer
+"""been""","Petaluma, CA, USA",PickyBaer
+"""been""","Paradise Valley, AZ, USA",PickyBaer
+"""been""","Sacramento, CA, USA",PickyBaer
+"""been""","Mount Shasta, CA, USA",PickyBaer
+"""been""","Huntington Beach, CA, USA",PickyBaer
+"""been""","Fort Worth, TX, USA",PickyBaer
+"""been""","Avila Beach, CA, USA",PickyBaer
+"""been""","Idyllwild, CA, USA",PickyBaer
+"""been""","Pueblo, CO, USA",PickyBaer
+"""been""","Avalon, CA, USA",PickyBaer
+"""been""","Auburn, CA, USA",PickyBaer
+"""want""","St. Petersburg, Russia",PickyBaer
+"""been""","Evansville, IN, USA",PickyBaer
+"""been"",""want""","Singapore, Singapore",PickyBaer
+"""been""","Holland, MI, USA",PickyBaer
+"""want""","Cape Town Central, South Africa",PickyBaer

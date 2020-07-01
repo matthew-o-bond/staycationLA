@@ -1,0 +1,583 @@
+tag,place,user
+"""been""","Duck Key, FL, USA",SBHTravels
+"""been""","Salzburg, Austria",SBHTravels
+"""been""","Bal Harbour, FL, USA",SBHTravels
+"""been""","Winston Salem, NC, USA",SBHTravels
+"""been""","Innsbruck, Austria",SBHTravels
+"""been"",""fave""","Bigfork, MT, USA",SBHTravels
+"""been""","Wilmington, NC, USA",SBHTravels
+"""been""","Big Sky, MT, USA",SBHTravels
+"""been""","Stone Mountain, GA, USA",SBHTravels
+"""been""","Hollywood, FL, USA",SBHTravels
+"""been""","Freiburg im Breisgau, Germany",SBHTravels
+"""been""","Heidelberg, Germany",SBHTravels
+"""been""","Delray Beach, FL, USA",SBHTravels
+"""want""","New Delhi, India",SBHTravels
+"""been""","Indianapolis, IN, USA",SBHTravels
+"""been""","Mobile, AL, USA",SBHTravels
+"""want""","Jaipur, India",SBHTravels
+"""want""","Vienna, Austria",SBHTravels
+"""been""","Eugene, OR, USA",SBHTravels
+"""been""","Quito, Ecuador",SBHTravels
+"""been""","Washington, PA, USA",SBHTravels
+"""want""","Santiago, Chile",SBHTravels
+"""been""","Cuenca, Ecuador",SBHTravels
+"""been""","Boise, ID, USA",SBHTravels
+"""been""","Salamanca, Spain",SBHTravels
+"""been""","Boca Raton, FL, USA",SBHTravels
+"""been""","Cologne, Germany",SBHTravels
+"""want""","Marseille, France",SBHTravels
+"""want""","Barcelona, Spain",SBHTravels
+"""been""","Santorini, Greece",SBHTravels
+"""been""","Cleveland, OH, USA",SBHTravels
+"""been""","Raleigh, NC, USA",SBHTravels
+"""been""","Daytona Beach Shores, FL, USA",SBHTravels
+"""been""","Montgomery, AL, USA",SBHTravels
+"""been""","Machu Picchu, Peru",SBHTravels
+"""been""","Lima, Peru",SBHTravels
+"""been""","Highlands, NC, USA",SBHTravels
+"""been""","Bonita Springs, FL, USA",SBHTravels
+"""been""","Mykonos Town, Greece",SBHTravels
+"""been""","Cusco, Peru",SBHTravels
+"""been""","Amsterdam, The Netherlands",SBHTravels
+"""want""","Zurich, Switzerland",SBHTravels
+"""been""","Billings, MT, USA",SBHTravels
+"""been""","Bozeman, MT, USA",SBHTravels
+"""want""","Nairobi, Kenya",SBHTravels
+"""been""","Lancaster, PA, USA",SBHTravels
+"""been""","Bend, OR, USA",SBHTravels
+"""been""","Paris, France",SBHTravels
+"""want""","Cairo, Egypt",SBHTravels
+"""been""","Big Pine Key, FL, USA",SBHTravels
+"""want""","Montevideo, Uruguay",SBHTravels
+"""been""","Santa Monica, CA, USA",SBHTravels
+"""been""","Devils Tower, WY, USA",SBHTravels
+"""been""","Clearwater, FL, USA",SBHTravels
+"""been""","Badlands National Park, SD, USA",SBHTravels
+"""been""","Clermont, FL, USA",SBHTravels
+"""been""","Arches National Park, UT, USA",SBHTravels
+"""been""","Santa Rosa, CA, USA",SBHTravels
+"""been""","Buffalo, WY, USA",SBHTravels
+"""been""","Cocoa Beach, FL, USA",SBHTravels
+"""been""","Sheridan, WY, USA",SBHTravels
+"""been""","Philadelphia, PA, USA",SBHTravels
+"""been""","Gettysburg, PA, USA",SBHTravels
+"""been""","West Yellowstone, MT, USA",SBHTravels
+"""been""","Missoula, MT, USA",SBHTravels
+"""been""","East Glacier Park, MT, USA",SBHTravels
+"""want""","Hong Kong, China",SBHTravels
+"""been""","Bellevue, WA, USA",SBHTravels
+"""want""","Zagreb, Croatia",SBHTravels
+"""want""","Beijing, China",SBHTravels
+"""been""","Portland, ME, USA",SBHTravels
+"""want""","Dubai, United Arab Emirates",SBHTravels
+"""been""","Cheyenne, WY, USA",SBHTravels
+"""been""","Carlsbad Caverns National Park, NM, USA",SBHTravels
+"""want""","Basel, Switzerland",SBHTravels
+"""been""","Capitol Reef National Park, UT, USA",SBHTravels
+"""want""","Bucharest, Romania",SBHTravels
+"""been""","Bryce Canyon National Park, UT, USA",SBHTravels
+"""been""","Sausalito, CA, USA",SBHTravels
+"""been""","Memphis, TN, USA",SBHTravels
+"""been""","Little Torch Key, FL, USA",SBHTravels
+"""been""","Queenstown, New Zealand",SBHTravels
+"""been""","Everglades National Park, FL, USA",SBHTravels
+"""been""","Lakeland, FL, USA",SBHTravels
+"""been""","Cody, WY, USA",SBHTravels
+"""been""","Death Valley National Park, CA, USA",SBHTravels
+"""been""","Teton Village, WY, USA",SBHTravels
+"""been""","Ocala, FL, USA",SBHTravels
+"""been""","Pistoia, Italy",SBHTravels
+"""been""","Santa Barbara, CA, USA",SBHTravels
+"""been""","Palmilla, Chile",SBHTravels
+"""want""","Geneva, Switzerland",SBHTravels
+"""been""","Tunica, MS, USA",SBHTravels
+"""been""","Grand Teton National Park, WY, USA",SBHTravels
+"""been""","Irving, TX, USA",SBHTravels
+"""been""","Kusadasi, Turkey",SBHTravels
+"""been""","Cambridge, MA, USA",SBHTravels
+"""been""","Auckland Central, New Zealand",SBHTravels
+"""been""","Richmond, VA, USA",SBHTravels
+"""been""","Great Smoky Mountains National Park, TN, USA",SBHTravels
+"""want""","Mexico City, Mexico",SBHTravels
+"""been""","Dania Beach, FL, USA",SBHTravels
+"""been""","Toronto, Ontario, Canada",SBHTravels
+"""been""","Atlanta, GA, USA",SBHTravels
+"""been""","Morgantown, WV, USA",SBHTravels
+"""want""","Perth, Australia",SBHTravels
+"""been""","Bondi, Australia",SBHTravels
+"""been""","Daytona Beach, FL, USA",SBHTravels
+"""want""","Melbourne, Australia",SBHTravels
+"""been""","Coral Gables, FL, USA",SBHTravels
+"""want""","Christchurch, New Zealand",SBHTravels
+"""been""","Charlotte Amalie, U.S. Virgin Islands",SBHTravels
+"""want""","Wellington, New Zealand",SBHTravels
+"""want""","Louisville, KY, USA",SBHTravels
+"""been""","Dayton, OH, USA",SBHTravels
+"""been""","Helen, GA, USA",SBHTravels
+"""been""","Longboat Key, FL, USA",SBHTravels
+"""been""","Playa del Carmen, Mexico",SBHTravels
+"""want""","Tulum, Mexico",SBHTravels
+"""been""","Bradenton, FL, USA",SBHTravels
+"""been""","Hershey, PA, USA",SBHTravels
+"""been""","Washington DC, DC, USA",SBHTravels
+"""want""","Oslo, Norway",SBHTravels
+"""been""","Montepulciano, Italy",SBHTravels
+"""been""","King of Prussia, PA, USA",SBHTravels
+"""been""","Lincoln, NH, USA",SBHTravels
+"""been""","Windsor, Ontario, Canada",SBHTravels
+"""been""","Truckee, CA, USA",SBHTravels
+"""been""","Cancun, Mexico",SBHTravels
+"""been""","Doral, FL, USA",SBHTravels
+"""been""","Christiansted, U.S. Virgin Islands",SBHTravels
+"""been""","Olympic National Park, WA, USA",SBHTravels
+"""been""","Mount Dora, FL, USA",SBHTravels
+"""been""","West Hollywood, CA, USA",SBHTravels
+"""been""","San Diego, CA, USA",SBHTravels
+"""been""","Punta Gorda, FL, USA",SBHTravels
+"""want""","Seward, AK, USA",SBHTravels
+"""been""","Cordoba, Spain",SBHTravels
+"""been""","Vatican City, Vatican City",SBHTravels
+"""been""","Kailua-Kona, HI, USA",SBHTravels
+"""been""","Cincinnati, OH, USA",SBHTravels
+"""been""","Key Largo, FL, USA",SBHTravels
+"""been""","Crested Butte, CO, USA",SBHTravels
+"""been""","Key West, FL, USA",SBHTravels
+"""been""","Nuremberg, Germany",SBHTravels
+"""been""","Rome, Italy",SBHTravels
+"""been""","Naples, FL, USA",SBHTravels
+"""been""","Islamorada, FL, USA",SBHTravels
+"""been""","Florida City, FL, USA",SBHTravels
+"""want""","Reykjavik, Iceland",SBHTravels
+"""been""","Marathon, FL, USA",SBHTravels
+"""been""","Kalispell, MT, USA",SBHTravels
+"""been""","Fort Lauderdale, FL, USA",SBHTravels
+"""been""","Vila Nova de Gaia, Portugal",SBHTravels
+"""been""","Skagway, AK, USA",SBHTravels
+"""been""","Houston, TX, USA",SBHTravels
+"""want""","Brussels, Belgium",SBHTravels
+"""been""","Lahaina, HI, USA",SBHTravels
+"""been""","Cadiz, Spain",SBHTravels
+"""want""","Stockholm, Sweden",SBHTravels
+"""been"",""want""","Budapest, Hungary",SBHTravels
+"""been"",""fave""","Seattle, WA, USA",SBHTravels
+"""been""","Yellowstone National Park, WY, USA",SBHTravels
+"""been""","Malaga, Spain",SBHTravels
+"""been""","Columbia, SC, USA",SBHTravels
+"""been""","Carlsbad, CA, USA",SBHTravels
+"""been""","Pompano Beach, FL, USA",SBHTravels
+"""been""","Carlsbad, NM, USA",SBHTravels
+"""been""","St. Helena, CA, USA",SBHTravels
+"""been""","Pigeon Forge, TN, USA",SBHTravels
+"""been""","Ponte Vedra Beach, FL, USA",SBHTravels
+"""been""","Everglades City, FL, USA",SBHTravels
+"""been""","Colorado Springs, CO, USA",SBHTravels
+"""been"",""fave""","New York City, NY, USA",SBHTravels
+"""been""","Granada, Spain",SBHTravels
+"""want""","Tokyo, Japan",SBHTravels
+"""been""","Port Charlotte, FL, USA",SBHTravels
+"""been""","Butte, MT, USA",SBHTravels
+"""been""","Montalcino, Italy",SBHTravels
+"""want""","Omaha, NE, USA",SBHTravels
+"""been""","Jupiter, FL, USA",SBHTravels
+"""been""","Torremolinos, Spain",SBHTravels
+"""been""","Niagara-on-the-Lake, Ontario, Canada",SBHTravels
+"""been""","Columbia, MO, USA",SBHTravels
+"""been""","Fernandina Beach, FL, USA",SBHTravels
+"""been""","Niagara Falls, Ontario, Canada",SBHTravels
+"""been""","Newark, NJ, USA",SBHTravels
+"""been"",""want""","Marrakech, Morocco",SBHTravels
+"""want""","Fes, Morocco",SBHTravels
+"""been""","Boone, NC, USA",SBHTravels
+"""want""","Berlin, Germany",SBHTravels
+"""been""","Little Rock, AR, USA",SBHTravels
+"""been""","Wisconsin Dells, WI, USA",SBHTravels
+"""been""","Olympia, WA, USA",SBHTravels
+"""been"",""fave""","Seville, Spain",SBHTravels
+"""been""","El Paso, TX, USA",SBHTravels
+"""been"",""want""","Casablanca, Morocco",SBHTravels
+"""want""","Istanbul, Turkey",SBHTravels
+"""been""","New Braunfels, TX, USA",SBHTravels
+"""been""","Champaign, IL, USA",SBHTravels
+"""been""","Port Saint Lucie, FL, USA",SBHTravels
+"""been""","Kiawah Island, SC, USA",SBHTravels
+"""been""","Zaragoza, Spain",SBHTravels
+"""been""","San Mateo, CA, USA",SBHTravels
+"""been""","Gainesville, FL, USA",SBHTravels
+"""been""","Tahoe City, CA, USA",SBHTravels
+"""been""","Rose Hall, Jamaica",SBHTravels
+"""been""","Flagstaff, AZ, USA",SBHTravels
+"""been""","Buffalo, NY, USA",SBHTravels
+"""been""","Palermo, Italy",SBHTravels
+"""been""","Celebration, FL, USA",SBHTravels
+"""been""","San Simeon, CA, USA",SBHTravels
+"""want""","Oia, Greece",SBHTravels
+"""been""","St. George, UT, USA",SBHTravels
+"""want""","Dar es Salaam, Tanzania",SBHTravels
+"""been""","Big Bend National Park, TX, USA",SBHTravels
+"""been""","Newport, RI, USA",SBHTravels
+"""been""","Cortona, Italy",SBHTravels
+"""been""","Port Townsend, WA, USA",SBHTravels
+"""been""","Hot Springs, AR, USA",SBHTravels
+"""been"",""fave""","Florence, Italy",SBHTravels
+"""want""","Tel Aviv, Israel",SBHTravels
+"""been""","Franklin, TN, USA",SBHTravels
+"""been""","Lucca, Italy",SBHTravels
+"""want""","Jerusalem, Israel",SBHTravels
+"""been""","Carmel, CA, USA",SBHTravels
+"""been""","Homestead, FL, USA",SBHTravels
+"""been""","Pisa, Italy",SBHTravels
+"""been""","Lido di Venezia, Italy",SBHTravels
+"""been""","New Smyrna Beach, FL, USA",SBHTravels
+"""want""","San Jose, CA, USA",SBHTravels
+"""been""","Fort Myers, FL, USA",SBHTravels
+"""been""","Charlottesville, VA, USA",SBHTravels
+"""been""","Beverly Hills, CA, USA",SBHTravels
+"""been""","Fort Myers Beach, FL, USA",SBHTravels
+"""been""","Kissimmee, FL, USA",SBHTravels
+"""been""","Fort Pierce, FL, USA",SBHTravels
+"""want""","Da Nang, Vietnam",SBHTravels
+"""been""","Honolulu, HI, USA",SBHTravels
+"""been""","Fort Walton Beach, FL, USA",SBHTravels
+"""been""","Capri, Italy",SBHTravels
+"""been""","Denver, CO, USA",SBHTravels
+"""been""","New Orleans, LA, USA",SBHTravels
+"""been""","San Luis Obispo, CA, USA",SBHTravels
+"""been""","Asheville, NC, USA",SBHTravels
+"""been""","St. Augustine, FL, USA",SBHTravels
+"""been""","Columbia Falls, MT, USA",SBHTravels
+"""been""","Cape Canaveral, FL, USA",SBHTravels
+"""been""","Deia, Spain",SBHTravels
+"""been""","Peoria, IL, USA",SBHTravels
+"""been""","Munich, Germany",SBHTravels
+"""been""","Pensacola Beach, FL, USA",SBHTravels
+"""been""","Boston, MA, USA",SBHTravels
+"""been""","Pompeii, Italy",SBHTravels
+"""want""","Warsaw, Poland",SBHTravels
+"""been""","Custer, SD, USA",SBHTravels
+"""been""","Tupelo, MS, USA",SBHTravels
+"""been""","Williamsburg, VA, USA",SBHTravels
+"""been""","Naples, Italy",SBHTravels
+"""been""","London, UK",SBHTravels
+"""want""","Antwerp, Belgium",SBHTravels
+"""been""","Grand Junction, CO, USA",SBHTravels
+"""been""","Tucson, AZ, USA",SBHTravels
+"""been""","Panama City, FL, USA",SBHTravels
+"""been""","Panama City Beach, FL, USA",SBHTravels
+"""want""","Las Palmas de Gran Canaria, Spain",SBHTravels
+"""been""","Sunrise, FL, USA",SBHTravels
+"""been""","Hampton Bays, NY, USA",SBHTravels
+"""been""","West Glacier, MT, USA",SBHTravels
+"""been""","Montanita, Ecuador",SBHTravels
+"""want""","Nice, France",SBHTravels
+"""want""","Harare, Zimbabwe",SBHTravels
+"""been""","San Antonio, TX, USA",SBHTravels
+"""been"",""fave""","San Francisco, CA, USA",SBHTravels
+"""been""","Page, AZ, USA",SBHTravels
+"""been""","Juneau, AK, USA",SBHTravels
+"""been""","Santa Fe, NM, USA",SBHTravels
+"""been""","Wailea, HI, USA",SBHTravels
+"""been""","Palm Beach, FL, USA",SBHTravels
+"""been""","Palm Beach Gardens, FL, USA",SBHTravels
+"""been""","Gatlinburg, TN, USA",SBHTravels
+"""been""","Princeton, NJ, USA",SBHTravels
+"""been""","Santander, Spain",SBHTravels
+"""want""","Copenhagen, Denmark",SBHTravels
+"""been""","Boulder, CO, USA",SBHTravels
+"""been""","Palm Coast, FL, USA",SBHTravels
+"""been""","Glenwood Springs, CO, USA",SBHTravels
+"""been""","Golden, CO, USA",SBHTravels
+"""been""","Stuart, FL, USA",SBHTravels
+"""been""","Breckenridge, CO, USA",SBHTravels
+"""been""","Granby, CO, USA",SBHTravels
+"""been""","Nashville, TN, USA",SBHTravels
+"""been""","Greenville, SC, USA",SBHTravels
+"""been""","West Memphis, AR, USA",SBHTravels
+"""been""","Burlingame, CA, USA",SBHTravels
+"""been""","SeaTac, WA, USA",SBHTravels
+"""been""","Toledo, Spain",SBHTravels
+"""been""","Burbank, CA, USA",SBHTravels
+"""been""","Moab, UT, USA",SBHTravels
+"""been""","Greensboro, NC, USA",SBHTravels
+"""want""","Kathmandu, Nepal",SBHTravels
+"""been""","Arlington, TX, USA",SBHTravels
+"""been""","North Myrtle Beach, SC, USA",SBHTravels
+"""been""","Ketchikan, AK, USA",SBHTravels
+"""been""","Healdsburg, CA, USA",SBHTravels
+"""been""","Flushing, NY, USA",SBHTravels
+"""been""","Anaheim, CA, USA",SBHTravels
+"""been""","Tavernier, FL, USA",SBHTravels
+"""been""","Charleston, SC, USA",SBHTravels
+"""been""","Miami Shores, FL, USA",SBHTravels
+"""been""","Miami Springs, FL, USA",SBHTravels
+"""been""","Plantation, FL, USA",SBHTravels
+"""been""","Inverrary, FL, USA",SBHTravels
+"""want""","Hamburg, Germany",SBHTravels
+"""want""","Bergen, Norway",SBHTravels
+"""been""","South San Francisco, CA, USA",SBHTravels
+"""been""","Helena, MT, USA",SBHTravels
+"""been""","Jacksonville Beach, FL, USA",SBHTravels
+"""been""","Coeur d'Alene, ID, USA",SBHTravels
+"""want""","Prague, Czech Republic",SBHTravels
+"""been""","Knoxville, TN, USA",SBHTravels
+"""been""","Tarrytown, NY, USA",SBHTravels
+"""been"",""fave""","Sydney, Australia",SBHTravels
+"""been""","Blowing Rock, NC, USA",SBHTravels
+"""been""","Baltimore, MD, USA",SBHTravels
+"""want""","Ghent, Belgium",SBHTravels
+"""want""","San Sebastian - Donostia, Spain",SBHTravels
+"""been""","Wrangell, AK, USA",SBHTravels
+"""been"",""fave""","Austin, TX, USA",SBHTravels
+"""been""","Bilbao, Spain",SBHTravels
+"""been""","Hillsborough, CA, USA",SBHTravels
+"""been""","Albuquerque, NM, USA",SBHTravels
+"""been""","Savannah, GA, USA",SBHTravels
+"""been""","Isle of Palms, SC, USA",SBHTravels
+"""been""","Frankfurt, Germany",SBHTravels
+"""been""","Cairns, Australia",SBHTravels
+"""been""","Coronado, CA, USA",SBHTravels
+"""want""","Brisbane, Australia",SBHTravels
+"""been""","Pensacola, FL, USA",SBHTravels
+"""been"",""want""","Palma de Mallorca, Spain",SBHTravels
+"""been""","Athens, Greece",SBHTravels
+"""been""","Tallahassee, FL, USA",SBHTravels
+"""been""","Melbourne, FL, USA",SBHTravels
+"""want""","Bruges, Belgium",SBHTravels
+"""been""","Solvang, CA, USA",SBHTravels
+"""been""","Melbourne Beach, FL, USA",SBHTravels
+"""been""","Majorca, Spain",SBHTravels
+"""want""","Cannes, France",SBHTravels
+"""been""","Rhodes Town, Greece",SBHTravels
+"""been""","Tampa, FL, USA",SBHTravels
+"""want""","Vilanculos, Mozambique",SBHTravels
+"""been""","Sonoma, CA, USA",SBHTravels
+"""been""","Miami, FL, USA",SBHTravels
+"""been""","Jersey City, NJ, USA",SBHTravels
+"""been"",""fave""","Miami Beach, FL, USA",SBHTravels
+"""been""","Bar Harbor, ME, USA",SBHTravels
+"""been""","Spokane, WA, USA",SBHTravels
+"""been""","Port Douglas, Australia",SBHTravels
+"""been""","Piraeus, Greece",SBHTravels
+"""been""","Estes Park, CO, USA",SBHTravels
+"""been""","Calistoga, CA, USA",SBHTravels
+"""been""","Aiken, SC, USA",SBHTravels
+"""been""","Jerez De La Frontera, Spain",SBHTravels
+"""want""","Fairbanks, AK, USA",SBHTravels
+"""been""","East Hampton, NY, USA",SBHTravels
+"""been""","Providence, RI, USA",SBHTravels
+"""been""","Brooklyn, NY, USA",SBHTravels
+"""want""","Manila, Philippines",SBHTravels
+"""been""","Snowmass Village, CO, USA",SBHTravels
+"""been""","Seaside, FL, USA",SBHTravels
+"""been""","Steamboat Springs, CO, USA",SBHTravels
+"""want""","Acapulco, Mexico",SBHTravels
+"""been""","Winter Haven, FL, USA",SBHTravels
+"""been""","Ciudad Juarez, Mexico",SBHTravels
+"""been""","Manitou Springs, CO, USA",SBHTravels
+"""been""","Winter Park, FL, USA",SBHTravels
+"""been""","Florence, SC, USA",SBHTravels
+"""been""","Malibu, CA, USA",SBHTravels
+"""been""","Natchez, MS, USA",SBHTravels
+"""been""","Birmingham, AL, USA",SBHTravels
+"""been""","Jasper, Alberta, Canada",SBHTravels
+"""been""","Kansas City, MO, USA",SBHTravels
+"""been""","Calgary, Alberta, Canada",SBHTravels
+"""been""","Minneapolis, MN, USA",SBHTravels
+"""been""","Biloxi, MS, USA",SBHTravels
+"""been""","West Palm Beach, FL, USA",SBHTravels
+"""been""","Banff, Alberta, Canada",SBHTravels
+"""been""","Lake Louise, Alberta, Canada",SBHTravels
+"""been""","Silverthorne, CO, USA",SBHTravels
+"""been""","Littleton, CO, USA",SBHTravels
+"""want""","Puerto Vallarta, Mexico",SBHTravels
+"""been""","Columbus, GA, USA",SBHTravels
+"""been""","Sarasota, FL, USA",SBHTravels
+"""been""","Milan, Italy",SBHTravels
+"""been""","Deadwood, SD, USA",SBHTravels
+"""been""","Port Angeles, WA, USA",SBHTravels
+"""been""","Marina del Rey, CA, USA",SBHTravels
+"""been""","Macon, GA, USA",SBHTravels
+"""been""","Sedona, AZ, USA",SBHTravels
+"""been""","Salt Lake City, UT, USA",SBHTravels
+"""been""","Scottsdale, AZ, USA",SBHTravels
+"""been""","Banos, Ecuador",SBHTravels
+"""been""","Jacksonville, FL, USA",SBHTravels
+"""been""","Dahlonega, GA, USA",SBHTravels
+"""been""","Vail, CO, USA",SBHTravels
+"""been""","South Miami, FL, USA",SBHTravels
+"""been""","Sun Valley, ID, USA",SBHTravels
+"""want""","Dublin, Ireland",SBHTravels
+"""want""","Homer, AK, USA",SBHTravels
+"""want""","Havana, Cuba",SBHTravels
+"""been""","Haines, AK, USA",SBHTravels
+"""been""","La Jolla, CA, USA",SBHTravels
+"""want""","Muscat, Oman",SBHTravels
+"""been""","Detroit, MI, USA",SBHTravels
+"""been""","Aventura, FL, USA",SBHTravels
+"""want""","Moscow, Russia",SBHTravels
+"""want""","Cabo San Lucas, Mexico",SBHTravels
+"""been""","Yountville, CA, USA",SBHTravels
+"""been""","Whitefish, MT, USA",SBHTravels
+"""been""","Fort Collins, CO, USA",SBHTravels
+"""been""","Siesta Key, FL, USA",SBHTravels
+"""been""","Orlando, FL, USA",SBHTravels
+"""want""","Siem Reap, Cambodia",SBHTravels
+"""been""","Ormond Beach, FL, USA",SBHTravels
+"""been""","Green Bay, WI, USA",SBHTravels
+"""been""","Sevierville, TN, USA",SBHTravels
+"""been""","Yakima, WA, USA",SBHTravels
+"""been""","Half Moon Bay, CA, USA",SBHTravels
+"""want""","Bangkok, Thailand",SBHTravels
+"""been""","Laguna Beach, CA, USA",SBHTravels
+"""been""","Myrtle Beach, SC, USA",SBHTravels
+"""been""","Santo Domingo, Dominican Republic",SBHTravels
+"""want""","Whistler, British Columbia, Canada",SBHTravels
+"""been""","Baton Rouge, LA, USA",SBHTravels
+"""been""","Venice, Italy",SBHTravels
+"""been""","New Haven, CT, USA",SBHTravels
+"""been""","Victoria, British Columbia, Canada",SBHTravels
+"""been""","Rockville, MD, USA",SBHTravels
+"""been""","Vancouver, British Columbia, Canada",SBHTravels
+"""want""","Chiang Mai, Thailand",SBHTravels
+"""been""","Venice, FL, USA",SBHTravels
+"""been""","Galveston, TX, USA",SBHTravels
+"""been""","Vero Beach, FL, USA",SBHTravels
+"""want""","Ho Chi Minh City, Vietnam",SBHTravels
+"""want""","Hanoi, Vietnam",SBHTravels
+"""want""","Shanghai, China",SBHTravels
+"""been""","Madrid, Spain",SBHTravels
+"""want""","Helsinki, Finland",SBHTravels
+"""been""","Mystic, CT, USA",SBHTravels
+"""been""","Sacramento, CA, USA",SBHTravels
+"""been""","Long Beach, CA, USA",SBHTravels
+"""been""","Pittsburgh, PA, USA",SBHTravels
+"""been""","Alexandria, VA, USA",SBHTravels
+"""been""","Valencia, Spain",SBHTravels
+"""been""","Napa, CA, USA",SBHTravels
+"""been""","Rapid City, SD, USA",SBHTravels
+"""been""","Fredericksburg, TX, USA",SBHTravels
+"""been""","South Lake Tahoe, CA, USA",SBHTravels
+"""been""","Phoenix, AZ, USA",SBHTravels
+"""been""","Big Sur, CA, USA",SBHTravels
+"""been""","Gulf Shores, AL, USA",SBHTravels
+"""want""","Cape Town Central, South Africa",SBHTravels
+"""want""","Catania, Italy",SBHTravels
+"""want""","Buenos Aires, Argentina",SBHTravels
+"""been""","Greenwood, MS, USA",SBHTravels
+"""been""","Gainesville, GA, USA",SBHTravels
+"""been""","Saint Augustine Beach, FL, USA",SBHTravels
+"""been""","Saint Louis, MO, USA",SBHTravels
+"""been""","Milwaukee, WI, USA",SBHTravels
+"""been""","St. Pete Beach, FL, USA",SBHTravels
+"""been""","Annapolis, MD, USA",SBHTravels
+"""been""","St. Petersburg, FL, USA",SBHTravels
+"""been""","Spartanburg, SC, USA",SBHTravels
+"""been""","Portland, OR, USA",SBHTravels
+"""been""","Los Angeles, CA, USA",SBHTravels
+"""been""","Auburn, AL, USA",SBHTravels
+"""want""","Phnom Penh, Cambodia",SBHTravels
+"""want""","Edinburgh, UK",SBHTravels
+"""want""","Turin, Italy",SBHTravels
+"""been""","Durham, NC, USA",SBHTravels
+"""been""","Las Vegas, NV, USA",SBHTravels
+"""been""","Keystone, CO, USA",SBHTravels
+"""want""","Halifax, Nova Scotia, Canada",SBHTravels
+"""been""","Aspen, CO, USA",SBHTravels
+"""been""","Chicago, IL, USA",SBHTravels
+"""been""","Santiago de Compostela, Spain",SBHTravels
+"""been""","La Coruna, Spain",SBHTravels
+"""been""","Arlington, VA, USA",SBHTravels
+"""been""","Los Olivos, CA, USA",SBHTravels
+"""want""","Krakow, Poland",SBHTravels
+"""been""","Paradise Island, Bahamas",SBHTravels
+"""been""","Nassau, Bahamas",SBHTravels
+"""want""","McLaren Vale, Australia",SBHTravels
+"""been""","Montauk, NY, USA",SBHTravels
+"""been""","Kent, CT, USA",SBHTravels
+"""been""","Trois-Rivieres, Quebec, Canada",SBHTravels
+"""been""","Oxnard, CA, USA",SBHTravels
+"""been""","Quebec City, Quebec, Canada",SBHTravels
+"""been""","Albany, NY, USA",SBHTravels
+"""been""","Montreal, Quebec, Canada",SBHTravels
+"""been""","Dallas, TX, USA",SBHTravels
+"""want""","Abu Dhabi, United Arab Emirates",SBHTravels
+"""been""","Traverse City, MI, USA",SBHTravels
+"""been""","Lexington, KY, USA",SBHTravels
+"""want""","Zermatt, Switzerland",SBHTravels
+"""want""","Johannesburg, South Africa",SBHTravels
+"""been""","Auckland, New Zealand",SBHTravels
+"""been""","Clarksdale, MS, USA",SBHTravels
+"""been""","Palo Alto, CA, USA",SBHTravels
+"""want""","Porto, Portugal",SBHTravels
+"""been""","Hartford, CT, USA",SBHTravels
+"""want""","Palm Springs, CA, USA",SBHTravels
+"""been""","Palm Desert, CA, USA",SBHTravels
+"""want""","Rio de Janeiro, Brazil",SBHTravels
+"""been""","Salinas, Ecuador",SBHTravels
+"""been""","Ann Arbor, MI, USA",SBHTravels
+"""been""","Freeport, Bahamas",SBHTravels
+"""want""","Singapore, Singapore",SBHTravels
+"""been""","San Jose, Costa Rica",SBHTravels
+"""been""","Schiphol, The Netherlands",SBHTravels
+"""been""","Mackinaw City, MI, USA",SBHTravels
+"""want""","Lisbon, Portugal",SBHTravels
+"""been""","Augusta, GA, USA",SBHTravels
+"""been""","Brunswick, GA, USA",SBHTravels
+"""been""","Pasadena, CA, USA",SBHTravels
+"""been""","Monterey, CA, USA",SBHTravels
+"""been""","Fort Worth, TX, USA",SBHTravels
+"""been""","Athens, GA, USA",SBHTravels
+"""been""","Bryce, UT, USA",SBHTravels
+"""been""","Ocho Rios, Jamaica",SBHTravels
+"""been""","Montego Bay, Jamaica",SBHTravels
+"""want""","Dubrovnik, Croatia",SBHTravels
+"""want""","Udaipur, India",SBHTravels
+"""been""","Lajitas, TX, USA",SBHTravels
+"""been""","Guayaquil, Ecuador",SBHTravels
+"""been""","Morro Bay, CA, USA",SBHTravels
+"""been""","Paso Robles, CA, USA",SBHTravels
+"""been""","San Juan, Puerto Rico",SBHTravels
+"""been""","West Fargo, ND, USA",SBHTravels
+"""been""","Oxford, MS, USA",SBHTravels
+"""been""","Yosemite National Park, CA, USA",SBHTravels
+"""been""","Alicante, Spain",SBHTravels
+"""been""","Chattanooga, TN, USA",SBHTravels
+"""been""","Asbury Park, NJ, USA",SBHTravels
+"""been""","Columbus, OH, USA",SBHTravels
+"""been""","Gulfport, MS, USA",SBHTravels
+"""been""","Bradenton Beach, FL, USA",SBHTravels
+"""been""","Park City, UT, USA",SBHTravels
+"""been""","Niagara Falls, NY, USA",SBHTravels
+"""been""","Pelham, NY, USA",SBHTravels
+"""been""","Spearfish, SD, USA",SBHTravels
+"""been""","Soufriere, St. Lucia",SBHTravels
+"""been""","Bologna, Italy",SBHTravels
+"""been""","Philipsburg, St Martin \u002F St Maarten",SBHTravels
+"""want""","La Paz, Bolivia",SBHTravels
+"""been""","Jackson, MS, USA",SBHTravels
+"""want""","Seoul, South Korea",SBHTravels
+"""want""","Bogota, Colombia",SBHTravels
+"""want""","Pretoria, South Africa",SBHTravels
+"""want""","Sao Paulo, Brazil",SBHTravels
+"""been""","Jackson, WY, USA",SBHTravels
+"""been""","Chapel Hill, NC, USA",SBHTravels
+"""been""","Cherokee, NC, USA",SBHTravels
+"""been""","Charlotte, NC, USA",SBHTravels
+"""been""","Oakland, CA, USA",SBHTravels
+"""been""","Grapevine, TX, USA",SBHTravels
+"""want""","Guangzhou, China",SBHTravels
+"""been""","Springfield, MO, USA",SBHTravels
+"""want""","Kyoto, Japan",SBHTravels
+"""been""","Puno, Peru",SBHTravels
+"""been""","Arezzo, Italy",SBHTravels
+"""been""","Pascagoula, MS, USA",SBHTravels
+"""been""","Rosarito, Mexico",SBHTravels
+"""been""","Tijuana, Mexico",SBHTravels
+"""been""","Assisi, Italy",SBHTravels
+"""been""","Ontario, CA, USA",SBHTravels
+"""been""","Siena, Italy",SBHTravels
+"""been""","Sunny Isles Beach, FL, USA",SBHTravels
+"""been""","St. John's, Antigua and Barbuda",SBHTravels
+"""been""","Seven Mile Beach, Cayman Islands",SBHTravels
+"""want""","Oklahoma City, OK, USA",SBHTravels
+"""been""","Oranjestad, Aruba",SBHTravels

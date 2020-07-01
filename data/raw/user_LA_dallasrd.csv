@@ -1,0 +1,356 @@
+tag,place,user
+"""been""","Jackson, WY, USA",dallasrd
+"""been""","Ithaca, NY, USA",dallasrd
+"""been""","SeaTac, WA, USA",dallasrd
+"""been""","Hope, AK, USA",dallasrd
+"""been""","Talkeetna, AK, USA",dallasrd
+"""been""","Sterling, AK, USA",dallasrd
+"""been""","Clam Gulch, AK, USA",dallasrd
+"""been""","Bozeman, MT, USA",dallasrd
+"""been""","Nashville, TN, USA",dallasrd
+"""been""","Camas Valley, OR, USA",dallasrd
+"""been""","Canby, OR, USA",dallasrd
+"""been""","Chugiak, AK, USA",dallasrd
+"""been""","Petrified Forest National Park, AZ, USA",dallasrd
+"""been""","North Vancouver, British Columbia, Canada",dallasrd
+"""been""","Detroit, MI, USA",dallasrd
+"""been""","Silverdale, WA, USA",dallasrd
+"""been""","Glennallen, AK, USA",dallasrd
+"""been""","Grayland, WA, USA",dallasrd
+"""been""","Cannon Beach, OR, USA",dallasrd
+"""been""","Girdwood, AK, USA",dallasrd
+"""been""","Auburn, WA, USA",dallasrd
+"""been""","Chickaloon, AK, USA",dallasrd
+"""been""","Homer, AK, USA",dallasrd
+"""been""","Cascade Locks, OR, USA",dallasrd
+"""been""","70 Mile House, British Columbia, Canada",dallasrd
+"""been""","Chicken, AK, USA",dallasrd
+"""been""","Halibut Cove, AK, USA",dallasrd
+"""been""","Soldotna, AK, USA",dallasrd
+"""been""","Fairbanks, AK, USA",dallasrd
+"""been""","Haines, AK, USA",dallasrd
+"""been""","Napavine, WA, USA",dallasrd
+"""been""","Crescent City, CA, USA",dallasrd
+"""been"",""want""","Orlando, FL, USA",dallasrd
+"""been""","Kawaihae, HI, USA",dallasrd
+"""been""","Honaunau, HI, USA",dallasrd
+"""been""","Vancouver, WA, USA",dallasrd
+"""been""","Boise, ID, USA",dallasrd
+"""been""","The Dalles, OR, USA",dallasrd
+"""been""","Johnson's Crossing, Yukon, Canada",dallasrd
+"""been""","Tillamook, OR, USA",dallasrd
+"""been""","Amboy, WA, USA",dallasrd
+"""been""","Marina del Rey, CA, USA",dallasrd
+"""been""","Haines Junction, Yukon, Canada",dallasrd
+"""been""","Deadhorse, AK, USA",dallasrd
+"""been""","Tigard, OR, USA",dallasrd
+"""been""","Scottsdale, AZ, USA",dallasrd
+"""been""","Oklahoma City, OK, USA",dallasrd
+"""been""","Watson Lake, Yukon, Canada",dallasrd
+"""been""","Friday Harbor, WA, USA",dallasrd
+"""been""","Spokane, WA, USA",dallasrd
+"""been""","Seldovia, AK, USA",dallasrd
+"""been""","San Francisco, CA, USA",dallasrd
+"""been""","Page, AZ, USA",dallasrd
+"""been""","Anchor Point, AK, USA",dallasrd
+"""been""","Wailea, HI, USA",dallasrd
+"""been""","Tucson, AZ, USA",dallasrd
+"""been""","Reno, NV, USA",dallasrd
+"""been""","Paterson, NJ, USA",dallasrd
+"""been""","Hollywood, FL, USA",dallasrd
+"""been""","Kansas City, MO, USA",dallasrd
+"""been""","Banff, Alberta, Canada",dallasrd
+"""been""","Horseheads, NY, USA",dallasrd
+"""been""","Parsippany, NJ, USA",dallasrd
+"""been""","Glendale, CA, USA",dallasrd
+"""been""","Clarkston, WA, USA",dallasrd
+"""want""","Birmingham, AL, USA",dallasrd
+"""been""","Prudhoe Bay, AK, USA",dallasrd
+"""been""","Malibu, CA, USA",dallasrd
+"""been""","Wilmington, DE, USA",dallasrd
+"""been""","Stevenson, WA, USA",dallasrd
+"""been""","Knoxville, TN, USA",dallasrd
+"""been""","York, PA, USA",dallasrd
+"""been""","Waikoloa, HI, USA",dallasrd
+"""been""","Pepeekeo, HI, USA",dallasrd
+"""been""","Ocean Shores, WA, USA",dallasrd
+"""been""","Scranton, PA, USA",dallasrd
+"""been""","Pahoa, HI, USA",dallasrd
+"""been""","Pahala, HI, USA",dallasrd
+"""been""","Gatlinburg, TN, USA",dallasrd
+"""been""","Paramus, NJ, USA",dallasrd
+"""been""","Fargo, ND, USA",dallasrd
+"""been""","Dawson City, Yukon, Canada",dallasrd
+"""been""","Goldendale, WA, USA",dallasrd
+"""been""","Anaheim, CA, USA",dallasrd
+"""been""","Williams Lake, British Columbia, Canada",dallasrd
+"""been""","South San Francisco, CA, USA",dallasrd
+"""been""","Reedsport, OR, USA",dallasrd
+"""been""","Eugene, OR, USA",dallasrd
+"""been""","Estacada, OR, USA",dallasrd
+"""been""","Myrtle Point, OR, USA",dallasrd
+"""been""","Deadwood, SD, USA",dallasrd
+"""been""","Moscow, ID, USA",dallasrd
+"""been""","Florence, OR, USA",dallasrd
+"""been""","Kukuihaele, HI, USA",dallasrd
+"""been""","Puako, HI, USA",dallasrd
+"""been"",""want""","Hilo, HI, USA",dallasrd
+"""been""","Glacier View, AK, USA",dallasrd
+"""been""","Hawi, HI, USA",dallasrd
+"""been""","Wasilla, AK, USA",dallasrd
+"""been""","Prince George, British Columbia, Canada",dallasrd
+"""been""","Captain Cook, HI, USA",dallasrd
+"""been""","Carson, WA, USA",dallasrd
+"""been""","Yakutat, AK, USA",dallasrd
+"""been""","Raymond, WA, USA",dallasrd
+"""been""","Tampa, FL, USA",dallasrd
+"""been""","Larsen Bay, AK, USA",dallasrd
+"""been""","Fort Wainwright, AK, USA",dallasrd
+"""been""","Newport, OR, USA",dallasrd
+"""been""","Castle Rock, WA, USA",dallasrd
+"""been""","Willow, AK, USA",dallasrd
+"""been""","Newberg, OR, USA",dallasrd
+"""been""","Costa Mesa, CA, USA",dallasrd
+"""been""","North Bend, OR, USA",dallasrd
+"""been""","Richland, WA, USA",dallasrd
+"""been""","Mount Pocono, PA, USA",dallasrd
+"""been""","Oakland, CA, USA",dallasrd
+"""been""","Gakona, AK, USA",dallasrd
+"""been""","Bandon, OR, USA",dallasrd
+"""been""","Fritz Creek, AK, USA",dallasrd
+"""been""","Sonoma, CA, USA",dallasrd
+"""been""","Kamloops, British Columbia, Canada",dallasrd
+"""been""","Riverdale, NJ, USA",dallasrd
+"""been""","Waimea, HI, USA",dallasrd
+"""been""","Ridgewood, NJ, USA",dallasrd
+"""been""","Honomu, HI, USA",dallasrd
+"""been""","Honokaa, HI, USA",dallasrd
+"""been""","Holualoa, HI, USA",dallasrd
+"""been""","Chehalis, WA, USA",dallasrd
+"""been""","Chelan, WA, USA",dallasrd
+"""been""","Keauhou, HI, USA",dallasrd
+"""been""","Whistler, British Columbia, Canada",dallasrd
+"""been""","Victoria, British Columbia, Canada",dallasrd
+"""been""","Centralia, WA, USA",dallasrd
+"""been""","Valdez, AK, USA",dallasrd
+"""been""","Salem, OR, USA",dallasrd
+"""been""","Burbank, CA, USA",dallasrd
+"""been""","Kodiak Island, AK, USA",dallasrd
+"""been""","Eagle River, AK, USA",dallasrd
+"""been""","Rochester, WA, USA",dallasrd
+"""been""","Ketchikan, AK, USA",dallasrd
+"""been""","Panama City, FL, USA",dallasrd
+"""been""","Grand Junction, CO, USA",dallasrd
+"""been""","Eureka, CA, USA",dallasrd
+"""been""","Keystone, SD, USA",dallasrd
+"""been""","Gladstone, OR, USA",dallasrd
+"""been""","Sevierville, TN, USA",dallasrd
+"""been""","Beaverton, OR, USA",dallasrd
+"""want""","Niagara Falls, NY, USA",dallasrd
+"""been""","Gold Beach, OR, USA",dallasrd
+"""been""","Woodland, WA, USA",dallasrd
+"""been""","Bend, OR, USA",dallasrd
+"""been""","Lewiston, ID, USA",dallasrd
+"""been""","Yakima, WA, USA",dallasrd
+"""been""","Vancouver, British Columbia, Canada",dallasrd
+"""been""","Ocean View, HI, USA",dallasrd
+"""been""","Naalehu, HI, USA",dallasrd
+"""been""","Tombstone, AZ, USA",dallasrd
+"""been""","Gates Of The Arctic National Park and Preserve, AK, USA",dallasrd
+"""been""","Seal Rock, OR, USA",dallasrd
+"""been""","Grand Canyon National Park, AZ, USA",dallasrd
+"""been""","Waverly, NY, USA",dallasrd
+"""been""","Glacier Bay National Park and Preserve, AK, USA",dallasrd
+"""been""","Seaside, OR, USA",dallasrd
+"""been""","Monument Valley, UT, USA",dallasrd
+"""been""","Tok, AK, USA",dallasrd
+"""been""","Boulder, CO, USA",dallasrd
+"""been""","Kodiak National Wildlife Refuge, AK, USA",dallasrd
+"""been""","Cooper Landing, AK, USA",dallasrd
+"""been""","Juneau, AK, USA",dallasrd
+"""been""","Denali National Park and Preserve, AK, USA",dallasrd
+"""been""","Gresham, OR, USA",dallasrd
+"""been""","Wilkes-Barre, PA, USA",dallasrd
+"""been""","Dillingham, AK, USA",dallasrd
+"""been""","Delta Junction, AK, USA",dallasrd
+"""been""","Astoria, OR, USA",dallasrd
+"""been""","Arlington, OR, USA",dallasrd
+"""been""","Kasilof, AK, USA",dallasrd
+"""been""","Towanda, PA, USA",dallasrd
+"""been""","Cordova, AK, USA",dallasrd
+"""been""","Cleveland, OH, USA",dallasrd
+"""been""","Kenai, AK, USA",dallasrd
+"""been"",""want""","Salt Lake City, UT, USA",dallasrd
+"""been""","Port Angeles, WA, USA",dallasrd
+"""been""","Atlantic City, NJ, USA",dallasrd
+"""been"",""fave""","Hawaii Volcanoes National Park, HI, USA",dallasrd
+"""been""","Pullman, WA, USA",dallasrd
+"""been""","Kenai Fjords National Park, AK, USA",dallasrd
+"""been""","Katmai National Park and Preserve, AK, USA",dallasrd
+"""been""","Lynnwood, WA, USA",dallasrd
+"""been""","Rapid City, SD, USA",dallasrd
+"""been""","Port Alsworth, AK, USA",dallasrd
+"""been""","Burnaby, British Columbia, Canada",dallasrd
+"""been""","Waldport, OR, USA",dallasrd
+"""been""","Yuma, AZ, USA",dallasrd
+"""been""","Pittsburgh, PA, USA",dallasrd
+"""been""","Dover, DE, USA",dallasrd
+"""been""","Lincoln City, OR, USA",dallasrd
+"""been""","Laie, HI, USA",dallasrd
+"""been"",""want""","Atlanta, GA, USA",dallasrd
+"""been""","Kapolei, HI, USA",dallasrd
+"""been""","Kailua, HI, USA",dallasrd
+"""been""","Carson City, NV, USA",dallasrd
+"""been""","Carlsbad, CA, USA",dallasrd
+"""been""","San Jose, CA, USA",dallasrd
+"""been""","Beaumont, CA, USA",dallasrd
+"""been""","Desert Hot Springs, CA, USA",dallasrd
+"""been""","Pelican, AK, USA",dallasrd
+"""been""","Cape Canaveral, FL, USA",dallasrd
+"""been""","Bellevue, WA, USA",dallasrd
+"""been""","Denver, CO, USA",dallasrd
+"""been""","San Luis Obispo, CA, USA",dallasrd
+"""been""","Palmer, AK, USA",dallasrd
+"""been""","Lake Clark National Park and Preserve, AK, USA",dallasrd
+"""been""","Everett, WA, USA",dallasrd
+"""been""","Mount Rainier National Park, WA, USA",dallasrd
+"""been""","Manson, WA, USA",dallasrd
+"""been""","Kissimmee, FL, USA",dallasrd
+"""been""","Island of Hawaii, HI, USA",dallasrd
+"""been""","Ophir, OR, USA",dallasrd
+"""been""","Monterey, CA, USA",dallasrd
+"""been""","West Linn, OR, USA",dallasrd
+"""been""","Oregon City, OR, USA",dallasrd
+"""been""","Dease Lake, British Columbia, Canada",dallasrd
+"""been""","Oakland, NJ, USA",dallasrd
+"""been""","Pasadena, CA, USA",dallasrd
+"""been""","Williams, AZ, USA",dallasrd
+"""been""","Grand Mound, WA, USA",dallasrd
+"""been""","Dayton, OR, USA",dallasrd
+"""been""","Garfield, NJ, USA",dallasrd
+"""been""","Death Valley Junction, CA, USA",dallasrd
+"""been""","Depoe Bay, OR, USA",dallasrd
+"""been""","Waianae, HI, USA",dallasrd
+"""been""","Ocean City, NJ, USA",dallasrd
+"""been""","Nikiski, AK, USA",dallasrd
+"""been""","Bellingham, WA, USA",dallasrd
+"""been""","Federal Way, WA, USA",dallasrd
+"""been""","Wrangell-St Elias National Park and Preserve, AK, USA",dallasrd
+"""been""","Mammoth Lakes, CA, USA",dallasrd
+"""been""","Nikolaevsk, AK, USA",dallasrd
+"""been""","Marysville, WA, USA",dallasrd
+"""been""","North Pole, AK, USA",dallasrd
+"""been""","Redwood National Park, CA, USA",dallasrd
+"""been""","Fort Lauderdale, FL, USA",dallasrd
+"""been""","Clarks Summit, PA, USA",dallasrd
+"""been""","Ninilchik, AK, USA",dallasrd
+"""been""","Forks, WA, USA",dallasrd
+"""been""","Pocono Manor, PA, USA",dallasrd
+"""been""","Kapaau, HI, USA",dallasrd
+"""been""","West Hollywood, CA, USA",dallasrd
+"""been""","Palm Springs, CA, USA",dallasrd
+"""been""","Palm Desert, CA, USA",dallasrd
+"""been""","McMinnville, OR, USA",dallasrd
+"""been""","Kalispell, MT, USA",dallasrd
+"""been""","Rochester, NY, USA",dallasrd
+"""been""","Blue River, British Columbia, Canada",dallasrd
+"""been""","Philadelphia, PA, USA",dallasrd
+"""been""","Moose Pass, AK, USA",dallasrd
+"""been""","Wilsonville, OR, USA",dallasrd
+"""been""","Vader, WA, USA",dallasrd
+"""been""","Bakersfield, CA, USA",dallasrd
+"""been""","Portland, OR, USA",dallasrd
+"""been""","Colorado Springs, CO, USA",dallasrd
+"""been""","Treasure Island, FL, USA",dallasrd
+"""been""","Port Orford, OR, USA",dallasrd
+"""been""","Whitehorse, Yukon, Canada",dallasrd
+"""been""","Woodburn, OR, USA",dallasrd
+"""been""","Newark, NJ, USA",dallasrd
+"""been""","Yachats, OR, USA",dallasrd
+"""been""","Redding, CA, USA",dallasrd
+"""been""","Mackenzie, British Columbia, Canada",dallasrd
+"""been""","Kodiak, AK, USA",dallasrd
+"""been""","Cody, WY, USA",dallasrd
+"""been""","Kelso, WA, USA",dallasrd
+"""been""","Saint Cloud, FL, USA",dallasrd
+"""been""","Aurora, OR, USA",dallasrd
+"""been""","Kennewick, WA, USA",dallasrd
+"""been""","Newport Beach, CA, USA",dallasrd
+"""been""","Kalama, WA, USA",dallasrd
+"""been""","Olympia, WA, USA",dallasrd
+"""been""","Tacoma, WA, USA",dallasrd
+"""been""","St. Petersburg, FL, USA",dallasrd
+"""been""","Kalaoa, HI, USA",dallasrd
+"""been""","Flagstaff, AZ, USA",dallasrd
+"""been""","Hood River, OR, USA",dallasrd
+"""been""","Punaluu, HI, USA",dallasrd
+"""been""","Pigeon Forge, TN, USA",dallasrd
+"""been""","Houston, TX, USA",dallasrd
+"""been""","Toutle, WA, USA",dallasrd
+"""been""","Packwood, WA, USA",dallasrd
+"""been""","La Push, WA, USA",dallasrd
+"""been""","Kirkland, WA, USA",dallasrd
+"""been""","Idaho City, ID, USA",dallasrd
+"""been""","Toledo, WA, USA",dallasrd
+"""been""","Virginia City, NV, USA",dallasrd
+"""been""","Dallas, TX, USA",dallasrd
+"""been""","Chicago, IL, USA",dallasrd
+"""been""","Lanai City, HI, USA",dallasrd
+"""been""","Lacey, WA, USA",dallasrd
+"""been""","Fresno, CA, USA",dallasrd
+"""been""","Los Angeles, CA, USA",dallasrd
+"""been""","Kenai Lake, AK, USA",dallasrd
+"""been""","Akhiok, AK, USA",dallasrd
+"""been""","Las Vegas, NV, USA",dallasrd
+"""been""","Honolulu, HI, USA",dallasrd
+"""been""","Santa Monica, CA, USA",dallasrd
+"""been""","Palouse, WA, USA",dallasrd
+"""been""","Thousand Palms, CA, USA",dallasrd
+"""been""","Tumwater, WA, USA",dallasrd
+"""been""","Phoenix, AZ, USA",dallasrd
+"""been""","Cocoa Beach, FL, USA",dallasrd
+"""been""","Pasco, WA, USA",dallasrd
+"""been""","Sandpoint, ID, USA",dallasrd
+"""been""","Santa Rosa, CA, USA",dallasrd
+"""been""","Long Beach, CA, USA",dallasrd
+"""been""","Napa, CA, USA",dallasrd
+"""been""","Pukalani, HI, USA",dallasrd
+"""been""","Paia, HI, USA",dallasrd
+"""been""","Seattle, WA, USA",dallasrd
+"""been""","Inglewood, CA, USA",dallasrd
+"""been""","Yellowstone National Park, WY, USA",dallasrd
+"""been""","Kotzebue, AK, USA",dallasrd
+"""been""","Maui, HI, USA",dallasrd
+"""been""","Skagway, AK, USA",dallasrd
+"""been""","Tonopah, NV, USA",dallasrd
+"""been""","Lahaina, HI, USA",dallasrd
+"""been""","Kula, HI, USA",dallasrd
+"""been""","Clackamas, OR, USA",dallasrd
+"""been""","Kihei, HI, USA",dallasrd
+"""been""","Kahului, HI, USA",dallasrd
+"""been""","Seward, AK, USA",dallasrd
+"""been"",""want""","Kailua-Kona, HI, USA",dallasrd
+"""been""","Hana, HI, USA",dallasrd
+"""been""","Walla Walla, WA, USA",dallasrd
+"""been""","San Diego, CA, USA",dallasrd
+"""been"",""fave""","West Yellowstone, MT, USA",dallasrd
+"""been""","Missoula, MT, USA",dallasrd
+"""been""","Anchorage, AK, USA",dallasrd
+"""been""","Teslin, Yukon, Canada",dallasrd
+"""been""","Leavenworth, WA, USA",dallasrd
+"""been""","Beverly Hills, CA, USA",dallasrd
+"""been""","Longview, WA, USA",dallasrd
+"""been""","Eatonville, WA, USA",dallasrd
+"""been""","Santa Cruz, CA, USA",dallasrd
+"""been""","Toledo, OR, USA",dallasrd
+"""been""","Santa Barbara, CA, USA",dallasrd
+"""been""","Dupont, WA, USA",dallasrd
+"""been""","Beaver Creek, Yukon, Canada",dallasrd
+"""been""","Port Townsend, WA, USA",dallasrd
+"""been""","Elmira, NY, USA",dallasrd
+"""been""","Binghamton, NY, USA",dallasrd
+"""been""","Troutdale, OR, USA",dallasrd
+"""been""","Coos Bay, OR, USA",dallasrd
+"""been""","Sacramento, CA, USA",dallasrd
+"""been""","New York City, NY, USA",dallasrd
+"""been""","Lake Oswego, OR, USA",dallasrd

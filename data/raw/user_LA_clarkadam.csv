@@ -1,0 +1,418 @@
+tag,place,user
+"""want""","Costa Adeje, Spain",clarkadam
+"""want""","Salzburg, Austria",clarkadam
+"""want""","Icmeler, Turkey",clarkadam
+"""want""","Hua Hin, Thailand",clarkadam
+"""want""","Akumal, Mexico",clarkadam
+"""want""","Sa Coma, Spain",clarkadam
+"""want""","Niagara Falls, NY, USA",clarkadam
+"""want""","Port d'Alcudia, Spain",clarkadam
+"""want""","Zurich, Switzerland",clarkadam
+"""been""","Paris, France",clarkadam
+"""been""","Lyon, France",clarkadam
+"""been""","Atlantic City, NJ, USA",clarkadam
+"""want""","Vilamoura, Portugal",clarkadam
+"""been""","Cleveland, OH, USA",clarkadam
+"""been""","Raleigh, NC, USA",clarkadam
+"""been""","Brasilia, Brazil",clarkadam
+"""been""","Amsterdam, The Netherlands",clarkadam
+"""want""","Puerto de Santiago, Spain",clarkadam
+"""want""","Corralejo, Spain",clarkadam
+"""been""","Albufeira, Portugal",clarkadam
+"""want""","Cairns, Australia",clarkadam
+"""want""","Bophut, Thailand",clarkadam
+"""want""","Brisbane, Australia",clarkadam
+"""been""","Sydney, Australia",clarkadam
+"""want""","Lancaster, PA, USA",clarkadam
+"""want""","Stuttgart, Germany",clarkadam
+"""been""","Virginia Beach, VA, USA",clarkadam
+"""want""","Vienna, Austria",clarkadam
+"""want""","Kathmandu, Nepal",clarkadam
+"""been"",""want""","New Delhi, India",clarkadam
+"""want""","Chennai (Madras), India",clarkadam
+"""want""","Jaipur, India",clarkadam
+"""want""","Mumbai, India",clarkadam
+"""been""","Nuevo Vallarta, Mexico",clarkadam
+"""want""","Armacao dos Buzios, Brazil",clarkadam
+"""want""","Costa Calma, Spain",clarkadam
+"""want""","Playa d'en Bossa, Spain",clarkadam
+"""been"",""want""","Minato, Japan",clarkadam
+"""want""","Queenstown, New Zealand",clarkadam
+"""want""","Chuo, Japan",clarkadam
+"""want""","Chiyoda, Japan",clarkadam
+"""want""","Costa Teguise, Spain",clarkadam
+"""want""","Ottawa, Ontario, Canada",clarkadam
+"""want""","Kardamena, Greece",clarkadam
+"""want""","Oslo, Norway",clarkadam
+"""want""","Karon, Thailand",clarkadam
+"""want""","Calangute, India",clarkadam
+"""been""","Manchester, UK",clarkadam
+"""want""","Toronto, Ontario, Canada",clarkadam
+"""been""","Charlotte, NC, USA",clarkadam
+"""want""","Shinjuku, Japan",clarkadam
+"""want""","Mexico City, Mexico",clarkadam
+"""want""","Hoi An, Vietnam",clarkadam
+"""been""","Lexington, KY, USA",clarkadam
+"""want""","Tulsa, OK, USA",clarkadam
+"""want""","Melaka, Malaysia",clarkadam
+"""been""","Cancun, Mexico",clarkadam
+"""been""","Lisbon, Portugal",clarkadam
+"""been""","Lucerne, Switzerland",clarkadam
+"""want""","Paphos, Cyprus",clarkadam
+"""want""","Limassol City, Cyprus",clarkadam
+"""want""","Tel Aviv, Israel",clarkadam
+"""been""","Cozumel, Mexico",clarkadam
+"""want""","Jerusalem, Israel",clarkadam
+"""been""","Oklahoma City, OK, USA",clarkadam
+"""want""","Jackson, WY, USA",clarkadam
+"""want""","Armutalan, Turkey",clarkadam
+"""been""","Jhansi, India",clarkadam
+"""been""","Geneva, Switzerland",clarkadam
+"""been""","Playa del Carmen, Mexico",clarkadam
+"""want""","Tulum, Mexico",clarkadam
+"""want""","Istanbul, Turkey",clarkadam
+"""want""","Marrakech, Morocco",clarkadam
+"""want""","Maspalomas, Spain",clarkadam
+"""want""","Columbus, OH, USA",clarkadam
+"""been""","Chattanooga, TN, USA",clarkadam
+"""been""","Oakland, CA, USA",clarkadam
+"""want""","Los Cristianos, Spain",clarkadam
+"""been""","Tokyo, Japan",clarkadam
+"""been""","Montreal, Quebec, Canada",clarkadam
+"""want""","Quebec City, Quebec, Canada",clarkadam
+"""been""","Pittsburgh, PA, USA",clarkadam
+"""want""","Playa de Muro, Spain",clarkadam
+"""want""","Yokohama, Japan",clarkadam
+"""want""","Hakone-machi, Japan",clarkadam
+"""want""","Nabq Bay, Egypt",clarkadam
+"""want""","Funchal, Portugal",clarkadam
+"""want""","Mellieha, Malta",clarkadam
+"""been""","Sacramento, CA, USA",clarkadam
+"""want""","Fort Worth, TX, USA",clarkadam
+"""want""","Marmaris, Turkey",clarkadam
+"""been""","Auckland Central, New Zealand",clarkadam
+"""want""","Perth, Australia",clarkadam
+"""want""","Phnom Penh, Cambodia",clarkadam
+"""want""","Playa del Ingles, Spain",clarkadam
+"""want""","Melbourne, Australia",clarkadam
+"""want""","Playa de las Americas, Spain",clarkadam
+"""been""","Palm Springs, CA, USA",clarkadam
+"""been""","Sao Paulo, Brazil",clarkadam
+"""want""","Guardalavaca, Cuba",clarkadam
+"""want""","Protaras, Cyprus",clarkadam
+"""want""","Macau, China",clarkadam
+"""been""","Rio de Janeiro, Brazil",clarkadam
+"""been""","Monterey, CA, USA",clarkadam
+"""want""","Salou, Spain",clarkadam
+"""want""","Santa Ponsa, Spain",clarkadam
+"""want""","Ho Chi Minh City, Vietnam",clarkadam
+"""want""","Hanoi, Vietnam",clarkadam
+"""been""","Dallas, TX, USA",clarkadam
+"""want""","Porto, Portugal",clarkadam
+"""been""","Kansas City, MO, USA",clarkadam
+"""been""","Minneapolis, MN, USA",clarkadam
+"""want""","Biloxi, MS, USA",clarkadam
+"""been""","Phuket, Thailand",clarkadam
+"""want""","Punta Cana, Dominican Republic",clarkadam
+"""been""","Bangkok, Thailand",clarkadam
+"""been""","Reno, NV, USA",clarkadam
+"""want""","Puerto Plata, Dominican Republic",clarkadam
+"""want""","Chiang Mai, Thailand",clarkadam
+"""want""","St. Pete Beach, FL, USA",clarkadam
+"""been""","St. Petersburg, FL, USA",clarkadam
+"""been""","Taipei, Taiwan",clarkadam
+"""been""","Arlington, VA, USA",clarkadam
+"""been""","Scottsdale, AZ, USA",clarkadam
+"""want""","Sedona, AZ, USA",clarkadam
+"""want""","Hersonissos, Greece",clarkadam
+"""want""","Moscow, Russia",clarkadam
+"""want""","Playa Paraiso, Mexico",clarkadam
+"""been""","Portland, OR, USA",clarkadam
+"""been""","Uberlandia, Brazil",clarkadam
+"""want""","Siem Reap, Cambodia",clarkadam
+"""been""","Birmingham, AL, USA",clarkadam
+"""been""","West Palm Beach, FL, USA",clarkadam
+"""want""","San Pedro, Belize",clarkadam
+"""been""","Dublin, Ireland",clarkadam
+"""been""","Las Vegas, NV, USA",clarkadam
+"""want""","Havana, Cuba",clarkadam
+"""been""","Long Beach, CA, USA",clarkadam
+"""been""","Napa, CA, USA",clarkadam
+"""been""","Alexandria, VA, USA",clarkadam
+"""been""","Tijuana, Mexico",clarkadam
+"""been""","Phoenix, AZ, USA",clarkadam
+"""want""","Naha, Japan",clarkadam
+"""want""","Milwaukee, WI, USA",clarkadam
+"""want""","Nagoya, Japan",clarkadam
+"""want""","Bologna, Italy",clarkadam
+"""want""","Cala San Vincente, Spain",clarkadam
+"""been""","Chicago, IL, USA",clarkadam
+"""want""","Magaluf, Spain",clarkadam
+"""been""","Los Angeles, CA, USA",clarkadam
+"""want""","Acapulco, Mexico",clarkadam
+"""want""","Palmanova, Spain",clarkadam
+"""want""","Galveston, TX, USA",clarkadam
+"""want""","Ayia Napa, Cyprus",clarkadam
+"""been""","Juneau, AK, USA",clarkadam
+"""want""","Belek, Turkey",clarkadam
+"""want""","Manila, Philippines",clarkadam
+"""been""","Providence, RI, USA",clarkadam
+"""want""","Caleta de Fuste, Spain",clarkadam
+"""want""","Estes Park, CO, USA",clarkadam
+"""been""","Banff, Alberta, Canada",clarkadam
+"""want""","Calgary, Alberta, Canada",clarkadam
+"""been""","Brooklyn, NY, USA",clarkadam
+"""want""","Santa Eulalia del Rio, Spain",clarkadam
+"""been""","Nashville, TN, USA",clarkadam
+"""been""","Laguna Beach, CA, USA",clarkadam
+"""been""","Puerto Vallarta, Mexico",clarkadam
+"""want""","Playa Blanca, Spain",clarkadam
+"""want""","Cartagena, Colombia",clarkadam
+"""want""","Osaka, Japan",clarkadam
+"""been""","Tucson, AZ, USA",clarkadam
+"""want""","North Myrtle Beach, SC, USA",clarkadam
+"""want""","Cala'n Bosch, Spain",clarkadam
+"""been""","Kyoto, Japan",clarkadam
+"""want""","Kobe, Japan",clarkadam
+"""want""","Laganas, Greece",clarkadam
+"""want""","Pefkos, Greece",clarkadam
+"""been""","Santa Fe, NM, USA",clarkadam
+"""been""","San Francisco, CA, USA",clarkadam
+"""been"",""want""","San Antonio, TX, USA",clarkadam
+"""want""","Ocean City, MD, USA",clarkadam
+"""been""","St. John's, Antigua and Barbuda",clarkadam
+"""want""","Fukuoka, Japan",clarkadam
+"""want""","Palm - Eagle Beach, Aruba",clarkadam
+"""want""","Oranjestad, Aruba",clarkadam
+"""want""","Kata Beach, Thailand",clarkadam
+"""want""","Puerto Del Carmen, Spain",clarkadam
+"""want""","Breckenridge, CO, USA",clarkadam
+"""been""","Boulder, CO, USA",clarkadam
+"""want""","Guangzhou, China",clarkadam
+"""want""","Seoul, South Korea",clarkadam
+"""been""","Turin, Italy",clarkadam
+"""been""","Birmingham, UK",clarkadam
+"""want""","Buenos Aires, Argentina",clarkadam
+"""been""","Detroit, MI, USA",clarkadam
+"""been""","Gatlinburg, TN, USA",clarkadam
+"""been""","Milan, Italy",clarkadam
+"""been""","Woodinville, WA, USA",clarkadam
+"""been""","San Jose del Cabo, Mexico",clarkadam
+"""been""","Cabo San Lucas, Mexico",clarkadam
+"""been""","Myrtle Beach, SC, USA",clarkadam
+"""been""","Flagstaff, AZ, USA",clarkadam
+"""want""","Turgutreis, Turkey",clarkadam
+"""want""","Kuta, Indonesia",clarkadam
+"""want""","Oludeniz, Turkey",clarkadam
+"""want""","Gumbet, Turkey",clarkadam
+"""been""","Castries, St. Lucia",clarkadam
+"""been""","Newport, RI, USA",clarkadam
+"""want""","Kota Kinabalu, Malaysia",clarkadam
+"""want""","Nusa Dua, Indonesia",clarkadam
+"""want""","Buffalo, NY, USA",clarkadam
+"""been""","Vancouver, British Columbia, Canada",clarkadam
+"""been""","Victoria, British Columbia, Canada",clarkadam
+"""been""","Ko Phi Phi Don, Thailand",clarkadam
+"""been""","La Jolla, CA, USA",clarkadam
+"""been""","Orlando, FL, USA",clarkadam
+"""been""","Kirkland, WA, USA",clarkadam
+"""want""","Pigeon Forge, TN, USA",clarkadam
+"""been""","Agra, India",clarkadam
+"""been""","Colorado Springs, CO, USA",clarkadam
+"""been""","Houston, TX, USA",clarkadam
+"""want""","Adeje, Spain",clarkadam
+"""been""","Venice, Italy",clarkadam
+"""been""","Whistler, British Columbia, Canada",clarkadam
+"""want""","Madrid, Spain",clarkadam
+"""want""","Bodrum City, Turkey",clarkadam
+"""want""","Helsinki, Finland",clarkadam
+"""want""","Dalyan, Turkey",clarkadam
+"""want""","La Fortuna de San Carlos, Costa Rica",clarkadam
+"""been""","West Hollywood, CA, USA",clarkadam
+"""been""","Charleston, SC, USA",clarkadam
+"""want""","Makadi Bay, Egypt",clarkadam
+"""want""","Dubrovnik, Croatia",clarkadam
+"""been""","Glasgow, UK",clarkadam
+"""been""","San Juan, Puerto Rico",clarkadam
+"""want""","Marsa Alam, Egypt",clarkadam
+"""been""","Newark, NJ, USA",clarkadam
+"""been""","Knoxville, TN, USA",clarkadam
+"""want""","Saint Julian's, Malta",clarkadam
+"""want""","Puerto Aventuras, Mexico",clarkadam
+"""been""","Palermo, Italy",clarkadam
+"""want""","Austin, TX, USA",clarkadam
+"""been""","Pensacola, FL, USA",clarkadam
+"""want""","Runaway Bay, Jamaica",clarkadam
+"""been""","Florence, Italy",clarkadam
+"""want""","Ocho Rios, Jamaica",clarkadam
+"""want""","Cayo Guillermo, Cuba",clarkadam
+"""been""","Salt Lake City, UT, USA",clarkadam
+"""want""","El Gouna, Egypt",clarkadam
+"""want""","Hurghada, Egypt",clarkadam
+"""want""","Negril, Jamaica",clarkadam
+"""been""","Jacksonville, FL, USA",clarkadam
+"""been""","Astoria, OR, USA",clarkadam
+"""been""","Corpus Christi, TX, USA",clarkadam
+"""want""","Malia, Greece",clarkadam
+"""been""","Panama City Beach, FL, USA",clarkadam
+"""want""","Singapore, Singapore",clarkadam
+"""been""","Haiti, Caribbean",clarkadam
+"""want""","Savannah, GA, USA",clarkadam
+"""want""","Benidorm, Spain",clarkadam
+"""been"",""want""","Shanghai, China",clarkadam
+"""want""","St. Petersburg, Russia",clarkadam
+"""been""","Albuquerque, NM, USA",clarkadam
+"""been""","Freeport, Bahamas",clarkadam
+"""want""","Valencia, Spain",clarkadam
+"""been""","Baltimore, MD, USA",clarkadam
+"""want""","Bayahibe, Dominican Republic",clarkadam
+"""want""","Alcudia, Spain",clarkadam
+"""been""","Pune, India",clarkadam
+"""want""","Puerto Morelos, Mexico",clarkadam
+"""been""","Sonoma, CA, USA",clarkadam
+"""been""","Miami Beach, FL, USA",clarkadam
+"""want""","Sant Antoni de Portmany, Spain",clarkadam
+"""want""","Colakli, Turkey",clarkadam
+"""been""","Miami, FL, USA",clarkadam
+"""been""","Anaheim, CA, USA",clarkadam
+"""been""","Tampa, FL, USA",clarkadam
+"""want""","Cardiff, UK",clarkadam
+"""been""","Rome, Italy",clarkadam
+"""want""","Sidari, Greece",clarkadam
+"""want""","Stockholm, Sweden",clarkadam
+"""want""","Budapest, Hungary",clarkadam
+"""been""","Santa Barbara, CA, USA",clarkadam
+"""been""","Nassau, Bahamas",clarkadam
+"""want""","Legian, Indonesia",clarkadam
+"""want""","Imerovigli, Greece",clarkadam
+"""been""","Memphis, TN, USA",clarkadam
+"""want""","Cordoba, Spain",clarkadam
+"""been""","Bristol, UK",clarkadam
+"""been""","Beverly Hills, CA, USA",clarkadam
+"""been""","Brussels, Belgium",clarkadam
+"""want""","Marbella, Spain",clarkadam
+"""want""","Malaga, Spain",clarkadam
+"""want""","Niagara Falls, Ontario, Canada",clarkadam
+"""want""","Niagara-on-the-Lake, Ontario, Canada",clarkadam
+"""want""","Cocoa Beach, FL, USA",clarkadam
+"""been""","Philadelphia, PA, USA",clarkadam
+"""been""","Clearwater, FL, USA",clarkadam
+"""been""","Naples, Italy",clarkadam
+"""want""","Blackpool, UK",clarkadam
+"""want""","Faliraki, Greece",clarkadam
+"""been""","Santa Monica, CA, USA",clarkadam
+"""want""","Rhodes Town, Greece",clarkadam
+"""want""","Liverpool, UK",clarkadam
+"""want""","Munich, Germany",clarkadam
+"""want""","Gettysburg, PA, USA",clarkadam
+"""been""","London, UK",clarkadam
+"""want""","Krakow, Poland",clarkadam
+"""want""","Cala d'Or, Spain",clarkadam
+"""been""","Santa Cruz, CA, USA",clarkadam
+"""want""","Beldibi, Turkey",clarkadam
+"""want""","Rose Hall, Jamaica",clarkadam
+"""been""","Oxford, UK",clarkadam
+"""been""","Fort Myers Beach, FL, USA",clarkadam
+"""been""","Kissimmee, FL, USA",clarkadam
+"""want""","Seminyak, Indonesia",clarkadam
+"""want""","Chaweng, Thailand",clarkadam
+"""been""","Fort Myers, FL, USA",clarkadam
+"""been""","San Jose, CA, USA",clarkadam
+"""been""","Carmel, CA, USA",clarkadam
+"""want""","Hamburg, Germany",clarkadam
+"""been""","Frankfurt, Germany",clarkadam
+"""want""","Bengaluru, India",clarkadam
+"""want""","San Sebastian - Donostia, Spain",clarkadam
+"""want""","Oia, Greece",clarkadam
+"""want""","Playa Mujeres, Mexico",clarkadam
+"""want""","Calas de Majorca, Spain",clarkadam
+"""want""","Cape May, NJ, USA",clarkadam
+"""want""","Ao Nang, Thailand",clarkadam
+"""been""","Fort Lauderdale, FL, USA",clarkadam
+"""been""","Naples, FL, USA",clarkadam
+"""want""","Torremolinos, Spain",clarkadam
+"""want""","Kusadasi, Turkey",clarkadam
+"""want""","Belfast, UK",clarkadam
+"""been""","Williamsburg, VA, USA",clarkadam
+"""want""","Berlin, Germany",clarkadam
+"""want""","Seville, Spain",clarkadam
+"""want""","Jakarta, Indonesia",clarkadam
+"""been""","Denver, CO, USA",clarkadam
+"""been""","St. Augustine, FL, USA",clarkadam
+"""been""","Honolulu, HI, USA",clarkadam
+"""want""","Bournemouth, UK",clarkadam
+"""want""","Alanya, Turkey",clarkadam
+"""been""","Hollywood, FL, USA",clarkadam
+"""been""","Nice, France",clarkadam
+"""been""","Daytona Beach, FL, USA",clarkadam
+"""been""","Washington DC, DC, USA",clarkadam
+"""want""","Side, Turkey",clarkadam
+"""want""","Candolim, India",clarkadam
+"""want""","Poipu, HI, USA",clarkadam
+"""want""","Kemer, Turkey",clarkadam
+"""want""","Hong Kong, China",clarkadam
+"""want""","Sunny Beach, Bulgaria",clarkadam
+"""been"",""want""","Beijing, China",clarkadam
+"""been""","Boston, MA, USA",clarkadam
+"""been""","Asheville, NC, USA",clarkadam
+"""want""","Antalya, Turkey",clarkadam
+"""want""","Dubai, United Arab Emirates",clarkadam
+"""been""","Nadi, Fiji",clarkadam
+"""want""","New Orleans, LA, USA",clarkadam
+"""been""","Great Falls, MT, USA",clarkadam
+"""want""","Tsilivi, Greece",clarkadam
+"""want""","Kailua-Kona, HI, USA",clarkadam
+"""want""","Cincinnati, OH, USA",clarkadam
+"""want""","Athens, Greece",clarkadam
+"""been""","San Diego, CA, USA",clarkadam
+"""been""","Bath, UK",clarkadam
+"""want""","Warsaw, Poland",clarkadam
+"""want""","Ciutadella, Spain",clarkadam
+"""been""","Bruges, Belgium",clarkadam
+"""want""","Palma de Mallorca, Spain",clarkadam
+"""been""","Cannes, France",clarkadam
+"""been""","Seattle, WA, USA",clarkadam
+"""been""","Auckland, New Zealand",clarkadam
+"""been""","Lahaina, HI, USA",clarkadam
+"""want""","Cairo, Egypt",clarkadam
+"""been""","Kihei, HI, USA",clarkadam
+"""want""","Port El Kantaoui, Tunisia",clarkadam
+"""want""","Surfers Paradise, Australia",clarkadam
+"""been""","Roatan, Honduras",clarkadam
+"""want""","Midoun, Tunisia",clarkadam
+"""want""","Monastir, Tunisia",clarkadam
+"""been""","Indianapolis, IN, USA",clarkadam
+"""want""","Holguin, Cuba",clarkadam
+"""been""","Louisville, KY, USA",clarkadam
+"""been""","New York City, NY, USA",clarkadam
+"""want""","Cologne, Germany",clarkadam
+"""want""","Anchorage, AK, USA",clarkadam
+"""want""","Puerto Rico, Spain",clarkadam
+"""been""","Barcelona, Spain",clarkadam
+"""want""","Lloret de Mar, Spain",clarkadam
+"""want""","Bandung, Indonesia",clarkadam
+"""want""","Hershey, PA, USA",clarkadam
+"""been""","Cusco, Peru",clarkadam
+"""been""","El Paso, TX, USA",clarkadam
+"""been""","Lima, Peru",clarkadam
+"""want""","Little Rock, AR, USA",clarkadam
+"""want""","Wisconsin Dells, WI, USA",clarkadam
+"""want""","Sanur, Indonesia",clarkadam
+"""want""","Hammamet, Tunisia",clarkadam
+"""want""","Ubud, Indonesia",clarkadam
+"""been""","Omaha, NE, USA",clarkadam
+"""want""","Sousse, Tunisia",clarkadam
+"""been""","Wailea, HI, USA",clarkadam
+"""been""","Brighton, UK",clarkadam
+"""been""","Richmond, VA, USA",clarkadam
+"""want""","Puerto de la Cruz, Spain",clarkadam
+"""been""","Portland, ME, USA",clarkadam
+"""want""","Lindos, Greece",clarkadam
+"""want""","Copenhagen, Denmark",clarkadam
+"""been""","Santiago, Chile",clarkadam
+"""been""","Atlanta, GA, USA",clarkadam
+"""want""","Stalis, Greece",clarkadam
+"""been""","Kapolei, HI, USA",clarkadam
+"""want""","Patong, Thailand",clarkadam
+"""been""","Prague, Czech Republic",clarkadam
+"""been""","Bellevue, WA, USA",clarkadam

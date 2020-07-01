@@ -1,0 +1,965 @@
+tag,place,user
+"""been""","Salzburg, Austria",ExplorerOne
+"""been""","Quezon, Philippines",ExplorerOne
+"""been""","Ann Arbor, MI, USA",ExplorerOne
+"""been""","Darrow, LA, USA",ExplorerOne
+"""been""","Milpitas, CA, USA",ExplorerOne
+"""been""","Easton, PA, USA",ExplorerOne
+"""been""","Hamden, CT, USA",ExplorerOne
+"""been""","Vulcan, Alberta, Canada",ExplorerOne
+"""been""","Hartford, CT, USA",ExplorerOne
+"""been""","Kanchanaburi, Thailand",ExplorerOne
+"""been""","Virginia, MN, USA",ExplorerOne
+"""been""","Ponce Inlet, FL, USA",ExplorerOne
+"""been""","Butuan, Philippines",ExplorerOne
+"""been""","Heidelberg, Germany",ExplorerOne
+"""been""","Scottsbluff, NE, USA",ExplorerOne
+"""been""","Plaquemine, LA, USA",ExplorerOne
+"""been""","Wichita, KS, USA",ExplorerOne
+"""been""","Ubud, Indonesia",ExplorerOne
+"""been""","Sanur, Indonesia",ExplorerOne
+"""been""","Monterey, CA, USA",ExplorerOne
+"""been""","Fort Worth, TX, USA",ExplorerOne
+"""been""","Canton, OH, USA",ExplorerOne
+"""been""","Cannonville, UT, USA",ExplorerOne
+"""been""","Barcelona, Spain",ExplorerOne
+"""been""","Santorini, Greece",ExplorerOne
+"""been""","Pierre, SD, USA",ExplorerOne
+"""been""","Pine Ridge, SD, USA",ExplorerOne
+"""been""","Welch, MN, USA",ExplorerOne
+"""been""","Monastir, Tunisia",ExplorerOne
+"""been""","Roatan, Honduras",ExplorerOne
+"""been""","Mahdia, Tunisia",ExplorerOne
+"""been""","Eschdorf, Luxembourg",ExplorerOne
+"""been""","Hoscheid, Luxembourg",ExplorerOne
+"""been""","Cairo, Egypt",ExplorerOne
+"""been""","Boulder, UT, USA",ExplorerOne
+"""been""","Giza, Egypt",ExplorerOne
+"""been""","Luxor, Egypt",ExplorerOne
+"""been""","Aswan, Egypt",ExplorerOne
+"""been""","Blanding, UT, USA",ExplorerOne
+"""been""","Amsterdam, The Netherlands",ExplorerOne
+"""been""","Morro Bay, CA, USA",ExplorerOne
+"""been""","Big Water, UT, USA",ExplorerOne
+"""been""","Winslow, AZ, USA",ExplorerOne
+"""been""","Roswell, NM, USA",ExplorerOne
+"""been""","Atlantic City, NJ, USA",ExplorerOne
+"""been""","Springdale, UT, USA",ExplorerOne
+"""been""","Yosemite National Park, CA, USA",ExplorerOne
+"""been""","Minsk, Belarus",ExplorerOne
+"""been""","Cloquet, MN, USA",ExplorerOne
+"""been""","Carlsbad Caverns National Park, NM, USA",ExplorerOne
+"""been""","Oslo, Norway",ExplorerOne
+"""been""","Antalya, Turkey",ExplorerOne
+"""been""","Beijing, China",ExplorerOne
+"""been""","Bryce Canyon National Park, UT, USA",ExplorerOne
+"""been""","Chisinau, Moldova",ExplorerOne
+"""been""","Black Canyon Of The Gunnison National Park, CO, USA",ExplorerOne
+"""been""","Capitol Reef National Park, UT, USA",ExplorerOne
+"""been""","Canyonlands National Park, UT, USA",ExplorerOne
+"""been""","Arches National Park, UT, USA",ExplorerOne
+"""been""","Chattanooga, TN, USA",ExplorerOne
+"""been""","Badlands National Park, SD, USA",ExplorerOne
+"""been""","Coldfoot, AK, USA",ExplorerOne
+"""been""","Alamogordo, NM, USA",ExplorerOne
+"""been""","Niagara Falls, NY, USA",ExplorerOne
+"""been""","Ottawa, Ontario, Canada",ExplorerOne
+"""been""","Revelstoke, British Columbia, Canada",ExplorerOne
+"""been""","Gulfport, MS, USA",ExplorerOne
+"""been""","Hong Kong, China",ExplorerOne
+"""been""","Nanjing, China",ExplorerOne
+"""been""","Anipemza, Armenia",ExplorerOne
+"""been""","Grand Canyon National Park, AZ, USA",ExplorerOne
+"""been""","Franconia, NH, USA",ExplorerOne
+"""been""","Invermere, British Columbia, Canada",ExplorerOne
+"""been""","Death Valley National Park, CA, USA",ExplorerOne
+"""been""","Golden, British Columbia, Canada",ExplorerOne
+"""been""","Everglades National Park, FL, USA",ExplorerOne
+"""been""","Stillwater, OK, USA",ExplorerOne
+"""been""","Crater Lake National Park, OR, USA",ExplorerOne
+"""been""","Doylestown, PA, USA",ExplorerOne
+"""been""","Toronto, Ontario, Canada",ExplorerOne
+"""been""","Mannheim, Germany",ExplorerOne
+"""been""","Sur, Lebanon",ExplorerOne
+"""been""","Sault Ste. Marie, Ontario, Canada",ExplorerOne
+"""been""","Jackson, MS, USA",ExplorerOne
+"""been""","Canakkale, Turkey",ExplorerOne
+"""been""","Kyiv (Kiev), Ukraine",ExplorerOne
+"""been""","Vienna, Austria",ExplorerOne
+"""been""","Goreme, Turkey",ExplorerOne
+"""been""","Joshua Tree National Park, CA, USA",ExplorerOne
+"""been""","Urgup, Turkey",ExplorerOne
+"""been""","Qana, Lebanon",ExplorerOne
+"""been""","Tulsa, OK, USA",ExplorerOne
+"""been""","Harrisburg, PA, USA",ExplorerOne
+"""been""","Guadalupe Mountains National Park, TX, USA",ExplorerOne
+"""been""","Lexington, KY, USA",ExplorerOne
+"""been""","Great Smoky Mountains National Park, TN, USA",ExplorerOne
+"""been""","Laval, Quebec, Canada",ExplorerOne
+"""been""","Cozumel, Mexico",ExplorerOne
+"""been""","Bchamoun, Lebanon",ExplorerOne
+"""been""","Cancun, Mexico",ExplorerOne
+"""been""","Chichen Itza, Mexico",ExplorerOne
+"""been""","Rocky Mountain National Park, CO, USA",ExplorerOne
+"""been""","Beirut, Lebanon",ExplorerOne
+"""been""","Olympic National Park, WA, USA",ExplorerOne
+"""been""","Mitchell, SD, USA",ExplorerOne
+"""been""","Mount Rainier National Park, WA, USA",ExplorerOne
+"""been""","Mammoth Cave National Park, KY, USA",ExplorerOne
+"""been""","Rancho Palos Verdes, CA, USA",ExplorerOne
+"""been""","Mendocino, CA, USA",ExplorerOne
+"""been""","Mexico City, Mexico",ExplorerOne
+"""been""","Pamukkale, Turkey",ExplorerOne
+"""been""","Denizli, Turkey",ExplorerOne
+"""been""","Lassen Volcanic National Park, CA, USA",ExplorerOne
+"""been""","Collinsville, IL, USA",ExplorerOne
+"""been""","Kirkwood, CA, USA",ExplorerOne
+"""been""","Steamboat Springs, CO, USA",ExplorerOne
+"""been""","Quebec City, Quebec, Canada",ExplorerOne
+"""been""","Carrizozo, NM, USA",ExplorerOne
+"""been""","Montreal, Quebec, Canada",ExplorerOne
+"""been""","Damascus, Syria",ExplorerOne
+"""been""","Richfield, MN, USA",ExplorerOne
+"""been""","Wind Cave National Park, SD, USA",ExplorerOne
+"""been""","Zion National Park, UT, USA",ExplorerOne
+"""been""","Charleston, WV, USA",ExplorerOne
+"""been""","Shenandoah National Park, VA, USA",ExplorerOne
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",ExplorerOne
+"""been""","Kennicott, AK, USA",ExplorerOne
+"""been""","Shoshone, ID, USA",ExplorerOne
+"""been""","McCarthy, AK, USA",ExplorerOne
+"""been""","Theodore Roosevelt National Park, ND, USA",ExplorerOne
+"""been""","Kedisan, Indonesia",ExplorerOne
+"""been""","Florissant, CO, USA",ExplorerOne
+"""been""","Altamonte Springs, FL, USA",ExplorerOne
+"""been""","Jacksonville, FL, USA",ExplorerOne
+"""been""","Skalholt, Iceland",ExplorerOne
+"""been""","Whitehorse, Yukon, Canada",ExplorerOne
+"""been""","Kansas City, MO, USA",ExplorerOne
+"""been""","Bloomfield, NM, USA",ExplorerOne
+"""been""","Regina, Saskatchewan, Canada",ExplorerOne
+"""been""","Biloxi, MS, USA",ExplorerOne
+"""been""","Saskatoon, Saskatchewan, Canada",ExplorerOne
+"""been""","Singapore, Singapore",ExplorerOne
+"""been""","Red Wing, MN, USA",ExplorerOne
+"""been""","Stanford, CA, USA",ExplorerOne
+"""been""","Hveragerdi, Iceland",ExplorerOne
+"""been""","Djupivogur, Iceland",ExplorerOne
+"""been""","Lake Myvatn, Iceland",ExplorerOne
+"""been""","East Palo Alto, CA, USA",ExplorerOne
+"""been""","Assateague Island, MD, USA",ExplorerOne
+"""been""","Gyumri, Armenia",ExplorerOne
+"""been""","Boracay, Philippines",ExplorerOne
+"""been""","Tatev, Armenia",ExplorerOne
+"""been""","Vail, CO, USA",ExplorerOne
+"""been""","Amarillo, TX, USA",ExplorerOne
+"""been""","Atlantic Beach, FL, USA",ExplorerOne
+"""been""","Sun Valley, ID, USA",ExplorerOne
+"""been""","Jacob Lake, AZ, USA",ExplorerOne
+"""been""","Orhei, Moldova",ExplorerOne
+"""been""","Highlands, NJ, USA",ExplorerOne
+"""been""","Kom Ombo, Egypt",ExplorerOne
+"""been""","San Juan, Philippines",ExplorerOne
+"""been""","Lake Itasca, MN, USA",ExplorerOne
+"""been""","Roseville, MN, USA",ExplorerOne
+"""been""","Yonkers, NY, USA",ExplorerOne
+"""been""","Port Said, Egypt",ExplorerOne
+"""been""","Cochiti Pueblo, NM, USA",ExplorerOne
+"""been""","Lansing, MI, USA",ExplorerOne
+"""been""","Youngstown, NY, USA",ExplorerOne
+"""been""","Dahab, Egypt",ExplorerOne
+"""been""","Homer, AK, USA",ExplorerOne
+"""been""","Georgetown, CO, USA",ExplorerOne
+"""been""","Apopka, FL, USA",ExplorerOne
+"""been""","Palm Beach, FL, USA",ExplorerOne
+"""been""","Dinan, France",ExplorerOne
+"""been""","Beit Mery, Lebanon",ExplorerOne
+"""been""","Haines, AK, USA",ExplorerOne
+"""been""","Abu Simbel, Egypt",ExplorerOne
+"""been""","Orange Park, FL, USA",ExplorerOne
+"""been""","Telluride, CO, USA",ExplorerOne
+"""been""","Saqqara, Egypt",ExplorerOne
+"""been""","Orlando, FL, USA",ExplorerOne
+"""been""","Lake Havasu City, AZ, USA",ExplorerOne
+"""been""","Ormond Beach, FL, USA",ExplorerOne
+"""been""","Detroit, MI, USA",ExplorerOne
+"""been""","Isna, Egypt",ExplorerOne
+"""been""","Rochester, MN, USA",ExplorerOne
+"""been""","Ocean City, MD, USA",ExplorerOne
+"""been""","Saint Catherine, Egypt",ExplorerOne
+"""been""","Geghard, Armenia",ExplorerOne
+"""been""","Aventura, FL, USA",ExplorerOne
+"""been""","Hyder, AK, USA",ExplorerOne
+"""been""","Myrtle Beach, SC, USA",ExplorerOne
+"""been""","New London, CT, USA",ExplorerOne
+"""been""","Mountain View, CA, USA",ExplorerOne
+"""been""","Ames, IA, USA",ExplorerOne
+"""been""","Vero Beach, FL, USA",ExplorerOne
+"""been""","Bodrum City, Turkey",ExplorerOne
+"""been""","Galveston, TX, USA",ExplorerOne
+"""been""","Watson Lake, Yukon, Canada",ExplorerOne
+"""been""","Sacramento, CA, USA",ExplorerOne
+"""been""","Jitta, Lebanon",ExplorerOne
+"""been""","Enfeh, Lebanon",ExplorerOne
+"""been""","Haines Junction, Yukon, Canada",ExplorerOne
+"""been""","Bentonville, AR, USA",ExplorerOne
+"""been""","Mystic, CT, USA",ExplorerOne
+"""been""","Owatonna, MN, USA",ExplorerOne
+"""been""","Alamosa, CO, USA",ExplorerOne
+"""been""","Winona, MN, USA",ExplorerOne
+"""been""","West End, Honduras",ExplorerOne
+"""been""","Alexandria, Egypt",ExplorerOne
+"""been""","Hanceville, AL, USA",ExplorerOne
+"""been""","Pittsburgh, PA, USA",ExplorerOne
+"""been""","Napa, CA, USA",ExplorerOne
+"""been""","Rapid City, SD, USA",ExplorerOne
+"""been""","New Haven, CT, USA",ExplorerOne
+"""been""","South Lake Tahoe, CA, USA",ExplorerOne
+"""been""","Jefferson City, MO, USA",ExplorerOne
+"""been""","Reykjahlid, Iceland",ExplorerOne
+"""been""","Garyville, LA, USA",ExplorerOne
+"""been""","Hallormsstadur, Iceland",ExplorerOne
+"""been""","Thingvellir, Iceland",ExplorerOne
+"""been""","Selfoss, Iceland",ExplorerOne
+"""been""","Dotnuva, Lithuania",ExplorerOne
+"""been""","Yachats, OR, USA",ExplorerOne
+"""been""","Newark, CA, USA",ExplorerOne
+"""been""","Crazy Horse, SD, USA",ExplorerOne
+"""been""","West Palm Beach, FL, USA",ExplorerOne
+"""been""","Birmingham, AL, USA",ExplorerOne
+"""been""","Sunny Isles Beach, FL, USA",ExplorerOne
+"""been""","Escalante, UT, USA",ExplorerOne
+"""been""","Aspen, CO, USA",ExplorerOne
+"""been""","Lucena City, Philippines",ExplorerOne
+"""been""","Chicago, IL, USA",ExplorerOne
+"""been""","Ayutthaya, Thailand",ExplorerOne
+"""been""","Toledo, OH, USA",ExplorerOne
+"""been""","Norwalk, CT, USA",ExplorerOne
+"""been""","Skagway, AK, USA",ExplorerOne
+"""been""","Marathon, FL, USA",ExplorerOne
+"""been""","Seattle, WA, USA",ExplorerOne
+"""been""","Wheeling, WV, USA",ExplorerOne
+"""been""","Cape Meares, OR, USA",ExplorerOne
+"""been""","Reykholt, Iceland",ExplorerOne
+"""been""","Saudarkrokur, Iceland",ExplorerOne
+"""been""","Amesbury, UK",ExplorerOne
+"""been""","Skogar, Iceland",ExplorerOne
+"""been""","Seward, AK, USA",ExplorerOne
+"""been""","Reykholt, Iceland",ExplorerOne
+"""been""","Bonne Terre, MO, USA",ExplorerOne
+"""been""","San Jose, CA, USA",ExplorerOne
+"""been""","Faribault, MN, USA",ExplorerOne
+"""been""","Kuala Lumpur, Malaysia",ExplorerOne
+"""been""","Kissimmee, FL, USA",ExplorerOne
+"""been""","Quezon City, Philippines",ExplorerOne
+"""been""","Manila, Philippines",ExplorerOne
+"""been""","San Luis Obispo, CA, USA",ExplorerOne
+"""been""","St. Augustine, FL, USA",ExplorerOne
+"""been""","Wisconsin Dells, WI, USA",ExplorerOne
+"""been""","Springfield, IL, USA",ExplorerOne
+"""been""","Columbia, SC, USA",ExplorerOne
+"""been""","Anchorage, AK, USA",ExplorerOne
+"""been""","Carlsbad, CA, USA",ExplorerOne
+"""been""","Hood River, OR, USA",ExplorerOne
+"""been""","Boulder City, NV, USA",ExplorerOne
+"""been""","Pigeon Forge, TN, USA",ExplorerOne
+"""been""","Tulelake, CA, USA",ExplorerOne
+"""been""","Grindavik, Iceland",ExplorerOne
+"""been""","Omaha, NE, USA",ExplorerOne
+"""been""","Rochester, NY, USA",ExplorerOne
+"""been""","San Bruno, CA, USA",ExplorerOne
+"""been""","West Hollywood, CA, USA",ExplorerOne
+"""been""","Key Largo, FL, USA",ExplorerOne
+"""been""","Aqaba, Jordan",ExplorerOne
+"""been""","Key West, FL, USA",ExplorerOne
+"""been""","Islamorada, FL, USA",ExplorerOne
+"""been""","Wytheville, VA, USA",ExplorerOne
+"""been""","Cortez, CO, USA",ExplorerOne
+"""been""","Hot Springs, AR, USA",ExplorerOne
+"""been""","Madison, WI, USA",ExplorerOne
+"""been""","Green River, UT, USA",ExplorerOne
+"""been""","Mont-Saint-Michel, France",ExplorerOne
+"""been""","Peterhof, Russia",ExplorerOne
+"""been""","Borgarnes, Iceland",ExplorerOne
+"""been""","Breiddalsvik, Iceland",ExplorerOne
+"""been""","Lake Wales, FL, USA",ExplorerOne
+"""been""","Mtskheta, Georgia",ExplorerOne
+"""been""","Ananuri, Georgia",ExplorerOne
+"""been""","Santa Barbara, CA, USA",ExplorerOne
+"""been""","Santa Clara, CA, USA",ExplorerOne
+"""been""","Santa Cruz, CA, USA",ExplorerOne
+"""been""","Cape Canaveral, FL, USA",ExplorerOne
+"""been""","New Orleans, LA, USA",ExplorerOne
+"""been""","Belize City, Belize",ExplorerOne
+"""been""","Laval, France",ExplorerOne
+"""been""","Jamestown, ND, USA",ExplorerOne
+"""been""","Cape May Point, NJ, USA",ExplorerOne
+"""been""","Lake City, FL, USA",ExplorerOne
+"""been""","Camden, NJ, USA",ExplorerOne
+"""been""","Daraga, Philippines",ExplorerOne
+"""been""","Eureka, CA, USA",ExplorerOne
+"""been""","Page, AZ, USA",ExplorerOne
+"""been""","Ligatne, Latvia",ExplorerOne
+"""been""","Grand Marais, MN, USA",ExplorerOne
+"""been""","Davenport, IA, USA",ExplorerOne
+"""been""","Moose, WY, USA",ExplorerOne
+"""been""","Duluth, MN, USA",ExplorerOne
+"""been""","Bangkok, Thailand",ExplorerOne
+"""been""","Eagan, MN, USA",ExplorerOne
+"""been""","Jersey City, NJ, USA",ExplorerOne
+"""been""","Little Canada, MN, USA",ExplorerOne
+"""been""","Helsinki, Finland",ExplorerOne
+"""been""","Madrid, Spain",ExplorerOne
+"""been""","Beaufort, Luxembourg",ExplorerOne
+"""been""","Pensacola, FL, USA",ExplorerOne
+"""been""","Stowe, VT, USA",ExplorerOne
+"""been""","Austin, TX, USA",ExplorerOne
+"""been""","Twin Falls, ID, USA",ExplorerOne
+"""been""","Greensboro, NC, USA",ExplorerOne
+"""been""","Hagerman, ID, USA",ExplorerOne
+"""been""","Shanghai, China",ExplorerOne
+"""been""","Lincoln, NE, USA",ExplorerOne
+"""been""","Princeton, NJ, USA",ExplorerOne
+"""been""","Saint Louis Park, MN, USA",ExplorerOne
+"""been""","Saint Cloud, MN, USA",ExplorerOne
+"""been""","Nashville, TN, USA",ExplorerOne
+"""been""","Esch-sur-Sure, Luxembourg",ExplorerOne
+"""been""","Grand Junction, CO, USA",ExplorerOne
+"""been""","Panama City Beach, FL, USA",ExplorerOne
+"""been""","Korkuteli, Turkey",ExplorerOne
+"""been""","Baltimore, MD, USA",ExplorerOne
+"""been""","Burlington, VT, USA",ExplorerOne
+"""been""","Tacoma, WA, USA",ExplorerOne
+"""been""","Oracle, AZ, USA",ExplorerOne
+"""been""","Des Moines, IA, USA",ExplorerOne
+"""been""","Jacksonville Beach, FL, USA",ExplorerOne
+"""been""","Savannah, GA, USA",ExplorerOne
+"""been""","Yerevan, Armenia",ExplorerOne
+"""been""","Charleston, SC, USA",ExplorerOne
+"""been""","Maple Grove, MN, USA",ExplorerOne
+"""been""","Grand Forks, ND, USA",ExplorerOne
+"""been""","Mankato, MN, USA",ExplorerOne
+"""been""","Ticonderoga, NY, USA",ExplorerOne
+"""been""","Williston, ND, USA",ExplorerOne
+"""been""","Pompano Beach, FL, USA",ExplorerOne
+"""been""","Ponte Vedra Beach, FL, USA",ExplorerOne
+"""been""","Waterbury, VT, USA",ExplorerOne
+"""been""","Juno Beach, FL, USA",ExplorerOne
+"""been""","Jupiter, FL, USA",ExplorerOne
+"""been""","Fairbanks, AK, USA",ExplorerOne
+"""been""","Brooklyn, NY, USA",ExplorerOne
+"""been""","Speyer, Germany",ExplorerOne
+"""been""","Cumberland, MD, USA",ExplorerOne
+"""been""","Helena, MT, USA",ExplorerOne
+"""been""","Edina, MN, USA",ExplorerOne
+"""been""","Lutsen, MN, USA",ExplorerOne
+"""been""","Salisbury, UK",ExplorerOne
+"""been""","Winston Salem, NC, USA",ExplorerOne
+"""been""","Worcester, MA, USA",ExplorerOne
+"""been""","Munich, Germany",ExplorerOne
+"""been""","Legian, Indonesia",ExplorerOne
+"""been""","Farmington, NM, USA",ExplorerOne
+"""been""","Budapest, Hungary",ExplorerOne
+"""been""","Brussels, Belgium",ExplorerOne
+"""been""","Yangzhou, China",ExplorerOne
+"""been""","Vik, Iceland",ExplorerOne
+"""been""","Billings, MT, USA",ExplorerOne
+"""been""","Stone Mountain, GA, USA",ExplorerOne
+"""been""","Newport, OR, USA",ExplorerOne
+"""been""","Destruction Bay, Yukon, Canada",ExplorerOne
+"""been""","Big Sky, MT, USA",ExplorerOne
+"""been""","Rome, Italy",ExplorerOne
+"""been""","Meziadin Junction, British Columbia, Canada",ExplorerOne
+"""been""","Indianapolis, IN, USA",ExplorerOne
+"""been""","Manila, UT, USA",ExplorerOne
+"""been""","Isle La Motte, VT, USA",ExplorerOne
+"""been""","Cheverny, France",ExplorerOne
+"""been""","Anoka, MN, USA",ExplorerOne
+"""been""","Apple Valley, MN, USA",ExplorerOne
+"""been""","Deming, NM, USA",ExplorerOne
+"""been""","Berlin, Germany",ExplorerOne
+"""been""","Jackson, WY, USA",ExplorerOne
+"""been""","Winterset, IA, USA",ExplorerOne
+"""been""","Astoria, NY, USA",ExplorerOne
+"""been""","Istanbul, Turkey",ExplorerOne
+"""been""","Bloomfield, IA, USA",ExplorerOne
+"""been""","Ashtarak, Armenia",ExplorerOne
+"""been""","Tokyo, Japan",ExplorerOne
+"""been""","Jekyll Island, GA, USA",ExplorerOne
+"""been""","Stykkisholmur, Iceland",ExplorerOne
+"""been""","Hellnar, Iceland",ExplorerOne
+"""been""","Brookings, OR, USA",ExplorerOne
+"""been""","Raleigh, NC, USA",ExplorerOne
+"""been""","Himeji, Japan",ExplorerOne
+"""been""","Selcuk, Turkey",ExplorerOne
+"""been""","Bay City, MI, USA",ExplorerOne
+"""been""","Cleveland, OH, USA",ExplorerOne
+"""been""","Akureyri, Iceland",ExplorerOne
+"""been""","Akranes, Iceland",ExplorerOne
+"""been""","Sioux Falls, SD, USA",ExplorerOne
+"""been""","Delft, The Netherlands",ExplorerOne
+"""been""","Geysir, Iceland",ExplorerOne
+"""been""","Frankfort, KY, USA",ExplorerOne
+"""been""","Nara, Japan",ExplorerOne
+"""been""","Petra - Wadi Musa, Jordan",ExplorerOne
+"""been""","Panevezys, Lithuania",ExplorerOne
+"""been""","Muncho Lake, British Columbia, Canada",ExplorerOne
+"""been""","High Point, NC, USA",ExplorerOne
+"""been""","Salaspils, Latvia",ExplorerOne
+"""been""","Amman, Jordan",ExplorerOne
+"""been""","Monument Valley, UT, USA",ExplorerOne
+"""been""","Madaba, Jordan",ExplorerOne
+"""been""","Jerash, Jordan",ExplorerOne
+"""been""","Poznan, Poland",ExplorerOne
+"""been""","Husavik, Iceland",ExplorerOne
+"""been""","Husafell, Iceland",ExplorerOne
+"""been""","Rotterdam, The Netherlands",ExplorerOne
+"""been""","Naples, Italy",ExplorerOne
+"""been""","The Hague, The Netherlands",ExplorerOne
+"""been""","Pompeii, Italy",ExplorerOne
+"""been""","Warsaw, Poland",ExplorerOne
+"""been""","Keflavik, Iceland",ExplorerOne
+"""been""","Larochette, Luxembourg",ExplorerOne
+"""been""","Antwerp, Belgium",ExplorerOne
+"""been""","Carthage, Tunisia",ExplorerOne
+"""been""","Siauliai, Lithuania",ExplorerOne
+"""been""","Bozeman, MT, USA",ExplorerOne
+"""been""","Asbyrgi, Iceland",ExplorerOne
+"""been""","Bourscheid, Luxembourg",ExplorerOne
+"""been""","Bend, OR, USA",ExplorerOne
+"""been""","Hofn, Iceland",ExplorerOne
+"""been""","Cheyenne, WY, USA",ExplorerOne
+"""been""","Hurricane, UT, USA",ExplorerOne
+"""been""","Mandan, ND, USA",ExplorerOne
+"""been""","El-Jem, Tunisia",ExplorerOne
+"""been""","Tunis, Tunisia",ExplorerOne
+"""been""","Taos, NM, USA",ExplorerOne
+"""been""","Amboise, France",ExplorerOne
+"""been""","Kuremae, Estonia",ExplorerOne
+"""been""","Blois, France",ExplorerOne
+"""been""","Capriana, Moldova",ExplorerOne
+"""been""","Coral Gables, FL, USA",ExplorerOne
+"""been""","Louisville, KY, USA",ExplorerOne
+"""been""","Crescent Beach, FL, USA",ExplorerOne
+"""been""","Bellevue, WA, USA",ExplorerOne
+"""been""","Idaho Falls, ID, USA",ExplorerOne
+"""been""","Cody, WY, USA",ExplorerOne
+"""been""","Brighton, UK",ExplorerOne
+"""been""","Loches, France",ExplorerOne
+"""been""","Aruch, Armenia",ExplorerOne
+"""been""","Miles City, MT, USA",ExplorerOne
+"""been""","Lauderdale-By-The-Sea, FL, USA",ExplorerOne
+"""been""","Santa Monica, CA, USA",ExplorerOne
+"""been""","Clearwater, FL, USA",ExplorerOne
+"""been""","Waterloo, IA, USA",ExplorerOne
+"""been""","Cocoa Beach, FL, USA",ExplorerOne
+"""been""","Coconut Creek, FL, USA",ExplorerOne
+"""been""","Chambord, France",ExplorerOne
+"""been""","Copenhagen, Denmark",ExplorerOne
+"""been""","Chartres, France",ExplorerOne
+"""been""","Chenonceaux, France",ExplorerOne
+"""been""","Hillerod, Denmark",ExplorerOne
+"""been""","Atlanta, GA, USA",ExplorerOne
+"""been""","Guinobatan, Philippines",ExplorerOne
+"""been""","Bosra, Syria",ExplorerOne
+"""been""","Cambridge, MA, USA",ExplorerOne
+"""been""","Richmond, VA, USA",ExplorerOne
+"""been""","Tuban, Indonesia",ExplorerOne
+"""been""","Ghent, Belgium",ExplorerOne
+"""been""","Frankfurt, Germany",ExplorerOne
+"""been""","Homs, Syria",ExplorerOne
+"""been""","Daytona Beach, FL, USA",ExplorerOne
+"""been""","Manchester, NH, USA",ExplorerOne
+"""been""","Sydney, Australia",ExplorerOne
+"""been""","Delray Beach, FL, USA",ExplorerOne
+"""been""","Potsdam, Germany",ExplorerOne
+"""been""","Carcross, Yukon, Canada",ExplorerOne
+"""been""","West Bend, IA, USA",ExplorerOne
+"""been""","Legazpi, Philippines",ExplorerOne
+"""been""","Washington DC, DC, USA",ExplorerOne
+"""been""","Hancock, VT, USA",ExplorerOne
+"""been""","Tagaytay, Philippines",ExplorerOne
+"""been""","Granville, VT, USA",ExplorerOne
+"""been""","Kanab, UT, USA",ExplorerOne
+"""been""","Tabanan, Indonesia",ExplorerOne
+"""been""","Palmyra, Syria",ExplorerOne
+"""been""","Rennes, France",ExplorerOne
+"""been""","Saint-Malo, France",ExplorerOne
+"""been""","Wroclaw, Poland",ExplorerOne
+"""been""","Birini, Latvia",ExplorerOne
+"""been""","Lincoln, NH, USA",ExplorerOne
+"""been""","Bruges, Belgium",ExplorerOne
+"""been""","Stonington, CT, USA",ExplorerOne
+"""been""","Vacherie, LA, USA",ExplorerOne
+"""been""","Brainerd, MN, USA",ExplorerOne
+"""been""","Trier, Germany",ExplorerOne
+"""been""","Washburn, ND, USA",ExplorerOne
+"""been""","Dallas, TX, USA",ExplorerOne
+"""been""","San Juan Teotihuacan, Mexico",ExplorerOne
+"""been""","Blaine, MN, USA",ExplorerOne
+"""been""","Bloomington, MN, USA",ExplorerOne
+"""been""","Valletta, Malta",ExplorerOne
+"""been""","Palo Alto, CA, USA",ExplorerOne
+"""been""","Milwaukee, WI, USA",ExplorerOne
+"""been""","Palm Springs, CA, USA",ExplorerOne
+"""been""","Mason City, IA, USA",ExplorerOne
+"""been""","Valley City, ND, USA",ExplorerOne
+"""been""","Taos Ski Valley, NM, USA",ExplorerOne
+"""been""","Augusta, GA, USA",ExplorerOne
+"""been""","Shakopee, MN, USA",ExplorerOne
+"""been""","Elko, NV, USA",ExplorerOne
+"""been""","Crystal Bay, NV, USA",ExplorerOne
+"""been""","Mackinac Island, MI, USA",ExplorerOne
+"""been""","Saginaw, MI, USA",ExplorerOne
+"""been""","White Castle, LA, USA",ExplorerOne
+"""been""","Pasadena, CA, USA",ExplorerOne
+"""been""","New Hope, PA, USA",ExplorerOne
+"""been""","Tours, France",ExplorerOne
+"""been""","Rundale, Latvia",ExplorerOne
+"""been""","Carson City, NV, USA",ExplorerOne
+"""been""","Caliente, NV, USA",ExplorerOne
+"""been""","Saint Paul, MN, USA",ExplorerOne
+"""been""","Fall River, MA, USA",ExplorerOne
+"""been""","Al Fayyum, Egypt",ExplorerOne
+"""been"",""fave""","Paris, France",ExplorerOne
+"""been""","Versailles, France",ExplorerOne
+"""been""","Wildrose, ND, USA",ExplorerOne
+"""been""","Tanjung Benoa, Indonesia",ExplorerOne
+"""been""","Alta, UT, USA",ExplorerOne
+"""been""","Fontainebleau, France",ExplorerOne
+"""been""","Oklahoma City, OK, USA",ExplorerOne
+"""been""","Jamestown, NC, USA",ExplorerOne
+"""been""","Port Huron, MI, USA",ExplorerOne
+"""been""","Aleppo, Syria",ExplorerOne
+"""been""","Al Minya, Egypt",ExplorerOne
+"""been""","Baalbeck, Lebanon",ExplorerOne
+"""been""","Tripoli, Lebanon",ExplorerOne
+"""been""","Luxembourg City, Luxembourg",ExplorerOne
+"""been""","Zahle, Lebanon",ExplorerOne
+"""been""","Le Mans, France",ExplorerOne
+"""been""","Columbus, OH, USA",ExplorerOne
+"""been""","Jebrayel, Lebanon",ExplorerOne
+"""been""","Roanoke Island, NC, USA",ExplorerOne
+"""been""","Saint Francisville, LA, USA",ExplorerOne
+"""been""","Skagastrond, Iceland",ExplorerOne
+"""been""","Chateaubourg, France",ExplorerOne
+"""been""","Chapel Hill, NC, USA",ExplorerOne
+"""been""","Mahahual, Mexico",ExplorerOne
+"""been""","Kitty Hawk, NC, USA",ExplorerOne
+"""been""","Melbourne, Australia",ExplorerOne
+"""been""","Charlotte, NC, USA",ExplorerOne
+"""been""","Provincetown, MA, USA",ExplorerOne
+"""been""","Bemidji, MN, USA",ExplorerOne
+"""been""","Grenivik, Iceland",ExplorerOne
+"""been""","Clervaux, Luxembourg",ExplorerOne
+"""been""","Diekirch, Luxembourg",ExplorerOne
+"""been""","Wall, SD, USA",ExplorerOne
+"""been""","Oceanside, CA, USA",ExplorerOne
+"""been""","Bondi, Australia",ExplorerOne
+"""been""","Oakland, CA, USA",ExplorerOne
+"""been""","Theodore, AL, USA",ExplorerOne
+"""been""","Jemez Springs, NM, USA",ExplorerOne
+"""been""","Kill Devil Hills, NC, USA",ExplorerOne
+"""been""","Rocky Hill, CT, USA",ExplorerOne
+"""been""","Echternach, Luxembourg",ExplorerOne
+"""been""","Vianden, Luxembourg",ExplorerOne
+"""been""","Ettelbruck, Luxembourg",ExplorerOne
+"""been""","Wiltz, Luxembourg",ExplorerOne
+"""been""","Caen, France",ExplorerOne
+"""been""","Olympic Valley, CA, USA",ExplorerOne
+"""been""","Sells, AZ, USA",ExplorerOne
+"""been""","Natchez, MS, USA",ExplorerOne
+"""been""","Montpelier Station, VA, USA",ExplorerOne
+"""been""","Sedona, AZ, USA",ExplorerOne
+"""been""","Tonalea, AZ, USA",ExplorerOne
+"""been""","Scottsdale, AZ, USA",ExplorerOne
+"""been""","New Bedford, MA, USA",ExplorerOne
+"""been""","Salem, OR, USA",ExplorerOne
+"""been""","Yeghegnadzor, Armenia",ExplorerOne
+"""been""","Moorhead, MN, USA",ExplorerOne
+"""been""","Middle Brook, MO, USA",ExplorerOne
+"""been""","Taguig City, Philippines",ExplorerOne
+"""been""","Two Harbors, MN, USA",ExplorerOne
+"""been""","Munising, MI, USA",ExplorerOne
+"""been""","Sewall s Point, FL, USA",ExplorerOne
+"""been""","Malibu, CA, USA",ExplorerOne
+"""been""","East Haddam, CT, USA",ExplorerOne
+"""been""","Macon, GA, USA",ExplorerOne
+"""been""","Altoona, PA, USA",ExplorerOne
+"""been""","Varmahlid, Iceland",ExplorerOne
+"""been""","Salt Lake City, UT, USA",ExplorerOne
+"""been""","Ajo, AZ, USA",ExplorerOne
+"""been""","Sanibel Island, FL, USA",ExplorerOne
+"""been""","Corpus Christi, TX, USA",ExplorerOne
+"""been""","Santa Rosa Beach, FL, USA",ExplorerOne
+"""been""","Sarasota, FL, USA",ExplorerOne
+"""been""","Kintamani, Indonesia",ExplorerOne
+"""been""","Ogallala, NE, USA",ExplorerOne
+"""been""","Werfen, Austria",ExplorerOne
+"""been""","Minneapolis, MN, USA",ExplorerOne
+"""been""","Margate City, NJ, USA",ExplorerOne
+"""been""","Reno, NV, USA",ExplorerOne
+"""been""","Montevideo, MN, USA",ExplorerOne
+"""been""","Klungkung, Indonesia",ExplorerOne
+"""been""","Allentown, PA, USA",ExplorerOne
+"""been""","Satellite Beach, FL, USA",ExplorerOne
+"""been""","Guerneville, CA, USA",ExplorerOne
+"""been""","Teec Nos Pos, AZ, USA",ExplorerOne
+"""been""","Superior, AZ, USA",ExplorerOne
+"""been""","Limassol City, Cyprus",ExplorerOne
+"""been""","Nicosia, Cyprus",ExplorerOne
+"""been""","Grand Rapids, MN, USA",ExplorerOne
+"""been""","St. Petersburg, Russia",ExplorerOne
+"""been""","Jamaica, NY, USA",ExplorerOne
+"""been""","Jbail, Lebanon",ExplorerOne
+"""been""","Paphos, Cyprus",ExplorerOne
+"""been""","Bcharre, Lebanon",ExplorerOne
+"""been""","Anjar, Lebanon",ExplorerOne
+"""been""","Larnaca, Cyprus",ExplorerOne
+"""been""","New Ulm, MN, USA",ExplorerOne
+"""been""","Trenton, NJ, USA",ExplorerOne
+"""been""","Fire Island, NY, USA",ExplorerOne
+"""been""","Tok, AK, USA",ExplorerOne
+"""been""","Mount Vernon, VA, USA",ExplorerOne
+"""been""","Seal Rock, OR, USA",ExplorerOne
+"""been""","Mesa Verde National Park, CO, USA",ExplorerOne
+"""been""","Camp Verde, AZ, USA",ExplorerOne
+"""been""","Golden Valley, MN, USA",ExplorerOne
+"""been""","Wadi Rum, Jordan",ExplorerOne
+"""been""","Vadnais Heights, MN, USA",ExplorerOne
+"""been""","Grand Rapids, MI, USA",ExplorerOne
+"""been""","Blonduos, Iceland",ExplorerOne
+"""been""","Keystone, SD, USA",ExplorerOne
+"""been""","Half Moon Bay, CA, USA",ExplorerOne
+"""been""","Beaver Creek, CO, USA",ExplorerOne
+"""been""","Longwood, FL, USA",ExplorerOne
+"""been""","Groton, CT, USA",ExplorerOne
+"""been""","Phoenix, AZ, USA",ExplorerOne
+"""been""","Beauvoir, France",ExplorerOne
+"""been""","Otter Rock, OR, USA",ExplorerOne
+"""been""","Vitre, France",ExplorerOne
+"""been""","Ayia Napa, Cyprus",ExplorerOne
+"""been""","Flint, MI, USA",ExplorerOne
+"""been""","Baton Rouge, LA, USA",ExplorerOne
+"""been""","Sandy Hook, NJ, USA",ExplorerOne
+"""been""","Sedlec, Czech Republic",ExplorerOne
+"""been""","Oceanside, OR, USA",ExplorerOne
+"""been""","Narva, Estonia",ExplorerOne
+"""been""","Suzhou, China",ExplorerOne
+"""been""","Marion, VA, USA",ExplorerOne
+"""been""","Pismo Beach, CA, USA",ExplorerOne
+"""been""","Delaware Water Gap, PA, USA",ExplorerOne
+"""been""","Dauphin Island, AL, USA",ExplorerOne
+"""been""","Bridgeport, CT, USA",ExplorerOne
+"""been""","Penang Island, Malaysia",ExplorerOne
+"""been""","Nusa Dua, Indonesia",ExplorerOne
+"""been""","Sault Ste. Marie, MI, USA",ExplorerOne
+"""been""","Kuta, Indonesia",ExplorerOne
+"""been""","Jimbaran, Indonesia",ExplorerOne
+"""been""","Kota Kinabalu, Malaysia",ExplorerOne
+"""been""","Long Beach, CA, USA",ExplorerOne
+"""been""","Alexandria, VA, USA",ExplorerOne
+"""been""","Edfu, Egypt",ExplorerOne
+"""been""","Cullman, AL, USA",ExplorerOne
+"""been""","Denpasar, Indonesia",ExplorerOne
+"""been""","Fort Bragg, CA, USA",ExplorerOne
+"""been""","West Haven, CT, USA",ExplorerOne
+"""been""","Saint Augustine Beach, FL, USA",ExplorerOne
+"""been""","Arlington, VA, USA",ExplorerOne
+"""been""","Rimrock, AZ, USA",ExplorerOne
+"""been""","Bethany Beach, DE, USA",ExplorerOne
+"""been""","Reedsport, OR, USA",ExplorerOne
+"""been""","St. Petersburg, FL, USA",ExplorerOne
+"""been""","Annapolis, MD, USA",ExplorerOne
+"""been""","Midland, MI, USA",ExplorerOne
+"""been""","North Platte, NE, USA",ExplorerOne
+"""been""","Wiseman, AK, USA",ExplorerOne
+"""been""","Overton, NV, USA",ExplorerOne
+"""been""","Xi'an, China",ExplorerOne
+"""been""","Hangzhou, China",ExplorerOne
+"""been""","Portland, OR, USA",ExplorerOne
+"""been""","Fresno, CA, USA",ExplorerOne
+"""been""","Tbilisi, Georgia",ExplorerOne
+"""been""","Los Angeles, CA, USA",ExplorerOne
+"""been""","Eureka Springs, AR, USA",ExplorerOne
+"""been""","Montbazon, France",ExplorerOne
+"""been""","Pistol River, OR, USA",ExplorerOne
+"""been""","Eceabat, Turkey",ExplorerOne
+"""been""","Frankenmuth, MI, USA",ExplorerOne
+"""been""","Faitroun, Lebanon",ExplorerOne
+"""been""","Gallipoli, Turkey",ExplorerOne
+"""been"",""fave""","Las Vegas, NV, USA",ExplorerOne
+"""been""","Stillwater, MN, USA",ExplorerOne
+"""been""","Saint Louis, MO, USA",ExplorerOne
+"""been""","Osaka, Japan",ExplorerOne
+"""been""","Covington, KY, USA",ExplorerOne
+"""been""","Sahuarita, AZ, USA",ExplorerOne
+"""been""","Kyoto, Japan",ExplorerOne
+"""been""","Durham, NC, USA",ExplorerOne
+"""been""","Kobe, Japan",ExplorerOne
+"""been""","Wilmette, IL, USA",ExplorerOne
+"""been""","Fort Lauderdale, FL, USA",ExplorerOne
+"""been""","Manteo, NC, USA",ExplorerOne
+"""been""","Yellowstone National Park, WY, USA",ExplorerOne
+"""been""","Capulin, NM, USA",ExplorerOne
+"""been""","San Diego, CA, USA",ExplorerOne
+"""been""","Lovell, WY, USA",ExplorerOne
+"""been""","Cincinnati, OH, USA",ExplorerOne
+"""been""","Titusville, FL, USA",ExplorerOne
+"""been""","Chinle, AZ, USA",ExplorerOne
+"""been""","Talin, Armenia",ExplorerOne
+"""been""","Didim, Turkey",ExplorerOne
+"""been""","New Smyrna Beach, FL, USA",ExplorerOne
+"""been""","Makati, Philippines",ExplorerOne
+"""been""","Fort Myers, FL, USA",ExplorerOne
+"""been""","Fort Myers Beach, FL, USA",ExplorerOne
+"""been""","Fort Walton Beach, FL, USA",ExplorerOne
+"""been""","Pasig, Philippines",ExplorerOne
+"""been""","Sunnyvale, CA, USA",ExplorerOne
+"""been""","Denver, CO, USA",ExplorerOne
+"""been""","Cedar Falls, IA, USA",ExplorerOne
+"""been""","Pasay, Philippines",ExplorerOne
+"""been""","Nageezi, NM, USA",ExplorerOne
+"""been""","Houston, TX, USA",ExplorerOne
+"""been""","Little Rock, AR, USA",ExplorerOne
+"""been""","Banff, Alberta, Canada",ExplorerOne
+"""been""","Seneca Rocks, WV, USA",ExplorerOne
+"""been""","Lake Louise, Alberta, Canada",ExplorerOne
+"""been""","El Paso, TX, USA",ExplorerOne
+"""been""","Carlsbad, NM, USA",ExplorerOne
+"""been""","New York City, NY, USA",ExplorerOne
+"""been""","Coolidge, AZ, USA",ExplorerOne
+"""been""","Cedar City, UT, USA",ExplorerOne
+"""been""","North Wildwood, NJ, USA",ExplorerOne
+"""been""","Bismarck, ND, USA",ExplorerOne
+"""been""","Grand Island, NE, USA",ExplorerOne
+"""been""","Pensacola Beach, FL, USA",ExplorerOne
+"""been""","Gothenburg, NE, USA",ExplorerOne
+"""been""","Bear Valley, CA, USA",ExplorerOne
+"""been""","Naples, FL, USA",ExplorerOne
+"""been""","Big Sur, CA, USA",ExplorerOne
+"""been""","American Fork, UT, USA",ExplorerOne
+"""been""","Big Bend National Park, TX, USA",ExplorerOne
+"""been""","Newport, RI, USA",ExplorerOne
+"""been""","Berkeley, CA, USA",ExplorerOne
+"""been""","Roosevelt, AZ, USA",ExplorerOne
+"""been""","Dover, DE, USA",ExplorerOne
+"""been""","Fort Smith, MT, USA",ExplorerOne
+"""been""","Irving, TX, USA",ExplorerOne
+"""been""","Tumacacori, AZ, USA",ExplorerOne
+"""been""","Narragansett, RI, USA",ExplorerOne
+"""been""","Homestead, FL, USA",ExplorerOne
+"""been""","Crown Point, NY, USA",ExplorerOne
+"""been""","Ar-Raqqah, Syria",ExplorerOne
+"""been""","Los Alamos, NM, USA",ExplorerOne
+"""been""","Flagstaff, AZ, USA",ExplorerOne
+"""been""","Buffalo, NY, USA",ExplorerOne
+"""been""","Ehden, Lebanon",ExplorerOne
+"""been""","Medora, ND, USA",ExplorerOne
+"""been""","Coos Bay, OR, USA",ExplorerOne
+"""been""","Deir el Qamar, Lebanon",ExplorerOne
+"""been""","Jasper, Alberta, Canada",ExplorerOne
+"""been""","Calgary, Alberta, Canada",ExplorerOne
+"""been""","St. George, UT, USA",ExplorerOne
+"""been""","Edmonton, Alberta, Canada",ExplorerOne
+"""been""","Boston, MA, USA",ExplorerOne
+"""been""","International Falls, MN, USA",ExplorerOne
+"""been""","Kelowna, British Columbia, Canada",ExplorerOne
+"""been""","Topeka, KS, USA",ExplorerOne
+"""been""","Tybee Island, GA, USA",ExplorerOne
+"""been""","Siem Reap, Cambodia",ExplorerOne
+"""been""","Rugby, ND, USA",ExplorerOne
+"""been""","Charlottesville, VA, USA",ExplorerOne
+"""been""","Beverly Hills, CA, USA",ExplorerOne
+"""been""","Clarkdale, AZ, USA",ExplorerOne
+"""been""","Gunnison, CO, USA",ExplorerOne
+"""been""","Asheville, NC, USA",ExplorerOne
+"""been""","Izmir, Turkey",ExplorerOne
+"""been""","Dawson City, Yukon, Canada",ExplorerOne
+"""been""","Gainesville, FL, USA",ExplorerOne
+"""been""","Durango, CO, USA",ExplorerOne
+"""been""","Bergama, Turkey",ExplorerOne
+"""been""","Hermel, Lebanon",ExplorerOne
+"""been""","Moscow, Russia",ExplorerOne
+"""been""","Valdez, AK, USA",ExplorerOne
+"""been""","Salem, MA, USA",ExplorerOne
+"""been""","Vancouver, British Columbia, Canada",ExplorerOne
+"""been""","Harrison, NE, USA",ExplorerOne
+"""been""","Sidon, Lebanon",ExplorerOne
+"""been""","San Antonio, TX, USA",ExplorerOne
+"""been""","Victoria, British Columbia, Canada",ExplorerOne
+"""been""","San Francisco, CA, USA",ExplorerOne
+"""been""","Mountainair, NM, USA",ExplorerOne
+"""been""","Alameda, CA, USA",ExplorerOne
+"""been""","Santa Fe, NM, USA",ExplorerOne
+"""been""","Hilton Head, SC, USA",ExplorerOne
+"""been""","Saint-Denis, France",ExplorerOne
+"""been""","Gori, Georgia",ExplorerOne
+"""been""","Tucson, AZ, USA",ExplorerOne
+"""been""","Mount Holly, NJ, USA",ExplorerOne
+"""been""","Northfield, MN, USA",ExplorerOne
+"""been""","Batroun, Lebanon",ExplorerOne
+"""been""","Qrendi, Malta",ExplorerOne
+"""been""","Canon City, CO, USA",ExplorerOne
+"""been""","Tallahassee, FL, USA",ExplorerOne
+"""been""","Melbourne, FL, USA",ExplorerOne
+"""been""","Venice, Italy",ExplorerOne
+"""been""","Prince George, British Columbia, Canada",ExplorerOne
+"""been""","Melbourne Beach, FL, USA",ExplorerOne
+"""been""","Winnipeg, Manitoba, Canada",ExplorerOne
+"""been""","Harpers Ferry, WV, USA",ExplorerOne
+"""been""","Moab, UT, USA",ExplorerOne
+"""been""","Breckenridge, CO, USA",ExplorerOne
+"""been""","Macau, China",ExplorerOne
+"""been""","Whittier, AK, USA",ExplorerOne
+"""been""","Notre Dame de Monts, France",ExplorerOne
+"""been""","Springfield, MA, USA",ExplorerOne
+"""been""","Cassville, MO, USA",ExplorerOne
+"""been""","Sublimity, OR, USA",ExplorerOne
+"""been""","Wieliczka, Poland",ExplorerOne
+"""been""","Bayfield, WI, USA",ExplorerOne
+"""been""","Sharpsburg, MD, USA",ExplorerOne
+"""been""","Pompeys Pillar, MT, USA",ExplorerOne
+"""been""","Bauska, Latvia",ExplorerOne
+"""been""","Flushing, NY, USA",ExplorerOne
+"""been""","Minot, ND, USA",ExplorerOne
+"""been""","Jounieh, Lebanon",ExplorerOne
+"""been""","Whistler, British Columbia, Canada",ExplorerOne
+"""been""","Byblos, Lebanon",ExplorerOne
+"""been""","Petrified Forest National Park, AZ, USA",ExplorerOne
+"""been""","Montpelier, VT, USA",ExplorerOne
+"""been""","South San Francisco, CA, USA",ExplorerOne
+"""been""","Olympia, WA, USA",ExplorerOne
+"""been""","Albuquerque, NM, USA",ExplorerOne
+"""been""","Paicines, CA, USA",ExplorerOne
+"""been""","Radium Hot Springs, British Columbia, Canada",ExplorerOne
+"""been""","Tierra Verde, FL, USA",ExplorerOne
+"""been""","Anaheim, CA, USA",ExplorerOne
+"""been""","Edinburgh, UK",ExplorerOne
+"""been""","Beaupre, Quebec, Canada",ExplorerOne
+"""been""","Colorado Springs, CO, USA",ExplorerOne
+"""been""","Knoxville, TN, USA",ExplorerOne
+"""been""","Tallulah Falls, GA, USA",ExplorerOne
+"""been""","Levis, Quebec, Canada",ExplorerOne
+"""been""","Gatineau, Quebec, Canada",ExplorerOne
+"""been""","Daly City, CA, USA",ExplorerOne
+"""been""","Tampa, FL, USA",ExplorerOne
+"""been""","Crescent City, CA, USA",ExplorerOne
+"""been""","Sonoma, CA, USA",ExplorerOne
+"""been""","Miami, FL, USA",ExplorerOne
+"""been""","Miami Beach, FL, USA",ExplorerOne
+"""been""","Providence, RI, USA",ExplorerOne
+"""been""","Casa Grande, AZ, USA",ExplorerOne
+"""been""","Rockford, IL, USA",ExplorerOne
+"""been""","Elizabeth, NJ, USA",ExplorerOne
+"""been""","Trakai, Lithuania",ExplorerOne
+"""been""","Krakow, Poland",ExplorerOne
+"""been""","Hodgenville, KY, USA",ExplorerOne
+"""been""","Langkawi, Malaysia",ExplorerOne
+"""been""","Virginia Beach, VA, USA",ExplorerOne
+"""been""","Liard River, British Columbia, Canada",ExplorerOne
+"""been""","Burlington, Ontario, Canada",ExplorerOne
+"""been""","Bellows Falls, VT, USA",ExplorerOne
+"""been""","Stockholm, Sweden",ExplorerOne
+"""been""","Concord, NH, USA",ExplorerOne
+"""been""","Dashtadem, Armenia",ExplorerOne
+"""been""","Niagara Falls, Ontario, Canada",ExplorerOne
+"""been""","Norfolk, VA, USA",ExplorerOne
+"""been""","Burnsville, MN, USA",ExplorerOne
+"""been""","Mobile, AL, USA",ExplorerOne
+"""been""","Bronte, Australia",ExplorerOne
+"""been""","Oswiecim, Poland",ExplorerOne
+"""been""","Florence, OR, USA",ExplorerOne
+"""been""","Great Falls, MT, USA",ExplorerOne
+"""been""","Boise, ID, USA",ExplorerOne
+"""been""","Barnegat Light, NJ, USA",ExplorerOne
+"""been""","Pecatu, Indonesia",ExplorerOne
+"""been""","Manly, Australia",ExplorerOne
+"""been""","Glendive, MT, USA",ExplorerOne
+"""been""","Bruneau, ID, USA",ExplorerOne
+"""been""","Bal Harbour, FL, USA",ExplorerOne
+"""been""","Jogeva, Estonia",ExplorerOne
+"""been""","Lake George, NY, USA",ExplorerOne
+"""been""","Amioun, Lebanon",ExplorerOne
+"""been""","Florence, Italy",ExplorerOne
+"""been""","Tartus, Syria",ExplorerOne
+"""been""","Boynton Beach, FL, USA",ExplorerOne
+"""been""","Pisa, Italy",ExplorerOne
+"""been""","Chicken, AK, USA",ExplorerOne
+"""been""","Montgomery, AL, USA",ExplorerOne
+"""been""","Chekka, Lebanon",ExplorerOne
+"""been""","Kedainiai, Lithuania",ExplorerOne
+"""been""","Riga, Latvia",ExplorerOne
+"""been""","Sigulda, Latvia",ExplorerOne
+"""been""","Rauna, Latvia",ExplorerOne
+"""been""","London, UK",ExplorerOne
+"""been""","Boca Raton, FL, USA",ExplorerOne
+"""been""","Lancaster, PA, USA",ExplorerOne
+"""been""","Chitina, AK, USA",ExplorerOne
+"""been""","Lewes, DE, USA",ExplorerOne
+"""been""","Grants, NM, USA",ExplorerOne
+"""been""","Sevan, Armenia",ExplorerOne
+"""been""","Bishop, CA, USA",ExplorerOne
+"""been""","Devils Tower, WY, USA",ExplorerOne
+"""been""","Mammoth Lakes, CA, USA",ExplorerOne
+"""been""","Dinosaur, CO, USA",ExplorerOne
+"""been""","Akron, OH, USA",ExplorerOne
+"""been""","Rakvere, Estonia",ExplorerOne
+"""been""","Philadelphia, PA, USA",ExplorerOne
+"""been""","Parnu, Estonia",ExplorerOne
+"""been""","Gettysburg, PA, USA",ExplorerOne
+"""been""","Tartu, Estonia",ExplorerOne
+"""been""","Tallinn, Estonia",ExplorerOne
+"""been""","Stewart, British Columbia, Canada",ExplorerOne
+"""been""","Cesis, Latvia",ExplorerOne
+"""been""","Beiteddine, Lebanon",ExplorerOne
+"""been""","Vagharshapat, Armenia",ExplorerOne
+"""been""","Olafsvik, Iceland",ExplorerOne
+"""been""","Skaftafell, Iceland",ExplorerOne
+"""been""","Finger Lakes Wine Country, NY, USA",ExplorerOne
+"""been""","Borrego Springs, CA, USA",ExplorerOne
+"""been""","Memphis, TN, USA",ExplorerOne
+"""been""","Prague, Czech Republic",ExplorerOne
+"""been""","Goris, Armenia",ExplorerOne
+"""been""","Bodega Bay, CA, USA",ExplorerOne
+"""been""","Teton Village, WY, USA",ExplorerOne
+"""been""","Superior, WI, USA",ExplorerOne
+"""been""","Redwood National Park, CA, USA",ExplorerOne
+"""been""","Kaunas, Lithuania",ExplorerOne
+"""been""","Haapsalu, Estonia",ExplorerOne
+"""been""","West Yellowstone, MT, USA",ExplorerOne
+"""been""","The Sea Ranch, CA, USA",ExplorerOne
+"""been""","Vilnius, Lithuania",ExplorerOne
+"""been""","Hopkins, SC, USA",ExplorerOne
+"""been""","Wendover, UT, USA",ExplorerOne
+"""been""","Fargo, ND, USA",ExplorerOne
+"""been""","Mengwi, Indonesia",ExplorerOne
+"""been""","Almo, ID, USA",ExplorerOne
+"""been""","Willcox, AZ, USA",ExplorerOne
+"""been""","Fruita, CO, USA",ExplorerOne
+"""been""","Bronx, NY, USA",ExplorerOne
+"""been""","Tampaksiring, Indonesia",ExplorerOne
+"""been""","Kutna Hora, Czech Republic",ExplorerOne
+"""been""","Fenwick Island, DE, USA",ExplorerOne
+"""been""","Gardiner, MT, USA",ExplorerOne
+"""been""","Hollywood, FL, USA",ExplorerOne
+"""been""","Seminyak, Indonesia",ExplorerOne
+"""been""","Wilmington, DE, USA",ExplorerOne
+"""been""","Moundsville, WV, USA",ExplorerOne
+"""been""","Shelburne Falls, MA, USA",ExplorerOne
+"""been""","Natural Bridge, VA, USA",ExplorerOne
+"""been""","Tropic, UT, USA",ExplorerOne
+"""been""","Staten Island, NY, USA",ExplorerOne
+"""been""","Arco, ID, USA",ExplorerOne
+"""been""","Dayton, OH, USA",ExplorerOne
+"""been""","Bratislava, Slovakia",ExplorerOne
+"""been""","Death Valley Junction, CA, USA",ExplorerOne
+"""been""","Dunseith, ND, USA",ExplorerOne
+"""been""","Berlin, NH, USA",ExplorerOne
+"""been""","Truckee, CA, USA",ExplorerOne
+"""been""","Bath, UK",ExplorerOne
+"""been""","Sioux City, IA, USA",ExplorerOne
+"""been""","King of Prussia, PA, USA",ExplorerOne
+"""been""","Council Bluffs, IA, USA",ExplorerOne
+"""been""","Rehoboth Beach, DE, USA",ExplorerOne
+"""been""","Athens, Greece",ExplorerOne

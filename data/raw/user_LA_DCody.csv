@@ -1,0 +1,521 @@
+tag,place,user
+"""been""","Southampton, NY, USA",DCody
+"""been""","Beverly Hills, CA, USA",DCody
+"""been""","Victoria Falls, Zambia",DCody
+"""been""","Lakeland, FL, USA",DCody
+"""been""","Snowbird, UT, USA",DCody
+"""been""","Ocala, FL, USA",DCody
+"""been""","Woodstock, VT, USA",DCody
+"""been""","Memphis, TN, USA",DCody
+"""been""","Laie, HI, USA",DCody
+"""been""","Atlanta, GA, USA",DCody
+"""been""","Pearl City, HI, USA",DCody
+"""been""","Victoria Falls, Zimbabwe",DCody
+"""been""","Cambridge, MA, USA",DCody
+"""been""","Richmond, VA, USA",DCody
+"""been""","Kaneohe, HI, USA",DCody
+"""been""","Durango, CO, USA",DCody
+"""been""","Wailea, HI, USA",DCody
+"""been""","Sunnyvale, CA, USA",DCody
+"""been""","Denver, CO, USA",DCody
+"""been""","Cape Canaveral, FL, USA",DCody
+"""been""","Petersburg, AK, USA",DCody
+"""been""","Copenhagen, Denmark",DCody
+"""been""","Taos, NM, USA",DCody
+"""been""","Dayton, OH, USA",DCody
+"""been""","King of Prussia, PA, USA",DCody
+"""been""","Kissimmee, FL, USA",DCody
+"""been""","Bethlehem, Palestinian Territories",DCody
+"""been""","North Pole, AK, USA",DCody
+"""been""","Fort Pierce, FL, USA",DCody
+"""been""","Gettysburg, PA, USA",DCody
+"""been""","Tel Aviv, Israel",DCody
+"""been""","Palmer, AK, USA",DCody
+"""been""","Cripple Creek, CO, USA",DCody
+"""been""","Fort Lauderdale, FL, USA",DCody
+"""been""","Eilat, Israel",DCody
+"""been""","Haifa, Israel",DCody
+"""been""","Jerusalem, Israel",DCody
+"""been""","Staten Island, NY, USA",DCody
+"""been""","Saranac Lake, NY, USA",DCody
+"""been""","Saratoga Springs, NY, USA",DCody
+"""been""","Hershey, PA, USA",DCody
+"""been""","Poughkeepsie, NY, USA",DCody
+"""been""","Old Forge, NY, USA",DCody
+"""been""","Barcelona, Spain",DCody
+"""been""","Philadelphia, PA, USA",DCody
+"""been""","Tay Ninh, Vietnam",DCody
+"""been""","Yasuni National Park, Ecuador",DCody
+"""been""","Da Nang, Vietnam",DCody
+"""been""","Hoi An, Vietnam",DCody
+"""been""","Amsterdam, The Netherlands",DCody
+"""been""","Port Saint Lucie, FL, USA",DCody
+"""been""","Ninilchik, AK, USA",DCody
+"""been""","Nikolaevsk, AK, USA",DCody
+"""been""","Manchester, NH, USA",DCody
+"""been""","Haarlem, The Netherlands",DCody
+"""been""","Cody, WY, USA",DCody
+"""been""","Teton Village, WY, USA",DCody
+"""been""","Fargo, ND, USA",DCody
+"""been""","Paris, France",DCody
+"""been"",""want""","Livingstone, Zambia",DCody
+"""been""","Cooperstown, NY, USA",DCody
+"""been""","Skaneateles, NY, USA",DCody
+"""been""","Port Arthur, TX, USA",DCody
+"""been""","Nome, AK, USA",DCody
+"""been""","Buffalo, NY, USA",DCody
+"""been""","Wadi Rum, Jordan",DCody
+"""been""","Houston, TX, USA",DCody
+"""been""","Brussels, Belgium",DCody
+"""been""","Newport, RI, USA",DCody
+"""been""","Pigeon Forge, TN, USA",DCody
+"""been""","Columbia, SC, USA",DCody
+"""been""","Kapaa, HI, USA",DCody
+"""been""","Beaumont, TX, USA",DCody
+"""been""","Reykjavik, Iceland",DCody
+"""been""","Rome, Italy",DCody
+"""been""","Washington DC, DC, USA",DCody
+"""been""","Stockholm, Sweden",DCody
+"""been""","Hood River, OR, USA",DCody
+"""been""","Flagstaff, AZ, USA",DCody
+"""been""","Rochester, NY, USA",DCody
+"""been""","Geneva, NY, USA",DCody
+"""been""","Elephant Island, Antarctica",DCody
+"""been""","Deception Island, Antarctica",DCody
+"""been""","King George Island, Antarctica",DCody
+"""been""","New Orleans, LA, USA",DCody
+"""been""","Williamsburg, VA, USA",DCody
+"""been""","Louisville, KY, USA",DCody
+"""been""","Boston, MA, USA",DCody
+"""been""","Lihue, HI, USA",DCody
+"""been""","Custer, SD, USA",DCody
+"""been""","Princeville, HI, USA",DCody
+"""been""","Poipu, HI, USA",DCody
+"""been""","Lanai City, HI, USA",DCody
+"""been""","Tukwila, WA, USA",DCody
+"""been""","Waimea, HI, USA",DCody
+"""been""","Kempton Park, South Africa",DCody
+"""been""","Johannesburg, South Africa",DCody
+"""been""","Berlin, Germany",DCody
+"""been""","Cortland, NY, USA",DCody
+"""been""","Honolulu, HI, USA",DCody
+"""been""","Pretoria, South Africa",DCody
+"""been""","Catskill, NY, USA",DCody
+"""been""","San Jose, Costa Rica",DCody
+"""been""","Pleasant Valley, AK, USA",DCody
+"""been""","Kula, HI, USA",DCody
+"""been""","Frankfurt, Germany",DCody
+"""been""","Kihei, HI, USA",DCody
+"""been""","Kotzebue, AK, USA",DCody
+"""been""","Makawao, HI, USA",DCody
+"""been""","Skagway, AK, USA",DCody
+"""been""","South Bend, IN, USA",DCody
+"""been""","Lahaina, HI, USA",DCody
+"""been""","Portland, ME, USA",DCody
+"""been""","Paia, HI, USA",DCody
+"""been""","Seattle, WA, USA",DCody
+"""been""","Puunene, HI, USA",DCody
+"""been""","Charlottesville, VA, USA",DCody
+"""been""","Kodiak, AK, USA",DCody
+"""been""","Kalaupapa, HI, USA",DCody
+"""been""","San Diego, CA, USA",DCody
+"""been""","White Plains, NY, USA",DCody
+"""been""","Kahului, HI, USA",DCody
+"""been""","Seward, AK, USA",DCody
+"""been""","Kailua-Kona, HI, USA",DCody
+"""been""","Hana, HI, USA",DCody
+"""been""","Cincinnati, OH, USA",DCody
+"""been""","Sydney, Australia",DCody
+"""been""","West Yellowstone, MT, USA",DCody
+"""been""","Clearwater, FL, USA",DCody
+"""been""","Yorba Linda, CA, USA",DCody
+"""been""","Arbel, Israel",DCody
+"""been""","Maunaloa, HI, USA",DCody
+"""been""","Wisconsin Dells, WI, USA",DCody
+"""been""","Hauula, HI, USA",DCody
+"""been""","Haleiwa, HI, USA",DCody
+"""been""","El Paso, TX, USA",DCody
+"""been""","Bergen, Norway",DCody
+"""been""","Surfers Paradise, Australia",DCody
+"""been""","Bruges, Belgium",DCody
+"""been""","Anchorage, AK, USA",DCody
+"""been""","Binghamton, NY, USA",DCody
+"""been""","Plattsburgh, NY, USA",DCody
+"""been""","Kualapuu, HI, USA",DCody
+"""been""","New York City, NY, USA",DCody
+"""been""","Kaunakakai, HI, USA",DCody
+"""been""","Portiragnes, France",DCody
+"""been""","Princeton, NJ, USA",DCody
+"""been""","Vancouver, British Columbia, Canada",DCody
+"""been""","Watkins Glen, NY, USA",DCody
+"""been""","Simon's Town, South Africa",DCody
+"""been""","Flushing, NY, USA",DCody
+"""been""","Minot, ND, USA",DCody
+"""been""","Nashville, TN, USA",DCody
+"""been""","Talkeetna, AK, USA",DCody
+"""been""","Ka'anapali, HI, USA",DCody
+"""been""","Greenville, SC, USA",DCody
+"""been""","Hope, AK, USA",DCody
+"""been""","SeaTac, WA, USA",DCody
+"""been""","Palm Beach, FL, USA",DCody
+"""been""","Beaver Creek, CO, USA",DCody
+"""been""","Helsinki, Finland",DCody
+"""been""","Tetlin, AK, USA",DCody
+"""been""","Groton, CT, USA",DCody
+"""been""","Juneau, AK, USA",DCody
+"""been""","Vail, CO, USA",DCody
+"""been""","Baltimore, MD, USA",DCody
+"""been""","Albuquerque, NM, USA",DCody
+"""been""","Savannah, GA, USA",DCody
+"""been""","Mont Tremblant, Quebec, Canada",DCody
+"""been""","St. George's, Grenada",DCody
+"""been""","Agoura, CA, USA",DCody
+"""been""","Venice, Italy",DCody
+"""been""","Eagle Bay, NY, USA",DCody
+"""been""","Winnipeg, Manitoba, Canada",DCody
+"""been""","Churchill, Manitoba, Canada",DCody
+"""been""","Homer, AK, USA",DCody
+"""been""","Hue, Vietnam",DCody
+"""been""","Healy, AK, USA",DCody
+"""been""","Brooklyn, NY, USA",DCody
+"""been""","Halibut Cove, AK, USA",DCody
+"""been""","Soldotna, AK, USA",DCody
+"""been""","Bar Harbor, ME, USA",DCody
+"""been""","Hodgenville, KY, USA",DCody
+"""been""","Mukilteo, WA, USA",DCody
+"""been""","Stowe, VT, USA",DCody
+"""been""","Halong Bay, Vietnam",DCody
+"""been""","Hanoi, Vietnam",DCody
+"""been""","Glennallen, AK, USA",DCody
+"""been""","Ho Chi Minh City, Vietnam",DCody
+"""been""","Vancouver, WA, USA",DCody
+"""been""","Sterling, AK, USA",DCody
+"""been""","Jackson, TN, USA",DCody
+"""been""","La Jolla, CA, USA",DCody
+"""been""","Estes Park, CO, USA",DCody
+"""been""","Orlando, FL, USA",DCody
+"""been""","Fredericksburg, VA, USA",DCody
+"""been""","Fairbanks, AK, USA",DCody
+"""been""","Providence, RI, USA",DCody
+"""been""","Detroit, MI, USA",DCody
+"""been""","Fort Nelson, British Columbia, Canada",DCody
+"""been""","Bwindi Impenetrable National Park, Uganda",DCody
+"""been""","Jersey City, NJ, USA",DCody
+"""been""","Whistler, British Columbia, Canada",DCody
+"""been""","Paradise Harbour, Antarctica",DCody
+"""been""","Elizabeth, NJ, USA",DCody
+"""been""","Syracuse, NY, USA",DCody
+"""been""","East Hampton, NY, USA",DCody
+"""been""","Seldovia, AK, USA",DCody
+"""been""","Thousand Oaks, CA, USA",DCody
+"""been""","Spokane, WA, USA",DCody
+"""been""","Killington, VT, USA",DCody
+"""been""","Girdwood, AK, USA",DCody
+"""been""","Pisa, Italy",DCody
+"""been""","King Salmon, AK, USA",DCody
+"""been""","Gustavus, AK, USA",DCody
+"""been""","Salem, MA, USA",DCody
+"""been""","San Antonio, TX, USA",DCody
+"""been""","San Francisco, CA, USA",DCody
+"""been""","Santa Fe, NM, USA",DCody
+"""been""","Takayama, Japan",DCody
+"""been""","Florence, Italy",DCody
+"""been""","Takamatsu, Japan",DCody
+"""been""","Tucson, AZ, USA",DCody
+"""been""","Tarrytown, NY, USA",DCody
+"""been""","Cabo San Lucas, Mexico",DCody
+"""been""","Siem Reap, Cambodia",DCody
+"""been""","Aschaffenburg, Germany",DCody
+"""been""","Prudhoe Bay, AK, USA",DCody
+"""been""","Dawson Creek, British Columbia, Canada",DCody
+"""been""","Port Graham, AK, USA",DCody
+"""been""","Gatlinburg, TN, USA",DCody
+"""been""","West Palm Beach, FL, USA",DCody
+"""been""","Shiloh, TN, USA",DCody
+"""been""","Appomattox, VA, USA",DCody
+"""been""","Littleton, CO, USA",DCody
+"""been""","New Braunfels, TX, USA",DCody
+"""been""","Charleston, SC, USA",DCody
+"""been""","Sitka, AK, USA",DCody
+"""been""","Greensboro, NC, USA",DCody
+"""been""","Munich, Germany",DCody
+"""been""","Scranton, PA, USA",DCody
+"""been""","London, UK",DCody
+"""been""","Newark, NJ, USA",DCody
+"""been""","Moscow, Russia",DCody
+"""been""","Dawson City, Yukon, Canada",DCody
+"""been""","Biloxi, MS, USA",DCody
+"""been""","Camillus, NY, USA",DCody
+"""been""","Petra - Wadi Musa, Jordan",DCody
+"""been""","Hakone-machi, Japan",DCody
+"""been""","Deadwood, SD, USA",DCody
+"""been""","Mentasta Lake, AK, USA",DCody
+"""been""","Kampala, Uganda",DCody
+"""been""","Camarillo, CA, USA",DCody
+"""been""","Cambria, CA, USA",DCody
+"""been""","Moose Pass, AK, USA",DCody
+"""been""","Como, Italy",DCody
+"""been""","Coeur d'Alene, ID, USA",DCody
+"""been""","Reno, NV, USA",DCody
+"""been""","Tokyo, Japan",DCody
+"""been""","Niagara-on-the-Lake, Ontario, Canada",DCody
+"""been""","Niagara Falls, Ontario, Canada",DCody
+"""been""","London, Ontario, Canada",DCody
+"""been""","Mount Pocono, PA, USA",DCody
+"""been""","Grindavik, Iceland",DCody
+"""been""","Anaheim, CA, USA",DCody
+"""been""","Kingston, Ontario, Canada",DCody
+"""been""","Hamilton, Ontario, Canada",DCody
+"""been""","Elm Mott, TX, USA",DCody
+"""been""","Yakutat, AK, USA",DCody
+"""been""","Tallahassee, FL, USA",DCody
+"""been""","Melbourne, FL, USA",DCody
+"""been""","Calabasas, CA, USA",DCody
+"""been""","Tampa, FL, USA",DCody
+"""been""","Sonoma, CA, USA",DCody
+"""been""","Masada, Israel",DCody
+"""been""","Green Bay, WI, USA",DCody
+"""been""","Greenport, NY, USA",DCody
+"""been""","Kodiak Island, AK, USA",DCody
+"""been""","Auckland Central, New Zealand",DCody
+"""been""","Valdez, AK, USA",DCody
+"""been""","Unalaska, AK, USA",DCody
+"""been""","Wrangell, AK, USA",DCody
+"""been""","Willow, AK, USA",DCody
+"""been""","Austin, TX, USA",DCody
+"""been""","Whittier, AK, USA",DCody
+"""been""","Wasilla, AK, USA",DCody
+"""been""","Narita, Japan",DCody
+"""been""","Halifax, Nova Scotia, Canada",DCody
+"""been""","Paihia, New Zealand",DCody
+"""been""","Ithaca, NY, USA",DCody
+"""been""","Rotorua, New Zealand",DCody
+"""been""","Corpus Christi, TX, USA",DCody
+"""been""","Kenai, AK, USA",DCody
+"""been""","Jacksonville, FL, USA",DCody
+"""been""","Kasilof, AK, USA",DCody
+"""been""","Kigali, Rwanda",DCody
+"""been""","Healdsburg, CA, USA",DCody
+"""been""","Wilkes-Barre, PA, USA",DCody
+"""been""","Tok, AK, USA",DCody
+"""been""","Panama City, FL, USA",DCody
+"""been""","Hoofddorp, The Netherlands",DCody
+"""been""","King Cove, AK, USA",DCody
+"""been""","Ketchikan, AK, USA",DCody
+"""been""","Arlington, TX, USA",DCody
+"""been""","Macon, GA, USA",DCody
+"""been""","Salt Lake City, UT, USA",DCody
+"""been""","Breckenridge, CO, USA",DCody
+"""been""","Lincoln, NE, USA",DCody
+"""been""","Jamaica, NY, USA",DCody
+"""been""","Lanai, HI, USA",DCody
+"""been""","Pittsburgh, PA, USA",DCody
+"""been""","Waco, TX, USA",DCody
+"""been""","Kipahulu, HI, USA",DCody
+"""been""","Rapid City, SD, USA",DCody
+"""been""","Molokai, HI, USA",DCody
+"""been""","Maui, HI, USA",DCody
+"""been""","Watson Lake, Yukon, Canada",DCody
+"""been""","Milwaukee, WI, USA",DCody
+"""been""","Haines Junction, Yukon, Canada",DCody
+"""been""","Marmande, France",DCody
+"""been""","Coca, Ecuador",DCody
+"""been""","Galveston, TX, USA",DCody
+"""been""","Colon, Panama",DCody
+"""been""","Bologna, Italy",DCody
+"""been""","Alexandria, LA, USA",DCody
+"""been""","Island of Hawaii, HI, USA",DCody
+"""been""","Saint Paul, MN, USA",DCody
+"""been""","East Point, GA, USA",DCody
+"""been""","Montego Bay, Jamaica",DCody
+"""been""","Ocho Rios, Jamaica",DCody
+"""been""","Las Vegas, NV, USA",DCody
+"""been""","Kingston, Jamaica",DCody
+"""been""","Secaucus, NJ, USA",DCody
+"""been""","Mont-Saint-Michel, France",DCody
+"""been""","Negril, Jamaica",DCody
+"""been""","Port Antonio, Jamaica",DCody
+"""been""","Toledo, OH, USA",DCody
+"""been""","Runaway Bay, Jamaica",DCody
+"""been""","Durham, NC, USA",DCody
+"""been""","Cork, Ireland",DCody
+"""been""","Pacific Grove, CA, USA",DCody
+"""been""","Dublin, Ireland",DCody
+"""been""","Palm Springs, CA, USA",DCody
+"""been""","Rockport, MA, USA",DCody
+"""been""","Fairfax, VA, USA",DCody
+"""been""","Calais, France",DCody
+"""been""","Galway, Ireland",DCody
+"""been""","Portland, OR, USA",DCody
+"""been""","Kasane, Botswana",DCody
+"""been""","Kingfield, ME, USA",DCody
+"""been""","Alexandria Bay, NY, USA",DCody
+"""been""","Kennebunkport, ME, USA",DCody
+"""been""","Hamilton, Bermuda",DCody
+"""been""","Table Mountain National Park, South Africa",DCody
+"""been""","Anchor Point, AK, USA",DCody
+"""been""","Aspen, CO, USA",DCody
+"""been""","Beaver Creek, Yukon, Canada",DCody
+"""been""","Destruction Bay, Yukon, Canada",DCody
+"""been""","McCarthy, AK, USA",DCody
+"""been""","St. Petersburg, FL, USA",DCody
+"""been""","Kennicott, AK, USA",DCody
+"""been""","Fox, AK, USA",DCody
+"""been""","Bossier City, LA, USA",DCody
+"""been""","Edmonton, Alberta, Canada",DCody
+"""been""","Calgary, Alberta, Canada",DCody
+"""been""","Lake Louise, Alberta, Canada",DCody
+"""been""","Banff, Alberta, Canada",DCody
+"""been""","Dallas, TX, USA",DCody
+"""been""","Decatur, AL, USA",DCody
+"""been""","Los Alamitos, CA, USA",DCody
+"""been""","Keystone, CO, USA",DCody
+"""been""","Newbury Park, CA, USA",DCody
+"""been""","Los Angeles, CA, USA",DCody
+"""been""","Montauk, NY, USA",DCody
+"""been""","Chicago, IL, USA",DCody
+"""been""","Rubuguli, Uganda",DCody
+"""been""","Aqaba, Jordan",DCody
+"""been""","Le Bouscat, France",DCody
+"""been""","Long Island City, NY, USA",DCody
+"""been""","Phoenix, AZ, USA",DCody
+"""been""","New Haven, CT, USA",DCody
+"""been""","Napa, CA, USA",DCody
+"""been""","Long Beach, CA, USA",DCody
+"""been""","Vero Beach, FL, USA",DCody
+"""been""","Lafayette, LA, USA",DCody
+"""been""","La Paz, Mexico",DCody
+"""been""","Ein Bokek, Israel",DCody
+"""been""","Fort Worth, TX, USA",DCody
+"""been""","Appleton, WI, USA",DCody
+"""been""","Avery Island, LA, USA",DCody
+"""been""","Mystic, CT, USA",DCody
+"""been""","Rach Gia, Vietnam",DCody
+"""been""","Neve Zohar, Israel",DCody
+"""been""","Phu Quoc Island, Vietnam",DCody
+"""been""","Burwash Landing, Yukon, Canada",DCody
+"""been""","Puno, Peru",DCody
+"""been""","Kyoto, Japan",DCody
+"""been""","Cold Bay, AK, USA",DCody
+"""been""","Clam Gulch, AK, USA",DCody
+"""been""","New Albany, IN, USA",DCody
+"""been""","Chitina, AK, USA",DCody
+"""been""","Chiniak, AK, USA",DCody
+"""been""","Oslo, Norway",DCody
+"""been""","Park City, UT, USA",DCody
+"""been""","Niagara Falls, NY, USA",DCody
+"""been""","Duong Dong, Vietnam",DCody
+"""been""","Sturbridge, MA, USA",DCody
+"""been""","Lake Placid, NY, USA",DCody
+"""been""","Freeport, ME, USA",DCody
+"""been""","Bordeaux, France",DCody
+"""been""","Denali National Park and Preserve, AK, USA",DCody
+"""been""","Columbus, OH, USA",DCody
+"""been""","Chattanooga, TN, USA",DCody
+"""been""","Chickaloon, AK, USA",DCody
+"""been""","Hout Bay, South Africa",DCody
+"""been""","Glacier Bay National Park and Preserve, AK, USA",DCody
+"""been""","Ottawa, Ontario, Canada",DCody
+"""been""","Montauban-de-Bretagne, France",DCody
+"""been""","Fort Wayne, IN, USA",DCody
+"""been""","Acre, Israel",DCody
+"""been""","Ninh Binh, Vietnam",DCody
+"""been""","Fort St. John, British Columbia, Canada",DCody
+"""been""","Cape Town Central, South Africa",DCody
+"""been""","Sde Boker, Israel",DCody
+"""been""","Bethel, AK, USA",DCody
+"""been""","Utqiagvik, AK, USA",DCody
+"""been""","Quito, Ecuador",DCody
+"""been""","Cusco, Peru",DCody
+"""been""","Lima, Peru",DCody
+"""been""","Bangor, ME, USA",DCody
+"""been""","Worcester, MA, USA",DCody
+"""been""","Dinan, France",DCody
+"""been""","Auburn, NY, USA",DCody
+"""been""","Port Lockroy, Antarctica",DCody
+"""been""","Lucerne, Switzerland",DCody
+"""been""","Reading, PA, USA",DCody
+"""been""","Simi Valley, CA, USA",DCody
+"""been""","Boise, ID, USA",DCody
+"""been""","State College, PA, USA",DCody
+"""been""","Machu Picchu, Peru",DCody
+"""been""","Guayaquil, Ecuador",DCody
+"""been""","Chapel Hill, NC, USA",DCody
+"""been""","Kefar Rosh HaNiqra, Israel",DCody
+"""been""","Las Cruces, NM, USA",DCody
+"""been""","Charlotte, NC, USA",DCody
+"""been""","Mitspe Ramon, Israel",DCody
+"""been""","Oshkosh, WI, USA",DCody
+"""been""","Bronx, NY, USA",DCody
+"""been""","Wrangell-St Elias National Park and Preserve, AK, USA",DCody
+"""been""","Nassau, Bahamas",DCody
+"""been""","Newport News, VA, USA",DCody
+"""been""","Quebec City, Quebec, Canada",DCody
+"""been""","Montreal, Quebec, Canada",DCody
+"""been""","Norfolk, VA, USA",DCody
+"""been""","Tiberias, Israel",DCody
+"""been""","Punta Arenas, Chile",DCody
+"""been""","Provincetown, MA, USA",DCody
+"""been""","Ramat Gan, Israel",DCody
+"""been""","Menlo Park, CA, USA",DCody
+"""been""","Plymouth, MA, USA",DCody
+"""been""","Albany, NY, USA",DCody
+"""been""","Erie, PA, USA",DCody
+"""been""","Freeport, Bahamas",DCody
+"""been"",""fave""","Fritz Creek, AK, USA",DCody
+"""been""","Whitehorse, Yukon, Canada",DCody
+"""been""","Vienna, Austria",DCody
+"""been""","Brandenburg, KY, USA",DCody
+"""been""","Saskatoon, Saskatchewan, Canada",DCody
+"""been""","St. Petersburg, Russia",DCody
+"""been""","Kruger National Park, South Africa",DCody
+"""been""","Puerto Ayora, Ecuador",DCody
+"""been""","Ushuaia, Argentina",DCody
+"""been""","Centurion, South Africa",DCody
+"""been""","Hilo, HI, USA",DCody
+"""been""","Puerto Villamil, Ecuador",DCody
+"""been""","Puerto Baquerizo Moreno, Ecuador",DCody
+"""been""","Marcellus, NY, USA",DCody
+"""been""","Great Smoky Mountains National Park, TN, USA",DCody
+"""been""","Mexico City, Mexico",DCody
+"""been""","Haleakala National Park, HI, USA",DCody
+"""been""","Toronto, Ontario, Canada",DCody
+"""been""","Montauban, France",DCody
+"""been""","Katmai National Park and Preserve, AK, USA",DCody
+"""been""","Kenai Fjords National Park, AK, USA",DCody
+"""been""","Eagle River, AK, USA",DCody
+"""been""","Dutch Harbor, AK, USA",DCody
+"""been""","Lancaster, PA, USA",DCody
+"""been""","Jaffa, Israel",DCody
+"""been""","Caesarea, Israel",DCody
+"""been""","Hernando, MS, USA",DCody
+"""been""","Toulouse, France",DCody
+"""been""","Polokwane, South Africa",DCody
+"""been""","Shreveport, LA, USA",DCody
+"""been""","Rhinebeck, NY, USA",DCody
+"""been""","Ruhengeri, Rwanda",DCody
+"""been""","Kyiv (Kiev), Ukraine",DCody
+"""been""","Naalehu, HI, USA",DCody
+"""been""","New Paltz, NY, USA",DCody
+"""been""","Alto, NM, USA",DCody
+"""been""","Cleveland, OH, USA",DCody
+"""been""","Mammoth Cave National Park, KY, USA",DCody
+"""been""","Falmouth, Jamaica",DCody
+"""been""","Douglas, AK, USA",DCody
+"""been""","Jackson, WY, USA",DCody
+"""been""","Sioux Falls, SD, USA",DCody
+"""been""","Richmond, KY, USA",DCody
+"""been""","Kinigi, Rwanda",DCody
+"""been""","Cordova, AK, USA",DCody
+"""been""","Cooper Landing, AK, USA",DCody
+"""been""","Nazareth, Israel",DCody
+"""been""","Nahariya, Israel",DCody
+"""been""","White River, South Africa",DCody
+"""been""","Gulfport, MS, USA",DCody
+"""been""","Raleigh, NC, USA",DCody
+"""been""","Sapa, Vietnam",DCody
+"""been""","Hyannis, MA, USA",DCody
+"""been""","Nelspruit, South Africa",DCody
+"""been""","Penn Yan, NY, USA",DCody
+"""been""","Atlantic City, NJ, USA",DCody
+"""been""","Lake George, NY, USA",DCody

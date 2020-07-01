@@ -1,0 +1,465 @@
+tag,place,user
+"""been""","Council Bluffs, IA, USA",swegs
+"""been""","Prairie du Chien, WI, USA",swegs
+"""been""","O'Fallon, IL, USA",swegs
+"""been""","Roanoke, VA, USA",swegs
+"""been"",""fave""","Hong Kong, China",swegs
+"""been""","Quincy, IL, USA",swegs
+"""been""","Brooklyn Park, MN, USA",swegs
+"""been""","Fargo, ND, USA",swegs
+"""been""","Manchester, NH, USA",swegs
+"""been""","West Des Moines, IA, USA",swegs
+"""been""","Cody, WY, USA",swegs
+"""been""","Normal, IL, USA",swegs
+"""been""","Cashmere, WA, USA",swegs
+"""been""","Burnsville, MN, USA",swegs
+"""been""","Louisville, KY, USA",swegs
+"""been""","Manhattan, KS, USA",swegs
+"""been""","Teton Village, WY, USA",swegs
+"""want""","Toronto, Ontario, Canada",swegs
+"""been""","Sausalito, CA, USA",swegs
+"""been""","Bodega Bay, CA, USA",swegs
+"""been""","Lisbon, Portugal",swegs
+"""been""","Eugene, OR, USA",swegs
+"""been""","Campbell River, British Columbia, Canada",swegs
+"""been""","South Bend, IN, USA",swegs
+"""been""","Santa Monica, CA, USA",swegs
+"""been""","Clive, IA, USA",swegs
+"""been""","Waterloo, IA, USA",swegs
+"""been""","Santa Maria, CA, USA",swegs
+"""been"",""fave""","Bishop, CA, USA",swegs
+"""been""","Chelan, WA, USA",swegs
+"""want""","Prague, Czech Republic",swegs
+"""been"",""fave""","Cancun, Mexico",swegs
+"""been""","Billings, MT, USA",swegs
+"""been""","Newport, OR, USA",swegs
+"""been"",""fave""","Mexico City, Mexico",swegs
+"""been""","Clear Lake, IA, USA",swegs
+"""been""","Santa Clara, CA, USA",swegs
+"""been""","Santa Barbara, CA, USA",swegs
+"""been""","Grants Pass, OR, USA",swegs
+"""want""","Montreal, Quebec, Canada",swegs
+"""want""","Quebec City, Quebec, Canada",swegs
+"""been""","Beverly Hills, CA, USA",swegs
+"""been""","Bend, OR, USA",swegs
+"""been"",""fave""","Punta Arenas, Chile",swegs
+"""been""","San Simeon, CA, USA",swegs
+"""been""","Zion National Park, UT, USA",swegs
+"""been""","Bozeman, MT, USA",swegs
+"""been""","Schaumburg, IL, USA",swegs
+"""been""","Overland Park, KS, USA",swegs
+"""been""","Macomb, IL, USA",swegs
+"""been""","Lenexa, KS, USA",swegs
+"""been""","La Crosse, WI, USA",swegs
+"""been""","Bloomington, IL, USA",swegs
+"""been"",""fave""","Shenzhen, China",swegs
+"""been""","Lawrence, KS, USA",swegs
+"""been""","Pekin, IL, USA",swegs
+"""been""","Cleveland, OH, USA",swegs
+"""been""","Sioux Falls, SD, USA",swegs
+"""been""","Peoria, IL, USA",swegs
+"""been""","Cedar Rapids, IA, USA",swegs
+"""been""","Carmel, CA, USA",swegs
+"""been""","San Jose, CA, USA",swegs
+"""been""","Desert Hot Springs, CA, USA",swegs
+"""been""","Fort Myers, FL, USA",swegs
+"""been"",""fave""","Sydney, Australia",swegs
+"""been""","Olathe, KS, USA",swegs
+"""been""","San Luis Obispo, CA, USA",swegs
+"""been""","Denver, CO, USA",swegs
+"""been""","Waunakee, WI, USA",swegs
+"""been""","Fort Pierce, FL, USA",swegs
+"""been""","Cannon Beach, OR, USA",swegs
+"""been""","Carlsbad, CA, USA",swegs
+"""been""","Park City, UT, USA",swegs
+"""been""","Mount Vernon, IL, USA",swegs
+"""been"",""fave""","Sun Peaks, British Columbia, Canada",swegs
+"""been"",""fave""","Jackson, WY, USA",swegs
+"""been""","Niagara Falls, NY, USA",swegs
+"""been""","Dubuque, IA, USA",swegs
+"""been""","Shreveport, LA, USA",swegs
+"""been""","Naples, FL, USA",swegs
+"""been""","Springdale, UT, USA",swegs
+"""been""","Key West, FL, USA",swegs
+"""been""","Del Mar, CA, USA",swegs
+"""been""","San Clemente, CA, USA",swegs
+"""been""","Champaign, IL, USA",swegs
+"""been""","Columbus, OH, USA",swegs
+"""been""","Dana Point, CA, USA",swegs
+"""been""","Belleville, IL, USA",swegs
+"""been""","Sister Bay, WI, USA",swegs
+"""been""","Kansas City, KS, USA",swegs
+"""been"",""fave""","San Juan, Puerto Rico",swegs
+"""been"",""fave""","Port Hardy, British Columbia, Canada",swegs
+"""been""","Lake Geneva, WI, USA",swegs
+"""been""","Culver City, CA, USA",swegs
+"""been""","Colorado Springs, CO, USA",swegs
+"""been""","Wengen, Switzerland",swegs
+"""been""","Moscow, ID, USA",swegs
+"""been""","Burlington, IA, USA",swegs
+"""been""","Cambria, CA, USA",swegs
+"""been""","Des Moines, IA, USA",swegs
+"""been""","Sainte-Anne, Martinique",swegs
+"""been""","Springfield, MO, USA",swegs
+"""been""","Anaheim, CA, USA",swegs
+"""been""","Calistoga, CA, USA",swegs
+"""been""","Fish Camp, CA, USA",swegs
+"""been""","Philadelphia, MS, USA",swegs
+"""been""","Bemidji, MN, USA",swegs
+"""been""","Jackson, MS, USA",swegs
+"""been""","Harrisburg, PA, USA",swegs
+"""been""","Rock Island, IL, USA",swegs
+"""want""","Miami, FL, USA",swegs
+"""been""","Rockford, IL, USA",swegs
+"""been""","Tampa, FL, USA",swegs
+"""been""","Carbondale, IL, USA",swegs
+"""been""","Charlotte, NC, USA",swegs
+"""been"",""fave""","Greymouth, New Zealand",swegs
+"""been""","Miami Beach, FL, USA",swegs
+"""been""","Decatur, IL, USA",swegs
+"""been""","Coronado, CA, USA",swegs
+"""been""","Austin, TX, USA",swegs
+"""been""","Tallahassee, FL, USA",swegs
+"""been""","Costa Mesa, CA, USA",swegs
+"""been""","Hermosa Beach, CA, USA",swegs
+"""been"",""fave""","Guangzhou, China",swegs
+"""been"",""fave""","Xi'an, China",swegs
+"""been"",""fave""","Guilin, China",swegs
+"""been"",""fave""","Hangzhou, China",swegs
+"""been""","Bloomington, MN, USA",swegs
+"""been""","Fargo, OK, USA",swegs
+"""been""","Waitomo Caves, New Zealand",swegs
+"""been"",""fave""","Ensenada, Mexico",swegs
+"""been""","Danville, IL, USA",swegs
+"""been""","Rosarito, Mexico",swegs
+"""been""","Eureka, CA, USA",swegs
+"""been""","Buena Park, CA, USA",swegs
+"""been"",""fave""","Tijuana, Mexico",swegs
+"""want""","Osaka, Japan",swegs
+"""been"",""fave""","Christchurch, New Zealand",swegs
+"""been""","Brainerd, MN, USA",swegs
+"""been""","South Lake Tahoe, CA, USA",swegs
+"""been"",""fave""","Wellington, New Zealand",swegs
+"""been""","Escondido, CA, USA",swegs
+"""been""","Breckenridge, CO, USA",swegs
+"""been"",""fave""","Taupo, New Zealand",swegs
+"""been""","Dallas, TX, USA",swegs
+"""been""","Boulder, CO, USA",swegs
+"""been"",""fave""","Rotorua, New Zealand",swegs
+"""been""","Twin Falls, ID, USA",swegs
+"""want""","Kyoto, Japan",swegs
+"""been"",""fave""","St. John's, Antigua and Barbuda",swegs
+"""been""","Lake Havasu City, AZ, USA",swegs
+"""been""","Encinitas, CA, USA",swegs
+"""been""","Saint Paul, MN, USA",swegs
+"""been""","Carson City, NV, USA",swegs
+"""been""","Charlestown, St. Kitts and Nevis",swegs
+"""been"",""fave""","Westport, New Zealand",swegs
+"""been"",""fave""","Te Anau, New Zealand",swegs
+"""been""","Vail, CO, USA",swegs
+"""been"",""fave""","Queenstown, New Zealand",swegs
+"""been""","Puerto Vallarta, Mexico",swegs
+"""been"",""fave""","Banff, Alberta, Canada",swegs
+"""been""","El Segundo, CA, USA",swegs
+"""been""","La Jolla, CA, USA",swegs
+"""been""","Orlando, FL, USA",swegs
+"""been""","Bryce, UT, USA",swegs
+"""been""","Arlington, WA, USA",swegs
+"""been""","Chula Vista, CA, USA",swegs
+"""been"",""fave""","Milan, Italy",swegs
+"""been""","O'Fallon, MO, USA",swegs
+"""been""","Quesnel, British Columbia, Canada",swegs
+"""been"",""fave""","Auckland Central, New Zealand",swegs
+"""been""","Rolla, MO, USA",swegs
+"""want""","Melbourne, Australia",swegs
+"""been"",""fave""","Jasper, Alberta, Canada",swegs
+"""been""","Scottsdale, AZ, USA",swegs
+"""been""","Kelowna, British Columbia, Canada",swegs
+"""been""","Marina del Rey, CA, USA",swegs
+"""want""","Dublin, Ireland",swegs
+"""been""","Chico, CA, USA",swegs
+"""been""","Amboy, WA, USA",swegs
+"""been""","Baton Rouge, LA, USA",swegs
+"""been"",""fave""","Kamloops, British Columbia, Canada",swegs
+"""been""","Sedona, AZ, USA",swegs
+"""been""","Siem Reap, Cambodia",swegs
+"""been""","Henderson, NV, USA",swegs
+"""been""","Incline Village, NV, USA",swegs
+"""been"",""fave""","Nelson, New Zealand",swegs
+"""been""","Osage Beach, MO, USA",swegs
+"""been""","Aberdeen, WA, USA",swegs
+"""been""","Williams Lake, British Columbia, Canada",swegs
+"""been"",""fave""","Genoa, Italy",swegs
+"""been""","Monterosso al Mare, Italy",swegs
+"""been"",""want""","Bangkok, Thailand",swegs
+"""been""","Glendale, CA, USA",swegs
+"""been""","West Palm Beach, FL, USA",swegs
+"""been"",""fave""","Victoria, British Columbia, Canada",swegs
+"""been"",""fave""","Tofino, British Columbia, Canada",swegs
+"""been""","Vancouver, British Columbia, Canada",swegs
+"""been""","Las Vegas, NV, USA",swegs
+"""been""","Wildwood, NJ, USA",swegs
+"""been""","Laughlin, NV, USA",swegs
+"""been""","Saint Joseph, MO, USA",swegs
+"""been""","Pendleton, OR, USA",swegs
+"""been""","Saint Louis, MO, USA",swegs
+"""been""","San Jose del Cabo, Mexico",swegs
+"""been""","Prince George, British Columbia, Canada",swegs
+"""been"",""fave""","Cabo San Lucas, Mexico",swegs
+"""want""","St. Petersburg, FL, USA",swegs
+"""been""","Aspen, CO, USA",swegs
+"""been"",""fave""","Prince Rupert, British Columbia, Canada",swegs
+"""want""","Hanoi, Vietnam",swegs
+"""want""","Ho Chi Minh City, Vietnam",swegs
+"""been""","Sainte Genevieve, MO, USA",swegs
+"""been""","Jefferson City, MO, USA",swegs
+"""been""","Maryland Heights, MO, USA",swegs
+"""been""","Fairmont Hot Springs, British Columbia, Canada",swegs
+"""been""","Alton, IL, USA",swegs
+"""been""","Portland, OR, USA",swegs
+"""been"",""fave""","Whistler, British Columbia, Canada",swegs
+"""been""","Los Angeles, CA, USA",swegs
+"""been""","Fresno, CA, USA",swegs
+"""been""","East Saint Louis, IL, USA",swegs
+"""been""","Chicago, IL, USA",swegs
+"""been""","Prescott, AZ, USA",swegs
+"""been""","Irvine, CA, USA",swegs
+"""been""","Valencia, Spain",swegs
+"""been""","Pismo Beach, CA, USA",swegs
+"""been""","Wenatchee, WA, USA",swegs
+"""been""","Minneapolis, MN, USA",swegs
+"""been""","Kansas City, MO, USA",swegs
+"""been""","Minnetonka, MN, USA",swegs
+"""been""","La Fortuna de San Carlos, Costa Rica",swegs
+"""been""","Reno, NV, USA",swegs
+"""been""","Napa, CA, USA",swegs
+"""been""","Avalon, CA, USA",swegs
+"""been""","Fountain Valley, CA, USA",swegs
+"""been"",""fave""","Florence, Italy",swegs
+"""been""","Alexandria, VA, USA",swegs
+"""been""","Lone Pine, CA, USA",swegs
+"""been""","Ankeny, IA, USA",swegs
+"""been""","Phoenix, AZ, USA",swegs
+"""been""","Salem, OR, USA",swegs
+"""been""","Kirksville, MO, USA",swegs
+"""been""","Kirkwood, MO, USA",swegs
+"""been""","Westport, WA, USA",swegs
+"""been""","Ames, IA, USA",swegs
+"""been""","Huntington Beach, CA, USA",swegs
+"""been""","Amana, IA, USA",swegs
+"""been""","Petaluma, CA, USA",swegs
+"""been""","Altoona, IA, USA",swegs
+"""been""","Charleston, WV, USA",swegs
+"""been""","Sacramento, CA, USA",swegs
+"""been""","Appleton, WI, USA",swegs
+"""been""","Barstow, CA, USA",swegs
+"""been""","Elkhart, IN, USA",swegs
+"""been""","Rochester, MN, USA",swegs
+"""been""","Whitefish, MT, USA",swegs
+"""been""","Seaside, OR, USA",swegs
+"""been"",""fave""","Venice, Italy",swegs
+"""been""","Earth City, MO, USA",swegs
+"""been""","Ashford, WA, USA",swegs
+"""been""","Cameron, MO, USA",swegs
+"""been""","Madrid, Spain",swegs
+"""been"",""fave""","Shanghai, China",swegs
+"""been""","Winthrop, WA, USA",swegs
+"""been""","Woodland, WA, USA",swegs
+"""been""","Yakima, WA, USA",swegs
+"""been""","Green Bay, WI, USA",swegs
+"""been""","Pebble Beach, CA, USA",swegs
+"""been""","Morro Bay, CA, USA",swegs
+"""been""","SeaTac, WA, USA",swegs
+"""been""","Niagara Falls, Ontario, Canada",swegs
+"""been""","Lake Ozark, MO, USA",swegs
+"""been""","Cape Girardeau, MO, USA",swegs
+"""been""","Baltimore, MD, USA",swegs
+"""been""","Albuquerque, NM, USA",swegs
+"""want""","Belfast, UK",swegs
+"""want""","Istanbul, Turkey",swegs
+"""want""","Tokyo, Japan",swegs
+"""been""","Riverside, CA, USA",swegs
+"""been""","Monterey, CA, USA",swegs
+"""been""","Seville, Spain",swegs
+"""want""","Ao Nang, Thailand",swegs
+"""been""","Marrakech, Morocco",swegs
+"""been""","Jacksonville, FL, USA",swegs
+"""been""","Astoria, OR, USA",swegs
+"""been""","Lincoln, NE, USA",swegs
+"""been""","Port Angeles, WA, USA",swegs
+"""been""","Salt Lake City, UT, USA",swegs
+"""been""","Hannibal, MO, USA",swegs
+"""been""","Saint Cloud, MN, USA",swegs
+"""been""","Bellevue, NE, USA",swegs
+"""been""","Saint Louis Park, MN, USA",swegs
+"""been""","Lebanon, MO, USA",swegs
+"""been""","Sekiu, WA, USA",swegs
+"""been""","Frankfurt, Germany",swegs
+"""been""","Pacific Grove, CA, USA",swegs
+"""been"",""fave""","Wanaka, New Zealand",swegs
+"""been""","Palm Desert, CA, USA",swegs
+"""been""","Nashville, TN, USA",swegs
+"""been""","Palm Springs, CA, USA",swegs
+"""been""","Tucson, AZ, USA",swegs
+"""been""","Eau Claire, WI, USA",swegs
+"""been""","Newcastle, WA, USA",swegs
+"""been""","Friday Harbor, WA, USA",swegs
+"""been""","Santa Fe, NM, USA",swegs
+"""been""","Lee's Summit, MO, USA",swegs
+"""been""","Iowa City, IA, USA",swegs
+"""been""","Thousand Oaks, CA, USA",swegs
+"""been""","Duluth, MN, USA",swegs
+"""been""","San Francisco, CA, USA",swegs
+"""been""","San Antonio, TX, USA",swegs
+"""been""","Eureka, MO, USA",swegs
+"""been""","Chesterfield, MO, USA",swegs
+"""been""","Hazelwood, MO, USA",swegs
+"""been""","Eagan, MN, USA",swegs
+"""been""","Redding, CA, USA",swegs
+"""been""","Snoqualmie, WA, USA",swegs
+"""been"",""fave""","London, UK",swegs
+"""want""","Naples, Italy",swegs
+"""been"",""fave""","Lake Tekapo, New Zealand",swegs
+"""been""","Oak Harbor, WA, USA",swegs
+"""been""","Munich, Germany",swegs
+"""want""","Rio de Janeiro, Brazil",swegs
+"""been""","Lexington, KY, USA",swegs
+"""been""","Red Lodge, MT, USA",swegs
+"""been""","Eden Prairie, MN, USA",swegs
+"""been""","Syracuse, NY, USA",swegs
+"""want""","Estes Park, CO, USA",swegs
+"""been""","Hermann, MO, USA",swegs
+"""been"",""fave""","Rome, Italy",swegs
+"""been""","Edina, MN, USA",swegs
+"""been""","Clayton, MO, USA",swegs
+"""been""","Albany, NY, USA",swegs
+"""been""","Rancho Mirage, CA, USA",swegs
+"""been""","Spokane, WA, USA",swegs
+"""been""","Falmouth, Antigua and Barbuda",swegs
+"""been""","Stockholm, Sweden",swegs
+"""been""","Ontario, CA, USA",swegs
+"""been""","Flagstaff, AZ, USA",swegs
+"""been""","Charleston, SC, USA",swegs
+"""been"",""fave""","Auckland, New Zealand",swegs
+"""been""","Tacoma, WA, USA",swegs
+"""been""","Omak, WA, USA",swegs
+"""been""","Orcas Island, WA, USA",swegs
+"""been""","Madison, WI, USA",swegs
+"""been""","Grafton, IL, USA",swegs
+"""been""","Oceanside, CA, USA",swegs
+"""been""","Hinckley, MN, USA",swegs
+"""been""","Copenhagen, Denmark",swegs
+"""been""","Mankato, MN, USA",swegs
+"""been""","Ely, MN, USA",swegs
+"""been""","Columbia, MO, USA",swegs
+"""been""","Maple Grove, MN, USA",swegs
+"""been""","Cle Elum, WA, USA",swegs
+"""been"",""fave""","Monte-Carlo, Monaco",swegs
+"""been""","Hibbing, MN, USA",swegs
+"""been""","Fenton, MO, USA",swegs
+"""been""","Gatlinburg, TN, USA",swegs
+"""been""","Houston, TX, USA",swegs
+"""been""","Pacific Beach, WA, USA",swegs
+"""been""","La Conner, WA, USA",swegs
+"""been""","Hood River, OR, USA",swegs
+"""been""","Independence, MO, USA",swegs
+"""been""","Urbandale, IA, USA",swegs
+"""been""","Butte, MT, USA",swegs
+"""been""","Moab, UT, USA",swegs
+"""want""","Marseille, France",swegs
+"""want""","Barcelona, Spain",swegs
+"""been""","Blue Springs, MO, USA",swegs
+"""been""","Cincinnati, OH, USA",swegs
+"""been""","McAllen, TX, USA",swegs
+"""been""","Walla Walla, WA, USA",swegs
+"""been""","San Diego, CA, USA",swegs
+"""been"",""fave""","Bolans, Antigua and Barbuda",swegs
+"""been""","Lahaina, HI, USA",swegs
+"""been""","Seattle, WA, USA",swegs
+"""been""","Creve Coeur, MO, USA",swegs
+"""been""","La Push, WA, USA",swegs
+"""been""","Packwood, WA, USA",swegs
+"""been""","Big Sur, CA, USA",swegs
+"""been""","Honolulu, HI, USA",swegs
+"""want""","New Orleans, LA, USA",swegs
+"""been""","Long Beach, WA, USA",swegs
+"""been""","Nashville, IN, USA",swegs
+"""been""","Khao Lak, Thailand",swegs
+"""been""","Boston, MA, USA",swegs
+"""been""","Leavenworth, WA, USA",swegs
+"""been""","Topeka, KS, USA",swegs
+"""been""","Cooke City, MT, USA",swegs
+"""been""","Wailea, HI, USA",swegs
+"""been""","Pleasanton, CA, USA",swegs
+"""been""","Bridgeton, MO, USA",swegs
+"""been""","Cloverdale, OR, USA",swegs
+"""been"",""fave""","Nice, France",swegs
+"""been""","Boca Raton, FL, USA",swegs
+"""been""","Quincy, WA, USA",swegs
+"""been"",""fave""","Pinedale, WY, USA",swegs
+"""been""","Quinault, WA, USA",swegs
+"""been""","Galena, IL, USA",swegs
+"""been""","Galesburg, IL, USA",swegs
+"""been""","Fort Wayne, IN, USA",swegs
+"""been""","Richmond, VA, USA",swegs
+"""been""","Moline, IL, USA",swegs
+"""been""","Atlanta, GA, USA",swegs
+"""been""","Pullman, WA, USA",swegs
+"""been"",""fave""","Innsbruck, Austria",swegs
+"""want""","Patong, Thailand",swegs
+"""been""","Rawai, Thailand",swegs
+"""been""","Lake Oswego, OR, USA",swegs
+"""been""","Eastsound, WA, USA",swegs
+"""been""","St. George, UT, USA",swegs
+"""been""","Klamath Falls, OR, USA",swegs
+"""been"",""fave""","Franz Josef, New Zealand",swegs
+"""been""","Coos Bay, OR, USA",swegs
+"""been""","Montgomery, AL, USA",swegs
+"""been""","Bainbridge Island, WA, USA",swegs
+"""been""","Enumclaw, WA, USA",swegs
+"""been""","New York City, NY, USA",swegs
+"""been""","Omaha, NE, USA",swegs
+"""want""","Santiago, Chile",swegs
+"""been""","Wisconsin Dells, WI, USA",swegs
+"""been""","Springfield, IL, USA",swegs
+"""been"",""fave""","Vienna, Austria",swegs
+"""been""","Sparks, NV, USA",swegs
+"""been""","Missoula, MT, USA",swegs
+"""want""","Budapest, Hungary",swegs
+"""been""","West Yellowstone, MT, USA",swegs
+"""been""","Mason, OH, USA",swegs
+"""been""","Lincoln City, OR, USA",swegs
+"""been"",""fave""","Buenos Aires, Argentina",swegs
+"""been""","Philadelphia, PA, USA",swegs
+"""been""","Forks, WA, USA",swegs
+"""been""","Gettysburg, PA, USA",swegs
+"""been""","Sturgeon Bay, WI, USA",swegs
+"""been""","Richmond, British Columbia, Canada",swegs
+"""been""","Terre Haute, IN, USA",swegs
+"""been""","Blaine, WA, USA",swegs
+"""want""","Lima, Peru",swegs
+"""been""","Boise, ID, USA",swegs
+"""been"",""fave""","Nosara, Costa Rica",swegs
+"""been""","Simi Valley, CA, USA",swegs
+"""been""","Bellingham, WA, USA",swegs
+"""been""","Afton, OK, USA",swegs
+"""been"",""fave""","Sanremo, Italy",swegs
+"""been"",""fave""","Zurich, Switzerland",swegs
+"""been""","Dickinson, ND, USA",swegs
+"""been""","Taos, NM, USA",swegs
+"""been""","Bellevue, WA, USA",swegs
+"""been"",""fave""","Paris, France",swegs
+"""been""","Indianapolis, IN, USA",swegs
+"""been"",""fave""","Versailles, France",swegs
+"""been""","Dayton, OH, USA",swegs
+"""been""","Death Valley Junction, CA, USA",swegs
+"""been""","Gig Harbor, WA, USA",swegs
+"""been""","Bettendorf, IA, USA",swegs
+"""been""","Stevens Point, WI, USA",swegs
+"""been"",""fave""","Salzburg, Austria",swegs
+"""been""","Medford, OR, USA",swegs
+"""been"",""fave""","Fox Glacier, New Zealand",swegs
+"""been""","Washington DC, DC, USA",swegs
+"""been"",""fave""","Chongqing, China",swegs
+"""been"",""fave""","Beijing, China",swegs
+"""been""","Merlin, OR, USA",swegs

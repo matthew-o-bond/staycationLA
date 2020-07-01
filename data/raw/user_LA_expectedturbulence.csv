@@ -1,0 +1,5 @@
+tag,place,user
+"""been""","Los Angeles, CA, USA",expectedturbulence
+"""been""","Cortez, CO, USA",expectedturbulence
+"""been""","Orlando, FL, USA",expectedturbulence
+"""been""","Salt Lake City, UT, USA",expectedturbulence

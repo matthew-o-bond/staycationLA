@@ -1,0 +1,408 @@
+tag,place,user
+"""been""","Apple Valley, CA, USA",artcie
+"""want""","San Jose, Costa Rica",artcie
+"""want""","Rio de Janeiro, Brazil",artcie
+"""been""","Mount Shasta, CA, USA",artcie
+"""been""","Huntington Beach, CA, USA",artcie
+"""been""","Sacramento, CA, USA",artcie
+"""been""","Petaluma, CA, USA",artcie
+"""want""","Bilbao, Spain",artcie
+"""been"",""want""","Avignon, France",artcie
+"""want""","Casablanca, Morocco",artcie
+"""been""","Aix-en-Provence, France",artcie
+"""want""","Istanbul, Turkey",artcie
+"""been""","Arcadia, CA, USA",artcie
+"""want""","Marrakech, Morocco",artcie
+"""want""","Tangier, Morocco",artcie
+"""been""","Arcata, CA, USA",artcie
+"""been""","Niagara Falls, Ontario, Canada",artcie
+"""been""","Mountain View, CA, USA",artcie
+"""been""","Arroyo Grande, CA, USA",artcie
+"""want""","Natal, Brazil",artcie
+"""been""","Inglewood, CA, USA",artcie
+"""been""","Lompoc, CA, USA",artcie
+"""been""","Long Beach, CA, USA",artcie
+"""been""","Fort Bragg, CA, USA",artcie
+"""been""","Phoenix, AZ, USA",artcie
+"""been""","Palma de Mallorca, Spain",artcie
+"""been""","Cannes, France",artcie
+"""been""","Indian Wells, CA, USA",artcie
+"""been""","Golfe-Juan Vallauris, France",artcie
+"""want""","Athens, Greece",artcie
+"""been""","Haifa, Israel",artcie
+"""been""","Frankfurt, Germany",artcie
+"""been""","Antibes, France",artcie
+"""been""","Tel Aviv, Israel",artcie
+"""been""","Jerusalem, Israel",artcie
+"""been""","Biot, France",artcie
+"""been""","Atascadero, CA, USA",artcie
+"""been""","Piru, CA, USA",artcie
+"""been""","Chicago, IL, USA",artcie
+"""been""","Cottonwood, AZ, USA",artcie
+"""been""","Mandelieu-la-Napoule, France",artcie
+"""been""","Menton, France",artcie
+"""been""","Pismo Beach, CA, USA",artcie
+"""been""","Los Alamos, CA, USA",artcie
+"""been""","Mougins, France",artcie
+"""been""","Newbury Park, CA, USA",artcie
+"""been""","Los Angeles, CA, USA",artcie
+"""been""","Prescott, AZ, USA",artcie
+"""been"",""want""","Nice, France",artcie
+"""been""","Grasse, France",artcie
+"""been""","Juan-les-Pins, France",artcie
+"""been""","Avila Beach, CA, USA",artcie
+"""been""","Los Olivos, CA, USA",artcie
+"""been""","Newport Beach, CA, USA",artcie
+"""been""","Garden Grove, CA, USA",artcie
+"""been""","Gilroy, CA, USA",artcie
+"""been""","St-Paul-de-Vence, France",artcie
+"""been""","Monte-Carlo, Monaco",artcie
+"""been""","Monaco-Ville, Monaco",artcie
+"""been""","Philomath, OR, USA",artcie
+"""been""","Gardena, CA, USA",artcie
+"""been""","Chambord, France",artcie
+"""been""","Saint-Tropez, France",artcie
+"""been""","Chartres, France",artcie
+"""been""","Chenonceaux, France",artcie
+"""been""","Valbonne, France",artcie
+"""been""","Chinon, France",artcie
+"""been"",""fave""","Vence, France",artcie
+"""been""","Roquebrune-Cap-Martin, France",artcie
+"""been""","Amboise, France",artcie
+"""been""","Garberville, CA, USA",artcie
+"""been""","Blois, France",artcie
+"""been""","Bethesda, MD, USA",artcie
+"""been""","Las Vegas, NV, USA",artcie
+"""been""","Redondo Beach, CA, USA",artcie
+"""been""","Dallas, TX, USA",artcie
+"""been""","Redlands, CA, USA",artcie
+"""been""","Cologne, Germany",artcie
+"""been""","Tours, France",artcie
+"""been""","Marseille, France",artcie
+"""been""","Redding, CA, USA",artcie
+"""been""","Barcelona, Spain",artcie
+"""been""","Villefranche-sur-Mer, France",artcie
+"""been""","Sallanches, France",artcie
+"""been""","Taos Ski Valley, NM, USA",artcie
+"""been""","Annecy, France",artcie
+"""been""","Chamonix, France",artcie
+"""been""","Palm Desert, CA, USA",artcie
+"""been""","Courchevel, France",artcie
+"""been""","Evian-les-Bains, France",artcie
+"""been""","Pacific Grove, CA, USA",artcie
+"""been""","Megeve, France",artcie
+"""been""","Zurich, Switzerland",artcie
+"""been""","Reims, France",artcie
+"""been""","Lausanne, Switzerland",artcie
+"""been""","Oxnard, CA, USA",artcie
+"""been""","Montreux, Switzerland",artcie
+"""been""","Vancouver, British Columbia, Canada",artcie
+"""been""","Victoria, British Columbia, Canada",artcie
+"""been""","La Fonda, Mexico",artcie
+"""want""","Carcassonne Center, France",artcie
+"""been""","Montecito, CA, USA",artcie
+"""been""","Riverside, CA, USA",artcie
+"""been""","Whistler, British Columbia, Canada",artcie
+"""been""","Fort Worth, TX, USA",artcie
+"""been""","Palos Verdes Estates, CA, USA",artcie
+"""been"",""fave""","Paris, France",artcie
+"""been""","Larkspur, CA, USA",artcie
+"""been""","Versailles, France",artcie
+"""been""","Palm Springs, CA, USA",artcie
+"""been""","Palo Alto, CA, USA",artcie
+"""been""","Cabo San Lucas, Mexico",artcie
+"""been""","Pebble Beach, CA, USA",artcie
+"""been""","Morro Bay, CA, USA",artcie
+"""been""","San Jose del Cabo, Mexico",artcie
+"""been""","Moorpark, CA, USA",artcie
+"""been""","Paso Robles, CA, USA",artcie
+"""been""","Montrose, CA, USA",artcie
+"""been""","Winslow, AZ, USA",artcie
+"""been""","Innsbruck, Austria",artcie
+"""been""","Pasadena, CA, USA",artcie
+"""been""","Monterey Park, CA, USA",artcie
+"""been""","Williams, AZ, USA",artcie
+"""been""","Monterey, CA, USA",artcie
+"""want""","Salzburg, Austria",artcie
+"""been""","Saint Paul, MN, USA",artcie
+"""want""","Havana, Cuba",artcie
+"""want""","Buenos Aires, Argentina",artcie
+"""been""","Pomona, CA, USA",artcie
+"""been""","Niagara Falls, NY, USA",artcie
+"""want""","Toulouse, France",artcie
+"""been""","Otopeni, Romania",artcie
+"""been""","Lille, France",artcie
+"""want""","Gura Humorului, Romania",artcie
+"""been""","Point Mugu, CA, USA",artcie
+"""been""","Point Reyes Station, CA, USA",artcie
+"""want""","Vienna, Austria",artcie
+"""been""","Zihuatanejo, Mexico",artcie
+"""been""","Puerto Vallarta, Mexico",artcie
+"""want""","Guadalajara, Mexico",artcie
+"""been""","Nabeul, Tunisia",artcie
+"""been""","Pueblo of Acoma, NM, USA",artcie
+"""been""","Gallup, NM, USA",artcie
+"""been""","Quemado, NM, USA",artcie
+"""been""","Deauville City, France",artcie
+"""been""","Trouville-sur-Mer, France",artcie
+"""been""","Ashland, OR, USA",artcie
+"""been""","Oakland, CA, USA",artcie
+"""been""","Strasbourg, France",artcie
+"""been""","Bordeaux, France",artcie
+"""been""","Ensenada, Mexico",artcie
+"""been""","La Paz, Mexico",artcie
+"""been""","Tijuana, Mexico",artcie
+"""been""","Biarritz, France",artcie
+"""been""","Rosarito, Mexico",artcie
+"""been""","Mendocino, CA, USA",artcie
+"""been""","Bern, Switzerland",artcie
+"""been""","Rancho Mirage, CA, USA",artcie
+"""been""","Ontario, CA, USA",artcie
+"""been""","Saint-Jean-de-Luz, France",artcie
+"""been""","Geneva, Switzerland",artcie
+"""been""","Squamish, British Columbia, Canada",artcie
+"""been""","Rancho Cucamonga, CA, USA",artcie
+"""been""","Basel, Switzerland",artcie
+"""been""","Oceanside, CA, USA",artcie
+"""been""","Ojai, CA, USA",artcie
+"""been""","Big Sur, CA, USA",artcie
+"""been""","Sierra Madre, CA, USA",artcie
+"""been""","Vichy, France",artcie
+"""been""","Lucerne, Switzerland",artcie
+"""been""","Newport, OR, USA",artcie
+"""want""","Lisbon, Portugal",artcie
+"""been""","Navajo, NM, USA",artcie
+"""been""","Washington DC, DC, USA",artcie
+"""been""","Shell Beach, CA, USA",artcie
+"""been""","Le Cannet, France",artcie
+"""been""","Schaffhausen, Switzerland",artcie
+"""been""","Roman, Romania",artcie
+"""been""","Eugene, OR, USA",artcie
+"""want""","Kyoto, Japan",artcie
+"""been""","Simi Valley, CA, USA",artcie
+"""want""","Paphos, Cyprus",artcie
+"""been""","Grants Pass, OR, USA",artcie
+"""been"",""want""","Blodgett, OR, USA",artcie
+"""been""","New Paltz, NY, USA",artcie
+"""been""","Sion, Switzerland",artcie
+"""been""","Constanta, Romania",artcie
+"""been""","Bandon, OR, USA",artcie
+"""been""","Zuni, NM, USA",artcie
+"""been""","Santa Clara, CA, USA",artcie
+"""been""","Santa Clarita, CA, USA",artcie
+"""been""","Temecula, CA, USA",artcie
+"""been""","Santa Barbara, CA, USA",artcie
+"""been""","Roquefort les Pins, France",artcie
+"""been""","Bainbridge Island, WA, USA",artcie
+"""been""","San Ysidro, CA, USA",artcie
+"""been""","Bellevue, WA, USA",artcie
+"""been""","Lincoln City, OR, USA",artcie
+"""been""","Beverly Hills, CA, USA",artcie
+"""been""","Santa Rosa, CA, USA",artcie
+"""been""","Santa Ynez, CA, USA",artcie
+"""been""","Santa Paula, CA, USA",artcie
+"""been""","Tiburon, CA, USA",artcie
+"""been""","Santa Maria, CA, USA",artcie
+"""been""","Santa Monica, CA, USA",artcie
+"""want""","Budapest, Hungary",artcie
+"""been""","Coos Bay, OR, USA",artcie
+"""been""","Corvallis, OR, USA",artcie
+"""been""","Ventura, CA, USA",artcie
+"""been""","Seaside, CA, USA",artcie
+"""been""","Sebastopol, CA, USA",artcie
+"""been""","Sausalito, CA, USA",artcie
+"""been""","Iasi, Romania",artcie
+"""been""","Medford, OR, USA",artcie
+"""want""","Suceava, Romania",artcie
+"""been""","Netanya, Israel",artcie
+"""been""","Torrance, CA, USA",artcie
+"""been""","Shasta, CA, USA",artcie
+"""been""","Philadelphia, PA, USA",artcie
+"""been""","Mammoth Lakes, CA, USA",artcie
+"""been""","Blaine, WA, USA",artcie
+"""been""","Hendaye, France",artcie
+"""been""","Tiberias, Israel",artcie
+"""been""","Taos, NM, USA",artcie
+"""want""","Puerto Iguazu, Argentina",artcie
+"""been""","Bellingham, WA, USA",artcie
+"""want""","Montreal, Quebec, Canada",artcie
+"""been""","Salinas, CA, USA",artcie
+"""been""","Camp Pendleton, CA, USA",artcie
+"""been""","Watsonville, CA, USA",artcie
+"""been""","Kirkland, WA, USA",artcie
+"""been""","Culver City, CA, USA",artcie
+"""been""","Toronto, Ontario, Canada",artcie
+"""been""","Mexico City, Mexico",artcie
+"""been""","San Bernardino, CA, USA",artcie
+"""want""","Oaxaca, Mexico",artcie
+"""been""","Bakersfield, CA, USA",artcie
+"""been""","Dana Point, CA, USA",artcie
+"""been""","Chambers, AZ, USA",artcie
+"""want""","Cancun, Mexico",artcie
+"""been"",""fave""","Glacier Bay National Park and Preserve, AK, USA",artcie
+"""been""","Sophia Antipolis, France",artcie
+"""been"",""fave""","Grand Canyon National Park, AZ, USA",artcie
+"""been""","High Falls, NY, USA",artcie
+"""been""","Crans-Montana, Switzerland",artcie
+"""been""","Bordighera, Italy",artcie
+"""been""","Buffalo, NY, USA",artcie
+"""been""","Del Mar, CA, USA",artcie
+"""been""","Zollikon, Switzerland",artcie
+"""been""","San Fernando, CA, USA",artcie
+"""been""","Flagstaff, AZ, USA",artcie
+"""been""","San Clemente, CA, USA",artcie
+"""been""","San Bruno, CA, USA",artcie
+"""been""","West Hollywood, CA, USA",artcie
+"""been""","Mount Rainier National Park, WA, USA",artcie
+"""been""","Olympic National Park, WA, USA",artcie
+"""been""","Westlake Village, CA, USA",artcie
+"""been""","Newark, NJ, USA",artcie
+"""been""","Carpinteria, CA, USA",artcie
+"""been""","Sunnyvale, CA, USA",artcie
+"""been""","San Lucas, CA, USA",artcie
+"""been""","Denver, CO, USA",artcie
+"""been"",""fave""","New York City, NY, USA",artcie
+"""been""","Port Townsend, WA, USA",artcie
+"""been""","Carson, CA, USA",artcie
+"""been""","Carmel, CA, USA",artcie
+"""been""","San Jose, CA, USA",artcie
+"""been""","Summerland, CA, USA",artcie
+"""been""","Desert Hot Springs, CA, USA",artcie
+"""been""","San Juan Bautista, CA, USA",artcie
+"""been""","Carlsbad, CA, USA",artcie
+"""been""","Carmel Valley, CA, USA",artcie
+"""been""","San Marino, CA, USA",artcie
+"""been""","San Luis Obispo, CA, USA",artcie
+"""been""","Whittier, CA, USA",artcie
+"""been""","Ventimiglia, Italy",artcie
+"""been""","Seattle, WA, USA",artcie
+"""been""","Berkeley, CA, USA",artcie
+"""been""","Cathedral City, CA, USA",artcie
+"""been""","Cayucos, CA, USA",artcie
+"""been""","San Diego, CA, USA",artcie
+"""want""","Durango, CO, USA",artcie
+"""been""","San Mateo, CA, USA",artcie
+"""been""","Twentynine Palms, CA, USA",artcie
+"""been""","San Miguel, CA, USA",artcie
+"""been""","Castaic, CA, USA",artcie
+"""been""","Castroville, CA, USA",artcie
+"""been""","Rolle, Switzerland",artcie
+"""been""","San Rafael, CA, USA",artcie
+"""been""","Crater Lake National Park, OR, USA",artcie
+"""been""","Topanga, CA, USA",artcie
+"""been"",""want""","Bucharest, Romania",artcie
+"""been""","Boston, MA, USA",artcie
+"""been""","New Orleans, LA, USA",artcie
+"""been""","Boulogne-Billancourt, France",artcie
+"""been""","Juneau, AK, USA",artcie
+"""been""","Lake Arrowhead, CA, USA",artcie
+"""been""","Agoura, CA, USA",artcie
+"""been""","Escondido, CA, USA",artcie
+"""been""","Hawthorne, CA, USA",artcie
+"""want""","Recife, Brazil",artcie
+"""want""","Milan, Italy",artcie
+"""been""","Agoura Hills, CA, USA",artcie
+"""been""","Albuquerque, NM, USA",artcie
+"""been""","Kusnacht, Switzerland",artcie
+"""been""","Petrified Forest National Park, AZ, USA",artcie
+"""been""","Baltimore, MD, USA",artcie
+"""want""","Manaus, Brazil",artcie
+"""been""","Eureka, CA, USA",artcie
+"""been""","Buellton, CA, USA",artcie
+"""been""","Burbank, CA, USA",artcie
+"""been""","SeaTac, WA, USA",artcie
+"""been""","Alameda, CA, USA",artcie
+"""been""","Buena Park, CA, USA",artcie
+"""been""","Alhambra, CA, USA",artcie
+"""been"",""fave""","Ketchikan, AK, USA",artcie
+"""been""","Healdsburg, CA, USA",artcie
+"""been""","Commerce, CA, USA",artcie
+"""been""","Burlingame, CA, USA",artcie
+"""been""","Sousse, Tunisia",artcie
+"""want""","Cusco, Peru",artcie
+"""want""","Lima, Peru",artcie
+"""been""","Hammamet, Tunisia",artcie
+"""want""","Machu Picchu, Peru",artcie
+"""been""","Port Angeles, WA, USA",artcie
+"""been""","Altadena, CA, USA",artcie
+"""been""","Solana Beach, CA, USA",artcie
+"""been""","Corte Madera, CA, USA",artcie
+"""been""","Soledad, CA, USA",artcie
+"""been""","Neuilly-sur-Seine, France",artcie
+"""been""","Chatou, France",artcie
+"""been""","Hermosa Beach, CA, USA",artcie
+"""been""","Coronado, CA, USA",artcie
+"""been""","Sonoma, CA, USA",artcie
+"""been""","Ferndale, CA, USA",artcie
+"""been""","Calabasas, CA, USA",artcie
+"""been""","Hollister, CA, USA",artcie
+"""want""","Venice, Italy",artcie
+"""been""","Solvang, CA, USA",artcie
+"""been""","Victorville, CA, USA",artcie
+"""been""","Big Bear Lake, CA, USA",artcie
+"""been""","Aosta, Italy",artcie
+"""been""","Thousand Oaks, CA, USA",artcie
+"""been""","Nanterre, France",artcie
+"""been"",""fave""","Santa Fe, NM, USA",artcie
+"""been""","Combloux, France",artcie
+"""been""","Friday Harbor, WA, USA",artcie
+"""been""","San Francisco, CA, USA",artcie
+"""been""","Vista, CA, USA",artcie
+"""been""","Fillmore, CA, USA",artcie
+"""been""","Saint-Germain-en-Laye, France",artcie
+"""been""","Vallauris, France",artcie
+"""been""","South San Francisco, CA, USA",artcie
+"""been""","Camarillo, CA, USA",artcie
+"""been""","Anaheim, CA, USA",artcie
+"""been""","Walnut Creek, CA, USA",artcie
+"""been""","Cambria, CA, USA",artcie
+"""want""","Madrid, Spain",artcie
+"""been""","Mouans-Sartoux, France",artcie
+"""want""","Prague, Czech Republic",artcie
+"""been""","Glendale, CA, USA",artcie
+"""been""","Manhattan Beach, CA, USA",artcie
+"""been""","King City, CA, USA",artcie
+"""been""","Goleta, CA, USA",artcie
+"""been""","Redmond, WA, USA",artcie
+"""been""","Novato, CA, USA",artcie
+"""been"",""fave""","Malibu, CA, USA",artcie
+"""want""","Salvador, Brazil",artcie
+"""want""","Valencia, Spain",artcie
+"""been""","Second Mesa, AZ, USA",artcie
+"""been""","Marina del Rey, CA, USA",artcie
+"""been""","Sedona, AZ, USA",artcie
+"""want""","Amalfi, Italy",artcie
+"""want""","Florence, Italy",artcie
+"""been"",""fave""","Saint-Paul, France",artcie
+"""been""","Minneapolis, MN, USA",artcie
+"""been""","Chula Vista, CA, USA",artcie
+"""been""","El Cajon, CA, USA",artcie
+"""been""","London, UK",artcie
+"""want""","Rome, Italy",artcie
+"""been""","Claremont, CA, USA",artcie
+"""been""","La Jolla, CA, USA",artcie
+"""been""","City of Industry, CA, USA",artcie
+"""been""","La Napoule, France",artcie
+"""want""","Naples, Italy",artcie
+"""been""","Antwerp, Belgium",artcie
+"""been""","Munich, Germany",artcie
+"""been""","Tunis, Tunisia",artcie
+"""been""","El Segundo, CA, USA",artcie
+"""been""","Praz Sur Arly, France",artcie
+"""been""","Jerome, AZ, USA",artcie
+"""been""","Ixtapa, Mexico",artcie
+"""been""","Brea, CA, USA",artcie
+"""been""","Half Moon Bay, CA, USA",artcie
+"""been""","Rambouillet, France",artcie
+"""been""","Roche Harbor, WA, USA",artcie
+"""want""","Granada, Spain",artcie
+"""been""","Orly, France",artcie
+"""been""","Woodinville, WA, USA",artcie
+"""been""","Laguna Beach, CA, USA",artcie
+"""want""","Seville, Spain",artcie
+"""been""","Brussels, Belgium",artcie
+"""been""","Mill Valley, CA, USA",artcie
+"""want""","Malaga, Spain",artcie
+"""been""","Camp Verde, AZ, USA",artcie
+"""been""","Cheverny, France",artcie
+"""been""","Gilly, Switzerland",artcie

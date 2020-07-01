@@ -1,0 +1,501 @@
+tag,place,user
+"""been""","Salt Lake City, UT, USA",CarlOjai
+"""been""","La Jolla, CA, USA",CarlOjai
+"""been""","Sydney, Nova Scotia, Canada",CarlOjai
+"""been""","Jacksonville, FL, USA",CarlOjai
+"""been""","Orlando, FL, USA",CarlOjai
+"""been""","Detroit, MI, USA",CarlOjai
+"""been""","Rovinj, Croatia",CarlOjai
+"""been""","Munising, MI, USA",CarlOjai
+"""been""","Point Pleasant Beach, NJ, USA",CarlOjai
+"""been""","Pisa, Italy",CarlOjai
+"""been""","Kiel, Germany",CarlOjai
+"""been""","Florence, Italy",CarlOjai
+"""been""","Lubeck, Germany",CarlOjai
+"""been""","Baltimore, MD, USA",CarlOjai
+"""been""","Albuquerque, NM, USA",CarlOjai
+"""been""","Grass Valley, CA, USA",CarlOjai
+"""been""","Savannah, GA, USA",CarlOjai
+"""want""","Rhodes Town, Greece",CarlOjai
+"""been""","Amalfi, Italy",CarlOjai
+"""been""","London, UK",CarlOjai
+"""been""","Stellenbosch, South Africa",CarlOjai
+"""been""","Corpus Christi, TX, USA",CarlOjai
+"""been""","Nashville, TN, USA",CarlOjai
+"""been""","Scottsdale, AZ, USA",CarlOjai
+"""been""","Atrani, Italy",CarlOjai
+"""been""","Naples, Italy",CarlOjai
+"""been""","Sedona, AZ, USA",CarlOjai
+"""been""","Marina del Rey, CA, USA",CarlOjai
+"""been""","West Palm Beach, FL, USA",CarlOjai
+"""been""","Malibu, CA, USA",CarlOjai
+"""been""","Hue, Vietnam",CarlOjai
+"""been""","Ho Chi Minh City, Vietnam",CarlOjai
+"""been""","Fairbanks, AK, USA",CarlOjai
+"""been""","Manhattan Beach, CA, USA",CarlOjai
+"""been""","Hanoi, Vietnam",CarlOjai
+"""been""","Brooklyn, NY, USA",CarlOjai
+"""been""","Halong Bay, Vietnam",CarlOjai
+"""been""","Aspen, CO, USA",CarlOjai
+"""been""","Providence, RI, USA",CarlOjai
+"""been""","Sarasota, FL, USA",CarlOjai
+"""been""","Kansas City, MO, USA",CarlOjai
+"""been""","Puerto Penasco, Mexico",CarlOjai
+"""been""","Minneapolis, MN, USA",CarlOjai
+"""been""","Stockholm, Sweden",CarlOjai
+"""been""","Cadiz, Spain",CarlOjai
+"""been""","Petoskey, MI, USA",CarlOjai
+"""been""","Rome, Italy",CarlOjai
+"""been""","Malaga, Spain",CarlOjai
+"""been""","Stowe, VT, USA",CarlOjai
+"""been""","York, UK",CarlOjai
+"""been""","Revello, Italy",CarlOjai
+"""been""","Arlington, VA, USA",CarlOjai
+"""been""","Salem, MA, USA",CarlOjai
+"""been""","San Francisco, CA, USA",CarlOjai
+"""want""","Nipomo, CA, USA",CarlOjai
+"""been""","Page, AZ, USA",CarlOjai
+"""been""","Annapolis, MD, USA",CarlOjai
+"""been""","Bethany Beach, DE, USA",CarlOjai
+"""been""","Quincy, MA, USA",CarlOjai
+"""been""","Victoria, British Columbia, Canada",CarlOjai
+"""been""","Santa Fe, NM, USA",CarlOjai
+"""been""","Rio de Janeiro, Brazil",CarlOjai
+"""been""","Vancouver, British Columbia, Canada",CarlOjai
+"""been""","San Antonio, TX, USA",CarlOjai
+"""been""","St. Pete Beach, FL, USA",CarlOjai
+"""been""","Gilroy, CA, USA",CarlOjai
+"""been""","St. Petersburg, FL, USA",CarlOjai
+"""been""","Tucson, AZ, USA",CarlOjai
+"""been""","Jersey City, NJ, USA",CarlOjai
+"""been""","Seville, Spain",CarlOjai
+"""been""","Bar Harbor, ME, USA",CarlOjai
+"""been""","Whistler, British Columbia, Canada",CarlOjai
+"""been""","Johannesburg, South Africa",CarlOjai
+"""been""","Los Olivos, CA, USA",CarlOjai
+"""been""","Berlin, Germany",CarlOjai
+"""been""","Kempton Park, South Africa",CarlOjai
+"""been""","Garden Grove, CA, USA",CarlOjai
+"""been""","Pismo Beach, CA, USA",CarlOjai
+"""been""","Los Alamos, CA, USA",CarlOjai
+"""been""","Avalon, CA, USA",CarlOjai
+"""been""","Auburn, CA, USA",CarlOjai
+"""been""","Moab, UT, USA",CarlOjai
+"""been""","Prescott, AZ, USA",CarlOjai
+"""been""","Waitsfield, VT, USA",CarlOjai
+"""been""","Los Angeles, CA, USA",CarlOjai
+"""been""","Fresno, CA, USA",CarlOjai
+"""been""","Chicago, IL, USA",CarlOjai
+"""been""","Cabo San Lucas, Mexico",CarlOjai
+"""been""","Siem Reap, Cambodia",CarlOjai
+"""been""","Avila Beach, CA, USA",CarlOjai
+"""been""","St. Michaels, MD, USA",CarlOjai
+"""been""","Paradise, MI, USA",CarlOjai
+"""been""","Sao Paulo, Brazil",CarlOjai
+"""been""","Avignon, France",CarlOjai
+"""been""","Wailea, HI, USA",CarlOjai
+"""been""","Geiranger, Norway",CarlOjai
+"""been""","Nevada City, CA, USA",CarlOjai
+"""been""","Frankfurt, Germany",CarlOjai
+"""been""","Irvine, CA, USA",CarlOjai
+"""been""","Phoenix, AZ, USA",CarlOjai
+"""been""","Fort Bragg, CA, USA",CarlOjai
+"""been""","Tacoma, WA, USA",CarlOjai
+"""been""","Murphys, CA, USA",CarlOjai
+"""been""","Punta Cana, Dominican Republic",CarlOjai
+"""been""","Bangkok, Thailand",CarlOjai
+"""been""","Buffalo, NY, USA",CarlOjai
+"""been""","Indian Wells, CA, USA",CarlOjai
+"""been""","Grenada, Caribbean",CarlOjai
+"""been""","Napa, CA, USA",CarlOjai
+"""been""","Madison, WI, USA",CarlOjai
+"""been""","Taipei, Taiwan",CarlOjai
+"""been""","Charleston, SC, USA",CarlOjai
+"""been""","Newport, RI, USA",CarlOjai
+"""been""","Long Beach, CA, USA",CarlOjai
+"""been""","Sault Ste. Marie, MI, USA",CarlOjai
+"""been""","Braintree, MA, USA",CarlOjai
+"""been""","Flagstaff, AZ, USA",CarlOjai
+"""been""","Baton Rouge, LA, USA",CarlOjai
+"""been""","Korcula Town, Croatia",CarlOjai
+"""been""","Athens, Greece",CarlOjai
+"""been""","Marquette, MI, USA",CarlOjai
+"""been""","Bergen, Norway",CarlOjai
+"""been""","Bath, UK",CarlOjai
+"""been""","Alesund, Norway",CarlOjai
+"""been""","Alexandria, VA, USA",CarlOjai
+"""been"",""want""","Boston, MA, USA",CarlOjai
+"""been""","Poipu, HI, USA",CarlOjai
+"""been""","Puerto Vallarta, Mexico",CarlOjai
+"""been""","Vicksburg, MS, USA",CarlOjai
+"""been""","New Orleans, LA, USA",CarlOjai
+"""been""","Zihuatanejo, Mexico",CarlOjai
+"""been""","Huntington Beach, CA, USA",CarlOjai
+"""been""","Lake Louise, Alberta, Canada",CarlOjai
+"""been""","Mystic, CT, USA",CarlOjai
+"""been""","Calgary, Alberta, Canada",CarlOjai
+"""been""","Sacramento, CA, USA",CarlOjai
+"""been""","Banff, Alberta, Canada",CarlOjai
+"""been""","Koloa, HI, USA",CarlOjai
+"""been""","Saint Joseph, MI, USA",CarlOjai
+"""been""","Honolulu, HI, USA",CarlOjai
+"""been""","Gloucester, MA, USA",CarlOjai
+"""been""","Nice, France",CarlOjai
+"""been""","Portsmouth, NH, USA",CarlOjai
+"""been""","Hamilton, Bermuda",CarlOjai
+"""been""","Lacock, UK",CarlOjai
+"""been""","Jasper, Alberta, Canada",CarlOjai
+"""been""","Bermuda, Caribbean",CarlOjai
+"""been""","Paso Robles, CA, USA",CarlOjai
+"""been""","Seattle, WA, USA",CarlOjai
+"""been""","Williamsburg, VA, USA",CarlOjai
+"""been""","Lahaina, HI, USA",CarlOjai
+"""been""","Morro Bay, CA, USA",CarlOjai
+"""been""","Manistee, MI, USA",CarlOjai
+"""been""","Yuma, AZ, USA",CarlOjai
+"""been""","Mackinaw City, MI, USA",CarlOjai
+"""been""","Seward, AK, USA",CarlOjai
+"""been""","Kihei, HI, USA",CarlOjai
+"""been""","Mackinac Island, MI, USA",CarlOjai
+"""been""","Ocean City, NJ, USA",CarlOjai
+"""been""","San Diego, CA, USA",CarlOjai
+"""been""","Kailua-Kona, HI, USA",CarlOjai
+"""been""","Hana, HI, USA",CarlOjai
+"""been""","Barnstable, MA, USA",CarlOjai
+"""been""","Warnemunde, Germany",CarlOjai
+"""been""","Copenhagen, Denmark",CarlOjai
+"""been""","Rostock, Germany",CarlOjai
+"""been""","Fish Creek, WI, USA",CarlOjai
+"""been""","Haleiwa, HI, USA",CarlOjai
+"""been""","El Paso, TX, USA",CarlOjai
+"""been""","Manarola, Italy",CarlOjai
+"""been""","Palos Verdes Estates, CA, USA",CarlOjai
+"""been""","Little Rock, AR, USA",CarlOjai
+"""been""","Dublin, Ireland",CarlOjai
+"""been""","Ventura, CA, USA",CarlOjai
+"""been""","Saguenay, Quebec, Canada",CarlOjai
+"""been""","Corniglia, Italy",CarlOjai
+"""been""","Montecito, CA, USA",CarlOjai
+"""been""","Charlottesville, VA, USA",CarlOjai
+"""been""","Monterey, CA, USA",CarlOjai
+"""been""","Pasadena, CA, USA",CarlOjai
+"""been""","Williams, AZ, USA",CarlOjai
+"""been""","Cape May, NJ, USA",CarlOjai
+"""been""","Saint Paul, MN, USA",CarlOjai
+"""been""","New York City, NY, USA",CarlOjai
+"""been""","Omaha, NE, USA",CarlOjai
+"""been""","Falmouth, MA, USA",CarlOjai
+"""been""","Essex, MA, USA",CarlOjai
+"""been""","Brijuni, Croatia",CarlOjai
+"""been""","St. George, UT, USA",CarlOjai
+"""been""","Pacific Grove, CA, USA",CarlOjai
+"""been""","Atlanta, GA, USA",CarlOjai
+"""been""","Palm Desert, CA, USA",CarlOjai
+"""been""","Palm Springs, CA, USA",CarlOjai
+"""been""","Amesbury, UK",CarlOjai
+"""been""","Palo Alto, CA, USA",CarlOjai
+"""been""","Castle Combe, UK",CarlOjai
+"""been""","Cambridge, MA, USA",CarlOjai
+"""been""","Richmond, VA, USA",CarlOjai
+"""been""","Kailua, HI, USA",CarlOjai
+"""been""","Vernazza, Italy",CarlOjai
+"""been""","Riomaggiore, Italy",CarlOjai
+"""been""","Monterosso al Mare, Italy",CarlOjai
+"""been""","Death Valley Junction, CA, USA",CarlOjai
+"""been""","Redondo Beach, CA, USA",CarlOjai
+"""been""","Memphis, TN, USA",CarlOjai
+"""been""","Varenna, Italy",CarlOjai
+"""been""","Traverse City, MI, USA",CarlOjai
+"""been"",""want""","Naxos Town, Greece",CarlOjai
+"""been""","Oxnard, CA, USA",CarlOjai
+"""been""","Revere, MA, USA",CarlOjai
+"""been""","West Yellowstone, MT, USA",CarlOjai
+"""been""","Kennebunkport, ME, USA",CarlOjai
+"""been""","McKinley Village, AK, USA",CarlOjai
+"""been""","Bellagio, Italy",CarlOjai
+"""been""","Como, Italy",CarlOjai
+"""been""","Victoria Falls, Zimbabwe",CarlOjai
+"""been""","Sturgeon Bay, WI, USA",CarlOjai
+"""been""","Gettysburg, PA, USA",CarlOjai
+"""been""","Sydney, Australia",CarlOjai
+"""been""","Rancho Mirage, CA, USA",CarlOjai
+"""been""","Milan, Italy",CarlOjai
+"""been""","Mendocino, CA, USA",CarlOjai
+"""been""","Ontario, CA, USA",CarlOjai
+"""been""","Provincetown, MA, USA",CarlOjai
+"""been""","West Barnstable, MA, USA",CarlOjai
+"""been""","Mammoth Lakes, CA, USA",CarlOjai
+"""been""","Taos, NM, USA",CarlOjai
+"""been""","Plymouth, MA, USA",CarlOjai
+"""been"",""want""","Philadelphia, PA, USA",CarlOjai
+"""been""","Hershey, PA, USA",CarlOjai
+"""been""","King of Prussia, PA, USA",CarlOjai
+"""been""","Ixtapa, Mexico",CarlOjai
+"""been""","Oakland, CA, USA",CarlOjai
+"""been""","Oceano, CA, USA",CarlOjai
+"""been""","Teton Village, WY, USA",CarlOjai
+"""been""","Nantucket, MA, USA",CarlOjai
+"""been""","Ojai, CA, USA",CarlOjai
+"""been""","Old Orchard Beach, ME, USA",CarlOjai
+"""been""","Martha's Vineyard, MA, USA",CarlOjai
+"""been""","Auckland Central, New Zealand",CarlOjai
+"""been""","Jerusalem, Israel",CarlOjai
+"""been""","Melbourne, Australia",CarlOjai
+"""been""","Atlantic City, NJ, USA",CarlOjai
+"""been""","Tunis, Tunisia",CarlOjai
+"""been""","Oak View, CA, USA",CarlOjai
+"""been""","Oakhurst, CA, USA",CarlOjai
+"""been""","Kamari, Greece",CarlOjai
+"""been""","Christchurch, New Zealand",CarlOjai
+"""been""","Da Nang, Vietnam",CarlOjai
+"""been""","Livingstone, Zambia",CarlOjai
+"""been""","Avebury, UK",CarlOjai
+"""been""","Edam, The Netherlands",CarlOjai
+"""been""","Norfolk, VA, USA",CarlOjai
+"""been""","Niagara Falls, Ontario, Canada",CarlOjai
+"""been""","Hilo, HI, USA",CarlOjai
+"""been""","Hyannis, MA, USA",CarlOjai
+"""been""","Wilmington, NC, USA",CarlOjai
+"""been""","Kapalua, HI, USA",CarlOjai
+"""been""","Venice, Italy",CarlOjai
+"""been""","Madrid, Spain",CarlOjai
+"""been""","Helsinki, Finland",CarlOjai
+"""been""","Newport, OR, USA",CarlOjai
+"""been""","Moremi Game Reserve, Botswana",CarlOjai
+"""been""","Virginia Beach, VA, USA",CarlOjai
+"""been""","Tangier, Morocco",CarlOjai
+"""been""","Big Sky, MT, USA",CarlOjai
+"""been""","Valencia, Spain",CarlOjai
+"""been""","Bethlehem, Palestinian Territories",CarlOjai
+"""been""","Boothbay Harbor, ME, USA",CarlOjai
+"""been""","Selcuk, Turkey",CarlOjai
+"""been""","Wrightsville Beach, NC, USA",CarlOjai
+"""been""","Cagliari, Italy",CarlOjai
+"""been""","Casablanca, Morocco",CarlOjai
+"""want""","Istanbul, Turkey",CarlOjai
+"""been""","Tokyo, Japan",CarlOjai
+"""been""","Boca Raton, FL, USA",CarlOjai
+"""been""","Bend, OR, USA",CarlOjai
+"""been""","Lancaster, PA, USA",CarlOjai
+"""been""","Monument Valley, UT, USA",CarlOjai
+"""been""","Papeete, French Polynesia",CarlOjai
+"""been""","Lisbon, Portugal",CarlOjai
+"""been""","Bled, Slovenia",CarlOjai
+"""been""","Cleveland, OH, USA",CarlOjai
+"""been""","Lucerne, Switzerland",CarlOjai
+"""been""","Oia, Greece",CarlOjai
+"""been""","Toronto, Ontario, Canada",CarlOjai
+"""been""","Raleigh, NC, USA",CarlOjai
+"""been""","Woods Hole, MA, USA",CarlOjai
+"""been""","Positano, Italy",CarlOjai
+"""been""","Mobile, AL, USA",CarlOjai
+"""been""","St. John, U.S. Virgin Islands",CarlOjai
+"""been""","Jackson, WY, USA",CarlOjai
+"""been""","Panama City, Panama",CarlOjai
+"""been""","Mali Losinj, Croatia",CarlOjai
+"""been""","St. Thomas, U.S. Virgin Islands",CarlOjai
+"""been""","Nazareth, Israel",CarlOjai
+"""been""","Simi Valley, CA, USA",CarlOjai
+"""been""","St. Croix, U.S. Virgin Islands",CarlOjai
+"""been""","Jekyll Island, GA, USA",CarlOjai
+"""been""","Boise, ID, USA",CarlOjai
+"""been""","Cancun, Mexico",CarlOjai
+"""been""","Indianapolis, IN, USA",CarlOjai
+"""been""","Niagara Falls, NY, USA",CarlOjai
+"""been""","Park City, UT, USA",CarlOjai
+"""been""","Washington DC, DC, USA",CarlOjai
+"""been""","Daytona Beach, FL, USA",CarlOjai
+"""been""","Channel Islands National Park, CA, USA",CarlOjai
+"""been""","Budapest, Hungary",CarlOjai
+"""been""","Acadia National Park, ME, USA",CarlOjai
+"""been""","Hong Kong, China",CarlOjai
+"""been""","Hollywood, FL, USA",CarlOjai
+"""been""","Zagreb, Croatia",CarlOjai
+"""been""","Beijing, China",CarlOjai
+"""been""","Wilmington, DE, USA",CarlOjai
+"""been""","Yosemite National Park, CA, USA",CarlOjai
+"""been""","Mazunte, Mexico",CarlOjai
+"""been""","Kusadasi, Turkey",CarlOjai
+"""been""","Grand Canyon National Park, AZ, USA",CarlOjai
+"""been""","Ljubljana, Slovenia",CarlOjai
+"""been""","Rehoboth Beach, DE, USA",CarlOjai
+"""been""","Denali National Park and Preserve, AK, USA",CarlOjai
+"""been""","Louisville, KY, USA",CarlOjai
+"""been""","Machu Picchu, Peru",CarlOjai
+"""been""","Kill Devil Hills, NC, USA",CarlOjai
+"""been"",""want""","Prague, Czech Republic",CarlOjai
+"""been""","Bodega Bay, CA, USA",CarlOjai
+"""been""","Torrance, CA, USA",CarlOjai
+"""been""","Lima, Peru",CarlOjai
+"""been""","Harrisburg, PA, USA",CarlOjai
+"""been""","Sausalito, CA, USA",CarlOjai
+"""been""","Cusco, Peru",CarlOjai
+"""been""","Cairns, Australia",CarlOjai
+"""been""","Darwin, Australia",CarlOjai
+"""been""","Portland, ME, USA",CarlOjai
+"""been""","Nags Head, NC, USA",CarlOjai
+"""been""","Jost Van Dyke, British Virgin Islands",CarlOjai
+"""been""","Santa Monica, CA, USA",CarlOjai
+"""been""","Clearwater, FL, USA",CarlOjai
+"""been""","Siena, Italy",CarlOjai
+"""been""","Santa Paula, CA, USA",CarlOjai
+"""been""","San Gimignano, Italy",CarlOjai
+"""been""","Tuscania, Italy",CarlOjai
+"""been""","Santa Ynez, CA, USA",CarlOjai
+"""been""","Cocoa Beach, FL, USA",CarlOjai
+"""been""","Montevideo, Uruguay",CarlOjai
+"""been""","Santa Rosa, CA, USA",CarlOjai
+"""been""","Cairo, Egypt",CarlOjai
+"""been""","Santa Cruz, CA, USA",CarlOjai
+"""been""","Beverly Hills, CA, USA",CarlOjai
+"""been""","Santa Barbara, CA, USA",CarlOjai
+"""been""","Temecula, CA, USA",CarlOjai
+"""been""","Dallas, TX, USA",CarlOjai
+"""been""","South Lake Tahoe, CA, USA",CarlOjai
+"""been""","Santa Clara, CA, USA",CarlOjai
+"""been""","San Simeon, CA, USA",CarlOjai
+"""been""","Valparaiso, Chile",CarlOjai
+"""been""","Tallinn, Estonia",CarlOjai
+"""been""","Branson, MO, USA",CarlOjai
+"""been""","Santiago, Chile",CarlOjai
+"""been""","Sutter Creek, CA, USA",CarlOjai
+"""been""","Durango, CO, USA",CarlOjai
+"""been""","Ensenada, Mexico",CarlOjai
+"""been""","San Luis Obispo, CA, USA",CarlOjai
+"""been""","Dillon, CO, USA",CarlOjai
+"""been""","St. Augustine, FL, USA",CarlOjai
+"""been""","Cape Canaveral, FL, USA",CarlOjai
+"""been""","Rosarito, Mexico",CarlOjai
+"""been""","Tijuana, Mexico",CarlOjai
+"""been""","Amsterdam, The Netherlands",CarlOjai
+"""been""","Santorini, Greece",CarlOjai
+"""been""","Guilin, China",CarlOjai
+"""been""","Guangzhou, China",CarlOjai
+"""been""","Barcelona, Spain",CarlOjai
+"""been""","Xi'an, China",CarlOjai
+"""been""","Cologne, Germany",CarlOjai
+"""been""","La Paz, Bolivia",CarlOjai
+"""been""","Carlsbad, CA, USA",CarlOjai
+"""been""","Fort Worth, TX, USA",CarlOjai
+"""been""","New Hope, PA, USA",CarlOjai
+"""been""","Carmel, CA, USA",CarlOjai
+"""been""","Desert Hot Springs, CA, USA",CarlOjai
+"""been""","Fort Myers Beach, FL, USA",CarlOjai
+"""been""","Kissimmee, FL, USA",CarlOjai
+"""been""","San Jose, CA, USA",CarlOjai
+"""been""","Virgin Gorda, British Virgin Islands",CarlOjai
+"""been""","Carpinteria, CA, USA",CarlOjai
+"""been""","David, Panama",CarlOjai
+"""been""","Sunnyvale, CA, USA",CarlOjai
+"""been""","Denver, CO, USA",CarlOjai
+"""been""","Road Town, British Virgin Islands",CarlOjai
+"""been""","Tortola, British Virgin Islands",CarlOjai
+"""been""","Westlake Village, CA, USA",CarlOjai
+"""been""","Brooksville, FL, USA",CarlOjai
+"""been""","Naples, FL, USA",CarlOjai
+"""been""","Fort Lauderdale, FL, USA",CarlOjai
+"""been""","Maun, Botswana",CarlOjai
+"""been""","Milwaukee, WI, USA",CarlOjai
+"""been""","Lyon, France",CarlOjai
+"""been""","Chamonix, France",CarlOjai
+"""been""","Seven Mile Beach, Cayman Islands",CarlOjai
+"""been""","West Hollywood, CA, USA",CarlOjai
+"""been""","Pittsburgh, PA, USA",CarlOjai
+"""been""","Rapid City, SD, USA",CarlOjai
+"""been""","Versailles, France",CarlOjai
+"""been""","Del Mar, CA, USA",CarlOjai
+"""been""","Peter Island, British Virgin Islands",CarlOjai
+"""been""","Antigua, Antigua and Barbuda",CarlOjai
+"""been""","Paris, France",CarlOjai
+"""been""","Grand Cayman, Cayman Islands",CarlOjai
+"""been""","Kyoto, Japan",CarlOjai
+"""been""","Bakersfield, CA, USA",CarlOjai
+"""been""","Dana Point, CA, USA",CarlOjai
+"""been""","St. Jean, St. Barthelemy",CarlOjai
+"""been""","Tahiti, French Polynesia",CarlOjai
+"""been""","Vienna, Austria",CarlOjai
+"""been""","Henderson, NV, USA",CarlOjai
+"""been""","Dresden, Germany",CarlOjai
+"""been""","Moorea, French Polynesia",CarlOjai
+"""been""","Galveston, TX, USA",CarlOjai
+"""been""","Colorado Springs, CO, USA",CarlOjai
+"""been""","Puerto Montt, Chile",CarlOjai
+"""been""","Walnut Creek, CA, USA",CarlOjai
+"""been""","Camarillo, CA, USA",CarlOjai
+"""been""","Cambria, CA, USA",CarlOjai
+"""been""","South San Francisco, CA, USA",CarlOjai
+"""been""","Boquete, Panama",CarlOjai
+"""been""","Punta del Este, Uruguay",CarlOjai
+"""been""","Las Vegas, NV, USA",CarlOjai
+"""been""","Heidelberg, Germany",CarlOjai
+"""been""","Laughlin, NV, USA",CarlOjai
+"""been""","Wildwood Crest, NJ, USA",CarlOjai
+"""been""","Ushuaia, Argentina",CarlOjai
+"""been""","Tahaa, French Polynesia",CarlOjai
+"""been""","Huahine, French Polynesia",CarlOjai
+"""been""","Raiatea, French Polynesia",CarlOjai
+"""been""","Solvang, CA, USA",CarlOjai
+"""been""","Austin, TX, USA",CarlOjai
+"""want""","Tampa, FL, USA",CarlOjai
+"""been""","Sonora, CA, USA",CarlOjai
+"""been""","Miami Beach, FL, USA",CarlOjai
+"""been""","Sonoma, CA, USA",CarlOjai
+"""been""","Miami, FL, USA",CarlOjai
+"""been""","Playa Mujeres, Mexico",CarlOjai
+"""been""","Chobe National Park, Botswana",CarlOjai
+"""been""","Port Said, Egypt",CarlOjai
+"""been""","Bora Bora, French Polynesia",CarlOjai
+"""been""","Hermosa Beach, CA, USA",CarlOjai
+"""been""","Mesa, AZ, USA",CarlOjai
+"""been""","Coronado, CA, USA",CarlOjai
+"""been""","Pensacola, FL, USA",CarlOjai
+"""been""","Anaheim, CA, USA",CarlOjai
+"""been""","Ouray, CO, USA",CarlOjai
+"""been""","Whittier, AK, USA",CarlOjai
+"""been""","Portland, OR, USA",CarlOjai
+"""been""","Costa Mesa, CA, USA",CarlOjai
+"""been""","Tallahassee, FL, USA",CarlOjai
+"""been""","Buenos Aires, Argentina",CarlOjai
+"""been""","Hvar, Croatia",CarlOjai
+"""been""","Zadar, Croatia",CarlOjai
+"""been""","Pula, Croatia",CarlOjai
+"""been""","Dubrovnik, Croatia",CarlOjai
+"""been""","Split, Croatia",CarlOjai
+"""been""","Kasane, Botswana",CarlOjai
+"""been""","Ponce, Puerto Rico",CarlOjai
+"""been""","Hazyview, South Africa",CarlOjai
+"""been""","Healdsburg, CA, USA",CarlOjai
+"""been""","San Juan, Puerto Rico",CarlOjai
+"""been""","Eureka, CA, USA",CarlOjai
+"""been""","Buellton, CA, USA",CarlOjai
+"""been""","Buena Park, CA, USA",CarlOjai
+"""been""","Burbank, CA, USA",CarlOjai
+"""been""","Franschhoek, South Africa",CarlOjai
+"""been""","Coloma, CA, USA",CarlOjai
+"""been""","Escondido, CA, USA",CarlOjai
+"""been""","Krka National Park, Croatia",CarlOjai
+"""been""","Columbia, CA, USA",CarlOjai
+"""been""","Breckenridge, CO, USA",CarlOjai
+"""been""","Barstow, CA, USA",CarlOjai
+"""been""","Reno, NV, USA",CarlOjai
+"""been""","Punta Arenas, Chile",CarlOjai
+"""been""","Shanghai, China",CarlOjai
+"""been""","Lake Havasu City, AZ, USA",CarlOjai
+"""been""","Palm Beach, FL, USA",CarlOjai
+"""been""","Vail, CO, USA",CarlOjai
+"""been""","Amarillo, TX, USA",CarlOjai
+"""been""","Porec, Croatia",CarlOjai
+"""been""","Lafayette, CA, USA",CarlOjai
+"""been""","Tempe, AZ, USA",CarlOjai
+"""been""","Half Moon Bay, CA, USA",CarlOjai
+"""been""","Plitvice Lakes National Park, Croatia",CarlOjai
+"""been""","Quebec City, Quebec, Canada",CarlOjai
+"""been""","Ocean City, MD, USA",CarlOjai
+"""been""","Cape Town Central, South Africa",CarlOjai
+"""been""","St. Petersburg, Russia",CarlOjai
+"""been""","Myrtle Beach, SC, USA",CarlOjai
+"""been""","Groveland, CA, USA",CarlOjai
+"""been""","Greenwich, CT, USA",CarlOjai
+"""been""","El Segundo, CA, USA",CarlOjai
+"""been""","Beaver Creek, CO, USA",CarlOjai
+"""been""","Big Sur, CA, USA",CarlOjai

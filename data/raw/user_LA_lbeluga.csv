@@ -1,0 +1,321 @@
+tag,place,user
+"""been""","Maun, Botswana",lbeluga
+"""been""","Washington DC, DC, USA",lbeluga
+"""been""","Reno, NV, USA",lbeluga
+"""been""","Malibu, CA, USA",lbeluga
+"""been""","Aspen, CO, USA",lbeluga
+"""been""","Acapulco, Mexico",lbeluga
+"""been""","Foz do Iguacu, Brazil",lbeluga
+"""been""","Manhattan Beach, CA, USA",lbeluga
+"""been""","Hilo, HI, USA",lbeluga
+"""been""","Dresden, Germany",lbeluga
+"""been""","Port Arthur, Australia",lbeluga
+"""been""","Scottsdale, AZ, USA",lbeluga
+"""been""","Sedona, AZ, USA",lbeluga
+"""been""","Bellagio, Italy",lbeluga
+"""been""","Como, Italy",lbeluga
+"""been""","South Lake Tahoe, CA, USA",lbeluga
+"""been""","Arlington, VA, USA",lbeluga
+"""been""","Garden Grove, CA, USA",lbeluga
+"""been""","Amsterdam, The Netherlands",lbeluga
+"""been""","Loreto, Mexico",lbeluga
+"""been""","Monument Valley, UT, USA",lbeluga
+"""want""","Cartagena, Colombia",lbeluga
+"""been""","Paris, France",lbeluga
+"""been""","Genoa, Italy",lbeluga
+"""been""","La Spezia, Italy",lbeluga
+"""been""","Arusha, Tanzania",lbeluga
+"""been""","Puno, Peru",lbeluga
+"""been""","St. John's, Antigua and Barbuda",lbeluga
+"""been""","Kyoto, Japan",lbeluga
+"""want""","Medellin, Colombia",lbeluga
+"""been""","Vernazza, Italy",lbeluga
+"""been""","Milan, Italy",lbeluga
+"""been""","Sydney, Australia",lbeluga
+"""been""","Paradise Harbour, Antarctica",lbeluga
+"""been"",""want""","Auckland, New Zealand",lbeluga
+"""been""","Pismo Beach, CA, USA",lbeluga
+"""been""","Irvine, CA, USA",lbeluga
+"""been""","Los Angeles, CA, USA",lbeluga
+"""been""","Guilin, China",lbeluga
+"""want""","New Delhi, India",lbeluga
+"""been""","Xi'an, China",lbeluga
+"""been""","Bethesda, MD, USA",lbeluga
+"""been""","La Paz, Bolivia",lbeluga
+"""been""","Virgin Gorda, British Virgin Islands",lbeluga
+"""been""","Las Vegas, NV, USA",lbeluga
+"""been""","Buenos Aires, Argentina",lbeluga
+"""been""","Cairns, Australia",lbeluga
+"""been""","Laughlin, NV, USA",lbeluga
+"""been""","Brisbane, Australia",lbeluga
+"""been""","Turin, Italy",lbeluga
+"""been""","Visakhapatnam, India",lbeluga
+"""been""","Geyre, Turkey",lbeluga
+"""been""","Long Beach, CA, USA",lbeluga
+"""been""","Taos, NM, USA",lbeluga
+"""been""","Phoenix, AZ, USA",lbeluga
+"""been""","Napa, CA, USA",lbeluga
+"""been""","Alexandria, VA, USA",lbeluga
+"""been""","Innsbruck, Austria",lbeluga
+"""been""","Sausalito, CA, USA",lbeluga
+"""been""","Spoleto, Italy",lbeluga
+"""been""","Kathmandu, Nepal",lbeluga
+"""been""","Heidelberg, Germany",lbeluga
+"""been""","Henderson, NV, USA",lbeluga
+"""been""","Bodega Bay, CA, USA",lbeluga
+"""been""","Albuquerque, NM, USA",lbeluga
+"""been""","Ushuaia, Argentina",lbeluga
+"""been""","Bangkok, Thailand",lbeluga
+"""been""","Vancouver, British Columbia, Canada",lbeluga
+"""been""","Victoria, British Columbia, Canada",lbeluga
+"""been""","Bellevue, WA, USA",lbeluga
+"""been""","Assisi, Italy",lbeluga
+"""been""","Perugia, Italy",lbeluga
+"""been""","Kafue National Park, Zambia",lbeluga
+"""been""","Breckenridge, CO, USA",lbeluga
+"""been""","Puri, India",lbeluga
+"""been""","Nice, France",lbeluga
+"""been""","Riga, Latvia",lbeluga
+"""been""","Hong Kong, China",lbeluga
+"""been""","Akaroa, New Zealand",lbeluga
+"""been""","Mooloolaba, Australia",lbeluga
+"""been""","Chongqing, China",lbeluga
+"""been""","Konya, Turkey",lbeluga
+"""been""","Antalya, Turkey",lbeluga
+"""been""","Beijing, China",lbeluga
+"""been""","Port Douglas, Australia",lbeluga
+"""been""","Cabo San Lucas, Mexico",lbeluga
+"""been""","Machu Picchu, Peru",lbeluga
+"""been""","Gallipoli, Turkey",lbeluga
+"""been""","Laguna Beach, CA, USA",lbeluga
+"""been""","Tempe, AZ, USA",lbeluga
+"""been""","Siem Reap, Cambodia",lbeluga
+"""been""","Vail, CO, USA",lbeluga
+"""been""","Half Moon Bay, CA, USA",lbeluga
+"""been""","Bergen, Norway",lbeluga
+"""been""","Livigno, Italy",lbeluga
+"""been""","Mammoth Lakes, CA, USA",lbeluga
+"""been""","Palma de Mallorca, Spain",lbeluga
+"""been""","Cannes, France",lbeluga
+"""been""","Juneau, AK, USA",lbeluga
+"""been""","San Gimignano, Italy",lbeluga
+"""been""","Nairobi, Kenya",lbeluga
+"""been""","Port Howard, Falkland Islands",lbeluga
+"""been""","Siena, Italy",lbeluga
+"""want""","Luxor, Egypt",lbeluga
+"""been""","Luang Prabang, Laos",lbeluga
+"""been""","Suzhou, China",lbeluga
+"""been""","Portland, OR, USA",lbeluga
+"""been""","Quito, Ecuador",lbeluga
+"""been""","Jost Van Dyke, British Virgin Islands",lbeluga
+"""been""","Orlando, FL, USA",lbeluga
+"""been""","La Jolla, CA, USA",lbeluga
+"""been""","Barcelona, Spain",lbeluga
+"""been""","Cologne, Germany",lbeluga
+"""been""","Lima, Peru",lbeluga
+"""been""","Cusco, Peru",lbeluga
+"""been""","Mazatlan, Mexico",lbeluga
+"""been""","Hobart, Australia",lbeluga
+"""been""","Kangaroo Island, Australia",lbeluga
+"""been""","Lake Louise, Alberta, Canada",lbeluga
+"""been""","Banff, Alberta, Canada",lbeluga
+"""been""","Adelaide, Australia",lbeluga
+"""been""","Calgary, Alberta, Canada",lbeluga
+"""been""","Monte-Carlo, Monaco",lbeluga
+"""been""","Prague, Czech Republic",lbeluga
+"""been""","Marina del Rey, CA, USA",lbeluga
+"""been""","Hwange National Park, Zimbabwe",lbeluga
+"""been""","Puerto Vallarta, Mexico",lbeluga
+"""been""","King George Island, Antarctica",lbeluga
+"""been""","Copenhagen, Denmark",lbeluga
+"""been""","Saint-Tropez, France",lbeluga
+"""been""","Bologna, Italy",lbeluga
+"""been""","Dallas, TX, USA",lbeluga
+"""been""","Otavalo, Ecuador",lbeluga
+"""been""","Yokohama, Japan",lbeluga
+"""been""","Redondo Beach, CA, USA",lbeluga
+"""been""","Vatican City, Vatican City",lbeluga
+"""been""","Nuremberg, Germany",lbeluga
+"""been""","Honolulu, HI, USA",lbeluga
+"""been""","West Hollywood, CA, USA",lbeluga
+"""been""","Rome, Italy",lbeluga
+"""been""","Lihue, HI, USA",lbeluga
+"""been""","Custer, SD, USA",lbeluga
+"""been""","Williamsburg, VA, USA",lbeluga
+"""been""","Caneel Bay, U.S. Virgin Islands",lbeluga
+"""been""","Kampala, Uganda",lbeluga
+"""been""","New Orleans, LA, USA",lbeluga
+"""been""","Isabela, Ecuador",lbeluga
+"""been""","Brussels, Belgium",lbeluga
+"""been""","Poipu, HI, USA",lbeluga
+"""been""","Cruz Bay, U.S. Virgin Islands",lbeluga
+"""been""","Princeville, HI, USA",lbeluga
+"""been""","Zion National Park, UT, USA",lbeluga
+"""want""","Petra - Wadi Musa, Jordan",lbeluga
+"""been""","Newark, NJ, USA",lbeluga
+"""been""","Kigali, Rwanda",lbeluga
+"""been""","Noosa, Australia",lbeluga
+"""been""","Cambria, CA, USA",lbeluga
+"""been""","Ravello, Italy",lbeluga
+"""been""","Rancho Mirage, CA, USA",lbeluga
+"""been""","Mendocino, CA, USA",lbeluga
+"""been""","St. John, U.S. Virgin Islands",lbeluga
+"""been""","Sorrento, Italy",lbeluga
+"""been""","Capri, Italy",lbeluga
+"""been""","Pamukkale, Turkey",lbeluga
+"""been""","Naples, Italy",lbeluga
+"""been""","Kailua-Kona, HI, USA",lbeluga
+"""been""","Charlotte Amalie, U.S. Virgin Islands",lbeluga
+"""been""","Seward, AK, USA",lbeluga
+"""been""","Amalfi, Italy",lbeluga
+"""been""","San Diego, CA, USA",lbeluga
+"""been""","Lahaina, HI, USA",lbeluga
+"""been""","St. Croix, U.S. Virgin Islands",lbeluga
+"""been""","London, UK",lbeluga
+"""been""","Stellenbosch, South Africa",lbeluga
+"""been""","Kihei, HI, USA",lbeluga
+"""been""","Entebbe, Uganda",lbeluga
+"""been""","St. Thomas, U.S. Virgin Islands",lbeluga
+"""been""","Munich, Germany",lbeluga
+"""been""","Pompeii, Italy",lbeluga
+"""been""","Seattle, WA, USA",lbeluga
+"""been""","Charlottesville, VA, USA",lbeluga
+"""been""","Vientiane, Laos",lbeluga
+"""been""","Oceanside, CA, USA",lbeluga
+"""been""","St. George, UT, USA",lbeluga
+"""been""","Hill City, SD, USA",lbeluga
+"""been""","Rio de Janeiro, Brazil",lbeluga
+"""been""","Ojai, CA, USA",lbeluga
+"""been""","Solvang, CA, USA",lbeluga
+"""been""","Ngong, Kenya",lbeluga
+"""been""","Sonoma, CA, USA",lbeluga
+"""been""","Oakland, CA, USA",lbeluga
+"""been""","Miami, FL, USA",lbeluga
+"""been""","Paraty, Brazil",lbeluga
+"""been""","Miami Beach, FL, USA",lbeluga
+"""been""","Goreme, Turkey",lbeluga
+"""been""","Lake Manyara National Park, Tanzania",lbeluga
+"""been""","Anchorage, AK, USA",lbeluga
+"""been"",""want""","New York City, NY, USA",lbeluga
+"""been""","Auckland Central, New Zealand",lbeluga
+"""been""","Calistoga, CA, USA",lbeluga
+"""been""","Soweto, South Africa",lbeluga
+"""been""","Urgup, Turkey",lbeluga
+"""been""","Launceston, Australia",lbeluga
+"""been""","Corcovado National Park, Costa Rica",lbeluga
+"""been""","Melbourne, Australia",lbeluga
+"""been""","Nevsehir, Turkey",lbeluga
+"""been""","Frankfurt, Germany",lbeluga
+"""been""","Glenelg, Australia",lbeluga
+"""been""","Hue, Vietnam",lbeluga
+"""been""","Rapid City, SD, USA",lbeluga
+"""been""","Halong Bay, Vietnam",lbeluga
+"""been""","Ho Chi Minh City, Vietnam",lbeluga
+"""been""","Hanoi, Vietnam",lbeluga
+"""been""","Queen Elizabeth National Park, Uganda",lbeluga
+"""been""","Kusadasi, Turkey",lbeluga
+"""been""","Anaheim, CA, USA",lbeluga
+"""been""","Potosi, Bolivia",lbeluga
+"""been""","Glacier Bay National Park and Preserve, AK, USA",lbeluga
+"""been""","Coronado, CA, USA",lbeluga
+"""been""","Mesa, AZ, USA",lbeluga
+"""been""","Berlin, Germany",lbeluga
+"""been""","Konark, India",lbeluga
+"""been""","Austin, TX, USA",lbeluga
+"""been""","Richmond, VA, USA",lbeluga
+"""been""","Atlanta, GA, USA",lbeluga
+"""been""","Denali National Park and Preserve, AK, USA",lbeluga
+"""been""","Whistler, British Columbia, Canada",lbeluga
+"""been""","Canakkale, Turkey",lbeluga
+"""been""","Johannesburg, South Africa",lbeluga
+"""been""","San Jose, Costa Rica",lbeluga
+"""been""","Sucre, Bolivia",lbeluga
+"""been""","Manly, Australia",lbeluga
+"""been""","Oruro, Bolivia",lbeluga
+"""been""","Victoria Falls, Zambia",lbeluga
+"""been""","Brooklyn, NY, USA",lbeluga
+"""been""","Maui, HI, USA",lbeluga
+"""been""","Santa Cruz, CA, USA",lbeluga
+"""been""","Sacramento, CA, USA",lbeluga
+"""been""","Orvieto, Italy",lbeluga
+"""been""","Venice, Italy",lbeluga
+"""been""","Verona, Italy",lbeluga
+"""been""","Ankara, Turkey",lbeluga
+"""been""","Suzhou, China",lbeluga
+"""been""","Santa Monica, CA, USA",lbeluga
+"""been""","Agra, India",lbeluga
+"""been"",""want""","Santa Rosa, CA, USA",lbeluga
+"""been""","Vancouver, WA, USA",lbeluga
+"""been""","Victoria Falls, Zimbabwe",lbeluga
+"""been""","Queenstown, New Zealand",lbeluga
+"""been""","Fairbanks, AK, USA",lbeluga
+"""been""","Milford Sound, New Zealand",lbeluga
+"""been""","Hoi An, Vietnam",lbeluga
+"""been""","Da Nang, Vietnam",lbeluga
+"""been""","San Simeon, CA, USA",lbeluga
+"""been""","Ngorongoro Conservation Area, Tanzania",lbeluga
+"""been""","Morro Bay, CA, USA",lbeluga
+"""been""","Montepulciano, Italy",lbeluga
+"""been""","Chobe National Park, Botswana",lbeluga
+"""been""","Tucson, AZ, USA",lbeluga
+"""been""","Santa Barbara, CA, USA",lbeluga
+"""been""","Christchurch, New Zealand",lbeluga
+"""been""","Kasane, Botswana",lbeluga
+"""been""","Livingstone, Zambia",lbeluga
+"""been""","Yichang, China",lbeluga
+"""been""","Tauranga, New Zealand",lbeluga
+"""been""","Friday Harbor, WA, USA",lbeluga
+"""been""","Gopalpur On Sea, India",lbeluga
+"""been""","Wuhan, China",lbeluga
+"""been""","Rotorua, New Zealand",lbeluga
+"""been""","Santa Fe, NM, USA",lbeluga
+"""been""","Cochabamba, Bolivia",lbeluga
+"""been""","San Francisco, CA, USA",lbeluga
+"""been""","Page, AZ, USA",lbeluga
+"""been""","Beverly Hills, CA, USA",lbeluga
+"""been""","Serengeti National Park, Tanzania",lbeluga
+"""been""","Monterey, CA, USA",lbeluga
+"""been""","Big Sur, CA, USA",lbeluga
+"""been""","Waikoloa, HI, USA",lbeluga
+"""been""","Pasadena, CA, USA",lbeluga
+"""been""","Moremi Game Reserve, Botswana",lbeluga
+"""been""","San Luis Obispo, CA, USA",lbeluga
+"""been""","Denver, CO, USA",lbeluga
+"""been""","Civitavecchia, Italy",lbeluga
+"""been""","Positano, Italy",lbeluga
+"""been""","Brighton, Australia",lbeluga
+"""been""","Florence, Italy",lbeluga
+"""want""","Abu Simbel, Egypt",lbeluga
+"""been""","Bhubaneswar, India",lbeluga
+"""been""","East Falkland, Falkland Islands",lbeluga
+"""been""","Stanley, Falkland Islands",lbeluga
+"""been""","Berkeley, CA, USA",lbeluga
+"""been""","Palermo, Italy",lbeluga
+"""been""","Tarangire National Park, Tanzania",lbeluga
+"""been""","Karatu, Tanzania",lbeluga
+"""been""","Shanghai, China",lbeluga
+"""been""","Livorno, Italy",lbeluga
+"""been""","Moab, UT, USA",lbeluga
+"""been""","Lucca, Italy",lbeluga
+"""been""","Pisa, Italy",lbeluga
+"""been""","Palm Springs, CA, USA",lbeluga
+"""been""","Whangarei, New Zealand",lbeluga
+"""been""","Palm Desert, CA, USA",lbeluga
+"""been""","Cuverville Island, Antarctica",lbeluga
+"""been""","Palo Alto, CA, USA",lbeluga
+"""been""","Bwindi Impenetrable National Park, Uganda",lbeluga
+"""been""","Tokyo, Japan",lbeluga
+"""been""","Pacific Grove, CA, USA",lbeluga
+"""been""","Chianciano Terme, Italy",lbeluga
+"""been""","Kapalua, HI, USA",lbeluga
+"""been""","Carlsbad, CA, USA",lbeluga
+"""been""","Cape Town Central, South Africa",lbeluga
+"""been""","Geneva, Switzerland",lbeluga
+"""been""","Camps Bay, South Africa",lbeluga
+"""been""","San Jose, CA, USA",lbeluga
+"""been""","Carmel, CA, USA",lbeluga
+"""been""","Flagstaff, AZ, USA",lbeluga
+"""been""","Istanbul, Turkey",lbeluga
+"""been""","Houston, TX, USA",lbeluga
+"""been""","Madison, WI, USA",lbeluga
+"""been""","Kaikoura, New Zealand",lbeluga

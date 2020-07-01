@@ -1,0 +1,582 @@
+tag,place,user
+"""been""","Oakland, CA, USA",GustavoBuenosAires
+"""been""","Fira, Greece",GustavoBuenosAires
+"""been""","Oia, Greece",GustavoBuenosAires
+"""been""","Playa del Carmen, Mexico",GustavoBuenosAires
+"""want""","Sintra, Portugal",GustavoBuenosAires
+"""been""","Whitianga, New Zealand",GustavoBuenosAires
+"""been""","Isla Mujeres, Mexico",GustavoBuenosAires
+"""been""","Taxco, Mexico",GustavoBuenosAires
+"""been""","Cozumel, Mexico",GustavoBuenosAires
+"""been""","Ravello, Italy",GustavoBuenosAires
+"""been""","Chichen Itza, Mexico",GustavoBuenosAires
+"""been""","Cancun, Mexico",GustavoBuenosAires
+"""been""","Kamakura, Japan",GustavoBuenosAires
+"""been""","La Barra, Uruguay",GustavoBuenosAires
+"""been""","Cotacachi, Ecuador",GustavoBuenosAires
+"""been""","Table Mountain National Park, South Africa",GustavoBuenosAires
+"""been""","Marina Piccola, Italy",GustavoBuenosAires
+"""been""","Mexico City, Mexico",GustavoBuenosAires
+"""been""","Fujikawaguchiko-machi, Japan",GustavoBuenosAires
+"""been""","Toronto, Ontario, Canada",GustavoBuenosAires
+"""want""","Estoril, Portugal",GustavoBuenosAires
+"""been""","Avanos, Turkey",GustavoBuenosAires
+"""been""","Praiano, Italy",GustavoBuenosAires
+"""been""","Chordeleg, Ecuador",GustavoBuenosAires
+"""been""","Goreme, Turkey",GustavoBuenosAires
+"""been""","Imbituba, Brazil",GustavoBuenosAires
+"""been""","Kayseri, Turkey",GustavoBuenosAires
+"""been""","Everglades Wildlife Management Area, FL, USA",GustavoBuenosAires
+"""been""","Sicuani, Peru",GustavoBuenosAires
+"""been""","Positano, Italy",GustavoBuenosAires
+"""want""","Lisbon, Portugal",GustavoBuenosAires
+"""been""","Urgup, Turkey",GustavoBuenosAires
+"""been""","Budapest, Hungary",GustavoBuenosAires
+"""been""","Nevsehir, Turkey",GustavoBuenosAires
+"""been""","Ortahisar, Turkey",GustavoBuenosAires
+"""been""","Uchisar, Turkey",GustavoBuenosAires
+"""been""","Los Andes, Chile",GustavoBuenosAires
+"""been""","Silio, Spain",GustavoBuenosAires
+"""want""","Porto, Portugal",GustavoBuenosAires
+"""been""","Hartford, CT, USA",GustavoBuenosAires
+"""been""","Godoy Cruz, Argentina",GustavoBuenosAires
+"""been""","Everglades National Park, FL, USA",GustavoBuenosAires
+"""been""","San Salvador de Jujuy, Argentina",GustavoBuenosAires
+"""been""","Asakusa, Japan",GustavoBuenosAires
+"""been""","Asakusabashi, Japan",GustavoBuenosAires
+"""been""","Barra da Lagoa, Brazil",GustavoBuenosAires
+"""been""","Grand Teton National Park, WY, USA",GustavoBuenosAires
+"""been""","Grand Canyon National Park, AZ, USA",GustavoBuenosAires
+"""been""","Lake Hawea, New Zealand",GustavoBuenosAires
+"""been""","Bryce Canyon National Park, UT, USA",GustavoBuenosAires
+"""been""","Cipolletti, Argentina",GustavoBuenosAires
+"""been""","Yosemite National Park, CA, USA",GustavoBuenosAires
+"""been""","Springdale, UT, USA",GustavoBuenosAires
+"""been""","Arches National Park, UT, USA",GustavoBuenosAires
+"""been""","Aguas Calientes, Peru",GustavoBuenosAires
+"""been""","Vina del Mar, Chile",GustavoBuenosAires
+"""been""","Zagreb, Croatia",GustavoBuenosAires
+"""been""","Canela, Brazil",GustavoBuenosAires
+"""been""","Santana do Livramento, Brazil",GustavoBuenosAires
+"""been""","Salto, Uruguay",GustavoBuenosAires
+"""been""","Ollantaytambo, Peru",GustavoBuenosAires
+"""been""","La Cumbre, Argentina",GustavoBuenosAires
+"""been""","Prague, Czech Republic",GustavoBuenosAires
+"""been""","San Antonio de Areco, Argentina",GustavoBuenosAires
+"""been""","Villa Catedral, Argentina",GustavoBuenosAires
+"""been""","Junin de los Andes, Argentina",GustavoBuenosAires
+"""been""","Concon, Chile",GustavoBuenosAires
+"""been""","Torre Annunziata, Italy",GustavoBuenosAires
+"""been""","Coopertown, FL, USA",GustavoBuenosAires
+"""been""","Castle Hill, New Zealand",GustavoBuenosAires
+"""been""","Osorno, Chile",GustavoBuenosAires
+"""been""","Anacapri, Italy",GustavoBuenosAires
+"""been""","Maras, Peru",GustavoBuenosAires
+"""been""","Pisac, Peru",GustavoBuenosAires
+"""been""","Urubamba, Peru",GustavoBuenosAires
+"""been""","Boca Raton, FL, USA",GustavoBuenosAires
+"""been""","Montevideo, Uruguay",GustavoBuenosAires
+"""been""","Siena, Italy",GustavoBuenosAires
+"""been""","San Gimignano, Italy",GustavoBuenosAires
+"""been""","Sydney, Australia",GustavoBuenosAires
+"""been""","Quito, Ecuador",GustavoBuenosAires
+"""been""","Cuenca, Ecuador",GustavoBuenosAires
+"""been""","Shirakawa-mura, Japan",GustavoBuenosAires
+"""been""","Minori, Italy",GustavoBuenosAires
+"""been""","Kalafatis, Greece",GustavoBuenosAires
+"""been""","Auckland, New Zealand",GustavoBuenosAires
+"""been""","Jackson, WY, USA",GustavoBuenosAires
+"""been""","Gualaceo, Ecuador",GustavoBuenosAires
+"""been""","Kelly, WY, USA",GustavoBuenosAires
+"""been""","Katoomba, Australia",GustavoBuenosAires
+"""been""","Cusco, Peru",GustavoBuenosAires
+"""been""","Bay Pines, FL, USA",GustavoBuenosAires
+"""been""","Machu Picchu, Peru",GustavoBuenosAires
+"""been""","Lima, Peru",GustavoBuenosAires
+"""been""","Sunny Isles Beach, FL, USA",GustavoBuenosAires
+"""been""","Niagara Falls, NY, USA",GustavoBuenosAires
+"""been""","Cafayate, Argentina",GustavoBuenosAires
+"""been""","Cape Peninsula National Park, South Africa",GustavoBuenosAires
+"""been""","Ston, Croatia",GustavoBuenosAires
+"""been""","Ftelia, Greece",GustavoBuenosAires
+"""want""","Alora, Spain",GustavoBuenosAires
+"""been""","Bryce Canyon City, UT, USA",GustavoBuenosAires
+"""been""","Callao, Peru",GustavoBuenosAires
+"""been""","Villarrica, Chile",GustavoBuenosAires
+"""been""","Tilcara, Argentina",GustavoBuenosAires
+"""been""","Temuco, Chile",GustavoBuenosAires
+"""been""","Humahuaca, Argentina",GustavoBuenosAires
+"""been""","Midvale, UT, USA",GustavoBuenosAires
+"""been""","Playa Mujeres, Mexico",GustavoBuenosAires
+"""been""","Santiago, Chile",GustavoBuenosAires
+"""been""","Parma, Italy",GustavoBuenosAires
+"""been""","Santillana del Mar, Spain",GustavoBuenosAires
+"""been""","Canasvieiras, Brazil",GustavoBuenosAires
+"""been""","El Bolson, Argentina",GustavoBuenosAires
+"""been""","Lujan de Cuyo, Argentina",GustavoBuenosAires
+"""been""","Los Glaciares National Park, Argentina",GustavoBuenosAires
+"""been""","Monument Valley, UT, USA",GustavoBuenosAires
+"""been""","Victoria, Argentina",GustavoBuenosAires
+"""been""","Mali Ston, Croatia",GustavoBuenosAires
+"""been""","Rosario, Argentina",GustavoBuenosAires
+"""been""","Puerto Iguazu, Argentina",GustavoBuenosAires
+"""been""","Iguazu National Park, Argentina",GustavoBuenosAires
+"""been""","Conch Key, FL, USA",GustavoBuenosAires
+"""been""","Posadas, Argentina",GustavoBuenosAires
+"""been""","Chicago, IL, USA",GustavoBuenosAires
+"""been""","Los Angeles, CA, USA",GustavoBuenosAires
+"""been""","Pismo Beach, CA, USA",GustavoBuenosAires
+"""been""","Clinton, CT, USA",GustavoBuenosAires
+"""been""","Sao Jose, Brazil",GustavoBuenosAires
+"""been""","Nahuel Huapi National Park, Argentina",GustavoBuenosAires
+"""been""","Cobreces, Spain",GustavoBuenosAires
+"""been""","Platys Gialos, Greece",GustavoBuenosAires
+"""been""","Sao Gabriel, Brazil",GustavoBuenosAires
+"""been""","Amsterdam, The Netherlands",GustavoBuenosAires
+"""been""","Primosten, Croatia",GustavoBuenosAires
+"""been""","North Windham, CT, USA",GustavoBuenosAires
+"""been""","Los Penitentes, Argentina",GustavoBuenosAires
+"""been""","Kyoto, Japan",GustavoBuenosAires
+"""been""","Osaka, Japan",GustavoBuenosAires
+"""been""","Uruguaiana, Brazil",GustavoBuenosAires
+"""been""","Las Vegas, NV, USA",GustavoBuenosAires
+"""been""","Juliaca, Peru",GustavoBuenosAires
+"""been""","Hiroshima, Japan",GustavoBuenosAires
+"""been""","Puno, Peru",GustavoBuenosAires
+"""been""","Paris, France",GustavoBuenosAires
+"""been""","Pergamino, Argentina",GustavoBuenosAires
+"""been""","Santa Rosa, Argentina",GustavoBuenosAires
+"""been""","Yanaka, Japan",GustavoBuenosAires
+"""been""","Hahei, New Zealand",GustavoBuenosAires
+"""been""","Napa, CA, USA",GustavoBuenosAires
+"""been""","Westbrook, CT, USA",GustavoBuenosAires
+"""been""","Chacras de Coria, Argentina",GustavoBuenosAires
+"""been""","Canterbury, CT, USA",GustavoBuenosAires
+"""been""","Alexandria, VA, USA",GustavoBuenosAires
+"""been""","Phoenix, AZ, USA",GustavoBuenosAires
+"""been""","Falls Church, VA, USA",GustavoBuenosAires
+"""been""","Campeche, Brazil",GustavoBuenosAires
+"""been""","Salta, Argentina",GustavoBuenosAires
+"""want""","Segovia, Spain",GustavoBuenosAires
+"""been""","Fujiyoshida, Japan",GustavoBuenosAires
+"""been""","San Antonio de los Cobres, Argentina",GustavoBuenosAires
+"""been""","Mykonos, Greece",GustavoBuenosAires
+"""been""","Barcelona, Spain",GustavoBuenosAires
+"""been""","Santorini, Greece",GustavoBuenosAires
+"""been""","Tafi del Valle, Argentina",GustavoBuenosAires
+"""been""","Ciudad Del Este, Paraguay",GustavoBuenosAires
+"""been""","Plainville, CT, USA",GustavoBuenosAires
+"""been""","West Palm Beach, FL, USA",GustavoBuenosAires
+"""been""","Maiori, Italy",GustavoBuenosAires
+"""been""","Mount Eden, New Zealand",GustavoBuenosAires
+"""been""","Sarasota, FL, USA",GustavoBuenosAires
+"""been""","Ushuaia, Argentina",GustavoBuenosAires
+"""been""","Vienna, Austria",GustavoBuenosAires
+"""been""","Tierra del Fuego National Park, Argentina",GustavoBuenosAires
+"""been""","El Calafate, Argentina",GustavoBuenosAires
+"""been""","Punta del Este, Uruguay",GustavoBuenosAires
+"""been""","Uenokoen, Japan",GustavoBuenosAires
+"""been"",""fave""","Kruger National Park, South Africa",GustavoBuenosAires
+"""been""","Ueno, Japan",GustavoBuenosAires
+"""been""","Old Saybrook, CT, USA",GustavoBuenosAires
+"""been""","Cachi, Argentina",GustavoBuenosAires
+"""been""","Old Lyme, CT, USA",GustavoBuenosAires
+"""been""","Brusque, Brazil",GustavoBuenosAires
+"""been""","Arlington, VA, USA",GustavoBuenosAires
+"""been""","Franz Josef, New Zealand",GustavoBuenosAires
+"""been""","North Las Vegas, NV, USA",GustavoBuenosAires
+"""been""","Cerrillos, Argentina",GustavoBuenosAires
+"""been""","St. Petersburg, FL, USA",GustavoBuenosAires
+"""been""","St. Pete Beach, FL, USA",GustavoBuenosAires
+"""been""","Gilroy, CA, USA",GustavoBuenosAires
+"""been""","Villa La Angostura, Argentina",GustavoBuenosAires
+"""been""","Villa Traful, Argentina",GustavoBuenosAires
+"""been""","Neuquen, Argentina",GustavoBuenosAires
+"""been""","San Martin de los Andes, Argentina",GustavoBuenosAires
+"""been""","Mostar, Bosnia and Herzegovina",GustavoBuenosAires
+"""been""","Pucon, Chile",GustavoBuenosAires
+"""been""","Salzburg, Austria",GustavoBuenosAires
+"""been""","Taquile Island, Peru",GustavoBuenosAires
+"""been""","San Carlos de Bariloche, Argentina",GustavoBuenosAires
+"""been""","Fox Glacier, New Zealand",GustavoBuenosAires
+"""been""","Maimara, Argentina",GustavoBuenosAires
+"""been""","Criciuma, Brazil",GustavoBuenosAires
+"""been""","Mykonos Town, Greece",GustavoBuenosAires
+"""been""","Bryce, UT, USA",GustavoBuenosAires
+"""been""","Madison, CT, USA",GustavoBuenosAires
+"""been""","Ornos, Greece",GustavoBuenosAires
+"""been""","Litchfield, CT, USA",GustavoBuenosAires
+"""been""","Lago Puelo, Argentina",GustavoBuenosAires
+"""been""","Parque del Plata, Uruguay",GustavoBuenosAires
+"""been""","Monterey, CA, USA",GustavoBuenosAires
+"""been""","Williams, AZ, USA",GustavoBuenosAires
+"""been""","Ayvali, Turkey",GustavoBuenosAires
+"""been""","Doral, FL, USA",GustavoBuenosAires
+"""been""","San Bernardo, Argentina",GustavoBuenosAires
+"""been""","San Clemente del Tuyu, Argentina",GustavoBuenosAires
+"""been""","Pilar, Argentina",GustavoBuenosAires
+"""been""","Dubrovnik, Croatia",GustavoBuenosAires
+"""been""","Nelspruit, South Africa",GustavoBuenosAires
+"""been""","Pinamar, Argentina",GustavoBuenosAires
+"""been""","Split, Croatia",GustavoBuenosAires
+"""been""","Necochea, Argentina",GustavoBuenosAires
+"""been""","Sibenik, Croatia",GustavoBuenosAires
+"""been""","Miramar, Argentina",GustavoBuenosAires
+"""been""","Zadar, Croatia",GustavoBuenosAires
+"""been""","Hazyview, South Africa",GustavoBuenosAires
+"""been""","San Nicolas de los Arroyos, Argentina",GustavoBuenosAires
+"""been""","Skukuza, South Africa",GustavoBuenosAires
+"""been""","Colle di Val d'Elsa, Italy",GustavoBuenosAires
+"""been""","Lido Key, FL, USA",GustavoBuenosAires
+"""been""","Potrerillos, Argentina",GustavoBuenosAires
+"""been""","Belen de Escobar, Argentina",GustavoBuenosAires
+"""been""","Lisbon, CT, USA",GustavoBuenosAires
+"""been""","Vacherie, LA, USA",GustavoBuenosAires
+"""been""","Lebanon, CT, USA",GustavoBuenosAires
+"""been""","Carilo, Argentina",GustavoBuenosAires
+"""been""","Chascomus, Argentina",GustavoBuenosAires
+"""been""","Sao Sebastiao, Brazil",GustavoBuenosAires
+"""want""","Algarve, Portugal",GustavoBuenosAires
+"""been""","Buenos Aires, Argentina",GustavoBuenosAires
+"""been""","Arthur's Pass National Park, New Zealand",GustavoBuenosAires
+"""been""","Tamano, Japan",GustavoBuenosAires
+"""been""","Mar del Plata, Argentina",GustavoBuenosAires
+"""been""","La Plata, Argentina",GustavoBuenosAires
+"""been""","Mystic, CT, USA",GustavoBuenosAires
+"""been""","Dallas, TX, USA",GustavoBuenosAires
+"""been""","Oahu, HI, USA",GustavoBuenosAires
+"""been""","Petaluma, CA, USA",GustavoBuenosAires
+"""been""","La Falda, Argentina",GustavoBuenosAires
+"""been""","Mina Clavero, Argentina",GustavoBuenosAires
+"""been""","Bombinhas, Brazil",GustavoBuenosAires
+"""been""","Addo, South Africa",GustavoBuenosAires
+"""been""","Awatuna, New Zealand",GustavoBuenosAires
+"""been""","Maui, HI, USA",GustavoBuenosAires
+"""been""","Bristol, CT, USA",GustavoBuenosAires
+"""been""","Piriapolis, Uruguay",GustavoBuenosAires
+"""been""","Peach Springs, AZ, USA",GustavoBuenosAires
+"""been""","Villa General Belgrano, Argentina",GustavoBuenosAires
+"""want""","Coimbra, Portugal",GustavoBuenosAires
+"""been""","Villa Carlos Paz, Argentina",GustavoBuenosAires
+"""been""","Rio Ceballos, Argentina",GustavoBuenosAires
+"""been""","Cabo Frio, Brazil",GustavoBuenosAires
+"""been""","Olivos, Argentina",GustavoBuenosAires
+"""been""","San Vicente de la Barquera, Spain",GustavoBuenosAires
+"""been"",""fave""","Cape Town Central, South Africa",GustavoBuenosAires
+"""been""","Beaver, UT, USA",GustavoBuenosAires
+"""been""","Meriden, CT, USA",GustavoBuenosAires
+"""been""","Lujan, Argentina",GustavoBuenosAires
+"""been""","Manantiales, Uruguay",GustavoBuenosAires
+"""been""","Big Sur, CA, USA",GustavoBuenosAires
+"""been""","Torrington, CT, USA",GustavoBuenosAires
+"""been""","Montreal, Quebec, Canada",GustavoBuenosAires
+"""been""","San Pedro, Argentina",GustavoBuenosAires
+"""been""","Tacuarembo, Uruguay",GustavoBuenosAires
+"""been""","Addo Elephant National Park, South Africa",GustavoBuenosAires
+"""been""","Berlin, CT, USA",GustavoBuenosAires
+"""been""","Paysandu, Uruguay",GustavoBuenosAires
+"""been""","Pebble Beach, CA, USA",GustavoBuenosAires
+"""been""","Morro Bay, CA, USA",GustavoBuenosAires
+"""been""","Rivera, Uruguay",GustavoBuenosAires
+"""been""","Cordoba, Argentina",GustavoBuenosAires
+"""been""","Zion National Park, UT, USA",GustavoBuenosAires
+"""been""","Tulum, Mexico",GustavoBuenosAires
+"""been""","Alta Gracia, Argentina",GustavoBuenosAires
+"""been""","Valeria del Mar, Argentina",GustavoBuenosAires
+"""been""","Villa Gesell, Argentina",GustavoBuenosAires
+"""been""","Andahuaylillas, Peru",GustavoBuenosAires
+"""been""","Tigre, Argentina",GustavoBuenosAires
+"""been""","Cosquin, Argentina",GustavoBuenosAires
+"""been"",""fave""","Miami Beach, FL, USA",GustavoBuenosAires
+"""been""","Sonoma, CA, USA",GustavoBuenosAires
+"""been""","Indian Shores, FL, USA",GustavoBuenosAires
+"""been""","Miami, FL, USA",GustavoBuenosAires
+"""been""","Trogir, Croatia",GustavoBuenosAires
+"""been""","Indian Rocks Beach, FL, USA",GustavoBuenosAires
+"""been""","Tampa, FL, USA",GustavoBuenosAires
+"""been""","Solvang, CA, USA",GustavoBuenosAires
+"""been""","Cavusin, Turkey",GustavoBuenosAires
+"""been""","Rio Cuarto, Argentina",GustavoBuenosAires
+"""been""","Narita, Japan",GustavoBuenosAires
+"""been""","Las Cuevas, Argentina",GustavoBuenosAires
+"""been""","Amalfi, Italy",GustavoBuenosAires
+"""been""","Plettenberg Bay, South Africa",GustavoBuenosAires
+"""been""","Port Elizabeth, South Africa",GustavoBuenosAires
+"""been""","Sorrento, Italy",GustavoBuenosAires
+"""been""","Salerno, Italy",GustavoBuenosAires
+"""been""","Vietri sul Mare, Italy",GustavoBuenosAires
+"""been""","Colon, Argentina",GustavoBuenosAires
+"""been""","Capri, Italy",GustavoBuenosAires
+"""been""","Pompeii, Italy",GustavoBuenosAires
+"""been""","Rosario Do Sul, Brazil",GustavoBuenosAires
+"""been""","Las Lenas, Argentina",GustavoBuenosAires
+"""been""","Balneario Camboriu, Brazil",GustavoBuenosAires
+"""been""","London, UK",GustavoBuenosAires
+"""been""","Brunate, Italy",GustavoBuenosAires
+"""been""","Manly, Australia",GustavoBuenosAires
+"""been""","Moab, UT, USA",GustavoBuenosAires
+"""been""","Tubarao, Brazil",GustavoBuenosAires
+"""been""","Munich, Germany",GustavoBuenosAires
+"""been""","Otavalo, Ecuador",GustavoBuenosAires
+"""been""","Homestead, FL, USA",GustavoBuenosAires
+"""been""","La Quiaca, Argentina",GustavoBuenosAires
+"""been""","Sunrise, FL, USA",GustavoBuenosAires
+"""been""","Purmamarca, Argentina",GustavoBuenosAires
+"""been""","Lezzeno, Italy",GustavoBuenosAires
+"""been""","Burbank, CA, USA",GustavoBuenosAires
+"""been""","Mendoza, Argentina",GustavoBuenosAires
+"""been""","San Rafael, Argentina",GustavoBuenosAires
+"""been""","Lake Hayes, New Zealand",GustavoBuenosAires
+"""been""","Villa Mercedes, Argentina",GustavoBuenosAires
+"""been""","Chiba, Japan",GustavoBuenosAires
+"""been""","Merlo, Argentina",GustavoBuenosAires
+"""been""","San Luis, Argentina",GustavoBuenosAires
+"""been""","Oudtshoorn, South Africa",GustavoBuenosAires
+"""been""","Knysna, South Africa",GustavoBuenosAires
+"""been""","Wanaka, New Zealand",GustavoBuenosAires
+"""been""","Uspallata, Argentina",GustavoBuenosAires
+"""been""","George, South Africa",GustavoBuenosAires
+"""been""","Florence, Italy",GustavoBuenosAires
+"""been""","Lucca, Italy",GustavoBuenosAires
+"""been""","Coronado, CA, USA",GustavoBuenosAires
+"""been""","Perissa, Greece",GustavoBuenosAires
+"""been""","Pisa, Italy",GustavoBuenosAires
+"""been""","San Pablo Del Lago, Ecuador",GustavoBuenosAires
+"""been""","Brooklyn, NY, USA",GustavoBuenosAires
+"""been""","Nesso, Italy",GustavoBuenosAires
+"""been""","Salinas, CA, USA",GustavoBuenosAires
+"""been""","Hackberry, AZ, USA",GustavoBuenosAires
+"""been""","Scafati, Italy",GustavoBuenosAires
+"""want""","Granada, Spain",GustavoBuenosAires
+"""been""","Johannesburg, South Africa",GustavoBuenosAires
+"""want""","Seville, Spain",GustavoBuenosAires
+"""been""","Ascochinga, Argentina",GustavoBuenosAires
+"""been""","Berlin, Germany",GustavoBuenosAires
+"""been""","Key Biscayne, FL, USA",GustavoBuenosAires
+"""been""","Villa El Chocon, Argentina",GustavoBuenosAires
+"""been""","Miyajima, Japan",GustavoBuenosAires
+"""been""","Moose, WY, USA",GustavoBuenosAires
+"""been""","Sao Jose Dos Campos, Brazil",GustavoBuenosAires
+"""been""","Cambria, CA, USA",GustavoBuenosAires
+"""been""","Cacheuta, Argentina",GustavoBuenosAires
+"""been""","Punta Cana, Dominican Republic",GustavoBuenosAires
+"""been""","Ellenton, FL, USA",GustavoBuenosAires
+"""been""","Camarillo, CA, USA",GustavoBuenosAires
+"""been""","Villa Maria, Argentina",GustavoBuenosAires
+"""been""","Niteroi, Brazil",GustavoBuenosAires
+"""been""","Petropolis, Brazil",GustavoBuenosAires
+"""been""","Rio de Janeiro, Brazil",GustavoBuenosAires
+"""been""","Rome, Italy",GustavoBuenosAires
+"""want""","Cordoba, Spain",GustavoBuenosAires
+"""been""","Vatican City, Vatican City",GustavoBuenosAires
+"""been""","Dachau, Germany",GustavoBuenosAires
+"""been""","Brussels, Belgium",GustavoBuenosAires
+"""been""","Palhoca, Brazil",GustavoBuenosAires
+"""been""","Fiordland National Park, New Zealand",GustavoBuenosAires
+"""been""","Everglades City, FL, USA",GustavoBuenosAires
+"""been""","Treasure Island, FL, USA",GustavoBuenosAires
+"""want""","Malaga, Spain",GustavoBuenosAires
+"""been""","Pompano Beach, FL, USA",GustavoBuenosAires
+"""been""","Fussen, Germany",GustavoBuenosAires
+"""been""","Aggelika, Greece",GustavoBuenosAires
+"""been""","Cardrona, New Zealand",GustavoBuenosAires
+"""been"",""fave""","San Francisco, CA, USA",GustavoBuenosAires
+"""been""","Page, AZ, USA",GustavoBuenosAires
+"""been""","Tierra Verde, FL, USA",GustavoBuenosAires
+"""been""","Panormos, Greece",GustavoBuenosAires
+"""been""","Siesta Key, FL, USA",GustavoBuenosAires
+"""been""","Orlando, FL, USA",GustavoBuenosAires
+"""been""","Belize City, Belize",GustavoBuenosAires
+"""been""","La Jolla, CA, USA",GustavoBuenosAires
+"""been""","Sao Paulo, Brazil",GustavoBuenosAires
+"""been""","Matamata, New Zealand",GustavoBuenosAires
+"""been""","Redington Shores, FL, USA",GustavoBuenosAires
+"""been""","Orebic, Croatia",GustavoBuenosAires
+"""been""","Ramallo, Argentina",GustavoBuenosAires
+"""been""","Bruges, Belgium",GustavoBuenosAires
+"""been""","Mustafapasa, Turkey",GustavoBuenosAires
+"""been""","Piraeus, Greece",GustavoBuenosAires
+"""been""","Villazon, Bolivia",GustavoBuenosAires
+"""been""","Athens, Greece",GustavoBuenosAires
+"""been""","Chuo, Japan",GustavoBuenosAires
+"""been""","Chiyoda, Japan",GustavoBuenosAires
+"""been""","El Portal, CA, USA",GustavoBuenosAires
+"""been""","Salt Lake City, UT, USA",GustavoBuenosAires
+"""been""","Old Town, FL, USA",GustavoBuenosAires
+"""been""","Essex, CT, USA",GustavoBuenosAires
+"""been""","Villa Mascardi, Argentina",GustavoBuenosAires
+"""been""","Naoshima, Japan",GustavoBuenosAires
+"""been""","Mariposa, CA, USA",GustavoBuenosAires
+"""been""","Seligman, AZ, USA",GustavoBuenosAires
+"""been""","Caraguatatuba, Brazil",GustavoBuenosAires
+"""want""","Ronda, Spain",GustavoBuenosAires
+"""been""","Seminole, FL, USA",GustavoBuenosAires
+"""been""","Takayama, Japan",GustavoBuenosAires
+"""been""","Shinjuku, Japan",GustavoBuenosAires
+"""been""","Shibuya, Japan",GustavoBuenosAires
+"""been""","Zarate, Argentina",GustavoBuenosAires
+"""been""","Potsdam, Germany",GustavoBuenosAires
+"""been""","San Pedro, Belize",GustavoBuenosAires
+"""been""","Ambergris Caye, Belize",GustavoBuenosAires
+"""been""","Caye Caulker, Belize",GustavoBuenosAires
+"""been""","Arraial do Cabo, Brazil",GustavoBuenosAires
+"""been""","Madeira Beach, FL, USA",GustavoBuenosAires
+"""been""","Aventura, FL, USA",GustavoBuenosAires
+"""been""","Molinos, Argentina",GustavoBuenosAires
+"""been""","Gramado, Brazil",GustavoBuenosAires
+"""been""","Santander, Spain",GustavoBuenosAires
+"""been""","Tourlos, Greece",GustavoBuenosAires
+"""want""","Toledo, Spain",GustavoBuenosAires
+"""been""","Osorio, Brazil",GustavoBuenosAires
+"""been""","Tusayan, AZ, USA",GustavoBuenosAires
+"""been""","Flushing, NY, USA",GustavoBuenosAires
+"""been""","Praia do Rosa, Brazil",GustavoBuenosAires
+"""been""","Ilhabela, Brazil",GustavoBuenosAires
+"""been""","Kingman, AZ, USA",GustavoBuenosAires
+"""been""","South Miami, FL, USA",GustavoBuenosAires
+"""been""","Porto Alegre, Brazil",GustavoBuenosAires
+"""been""","Shinjuku 3 Chome, Japan",GustavoBuenosAires
+"""been""","Acapulco, Mexico",GustavoBuenosAires
+"""been""","Wailea, HI, USA",GustavoBuenosAires
+"""been""","Palm Beach, FL, USA",GustavoBuenosAires
+"""been""","Psarou, Greece",GustavoBuenosAires
+"""been""","Junin, Argentina",GustavoBuenosAires
+"""been""","Lake Powell, UT, USA",GustavoBuenosAires
+"""been""","Corniglia, Italy",GustavoBuenosAires
+"""been""","Manarola, Italy",GustavoBuenosAires
+"""been""","Longboat Key, FL, USA",GustavoBuenosAires
+"""been""","Idaho Falls, ID, USA",GustavoBuenosAires
+"""been""","Portillo, Chile",GustavoBuenosAires
+"""been""","Table View, South Africa",GustavoBuenosAires
+"""been""","Villa Allende, Argentina",GustavoBuenosAires
+"""been""","Tanti, Argentina",GustavoBuenosAires
+"""been""","Island Park, ID, USA",GustavoBuenosAires
+"""been""","Teton Village, WY, USA",GustavoBuenosAires
+"""been""","La Serena, Chile",GustavoBuenosAires
+"""been""","Riomaggiore, Italy",GustavoBuenosAires
+"""been""","Monterosso al Mare, Italy",GustavoBuenosAires
+"""been""","Ano Mera, Greece",GustavoBuenosAires
+"""been""","West Valley City, UT, USA",GustavoBuenosAires
+"""been""","Vernazza, Italy",GustavoBuenosAires
+"""been""","La Spezia, Italy",GustavoBuenosAires
+"""been""","San Juan Teotihuacan, Mexico",GustavoBuenosAires
+"""been""","Renaca, Chile",GustavoBuenosAires
+"""been""","Puente del Inca, Argentina",GustavoBuenosAires
+"""been""","Abra Pampa, Argentina",GustavoBuenosAires
+"""been""","Foz do Iguacu, Brazil",GustavoBuenosAires
+"""been""","Agios Ioannis Diakoftis, Greece",GustavoBuenosAires
+"""been""","Hot Water Beach, New Zealand",GustavoBuenosAires
+"""been""","Curitiba, Brazil",GustavoBuenosAires
+"""been""","West Yellowstone, MT, USA",GustavoBuenosAires
+"""been""","Wilson, WY, USA",GustavoBuenosAires
+"""been""","Long Key, FL, USA",GustavoBuenosAires
+"""been""","Bratislava, Slovakia",GustavoBuenosAires
+"""been""","Colonia Suiza, Argentina",GustavoBuenosAires
+"""been""","Coral Gables, FL, USA",GustavoBuenosAires
+"""been""","Sausalito, CA, USA",GustavoBuenosAires
+"""been""","Washington DC, DC, USA",GustavoBuenosAires
+"""been""","Arrowtown, New Zealand",GustavoBuenosAires
+"""been""","Walt Disney World, FL, USA",GustavoBuenosAires
+"""been""","Florianopolis, Brazil",GustavoBuenosAires
+"""been""","Garopaba, Brazil",GustavoBuenosAires
+"""been""","San Lorenzo, Argentina",GustavoBuenosAires
+"""been""","Jose Ignacio, Uruguay",GustavoBuenosAires
+"""been""","Coogee, Australia",GustavoBuenosAires
+"""been""","Blumenau, Brazil",GustavoBuenosAires
+"""been""","Bronx, NY, USA",GustavoBuenosAires
+"""been""","Bal Harbour, FL, USA",GustavoBuenosAires
+"""been""","Urcos, Peru",GustavoBuenosAires
+"""been""","Milan, Italy",GustavoBuenosAires
+"""been""","La Paloma, Uruguay",GustavoBuenosAires
+"""been""","Lake Tarawera, New Zealand",GustavoBuenosAires
+"""been""","Porto Belo, Brazil",GustavoBuenosAires
+"""been""","Laguna, Brazil",GustavoBuenosAires
+"""been""","Philadelphia, PA, USA",GustavoBuenosAires
+"""been""","Bellagio, Italy",GustavoBuenosAires
+"""been""","Hollywood, FL, USA",GustavoBuenosAires
+"""been""","Lecco, Italy",GustavoBuenosAires
+"""been""","Como, Italy",GustavoBuenosAires
+"""been""","Slunj, Croatia",GustavoBuenosAires
+"""been""","Malargue, Argentina",GustavoBuenosAires
+"""been""","St. George, UT, USA",GustavoBuenosAires
+"""been""","Cape Canaveral, FL, USA",GustavoBuenosAires
+"""been""","Maalaea, HI, USA",GustavoBuenosAires
+"""been""","Chinchero, Peru",GustavoBuenosAires
+"""been""","Perivolos, Greece",GustavoBuenosAires
+"""been""","Christchurch, New Zealand",GustavoBuenosAires
+"""been""","Irving, TX, USA",GustavoBuenosAires
+"""been""","North Miami Beach, FL, USA",GustavoBuenosAires
+"""been""","New York City, NY, USA",GustavoBuenosAires
+"""been""","Atlantida, Uruguay",GustavoBuenosAires
+"""been""","Ross, New Zealand",GustavoBuenosAires
+"""been""","Cedar City, UT, USA",GustavoBuenosAires
+"""been""","Rotorua, New Zealand",GustavoBuenosAires
+"""been""","Springfield, New Zealand",GustavoBuenosAires
+"""been""","Island of Capri, Italy",GustavoBuenosAires
+"""been""","Fort Lauderdale, FL, USA",GustavoBuenosAires
+"""been""","Redington Beach, FL, USA",GustavoBuenosAires
+"""been""","Naples, FL, USA",GustavoBuenosAires
+"""been""","Key West, FL, USA",GustavoBuenosAires
+"""been""","La Cumbrecita, Argentina",GustavoBuenosAires
+"""been""","Key Largo, FL, USA",GustavoBuenosAires
+"""been""","Angra Dos Reis, Brazil",GustavoBuenosAires
+"""been""","Cambridge, MA, USA",GustavoBuenosAires
+"""been""","Shinagawa, Japan",GustavoBuenosAires
+"""been""","Plitvica, Croatia",GustavoBuenosAires
+"""been""","Nara, Japan",GustavoBuenosAires
+"""been""","Kissimmee, FL, USA",GustavoBuenosAires
+"""been""","Laie, HI, USA",GustavoBuenosAires
+"""been""","Carlsbad, CA, USA",GustavoBuenosAires
+"""been""","Pearl City, HI, USA",GustavoBuenosAires
+"""been""","Carmel, CA, USA",GustavoBuenosAires
+"""been""","Comillas, Spain",GustavoBuenosAires
+"""been""","Auckland Central, New Zealand",GustavoBuenosAires
+"""been""","San Isidro, Argentina",GustavoBuenosAires
+"""been""","Houston, TX, USA",GustavoBuenosAires
+"""been""","Santa Cruz, CA, USA",GustavoBuenosAires
+"""been""","Hokitika, New Zealand",GustavoBuenosAires
+"""been""","Nikko, Japan",GustavoBuenosAires
+"""been""","Tokyo, Japan",GustavoBuenosAires
+"""been""","Mississauga, Ontario, Canada",GustavoBuenosAires
+"""been""","Torrelavega, Spain",GustavoBuenosAires
+"""been""","Niagara-on-the-Lake, Ontario, Canada",GustavoBuenosAires
+"""been""","Niagara Falls, Ontario, Canada",GustavoBuenosAires
+"""been""","Armacao dos Buzios, Brazil",GustavoBuenosAires
+"""been""","Belo Horizonte, Brazil",GustavoBuenosAires
+"""been""","Colonia del Sacramento, Uruguay",GustavoBuenosAires
+"""been""","Minatomirai, Japan",GustavoBuenosAires
+"""been""","Honolulu, HI, USA",GustavoBuenosAires
+"""been""","New Orleans, LA, USA",GustavoBuenosAires
+"""been""","Coba, Mexico",GustavoBuenosAires
+"""been""","Santa Monica, CA, USA",GustavoBuenosAires
+"""been""","Clearwater, FL, USA",GustavoBuenosAires
+"""been""","Boston, MA, USA",GustavoBuenosAires
+"""want""","Marrakech, Morocco",GustavoBuenosAires
+"""want""","Meknes, Morocco",GustavoBuenosAires
+"""been""","Istanbul, Turkey",GustavoBuenosAires
+"""want""","Fes, Morocco",GustavoBuenosAires
+"""want""","Valencia, Spain",GustavoBuenosAires
+"""been""","Burlington, Ontario, Canada",GustavoBuenosAires
+"""been""","San Simeon, CA, USA",GustavoBuenosAires
+"""been""","San Rafael, CA, USA",GustavoBuenosAires
+"""been""","North Redington Beach, FL, USA",GustavoBuenosAires
+"""been""","Bondi, Australia",GustavoBuenosAires
+"""been""","Provo, UT, USA",GustavoBuenosAires
+"""been""","Ouro Preto, Brazil",GustavoBuenosAires
+"""been""","Yokohama, Japan",GustavoBuenosAires
+"""been""","Venice, Italy",GustavoBuenosAires
+"""been""","San Diego, CA, USA",GustavoBuenosAires
+"""been""","Kahului, HI, USA",GustavoBuenosAires
+"""been""","Santa Barbara, CA, USA",GustavoBuenosAires
+"""been""","Ocean Reef, FL, USA",GustavoBuenosAires
+"""been""","Kihei, HI, USA",GustavoBuenosAires
+"""been""","Te Anau, New Zealand",GustavoBuenosAires
+"""been""","Milford Sound, New Zealand",GustavoBuenosAires
+"""been""","Lahaina, HI, USA",GustavoBuenosAires
+"""been""","Cachoeira do Bom Jesus, Brazil",GustavoBuenosAires
+"""want""","Madrid, Spain",GustavoBuenosAires
+"""been""","Queenstown, New Zealand",GustavoBuenosAires
+"""been""","Simon's Town, South Africa",GustavoBuenosAires
+"""been""","San Ysidro, CA, USA",GustavoBuenosAires
+"""been""","Yellowstone National Park, WY, USA",GustavoBuenosAires
+"""been""","Beverly Hills, CA, USA",GustavoBuenosAires

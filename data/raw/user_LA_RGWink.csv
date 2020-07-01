@@ -1,0 +1,408 @@
+tag,place,user
+"""been""","Billings, MT, USA",RGWink
+"""been""","Edmonton, Alberta, Canada",RGWink
+"""been""","Calgary, Alberta, Canada",RGWink
+"""been"",""fave""","Lake Louise, Alberta, Canada",RGWink
+"""been"",""fave""","Banff, Alberta, Canada",RGWink
+"""been""","Winston Salem, NC, USA",RGWink
+"""been""","Bangor, ME, USA",RGWink
+"""been""","Grants Pass, OR, USA",RGWink
+"""want""","Buenos Aires, Argentina",RGWink
+"""been""","Bozeman, MT, USA",RGWink
+"""been""","Highlands, NC, USA",RGWink
+"""been"",""fave""","Washington DC, DC, USA",RGWink
+"""want""","Birmingham, UK",RGWink
+"""want""","Havana, Cuba",RGWink
+"""want""","Milan, Italy",RGWink
+"""been""","Puerto Vallarta, Mexico",RGWink
+"""been""","Playa Blanca, Spain",RGWink
+"""been""","Mazatlan, Mexico",RGWink
+"""want""","Moscow, Russia",RGWink
+"""been"",""fave""","Cabo San Lucas, Mexico",RGWink
+"""been""","San Jose del Cabo, Mexico",RGWink
+"""been""","Raleigh, NC, USA",RGWink
+"""been"",""fave""","Killarney, Ireland",RGWink
+"""been""","Park City, UT, USA",RGWink
+"""been""","Dublin, Ireland",RGWink
+"""been"",""fave""","Galway, Ireland",RGWink
+"""been""","Freeport, ME, USA",RGWink
+"""been"",""fave""","Vancouver, British Columbia, Canada",RGWink
+"""been""","Sioux Falls, SD, USA",RGWink
+"""want""","Niagara Falls, NY, USA",RGWink
+"""been"",""fave""","Jackson, WY, USA",RGWink
+"""been""","Hatch, NM, USA",RGWink
+"""been"",""fave""","Kilkenny, Ireland",RGWink
+"""want""","Taipei, Taiwan",RGWink
+"""want""","Pattaya, Thailand",RGWink
+"""want""","Shanghai, China",RGWink
+"""been""","Medford, OR, USA",RGWink
+"""been"",""fave""","Ashland, OR, USA",RGWink
+"""been"",""fave""","Pamplona, Spain",RGWink
+"""been""","Sausalito, CA, USA",RGWink
+"""want""","Hanoi, Vietnam",RGWink
+"""been""","Torrance, CA, USA",RGWink
+"""been""","Bodega Bay, CA, USA",RGWink
+"""been"",""fave""","Gettysburg, PA, USA",RGWink
+"""want""","Louisville, KY, USA",RGWink
+"""been"",""fave""","Cheyenne, WY, USA",RGWink
+"""been"",""fave""","Seal Beach, CA, USA",RGWink
+"""been"",""fave""","Portland, ME, USA",RGWink
+"""want""","Whistler, British Columbia, Canada",RGWink
+"""been""","Palermo, Italy",RGWink
+"""been"",""fave""","Victoria, British Columbia, Canada",RGWink
+"""want""","Tamarindo, Costa Rica",RGWink
+"""been""","Florence, Italy",RGWink
+"""want""","Lucca, Italy",RGWink
+"""been""","Pisa, Italy",RGWink
+"""been"",""fave""","Mammoth Lakes, CA, USA",RGWink
+"""been"",""fave""","Saratoga Springs, NY, USA",RGWink
+"""been"",""fave""","Big Sur, CA, USA",RGWink
+"""been"",""fave""","Valencia, Spain",RGWink
+"""been""","Bellingham, WA, USA",RGWink
+"""been""","Truckee, CA, USA",RGWink
+"""been""","Saint Johnsbury, VT, USA",RGWink
+"""been"",""fave""","Fargo, ND, USA",RGWink
+"""been""","Eugene, OR, USA",RGWink
+"""been""","Manchester, NH, USA",RGWink
+"""want""","Glasgow, UK",RGWink
+"""been""","St. Andrews, UK",RGWink
+"""been"",""want""","Edinburgh, UK",RGWink
+"""been"",""fave""","Newport, OR, USA",RGWink
+"""been"",""fave""","Piano di Sorrento, Italy",RGWink
+"""want""","Yokohama, Japan",RGWink
+"""been"",""fave""","Vicenza, Italy",RGWink
+"""been""","Gibraltar, Europe",RGWink
+"""been"",""fave""","Venice, Italy",RGWink
+"""want""","Helsinki, Finland",RGWink
+"""been""","Madrid, Spain",RGWink
+"""been"",""fave""","Great Falls, MT, USA",RGWink
+"""been""","Wilmington, NC, USA",RGWink
+"""want""","Inverness, UK",RGWink
+"""been"",""fave""","Teton Village, WY, USA",RGWink
+"""been"",""fave""","Cody, WY, USA",RGWink
+"""been""","Windsor, UK",RGWink
+"""been"",""fave""","Boise, ID, USA",RGWink
+"""been""","Palo Alto, CA, USA",RGWink
+"""been"",""fave""","Palm Springs, CA, USA",RGWink
+"""been"",""fave""","Palm Desert, CA, USA",RGWink
+"""want""","Rio de Janeiro, Brazil",RGWink
+"""been"",""fave""","Adare, Ireland",RGWink
+"""been"",""fave""","Clifden, Ireland",RGWink
+"""want""","Auckland Central, New Zealand",RGWink
+"""been"",""fave""","Pasadena, CA, USA",RGWink
+"""been"",""fave""","Monterey, CA, USA",RGWink
+"""been""","Riverside, CA, USA",RGWink
+"""want""","Melbourne, Australia",RGWink
+"""been""","Albany, NY, USA",RGWink
+"""want""","St. Petersburg, Russia",RGWink
+"""been"",""fave""","Paso Robles, CA, USA",RGWink
+"""been"",""fave""","Malahide, Ireland",RGWink
+"""been"",""fave""","Kinsale, Ireland",RGWink
+"""been""","Stirling, UK",RGWink
+"""want""","Sao Paulo, Brazil",RGWink
+"""been"",""fave""","Morro Bay, CA, USA",RGWink
+"""want""","Macau, China",RGWink
+"""been""","Sacramento, CA, USA",RGWink
+"""been""","Bryce, UT, USA",RGWink
+"""been"",""fave""","Mount Shasta, CA, USA",RGWink
+"""been""","Huntington Beach, CA, USA",RGWink
+"""been""","Henderson, NV, USA",RGWink
+"""been""","Fort Bragg, CA, USA",RGWink
+"""been""","Rapid City, SD, USA",RGWink
+"""been""","Mountain View, CA, USA",RGWink
+"""been""","Phoenix, AZ, USA",RGWink
+"""been""","Ruidoso, NM, USA",RGWink
+"""been""","Roswell, NM, USA",RGWink
+"""want""","Hersonissos, Greece",RGWink
+"""been""","Camden, ME, USA",RGWink
+"""been""","Oakhurst, CA, USA",RGWink
+"""want""","Jimbaran, Indonesia",RGWink
+"""been""","Shreveport, LA, USA",RGWink
+"""been""","Oceanside, CA, USA",RGWink
+"""want""","Bogota, Colombia",RGWink
+"""been""","Oakland, CA, USA",RGWink
+"""been""","Cork, Ireland",RGWink
+"""been""","Yosemite National Park, CA, USA",RGWink
+"""been""","Ojai, CA, USA",RGWink
+"""been""","Kill Devil Hills, NC, USA",RGWink
+"""want""","Bologna, Italy",RGWink
+"""want""","Kobe, Japan",RGWink
+"""been""","Orange, CA, USA",RGWink
+"""been""","Las Cruces, NM, USA",RGWink
+"""want""","Sapporo, Japan",RGWink
+"""been""","Ontario, CA, USA",RGWink
+"""been""","Tijuana, Mexico",RGWink
+"""been""","Mendocino, CA, USA",RGWink
+"""been""","Rancho Mirage, CA, USA",RGWink
+"""been""","Chapel Hill, NC, USA",RGWink
+"""been"",""fave""","Charlotte, NC, USA",RGWink
+"""want""","Osaka, Japan",RGWink
+"""want""","Cartagena, Colombia",RGWink
+"""want""","Kyoto, Japan",RGWink
+"""been"",""fave""","Kenmare, Ireland",RGWink
+"""been""","Oxnard, CA, USA",RGWink
+"""been""","Redondo Beach, CA, USA",RGWink
+"""been""","Redding, CA, USA",RGWink
+"""been"",""fave""","Rockport, MA, USA",RGWink
+"""been"",""fave""","Siena, Italy",RGWink
+"""been""","Assisi, Italy",RGWink
+"""want""","Loreto, Mexico",RGWink
+"""been"",""fave""","Pacific Grove, CA, USA",RGWink
+"""been""","Rosarito, Mexico",RGWink
+"""been""","Ensenada, Mexico",RGWink
+"""been""","Myrtle Beach, SC, USA",RGWink
+"""been""","Whitefish, MT, USA",RGWink
+"""been""","Grand Rapids, MI, USA",RGWink
+"""been""","Fort Collins, CO, USA",RGWink
+"""been""","Yountville, CA, USA",RGWink
+"""want""","New Delhi, India",RGWink
+"""been""","Costa Adeje, Spain",RGWink
+"""want""","Salzburg, Austria",RGWink
+"""want""","Mumbai, India",RGWink
+"""want""","Jaipur, India",RGWink
+"""been""","Mill Valley, CA, USA",RGWink
+"""want""","Stuttgart, Germany",RGWink
+"""want""","Toulouse, France",RGWink
+"""been"",""fave""","La Jolla, CA, USA",RGWink
+"""been""","Orlando, FL, USA",RGWink
+"""been""","Aurora, CO, USA",RGWink
+"""want""","Quito, Ecuador",RGWink
+"""want""","Sydney, Australia",RGWink
+"""want""","Santiago, Chile",RGWink
+"""been"",""fave""","Laguna Beach, CA, USA",RGWink
+"""been""","Tempe, AZ, USA",RGWink
+"""been""","Guerneville, CA, USA",RGWink
+"""been""","La Quinta, CA, USA",RGWink
+"""been""","Camp Verde, AZ, USA",RGWink
+"""been""","El Segundo, CA, USA",RGWink
+"""been""","Jerome, AZ, USA",RGWink
+"""want""","Vienna, Austria",RGWink
+"""been"",""want"",""fave""","Amsterdam, The Netherlands",RGWink
+"""been"",""fave""","Half Moon Bay, CA, USA",RGWink
+"""been"",""fave""","Nashville, TN, USA",RGWink
+"""been"",""want"",""fave""","Paris, France",RGWink
+"""been""","Lisse, The Netherlands",RGWink
+"""want""","Lyon, France",RGWink
+"""want""","Zurich, Switzerland",RGWink
+"""been"",""fave""","Puerto de Santiago, Spain",RGWink
+"""want""","Cusco, Peru",RGWink
+"""been""","Creston, IA, USA",RGWink
+"""want""","Lima, Peru",RGWink
+"""been""","Baltimore, MD, USA",RGWink
+"""been"",""fave""","Albuquerque, NM, USA",RGWink
+"""been""","Ukiah, CA, USA",RGWink
+"""been""","Boulder, CO, USA",RGWink
+"""been"",""fave""","Savannah, GA, USA",RGWink
+"""been""","Hannibal, MO, USA",RGWink
+"""been""","Escondido, CA, USA",RGWink
+"""want""","Dresden, Germany",RGWink
+"""want""","Beijing, China",RGWink
+"""want""","Mombasa, Kenya",RGWink
+"""been""","Port Angeles, WA, USA",RGWink
+"""been""","Salt Lake City, UT, USA",RGWink
+"""been""","Burlingame, CA, USA",RGWink
+"""been"",""fave""","SeaTac, WA, USA",RGWink
+"""been""","Burbank, CA, USA",RGWink
+"""been""","Buena Park, CA, USA",RGWink
+"""been""","Eureka, CA, USA",RGWink
+"""been""","Astoria, OR, USA",RGWink
+"""been""","Healdsburg, CA, USA",RGWink
+"""been""","Grand Junction, CO, USA",RGWink
+"""been""","Long Beach, CA, USA",RGWink
+"""been"",""fave""","Alexandria, VA, USA",RGWink
+"""been""","Inglewood, CA, USA",RGWink
+"""been"",""fave""","Napa, CA, USA",RGWink
+"""been""","Indio, CA, USA",RGWink
+"""been""","Indian Wells, CA, USA",RGWink
+"""been""","Las Vegas, NV, USA",RGWink
+"""been"",""fave""","Balikesir, Turkey",RGWink
+"""want""","Geneva, Switzerland",RGWink
+"""want""","Bucharest, Romania",RGWink
+"""want""","Hong Kong, China",RGWink
+"""been"",""fave""","Prescott, AZ, USA",RGWink
+"""want""","Toronto, Ontario, Canada",RGWink
+"""been""","Pismo Beach, CA, USA",RGWink
+"""been""","Irvine, CA, USA",RGWink
+"""been"",""fave""","Portland, OR, USA",RGWink
+"""been""","Fresno, CA, USA",RGWink
+"""been""","Los Angeles, CA, USA",RGWink
+"""want""","Lucerne, Switzerland",RGWink
+"""want""","Lisbon, Portugal",RGWink
+"""been""","Saint Louis, MO, USA",RGWink
+"""been"",""fave""","Chicago, IL, USA",RGWink
+"""been""","Arlington, VA, USA",RGWink
+"""been""","Garden Grove, CA, USA",RGWink
+"""want""","Christchurch, New Zealand",RGWink
+"""been"",""fave""","Deadwood, SD, USA",RGWink
+"""been""","Giverny, France",RGWink
+"""want""","Manchester, UK",RGWink
+"""want""","Minato, Japan",RGWink
+"""want""","Quebec City, Quebec, Canada",RGWink
+"""want""","Montreal, Quebec, Canada",RGWink
+"""been""","Dublin, CA, USA",RGWink
+"""been""","Malibu, CA, USA",RGWink
+"""been"",""fave""","Manhattan Beach, CA, USA",RGWink
+"""want""","Mexico City, Mexico",RGWink
+"""want""","Strasbourg, France",RGWink
+"""want""","Queenstown, New Zealand",RGWink
+"""want""","Bordeaux, France",RGWink
+"""been""","Reno, NV, USA",RGWink
+"""been""","Cancun, Mexico",RGWink
+"""been""","Anacortes, WA, USA",RGWink
+"""want""","Oslo, Norway",RGWink
+"""been""","Marina del Rey, CA, USA",RGWink
+"""been"",""fave""","Sedona, AZ, USA",RGWink
+"""been""","Scottsdale, AZ, USA",RGWink
+"""want""","Krakow, Poland",RGWink
+"""been""","Torremolinos, Spain",RGWink
+"""want""","Tokyo, Japan",RGWink
+"""want""","Niagara-on-the-Lake, Ontario, Canada",RGWink
+"""want""","Belfast, UK",RGWink
+"""been"",""fave""","Seville, Spain",RGWink
+"""been""","Eagle, ID, USA",RGWink
+"""want""","Berlin, Germany",RGWink
+"""been""","Granada, Spain",RGWink
+"""been"",""fave""","Zaragoza, Spain",RGWink
+"""want""","Anchorage, AK, USA",RGWink
+"""been""","San Jose, CA, USA",RGWink
+"""been""","Charlottesville, VA, USA",RGWink
+"""been"",""fave""","Carmel, CA, USA",RGWink
+"""been"",""fave""","San Diego, CA, USA",RGWink
+"""been""","Desert Hot Springs, CA, USA",RGWink
+"""been""","Carlsbad, CA, USA",RGWink
+"""been""","Malaga, Spain",RGWink
+"""been"",""fave""","Seattle, WA, USA",RGWink
+"""been""","San Luis Obispo, CA, USA",RGWink
+"""been""","Sunnyvale, CA, USA",RGWink
+"""been""","Denver, CO, USA",RGWink
+"""been""","Long Beach, WA, USA",RGWink
+"""been""","Port Townsend, WA, USA",RGWink
+"""want""","Oxford, UK",RGWink
+"""want""","Budapest, Hungary",RGWink
+"""been""","Bilbao, Spain",RGWink
+"""want""","Avignon, France",RGWink
+"""want""","Hamburg, Germany",RGWink
+"""want""","Frankfurt, Germany",RGWink
+"""been""","San Sebastian - Donostia, Spain",RGWink
+"""been"",""fave""","Ghent, Belgium",RGWink
+"""want""","Aix-en-Provence, France",RGWink
+"""been""","Clarkdale, AZ, USA",RGWink
+"""want""","Honolulu, HI, USA",RGWink
+"""been"",""fave""","Asheville, NC, USA",RGWink
+"""been""","New Orleans, LA, USA",RGWink
+"""been""","Custer, SD, USA",RGWink
+"""been"",""fave""","Boston, MA, USA",RGWink
+"""been"",""fave""","San Simeon, CA, USA",RGWink
+"""want""","Niagara Falls, Ontario, Canada",RGWink
+"""been""","Martinez, CA, USA",RGWink
+"""been"",""fave""","Berkeley, CA, USA",RGWink
+"""been"",""fave""","Williamsburg, VA, USA",RGWink
+"""been"",""fave""","Schiphol, The Netherlands",RGWink
+"""been""","Manhattan, MT, USA",RGWink
+"""been""","Naples, Italy",RGWink
+"""been""","Sorrento, Italy",RGWink
+"""been"",""fave""","Capri, Italy",RGWink
+"""been"",""want""","Liverpool, UK",RGWink
+"""been"",""fave""","Pompeii, Italy",RGWink
+"""been""","South Lake Tahoe, CA, USA",RGWink
+"""been""","Beverly Hills, CA, USA",RGWink
+"""been""","Anaheim, CA, USA",RGWink
+"""been""","Bellevue, WA, USA",RGWink
+"""been""","Santa Cruz, CA, USA",RGWink
+"""been""","Santa Clarita, CA, USA",RGWink
+"""been""","Santa Clara, CA, USA",RGWink
+"""want""","Memphis, TN, USA",RGWink
+"""been""","Santa Barbara, CA, USA",RGWink
+"""been""","Temecula, CA, USA",RGWink
+"""been""","Santa Ana, CA, USA",RGWink
+"""been"",""fave""","Rome, Italy",RGWink
+"""been""","St. George, UT, USA",RGWink
+"""want""","Auckland, New Zealand",RGWink
+"""want""","Stockholm, Sweden",RGWink
+"""been"",""fave""","Vatican City, Vatican City",RGWink
+"""been""","Missoula, MT, USA",RGWink
+"""been"",""fave""","West Yellowstone, MT, USA",RGWink
+"""want""","Cambridge, UK",RGWink
+"""been"",""want""","Brussels, Belgium",RGWink
+"""been""","Santa Monica, CA, USA",RGWink
+"""been""","Salmon, ID, USA",RGWink
+"""want""","Munich, Germany",RGWink
+"""been"",""fave""","Bishop, CA, USA",RGWink
+"""been""","Coolidge, AZ, USA",RGWink
+"""been"",""want""","London, UK",RGWink
+"""been"",""fave""","New York City, NY, USA",RGWink
+"""been""","Omaha, NE, USA",RGWink
+"""been"",""fave""","Springfield, IL, USA",RGWink
+"""been""","El Paso, TX, USA",RGWink
+"""been"",""fave""","Ventura, CA, USA",RGWink
+"""want""","Warsaw, Poland",RGWink
+"""been""","Santa Rosa, CA, USA",RGWink
+"""want""","Copenhagen, Denmark",RGWink
+"""been""","Spokane, WA, USA",RGWink
+"""been"",""fave""","Toledo, Spain",RGWink
+"""want""","Kathmandu, Nepal",RGWink
+"""been""","Coronado, CA, USA",RGWink
+"""been""","Mesa, AZ, USA",RGWink
+"""been"",""fave""","Hermosa Beach, CA, USA",RGWink
+"""been""","Tucson, AZ, USA",RGWink
+"""been""","Silver City, NM, USA",RGWink
+"""been""","Tampa, FL, USA",RGWink
+"""been"",""fave""","San Francisco, CA, USA",RGWink
+"""been""","San Antonio, TX, USA",RGWink
+"""been""","Friday Harbor, WA, USA",RGWink
+"""been"",""fave""","Solvang, CA, USA",RGWink
+"""want""","Riga, Latvia",RGWink
+"""been"",""fave""","Santa Fe, NM, USA",RGWink
+"""been""","Austin, TX, USA",RGWink
+"""been""","Costa Mesa, CA, USA",RGWink
+"""been""","Manchester, VT, USA",RGWink
+"""been"",""fave""","Burgos, Spain",RGWink
+"""been"",""fave""","Segovia, Spain",RGWink
+"""want""","Dusseldorf, Germany",RGWink
+"""want""","Marseille, France",RGWink
+"""been"",""fave""","Sonoma, CA, USA",RGWink
+"""been""","Blowing Rock, NC, USA",RGWink
+"""want""","Cologne, Germany",RGWink
+"""been""","Miami, FL, USA",RGWink
+"""been"",""fave""","Barcelona, Spain",RGWink
+"""been""","Rockford, IL, USA",RGWink
+"""been""","Bisbee, AZ, USA",RGWink
+"""been""","Vancouver, WA, USA",RGWink
+"""been""","Des Moines, IA, USA",RGWink
+"""been""","Crescent City, CA, USA",RGWink
+"""been"",""fave""","South San Francisco, CA, USA",RGWink
+"""been"",""fave""","Cambria, CA, USA",RGWink
+"""want""","Brooklyn, NY, USA",RGWink
+"""been"",""fave""","Calistoga, CA, USA",RGWink
+"""been"",""fave""","Bar Harbor, ME, USA",RGWink
+"""been"",""fave""","Anacapri, Italy",RGWink
+"""been"",""want"",""fave""","Bruges, Belgium",RGWink
+"""been""","Bath, UK",RGWink
+"""want""","Lindos, Greece",RGWink
+"""been"",""fave""","Coeur d'Alene, ID, USA",RGWink
+"""want""","Cannes, France",RGWink
+"""want""","Athens, Greece",RGWink
+"""been""","Flagstaff, AZ, USA",RGWink
+"""been""","Columbia, SC, USA",RGWink
+"""been""","Frederiksberg, Denmark",RGWink
+"""been""","Bakersfield, CA, USA",RGWink
+"""been"",""fave""","Dana Point, CA, USA",RGWink
+"""want""","Newport, RI, USA",RGWink
+"""been""","Colorado Springs, CO, USA",RGWink
+"""been""","St. Helena, CA, USA",RGWink
+"""want""","Prague, Czech Republic",RGWink
+"""been"",""fave""","La Cala de Mijas, Spain",RGWink
+"""want""","Nice, France",RGWink
+"""been""","Kalispell, MT, USA",RGWink
+"""been"",""fave""","Charleston, SC, USA",RGWink
+"""been""","Dubuque, IA, USA",RGWink
+"""been""","Chandler, AZ, USA",RGWink
+"""been""","Gatlinburg, TN, USA",RGWink
+"""been"",""fave""","Cooperstown, NY, USA",RGWink
+"""been""","Appomattox, VA, USA",RGWink
+"""been""","Greensboro, NC, USA",RGWink
+"""been""","Olympia, WA, USA",RGWink
+"""been""","Tacoma, WA, USA",RGWink
+"""been"",""fave""","San Clemente, CA, USA",RGWink
+"""been"",""fave""","Del Mar, CA, USA",RGWink
+"""been""","West Hollywood, CA, USA",RGWink

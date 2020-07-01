@@ -1,0 +1,643 @@
+tag,place,user
+"""been""","Valparaiso, IN, USA",GenotheViking
+"""been""","Bruges, Belgium",GenotheViking
+"""been""","Bath, UK",GenotheViking
+"""been""","Wailea, HI, USA",GenotheViking
+"""been""","Jackson, WY, USA",GenotheViking
+"""been""","Boothbay Harbor, ME, USA",GenotheViking
+"""been""","Cannes, France",GenotheViking
+"""been""","Grosse Pointe Shores, MI, USA",GenotheViking
+"""been""","Wiesbaden, Germany",GenotheViking
+"""been""","Hopkinton, MA, USA",GenotheViking
+"""been""","Fort Wayne, IN, USA",GenotheViking
+"""been""","Burns, OR, USA",GenotheViking
+"""been""","Bozeman, MT, USA",GenotheViking
+"""been""","Findlay, OH, USA",GenotheViking
+"""been""","Abingdon, UK",GenotheViking
+"""been""","Bridger, MT, USA",GenotheViking
+"""been"",""fave""","Oxford, UK",GenotheViking
+"""been""","San Sebastian - Donostia, Spain",GenotheViking
+"""been""","Cannon Beach, OR, USA",GenotheViking
+"""been""","Frankfurt, Germany",GenotheViking
+"""been""","Anghiari, Italy",GenotheViking
+"""been""","Chattanooga, TN, USA",GenotheViking
+"""been""","Columbus, OH, USA",GenotheViking
+"""been""","Billings, MT, USA",GenotheViking
+"""been""","Boise, ID, USA",GenotheViking
+"""been""","Copenhagen, Denmark",GenotheViking
+"""been""","Metropolis, IL, USA",GenotheViking
+"""been""","Bangor, ME, USA",GenotheViking
+"""want""","Monza, Italy",GenotheViking
+"""been""","Chartres, France",GenotheViking
+"""been""","Chambord, France",GenotheViking
+"""been""","Bath, ME, USA",GenotheViking
+"""been""","Bonners Ferry, ID, USA",GenotheViking
+"""been""","Oklahoma City, OK, USA",GenotheViking
+"""been""","Forli, Italy",GenotheViking
+"""been""","Niagara Falls, Ontario, Canada",GenotheViking
+"""been""","Glasgow, MT, USA",GenotheViking
+"""been""","Clarksville, TN, USA",GenotheViking
+"""been""","Mitchell, SD, USA",GenotheViking
+"""been""","Mobile, AL, USA",GenotheViking
+"""been""","Yosemite National Park, CA, USA",GenotheViking
+"""been""","Great Falls, MT, USA",GenotheViking
+"""been""","Wilmington, NC, USA",GenotheViking
+"""been""","Washington DC, DC, USA",GenotheViking
+"""been""","Pensacola Beach, FL, USA",GenotheViking
+"""been""","Daytona Beach, FL, USA",GenotheViking
+"""been""","Hiawatha, KS, USA",GenotheViking
+"""been""","Blois, France",GenotheViking
+"""been""","Arnhem, The Netherlands",GenotheViking
+"""been""","Elk City, OK, USA",GenotheViking
+"""been""","Boise City, OK, USA",GenotheViking
+"""been""","Gardiner, MT, USA",GenotheViking
+"""been""","Tulsa, OK, USA",GenotheViking
+"""been""","Monte-Carlo, Monaco",GenotheViking
+"""been""","Puako, HI, USA",GenotheViking
+"""been""","Indianapolis, IN, USA",GenotheViking
+"""been""","Wall, SD, USA",GenotheViking
+"""been""","Fargo, ND, USA",GenotheViking
+"""been""","Sneads Ferry, NC, USA",GenotheViking
+"""been""","Oneida, NY, USA",GenotheViking
+"""been""","Silverlake, WA, USA",GenotheViking
+"""been""","Garryowen, MT, USA",GenotheViking
+"""been""","Capri, Italy",GenotheViking
+"""been""","Windermere, UK",GenotheViking
+"""been""","Sorrento, Italy",GenotheViking
+"""been""","Machias, ME, USA",GenotheViking
+"""been""","Antwerp, Belgium",GenotheViking
+"""been""","Pompeii, Italy",GenotheViking
+"""been""","Kellogg, ID, USA",GenotheViking
+"""been""","Oberammergau, Germany",GenotheViking
+"""been""","Naples, Italy",GenotheViking
+"""been""","Sioux City, IA, USA",GenotheViking
+"""been""","London, UK",GenotheViking
+"""been""","Forsyth, MT, USA",GenotheViking
+"""been""","Washington Court House, OH, USA",GenotheViking
+"""been""","Fort Benton, MT, USA",GenotheViking
+"""been""","LaSalle, IL, USA",GenotheViking
+"""been""","Manitowoc, WI, USA",GenotheViking
+"""been""","Saratoga Springs, NY, USA",GenotheViking
+"""been""","Bodega Bay, CA, USA",GenotheViking
+"""been""","Phillipsburg, KS, USA",GenotheViking
+"""been""","Louisville, KY, USA",GenotheViking
+"""been""","Idaho Falls, ID, USA",GenotheViking
+"""been""","Fiesole, Italy",GenotheViking
+"""been""","Florence, Italy",GenotheViking
+"""been""","Cortona, Italy",GenotheViking
+"""been""","Princeton, IL, USA",GenotheViking
+"""been""","Pisa, Italy",GenotheViking
+"""been""","Dallas, TX, USA",GenotheViking
+"""been""","Essex, MT, USA",GenotheViking
+"""been""","Malmo, Sweden",GenotheViking
+"""been""","Winnemucca, NV, USA",GenotheViking
+"""been""","Delhi, NY, USA",GenotheViking
+"""been""","Drayton, ND, USA",GenotheViking
+"""been""","Virginia City, NV, USA",GenotheViking
+"""been""","Mosby, MT, USA",GenotheViking
+"""been""","Dickinson, ND, USA",GenotheViking
+"""been""","Mandan, ND, USA",GenotheViking
+"""been""","Wells, NV, USA",GenotheViking
+"""been""","Hell, Norway",GenotheViking
+"""been""","Bishop, CA, USA",GenotheViking
+"""been""","Devils Lake, ND, USA",GenotheViking
+"""been""","Blythe, CA, USA",GenotheViking
+"""been""","South Bend, IN, USA",GenotheViking
+"""been""","Cocoa Beach, FL, USA",GenotheViking
+"""been""","Sandpoint, ID, USA",GenotheViking
+"""been""","Chester, UK",GenotheViking
+"""been""","Santa Monica, CA, USA",GenotheViking
+"""been""","Portland, ME, USA",GenotheViking
+"""been""","Missoula, MT, USA",GenotheViking
+"""been""","West Yellowstone, MT, USA",GenotheViking
+"""been""","Moiese, MT, USA",GenotheViking
+"""been""","Tonopah, NV, USA",GenotheViking
+"""been""","Miles City, MT, USA",GenotheViking
+"""been""","Sparks, NV, USA",GenotheViking
+"""been""","Lund, British Columbia, Canada",GenotheViking
+"""been""","Beverly Hills, CA, USA",GenotheViking
+"""been""","Vatican City, Vatican City",GenotheViking
+"""been""","Tivoli, Italy",GenotheViking
+"""been""","Rome, Italy",GenotheViking
+"""been""","York, UK",GenotheViking
+"""been""","Cambridge, UK",GenotheViking
+"""been""","Santa Barbara, CA, USA",GenotheViking
+"""been""","Big Pine, CA, USA",GenotheViking
+"""been""","Urbino, Italy",GenotheViking
+"""been""","Clear Lake, IA, USA",GenotheViking
+"""been""","Lakeland, FL, USA",GenotheViking
+"""been""","Waterloo, Belgium",GenotheViking
+"""been""","Brussels, Belgium",GenotheViking
+"""been""","Rexburg, ID, USA",GenotheViking
+"""been""","Pierre, SD, USA",GenotheViking
+"""been""","Malta, MT, USA",GenotheViking
+"""been""","Rothenburg, Germany",GenotheViking
+"""been""","Elko, NV, USA",GenotheViking
+"""been""","Scottsbluff, NE, USA",GenotheViking
+"""been""","Caen, France",GenotheViking
+"""been""","Quincy, WA, USA",GenotheViking
+"""been""","National Harbor, MD, USA",GenotheViking
+"""been""","Middletown, RI, USA",GenotheViking
+"""been""","Edmonds, WA, USA",GenotheViking
+"""been""","Puyallup, WA, USA",GenotheViking
+"""been""","Ely, NV, USA",GenotheViking
+"""been""","Lynnwood, WA, USA",GenotheViking
+"""been""","Lynden, WA, USA",GenotheViking
+"""been""","Orange, TX, USA",GenotheViking
+"""been""","Rawlins, WY, USA",GenotheViking
+"""been""","Mashantucket, CT, USA",GenotheViking
+"""been""","Lakeview, OR, USA",GenotheViking
+"""been""","Atlanta, GA, USA",GenotheViking
+"""want""","Kailua, HI, USA",GenotheViking
+"""been""","Lincoln City, OR, USA",GenotheViking
+"""been""","Yuma, AZ, USA",GenotheViking
+"""been""","Richmond, VA, USA",GenotheViking
+"""been""","Rouen, France",GenotheViking
+"""been""","Cambridge, MA, USA",GenotheViking
+"""been""","Saint Paul, MN, USA",GenotheViking
+"""been""","Carson City, NV, USA",GenotheViking
+"""been""","Ludington, MI, USA",GenotheViking
+"""been""","Dunkirk, France",GenotheViking
+"""been""","Memphis, TN, USA",GenotheViking
+"""been""","Midland, TX, USA",GenotheViking
+"""been""","Long Island City, NY, USA",GenotheViking
+"""been""","Enumclaw, WA, USA",GenotheViking
+"""been"",""fave""","Everett, WA, USA",GenotheViking
+"""been""","Riverside, CA, USA",GenotheViking
+"""been""","Wickenburg, AZ, USA",GenotheViking
+"""been""","Bellevue, WA, USA",GenotheViking
+"""been""","Monterey, CA, USA",GenotheViking
+"""been""","Island of Hawaii, HI, USA",GenotheViking
+"""been""","Leland, NC, USA",GenotheViking
+"""been""","Montauk, NY, USA",GenotheViking
+"""been""","Madras, OR, USA",GenotheViking
+"""been""","Bradenton, FL, USA",GenotheViking
+"""been""","Rock Springs, WY, USA",GenotheViking
+"""been""","Dayton, OH, USA",GenotheViking
+"""been""","Lee Vining, CA, USA",GenotheViking
+"""been""","Pasadena, CA, USA",GenotheViking
+"""been""","Bayeux, France",GenotheViking
+"""been""","Brainerd, MN, USA",GenotheViking
+"""been""","Augusta, GA, USA",GenotheViking
+"""been""","Warroad, MN, USA",GenotheViking
+"""been""","Rutland, VT, USA",GenotheViking
+"""been""","Bellingham, WA, USA",GenotheViking
+"""been""","Forks, WA, USA",GenotheViking
+"""been""","Marysville, WA, USA",GenotheViking
+"""been""","York, NE, USA",GenotheViking
+"""been""","Mazama, WA, USA",GenotheViking
+"""been""","Germigny-des-Pres, France",GenotheViking
+"""been""","Mojave, CA, USA",GenotheViking
+"""been""","Palm Springs, CA, USA",GenotheViking
+"""been""","Albany, NY, USA",GenotheViking
+"""been""","Cheyenne, WY, USA",GenotheViking
+"""been""","Casper, WY, USA",GenotheViking
+"""been""","Gettysburg, PA, USA",GenotheViking
+"""been""","Sheridan, WY, USA",GenotheViking
+"""been""","Shoshoni, WY, USA",GenotheViking
+"""been""","Coupeville, WA, USA",GenotheViking
+"""been""","Palo Alto, CA, USA",GenotheViking
+"""been""","Lancaster, CA, USA",GenotheViking
+"""been"",""fave""","Trondheim, Norway",GenotheViking
+"""been""","Orvieto, Italy",GenotheViking
+"""been""","Le Mans, France",GenotheViking
+"""been""","Lexington, KY, USA",GenotheViking
+"""been""","Kennebunkport, ME, USA",GenotheViking
+"""been""","Bordeaux, France",GenotheViking
+"""been""","Kanab, UT, USA",GenotheViking
+"""been""","Tremonton, UT, USA",GenotheViking
+"""been""","Morgantown, WV, USA",GenotheViking
+"""been""","Ida Grove, IA, USA",GenotheViking
+"""been""","Charlotte, NC, USA",GenotheViking
+"""been""","Las Cruces, NM, USA",GenotheViking
+"""been""","Kitty Hawk, NC, USA",GenotheViking
+"""been""","Ann Arbor, MI, USA",GenotheViking
+"""been""","Porec, Croatia",GenotheViking
+"""been""","Redding, CA, USA",GenotheViking
+"""been""","Anaconda, MT, USA",GenotheViking
+"""been""","Thermopolis, WY, USA",GenotheViking
+"""been""","Superior, WI, USA",GenotheViking
+"""been""","Cody, WY, USA",GenotheViking
+"""been""","Biarritz, France",GenotheViking
+"""been""","Olympic National Park, WA, USA",GenotheViking
+"""been""","Bemidji, MN, USA",GenotheViking
+"""been""","Bowling Green, KY, USA",GenotheViking
+"""been""","Zurich, Switzerland",GenotheViking
+"""been""","Portsmouth, UK",GenotheViking
+"""been""","Amsterdam, The Netherlands",GenotheViking
+"""been""","Lyon, France",GenotheViking
+"""been""","Versailles, France",GenotheViking
+"""been""","Lassen Volcanic National Park, CA, USA",GenotheViking
+"""been""","Paris, France",GenotheViking
+"""been""","Mount Rainier National Park, WA, USA",GenotheViking
+"""been""","North Cascades National Park, WA, USA",GenotheViking
+"""been""","Eugene, OR, USA",GenotheViking
+"""been""","Racine, WI, USA",GenotheViking
+"""been""","Dubois, WY, USA",GenotheViking
+"""been""","Alamogordo, NM, USA",GenotheViking
+"""been"",""fave""","Captain Cook, HI, USA",GenotheViking
+"""been""","Dedham, MA, USA",GenotheViking
+"""been""","Barcelona, Spain",GenotheViking
+"""been""","Kapaau, HI, USA",GenotheViking
+"""been""","Dennis, MA, USA",GenotheViking
+"""been""","Marseille, France",GenotheViking
+"""been""","Eindhoven, The Netherlands",GenotheViking
+"""been""","Cashmere, WA, USA",GenotheViking
+"""been""","Columbus, IN, USA",GenotheViking
+"""been""","Hawaii Volcanoes National Park, HI, USA",GenotheViking
+"""been""","Castle Rock, WA, USA",GenotheViking
+"""been"",""fave""","Norfolk, VA, USA",GenotheViking
+"""been""","Newport, OR, USA",GenotheViking
+"""been""","Roswell, NM, USA",GenotheViking
+"""been""","Garibaldi, OR, USA",GenotheViking
+"""been""","Oakland, CA, USA",GenotheViking
+"""been""","Waimea, HI, USA",GenotheViking
+"""been""","Baker City, OR, USA",GenotheViking
+"""been""","Old Orchard Beach, ME, USA",GenotheViking
+"""been""","Camden, ME, USA",GenotheViking
+"""been""","Hawi, HI, USA",GenotheViking
+"""been""","Hilo, HI, USA",GenotheViking
+"""been""","Ogunquit, ME, USA",GenotheViking
+"""been""","Kealakekua, HI, USA",GenotheViking
+"""been""","Keauhou, HI, USA",GenotheViking
+"""been""","Gillette, WY, USA",GenotheViking
+"""been""","Grand Canyon National Park, AZ, USA",GenotheViking
+"""been""","Chelan, WA, USA",GenotheViking
+"""been""","Baudette, MN, USA",GenotheViking
+"""been""","Virginia Beach, VA, USA",GenotheViking
+"""been""","Bishops Stortford, UK",GenotheViking
+"""been""","South Lake Tahoe, CA, USA",GenotheViking
+"""been""","Niagara Falls, NY, USA",GenotheViking
+"""been""","Bend, OR, USA",GenotheViking
+"""been""","Huntsville, AL, USA",GenotheViking
+"""been""","Ocean View, HI, USA",GenotheViking
+"""been""","Monument Valley, UT, USA",GenotheViking
+"""been""","Hyannis, MA, USA",GenotheViking
+"""been""","Ypsilanti, MI, USA",GenotheViking
+"""been""","Bly, OR, USA",GenotheViking
+"""been""","Gallup, NM, USA",GenotheViking
+"""been""","Spanish Fort, AL, USA",GenotheViking
+"""been""","Ashland, OR, USA",GenotheViking
+"""been""","Cleveland, OH, USA",GenotheViking
+"""been""","Sioux Falls, SD, USA",GenotheViking
+"""been""","Innsbruck, Austria",GenotheViking
+"""been""","Newburgh, NY, USA",GenotheViking
+"""been""","Wolf Creek, MT, USA",GenotheViking
+"""been""","Wolf Point, MT, USA",GenotheViking
+"""been""","Cape Girardeau, MO, USA",GenotheViking
+"""been""","Trinidad, CO, USA",GenotheViking
+"""been""","SeaTac, WA, USA",GenotheViking
+"""been""","Mill Creek, WA, USA",GenotheViking
+"""been""","Amarillo, TX, USA",GenotheViking
+"""been""","Sequim, WA, USA",GenotheViking
+"""been""","Assisi, Italy",GenotheViking
+"""been""","Moclips, WA, USA",GenotheViking
+"""been""","Savannah, GA, USA",GenotheViking
+"""been""","Siena, Italy",GenotheViking
+"""been""","Tempe, AZ, USA",GenotheViking
+"""been""","Albuquerque, NM, USA",GenotheViking
+"""been""","Laguna Beach, CA, USA",GenotheViking
+"""been""","Nashville, TN, USA",GenotheViking
+"""been""","Monroe, WA, USA",GenotheViking
+"""been""","Brawley, CA, USA",GenotheViking
+"""been""","Petrified Forest National Park, AZ, USA",GenotheViking
+"""been""","Baltimore, MD, USA",GenotheViking
+"""been""","Arezzo, Italy",GenotheViking
+"""been""","Wibaux, MT, USA",GenotheViking
+"""been""","Whitefish, MT, USA",GenotheViking
+"""been""","Detroit, MI, USA",GenotheViking
+"""been""","Shoreline, WA, USA",GenotheViking
+"""been""","Arlington, WA, USA",GenotheViking
+"""been""","Yreka, CA, USA",GenotheViking
+"""been""","Steinbach, Manitoba, Canada",GenotheViking
+"""been""","Mount Vernon, WA, USA",GenotheViking
+"""been""","Granite Falls, WA, USA",GenotheViking
+"""been""","Moses Lake, WA, USA",GenotheViking
+"""been""","Williston, ND, USA",GenotheViking
+"""been""","Brooklyn, NY, USA",GenotheViking
+"""been""","Snohomish, WA, USA",GenotheViking
+"""been""","Oyster Bay, NY, USA",GenotheViking
+"""been""","Mukilteo, WA, USA",GenotheViking
+"""been""","Providence, RI, USA",GenotheViking
+"""been""","Crescent City, CA, USA",GenotheViking
+"""been""","Fort Collins, CO, USA",GenotheViking
+"""been""","Fredericksburg, VA, USA",GenotheViking
+"""been""","Kawaihae, HI, USA",GenotheViking
+"""been""","La Jolla, CA, USA",GenotheViking
+"""been""","Lubbock, TX, USA",GenotheViking
+"""been""","Orlando, FL, USA",GenotheViking
+"""been""","Imola, Italy",GenotheViking
+"""been""","Vancouver, WA, USA",GenotheViking
+"""been""","Dearborn, MI, USA",GenotheViking
+"""been""","Gilbert, AZ, USA",GenotheViking
+"""been""","Sedona, AZ, USA",GenotheViking
+"""been""","Marina del Rey, CA, USA",GenotheViking
+"""been""","Tillamook, OR, USA",GenotheViking
+"""been""","Bologna, Italy",GenotheViking
+"""been""","Scottsdale, AZ, USA",GenotheViking
+"""been""","Bar Harbor, ME, USA",GenotheViking
+"""been""","Spokane, WA, USA",GenotheViking
+"""been""","Ravenna, Italy",GenotheViking
+"""been""","Friday Harbor, WA, USA",GenotheViking
+"""been""","Santa Fe, NM, USA",GenotheViking
+"""been""","Modena, Italy",GenotheViking
+"""been""","San Francisco, CA, USA",GenotheViking
+"""been""","Page, AZ, USA",GenotheViking
+"""been""","San Antonio, TX, USA",GenotheViking
+"""been""","City of San Marino, San Marino",GenotheViking
+"""been""","Chino, CA, USA",GenotheViking
+"""been""","Salem, MA, USA",GenotheViking
+"""been""","Reno, NV, USA",GenotheViking
+"""been""","Quincy, MA, USA",GenotheViking
+"""been""","Tucson, AZ, USA",GenotheViking
+"""been""","Aurora, CO, USA",GenotheViking
+"""been""","Monroe, MI, USA",GenotheViking
+"""been""","Minneapolis, MN, USA",GenotheViking
+"""been""","Biloxi, MS, USA",GenotheViking
+"""been""","Ogallala, NE, USA",GenotheViking
+"""been""","Stanwood, WA, USA",GenotheViking
+"""been""","Isle of Palms, SC, USA",GenotheViking
+"""been""","Glendale, CA, USA",GenotheViking
+"""been""","Hudson, WI, USA",GenotheViking
+"""been""","Wind Cave National Park, SD, USA",GenotheViking
+"""been""","Big Sur, CA, USA",GenotheViking
+"""been""","Stehekin, WA, USA",GenotheViking
+"""been""","Sanibel Island, FL, USA",GenotheViking
+"""been""","Waikoloa, HI, USA",GenotheViking
+"""been""","Ocean Shores, WA, USA",GenotheViking
+"""been""","Pepeekeo, HI, USA",GenotheViking
+"""been""","Columbus, GA, USA",GenotheViking
+"""been""","Knoxville, TN, USA",GenotheViking
+"""been""","Moab, UT, USA",GenotheViking
+"""been""","Ostia Antica, Italy",GenotheViking
+"""been""","Miltona, MN, USA",GenotheViking
+"""been""","Joplin, MO, USA",GenotheViking
+"""been""","Sioux Narrows, Ontario, Canada",GenotheViking
+"""been""","North Platte, NE, USA",GenotheViking
+"""been""","Charleston, SC, USA",GenotheViking
+"""been""","La Porte, TX, USA",GenotheViking
+"""been""","Arlington, VA, USA",GenotheViking
+"""been""","Montpelier, VT, USA",GenotheViking
+"""been""","Tacoma, WA, USA",GenotheViking
+"""been""","Omak, WA, USA",GenotheViking
+"""been""","Newport Beach, CA, USA",GenotheViking
+"""been""","Burlington, VT, USA",GenotheViking
+"""been""","Kekaha, HI, USA",GenotheViking
+"""been""","Kapaa, HI, USA",GenotheViking
+"""been""","St. Petersburg, FL, USA",GenotheViking
+"""been""","Kennewick, WA, USA",GenotheViking
+"""been""","St. Pete Beach, FL, USA",GenotheViking
+"""been""","Saint Cloud, FL, USA",GenotheViking
+"""been""","Alamosa, CO, USA",GenotheViking
+"""been""","Saint Augustine Beach, FL, USA",GenotheViking
+"""been""","Newport, RI, USA",GenotheViking
+"""been""","Medora, ND, USA",GenotheViking
+"""been""","Saint Joseph, MO, USA",GenotheViking
+"""been""","Buffalo, NY, USA",GenotheViking
+"""been""","Flagstaff, AZ, USA",GenotheViking
+"""been""","Saint Louis, MO, USA",GenotheViking
+"""been""","Las Vegas, NV, USA",GenotheViking
+"""been""","Nebraska City, NE, USA",GenotheViking
+"""been""","Lucerne, Switzerland",GenotheViking
+"""been""","Columbia, SC, USA",GenotheViking
+"""been""","Kirkland, WA, USA",GenotheViking
+"""been""","Nevada City, CA, USA",GenotheViking
+"""been""","Pacific Beach, WA, USA",GenotheViking
+"""been""","Houston, TX, USA",GenotheViking
+"""been""","Daphne, AL, USA",GenotheViking
+"""been""","Chicago, IL, USA",GenotheViking
+"""been""","Waimea, HI, USA",GenotheViking
+"""been""","Verdal, Norway",GenotheViking
+"""been"",""fave""","Poipu, HI, USA",GenotheViking
+"""been""","Princeville, HI, USA",GenotheViking
+"""been""","Lihue, HI, USA",GenotheViking
+"""been""","Los Angeles, CA, USA",GenotheViking
+"""been""","Custer, SD, USA",GenotheViking
+"""been""","Cottonwood, AZ, USA",GenotheViking
+"""been""","Laramie, WY, USA",GenotheViking
+"""been""","Boston, MA, USA",GenotheViking
+"""been""","New Orleans, LA, USA",GenotheViking
+"""been""","Honolulu, HI, USA",GenotheViking
+"""been""","Annapolis, MD, USA",GenotheViking
+"""been""","Incline Village, NV, USA",GenotheViking
+"""been""","Stirling, UK",GenotheViking
+"""been""","Baton Rouge, LA, USA",GenotheViking
+"""been""","Hawthorne, NV, USA",GenotheViking
+"""been""","Lake Stevens, WA, USA",GenotheViking
+"""been""","Lodi, CA, USA",GenotheViking
+"""been""","Paradise, WA, USA",GenotheViking
+"""been""","Phoenix, AZ, USA",GenotheViking
+"""been""","Humble, TX, USA",GenotheViking
+"""been""","Ashwaubenon, WI, USA",GenotheViking
+"""been""","Dayton, WA, USA",GenotheViking
+"""been""","Lone Pine, CA, USA",GenotheViking
+"""been""","Niantic, CT, USA",GenotheViking
+"""been""","Des Moines, WA, USA",GenotheViking
+"""been""","Long Beach, CA, USA",GenotheViking
+"""been""","Provo, UT, USA",GenotheViking
+"""been"",""fave""","Alexandria, MN, USA",GenotheViking
+"""been""","Fort Bragg, CA, USA",GenotheViking
+"""been""","Seattle, WA, USA",GenotheViking
+"""been""","Yellowstone National Park, WY, USA",GenotheViking
+"""been""","New London, CT, USA",GenotheViking
+"""been""","Lahaina, HI, USA",GenotheViking
+"""been""","Skagway, AK, USA",GenotheViking
+"""been""","Kihei, HI, USA",GenotheViking
+"""been""","Lusk, WY, USA",GenotheViking
+"""been""","Kailua-Kona, HI, USA",GenotheViking
+"""been""","Cincinnati, OH, USA",GenotheViking
+"""been""","Garda, Italy",GenotheViking
+"""been""","Lovell, WY, USA",GenotheViking
+"""been""","Rolla, MO, USA",GenotheViking
+"""been""","Maui, HI, USA",GenotheViking
+"""been""","Walla Walla, WA, USA",GenotheViking
+"""been""","San Diego, CA, USA",GenotheViking
+"""been""","Braintree, MA, USA",GenotheViking
+"""been""","Vero Beach, FL, USA",GenotheViking
+"""been""","Leavenworth, WA, USA",GenotheViking
+"""been""","Charlottesville, VA, USA",GenotheViking
+"""been""","Franklin, TN, USA",GenotheViking
+"""been""","Owatonna, MN, USA",GenotheViking
+"""been""","Longmire, WA, USA",GenotheViking
+"""been""","Powell River, British Columbia, Canada",GenotheViking
+"""been""","Long Beach, WA, USA",GenotheViking
+"""been""","Lido di Ostia, Italy",GenotheViking
+"""been""","Sacramento, CA, USA",GenotheViking
+"""been""","St. George, UT, USA",GenotheViking
+"""been""","Mystic, CT, USA",GenotheViking
+"""been""","El Paso, TX, USA",GenotheViking
+"""been""","Springfield, IL, USA",GenotheViking
+"""been""","Omaha, NE, USA",GenotheViking
+"""been""","Coos Bay, OR, USA",GenotheViking
+"""been""","Klamath Falls, OR, USA",GenotheViking
+"""been""","New York City, NY, USA",GenotheViking
+"""been""","Corvallis, OR, USA",GenotheViking
+"""been""","Susanville, CA, USA",GenotheViking
+"""been""","Captiva Island, FL, USA",GenotheViking
+"""been""","Nanaimo, British Columbia, Canada",GenotheViking
+"""been""","Berkeley, CA, USA",GenotheViking
+"""been""","Tahoe City, CA, USA",GenotheViking
+"""been""","Durango, CO, USA",GenotheViking
+"""been""","North Redington Beach, FL, USA",GenotheViking
+"""been""","Prince Rupert, British Columbia, Canada",GenotheViking
+"""been""","North Fort Myers, FL, USA",GenotheViking
+"""been""","Padua, Italy",GenotheViking
+"""been""","Salisbury, UK",GenotheViking
+"""been""","Pocatello, ID, USA",GenotheViking
+"""been""","Gainesville, FL, USA",GenotheViking
+"""been""","Glasgow, UK",GenotheViking
+"""been""","Rapid City, SD, USA",GenotheViking
+"""been"",""fave""","Fredericksburg, TX, USA",GenotheViking
+"""been""","San Simeon, CA, USA",GenotheViking
+"""been""","Pittsburgh, PA, USA",GenotheViking
+"""been""","Carlstadt, NJ, USA",GenotheViking
+"""been""","Columbus, NE, USA",GenotheViking
+"""been""","Cut Bank, MT, USA",GenotheViking
+"""been""","Cooke City, MT, USA",GenotheViking
+"""been""","Livingston, MT, USA",GenotheViking
+"""been""","Rugby, ND, USA",GenotheViking
+"""been""","White Plains, NY, USA",GenotheViking
+"""been""","Lewistown, MT, USA",GenotheViking
+"""been""","Libby, MT, USA",GenotheViking
+"""been""","Rolla, ND, USA",GenotheViking
+"""been""","Fort Walton Beach, FL, USA",GenotheViking
+"""been""","San Luis Obispo, CA, USA",GenotheViking
+"""been""","Denver, CO, USA",GenotheViking
+"""been""","Carmel, CA, USA",GenotheViking
+"""been""","San Jose, CA, USA",GenotheViking
+"""been""","Fort Myers, FL, USA",GenotheViking
+"""been""","Edinburgh, UK",GenotheViking
+"""been""","Turin, Italy",GenotheViking
+"""been""","Fort Myers Beach, FL, USA",GenotheViking
+"""been""","Ontario, OR, USA",GenotheViking
+"""been""","Medicine Hat, Alberta, Canada",GenotheViking
+"""been""","Tybee Island, GA, USA",GenotheViking
+"""been""","Cape Canaveral, FL, USA",GenotheViking
+"""been""","Galveston, TX, USA",GenotheViking
+"""been""","Columbia Falls, MT, USA",GenotheViking
+"""been""","San Angelo, TX, USA",GenotheViking
+"""been""","Sully-sur-Loire, France",GenotheViking
+"""been""","Chadron, NE, USA",GenotheViking
+"""been""","Fergus Falls, MN, USA",GenotheViking
+"""been""","Portsmouth, NH, USA",GenotheViking
+"""been""","Chinook, MT, USA",GenotheViking
+"""been""","Choteau, MT, USA",GenotheViking
+"""been""","Sidney, MT, USA",GenotheViking
+"""been""","Circle, MT, USA",GenotheViking
+"""been""","Dover, UK",GenotheViking
+"""been""","Edmonton, Alberta, Canada",GenotheViking
+"""been""","Utrecht, The Netherlands",GenotheViking
+"""been""","Tiffin, OH, USA",GenotheViking
+"""been""","West Hollywood, CA, USA",GenotheViking
+"""been""","Pendleton, OR, USA",GenotheViking
+"""been""","Toledo, OH, USA",GenotheViking
+"""been""","Fort Lauderdale, FL, USA",GenotheViking
+"""been""","Shelby, MT, USA",GenotheViking
+"""been""","Chester, MT, USA",GenotheViking
+"""been""","Bottineau, ND, USA",GenotheViking
+"""been""","Fort Lee, NJ, USA",GenotheViking
+"""been""","Grand Island, NE, USA",GenotheViking
+"""been""","Bismarck, ND, USA",GenotheViking
+"""been""","Verona, Italy",GenotheViking
+"""been""","Butte, MT, USA",GenotheViking
+"""been"",""fave""","Venice, Italy",GenotheViking
+"""been""","Colorado Springs, CO, USA",GenotheViking
+"""been""","Aberdeen, SD, USA",GenotheViking
+"""been""","Weed, CA, USA",GenotheViking
+"""been""","Vicenza, Italy",GenotheViking
+"""been""","Grinnell, IA, USA",GenotheViking
+"""been""","Lemmon, SD, USA",GenotheViking
+"""been""","Madrid, Spain",GenotheViking
+"""been""","Ostersund, Sweden",GenotheViking
+"""been""","Portland, OR, USA",GenotheViking
+"""been""","Yachats, OR, USA",GenotheViking
+"""been""","Bakersfield, CA, USA",GenotheViking
+"""been""","Browning, MT, USA",GenotheViking
+"""been"",""fave""","West Point, NY, USA",GenotheViking
+"""been""","Saint-Denis, France",GenotheViking
+"""been""","Ticonderoga, NY, USA",GenotheViking
+"""been""","Calais, France",GenotheViking
+"""been""","Anaheim, CA, USA",GenotheViking
+"""been""","Grand Forks, ND, USA",GenotheViking
+"""want""","Monterosso al Mare, Italy",GenotheViking
+"""been""","Genoa, Italy",GenotheViking
+"""been""","Vernazza, Italy",GenotheViking
+"""been""","Zanesville, OH, USA",GenotheViking
+"""been""","Burlington, IA, USA",GenotheViking
+"""been""","Coeur d'Alene, ID, USA",GenotheViking
+"""been""","Des Moines, IA, USA",GenotheViking
+"""been""","Helena, MT, USA",GenotheViking
+"""been""","North Topsail Beach, NC, USA",GenotheViking
+"""been""","Alturas, CA, USA",GenotheViking
+"""been""","East Hampton, NY, USA",GenotheViking
+"""been""","Havre, MT, USA",GenotheViking
+"""been""","Hermosa Beach, CA, USA",GenotheViking
+"""been""","Chillicothe, MO, USA",GenotheViking
+"""been""","Red Lodge, MT, USA",GenotheViking
+"""been""","Hardin, MT, USA",GenotheViking
+"""been""","Syracuse, NY, USA",GenotheViking
+"""been""","Harlowton, MT, USA",GenotheViking
+"""been""","Solvang, CA, USA",GenotheViking
+"""been""","Tallahassee, FL, USA",GenotheViking
+"""been""","Melbourne, FL, USA",GenotheViking
+"""been""","Indialantic, FL, USA",GenotheViking
+"""been""","Mesa, AZ, USA",GenotheViking
+"""been""","Wenatchee, WA, USA",GenotheViking
+"""been""","Coronado, CA, USA",GenotheViking
+"""been""","Austin, TX, USA",GenotheViking
+"""been""","Pensacola, FL, USA",GenotheViking
+"""been""","Miami Beach, FL, USA",GenotheViking
+"""been""","Barstow, CA, USA",GenotheViking
+"""been""","Tampa, FL, USA",GenotheViking
+"""been""","Yellowknife, Northwest Territories, Canada",GenotheViking
+"""been""","Carbondale, IL, USA",GenotheViking
+"""been""","Miami, FL, USA",GenotheViking
+"""been""","Charleston, WV, USA",GenotheViking
+"""been""","Jersey City, NJ, USA",GenotheViking
+"""been""","Hamilton, MT, USA",GenotheViking
+"""been""","Mont-Saint-Michel, France",GenotheViking
+"""been""","Duluth, MN, USA",GenotheViking
+"""been""","East Rutherford, NJ, USA",GenotheViking
+"""been""","Eureka, CA, USA",GenotheViking
+"""been""","Burbank, CA, USA",GenotheViking
+"""been""","Marianna, FL, USA",GenotheViking
+"""been""","Salem, OR, USA",GenotheViking
+"""been""","Morristown, NJ, USA",GenotheViking
+"""been""","Ashford, WA, USA",GenotheViking
+"""been""","Grand Junction, CO, USA",GenotheViking
+"""been""","Mount Pleasant, SC, USA",GenotheViking
+"""been""","Milan, Italy",GenotheViking
+"""been""","Myrtle Beach, SC, USA",GenotheViking
+"""been""","Tiverton, RI, USA",GenotheViking
+"""been""","New Bedford, MA, USA",GenotheViking
+"""been""","Mantua, Italy",GenotheViking
+"""been""","Winthrop, WA, USA",GenotheViking
+"""been""","Green Bay, WI, USA",GenotheViking
+"""been""","Burney, CA, USA",GenotheViking
+"""been""","Lewiston, ID, USA",GenotheViking
+"""been""","Winnipeg, Manitoba, Canada",GenotheViking
+"""been""","Matlacha, FL, USA",GenotheViking
+"""been""","Pompeys Pillar, MT, USA",GenotheViking
+"""been""","Bandol, France",GenotheViking
+"""been""","Hannibal, MO, USA",GenotheViking
+"""been""","Philipsburg, MT, USA",GenotheViking
+"""been""","Lincoln, NE, USA",GenotheViking
+"""been""","Watkins Glen, NY, USA",GenotheViking
+"""been""","Seaside, OR, USA",GenotheViking
+"""been""","Madeira Beach, FL, USA",GenotheViking
+"""been""","Como, Italy",GenotheViking
+"""been""","Tombstone, AZ, USA",GenotheViking
+"""been""","Zillah, WA, USA",GenotheViking
+"""been""","Minot, ND, USA",GenotheViking
+"""been""","Juneau, AK, USA",GenotheViking
+"""been""","O'Neill, NE, USA",GenotheViking
+"""been""","Wallace, ID, USA",GenotheViking
+"""been""","Jacksonville, FL, USA",GenotheViking
+"""been""","Astoria, OR, USA",GenotheViking
+"""been""","Palmetto, FL, USA",GenotheViking
+"""been""","Twin Falls, ID, USA",GenotheViking
+"""been""","Salt Lake City, UT, USA",GenotheViking
+"""been""","Vancouver, British Columbia, Canada",GenotheViking
+"""been""","Boulder, CO, USA",GenotheViking
+"""been""","Port Angeles, WA, USA",GenotheViking
+"""been""","Victoria, British Columbia, Canada",GenotheViking

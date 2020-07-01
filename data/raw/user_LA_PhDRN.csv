@@ -1,0 +1,438 @@
+tag,place,user
+"""been"",""fave""","Bandiagara, Mali",PhDRN
+"""been""","Rockport, MA, USA",PhDRN
+"""want""","Lake Louise, Alberta, Canada",PhDRN
+"""want""","Banff, Alberta, Canada",PhDRN
+"""been""","Mopti, Mali",PhDRN
+"""been""","Hartford, CT, USA",PhDRN
+"""been""","Bridgetown, Barbados",PhDRN
+"""been""","Montauk, NY, USA",PhDRN
+"""been""","Albany, NY, USA",PhDRN
+"""been""","Milan, Italy",PhDRN
+"""been""","Deer Isle, ME, USA",PhDRN
+"""been""","Lexington, KY, USA",PhDRN
+"""been""","Falmouth, MA, USA",PhDRN
+"""been""","Saint Paul, MN, USA",PhDRN
+"""been""","Romulus, MI, USA",PhDRN
+"""want""","Havana, Cuba",PhDRN
+"""been""","Ontario, CA, USA",PhDRN
+"""want""","Buenos Aires, Argentina",PhDRN
+"""want""","Varadero, Cuba",PhDRN
+"""want""","Edinburgh, UK",PhDRN
+"""been""","Fairhope, AL, USA",PhDRN
+"""been""","San Pedro, Belize",PhDRN
+"""been""","Ludington, MI, USA",PhDRN
+"""been""","Belize City, Belize",PhDRN
+"""been""","Bowling Green, KY, USA",PhDRN
+"""been""","Mackinaw City, MI, USA",PhDRN
+"""been""","Tijuana, Mexico",PhDRN
+"""been""","New Hope, PA, USA",PhDRN
+"""been""","Fort Worth, TX, USA",PhDRN
+"""been""","Milwaukee, WI, USA",PhDRN
+"""been""","Holland, MI, USA",PhDRN
+"""want""","Hamilton, Bermuda",PhDRN
+"""been""","Saltillo, Mexico",PhDRN
+"""been""","Great Barrington, MA, USA",PhDRN
+"""been"",""fave""","Venice, Italy",PhDRN
+"""been""","Pittsburgh, PA, USA",PhDRN
+"""been""","Lunenburg, Nova Scotia, Canada",PhDRN
+"""been""","Piopolis, Quebec, Canada",PhDRN
+"""want""","Madrid, Spain",PhDRN
+"""been""","Waco, TX, USA",PhDRN
+"""been""","Fredericksburg, TX, USA",PhDRN
+"""been""","Monterrey, Mexico",PhDRN
+"""been""","Saugatuck, MI, USA",PhDRN
+"""been""","Rockville, MD, USA",PhDRN
+"""been""","Sandy Hook, NJ, USA",PhDRN
+"""been""","Moncton, New Brunswick, Canada",PhDRN
+"""been""","Brewster, MA, USA",PhDRN
+"""been""","Hastings, Barbados",PhDRN
+"""been""","Groton, MA, USA",PhDRN
+"""been""","Cedarville, OH, USA",PhDRN
+"""been""","Bamako, Mali",PhDRN
+"""been""","Bradenton Beach, FL, USA",PhDRN
+"""been""","Nashville, IN, USA",PhDRN
+"""been""","Las Vegas, NV, USA",PhDRN
+"""been""","Laughlin, NV, USA",PhDRN
+"""been""","Secaucus, NJ, USA",PhDRN
+"""been""","Bonita Springs, FL, USA",PhDRN
+"""been""","Shelburne, Nova Scotia, Canada",PhDRN
+"""been""","Bethesda, MD, USA",PhDRN
+"""been""","San Marcos, TX, USA",PhDRN
+"""been""","Peachtree City, GA, USA",PhDRN
+"""been""","Toledo, OH, USA",PhDRN
+"""been"",""fave""","Dublin, Ireland",PhDRN
+"""been""","Fort Wayne, IN, USA",PhDRN
+"""been""","Galesburg, IL, USA",PhDRN
+"""been""","Boca Raton, FL, USA",PhDRN
+"""been""","Saint Louis, MO, USA",PhDRN
+"""want""","Siem Reap, Cambodia",PhDRN
+"""been""","Fairfax, VA, USA",PhDRN
+"""been""","Montgomery, AL, USA",PhDRN
+"""been""","O'Leary, Prince Edward Island, Canada",PhDRN
+"""been"",""fave""","San Ignacio, Belize",PhDRN
+"""want""","Portland, OR, USA",PhDRN
+"""been""","Dangriga, Belize",PhDRN
+"""been""","Hot Springs, VA, USA",PhDRN
+"""want""","Chiang Mai, Thailand",PhDRN
+"""been""","Placencia, Belize",PhDRN
+"""been""","Stone Mountain, GA, USA",PhDRN
+"""been""","Kalamazoo, MI, USA",PhDRN
+"""want""","Victoria, British Columbia, Canada",PhDRN
+"""want""","Vancouver, British Columbia, Canada",PhDRN
+"""been""","Minneapolis, MN, USA",PhDRN
+"""been""","Petoskey, MI, USA",PhDRN
+"""been"",""fave""","Bellagio, Italy",PhDRN
+"""been""","Como, Italy",PhDRN
+"""been""","Saint Andrews, New Brunswick, Canada",PhDRN
+"""want""","Halong Bay, Vietnam",PhDRN
+"""been""","Duck Key, FL, USA",PhDRN
+"""been"",""fave""","Hanoi, Vietnam",PhDRN
+"""been""","Ho Chi Minh City, Vietnam",PhDRN
+"""been""","Hue, Vietnam",PhDRN
+"""been""","West Drayton, UK",PhDRN
+"""been""","Moultonborough, NH, USA",PhDRN
+"""been""","Bellows Falls, VT, USA",PhDRN
+"""been""","Singapore, Singapore",PhDRN
+"""been""","Great Falls, MT, USA",PhDRN
+"""been""","Sarasota, FL, USA",PhDRN
+"""been""","Milford, NH, USA",PhDRN
+"""been""","Birmingham, AL, USA",PhDRN
+"""been""","West Palm Beach, FL, USA",PhDRN
+"""been""","Worcester, MA, USA",PhDRN
+"""been""","Woolwich, ME, USA",PhDRN
+"""been""","Searsport, ME, USA",PhDRN
+"""been""","Bath, ME, USA",PhDRN
+"""been""","Ellsworth, ME, USA",PhDRN
+"""been""","Inverness, Nova Scotia, Canada",PhDRN
+"""been""","York Beach, ME, USA",PhDRN
+"""been""","South Yarmouth, MA, USA",PhDRN
+"""been""","Langhorne, PA, USA",PhDRN
+"""been""","Nashua, NH, USA",PhDRN
+"""been""","St. Petersburg, FL, USA",PhDRN
+"""been""","Concord, NH, USA",PhDRN
+"""been""","Seibert, CO, USA",PhDRN
+"""been""","St. Pete Beach, FL, USA",PhDRN
+"""been""","Arlington, VA, USA",PhDRN
+"""been""","Lancaster, PA, USA",PhDRN
+"""been""","Norwalk, CT, USA",PhDRN
+"""want""","Budapest, Hungary",PhDRN
+"""been""","Virginia Beach, VA, USA",PhDRN
+"""been""","Rocky Mountain National Park, CO, USA",PhDRN
+"""been""","Columbia, KY, USA",PhDRN
+"""been""","Rhinebeck, NY, USA",PhDRN
+"""been""","North Conway, NH, USA",PhDRN
+"""been""","New Paltz, NY, USA",PhDRN
+"""been""","Chicago, IL, USA",PhDRN
+"""been""","Annapolis, MD, USA",PhDRN
+"""been""","Dublin, NH, USA",PhDRN
+"""been""","Windsor, Ontario, Canada",PhDRN
+"""been""","Prescott, AZ, USA",PhDRN
+"""been"",""want""","Los Angeles, CA, USA",PhDRN
+"""been""","North Stonington, CT, USA",PhDRN
+"""been""","La Crosse, WI, USA",PhDRN
+"""been""","Freeport, ME, USA",PhDRN
+"""been""","Boothbay Harbor, ME, USA",PhDRN
+"""been""","Lake George, NY, USA",PhDRN
+"""been""","Elmira, Prince Edward Island, Canada",PhDRN
+"""been""","Norman, OK, USA",PhDRN
+"""been""","Venice, FL, USA",PhDRN
+"""been""","Montreal, Quebec, Canada",PhDRN
+"""been""","New Haven, CT, USA",PhDRN
+"""been""","Hyannis, MA, USA",PhDRN
+"""been""","South Haven, MI, USA",PhDRN
+"""been""","Quebec City, Quebec, Canada",PhDRN
+"""been""","Evansville, IN, USA",PhDRN
+"""been""","Brunswick, ME, USA",PhDRN
+"""been""","Columbus, OH, USA",PhDRN
+"""want""","Cape Town Central, South Africa",PhDRN
+"""been""","Lake Placid, NY, USA",PhDRN
+"""been""","Niagara Falls, NY, USA",PhDRN
+"""been""","Mystic, CT, USA",PhDRN
+"""been""","Poncha Springs, CO, USA",PhDRN
+"""been""","Appleton, WI, USA",PhDRN
+"""been""","Lenox, MA, USA",PhDRN
+"""been""","Calais, ME, USA",PhDRN
+"""been""","Wichita, KS, USA",PhDRN
+"""been""","Waltham, MA, USA",PhDRN
+"""been""","Ogunquit, ME, USA",PhDRN
+"""been""","Old Orchard Beach, ME, USA",PhDRN
+"""been""","Yuma, AZ, USA",PhDRN
+"""been""","Ruidoso, NM, USA",PhDRN
+"""been""","Uncasville, CT, USA",PhDRN
+"""been""","Oklahoma City, OK, USA",PhDRN
+"""been""","Castine, ME, USA",PhDRN
+"""been""","Pasadena, CA, USA",PhDRN
+"""been""","Harrisburg, PA, USA",PhDRN
+"""been""","Kill Devil Hills, NC, USA",PhDRN
+"""been""","State College, PA, USA",PhDRN
+"""want""","Monterey, CA, USA",PhDRN
+"""been""","Grapevine, TX, USA",PhDRN
+"""been""","Tulsa, OK, USA",PhDRN
+"""been""","Marblehead, MA, USA",PhDRN
+"""been""","Kennebunk, ME, USA",PhDRN
+"""been""","Kennebunkport, ME, USA",PhDRN
+"""been""","Chapel Hill, NC, USA",PhDRN
+"""been""","Kitty Hawk, NC, USA",PhDRN
+"""been""","Stamford, CT, USA",PhDRN
+"""want""","Rio de Janeiro, Brazil",PhDRN
+"""been""","Oshkosh, WI, USA",PhDRN
+"""been""","Ann Arbor, MI, USA",PhDRN
+"""been""","Kittery, ME, USA",PhDRN
+"""been""","Traverse City, MI, USA",PhDRN
+"""been""","Welshpool, New Brunswick, Canada",PhDRN
+"""been""","Peterborough, NH, USA",PhDRN
+"""been""","Kalispell, MT, USA",PhDRN
+"""been""","Sandusky, OH, USA",PhDRN
+"""been""","Rochester, NY, USA",PhDRN
+"""been""","Geneva, NY, USA",PhDRN
+"""been""","Pittsburg, NH, USA",PhDRN
+"""been""","Kansas City, KS, USA",PhDRN
+"""want""","Quito, Ecuador",PhDRN
+"""been""","Colorado Springs, CO, USA",PhDRN
+"""been""","Cincinnati, OH, USA",PhDRN
+"""been""","Jupiter, FL, USA",PhDRN
+"""been""","Pompano Beach, FL, USA",PhDRN
+"""want""","Vienna, Austria",PhDRN
+"""been""","Portsmouth, NH, USA",PhDRN
+"""been""","Ocean City, NJ, USA",PhDRN
+"""want""","Albufeira, Portugal",PhDRN
+"""want""","Sydney, Australia",PhDRN
+"""want""","Lima, Peru",PhDRN
+"""been""","Laredo, TX, USA",PhDRN
+"""been""","West Bay, Nova Scotia, Canada",PhDRN
+"""been""","McAllen, TX, USA",PhDRN
+"""been""","Williamsburg, VA, USA",PhDRN
+"""want""","Machu Picchu, Peru",PhDRN
+"""been""","Englewood, FL, USA",PhDRN
+"""been"",""fave""","Boston, MA, USA",PhDRN
+"""been""","New Orleans, LA, USA",PhDRN
+"""want""","Cusco, Peru",PhDRN
+"""want""","Iquitos, Peru",PhDRN
+"""been""","Stockton Springs, ME, USA",PhDRN
+"""want""","Addis Ababa, Ethiopia",PhDRN
+"""been""","Richmond, VA, USA",PhDRN
+"""been""","Cape May, NJ, USA",PhDRN
+"""been""","Cambridge, MA, USA",PhDRN
+"""been""","White Plains, NY, USA",PhDRN
+"""been""","Miami Beach, FL, USA",PhDRN
+"""been""","Yarmouth, Nova Scotia, Canada",PhDRN
+"""been""","Woodstock, VT, USA",PhDRN
+"""been""","Tallahassee, FL, USA",PhDRN
+"""been""","Melbourne, FL, USA",PhDRN
+"""been""","Mesa, AZ, USA",PhDRN
+"""been""","Charlottesville, VA, USA",PhDRN
+"""been""","Iona, Nova Scotia, Canada",PhDRN
+"""been""","Rawlins, WY, USA",PhDRN
+"""been""","Rye Brook, NY, USA",PhDRN
+"""been""","Southampton, NY, USA",PhDRN
+"""been""","Hancock, NH, USA",PhDRN
+"""been""","Rye, NY, USA",PhDRN
+"""been""","Binghamton, NY, USA",PhDRN
+"""been""","Plattsburgh, NY, USA",PhDRN
+"""been""","Hampton, NH, USA",PhDRN
+"""been""","El Paso, TX, USA",PhDRN
+"""been""","Vinalhaven, ME, USA",PhDRN
+"""been""","Wisconsin Dells, WI, USA",PhDRN
+"""been""","Little Rock, AR, USA",PhDRN
+"""been""","Springfield, IL, USA",PhDRN
+"""want""","Panama City Beach, FL, USA",PhDRN
+"""been"",""fave""","New York City, NY, USA",PhDRN
+"""been""","Baddeck, Nova Scotia, Canada",PhDRN
+"""been""","Grand Junction, CO, USA",PhDRN
+"""been""","Jackson, NH, USA",PhDRN
+"""been""","Jaffrey, NH, USA",PhDRN
+"""been""","Stateline, NV, USA",PhDRN
+"""been""","East Glacier Park, MT, USA",PhDRN
+"""been""","Copenhagen, Denmark",PhDRN
+"""been""","Portland, ME, USA",PhDRN
+"""been""","Stuart, FL, USA",PhDRN
+"""been""","Palm Beach, FL, USA",PhDRN
+"""been""","Gettysburg, PA, USA",PhDRN
+"""been""","Sturgeon Bay, WI, USA",PhDRN
+"""been""","Tombstone, AZ, USA",PhDRN
+"""been"",""fave""","Ottawa, Ontario, Canada",PhDRN
+"""been""","Waterville, ME, USA",PhDRN
+"""been""","Hershey, PA, USA",PhDRN
+"""want""","Holguin, Cuba",PhDRN
+"""been""","Toronto, Ontario, Canada",PhDRN
+"""been""","Keene, NH, USA",PhDRN
+"""want""","Barcelona, Spain",PhDRN
+"""been""","Tempe, AZ, USA",PhDRN
+"""been""","Kayenta, AZ, USA",PhDRN
+"""been""","Amarillo, TX, USA",PhDRN
+"""been""","Bethlehem, PA, USA",PhDRN
+"""been""","Bradenton, FL, USA",PhDRN
+"""been""","Bloomington, IN, USA",PhDRN
+"""been""","Dayton, OH, USA",PhDRN
+"""been""","Thunder Bay, Ontario, Canada",PhDRN
+"""want""","Trinidad, Cuba",PhDRN
+"""been""","Wells, ME, USA",PhDRN
+"""been""","West Yarmouth, MA, USA",PhDRN
+"""been""","Sudbury, Ontario, Canada",PhDRN
+"""been""","Stratford, Ontario, Canada",PhDRN
+"""been""","Rockland, ME, USA",PhDRN
+"""been""","Saratoga Springs, NY, USA",PhDRN
+"""been""","Littleton, NH, USA",PhDRN
+"""been""","Bedford, NH, USA",PhDRN
+"""been""","Poughkeepsie, NY, USA",PhDRN
+"""been""","Staten Island, NY, USA",PhDRN
+"""been""","Lincoln, NH, USA",PhDRN
+"""want""","Paris, France",PhDRN
+"""been""","Anna Maria, FL, USA",PhDRN
+"""been""","Orlando, FL, USA",PhDRN
+"""want""","Montevideo, Uruguay",PhDRN
+"""been""","Machias, ME, USA",PhDRN
+"""been""","Williamstown, MA, USA",PhDRN
+"""been""","Bronx, NY, USA",PhDRN
+"""been""","Wilton, NH, USA",PhDRN
+"""been""","Allentown, PA, USA",PhDRN
+"""want""","Antalya, Turkey",PhDRN
+"""been"",""fave""","Manitou Springs, CO, USA",PhDRN
+"""been""","Winter Park, FL, USA",PhDRN
+"""been""","Manchester, NH, USA",PhDRN
+"""been""","Bretton Woods, NH, USA",PhDRN
+"""want""","Kolkata (Calcutta), India",PhDRN
+"""been""","Newton, MA, USA",PhDRN
+"""been""","Anacortes, WA, USA",PhDRN
+"""want""","New Delhi, India",PhDRN
+"""been""","Scottsdale, AZ, USA",PhDRN
+"""want""","Mumbai, India",PhDRN
+"""been""","Roanoke, VA, USA",PhDRN
+"""been""","Niagara-on-the-Lake, Ontario, Canada",PhDRN
+"""want""","Granada, Spain",PhDRN
+"""want""","Seville, Spain",PhDRN
+"""been""","Indianapolis, IN, USA",PhDRN
+"""been""","The Woodlands, TX, USA",PhDRN
+"""want""","Washington DC, DC, USA",PhDRN
+"""been""","Delray Beach, FL, USA",PhDRN
+"""want""","Agadir, Morocco",PhDRN
+"""been""","Wilmington, DE, USA",PhDRN
+"""been""","Istanbul, Turkey",PhDRN
+"""been""","Mississauga, Ontario, Canada",PhDRN
+"""been""","London, Ontario, Canada",PhDRN
+"""been""","Deerfield Beach, FL, USA",PhDRN
+"""been""","Kingston, Ontario, Canada",PhDRN
+"""been""","Hobe Sound, FL, USA",PhDRN
+"""been""","Hamilton, Ontario, Canada",PhDRN
+"""been""","Daytona Beach, FL, USA",PhDRN
+"""been""","Whitefish, MT, USA",PhDRN
+"""want""","Melbourne, Australia",PhDRN
+"""been""","Grass Lake, MI, USA",PhDRN
+"""been""","Grand Rapids, MI, USA",PhDRN
+"""been""","Rochester, MN, USA",PhDRN
+"""been""","Muskegon, MI, USA",PhDRN
+"""been""","St Ives, UK",PhDRN
+"""been""","Penzance, UK",PhDRN
+"""been""","Uppsala, Sweden",PhDRN
+"""been""","Miramar Beach, FL, USA",PhDRN
+"""been""","Dearborn, MI, USA",PhDRN
+"""been""","Green Bay, WI, USA",PhDRN
+"""been""","Frankfurt, Germany",PhDRN
+"""been""","Dania Beach, FL, USA",PhDRN
+"""been""","Rehoboth Beach, DE, USA",PhDRN
+"""been""","Marysville, KS, USA",PhDRN
+"""been""","Newark, DE, USA",PhDRN
+"""been""","Cross City, FL, USA",PhDRN
+"""been""","Frederick, MD, USA",PhDRN
+"""been""","Ocean City, MD, USA",PhDRN
+"""been"",""fave""","Halifax, Nova Scotia, Canada",PhDRN
+"""been""","Digby, Nova Scotia, Canada",PhDRN
+"""been""","Albuquerque, NM, USA",PhDRN
+"""want""","Baltimore, MD, USA",PhDRN
+"""been""","Wilkes-Barre, PA, USA",PhDRN
+"""been""","Longboat Key, FL, USA",PhDRN
+"""been""","Bensalem, PA, USA",PhDRN
+"""been""","Westerly, RI, USA",PhDRN
+"""been""","Coral Gables, FL, USA",PhDRN
+"""been"",""fave""","Cape Breton Island, Nova Scotia, Canada",PhDRN
+"""been""","Ithaca, NY, USA",PhDRN
+"""been""","Savannah, GA, USA",PhDRN
+"""been""","Lincoln, NE, USA",PhDRN
+"""been""","Hoboken, NJ, USA",PhDRN
+"""been""","Jamaica, NY, USA",PhDRN
+"""been""","Gothenburg, Sweden",PhDRN
+"""been""","Nashville, TN, USA",PhDRN
+"""been""","Lansing, MI, USA",PhDRN
+"""been""","Salt Lake City, UT, USA",PhDRN
+"""been""","South Burlington, VT, USA",PhDRN
+"""been""","South Bend, IN, USA",PhDRN
+"""been""","Clearwater, FL, USA",PhDRN
+"""been""","Akron, OH, USA",PhDRN
+"""been""","Gaspe, Quebec, Canada",PhDRN
+"""been""","Corpus Christi, TX, USA",PhDRN
+"""been""","Barrie, Ontario, Canada",PhDRN
+"""been""","Flushing, NY, USA",PhDRN
+"""been"",""fave""","Visby, Sweden",PhDRN
+"""been""","Port Hawkesbury, Nova Scotia, Canada",PhDRN
+"""been""","Lubbock, TX, USA",PhDRN
+"""been""","Dundas, Ontario, Canada",PhDRN
+"""been""","San Antonio, TX, USA",PhDRN
+"""been""","West Glacier, MT, USA",PhDRN
+"""been""","Salem, MA, USA",PhDRN
+"""been""","Whycocomagh, Nova Scotia, Canada",PhDRN
+"""been""","Stowe, VT, USA",PhDRN
+"""been""","Tucson, AZ, USA",PhDRN
+"""want""","Valencia, Spain",PhDRN
+"""been""","Lakeland, FL, USA",PhDRN
+"""been""","Five Islands, Nova Scotia, Canada",PhDRN
+"""been""","Santa Fe, NM, USA",PhDRN
+"""been""","Elizabeth, NJ, USA",PhDRN
+"""been""","Syracuse, NY, USA",PhDRN
+"""been""","Jersey City, NJ, USA",PhDRN
+"""been""","Florence, Italy",PhDRN
+"""been""","Estes Park, CO, USA",PhDRN
+"""been""","Fredericksburg, VA, USA",PhDRN
+"""been""","Killington, VT, USA",PhDRN
+"""been""","North Miami Beach, FL, USA",PhDRN
+"""been""","Cedar Key, FL, USA",PhDRN
+"""been""","Malmo, Sweden",PhDRN
+"""been""","Valdosta, GA, USA",PhDRN
+"""been""","Lund, Sweden",PhDRN
+"""been""","Gainesville, FL, USA",PhDRN
+"""been""","Bar Harbor, ME, USA",PhDRN
+"""been""","Brooklyn, NY, USA",PhDRN
+"""been""","East Hampton, NY, USA",PhDRN
+"""been""","Providence, RI, USA",PhDRN
+"""been""","Lubec, ME, USA",PhDRN
+"""been""","Tarrytown, NY, USA",PhDRN
+"""want""","Naples, Italy",PhDRN
+"""been""","Peoria, IL, USA",PhDRN
+"""been""","London, UK",PhDRN
+"""been""","Newport, RI, USA",PhDRN
+"""been""","Holetown, Barbados",PhDRN
+"""been""","Lawrence, KS, USA",PhDRN
+"""been""","Manchester, VT, USA",PhDRN
+"""been""","Cape Coral, FL, USA",PhDRN
+"""been""","Fort Pierce, FL, USA",PhDRN
+"""been""","Buffalo, NY, USA",PhDRN
+"""been""","Flagstaff, AZ, USA",PhDRN
+"""been"",""fave""","St. Augustine, FL, USA",PhDRN
+"""been""","Denver, CO, USA",PhDRN
+"""been""","Cedar Rapids, IA, USA",PhDRN
+"""been""","Fort Myers, FL, USA",PhDRN
+"""been""","Ixtapa, Mexico",PhDRN
+"""been""","Fort Myers Beach, FL, USA",PhDRN
+"""been""","Madison, WI, USA",PhDRN
+"""been""","Columbia, MO, USA",PhDRN
+"""been""","Canandaigua, NY, USA",PhDRN
+"""been""","North Bergen, NJ, USA",PhDRN
+"""been""","Newark, NJ, USA",PhDRN
+"""been""","Reykjavik, Iceland",PhDRN
+"""want""","Rome, Italy",PhDRN
+"""want""","Brussels, Belgium",PhDRN
+"""been""","Stockholm, Sweden",PhDRN
+"""been""","Orcas Island, WA, USA",PhDRN
+"""been""","Fort Lauderdale, FL, USA",PhDRN
+"""been""","Luray, VA, USA",PhDRN
+"""been""","Wendake, Quebec, Canada",PhDRN
+"""been""","Burlington, VT, USA",PhDRN
+"""been""","Sainte Anne de Beaupre, Quebec, Canada",PhDRN
+"""been""","Gatlinburg, TN, USA",PhDRN
+"""been""","Naples, FL, USA",PhDRN
+"""been""","Mount Dora, FL, USA",PhDRN
+"""been""","Punta Gorda, FL, USA",PhDRN
+"""been""","Cooperstown, NY, USA",PhDRN
+"""been""","Champaign, IL, USA",PhDRN
+"""been""","New Braunfels, TX, USA",PhDRN
+"""been""","Scranton, PA, USA",PhDRN

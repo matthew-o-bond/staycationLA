@@ -1,0 +1,380 @@
+tag,place,user
+"""been"",""want""","Munich, Germany",MTorre
+"""been""","Naoshima-cho, Japan",MTorre
+"""been""","Hohenschwangau, Germany",MTorre
+"""been""","Las Vegas, NV, USA",MTorre
+"""been""","Champoton, Mexico",MTorre
+"""been""","St. Michaels, MD, USA",MTorre
+"""been""","San Ignacio, Mexico",MTorre
+"""been""","Chia, Italy",MTorre
+"""been""","Campeche, Mexico",MTorre
+"""been""","San Marcos, TX, USA",MTorre
+"""been""","Tulum, Mexico",MTorre
+"""been""","Stonedge, UK",MTorre
+"""been""","Conca dei Marini, Italy",MTorre
+"""been""","Isla Mujeres, Mexico",MTorre
+"""been""","Vatican City, Vatican City",MTorre
+"""been""","Merida, Mexico",MTorre
+"""been""","Gaeta, Italy",MTorre
+"""been""","Furore, Italy",MTorre
+"""been""","Playa del Carmen, Mexico",MTorre
+"""been""","Philadelphia, PA, USA",MTorre
+"""been"",""fave""","Rome, Italy",MTorre
+"""been""","Incheon, South Korea",MTorre
+"""been""","Stockholm, Sweden",MTorre
+"""been""","Monistrol de Montserrat, Spain",MTorre
+"""been""","Torrance, CA, USA",MTorre
+"""been""","Malmo, Sweden",MTorre
+"""been""","Cheektowaga, NY, USA",MTorre
+"""been""","Montepertuso, Italy",MTorre
+"""been""","Zaachila, Mexico",MTorre
+"""been""","Cerveteri, Italy",MTorre
+"""been""","San Pablo Villa de Mitla, Mexico",MTorre
+"""been""","San Juan Chamula, Mexico",MTorre
+"""been""","Praiano, Italy",MTorre
+"""been""","Civitavecchia, Italy",MTorre
+"""been""","Zinacantan, Mexico",MTorre
+"""been""","Guarulhos, Brazil",MTorre
+"""been""","San Cristobal de las Casas, Mexico",MTorre
+"""been""","Castel Volturno, Italy",MTorre
+"""want""","Ravello, Italy",MTorre
+"""been""","Taxco, Mexico",MTorre
+"""been""","Sintra, Portugal",MTorre
+"""been""","Veracruz, Mexico",MTorre
+"""been""","Tepotzotlan, Mexico",MTorre
+"""been""","Phoenix, AZ, USA",MTorre
+"""want""","Salerno, Italy",MTorre
+"""been""","Sorrento, Italy",MTorre
+"""been""","Marunouchi, Japan",MTorre
+"""been"",""fave""","Mexico City, Mexico",MTorre
+"""been""","Falls Church, VA, USA",MTorre
+"""been""","Tepoztlan, Mexico",MTorre
+"""been"",""fave""","Oaxaca, Mexico",MTorre
+"""been""","Amalfi, Italy",MTorre
+"""been""","Naples, Italy",MTorre
+"""want""","Pompeii, Italy",MTorre
+"""been""","Santa Monica, CA, USA",MTorre
+"""been""","Cancun, Mexico",MTorre
+"""been""","Confins, Brazil",MTorre
+"""been""","Chichen Itza, Mexico",MTorre
+"""been"",""fave""","London, UK",MTorre
+"""been""","Procida, Italy",MTorre
+"""been""","Cozumel, Mexico",MTorre
+"""been""","San Andres Huayapam, Mexico",MTorre
+"""been"",""want""","Rio de Janeiro, Brazil",MTorre
+"""been""","Orchard Park, NY, USA",MTorre
+"""been""","Xochitepec, Mexico",MTorre
+"""been""","Topolobampo, Mexico",MTorre
+"""been""","Aguas Calientes, Peru",MTorre
+"""been""","Puerto Aventuras, Mexico",MTorre
+"""been""","Nishishinjuku, Japan",MTorre
+"""been""","Tlalnepantla, Mexico",MTorre
+"""been""","Atlanta, GA, USA",MTorre
+"""been""","Roppongi, Japan",MTorre
+"""been""","Potsdam, Germany",MTorre
+"""been""","Amacuzac, Mexico",MTorre
+"""been""","West Palm Beach, FL, USA",MTorre
+"""want""","Hamburg, Germany",MTorre
+"""been""","Richmond, VA, USA",MTorre
+"""been""","Tlaquepaque, Mexico",MTorre
+"""been""","Amecameca, Mexico",MTorre
+"""want""","Melbourne, Australia",MTorre
+"""been""","Frankfurt, Germany",MTorre
+"""been""","Poughkeepsie, NY, USA",MTorre
+"""want""","Hong Kong, China",MTorre
+"""want""","Calakmul, Mexico",MTorre
+"""been""","La Calera, Colombia",MTorre
+"""been""","Chicago, IL, USA",MTorre
+"""been""","Washington DC, DC, USA",MTorre
+"""been""","Puerto Angel, Mexico",MTorre
+"""been""","Morelia, Mexico",MTorre
+"""been""","Galveston, TX, USA",MTorre
+"""been""","Playa Mujeres, Mexico",MTorre
+"""been""","Sao Paulo, Brazil",MTorre
+"""been""","Puebla, Mexico",MTorre
+"""been""","Formia, Italy",MTorre
+"""been""","Zacatecas, Mexico",MTorre
+"""been""","Tonala, Mexico",MTorre
+"""been""","Porto, Portugal",MTorre
+"""want""","Bjorkboda, Finland",MTorre
+"""been""","Tlayacapan, Mexico",MTorre
+"""been""","Annapolis, MD, USA",MTorre
+"""been""","Tamano, Japan",MTorre
+"""been""","Hermosillo, Mexico",MTorre
+"""been"",""want""","Granada, Spain",MTorre
+"""been""","Barra de Potosi, Mexico",MTorre
+"""been""","Arlington, VA, USA",MTorre
+"""been"",""fave""","Berlin, Germany",MTorre
+"""been"",""want""","Seville, Spain",MTorre
+"""been""","Akasaka, Japan",MTorre
+"""been""","San Gimignano, Italy",MTorre
+"""been""","Siena, Italy",MTorre
+"""been""","Tallinn, Estonia",MTorre
+"""been""","Seybaplaya, Mexico",MTorre
+"""been""","Ocosingo, Mexico",MTorre
+"""been""","Myrtle Beach, SC, USA",MTorre
+"""been""","Mulege, Mexico",MTorre
+"""want""","Bangkok, Thailand",MTorre
+"""been""","Alcochete, Portugal",MTorre
+"""been""","Mazunte, Mexico",MTorre
+"""been""","Red Hook, NY, USA",MTorre
+"""been""","Nuevo Vallarta, Mexico",MTorre
+"""been""","Santa Rosalia, Mexico",MTorre
+"""been""","Okayama, Japan",MTorre
+"""been"",""fave""","Cabo San Lucas, Mexico",MTorre
+"""been""","Gothenburg, Sweden",MTorre
+"""been""","Chula Vista, CA, USA",MTorre
+"""been""","San Pedro Cholula, Mexico",MTorre
+"""been""","El Cajon, CA, USA",MTorre
+"""been""","San Jose del Cabo, Mexico",MTorre
+"""been""","Ixtapan de la Sal, Mexico",MTorre
+"""been""","San Juan del Rio, Mexico",MTorre
+"""been""","Progreso, Mexico",MTorre
+"""want""","Dubai, United Arab Emirates",MTorre
+"""been""","Jojutla, Mexico",MTorre
+"""been""","Pachuca, Mexico",MTorre
+"""been""","Vina del Mar, Chile",MTorre
+"""been""","Lacock, UK",MTorre
+"""want""","Beijing, China",MTorre
+"""been"",""fave""","Machu Picchu, Peru",MTorre
+"""been"",""fave""","Lima, Peru",MTorre
+"""been""","Hudson, NY, USA",MTorre
+"""been""","Meta, Italy",MTorre
+"""been""","Bergen, Norway",MTorre
+"""been""","Kabukicho, Japan",MTorre
+"""been""","Wilmington, NC, USA",MTorre
+"""been""","Puerto Nuevo, Mexico",MTorre
+"""been""","Guaiba, Brazil",MTorre
+"""want""","Ischia, Italy",MTorre
+"""been""","Bath, UK",MTorre
+"""been""","Namba, Japan",MTorre
+"""been""","Sedona, AZ, USA",MTorre
+"""want""","Bruges, Belgium",MTorre
+"""been""","Yotsuya, Japan",MTorre
+"""been""","Ruedesheim am Rhein, Germany",MTorre
+"""been""","Cuauhtemoc, Mexico",MTorre
+"""been""","Corpus Christi, TX, USA",MTorre
+"""want""","Athens, Greece",MTorre
+"""been""","Brownsville, TX, USA",MTorre
+"""been""","Hyde Park, NY, USA",MTorre
+"""been""","Kojimachi, Japan",MTorre
+"""been""","Leon, Mexico",MTorre
+"""been""","Santiago, Chile",MTorre
+"""been""","Guatemala City, Guatemala",MTorre
+"""been"",""fave""","Dotombori, Japan",MTorre
+"""been""","Puente de Ixtla, Mexico",MTorre
+"""been""","Tixkokob, Mexico",MTorre
+"""been""","Irapuato, Mexico",MTorre
+"""been""","Uayamon, Mexico",MTorre
+"""been""","Jamaica, NY, USA",MTorre
+"""been""","Izamal, Mexico",MTorre
+"""been""","Raleigh, NC, USA",MTorre
+"""been""","Porto Alegre, Brazil",MTorre
+"""been""","Boca del Rio, Mexico",MTorre
+"""been""","El Marques, Mexico",MTorre
+"""been""","Guadalajara, Mexico",MTorre
+"""been""","Colma, CA, USA",MTorre
+"""been""","Guanajuato, Mexico",MTorre
+"""been""","Segovia, Spain",MTorre
+"""been""","Barcelona, Spain",MTorre
+"""been""","Cusco, Peru",MTorre
+"""been""","Queretaro City, Mexico",MTorre
+"""been""","Kingston, NY, USA",MTorre
+"""been""","Rhinecliff, NY, USA",MTorre
+"""been"",""want""","Prague, Czech Republic",MTorre
+"""been""","Ciudad del Carmen, Mexico",MTorre
+"""been""","Rhinebeck, NY, USA",MTorre
+"""been""","Ruesselsheim, Germany",MTorre
+"""been""","Tuxtla Gutierrez, Mexico",MTorre
+"""been""","Zihuatanejo, Mexico",MTorre
+"""been""","Orlando, FL, USA",MTorre
+"""been""","Alpine, TX, USA",MTorre
+"""been""","Cuernavaca, Mexico",MTorre
+"""been""","Mazatlan, Mexico",MTorre
+"""been""","Puerto Vallarta, Mexico",MTorre
+"""been""","El Segundo, CA, USA",MTorre
+"""been""","Salto di Fondi, Italy",MTorre
+"""been""","Boca Raton, FL, USA",MTorre
+"""been""","Coyuca de Benitez, Mexico",MTorre
+"""been""","Acapulco, Mexico",MTorre
+"""been""","Copenhagen, Denmark",MTorre
+"""been""","Tierra Colorada, Mexico",MTorre
+"""been""","Toledo, Spain",MTorre
+"""been""","Barstow, CA, USA",MTorre
+"""been""","Orizaba, Mexico",MTorre
+"""been""","Chia, Colombia",MTorre
+"""been""","Jersey City, NJ, USA",MTorre
+"""been""","Puerto Escondido, Mexico",MTorre
+"""been""","Sperlonga, Italy",MTorre
+"""been""","Nuevo Laredo, Mexico",MTorre
+"""been""","Saltillo, Mexico",MTorre
+"""been""","Alpine, CA, USA",MTorre
+"""been""","Culiacan, Mexico",MTorre
+"""been""","Koto, Japan",MTorre
+"""been""","Monterrey, Mexico",MTorre
+"""been""","Tucson, AZ, USA",MTorre
+"""been""","Austin, TX, USA",MTorre
+"""been""","Mainz, Germany",MTorre
+"""been""","Coronado, CA, USA",MTorre
+"""been""","Koblenz, Germany",MTorre
+"""been""","Tijuana, Mexico",MTorre
+"""been""","Ota, Japan",MTorre
+"""been""","Todos Santos, Mexico",MTorre
+"""want""","Kuala Lumpur, Malaysia",MTorre
+"""been""","Santa Fe, NM, USA",MTorre
+"""been""","Dresden, Germany",MTorre
+"""been""","Malinalco, Mexico",MTorre
+"""been""","San Francisco, CA, USA",MTorre
+"""been""","San Antonio, TX, USA",MTorre
+"""been""","East Aurora, NY, USA",MTorre
+"""been""","Pochutla, Mexico",MTorre
+"""want""","Dublin, Ireland",MTorre
+"""been""","Loreto, Mexico",MTorre
+"""been""","Rosarito, Mexico",MTorre
+"""been""","San Felipe, Mexico",MTorre
+"""been""","Real de Catorce, Mexico",MTorre
+"""been""","Montblanc, Spain",MTorre
+"""been""","Ensenada, Mexico",MTorre
+"""been""","La Paz, Mexico",MTorre
+"""been""","Marfa, TX, USA",MTorre
+"""been""","Arlington, TX, USA",MTorre
+"""been"",""fave""","Amsterdam, The Netherlands",MTorre
+"""been""","Fiordo di Furore, Italy",MTorre
+"""been""","Chiyoda, Japan",MTorre
+"""been""","Chuo, Japan",MTorre
+"""been""","Burbank, CA, USA",MTorre
+"""been"",""fave""","Paris, France",MTorre
+"""been""","Cali, Colombia",MTorre
+"""been""","Kyoto, Japan",MTorre
+"""been""","Charleston, SC, USA",MTorre
+"""been""","Medellin, Colombia",MTorre
+"""been""","Osaka, Japan",MTorre
+"""been""","Milan, Italy",MTorre
+"""been""","Newark, NJ, USA",MTorre
+"""been""","Cabo Pulmo, Mexico",MTorre
+"""want""","Sydney, Australia",MTorre
+"""been""","Celaya, Mexico",MTorre
+"""been""","San Lorenzo de El Escorial, Spain",MTorre
+"""been""","Cuilapan, Mexico",MTorre
+"""want""","Vienna, Austria",MTorre
+"""been""","San Luis Potosi, Mexico",MTorre
+"""been""","Temixco, Mexico",MTorre
+"""been""","Terracina, Italy",MTorre
+"""been"",""fave""","Buenos Aires, Argentina",MTorre
+"""been""","Culver City, CA, USA",MTorre
+"""been""","Celestun, Mexico",MTorre
+"""been""","Shinjuku 3 Chome, Japan",MTorre
+"""been""","Bogota, Colombia",MTorre
+"""been""","Coslada, Spain",MTorre
+"""been""","Callao, Peru",MTorre
+"""been""","Seoul, South Korea",MTorre
+"""been""","Baltimore, MD, USA",MTorre
+"""been""","Albuquerque, NM, USA",MTorre
+"""been""","Ojai, CA, USA",MTorre
+"""been""","El Escorial, Spain",MTorre
+"""been""","Bacharach, Germany",MTorre
+"""been""","Cuautla, Mexico",MTorre
+"""been""","Miami Beach, FL, USA",MTorre
+"""been""","Cocoyoc, Mexico",MTorre
+"""been""","Miami, FL, USA",MTorre
+"""been""","Vossevangen, Norway",MTorre
+"""been""","Tres Marias, Mexico",MTorre
+"""been""","Anaheim, CA, USA",MTorre
+"""been""","Bernal, Mexico",MTorre
+"""been""","Yoyogi, Japan",MTorre
+"""been""","Camarillo, CA, USA",MTorre
+"""been""","Brooklyn, NY, USA",MTorre
+"""been""","Fredericksburg, VA, USA",MTorre
+"""been""","Toluca, Mexico",MTorre
+"""been""","Vacherie, LA, USA",MTorre
+"""been""","Castellammare Di Stabia, Italy",MTorre
+"""been""","Tlaquiltenango, Mexico",MTorre
+"""been"",""fave""","Oslo, Norway",MTorre
+"""been""","Temozon, Mexico",MTorre
+"""been""","Iguala, Mexico",MTorre
+"""been""","Fort Lauderdale, FL, USA",MTorre
+"""been""","Pie de la Cuesta, Mexico",MTorre
+"""been""","Zipolite, Mexico",MTorre
+"""been""","San Juan Capistrano, CA, USA",MTorre
+"""been""","Uruapan, Mexico",MTorre
+"""been""","San Luis Obispo, CA, USA",MTorre
+"""been""","Sayulita, Mexico",MTorre
+"""been""","Venice, Italy",MTorre
+"""been""","San Diego, CA, USA",MTorre
+"""been""","Denver, CO, USA",MTorre
+"""been""","Carlsbad, CA, USA",MTorre
+"""been"",""fave""","Madrid, Spain",MTorre
+"""been""","Lido di Ostia, Italy",MTorre
+"""been""","Ciudad Nezahualcoyotl, Mexico",MTorre
+"""been"",""fave""","Helsinki, Finland",MTorre
+"""been""","Charlottesville, VA, USA",MTorre
+"""been""","Alpuyeca, Mexico",MTorre
+"""been""","Yautepec, Mexico",MTorre
+"""been""","Los Barriles, Mexico",MTorre
+"""been""","Redondo Beach, CA, USA",MTorre
+"""been""","Vico Equense, Italy",MTorre
+"""been""","Ixtapa, Mexico",MTorre
+"""been""","Belo Horizonte, Brazil",MTorre
+"""been""","Fort Stockton, TX, USA",MTorre
+"""been""","Cambridge, MA, USA",MTorre
+"""been""","Oxnard, CA, USA",MTorre
+"""been""","Fort Worth, TX, USA",MTorre
+"""been""","Torre Del Greco, Italy",MTorre
+"""been"",""fave""","New York City, NY, USA",MTorre
+"""been""","Brumadinho, Brazil",MTorre
+"""been""","Del Mar, CA, USA",MTorre
+"""been""","Volterra, Italy",MTorre
+"""been""","West Hollywood, CA, USA",MTorre
+"""been""","San Miguel de Allende, Mexico",MTorre
+"""been""","Fredericksburg, TX, USA",MTorre
+"""been""","Chilpancingo de los Bravo, Mexico",MTorre
+"""been""","Los Mochis, Mexico",MTorre
+"""been""","Flam, Norway",MTorre
+"""been""","Catavina, Mexico",MTorre
+"""been""","El Paso, TX, USA",MTorre
+"""been""","Ventura, CA, USA",MTorre
+"""been""","Montserrat, Spain",MTorre
+"""been""","Sitges, Spain",MTorre
+"""want""","Valencia, Spain",MTorre
+"""want""","Marrakech, Morocco",MTorre
+"""want""","Istanbul, Turkey",MTorre
+"""been""","Paganico, Italy",MTorre
+"""been""","Fiumicino, Italy",MTorre
+"""been""","Mariana, Brazil",MTorre
+"""been"",""fave""","Himeji, Japan",MTorre
+"""been""","Ouro Preto, Brazil",MTorre
+"""been""","Ostia Antica, Italy",MTorre
+"""been""","Santa Barbara, CA, USA",MTorre
+"""been""","Nara, Japan",MTorre
+"""been"",""want"",""fave""","Positano, Italy",MTorre
+"""been""","Tehuacan, Mexico",MTorre
+"""been""","Buffalo, NY, USA",MTorre
+"""been""","Metepec, Mexico",MTorre
+"""been""","Houston, TX, USA",MTorre
+"""been""","Cascais, Portugal",MTorre
+"""been""","Flagstaff, AZ, USA",MTorre
+"""been""","Florence, Italy",MTorre
+"""been"",""fave""","Lisbon, Portugal",MTorre
+"""been""","San Ysidro, CA, USA",MTorre
+"""been""","Beverly Hills, CA, USA",MTorre
+"""been""","Ensenada Blanca, Mexico",MTorre
+"""been""","Antigua, Guatemala",MTorre
+"""been""","Pimonte, Italy",MTorre
+"""been""","Castelldefels, Spain",MTorre
+"""been""","Dallas, TX, USA",MTorre
+"""been""","Palos Verdes Estates, CA, USA",MTorre
+"""been""","Texcoco, Mexico",MTorre
+"""been""","Shibuya, Japan",MTorre
+"""been""","Kamakura, Japan",MTorre
+"""been""","Shinjuku, Japan",MTorre
+"""been""","Oshiage, Japan",MTorre
+"""been""","Ercolano, Italy",MTorre
+"""been""","Taito, Japan",MTorre
+"""been""","New Orleans, LA, USA",MTorre
+"""been""","Laredo, TX, USA",MTorre
+"""been""","Coimbra, Portugal",MTorre
+"""been"",""want""","Tokyo, Japan",MTorre
+"""want""","Singapore, Singapore",MTorre
+"""been""","Puerto Morelos, Mexico",MTorre
+"""been""","Boston, MA, USA",MTorre
+"""been""","Dessau, Germany",MTorre

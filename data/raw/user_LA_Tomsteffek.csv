@@ -1,0 +1,434 @@
+tag,place,user
+"""been""","Sleepy Hollow, NY, USA",Tomsteffek
+"""been""","Chandler, AZ, USA",Tomsteffek
+"""been""","Tupelo, MS, USA",Tomsteffek
+"""been""","Portsmouth, NH, USA",Tomsteffek
+"""been"",""want""","Custer, SD, USA",Tomsteffek
+"""been""","Plains, GA, USA",Tomsteffek
+"""been""","Boston, MA, USA",Tomsteffek
+"""been""","Asheville, NC, USA",Tomsteffek
+"""been""","Vicksburg, MS, USA",Tomsteffek
+"""been""","New Orleans, LA, USA",Tomsteffek
+"""been""","Rochester, NY, USA",Tomsteffek
+"""been""","Cincinnati, OH, USA",Tomsteffek
+"""been""","Titusville, FL, USA",Tomsteffek
+"""been""","Kahului, HI, USA",Tomsteffek
+"""been""","West Hollywood, CA, USA",Tomsteffek
+"""been""","Key Largo, FL, USA",Tomsteffek
+"""been""","Williamsburg, VA, USA",Tomsteffek
+"""been""","Tukwila, WA, USA",Tomsteffek
+"""been""","Bismarck, ND, USA",Tomsteffek
+"""been""","Champaign, IL, USA",Tomsteffek
+"""been""","Winchester, VA, USA",Tomsteffek
+"""been""","Navarre, FL, USA",Tomsteffek
+"""been""","Marathon, FL, USA",Tomsteffek
+"""been""","Fort Lauderdale, FL, USA",Tomsteffek
+"""been""","Key West, FL, USA",Tomsteffek
+"""been""","Florida City, FL, USA",Tomsteffek
+"""been""","Ocean City, NJ, USA",Tomsteffek
+"""been""","Homestead, FL, USA",Tomsteffek
+"""been""","Hood River, OR, USA",Tomsteffek
+"""been""","Hot Springs, AR, USA",Tomsteffek
+"""been""","Cortez, CO, USA",Tomsteffek
+"""been""","Big Bend National Park, TX, USA",Tomsteffek
+"""been""","Medora, ND, USA",Tomsteffek
+"""been""","Honolulu, HI, USA",Tomsteffek
+"""been""","Fort Pierce, FL, USA",Tomsteffek
+"""been""","Fort Walton Beach, FL, USA",Tomsteffek
+"""been""","Fort Myers Beach, FL, USA",Tomsteffek
+"""been""","Kissimmee, FL, USA",Tomsteffek
+"""been""","Carlsbad, CA, USA",Tomsteffek
+"""been""","Houston, TX, USA",Tomsteffek
+"""been""","Fort Myers, FL, USA",Tomsteffek
+"""been""","San Jose, CA, USA",Tomsteffek
+"""been""","Carmel, CA, USA",Tomsteffek
+"""been""","Wailea, HI, USA",Tomsteffek
+"""been""","San Luis Obispo, CA, USA",Tomsteffek
+"""want""","Denver, CO, USA",Tomsteffek
+"""want""","Cape Canaveral, FL, USA",Tomsteffek
+"""been""","Packwood, WA, USA",Tomsteffek
+"""been""","St. Augustine, FL, USA",Tomsteffek
+"""been""","Kerby, OR, USA",Tomsteffek
+"""been""","Seabrook, NH, USA",Tomsteffek
+"""been""","Branson, MO, USA",Tomsteffek
+"""been""","Klamath Falls, OR, USA",Tomsteffek
+"""been""","Corvallis, OR, USA",Tomsteffek
+"""been""","El Paso, TX, USA",Tomsteffek
+"""been""","Ventura, CA, USA",Tomsteffek
+"""been""","Little Rock, AR, USA",Tomsteffek
+"""been""","Wisconsin Dells, WI, USA",Tomsteffek
+"""been""","Springfield, IL, USA",Tomsteffek
+"""been""","South Glens Falls, NY, USA",Tomsteffek
+"""been""","Cedar City, UT, USA",Tomsteffek
+"""been""","Lincoln City, IN, USA",Tomsteffek
+"""been""","Gloucester City, NJ, USA",Tomsteffek
+"""been""","Kailua, HI, USA",Tomsteffek
+"""been""","Green River, UT, USA",Tomsteffek
+"""been""","Mammoth Cave, KY, USA",Tomsteffek
+"""been""","Tahoe City, CA, USA",Tomsteffek
+"""been""","Richmond, VA, USA",Tomsteffek
+"""been""","Cambridge, MA, USA",Tomsteffek
+"""been""","Plymouth, VT, USA",Tomsteffek
+"""been""","Schaumburg, IL, USA",Tomsteffek
+"""been""","San Simeon, CA, USA",Tomsteffek
+"""been""","Valdosta, GA, USA",Tomsteffek
+"""been""","Cedar Key, FL, USA",Tomsteffek
+"""been""","Cherry Hill, NJ, USA",Tomsteffek
+"""been""","Plattsburgh, NY, USA",Tomsteffek
+"""been"",""want""","Niagara Falls, Ontario, Canada",Tomsteffek
+"""been""","Paris, France",Tomsteffek
+"""been""","Seattle, WA, USA",Tomsteffek
+"""been""","Yellowstone National Park, WY, USA",Tomsteffek
+"""been""","Torrey, UT, USA",Tomsteffek
+"""been""","Stanton, ND, USA",Tomsteffek
+"""been""","Lahaina, HI, USA",Tomsteffek
+"""been""","Chinle, AZ, USA",Tomsteffek
+"""been""","Lusk, WY, USA",Tomsteffek
+"""want""","Kennesaw, GA, USA",Tomsteffek
+"""been""","Mineral, CA, USA",Tomsteffek
+"""been""","Tulelake, CA, USA",Tomsteffek
+"""been""","New York City, NY, USA",Tomsteffek
+"""been""","Boulder City, NV, USA",Tomsteffek
+"""been""","Charlottesville, VA, USA",Tomsteffek
+"""been""","Santa Barbara, CA, USA",Tomsteffek
+"""been""","Carlsbad, NM, USA",Tomsteffek
+"""been""","Alhambra, CA, USA",Tomsteffek
+"""been""","Lakeland, FL, USA",Tomsteffek
+"""been""","Franklin, TN, USA",Tomsteffek
+"""been""","Santa Cruz, CA, USA",Tomsteffek
+"""been""","Williamstown, WV, USA",Tomsteffek
+"""been""","Warm Springs, GA, USA",Tomsteffek
+"""been""","Sharonville, OH, USA",Tomsteffek
+"""been""","Sparks, NV, USA",Tomsteffek
+"""been""","West Yellowstone, MT, USA",Tomsteffek
+"""been""","Tunica, MS, USA",Tomsteffek
+"""been""","Hackettstown, NJ, USA",Tomsteffek
+"""been""","Santa Rosa, CA, USA",Tomsteffek
+"""been""","Hurricane, UT, USA",Tomsteffek
+"""been""","Philadelphia, PA, USA",Tomsteffek
+"""been""","Forks, WA, USA",Tomsteffek
+"""been""","London, UK",Tomsteffek
+"""been""","Jensen, UT, USA",Tomsteffek
+"""been""","Lewes, DE, USA",Tomsteffek
+"""been""","McMinnville, OR, USA",Tomsteffek
+"""been""","South Bend, IN, USA",Tomsteffek
+"""been""","King of Prussia, PA, USA",Tomsteffek
+"""been""","Lincoln City, OR, USA",Tomsteffek
+"""been""","Atlanta, GA, USA",Tomsteffek
+"""been""","Fruita, CO, USA",Tomsteffek
+"""been""","Woodstock, VT, USA",Tomsteffek
+"""been""","Dayton, OH, USA",Tomsteffek
+"""been""","Bedford, VA, USA",Tomsteffek
+"""been""","Sausalito, CA, USA",Tomsteffek
+"""want""","Portland, ME, USA",Tomsteffek
+"""been""","Memphis, TN, USA",Tomsteffek
+"""been""","Miamisburg, OH, USA",Tomsteffek
+"""been"",""want""","Avon, CO, USA",Tomsteffek
+"""been""","Saratoga Springs, NY, USA",Tomsteffek
+"""been""","Burlington, WA, USA",Tomsteffek
+"""been""","Diamondville, WY, USA",Tomsteffek
+"""been""","New Castle, DE, USA",Tomsteffek
+"""been""","Eugene, OR, USA",Tomsteffek
+"""been""","Newport News, VA, USA",Tomsteffek
+"""been""","Rehoboth Beach, DE, USA",Tomsteffek
+"""been""","Michigan City, IN, USA",Tomsteffek
+"""been""","Medford, OR, USA",Tomsteffek
+"""want""","Fargo, ND, USA",Tomsteffek
+"""been""","Cuba, NM, USA",Tomsteffek
+"""been""","Hershey, PA, USA",Tomsteffek
+"""been""","Gettysburg, PA, USA",Tomsteffek
+"""been""","Morgantown, WV, USA",Tomsteffek
+"""been""","Katy, TX, USA",Tomsteffek
+"""been""","Vernal, UT, USA",Tomsteffek
+"""been""","Kemah, TX, USA",Tomsteffek
+"""been""","La Verkin, UT, USA",Tomsteffek
+"""been""","Milwaukie, OR, USA",Tomsteffek
+"""been""","Mentor, OH, USA",Tomsteffek
+"""been""","Wilmington, DE, USA",Tomsteffek
+"""been""","Wilmington, NC, USA",Tomsteffek
+"""been""","Vancouver, British Columbia, Canada",Tomsteffek
+"""been""","Victoria, British Columbia, Canada",Tomsteffek
+"""been""","Green River, WY, USA",Tomsteffek
+"""been""","Virginia Beach, VA, USA",Tomsteffek
+"""been""","Jekyll Island, GA, USA",Tomsteffek
+"""been""","San Ignacio, Belize",Tomsteffek
+"""been""","Abilene, KS, USA",Tomsteffek
+"""been""","Lancaster, PA, USA",Tomsteffek
+"""been""","Placencia, Belize",Tomsteffek
+"""been""","Beaverton, OR, USA",Tomsteffek
+"""been""","Billings, MT, USA",Tomsteffek
+"""been""","Farmington, NM, USA",Tomsteffek
+"""been""","Hendersonville, NC, USA",Tomsteffek
+"""been""","Norfolk, VA, USA",Tomsteffek
+"""been""","Kingsland, GA, USA",Tomsteffek
+"""been""","Hilo, HI, USA",Tomsteffek
+"""been""","Stone Mountain, GA, USA",Tomsteffek
+"""been""","Annapolis, MD, USA",Tomsteffek
+"""been""","Newport, OR, USA",Tomsteffek
+"""been""","Alamosa, CO, USA",Tomsteffek
+"""been""","Skowhegan, ME, USA",Tomsteffek
+"""been""","Boca Raton, FL, USA",Tomsteffek
+"""been""","Brookings, OR, USA",Tomsteffek
+"""been""","Jackson, WY, USA",Tomsteffek
+"""been""","Spearfish, SD, USA",Tomsteffek
+"""been""","Gold Beach, OR, USA",Tomsteffek
+"""been""","Government Camp, OR, USA",Tomsteffek
+"""been""","Gallup, NM, USA",Tomsteffek
+"""been""","Monument Valley, UT, USA",Tomsteffek
+"""been""","Monticello, UT, USA",Tomsteffek
+"""been""","South Portland, ME, USA",Tomsteffek
+"""been""","San Pedro, Belize",Tomsteffek
+"""been""","Pine Mountain, GA, USA",Tomsteffek
+"""been""","Grants Pass, OR, USA",Tomsteffek
+"""been"",""want""","Belize City, Belize",Tomsteffek
+"""been""","Somerset, PA, USA",Tomsteffek
+"""been""","Fairfield, OH, USA",Tomsteffek
+"""been""","Chattanooga, TN, USA",Tomsteffek
+"""been""","Duncansville, PA, USA",Tomsteffek
+"""been""","Lake Placid, NY, USA",Tomsteffek
+"""been""","Hattiesburg, MS, USA",Tomsteffek
+"""been""","Shreveport, LA, USA",Tomsteffek
+"""been""","Arcata, CA, USA",Tomsteffek
+"""been""","Springdale, UT, USA",Tomsteffek
+"""been""","Gulfport, MS, USA",Tomsteffek
+"""been""","Huntsville, AL, USA",Tomsteffek
+"""been"",""want""","Niagara Falls, NY, USA",Tomsteffek
+"""been""","Oklahoma City, OK, USA",Tomsteffek
+"""been""","Metairie, LA, USA",Tomsteffek
+"""been""","Slidell, LA, USA",Tomsteffek
+"""been""","Cannon Beach, OR, USA",Tomsteffek
+"""been""","Hudson, OH, USA",Tomsteffek
+"""been""","Kill Devil Hills, NC, USA",Tomsteffek
+"""been""","Plymouth, MA, USA",Tomsteffek
+"""been""","Jackson, MS, USA",Tomsteffek
+"""been""","Americus, GA, USA",Tomsteffek
+"""been""","Bemidji, MN, USA",Tomsteffek
+"""been""","Fort Washington, PA, USA",Tomsteffek
+"""been""","Edmond, OK, USA",Tomsteffek
+"""been""","New Buffalo, MI, USA",Tomsteffek
+"""been""","Hammond, LA, USA",Tomsteffek
+"""been""","Springfield, MO, USA",Tomsteffek
+"""want""","Kitty Hawk, NC, USA",Tomsteffek
+"""been""","Redding, CA, USA",Tomsteffek
+"""been""","Nags Head, NC, USA",Tomsteffek
+"""been""","White Mills, PA, USA",Tomsteffek
+"""been""","Tulsa, OK, USA",Tomsteffek
+"""been""","Collierville, TN, USA",Tomsteffek
+"""been""","Harrisburg, PA, USA",Tomsteffek
+"""been""","Bird in Hand, PA, USA",Tomsteffek
+"""been""","Redwood City, CA, USA",Tomsteffek
+"""been""","Terrace Bay, Ontario, Canada",Tomsteffek
+"""been""","Big Water, UT, USA",Tomsteffek
+"""been""","Concord, NC, USA",Tomsteffek
+"""been""","Palm Springs, CA, USA",Tomsteffek
+"""been""","Palm Desert, CA, USA",Tomsteffek
+"""been""","Ctineves, Czech Republic",Tomsteffek
+"""been""","Stoystown, PA, USA",Tomsteffek
+"""been""","Strasburg, PA, USA",Tomsteffek
+"""been""","Montauk, NY, USA",Tomsteffek
+"""been""","Dallas, TX, USA",Tomsteffek
+"""been""","Monterey, CA, USA",Tomsteffek
+"""been""","Montego Bay, Jamaica",Tomsteffek
+"""been""","Pasadena, CA, USA",Tomsteffek
+"""been""","Williams, AZ, USA",Tomsteffek
+"""been""","Kenner, LA, USA",Tomsteffek
+"""been"",""want""","Mackinaw City, MI, USA",Tomsteffek
+"""been""","Mackinac Island, MI, USA",Tomsteffek
+"""been""","Carson City, NV, USA",Tomsteffek
+"""been""","Eckerty, IN, USA",Tomsteffek
+"""been""","Big Sur, CA, USA",Tomsteffek
+"""been"",""want""","Rapid City, SD, USA",Tomsteffek
+"""been""","Winslow, AZ, USA",Tomsteffek
+"""been""","Long Island City, NY, USA",Tomsteffek
+"""been""","South Lake Tahoe, CA, USA",Tomsteffek
+"""been""","Laurel, MD, USA",Tomsteffek
+"""been""","Chalk Hill, PA, USA",Tomsteffek
+"""been""","Huntington Beach, CA, USA",Tomsteffek
+"""been""","Mystic, CT, USA",Tomsteffek
+"""been""","Branford, CT, USA",Tomsteffek
+"""been""","Canton, OH, USA",Tomsteffek
+"""been""","Parker, AZ, USA",Tomsteffek
+"""been""","Bryce, UT, USA",Tomsteffek
+"""been""","Chandler, OK, USA",Tomsteffek
+"""been""","Lafayette, LA, USA",Tomsteffek
+"""been""","Baton Rouge, LA, USA",Tomsteffek
+"""been""","Sault Ste. Marie, MI, USA",Tomsteffek
+"""been""","Lake Charles, LA, USA",Tomsteffek
+"""been""","Alexandria, VA, USA",Tomsteffek
+"""been""","Phoenix, AZ, USA",Tomsteffek
+"""been""","Cartersville, GA, USA",Tomsteffek
+"""been""","Pittsburgh, PA, USA",Tomsteffek
+"""been""","Needles, CA, USA",Tomsteffek
+"""been""","Saint Charles, MO, USA",Tomsteffek
+"""been""","Bethesda, MD, USA",Tomsteffek
+"""been""","Las Vegas, NV, USA",Tomsteffek
+"""been""","Los Angeles, CA, USA",Tomsteffek
+"""been""","Pismo Beach, CA, USA",Tomsteffek
+"""been""","Galveston, TX, USA",Tomsteffek
+"""been""","Bentonville, AR, USA",Tomsteffek
+"""been""","Saint Louis, MO, USA",Tomsteffek
+"""been""","Chicago, IL, USA",Tomsteffek
+"""been""","Bossier City, LA, USA",Tomsteffek
+"""been""","Kabetogama, MN, USA",Tomsteffek
+"""been""","Chincoteague Island, VA, USA",Tomsteffek
+"""been""","Saint Augustine Beach, FL, USA",Tomsteffek
+"""been""","Arlington, VA, USA",Tomsteffek
+"""been""","Terlingua, TX, USA",Tomsteffek
+"""been""","Deadwood, SD, USA",Tomsteffek
+"""been""","Kansas City, MO, USA",Tomsteffek
+"""been""","Kalamazoo, MI, USA",Tomsteffek
+"""been""","Joplin, MO, USA",Tomsteffek
+"""want""","Minneapolis, MN, USA",Tomsteffek
+"""been""","Biloxi, MS, USA",Tomsteffek
+"""been""","Escalante, UT, USA",Tomsteffek
+"""been""","Fayetteville, AR, USA",Tomsteffek
+"""been""","Portland, OR, USA",Tomsteffek
+"""been""","Sandestin, FL, USA",Tomsteffek
+"""been""","Aberdeen, WA, USA",Tomsteffek
+"""been""","Malibu, CA, USA",Tomsteffek
+"""been""","Black Canyon Of The Gunnison National Park, CO, USA",Tomsteffek
+"""been""","Reno, NV, USA",Tomsteffek
+"""been""","Bryce Canyon National Park, UT, USA",Tomsteffek
+"""been""","Ardsley, NY, USA",Tomsteffek
+"""been""","Arches National Park, UT, USA",Tomsteffek
+"""been""","Washington DC, DC, USA",Tomsteffek
+"""been""","Hudson, NY, USA",Tomsteffek
+"""been""","Scottsdale, AZ, USA",Tomsteffek
+"""been""","Sedona, AZ, USA",Tomsteffek
+"""been""","Salem, OR, USA",Tomsteffek
+"""been""","Steamboat Springs, CO, USA",Tomsteffek
+"""been""","Savannah, TN, USA",Tomsteffek
+"""been""","Seaside, FL, USA",Tomsteffek
+"""been""","Mount Pleasant, SC, USA",Tomsteffek
+"""been"",""want""","Manitou Springs, CO, USA",Tomsteffek
+"""been""","Allentown, PA, USA",Tomsteffek
+"""been""","Winthrop, WA, USA",Tomsteffek
+"""been"",""want""","Myrtle Beach, SC, USA",Tomsteffek
+"""been""","Bentonville, VA, USA",Tomsteffek
+"""been""","Glacier National Park, MT, USA",Tomsteffek
+"""been""","Crater Lake National Park, OR, USA",Tomsteffek
+"""want""","Dearborn, MI, USA",Tomsteffek
+"""been""","Grand Rapids, MI, USA",Tomsteffek
+"""been""","Huntington Station, NY, USA",Tomsteffek
+"""been""","Thornton, CO, USA",Tomsteffek
+"""been""","Siesta Key, FL, USA",Tomsteffek
+"""been""","Orlando, FL, USA",Tomsteffek
+"""been""","Canyonlands National Park, UT, USA",Tomsteffek
+"""been""","Parksville, British Columbia, Canada",Tomsteffek
+"""been""","Fort Collins, CO, USA",Tomsteffek
+"""been""","Seabrook, TX, USA",Tomsteffek
+"""been""","Astoria, OR, USA",Tomsteffek
+"""been""","Ajo, AZ, USA",Tomsteffek
+"""been""","Lake Ozark, MO, USA",Tomsteffek
+"""been""","Salt Lake City, UT, USA",Tomsteffek
+"""been""","Ocean City, MD, USA",Tomsteffek
+"""been""","Hyde Park, NY, USA",Tomsteffek
+"""been""","Port Angeles, WA, USA",Tomsteffek
+"""been""","Superior, AZ, USA",Tomsteffek
+"""been""","North Charleston, SC, USA",Tomsteffek
+"""been""","Jacob Lake, AZ, USA",Tomsteffek
+"""been""","Half Moon Bay, CA, USA",Tomsteffek
+"""been""","Kingman, AZ, USA",Tomsteffek
+"""been""","Sequim, WA, USA",Tomsteffek
+"""been""","Montrose, CO, USA",Tomsteffek
+"""been""","Beaufort, SC, USA",Tomsteffek
+"""been""","Amarillo, TX, USA",Tomsteffek
+"""been""","Nashville, TN, USA",Tomsteffek
+"""want""","Vail, CO, USA",Tomsteffek
+"""been""","Jamaica, NY, USA",Tomsteffek
+"""been""","Natchez, MS, USA",Tomsteffek
+"""been""","Trenton, NJ, USA",Tomsteffek
+"""been""","Hanford, CA, USA",Tomsteffek
+"""been""","Seaside, OR, USA",Tomsteffek
+"""been""","Tombstone, AZ, USA",Tomsteffek
+"""been""","Stuart, FL, USA",Tomsteffek
+"""been""","Palm Coast, FL, USA",Tomsteffek
+"""been""","Mount Vernon, VA, USA",Tomsteffek
+"""been""","Front Royal, VA, USA",Tomsteffek
+"""been""","Boulder, CO, USA",Tomsteffek
+"""been""","Zion National Park, UT, USA",Tomsteffek
+"""been""","Hodgenville, KY, USA",Tomsteffek
+"""been""","Bar Harbor, ME, USA",Tomsteffek
+"""been""","Brooklyn, NY, USA",Tomsteffek
+"""been""","Oyster Bay, NY, USA",Tomsteffek
+"""been""","Fort Edward, NY, USA",Tomsteffek
+"""been""","Estes Park, CO, USA",Tomsteffek
+"""been""","Shenandoah National Park, VA, USA",Tomsteffek
+"""been""","Fredericksburg, VA, USA",Tomsteffek
+"""been""","Kemmerer, WY, USA",Tomsteffek
+"""been""","Duluth, MN, USA",Tomsteffek
+"""been""","Vancouver, WA, USA",Tomsteffek
+"""been""","Tusayan, AZ, USA",Tomsteffek
+"""been""","Tucson, AZ, USA",Tomsteffek
+"""been""","Grand Junction, CO, USA",Tomsteffek
+"""been""","Panama City, FL, USA",Tomsteffek
+"""been""","Marble Canyon, AZ, USA",Tomsteffek
+"""been""","Jackson, TN, USA",Tomsteffek
+"""been""","Tillamook, OR, USA",Tomsteffek
+"""been""","Tuba City, AZ, USA",Tomsteffek
+"""want""","Spokane, WA, USA",Tomsteffek
+"""been""","Panama City Beach, FL, USA",Tomsteffek
+"""been""","Jersey City, NJ, USA",Tomsteffek
+"""been""","Fort Smith, AR, USA",Tomsteffek
+"""been"",""want""","Savannah, GA, USA",Tomsteffek
+"""been""","Albuquerque, NM, USA",Tomsteffek
+"""been""","Baltimore, MD, USA",Tomsteffek
+"""been""","Canon City, CO, USA",Tomsteffek
+"""want""","Quebec City, Quebec, Canada",Tomsteffek
+"""been""","Austin, TX, USA",Tomsteffek
+"""been""","Pensacola, FL, USA",Tomsteffek
+"""been""","Montreal, Quebec, Canada",Tomsteffek
+"""been""","Pagosa Springs, CO, USA",Tomsteffek
+"""been""","Perdido Key, FL, USA",Tomsteffek
+"""been""","Mesa, AZ, USA",Tomsteffek
+"""been""","Sonoma, CA, USA",Tomsteffek
+"""been""","Miami, FL, USA",Tomsteffek
+"""been""","Hollister, CA, USA",Tomsteffek
+"""been""","Merritt Island, FL, USA",Tomsteffek
+"""been""","Coulterville, CA, USA",Tomsteffek
+"""been""","Belvidere, NJ, USA",Tomsteffek
+"""been""","Volcano, HI, USA",Tomsteffek
+"""been""","Independence, MO, USA",Tomsteffek
+"""been""","Interior, SD, USA",Tomsteffek
+"""been"",""want""","Toronto, Ontario, Canada",Tomsteffek
+"""been""","Moab, UT, USA",Tomsteffek
+"""been""","Thunder Bay, Ontario, Canada",Tomsteffek
+"""been""","Luray, VA, USA",Tomsteffek
+"""been""","Harpers Ferry, WV, USA",Tomsteffek
+"""been""","Shiloh, TN, USA",Tomsteffek
+"""been""","Appomattox, VA, USA",Tomsteffek
+"""been""","Three Rivers, CA, USA",Tomsteffek
+"""been""","Gatlinburg, TN, USA",Tomsteffek
+"""been""","Flagstaff, AZ, USA",Tomsteffek
+"""been""","Olympia, WA, USA",Tomsteffek
+"""want""","Tacoma, WA, USA",Tomsteffek
+"""been""","Murfreesboro, TN, USA",Tomsteffek
+"""been""","Charleston, SC, USA",Tomsteffek
+"""been""","Burlington, VT, USA",Tomsteffek
+"""been""","Marshall, TX, USA",Tomsteffek
+"""been""","Cape Charles, VA, USA",Tomsteffek
+"""been""","Grand Canyon National Park, AZ, USA",Tomsteffek
+"""been""","South San Francisco, CA, USA",Tomsteffek
+"""been""","Grand Teton National Park, WY, USA",Tomsteffek
+"""been""","Lambertville, NJ, USA",Tomsteffek
+"""been""","Mammoth Cave National Park, KY, USA",Tomsteffek
+"""been""","Newark, NJ, USA",Tomsteffek
+"""been""","Mount Rainier National Park, WA, USA",Tomsteffek
+"""been""","Andersonville, GA, USA",Tomsteffek
+"""been"",""want""","Santa Fe, NM, USA",Tomsteffek
+"""been""","San Francisco, CA, USA",Tomsteffek
+"""been""","Page, AZ, USA",Tomsteffek
+"""been""","San Antonio, TX, USA",Tomsteffek
+"""want""","Cooperstown, NY, USA",Tomsteffek
+"""been""","Saint Mary, MT, USA",Tomsteffek
+"""been""","Salem, MA, USA",Tomsteffek
+"""been""","North Bergen, NJ, USA",Tomsteffek
+"""been""","Giverny, France",Tomsteffek
+"""been""","Belfield, ND, USA",Tomsteffek
+"""been""","Sault Ste. Marie, Ontario, Canada",Tomsteffek
+"""been""","Rosemont, IL, USA",Tomsteffek
+"""been"",""want""","Colorado Springs, CO, USA",Tomsteffek
+"""want""","Everglades City, FL, USA",Tomsteffek
+"""been""","Knoxville, TN, USA",Tomsteffek
+"""been""","Bakersfield, CA, USA",Tomsteffek
+"""been""","Brockville, Ontario, Canada",Tomsteffek

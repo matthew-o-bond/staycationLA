@@ -1,0 +1,608 @@
+tag,place,user
+"""been""","Oia, Greece",CharlieSGA
+"""been""","Nova Petropolis, Brazil",CharlieSGA
+"""been""","Fira, Greece",CharlieSGA
+"""been""","Nevsehir, Turkey",CharlieSGA
+"""been""","Cozumel, Mexico",CharlieSGA
+"""been""","Cancun, Mexico",CharlieSGA
+"""been""","Lisbon, Portugal",CharlieSGA
+"""been""","Goreme, Turkey",CharlieSGA
+"""been""","Chichen Itza, Mexico",CharlieSGA
+"""been""","Papeete, French Polynesia",CharlieSGA
+"""been""","Procchio, Italy",CharlieSGA
+"""been""","Lucerne, Switzerland",CharlieSGA
+"""been""","Mount Rainier National Park, WA, USA",CharlieSGA
+"""been""","Lassen Volcanic National Park, CA, USA",CharlieSGA
+"""been""","Frederiksted, U.S. Virgin Islands",CharlieSGA
+"""been""","Christiansted, U.S. Virgin Islands",CharlieSGA
+"""been""","Salvador, Brazil",CharlieSGA
+"""been""","Ljubljana, Slovenia",CharlieSGA
+"""been""","Charlotte Amalie, U.S. Virgin Islands",CharlieSGA
+"""been""","Arromanches-les-Bains, France",CharlieSGA
+"""been""","Lithonia, GA, USA",CharlieSGA
+"""been""","Tain-l'Hermitage, France",CharlieSGA
+"""been""","Bozeman, MT, USA",CharlieSGA
+"""been""","Pamukkale, Turkey",CharlieSGA
+"""been""","Tipton, PA, USA",CharlieSGA
+"""been""","Portoferraio, Italy",CharlieSGA
+"""been""","LaGrange, GA, USA",CharlieSGA
+"""been""","Suwanee, GA, USA",CharlieSGA
+"""been""","Hawaii Volcanoes National Park, HI, USA",CharlieSGA
+"""been""","Crooked Island, Bahamas",CharlieSGA
+"""been""","Big Pine Key, FL, USA",CharlieSGA
+"""been""","Budapest, Hungary",CharlieSGA
+"""been""","San Ramon, Peru",CharlieSGA
+"""been""","Hong Kong, China",CharlieSGA
+"""been""","Zagreb, Croatia",CharlieSGA
+"""been""","Beijing, China",CharlieSGA
+"""been""","Nadi, Fiji",CharlieSGA
+"""been""","Elba Island, Italy",CharlieSGA
+"""been""","Death Valley National Park, CA, USA",CharlieSGA
+"""been""","Crater Lake National Park, OR, USA",CharlieSGA
+"""been""","Wengen, Switzerland",CharlieSGA
+"""been""","Everglades National Park, FL, USA",CharlieSGA
+"""been""","Interlaken, Switzerland",CharlieSGA
+"""been""","Grand Teton National Park, WY, USA",CharlieSGA
+"""been""","Glacier Bay National Park and Preserve, AK, USA",CharlieSGA
+"""been""","Grand Canyon National Park, AZ, USA",CharlieSGA
+"""been""","Bryce Canyon National Park, UT, USA",CharlieSGA
+"""been""","Porto, Portugal",CharlieSGA
+"""been""","Bouillante, Guadeloupe",CharlieSGA
+"""been""","Stratford, Australia",CharlieSGA
+"""been""","Aguas Calientes, Peru",CharlieSGA
+"""been""","Canela, Brazil",CharlieSGA
+"""been""","Antigua, Guatemala",CharlieSGA
+"""been""","Flores, Guatemala",CharlieSGA
+"""been""","Mayaguez, Puerto Rico",CharlieSGA
+"""been""","San Juan, Puerto Rico",CharlieSGA
+"""been""","Martinique, Caribbean",CharlieSGA
+"""been""","Davie, FL, USA",CharlieSGA
+"""been""","Isla de Vieques, Puerto Rico",CharlieSGA
+"""been""","Hollywood, FL, USA",CharlieSGA
+"""been""","Recife, Brazil",CharlieSGA
+"""been""","Daytona Beach, FL, USA",CharlieSGA
+"""been""","Tarma, Peru",CharlieSGA
+"""been""","Kasane, Botswana",CharlieSGA
+"""been""","Louisville, KY, USA",CharlieSGA
+"""been""","Glyfada, Greece",CharlieSGA
+"""been""","Mahe Island, Seychelles",CharlieSGA
+"""been""","Pushkin, Russia",CharlieSGA
+"""been""","Todi, Italy",CharlieSGA
+"""been""","Dubrovnik, Croatia",CharlieSGA
+"""been""","Giverny, France",CharlieSGA
+"""been""","Washington DC, DC, USA",CharlieSGA
+"""been""","Hershey, PA, USA",CharlieSGA
+"""been""","Mangonui, New Zealand",CharlieSGA
+"""been""","Ocho Rios, Jamaica",CharlieSGA
+"""been""","San Miguel de Allende, Mexico",CharlieSGA
+"""been""","Montego Bay, Jamaica",CharlieSGA
+"""been""","Staniel Cay, Bahamas",CharlieSGA
+"""been""","San Salvador, Bahamas",CharlieSGA
+"""been""","Caen, France",CharlieSGA
+"""been""","Negril, Jamaica",CharlieSGA
+"""been""","Woodbine, GA, USA",CharlieSGA
+"""been""","Dania Beach, FL, USA",CharlieSGA
+"""been""","Virginia Beach, VA, USA",CharlieSGA
+"""been""","Jacuma, Brazil",CharlieSGA
+"""been""","Belfast, ME, USA",CharlieSGA
+"""been""","Gettysburg, PA, USA",CharlieSGA
+"""been""","Ellsworth, ME, USA",CharlieSGA
+"""been""","Saint-Claude, Guadeloupe",CharlieSGA
+"""been""","Bangor, ME, USA",CharlieSGA
+"""been""","Vers-Pont-du-Gard, France",CharlieSGA
+"""been""","Bartolome, Ecuador",CharlieSGA
+"""been""","Philadelphia, PA, USA",CharlieSGA
+"""been""","Basse-Terre, Guadeloupe",CharlieSGA
+"""been""","Guadeloupe, Caribbean",CharlieSGA
+"""been""","Freeport, Bahamas",CharlieSGA
+"""been""","Parc National, Guadeloupe",CharlieSGA
+"""been""","Andros, Bahamas",CharlieSGA
+"""been""","Saint Francois, Guadeloupe",CharlieSGA
+"""been""","Great Abaco Island, Bahamas",CharlieSGA
+"""been""","Sainte-Anne, Guadeloupe",CharlieSGA
+"""been""","Pointe-a-Pitre, Guadeloupe",CharlieSGA
+"""been""","Kanab, UT, USA",CharlieSGA
+"""been""","Jamaica, Caribbean",CharlieSGA
+"""been""","Great Exuma, Bahamas",CharlieSGA
+"""been""","Armacao dos Buzios, Brazil",CharlieSGA
+"""been""","Bay Harbor Islands, FL, USA",CharlieSGA
+"""been""","Eleuthera, Bahamas",CharlieSGA
+"""been""","Cat Island, Bahamas",CharlieSGA
+"""been""","Akumal, Mexico",CharlieSGA
+"""been""","Kingsland, GA, USA",CharlieSGA
+"""been""","Baltra, Ecuador",CharlieSGA
+"""been""","Indianapolis, IN, USA",CharlieSGA
+"""been""","Montreal, Quebec, Canada",CharlieSGA
+"""been""","St. Petersburg, Russia",CharlieSGA
+"""been""","Santiago, Ecuador",CharlieSGA
+"""been""","Oslo, Norway",CharlieSGA
+"""been""","Puerto Ayora, Ecuador",CharlieSGA
+"""been""","Nuku'alofa, Tonga",CharlieSGA
+"""been""","Santa Cruz, Ecuador",CharlieSGA
+"""been"",""fave""","Singapore, Singapore",CharlieSGA
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",CharlieSGA
+"""been""","Playa del Carmen, Mexico",CharlieSGA
+"""been""","Tulum, Mexico",CharlieSGA
+"""been""","Cruz Bay, U.S. Virgin Islands",CharlieSGA
+"""been""","Bern, Switzerland",CharlieSGA
+"""been""","Zion National Park, UT, USA",CharlieSGA
+"""been""","Nassau, Bahamas",CharlieSGA
+"""been""","Grand Coulee, WA, USA",CharlieSGA
+"""been""","Jekyll Island, GA, USA",CharlieSGA
+"""been""","Vidalia, GA, USA",CharlieSGA
+"""been""","Cedar Key, FL, USA",CharlieSGA
+"""been""","Valdosta, GA, USA",CharlieSGA
+"""been""","Atlanta, GA, USA",CharlieSGA
+"""been""","Barcelona, Spain",CharlieSGA
+"""been""","Cologne, Germany",CharlieSGA
+"""been""","Orange, France",CharlieSGA
+"""been""","Beverly Hills, CA, USA",CharlieSGA
+"""been""","Richmond Hill, GA, USA",CharlieSGA
+"""been""","Versailles, KY, USA",CharlieSGA
+"""been""","Abel Tasman National Park, New Zealand",CharlieSGA
+"""been""","Savaneta, Aruba",CharlieSGA
+"""been""","St. Augustine, FL, USA",CharlieSGA
+"""been""","Denver, CO, USA",CharlieSGA
+"""been""","Fruit Cove, FL, USA",CharlieSGA
+"""been""","Branson, MO, USA",CharlieSGA
+"""been""","Zurich, Switzerland",CharlieSGA
+"""been""","Paris, France",CharlieSGA
+"""been""","St. Marys, GA, USA",CharlieSGA
+"""been""","Columbia Falls, MT, USA",CharlieSGA
+"""been""","Amsterdam, The Netherlands",CharlieSGA
+"""been""","Durango, CO, USA",CharlieSGA
+"""been""","North Miami Beach, FL, USA",CharlieSGA
+"""been""","Seattle, WA, USA",CharlieSGA
+"""been""","Yellowstone National Park, WY, USA",CharlieSGA
+"""been""","Kula, HI, USA",CharlieSGA
+"""been""","Provo, UT, USA",CharlieSGA
+"""been""","Victoria Falls, Zimbabwe",CharlieSGA
+"""been""","Paia, HI, USA",CharlieSGA
+"""been""","Innsbruck, Austria",CharlieSGA
+"""been""","Arrowtown, New Zealand",CharlieSGA
+"""been""","Kailua-Kona, HI, USA",CharlieSGA
+"""been""","Cincinnati, OH, USA",CharlieSGA
+"""been""","Spoleto, Italy",CharlieSGA
+"""been""","Hana, HI, USA",CharlieSGA
+"""been""","Titusville, FL, USA",CharlieSGA
+"""been""","San Diego, CA, USA",CharlieSGA
+"""been""","Ushuaia, Argentina",CharlieSGA
+"""been""","Marciana Marina, Italy",CharlieSGA
+"""been""","Victoria Falls, Zambia",CharlieSGA
+"""been""","Tierra del Fuego National Park, Argentina",CharlieSGA
+"""been""","Marciana, Italy",CharlieSGA
+"""been""","McKinney, TX, USA",CharlieSGA
+"""been""","Tahiti, French Polynesia",CharlieSGA
+"""been""","Saint Simons Island, GA, USA",CharlieSGA
+"""been""","Sausalito, CA, USA",CharlieSGA
+"""been""","Hallandale Beach, FL, USA",CharlieSGA
+"""been""","Pointe-Noire, Guadeloupe",CharlieSGA
+"""been""","St. George, UT, USA",CharlieSGA
+"""been""","Omaha, NE, USA",CharlieSGA
+"""been""","El Paso, TX, USA",CharlieSGA
+"""been""","Franz Josef, New Zealand",CharlieSGA
+"""been""","Kathmandu, Nepal",CharlieSGA
+"""been""","New York City, NY, USA",CharlieSGA
+"""been""","Carlsbad, NM, USA",CharlieSGA
+"""been""","Anchorage, AK, USA",CharlieSGA
+"""been""","Paradise Harbour, Antarctica",CharlieSGA
+"""been""","Julian, PA, USA",CharlieSGA
+"""been""","Inishmore, Ireland",CharlieSGA
+"""been""","Baileys Crossroads, VA, USA",CharlieSGA
+"""been""","Santa Monica, CA, USA",CharlieSGA
+"""been""","Metter, GA, USA",CharlieSGA
+"""been""","Green Cove Springs, FL, USA",CharlieSGA
+"""been""","Lauderdale-By-The-Sea, FL, USA",CharlieSGA
+"""been""","Salzburg, Austria",CharlieSGA
+"""been""","Moorea, French Polynesia",CharlieSGA
+"""been""","Roswell, GA, USA",CharlieSGA
+"""been""","Fox Glacier, New Zealand",CharlieSGA
+"""been""","Cocoa Beach, FL, USA",CharlieSGA
+"""been""","Cocoa, FL, USA",CharlieSGA
+"""been""","Tikal National Park, Guatemala",CharlieSGA
+"""been""","Hanalei, HI, USA",CharlieSGA
+"""been""","Cusco, Peru",CharlieSGA
+"""been""","Sainte Rose, Guadeloupe",CharlieSGA
+"""been""","Elkton, FL, USA",CharlieSGA
+"""been""","Lima, Peru",CharlieSGA
+"""been""","Prague, Czech Republic",CharlieSGA
+"""been""","Maupiti Island, French Polynesia",CharlieSGA
+"""been""","San Sebastian - Donostia, Spain",CharlieSGA
+"""been""","Chateauneuf-du-Pape, France",CharlieSGA
+"""been""","Jacksonville Beach, FL, USA",CharlieSGA
+"""been""","Frankfurt, Germany",CharlieSGA
+"""been""","San Jose, Guatemala",CharlieSGA
+"""been""","Morro de Sao Paulo, Brazil",CharlieSGA
+"""been""","Arles, France",CharlieSGA
+"""been""","Bilbao, Spain",CharlieSGA
+"""been""","Avignon, France",CharlieSGA
+"""been""","Hollister, MO, USA",CharlieSGA
+"""been""","Port Douglas, Australia",CharlieSGA
+"""been""","Blowing Rock, NC, USA",CharlieSGA
+"""been""","Noord, Aruba",CharlieSGA
+"""been""","Fraser Island, Australia",CharlieSGA
+"""been""","Homestead, FL, USA",CharlieSGA
+"""been""","Panajachel, Guatemala",CharlieSGA
+"""been""","Quito, Ecuador",CharlieSGA
+"""been""","Ponte Vedra Beach, FL, USA",CharlieSGA
+"""been""","Mims, FL, USA",CharlieSGA
+"""been""","Houston, TX, USA",CharlieSGA
+"""been""","Nazca, Peru",CharlieSGA
+"""been""","Tampa, FL, USA",CharlieSGA
+"""been""","Cayce, SC, USA",CharlieSGA
+"""been""","Merritt Island, FL, USA",CharlieSGA
+"""been""","Boston, MA, USA",CharlieSGA
+"""been""","Delphi, Greece",CharlieSGA
+"""been""","Lihue, HI, USA",CharlieSGA
+"""been""","Tallinn, Estonia",CharlieSGA
+"""been""","Koloa, HI, USA",CharlieSGA
+"""been""","Asheville, NC, USA",CharlieSGA
+"""been""","Luang Prabang, Laos",CharlieSGA
+"""been""","Waimea, HI, USA",CharlieSGA
+"""been""","New Orleans, LA, USA",CharlieSGA
+"""been""","Miami Beach, FL, USA",CharlieSGA
+"""been""","Princeville, HI, USA",CharlieSGA
+"""been""","Miami, FL, USA",CharlieSGA
+"""been""","Poipu, HI, USA",CharlieSGA
+"""been""","Athens, Greece",CharlieSGA
+"""been""","Eze, France",CharlieSGA
+"""been""","Honolulu, HI, USA",CharlieSGA
+"""been""","Alice Springs, Australia",CharlieSGA
+"""been""","Bruges, Belgium",CharlieSGA
+"""been""","Sydney, Australia",CharlieSGA
+"""been""","Bagan, Myanmar",CharlieSGA
+"""been""","Cairns, Australia",CharlieSGA
+"""been""","Picton, New Zealand",CharlieSGA
+"""been""","Yulara, Australia",CharlieSGA
+"""been""","Machu Picchu, Peru",CharlieSGA
+"""been""","Williamsburg, VA, USA",CharlieSGA
+"""been""","Mandalay, Myanmar",CharlieSGA
+"""been""","Page, AZ, USA",CharlieSGA
+"""been""","Neptune Beach, FL, USA",CharlieSGA
+"""been""","Fort Lauderdale, FL, USA",CharlieSGA
+"""been""","Monaco-Ville, Monaco",CharlieSGA
+"""been""","San Antonio, TX, USA",CharlieSGA
+"""been""","Naples, FL, USA",CharlieSGA
+"""been""","Islamorada, FL, USA",CharlieSGA
+"""been""","Santa Fe, NM, USA",CharlieSGA
+"""been""","Key West, FL, USA",CharlieSGA
+"""been""","San Francisco, CA, USA",CharlieSGA
+"""been""","Kangaroo Island, Australia",CharlieSGA
+"""been""","Gothenburg, Sweden",CharlieSGA
+"""been""","Nice, France",CharlieSGA
+"""been""","Adelaide, Australia",CharlieSGA
+"""been""","Monte-Carlo, Monaco",CharlieSGA
+"""been""","Pisco, Peru",CharlieSGA
+"""been""","Tibau do Sul, Brazil",CharlieSGA
+"""been""","Wentworth Falls, Australia",CharlieSGA
+"""been""","New Smyrna Beach, FL, USA",CharlieSGA
+"""been""","Frigate Bay, St. Kitts and Nevis",CharlieSGA
+"""been""","Plano, TX, USA",CharlieSGA
+"""been""","Fort Pierce, FL, USA",CharlieSGA
+"""been""","Callahan, FL, USA",CharlieSGA
+"""been""","Waitsfield, VT, USA",CharlieSGA
+"""been""","Chichicastenango, Guatemala",CharlieSGA
+"""been""","Guatemala City, Guatemala",CharlieSGA
+"""been""","Port Orange, FL, USA",CharlieSGA
+"""been""","Easter Island, Chile",CharlieSGA
+"""been""","Marsh Harbour, Bahamas",CharlieSGA
+"""been""","Fernandina Beach, FL, USA",CharlieSGA
+"""been""","Deshaies, Guadeloupe",CharlieSGA
+"""been""","Wismar, Germany",CharlieSGA
+"""been""","St-Paul-de-Vence, France",CharlieSGA
+"""been""","Copenhagen, Denmark",CharlieSGA
+"""been""","Saint-Tropez, France",CharlieSGA
+"""been""","Boone, NC, USA",CharlieSGA
+"""been""","Wailea, HI, USA",CharlieSGA
+"""been""","Key Largo, FL, USA",CharlieSGA
+"""been""","Puerto Iguazu, Argentina",CharlieSGA
+"""been""","Kutna Hora, Czech Republic",CharlieSGA
+"""been""","Flagler Beach, FL, USA",CharlieSGA
+"""been""","Amelia Island, FL, USA",CharlieSGA
+"""been""","Orangeburg, SC, USA",CharlieSGA
+"""been""","Laguna Beach, CA, USA",CharlieSGA
+"""been""","South Daytona, FL, USA",CharlieSGA
+"""been""","Phnom Penh, Cambodia",CharlieSGA
+"""been""","Savannah, GA, USA",CharlieSGA
+"""been""","Lucca, Italy",CharlieSGA
+"""been""","Yangshuo County, China",CharlieSGA
+"""been""","Petrified Forest National Park, AZ, USA",CharlieSGA
+"""been""","Baxley, GA, USA",CharlieSGA
+"""been""","Pisa, Italy",CharlieSGA
+"""been""","Florence, Italy",CharlieSGA
+"""been""","Vogelenzang, The Netherlands",CharlieSGA
+"""been""","Atlantic Beach, FL, USA",CharlieSGA
+"""been""","Stellenbosch, South Africa",CharlieSGA
+"""been""","Calibishie, Dominica",CharlieSGA
+"""been""","Goianinha, Brazil",CharlieSGA
+"""been""","King George Island, Antarctica",CharlieSGA
+"""been""","Elephant Island, Antarctica",CharlieSGA
+"""been""","Nelson, New Zealand",CharlieSGA
+"""been""","Deception Island, Antarctica",CharlieSGA
+"""been""","Russell, New Zealand",CharlieSGA
+"""been""","Orange Park, FL, USA",CharlieSGA
+"""been""","Yulee, FL, USA",CharlieSGA
+"""been""","Cumberland Island, GA, USA",CharlieSGA
+"""been""","Altoona, PA, USA",CharlieSGA
+"""been""","Estes Park, CO, USA",CharlieSGA
+"""been""","Munich, Germany",CharlieSGA
+"""been""","Ormond Beach, FL, USA",CharlieSGA
+"""been""","Guayaquil, Ecuador",CharlieSGA
+"""been""","Bellefonte, PA, USA",CharlieSGA
+"""been""","Keflavik, Iceland",CharlieSGA
+"""been""","Orlando, FL, USA",CharlieSGA
+"""been""","Cumming, GA, USA",CharlieSGA
+"""been""","London, UK",CharlieSGA
+"""been""","Campos Do Jordao, Brazil",CharlieSGA
+"""been""","Plitvica, Croatia",CharlieSGA
+"""been""","Bar Harbor, ME, USA",CharlieSGA
+"""been""","Cromwell, New Zealand",CharlieSGA
+"""been""","Ios, Greece",CharlieSGA
+"""been""","Brooklyn, NY, USA",CharlieSGA
+"""been""","Colleville-sur-Mer, France",CharlieSGA
+"""been""","Dacula, GA, USA",CharlieSGA
+"""been""","Cuthbert, GA, USA",CharlieSGA
+"""been""","Sunrise, FL, USA",CharlieSGA
+"""been""","Orient Bay, St Martin \u002F St Maarten",CharlieSGA
+"""been""","Cambridge, UK",CharlieSGA
+"""been""","Rothenburg, Germany",CharlieSGA
+"""been""","Valdez, AK, USA",CharlieSGA
+"""been""","Panama City Beach, FL, USA",CharlieSGA
+"""been""","Alpharetta, GA, USA",CharlieSGA
+"""been""","Fleming Island, FL, USA",CharlieSGA
+"""been""","Itu, Brazil",CharlieSGA
+"""been""","Brussels, Belgium",CharlieSGA
+"""been""","Nuremberg, Germany",CharlieSGA
+"""been""","Konya, Turkey",CharlieSGA
+"""been""","Stockholm, Sweden",CharlieSGA
+"""been""","Isle of Skye, UK",CharlieSGA
+"""been""","Reykjavik, Iceland",CharlieSGA
+"""been""","Rome, Italy",CharlieSGA
+"""been""","Wanaka, New Zealand",CharlieSGA
+"""been""","Benoni, South Africa",CharlieSGA
+"""been""","Rathnew, Ireland",CharlieSGA
+"""been""","Johannesburg, South Africa",CharlieSGA
+"""been""","Bangkok, Thailand",CharlieSGA
+"""been""","Terre-de-Haut, Guadeloupe",CharlieSGA
+"""been""","Chiang Mai, Thailand",CharlieSGA
+"""been""","Austin, TX, USA",CharlieSGA
+"""been""","Salt Lake City, UT, USA",CharlieSGA
+"""been""","Palm Coast, FL, USA",CharlieSGA
+"""been""","Brisbane, CA, USA",CharlieSGA
+"""been""","Blarney, Ireland",CharlieSGA
+"""been""","Decatur, GA, USA",CharlieSGA
+"""been""","Blackshear, GA, USA",CharlieSGA
+"""been""","Oxon Hill, MD, USA",CharlieSGA
+"""been""","Macon, GA, USA",CharlieSGA
+"""been""","Punta Cana, Dominican Republic",CharlieSGA
+"""been""","Granada, Spain",CharlieSGA
+"""been""","Seville, Spain",CharlieSGA
+"""been""","Vancouver, British Columbia, Canada",CharlieSGA
+"""been""","Puerto Plata, Dominican Republic",CharlieSGA
+"""been""","Rio de Janeiro, Brazil",CharlieSGA
+"""been""","St. George's, Grenada",CharlieSGA
+"""been""","Grenada, Caribbean",CharlieSGA
+"""been""","Conde, Brazil",CharlieSGA
+"""been""","Jacksonville, FL, USA",CharlieSGA
+"""been""","Halong Bay, Vietnam",CharlieSGA
+"""been""","Ketchikan, AK, USA",CharlieSGA
+"""been""","Hanoi, Vietnam",CharlieSGA
+"""been""","Pokolbin, Australia",CharlieSGA
+"""been""","Gainesville, GA, USA",CharlieSGA
+"""been""","Arlington, VA, USA",CharlieSGA
+"""been""","Maalaea, HI, USA",CharlieSGA
+"""been""","Edinburgh, UK",CharlieSGA
+"""been""","Spello, Italy",CharlieSGA
+"""been""","Uluru-Kata Tjuta National Park, Australia",CharlieSGA
+"""been""","Taupo, New Zealand",CharlieSGA
+"""been""","Raiatea, French Polynesia",CharlieSGA
+"""been""","Wellington, New Zealand",CharlieSGA
+"""been""","Paihia, New Zealand",CharlieSGA
+"""been""","Chobe National Park, Botswana",CharlieSGA
+"""been""","Sapa, Vietnam",CharlieSGA
+"""been""","Rotorua, New Zealand",CharlieSGA
+"""been""","Port Matilda, PA, USA",CharlieSGA
+"""been""","Blenheim, New Zealand",CharlieSGA
+"""been""","Coppell, TX, USA",CharlieSGA
+"""been""","Tangier, Morocco",CharlieSGA
+"""been""","Glasgow, UK",CharlieSGA
+"""been""","Forsyth, GA, USA",CharlieSGA
+"""been""","St. Andrews, UK",CharlieSGA
+"""been""","Los Angeles, CA, USA",CharlieSGA
+"""been""","Fresno, CA, USA",CharlieSGA
+"""been""","Mangere, New Zealand",CharlieSGA
+"""been""","Chicago, IL, USA",CharlieSGA
+"""been""","Livingstone, Zambia",CharlieSGA
+"""been""","Hvar, Croatia",CharlieSGA
+"""been""","Saint Louis, MO, USA",CharlieSGA
+"""been""","Fiumicino, Italy",CharlieSGA
+"""been""","Las Vegas, NV, USA",CharlieSGA
+"""been""","Da Nang, Vietnam",CharlieSGA
+"""been""","Buenos Aires, Argentina",CharlieSGA
+"""been""","Hoi An, Vietnam",CharlieSGA
+"""been""","Saint Charles, MO, USA",CharlieSGA
+"""been""","San Pedro La Laguna, Guatemala",CharlieSGA
+"""been""","Bento Goncalves, Brazil",CharlieSGA
+"""been""","Bora Bora, French Polynesia",CharlieSGA
+"""been""","Covington, KY, USA",CharlieSGA
+"""been""","Auckland Central, New Zealand",CharlieSGA
+"""been""","Conyers, GA, USA",CharlieSGA
+"""been""","Colombo, Sri Lanka",CharlieSGA
+"""been""","Helsinki, Finland",CharlieSGA
+"""been""","Madrid, Spain",CharlieSGA
+"""been""","Venice, Italy",CharlieSGA
+"""been""","Verona, Italy",CharlieSGA
+"""been""","Courthezon, France",CharlieSGA
+"""been""","Hanga Roa, Chile",CharlieSGA
+"""been""","Niagara Falls, Ontario, Canada",CharlieSGA
+"""been""","Whangarei, New Zealand",CharlieSGA
+"""been""","Kimberling City, MO, USA",CharlieSGA
+"""been""","Cape Town Central, South Africa",CharlieSGA
+"""been""","Moulay Idriss, Morocco",CharlieSGA
+"""been""","Lemont, PA, USA",CharlieSGA
+"""been""","Union Island, St. Vincent and the Grenadines",CharlieSGA
+"""been""","Weston, FL, USA",CharlieSGA
+"""been""","Casablanca, Morocco",CharlieSGA
+"""been""","Istanbul, Turkey",CharlieSGA
+"""been""","Malibu, CA, USA",CharlieSGA
+"""been""","Glendale, CA, USA",CharlieSGA
+"""been""","Marrakech, Morocco",CharlieSGA
+"""been""","Selcuk, Turkey",CharlieSGA
+"""been""","Fes, Morocco",CharlieSGA
+"""been""","Sanibel Island, FL, USA",CharlieSGA
+"""been""","La Merced, Peru",CharlieSGA
+"""been""","College Park, GA, USA",CharlieSGA
+"""been""","Johns Creek, GA, USA",CharlieSGA
+"""been""","Reno, NV, USA",CharlieSGA
+"""been""","Shanghai, China",CharlieSGA
+"""been""","Tokyo, Japan",CharlieSGA
+"""been""","Te Anau, New Zealand",CharlieSGA
+"""been""","Minneapolis, MN, USA",CharlieSGA
+"""been""","Milford Sound, New Zealand",CharlieSGA
+"""been""","Hout Bay, South Africa",CharlieSGA
+"""been""","Queenstown, New Zealand",CharlieSGA
+"""been""","Cork, Ireland",CharlieSGA
+"""been""","Dublin, Ireland",CharlieSGA
+"""been""","Brunswick, GA, USA",CharlieSGA
+"""been""","Xi'an, China",CharlieSGA
+"""been""","Guilin, China",CharlieSGA
+"""been""","Kauai, HI, USA",CharlieSGA
+"""been""","Buford, GA, USA",CharlieSGA
+"""been""","Antigua, Antigua and Barbuda",CharlieSGA
+"""been""","Anegada, British Virgin Islands",CharlieSGA
+"""been""","Bogota, Colombia",CharlieSGA
+"""been""","Todos Santos, Mexico",CharlieSGA
+"""been""","Seven Mile Beach, Cayman Islands",CharlieSGA
+"""been""","Kerikeri, New Zealand",CharlieSGA
+"""been""","Grand Cayman, Cayman Islands",CharlieSGA
+"""been""","English Harbour, Antigua and Barbuda",CharlieSGA
+"""been""","Yangon (Rangoon), Myanmar",CharlieSGA
+"""been""","St. John's, Antigua and Barbuda",CharlieSGA
+"""been""","Palm - Eagle Beach, Aruba",CharlieSGA
+"""been""","La Paz, Mexico",CharlieSGA
+"""been""","Athens, GA, USA",CharlieSGA
+"""been""","Oranjestad, Aruba",CharlieSGA
+"""been""","Aruba, Caribbean",CharlieSGA
+"""been""","Boalsburg, PA, USA",CharlieSGA
+"""been""","Frisco, TX, USA",CharlieSGA
+"""been""","Killarney, Ireland",CharlieSGA
+"""been""","Foz do Iguacu, Brazil",CharlieSGA
+"""been""","Kilkenny, Ireland",CharlieSGA
+"""been""","Dublin, GA, USA",CharlieSGA
+"""been""","Linville, NC, USA",CharlieSGA
+"""been""","Corolla, NC, USA",CharlieSGA
+"""been""","East Point, GA, USA",CharlieSGA
+"""been""","Cartagena, Colombia",CharlieSGA
+"""been""","Kyoto, Japan",CharlieSGA
+"""been""","Grand Case, St Martin \u002F St Maarten",CharlieSGA
+"""been""","Oahu, HI, USA",CharlieSGA
+"""been""","Road Town, British Virgin Islands",CharlieSGA
+"""been""","Tortola, British Virgin Islands",CharlieSGA
+"""been""","Romulus, MI, USA",CharlieSGA
+"""been""","Anguilla, Caribbean",CharlieSGA
+"""been""","Galway, Ireland",CharlieSGA
+"""been""","Mossman, Australia",CharlieSGA
+"""been""","Saint Andrews, New Brunswick, Canada",CharlieSGA
+"""been""","Napa, CA, USA",CharlieSGA
+"""been""","Barna, Ireland",CharlieSGA
+"""been""","Gourdon, France",CharlieSGA
+"""been""","Folkston, GA, USA",CharlieSGA
+"""been""","Flowery Branch, GA, USA",CharlieSGA
+"""been""","Agra, India",CharlieSGA
+"""been""","St. Jean, St. Barthelemy",CharlieSGA
+"""been""","Turangi, New Zealand",CharlieSGA
+"""been""","Bardstown, KY, USA",CharlieSGA
+"""been""","Port-Louis, Guadeloupe",CharlieSGA
+"""been""","St. Lucia, Caribbean",CharlieSGA
+"""been""","Marigot, St Martin \u002F St Maarten",CharlieSGA
+"""been""","Philipsburg, St Martin \u002F St Maarten",CharlieSGA
+"""been""","St Martin \u002F St Maarten, Caribbean",CharlieSGA
+"""been""","El Remate, Guatemala",CharlieSGA
+"""been""","Skogar, Iceland",CharlieSGA
+"""been""","Currituck, NC, USA",CharlieSGA
+"""been""","Olinda, Brazil",CharlieSGA
+"""been""","Fort Worth, TX, USA",CharlieSGA
+"""been""","Kolkata (Calcutta), India",CharlieSGA
+"""been""","Punaauia, French Polynesia",CharlieSGA
+"""been""","Cook's  Bay, French Polynesia",CharlieSGA
+"""been""","Long Island, Bahamas",CharlieSGA
+"""been""","St. Barthelemy, Caribbean",CharlieSGA
+"""been""","St. Johns, FL, USA",CharlieSGA
+"""been""","Harbour Island, Bahamas",CharlieSGA
+"""been""","Daintree, Australia",CharlieSGA
+"""been""","Gustavia, St. Barthelemy",CharlieSGA
+"""been""","Dolores Hidalgo, Mexico",CharlieSGA
+"""been""","Grindavik, Iceland",CharlieSGA
+"""been""","New Delhi, India",CharlieSGA
+"""been""","Hella, Iceland",CharlieSGA
+"""been""","Ambergris Caye, Belize",CharlieSGA
+"""been""","Sorocaba, Brazil",CharlieSGA
+"""been""","San Pedro, Belize",CharlieSGA
+"""been""","Sao Paulo, Brazil",CharlieSGA
+"""been""","Coxen Hole, Honduras",CharlieSGA
+"""been""","Middle Caicos, Turks and Caicos",CharlieSGA
+"""been""","Nacula Island, Fiji",CharlieSGA
+"""been""","Kitty Hawk, NC, USA",CharlieSGA
+"""been""","Nags Head, NC, USA",CharlieSGA
+"""been""","Dominica, Caribbean",CharlieSGA
+"""been""","Santo Tomas de Castilla, Guatemala",CharlieSGA
+"""been""","Cabo San Lucas, Mexico",CharlieSGA
+"""been""","Dominican Republic, Caribbean",CharlieSGA
+"""been""","San Jose, Costa Rica",CharlieSGA
+"""been""","Foa Island, Tonga",CharlieSGA
+"""been""","Lexington, KY, USA",CharlieSGA
+"""been""","State College, PA, USA",CharlieSGA
+"""been""","Aguadilla, Puerto Rico",CharlieSGA
+"""been""","Montefalco, Italy",CharlieSGA
+"""been""","Praia da Pipa, Brazil",CharlieSGA
+"""been""","Dallas, TX, USA",CharlieSGA
+"""been""","Lumbarda, Croatia",CharlieSGA
+"""been""","Izmir, Turkey",CharlieSGA
+"""been""","Haast, New Zealand",CharlieSGA
+"""been""","Metairie, LA, USA",CharlieSGA
+"""been""","Havana, Cuba",CharlieSGA
+"""been""","Tobago, Trinidad and Tobago",CharlieSGA
+"""been""","Olfuss, Iceland",CharlieSGA
+"""been""","Camden, ME, USA",CharlieSGA
+"""been""","Providenciales, Turks and Caicos",CharlieSGA
+"""been""","Willemstad, Curacao",CharlieSGA
+"""been""","Curacao, Caribbean",CharlieSGA
+"""been""","Siem Reap, Cambodia",CharlieSGA
+"""been""","Cape Tribulation, Australia",CharlieSGA
+"""been""","Selfoss, Iceland",CharlieSGA
+"""been""","Tyrone, PA, USA",CharlieSGA
+"""been""","Modesto, CA, USA",CharlieSGA
+"""been""","Gramado, Brazil",CharlieSGA
+"""been""","Turtle Cove, Turks and Caicos",CharlieSGA
+"""been""","St. Vincent, St. Vincent and the Grenadines",CharlieSGA
+"""been""","Rincon, Puerto Rico",CharlieSGA
+"""been""","Yosemite National Park, CA, USA",CharlieSGA
+"""been""","Bequia, St. Vincent and the Grenadines",CharlieSGA
+"""been""","Barbados, Caribbean",CharlieSGA
+"""been""","Male, Asia",CharlieSGA
+"""been""","Springdale, UT, USA",CharlieSGA
+"""been""","Kuala Lumpur, Malaysia",CharlieSGA
+"""been""","Guanajuato, Mexico",CharlieSGA
+"""been""","Kralendijk, Bonaire",CharlieSGA
+"""been""","Bonaire, Caribbean",CharlieSGA
+"""been""","Kinsale, Ireland",CharlieSGA
+"""been""","Holbox Island, Mexico",CharlieSGA
+"""been""","Mayreau, St. Vincent and the Grenadines",CharlieSGA
+"""been""","Zunil, Guatemala",CharlieSGA
+"""been""","Washington-Slagbaai National Park, Bonaire",CharlieSGA
+"""been""","Mallow, Ireland",CharlieSGA
+"""been""","Assisi, Italy",CharlieSGA
+"""been""","Gubbio, Italy",CharlieSGA
+"""been""","Ston, Croatia",CharlieSGA
+"""been""","Perugia, Italy",CharlieSGA
+"""been""","Novo Hamburgo, Brazil",CharlieSGA
+"""been""","Joao Pessoa, Brazil",CharlieSGA
+"""been""","Crows Nest, Australia",CharlieSGA
+"""been""","Barbuda, Antigua and Barbuda",CharlieSGA
+"""been""","Fernando de Noronha, Brazil",CharlieSGA
+"""been""","Basseterre, St. Kitts and Nevis",CharlieSGA
+"""been""","La Digue Island, Seychelles",CharlieSGA
+"""been""","Kenmare, Ireland",CharlieSGA
+"""been""","Waterside, New Brunswick, Canada",CharlieSGA
+"""been""","Hervey Bay, Australia",CharlieSGA
+"""been""","Dingle, Ireland",CharlieSGA

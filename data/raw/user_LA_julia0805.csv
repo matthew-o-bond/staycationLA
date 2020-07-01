@@ -1,0 +1,647 @@
+tag,place,user
+"""want""","Mont Tremblant, Quebec, Canada",julia0805
+"""want""","Bari, Italy",julia0805
+"""want""","El Arenal, Spain",julia0805
+"""been""","Venice, Italy",julia0805
+"""been""","Verona, Italy",julia0805
+"""want""","Malindi, Kenya",julia0805
+"""want""","Cuenca, Spain",julia0805
+"""been""","Ho Chi Minh City, Vietnam",julia0805
+"""been""","Roissy-en-France, France",julia0805
+"""been""","Hue, Vietnam",julia0805
+"""want""","Playa Flamingo, Costa Rica",julia0805
+"""want""","Medjugorje, Bosnia and Herzegovina",julia0805
+"""been""","Halong Bay, Vietnam",julia0805
+"""been""","Helsinki, Finland",julia0805
+"""been""","Assos, Turkey",julia0805
+"""want""","Fuengirola, Spain",julia0805
+"""want""","Madrid, Spain",julia0805
+"""want""","Kata Beach, Thailand",julia0805
+"""want""","Pamplona, Spain",julia0805
+"""want""","Olbia, Italy",julia0805
+"""want""","Leipzig, Germany",julia0805
+"""want""","Alghero, Italy",julia0805
+"""want""","Ayia Napa, Cyprus",julia0805
+"""been""","Springdale, UT, USA",julia0805
+"""been""","Gallipoli, Italy",julia0805
+"""want""","Tofino, British Columbia, Canada",julia0805
+"""want""","Vancouver, British Columbia, Canada",julia0805
+"""want""","Porec, Croatia",julia0805
+"""want""","Victoria, British Columbia, Canada",julia0805
+"""been""","Yerevan, Armenia",julia0805
+"""want""","Catania, Italy",julia0805
+"""been""","Cape Town Central, South Africa",julia0805
+"""want""","Torrevieja, Spain",julia0805
+"""want""","Kos Town, Greece",julia0805
+"""want""","Bowness-on-Windermere, UK",julia0805
+"""been""","Florence, Italy",julia0805
+"""want""","Perth, UK",julia0805
+"""been""","Swakopmund, Namibia",julia0805
+"""want""","Kanazawa, Japan",julia0805
+"""want""","Livorno, Italy",julia0805
+"""want""","Syracuse, Italy",julia0805
+"""want""","Taormina, Italy",julia0805
+"""want""","Tanjung Benoa, Indonesia",julia0805
+"""been""","Charlotte, NC, USA",julia0805
+"""been""","Chapel Hill, NC, USA",julia0805
+"""been""","Porto-Vecchio, France",julia0805
+"""want""","Trogir, Croatia",julia0805
+"""been""","Mendoza, Argentina",julia0805
+"""want""","San Jose del Cabo, Mexico",julia0805
+"""want""","Havana, Cuba",julia0805
+"""want""","Belize City, Belize",julia0805
+"""want""","Santiago de Cuba, Cuba",julia0805
+"""want""","San Pedro, Belize",julia0805
+"""want""","Knysna, South Africa",julia0805
+"""want""","Willemstad, Curacao",julia0805
+"""want""","Lucca, Italy",julia0805
+"""been""","Pisa, Italy",julia0805
+"""want""","Platja d'Aro, Spain",julia0805
+"""been""","Naples, Italy",julia0805
+"""been""","Izmir, Turkey",julia0805
+"""want""","Cala'n Bosch, Spain",julia0805
+"""want""","Garmisch-Partenkirchen, Germany",julia0805
+"""been""","Pompeii, Italy",julia0805
+"""want""","Amalfi, Italy",julia0805
+"""want""","Altinkum, Turkey",julia0805
+"""been""","Fiumicino, Italy",julia0805
+"""want""","Capri, Italy",julia0805
+"""want""","Kamari, Greece",julia0805
+"""been"",""fave""","Moscow, Russia",julia0805
+"""been""","Otavalo, Ecuador",julia0805
+"""been""","Siem Reap, Cambodia",julia0805
+"""been""","Guayaquil, Ecuador",julia0805
+"""want""","Ungasan, Indonesia",julia0805
+"""want""","Pefkos, Greece",julia0805
+"""been""","Bangkok, Thailand",julia0805
+"""want""","La Manga del Mar Menor, Spain",julia0805
+"""want""","Munich, Germany",julia0805
+"""want""","Santo Domingo, Dominican Republic",julia0805
+"""want""","Antwerp, Belgium",julia0805
+"""want""","San Ignacio, Belize",julia0805
+"""been""","London, UK",julia0805
+"""want""","Mahabaleshwar, India",julia0805
+"""want""","Pesaro, Italy",julia0805
+"""been""","Stockholm, Sweden",julia0805
+"""want""","Miyazaki, Japan",julia0805
+"""been""","Brussels, Belgium",julia0805
+"""want""","Kumamoto, Japan",julia0805
+"""want""","Cardiff, UK",julia0805
+"""been""","Rome, Italy",julia0805
+"""want""","Santa Marta, Colombia",julia0805
+"""been""","Vatican City, Vatican City",julia0805
+"""want""","Norwich, UK",julia0805
+"""want""","Nabq Bay, Egypt",julia0805
+"""been""","Palo Alto, CA, USA",julia0805
+"""want""","Poole, UK",julia0805
+"""want""","Imerovigli, Greece",julia0805
+"""been""","Palm Desert, CA, USA",julia0805
+"""been""","Palm Springs, CA, USA",julia0805
+"""want""","Banff, Alberta, Canada",julia0805
+"""want""","Calgary, Alberta, Canada",julia0805
+"""been""","Ann Arbor, MI, USA",julia0805
+"""want""","Edmonton, Alberta, Canada",julia0805
+"""want""","Hamilton, Bermuda",julia0805
+"""want""","Estepona, Spain",julia0805
+"""want""","Malaga, Spain",julia0805
+"""want""","Chester, UK",julia0805
+"""want""","Berlin, Germany",julia0805
+"""want""","Liege, Belgium",julia0805
+"""want""","Tuban, Indonesia",julia0805
+"""want""","Torremolinos, Spain",julia0805
+"""want""","Flic En Flac, Africa",julia0805
+"""want""","Granada, Spain",julia0805
+"""been""","Oxnard, CA, USA",julia0805
+"""want""","Puerto Vallarta, Mexico",julia0805
+"""been""","Mazatlan, Mexico",julia0805
+"""want""","Malahide, Ireland",julia0805
+"""been""","Aix-en-Provence, France",julia0805
+"""been""","Johannesburg, South Africa",julia0805
+"""want""","Legian, Indonesia",julia0805
+"""been""","Monument Valley, UT, USA",julia0805
+"""been""","La Rochelle, France",julia0805
+"""want""","Newquay, UK",julia0805
+"""want""","San Jose, Costa Rica",julia0805
+"""want""","Bilbao, Spain",julia0805
+"""been""","Avignon, France",julia0805
+"""want""","Guilin, China",julia0805
+"""want""","San Sebastian - Donostia, Spain",julia0805
+"""want""","Ghent, Belgium",julia0805
+"""want""","Hyderabad, India",julia0805
+"""want""","Sao Paulo, Brazil",julia0805
+"""want""","Lassay-les-Chateaux, France",julia0805
+"""want""","Oviedo, Spain",julia0805
+"""want""","Hamburg, Germany",julia0805
+"""want""","Bogota, Colombia",julia0805
+"""want""","St Ives, UK",julia0805
+"""want""","Sheffield, UK",julia0805
+"""been""","Arles, France",julia0805
+"""been""","Tbilisi, Georgia",julia0805
+"""want""","Port Dickson, Malaysia",julia0805
+"""been""","La Paz, Bolivia",julia0805
+"""been""","Lake Geneva, WI, USA",julia0805
+"""been""","Mendocino, CA, USA",julia0805
+"""want""","Natal, Brazil",julia0805
+"""want""","Raleigh, NC, USA",julia0805
+"""been""","Orange, CA, USA",julia0805
+"""want""","Bergen, Norway",julia0805
+"""been""","Rancho Mirage, CA, USA",julia0805
+"""been""","Frankfurt, Germany",julia0805
+"""want""","Hangzhou, China",julia0805
+"""want""","Medellin, Colombia",julia0805
+"""been""","Rennes, France",julia0805
+"""want""","Stavanger, Norway",julia0805
+"""been""","Grasse, France",julia0805
+"""been""","Saint-Malo, France",julia0805
+"""want""","Rhodes Town, Greece",julia0805
+"""been""","Puno, Peru",julia0805
+"""want""","Faliraki, Greece",julia0805
+"""want""","Palma de Mallorca, Spain",julia0805
+"""want""","Athens, Greece",julia0805
+"""want""","Kobe, Japan",julia0805
+"""been""","Eze, France",julia0805
+"""want""","Lake Placid, NY, USA",julia0805
+"""been""","Ojai, CA, USA",julia0805
+"""been""","Tijuana, Mexico",julia0805
+"""want""","Niagara Falls, NY, USA",julia0805
+"""been""","Rosarito, Mexico",julia0805
+"""been""","Jackson, WY, USA",julia0805
+"""want""","Cannon Beach, OR, USA",julia0805
+"""been""","Ensenada, Mexico",julia0805
+"""been""","Park City, UT, USA",julia0805
+"""want""","Seven Mile Beach, Cayman Islands",julia0805
+"""want""","Juan-les-Pins, France",julia0805
+"""been""","Ao Nang, Thailand",julia0805
+"""want""","Fukuoka, Japan",julia0805
+"""been""","Las Vegas, NV, USA",julia0805
+"""been""","Nice, France",julia0805
+"""want""","Cesky Krumlov, Czech Republic",julia0805
+"""want""","Puerto Iguazu, Argentina",julia0805
+"""been""","Amboise, France",julia0805
+"""want""","Varanasi, India",julia0805
+"""want""","Las Palmas de Gran Canaria, Spain",julia0805
+"""been""","Agra, India",julia0805
+"""been""","Bethesda, MD, USA",julia0805
+"""want""","Gothenburg, Sweden",julia0805
+"""been""","Monte-Carlo, Monaco",julia0805
+"""want""","Kardamena, Greece",julia0805
+"""been""","Alexandria, VA, USA",julia0805
+"""want""","Playa d'en Bossa, Spain",julia0805
+"""been""","Long Beach, CA, USA",julia0805
+"""want""","Costa Teguise, Spain",julia0805
+"""want""","Onna-son, Japan",julia0805
+"""been""","Indian Wells, CA, USA",julia0805
+"""been""","Napa, CA, USA",julia0805
+"""want""","Soller, Spain",julia0805
+"""want""","Gulf Shores, AL, USA",julia0805
+"""been""","Phoenix, AZ, USA",julia0805
+"""want""","Ozdere, Turkey",julia0805
+"""want""","Budva, Montenegro",julia0805
+"""want""","Alvor, Portugal",julia0805
+"""want""","Colle di Val d'Elsa, Italy",julia0805
+"""want""","Bitez, Turkey",julia0805
+"""been""","Blois, France",julia0805
+"""been""","Sochi, Russia",julia0805
+"""want""","Mussoorie, India",julia0805
+"""want""","Villefranche-sur-Mer, France",julia0805
+"""want""","Nusa Dua, Indonesia",julia0805
+"""want""","Punta del Este, Uruguay",julia0805
+"""want""","Toledo, Spain",julia0805
+"""want""","Turgutreis, Turkey",julia0805
+"""want""","Alexandria, Egypt",julia0805
+"""been""","Bonifacio, France",julia0805
+"""want""","Copenhagen, Denmark",julia0805
+"""want""","Santander, Spain",julia0805
+"""been""","Chambord, France",julia0805
+"""want""","Ortakent, Turkey",julia0805
+"""want""","Dalian, China",julia0805
+"""been""","Chartres, France",julia0805
+"""want""","Maastricht, The Netherlands",julia0805
+"""been""","Chenonceaux, France",julia0805
+"""want""","Santa Cruz de Tenerife, Spain",julia0805
+"""been""","St-Paul-de-Vence, France",julia0805
+"""been""","Sacramento, CA, USA",julia0805
+"""been""","Big Sur, CA, USA",julia0805
+"""been""","Huntington Beach, CA, USA",julia0805
+"""want""","Portland, OR, USA",julia0805
+"""want""","Porto Cesareo, Italy",julia0805
+"""been""","Orleans, France",julia0805
+"""want""","Kota Kinabalu, Malaysia",julia0805
+"""want""","Philipsburg, St Martin \u002F St Maarten",julia0805
+"""been""","Girona, Spain",julia0805
+"""been""","Epernay, France",julia0805
+"""been""","Reims, France",julia0805
+"""want""","Troyes, France",julia0805
+"""want""","Segovia, Spain",julia0805
+"""want""","Sant'Agnello, Italy",julia0805
+"""want""","Armutalan, Turkey",julia0805
+"""been""","Kansas City, MO, USA",julia0805
+"""want""","Marseille, France",julia0805
+"""been""","Barcelona, Spain",julia0805
+"""want""","Burgos, Spain",julia0805
+"""want""","Eindhoven, The Netherlands",julia0805
+"""want""","Salamanca, Spain",julia0805
+"""been""","Tours, France",julia0805
+"""want""","Linz, Austria",julia0805
+"""want""","San Vincenzo, Italy",julia0805
+"""want""","Sanremo, Italy",julia0805
+"""want""","Port de Sant Miguel, Spain",julia0805
+"""been""","Paso Robles, CA, USA",julia0805
+"""want""","Runaway Bay, Jamaica",julia0805
+"""want""","Salta, Argentina",julia0805
+"""been""","Lausanne, Switzerland",julia0805
+"""been"",""want""","Hurghada, Egypt",julia0805
+"""want""","Sanya, China",julia0805
+"""been""","Odessa, Ukraine",julia0805
+"""want""","Dahab, Egypt",julia0805
+"""want""","Jodhpur, India",julia0805
+"""been""","Lviv, Ukraine",julia0805
+"""been""","Paris, France",julia0805
+"""been""","Yalta, Europe",julia0805
+"""been""","Versailles, France",julia0805
+"""want""","Graz, Austria",julia0805
+"""want""","Grenoble, France",julia0805
+"""want""","Lyon, France",julia0805
+"""want""","Makadi Bay, Egypt",julia0805
+"""want""","Zurich, Switzerland",julia0805
+"""been""","Pasadena, CA, USA",julia0805
+"""been""","Amsterdam, The Netherlands",julia0805
+"""want""","Annecy, France",julia0805
+"""want""","Chamonix, France",julia0805
+"""been""","Ajaccio, France",julia0805
+"""want""","Bastia, France",julia0805
+"""want""","Gandia, Spain",julia0805
+"""been""","Monterey, CA, USA",julia0805
+"""want""","San Juan, Puerto Rico",julia0805
+"""want""","Houmt Souk, Tunisia",julia0805
+"""been""","Albena, Bulgaria",julia0805
+"""been""","Sunny Beach, Bulgaria",julia0805
+"""want""","Puerto Madryn, Argentina",julia0805
+"""been""","Copacabana, Bolivia",julia0805
+"""been""","Cochabamba, Bolivia",julia0805
+"""want""","Karlovy Vary, Czech Republic",julia0805
+"""want""","Taba, Egypt",julia0805
+"""been""","San Carlos de Bariloche, Argentina",julia0805
+"""want""","Baden-Baden, Germany",julia0805
+"""want""","Dresden, Germany",julia0805
+"""want""","Abu Dhabi, United Arab Emirates",julia0805
+"""want""","Innsbruck, Austria",julia0805
+"""been"",""want"",""fave""","Budapest, Hungary",julia0805
+"""want""","Costa Adeje, Spain",julia0805
+"""want""","Nimes, France",julia0805
+"""want""","Salzburg, Austria",julia0805
+"""want""","Perpignan, France",julia0805
+"""want""","Val d'Isere, France",julia0805
+"""want""","Trier, Germany",julia0805
+"""want""","Valletta, Malta",julia0805
+"""want""","Sliema, Malta",julia0805
+"""been""","Sedona, AZ, USA",julia0805
+"""been""","Marina del Rey, CA, USA",julia0805
+"""been""","Mariposa, CA, USA",julia0805
+"""been""","Scottsdale, AZ, USA",julia0805
+"""want""","Paradise Island, Bahamas",julia0805
+"""want""","Koror, Palau",julia0805
+"""want""","Gloucester, UK",julia0805
+"""want""","Portoroz, Slovenia",julia0805
+"""been""","Puerto Ayora, Ecuador",julia0805
+"""been"",""want""","Vienna, Austria",julia0805
+"""want""","Singapore, Singapore",julia0805
+"""want""","Heidelberg, Germany",julia0805
+"""been""","Montreal, Quebec, Canada",julia0805
+"""want""","Freiburg im Breisgau, Germany",julia0805
+"""been""","Quebec City, Quebec, Canada",julia0805
+"""been""","Malibu, CA, USA",julia0805
+"""want""","Ukunda, Kenya",julia0805
+"""want""","Didim, Turkey",julia0805
+"""been""","Manhattan Beach, CA, USA",julia0805
+"""want""","Pondicherry, India",julia0805
+"""want""","El Calafate, Argentina",julia0805
+"""been""","St. Petersburg, Russia",julia0805
+"""want""","Ushuaia, Argentina",julia0805
+"""want""","Ljubljana, Slovenia",julia0805
+"""been""","Banos, Ecuador",julia0805
+"""want""","Hisaronu, Turkey",julia0805
+"""want""","Icmeler, Turkey",julia0805
+"""want""","Mar del Plata, Argentina",julia0805
+"""want""","Faro, Portugal",julia0805
+"""want""","Carvoeiro, Portugal",julia0805
+"""been""","Cancun, Mexico",julia0805
+"""want""","Lagos, Portugal",julia0805
+"""been""","Kyiv (Kiev), Ukraine",julia0805
+"""want""","Algarve, Portugal",julia0805
+"""want""","Lille, France",julia0805
+"""want""","Lourdes, France",julia0805
+"""been""","Mexico City, Mexico",julia0805
+"""want""","Aspen, CO, USA",julia0805
+"""been""","Brescia, Italy",julia0805
+"""been""","Milano Marittima, Italy",julia0805
+"""been""","Arlington, VA, USA",julia0805
+"""been""","Buenos Aires, Argentina",julia0805
+"""want""","Bengaluru, India",julia0805
+"""been""","Newport Beach, CA, USA",julia0805
+"""want""","Guia de Isora, Spain",julia0805
+"""want""","Leh, India",julia0805
+"""want""","Oslo, Norway",julia0805
+"""want""","Kochi (Cochin), India",julia0805
+"""want""","Luxembourg City, Luxembourg",julia0805
+"""been""","Pamukkale, Turkey",julia0805
+"""been""","Caen, France",julia0805
+"""want""","Saint Julian's, Malta",julia0805
+"""want""","Deauville City, France",julia0805
+"""been""","Chicago, IL, USA",julia0805
+"""want""","Montepulciano, Italy",julia0805
+"""want""","Bayeux, France",julia0805
+"""been""","Avalon, CA, USA",julia0805
+"""been""","Toronto, Ontario, Canada",julia0805
+"""been""","Los Angeles, CA, USA",julia0805
+"""been""","Fresno, CA, USA",julia0805
+"""been""","Irvine, CA, USA",julia0805
+"""been""","Pismo Beach, CA, USA",julia0805
+"""been"",""want""","Nelspruit, South Africa",julia0805
+"""want""","Opatija, Croatia",julia0805
+"""want""","Marsa Alam, Egypt",julia0805
+"""been""","Sapa, Vietnam",julia0805
+"""want""","Gaziantep, Turkey",julia0805
+"""want""","Beirut, Lebanon",julia0805
+"""want""","Zagreb, Croatia",julia0805
+"""been"",""want""","Antalya, Turkey",julia0805
+"""want""","Alanya, Turkey",julia0805
+"""been""","Sofia, Bulgaria",julia0805
+"""want""","Blue Bay, Africa",julia0805
+"""been""","Riga, Latvia",julia0805
+"""been""","Bordeaux, France",julia0805
+"""want""","Colmar, France",julia0805
+"""want""","Strasbourg, France",julia0805
+"""been""","Rouen, France",julia0805
+"""been""","Moab, UT, USA",julia0805
+"""want""","Cayo Santa Maria, Cuba",julia0805
+"""been""","Buena Park, CA, USA",julia0805
+"""been""","Burbank, CA, USA",julia0805
+"""been""","Burlingame, CA, USA",julia0805
+"""want""","Ahmedabad, India",julia0805
+"""want""","Hong Kong, China",julia0805
+"""want""","Candolim, India",julia0805
+"""been""","Kas, Turkey",julia0805
+"""want""","Kalkan, Turkey",julia0805
+"""want""","Dubai, United Arab Emirates",julia0805
+"""been""","Sucre, Bolivia",julia0805
+"""want""","Balikesir, Turkey",julia0805
+"""want""","Lhasa, China",julia0805
+"""want""","Kusadasi, Turkey",julia0805
+"""want""","Kyrenia, Cyprus",julia0805
+"""been""","Potosi, Bolivia",julia0805
+"""been""","Tallinn, Estonia",julia0805
+"""been""","Geneva, Switzerland",julia0805
+"""want""","Bern, Switzerland",julia0805
+"""want""","Ponza Island, Italy",julia0805
+"""want""","Biarritz, France",julia0805
+"""been""","San Francisco, CA, USA",julia0805
+"""been""","Escondido, CA, USA",julia0805
+"""want""","Granada, Nicaragua",julia0805
+"""been""","Encinitas, CA, USA",julia0805
+"""want""","Adelaide, Australia",julia0805
+"""been""","Playa del Ingles, Spain",julia0805
+"""been""","Lake Havasu City, AZ, USA",julia0805
+"""want""","Holetown, Barbados",julia0805
+"""want""","Gurugram (Gurgaon), India",julia0805
+"""been""","Grand Canyon National Park, AZ, USA",julia0805
+"""been""","Vilnius, Lithuania",julia0805
+"""been""","Bursa, Turkey",julia0805
+"""been""","Santa Fe, NM, USA",julia0805
+"""been""","Lisbon, Portugal",julia0805
+"""want""","Marne-la-Vallee, France",julia0805
+"""want""","Calella, Spain",julia0805
+"""want""","Portoferraio, Italy",julia0805
+"""been""","Carnac, France",julia0805
+"""been""","Civitavecchia, Italy",julia0805
+"""want""","Cortina d'Ampezzo, Italy",julia0805
+"""want""","Cadaques, Spain",julia0805
+"""been""","Laguna Beach, CA, USA",julia0805
+"""want""","Vail, CO, USA",julia0805
+"""been""","Boston, MA, USA",julia0805
+"""want""","Isola di Capo Rizzuto, Italy",julia0805
+"""want""","New Orleans, LA, USA",julia0805
+"""been""","Ndola, Zambia",julia0805
+"""want""","Honolulu, HI, USA",julia0805
+"""been""","Machu Picchu, Peru",julia0805
+"""want""","Monastir, Tunisia",julia0805
+"""want""","Midoun, Tunisia",julia0805
+"""want""","Limassol City, Cyprus",julia0805
+"""been""","Lima, Peru",julia0805
+"""want""","Mahdia, Tunisia",julia0805
+"""been""","Cusco, Peru",julia0805
+"""been""","Iquitos, Peru",julia0805
+"""want""","Bled, Slovenia",julia0805
+"""been""","Arequipa, Peru",julia0805
+"""been""","Urubamba, Peru",julia0805
+"""want""","Port El Kantaoui, Tunisia",julia0805
+"""want""","Funchal, Portugal",julia0805
+"""want""","Rochester, NY, USA",julia0805
+"""want""","S'Algar, Spain",julia0805
+"""want""","Ischia, Italy",julia0805
+"""want""","Riccione, Italy",julia0805
+"""been""","Sant'Angelo, Italy",julia0805
+"""been""","La Jolla, CA, USA",julia0805
+"""want""","Orlando, FL, USA",julia0805
+"""want""","Karon, Thailand",julia0805
+"""been""","Houston, TX, USA",julia0805
+"""been""","Flagstaff, AZ, USA",julia0805
+"""want""","Jeddah, Saudi Arabia",julia0805
+"""want""","Andorra la Vella, Andorra",julia0805
+"""want""","Nairobi, Kenya",julia0805
+"""want""","Luxor, Egypt",julia0805
+"""want""","Montevideo, Uruguay",julia0805
+"""been""","Giza, Egypt",julia0805
+"""want""","Palmanova, Spain",julia0805
+"""want""","Grindelwald, Switzerland",julia0805
+"""want""","Forte Dei Marmi, Italy",julia0805
+"""been""","Salt Lake City, UT, USA",julia0805
+"""been""","Del Mar, CA, USA",julia0805
+"""been""","San Clemente, CA, USA",julia0805
+"""been""","Ferrara, Italy",julia0805
+"""been""","West Hollywood, CA, USA",julia0805
+"""want""","Port Saint Lucie, FL, USA",julia0805
+"""want""","Santa Maria, Cape Verde",julia0805
+"""want""","Hjorring, Denmark",julia0805
+"""been""","Aguas Calientes, Peru",julia0805
+"""want""","Lugano, Switzerland",julia0805
+"""want""","Lindos, Greece",julia0805
+"""want""","St. Moritz, Switzerland",julia0805
+"""want""","Porto, Portugal",julia0805
+"""want""","Sa Coma, Spain",julia0805
+"""want""","Locarno, Switzerland",julia0805
+"""been""","Dana Point, CA, USA",julia0805
+"""been""","Kansas City, KS, USA",julia0805
+"""want""","Porto Cristo, Spain",julia0805
+"""been""","Cuenca, Ecuador",julia0805
+"""want""","Guatemala City, Guatemala",julia0805
+"""been""","Quito, Ecuador",julia0805
+"""been""","Santiago, Chile",julia0805
+"""want""","Valparaiso, Chile",julia0805
+"""want""","La Palmyre-Les Mathes, France",julia0805
+"""been""","Rawai, Thailand",julia0805
+"""want""","St. Paul's Bay, Malta",julia0805
+"""want""","Tigaki, Greece",julia0805
+"""want""","Alassio, Italy",julia0805
+"""want""","Prague, Czech Republic",julia0805
+"""want""","Matalascanas, Spain",julia0805
+"""been""","South San Francisco, CA, USA",julia0805
+"""been""","Cambria, CA, USA",julia0805
+"""been""","Calistoga, CA, USA",julia0805
+"""been""","Fish Camp, CA, USA",julia0805
+"""want""","Agrigento, Italy",julia0805
+"""want""","Sydney, Australia",julia0805
+"""want""","Alicante, Spain",julia0805
+"""want""","Lloret de Mar, Spain",julia0805
+"""been""","Brooklyn, NY, USA",julia0805
+"""want""","Jerez De La Frontera, Spain",julia0805
+"""want""","Addis Ababa, Ethiopia",julia0805
+"""been""","Anaheim, CA, USA",julia0805
+"""want""","Lignano Sabbiadoro, Italy",julia0805
+"""want""","Sunne, Sweden",julia0805
+"""want""","Miami Beach, FL, USA",julia0805
+"""been""","Chalong, Thailand",julia0805
+"""been""","Albuquerque, NM, USA",julia0805
+"""been""","Sonoma, CA, USA",julia0805
+"""want""","Miami, FL, USA",julia0805
+"""been""","Baltimore, MD, USA",julia0805
+"""been""","Costa Mesa, CA, USA",julia0805
+"""been""","Solvang, CA, USA",julia0805
+"""want""","Arezzo, Italy",julia0805
+"""been""","Mesa, AZ, USA",julia0805
+"""been""","Siena, Italy",julia0805
+"""been""","Coronado, CA, USA",julia0805
+"""want""","Arusha, Tanzania",julia0805
+"""want""","Savannah, GA, USA",julia0805
+"""want""","Taichung, Taiwan",julia0805
+"""been""","San Gimignano, Italy",julia0805
+"""been""","Sarlat-la-Caneda, France",julia0805
+"""been"",""want""","Victoria Falls, Zimbabwe",julia0805
+"""want""","Taos, NM, USA",julia0805
+"""want""","Valras-Plage, France",julia0805
+"""want""","Bardolino, Italy",julia0805
+"""been""","Santa Monica, CA, USA",julia0805
+"""want""","Watamu, Kenya",julia0805
+"""been""","Santa Rosa, CA, USA",julia0805
+"""want""","Margaret River, Australia",julia0805
+"""been""","Pokhara, Nepal",julia0805
+"""been""","Kathmandu, Nepal",julia0805
+"""been""","Mammoth Lakes, CA, USA",julia0805
+"""want""","Zahara de los Atunes, Spain",julia0805
+"""want""","Es Canar, Spain",julia0805
+"""been""","Santa Clara, CA, USA",julia0805
+"""want""","Pwani Mchangani, Tanzania",julia0805
+"""been""","Santa Barbara, CA, USA",julia0805
+"""been""","Santa Cruz, CA, USA",julia0805
+"""want""","Philadelphia, PA, USA",julia0805
+"""been""","Modena, Italy",julia0805
+"""been""","Temecula, CA, USA",julia0805
+"""been""","Beverly Hills, CA, USA",julia0805
+"""want""","Playa de Muro, Spain",julia0805
+"""want""","Almunecar, Spain",julia0805
+"""want""","Karuizawa-machi, Japan",julia0805
+"""been"",""want""","Eilat, Israel",julia0805
+"""been""","Mont-Saint-Michel, France",julia0805
+"""been""","Ixtapa, Mexico",julia0805
+"""want""","Cala d'Or, Spain",julia0805
+"""been""","Berkeley, CA, USA",julia0805
+"""been""","Tahoe Vista, CA, USA",julia0805
+"""want""","Cala Millor, Spain",julia0805
+"""want""","Cala Ratjada, Spain",julia0805
+"""want""","Manarola, Italy",julia0805
+"""want""","Dar es Salaam, Tanzania",julia0805
+"""want""","Dublin, Ireland",julia0805
+"""been"",""want""","Amman, Jordan",julia0805
+"""want""","Cork, Ireland",julia0805
+"""been"",""want""","Jerusalem, Israel",julia0805
+"""been"",""want""","Tel Aviv, Israel",julia0805
+"""want""","San Pedro de Atacama, Chile",julia0805
+"""want""","Foz do Iguacu, Brazil",julia0805
+"""been""","Sihanoukville, Cambodia",julia0805
+"""want""","Brasilia, Brazil",julia0805
+"""been""","Livingstone, Zambia",julia0805
+"""want""","Curitiba, Brazil",julia0805
+"""been""","Da Nang, Vietnam",julia0805
+"""want""","St Austell, UK",julia0805
+"""been""","Hoi An, Vietnam",julia0805
+"""been""","Vannes, France",julia0805
+"""want""","Jolly Harbour, Antigua and Barbuda",julia0805
+"""been""","Calais, France",julia0805
+"""want""","Kaysersberg, France",julia0805
+"""been""","Quiberon, France",julia0805
+"""been""","San Luis Obispo, CA, USA",julia0805
+"""want""","Can Pastilla, Spain",julia0805
+"""been""","Denver, CO, USA",julia0805
+"""been""","Carmel, CA, USA",julia0805
+"""been""","San Jose, CA, USA",julia0805
+"""been""","Desert Hot Springs, CA, USA",julia0805
+"""been""","Portofino, Italy",julia0805
+"""want""","Kilkenny, Ireland",julia0805
+"""want""","Santa Margherita Ligure, Italy",julia0805
+"""want""","Tunis, Tunisia",julia0805
+"""want""","Calas de Majorca, Spain",julia0805
+"""want""","Vernazza, Italy",julia0805
+"""want""","Mecca, Saudi Arabia",julia0805
+"""been""","Carlsbad, CA, USA",julia0805
+"""want""","Mellieha, Malta",julia0805
+"""want""","Riyadh, Saudi Arabia",julia0805
+"""want""","Bergamo, Italy",julia0805
+"""want""","Limerick, Ireland",julia0805
+"""been""","Ventura, CA, USA",julia0805
+"""want""","Niagara Falls, Ontario, Canada",julia0805
+"""been""","Tashkent, Uzbekistan",julia0805
+"""want""","Haridwar, India",julia0805
+"""been""","New York City, NY, USA",julia0805
+"""want""","Westport, Ireland",julia0805
+"""want""","Varenna, Italy",julia0805
+"""want""","Caleta de Fuste, Spain",julia0805
+"""want""","Bellagio, Italy",julia0805
+"""been""","Como, Italy",julia0805
+"""want""","Mysuru (Mysore), India",julia0805
+"""want""","Mumbai, India",julia0805
+"""want""","Jaipur, India",julia0805
+"""want""","Sant Antoni de Portmany, Spain",julia0805
+"""been""","New Delhi, India",julia0805
+"""want""","Ramatuelle, France",julia0805
+"""been""","San Diego, CA, USA",julia0805
+"""want""","Tokyo, Japan",julia0805
+"""want""","Chennai (Madras), India",julia0805
+"""been"",""want""","Seattle, WA, USA",julia0805
+"""been""","Yellowstone National Park, WY, USA",julia0805
+"""want""","Bayahibe, Dominican Republic",julia0805
+"""been""","Indianapolis, IN, USA",julia0805
+"""been""","Washington DC, DC, USA",julia0805
+"""want""","Kiwengwa, Tanzania",julia0805
+"""want""","Tangier, Morocco",julia0805
+"""want""","Santa Eulalia del Rio, Spain",julia0805
+"""want""","Cassis, France",julia0805
+"""been"",""want"",""fave""","Marrakech, Morocco",julia0805
+"""been""","Selcuk, Turkey",julia0805
+"""want""","Fes, Morocco",julia0805
+"""want""","Rabat, Morocco",julia0805
+"""been""","Milan, Italy",julia0805
+"""want""","Casablanca, Morocco",julia0805
+"""been"",""want""","Istanbul, Turkey",julia0805
+"""want""","Agadir, Morocco",julia0805
+"""been""","South Lake Tahoe, CA, USA",julia0805
+"""want""","Manaus, Brazil",julia0805
+"""been""","Gatineau, Quebec, Canada",julia0805
+"""want""","Fethiye, Turkey",julia0805
+"""want""","Quarteira, Portugal",julia0805
+"""want""","St. Lawrence Gap, Barbados",julia0805
+"""want""","Cayo Guillermo, Cuba",julia0805
+"""want""","West Bay, Honduras",julia0805
+"""been""","Windhoek, Namibia",julia0805
+"""been""","Turin, Italy",julia0805
+"""want""","Edinburgh, UK",julia0805
+"""want""","Melbourne, Australia",julia0805
+"""been""","Phnom Penh, Cambodia",julia0805
+"""been""","Cambridge, MA, USA",julia0805
+"""been""","Atlanta, GA, USA",julia0805
+"""want""","Playa el Agua, Venezuela",julia0805
+"""want""","Pajara, Spain",julia0805
+"""want""","Algiers, Algeria",julia0805
+"""want""","La Coruna, Spain",julia0805
+"""want""","Santiago de Compostela, Spain",julia0805
+"""want""","Windsor, UK",julia0805
+"""been""","Sausalito, CA, USA",julia0805

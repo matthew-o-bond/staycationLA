@@ -1,0 +1,637 @@
+tag,place,user
+"""been""","Mobile, AL, USA",ROCruiser
+"""been""","Puntarenas, Costa Rica",ROCruiser
+"""been""","Selcuk, Turkey",ROCruiser
+"""been""","Istanbul, Turkey",ROCruiser
+"""been""","Jingzhou, China",ROCruiser
+"""been""","Gold Beach, OR, USA",ROCruiser
+"""been""","Gillette, WY, USA",ROCruiser
+"""been""","Bozeman, MT, USA",ROCruiser
+"""been""","Tokyo, Japan",ROCruiser
+"""been""","Yilan City, Taiwan",ROCruiser
+"""been""","Longsheng County, China",ROCruiser
+"""been""","Terre Haute, IN, USA",ROCruiser
+"""been""","Fenghuang County, China",ROCruiser
+"""been""","Boise, ID, USA",ROCruiser
+"""been""","Grants Pass, OR, USA",ROCruiser
+"""been""","Hakone-machi, Japan",ROCruiser
+"""been""","Rome, Italy",ROCruiser
+"""been""","Daiba, Japan",ROCruiser
+"""been""","Sioux Falls, SD, USA",ROCruiser
+"""been""","Yokohama, Japan",ROCruiser
+"""been""","Deming, NM, USA",ROCruiser
+"""been""","Emeishan, China",ROCruiser
+"""been""","Hua'an County, China",ROCruiser
+"""been""","Russell, New Zealand",ROCruiser
+"""been""","Babb, MT, USA",ROCruiser
+"""been"",""want""","London, UK",ROCruiser
+"""been""","Chengde, China",ROCruiser
+"""been""","Eugene, OR, USA",ROCruiser
+"""been""","Hoi An, Vietnam",ROCruiser
+"""been""","Beldibi, Turkey",ROCruiser
+"""been""","Rotterdam, The Netherlands",ROCruiser
+"""been""","Great Falls, MT, USA",ROCruiser
+"""been""","Florence, OR, USA",ROCruiser
+"""been""","Nara, Japan",ROCruiser
+"""been""","South Queensferry, UK",ROCruiser
+"""been""","Sete Cidades, Portugal",ROCruiser
+"""been""","Kinderdijk, The Netherlands",ROCruiser
+"""been""","Newport, OR, USA",ROCruiser
+"""been""","Jerusalem, Israel",ROCruiser
+"""been""","Yangshuo County, China",ROCruiser
+"""been""","Pisa, Italy",ROCruiser
+"""been""","Haifa, Israel",ROCruiser
+"""been""","Billings, MT, USA",ROCruiser
+"""been""","Hilo, HI, USA",ROCruiser
+"""been""","Florence, Italy",ROCruiser
+"""been""","Bandon, OR, USA",ROCruiser
+"""been""","Taormina, Italy",ROCruiser
+"""been""","Montgomery, AL, USA",ROCruiser
+"""been""","Weifang, China",ROCruiser
+"""been""","Rostock, Germany",ROCruiser
+"""been""","Yueyang, China",ROCruiser
+"""been""","Hualien City, Taiwan",ROCruiser
+"""been""","Lijiang, China",ROCruiser
+"""been""","Monroe, LA, USA",ROCruiser
+"""been""","Dali, China",ROCruiser
+"""been""","Alamogordo, NM, USA",ROCruiser
+"""been""","Savoca, Italy",ROCruiser
+"""been""","Warnemunde, Germany",ROCruiser
+"""been""","Newcastle upon Tyne, UK",ROCruiser
+"""been""","Copenhagen, Denmark",ROCruiser
+"""been""","Monte-Carlo, Monaco",ROCruiser
+"""been""","Ang Thong, Thailand",ROCruiser
+"""been""","Yixing, China",ROCruiser
+"""been""","Springfield, MO, USA",ROCruiser
+"""been""","Songpan County, China",ROCruiser
+"""been""","Leshan, China",ROCruiser
+"""been""","Albany, OR, USA",ROCruiser
+"""been""","Jackson, MS, USA",ROCruiser
+"""been""","Bago, Myanmar",ROCruiser
+"""been""","Heraklion, Greece",ROCruiser
+"""been""","Pomona, CA, USA",ROCruiser
+"""been""","Las Cruces, NM, USA",ROCruiser
+"""been""","Tomigusuku, Japan",ROCruiser
+"""been""","Ogden, UT, USA",ROCruiser
+"""been""","Stavanger, Norway",ROCruiser
+"""been""","Tai'an, China",ROCruiser
+"""been""","Taichung, Taiwan",ROCruiser
+"""been""","Qufu, China",ROCruiser
+"""been""","Taoyuan, Taiwan",ROCruiser
+"""been""","Rancho Cucamonga, CA, USA",ROCruiser
+"""been""","Hsinchu, Taiwan",ROCruiser
+"""been""","Brookings, OR, USA",ROCruiser
+"""been""","Kaohsiung, Taiwan",ROCruiser
+"""been""","Bergen, Norway",ROCruiser
+"""been""","Piraeus, Greece",ROCruiser
+"""been""","Ontario, CA, USA",ROCruiser
+"""been""","Palma de Mallorca, Spain",ROCruiser
+"""been""","Cannes, France",ROCruiser
+"""been""","Athens, Greece",ROCruiser
+"""been""","Mendocino, CA, USA",ROCruiser
+"""been""","Jackson, WY, USA",ROCruiser
+"""been""","Jiaxing, China",ROCruiser
+"""been""","Shreveport, LA, USA",ROCruiser
+"""been""","Chiayi, Taiwan",ROCruiser
+"""been""","Cannon Beach, OR, USA",ROCruiser
+"""been""","Roswell, NM, USA",ROCruiser
+"""been""","Oakland, CA, USA",ROCruiser
+"""been""","Frankfurt, Germany",ROCruiser
+"""been""","Oceanside, CA, USA",ROCruiser
+"""been""","Nagoya, Japan",ROCruiser
+"""been""","Naha, Japan",ROCruiser
+"""been""","Milan, Italy",ROCruiser
+"""been""","Pacific Grove, CA, USA",ROCruiser
+"""been""","Palo Alto, CA, USA",ROCruiser
+"""been""","Fiumicino, Italy",ROCruiser
+"""been""","Bridgetown, Barbados",ROCruiser
+"""been""","Monrovia, CA, USA",ROCruiser
+"""been""","Pala, CA, USA",ROCruiser
+"""been""","Stamford, CT, USA",ROCruiser
+"""been""","Palm Springs, CA, USA",ROCruiser
+"""been""","Maho, St Martin \u002F St Maarten",ROCruiser
+"""been""","Palm Desert, CA, USA",ROCruiser
+"""been""","Karahayit, Turkey",ROCruiser
+"""been""","Miyazu, Japan",ROCruiser
+"""been""","Orick, CA, USA",ROCruiser
+"""been""","La Goulette, Tunisia",ROCruiser
+"""been""","Anderson, IN, USA",ROCruiser
+"""been""","Redding, CA, USA",ROCruiser
+"""been""","Bryce, UT, USA",ROCruiser
+"""been""","Hill City, SD, USA",ROCruiser
+"""been""","Como, Italy",ROCruiser
+"""been""","Milpitas, CA, USA",ROCruiser
+"""been""","Kelowna, British Columbia, Canada",ROCruiser
+"""been""","Kamloops, British Columbia, Canada",ROCruiser
+"""been""","Fort Worth, TX, USA",ROCruiser
+"""been""","Zhong County, China",ROCruiser
+"""been""","Kuala Lumpur, Malaysia",ROCruiser
+"""been""","Redondo Beach, CA, USA",ROCruiser
+"""been""","Cabo San Lucas, Mexico",ROCruiser
+"""been""","Wichita, KS, USA",ROCruiser
+"""been""","Shizuoka, Japan",ROCruiser
+"""been""","Izmir, Turkey",ROCruiser
+"""been""","Narusawa-mura, Japan",ROCruiser
+"""been""","Pincher Creek, Alberta, Canada",ROCruiser
+"""been""","Island of Hawaii, HI, USA",ROCruiser
+"""been""","Kauai, HI, USA",ROCruiser
+"""been""","Huangshan, China",ROCruiser
+"""been""","Tsukiji, Japan",ROCruiser
+"""been""","Belize City, Belize",ROCruiser
+"""been""","Shibakoen, Japan",ROCruiser
+"""been""","Corniglia, Italy",ROCruiser
+"""been""","Manarola, Italy",ROCruiser
+"""been""","Oahu, HI, USA",ROCruiser
+"""been""","Santa Margherita Ligure, Italy",ROCruiser
+"""been""","Tainan, Taiwan",ROCruiser
+"""been""","Maui, HI, USA",ROCruiser
+"""been""","Portofino, Italy",ROCruiser
+"""been""","Pauma Valley, CA, USA",ROCruiser
+"""been""","Arcadia, CA, USA",ROCruiser
+"""been""","Genoa, Italy",ROCruiser
+"""been""","La Spezia, Italy",ROCruiser
+"""been""","Jiande, China",ROCruiser
+"""been""","Paso Robles, CA, USA",ROCruiser
+"""been""","Riomaggiore, Italy",ROCruiser
+"""been""","Vernazza, Italy",ROCruiser
+"""been""","Yuma, AZ, USA",ROCruiser
+"""been""","Shuangliu County, China",ROCruiser
+"""been""","Acapulco, Mexico",ROCruiser
+"""been""","Morro Bay, CA, USA",ROCruiser
+"""been""","Rosemead, CA, USA",ROCruiser
+"""been""","Aomori, Japan",ROCruiser
+"""been""","Oshino-mura, Japan",ROCruiser
+"""been""","Hamamatsucho, Japan",ROCruiser
+"""want""","Providenciales, Turks and Caicos",ROCruiser
+"""been""","Kanazawa, Japan",ROCruiser
+"""been""","Shibadaimon, Japan",ROCruiser
+"""been""","Beatty, NV, USA",ROCruiser
+"""been""","Phuket Town, Thailand",ROCruiser
+"""been""","Montclair, CA, USA",ROCruiser
+"""been""","Mazatlan, Mexico",ROCruiser
+"""been""","Dallas, TX, USA",ROCruiser
+"""been""","Puerto Vallarta, Mexico",ROCruiser
+"""been""","Leggett, CA, USA",ROCruiser
+"""been""","Lake Louise, Alberta, Canada",ROCruiser
+"""been""","Pasadena, CA, USA",ROCruiser
+"""been""","Monterey Park, CA, USA",ROCruiser
+"""been""","Banff, Alberta, Canada",ROCruiser
+"""been""","Williams, AZ, USA",ROCruiser
+"""been""","Tianjin, China",ROCruiser
+"""been""","Banff National Park, Alberta, Canada",ROCruiser
+"""been""","Montebello, CA, USA",ROCruiser
+"""been""","Monterey, CA, USA",ROCruiser
+"""been""","Riverside, CA, USA",ROCruiser
+"""been""","Calgary, Alberta, Canada",ROCruiser
+"""been""","Laughlin, NV, USA",ROCruiser
+"""been""","Las Vegas, NV, USA",ROCruiser
+"""been""","Jean, NV, USA",ROCruiser
+"""been""","Wuyi Shan, China",ROCruiser
+"""been""","Kushiro, Japan",ROCruiser
+"""been""","Flam, Norway",ROCruiser
+"""been""","Ostia Antica, Italy",ROCruiser
+"""been""","Fuji, Japan",ROCruiser
+"""been""","Nha Trang, Vietnam",ROCruiser
+"""been""","Sihanoukville, Cambodia",ROCruiser
+"""been""","Ho Chi Minh City, Vietnam",ROCruiser
+"""been""","Murrieta, CA, USA",ROCruiser
+"""been""","Napa, CA, USA",ROCruiser
+"""been""","Avalon, CA, USA",ROCruiser
+"""been""","Dazu County, China",ROCruiser
+"""been""","Valencia, Spain",ROCruiser
+"""been""","Messina, Italy",ROCruiser
+"""been""","New Haven, CT, USA",ROCruiser
+"""been""","Azusa, CA, USA",ROCruiser
+"""been""","Phoenix, AZ, USA",ROCruiser
+"""been""","Dover, UK",ROCruiser
+"""been""","Oyster Pond, St Martin \u002F St Maarten",ROCruiser
+"""been""","Canterbury, UK",ROCruiser
+"""been""","Lone Pine, CA, USA",ROCruiser
+"""been""","Long Beach, CA, USA",ROCruiser
+"""been""","Yuzhno-Sakhalinsk, Russia",ROCruiser
+"""been""","Saint Louis, MO, USA",ROCruiser
+"""been""","Mesquite, NV, USA",ROCruiser
+"""been""","Sanjiang, China",ROCruiser
+"""been""","Pattaya, Thailand",ROCruiser
+"""been""","Bangkok, Thailand",ROCruiser
+"""been""","Taipei, Taiwan",ROCruiser
+"""been""","Halong Bay, Vietnam",ROCruiser
+"""been""","Port Orford, OR, USA",ROCruiser
+"""been""","Huntington Beach, CA, USA",ROCruiser
+"""been""","Portland, OR, USA",ROCruiser
+"""been""","Fillmore, UT, USA",ROCruiser
+"""been""","Yachats, OR, USA",ROCruiser
+"""been""","Perris, CA, USA",ROCruiser
+"""been""","Helsinki, Finland",ROCruiser
+"""been""","Rowland Heights, CA, USA",ROCruiser
+"""been""","Milford Sound, New Zealand",ROCruiser
+"""been""","Idyllwild, CA, USA",ROCruiser
+"""been""","Inverness, UK",ROCruiser
+"""been""","Pueblo, CO, USA",ROCruiser
+"""been""","Gibraltar, Europe",ROCruiser
+"""been""","Sacramento, CA, USA",ROCruiser
+"""been""","Venice, Italy",ROCruiser
+"""been""","Verona, Italy",ROCruiser
+"""been""","Petropavlovsk-Kamchatsky, Russia",ROCruiser
+"""been""","Dunedin, New Zealand",ROCruiser
+"""been""","New Taipei, Taiwan",ROCruiser
+"""been""","Melaka, Malaysia",ROCruiser
+"""been""","Tauranga, New Zealand",ROCruiser
+"""been""","Wellington, New Zealand",ROCruiser
+"""been""","Joshua Tree, CA, USA",ROCruiser
+"""been""","Drumnadrochit, UK",ROCruiser
+"""been""","Macau, China",ROCruiser
+"""been""","Rapid City, SD, USA",ROCruiser
+"""been""","Garden Grove, CA, USA",ROCruiser
+"""been""","Norwalk, CT, USA",ROCruiser
+"""been""","Victoria, British Columbia, Canada",ROCruiser
+"""been""","Vancouver, British Columbia, Canada",ROCruiser
+"""been""","Narita, Japan",ROCruiser
+"""been""","Langkawi, Malaysia",ROCruiser
+"""been""","Henderson, NV, USA",ROCruiser
+"""been""","Lake Charles, LA, USA",ROCruiser
+"""been""","Migdal, Israel",ROCruiser
+"""been""","Baton Rouge, LA, USA",ROCruiser
+"""been""","Kisarazu, Japan",ROCruiser
+"""been""","Newport Beach, CA, USA",ROCruiser
+"""been""","Incline Village, NV, USA",ROCruiser
+"""been""","Prescott, AZ, USA",ROCruiser
+"""been""","Fresno, CA, USA",ROCruiser
+"""been""","Los Angeles, CA, USA",ROCruiser
+"""been""","Edinburgh, UK",ROCruiser
+"""been""","Pismo Beach, CA, USA",ROCruiser
+"""been""","Irvine, CA, USA",ROCruiser
+"""been""","Galveston, TX, USA",ROCruiser
+"""been""","Fullerton, CA, USA",ROCruiser
+"""been""","Otaru, Japan",ROCruiser
+"""been""","Hakodate, Japan",ROCruiser
+"""been""","Singapore, Singapore",ROCruiser
+"""been""","Shenzhen, China",ROCruiser
+"""been""","Zhongshan, China",ROCruiser
+"""been""","Seaside, OR, USA",ROCruiser
+"""been""","St. Petersburg, Russia",ROCruiser
+"""been""","Anacortes, WA, USA",ROCruiser
+"""been""","Winthrop, WA, USA",ROCruiser
+"""been""","Jiashan County, China",ROCruiser
+"""been""","Salem, OR, USA",ROCruiser
+"""been""","Englewood, CO, USA",ROCruiser
+"""been""","Marina, CA, USA",ROCruiser
+"""been""","Sedona, AZ, USA",ROCruiser
+"""been""","Klamath, CA, USA",ROCruiser
+"""been""","Marina del Rey, CA, USA",ROCruiser
+"""been""","Richardson, TX, USA",ROCruiser
+"""been""","Busan, South Korea",ROCruiser
+"""been""","Tiberias, Israel",ROCruiser
+"""been""","Shinjuku 3 Chome, Japan",ROCruiser
+"""been""","Changle, China",ROCruiser
+"""been""","Incheon, South Korea",ROCruiser
+"""been""","Astoria, OR, USA",ROCruiser
+"""been""","Xiamen, China",ROCruiser
+"""been""","Korsakov, Russia",ROCruiser
+"""been""","Aberdeen, WA, USA",ROCruiser
+"""been""","Malibu, CA, USA",ROCruiser
+"""been""","Salt Lake City, UT, USA",ROCruiser
+"""been""","Port Angeles, WA, USA",ROCruiser
+"""been""","Manhattan Beach, CA, USA",ROCruiser
+"""been""","Waterton Lakes National Park, Alberta, Canada",ROCruiser
+"""been""","Pasadena, TX, USA",ROCruiser
+"""been""","Saqqara, Egypt",ROCruiser
+"""been""","Clovis, NM, USA",ROCruiser
+"""been""","Pahrump, NV, USA",ROCruiser
+"""been""","Fort-de-France, Martinique",ROCruiser
+"""been""","Dubrovnik, Croatia",ROCruiser
+"""been""","Sintra, Portugal",ROCruiser
+"""been""","Kansas City, MO, USA",ROCruiser
+"""been""","Hirosaki, Japan",ROCruiser
+"""been""","Hibiyakoen, Japan",ROCruiser
+"""been""","Wuhan, China",ROCruiser
+"""been""","Juneau, AK, USA",ROCruiser
+"""been""","Lake Havasu City, AZ, USA",ROCruiser
+"""been""","Yichang, China",ROCruiser
+"""been""","Shimbashi, Japan",ROCruiser
+"""been""","Talkeetna, AK, USA",ROCruiser
+"""been""","Laguna Beach, CA, USA",ROCruiser
+"""been""","Ginza, Japan",ROCruiser
+"""been""","Reedsport, OR, USA",ROCruiser
+"""been""","Half Moon Bay, CA, USA",ROCruiser
+"""been""","Coalinga, CA, USA",ROCruiser
+"""been""","Hacienda Heights, CA, USA",ROCruiser
+"""been""","Hoonah, AK, USA",ROCruiser
+"""been""","El Segundo, CA, USA",ROCruiser
+"""been""","La Puente, CA, USA",ROCruiser
+"""been""","San Juan, Puerto Rico",ROCruiser
+"""been""","Primm, NV, USA",ROCruiser
+"""been""","Split, Croatia",ROCruiser
+"""been""","Searchlight, NV, USA",ROCruiser
+"""been""","Civitavecchia, Italy",ROCruiser
+"""been""","Nandan County, China",ROCruiser
+"""been""","Paphos, Cyprus",ROCruiser
+"""been""","Brest, France",ROCruiser
+"""been""","Port Said, Egypt",ROCruiser
+"""been""","Reno, NV, USA",ROCruiser
+"""been""","Kamakura, Japan",ROCruiser
+"""been""","Keystone, SD, USA",ROCruiser
+"""been""","Wichita Falls, TX, USA",ROCruiser
+"""been""","Barstow, CA, USA",ROCruiser
+"""been""","Limassol City, Cyprus",ROCruiser
+"""been""","Rockaway Beach, OR, USA",ROCruiser
+"""been""","City of Industry, CA, USA",ROCruiser
+"""been""","La Habra, CA, USA",ROCruiser
+"""been""","Mesa Verde National Park, CO, USA",ROCruiser
+"""been""","Haines, AK, USA",ROCruiser
+"""been""","Renton, WA, USA",ROCruiser
+"""been""","Claremont, CA, USA",ROCruiser
+"""been""","La Jolla, CA, USA",ROCruiser
+"""been""","Ribeira Grande, Portugal",ROCruiser
+"""been""","Roseburg, OR, USA",ROCruiser
+"""been""","Auburn, WA, USA",ROCruiser
+"""been""","Seabrook, TX, USA",ROCruiser
+"""been""","Clearlake, CA, USA",ROCruiser
+"""been""","Lisbon, Portugal",ROCruiser
+"""been""","El Monte, CA, USA",ROCruiser
+"""been""","Marigot, St Martin \u002F St Maarten",ROCruiser
+"""been""","George Town, Malaysia",ROCruiser
+"""been""","Alexandria, Egypt",ROCruiser
+"""been""","Jinan, China",ROCruiser
+"""been""","Coronado, CA, USA",ROCruiser
+"""been""","Orient Bay, St Martin \u002F St Maarten",ROCruiser
+"""been""","Hesperia, CA, USA",ROCruiser
+"""been""","Qingdao, China",ROCruiser
+"""been""","Whittier, AK, USA",ROCruiser
+"""been""","Stanwood, WA, USA",ROCruiser
+"""been""","Hermosa Beach, CA, USA",ROCruiser
+"""been""","Corning, CA, USA",ROCruiser
+"""been""","San Antonio, TX, USA",ROCruiser
+"""been""","Redwood National Park, CA, USA",ROCruiser
+"""been""","Tillamook, OR, USA",ROCruiser
+"""been""","San Francisco, CA, USA",ROCruiser
+"""been""","Page, AZ, USA",ROCruiser
+"""been""","Alviso, CA, USA",ROCruiser
+"""been""","Spokane, WA, USA",ROCruiser
+"""been""","Buena Park, CA, USA",ROCruiser
+"""been""","Greeley, CO, USA",ROCruiser
+"""been""","Eureka, CA, USA",ROCruiser
+"""been""","Buellton, CA, USA",ROCruiser
+"""been""","Burlingame, CA, USA",ROCruiser
+"""been""","Burbank, CA, USA",ROCruiser
+"""been""","Furnas, Portugal",ROCruiser
+"""been""","Suzhou, China",ROCruiser
+"""been""","Helena, MT, USA",ROCruiser
+"""been""","Wuxi, China",ROCruiser
+"""been""","Grand Junction, CO, USA",ROCruiser
+"""been""","Tuba City, AZ, USA",ROCruiser
+"""been""","Arlington, TX, USA",ROCruiser
+"""been""","Ketchikan, AK, USA",ROCruiser
+"""been""","Volcano, HI, USA",ROCruiser
+"""been""","La Porte, TX, USA",ROCruiser
+"""been""","Trapper Creek, AK, USA",ROCruiser
+"""been""","Golden, CO, USA",ROCruiser
+"""been""","Sitka, AK, USA",ROCruiser
+"""been""","Moab, UT, USA",ROCruiser
+"""been""","Fira, Greece",ROCruiser
+"""been""","Boulder, CO, USA",ROCruiser
+"""been""","Oia, Greece",ROCruiser
+"""been""","Alhambra, CA, USA",ROCruiser
+"""been""","Escondido, CA, USA",ROCruiser
+"""been""","Keelung, Taiwan",ROCruiser
+"""been""","Ensenada, Mexico",ROCruiser
+"""been""","Ilwaco, WA, USA",ROCruiser
+"""been""","Tijuana, Mexico",ROCruiser
+"""been""","Lincoln, NE, USA",ROCruiser
+"""been""","Changsha, China",ROCruiser
+"""been""","Zhangjiajie, China",ROCruiser
+"""been""","Kyoto, Japan",ROCruiser
+"""been""","Kobe, Japan",ROCruiser
+"""been""","Cartagena, Colombia",ROCruiser
+"""been""","Penang Island, Malaysia",ROCruiser
+"""been""","Nagasaki, Japan",ROCruiser
+"""been""","Osaka, Japan",ROCruiser
+"""been""","Culver City, CA, USA",ROCruiser
+"""been""","Yurakucho, Japan",ROCruiser
+"""been""","Sicamous, British Columbia, Canada",ROCruiser
+"""been""","Fontana, CA, USA",ROCruiser
+"""been""","Cambria, CA, USA",ROCruiser
+"""been""","Tyler, TX, USA",ROCruiser
+"""been""","Albuquerque, NM, USA",ROCruiser
+"""been""","Baltimore, MD, USA",ROCruiser
+"""been""","Sequim, WA, USA",ROCruiser
+"""been""","South San Francisco, CA, USA",ROCruiser
+"""been""","Chiryu, Japan",ROCruiser
+"""been""","Crestline, CA, USA",ROCruiser
+"""been""","SeaTac, WA, USA",ROCruiser
+"""been""","Grand Cayman, Cayman Islands",ROCruiser
+"""been""","Foshan, China",ROCruiser
+"""been""","Des Moines, IA, USA",ROCruiser
+"""been""","Sapporo, Japan",ROCruiser
+"""been""","Shaoxing, China",ROCruiser
+"""been""","Chengdu, China",ROCruiser
+"""been""","Guilin, China",ROCruiser
+"""been""","Delos, Greece",ROCruiser
+"""been""","Guangzhou, China",ROCruiser
+"""been""","Covina, CA, USA",ROCruiser
+"""been""","Kunming, China",ROCruiser
+"""been""","Hangzhou, China",ROCruiser
+"""been""","Big Spring, TX, USA",ROCruiser
+"""been""","Brooklyn, NY, USA",ROCruiser
+"""been""","Fairbanks, AK, USA",ROCruiser
+"""been""","Crescent City, CA, USA",ROCruiser
+"""been""","Sutherlin, OR, USA",ROCruiser
+"""been""","Sonoma, CA, USA",ROCruiser
+"""been""","Mukilteo, WA, USA",ROCruiser
+"""been""","Calabasas, CA, USA",ROCruiser
+"""been""","Miami, FL, USA",ROCruiser
+"""been""","Sydney, Australia",ROCruiser
+"""been""","Greenbank, WA, USA",ROCruiser
+"""been""","Vancouver, WA, USA",ROCruiser
+"""been""","Solvang, CA, USA",ROCruiser
+"""been""","Buttonwillow, CA, USA",ROCruiser
+"""been""","Costa Mesa, CA, USA",ROCruiser
+"""been""","Victorville, CA, USA",ROCruiser
+"""been""","Cabazon, CA, USA",ROCruiser
+"""been""","Anaheim, CA, USA",ROCruiser
+"""been""","Lubbock, TX, USA",ROCruiser
+"""been""","Yangon (Rangoon), Myanmar",ROCruiser
+"""been""","Vienna, Austria",ROCruiser
+"""been""","Carmel, CA, USA",ROCruiser
+"""been""","Desert Hot Springs, CA, USA",ROCruiser
+"""been""","San Jose, CA, USA",ROCruiser
+"""been""","League City, TX, USA",ROCruiser
+"""been""","Odessa, TX, USA",ROCruiser
+"""been""","Carlsbad, CA, USA",ROCruiser
+"""been""","Chuo, Japan",ROCruiser
+"""been""","Seattle, WA, USA",ROCruiser
+"""been""","Yellowstone National Park, WY, USA",ROCruiser
+"""been""","Skagway, AK, USA",ROCruiser
+"""been""","Lahaina, HI, USA",ROCruiser
+"""been""","San Gabriel, CA, USA",ROCruiser
+"""been""","Del Mar, CA, USA",ROCruiser
+"""been""","Kahului, HI, USA",ROCruiser
+"""been""","Seward, AK, USA",ROCruiser
+"""been""","San Clemente, CA, USA",ROCruiser
+"""been""","Kailua-Kona, HI, USA",ROCruiser
+"""been""","Hana, HI, USA",ROCruiser
+"""been""","West Sacramento, CA, USA",ROCruiser
+"""been""","San Dimas, CA, USA",ROCruiser
+"""been""","Chiyoda, Japan",ROCruiser
+"""been""","Walla Walla, WA, USA",ROCruiser
+"""been""","San Diego, CA, USA",ROCruiser
+"""been""","Valletta, Malta",ROCruiser
+"""been""","Koto, Japan",ROCruiser
+"""been""","Nippombashi, Japan",ROCruiser
+"""been""","Corfu Town, Greece",ROCruiser
+"""been""","Cut Bank, MT, USA",ROCruiser
+"""been""","Mdina, Malta",ROCruiser
+"""been""","Edmonds, WA, USA",ROCruiser
+"""been""","West Hollywood, CA, USA",ROCruiser
+"""been""","West Covina, CA, USA",ROCruiser
+"""been""","Ventura, CA, USA",ROCruiser
+"""been""","Bakersfield, CA, USA",ROCruiser
+"""been""","Dana Point, CA, USA",ROCruiser
+"""been""","El Paso, TX, USA",ROCruiser
+"""been""","Shinano-machi, Japan",ROCruiser
+"""been""","St. George, UT, USA",ROCruiser
+"""been""","Springfield, IL, USA",ROCruiser
+"""been""","Omaha, NE, USA",ROCruiser
+"""been""","Poulsbo, WA, USA",ROCruiser
+"""been""","Colorado Springs, CO, USA",ROCruiser
+"""been""","New York City, NY, USA",ROCruiser
+"""been""","Weaverville, CA, USA",ROCruiser
+"""been""","Carlsbad, NM, USA",ROCruiser
+"""been""","Boulder City, NV, USA",ROCruiser
+"""been""","Anchorage, AK, USA",ROCruiser
+"""been""","Coos Bay, OR, USA",ROCruiser
+"""been""","Kansas City, KS, USA",ROCruiser
+"""been""","Butte, MT, USA",ROCruiser
+"""been""","Amsterdam, The Netherlands",ROCruiser
+"""been""","Browning, MT, USA",ROCruiser
+"""been""","Saint Mary, MT, USA",ROCruiser
+"""been""","Cairo, Egypt",ROCruiser
+"""been""","Santa Ana, CA, USA",ROCruiser
+"""been""","Giza, Egypt",ROCruiser
+"""been""","Temecula, CA, USA",ROCruiser
+"""been""","Big Bear City, CA, USA",ROCruiser
+"""been""","Tallinn, Estonia",ROCruiser
+"""been""","Beverly Hills, CA, USA",ROCruiser
+"""been""","Wushan County, China",ROCruiser
+"""been""","Fengjie County, China",ROCruiser
+"""been""","Richmond, British Columbia, Canada",ROCruiser
+"""been""","Beaumont, TX, USA",ROCruiser
+"""been""","Newport, RI, USA",ROCruiser
+"""been""","Kent, WA, USA",ROCruiser
+"""been""","Port Arthur, TX, USA",ROCruiser
+"""been""","San Simeon, CA, USA",ROCruiser
+"""been""","Konstanz, Germany",ROCruiser
+"""been""","Olympia, WA, USA",ROCruiser
+"""been""","Tacoma, WA, USA",ROCruiser
+"""been""","Berkeley, CA, USA",ROCruiser
+"""been""","Durango, CO, USA",ROCruiser
+"""been""","Flagstaff, AZ, USA",ROCruiser
+"""been""","Zurich, Switzerland",ROCruiser
+"""been""","Lerwick, UK",ROCruiser
+"""been""","Williams, CA, USA",ROCruiser
+"""been""","Taito, Japan",ROCruiser
+"""been""","Waimea, HI, USA",ROCruiser
+"""been""","Tukwila, WA, USA",ROCruiser
+"""been""","Setagaya, Japan",ROCruiser
+"""been""","Shibuya, Japan",ROCruiser
+"""been""","Houston, TX, USA",ROCruiser
+"""been""","Boston, MA, USA",ROCruiser
+"""been""","Shinjuku, Japan",ROCruiser
+"""been""","Lihue, HI, USA",ROCruiser
+"""been""","Custer, SD, USA",ROCruiser
+"""been""","Sunnyvale, CA, USA",ROCruiser
+"""been""","Denver, CO, USA",ROCruiser
+"""been""","New Orleans, LA, USA",ROCruiser
+"""been""","Minato, Japan",ROCruiser
+"""been""","San Luis Obispo, CA, USA",ROCruiser
+"""been""","Kilauea, HI, USA",ROCruiser
+"""been""","Honolulu, HI, USA",ROCruiser
+"""been""","Ota, Japan",ROCruiser
+"""been""","Cedar Rapids, IA, USA",ROCruiser
+"""been""","Santorini, Greece",ROCruiser
+"""been""","Akaroa, New Zealand",ROCruiser
+"""been""","Barcelona, Spain",ROCruiser
+"""been""","Mykonos, Greece",ROCruiser
+"""been""","Glacier Bay National Park and Preserve, AK, USA",ROCruiser
+"""been""","Grand Canyon National Park, AZ, USA",ROCruiser
+"""been""","Kusadasi, Turkey",ROCruiser
+"""been""","Nanjing, China",ROCruiser
+"""been""","Denali National Park and Preserve, AK, USA",ROCruiser
+"""been""","Katy, TX, USA",ROCruiser
+"""been""","Ayvalik, Turkey",ROCruiser
+"""been""","Coral Gables, FL, USA",ROCruiser
+"""been""","Shanghai, China",ROCruiser
+"""been""","Grand Teton National Park, WY, USA",ROCruiser
+"""been""","Bodega Bay, CA, USA",ROCruiser
+"""been""","Sausalito, CA, USA",ROCruiser
+"""been""","Canakkale, Turkey",ROCruiser
+"""been""","Kristiansand, Norway",ROCruiser
+"""been""","Cheyenne, WY, USA",ROCruiser
+"""been""","Vung Tau, Vietnam",ROCruiser
+"""been""","Tumon, Mariana Islands",ROCruiser
+"""been""","Big Sur, CA, USA",ROCruiser
+"""been""","Hope, British Columbia, Canada",ROCruiser
+"""been""","Golden, British Columbia, Canada",ROCruiser
+"""been""","Philadelphia, PA, USA",ROCruiser
+"""been""","Medford, OR, USA",ROCruiser
+"""been""","Crater Lake National Park, OR, USA",ROCruiser
+"""been""","Mammoth Lakes, CA, USA",ROCruiser
+"""been""","Forsyth, MT, USA",ROCruiser
+"""been""","Bryce Canyon National Park, UT, USA",ROCruiser
+"""been""","Canyonlands National Park, UT, USA",ROCruiser
+"""been""","Alanya, Turkey",ROCruiser
+"""been""","Arches National Park, UT, USA",ROCruiser
+"""been""","Cozumel, Mexico",ROCruiser
+"""been""","Le Havre, France",ROCruiser
+"""been""","Antalya, Turkey",ROCruiser
+"""been""","Beijing, China",ROCruiser
+"""been""","Chongqing, China",ROCruiser
+"""been""","Santa Rosa, CA, USA",ROCruiser
+"""been""","Santa Monica, CA, USA",ROCruiser
+"""been""","Carlsbad Caverns National Park, NM, USA",ROCruiser
+"""been""","Hong Kong, China",ROCruiser
+"""been""","Santa Maria, CA, USA",ROCruiser
+"""been""","Bishop, CA, USA",ROCruiser
+"""been""","Revelstoke, British Columbia, Canada",ROCruiser
+"""been""","Nanning, China",ROCruiser
+"""been""","Santa Cruz, CA, USA",ROCruiser
+"""been""","Santa Barbara, CA, USA",ROCruiser
+"""been""","Temple City, CA, USA",ROCruiser
+"""been""","Santa Clara, CA, USA",ROCruiser
+"""been""","Rogers Pass, British Columbia, Canada",ROCruiser
+"""been""","Garryowen, MT, USA",ROCruiser
+"""been""","Truth or Consequences, NM, USA",ROCruiser
+"""been""","Ponta Delgada, Portugal",ROCruiser
+"""been""","Gardiner, MT, USA",ROCruiser
+"""been""","Sao Miguel, Portugal",ROCruiser
+"""been""","Caen, France",ROCruiser
+"""been""","Pamukkale, Turkey",ROCruiser
+"""been""","Denizli, Turkey",ROCruiser
+"""been""","Oslo, Norway",ROCruiser
+"""been""","North Cascades National Park, WA, USA",ROCruiser
+"""been""","Shoshone, CA, USA",ROCruiser
+"""been""","Bainbridge Island, WA, USA",ROCruiser
+"""been""","Nazareth, Israel",ROCruiser
+"""been""","Midland, TX, USA",ROCruiser
+"""been""","Washington DC, DC, USA",ROCruiser
+"""been""","Capernaum, Israel",ROCruiser
+"""been""","Atlanta, GA, USA",ROCruiser
+"""been""","East Glacier Park, MT, USA",ROCruiser
+"""been""","Kuah, Malaysia",ROCruiser
+"""been""","Lincoln City, OR, USA",ROCruiser
+"""been""","Depoe Bay, OR, USA",ROCruiser
+"""been""","Stateline, NV, USA",ROCruiser
+"""been""","West Yellowstone, MT, USA",ROCruiser
+"""been""","Stuttgart, Germany",ROCruiser
+"""been""","Hawaii Volcanoes National Park, HI, USA",ROCruiser
+"""been""","Sioux City, IA, USA",ROCruiser
+"""been""","Mestre, Italy",ROCruiser
+"""been""","Marysville, WA, USA",ROCruiser
+"""been""","Forks, WA, USA",ROCruiser
+"""been""","Federal Way, WA, USA",ROCruiser
+"""been""","Devonport, New Zealand",ROCruiser
+"""been""","Everett, WA, USA",ROCruiser
+"""been""","Death Valley Junction, CA, USA",ROCruiser
+"""been""","Idaho Falls, ID, USA",ROCruiser
+"""been""","Trinidad, CA, USA",ROCruiser
+"""been""","Louisville, KY, USA",ROCruiser

@@ -1,0 +1,436 @@
+tag,place,user
+"""been""","Karimabad, Pakistan",SOQ2010
+"""been""","Mahe Island, Seychelles",SOQ2010
+"""want""","Yalta, Europe",SOQ2010
+"""want""","Udaipur, India",SOQ2010
+"""been""","Sukkur, Pakistan",SOQ2010
+"""been""","Hoek van Holland, The Netherlands",SOQ2010
+"""want""","Alacati, Turkey",SOQ2010
+"""want""","Sawai Madhopur, India",SOQ2010
+"""been""","Niagara Falls, NY, USA",SOQ2010
+"""want""","Murqquab, United Arab Emirates",SOQ2010
+"""want""","St. Paul's Bay, Malta",SOQ2010
+"""want""","Bitez, Turkey",SOQ2010
+"""want""","Bodrum City, Turkey",SOQ2010
+"""want""","Mussoorie, India",SOQ2010
+"""want""","Ankara, Turkey",SOQ2010
+"""want""","Dehradun, India",SOQ2010
+"""want""","Mathura, India",SOQ2010
+"""want""","Varanasi, India",SOQ2010
+"""want""","Bugibba, Malta",SOQ2010
+"""been"",""fave""","Agra, India",SOQ2010
+"""want""","Lucknow, India",SOQ2010
+"""been""","Arlington, MA, USA",SOQ2010
+"""been""","Amherst, MA, USA",SOQ2010
+"""been""","Concord, NH, USA",SOQ2010
+"""want""","Sarigerme, Turkey",SOQ2010
+"""been""","Faisalabad, Pakistan",SOQ2010
+"""want""","Salalah, Oman",SOQ2010
+"""want""","Dammam, Saudi Arabia",SOQ2010
+"""want""","Alexandria, Egypt",SOQ2010
+"""want""","Al Khobar, Saudi Arabia",SOQ2010
+"""been""","Worcester, MA, USA",SOQ2010
+"""want""","Yaliciftlik, Turkey",SOQ2010
+"""been""","Bhurban, Pakistan",SOQ2010
+"""want""","Torba, Turkey",SOQ2010
+"""want""","Jalandhar, India",SOQ2010
+"""want""","Ortakent, Turkey",SOQ2010
+"""want""","Gumbet, Turkey",SOQ2010
+"""want""","Golturkbuku, Turkey",SOQ2010
+"""been""","West Bloomfield, MI, USA",SOQ2010
+"""want""","Ernakulam, India",SOQ2010
+"""been""","Multan, Pakistan",SOQ2010
+"""been""","Chitral, Pakistan",SOQ2010
+"""been""","Quetta, Pakistan",SOQ2010
+"""been""","Skardu, Pakistan",SOQ2010
+"""want""","Indore, India",SOQ2010
+"""want""","Virajpet, India",SOQ2010
+"""want""","Shah Alam, Malaysia",SOQ2010
+"""want""","Visakhapatnam, India",SOQ2010
+"""been""","Hunza, Pakistan",SOQ2010
+"""want""","Hyderabad, India",SOQ2010
+"""want""","Tirupati, India",SOQ2010
+"""want""","Port Blair, India",SOQ2010
+"""been"",""want"",""fave""","Medina, Saudi Arabia",SOQ2010
+"""want""","Rajkot, India",SOQ2010
+"""want""","Guwahati, India",SOQ2010
+"""want""","Dalhousie, India",SOQ2010
+"""want""","Kullu, India",SOQ2010
+"""want""","Cherai Beach, India",SOQ2010
+"""want""","Bandipur, India",SOQ2010
+"""been""","Dambulla, Sri Lanka",SOQ2010
+"""want""","Jaffa, Israel",SOQ2010
+"""want""","Chail, India",SOQ2010
+"""want""","Bengaluru, India",SOQ2010
+"""been"",""want"",""fave""","Beirut, Lebanon",SOQ2010
+"""want""","Gundogan, Turkey",SOQ2010
+"""want""","Nazareth, Israel",SOQ2010
+"""want""","Kottayam, India",SOQ2010
+"""been""","Montreal, Quebec, Canada",SOQ2010
+"""want""","Gaziantep, Turkey",SOQ2010
+"""want""","Kozhikode, India",SOQ2010
+"""want""","Baghdad, Iraq",SOQ2010
+"""been""","Beau Vallon, Seychelles",SOQ2010
+"""want""","Pamukkale, Turkey",SOQ2010
+"""want""","Hassan, India",SOQ2010
+"""been""","Wilbraham, MA, USA",SOQ2010
+"""want""","Arambol, India",SOQ2010
+"""been""","Somerville, MA, USA",SOQ2010
+"""been""","Kabul, Afghanistan",SOQ2010
+"""want""","Kashid, India",SOQ2010
+"""been""","Indianapolis, IN, USA",SOQ2010
+"""been""","Doha, Qatar",SOQ2010
+"""want""","Sigiriya, Sri Lanka",SOQ2010
+"""want""","Khajuraho, India",SOQ2010
+"""been""","Norcross, GA, USA",SOQ2010
+"""want""","Windsor, Ontario, Canada",SOQ2010
+"""want""","Tiberias, Israel",SOQ2010
+"""been"",""want"",""fave""","Damascus, Syria",SOQ2010
+"""want""","Safed, Israel",SOQ2010
+"""been""","Abu Dhabi, United Arab Emirates",SOQ2010
+"""want""","Dodge City, KS, USA",SOQ2010
+"""been""","Woburn, MA, USA",SOQ2010
+"""want""","Bhopal, India",SOQ2010
+"""want""","Hampi, India",SOQ2010
+"""been""","Philadelphia, PA, USA",SOQ2010
+"""want""","Hershey, PA, USA",SOQ2010
+"""been""","Sausalito, CA, USA",SOQ2010
+"""been""","South Lake Tahoe, CA, USA",SOQ2010
+"""want""","Glacis, Seychelles",SOQ2010
+"""want""","Colakli, Turkey",SOQ2010
+"""want""","Kargicak, Turkey",SOQ2010
+"""want""","Seferihisar, Turkey",SOQ2010
+"""been""","Galle, Sri Lanka",SOQ2010
+"""been""","Singapore, Singapore",SOQ2010
+"""want""","Sanliurfa, Turkey",SOQ2010
+"""want""","Pelling, India",SOQ2010
+"""want""","Panchgani, India",SOQ2010
+"""been""","Bentota, Sri Lanka",SOQ2010
+"""want""","Baie Lazare, Seychelles",SOQ2010
+"""been""","Staten Island, NY, USA",SOQ2010
+"""want""","Bradford-on-Avon, UK",SOQ2010
+"""been""","Bellevue, WA, USA",SOQ2010
+"""been""","Washington DC, DC, USA",SOQ2010
+"""want""","El Gouna, Egypt",SOQ2010
+"""want""","Kumbhalgarh, India",SOQ2010
+"""want""","Jaisalmer, India",SOQ2010
+"""want""","Jodhpur, India",SOQ2010
+"""want""","Bikaner, India",SOQ2010
+"""been""","Ludhiana, India",SOQ2010
+"""want""","Bhubaneswar, India",SOQ2010
+"""want""","Palakkad, India",SOQ2010
+"""want""","Akyarlar, Turkey",SOQ2010
+"""want""","Edirne, Turkey",SOQ2010
+"""been""","Pittsburgh, PA, USA",SOQ2010
+"""want""","Anjuna, India",SOQ2010
+"""been""","Natick, MA, USA",SOQ2010
+"""been""","Bedford, MA, USA",SOQ2010
+"""want""","Dalaman, Turkey",SOQ2010
+"""been""","Framingham, MA, USA",SOQ2010
+"""want""","Safranbolu, Turkey",SOQ2010
+"""want""","Izmir, Turkey",SOQ2010
+"""want""","Benaulim, India",SOQ2010
+"""want""","Calangute, India",SOQ2010
+"""want""","Glasgow, UK",SOQ2010
+"""want""","Mersin, Turkey",SOQ2010
+"""want""","Moscow, Russia",SOQ2010
+"""been""","Mystic, CT, USA",SOQ2010
+"""been""","Mykonos Town, Greece",SOQ2010
+"""want""","Betalbatim, India",SOQ2010
+"""been""","Chiang Mai, Thailand",SOQ2010
+"""want""","Aghir, Tunisia",SOQ2010
+"""been""","Pattaya, Thailand",SOQ2010
+"""been""","Grand Anse, Seychelles",SOQ2010
+"""been""","Bangkok, Thailand",SOQ2010
+"""been""","Sialkot, Pakistan",SOQ2010
+"""been""","Billerica, MA, USA",SOQ2010
+"""want""","Madrid, Spain",SOQ2010
+"""been""","West Hartford, CT, USA",SOQ2010
+"""been""","New Haven, CT, USA",SOQ2010
+"""want""","Camyuva, Turkey",SOQ2010
+"""want""","Venice, Italy",SOQ2010
+"""been""","Tripoli, Libya",SOQ2010
+"""want""","Tarkarli, India",SOQ2010
+"""want""","Eskisehir, Turkey",SOQ2010
+"""been""","Palo Alto, CA, USA",SOQ2010
+"""been""","New Delhi, India",SOQ2010
+"""want""","Agonda, India",SOQ2010
+"""been""","Jaipur, India",SOQ2010
+"""want""","Mumbai, India",SOQ2010
+"""been""","Bighton, UK",SOQ2010
+"""want""","Mysuru (Mysore), India",SOQ2010
+"""want""","Shimla, India",SOQ2010
+"""want""","Kolkata (Calcutta), India",SOQ2010
+"""want""","Darjeeling, India",SOQ2010
+"""want""","Chennai (Madras), India",SOQ2010
+"""been""","Abbotabad, Pakistan",SOQ2010
+"""want""","Gokarna, India",SOQ2010
+"""want""","Khandala, India",SOQ2010
+"""want""","Malvan, India",SOQ2010
+"""want""","Milan, Italy",SOQ2010
+"""want""","Dhaka City, Bangladesh",SOQ2010
+"""been""","Ruislip, UK",SOQ2010
+"""been""","Mauritius, Africa",SOQ2010
+"""want""","Vrindavan, India",SOQ2010
+"""been""","Nuwara Eliya, Sri Lanka",SOQ2010
+"""want""","Palolem, India",SOQ2010
+"""been""","Fitchburg, MA, USA",SOQ2010
+"""want""","Trabzon, Turkey",SOQ2010
+"""want""","Coventry, UK",SOQ2010
+"""want""","Pachmarhi, India",SOQ2010
+"""want""","Matheran, India",SOQ2010
+"""want""","Marmaris, Turkey",SOQ2010
+"""want""","Dapoli, India",SOQ2010
+"""want""","Shillong, India",SOQ2010
+"""want""","Gocek, Turkey",SOQ2010
+"""want""","Igatpuri, India",SOQ2010
+"""want""","Ontario, CA, USA",SOQ2010
+"""want""","Manesar, India",SOQ2010
+"""want""","Dublin, Ireland",SOQ2010
+"""been""","Murree, Pakistan",SOQ2010
+"""been""","Malden, MA, USA",SOQ2010
+"""want""","Kookas, India",SOQ2010
+"""want""","Silvassa, India",SOQ2010
+"""want""","Raipur, India",SOQ2010
+"""been""","Springfield, MO, USA",SOQ2010
+"""want""","Patna, India",SOQ2010
+"""been""","Hartford, CT, USA",SOQ2010
+"""want""","Osmangazi, Turkey",SOQ2010
+"""been""","Medford, MA, USA",SOQ2010
+"""been""","Rockport, MA, USA",SOQ2010
+"""want""","Utorda, India",SOQ2010
+"""been""","Victoria, Seychelles",SOQ2010
+"""been""","Kuala Lumpur, Malaysia",SOQ2010
+"""want""","Xlendi, Malta",SOQ2010
+"""been""","Bahawalpur, Pakistan",SOQ2010
+"""want""","Majorda, India",SOQ2010
+"""want""","Aqaba, Jordan",SOQ2010
+"""want""","Ranchi, India",SOQ2010
+"""want""","Nagpur, India",SOQ2010
+"""want""","Oakland, CA, USA",SOQ2010
+"""want""","Vagator, India",SOQ2010
+"""been""","Lexington, MA, USA",SOQ2010
+"""want""","Morjim, India",SOQ2010
+"""been""","Sterling Heights, MI, USA",SOQ2010
+"""want""","Banff, Alberta, Canada",SOQ2010
+"""want""","Kovalam, India",SOQ2010
+"""want""","Dar es Salaam, Tanzania",SOQ2010
+"""been""","Sutton, UK",SOQ2010
+"""want""","Amman, Jordan",SOQ2010
+"""want""","Akbuk, Turkey",SOQ2010
+"""been"",""want"",""fave""","Mecca, Saudi Arabia",SOQ2010
+"""been"",""want"",""fave""","Amritsar, India",SOQ2010
+"""want""","Riyadh, Saudi Arabia",SOQ2010
+"""want""","Bharatpur, India",SOQ2010
+"""been""","Bath, UK",SOQ2010
+"""been""","Athens, Greece",SOQ2010
+"""want""","Cannes, France",SOQ2010
+"""want""","Guruvayur, India",SOQ2010
+"""want""","Erbil, Iraq",SOQ2010
+"""want""","Adrasan, Turkey",SOQ2010
+"""want""","Tehran, Iran",SOQ2010
+"""want""","Tunis, Tunisia",SOQ2010
+"""want""","Rameswaram, India",SOQ2010
+"""want""","Nice, France",SOQ2010
+"""want""","Ortaca, Turkey",SOQ2010
+"""want""","Sorgun, Turkey",SOQ2010
+"""want""","Ozdere, Turkey",SOQ2010
+"""want""","Altinkum, Turkey",SOQ2010
+"""been""","Dearborn, MI, USA",SOQ2010
+"""want""","Bogazkent, Turkey",SOQ2010
+"""want""","Kathmandu, Nepal",SOQ2010
+"""want""","Pokhara, Nepal",SOQ2010
+"""want""","Granada, Spain",SOQ2010
+"""been""","Chilas, Pakistan",SOQ2010
+"""want""","Mashobra, India",SOQ2010
+"""been""","Orlando, FL, USA",SOQ2010
+"""been""","Concord, MA, USA",SOQ2010
+"""want""","Goynuk, Turkey",SOQ2010
+"""want""","Rivoli, Italy",SOQ2010
+"""been""","Detroit, MI, USA",SOQ2010
+"""want""","Kollam, India",SOQ2010
+"""been""","Bloomington, IN, USA",SOQ2010
+"""want""","Mardin, Turkey",SOQ2010
+"""want""","Sheffield, UK",SOQ2010
+"""want""","Kanyakumari, India",SOQ2010
+"""want""","Ranikhet, India",SOQ2010
+"""want""","Sinquerim, India",SOQ2010
+"""want""","Noida, India",SOQ2010
+"""been""","London, UK",SOQ2010
+"""want""","Mitspe Ramon, Israel",SOQ2010
+"""want""","Siliguri, India",SOQ2010
+"""want""","Okurcalar, Turkey",SOQ2010
+"""want""","Yalova, Turkey",SOQ2010
+"""want""","Mahmutlar, Turkey",SOQ2010
+"""want""","Cansaulim, India",SOQ2010
+"""been""","Plainville, CT, USA",SOQ2010
+"""want""","Suntikoppa, India",SOQ2010
+"""been""","Taxila, Pakistan",SOQ2010
+"""been""","Islamabad, Pakistan",SOQ2010
+"""been"",""fave""","Colombo, Sri Lanka",SOQ2010
+"""want""","Nabq Bay, Egypt",SOQ2010
+"""want""","Kansas City, MO, USA",SOQ2010
+"""want""","Shimoga, India",SOQ2010
+"""been""","Hebron, Palestinian Territories",SOQ2010
+"""want""","Cordoba, Spain",SOQ2010
+"""want""","Rome, Italy",SOQ2010
+"""want""","Ajman, United Arab Emirates",SOQ2010
+"""been""","Shanghai, China",SOQ2010
+"""want""","Mount Abu, India",SOQ2010
+"""been""","Isle of Wight, UK",SOQ2010
+"""want""","Cape Town Central, South Africa",SOQ2010
+"""want""","Dushanbe, Tajikistan",SOQ2010
+"""been""","Burlington, MA, USA",SOQ2010
+"""want""","Thrissur, India",SOQ2010
+"""want""","Alwar, India",SOQ2010
+"""want""","Casablanca, Morocco",SOQ2010
+"""been""","Istanbul, Turkey",SOQ2010
+"""want""","Secunderabad, India",SOQ2010
+"""been""","Sharjah, United Arab Emirates",SOQ2010
+"""been""","Ras Al Khaimah, United Arab Emirates",SOQ2010
+"""want""","Tokyo, Japan",SOQ2010
+"""been""","Chicago, IL, USA",SOQ2010
+"""want""","Pondicherry, India",SOQ2010
+"""been"",""want""","Los Angeles, CA, USA",SOQ2010
+"""want""","Tangier, Morocco",SOQ2010
+"""want""","Shirdi, India",SOQ2010
+"""want""","Nainital, India",SOQ2010
+"""want""","Fes, Morocco",SOQ2010
+"""want""","Marrakech, Morocco",SOQ2010
+"""want""","Selcuk, Turkey",SOQ2010
+"""want""","Rabat, Morocco",SOQ2010
+"""been""","Carlisle, MA, USA",SOQ2010
+"""want""","Armutalan, Turkey",SOQ2010
+"""been"",""want"",""fave""","Jerusalem, Israel",SOQ2010
+"""want""","Las Vegas, NV, USA",SOQ2010
+"""been""","Hyderabad, Pakistan",SOQ2010
+"""been""","Mississauga, Ontario, Canada",SOQ2010
+"""want""","Incekum, Turkey",SOQ2010
+"""been""","Niagara Falls, Ontario, Canada",SOQ2010
+"""been""","Gujranwala, Pakistan",SOQ2010
+"""want""","Kolhapur, India",SOQ2010
+"""want""","Navi Mumbai, India",SOQ2010
+"""want""","Udupi, India",SOQ2010
+"""want""","Midoun, Tunisia",SOQ2010
+"""been"",""want"",""fave""","Cambridge, MA, USA",SOQ2010
+"""want""","Hampton, NH, USA",SOQ2010
+"""been""","Beverly Hills, CA, USA",SOQ2010
+"""want""","Adana, Turkey",SOQ2010
+"""been"",""want"",""fave""","Lahore, Pakistan",SOQ2010
+"""want""","Manchester, UK",SOQ2010
+"""been""","Karachi, Pakistan",SOQ2010
+"""want""","Cairo, Egypt",SOQ2010
+"""want""","Marsa Alam, Egypt",SOQ2010
+"""been""","Santa Clara, CA, USA",SOQ2010
+"""want""","Nabeul, Tunisia",SOQ2010
+"""want""","Lansdowne, India",SOQ2010
+"""been""","Peachtree Corners, GA, USA",SOQ2010
+"""want""","Sweimah, Jordan",SOQ2010
+"""been""","New York City, NY, USA",SOQ2010
+"""want""","Nairobi, Kenya",SOQ2010
+"""been""","Jeddah, Saudi Arabia",SOQ2010
+"""want""","Turunc, Turkey",SOQ2010
+"""been""","Dubai, United Arab Emirates",SOQ2010
+"""want""","Kalkan, Turkey",SOQ2010
+"""want""","Diu, India",SOQ2010
+"""want""","Kas, Turkey",SOQ2010
+"""want""","Faridabad, India",SOQ2010
+"""been""","Antalya, Turkey",SOQ2010
+"""want""","Daman, India",SOQ2010
+"""want""","Dalyan, Turkey",SOQ2010
+"""want""","Kumarakom, India",SOQ2010
+"""been""","Beijing, China",SOQ2010
+"""want""","Assos, Turkey",SOQ2010
+"""want""","Cirali, Turkey",SOQ2010
+"""want""","Olympos, Turkey",SOQ2010
+"""want""","Gulmarg, India",SOQ2010
+"""been""","Seattle, WA, USA",SOQ2010
+"""want""","Turkler, Turkey",SOQ2010
+"""want""","Cincinnati, OH, USA",SOQ2010
+"""been""","Waterloo, Ontario, Canada",SOQ2010
+"""want""","Yalikavak, Turkey",SOQ2010
+"""want""","Ahmedabad, India",SOQ2010
+"""been""","Hong Kong, China",SOQ2010
+"""want""","Side, Turkey",SOQ2010
+"""want""","Tekirova, Turkey",SOQ2010
+"""want""","Sakleshpur, India",SOQ2010
+"""been"",""want"",""fave""","Valletta, Malta",SOQ2010
+"""want""","Bursa, Turkey",SOQ2010
+"""want""","Ayvalik, Turkey",SOQ2010
+"""want""","Surat, India",SOQ2010
+"""been""","Leavenworth, WA, USA",SOQ2010
+"""been""","Sliema, Malta",SOQ2010
+"""want""","Vadodara, India",SOQ2010
+"""want""","Vythiri, India",SOQ2010
+"""been""","Mdina, Malta",SOQ2010
+"""want""","Balikesir, Turkey",SOQ2010
+"""been""","Sunnyvale, CA, USA",SOQ2010
+"""been"",""fave""","San Jose, CA, USA",SOQ2010
+"""been""","Toronto, Ontario, Canada",SOQ2010
+"""want""","Avsallar, Turkey",SOQ2010
+"""want""","Sapanca, Turkey",SOQ2010
+"""want""","Afyonkarahisar, Turkey",SOQ2010
+"""want""","Icmeler, Turkey",SOQ2010
+"""want""","Hisaronu, Turkey",SOQ2010
+"""want""","Bolu, Turkey",SOQ2010
+"""want""","Darwin, Australia",SOQ2010
+"""been""","Boston, MA, USA",SOQ2010
+"""want""","Honolulu, HI, USA",SOQ2010
+"""want""","Ovacik, Turkey",SOQ2010
+"""want""","Manali, India",SOQ2010
+"""want""","Digha, India",SOQ2010
+"""want""","Kitchener, Ontario, Canada",SOQ2010
+"""want""","Canakkale, Turkey",SOQ2010
+"""want""","Uchisar, Turkey",SOQ2010
+"""want""","Nevsehir, Turkey",SOQ2010
+"""want""","Srinagar, India",SOQ2010
+"""been""","Panipat, India",SOQ2010
+"""want""","Kayseri, Turkey",SOQ2010
+"""want""","Katra, India",SOQ2010
+"""want""","Gumuldur, Turkey",SOQ2010
+"""want""","Goreme, Turkey",SOQ2010
+"""been""","Kettering, UK",SOQ2010
+"""been""","South San Francisco, CA, USA",SOQ2010
+"""been""","Newport, RI, USA",SOQ2010
+"""want""","Kushalnagar, India",SOQ2010
+"""want""","Denia, Spain",SOQ2010
+"""been""","Buffalo, NY, USA",SOQ2010
+"""want""","Paris, France",SOQ2010
+"""want""","Addis Ababa, Ethiopia",SOQ2010
+"""been""","Amsterdam, The Netherlands",SOQ2010
+"""want""","Houston, TX, USA",SOQ2010
+"""been""","Cupertino, CA, USA",SOQ2010
+"""been""","Springfield, MA, USA",SOQ2010
+"""want""","Yelagiri, India",SOQ2010
+"""been""","Island of Malta, Malta",SOQ2010
+"""want""","Lavasa, India",SOQ2010
+"""been""","Saugus, MA, USA",SOQ2010
+"""want""","Antakya, Turkey",SOQ2010
+"""want""","Xaghra, Malta",SOQ2010
+"""want""","Marsalforn, Malta",SOQ2010
+"""been""","Island of Gozo, Malta",SOQ2010
+"""want""","Mahabaleshwar, India",SOQ2010
+"""been""","Comino, Malta",SOQ2010
+"""been""","Olympia, WA, USA",SOQ2010
+"""been""","San Francisco, CA, USA",SOQ2010
+"""want""","Cox's Bazar, Bangladesh",SOQ2010
+"""want""","Spokane, WA, USA",SOQ2010
+"""been""","Salem, MA, USA",SOQ2010
+"""want""","Cavelossim, India",SOQ2010
+"""want""","Kalpetta, India",SOQ2010
+"""been""","Stratford-upon-Avon, UK",SOQ2010
+"""want""","Austin, TX, USA",SOQ2010
+"""been""","Brighton, UK",SOQ2010
+"""want""","Brooklyn, NY, USA",SOQ2010
+"""been""","Providence, RI, USA",SOQ2010
+"""been""","Edgware, UK",SOQ2010
+"""want""","Bel Ombre, Seychelles",SOQ2010
+"""been""","Tampa, FL, USA",SOQ2010
+"""want""","Colva, India",SOQ2010
+"""want""","Sousse, Tunisia",SOQ2010
+"""want""","Koto, Japan",SOQ2010
+"""want""","Hammamet, Tunisia",SOQ2010
+"""been""","Mykonos, Greece",SOQ2010
+"""want""","Cologne, Germany",SOQ2010
+"""want""","Barcelona, Spain",SOQ2010
+"""want""","Marseille, France",SOQ2010

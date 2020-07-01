@@ -1,0 +1,545 @@
+tag,place,user
+"""been"",""fave""","Lima, Peru",grip652
+"""been"",""fave""","Machu Picchu, Peru",grip652
+"""been"",""fave""","Cusco, Peru",grip652
+"""been""","Lincoln, NE, USA",grip652
+"""been""","Princeton, NJ, USA",grip652
+"""been""","North Myrtle Beach, SC, USA",grip652
+"""want""","Mykonos Town, Greece",grip652
+"""been""","Groton, CT, USA",grip652
+"""been""","Laguna Beach, CA, USA",grip652
+"""been""","Brookline, MA, USA",grip652
+"""been"",""fave""","Providence, RI, USA",grip652
+"""been""","Cairns, Australia",grip652
+"""been""","Fredericksburg, VA, USA",grip652
+"""been"",""fave""","Sequim, WA, USA",grip652
+"""been""","Brea, CA, USA",grip652
+"""been""","Brooklyn, NY, USA",grip652
+"""been""","Alice Springs, Australia",grip652
+"""been""","Fairbanks, AK, USA",grip652
+"""been""","Kingman, AZ, USA",grip652
+"""been""","Greenville, SC, USA",grip652
+"""been""","Nashville, TN, USA",grip652
+"""been""","Yulara, Australia",grip652
+"""been""","Talkeetna, AK, USA",grip652
+"""been""","La Mirada, CA, USA",grip652
+"""been""","Tempe, AZ, USA",grip652
+"""been""","Tyler, TX, USA",grip652
+"""been""","La Palma, CA, USA",grip652
+"""been""","Bar Harbor, ME, USA",grip652
+"""been""","Amarillo, TX, USA",grip652
+"""been"",""fave""","Sydney, Australia",grip652
+"""been"",""fave""","Port Lockroy, Antarctica",grip652
+"""been""","Masada, Israel",grip652
+"""been""","Ka'anapali, HI, USA",grip652
+"""been""","Cuenca, Ecuador",grip652
+"""been""","Quito, Ecuador",grip652
+"""been""","Tallinn, Estonia",grip652
+"""been""","La Canada Flintridge, CA, USA",grip652
+"""been""","Albuquerque, NM, USA",grip652
+"""been""","La Jolla, CA, USA",grip652
+"""been""","Baltimore, MD, USA",grip652
+"""been"",""fave""","Palenque, Mexico",grip652
+"""been""","Orlando, FL, USA",grip652
+"""been""","Savannah, GA, USA",grip652
+"""been""","Arrowtown, New Zealand",grip652
+"""been""","Ain Sukhna, Egypt",grip652
+"""been""","Jersey City, NJ, USA",grip652
+"""been"",""fave""","Hong Kong, China",grip652
+"""been""","Chongqing, China",grip652
+"""been"",""fave""","Beijing, China",grip652
+"""been""","Allentown, PA, USA",grip652
+"""want""","Salzburg, Austria",grip652
+"""been""","Riga, Latvia",grip652
+"""been""","Marina del Rey, CA, USA",grip652
+"""been""","Scottsdale, AZ, USA",grip652
+"""been""","Gatlinburg, TN, USA",grip652
+"""been""","Moab, UT, USA",grip652
+"""been""","Greensboro, NC, USA",grip652
+"""been""","Shiloh, TN, USA",grip652
+"""been"",""fave""","Volcano, HI, USA",grip652
+"""been""","Spokane, WA, USA",grip652
+"""been""","Johnson City, TN, USA",grip652
+"""been""","Jackson, TN, USA",grip652
+"""been"",""fave""","Sedona, AZ, USA",grip652
+"""been""","Luxor, Egypt",grip652
+"""been""","Foz do Iguacu, Brazil",grip652
+"""been""","Giza, Egypt",grip652
+"""been""","Cairo, Egypt",grip652
+"""been""","Goleta, CA, USA",grip652
+"""been""","Round Rock, TX, USA",grip652
+"""been""","Plano, TX, USA",grip652
+"""been""","Eureka Springs, AR, USA",grip652
+"""been""","El Cobre, Cuba",grip652
+"""been""","Tucson, AZ, USA",grip652
+"""want""","Amsterdam, The Netherlands",grip652
+"""been""","West Palm Beach, FL, USA",grip652
+"""been""","Norwalk, CA, USA",grip652
+"""been"",""fave""","San Francisco, CA, USA",grip652
+"""been""","Malibu, CA, USA",grip652
+"""been""","Salem, MA, USA",grip652
+"""been""","Sandestin, FL, USA",grip652
+"""been"",""fave""","San Antonio, TX, USA",grip652
+"""been""","Thousand Oaks, CA, USA",grip652
+"""been""","Dyersburg, TN, USA",grip652
+"""want""","Zurich, Switzerland",grip652
+"""been""","Santa Fe, NM, USA",grip652
+"""been""","Fayetteville, AR, USA",grip652
+"""been""","Knoxville, TN, USA",grip652
+"""been"",""fave""","Urubamba, Peru",grip652
+"""been"",""fave""","Paris, France",grip652
+"""been""","York, PA, USA",grip652
+"""been""","Birmingham, AL, USA",grip652
+"""been""","Glendale, CA, USA",grip652
+"""been""","Boone, NC, USA",grip652
+"""been""","Newark, NJ, USA",grip652
+"""want""","Lausanne, Switzerland",grip652
+"""been""","St. Petersburg, FL, USA",grip652
+"""been"",""fave""","Honolulu, HI, USA",grip652
+"""been"",""fave""","Asheville, NC, USA",grip652
+"""been""","Norwalk, CT, USA",grip652
+"""been""","Olympia, WA, USA",grip652
+"""been""","Vicksburg, MS, USA",grip652
+"""been"",""fave""","New Orleans, LA, USA",grip652
+"""been""","Danbury, CT, USA",grip652
+"""been""","Joshua Tree, CA, USA",grip652
+"""been"",""fave""","Boston, MA, USA",grip652
+"""been""","New Braunfels, TX, USA",grip652
+"""been""","Dover, VT, USA",grip652
+"""been""","Tacoma, WA, USA",grip652
+"""been""","Newport Beach, CA, USA",grip652
+"""been""","Arlington, VA, USA",grip652
+"""been""","Rochester, NY, USA",grip652
+"""been""","Chicago, IL, USA",grip652
+"""been""","Portsmouth, NH, USA",grip652
+"""been""","Southaven, MS, USA",grip652
+"""been""","Lijiang, China",grip652
+"""been""","Flagstaff, AZ, USA",grip652
+"""been""","Murfreesboro, TN, USA",grip652
+"""been""","Irvine, CA, USA",grip652
+"""been""","Pismo Beach, CA, USA",grip652
+"""been""","Buffalo, NY, USA",grip652
+"""been""","Annapolis, MD, USA",grip652
+"""been""","Hot Springs, AR, USA",grip652
+"""been""","Pigeon Forge, TN, USA",grip652
+"""been""","Los Angeles, CA, USA",grip652
+"""been""","Beaumont, TX, USA",grip652
+"""been""","Union City, TN, USA",grip652
+"""been""","Newport, RI, USA",grip652
+"""want""","Maastricht, The Netherlands",grip652
+"""been""","Fresno, CA, USA",grip652
+"""been"",""fave""","Brighton, UK",grip652
+"""been""","Prescott, AZ, USA",grip652
+"""been""","Houston, TX, USA",grip652
+"""been""","Bentonville, AR, USA",grip652
+"""been""","Adelaide, Australia",grip652
+"""been""","Ocean City, NJ, USA",grip652
+"""want""","South Pole, Antarctica",grip652
+"""been""","Atascadero, CA, USA",grip652
+"""been""","Long Beach, CA, USA",grip652
+"""been""","Boulder City, NV, USA",grip652
+"""been"",""fave""","Anchorage, AK, USA",grip652
+"""been""","Carlsbad, NM, USA",grip652
+"""been"",""fave""","New York City, NY, USA",grip652
+"""been""","Little Rock, AR, USA",grip652
+"""been""","New Haven, CT, USA",grip652
+"""been""","El Paso, TX, USA",grip652
+"""been""","Napa, CA, USA",grip652
+"""been""","Ventura, CA, USA",grip652
+"""been""","Byram, MS, USA",grip652
+"""been""","Alexandria, VA, USA",grip652
+"""been""","Winchester, VA, USA",grip652
+"""been""","Phoenix, AZ, USA",grip652
+"""been""","Williamsburg, VA, USA",grip652
+"""been""","Laredo, TX, USA",grip652
+"""been""","Gulf Shores, AL, USA",grip652
+"""been""","Sweimah, Jordan",grip652
+"""been""","Cape May, NJ, USA",grip652
+"""been""","Des Arc, AR, USA",grip652
+"""been""","Sacramento, CA, USA",grip652
+"""been""","El Rosario, Mexico",grip652
+"""been""","Twentynine Palms, CA, USA",grip652
+"""been"",""fave""","Kailua-Kona, HI, USA",grip652
+"""been""","Hana, HI, USA",grip652
+"""been""","Cincinnati, OH, USA",grip652
+"""been""","Titusville, FL, USA",grip652
+"""been""","San Diego, CA, USA",grip652
+"""been""","Sancti Spiritus, Cuba",grip652
+"""been""","Kennesaw, GA, USA",grip652
+"""been""","Kahului, HI, USA",grip652
+"""been""","Chesapeake, VA, USA",grip652
+"""been""","Hluhluwe, South Africa",grip652
+"""been"",""fave""","Lahaina, HI, USA",grip652
+"""been""","Manteo, NC, USA",grip652
+"""been""","Franklin, TN, USA",grip652
+"""been""","Petaluma, CA, USA",grip652
+"""been"",""fave""","Seattle, WA, USA",grip652
+"""been""","Charlottesville, VA, USA",grip652
+"""been""","Mount Shasta, CA, USA",grip652
+"""been""","Huntington Beach, CA, USA",grip652
+"""been""","Mystic, CT, USA",grip652
+"""been""","Port Douglas, Australia",grip652
+"""been""","Long Beach, WA, USA",grip652
+"""been""","Port Townsend, WA, USA",grip652
+"""been""","Durban, South Africa",grip652
+"""been""","Amman, Jordan",grip652
+"""been""","Hampton, NH, USA",grip652
+"""been""","Haifa, Israel",grip652
+"""been""","Frankfurt, Germany",grip652
+"""been""","Mena, AR, USA",grip652
+"""been""","Tel Aviv, Israel",grip652
+"""been""","Masada, Israel",grip652
+"""been"",""fave""","Jerusalem, Israel",grip652
+"""been""","Roseville, CA, USA",grip652
+"""been""","Morro Bay, CA, USA",grip652
+"""been""","Alexandria, LA, USA",grip652
+"""been""","Madaba, Jordan",grip652
+"""been""","Augusta, GA, USA",grip652
+"""been""","Germantown, TN, USA",grip652
+"""been""","Narragansett, RI, USA",grip652
+"""been""","Irving, TX, USA",grip652
+"""been""","Paso Robles, CA, USA",grip652
+"""been""","Auckland Central, New Zealand",grip652
+"""been""","Melbourne, Australia",grip652
+"""been""","Eilat, Israel",grip652
+"""want""","Istanbul, Turkey",grip652
+"""been""","Tunica, MS, USA",grip652
+"""been""","Athens, GA, USA",grip652
+"""been""","Riverside, CA, USA",grip652
+"""been""","Monterey, CA, USA",grip652
+"""been""","Cambridge, MA, USA",grip652
+"""been""","Pasadena, CA, USA",grip652
+"""been""","Aguas Calientes, Peru",grip652
+"""been""","Bethlehem, Palestinian Territories",grip652
+"""been""","Kailua, HI, USA",grip652
+"""been""","Stateline, NV, USA",grip652
+"""been""","Memphis, TN, USA",grip652
+"""been""","Manassas, VA, USA",grip652
+"""been""","Atlanta, GA, USA",grip652
+"""been""","Portland, ME, USA",grip652
+"""been""","Midland, TX, USA",grip652
+"""been""","Palomar Mountain, CA, USA",grip652
+"""been""","Madison, AL, USA",grip652
+"""want""","Belfast, UK",grip652
+"""been""","Medford, OR, USA",grip652
+"""been"",""fave""","Victoria Falls, Zimbabwe",grip652
+"""been"",""fave""","Mojave, CA, USA",grip652
+"""been""","Palm Desert, CA, USA",grip652
+"""been""","Palo Alto, CA, USA",grip652
+"""been"",""fave""","Hershey, PA, USA",grip652
+"""been""","Taos, NM, USA",grip652
+"""been""","Malahide, Ireland",grip652
+"""been"",""fave""","Niagara Falls, Ontario, Canada",grip652
+"""want""","Cardiff, UK",grip652
+"""been""","Niagara-on-the-Lake, Ontario, Canada",grip652
+"""want""","Rome, Italy",grip652
+"""want""","Vatican City, Vatican City",grip652
+"""been""","Old Forge, NY, USA",grip652
+"""been"",""fave""","London, UK",grip652
+"""been""","Munich, Germany",grip652
+"""want""","Antwerp, Belgium",grip652
+"""been""","Pensacola Beach, FL, USA",grip652
+"""been""","Redwood City, CA, USA",grip652
+"""been""","Albany, NY, USA",grip652
+"""been""","Mammoth Lakes, CA, USA",grip652
+"""been""","Hartford, CT, USA",grip652
+"""been""","Rockport, ME, USA",grip652
+"""been"",""fave""","Philadelphia, PA, USA",grip652
+"""been""","Gibara, Cuba",grip652
+"""been""","Biran, Cuba",grip652
+"""been"",""fave""","Gettysburg, PA, USA",grip652
+"""been""","Cape Tribulation, Australia",grip652
+"""want""","Pompeii, Italy",grip652
+"""been""","Livingstone, Zambia",grip652
+"""been""","Lexington, KY, USA",grip652
+"""been"",""fave""","Petra - Wadi Musa, Jordan",grip652
+"""been""","Beit Sahour, Palestinian Territories",grip652
+"""been""","Tuscaloosa, AL, USA",grip652
+"""been""","Manchester, NH, USA",grip652
+"""been""","Captain Cook, HI, USA",grip652
+"""been""","Ontario, CA, USA",grip652
+"""been""","Orange, CA, USA",grip652
+"""been""","Killeen, TX, USA",grip652
+"""been""","Williamstown, MA, USA",grip652
+"""been"",""fave""","Hilo, HI, USA",grip652
+"""been""","Valle de Bravo, Mexico",grip652
+"""been""","Waimea, HI, USA",grip652
+"""been""","Roanoke, VA, USA",grip652
+"""been""","Halifax, Nova Scotia, Canada",grip652
+"""been""","Eugene, OR, USA",grip652
+"""been""","Erie, PA, USA",grip652
+"""been""","Marietta, GA, USA",grip652
+"""been"",""fave""","Wilmington, NC, USA",grip652
+"""been""","Worcester, MA, USA",grip652
+"""been""","Oceanside, CA, USA",grip652
+"""been""","Norfolk, VA, USA",grip652
+"""been""","Bangor, ME, USA",grip652
+"""been""","Oakland, CA, USA",grip652
+"""been""","Winston Salem, NC, USA",grip652
+"""been""","Orange Beach, AL, USA",grip652
+"""been""","Hokitika, New Zealand",grip652
+"""been""","Greymouth, New Zealand",grip652
+"""been""","Newport, OR, USA",grip652
+"""been""","Bend, OR, USA",grip652
+"""been""","Kapalua, HI, USA",grip652
+"""been"",""fave""","Helsinki, Finland",grip652
+"""been"",""fave""","Monument Valley, UT, USA",grip652
+"""been""","Ashland, OR, USA",grip652
+"""been""","Wrightsville Beach, NC, USA",grip652
+"""been""","Atlantic City, NJ, USA",grip652
+"""been""","Virginia Beach, VA, USA",grip652
+"""been""","Bunratty, Ireland",grip652
+"""been"",""fave""","Queenstown, New Zealand",grip652
+"""been""","Milford Sound, New Zealand",grip652
+"""been""","Te Anau, New Zealand",grip652
+"""been""","Winnipeg, Manitoba, Canada",grip652
+"""been""","Huntsville, AL, USA",grip652
+"""been""","Lancaster, PA, USA",grip652
+"""want""","Venice, Italy",grip652
+"""been""","Dakar, Senegal",grip652
+"""been"",""fave""","Glasgow, UK",grip652
+"""been""","North Conway, NH, USA",grip652
+"""been""","Windsor, UK",grip652
+"""been""","Cleveland, OH, USA",grip652
+"""been""","Freeport, ME, USA",grip652
+"""been""","Christchurch, New Zealand",grip652
+"""been""","Mbabane, Eswatini (Swaziland)",grip652
+"""been""","Uluru-Kata Tjuta National Park, Australia",grip652
+"""been""","Wellington, New Zealand",grip652
+"""been"",""fave""","Rotorua, New Zealand",grip652
+"""been""","St. John's, Newfoundland and Labrador, Canada",grip652
+"""been""","Baracoa, Cuba",grip652
+"""been""","Raleigh, NC, USA",grip652
+"""been"",""fave""","Paradise Harbour, Antarctica",grip652
+"""been""","Buenos Aires, Argentina",grip652
+"""been""","Hyannis, MA, USA",grip652
+"""been""","Gulfport, MS, USA",grip652
+"""been"",""fave""","Niagara Falls, NY, USA",grip652
+"""been""","Camaguey, Cuba",grip652
+"""been""","Havana, Cuba",grip652
+"""been""","Brookings, OR, USA",grip652
+"""been""","Cuba, Caribbean",grip652
+"""been""","Boca Raton, FL, USA",grip652
+"""been""","Santiago de Cuba, Cuba",grip652
+"""been""","Dumfries, UK",grip652
+"""been""","Columbus, OH, USA",grip652
+"""been""","Mountain View, AR, USA",grip652
+"""been""","Montgomery, AL, USA",grip652
+"""been""","Chattanooga, TN, USA",grip652
+"""been""","Olive Branch, MS, USA",grip652
+"""been""","Hattiesburg, MS, USA",grip652
+"""want""","Jackson, WY, USA",grip652
+"""been""","Brunswick, ME, USA",grip652
+"""been""","Hernando, MS, USA",grip652
+"""been""","Shreveport, LA, USA",grip652
+"""been""","Ushuaia, Argentina",grip652
+"""been""","Stone Mountain, GA, USA",grip652
+"""been""","Aqaba, Jordan",grip652
+"""been""","Clarksville, TN, USA",grip652
+"""been""","Jacksonville, NC, USA",grip652
+"""been""","Puerto Vallarta, Mexico",grip652
+"""been""","Holly Springs, MS, USA",grip652
+"""been""","Carolina Beach, NC, USA",grip652
+"""been""","Mobile, AL, USA",grip652
+"""been""","Camden, ME, USA",grip652
+"""been""","Ho Chi Minh City, Vietnam",grip652
+"""been""","Metairie, LA, USA",grip652
+"""been""","Slidell, LA, USA",grip652
+"""want""","Banff, Alberta, Canada",grip652
+"""want""","Edmonton, Alberta, Canada",grip652
+"""been""","Suez, Egypt",grip652
+"""been""","Jackson, MS, USA",grip652
+"""been""","Plymouth, MA, USA",grip652
+"""been""","Fayetteville, NC, USA",grip652
+"""been""","Kill Devil Hills, NC, USA",grip652
+"""been"",""fave""","Washington DC, DC, USA",grip652
+"""been""","Wilmington, DE, USA",grip652
+"""been""","Siem Reap, Cambodia",grip652
+"""been""","Provincetown, MA, USA",grip652
+"""been"",""fave""","Kitty Hawk, NC, USA",grip652
+"""been""","Nags Head, NC, USA",grip652
+"""been""","Collierville, TN, USA",grip652
+"""been""","Harrisburg, PA, USA",grip652
+"""been""","Hollywood, FL, USA",grip652
+"""been"",""fave""","Moscow, Russia",grip652
+"""been""","Donegal Town, Ireland",grip652
+"""been"",""fave""","Dublin, Ireland",grip652
+"""been""","Hangzhou, China",grip652
+"""been""","Kunming, China",grip652
+"""been""","Xi'an, China",grip652
+"""been""","Charlotte, NC, USA",grip652
+"""been""","Chapel Hill, NC, USA",grip652
+"""been""","Cherokee, NC, USA",grip652
+"""been""","New Bern, NC, USA",grip652
+"""been""","Marblehead, MA, USA",grip652
+"""been""","Kennebunkport, ME, USA",grip652
+"""been""","Kennebunk, ME, USA",grip652
+"""been""","La Place, IL, USA",grip652
+"""been""","Rehoboth Beach, DE, USA",grip652
+"""been""","Guangzhou, China",grip652
+"""been""","Newark, DE, USA",grip652
+"""been""","Chengdu, China",grip652
+"""been""","Rockport, MA, USA",grip652
+"""been""","Houma, LA, USA",grip652
+"""been"",""fave""","Deception Island, Antarctica",grip652
+"""been""","Paducah, KY, USA",grip652
+"""been""","Louisville, KY, USA",grip652
+"""been""","Dallas, TX, USA",grip652
+"""been""","Sausalito, CA, USA",grip652
+"""been""","Seal Beach, CA, USA",grip652
+"""been""","Bodega Bay, CA, USA",grip652
+"""been""","Iguazu National Park, Argentina",grip652
+"""been""","Puerto Iguazu, Argentina",grip652
+"""been""","Destrehan, LA, USA",grip652
+"""been""","Ridgeland, MS, USA",grip652
+"""been""","Long Island City, NY, USA",grip652
+"""been""","Lauderdale-By-The-Sea, FL, USA",grip652
+"""been""","Santa Monica, CA, USA",grip652
+"""been""","Clearwater, FL, USA",grip652
+"""been""","Center Valley, PA, USA",grip652
+"""been""","Lynchburg, VA, USA",grip652
+"""been""","Fort Worth, TX, USA",grip652
+"""been""","Kenner, LA, USA",grip652
+"""been""","Santa Clara, CA, USA",grip652
+"""been""","Santa Cruz, CA, USA",grip652
+"""been""","Beverly Hills, CA, USA",grip652
+"""been""","Bryce, UT, USA",grip652
+"""been""","Lakeland, FL, USA",grip652
+"""been""","Santa Ana, CA, USA",grip652
+"""been""","Temecula, CA, USA",grip652
+"""been"",""fave""","Santa Barbara, CA, USA",grip652
+"""been""","Harrisonburg, VA, USA",grip652
+"""been""","Gloucester, MA, USA",grip652
+"""been""","Hurghada, Egypt",grip652
+"""been""","Pittsburgh, PA, USA",grip652
+"""been""","Ponchatoula, LA, USA",grip652
+"""been""","Berkeley, CA, USA",grip652
+"""been""","Valdosta, GA, USA",grip652
+"""been""","San Simeon, CA, USA",grip652
+"""been""","Dover, DE, USA",grip652
+"""been""","Port Said, Egypt",grip652
+"""been""","Waco, TX, USA",grip652
+"""been"",""fave""","Fredericksburg, TX, USA",grip652
+"""been""","Lafayette, LA, USA",grip652
+"""been"",""fave""","St. Petersburg, Russia",grip652
+"""been""","Galveston, TX, USA",grip652
+"""been""","LaPlace, LA, USA",grip652
+"""been""","Baton Rouge, LA, USA",grip652
+"""been""","Wailea, HI, USA",grip652
+"""been""","Lake Charles, LA, USA",grip652
+"""been""","Fort Walton Beach, FL, USA",grip652
+"""been""","Illovo, South Africa",grip652
+"""been""","San Luis Obispo, CA, USA",grip652
+"""been"",""fave""","St. Augustine, FL, USA",grip652
+"""been""","Carmel, CA, USA",grip652
+"""been""","Cape Canaveral, FL, USA",grip652
+"""been""","Johannesburg, South Africa",grip652
+"""been""","Carlsbad, CA, USA",grip652
+"""been""","Cape Coral, FL, USA",grip652
+"""been""","Kempton Park, South Africa",grip652
+"""been""","Puerto Ayora, Ecuador",grip652
+"""been""","San Jose, CA, USA",grip652
+"""been""","Fort Myers, FL, USA",grip652
+"""been""","Fort Myers Beach, FL, USA",grip652
+"""been""","Kissimmee, FL, USA",grip652
+"""been""","Wadi Rum, Jordan",grip652
+"""want""","Ankara, Turkey",grip652
+"""been""","Bethesda, MD, USA",grip652
+"""been""","Las Vegas, NV, USA",grip652
+"""been""","Wildwood, NJ, USA",grip652
+"""been""","Del Mar, CA, USA",grip652
+"""been""","San Gabriel, CA, USA",grip652
+"""been""","Durham, NC, USA",grip652
+"""been""","Fort Lauderdale, FL, USA",grip652
+"""been"",""fave""","Suzhou, China",grip652
+"""been""","West Hollywood, CA, USA",grip652
+"""been""","San Clemente, CA, USA",grip652
+"""been""","Santa Cruz, Bolivia",grip652
+"""been""","Copacabana, Bolivia",grip652
+"""been""","Wuhan, China",grip652
+"""been""","Guayaquil, Ecuador",grip652
+"""been""","Zhengzhou, China",grip652
+"""been""","Chatham, MA, USA",grip652
+"""been""","Angangueo, Mexico",grip652
+"""been""","Punakaiki, New Zealand",grip652
+"""been""","Bossier City, LA, USA",grip652
+"""been""","Stellenbosch, South Africa",grip652
+"""been""","Casa Grande, AZ, USA",grip652
+"""been""","Port Elizabeth, South Africa",grip652
+"""been""","Bakersfield, CA, USA",grip652
+"""been"",""fave""","Dana Point, CA, USA",grip652
+"""been""","St. Helena, CA, USA",grip652
+"""been""","Everglades City, FL, USA",grip652
+"""been""","Portland, OR, USA",grip652
+"""want""","Colorado Springs, CO, USA",grip652
+"""been""","Jaffa, Israel",grip652
+"""been""","Biloxi, MS, USA",grip652
+"""been""","Merida, Mexico",grip652
+"""been""","Hermanus, South Africa",grip652
+"""been""","Knysna, South Africa",grip652
+"""been""","Fox Glacier, New Zealand",grip652
+"""been""","South San Francisco, CA, USA",grip652
+"""been""","Barstow, CA, USA",grip652
+"""been""","Frederick, MD, USA",grip652
+"""been""","Cambria, CA, USA",grip652
+"""been""","Tulum, Mexico",grip652
+"""been""","Reno, NV, USA",grip652
+"""been""","Hebron, Palestinian Territories",grip652
+"""been""","Arad, Israel",grip652
+"""been"",""fave""","Cape Town Central, South Africa",grip652
+"""been""","Capernaum, Israel",grip652
+"""been""","Austin, TX, USA",grip652
+"""been""","Tallahassee, FL, USA",grip652
+"""been""","Solvang, CA, USA",grip652
+"""want""","Bern, Switzerland",grip652
+"""been""","Coronado, CA, USA",grip652
+"""been""","Bantry Bay, South Africa",grip652
+"""been""","Mesa, AZ, USA",grip652
+"""been""","Tampa, FL, USA",grip652
+"""been""","Anaheim, CA, USA",grip652
+"""been""","Sonoma, CA, USA",grip652
+"""been""","Miami, FL, USA",grip652
+"""been""","Miami Beach, FL, USA",grip652
+"""been""","Charleston, WV, USA",grip652
+"""been""","Big Sur, CA, USA",grip652
+"""been""","Pensacola, FL, USA",grip652
+"""been""","Dearborn, MI, USA",grip652
+"""been""","Toluca, Mexico",grip652
+"""been""","Tiberias, Israel",grip652
+"""been""","Detroit, MI, USA",grip652
+"""been""","Panama City, FL, USA",grip652
+"""been""","Panama City Beach, FL, USA",grip652
+"""been"",""fave""","Shanghai, China",grip652
+"""been""","Ketchikan, AK, USA",grip652
+"""been""","Arlington, TX, USA",grip652
+"""been""","Macon, GA, USA",grip652
+"""been""","Salem, OR, USA",grip652
+"""been""","Alpine, CA, USA",grip652
+"""want""","Salt Lake City, UT, USA",grip652
+"""been""","Port Angeles, WA, USA",grip652
+"""been""","Jacksonville, FL, USA",grip652
+"""been""","Sevierville, TN, USA",grip652
+"""been"",""fave""","Astoria, OR, USA",grip652
+"""been""","Corpus Christi, TX, USA",grip652
+"""been""","Myrtle Beach, SC, USA",grip652
+"""been""","West Memphis, AR, USA",grip652
+"""been""","Nablus, Palestinian Territories",grip652
+"""been""","Burbank, CA, USA",grip652
+"""been""","Buena Park, CA, USA",grip652
+"""been""","Ramallah, Palestinian Territories",grip652
+"""been""","Playa Mujeres, Mexico",grip652
+"""been""","Ocean City, MD, USA",grip652
+"""been""","Seaside, OR, USA",grip652
+"""been""","Mexico City, Mexico",grip652
+"""been"",""fave""","Juneau, AK, USA",grip652
+"""been"",""fave""","Oaxaca, Mexico",grip652
+"""been""","Hazyview, South Africa",grip652
+"""been""","Tombstone, AZ, USA",grip652
+"""been""","Natchez, MS, USA",grip652
+"""been""","Blue Ridge, GA, USA",grip652
+"""been"",""fave""","Chichen Itza, Mexico",grip652
+"""been"",""fave""","Toronto, Ontario, Canada",grip652
+"""been""","Escondido, CA, USA",grip652
+"""been""","Jericho, Palestinian Territories",grip652
+"""been""","Palm Beach, FL, USA",grip652
+"""been""","Auckland, New Zealand",grip652

@@ -1,0 +1,507 @@
+tag,place,user
+"""been""","Napa, CA, USA",MariaS_cph
+"""been""","Rhodes, Greece",MariaS_cph
+"""been""","Inglewood, CA, USA",MariaS_cph
+"""been""","Zurich, Switzerland",MariaS_cph
+"""been""","Kos, Greece",MariaS_cph
+"""been""","Paris, France",MariaS_cph
+"""been""","Long Beach, CA, USA",MariaS_cph
+"""been""","Surat Thani, Thailand",MariaS_cph
+"""been""","Phoenix, AZ, USA",MariaS_cph
+"""been""","Fox Glacier, New Zealand",MariaS_cph
+"""been""","Magaluf, Spain",MariaS_cph
+"""been""","Franz Josef, New Zealand",MariaS_cph
+"""been""","Oberhausen, Germany",MariaS_cph
+"""want""","Lyon, France",MariaS_cph
+"""been""","Amsterdam, The Netherlands",MariaS_cph
+"""want""","Baton Rouge, LA, USA",MariaS_cph
+"""been""","Palmanova, Spain",MariaS_cph
+"""been""","Quartzsite, AZ, USA",MariaS_cph
+"""been""","Lausanne, Switzerland",MariaS_cph
+"""want""","Chicago, IL, USA",MariaS_cph
+"""been"",""fave""","Los Angeles, CA, USA",MariaS_cph
+"""been""","Placentia, CA, USA",MariaS_cph
+"""been""","Kalymnos, Greece",MariaS_cph
+"""been""","Barcelona, Spain",MariaS_cph
+"""been""","Santorini, Greece",MariaS_cph
+"""been""","Epernay, France",MariaS_cph
+"""been""","Reims, France",MariaS_cph
+"""been""","Maspalomas, Spain",MariaS_cph
+"""been""","Lancelin, Australia",MariaS_cph
+"""been""","Ribe, Denmark",MariaS_cph
+"""been""","Cowaramup, Australia",MariaS_cph
+"""been""","Katoomba, Australia",MariaS_cph
+"""been""","Halden, Norway",MariaS_cph
+"""been""","Dortmund, Germany",MariaS_cph
+"""been""","Valldemossa, Spain",MariaS_cph
+"""been""","Dusseldorf, Germany",MariaS_cph
+"""want""","Marseille, France",MariaS_cph
+"""been""","Essen, Germany",MariaS_cph
+"""been""","Las Vegas, NV, USA",MariaS_cph
+"""been""","Bonn, Germany",MariaS_cph
+"""been""","Cologne, Germany",MariaS_cph
+"""been""","Gloucester, UK",MariaS_cph
+"""been""","Karlsruhe, Germany",MariaS_cph
+"""been""","Vienna, Austria",MariaS_cph
+"""been""","Niva, Denmark",MariaS_cph
+"""been""","Arthur's Pass National Park, New Zealand",MariaS_cph
+"""been""","Kokkedal, Denmark",MariaS_cph
+"""been""","Rungsted, Denmark",MariaS_cph
+"""been""","Metz, France",MariaS_cph
+"""been""","Kalundborg, Denmark",MariaS_cph
+"""been""","Freiburg im Breisgau, Germany",MariaS_cph
+"""been"",""want"",""fave""","Portland, OR, USA",MariaS_cph
+"""been""","Malibu, CA, USA",MariaS_cph
+"""want""","Quanzhou, China",MariaS_cph
+"""been""","Sarasota, FL, USA",MariaS_cph
+"""been""","Baden-Baden, Germany",MariaS_cph
+"""been""","Goleta, CA, USA",MariaS_cph
+"""been""","Gore, New Zealand",MariaS_cph
+"""been""","Glendale, CA, USA",MariaS_cph
+"""been""","Clyde, New Zealand",MariaS_cph
+"""been""","Milton, New Zealand",MariaS_cph
+"""been""","Trier, Germany",MariaS_cph
+"""want""","Montpellier, France",MariaS_cph
+"""been""","Symi, Greece",MariaS_cph
+"""been""","Plymouth, UK",MariaS_cph
+"""want""","Cairo, Egypt",MariaS_cph
+"""want""","Giza, Egypt",MariaS_cph
+"""been""","Chepstow, UK",MariaS_cph
+"""been""","Offenbach, Germany",MariaS_cph
+"""been""","Modesto, CA, USA",MariaS_cph
+"""been""","Kilrenny, UK",MariaS_cph
+"""been""","Odense, Denmark",MariaS_cph
+"""want""","Campbeltown, UK",MariaS_cph
+"""been""","Wiesbaden, Germany",MariaS_cph
+"""been""","Nyborg, Denmark",MariaS_cph
+"""want""","Maasai Mara National Reserve, Kenya",MariaS_cph
+"""want""","Monkey Mia, Australia",MariaS_cph
+"""want""","Luxor, Egypt",MariaS_cph
+"""been""","Schiphol, The Netherlands",MariaS_cph
+"""want""","Durban, South Africa",MariaS_cph
+"""want""","Llanuwchllyn, UK",MariaS_cph
+"""want""","Surfers Paradise, Australia",MariaS_cph
+"""been""","Monrovia, CA, USA",MariaS_cph
+"""been""","Palma de Mallorca, Spain",MariaS_cph
+"""been""","Ostend, Belgium",MariaS_cph
+"""want""","Cannes, France",MariaS_cph
+"""been""","Kassel, Germany",MariaS_cph
+"""been""","Bath, UK",MariaS_cph
+"""been""","Monterey, CA, USA",MariaS_cph
+"""been""","Pasadena, CA, USA",MariaS_cph
+"""want""","Avignon, France",MariaS_cph
+"""been""","Aberdeen, UK",MariaS_cph
+"""been""","Montecito, CA, USA",MariaS_cph
+"""been""","Glenfinnan, UK",MariaS_cph
+"""been""","Frederiksberg, Denmark",MariaS_cph
+"""want""","Lima, Peru",MariaS_cph
+"""been""","Fremantle, Australia",MariaS_cph
+"""want""","Darwin, Australia",MariaS_cph
+"""been""","Vordingborg, Denmark",MariaS_cph
+"""been""","Picton, New Zealand",MariaS_cph
+"""been""","Yulara, Australia",MariaS_cph
+"""been""","Alice Springs, Australia",MariaS_cph
+"""been""","Sydney, Australia",MariaS_cph
+"""want""","Oxford, UK",MariaS_cph
+"""been""","Garve, UK",MariaS_cph
+"""been""","Andover, UK",MariaS_cph
+"""been""","Hamburg, Germany",MariaS_cph
+"""been""","Wismar, Germany",MariaS_cph
+"""been""","Roskilde, Denmark",MariaS_cph
+"""been""","Hillerod, Denmark",MariaS_cph
+"""want""","Santiago, Chile",MariaS_cph
+"""been""","Lyttelton, New Zealand",MariaS_cph
+"""want""","Hobart, Australia",MariaS_cph
+"""want""","Groningen, The Netherlands",MariaS_cph
+"""been""","Rostock, Germany",MariaS_cph
+"""been""","Newcastle upon Tyne, UK",MariaS_cph
+"""been""","Brighton, UK",MariaS_cph
+"""been""","North Beach, Australia",MariaS_cph
+"""want""","Saint-Tropez, France",MariaS_cph
+"""been""","Helsingoer, Denmark",MariaS_cph
+"""been""","Copenhagen, Denmark",MariaS_cph
+"""want""","Monte-Carlo, Monaco",MariaS_cph
+"""been""","Cervantes, Australia",MariaS_cph
+"""been""","Cottesloe, Australia",MariaS_cph
+"""been""","Huntington Beach, CA, USA",MariaS_cph
+"""want""","Hua Hin, Thailand",MariaS_cph
+"""been""","Osnabruck, Germany",MariaS_cph
+"""been""","Crete, Greece",MariaS_cph
+"""been""","Krabi Town, Thailand",MariaS_cph
+"""want""","Khon Kaen, Thailand",MariaS_cph
+"""been""","Gran Canaria, Spain",MariaS_cph
+"""been""","Las Palmas de Gran Canaria, Spain",MariaS_cph
+"""been""","Hannover, Germany",MariaS_cph
+"""been""","Billund, Denmark",MariaS_cph
+"""been""","Oldenburg, Germany",MariaS_cph
+"""been""","Aarhus, Denmark",MariaS_cph
+"""want""","Atlantic City, NJ, USA",MariaS_cph
+"""want""","Montreal, Quebec, Canada",MariaS_cph
+"""been""","Manly, Australia",MariaS_cph
+"""been""","Puerto Limon, Costa Rica",MariaS_cph
+"""been""","Puerto Viejo de Talamanca, Costa Rica",MariaS_cph
+"""been""","Cahuita, Costa Rica",MariaS_cph
+"""been"",""want""","Yosemite National Park, CA, USA",MariaS_cph
+"""been""","Kingussie, UK",MariaS_cph
+"""been""","Playa San Miguel, Costa Rica",MariaS_cph
+"""been""","Setubal, Portugal",MariaS_cph
+"""been""","Holte, Denmark",MariaS_cph
+"""been""","Oakland, CA, USA",MariaS_cph
+"""been""","Oceanside, CA, USA",MariaS_cph
+"""been""","Lisbon, Portugal",MariaS_cph
+"""been""","Heredia, Costa Rica",MariaS_cph
+"""want""","Budapest, Hungary",MariaS_cph
+"""been""","Arenzano, Italy",MariaS_cph
+"""been""","Stirling, UK",MariaS_cph
+"""been""","Lucerne, Switzerland",MariaS_cph
+"""want""","Lhasa, China",MariaS_cph
+"""want""","Johannesburg, South Africa",MariaS_cph
+"""been""","Cinderford, UK",MariaS_cph
+"""been""","Grand Canyon National Park, AZ, USA",MariaS_cph
+"""been""","San Jose, Costa Rica",MariaS_cph
+"""been""","Dornie, UK",MariaS_cph
+"""been""","Escazu, Costa Rica",MariaS_cph
+"""been""","Lugano, Switzerland",MariaS_cph
+"""want""","Dubai, United Arab Emirates",MariaS_cph
+"""been""","Nadi, Fiji",MariaS_cph
+"""want""","Vina del Mar, Chile",MariaS_cph
+"""been""","Beijing, China",MariaS_cph
+"""want""","Mombasa, Kenya",MariaS_cph
+"""been""","Altenahr, Germany",MariaS_cph
+"""been""","Montezuma, Costa Rica",MariaS_cph
+"""want""","Padang, Indonesia",MariaS_cph
+"""been""","Manuel Antonio, Costa Rica",MariaS_cph
+"""want""","Hong Kong, China",MariaS_cph
+"""been""","Interlaken, Switzerland",MariaS_cph
+"""been""","Busselton, Australia",MariaS_cph
+"""been""","Albany, Australia",MariaS_cph
+"""been""","Pemberton, Australia",MariaS_cph
+"""want""","Wuhan, China",MariaS_cph
+"""want""","Zhengzhou, China",MariaS_cph
+"""been""","Honfleur, France",MariaS_cph
+"""been""","Luxembourg City, Luxembourg",MariaS_cph
+"""been""","La Fortuna de San Carlos, Costa Rica",MariaS_cph
+"""been""","Poas Volcano National Park, Costa Rica",MariaS_cph
+"""been""","Sapa, Vietnam",MariaS_cph
+"""been""","Marbella, Costa Rica",MariaS_cph
+"""been""","Lancaster, UK",MariaS_cph
+"""want""","Ngorongoro Conservation Area, Tanzania",MariaS_cph
+"""been""","Trouville-sur-Mer, France",MariaS_cph
+"""want""","Mgahinga Gorilla National Park, Uganda",MariaS_cph
+"""want""","Cefalu, Italy",MariaS_cph
+"""been""","Caen, France",MariaS_cph
+"""been""","Samos, Greece",MariaS_cph
+"""been""","Deauville City, France",MariaS_cph
+"""been""","Al Muharraq, Bahrain",MariaS_cph
+"""want""","San Cristobal, Dominican Republic",MariaS_cph
+"""want""","Port Royal, Jamaica",MariaS_cph
+"""want""","Kingston, Jamaica",MariaS_cph
+"""been""","Bradford-on-Avon, UK",MariaS_cph
+"""been""","Warminster, UK",MariaS_cph
+"""want""","Ottawa, Ontario, Canada",MariaS_cph
+"""been""","Fredensborg, Denmark",MariaS_cph
+"""been""","Albufeira, Portugal",MariaS_cph
+"""been""","Stuttgart, Germany",MariaS_cph
+"""been""","Koh Tao, Thailand",MariaS_cph
+"""been""","Crawley, UK",MariaS_cph
+"""want""","St. Petersburg, Russia",MariaS_cph
+"""want""","Shenzhen, China",MariaS_cph
+"""want""","Nuuk, Greenland",MariaS_cph
+"""been""","Singapore, Singapore",MariaS_cph
+"""want""","Port-au-Prince, Haiti",MariaS_cph
+"""been""","Playa Conchal, Costa Rica",MariaS_cph
+"""want""","Cape Town Central, South Africa",MariaS_cph
+"""want""","Shanghai, China",MariaS_cph
+"""want""","Tasiilaq, Greenland",MariaS_cph
+"""want""","Kulusuk, Greenland",MariaS_cph
+"""been""","Pacuare Reserve, Costa Rica",MariaS_cph
+"""want""","Domus de Maria, Italy",MariaS_cph
+"""want""","Toronto, Ontario, Canada",MariaS_cph
+"""want""","Mexico City, Mexico",MariaS_cph
+"""been""","Hai Phong, Vietnam",MariaS_cph
+"""been""","Bern, Switzerland",MariaS_cph
+"""been""","Grants Pass, OR, USA",MariaS_cph
+"""want""","Niagara Falls, NY, USA",MariaS_cph
+"""want""","Bordeaux, France",MariaS_cph
+"""want""","Cancun, Mexico",MariaS_cph
+"""been""","Basel, Switzerland",MariaS_cph
+"""want""","Damascus, Syria",MariaS_cph
+"""been""","Arenal Volcano National Park, Costa Rica",MariaS_cph
+"""been""","Lao Cai, Vietnam",MariaS_cph
+"""been""","Glostrup, Denmark",MariaS_cph
+"""been""","Le Havre, France",MariaS_cph
+"""been""","Kongens Lyngby, Denmark",MariaS_cph
+"""want""","Kopavogur, Iceland",MariaS_cph
+"""been""","Varde, Denmark",MariaS_cph
+"""been""","Strasbourg, France",MariaS_cph
+"""been""","Ry, Denmark",MariaS_cph
+"""been""","Ringsted, Denmark",MariaS_cph
+"""been""","Colmar, France",MariaS_cph
+"""want""","Dolgarrog, UK",MariaS_cph
+"""been""","Santa Rosa, CA, USA",MariaS_cph
+"""want""","Kyoto, Japan",MariaS_cph
+"""want""","Osaka, Japan",MariaS_cph
+"""want""","Nagasaki, Japan",MariaS_cph
+"""want""","Portofino, Italy",MariaS_cph
+"""been""","Blythe, CA, USA",MariaS_cph
+"""been""","Sausalito, CA, USA",MariaS_cph
+"""want""","Hiroshima, Japan",MariaS_cph
+"""want""","Kuala Terengganu, Malaysia",MariaS_cph
+"""want""","Kobe, Japan",MariaS_cph
+"""been""","Roedovre, Denmark",MariaS_cph
+"""want""","Acapulco, Mexico",MariaS_cph
+"""been""","Saratoga Springs, NY, USA",MariaS_cph
+"""been""","Staten Island, NY, USA",MariaS_cph
+"""been""","Hoersholm, Denmark",MariaS_cph
+"""want""","Guangzhou, China",MariaS_cph
+"""want""","Xi'an, China",MariaS_cph
+"""want""","Dublin, Ireland",MariaS_cph
+"""been""","Haltwhistle, UK",MariaS_cph
+"""been""","Ao Nang, Thailand",MariaS_cph
+"""want""","Puerto Vallarta, Mexico",MariaS_cph
+"""been""","Baden, Switzerland",MariaS_cph
+"""want""","Caracas, Venezuela",MariaS_cph
+"""been""","Charlottenlund, Denmark",MariaS_cph
+"""been""","Dumfries, UK",MariaS_cph
+"""want""","Alexandria, Egypt",MariaS_cph
+"""been""","Leven, UK",MariaS_cph
+"""been""","Eugene, OR, USA",MariaS_cph
+"""been""","Gretna Green, UK",MariaS_cph
+"""been""","Dundee, UK",MariaS_cph
+"""want""","Milan, Italy",MariaS_cph
+"""been""","Cabourg, France",MariaS_cph
+"""want""","Oban, UK",MariaS_cph
+"""been""","Dragoer, Denmark",MariaS_cph
+"""want""","Paro, Bhutan",MariaS_cph
+"""been""","Lasswade, UK",MariaS_cph
+"""want""","Como, Italy",MariaS_cph
+"""been""","Stonehaven, UK",MariaS_cph
+"""been""","Bodrum City, Turkey",MariaS_cph
+"""been""","Calais, France",MariaS_cph
+"""been""","Bognor Regis, UK",MariaS_cph
+"""been""","Fort Lauderdale, FL, USA",MariaS_cph
+"""been""","Seattle, WA, USA",MariaS_cph
+"""want""","Yellowstone National Park, WY, USA",MariaS_cph
+"""been""","Karon, Thailand",MariaS_cph
+"""been""","West Hollywood, CA, USA",MariaS_cph
+"""want""","Taipei, Taiwan",MariaS_cph
+"""been""","Naples, FL, USA",MariaS_cph
+"""been"",""want""","Key West, FL, USA",MariaS_cph
+"""been""","Haslev, Denmark",MariaS_cph
+"""been""","Carlsbad, CA, USA",MariaS_cph
+"""been""","Westminster, CA, USA",MariaS_cph
+"""want""","Moscow, Russia",MariaS_cph
+"""want""","Iquique, Chile",MariaS_cph
+"""want""","Arcachon, France",MariaS_cph
+"""been""","Ayia Napa, Cyprus",MariaS_cph
+"""been"",""fave""","San Diego, CA, USA",MariaS_cph
+"""want""","Washington DC, DC, USA",MariaS_cph
+"""want""","Boston, MA, USA",MariaS_cph
+"""been""","Fort Myers, FL, USA",MariaS_cph
+"""been""","Kos Town, Greece",MariaS_cph
+"""been""","St. Augustine, FL, USA",MariaS_cph
+"""been""","Whithorn, UK",MariaS_cph
+"""been"",""want"",""fave""","New Orleans, LA, USA",MariaS_cph
+"""want""","Havana, Cuba",MariaS_cph
+"""want""","Scarborough, Trinidad and Tobago",MariaS_cph
+"""want""","Honolulu, HI, USA",MariaS_cph
+"""been""","Berkeley, CA, USA",MariaS_cph
+"""been""","Gainesville, FL, USA",MariaS_cph
+"""want""","Okinawa City, Japan",MariaS_cph
+"""want""","Parma, Italy",MariaS_cph
+"""been""","Lloret de Mar, Spain",MariaS_cph
+"""want""","Bridgetown, Barbados",MariaS_cph
+"""been""","Beverly Hills, CA, USA",MariaS_cph
+"""been""","Frome, UK",MariaS_cph
+"""been""","Hoora, Bahrain",MariaS_cph
+"""been"",""fave""","Santa Barbara, CA, USA",MariaS_cph
+"""been""","Naestved, Denmark",MariaS_cph
+"""want""","Tsavo, Kenya",MariaS_cph
+"""been""","Santa Cruz, CA, USA",MariaS_cph
+"""want""","Kuala Lumpur, Malaysia",MariaS_cph
+"""been"",""fave""","Santa Monica, CA, USA",MariaS_cph
+"""been"",""fave""","New York City, NY, USA",MariaS_cph
+"""been""","Thionville, France",MariaS_cph
+"""been""","Wylam, UK",MariaS_cph
+"""want""","Anchorage, AK, USA",MariaS_cph
+"""want""","Mae Sot, Thailand",MariaS_cph
+"""want""","Kodiak Island, AK, USA",MariaS_cph
+"""been""","Weimar, Germany",MariaS_cph
+"""been"",""fave""","London, UK",MariaS_cph
+"""been""","Antwerp, Belgium",MariaS_cph
+"""been""","San Francisco, CA, USA",MariaS_cph
+"""want""","Naples, Italy",MariaS_cph
+"""been""","Rotterdam, The Netherlands",MariaS_cph
+"""want""","Pompeii, Italy",MariaS_cph
+"""been""","Eureka, CA, USA",MariaS_cph
+"""been""","Tusayan, AZ, USA",MariaS_cph
+"""been""","Nelson, New Zealand",MariaS_cph
+"""been""","Littledean, UK",MariaS_cph
+"""been""","Burbank, CA, USA",MariaS_cph
+"""been""","Yallingup, Australia",MariaS_cph
+"""been""","Ebeltoft, Denmark",MariaS_cph
+"""been""","Farum, Denmark",MariaS_cph
+"""been""","Rhodes Town, Greece",MariaS_cph
+"""been""","Yanchep, Australia",MariaS_cph
+"""been"",""want""","Miami Beach, FL, USA",MariaS_cph
+"""been"",""want""","Pitlochry, UK",MariaS_cph
+"""been""","Lubeck, Germany",MariaS_cph
+"""been""","Sonoma, CA, USA",MariaS_cph
+"""been""","Brooklyn, NY, USA",MariaS_cph
+"""want""","Phnom Penh, Cambodia",MariaS_cph
+"""been""","Helsingborg, Sweden",MariaS_cph
+"""been""","Tampa, FL, USA",MariaS_cph
+"""been""","Flensburg, Germany",MariaS_cph
+"""want""","Florence, Italy",MariaS_cph
+"""want""","Providence, RI, USA",MariaS_cph
+"""been""","Kiel, Germany",MariaS_cph
+"""been""","Struer, Denmark",MariaS_cph
+"""been""","Solvang, CA, USA",MariaS_cph
+"""been""","Juelsminde, Denmark",MariaS_cph
+"""been""","Eisenach, Germany",MariaS_cph
+"""been""","Tallahassee, FL, USA",MariaS_cph
+"""been""","Vernon, CA, USA",MariaS_cph
+"""been""","Wanaka, New Zealand",MariaS_cph
+"""been""","Covina, CA, USA",MariaS_cph
+"""want""","Palermo, Italy",MariaS_cph
+"""been""","Vancouver, WA, USA",MariaS_cph
+"""been""","Playa de las Americas, Spain",MariaS_cph
+"""want""","Niagara Falls, Ontario, Canada",MariaS_cph
+"""been""","Bremen, Germany",MariaS_cph
+"""been""","Newquay, UK",MariaS_cph
+"""want""","Seville, Spain",MariaS_cph
+"""been""","Taunton, UK",MariaS_cph
+"""been""","Walnut, CA, USA",MariaS_cph
+"""been""","Kingsbarns, UK",MariaS_cph
+"""been""","Playa del Ingles, Spain",MariaS_cph
+"""been""","Cameron, AZ, USA",MariaS_cph
+"""been""","Kojonup, Australia",MariaS_cph
+"""been""","Hexham, UK",MariaS_cph
+"""want""","Granada, Spain",MariaS_cph
+"""want""","Kalbarri National Park, Australia",MariaS_cph
+"""been""","Poole, UK",MariaS_cph
+"""want""","Helena, MT, USA",MariaS_cph
+"""been""","Tamiami, FL, USA",MariaS_cph
+"""been""","Glencoe Village, UK",MariaS_cph
+"""been""","Vedbaek, Denmark",MariaS_cph
+"""been""","Vejle, Denmark",MariaS_cph
+"""been""","Stockholm, Sweden",MariaS_cph
+"""been""","Ballerup, Denmark",MariaS_cph
+"""been""","Brussels, Belgium",MariaS_cph
+"""been""","Silkeborg, Denmark",MariaS_cph
+"""want""","Ho Chi Minh City, Vietnam",MariaS_cph
+"""been""","Culver City, CA, USA",MariaS_cph
+"""been""","Halong Bay, Vietnam",MariaS_cph
+"""been""","Hanoi, Vietnam",MariaS_cph
+"""want""","Marbella, Spain",MariaS_cph
+"""been""","Fredericia, Denmark",MariaS_cph
+"""been""","Holstebro, Denmark",MariaS_cph
+"""been""","Salinas, CA, USA",MariaS_cph
+"""been""","Loanhead, UK",MariaS_cph
+"""been""","Koege, Denmark",MariaS_cph
+"""been""","Ringkobing, Denmark",MariaS_cph
+"""been""","Obernai, France",MariaS_cph
+"""been""","Skive, Denmark",MariaS_cph
+"""been""","Slagelse, Denmark",MariaS_cph
+"""been""","Mulhouse, France",MariaS_cph
+"""been""","Viborg, Denmark",MariaS_cph
+"""been""","Nedlands, Australia",MariaS_cph
+"""been""","Bangkok, Thailand",MariaS_cph
+"""been""","Chiang Mai, Thailand",MariaS_cph
+"""been""","Cardiff, UK",MariaS_cph
+"""been""","Rome, Italy",MariaS_cph
+"""want""","Cordoba, Spain",MariaS_cph
+"""been""","Bristol, UK",MariaS_cph
+"""been"",""fave""","Vatican City, Vatican City",MariaS_cph
+"""been""","Nannup, Australia",MariaS_cph
+"""been""","Castle Douglas, UK",MariaS_cph
+"""been""","Walpole, Australia",MariaS_cph
+"""been""","Newton Stewart, UK",MariaS_cph
+"""been""","Rottnest Island, Australia",MariaS_cph
+"""been""","Avondale, AZ, USA",MariaS_cph
+"""been"",""want""","St. Andrews, UK",MariaS_cph
+"""been""","Glasgow, UK",MariaS_cph
+"""been""","Denmark, Australia",MariaS_cph
+"""been""","Salisbury, UK",MariaS_cph
+"""been""","Tarragona, Spain",MariaS_cph
+"""want""","Kilimanjaro National Park, Tanzania",MariaS_cph
+"""want""","Colwyn Bay, UK",MariaS_cph
+"""want""","Serengeti National Park, Tanzania",MariaS_cph
+"""been""","Annan, UK",MariaS_cph
+"""been""","Kirkcaldy, UK",MariaS_cph
+"""been""","Santo Domingo de Heredia, Costa Rica",MariaS_cph
+"""been""","Dunedin, New Zealand",MariaS_cph
+"""been""","Mariposa, CA, USA",MariaS_cph
+"""been""","Uluru-Kata Tjuta National Park, Australia",MariaS_cph
+"""been""","Glendale, AZ, USA",MariaS_cph
+"""been""","Marina del Rey, CA, USA",MariaS_cph
+"""been""","Manama, Bahrain",MariaS_cph
+"""been""","Wellington, New Zealand",MariaS_cph
+"""been""","New Plymouth, New Zealand",MariaS_cph
+"""been"",""fave""","Ribeauville, France",MariaS_cph
+"""want""","Da Nang, Vietnam",MariaS_cph
+"""been""","Guilderton, Australia",MariaS_cph
+"""want""","Phan Thiet, Vietnam",MariaS_cph
+"""been""","Offenburg, Germany",MariaS_cph
+"""want""","Mwanza, Tanzania",MariaS_cph
+"""want""","Vancouver, British Columbia, Canada",MariaS_cph
+"""been""","Hoi An, Vietnam",MariaS_cph
+"""want""","Jerusalem, Israel",MariaS_cph
+"""want""","Orlando, FL, USA",MariaS_cph
+"""want""","Kalbarri, Australia",MariaS_cph
+"""been""","La Jolla, CA, USA",MariaS_cph
+"""been""","Edinburgh, UK",MariaS_cph
+"""want""","Eilat, Israel",MariaS_cph
+"""been""","Barstow, CA, USA",MariaS_cph
+"""been""","Anstruther, UK",MariaS_cph
+"""want""","Llan Ffestiniog, UK",MariaS_cph
+"""been""","Sorbie, UK",MariaS_cph
+"""been""","Hamilton, New Zealand",MariaS_cph
+"""been""","Auckland Central, New Zealand",MariaS_cph
+"""been""","Crail, UK",MariaS_cph
+"""been""","Perth, Australia",MariaS_cph
+"""want""","Melbourne, Australia",MariaS_cph
+"""want""","Exmouth, Australia",MariaS_cph
+"""want""","Agadir, Morocco",MariaS_cph
+"""been""","Stranraer, UK",MariaS_cph
+"""want""","Catania, Italy",MariaS_cph
+"""want""","Messina, Italy",MariaS_cph
+"""want""","Albuquerque, NM, USA",MariaS_cph
+"""want""","Greenock, UK",MariaS_cph
+"""want""","Sassari, Italy",MariaS_cph
+"""been""","Subiaco, Australia",MariaS_cph
+"""been""","Tyndrum, UK",MariaS_cph
+"""been""","Anaheim, CA, USA",MariaS_cph
+"""want""","Tangier, Morocco",MariaS_cph
+"""want""","Marrakech, Morocco",MariaS_cph
+"""want""","Valencia, Spain",MariaS_cph
+"""want""","Tokyo, Japan",MariaS_cph
+"""been""","Greymouth, New Zealand",MariaS_cph
+"""been""","Hokitika, New Zealand",MariaS_cph
+"""been""","Joondalup, Australia",MariaS_cph
+"""want""","Cagliari, Italy",MariaS_cph
+"""been""","Fort William, UK",MariaS_cph
+"""want""","Astoria, OR, USA",MariaS_cph
+"""want""","Madrid, Spain",MariaS_cph
+"""been""","Balingup, Australia",MariaS_cph
+"""been""","Invergarry, UK",MariaS_cph
+"""been""","Augusta, Australia",MariaS_cph
+"""want""","Inverness, UK",MariaS_cph
+"""been""","Achnasheen, UK",MariaS_cph
+"""been""","Ukiah, CA, USA",MariaS_cph
+"""want""","Seltjarnarnes, Iceland",MariaS_cph
+"""want""","Nairn, UK",MariaS_cph
+"""want""","Thimphu, Bhutan",MariaS_cph
+"""been"",""fave""","Margaret River, Australia",MariaS_cph
+"""been""","Westport, New Zealand",MariaS_cph
+"""want""","York, Australia",MariaS_cph
+"""been""","Te Anau, New Zealand",MariaS_cph
+"""been""","Milford Sound, New Zealand",MariaS_cph
+"""been""","Bunbury, Australia",MariaS_cph
+"""been""","Queenstown, New Zealand",MariaS_cph
+"""been""","Hayward, CA, USA",MariaS_cph
+"""been""","Nanterre, France",MariaS_cph
+"""want""","Algiers, Algeria",MariaS_cph
+"""been""","Kehl, Germany",MariaS_cph
+"""been""","Redwood National Park, CA, USA",MariaS_cph
+"""want""","Venice, Italy",MariaS_cph

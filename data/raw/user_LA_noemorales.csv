@@ -1,0 +1,544 @@
+tag,place,user
+"""want""","Yamagata, Japan",noemorales
+"""want""","Venice, Italy",noemorales
+"""want""","Frigate Bay, St. Kitts and Nevis",noemorales
+"""want""","Titikaveka, Cook Islands",noemorales
+"""want""","Almaty, Kazakhstan",noemorales
+"""want""","Helsinki, Finland",noemorales
+"""want""","Matsue, Japan",noemorales
+"""want""","Madrid, Spain",noemorales
+"""want""","Shari-cho, Japan",noemorales
+"""want""","Okayama, Japan",noemorales
+"""want""","Placencia, Belize",noemorales
+"""been""","Punta Cana, Dominican Republic",noemorales
+"""want""","Puerto Plata, Dominican Republic",noemorales
+"""want""","Rincon, Puerto Rico",noemorales
+"""want""","Bangkok, Thailand",noemorales
+"""want""","Vieux Fort, St. Lucia",noemorales
+"""want""","Miyakojima, Japan",noemorales
+"""want""","Cape Town Central, South Africa",noemorales
+"""want""","Yerevan, Armenia",noemorales
+"""want""","Fujairah, United Arab Emirates",noemorales
+"""want""","Utrecht, The Netherlands",noemorales
+"""want""","Vancouver, British Columbia, Canada",noemorales
+"""want""","Antananarivo, Madagascar",noemorales
+"""been"",""want""","Philadelphia, PA, USA",noemorales
+"""want""","Shanghai, China",noemorales
+"""want""","Hershey, PA, USA",noemorales
+"""been"",""want""","Washington DC, DC, USA",noemorales
+"""want""","Can Tho, Vietnam",noemorales
+"""want""","Hanoi, Vietnam",noemorales
+"""want""","Hue, Vietnam",noemorales
+"""want""","Franschhoek, South Africa",noemorales
+"""want""","Tumon, Mariana Islands",noemorales
+"""want""","Matsumoto, Japan",noemorales
+"""want""","Florence, Italy",noemorales
+"""want""","West Yellowstone, MT, USA",noemorales
+"""want""","Fukui, Japan",noemorales
+"""want""","San Pedro, Belize",noemorales
+"""want""","Saariselka, Finland",noemorales
+"""want""","Takamatsu, Japan",noemorales
+"""been"",""want""","Santa Cruz, CA, USA",noemorales
+"""want""","Swakopmund, Namibia",noemorales
+"""want""","Akureyri, Iceland",noemorales
+"""want""","South Lake Tahoe, CA, USA",noemorales
+"""want""","Kochi, Japan",noemorales
+"""want""","Cabo San Lucas, Mexico",noemorales
+"""been""","Escuintla, Guatemala",noemorales
+"""want""","San Jose del Cabo, Mexico",noemorales
+"""been"",""want""","Havana, Cuba",noemorales
+"""been""","Santa Monica, CA, USA",noemorales
+"""want""","Tamarindo, Costa Rica",noemorales
+"""want""","Becici, Montenegro",noemorales
+"""want""","Bethlehem, PA, USA",noemorales
+"""want""","Southampton, NY, USA",noemorales
+"""want""","Rotterdam, The Netherlands",noemorales
+"""want""","Sendai, Japan",noemorales
+"""want""","Kep, Cambodia",noemorales
+"""want""","Moscow, Russia",noemorales
+"""want""","Munich, Germany",noemorales
+"""want""","Lincoln City, OR, USA",noemorales
+"""want""","London, UK",noemorales
+"""want""","Santo Domingo, Dominican Republic",noemorales
+"""want""","Antwerp, Belgium",noemorales
+"""want""","Liverpool, UK",noemorales
+"""want""","Toyama, Japan",noemorales
+"""want""","Pompeii, Italy",noemorales
+"""want""","Fukushima, Japan",noemorales
+"""want""","Shizuoka, Japan",noemorales
+"""want""","Kahuku, HI, USA",noemorales
+"""want""","Helen, GA, USA",noemorales
+"""want""","Kailua, HI, USA",noemorales
+"""want""","Belize City, Belize",noemorales
+"""want""","Hamim, United Arab Emirates",noemorales
+"""want""","Siem Reap, Cambodia",noemorales
+"""want""","Portland, ME, USA",noemorales
+"""want""","Cambridge, MA, USA",noemorales
+"""want""","Guayaquil, Ecuador",noemorales
+"""want""","Atlanta, GA, USA",noemorales
+"""want""","Stockholm, Sweden",noemorales
+"""want""","Cordoba, Spain",noemorales
+"""want""","Vatican City, Vatican City",noemorales
+"""want""","Nuremberg, Germany",noemorales
+"""want""","Cardiff, UK",noemorales
+"""want""","Rome, Italy",noemorales
+"""want""","Beppu, Japan",noemorales
+"""want""","Manila, Philippines",noemorales
+"""want""","Kuala Lumpur, Malaysia",noemorales
+"""want""","Wanaka, New Zealand",noemorales
+"""want""","Cleveland, OH, USA",noemorales
+"""want""","Hamilton, Bermuda",noemorales
+"""want""","Kagoshima, Japan",noemorales
+"""want""","Jaco, Costa Rica",noemorales
+"""want""","Guadalajara, Mexico",noemorales
+"""want""","Nabq Bay, Egypt",noemorales
+"""want""","Kinsale, Ireland",noemorales
+"""want""","Seville, Spain",noemorales
+"""want""","Maharepa, French Polynesia",noemorales
+"""want""","Berlin, Germany",noemorales
+"""want""","Granada, Spain",noemorales
+"""want""","Nagoya, Japan",noemorales
+"""want""","Naha, Japan",noemorales
+"""want""","Kralendijk, Bonaire",noemorales
+"""want""","Johannesburg, South Africa",noemorales
+"""want""","Aqaba, Jordan",noemorales
+"""want""","Bremen, Germany",noemorales
+"""want""","Ishigaki, Japan",noemorales
+"""want""","Bridgetown, Barbados",noemorales
+"""want""","Monterrey, Mexico",noemorales
+"""want""","Acapulco, Mexico",noemorales
+"""want""","Rio de Janeiro, Brazil",noemorales
+"""want""","Puntarenas, Costa Rica",noemorales
+"""want""","Nashville, IN, USA",noemorales
+"""want""","Ohrid, Republic of North Macedonia",noemorales
+"""want""","Bergen, Norway",noemorales
+"""want""","Fujikawaguchiko-machi, Japan",noemorales
+"""want""","Uppsala, Sweden",noemorales
+"""want""","Great Falls, MT, USA",noemorales
+"""want""","Wilmington, NC, USA",noemorales
+"""want""","Indianapolis, IN, USA",noemorales
+"""want""","La Paz, Bolivia",noemorales
+"""want""","Nozawaonsen-mura, Japan",noemorales
+"""want""","Bogota, Colombia",noemorales
+"""want""","Frankfurt, Germany",noemorales
+"""want""","Seoul, South Korea",noemorales
+"""want""","San Jose, Costa Rica",noemorales
+"""want""","Tijuana, Mexico",noemorales
+"""want""","Murqquab, United Arab Emirates",noemorales
+"""want""","Sandy Bay, Honduras",noemorales
+"""been""","Bronx, NY, USA",noemorales
+"""want""","West End, Honduras",noemorales
+"""want""","Nieuwpoort, Curacao",noemorales
+"""want""","Sao Paulo, Brazil",noemorales
+"""want""","Medellin, Colombia",noemorales
+"""want""","Fukuoka, Japan",noemorales
+"""want""","Cannes, France",noemorales
+"""want""","Nagasaki, Japan",noemorales
+"""want""","Ostend, Belgium",noemorales
+"""want""","Rhodes Town, Greece",noemorales
+"""want""","Bruges, Belgium",noemorales
+"""want""","Paramaribo, Suriname",noemorales
+"""want""","Hiroshima, Japan",noemorales
+"""want""","Kobe, Japan",noemorales
+"""want""","Barranquilla, Colombia",noemorales
+"""want""","Oranjestad, Aruba",noemorales
+"""want""","Sapporo, Japan",noemorales
+"""want""","George Town, Cayman Islands",noemorales
+"""want""","Cali, Colombia",noemorales
+"""want""","Otsu, Japan",noemorales
+"""want""","Nagano, Japan",noemorales
+"""want""","Seven Mile Beach, Cayman Islands",noemorales
+"""want""","Baguio, Philippines",noemorales
+"""want""","Osaka, Japan",noemorales
+"""want""","St. John's, Antigua and Barbuda",noemorales
+"""want""","Saint-Malo, France",noemorales
+"""want""","Yakushima-cho, Japan",noemorales
+"""want""","Izumisano, Japan",noemorales
+"""want""","Kyoto, Japan",noemorales
+"""want""","Asuncion, Paraguay",noemorales
+"""want""","Sainte-Luce, Martinique",noemorales
+"""want""","Nice, France",noemorales
+"""want""","Mostar, Bosnia and Herzegovina",noemorales
+"""want""","Sochi, Russia",noemorales
+"""want""","Escaldes-Engordany, Andorra",noemorales
+"""want""","Soldeu, Andorra",noemorales
+"""want""","Billund, Denmark",noemorales
+"""want""","Gothenburg, Sweden",noemorales
+"""want""","Salalah, Oman",noemorales
+"""want""","El Valle de Anton, Panama",noemorales
+"""want""","Albena, Bulgaria",noemorales
+"""want""","Monte-Carlo, Monaco",noemorales
+"""want""","Le Gosier, Guadeloupe",noemorales
+"""want""","Pristina, Kosovo",noemorales
+"""want""","Savusavu, Fiji",noemorales
+"""want""","Koya-cho, Japan",noemorales
+"""want""","Arorangi, Cook Islands",noemorales
+"""want""","Kardamena, Greece",noemorales
+"""want""","Kirishima, Japan",noemorales
+"""want""","Stavanger, Norway",noemorales
+"""want""","Nusa Dua, Indonesia",noemorales
+"""want""","Kuching, Malaysia",noemorales
+"""want""","Oklahoma City, OK, USA",noemorales
+"""want""","Gumbet, Turkey",noemorales
+"""want""","Yekaterinburg, Russia",noemorales
+"""want""","Brasov, Romania",noemorales
+"""want""","Isabela, Puerto Rico",noemorales
+"""want""","Gros Islet, St. Lucia",noemorales
+"""want""","Turgutreis, Turkey",noemorales
+"""want""","Punta del Este, Uruguay",noemorales
+"""want""","Kinshasa, Democratic Republic of the Congo",noemorales
+"""want""","Big Sur, CA, USA",noemorales
+"""want""","Kololi, Gambia",noemorales
+"""want""","Pangkor, Malaysia",noemorales
+"""want""","Toyooka, Japan",noemorales
+"""want""","Provincetown, MA, USA",noemorales
+"""been""","Chimaltenango, Guatemala",noemorales
+"""been"",""fave""","Antigua, Guatemala",noemorales
+"""want""","Dahab, Egypt",noemorales
+"""want""","Barcelona, Spain",noemorales
+"""want""","Kharkiv, Ukraine",noemorales
+"""want""","Linz, Austria",noemorales
+"""want""","Marseille, France",noemorales
+"""want""","Eindhoven, The Netherlands",noemorales
+"""want""","Tours, France",noemorales
+"""want""","Niagara Falls, NY, USA",noemorales
+"""want""","Lausanne, Switzerland",noemorales
+"""want""","Kingston, Jamaica",noemorales
+"""want""","Caracas, Venezuela",noemorales
+"""want""","Atlantic City, NJ, USA",noemorales
+"""want""","Paro, Bhutan",noemorales
+"""want""","Atlantic Beach, NC, USA",noemorales
+"""want""","Lviv, Ukraine",noemorales
+"""want""","Paris, France",noemorales
+"""want""","Zurich, Switzerland",noemorales
+"""want""","Santa Cruz, Bolivia",noemorales
+"""want""","Trois-Ilets, Martinique",noemorales
+"""want""","San Juan, Puerto Rico",noemorales
+"""want""","Kazan, Russia",noemorales
+"""want""","Asahikawa, Japan",noemorales
+"""want""","Amsterdam, The Netherlands",noemorales
+"""want""","Kitzbuhel, Austria",noemorales
+"""want""","Dresden, Germany",noemorales
+"""want""","Abu Dhabi, United Arab Emirates",noemorales
+"""been""","Pasadena, CA, USA",noemorales
+"""been""","Puerto de San Jose, Guatemala",noemorales
+"""want""","Jeju, South Korea",noemorales
+"""been""","Monterey, CA, USA",noemorales
+"""want""","Budapest, Hungary",noemorales
+"""want""","Noumea, New Caledonia",noemorales
+"""been"",""want""","Long Island City, NY, USA",noemorales
+"""been""","Fort Worth, TX, USA",noemorales
+"""want""","New Hope, PA, USA",noemorales
+"""want""","Crown Point, Trinidad and Tobago",noemorales
+"""want""","Busan, South Korea",noemorales
+"""want""","Val d'Isere, France",noemorales
+"""want""","Vienna, Austria",noemorales
+"""want""","Lamai Beach, Thailand",noemorales
+"""want""","Yalikavak, Turkey",noemorales
+"""want""","Oludeniz, Turkey",noemorales
+"""want""","Banos, Ecuador",noemorales
+"""want""","Ljubljana, Slovenia",noemorales
+"""want""","Port-au-Prince, Haiti",noemorales
+"""want""","Zhuhai, China",noemorales
+"""been""","Winslow, AZ, USA",noemorales
+"""been""","Tulum, Mexico",noemorales
+"""been""","Playa del Carmen, Mexico",noemorales
+"""want""","Sainte-Anne, Guadeloupe",noemorales
+"""been""","Morro Bay, CA, USA",noemorales
+"""want""","Skopje, Republic of North Macedonia",noemorales
+"""want""","Freeport, Bahamas",noemorales
+"""been"",""want""","Singapore, Singapore",noemorales
+"""want""","Quebec City, Quebec, Canada",noemorales
+"""want""","Montreal, Quebec, Canada",noemorales
+"""want""","Salzburg, Austria",noemorales
+"""want""","Mar del Plata, Argentina",noemorales
+"""been""","San Salvador, El Salvador",noemorales
+"""want""","Buenos Aires, Argentina",noemorales
+"""want""","Strasburg, PA, USA",noemorales
+"""want""","Cayo Largo, Cuba",noemorales
+"""been"",""want""","Dallas, TX, USA",noemorales
+"""been""","Cancun, Mexico",noemorales
+"""want""","Lagos, Portugal",noemorales
+"""want""","Kyiv (Kiev), Ukraine",noemorales
+"""want""","Uroa, Tanzania",noemorales
+"""want""","Traverse City, MI, USA",noemorales
+"""want""","Vang Vieng, Laos",noemorales
+"""want""","Yuzawa-machi, Japan",noemorales
+"""want""","Stuttgart, Germany",noemorales
+"""want""","Luxembourg City, Luxembourg",noemorales
+"""want""","Manchester, UK",noemorales
+"""been""","Mojave, CA, USA",noemorales
+"""want""","Abidjan, Ivory Coast",noemorales
+"""want""","Charlotte Amalie, U.S. Virgin Islands",noemorales
+"""want""","Doha, Qatar",noemorales
+"""want""","Athlone, Ireland",noemorales
+"""want""","Toronto, Ontario, Canada",noemorales
+"""want""","Hvar, Croatia",noemorales
+"""been"",""want""","Mexico City, Mexico",noemorales
+"""want""","Fajardo, Puerto Rico",noemorales
+"""want""","Bel Ombre, Africa",noemorales
+"""want""","Alajuela, Costa Rica",noemorales
+"""want""","La Fortuna de San Carlos, Costa Rica",noemorales
+"""want""","Basel, Switzerland",noemorales
+"""want""","Zagreb, Croatia",noemorales
+"""want""","Trou d'eau Douce, Africa",noemorales
+"""want""","Chisinau, Moldova",noemorales
+"""want""","Dubai, United Arab Emirates",noemorales
+"""want""","Balaclava, Africa",noemorales
+"""want""","Sigatoka, Fiji",noemorales
+"""want""","Chicago, IL, USA",noemorales
+"""want""","Bucharest, Romania",noemorales
+"""want""","Hong Kong, China",noemorales
+"""been""","Pismo Beach, CA, USA",noemorales
+"""want""","Sarajevo, Bosnia and Herzegovina",noemorales
+"""want""","Fresno, CA, USA",noemorales
+"""been"",""want"",""fave""","Los Angeles, CA, USA",noemorales
+"""want""","Wildwood Crest, NJ, USA",noemorales
+"""been""","Las Vegas, NV, USA",noemorales
+"""want""","Jeddah, Saudi Arabia",noemorales
+"""want""","Granada, Nicaragua",noemorales
+"""want""","Trondheim, Norway",noemorales
+"""want""","Kyrenia, Cyprus",noemorales
+"""want""","West End Village, Anguilla",noemorales
+"""want""","Oslo, Norway",noemorales
+"""want""","Chino, Japan",noemorales
+"""been""","Grand Canyon National Park, AZ, USA",noemorales
+"""want""","Jakarta, Indonesia",noemorales
+"""been""","Driftwood, TX, USA",noemorales
+"""want""","Minakami-machi, Japan",noemorales
+"""want""","Aspen, CO, USA",noemorales
+"""want""","Bansko, Bulgaria",noemorales
+"""want""","Bern, Switzerland",noemorales
+"""want""","Kaunas, Lithuania",noemorales
+"""want""","Prague, Czech Republic",noemorales
+"""want""","Lisbon, Portugal",noemorales
+"""want""","Kamakura, Japan",noemorales
+"""want""","Arequipa, Peru",noemorales
+"""want""","Playa Santa Lucia, Cuba",noemorales
+"""want""","Shimonoseki, Japan",noemorales
+"""want""","Lima, Peru",noemorales
+"""want""","Salvador, Brazil",noemorales
+"""want""","Lucerne, Switzerland",noemorales
+"""want""","Oia, Greece",noemorales
+"""want""","Sacramento, CA, USA",noemorales
+"""been""","Quetzaltenango, Guatemala",noemorales
+"""been""","Huntington Beach, CA, USA",noemorales
+"""been""","Puerto Barrios, Guatemala",noemorales
+"""want""","Fira, Greece",noemorales
+"""been""","Santiago Atitlan, Guatemala",noemorales
+"""been""","Santa Lucia Cotzumalguapa, Guatemala",noemorales
+"""been""","Panajachel, Guatemala",noemorales
+"""want""","Cuenca, Ecuador",noemorales
+"""want""","Pittsburgh, PA, USA",noemorales
+"""want""","Port El Kantaoui, Tunisia",noemorales
+"""want""","Saranda, Albania",noemorales
+"""want""","Baie Lazare, Seychelles",noemorales
+"""want""","Sopot, Poland",noemorales
+"""want""","Cairo, Egypt",noemorales
+"""want""","Montevideo, Uruguay",noemorales
+"""want""","Oran, Algeria",noemorales
+"""want""","Giza, Egypt",noemorales
+"""been""","Long Beach, CA, USA",noemorales
+"""want""","Glacis, Seychelles",noemorales
+"""want""","Karachi, Pakistan",noemorales
+"""want""","Kitakyushu, Japan",noemorales
+"""want""","Mbour, Senegal",noemorales
+"""been"",""want""","Phoenix, AZ, USA",noemorales
+"""want""","Rapid City, SD, USA",noemorales
+"""want""","Trinidad, Cuba",noemorales
+"""been""","San Vicente Pacaya, Guatemala",noemorales
+"""want""","Milwaukee, WI, USA",noemorales
+"""been""","Retalhuleu, Guatemala",noemorales
+"""want""","Seaside Heights, NJ, USA",noemorales
+"""been""","Henderson, NV, USA",noemorales
+"""want""","Machu Picchu, Peru",noemorales
+"""want""","Limassol City, Cyprus",noemorales
+"""want""","Mandalay, Myanmar",noemorales
+"""want""","Kandy, Sri Lanka",noemorales
+"""want""","Ouarzazate, Morocco",noemorales
+"""want""","Bratislava, Slovakia",noemorales
+"""want""","Fortaleza, Brazil",noemorales
+"""want""","Orlando, FL, USA",noemorales
+"""want""","Faa'a, French Polynesia",noemorales
+"""want""","Salt Lake City, UT, USA",noemorales
+"""want""","Lagos, Nigeria",noemorales
+"""want""","Detroit, MI, USA",noemorales
+"""want""","Aguas Calientes, Peru",noemorales
+"""want""","Santiago, Chile",noemorales
+"""want""","Zermatt, Switzerland",noemorales
+"""want""","Valparaiso, Chile",noemorales
+"""want""","Aizuwakamatsu, Japan",noemorales
+"""been""","Laguna Beach, CA, USA",noemorales
+"""been""","Guatemala City, Guatemala",noemorales
+"""been""","Amarillo, TX, USA",noemorales
+"""want""","Nai Harn, Thailand",noemorales
+"""want""","Dassia, Greece",noemorales
+"""want""","Mykonos Town, Greece",noemorales
+"""been""","Lake Havasu City, AZ, USA",noemorales
+"""been""","Cheverly, MD, USA",noemorales
+"""want""","Gero, Japan",noemorales
+"""want""","Reno, NV, USA",noemorales
+"""been""","Malibu, CA, USA",noemorales
+"""been""","Glendale, CA, USA",noemorales
+"""want""","Surfers Paradise, Australia",noemorales
+"""want""","West Palm Beach, FL, USA",noemorales
+"""want""","Seminyak, Indonesia",noemorales
+"""want""","Holetown, Barbados",noemorales
+"""want""","Bagan, Myanmar",noemorales
+"""want""","Salem, OR, USA",noemorales
+"""want""","Noord, Aruba",noemorales
+"""want""","Jolly Harbour, Antigua and Barbuda",noemorales
+"""want""","Kansas City, MO, USA",noemorales
+"""want""","Taoyuan, Taiwan",noemorales
+"""want""","Khao Lak, Thailand",noemorales
+"""want""","Arusha, Tanzania",noemorales
+"""want""","Bocas Town, Panama",noemorales
+"""want""","Kaga, Japan",noemorales
+"""been""","Manitou Springs, CO, USA",noemorales
+"""want""","Marina del Rey, CA, USA",noemorales
+"""want""","Allentown, PA, USA",noemorales
+"""want""","Darwin, Australia",noemorales
+"""want""","Ein Bokek, Israel",noemorales
+"""been""","Bavaro, Dominican Republic",noemorales
+"""want""","Victoria Falls, Zimbabwe",noemorales
+"""want""","Sonoma, CA, USA",noemorales
+"""been"",""want""","Miami, FL, USA",noemorales
+"""want""","Knoxville, TN, USA",noemorales
+"""been"",""want""","Miami Beach, FL, USA",noemorales
+"""been""","Anaheim, CA, USA",noemorales
+"""want""","Bamburi, Kenya",noemorales
+"""want""","Hastings, Barbados",noemorales
+"""want""","Nago, Japan",noemorales
+"""want""","Tehran, Iran",noemorales
+"""been""","Newark, NJ, USA",noemorales
+"""want""","Yomitan-son, Japan",noemorales
+"""want""","West Bay, Honduras",noemorales
+"""want""","Nasugbu, Philippines",noemorales
+"""want""","Kathmandu, Nepal",noemorales
+"""been""","South San Francisco, CA, USA",noemorales
+"""want""","Pokhara, Nepal",noemorales
+"""want""","Tucson, AZ, USA",noemorales
+"""been""","Colorado Springs, CO, USA",noemorales
+"""want""","Queenstown, New Zealand",noemorales
+"""been""","Salinas, CA, USA",noemorales
+"""want""","Te Anau, New Zealand",noemorales
+"""been""","San Antonio, TX, USA",noemorales
+"""been""","San Francisco, CA, USA",noemorales
+"""want""","Porto Alegre, Brazil",noemorales
+"""want""","Eilat, Israel",noemorales
+"""want""","Jerusalem, Israel",noemorales
+"""want""","Brooklyn, NY, USA",noemorales
+"""want""","Saint Philips, Antigua and Barbuda",noemorales
+"""want""","Amman, Jordan",noemorales
+"""want""","Podcetrtek, Slovenia",noemorales
+"""want""","Dublin, Ireland",noemorales
+"""want""","Vantaa, Finland",noemorales
+"""want""","Alushta, Europe",noemorales
+"""want""","Himeji, Japan",noemorales
+"""want""","Pas de la Casa, Andorra",noemorales
+"""want""","Panama City, FL, USA",noemorales
+"""want""","Pwani Mchangani, Tanzania",noemorales
+"""want""","Yufu, Japan",noemorales
+"""want""","Toba, Japan",noemorales
+"""want""","Nong Thale, Thailand",noemorales
+"""want""","Estes Park, CO, USA",noemorales
+"""want""","Princeton, NJ, USA",noemorales
+"""want""","Vancouver, WA, USA",noemorales
+"""want""","Mecca, Saudi Arabia",noemorales
+"""want""","Jersey City, NJ, USA",noemorales
+"""want""","Sihanoukville, Cambodia",noemorales
+"""want""","Livingstone, Zambia",noemorales
+"""been""","Burbank, CA, USA",noemorales
+"""want""","Nashville, TN, USA",noemorales
+"""been""","San Marcos, Guatemala",noemorales
+"""been""","Austin, TX, USA",noemorales
+"""want""","Da Nang, Vietnam",noemorales
+"""been""","Albuquerque, NM, USA",noemorales
+"""want""","Mont-Saint-Michel, France",noemorales
+"""want""","Dar es Salaam, Tanzania",noemorales
+"""want""","Cape May, NJ, USA",noemorales
+"""want""","Colombo, Sri Lanka",noemorales
+"""been""","San Marino, CA, USA",noemorales
+"""been""","Denver, CO, USA",noemorales
+"""want""","Cape Canaveral, FL, USA",noemorales
+"""been"",""want""","Niagara Falls, Ontario, Canada",noemorales
+"""want""","Mellieha, Malta",noemorales
+"""been"",""want"",""fave""","New York City, NY, USA",noemorales
+"""want""","Brinchang, Malaysia",noemorales
+"""want""","Yokohama, Japan",noemorales
+"""want""","Papetoai, French Polynesia",noemorales
+"""want""","Hakone-machi, Japan",noemorales
+"""been""","Ventura, CA, USA",noemorales
+"""want""","El Paso, TX, USA",noemorales
+"""want""","Ulaanbaatar, Mongolia",noemorales
+"""want""","Mysuru (Mysore), India",noemorales
+"""want""","New Delhi, India",noemorales
+"""want""","Istanbul, Turkey",noemorales
+"""want""","Fes, Morocco",noemorales
+"""want""","Meguro, Japan",noemorales
+"""been""","Minato, Japan",noemorales
+"""want""","Bunkyo, Japan",noemorales
+"""been"",""want""","Santa Barbara, CA, USA",noemorales
+"""been""","Chuo, Japan",noemorales
+"""want""","Cincinnati, OH, USA",noemorales
+"""want""","Utsunomiya, Japan",noemorales
+"""want""","Long Beach, WA, USA",noemorales
+"""want""","Tokyo, Japan",noemorales
+"""want""","Al Ain, United Arab Emirates",noemorales
+"""want""","Nikko, Japan",noemorales
+"""want""","Koto, Japan",noemorales
+"""want""","Seattle, WA, USA",noemorales
+"""want""","Wailuku, HI, USA",noemorales
+"""want""","Tashkent, Uzbekistan",noemorales
+"""want""","Kolkata (Calcutta), India",noemorales
+"""want""","Port Macquarie, Australia",noemorales
+"""been""","Beverly Hills, CA, USA",noemorales
+"""want""","Kihei, HI, USA",noemorales
+"""want""","Mumbai, India",noemorales
+"""want""","Sandusky, OH, USA",noemorales
+"""want""","Phnom Penh, Cambodia",noemorales
+"""want""","Zell am See, Austria",noemorales
+"""want""","Saalbach-Hinterglemm, Austria",noemorales
+"""want""","Windhoek, Namibia",noemorales
+"""want""","East End, Cayman Islands",noemorales
+"""want""","Mayrhofen, Austria",noemorales
+"""want""","Otaru, Japan",noemorales
+"""want""","Chiba, Japan",noemorales
+"""want""","Turin, Italy",noemorales
+"""been"",""want""","Taito, Japan",noemorales
+"""want""","Macau, China",noemorales
+"""been""","West Hollywood, CA, USA",noemorales
+"""want""","Paihia, New Zealand",noemorales
+"""want""","Honolulu, HI, USA",noemorales
+"""been""","Shibuya, Japan",noemorales
+"""been""","Shinjuku, Japan",noemorales
+"""want""","Milan, Italy",noemorales
+"""been"",""want""","Sumida, Japan",noemorales
+"""want""","Wembley, UK",noemorales
+"""want""","Poipu, HI, USA",noemorales
+"""want""","Baku, Azerbaijan",noemorales
+"""want""","Mae Nam, Thailand",noemorales
+"""want""","Christchurch, New Zealand",noemorales
+"""want""","Dhaka City, Bangladesh",noemorales
+"""want""","New Orleans, LA, USA",noemorales
+"""want""","Bandar Seri Begawan, Brunei Darussalam",noemorales
+"""been"",""want""","Boston, MA, USA",noemorales
+"""want""","Maputo, Mozambique",noemorales
+"""want""","Vientiane, Laos",noemorales
+"""want""","Ocean City, NJ, USA",noemorales
+"""want""","Villa de Leyva, Colombia",noemorales
+"""want""","Dakar, Senegal",noemorales
+"""been""","Tecpan, Guatemala",noemorales
+"""want""","Kota Bharu, Malaysia",noemorales
+"""want""","Glasgow, UK",noemorales
+"""want""","Rovaniemi, Finland",noemorales
+"""want""","Nanao, Japan",noemorales
+"""want""","Melbourne, Australia",noemorales
+"""want""","Columbia, SC, USA",noemorales
+"""want""","Narita, Japan",noemorales
+"""want""","Perth, Australia",noemorales
+"""been"",""want""","Houston, TX, USA",noemorales
+"""been""","San Jose, CA, USA",noemorales
+"""want""","Buffalo, NY, USA",noemorales
+"""want""","Rochester, NY, USA",noemorales
+"""want""","Kigali, Rwanda",noemorales

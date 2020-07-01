@@ -1,0 +1,171 @@
+<html>
+<head>
+  <title>staycationLA</title>
+
+  <link href='https://fonts.googleapis.com/css?family=Nunito:700,400,300' rel='stylesheet' type='text/css'>
+ 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+   <style type="text/css">
+
+ 
+   .navbar-brand {
+    color: #e32!important;
+  font-family: 'Nunito', sans-serif;
+    font-size: 68px;
+    line-height: 20px;
+    font-weight: bold;
+}
+.nav-upper {
+    margin-bottom: 0px;
+    min-height: 70px;   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ffffff;
+}
+
+.nav-lower .navbar-nav > li > a {
+    color: #000;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    }
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #4CAF50;
+  color: white;
+}
+
+   </style>
+</head>
+<body>
+    <nav class="navbar navbar-default navbar-static-top nav-upper">
+        <div class="container">
+            <div class="navbar-header">
+                <!-- Branding Image -->
+                <a class="navbar-brand" href="{{ url_for('home') }}">
+                    staycationLA
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <nav class="navbar navbar-default navbar-static-top nav-lower">
+        <div class="container">
+            <div class="collapse navbar-collapse" id="app-navbar-collapse2">
+                <!-- Left Side Of Navbar -->
+                <ul class="nav navbar-nav">
+                   <!--  <li><a >Home</a></li> -->
+                     <li><a href="{{ url_for('home') }}"> Home</a></li>       
+                     <li><a href="{{ url_for('aboutme') }}"> About Me</a></li>       
+                   <!--   come back and add links to homepage and about me page once it's created (see original quiz html)  -->       
+                </ul>                
+            </div>
+        </div>
+    </nav>
+
+
+  <div class="container">
+
+   <div class="row">
+
+     <div class="col-md-12"> 
+
+     <h3>Explore global culture in L.A. county</h3>
+     <p>Save your money and time, reduce your carbon footprint, and prevent pandemic spread!</p>
+
+       <div class="row question">
+          <div class="col-md-12">
+            <div class="row">     
+              <div class="col-md-12"><h1>Pick your favorite destination:</h1></div>                     
+                <div class="row">  
+                   <div class="item">
+                   <div class="row-fluid">
+                    <form method="POST" action="result">
+                      <div class="col-sm-4" >
+                        <label><img class="img-responsive" src="https://www.cvvillas.com/media/18593/main.jpg?anchor=center&mode=crop&width=1366&rnd=131823518440000000"><input type="radio" name="check" value="Santorini"/> Santorini, Greece</label>
+                        <label><img class="img-responsive" src="https://www.telegraph.co.uk/content/dam/Travel/Destinations/Africa/South%20Africa/Cape%20Town/cape-town-guides-lead.jpg"><input type="radio" name="check" value="Cape Town"/> Cape Town, South Africa</label>
+                        <label><img class="img-responsive" src="https://www.katiesbliss.com/wp-content/uploads/2019/05/Patrika-Gate-Jaipur-India.jpg"><input type="radio" name="check" value="Jaipur"/> Jaipur, India</label>
+                        <label><img class="img-responsive" src="https://parade.com/wp-content/uploads/2016/07/rio-de-janeiro-brazil-olympics-ftr.jpg"><input type="radio" name="check" value="Rio de Janeiro"/> Rio de Janeiro, Brazil </label>
+                        
+                        <label><img class="img-responsive" src="https://www.tripsavvy.com/thmb/1m4BZ31TZXwtPpdC95MwfVGXSMc=/2108x1422/filters:fill(auto,1)/GettyImages-600201788-5c8e8a1bc9e77c00014a9d8c.jpg"><input type="radio" name="check" value="St. Petersburg"/> St. Petersburg, Russia</label>
+
+                        
+                        <label><img class="img-responsive" src="https://expatexplore.com/blog/wp-content/uploads/2019/09/palace-of-pena-sintra-lisbon.jpg"><input type="radio" name="check" value="Lisbon"/> Lisbon, Portugal</label>
+                        <label><img class="img-responsive" src="https://pedrovision-noticias.com/wp-content/uploads/2019/06/Medellin-Transformacion-2-5.jpg"><input type="radio" name="check" value="Medellin"/> Medellin, Colombia</label> 
+                        
+                        <label><img class="img-responsive" src="https://images.robertharding.com/preview/RM/RH/HORIZONTAL/29-4820.jpg"><input type="radio" name="check" value="Addis Ababa"/> Addis Ababa, Ethiopia</label> 
+                        
+                        <input type="submit">     
+                      </div>
+  
+                        <div class="col-sm-4" >
+                        <label><img class="img-responsive" src="https://www.travelanddestinations.com/wp-content/uploads/2019/08/Florence-Skyline-at-sunset.jpg"><input type="radio" name="check" value="Florence"/> Florence, Italy</label>
+                        <label><img class="img-responsive" src="https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/turkey/istanbul/istanbul-guide-lead.jpg"><input type="radio" name="check" value="Istanbul"/> Istanbul, Turkey</label>
+                        <label><img class="img-responsive" src="https://images.fineartamerica.com/images-medium-large-5/autumn-in-salzburg-jr-photography.jpg"><input type="radio" name="check" value="Salzburg"/> Salzburg, Austria</label>                     
+                                                                       
+                        <label><img class="img-responsive" src="https://www.telegraph.co.uk/content/dam/Travel/Destinations/Asia/Thailand/Phuket/phuket-thailand-beach-boat-lead-main-guide.jpg"><input type="radio" name="check" value="Phuket"/> Phuket, Thailand</label>
+                        <label><img class="img-responsive" src="https://www.roughguides.com/wp-content/uploads/2013/01/hallgrimskirkja-cathedral-city-reykjavik-iceland-shutterstock_613997816.jpg"><input type="radio" name="check" value="Reykjavik"/> Reykjavik, Iceland</label>
+                        <label><img class="img-responsive" src="https://ethnicvoyage.com/images/products/20189673655.jpg"><input type="radio" name="check" value="Hanoi"/> Hanoi, Vietnam</label> 
+                        <label><img class="img-responsive" src="https://d3500i1ecak5li.cloudfront.net/s3fs-public/styles/banner/public/images/chapters/Edinburgh-Travel-Massive_0.jpg"><input type="radio" name="check" value="Edinburgh"/> Edinburgh, Scotland</label>
+
+                        
+
+                        <label><img class="img-responsive" src="https://i.insider.com/5d26280921a86107bb51bd92?width=1067&format=jpeg"><input type="radio" name="check" value="Tokyo"/> Tokyo, Japan</label>                
+                                                                         
+                        
+                        </div>
+  
+                        <div class="col-sm-4" >
+                        <label><img class="img-responsive" src="https://lp-cms-production.imgix.net/2019-06/65830387.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4"><input type="radio" name="check" value="Sydney"/> Sydney, Australia</label>
+                        <label><img class="img-responsive" src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2019%2F07%2Fhavana-cuba-CUBA0719.jpg"><input type="radio" name="check" value="Havana"/> Havana, Cuba</label>  
+                        <label><img class="img-responsive" src="https://mokumsurfclub.com/wp-content/uploads/2017/03/souk_medina_carpets_marrakech_morocco.jpg"><input type="radio" name="check" value="Marrakech"/> Marrakech, Morocco</label>                                                
+                        
+                        <label><img class="img-responsive" src="https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Spain/Andalusia/Seville/seville-lead-image-guide.jpg"><input type="radio" name="check" value="Seville"/> Seville, Spain</label> 
+                        
+                        <label><img class="img-responsive" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Aerial_view_of_Berlin_%2832881394137%29.jpg"><input type="radio" name="check" value="Berlin"/> Berlin, Germany</label>
+
+                        <label><img class="img-responsive" src="https://cdn.civitatis.com/peru/lima/galeria/cusco.jpg"><input type="radio" name="check" value="Cusco"/> Cusco, Peru</label> 
+                    
+                        <label><img class="img-responsive" src="https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-China-Beijing-491990549-hxdyl-copy.jpg"><input type="radio" name="check" value="Beijing"/> Beijing, China</label> 
+                        
+                        <label><img class="img-responsive" src="https://www.oceanairtravels.com/blog/wp-content/uploads/2019/10/Luxor-Temple-Egypt.jpg"><input type="radio" name="check" value="Luxor"/> Luxor, Egypt</label>
+                             
+                        
+                        </div>   
+                      </form> 
+                      </div> 
+                      </div>  
+                      </div>  
+
+
+
+                      
+
+                    </div>
+                  </div>
+                </div>
+              </div>   
+            </div>
+          </div>
+        </div>
+    </div>
+
+
+</body>
+</html>

@@ -1,0 +1,340 @@
+tag,place,user
+"""want""","Geneva, Switzerland",JoeMCanada
+"""been""","Cagliari, Italy",JoeMCanada
+"""want""","Cape Town Central, South Africa",JoeMCanada
+"""been""","Kusadasi, Turkey",JoeMCanada
+"""been""","Thornhill, Ontario, Canada",JoeMCanada
+"""been""","Council Bluffs, IA, USA",JoeMCanada
+"""want""","Warsaw, Poland",JoeMCanada
+"""been""","Grand Bend, Ontario, Canada",JoeMCanada
+"""been""","Guardalavaca, Cuba",JoeMCanada
+"""been""","Cudjoe Key, FL, USA",JoeMCanada
+"""been""","Emiliano Zapata, Mexico",JoeMCanada
+"""want""","Shanghai, China",JoeMCanada
+"""been""","Bayfield, Ontario, Canada",JoeMCanada
+"""been""","Cabo Frio, Brazil",JoeMCanada
+"""been"",""fave""","Toronto, Ontario, Canada",JoeMCanada
+"""been""","Nha Trang, Vietnam",JoeMCanada
+"""been"",""want""","Ho Chi Minh City, Vietnam",JoeMCanada
+"""want""","Hanoi, Vietnam",JoeMCanada
+"""want""","Portland, OR, USA",JoeMCanada
+"""been""","Sarnia, Ontario, Canada",JoeMCanada
+"""been""","Chicago, IL, USA",JoeMCanada
+"""been""","Civitavecchia, Italy",JoeMCanada
+"""been""","Stratford, Ontario, Canada",JoeMCanada
+"""been""","Los Angeles, CA, USA",JoeMCanada
+"""been""","Lisbon, Portugal",JoeMCanada
+"""been""","Papeete, French Polynesia",JoeMCanada
+"""been""","Luquillo, Puerto Rico",JoeMCanada
+"""been""","Horseshoe Valley, Ontario, Canada",JoeMCanada
+"""been""","Palermo, Italy",JoeMCanada
+"""been""","Hollywood, FL, USA",JoeMCanada
+"""been""","Washington DC, DC, USA",JoeMCanada
+"""been""","Pisa, Italy",JoeMCanada
+"""been""","Las Vegas, NV, USA",JoeMCanada
+"""been""","Florence, Italy",JoeMCanada
+"""want""","Kyiv (Kiev), Ukraine",JoeMCanada
+"""been""","Labadee, Haiti",JoeMCanada
+"""been""","Peterborough, Ontario, Canada",JoeMCanada
+"""been""","Ingersoll, Ontario, Canada",JoeMCanada
+"""been""","Borden, Ontario, Canada",JoeMCanada
+"""been""","Winnipeg, Manitoba, Canada",JoeMCanada
+"""been""","Valencia, Spain",JoeMCanada
+"""been""","King City, Ontario, Canada",JoeMCanada
+"""been""","Tallinn, Estonia",JoeMCanada
+"""been""","Ottawa, Ontario, Canada",JoeMCanada
+"""been""","Philadelphia, PA, USA",JoeMCanada
+"""want""","King George Island, Antarctica",JoeMCanada
+"""want""","Manchester, UK",JoeMCanada
+"""want""","Oslo, Norway",JoeMCanada
+"""been""","Kochi (Cochin), India",JoeMCanada
+"""been""","Duck Key, FL, USA",JoeMCanada
+"""been""","St. Thomas, U.S. Virgin Islands",JoeMCanada
+"""want""","Deception Island, Antarctica",JoeMCanada
+"""been""","Saint Thomas, Ontario, Canada",JoeMCanada
+"""been""","Dorchester, Ontario, Canada",JoeMCanada
+"""been""","Playa del Carmen, Mexico",JoeMCanada
+"""been""","Tulum, Mexico",JoeMCanada
+"""been""","Chatham, Ontario, Canada",JoeMCanada
+"""been""","Brantford, Ontario, Canada",JoeMCanada
+"""been""","Collingwood, Ontario, Canada",JoeMCanada
+"""been"",""fave""","Montreal, Quebec, Canada",JoeMCanada
+"""been""","Quebec City, Quebec, Canada",JoeMCanada
+"""want""","Prague, Czech Republic",JoeMCanada
+"""been""","Barrie, Ontario, Canada",JoeMCanada
+"""been""","Brampton, Ontario, Canada",JoeMCanada
+"""been""","Venice, Italy",JoeMCanada
+"""been""","Cozumel, Mexico",JoeMCanada
+"""been""","Nassau, Bahamas",JoeMCanada
+"""been""","Paradise Island, Bahamas",JoeMCanada
+"""been""","Mexico City, Mexico",JoeMCanada
+"""been""","Madrid, Spain",JoeMCanada
+"""been""","Kalamazoo, MI, USA",JoeMCanada
+"""been""","Helsinki, Finland",JoeMCanada
+"""been""","Minneapolis, MN, USA",JoeMCanada
+"""been""","Colombo, Sri Lanka",JoeMCanada
+"""been""","Thiensville, WI, USA",JoeMCanada
+"""been""","Palmerston, Ontario, Canada",JoeMCanada
+"""been""","Cancun, Mexico",JoeMCanada
+"""want""","South Pole, Antarctica",JoeMCanada
+"""been""","Abu Dhabi, United Arab Emirates",JoeMCanada
+"""been""","Sydney, Nova Scotia, Canada",JoeMCanada
+"""been""","Jonquiere, Quebec, Canada",JoeMCanada
+"""been""","Halifax, Nova Scotia, Canada",JoeMCanada
+"""been""","La Coruna, Spain",JoeMCanada
+"""been""","Reno, NV, USA",JoeMCanada
+"""been""","Windsor, Ontario, Canada",JoeMCanada
+"""been""","Muscat, Oman",JoeMCanada
+"""been""","Chicoutimi, Quebec, Canada",JoeMCanada
+"""been""","Stayner, Ontario, Canada",JoeMCanada
+"""been"",""fave""","Moorea, French Polynesia",JoeMCanada
+"""been""","Milwaukee, WI, USA",JoeMCanada
+"""been""","Edmonton, Alberta, Canada",JoeMCanada
+"""been""","Santiago, Chile",JoeMCanada
+"""want""","Atlanta, GA, USA",JoeMCanada
+"""been""","St. George's Caye, Belize",JoeMCanada
+"""been""","Lambton Shores, Ontario, Canada",JoeMCanada
+"""been""","Richmond Hill, Ontario, Canada",JoeMCanada
+"""been""","Tillsonburg, Ontario, Canada",JoeMCanada
+"""been""","Bridgetown, Barbados",JoeMCanada
+"""been""","Listowel, Ontario, Canada",JoeMCanada
+"""been""","St. Jacobs, Ontario, Canada",JoeMCanada
+"""been""","Barbados, Caribbean",JoeMCanada
+"""been""","Falmouth, Jamaica",JoeMCanada
+"""been""","Waterloo, Ontario, Canada",JoeMCanada
+"""been""","Oro-Medonte, Ontario, Canada",JoeMCanada
+"""been""","Lucan, Ontario, Canada",JoeMCanada
+"""been""","Mumbai, India",JoeMCanada
+"""been""","Fort Worth, TX, USA",JoeMCanada
+"""been"",""fave""","Bora Bora, French Polynesia",JoeMCanada
+"""been""","Ocean Reef, FL, USA",JoeMCanada
+"""been""","Maui, HI, USA",JoeMCanada
+"""been""","Valletta, Malta",JoeMCanada
+"""been"",""want""","Budapest, Hungary",JoeMCanada
+"""been"",""want""","Auckland Central, New Zealand",JoeMCanada
+"""been""","Schiller Park, IL, USA",JoeMCanada
+"""been""","Huahine, French Polynesia",JoeMCanada
+"""been""","Romulus, MI, USA",JoeMCanada
+"""been""","Raiatea, French Polynesia",JoeMCanada
+"""want""","Edinburgh, UK",JoeMCanada
+"""been""","Beverly Hills, CA, USA",JoeMCanada
+"""been""","Turtle Cove, Turks and Caicos",JoeMCanada
+"""want""","Melbourne, Australia",JoeMCanada
+"""been""","Willemstad, Curacao",JoeMCanada
+"""been""","Buenos Aires, Argentina",JoeMCanada
+"""been""","Curacao, Caribbean",JoeMCanada
+"""been""","Mazatlan, Mexico",JoeMCanada
+"""been""","Midland, Ontario, Canada",JoeMCanada
+"""want""","Macau, China",JoeMCanada
+"""been"",""fave""","Puerto Vallarta, Mexico",JoeMCanada
+"""been""","Havana, Cuba",JoeMCanada
+"""been""","Owen Sound, Ontario, Canada",JoeMCanada
+"""been""","Woodstock, Ontario, Canada",JoeMCanada
+"""been""","Newmarket, Ontario, Canada",JoeMCanada
+"""want""","Banff, Alberta, Canada",JoeMCanada
+"""been""","Calgary, Alberta, Canada",JoeMCanada
+"""been""","Kitchener, Ontario, Canada",JoeMCanada
+"""been""","Chatham-Kent, Ontario, Canada",JoeMCanada
+"""been""","Manzanillo, Mexico",JoeMCanada
+"""want""","Vienna, Austria",JoeMCanada
+"""been""","Cincinnati, OH, USA",JoeMCanada
+"""been""","San Diego, CA, USA",JoeMCanada
+"""want""","Zurich, Switzerland",JoeMCanada
+"""been""","Ilderton, Ontario, Canada",JoeMCanada
+"""been""","Ajaccio, France",JoeMCanada
+"""been""","Luxor, Egypt",JoeMCanada
+"""been""","Cairo, Egypt",JoeMCanada
+"""been""","Markham, Ontario, Canada",JoeMCanada
+"""been""","Montevideo, Uruguay",JoeMCanada
+"""been""","Paris, France",JoeMCanada
+"""been""","Giza, Egypt",JoeMCanada
+"""been""","Seattle, WA, USA",JoeMCanada
+"""been""","Holguin, Cuba",JoeMCanada
+"""want""","Dublin, Ireland",JoeMCanada
+"""been"",""fave""","Vancouver, British Columbia, Canada",JoeMCanada
+"""been""","Dominica, Caribbean",JoeMCanada
+"""been""","Victoria, British Columbia, Canada",JoeMCanada
+"""want""","Machu Picchu, Peru",JoeMCanada
+"""been""","Amsterdam, The Netherlands",JoeMCanada
+"""been""","Mequon, WI, USA",JoeMCanada
+"""been""","Wingham, Ontario, Canada",JoeMCanada
+"""been""","Nuevo Vallarta, Mexico",JoeMCanada
+"""been""","Omaha, NE, USA",JoeMCanada
+"""been""","Memphis, TN, USA",JoeMCanada
+"""been""","New York City, NY, USA",JoeMCanada
+"""been""","Little Torch Key, FL, USA",JoeMCanada
+"""want""","Anchorage, AK, USA",JoeMCanada
+"""been""","Candolim, India",JoeMCanada
+"""been""","Orillia, Ontario, Canada",JoeMCanada
+"""want""","Bucharest, Romania",JoeMCanada
+"""been""","Phuket, Thailand",JoeMCanada
+"""been""","Hong Kong, China",JoeMCanada
+"""been"",""want""","Dubai, United Arab Emirates",JoeMCanada
+"""been""","Wisconsin Dells, WI, USA",JoeMCanada
+"""been""","Middle Caicos, Turks and Caicos",JoeMCanada
+"""been""","Bangkok, Thailand",JoeMCanada
+"""been""","Grenada, Caribbean",JoeMCanada
+"""want""","Saugatuck, MI, USA",JoeMCanada
+"""been""","Taipei, Taiwan",JoeMCanada
+"""been""","Orient Bay, St Martin \u002F St Maarten",JoeMCanada
+"""been""","Cabo San Lucas, Mexico",JoeMCanada
+"""want""","Phoenix, AZ, USA",JoeMCanada
+"""been""","Point Edward, Ontario, Canada",JoeMCanada
+"""been""","Punta del Este, Uruguay",JoeMCanada
+"""been""","Copenhagen, Denmark",JoeMCanada
+"""been""","Caguas, Puerto Rico",JoeMCanada
+"""been""","Tavernier, FL, USA",JoeMCanada
+"""been""","Burlington, VT, USA",JoeMCanada
+"""been""","St Martin \u002F St Maarten, Caribbean",JoeMCanada
+"""been""","Cook's  Bay, French Polynesia",JoeMCanada
+"""been""","Madison, WI, USA",JoeMCanada
+"""been""","St. Lucia, Caribbean",JoeMCanada
+"""been""","Buffalo, NY, USA",JoeMCanada
+"""been""","West Bay, Honduras",JoeMCanada
+"""want""","Provincetown, MA, USA",JoeMCanada
+"""been""","Bochum, Germany",JoeMCanada
+"""been""","St. Jean, St. Barthelemy",JoeMCanada
+"""been""","Maple, Ontario, Canada",JoeMCanada
+"""been""","Miami Beach, FL, USA",JoeMCanada
+"""been""","Miami, FL, USA",JoeMCanada
+"""been""","Charlotte, NC, USA",JoeMCanada
+"""been""","Pigeon Key, FL, USA",JoeMCanada
+"""want""","Honolulu, HI, USA",JoeMCanada
+"""been""","Egg Harbor, WI, USA",JoeMCanada
+"""been""","Essen, Germany",JoeMCanada
+"""been""","Santorini, Greece",JoeMCanada
+"""been""","Barcelona, Spain",JoeMCanada
+"""want""","Cologne, Germany",JoeMCanada
+"""been""","Oro Station, Ontario, Canada",JoeMCanada
+"""been""","Dusseldorf, Germany",JoeMCanada
+"""been""","Dortmund, Germany",JoeMCanada
+"""been""","Monte-Carlo, Monaco",JoeMCanada
+"""been""","New Orleans, LA, USA",JoeMCanada
+"""been""","Ramrod Key, FL, USA",JoeMCanada
+"""been""","Corsica, France",JoeMCanada
+"""been""","Boston, MA, USA",JoeMCanada
+"""been""","Vaughan, Ontario, Canada",JoeMCanada
+"""been""","Wailea, HI, USA",JoeMCanada
+"""been""","Key Colony Beach, FL, USA",JoeMCanada
+"""been""","Flamingo, FL, USA",JoeMCanada
+"""been""","Palma de Mallorca, Spain",JoeMCanada
+"""been""","Athens, Greece",JoeMCanada
+"""been""","Key West, FL, USA",JoeMCanada
+"""been""","Key Largo, FL, USA",JoeMCanada
+"""want""","Christchurch, New Zealand",JoeMCanada
+"""want""","Bruges, Belgium",JoeMCanada
+"""been""","West Hollywood, CA, USA",JoeMCanada
+"""been""","Ibiza, Spain",JoeMCanada
+"""been""","Aruba, Caribbean",JoeMCanada
+"""been""","Wellington, New Zealand",JoeMCanada
+"""want""","San Antonio, TX, USA",JoeMCanada
+"""been""","Seven Mile Beach, Cayman Islands",JoeMCanada
+"""been""","Oranjestad, Aruba",JoeMCanada
+"""been""","Rochester, NY, USA",JoeMCanada
+"""been""","St. John's, Antigua and Barbuda",JoeMCanada
+"""been""","San Francisco, CA, USA",JoeMCanada
+"""want""","Salem, MA, USA",JoeMCanada
+"""been""","Sandusky, OH, USA",JoeMCanada
+"""been""","Wasaga Beach, Ontario, Canada",JoeMCanada
+"""been""","Dallas, TX, USA",JoeMCanada
+"""been""","Nice, France",JoeMCanada
+"""want""","Denver, CO, USA",JoeMCanada
+"""want""","Houston, TX, USA",JoeMCanada
+"""been""","Goderich, Ontario, Canada",JoeMCanada
+"""been""","Forest, Ontario, Canada",JoeMCanada
+"""been""","Kissimmee, FL, USA",JoeMCanada
+"""been""","Elmvale, Ontario, Canada",JoeMCanada
+"""been""","Heraklion, Greece",JoeMCanada
+"""been""","Basseterre, St. Kitts and Nevis",JoeMCanada
+"""been""","Barbuda, Antigua and Barbuda",JoeMCanada
+"""been""","Sitka, AK, USA",JoeMCanada
+"""been""","Palm Springs, CA, USA",JoeMCanada
+"""been""","Bloomington, MN, USA",JoeMCanada
+"""been"",""fave""","Fort Lauderdale, FL, USA",JoeMCanada
+"""been""","Jamaica, Caribbean",JoeMCanada
+"""been""","Seville, Spain",JoeMCanada
+"""been""","Big Pine Key, FL, USA",JoeMCanada
+"""been""","Conch Key, FL, USA",JoeMCanada
+"""been""","Fiumicino, Italy",JoeMCanada
+"""want""","Belfast, UK",JoeMCanada
+"""been""","Innisfil, Ontario, Canada",JoeMCanada
+"""been""","St. Petersburg, Russia",JoeMCanada
+"""been""","Istanbul, Turkey",JoeMCanada
+"""want""","Tokyo, Japan",JoeMCanada
+"""been""","Clinton, Ontario, Canada",JoeMCanada
+"""been""","La Rochelle, France",JoeMCanada
+"""been""","Lucknow, Ontario, Canada",JoeMCanada
+"""been""","Rio Grande, Brazil",JoeMCanada
+"""been""","St. Marys, Ontario, Canada",JoeMCanada
+"""want""","Johannesburg, South Africa",JoeMCanada
+"""been""","Berlin, Germany",JoeMCanada
+"""been""","Singapore, Singapore",JoeMCanada
+"""been""","Angus, Ontario, Canada",JoeMCanada
+"""been""","Freeport, Bahamas",JoeMCanada
+"""been""","Rio de Janeiro, Brazil",JoeMCanada
+"""been""","Orlando, FL, USA",JoeMCanada
+"""been""","Mount Forest, Ontario, Canada",JoeMCanada
+"""been""","Paraty, Brazil",JoeMCanada
+"""been""","Maharepa, French Polynesia",JoeMCanada
+"""been""","Cleveland, OH, USA",JoeMCanada
+"""been""","Hamburg, Germany",JoeMCanada
+"""been""","Battle Creek, MI, USA",JoeMCanada
+"""been""","Bilbao, Spain",JoeMCanada
+"""been""","Juneau, AK, USA",JoeMCanada
+"""been""","Ocho Rios, Jamaica",JoeMCanada
+"""been""","Strathroy, Ontario, Canada",JoeMCanada
+"""been""","Brooklyn, NY, USA",JoeMCanada
+"""been""","San Jose, Costa Rica",JoeMCanada
+"""want""","Tel Aviv, Israel",JoeMCanada
+"""been""","Frankfurt, Germany",JoeMCanada
+"""been""","Detroit, MI, USA",JoeMCanada
+"""been""","London, Ontario, Canada",JoeMCanada
+"""been""","Green Bay, WI, USA",JoeMCanada
+"""been""","Mississauga, Ontario, Canada",JoeMCanada
+"""been""","Sydney, Australia",JoeMCanada
+"""been""","Mitchell, Ontario, Canada",JoeMCanada
+"""been""","Niagara-on-the-Lake, Ontario, Canada",JoeMCanada
+"""been""","Niagara Falls, Ontario, Canada",JoeMCanada
+"""want""","Marrakech, Morocco",JoeMCanada
+"""been""","Hamilton, Ontario, Canada",JoeMCanada
+"""want""","Sao Paulo, Brazil",JoeMCanada
+"""been""","Ketchikan, AK, USA",JoeMCanada
+"""been""","Summerland Key, FL, USA",JoeMCanada
+"""been""","Port Stanley, Ontario, Canada",JoeMCanada
+"""been""","Port Huron, MI, USA",JoeMCanada
+"""been""","Capri, Italy",JoeMCanada
+"""been""","Fort-de-France, Martinique",JoeMCanada
+"""been""","Dubrovnik, Croatia",JoeMCanada
+"""been""","Split, Croatia",JoeMCanada
+"""been""","Shanty Bay, Ontario, Canada",JoeMCanada
+"""want""","Atlantic City, NJ, USA",JoeMCanada
+"""been""","El Yunque National Forest, Puerto Rico",JoeMCanada
+"""want""","London, UK",JoeMCanada
+"""been""","Ailsa Craig, Ontario, Canada",JoeMCanada
+"""been""","San Juan, Puerto Rico",JoeMCanada
+"""been""","Pompeii, Italy",JoeMCanada
+"""been""","Naples, Italy",JoeMCanada
+"""been""","Columbus, OH, USA",JoeMCanada
+"""been""","Exeter, Ontario, Canada",JoeMCanada
+"""been""","Sugarloaf Key, FL, USA",JoeMCanada
+"""been""","Sugarloaf, FL, USA",JoeMCanada
+"""been""","Marathon Shores, FL, USA",JoeMCanada
+"""been""","Cookstown, Ontario, Canada",JoeMCanada
+"""been""","Blue Mountains, Ontario, Canada",JoeMCanada
+"""been""","Vatican City, Vatican City",JoeMCanada
+"""been""","Stockholm, Sweden",JoeMCanada
+"""want""","Reykjavik, Iceland",JoeMCanada
+"""been""","Cadiz, Spain",JoeMCanada
+"""been""","Kotor, Montenegro",JoeMCanada
+"""been""","George Town, Bahamas",JoeMCanada
+"""been""","Rome, Italy",JoeMCanada
+"""been""","Manuel Antonio, Costa Rica",JoeMCanada
+"""been""","Malaga, Spain",JoeMCanada
+"""been""","Mykonos Town, Greece",JoeMCanada
+"""been""","Salt Lake City, UT, USA",JoeMCanada
+"""been""","Rio Grande, Puerto Rico",JoeMCanada
+"""been""","Stock Island, FL, USA",JoeMCanada
+"""been""","Tunis, Tunisia",JoeMCanada
+"""been""","Niagara Falls, NY, USA",JoeMCanada
+"""been""","Nashville, TN, USA",JoeMCanada
+"""been""","Matecumbe Key, FL, USA",JoeMCanada

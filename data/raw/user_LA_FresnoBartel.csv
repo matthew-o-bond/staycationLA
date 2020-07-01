@@ -1,0 +1,642 @@
+tag,place,user
+"""been""","Nashville, TN, USA",FresnoBartel
+"""been""","Sequim, WA, USA",FresnoBartel
+"""been"",""fave""","Petrified Forest National Park, AZ, USA",FresnoBartel
+"""been""","Baltimore, MD, USA",FresnoBartel
+"""been""","Amboise, France",FresnoBartel
+"""been"",""want""","Savannah, GA, USA",FresnoBartel
+"""been""","Albuquerque, NM, USA",FresnoBartel
+"""been""","Blois, France",FresnoBartel
+"""been""","Flam, Norway",FresnoBartel
+"""been""","Nice, France",FresnoBartel
+"""been""","Grover Beach, CA, USA",FresnoBartel
+"""been""","Gualala, CA, USA",FresnoBartel
+"""been""","La Quinta, CA, USA",FresnoBartel
+"""been""","Jerome, AZ, USA",FresnoBartel
+"""been""","Guerneville, CA, USA",FresnoBartel
+"""been""","Tempe, AZ, USA",FresnoBartel
+"""been""","Kayenta, AZ, USA",FresnoBartel
+"""been""","Clovis, CA, USA",FresnoBartel
+"""been""","Laguna Beach, CA, USA",FresnoBartel
+"""been""","Coachella, CA, USA",FresnoBartel
+"""been""","Half Moon Bay, CA, USA",FresnoBartel
+"""been""","Coalinga, CA, USA",FresnoBartel
+"""been""","Coarsegold, CA, USA",FresnoBartel
+"""been""","Brooklyn, NY, USA",FresnoBartel
+"""been""","Monticello, France",FresnoBartel
+"""been""","Toledo, Spain",FresnoBartel
+"""been""","Vancouver, WA, USA",FresnoBartel
+"""been""","Copenhagen, Denmark",FresnoBartel
+"""been""","Chambord, France",FresnoBartel
+"""been""","Brighton, UK",FresnoBartel
+"""been""","Chinon, France",FresnoBartel
+"""been""","Rye, UK",FresnoBartel
+"""been""","Aachen, Germany",FresnoBartel
+"""been""","McKittrick, CA, USA",FresnoBartel
+"""been""","Edwards, CA, USA",FresnoBartel
+"""been""","Stratford-upon-Avon, UK",FresnoBartel
+"""been""","Chartres, France",FresnoBartel
+"""been""","Greenfield, CA, USA",FresnoBartel
+"""been""","La Canada Flintridge, CA, USA",FresnoBartel
+"""been""","Chenonceaux, France",FresnoBartel
+"""been""","Yountville, CA, USA",FresnoBartel
+"""been""","Holbrook, AZ, USA",FresnoBartel
+"""been""","Yucaipa, CA, USA",FresnoBartel
+"""been""","Claremont, CA, USA",FresnoBartel
+"""been""","La Jolla, CA, USA",FresnoBartel
+"""been""","Orlando, FL, USA",FresnoBartel
+"""been""","Chowchilla, CA, USA",FresnoBartel
+"""been""","Konstanz, Germany",FresnoBartel
+"""been""","Thousand Oaks, CA, USA",FresnoBartel
+"""been""","Oberstaufen, Germany",FresnoBartel
+"""been""","West Glacier, MT, USA",FresnoBartel
+"""want""","Jerusalem, Israel",FresnoBartel
+"""been""","Friday Harbor, WA, USA",FresnoBartel
+"""been""","Santa Fe, NM, USA",FresnoBartel
+"""been""","San Francisco, CA, USA",FresnoBartel
+"""been""","San Antonio, TX, USA",FresnoBartel
+"""been""","Segovia, Spain",FresnoBartel
+"""been""","Cologne, Germany",FresnoBartel
+"""been""","Tours, France",FresnoBartel
+"""been""","Scottsdale, AZ, USA",FresnoBartel
+"""been"",""fave""","Tucson, AZ, USA",FresnoBartel
+"""been""","Marina, CA, USA",FresnoBartel
+"""been""","Kingsburg, CA, USA",FresnoBartel
+"""been""","Maricopa, CA, USA",FresnoBartel
+"""been""","Gorman, CA, USA",FresnoBartel
+"""been""","Sedona, AZ, USA",FresnoBartel
+"""want""","Barcelona, Spain",FresnoBartel
+"""been""","Goshen, CA, USA",FresnoBartel
+"""been""","Chico, CA, USA",FresnoBartel
+"""been""","Marina del Rey, CA, USA",FresnoBartel
+"""want""","Victoria, Malta",FresnoBartel
+"""been""","Anacortes, WA, USA",FresnoBartel
+"""been""","Earlimart, CA, USA",FresnoBartel
+"""want""","Ggantija, Malta",FresnoBartel
+"""been""","Easton, CA, USA",FresnoBartel
+"""been""","Dunsmuir, CA, USA",FresnoBartel
+"""been""","Interior, SD, USA",FresnoBartel
+"""been""","Appomattox, VA, USA",FresnoBartel
+"""want""","Serengeti National Park, Tanzania",FresnoBartel
+"""been""","Versailles, France",FresnoBartel
+"""been""","Three Rivers, CA, USA",FresnoBartel
+"""been""","Gatlinburg, TN, USA",FresnoBartel
+"""been""","Blowing Rock, NC, USA",FresnoBartel
+"""been""","Moab, UT, USA",FresnoBartel
+"""been""","Kansas City, MO, USA",FresnoBartel
+"""been""","Paris, France",FresnoBartel
+"""been""","North Palm Springs, CA, USA",FresnoBartel
+"""been""","Joplin, MO, USA",FresnoBartel
+"""been""","Fontainebleau, France",FresnoBartel
+"""been""","Lisse, The Netherlands",FresnoBartel
+"""been""","Glendale, CA, USA",FresnoBartel
+"""been""","West Palm Beach, FL, USA",FresnoBartel
+"""want""","Foz do Iguacu, Brazil",FresnoBartel
+"""been""","Madera, CA, USA",FresnoBartel
+"""been""","Birmingham, AL, USA",FresnoBartel
+"""been""","Malibu, CA, USA",FresnoBartel
+"""been""","Kerman, CA, USA",FresnoBartel
+"""been""","Manhattan Beach, CA, USA",FresnoBartel
+"""been""","Amsterdam, The Netherlands",FresnoBartel
+"""been""","Kettleman City, CA, USA",FresnoBartel
+"""been""","Fayetteville, AR, USA",FresnoBartel
+"""been""","Goleta, CA, USA",FresnoBartel
+"""been""","Dunlap, CA, USA",FresnoBartel
+"""been""","Gilroy, CA, USA",FresnoBartel
+"""been""","St. Petersburg, FL, USA",FresnoBartel
+"""want""","Tashkent, Uzbekistan",FresnoBartel
+"""been""","Tacoma, WA, USA",FresnoBartel
+"""been""","Saint Mary, MT, USA",FresnoBartel
+"""been"",""fave""","Big Bend National Park, TX, USA",FresnoBartel
+"""been""","Medora, ND, USA",FresnoBartel
+"""want""","Hot Springs, AR, USA",FresnoBartel
+"""want""","Mgarr, Malta",FresnoBartel
+"""been"",""want""","Charleston, SC, USA",FresnoBartel
+"""been""","Newport, RI, USA",FresnoBartel
+"""want""","Carcassonne Center, France",FresnoBartel
+"""want""","Vienna, Austria",FresnoBartel
+"""been""","Newport Beach, CA, USA",FresnoBartel
+"""been""","Flagstaff, AZ, USA",FresnoBartel
+"""been""","Los Alamos, NM, USA",FresnoBartel
+"""been""","Los Osos, CA, USA",FresnoBartel
+"""been""","Los Olivos, CA, USA",FresnoBartel
+"""been""","Garden Grove, CA, USA",FresnoBartel
+"""been""","Arlington, VA, USA",FresnoBartel
+"""been""","Nipomo, CA, USA",FresnoBartel
+"""been""","Joshua Tree, CA, USA",FresnoBartel
+"""been""","Dos Palos, CA, USA",FresnoBartel
+"""been""","North Fork, CA, USA",FresnoBartel
+"""want""","Tangier, Morocco",FresnoBartel
+"""been""","Chicago, IL, USA",FresnoBartel
+"""want""","Bethlehem, Palestinian Territories",FresnoBartel
+"""been""","Avila Beach, CA, USA",FresnoBartel
+"""been""","Kalispell, MT, USA",FresnoBartel
+"""been""","Custer, SD, USA",FresnoBartel
+"""been""","Houston, TX, USA",FresnoBartel
+"""been""","Boston, MA, USA",FresnoBartel
+"""been""","Asheville, NC, USA",FresnoBartel
+"""been""","New Orleans, LA, USA",FresnoBartel
+"""been""","Xpu-Ha, Mexico",FresnoBartel
+"""want""","Marrakech, Morocco",FresnoBartel
+"""want""","Selcuk, Turkey",FresnoBartel
+"""been""","Tupelo, MS, USA",FresnoBartel
+"""been""","Pigeon Forge, TN, USA",FresnoBartel
+"""want""","Casablanca, Morocco",FresnoBartel
+"""want""","Istanbul, Turkey",FresnoBartel
+"""been""","Heidelberg, Germany",FresnoBartel
+"""been""","Salzburg, Austria",FresnoBartel
+"""want""","Samarkand, Uzbekistan",FresnoBartel
+"""want""","Marsaxlokk, Malta",FresnoBartel
+"""been""","Honolulu, HI, USA",FresnoBartel
+"""want""","New Delhi, India",FresnoBartel
+"""been""","Pismo Beach, CA, USA",FresnoBartel
+"""been""","Los Alamos, CA, USA",FresnoBartel
+"""been""","Irvine, CA, USA",FresnoBartel
+"""want""","Valletta, Malta",FresnoBartel
+"""been""","Isla Vista, CA, USA",FresnoBartel
+"""been""","Pixley, CA, USA",FresnoBartel
+"""want""","Jaipur, India",FresnoBartel
+"""been""","Los Banos, CA, USA",FresnoBartel
+"""want""","Mosta, Malta",FresnoBartel
+"""been""","Fresno, CA, USA",FresnoBartel
+"""been""","Los Angeles, CA, USA",FresnoBartel
+"""been""","Placentia, CA, USA",FresnoBartel
+"""want""","Mdina, Malta",FresnoBartel
+"""been""","Newhall, CA, USA",FresnoBartel
+"""been""","Fullerton, CA, USA",FresnoBartel
+"""been""","Fowler, CA, USA",FresnoBartel
+"""been""","Auberry, CA, USA",FresnoBartel
+"""been""","Long Beach, CA, USA",FresnoBartel
+"""been""","Freedom, CA, USA",FresnoBartel
+"""been""","Atascadero, CA, USA",FresnoBartel
+"""been""","Provo, UT, USA",FresnoBartel
+"""been""","Lahaina, HI, USA",FresnoBartel
+"""been""","Presidio, TX, USA",FresnoBartel
+"""been""","Kihei, HI, USA",FresnoBartel
+"""been""","Chinle, AZ, USA",FresnoBartel
+"""been""","Hot Springs, SD, USA",FresnoBartel
+"""been""","Seattle, WA, USA",FresnoBartel
+"""been"",""fave""","Yellowstone National Park, WY, USA",FresnoBartel
+"""been""","Luxembourg City, Luxembourg",FresnoBartel
+"""been""","Volterra, Italy",FresnoBartel
+"""been""","Kailua-Kona, HI, USA",FresnoBartel
+"""been""","Hana, HI, USA",FresnoBartel
+"""been""","Cincinnati, OH, USA",FresnoBartel
+"""been""","Kahului, HI, USA",FresnoBartel
+"""been""","Seward, AK, USA",FresnoBartel
+"""been""","Twentynine Palms, CA, USA",FresnoBartel
+"""been""","San Diego, CA, USA",FresnoBartel
+"""been""","Avalon, CA, USA",FresnoBartel
+"""been""","Avenal, CA, USA",FresnoBartel
+"""been""","Phoenix, AZ, USA",FresnoBartel
+"""been""","Fort Bragg, CA, USA",FresnoBartel
+"""been""","Jacksonville, OR, USA",FresnoBartel
+"""been""","Napa, CA, USA",FresnoBartel
+"""been""","Lompoc, CA, USA",FresnoBartel
+"""been""","Indian Wells, CA, USA",FresnoBartel
+"""been""","Oslo, Norway",FresnoBartel
+"""been""","Indio, CA, USA",FresnoBartel
+"""been""","Alexandria, VA, USA",FresnoBartel
+"""been""","Lone Pine, CA, USA",FresnoBartel
+"""been""","Stuttgart, Germany",FresnoBartel
+"""been""","Huron, CA, USA",FresnoBartel
+"""been""","Arcadia, CA, USA",FresnoBartel
+"""want""","Ulaanbaatar, Mongolia",FresnoBartel
+"""been""","St. George, UT, USA",FresnoBartel
+"""been""","Aptos, CA, USA",FresnoBartel
+"""been""","Apple Valley, CA, USA",FresnoBartel
+"""been""","Port Townsend, WA, USA",FresnoBartel
+"""been""","Little Rock, AR, USA",FresnoBartel
+"""been""","Charlottesville, VA, USA",FresnoBartel
+"""been""","Ventura, CA, USA",FresnoBartel
+"""been""","Anchorage, AK, USA",FresnoBartel
+"""been""","New York City, NY, USA",FresnoBartel
+"""been""","South Lake Tahoe, CA, USA",FresnoBartel
+"""been""","Carlsbad, NM, USA",FresnoBartel
+"""been""","Petaluma, CA, USA",FresnoBartel
+"""been""","Corvallis, OR, USA",FresnoBartel
+"""been""","Mount Shasta, CA, USA",FresnoBartel
+"""been"",""fave""","Hume, CA, USA",FresnoBartel
+"""been""","Phelan, CA, USA",FresnoBartel
+"""been""","Huntington Beach, CA, USA",FresnoBartel
+"""been""","Sacramento, CA, USA",FresnoBartel
+"""been""","Huntington Lake, CA, USA",FresnoBartel
+"""been""","Bayeux, France",FresnoBartel
+"""been""","Moss Landing, CA, USA",FresnoBartel
+"""been""","Malta, MT, USA",FresnoBartel
+"""been""","Atlanta, GA, USA",FresnoBartel
+"""been""","Helsinki, Finland",FresnoBartel
+"""been"",""fave""","Crater Lake National Park, OR, USA",FresnoBartel
+"""been""","Madrid, Spain",FresnoBartel
+"""want""","Riga, Latvia",FresnoBartel
+"""been""","Chongqing, China",FresnoBartel
+"""been"",""fave""","Death Valley National Park, CA, USA",FresnoBartel
+"""been""","Beijing, China",FresnoBartel
+"""want""","Denali National Park and Preserve, AK, USA",FresnoBartel
+"""want""","Dry Tortugas National Park, FL, USA",FresnoBartel
+"""want""","Pushkar, India",FresnoBartel
+"""been"",""fave""","Everglades National Park, FL, USA",FresnoBartel
+"""been""","Hong Kong, China",FresnoBartel
+"""want""","Gates Of The Arctic National Park and Preserve, AK, USA",FresnoBartel
+"""been"",""fave""","Glacier National Park, MT, USA",FresnoBartel
+"""want""","Glacier Bay National Park and Preserve, AK, USA",FresnoBartel
+"""been"",""fave""","Grand Canyon National Park, AZ, USA",FresnoBartel
+"""been"",""fave""","Grand Teton National Park, WY, USA",FresnoBartel
+"""been""","Gibraltar, Europe",FresnoBartel
+"""been""","Venice, Italy",FresnoBartel
+"""been""","Paso Robles, CA, USA",FresnoBartel
+"""been""","Pearl River, LA, USA",FresnoBartel
+"""been""","Lemoore, CA, USA",FresnoBartel
+"""been""","Winslow, AZ, USA",FresnoBartel
+"""been""","Pebble Beach, CA, USA",FresnoBartel
+"""been""","Morro Bay, CA, USA",FresnoBartel
+"""been""","Pearblossom, CA, USA",FresnoBartel
+"""been""","Monterey, CA, USA",FresnoBartel
+"""been""","Montecito, CA, USA",FresnoBartel
+"""been""","East Glacier Park, MT, USA",FresnoBartel
+"""been""","Williams, AZ, USA",FresnoBartel
+"""been""","Pasadena, CA, USA",FresnoBartel
+"""been""","Bellevue, WA, USA",FresnoBartel
+"""been""","Lemon Cove, CA, USA",FresnoBartel
+"""want""","Tallinn, Estonia",FresnoBartel
+"""want""","Catania, Italy",FresnoBartel
+"""been""","Spanish Fork, UT, USA",FresnoBartel
+"""been""","Memphis, TN, USA",FresnoBartel
+"""want""","Acadia National Park, ME, USA",FresnoBartel
+"""been""","Lhasa, China",FresnoBartel
+"""want""","Arches National Park, UT, USA",FresnoBartel
+"""been"",""fave""","Badlands National Park, SD, USA",FresnoBartel
+"""been"",""fave""","Biscayne National Park, FL, USA",FresnoBartel
+"""want""","Black Canyon Of The Gunnison National Park, CO, USA",FresnoBartel
+"""want""","Vilnius, Lithuania",FresnoBartel
+"""been"",""fave""","Bryce Canyon National Park, UT, USA",FresnoBartel
+"""want""","Canyonlands National Park, UT, USA",FresnoBartel
+"""been"",""fave""","Capitol Reef National Park, UT, USA",FresnoBartel
+"""been"",""fave""","Carlsbad Caverns National Park, NM, USA",FresnoBartel
+"""been"",""fave""","Channel Islands National Park, CA, USA",FresnoBartel
+"""been""","Lindau, Germany",FresnoBartel
+"""been""","Laton, CA, USA",FresnoBartel
+"""been""","Riverdale, CA, USA",FresnoBartel
+"""been""","Palm Springs, CA, USA",FresnoBartel
+"""been""","Mojave, CA, USA",FresnoBartel
+"""been""","Palm Desert, CA, USA",FresnoBartel
+"""been""","Mono Hot Springs, CA, USA",FresnoBartel
+"""been""","Palmdale, CA, USA",FresnoBartel
+"""want""","Machu Picchu, Peru",FresnoBartel
+"""been""","Taos, NM, USA",FresnoBartel
+"""want""","Petra - Wadi Musa, Jordan",FresnoBartel
+"""been""","Lucca, Italy",FresnoBartel
+"""been""","Pisa, Italy",FresnoBartel
+"""been""","Delft, The Netherlands",FresnoBartel
+"""been""","Bellingham, WA, USA",FresnoBartel
+"""want""","Palermo, Italy",FresnoBartel
+"""been""","Devils Tower, WY, USA",FresnoBartel
+"""want""","Syracuse, Italy",FresnoBartel
+"""been""","Philadelphia, PA, USA",FresnoBartel
+"""been""","Florence, Italy",FresnoBartel
+"""been""","Pacific Grove, CA, USA",FresnoBartel
+"""been""","Medford, OR, USA",FresnoBartel
+"""been""","Ridgecrest, CA, USA",FresnoBartel
+"""been""","Reedley, CA, USA",FresnoBartel
+"""want""","Maasai Mara National Reserve, Kenya",FresnoBartel
+"""been""","Oxnard, CA, USA",FresnoBartel
+"""want""","Al Karnak, Egypt",FresnoBartel
+"""want""","Giza, Egypt",FresnoBartel
+"""been""","Pompeii, Italy",FresnoBartel
+"""want""","Warsaw, Poland",FresnoBartel
+"""want""","Minsk, Belarus",FresnoBartel
+"""want""","Cairo, Egypt",FresnoBartel
+"""want""","Dingli, Malta",FresnoBartel
+"""been""","London, UK",FresnoBartel
+"""been""","Munich, Germany",FresnoBartel
+"""want""","Luxor, Egypt",FresnoBartel
+"""been""","Hohenschwangau, Germany",FresnoBartel
+"""want""","Aswan, Egypt",FresnoBartel
+"""been""","Amalfi, Italy",FresnoBartel
+"""been""","Salerno, Italy",FresnoBartel
+"""been""","Windermere, UK",FresnoBartel
+"""been""","Oberammergau, Germany",FresnoBartel
+"""been""","Naples, Italy",FresnoBartel
+"""been""","Sorrento, Italy",FresnoBartel
+"""been""","Leiden, The Netherlands",FresnoBartel
+"""been"",""fave""","Orick, CA, USA",FresnoBartel
+"""been""","Redlands, CA, USA",FresnoBartel
+"""been""","Redding, CA, USA",FresnoBartel
+"""been""","Bingen am Rhein, Germany",FresnoBartel
+"""been""","Eugene, OR, USA",FresnoBartel
+"""been""","Merced, CA, USA",FresnoBartel
+"""been""","Orange Cove, CA, USA",FresnoBartel
+"""been""","York, UK",FresnoBartel
+"""been""","Cambridge, UK",FresnoBartel
+"""been""","Fussen, Germany",FresnoBartel
+"""been""","Brussels, Belgium",FresnoBartel
+"""been""","Roanoke, VA, USA",FresnoBartel
+"""been""","Rothenburg, Germany",FresnoBartel
+"""been""","Malaga, Spain",FresnoBartel
+"""been""","Marbella, Spain",FresnoBartel
+"""been""","Nordlingen, Germany",FresnoBartel
+"""been""","Cardiff, UK",FresnoBartel
+"""been""","Rome, Italy",FresnoBartel
+"""been""","Waterloo, Belgium",FresnoBartel
+"""been""","Stockholm, Sweden",FresnoBartel
+"""been""","Cordoba, Spain",FresnoBartel
+"""been""","Rancho Cucamonga, CA, USA",FresnoBartel
+"""been""","Rancho Mirage, CA, USA",FresnoBartel
+"""been""","Mecca, CA, USA",FresnoBartel
+"""been""","Glasgow, MT, USA",FresnoBartel
+"""been""","Mendota, CA, USA",FresnoBartel
+"""been""","Mendocino, CA, USA",FresnoBartel
+"""been""","Raisin, CA, USA",FresnoBartel
+"""been""","Oceanside, CA, USA",FresnoBartel
+"""been""","Ojai, CA, USA",FresnoBartel
+"""been""","Maggie Valley, NC, USA",FresnoBartel
+"""been""","Aix-en-Provence, France",FresnoBartel
+"""been""","Metairie, LA, USA",FresnoBartel
+"""been""","Slidell, LA, USA",FresnoBartel
+"""been""","Torremolinos, Spain",FresnoBartel
+"""been""","Seville, Spain",FresnoBartel
+"""want""","Berlin, Germany",FresnoBartel
+"""been""","Granada, Spain",FresnoBartel
+"""been""","Oakland, CA, USA",FresnoBartel
+"""been""","Ashland, OR, USA",FresnoBartel
+"""been""","Prather, CA, USA",FresnoBartel
+"""been""","Prunedale, CA, USA",FresnoBartel
+"""want""","Prague, Czech Republic",FresnoBartel
+"""been""","Oakhurst, CA, USA",FresnoBartel
+"""been""","Frankfurt, Germany",FresnoBartel
+"""been""","Ghent, Belgium",FresnoBartel
+"""been""","Monument Valley, UT, USA",FresnoBartel
+"""want""","Potsdam, Germany",FresnoBartel
+"""been""","Oxford, UK",FresnoBartel
+"""been""","Alamogordo, NM, USA",FresnoBartel
+"""been""","Gold Beach, OR, USA",FresnoBartel
+"""been""","Port Hueneme, CA, USA",FresnoBartel
+"""been""","Hyannis, MA, USA",FresnoBartel
+"""been""","Bath, UK",FresnoBartel
+"""been""","Pomona, CA, USA",FresnoBartel
+"""been""","Pueblo of Acoma, NM, USA",FresnoBartel
+"""been""","Bergen, Norway",FresnoBartel
+"""been""","Gallup, NM, USA",FresnoBartel
+"""been""","Point Reyes Station, CA, USA",FresnoBartel
+"""want""","Cesky Krumlov, Czech Republic",FresnoBartel
+"""want""","Agra, India",FresnoBartel
+"""want""","Varanasi, India",FresnoBartel
+"""been""","Sturgis, SD, USA",FresnoBartel
+"""been""","Jackson, WY, USA",FresnoBartel
+"""been""","Ravenna, Italy",FresnoBartel
+"""been""","Big Sur, CA, USA",FresnoBartel
+"""been""","Park City, UT, USA",FresnoBartel
+"""been""","San Lorenzo de El Escorial, Spain",FresnoBartel
+"""been""","Columbus, OH, USA",FresnoBartel
+"""want""","Bikaner, India",FresnoBartel
+"""been""","Dublin, Ireland",FresnoBartel
+"""want""","Jodhpur, India",FresnoBartel
+"""been"",""fave""","Yosemite National Park, CA, USA",FresnoBartel
+"""been""","Tulsa, OK, USA",FresnoBartel
+"""been""","Washington DC, DC, USA",FresnoBartel
+"""been""","Great Smoky Mountains National Park, NC, USA",FresnoBartel
+"""been""","Montego Bay, Jamaica",FresnoBartel
+"""been""","Ocho Rios, Jamaica",FresnoBartel
+"""been""","Killarney, Ireland",FresnoBartel
+"""been""","Simi Valley, CA, USA",FresnoBartel
+"""been""","Wuhan, China",FresnoBartel
+"""want""","Udaipur, India",FresnoBartel
+"""want""","Saint Catherine, Egypt",FresnoBartel
+"""want""","San Miguel de Allende, Mexico",FresnoBartel
+"""been""","Laguna, NM, USA",FresnoBartel
+"""been""","Wall, SD, USA",FresnoBartel
+"""been""","Mont-Saint-Michel, France",FresnoBartel
+"""been""","Indianapolis, IN, USA",FresnoBartel
+"""been""","Las Cruces, NM, USA",FresnoBartel
+"""been""","Cherokee, NC, USA",FresnoBartel
+"""been""","Catalina Island, CA, USA",FresnoBartel
+"""want""","Budapest, Hungary",FresnoBartel
+"""been""","Whiteclay, NE, USA",FresnoBartel
+"""want""","Khiva, Uzbekistan",FresnoBartel
+"""been""","Shell Beach, CA, USA",FresnoBartel
+"""been""","Selma, CA, USA",FresnoBartel
+"""been""","Tulare, CA, USA",FresnoBartel
+"""been""","Shandon, CA, USA",FresnoBartel
+"""want""","Damascus, Syria",FresnoBartel
+"""been""","Shaver Lake, CA, USA",FresnoBartel
+"""been""","Dallas, TX, USA",FresnoBartel
+"""want""","Milan, Italy",FresnoBartel
+"""want""","Quebec City, Quebec, Canada",FresnoBartel
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",FresnoBartel
+"""want""","Montreal, Quebec, Canada",FresnoBartel
+"""been"",""want"",""fave""","Shenandoah National Park, VA, USA",FresnoBartel
+"""want""","Gonder, Ethiopia",FresnoBartel
+"""been"",""fave""","Theodore Roosevelt National Park, ND, USA",FresnoBartel
+"""want""","Voyageurs National Park, MN, USA",FresnoBartel
+"""been"",""fave""","Wind Cave National Park, SD, USA",FresnoBartel
+"""want""","St. Petersburg, Russia",FresnoBartel
+"""want""","Wrangell-St Elias National Park and Preserve, AK, USA",FresnoBartel
+"""been"",""fave""","Zion National Park, UT, USA",FresnoBartel
+"""been""","Shenzhen, China",FresnoBartel
+"""been""","Torrance, CA, USA",FresnoBartel
+"""been""","Coral Gables, FL, USA",FresnoBartel
+"""been""","Battle Mountain, NV, USA",FresnoBartel
+"""been""","Boron, CA, USA",FresnoBartel
+"""want""","Tarxien, Malta",FresnoBartel
+"""been""","Seaside, CA, USA",FresnoBartel
+"""been""","Seal Beach, CA, USA",FresnoBartel
+"""been""","Belle Fourche, SD, USA",FresnoBartel
+"""been""","Van Horn, TX, USA",FresnoBartel
+"""been""","Sankt Goar, Germany",FresnoBartel
+"""want""","Kobuk Valley National Park, AK, USA",FresnoBartel
+"""want""","Lake Clark National Park and Preserve, AK, USA",FresnoBartel
+"""been"",""fave""","Lassen Volcanic National Park, CA, USA",FresnoBartel
+"""been"",""fave""","Mammoth Cave National Park, KY, USA",FresnoBartel
+"""been"",""fave""","Mount Rainier National Park, WA, USA",FresnoBartel
+"""been"",""fave""","North Cascades National Park, WA, USA",FresnoBartel
+"""been"",""fave""","Olympic National Park, WA, USA",FresnoBartel
+"""been""","Bodega Bay, CA, USA",FresnoBartel
+"""been""","Edinburgh, UK",FresnoBartel
+"""want""","Rocky Mountain National Park, CO, USA",FresnoBartel
+"""been""","Santa Maria, CA, USA",FresnoBartel
+"""been""","Santa Margarita, CA, USA",FresnoBartel
+"""been""","Santa Paula, CA, USA",FresnoBartel
+"""been""","Santa Monica, CA, USA",FresnoBartel
+"""been""","Santa Rosa, CA, USA",FresnoBartel
+"""been""","Tulum, Mexico",FresnoBartel
+"""want""","Buenos Aires, Argentina",FresnoBartel
+"""been""","Playa del Carmen, Mexico",FresnoBartel
+"""been""","Algeciras, Spain",FresnoBartel
+"""been""","Santa Ynez, CA, USA",FresnoBartel
+"""been""","Tollhouse, CA, USA",FresnoBartel
+"""been""","Linville Falls, NC, USA",FresnoBartel
+"""been""","Pringle, SD, USA",FresnoBartel
+"""been""","Fort Worth, TX, USA",FresnoBartel
+"""been""","Little Switzerland, NC, USA",FresnoBartel
+"""been""","Hill City, SD, USA",FresnoBartel
+"""been""","Pine Ridge, SD, USA",FresnoBartel
+"""been"",""fave""","Great Basin National Park, NV, USA",FresnoBartel
+"""been""","Wounded Knee, SD, USA",FresnoBartel
+"""been""","Glasgow, UK",FresnoBartel
+"""want""","Nazareth, Israel",FresnoBartel
+"""been"",""fave""","Great Smoky Mountains National Park, TN, USA",FresnoBartel
+"""been""","Leeds, UK",FresnoBartel
+"""been"",""fave""","Guadalupe Mountains National Park, TX, USA",FresnoBartel
+"""been"",""fave""","Haleakala National Park, HI, USA",FresnoBartel
+"""want""","Hawaii Volcanoes National Park, HI, USA",FresnoBartel
+"""want""","Isle Royale National Park, MI, USA",FresnoBartel
+"""been"",""fave""","Joshua Tree National Park, CA, USA",FresnoBartel
+"""want""","Katmai National Park and Preserve, AK, USA",FresnoBartel
+"""want""","Jericho, Palestinian Territories",FresnoBartel
+"""want""","Kenai Fjords National Park, AK, USA",FresnoBartel
+"""want""","Krakow, Poland",FresnoBartel
+"""been""","Sanger, CA, USA",FresnoBartel
+"""been""","Tehachapi, CA, USA",FresnoBartel
+"""been""","Chichen Itza, Mexico",FresnoBartel
+"""been""","Cancun, Mexico",FresnoBartel
+"""been""","Santa Ana, CA, USA",FresnoBartel
+"""been""","Templeton, CA, USA",FresnoBartel
+"""want""","Panama City, Panama",FresnoBartel
+"""been""","Santa Barbara, CA, USA",FresnoBartel
+"""been""","Santa Cruz, CA, USA",FresnoBartel
+"""been""","Oberwesel, Germany",FresnoBartel
+"""been""","Santa Clarita, CA, USA",FresnoBartel
+"""want""","Mexico City, Mexico",FresnoBartel
+"""been""","Diksmuide, Belgium",FresnoBartel
+"""want""","Toronto, Ontario, Canada",FresnoBartel
+"""want""","Ngorongoro Conservation Area, Tanzania",FresnoBartel
+"""been""","Boppard, Germany",FresnoBartel
+"""want""","Bukhara, Uzbekistan",FresnoBartel
+"""been""","Beverly Hills, CA, USA",FresnoBartel
+"""been""","Angers, France",FresnoBartel
+"""been""","Castaic, CA, USA",FresnoBartel
+"""been""","Pocatello, ID, USA",FresnoBartel
+"""been""","Taft, CA, USA",FresnoBartel
+"""been""","Avila, Spain",FresnoBartel
+"""been""","San Miguel, CA, USA",FresnoBartel
+"""been""","Cathedral City, CA, USA",FresnoBartel
+"""been""","Berkeley, CA, USA",FresnoBartel
+"""been""","Saumur, France",FresnoBartel
+"""been""","Cayucos, CA, USA",FresnoBartel
+"""been""","Durango, CO, USA",FresnoBartel
+"""been""","San Simeon, CA, USA",FresnoBartel
+"""been""","Oswego, KS, USA",FresnoBartel
+"""been""","Rouen, France",FresnoBartel
+"""been"",""fave""","Fort St. John, British Columbia, Canada",FresnoBartel
+"""been""","Galveston, TX, USA",FresnoBartel
+"""been""","Ka'anapali, HI, USA",FresnoBartel
+"""been""","Carlsbad, CA, USA",FresnoBartel
+"""been""","Carmel, CA, USA",FresnoBartel
+"""been""","San Jose, CA, USA",FresnoBartel
+"""been""","Desert Hot Springs, CA, USA",FresnoBartel
+"""been""","Jaen, Spain",FresnoBartel
+"""been""","Carmel Valley, CA, USA",FresnoBartel
+"""been""","San Juan Capistrano, CA, USA",FresnoBartel
+"""been""","San Juan Bautista, CA, USA",FresnoBartel
+"""been""","Kissimmee, FL, USA",FresnoBartel
+"""been""","Whistler, British Columbia, Canada",FresnoBartel
+"""been""","Carpinteria, CA, USA",FresnoBartel
+"""been""","San Luis Obispo, CA, USA",FresnoBartel
+"""been""","Denver, CO, USA",FresnoBartel
+"""been""","Victoria, British Columbia, Canada",FresnoBartel
+"""been""","San Luis Rey, CA, USA",FresnoBartel
+"""been""","Vancouver, British Columbia, Canada",FresnoBartel
+"""been""","Scenic, SD, USA",FresnoBartel
+"""been""","Las Vegas, NV, USA",FresnoBartel
+"""been""","Banning, CA, USA",FresnoBartel
+"""been""","West Hollywood, CA, USA",FresnoBartel
+"""been""","Bass Lake, CA, USA",FresnoBartel
+"""been""","San Dimas, CA, USA",FresnoBartel
+"""been""","Del Mar, CA, USA",FresnoBartel
+"""been""","Key Largo, FL, USA",FresnoBartel
+"""been""","St. Gallen, Switzerland",FresnoBartel
+"""been""","San Clemente, CA, USA",FresnoBartel
+"""been""","Delano, CA, USA",FresnoBartel
+"""been""","Capitola, CA, USA",FresnoBartel
+"""been""","San Fernando, CA, USA",FresnoBartel
+"""been""","Key West, FL, USA",FresnoBartel
+"""been""","Cabo San Lucas, Mexico",FresnoBartel
+"""want""","Havana, Cuba",FresnoBartel
+"""been""","Crazy Horse, SD, USA",FresnoBartel
+"""want""","Chiang Mai, Thailand",FresnoBartel
+"""been""","Saint Louis, MO, USA",FresnoBartel
+"""want""","Bangkok, Thailand",FresnoBartel
+"""been""","Portland, OR, USA",FresnoBartel
+"""been""","Mesquite, NV, USA",FresnoBartel
+"""been""","Lead, SD, USA",FresnoBartel
+"""want""","Manuel Antonio, Costa Rica",FresnoBartel
+"""been""","Positano, Italy",FresnoBartel
+"""been""","St. Helena, CA, USA",FresnoBartel
+"""been""","Watsonville, CA, USA",FresnoBartel
+"""been""","Cutler, CA, USA",FresnoBartel
+"""been""","Salinas, CA, USA",FresnoBartel
+"""been""","Squaw Valley, CA, USA",FresnoBartel
+"""been""","Wawona, CA, USA",FresnoBartel
+"""want""","Moscow, Russia",FresnoBartel
+"""want""","Birgu (Vittoriosa), Malta",FresnoBartel
+"""want""","Siem Reap, Cambodia",FresnoBartel
+"""been""","Weed, CA, USA",FresnoBartel
+"""been""","Baker, CA, USA",FresnoBartel
+"""been""","Salton City, CA, USA",FresnoBartel
+"""been""","Bakersfield, CA, USA",FresnoBartel
+"""been""","Dana Point, CA, USA",FresnoBartel
+"""want""","Lalibela, Ethiopia",FresnoBartel
+"""been""","Terlingua, TX, USA",FresnoBartel
+"""been""","Santa Cruz Island, CA, USA",FresnoBartel
+"""been""","Deadwood, SD, USA",FresnoBartel
+"""been""","Manzanillo, Mexico",FresnoBartel
+"""been""","Nogales, AZ, USA",FresnoBartel
+"""been""","Firebaugh, CA, USA",FresnoBartel
+"""been""","Visalia, CA, USA",FresnoBartel
+"""been""","Calistoga, CA, USA",FresnoBartel
+"""been""","Five Points, CA, USA",FresnoBartel
+"""been""","Cambria, CA, USA",FresnoBartel
+"""been""","South Pasadena, CA, USA",FresnoBartel
+"""want""","Guanajuato, Mexico",FresnoBartel
+"""been""","Floyd, VA, USA",FresnoBartel
+"""want""","Rio de Janeiro, Brazil",FresnoBartel
+"""been""","Dingle, Ireland",FresnoBartel
+"""been""","Reno, NV, USA",FresnoBartel
+"""been""","Keystone, SD, USA",FresnoBartel
+"""been""","Roseburg, OR, USA",FresnoBartel
+"""been""","Barstow, CA, USA",FresnoBartel
+"""been""","Dachau, Germany",FresnoBartel
+"""been"",""fave""","Mesa Verde National Park, CO, USA",FresnoBartel
+"""been""","Anaheim, CA, USA",FresnoBartel
+"""been""","Mesa, AZ, USA",FresnoBartel
+"""been""","Costa Mesa, CA, USA",FresnoBartel
+"""been""","Solvang, CA, USA",FresnoBartel
+"""been""","Victorville, CA, USA",FresnoBartel
+"""been""","Hollister, CA, USA",FresnoBartel
+"""been""","Soledad, CA, USA",FresnoBartel
+"""been""","Calabasas, CA, USA",FresnoBartel
+"""been""","Tampa, FL, USA",FresnoBartel
+"""been""","Sonoma, CA, USA",FresnoBartel
+"""been""","Nogales, Mexico",FresnoBartel
+"""been""","Miami, FL, USA",FresnoBartel
+"""been""","Lugano, Switzerland",FresnoBartel
+"""been""","California City, CA, USA",FresnoBartel
+"""been""","Soquel, CA, USA",FresnoBartel
+"""been""","Miami Beach, FL, USA",FresnoBartel
+"""been""","Xi'an, China",FresnoBartel
+"""been""","Guilin, China",FresnoBartel
+"""been""","Chengdu, China",FresnoBartel
+"""been""","Tuba City, AZ, USA",FresnoBartel
+"""been""","Healdsburg, CA, USA",FresnoBartel
+"""been""","Tusayan, AZ, USA",FresnoBartel
+"""been""","Arlington, TX, USA",FresnoBartel
+"""been"",""want""","Grand Junction, CO, USA",FresnoBartel
+"""been""","Eureka, CA, USA",FresnoBartel
+"""been""","Buellton, CA, USA",FresnoBartel
+"""been""","Exeter, CA, USA",FresnoBartel
+"""been""","Burbank, CA, USA",FresnoBartel
+"""been""","Tijuana, Mexico",FresnoBartel
+"""been""","Hemet, CA, USA",FresnoBartel
+"""want""","St. Paul's Bay, Malta",FresnoBartel
+"""been""","Marathon Shores, FL, USA",FresnoBartel
+"""been""","Port Angeles, WA, USA",FresnoBartel
+"""been""","Siena, Italy",FresnoBartel
+"""been""","Wolf Point, MT, USA",FresnoBartel
+"""been""","Salt Lake City, UT, USA",FresnoBartel
+"""been""","San Gimignano, Italy",FresnoBartel
+"""been""","Laguna Niguel, CA, USA",FresnoBartel
+"""been""","Tombstone, AZ, USA",FresnoBartel
+"""want""","Agrigento, Italy",FresnoBartel
+"""been""","Harmony, CA, USA",FresnoBartel
+"""been""","Vacaville, CA, USA",FresnoBartel
+"""been""","Ronda, Spain",FresnoBartel

@@ -1,0 +1,524 @@
+tag,place,user
+"""been""","Ventura, CA, USA",theresaw
+"""been""","Sunnyvale, CA, USA",theresaw
+"""been""","Denver, CO, USA",theresaw
+"""been""","St. George, UT, USA",theresaw
+"""been""","New York City, NY, USA",theresaw
+"""been""","San Luis Obispo, CA, USA",theresaw
+"""been""","Omaha, NE, USA",theresaw
+"""been""","Carlsbad, NM, USA",theresaw
+"""been""","Cape May, NJ, USA",theresaw
+"""been""","Anchorage, AK, USA",theresaw
+"""been""","Boulder City, NV, USA",theresaw
+"""been""","White Plains, NY, USA",theresaw
+"""been""","Milan, Italy",theresaw
+"""been""","Klamath Falls, OR, USA",theresaw
+"""been""","Sirmione, Italy",theresaw
+"""been""","San Jose, CA, USA",theresaw
+"""been""","Tucker, GA, USA",theresaw
+"""been""","Charlottesville, VA, USA",theresaw
+"""been""","Kissimmee, FL, USA",theresaw
+"""been""","Franklin, TN, USA",theresaw
+"""been""","Chesapeake, VA, USA",theresaw
+"""been"",""fave""","Carmel, CA, USA",theresaw
+"""been""","South Lake Tahoe, CA, USA",theresaw
+"""been""","Carlsbad, CA, USA",theresaw
+"""been""","Noto, Italy",theresaw
+"""been""","San Simeon, CA, USA",theresaw
+"""been""","Seattle, WA, USA",theresaw
+"""been""","Williamsburg, VA, USA",theresaw
+"""been""","Lahaina, HI, USA",theresaw
+"""been""","Celebration, FL, USA",theresaw
+"""been""","Seward, AK, USA",theresaw
+"""been""","Kihei, HI, USA",theresaw
+"""been""","San Diego, CA, USA",theresaw
+"""been""","Bolzano, Italy",theresaw
+"""been""","Kailua-Kona, HI, USA",theresaw
+"""been""","Hana, HI, USA",theresaw
+"""been""","Ocean City, NJ, USA",theresaw
+"""been""","Turin, Italy",theresaw
+"""been""","San Mateo, CA, USA",theresaw
+"""been""","Berkeley, CA, USA",theresaw
+"""been""","Tahoe City, CA, USA",theresaw
+"""been""","Cobh, Ireland",theresaw
+"""been"",""fave""","Isola di Ortigia, Italy",theresaw
+"""been""","Santa Clara, CA, USA",theresaw
+"""been""","Bellevue, WA, USA",theresaw
+"""been""","Santa Cruz, CA, USA",theresaw
+"""been""","Sparks, NV, USA",theresaw
+"""been""","Missoula, MT, USA",theresaw
+"""been""","Sitges, Spain",theresaw
+"""been""","Ensenada, Mexico",theresaw
+"""been""","West Yellowstone, MT, USA",theresaw
+"""been""","Santa Ana, CA, USA",theresaw
+"""been""","Santa Barbara, CA, USA",theresaw
+"""been""","Tijuana, Mexico",theresaw
+"""been""","Everett, WA, USA",theresaw
+"""been""","Temecula, CA, USA",theresaw
+"""been""","Lake Wales, FL, USA",theresaw
+"""been""","Beverly Hills, CA, USA",theresaw
+"""been""","Portland, ME, USA",theresaw
+"""been""","Memphis, TN, USA",theresaw
+"""been""","Verona, Italy",theresaw
+"""been""","Vicenza, Italy",theresaw
+"""been""","Atlanta, GA, USA",theresaw
+"""been""","Lewes, DE, USA",theresaw
+"""been""","South Bend, IN, USA",theresaw
+"""been""","Zafferana Etnea, Italy",theresaw
+"""been"",""fave""","Venice, Italy",theresaw
+"""been""","Richmond, VA, USA",theresaw
+"""been"",""fave""","Kailua, HI, USA",theresaw
+"""been""","Avila, Spain",theresaw
+"""been""","Brindisi, Italy",theresaw
+"""been""","Cambridge, MA, USA",theresaw
+"""been""","Madrid, Spain",theresaw
+"""been""","Big Sur, CA, USA",theresaw
+"""been""","Santa Rosa, CA, USA",theresaw
+"""been""","Orange, TX, USA",theresaw
+"""been""","Clearwater, FL, USA",theresaw
+"""been""","Santa Monica, CA, USA",theresaw
+"""been""","Santa Maria, CA, USA",theresaw
+"""been""","Germantown, TN, USA",theresaw
+"""been""","Narragansett, RI, USA",theresaw
+"""been""","Miami, FL, USA",theresaw
+"""been""","Alexandria, Egypt",theresaw
+"""been""","Miami Beach, FL, USA",theresaw
+"""been""","Tampa, FL, USA",theresaw
+"""been""","Licata, Italy",theresaw
+"""been""","Sonoma, CA, USA",theresaw
+"""been""","Solvang, CA, USA",theresaw
+"""been""","Tallahassee, FL, USA",theresaw
+"""been""","Tarrytown, NY, USA",theresaw
+"""been""","Catania, Italy",theresaw
+"""been""","Helena, MT, USA",theresaw
+"""been""","Wasilla, AK, USA",theresaw
+"""been""","Coronado, CA, USA",theresaw
+"""been""","Whittier, AK, USA",theresaw
+"""been""","Costa Mesa, CA, USA",theresaw
+"""been""","Austin, TX, USA",theresaw
+"""been""","Pensacola, FL, USA",theresaw
+"""been""","Santa Fe, NM, USA",theresaw
+"""been""","Isle of Palms, SC, USA",theresaw
+"""been""","Hermosa Beach, CA, USA",theresaw
+"""been""","Mesa, AZ, USA",theresaw
+"""been""","San Antonio, TX, USA",theresaw
+"""been""","South San Francisco, CA, USA",theresaw
+"""been""","Cambria, CA, USA",theresaw
+"""been""","Coeur d'Alene, ID, USA",theresaw
+"""been""","Spokane, WA, USA",theresaw
+"""been""","Florence, Italy",theresaw
+"""been""","San Francisco, CA, USA",theresaw
+"""been""","Page, AZ, USA",theresaw
+"""been""","Des Moines, IA, USA",theresaw
+"""been""","Modica, Italy",theresaw
+"""been""","Taormina, Italy",theresaw
+"""been""","Anaheim, CA, USA",theresaw
+"""been""","Jersey City, NJ, USA",theresaw
+"""been""","Livorno, Italy",theresaw
+"""been""","Pisa, Italy",theresaw
+"""been""","Syracuse, NY, USA",theresaw
+"""been""","Elizabeth, NJ, USA",theresaw
+"""been""","Calistoga, CA, USA",theresaw
+"""been""","Bar Harbor, ME, USA",theresaw
+"""been""","Brooklyn, NY, USA",theresaw
+"""been""","Capri, Italy",theresaw
+"""been""","Waimea, HI, USA",theresaw
+"""been""","San Bernardino, CA, USA",theresaw
+"""been""","Boston, MA, USA",theresaw
+"""been""","Naples, Italy",theresaw
+"""been""","Poipu, HI, USA",theresaw
+"""been""","Houston, TX, USA",theresaw
+"""been""","Garmisch-Partenkirchen, Germany",theresaw
+"""been""","Pompeii, Italy",theresaw
+"""been"",""want""","New Orleans, LA, USA",theresaw
+"""been""","Salinas, CA, USA",theresaw
+"""been""","Bakersfield, CA, USA",theresaw
+"""been""","Dana Point, CA, USA",theresaw
+"""been""","Sorrento, Italy",theresaw
+"""been"",""fave""","London, UK",theresaw
+"""been""","Honolulu, HI, USA",theresaw
+"""been""","Munich, Germany",theresaw
+"""been""","Kansas City, KS, USA",theresaw
+"""been""","Portsmouth, NH, USA",theresaw
+"""been""","Rochester, NY, USA",theresaw
+"""been""","Hood River, OR, USA",theresaw
+"""been""","Rosemont, IL, USA",theresaw
+"""been""","Colorado Springs, CO, USA",theresaw
+"""been""","St. Helena, CA, USA",theresaw
+"""been""","Moose Pass, AK, USA",theresaw
+"""been""","Columbia, SC, USA",theresaw
+"""been""","Newport, RI, USA",theresaw
+"""been""","Nuremberg, Germany",theresaw
+"""been""","Passau, Germany",theresaw
+"""been"",""fave""","Brussels, Belgium",theresaw
+"""been""","Tacoma, WA, USA",theresaw
+"""been""","Naples, FL, USA",theresaw
+"""been""","Buffalo, NY, USA",theresaw
+"""been"",""fave""","Rome, Italy",theresaw
+"""been""","Capitola, CA, USA",theresaw
+"""been""","Vatican City, Vatican City",theresaw
+"""been""","Murfreesboro, TN, USA",theresaw
+"""been""","Newark, NJ, USA",theresaw
+"""been""","Augsburg, Germany",theresaw
+"""been""","Boone, NC, USA",theresaw
+"""been""","West Hollywood, CA, USA",theresaw
+"""been""","Charleston, SC, USA",theresaw
+"""been""","San Clemente, CA, USA",theresaw
+"""been""","Del Mar, CA, USA",theresaw
+"""been""","Olympia, WA, USA",theresaw
+"""been""","Waikoloa, HI, USA",theresaw
+"""been""","Kiawah Island, SC, USA",theresaw
+"""been""","Volcano, HI, USA",theresaw
+"""been""","Grants Pass, OR, USA",theresaw
+"""been""","Zermatt, Switzerland",theresaw
+"""been""","Highlands, NC, USA",theresaw
+"""been""","Cleveland, OH, USA",theresaw
+"""been""","Bozeman, MT, USA",theresaw
+"""been""","Niagara Falls, Ontario, Canada",theresaw
+"""been""","Midleton, Ireland",theresaw
+"""been""","Mobile, AL, USA",theresaw
+"""been""","Freeport, ME, USA",theresaw
+"""been""","Garda, Italy",theresaw
+"""been""","Boothbay Harbor, ME, USA",theresaw
+"""been""","Kinsale, Ireland",theresaw
+"""been""","London, Ontario, Canada",theresaw
+"""been""","Lancaster, PA, USA",theresaw
+"""been""","Sandston, VA, USA",theresaw
+"""been""","Gold Beach, OR, USA",theresaw
+"""been""","Bend, OR, USA",theresaw
+"""been""","Wrightsville Beach, NC, USA",theresaw
+"""been""","San Leone, Italy",theresaw
+"""been""","South Yarmouth, MA, USA",theresaw
+"""been""","Shannon, Ireland",theresaw
+"""been""","Agrigento, Italy",theresaw
+"""been""","Virginia Beach, VA, USA",theresaw
+"""been""","Cannon Beach, OR, USA",theresaw
+"""been""","Niagara Falls, NY, USA",theresaw
+"""been""","Columbus, OH, USA",theresaw
+"""been""","Lake Placid, NY, USA",theresaw
+"""been""","Alligator Point, FL, USA",theresaw
+"""been""","Ogden, UT, USA",theresaw
+"""been""","Oak Bluffs, MA, USA",theresaw
+"""been""","Vineyard Haven, MA, USA",theresaw
+"""been""","Park City, UT, USA",theresaw
+"""been""","Livigno, Italy",theresaw
+"""been""","Nashville, IN, USA",theresaw
+"""been""","Sarlat-la-Caneda, France",theresaw
+"""been""","Atlantic City, NJ, USA",theresaw
+"""been""","Ashland, OR, USA",theresaw
+"""been""","Atlantic Beach, NC, USA",theresaw
+"""been""","Iqaluit, Nunavut, Canada",theresaw
+"""been""","Raleigh, NC, USA",theresaw
+"""want""","Newburgh, NY, USA",theresaw
+"""been"",""fave""","Jackson, WY, USA",theresaw
+"""been""","Dingle, Ireland",theresaw
+"""been""","Kenmare, Ireland",theresaw
+"""been""","South Portland, ME, USA",theresaw
+"""been""","Tokyo, Japan",theresaw
+"""been""","Hyannis Port, MA, USA",theresaw
+"""been""","Hyannis, MA, USA",theresaw
+"""been""","Gulfport, MS, USA",theresaw
+"""been""","Poughkeepsie, NY, USA",theresaw
+"""been""","Staten Island, NY, USA",theresaw
+"""been""","Bologna, Italy",theresaw
+"""been""","Hershey, PA, USA",theresaw
+"""been""","Bodega Bay, CA, USA",theresaw
+"""been""","Rockland, ME, USA",theresaw
+"""been""","Crawfordville, FL, USA",theresaw
+"""been""","Katy, TX, USA",theresaw
+"""been""","Bormio, Italy",theresaw
+"""been""","Torrance, CA, USA",theresaw
+"""been""","Sausalito, CA, USA",theresaw
+"""been""","Cheyenne, WY, USA",theresaw
+"""been""","La Cambe, France",theresaw
+"""been""","Gettysburg, PA, USA",theresaw
+"""been""","Rehoboth Beach, DE, USA",theresaw
+"""been""","Philadelphia, PA, USA",theresaw
+"""been""","Cork, Ireland",theresaw
+"""been""","Medford, OR, USA",theresaw
+"""been""","Mammoth Lakes, CA, USA",theresaw
+"""been""","Galway, Ireland",theresaw
+"""been""","Truckee, CA, USA",theresaw
+"""been""","Domme, France",theresaw
+"""been""","Alpe di Siusi, Italy",theresaw
+"""been""","Bellingham, WA, USA",theresaw
+"""been"",""want""","Washington DC, DC, USA",theresaw
+"""been""","Newport, OR, USA",theresaw
+"""been""","Waimea, HI, USA",theresaw
+"""been""","Wilmington, DE, USA",theresaw
+"""been""","Killarney, Ireland",theresaw
+"""been""","Hilo, HI, USA",theresaw
+"""been""","Monterosso al Mare, Italy",theresaw
+"""been""","Erie, PA, USA",theresaw
+"""been""","Worcester, MA, USA",theresaw
+"""been""","Edgecomb, ME, USA",theresaw
+"""been""","San Jose del Cabo, Mexico",theresaw
+"""been""","Cabo San Lucas, Mexico",theresaw
+"""been""","Norfolk, VA, USA",theresaw
+"""been""","Casamicciola Terme, Italy",theresaw
+"""been""","Bergamo, Italy",theresaw
+"""been""","Tysons Corner, VA, USA",theresaw
+"""been""","Eugene, OR, USA",theresaw
+"""been""","Newport News, VA, USA",theresaw
+"""been""","Lecco, Italy",theresaw
+"""been""","Varenna, Italy",theresaw
+"""been""","Fargo, ND, USA",theresaw
+"""been""","Manchester, NH, USA",theresaw
+"""been""","Bellagio, Italy",theresaw
+"""been""","Vancouver, British Columbia, Canada",theresaw
+"""been""","Roanoke, VA, USA",theresaw
+"""been""","Les Sables-d'Olonne, France",theresaw
+"""been""","Boise, ID, USA",theresaw
+"""been""","Pine Knoll Shores, NC, USA",theresaw
+"""been""","Vienna, Austria",theresaw
+"""been""","Heidelberg, Germany",theresaw
+"""been""","Fort Worth, TX, USA",theresaw
+"""been""","Riverside, CA, USA",theresaw
+"""been""","Lee Vining, CA, USA",theresaw
+"""been""","Pasadena, CA, USA",theresaw
+"""been""","Monterey, CA, USA",theresaw
+"""been""","Williams, AZ, USA",theresaw
+"""been""","Royal Oak, MI, USA",theresaw
+"""been""","Stuttgart, Germany",theresaw
+"""been""","Doolin, Ireland",theresaw
+"""been""","Mannheim, Germany",theresaw
+"""been""","Berchtesgaden, Germany",theresaw
+"""been""","Paso Robles, CA, USA",theresaw
+"""been""","Concord, NC, USA",theresaw
+"""been""","Auburn Hills, MI, USA",theresaw
+"""been""","Pebble Beach, CA, USA",theresaw
+"""been""","Morro Bay, CA, USA",theresaw
+"""been""","Lincoln, CA, USA",theresaw
+"""been""","Yuma, AZ, USA",theresaw
+"""been""","Bayeux, France",theresaw
+"""been""","Caen, France",theresaw
+"""been""","Honfleur, France",theresaw
+"""been""","Livermore, CA, USA",theresaw
+"""been""","Mystic, CT, USA",theresaw
+"""been""","Oahu, HI, USA",theresaw
+"""been""","Rutherford, CA, USA",theresaw
+"""been""","Huntington Beach, CA, USA",theresaw
+"""been""","Pueblo, CO, USA",theresaw
+"""been""","Sacramento, CA, USA",theresaw
+"""been""","Henderson, NV, USA",theresaw
+"""been""","Lake Charles, LA, USA",theresaw
+"""been""","Rockville, MD, USA",theresaw
+"""been""","Incline Village, NV, USA",theresaw
+"""been""","Colmar, France",theresaw
+"""been""","Rapid City, SD, USA",theresaw
+"""been""","Inglewood, CA, USA",theresaw
+"""been""","Napa, CA, USA",theresaw
+"""been""","Indio, CA, USA",theresaw
+"""been""","Alexandria, VA, USA",theresaw
+"""been""","Mountain View, CA, USA",theresaw
+"""been""","Gulf Shores, AL, USA",theresaw
+"""been""","Strasbourg, France",theresaw
+"""been""","Fort Bragg, CA, USA",theresaw
+"""been""","Phoenix, AZ, USA",theresaw
+"""been""","New Haven, CT, USA",theresaw
+"""been""","Pittsburgh, PA, USA",theresaw
+"""been""","Long Beach, CA, USA",theresaw
+"""been""","Gloucester, MA, USA",theresaw
+"""been""","Saint Joseph, MI, USA",theresaw
+"""been""","Bergerac City, France",theresaw
+"""been""","Prague, Czech Republic",theresaw
+"""been""","Bern, Switzerland",theresaw
+"""been""","Orange Beach, AL, USA",theresaw
+"""been""","Oakland, CA, USA",theresaw
+"""been""","Tulsa, OK, USA",theresaw
+"""been""","Ojai, CA, USA",theresaw
+"""been""","Kill Devil Hills, NC, USA",theresaw
+"""been""","Fayetteville, NC, USA",theresaw
+"""been""","Oceanside, CA, USA",theresaw
+"""been""","Jackson, MS, USA",theresaw
+"""been""","Oakhurst, CA, USA",theresaw
+"""been""","Port Haywood, VA, USA",theresaw
+"""been""","Vichy, France",theresaw
+"""been""","Provincetown, MA, USA",theresaw
+"""been""","Lucerne, Switzerland",theresaw
+"""been""","Springfield, MO, USA",theresaw
+"""been""","Mendocino, CA, USA",theresaw
+"""been""","Rancho Mirage, CA, USA",theresaw
+"""been""","Yosemite National Park, CA, USA",theresaw
+"""been""","Ontario, CA, USA",theresaw
+"""been""","Orange, CA, USA",theresaw
+"""been""","Old Orchard Beach, ME, USA",theresaw
+"""been""","Camden, ME, USA",theresaw
+"""been""","Ogunquit, ME, USA",theresaw
+"""been""","Dugny, France",theresaw
+"""been""","Dennis, MA, USA",theresaw
+"""been""","Cary, NC, USA",theresaw
+"""been""","Dennis Port, MA, USA",theresaw
+"""been""","Redding, CA, USA",theresaw
+"""been""","Redondo Beach, CA, USA",theresaw
+"""been""","Dallas, TX, USA",theresaw
+"""been""","Albany, NY, USA",theresaw
+"""been""","Redwood City, CA, USA",theresaw
+"""been""","Rockport, MA, USA",theresaw
+"""been""","Oxnard, CA, USA",theresaw
+"""been""","Millbrae, CA, USA",theresaw
+"""been""","Hartford, CT, USA",theresaw
+"""been""","Pensacola Beach, FL, USA",theresaw
+"""been""","Damariscotta, ME, USA",theresaw
+"""been""","Edgartown, MA, USA",theresaw
+"""been""","Nags Head, NC, USA",theresaw
+"""been""","Kitty Hawk, NC, USA",theresaw
+"""been""","Murphy, NC, USA",theresaw
+"""been""","Corfu Town, Greece",theresaw
+"""been""","Pacific Grove, CA, USA",theresaw
+"""been""","Palo Alto, CA, USA",theresaw
+"""been""","Franklin, NC, USA",theresaw
+"""been""","Mykonos Town, Greece",theresaw
+"""been""","Palm Desert, CA, USA",theresaw
+"""been""","Chapel Hill, NC, USA",theresaw
+"""been""","Palm Springs, CA, USA",theresaw
+"""been""","Charlotte, NC, USA",theresaw
+"""been""","Stamford, CT, USA",theresaw
+"""been""","Kennebunkport, ME, USA",theresaw
+"""been""","La Jolla, CA, USA",theresaw
+"""been""","Apalachicola, FL, USA",theresaw
+"""been""","Orlando, FL, USA",theresaw
+"""been""","Seville, Spain",theresaw
+"""been""","Berlin, Germany",theresaw
+"""been""","Salt Lake City, UT, USA",theresaw
+"""been""","Girdwood, AK, USA",theresaw
+"""been""","Yountville, CA, USA",theresaw
+"""been""","Fort Collins, CO, USA",theresaw
+"""been""","Granada, Spain",theresaw
+"""been""","Freeport, Bahamas",theresaw
+"""been""","Great Abaco Island, Bahamas",theresaw
+"""been""","Ocean City, MD, USA",theresaw
+"""been""","Liscannor, Ireland",theresaw
+"""been""","Laguna Beach, CA, USA",theresaw
+"""been""","Kingman, AZ, USA",theresaw
+"""been""","Half Moon Bay, CA, USA",theresaw
+"""been""","Mount Pleasant, SC, USA",theresaw
+"""been""","Ghent, Belgium",theresaw
+"""been"",""fave""","Budapest, Hungary",theresaw
+"""been""","Myrtle Beach, SC, USA",theresaw
+"""been""","Potsdam, Germany",theresaw
+"""been""","Guerneville, CA, USA",theresaw
+"""been""","Tempe, AZ, USA",theresaw
+"""been""","Groton, CT, USA",theresaw
+"""been""","Hamburg, Germany",theresaw
+"""been""","Negril, Jamaica",theresaw
+"""been""","Ocho Rios, Jamaica",theresaw
+"""been""","Montego Bay, Jamaica",theresaw
+"""been""","Yakima, WA, USA",theresaw
+"""been""","Frankfurt, Germany",theresaw
+"""been""","Green Bay, WI, USA",theresaw
+"""been""","Rochester, MN, USA",theresaw
+"""been""","Woodstock, NY, USA",theresaw
+"""been""","Detroit, MI, USA",theresaw
+"""been""","Mill Valley, CA, USA",theresaw
+"""been""","El Segundo, CA, USA",theresaw
+"""been""","Folly Beach, SC, USA",theresaw
+"""been""","Frederick, MD, USA",theresaw
+"""been""","Escondido, CA, USA",theresaw
+"""been""","Fredericksburg, VA, USA",theresaw
+"""been""","Providence, RI, USA",theresaw
+"""been""","Athens, Greece",theresaw
+"""been""","Snoqualmie, WA, USA",theresaw
+"""been""","Stuart, FL, USA",theresaw
+"""been""","Wiesbaden, Germany",theresaw
+"""been""","Anacapri, Italy",theresaw
+"""been""","Bruges, Belgium",theresaw
+"""been""","Tok, AK, USA",theresaw
+"""been""","Boulder, CO, USA",theresaw
+"""been""","Wailea, HI, USA",theresaw
+"""been""","Kassel, Germany",theresaw
+"""been""","Beaufort, NC, USA",theresaw
+"""been""","Bridgeport, CA, USA",theresaw
+"""been""","Lake Havasu City, AZ, USA",theresaw
+"""been""","Sunriver, OR, USA",theresaw
+"""been""","Beaufort, SC, USA",theresaw
+"""been""","Savannah, GA, USA",theresaw
+"""been""","Nice, France",theresaw
+"""been""","Baltimore, MD, USA",theresaw
+"""been""","Albuquerque, NM, USA",theresaw
+"""been""","Vallejo, CA, USA",theresaw
+"""been""","Burbank, CA, USA",theresaw
+"""been""","SeaTac, WA, USA",theresaw
+"""been""","Concord, CA, USA",theresaw
+"""been""","Buena Park, CA, USA",theresaw
+"""been""","Nashville, TN, USA",theresaw
+"""been""","Burlingame, CA, USA",theresaw
+"""been""","Lansing, MI, USA",theresaw
+"""been""","Alameda, CA, USA",theresaw
+"""been""","Hoboken, NJ, USA",theresaw
+"""been""","Jamaica, NY, USA",theresaw
+"""been""","Healdsburg, CA, USA",theresaw
+"""been""","Arlington, TX, USA",theresaw
+"""been""","Panacea, FL, USA",theresaw
+"""been""","North Charleston, SC, USA",theresaw
+"""been""","Astoria, OR, USA",theresaw
+"""been""","Hope Town, Bahamas",theresaw
+"""been""","North Myrtle Beach, SC, USA",theresaw
+"""been""","Jacksonville, FL, USA",theresaw
+"""been""","Avila Beach, CA, USA",theresaw
+"""been""","Los Angeles, CA, USA",theresaw
+"""been""","Portland, OR, USA",theresaw
+"""been""","Aachen, Germany",theresaw
+"""been""","Fresno, CA, USA",theresaw
+"""been""","Irvine, CA, USA",theresaw
+"""been""","Durham, NC, USA",theresaw
+"""been""","Spartanburg, SC, USA",theresaw
+"""been""","Tremolat, France",theresaw
+"""been""","Fairfax, VA, USA",theresaw
+"""been""","Denali National Park and Preserve, AK, USA",theresaw
+"""been""","Chicago, IL, USA",theresaw
+"""been""","Silver Spring, MD, USA",theresaw
+"""been""","Cologne, Germany",theresaw
+"""been""","Ottawa, Ontario, Canada",theresaw
+"""been""","Bethany Beach, DE, USA",theresaw
+"""been""","Barcelona, Spain",theresaw
+"""been""","Kenai Fjords National Park, AK, USA",theresaw
+"""been""","Cancun, Mexico",theresaw
+"""been""","Garden Grove, CA, USA",theresaw
+"""been""","Arlington, VA, USA",theresaw
+"""been""","Dusseldorf, Germany",theresaw
+"""been""","Danbury, CT, USA",theresaw
+"""been""","Essen, Germany",theresaw
+"""been""","Annapolis, MD, USA",theresaw
+"""been""","Konstanz, Germany",theresaw
+"""been""","Duck, NC, USA",theresaw
+"""been""","Secaucus, NJ, USA",theresaw
+"""been""","Toronto, Ontario, Canada",theresaw
+"""been""","North Vancouver, British Columbia, Canada",theresaw
+"""been""","Bethesda, MD, USA",theresaw
+"""been""","Las Vegas, NV, USA",theresaw
+"""been""","Mexico City, Mexico",theresaw
+"""been""","Amsterdam, The Netherlands",theresaw
+"""been""","Muenster, Germany",theresaw
+"""been""","Zurich, Switzerland",theresaw
+"""been""","Malibu, CA, USA",theresaw
+"""been""","The Woodlands, TX, USA",theresaw
+"""been""","Weston, FL, USA",theresaw
+"""been""","Paris, France",theresaw
+"""been""","Manhattan Beach, CA, USA",theresaw
+"""been""","Versailles, France",theresaw
+"""been""","Glendale, CA, USA",theresaw
+"""been""","Luxor, Egypt",theresaw
+"""been""","Reno, NV, USA",theresaw
+"""been""","Giza, Egypt",theresaw
+"""been""","Goleta, CA, USA",theresaw
+"""been""","Cairo, Egypt",theresaw
+"""been""","Columbus, GA, USA",theresaw
+"""been""","Bamberg, Germany",theresaw
+"""been""","Koblenz, Germany",theresaw
+"""been""","Mainz, Germany",theresaw
+"""been""","Winter Haven, FL, USA",theresaw
+"""been""","Winter Park, FL, USA",theresaw
+"""been""","Dresden, Germany",theresaw
+"""been""","Marina del Rey, CA, USA",theresaw
+"""been""","Glendale, AZ, USA",theresaw
+"""been""","Sedona, AZ, USA",theresaw
+"""been""","Trier, Germany",theresaw
+"""been""","Salzburg, Austria",theresaw
+"""been""","Saarbrucken, Germany",theresaw
+"""been""","Anacortes, WA, USA",theresaw
+"""been""","Mariposa, CA, USA",theresaw
+"""been""","North Las Vegas, NV, USA",theresaw
+"""been""","Biloxi, MS, USA",theresaw
+"""been""","Kansas City, MO, USA",theresaw
+"""been""","Scottsdale, AZ, USA",theresaw

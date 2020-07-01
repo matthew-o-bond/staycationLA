@@ -1,0 +1,141 @@
+tag,place,user
+"""want""","Las Vegas, NV, USA",SVMobert
+"""been""","George, WA, USA",SVMobert
+"""been""","Lake Louise, Alberta, Canada",SVMobert
+"""been""","Banff, Alberta, Canada",SVMobert
+"""been""","Suchitoto, El Salvador",SVMobert
+"""been""","Bothell, WA, USA",SVMobert
+"""been""","Rome, Italy",SVMobert
+"""been""","Napa, CA, USA",SVMobert
+"""been""","Spokane, WA, USA",SVMobert
+"""been""","Phoenix, AZ, USA",SVMobert
+"""been""","Puerto Vallarta, Mexico",SVMobert
+"""been""","Tahiti, French Polynesia",SVMobert
+"""been""","Abbotsford, British Columbia, Canada",SVMobert
+"""been""","Avalon, CA, USA",SVMobert
+"""been""","Sun Peaks, British Columbia, Canada",SVMobert
+"""been""","Anaheim, CA, USA",SVMobert
+"""been""","Comox, British Columbia, Canada",SVMobert
+"""been""","Rhodes, Greece",SVMobert
+"""been""","Pompeii, Italy",SVMobert
+"""been""","Telegraph Cove, British Columbia, Canada",SVMobert
+"""been""","Capri, Italy",SVMobert
+"""been""","Sorrento, Italy",SVMobert
+"""been""","Naples, Italy",SVMobert
+"""been""","Tillamook, OR, USA",SVMobert
+"""been""","Marysville, WA, USA",SVMobert
+"""been""","Rhodes Town, Greece",SVMobert
+"""been""","Bellingham, WA, USA",SVMobert
+"""been""","Snoqualmie Pass, WA, USA",SVMobert
+"""been""","Chicago, IL, USA",SVMobert
+"""been""","Rockford, IL, USA",SVMobert
+"""been""","Oakland, CA, USA",SVMobert
+"""been""","Snohomish, WA, USA",SVMobert
+"""been""","Snoqualmie, WA, USA",SVMobert
+"""been""","Los Angeles, CA, USA",SVMobert
+"""been""","Bellevue, WA, USA",SVMobert
+"""been""","Bucerias, Mexico",SVMobert
+"""been""","Fakarava, French Polynesia",SVMobert
+"""been""","Bora Bora, French Polynesia",SVMobert
+"""been""","Rangiroa, French Polynesia",SVMobert
+"""been""","Aldergrove, British Columbia, Canada",SVMobert
+"""been""","Lincoln, NE, USA",SVMobert
+"""been""","Everett, WA, USA",SVMobert
+"""been""","Manson, WA, USA",SVMobert
+"""been""","Florence, Italy",SVMobert
+"""been""","Vico Equense, Italy",SVMobert
+"""been""","Cortona, Italy",SVMobert
+"""been""","Santorini, Greece",SVMobert
+"""been""","Cannon Beach, OR, USA",SVMobert
+"""been""","Mykonos, Greece",SVMobert
+"""been""","Palermo, Italy",SVMobert
+"""been""","Monroe, WA, USA",SVMobert
+"""been""","Nashville, TN, USA",SVMobert
+"""been""","Keystone, SD, USA",SVMobert
+"""been""","Lynnwood, WA, USA",SVMobert
+"""been""","SeaTac, WA, USA",SVMobert
+"""been""","Sammamish, WA, USA",SVMobert
+"""been""","Maui, HI, USA",SVMobert
+"""been""","Sun Valley, ID, USA",SVMobert
+"""been""","Istanbul, Turkey",SVMobert
+"""been""","Sicily, Italy",SVMobert
+"""been""","Hope, British Columbia, Canada",SVMobert
+"""been""","Lahaina, HI, USA",SVMobert
+"""been""","Seattle, WA, USA",SVMobert
+"""been""","Santa Monica, CA, USA",SVMobert
+"""been""","Lindos, Greece",SVMobert
+"""been""","Sacramento, CA, USA",SVMobert
+"""been""","Poulsbo, WA, USA",SVMobert
+"""been""","Wailea, HI, USA",SVMobert
+"""been""","Santa Rosalia, Mexico",SVMobert
+"""been""","Sidney, British Columbia, Canada",SVMobert
+"""been""","Coulee Dam, WA, USA",SVMobert
+"""been""","New York City, NY, USA",SVMobert
+"""been""","Seaside, OR, USA",SVMobert
+"""been""","Yelm, WA, USA",SVMobert
+"""been""","Omaha, NE, USA",SVMobert
+"""been""","Port Townsend, WA, USA",SVMobert
+"""been""","Venice, Italy",SVMobert
+"""been""","Lund, British Columbia, Canada",SVMobert
+"""been""","Danville, CA, USA",SVMobert
+"""been""","Carlsbad, CA, USA",SVMobert
+"""been""","Leavenworth, WA, USA",SVMobert
+"""been""","Cook's  Bay, French Polynesia",SVMobert
+"""been""","Whistler, British Columbia, Canada",SVMobert
+"""been""","Woodinville, WA, USA",SVMobert
+"""been""","Anacortes, WA, USA",SVMobert
+"""been""","Winthrop, WA, USA",SVMobert
+"""been""","Deer Harbor, WA, USA",SVMobert
+"""been""","Perugia, Italy",SVMobert
+"""been""","Galena, IL, USA",SVMobert
+"""been""","Siena, Italy",SVMobert
+"""been""","Berkeley, CA, USA",SVMobert
+"""been""","Williamsburg, VA, USA",SVMobert
+"""been""","Darrington, WA, USA",SVMobert
+"""been""","Athens, Greece",SVMobert
+"""been""","Chelan, WA, USA",SVMobert
+"""been""","Whidbey Island, WA, USA",SVMobert
+"""been""","Renton, WA, USA",SVMobert
+"""been""","Redmond, WA, USA",SVMobert
+"""been""","Wenatchee, WA, USA",SVMobert
+"""been""","Orlando, FL, USA",SVMobert
+"""been""","Richland, WA, USA",SVMobert
+"""been""","Papeete, French Polynesia",SVMobert
+"""been""","Kirkland, WA, USA",SVMobert
+"""been""","Kamloops, British Columbia, Canada",SVMobert
+"""been""","Harrison Hot Springs, British Columbia, Canada",SVMobert
+"""been""","Coulee City, WA, USA",SVMobert
+"""been""","Cabo San Lucas, Mexico",SVMobert
+"""been""","Nanaimo, British Columbia, Canada",SVMobert
+"""been""","Carnation, WA, USA",SVMobert
+"""been""","Tahaa, French Polynesia",SVMobert
+"""been""","Chilliwack, British Columbia, Canada",SVMobert
+"""been""","Washington DC, DC, USA",SVMobert
+"""been""","Faa'a, French Polynesia",SVMobert
+"""been""","Reno, NV, USA",SVMobert
+"""been""","La Libertad, El Salvador",SVMobert
+"""been""","Milan, Italy",SVMobert
+"""been""","Gurnee, IL, USA",SVMobert
+"""been""","Boise, ID, USA",SVMobert
+"""been""","Coupeville, WA, USA",SVMobert
+"""been""","Nuevo Vallarta, Mexico",SVMobert
+"""been""","Salt Spring Island, British Columbia, Canada",SVMobert
+"""been""","Gilbert, AZ, USA",SVMobert
+"""been""","Tacoma, WA, USA",SVMobert
+"""been""","Vancouver, British Columbia, Canada",SVMobert
+"""been""","Grand Coulee, WA, USA",SVMobert
+"""been""","Victoria, British Columbia, Canada",SVMobert
+"""been""","San Francisco, CA, USA",SVMobert
+"""been""","Sultan, WA, USA",SVMobert
+"""been""","Sumas, WA, USA",SVMobert
+"""been""","Friday Harbor, WA, USA",SVMobert
+"""been""","Gold Bar, WA, USA",SVMobert
+"""been""","Portland, OR, USA",SVMobert
+"""been""","Ocean Shores, WA, USA",SVMobert
+"""been""","Issaquah, WA, USA",SVMobert
+"""been""","Index, WA, USA",SVMobert
+"""been""","Thompson s Station, TN, USA",SVMobert
+"""been""","Cle Elum, WA, USA",SVMobert
+"""been""","Badlands National Park, SD, USA",SVMobert
+"""been""","Moerai, French Polynesia",SVMobert
+"""been""","Moorea, French Polynesia",SVMobert

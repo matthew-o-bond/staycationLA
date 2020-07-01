@@ -1,0 +1,526 @@
+tag,place,user
+"""been""","Carmel, CA, USA",DBKuper
+"""been""","San Jose, CA, USA",DBKuper
+"""been""","Desert Hot Springs, CA, USA",DBKuper
+"""been""","Fort Myers, FL, USA",DBKuper
+"""been""","Charlottesville, VA, USA",DBKuper
+"""been""","Vila Nova de Gaia, Portugal",DBKuper
+"""been""","Carlsbad, CA, USA",DBKuper
+"""been""","Fort Myers Beach, FL, USA",DBKuper
+"""been""","Kissimmee, FL, USA",DBKuper
+"""been""","Braga, Portugal",DBKuper
+"""been""","Kaunakakai, HI, USA",DBKuper
+"""been""","San Juan Capistrano, CA, USA",DBKuper
+"""been""","Carlsbad, NM, USA",DBKuper
+"""been""","Fort Pierce, FL, USA",DBKuper
+"""been""","Lynchburg, TN, USA",DBKuper
+"""been""","Chesapeake, VA, USA",DBKuper
+"""been""","New Providence Island, Bahamas",DBKuper
+"""been""","Carmel Valley, CA, USA",DBKuper
+"""been""","El Rosario, Mexico",DBKuper
+"""been""","Franklin, TN, USA",DBKuper
+"""been""","Espinho, Portugal",DBKuper
+"""been""","San Marcos, CA, USA",DBKuper
+"""been""","Cape Coral, FL, USA",DBKuper
+"""been""","Fort Walton Beach, FL, USA",DBKuper
+"""been""","Denver, CO, USA",DBKuper
+"""been""","San Luis Obispo, CA, USA",DBKuper
+"""been""","Elviria, Spain",DBKuper
+"""been""","Haleiwa, HI, USA",DBKuper
+"""been""","Paradise Island, Bahamas",DBKuper
+"""been""","Ventura, CA, USA",DBKuper
+"""been""","Kualapuu, HI, USA",DBKuper
+"""been"",""fave""","New York City, NY, USA",DBKuper
+"""been""","Montreal, Quebec, Canada",DBKuper
+"""been""","Ewa Beach, HI, USA",DBKuper
+"""been""","Mount Dora, FL, USA",DBKuper
+"""been""","Freeport, Bahamas",DBKuper
+"""been""","Spreckelsville, HI, USA",DBKuper
+"""been""","West Hollywood, CA, USA",DBKuper
+"""been""","Kailua, HI, USA",DBKuper
+"""been""","Kahuku, HI, USA",DBKuper
+"""been""","San Clemente, CA, USA",DBKuper
+"""been""","Chandler, AZ, USA",DBKuper
+"""been""","Richmond, VA, USA",DBKuper
+"""been""","Porto, Portugal",DBKuper
+"""been""","Del Mar, CA, USA",DBKuper
+"""been""","Claypool, AZ, USA",DBKuper
+"""been""","Irving, TX, USA",DBKuper
+"""been""","Cambridge, MA, USA",DBKuper
+"""been""","Fort Lauderdale, FL, USA",DBKuper
+"""been""","Buena Ventura Lakes, FL, USA",DBKuper
+"""been""","Naples, FL, USA",DBKuper
+"""been""","San Juan Island, WA, USA",DBKuper
+"""been""","Pearl City, HI, USA",DBKuper
+"""been""","Mililani, HI, USA",DBKuper
+"""been""","Mojacar, Spain",DBKuper
+"""been""","Wahiawa, HI, USA",DBKuper
+"""been""","Kapolei, HI, USA",DBKuper
+"""been""","Atlanta, GA, USA",DBKuper
+"""been""","Waianae, HI, USA",DBKuper
+"""been""","Matanzas, Cuba",DBKuper
+"""been""","Pompano Beach, FL, USA",DBKuper
+"""been""","Waialua, HI, USA",DBKuper
+"""been""","Watsonville, CA, USA",DBKuper
+"""been""","Treasure Island, FL, USA",DBKuper
+"""been""","Waipahu, HI, USA",DBKuper
+"""been""","St. Helena, CA, USA",DBKuper
+"""been""","Everglades City, FL, USA",DBKuper
+"""been""","South Lake Tahoe, CA, USA",DBKuper
+"""been""","Memphis, TN, USA",DBKuper
+"""been""","Everett, WA, USA",DBKuper
+"""been""","Bakersfield, CA, USA",DBKuper
+"""been""","Dana Point, CA, USA",DBKuper
+"""been""","Bellevue, WA, USA",DBKuper
+"""been""","Fernandina Beach, FL, USA",DBKuper
+"""been""","San Bernardino, CA, USA",DBKuper
+"""been""","Cave Creek, AZ, USA",DBKuper
+"""been""","Salinas, CA, USA",DBKuper
+"""been""","Salton City, CA, USA",DBKuper
+"""been""","Juno Beach, FL, USA",DBKuper
+"""been""","Jupiter, FL, USA",DBKuper
+"""been""","Papeete, French Polynesia",DBKuper
+"""been""","S'Alqueria Blanca, Spain",DBKuper
+"""been""","Crucecita, Mexico",DBKuper
+"""been""","Tarpum Bay, Bahamas",DBKuper
+"""been""","Newark, NJ, USA",DBKuper
+"""been""","Bradenton, FL, USA",DBKuper
+"""been""","Boone, NC, USA",DBKuper
+"""been""","Tavernier, FL, USA",DBKuper
+"""been""","Philadelphia, PA, USA",DBKuper
+"""been""","Calistoga, CA, USA",DBKuper
+"""been""","Marysville, WA, USA",DBKuper
+"""been""","Spreckels, CA, USA",DBKuper
+"""been""","Coeur d'Alene, ID, USA",DBKuper
+"""been""","Jacksonville Beach, FL, USA",DBKuper
+"""been""","Panama City, Panama",DBKuper
+"""been""","Plant City, FL, USA",DBKuper
+"""been""","Inverrary, FL, USA",DBKuper
+"""been""","Irish Town, Jamaica",DBKuper
+"""been""","Hershey, PA, USA",DBKuper
+"""been""","Blowing Rock, NC, USA",DBKuper
+"""been""","Gettysburg, PA, USA",DBKuper
+"""been""","Cortez, FL, USA",DBKuper
+"""been""","Seal Beach, CA, USA",DBKuper
+"""been""","Borrego Springs, CA, USA",DBKuper
+"""been""","Holguin, Cuba",DBKuper
+"""been""","Sausalito, CA, USA",DBKuper
+"""been""","Round Rock, TX, USA",DBKuper
+"""been""","Coral Gables, FL, USA",DBKuper
+"""been""","Pollenca, Spain",DBKuper
+"""been""","Seaside, CA, USA",DBKuper
+"""been""","Longboat Key, FL, USA",DBKuper
+"""been""","Pupukea, HI, USA",DBKuper
+"""been""","Barra de Navidad, Mexico",DBKuper
+"""been""","Volcano, HI, USA",DBKuper
+"""been""","Waikoloa, HI, USA",DBKuper
+"""been""","Pahoa, HI, USA",DBKuper
+"""been""","Nuevo Vallarta, Mexico",DBKuper
+"""been""","Greensboro, NC, USA",DBKuper
+"""been""","Truckee, CA, USA",DBKuper
+"""been""","Ka'anapali, HI, USA",DBKuper
+"""been""","Luray, VA, USA",DBKuper
+"""been""","Harpers Ferry, WV, USA",DBKuper
+"""been""","Gatlinburg, TN, USA",DBKuper
+"""been""","Clermont, FL, USA",DBKuper
+"""been""","Santa Rosa, CA, USA",DBKuper
+"""been""","Flagstaff, AZ, USA",DBKuper
+"""been""","Charleston, SC, USA",DBKuper
+"""been""","Yorba Linda, CA, USA",DBKuper
+"""been""","Murfreesboro, TN, USA",DBKuper
+"""been""","Cocoa Beach, FL, USA",DBKuper
+"""been""","Lauderdale-By-The-Sea, FL, USA",DBKuper
+"""been""","Green Cove Springs, FL, USA",DBKuper
+"""been""","Santa Monica, CA, USA",DBKuper
+"""been""","Clearwater, FL, USA",DBKuper
+"""been""","Tuxtla Gutierrez, Mexico",DBKuper
+"""been""","Dulles, VA, USA",DBKuper
+"""been""","Lewes, DE, USA",DBKuper
+"""been""","Homestead, FL, USA",DBKuper
+"""been""","Kapaa, HI, USA",DBKuper
+"""been""","Newport, RI, USA",DBKuper
+"""been""","Pigeon Forge, TN, USA",DBKuper
+"""been""","Honolulu, HI, USA",DBKuper
+"""been""","Temecula, CA, USA",DBKuper
+"""been""","Ocala, FL, USA",DBKuper
+"""been""","Santa Barbara, CA, USA",DBKuper
+"""been""","Beverly Hills, CA, USA",DBKuper
+"""been""","Columbia, SC, USA",DBKuper
+"""been""","Sand City, CA, USA",DBKuper
+"""been""","Santa Clara, CA, USA",DBKuper
+"""been""","Santa Cruz, CA, USA",DBKuper
+"""been""","Haiku, HI, USA",DBKuper
+"""been""","Lanai City, HI, USA",DBKuper
+"""been""","Dublin, Ireland",DBKuper
+"""been""","Lima, Peru",DBKuper
+"""been""","Poipu, HI, USA",DBKuper
+"""been""","Condeixa-a-Nova, Portugal",DBKuper
+"""been""","Boston, MA, USA",DBKuper
+"""been""","Mexicali, Mexico",DBKuper
+"""been""","Princeville, HI, USA",DBKuper
+"""been""","Lihue, HI, USA",DBKuper
+"""been""","New Orleans, LA, USA",DBKuper
+"""been""","Tukwila, WA, USA",DBKuper
+"""been""","Belmont Shore, CA, USA",DBKuper
+"""been""","Kailua-Kona, HI, USA",DBKuper
+"""been""","Hana, HI, USA",DBKuper
+"""been""","Titusville, FL, USA",DBKuper
+"""been""","San Diego, CA, USA",DBKuper
+"""been""","Berkeley, CA, USA",DBKuper
+"""been""","Cathedral City, CA, USA",DBKuper
+"""been""","San Simeon, CA, USA",DBKuper
+"""been""","Chantilly, VA, USA",DBKuper
+"""been""","Dewey Beach, DE, USA",DBKuper
+"""been""","Paw Paw, WV, USA",DBKuper
+"""been""","Williamsburg, VA, USA",DBKuper
+"""been""","Dover, DE, USA",DBKuper
+"""been""","Valdosta, GA, USA",DBKuper
+"""been""","Cedar Key, FL, USA",DBKuper
+"""been""","Winchester, VA, USA",DBKuper
+"""been""","Wailuku, HI, USA",DBKuper
+"""been""","Paia, HI, USA",DBKuper
+"""been""","Seattle, WA, USA",DBKuper
+"""been""","Makawao, HI, USA",DBKuper
+"""been""","Pukalani, HI, USA",DBKuper
+"""been""","Kihei, HI, USA",DBKuper
+"""been""","Kahului, HI, USA",DBKuper
+"""been""","Lahaina, HI, USA",DBKuper
+"""been""","Llucmajor, Spain",DBKuper
+"""been""","Kula, HI, USA",DBKuper
+"""been""","El Centro, CA, USA",DBKuper
+"""been""","Siesta Key, FL, USA",DBKuper
+"""been""","Orlando, FL, USA",DBKuper
+"""been""","La Jolla, CA, USA",DBKuper
+"""been""","Sun City, AZ, USA",DBKuper
+"""been""","Jacksonville, FL, USA",DBKuper
+"""been""","Kapalua, HI, USA",DBKuper
+"""been""","Detroit, MI, USA",DBKuper
+"""been""","North Charleston, SC, USA",DBKuper
+"""been""","Kumara, New Zealand",DBKuper
+"""been""","Scottsdale, AZ, USA",DBKuper
+"""been""","Anacortes, WA, USA",DBKuper
+"""been""","Marina del Rey, CA, USA",DBKuper
+"""been""","Globe, AZ, USA",DBKuper
+"""been""","Winter Haven, FL, USA",DBKuper
+"""been""","Beaufort, SC, USA",DBKuper
+"""been""","SeaTac, WA, USA",DBKuper
+"""been""","Marina, CA, USA",DBKuper
+"""been""","Sedona, AZ, USA",DBKuper
+"""been""","Tyler, TX, USA",DBKuper
+"""been""","Winter Park, FL, USA",DBKuper
+"""been""","Greenville, SC, USA",DBKuper
+"""been""","Nashville, TN, USA",DBKuper
+"""been""","Cross Junction, VA, USA",DBKuper
+"""been""","Allentown, PA, USA",DBKuper
+"""been""","Reno, NV, USA",DBKuper
+"""been""","Baltimore, MD, USA",DBKuper
+"""been""","Savannah, GA, USA",DBKuper
+"""been""","Brisbane, Australia",DBKuper
+"""been""","Leesburg, VA, USA",DBKuper
+"""been""","Birmingham, AL, USA",DBKuper
+"""been""","Sydney, Australia",DBKuper
+"""been""","Sandestin, FL, USA",DBKuper
+"""been""","Bluffton, SC, USA",DBKuper
+"""been""","Culpeper, VA, USA",DBKuper
+"""been""","North Palm Springs, CA, USA",DBKuper
+"""been""","Manhattan Beach, CA, USA",DBKuper
+"""been""","Bondi, Australia",DBKuper
+"""been""","West Palm Beach, FL, USA",DBKuper
+"""been""","Malibu, CA, USA",DBKuper
+"""been""","Sanibel Island, FL, USA",DBKuper
+"""been""","Brooklyn, NY, USA",DBKuper
+"""been""","Haast, New Zealand",DBKuper
+"""been""","Providence, RI, USA",DBKuper
+"""been""","Kansas City, MO, USA",DBKuper
+"""been""","Newport Beach, CA, USA",DBKuper
+"""been""","Broad Run, VA, USA",DBKuper
+"""been""","Portmore, Jamaica",DBKuper
+"""been""","Flam, Norway",DBKuper
+"""been""","Bethany Beach, DE, USA",DBKuper
+"""been""","Garden Grove, CA, USA",DBKuper
+"""been""","Arlington, VA, USA",DBKuper
+"""been""","Dickson, TN, USA",DBKuper
+"""been""","Julian, CA, USA",DBKuper
+"""been""","Saint Augustine Beach, FL, USA",DBKuper
+"""been""","Gilroy, CA, USA",DBKuper
+"""been""","Santa Fe, NM, USA",DBKuper
+"""been""","St. Pete Beach, FL, USA",DBKuper
+"""been""","Conil de la Frontera, Spain",DBKuper
+"""been""","St. Petersburg, FL, USA",DBKuper
+"""been""","San Francisco, CA, USA",DBKuper
+"""been""","Salem, MA, USA",DBKuper
+"""been""","Friday Harbor, WA, USA",DBKuper
+"""been""","San Antonio, TX, USA",DBKuper
+"""been""","Tucson, AZ, USA",DBKuper
+"""been""","Mesa, AZ, USA",DBKuper
+"""been""","Pensacola, FL, USA",DBKuper
+"""been""","Te Anau, New Zealand",DBKuper
+"""been""","Milford Sound, New Zealand",DBKuper
+"""been""","Alta Loma, CA, USA",DBKuper
+"""been""","Queenstown, New Zealand",DBKuper
+"""been""","Costa Mesa, CA, USA",DBKuper
+"""been""","Austin, TX, USA",DBKuper
+"""been""","Coronado, CA, USA",DBKuper
+"""been""","Miami, AZ, USA",DBKuper
+"""been""","Tampa, FL, USA",DBKuper
+"""been""","Sonoma, CA, USA",DBKuper
+"""been""","Miami, FL, USA",DBKuper
+"""been""","Miami Beach, FL, USA",DBKuper
+"""been""","Solana Beach, CA, USA",DBKuper
+"""been""","Melbourne, FL, USA",DBKuper
+"""been""","Indialantic, FL, USA",DBKuper
+"""been""","Solvang, CA, USA",DBKuper
+"""been""","Taylor, TX, USA",DBKuper
+"""been""","Melbourne Beach, FL, USA",DBKuper
+"""been""","Calexico, CA, USA",DBKuper
+"""been""","Ourem, Portugal",DBKuper
+"""been""","Jersey City, NJ, USA",DBKuper
+"""been""","Cartagena, Spain",DBKuper
+"""been""","Schiphol, The Netherlands",DBKuper
+"""been""","Murcia, Spain",DBKuper
+"""been""","Inca, Spain",DBKuper
+"""been""","Roissy-en-France, France",DBKuper
+"""been""","Syracuse, NY, USA",DBKuper
+"""been""","Anaheim, CA, USA",DBKuper
+"""been""","Marco Island, FL, USA",DBKuper
+"""been""","Healdsburg, CA, USA",DBKuper
+"""been""","Burbank, CA, USA",DBKuper
+"""been""","Panama City, FL, USA",DBKuper
+"""been""","Greymouth, New Zealand",DBKuper
+"""been""","Corona del Mar, CA, USA",DBKuper
+"""been""","Panama City Beach, FL, USA",DBKuper
+"""been""","Hokitika, New Zealand",DBKuper
+"""been""","Whangarei, New Zealand",DBKuper
+"""been""","Auckland, New Zealand",DBKuper
+"""been""","Valencia, Spain",DBKuper
+"""been""","Laguna Niguel, CA, USA",DBKuper
+"""been""","Puerto Banus, Spain",DBKuper
+"""been""","Palm Beach, FL, USA",DBKuper
+"""been""","Stuart, FL, USA",DBKuper
+"""been""","Upland, CA, USA",DBKuper
+"""been""","Madeira Beach, FL, USA",DBKuper
+"""been""","Charles Town, WV, USA",DBKuper
+"""been""","Redmond, WA, USA",DBKuper
+"""been""","Escondido, CA, USA",DBKuper
+"""been""","Florence, SC, USA",DBKuper
+"""been""","Frederick, MD, USA",DBKuper
+"""been""","Atlantic Beach, FL, USA",DBKuper
+"""been""","Alicante, Spain",DBKuper
+"""been""","Jamaica, NY, USA",DBKuper
+"""been""","Cala d'Or, Spain",DBKuper
+"""been""","Surprise, AZ, USA",DBKuper
+"""been""","Ixtapa, Mexico",DBKuper
+"""been""","Tempe, AZ, USA",DBKuper
+"""been""","Mount Pleasant, SC, USA",DBKuper
+"""been""","La Quinta, CA, USA",DBKuper
+"""been""","Half Moon Bay, CA, USA",DBKuper
+"""been""","Coachella, CA, USA",DBKuper
+"""been""","Myrtle Beach, SC, USA",DBKuper
+"""been""","Laguna Beach, CA, USA",DBKuper
+"""been""","South Daytona, FL, USA",DBKuper
+"""been""","London, UK",DBKuper
+"""been""","Calas de Majorca, Spain",DBKuper
+"""been""","Ocean City, MD, USA",DBKuper
+"""been""","San Ignacio, Mexico",DBKuper
+"""been"",""fave""","Rome, Italy",DBKuper
+"""been""","Vatican City, Vatican City",DBKuper
+"""been""","Cadiz, Spain",DBKuper
+"""been""","Wanaka, New Zealand",DBKuper
+"""been""","Long Island City, NY, USA",DBKuper
+"""been""","Lime Kiln, WA, USA",DBKuper
+"""been""","Monterey, CA, USA",DBKuper
+"""been""","Riverside, CA, USA",DBKuper
+"""been""","Malaga, Spain",DBKuper
+"""been""","Marbella, Spain",DBKuper
+"""been""","Dingle, Ireland",DBKuper
+"""been""","Pacific Grove, CA, USA",DBKuper
+"""been""","Granada, Spain",DBKuper
+"""been""","Torremolinos, Spain",DBKuper
+"""been""","Palm Springs, CA, USA",DBKuper
+"""been""","Pittsburgh, PA, USA",DBKuper
+"""been""","Palm Desert, CA, USA",DBKuper
+"""been""","Hampton, VA, USA",DBKuper
+"""been""","Stamford, CT, USA",DBKuper
+"""been""","Palo Alto, CA, USA",DBKuper
+"""been""","Lexington, KY, USA",DBKuper
+"""been""","Auckland Central, New Zealand",DBKuper
+"""been""","San Andres, Colombia",DBKuper
+"""been""","Redondo Beach, CA, USA",DBKuper
+"""been""","Redlands, CA, USA",DBKuper
+"""been""","Oxnard, CA, USA",DBKuper
+"""been""","Rock Sound, Bahamas",DBKuper
+"""been""","Chapel Hill, NC, USA",DBKuper
+"""been""","Charlotte, NC, USA",DBKuper
+"""been""","Bergen, Norway",DBKuper
+"""been""","Washington Grove, MD, USA",DBKuper
+"""been""","Provincetown, MA, USA",DBKuper
+"""been""","Taupo, New Zealand",DBKuper
+"""been""","Paihia, New Zealand",DBKuper
+"""been""","Bowling Green, KY, USA",DBKuper
+"""been""","Doral, FL, USA",DBKuper
+"""been""","Palma de Mallorca, Spain",DBKuper
+"""been""","Mendocino, CA, USA",DBKuper
+"""been""","Rancho Mirage, CA, USA",DBKuper
+"""been""","Rancho Cucamonga, CA, USA",DBKuper
+"""been""","Tuscaloosa, AL, USA",DBKuper
+"""been""","Rancho Santa Fe, CA, USA",DBKuper
+"""been""","Ontario, CA, USA",DBKuper
+"""been""","Frigate Bay, St. Kitts and Nevis",DBKuper
+"""been""","Christchurch, New Zealand",DBKuper
+"""been""","Albany, NY, USA",DBKuper
+"""been""","Plymouth, MA, USA",DBKuper
+"""been""","Victoria, British Columbia, Canada",DBKuper
+"""been""","Vancouver, British Columbia, Canada",DBKuper
+"""been""","Avalon, CA, USA",DBKuper
+"""been""","Pismo Beach, CA, USA",DBKuper
+"""been""","Irvine, CA, USA",DBKuper
+"""been""","Los Angeles, CA, USA",DBKuper
+"""been""","Placentia, CA, USA",DBKuper
+"""been""","State College, PA, USA",DBKuper
+"""been""","Harrisburg, PA, USA",DBKuper
+"""been""","Fullerton, CA, USA",DBKuper
+"""been""","Chicago, IL, USA",DBKuper
+"""been""","Wildwood, NJ, USA",DBKuper
+"""been""","Wailea, HI, USA",DBKuper
+"""been""","Pensacola Beach, FL, USA",DBKuper
+"""been""","Puako, HI, USA",DBKuper
+"""been""","Annapolis, MD, USA",DBKuper
+"""been""","Fort Bragg, CA, USA",DBKuper
+"""been""","Phoenix, AZ, USA",DBKuper
+"""been""","Napa, CA, USA",DBKuper
+"""been""","Indio, CA, USA",DBKuper
+"""been""","Alexandria, VA, USA",DBKuper
+"""been""","Vero Beach, FL, USA",DBKuper
+"""been""","Long Beach, CA, USA",DBKuper
+"""been""","Venice, FL, USA",DBKuper
+"""been""","Lafayette, LA, USA",DBKuper
+"""been""","Puerto Penasco, Mexico",DBKuper
+"""been""","Avila Beach, CA, USA",DBKuper
+"""been""","Lake Charles, LA, USA",DBKuper
+"""been""","Baton Rouge, LA, USA",DBKuper
+"""been""","Brewster, MA, USA",DBKuper
+"""been""","Curacao, Caribbean",DBKuper
+"""been""","Willemstad, Curacao",DBKuper
+"""been""","Lorca, Spain",DBKuper
+"""been""","Maui, HI, USA",DBKuper
+"""been""","Havana, Cuba",DBKuper
+"""been""","Dallas, TX, USA",DBKuper
+"""been""","Huntington Beach, CA, USA",DBKuper
+"""been""","Varadero, Cuba",DBKuper
+"""been""","Peoria, AZ, USA",DBKuper
+"""been""","Morant Bay, Jamaica",DBKuper
+"""been""","Alice Town, Bahamas",DBKuper
+"""been""","San Quintin, Mexico",DBKuper
+"""been""","Cabo San Lucas, Mexico",DBKuper
+"""been""","San Jose del Cabo, Mexico",DBKuper
+"""been""","Valle de Guadalupe, Mexico",DBKuper
+"""been""","Denia, Spain",DBKuper
+"""been""","Amsterdam, The Netherlands",DBKuper
+"""been""","Fox Glacier, New Zealand",DBKuper
+"""been""","Paso Robles, CA, USA",DBKuper
+"""been""","Brunswick, GA, USA",DBKuper
+"""been"",""fave""","Paris, France",DBKuper
+"""been""","Yuma, AZ, USA",DBKuper
+"""been""","Pebble Beach, CA, USA",DBKuper
+"""been""","Morro Bay, CA, USA",DBKuper
+"""been""","Chambersburg, PA, USA",DBKuper
+"""been""","Russell, New Zealand",DBKuper
+"""been""","Tahiti, French Polynesia",DBKuper
+"""been""","Providencia Island, Colombia",DBKuper
+"""been""","Warrenton, VA, USA",DBKuper
+"""been""","San Andres Island, Colombia",DBKuper
+"""been""","Franz Josef, New Zealand",DBKuper
+"""been""","Basseterre, St. Kitts and Nevis",DBKuper
+"""been""","Wrightsville Beach, NC, USA",DBKuper
+"""been""","Dunedin, FL, USA",DBKuper
+"""been""","Zihuatanejo, Mexico",DBKuper
+"""been""","Bal Harbour, FL, USA",DBKuper
+"""been""","Duck Key, FL, USA",DBKuper
+"""been""","Erie, PA, USA",DBKuper
+"""been""","Winston Salem, NC, USA",DBKuper
+"""been""","Wilmington, NC, USA",DBKuper
+"""been""","Mobile, AL, USA",DBKuper
+"""been""","Mazatlan, Mexico",DBKuper
+"""been""","Manzanillo, Mexico",DBKuper
+"""been""","La Herradura, Spain",DBKuper
+"""been""","Portocolom, Spain",DBKuper
+"""been""","Hollywood, FL, USA",DBKuper
+"""been""","Deerfield Beach, FL, USA",DBKuper
+"""been""","San Jose del Pacifico, Mexico",DBKuper
+"""been""","Daytona Beach, FL, USA",DBKuper
+"""been""","Ile Rousse, France",DBKuper
+"""been""","Holly Hill, FL, USA",DBKuper
+"""been""","Algarve, Portugal",DBKuper
+"""been""","Big Sur, CA, USA",DBKuper
+"""been""","Delray Beach, FL, USA",DBKuper
+"""been""","Wilmington, DE, USA",DBKuper
+"""been""","Kahala, HI, USA",DBKuper
+"""been""","Ronda, Spain",DBKuper
+"""been""","Singer Island, FL, USA",DBKuper
+"""been""","Sunset Beach, HI, USA",DBKuper
+"""been""","Newark, DE, USA",DBKuper
+"""been""","Rosarito, Mexico",DBKuper
+"""been""","Loreto, Mexico",DBKuper
+"""been""","Todos Santos, Mexico",DBKuper
+"""been""","Tijuana, Mexico",DBKuper
+"""been""","Sunny Isles Beach, FL, USA",DBKuper
+"""been""","Nazare, Portugal",DBKuper
+"""been""","Waitangi, New Zealand",DBKuper
+"""been""","Dania Beach, FL, USA",DBKuper
+"""been""","Rehoboth Beach, DE, USA",DBKuper
+"""been""","Puno, Peru",DBKuper
+"""been""","Clarksville, TN, USA",DBKuper
+"""been""","Algeciras, Spain",DBKuper
+"""been""","Oslo, Norway",DBKuper
+"""been""","Staten Island, NY, USA",DBKuper
+"""been""","Washington DC, DC, USA",DBKuper
+"""been""","La Paz, Mexico",DBKuper
+"""been""","Ensenada, Mexico",DBKuper
+"""been""","Martinsburg, WV, USA",DBKuper
+"""been""","Metairie, LA, USA",DBKuper
+"""been""","Morgantown, WV, USA",DBKuper
+"""been""","The Plains, VA, USA",DBKuper
+"""been""","Oakland, CA, USA",DBKuper
+"""been""","Oceanside, CA, USA",DBKuper
+"""been""","Tarifa, Spain",DBKuper
+"""been""","Nerja, Spain",DBKuper
+"""been""","Ojai, CA, USA",DBKuper
+"""been""","Ramona, CA, USA",DBKuper
+"""been""","Fuengirola, Spain",DBKuper
+"""been""","Atlantic City, NJ, USA",DBKuper
+"""been""","Shreveport, LA, USA",DBKuper
+"""been""","Lenox, MA, USA",DBKuper
+"""been""","Philipsburg, St Martin \u002F St Maarten",DBKuper
+"""been""","Nieuwpoort, Curacao",DBKuper
+"""been""","Roanoke, VA, USA",DBKuper
+"""been""","Newport News, VA, USA",DBKuper
+"""been""","Figueira da Foz, Portugal",DBKuper
+"""been""","Coimbra, Portugal",DBKuper
+"""been""","Poway, CA, USA",DBKuper
+"""been""","Glengary, WV, USA",DBKuper
+"""been""","Hilo, HI, USA",DBKuper
+"""been""","Brandon, FL, USA",DBKuper
+"""been""","Port Royal, Jamaica",DBKuper
+"""been""","Norfolk, VA, USA",DBKuper
+"""been""","Bradenton Beach, FL, USA",DBKuper
+"""been""","Runaway Bay, Jamaica",DBKuper
+"""been""","Fatima, Portugal",DBKuper
+"""been""","Frankfort, KY, USA",DBKuper
+"""been""","Lisbon, Portugal",DBKuper
+"""been""","Franklin, KY, USA",DBKuper
+"""been""","Gila, NM, USA",DBKuper
+"""been""","Raleigh, NC, USA",DBKuper
+"""been""","Gainesboro, VA, USA",DBKuper
+"""been""","Waimea, HI, USA",DBKuper
+"""been""","Maharepa, French Polynesia",DBKuper
+"""been""","Chame, Panama",DBKuper
+"""been""","Great Cacapon, WV, USA",DBKuper
+"""been""","Boca Raton, FL, USA",DBKuper
+"""been""","Obidos, Portugal",DBKuper
+"""been""","Big Pine Key, FL, USA",DBKuper
+"""been""","Virginia Beach, VA, USA",DBKuper
+"""been""","Funchal, Portugal",DBKuper
+"""been""","Lancaster, PA, USA",DBKuper
+"""been""","Puerto de San Benito, Mexico",DBKuper
+"""been""","Highlands, NC, USA",DBKuper
+"""been""","Port de Pollenca, Spain",DBKuper

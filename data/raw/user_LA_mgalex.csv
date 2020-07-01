@@ -1,0 +1,546 @@
+tag,place,user
+"""been""","Cabo San Lucas, Mexico",mgalex
+"""been""","Seaside, OR, USA",mgalex
+"""been""","Arlington, WA, USA",mgalex
+"""been""","Port Angeles, WA, USA",mgalex
+"""been""","Fort Collins, CO, USA",mgalex
+"""been""","Prince Rupert, British Columbia, Canada",mgalex
+"""been""","Prince George, British Columbia, Canada",mgalex
+"""been""","Penticton, British Columbia, Canada",mgalex
+"""been""","Silver Springs, FL, USA",mgalex
+"""been""","La Jolla, CA, USA",mgalex
+"""been"",""want""","Orlando, FL, USA",mgalex
+"""been""","Kamloops, British Columbia, Canada",mgalex
+"""been""","Stanley, ID, USA",mgalex
+"""been""","White Sulphur Springs, MT, USA",mgalex
+"""been""","Whitefish, MT, USA",mgalex
+"""want""","Myrtle Beach, SC, USA",mgalex
+"""been""","Kearney, NE, USA",mgalex
+"""been""","Mount Pleasant, SC, USA",mgalex
+"""been"",""want""","Salt Lake City, UT, USA",mgalex
+"""been""","Salem, OR, USA",mgalex
+"""been""","Middleton, TN, USA",mgalex
+"""been""","Astoria, OR, USA",mgalex
+"""want""","Corpus Christi, TX, USA",mgalex
+"""been""","Jacksonville, FL, USA",mgalex
+"""been""","Sisters, OR, USA",mgalex
+"""been""","La Palma, CA, USA",mgalex
+"""want""","North Myrtle Beach, SC, USA",mgalex
+"""been""","Jerome, AZ, USA",mgalex
+"""been""","Forest City, IA, USA",mgalex
+"""been""","Amarillo, TX, USA",mgalex
+"""been""","Winthrop, WA, USA",mgalex
+"""been""","Clovis, CA, USA",mgalex
+"""been""","Laguna Beach, CA, USA",mgalex
+"""been""","Tempe, AZ, USA",mgalex
+"""been""","Half Moon Bay, CA, USA",mgalex
+"""been""","Woodinville, WA, USA",mgalex
+"""been""","Yakima, WA, USA",mgalex
+"""been""","Brea, CA, USA",mgalex
+"""been""","Apache Junction, AZ, USA",mgalex
+"""been""","Tombstone, AZ, USA",mgalex
+"""want""","Bolans, Antigua and Barbuda",mgalex
+"""been""","Wenatchee, WA, USA",mgalex
+"""been""","Glendale, CA, USA",mgalex
+"""been""","Malibu, CA, USA",mgalex
+"""been""","Westport, WA, USA",mgalex
+"""been""","Redmond, WA, USA",mgalex
+"""been"",""want""","West Palm Beach, FL, USA",mgalex
+"""been""","Renton, WA, USA",mgalex
+"""been""","Sanibel Island, FL, USA",mgalex
+"""been""","Littleton, CO, USA",mgalex
+"""been""","Mansfield, LA, USA",mgalex
+"""been""","Manteca, CA, USA",mgalex
+"""been""","Sarasota, FL, USA",mgalex
+"""been""","Mill Valley, CA, USA",mgalex
+"""been""","North Las Vegas, NV, USA",mgalex
+"""been""","Keystone, SD, USA",mgalex
+"""been""","Minneapolis, MN, USA",mgalex
+"""been""","Biloxi, MS, USA",mgalex
+"""been""","Deadwood, SD, USA",mgalex
+"""been""","De Smet, SD, USA",mgalex
+"""been""","Kansas City, MO, USA",mgalex
+"""been""","Barstow, CA, USA",mgalex
+"""been""","Summerville, SC, USA",mgalex
+"""been""","Redmond, OR, USA",mgalex
+"""been"",""fave""","Scottsdale, AZ, USA",mgalex
+"""been""","Loveland, CO, USA",mgalex
+"""been""","Victoria, British Columbia, Canada",mgalex
+"""been""","Glendale, AZ, USA",mgalex
+"""been""","Sedona, AZ, USA",mgalex
+"""been""","Vancouver Island, British Columbia, Canada",mgalex
+"""been""","Gilbert, AZ, USA",mgalex
+"""been""","Apopka, FL, USA",mgalex
+"""been""","Englewood, CO, USA",mgalex
+"""been""","Marina del Rey, CA, USA",mgalex
+"""been""","Anacortes, WA, USA",mgalex
+"""want""","Punta Cana, Dominican Republic",mgalex
+"""want""","Bangkok, Thailand",mgalex
+"""want""","Puerto Plata, Dominican Republic",mgalex
+"""want""","Tahiti, French Polynesia",mgalex
+"""been""","Steamboat Springs, CO, USA",mgalex
+"""been"",""fave""","Vancouver, British Columbia, Canada",mgalex
+"""been""","Tofino, British Columbia, Canada",mgalex
+"""been""","Ona, FL, USA",mgalex
+"""been""","Pensacola Beach, FL, USA",mgalex
+"""been""","Reno, NV, USA",mgalex
+"""been""","Roseburg, OR, USA",mgalex
+"""been""","Fair Play, SC, USA",mgalex
+"""been""","The Woodlands, TX, USA",mgalex
+"""been""","Pinon Hills, CA, USA",mgalex
+"""been"",""fave""","Pismo Beach, CA, USA",mgalex
+"""been""","Irvine, CA, USA",mgalex
+"""been""","Prescott, AZ, USA",mgalex
+"""been""","Fresno, CA, USA",mgalex
+"""been""","Cottonwood, AZ, USA",mgalex
+"""been""","Los Angeles, CA, USA",mgalex
+"""been""","Fullerton, CA, USA",mgalex
+"""been""","Los Gatos, CA, USA",mgalex
+"""been""","Jamul, CA, USA",mgalex
+"""been""","Chicago, IL, USA",mgalex
+"""been""","Wauchula, FL, USA",mgalex
+"""been""","San Marcos, TX, USA",mgalex
+"""been""","Laughlin, NV, USA",mgalex
+"""been""","Brenham, TX, USA",mgalex
+"""been""","Pendleton, OR, USA",mgalex
+"""been""","Las Vegas, NV, USA",mgalex
+"""been""","Webster, FL, USA",mgalex
+"""been""","Arlington, VA, USA",mgalex
+"""been""","Joshua Tree, CA, USA",mgalex
+"""been""","Amana, IA, USA",mgalex
+"""been""","Lakewood, CO, USA",mgalex
+"""been""","Gilroy, CA, USA",mgalex
+"""been""","St. Pete Beach, FL, USA",mgalex
+"""been""","Avery Island, LA, USA",mgalex
+"""want""","St. Petersburg, FL, USA",mgalex
+"""been""","Saint Joseph, MO, USA",mgalex
+"""been""","Saint Louis, MO, USA",mgalex
+"""been""","Hastings, NE, USA",mgalex
+"""been""","Portland, OR, USA",mgalex
+"""been""","Columbus, TX, USA",mgalex
+"""been""","North Platte, NE, USA",mgalex
+"""been""","Jefferson City, MO, USA",mgalex
+"""been""","Lead, SD, USA",mgalex
+"""been""","Perris, CA, USA",mgalex
+"""been""","Parker, AZ, USA",mgalex
+"""been""","Paradise Valley, AZ, USA",mgalex
+"""been""","Youngsville, LA, USA",mgalex
+"""been""","Mount Shasta, CA, USA",mgalex
+"""been""","Huntington Beach, CA, USA",mgalex
+"""been""","Sacramento, CA, USA",mgalex
+"""want""","Niagara Falls, Ontario, Canada",mgalex
+"""been""","Aurora, CO, USA",mgalex
+"""been""","Abilene, KS, USA",mgalex
+"""been""","Avoca, IA, USA",mgalex
+"""been""","Peoria, AZ, USA",mgalex
+"""been""","Rapid City, SD, USA",mgalex
+"""been""","Big Sur, CA, USA",mgalex
+"""been""","Gulf Shores, AL, USA",mgalex
+"""been""","Phoenix, AZ, USA",mgalex
+"""been""","Mountain View, CA, USA",mgalex
+"""been""","Lodi, CA, USA",mgalex
+"""been""","Imperial Beach, CA, USA",mgalex
+"""been""","Napa, CA, USA",mgalex
+"""been""","Indio, CA, USA",mgalex
+"""been""","Baton Rouge, LA, USA",mgalex
+"""been""","Lake Charles, LA, USA",mgalex
+"""been""","Eunice, LA, USA",mgalex
+"""been""","Alexandria, VA, USA",mgalex
+"""been""","Long Beach, CA, USA",mgalex
+"""been""","Lafayette, LA, USA",mgalex
+"""been""","Vero Beach, FL, USA",mgalex
+"""been""","Galveston, TX, USA",mgalex
+"""been""","Henderson, NV, USA",mgalex
+"""been""","Minden, NE, USA",mgalex
+"""been""","Oceanside, OR, USA",mgalex
+"""been""","Le Mars, IA, USA",mgalex
+"""want""","San Juan, Puerto Rico",mgalex
+"""been""","Opelousas, LA, USA",mgalex
+"""been""","Monterey, CA, USA",mgalex
+"""been""","Riverside, CA, USA",mgalex
+"""been""","Pasadena, CA, USA",mgalex
+"""been""","Williams, AZ, USA",mgalex
+"""been""","Saint Paul, MN, USA",mgalex
+"""been""","Carson City, NV, USA",mgalex
+"""been""","Paso Robles, CA, USA",mgalex
+"""want""","Auckland Central, New Zealand",mgalex
+"""been""","Morro Bay, CA, USA",mgalex
+"""been""","Yuma, AZ, USA",mgalex
+"""been""","Fort Worth, TX, USA",mgalex
+"""been""","Bryce, UT, USA",mgalex
+"""been""","Elko, NV, USA",mgalex
+"""been""","Elkhart, IN, USA",mgalex
+"""want""","Negril, Jamaica",mgalex
+"""want""","Gros Islet, St. Lucia",mgalex
+"""been""","New Iberia, LA, USA",mgalex
+"""want""","Castries, St. Lucia",mgalex
+"""been""","Natchitoches, LA, USA",mgalex
+"""been""","Lexington, KY, USA",mgalex
+"""been""","Redding, CA, USA",mgalex
+"""been""","Redondo Beach, CA, USA",mgalex
+"""been"",""fave""","Maui, HI, USA",mgalex
+"""been""","Oxnard, CA, USA",mgalex
+"""been""","Lanai, HI, USA",mgalex
+"""been""","Iowa City, IA, USA",mgalex
+"""want""","Philipsburg, St Martin \u002F St Maarten",mgalex
+"""been""","Pacific Grove, CA, USA",mgalex
+"""been""","Pacifica, CA, USA",mgalex
+"""been""","Modesto, CA, USA",mgalex
+"""been""","Palm Springs, CA, USA",mgalex
+"""been""","Palm Desert, CA, USA",mgalex
+"""been""","Palo Alto, CA, USA",mgalex
+"""been""","Lancaster, CA, USA",mgalex
+"""been""","Palmdale, CA, USA",mgalex
+"""been""","Blue Earth, MN, USA",mgalex
+"""been""","Dallas, TX, USA",mgalex
+"""been""","Tijuana, Mexico",mgalex
+"""want""","St. John's, Antigua and Barbuda",mgalex
+"""been""","Slidell, LA, USA",mgalex
+"""been""","Oakland, CA, USA",mgalex
+"""been""","Oceano, CA, USA",mgalex
+"""been""","Oceanside, CA, USA",mgalex
+"""been""","Ashland, OR, USA",mgalex
+"""been""","Oklahoma City, OK, USA",mgalex
+"""been""","Rancho Mirage, CA, USA",mgalex
+"""been""","Ontario, CA, USA",mgalex
+"""been""","Mendocino, CA, USA",mgalex
+"""been""","Orange, CA, USA",mgalex
+"""been""","Menifee, CA, USA",mgalex
+"""been""","Merced, CA, USA",mgalex
+"""been""","Las Cruces, NM, USA",mgalex
+"""been""","Wall, SD, USA",mgalex
+"""been""","Tulsa, OK, USA",mgalex
+"""been""","Grapevine, TX, USA",mgalex
+"""been""","Springfield, MO, USA",mgalex
+"""been""","Calgary, Alberta, Canada",mgalex
+"""been""","Banff, Alberta, Canada",mgalex
+"""want""","Niagara Falls, NY, USA",mgalex
+"""been""","Pomona, CA, USA",mgalex
+"""been""","Mazatlan, Mexico",mgalex
+"""been"",""fave""","Puerto Vallarta, Mexico",mgalex
+"""want""","Okinawa City, Japan",mgalex
+"""been""","Gulfport, MS, USA",mgalex
+"""been""","Clinton, IN, USA",mgalex
+"""been""","Jackson, WY, USA",mgalex
+"""been""","Park City, UT, USA",mgalex
+"""been""","Cannon Beach, OR, USA",mgalex
+"""want""","Jacmel, Haiti",mgalex
+"""been"",""want""","Oslo, Norway",mgalex
+"""been""","Bozeman, MT, USA",mgalex
+"""been""","Gold Beach, OR, USA",mgalex
+"""been""","Bend, OR, USA",mgalex
+"""been""","Shawnee, OK, USA",mgalex
+"""been""","Beaverton, OR, USA",mgalex
+"""want""","Virginia Beach, VA, USA",mgalex
+"""want""","Lillehammer, Norway",mgalex
+"""been""","Pleasanton, CA, USA",mgalex
+"""been""","Gillette, WY, USA",mgalex
+"""been""","Sioux Falls, SD, USA",mgalex
+"""been""","Muskogee, OK, USA",mgalex
+"""been""","Point Reyes Station, CA, USA",mgalex
+"""want""","Sydney, Australia",mgalex
+"""been""","Grants Pass, OR, USA",mgalex
+"""been""","Rockville, IN, USA",mgalex
+"""been""","Crater Lake National Park, OR, USA",mgalex
+"""been""","Delray Beach, FL, USA",mgalex
+"""been""","Howe, IN, USA",mgalex
+"""been""","Florence, OR, USA",mgalex
+"""been""","Eugene, OR, USA",mgalex
+"""been""","Austin, MN, USA",mgalex
+"""been""","Simi Valley, CA, USA",mgalex
+"""been""","Centralia, WA, USA",mgalex
+"""been""","Terre Haute, IN, USA",mgalex
+"""been""","Everglades National Park, FL, USA",mgalex
+"""been""","Boise, ID, USA",mgalex
+"""been""","Cheney, WA, USA",mgalex
+"""been""","Burlington, WA, USA",mgalex
+"""been""","Logan, UT, USA",mgalex
+"""been""","Ka'anapali, HI, USA",mgalex
+"""been""","Big Timber, MT, USA",mgalex
+"""been""","Big Sky, MT, USA",mgalex
+"""been""","Billings, MT, USA",mgalex
+"""been""","Great Falls, MT, USA",mgalex
+"""been"",""fave""","Bandon, OR, USA",mgalex
+"""been""","Baker City, OR, USA",mgalex
+"""been""","Mobile, AL, USA",mgalex
+"""been""","Newport, OR, USA",mgalex
+"""been""","Badlands National Park, SD, USA",mgalex
+"""been""","Seal Beach, CA, USA",mgalex
+"""been""","Louisville, KY, USA",mgalex
+"""been""","Helen, GA, USA",mgalex
+"""been""","Cody, WY, USA",mgalex
+"""been""","Mount Rainier National Park, WA, USA",mgalex
+"""been""","Teton Village, WY, USA",mgalex
+"""been""","Katy, TX, USA",mgalex
+"""been""","South Lake Tahoe, CA, USA",mgalex
+"""been""","Idaho Falls, ID, USA",mgalex
+"""want""","Hershey, PA, USA",mgalex
+"""been""","Fort Benton, MT, USA",mgalex
+"""been""","Medford, OR, USA",mgalex
+"""been""","Winnemucca, NV, USA",mgalex
+"""been""","McMinnville, OR, USA",mgalex
+"""been""","Truckee, CA, USA",mgalex
+"""been""","Coralville, IA, USA",mgalex
+"""want""","Charlotte Amalie, U.S. Virgin Islands",mgalex
+"""been""","North Cascades National Park, WA, USA",mgalex
+"""been""","Forks, WA, USA",mgalex
+"""been""","Sheridan, WY, USA",mgalex
+"""been""","Coupeville, WA, USA",mgalex
+"""been""","Casper, WY, USA",mgalex
+"""been""","Sioux City, IA, USA",mgalex
+"""want""","Gettysburg, PA, USA",mgalex
+"""been""","Gardiner, MT, USA",mgalex
+"""been""","Devils Tower, WY, USA",mgalex
+"""been""","Cheyenne, WY, USA",mgalex
+"""been""","Bothell, WA, USA",mgalex
+"""want""","Daytona Beach, FL, USA",mgalex
+"""been""","Bremerton, WA, USA",mgalex
+"""been""","Santa Barbara, CA, USA",mgalex
+"""been""","Santa Clara, CA, USA",mgalex
+"""been""","Everett, WA, USA",mgalex
+"""been""","Santa Ana, CA, USA",mgalex
+"""been""","Shipshewana, IN, USA",mgalex
+"""been""","Temecula, CA, USA",mgalex
+"""been""","Ocala, FL, USA",mgalex
+"""want""","Freeport, Bahamas",mgalex
+"""been""","Bellevue, WA, USA",mgalex
+"""been""","Santa Clarita, CA, USA",mgalex
+"""been""","Santa Cruz, CA, USA",mgalex
+"""been""","Clear Lake, IA, USA",mgalex
+"""been""","Bradenton, FL, USA",mgalex
+"""want""","Faberg, Norway",mgalex
+"""want""","Trondheim, Norway",mgalex
+"""been"",""fave""","Washington DC, DC, USA",mgalex
+"""been""","Lincoln City, OR, USA",mgalex
+"""been""","Kapalua, HI, USA",mgalex
+"""been""","Martinsdale, MT, USA",mgalex
+"""want""","Cap-Haitien, Haiti",mgalex
+"""been""","Marblemount, WA, USA",mgalex
+"""want""","Port-au-Prince, Haiti",mgalex
+"""want""","Singapore, Singapore",mgalex
+"""been""","Bellingham, WA, USA",mgalex
+"""been""","Santa Monica, CA, USA",mgalex
+"""been""","Clearwater, FL, USA",mgalex
+"""been""","Clermont, FL, USA",mgalex
+"""been""","Flam, Norway",mgalex
+"""been""","Marysville, WA, USA",mgalex
+"""been""","Santa Maria, CA, USA",mgalex
+"""been""","Thermal, CA, USA",mgalex
+"""been"",""want""","Cocoa Beach, FL, USA",mgalex
+"""want""","Cruz Bay, U.S. Virgin Islands",mgalex
+"""been""","Sandpoint, ID, USA",mgalex
+"""been""","Blythe, CA, USA",mgalex
+"""been"",""want""","Richmond, VA, USA",mgalex
+"""been""","Santa Rosa, CA, USA",mgalex
+"""been""","Ellensburg, WA, USA",mgalex
+"""been""","Cocoa, FL, USA",mgalex
+"""been""","Lynnwood, WA, USA",mgalex
+"""been""","Atlanta, GA, USA",mgalex
+"""been""","Depoe Bay, OR, USA",mgalex
+"""been""","Dawson, ND, USA",mgalex
+"""been""","West Yellowstone, MT, USA",mgalex
+"""been""","Missoula, MT, USA",mgalex
+"""want""","Nassau, Bahamas",mgalex
+"""want""","Paradise Island, Bahamas",mgalex
+"""been""","Live Oak, FL, USA",mgalex
+"""been""","Bainbridge Island, WA, USA",mgalex
+"""been""","Sausalito, CA, USA",mgalex
+"""been"",""want""","Memphis, TN, USA",mgalex
+"""been""","Diamond Bar, CA, USA",mgalex
+"""been"",""want"",""fave""","New York City, NY, USA",mgalex
+"""want""","Fort Walton Beach, FL, USA",mgalex
+"""been""","Fort Myers Beach, FL, USA",mgalex
+"""been""","Kissimmee, FL, USA",mgalex
+"""been""","Long Beach, WA, USA",mgalex
+"""been""","Port Townsend, WA, USA",mgalex
+"""been""","Little Rock, AR, USA",mgalex
+"""been""","Longview, WA, USA",mgalex
+"""been""","Eastsound, WA, USA",mgalex
+"""been""","Denver, CO, USA",mgalex
+"""been""","San Luis Obispo, CA, USA",mgalex
+"""want""","St. Augustine, FL, USA",mgalex
+"""been""","St. George, UT, USA",mgalex
+"""been""","Cooke City, MT, USA",mgalex
+"""been""","Jacksonville, OR, USA",mgalex
+"""been""","Columbia Falls, MT, USA",mgalex
+"""want""","Cannes, France",mgalex
+"""been""","Ventura, CA, USA",mgalex
+"""been""","El Paso, TX, USA",mgalex
+"""been""","Pocatello, ID, USA",mgalex
+"""been""","Huntsville, TX, USA",mgalex
+"""been""","Unadilla, GA, USA",mgalex
+"""been""","San Mateo, CA, USA",mgalex
+"""been""","Edmonds, WA, USA",mgalex
+"""been""","Cathedral City, CA, USA",mgalex
+"""been""","Durango, CO, USA",mgalex
+"""been""","Natchez, LA, USA",mgalex
+"""been""","Kailua-Kona, HI, USA",mgalex
+"""been""","Hana, HI, USA",mgalex
+"""been""","Pasco, WA, USA",mgalex
+"""been""","Tulalip, WA, USA",mgalex
+"""been""","Walla Walla, WA, USA",mgalex
+"""been"",""fave""","San Diego, CA, USA",mgalex
+"""been""","Gainesville, FL, USA",mgalex
+"""been""","Twentynine Palms, CA, USA",mgalex
+"""want""","Williamsburg, VA, USA",mgalex
+"""been""","Lahaina, HI, USA",mgalex
+"""been""","Langley, WA, USA",mgalex
+"""been""","San Simeon, CA, USA",mgalex
+"""been""","Provo, UT, USA",mgalex
+"""want""","Kihei, HI, USA",mgalex
+"""been""","Manhattan, MT, USA",mgalex
+"""been"",""want"",""fave""","Bergen, Norway",mgalex
+"""been""","Coos Bay, OR, USA",mgalex
+"""been""","Loma, MT, USA",mgalex
+"""been"",""want""","Wailuku, HI, USA",mgalex
+"""been""","Beverly Hills, CA, USA",mgalex
+"""been""","Seattle, WA, USA",mgalex
+"""been""","Leavenworth, WA, USA",mgalex
+"""been""","Colorado Springs, CO, USA",mgalex
+"""been""","Honolulu, HI, USA",mgalex
+"""been""","Salinas, CA, USA",mgalex
+"""been""","Coulee City, WA, USA",mgalex
+"""been""","Watsonville, CA, USA",mgalex
+"""been""","Catalina Island, CA, USA",mgalex
+"""been""","Laramie, WY, USA",mgalex
+"""want""","Boston, MA, USA",mgalex
+"""been""","Lihue, HI, USA",mgalex
+"""been""","Custer, SD, USA",mgalex
+"""been""","New Orleans, LA, USA",mgalex
+"""been""","Juno Beach, FL, USA",mgalex
+"""been""","La Push, WA, USA",mgalex
+"""been""","Bakersfield, CA, USA",mgalex
+"""been""","Dana Point, CA, USA",mgalex
+"""been""","Asheville, NC, USA",mgalex
+"""been""","Hillsboro, OR, USA",mgalex
+"""been""","San Bernardino, CA, USA",mgalex
+"""been""","Hood River, OR, USA",mgalex
+"""been""","Kansas City, KS, USA",mgalex
+"""been""","Grand Island, NE, USA",mgalex
+"""been""","Butte, MT, USA",mgalex
+"""been""","Chandler, AZ, USA",mgalex
+"""been""","Poipu, HI, USA",mgalex
+"""been""","Port Aransas, TX, USA",mgalex
+"""been""","Stockton, CA, USA",mgalex
+"""been""","Bismarck, ND, USA",mgalex
+"""been""","San Clemente, CA, USA",mgalex
+"""been""","West Branch, IA, USA",mgalex
+"""been""","Flagstaff, AZ, USA",mgalex
+"""been""","Myakka City, FL, USA",mgalex
+"""been""","Olympia, WA, USA",mgalex
+"""been""","West Hollywood, CA, USA",mgalex
+"""been""","Tacoma, WA, USA",mgalex
+"""been""","Navarre, FL, USA",mgalex
+"""been""","Concrete, WA, USA",mgalex
+"""want""","Fort Lauderdale, FL, USA",mgalex
+"""been""","San Fernando, CA, USA",mgalex
+"""been""","Key West, FL, USA",mgalex
+"""been""","Eleele, HI, USA",mgalex
+"""been""","Kent, WA, USA",mgalex
+"""want""","Naples, FL, USA",mgalex
+"""been""","Reykjavik, Iceland",mgalex
+"""been""","Kalispell, MT, USA",mgalex
+"""been""","Lakehills, TX, USA",mgalex
+"""been""","Beaumont, TX, USA",mgalex
+"""been""","Kalaheo, HI, USA",mgalex
+"""been""","Cortez, CO, USA",mgalex
+"""been""","Hot Springs, AR, USA",mgalex
+"""been""","Carlsbad, CA, USA",mgalex
+"""been""","Houston, TX, USA",mgalex
+"""been""","San Jose, CA, USA",mgalex
+"""been""","Fort Myers, FL, USA",mgalex
+"""been""","Carmel Valley, CA, USA",mgalex
+"""been""","Carmel, CA, USA",mgalex
+"""been""","Desert Hot Springs, CA, USA",mgalex
+"""been""","Austin, TX, USA",mgalex
+"""been"",""want""","Pensacola, FL, USA",mgalex
+"""been""","Oak Harbor, WA, USA",mgalex
+"""been""","Costa Mesa, CA, USA",mgalex
+"""been""","Ilwaco, WA, USA",mgalex
+"""been""","Tampa, FL, USA",mgalex
+"""been""","North Vancouver, British Columbia, Canada",mgalex
+"""been""","Cle Elum, WA, USA",mgalex
+"""been""","Solvang, CA, USA",mgalex
+"""been""","Ocean Shores, WA, USA",mgalex
+"""been""","Sonora, CA, USA",mgalex
+"""want""","Miami Beach, FL, USA",mgalex
+"""been""","Issaquah, WA, USA",mgalex
+"""been""","Sonoma, CA, USA",mgalex
+"""want""","Miami, FL, USA",mgalex
+"""been""","Red Lodge, MT, USA",mgalex
+"""been""","Havre, MT, USA",mgalex
+"""been""","Moab, UT, USA",mgalex
+"""been""","Tillamook, OR, USA",mgalex
+"""been""","Covina, CA, USA",mgalex
+"""been""","Independence, MO, USA",mgalex
+"""been""","Tucson, AZ, USA",mgalex
+"""been""","New Braunfels, TX, USA",mgalex
+"""been""","Calistoga, CA, USA",mgalex
+"""been"",""fave""","Charleston, SC, USA",mgalex
+"""been""","South San Francisco, CA, USA",mgalex
+"""been""","West Glacier, MT, USA",mgalex
+"""been""","Cambria, CA, USA",mgalex
+"""been""","Walnut Creek, CA, USA",mgalex
+"""been""","Spokane, WA, USA",mgalex
+"""been""","Coeur d'Alene, ID, USA",mgalex
+"""been""","Newark, NJ, USA",mgalex
+"""been""","Helena, MT, USA",mgalex
+"""been"",""want""","Santa Fe, NM, USA",mgalex
+"""been""","Friday Harbor, WA, USA",mgalex
+"""been""","San Antonio, TX, USA",mgalex
+"""been""","Grand Forks, ND, USA",mgalex
+"""been"",""fave""","San Francisco, CA, USA",mgalex
+"""been""","Page, AZ, USA",mgalex
+"""been""","Deer Lodge, MT, USA",mgalex
+"""been""","Thousand Oaks, CA, USA",mgalex
+"""been""","Lake Havasu City, AZ, USA",mgalex
+"""been""","Shoreline, WA, USA",mgalex
+"""been""","Moses Lake, WA, USA",mgalex
+"""been""","Lake Elsinore, CA, USA",mgalex
+"""been""","Mount Vernon, WA, USA",mgalex
+"""been""","Boulder, CO, USA",mgalex
+"""been""","Vancouver, WA, USA",mgalex
+"""been""","Snohomish, WA, USA",mgalex
+"""been""","Vacaville, CA, USA",mgalex
+"""been""","Escondido, CA, USA",mgalex
+"""been""","Golden, CO, USA",mgalex
+"""been""","Twin Falls, ID, USA",mgalex
+"""been""","Breckenridge, CO, USA",mgalex
+"""want""","Marsh Harbour, Bahamas",mgalex
+"""been""","Covington, LA, USA",mgalex
+"""been"",""want""","Nashville, TN, USA",mgalex
+"""been""","Philipsburg, MT, USA",mgalex
+"""been""","Hohenwald, TN, USA",mgalex
+"""been""","Estes Park, CO, USA",mgalex
+"""been""","Crescent City, CA, USA",mgalex
+"""want""","Bar Harbor, ME, USA",mgalex
+"""been""","Westminster, CO, USA",mgalex
+"""been""","Minot, ND, USA",mgalex
+"""been""","The Dalles, OR, USA",mgalex
+"""been""","Arlington, TX, USA",mgalex
+"""been""","Panama City, FL, USA",mgalex
+"""been""","Concord, CA, USA",mgalex
+"""been""","Grand Junction, CO, USA",mgalex
+"""been""","Eureka, CA, USA",mgalex
+"""been""","Broomfield, CO, USA",mgalex
+"""been""","SeaTac, WA, USA",mgalex
+"""been""","Mill Creek, WA, USA",mgalex
+"""been""","Burbank, CA, USA",mgalex
+"""been""","Anaheim, CA, USA",mgalex
+"""been""","Greeley, CO, USA",mgalex
+"""been""","Panama City Beach, FL, USA",mgalex
+"""been""","Moclips, WA, USA",mgalex
+"""been""","Lava Hot Springs, ID, USA",mgalex
+"""been""","Sequim, WA, USA",mgalex
+"""been""","Corona, CA, USA",mgalex
+"""been""","Lubbock, TX, USA",mgalex
+"""been""","Wailea, HI, USA",mgalex
+"""been""","Hurricane Mills, TN, USA",mgalex
+"""been""","Paicines, CA, USA",mgalex
+"""been"",""want""","Savannah, GA, USA",mgalex
+"""been""","Albuquerque, NM, USA",mgalex
+"""been""","Rockport, TX, USA",mgalex
+"""been""","Hermosa Beach, CA, USA",mgalex
+"""been""","Coronado, CA, USA",mgalex
+"""been""","Sunriver, OR, USA",mgalex
+"""been""","Mesa, AZ, USA",mgalex

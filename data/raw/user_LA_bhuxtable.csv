@@ -1,0 +1,603 @@
+tag,place,user
+"""been""","Camaguey, Cuba",bhuxtable
+"""been""","Ko Lanta, Thailand",bhuxtable
+"""been""","Santiago de Cuba, Cuba",bhuxtable
+"""been""","Ko Pha Ngan, Thailand",bhuxtable
+"""been""","Havana, Cuba",bhuxtable
+"""want""","Milan, Italy",bhuxtable
+"""been""","Strahan, Australia",bhuxtable
+"""been""","Vinales, Cuba",bhuxtable
+"""been""","Waterford, Ireland",bhuxtable
+"""been""","Ko Phi Phi Don, Thailand",bhuxtable
+"""been""","Werribee, Australia",bhuxtable
+"""been""","Buenos Aires, Argentina",bhuxtable
+"""been""","Varadero, Cuba",bhuxtable
+"""been""","Ushuaia, Argentina",bhuxtable
+"""been""","Baracoa, Cuba",bhuxtable
+"""been""","Tierra del Fuego National Park, Argentina",bhuxtable
+"""been""","Napa, CA, USA",bhuxtable
+"""been""","Essaouira, Morocco",bhuxtable
+"""want""","Phoenix, AZ, USA",bhuxtable
+"""been""","Belize City, Belize",bhuxtable
+"""want""","Puerto Vallarta, Mexico",bhuxtable
+"""been""","Phang Nga, Thailand",bhuxtable
+"""been"",""fave""","Ngorongoro Conservation Area, Tanzania",bhuxtable
+"""been""","Las Vegas, NV, USA",bhuxtable
+"""want""","Guadalajara, Mexico",bhuxtable
+"""been""","Caye Caulker, Belize",bhuxtable
+"""want""","Siem Reap, Cambodia",bhuxtable
+"""want""","Cuernavaca, Mexico",bhuxtable
+"""been""","Edinburgh, UK",bhuxtable
+"""want""","Calgary, Alberta, Canada",bhuxtable
+"""been""","Warwick, UK",bhuxtable
+"""want""","Moscow, Russia",bhuxtable
+"""been""","Chicago, IL, USA",bhuxtable
+"""been""","Para Hills West, Australia",bhuxtable
+"""been""","Los Angeles, CA, USA",bhuxtable
+"""want""","La Fortuna de San Carlos, Costa Rica",bhuxtable
+"""been""","Bangkok, Thailand",bhuxtable
+"""been""","Stratford, New Zealand",bhuxtable
+"""want""","Vancouver, British Columbia, Canada",bhuxtable
+"""want""","Portofino, Italy",bhuxtable
+"""been""","Glen Waverley, Australia",bhuxtable
+"""been""","Kilkenny, Ireland",bhuxtable
+"""want""","Whistler, British Columbia, Canada",bhuxtable
+"""been""","San Ignacio, Belize",bhuxtable
+"""been""","Shekhawati, India",bhuxtable
+"""been""","Killarney, Ireland",bhuxtable
+"""want""","Monterosso al Mare, Italy",bhuxtable
+"""been""","Pattaya, Thailand",bhuxtable
+"""want""","Chiang Mai, Thailand",bhuxtable
+"""want""","Kos Town, Greece",bhuxtable
+"""want""","Ho Chi Minh City, Vietnam",bhuxtable
+"""want""","Hanoi, Vietnam",bhuxtable
+"""been""","Phuket, Thailand",bhuxtable
+"""been""","Norwood, Australia",bhuxtable
+"""want""","Como, Italy",bhuxtable
+"""want""","Cabo San Lucas, Mexico",bhuxtable
+"""been""","Limerick, Ireland",bhuxtable
+"""been""","El Calafate, Argentina",bhuxtable
+"""been""","San Carlos de Bariloche, Argentina",bhuxtable
+"""been""","Port Adelaide, Australia",bhuxtable
+"""want""","Caracas, Venezuela",bhuxtable
+"""want""","Bologna, Italy",bhuxtable
+"""want""","La Paz, Bolivia",bhuxtable
+"""want""","Bogota, Colombia",bhuxtable
+"""been""","Modbury, Australia",bhuxtable
+"""been""","Kuta, Indonesia",bhuxtable
+"""been""","Jimbaran, Indonesia",bhuxtable
+"""been""","Mansfield, Australia",bhuxtable
+"""been""","Nusa Dua, Indonesia",bhuxtable
+"""been""","Marysville, Australia",bhuxtable
+"""want""","Kota Kinabalu, Malaysia",bhuxtable
+"""been""","Macedon, Australia",bhuxtable
+"""been""","Broadbeach, Australia",bhuxtable
+"""been""","Galway, Ireland",bhuxtable
+"""been""","Dublin, Ireland",bhuxtable
+"""been""","Donegal Town, Ireland",bhuxtable
+"""been"",""fave""","Zanzibar Island, Tanzania",bhuxtable
+"""been""","Cork, Ireland",bhuxtable
+"""been""","Glendalough Village, Ireland",bhuxtable
+"""want""","Kyoto, Japan",bhuxtable
+"""been""","Richmond, Australia",bhuxtable
+"""want""","Salta, Argentina",bhuxtable
+"""want""","Rhodes Town, Greece",bhuxtable
+"""been""","Edfu, Egypt",bhuxtable
+"""been""","Dingle, Ireland",bhuxtable
+"""want""","Monterrey, Mexico",bhuxtable
+"""want""","Assisi, Italy",bhuxtable
+"""want""","Acapulco, Mexico",bhuxtable
+"""want""","Siena, Italy",bhuxtable
+"""been""","Kuala Lumpur, Malaysia",bhuxtable
+"""been"",""fave""","Male, Asia",bhuxtable
+"""been""","Waitomo Caves, New Zealand",bhuxtable
+"""want""","Santa Marta, Colombia",bhuxtable
+"""been""","Manila, Philippines",bhuxtable
+"""want""","Cartagena, Colombia",bhuxtable
+"""been""","Gilles Plains, Australia",bhuxtable
+"""been""","Deception Island, Antarctica",bhuxtable
+"""want""","Osaka, Japan",bhuxtable
+"""been""","Fitzroy, Australia",bhuxtable
+"""want""","Mudgee, Australia",bhuxtable
+"""been""","Port of Spain, Trinidad and Tobago",bhuxtable
+"""been""","Wool Bay, Australia",bhuxtable
+"""been""","Puerto Iguazu, Argentina",bhuxtable
+"""been""","Enfield, Australia",bhuxtable
+"""been""","South Luangwa National Park, Zambia",bhuxtable
+"""been""","Port Augusta, Australia",bhuxtable
+"""been""","Clifden, Ireland",bhuxtable
+"""been""","Mount Dandenong, Australia",bhuxtable
+"""been""","Tangier, Morocco",bhuxtable
+"""been""","Glenelg, Australia",bhuxtable
+"""been""","Mount Gambier, Australia",bhuxtable
+"""been""","Melbourne, Australia",bhuxtable
+"""been""","Marrakech, Morocco",bhuxtable
+"""want""","Broome, Australia",bhuxtable
+"""been""","Launceston, Australia",bhuxtable
+"""been""","Fes, Morocco",bhuxtable
+"""want""","Perth, Australia",bhuxtable
+"""want""","Casablanca, Morocco",bhuxtable
+"""been""","Newquay, UK",bhuxtable
+"""want""","Istanbul, Turkey",bhuxtable
+"""been""","Zaragoza, Spain",bhuxtable
+"""been""","Seminyak, Indonesia",bhuxtable
+"""been""","Blarney, Ireland",bhuxtable
+"""been""","Seville, Spain",bhuxtable
+"""want""","Berlin, Germany",bhuxtable
+"""want""","Hamburg, Germany",bhuxtable
+"""been""","Niagara Falls, NY, USA",bhuxtable
+"""been""","Derry, UK",bhuxtable
+"""want""","Oxford, UK",bhuxtable
+"""been""","Los Glaciares National Park, Argentina",bhuxtable
+"""been""","Mirissa, Sri Lanka",bhuxtable
+"""been""","Coolangatta, Australia",bhuxtable
+"""want""","Ibiza Town, Spain",bhuxtable
+"""want""","Alicante, Spain",bhuxtable
+"""been""","Geelong, Australia",bhuxtable
+"""been""","El Chalten, Argentina",bhuxtable
+"""been""","Dar es Salaam, Tanzania",bhuxtable
+"""want""","Hoi An, Vietnam",bhuxtable
+"""been""","Rotorua, New Zealand",bhuxtable
+"""want""","Lakes Entrance, Australia",bhuxtable
+"""been""","Flores, Guatemala",bhuxtable
+"""been""","Niagara Falls, Ontario, Canada",bhuxtable
+"""want""","Kakadu National Park, Australia",bhuxtable
+"""been""","Mildura, Australia",bhuxtable
+"""been""","Taupo, New Zealand",bhuxtable
+"""want""","Katherine, Australia",bhuxtable
+"""been""","Tauranga, New Zealand",bhuxtable
+"""want""","Tel Aviv, Israel",bhuxtable
+"""been""","Frankfurt, Germany",bhuxtable
+"""been""","Antibes, France",bhuxtable
+"""been"",""fave""","San Sebastian - Donostia, Spain",bhuxtable
+"""want""","Avignon, France",bhuxtable
+"""been""","Coromandel, New Zealand",bhuxtable
+"""been""","Livingstone, Zambia",bhuxtable
+"""been""","Cannes, France",bhuxtable
+"""been""","Athens, Greece",bhuxtable
+"""want""","Bruges, Belgium",bhuxtable
+"""been""","Ingle Farm, Australia",bhuxtable
+"""been""","Bath, UK",bhuxtable
+"""want""","Bergen, Norway",bhuxtable
+"""been""","Ballarat, Australia",bhuxtable
+"""been""","Bendigo, Australia",bhuxtable
+"""been""","Sassafras, Australia",bhuxtable
+"""been""","Auckland Central, New Zealand",bhuxtable
+"""been""","Echuca, Australia",bhuxtable
+"""been""","Napier, New Zealand",bhuxtable
+"""been""","Victoria Falls, Zambia",bhuxtable
+"""been""","Hastings, New Zealand",bhuxtable
+"""been""","Hwange, Zimbabwe",bhuxtable
+"""been""","Bulawayo, Zimbabwe",bhuxtable
+"""been""","Christies Beach, Australia",bhuxtable
+"""been""","Munich, Germany",bhuxtable
+"""been""","London, UK",bhuxtable
+"""been""","Para Vista, Australia",bhuxtable
+"""been"",""fave""","Serengeti National Park, Tanzania",bhuxtable
+"""want""","Pompeii, Italy",bhuxtable
+"""want""","Naples, Italy",bhuxtable
+"""been""","Vatican City, Vatican City",bhuxtable
+"""been""","Rome, Italy",bhuxtable
+"""been""","Sigiriya, Sri Lanka",bhuxtable
+"""been""","Legian, Indonesia",bhuxtable
+"""been""","Polonnaruwa, Sri Lanka",bhuxtable
+"""want""","Macau, China",bhuxtable
+"""want""","Ixtapa, Mexico",bhuxtable
+"""been""","Naxos Town, Greece",bhuxtable
+"""want""","Tamworth, Australia",bhuxtable
+"""been""","Gaborone, Botswana",bhuxtable
+"""been""","Wollongong, Australia",bhuxtable
+"""been""","Malaga, Spain",bhuxtable
+"""been""","Ring, Ireland",bhuxtable
+"""been""","Victoria Falls, Zimbabwe",bhuxtable
+"""been""","Stone Town, Tanzania",bhuxtable
+"""been""","York, UK",bhuxtable
+"""want""","Cambridge, UK",bhuxtable
+"""been""","Brussels, Belgium",bhuxtable
+"""been""","Fira, Greece",bhuxtable
+"""been""","Harare, Zimbabwe",bhuxtable
+"""been""","Oia, Greece",bhuxtable
+"""want""","Stockholm, Sweden",bhuxtable
+"""been""","Granada, Spain",bhuxtable
+"""been""","Belfast, UK",bhuxtable
+"""been""","Kom Ombo, Egypt",bhuxtable
+"""want""","Newcastle, Australia",bhuxtable
+"""been""","Lake Kariba, Zimbabwe",bhuxtable
+"""want""","Puerto Aventuras, Mexico",bhuxtable
+"""been""","Ios, Greece",bhuxtable
+"""been""","Auckland, New Zealand",bhuxtable
+"""been""","Lilongwe, Malawi",bhuxtable
+"""been""","Valencia, Spain",bhuxtable
+"""want""","Fethiye, Turkey",bhuxtable
+"""been""","Bondi, Australia",bhuxtable
+"""been""","Dover, UK",bhuxtable
+"""been""","Pamplona, Spain",bhuxtable
+"""want""","Marmaris, Turkey",bhuxtable
+"""want""","Salvador, Brazil",bhuxtable
+"""want""","Palermo, Italy",bhuxtable
+"""been""","Puebla, Mexico",bhuxtable
+"""been""","American River, Australia",bhuxtable
+"""want""","Malmo, Sweden",bhuxtable
+"""been""","Pisa, Italy",bhuxtable
+"""want""","Kalbarri, Australia",bhuxtable
+"""want""","Windjana Gorge National Park, Australia",bhuxtable
+"""been""","Florence, Italy",bhuxtable
+"""been""","Semaphore, Australia",bhuxtable
+"""want""","Sorrento, Italy",bhuxtable
+"""been""","Anuradhapura, Sri Lanka",bhuxtable
+"""want""","Litchfield National Park, Australia",bhuxtable
+"""want""","Capri, Italy",bhuxtable
+"""been""","Dambulla, Sri Lanka",bhuxtable
+"""want""","Amalfi, Italy",bhuxtable
+"""been""","Merzouga, Morocco",bhuxtable
+"""been""","Kandy, Sri Lanka",bhuxtable
+"""want""","Kalbarri National Park, Australia",bhuxtable
+"""want""","Merimbula, Australia",bhuxtable
+"""been""","Fairview Park, Australia",bhuxtable
+"""been""","St Kilda, Australia",bhuxtable
+"""been""","Swan Hill, Australia",bhuxtable
+"""want""","Gallipoli, Italy",bhuxtable
+"""want""","Warrnambool, Australia",bhuxtable
+"""been""","Windsor, UK",bhuxtable
+"""want""","Queenstown, New Zealand",bhuxtable
+"""want""","Geraldton, Australia",bhuxtable
+"""been""","Eton, UK",bhuxtable
+"""want""","Margaret River, Australia",bhuxtable
+"""been""","Lake Malawi National Park, Malawi",bhuxtable
+"""been""","Salisbury, UK",bhuxtable
+"""want""","Rovaniemi, Finland",bhuxtable
+"""been""","Port Arthur, Australia",bhuxtable
+"""been""","Venice, Italy",bhuxtable
+"""been""","Armacao dos Buzios, Brazil",bhuxtable
+"""want""","Verona, Italy",bhuxtable
+"""want""","Exmouth, Australia",bhuxtable
+"""want""","Cape Otway, Australia",bhuxtable
+"""been""","Hay, Australia",bhuxtable
+"""been""","Wellington, New Zealand",bhuxtable
+"""been""","Penneshaw, Australia",bhuxtable
+"""been""","Playa Mujeres, Mexico",bhuxtable
+"""been""","Lusaka, Zambia",bhuxtable
+"""want""","Coles Bay, Australia",bhuxtable
+"""been""","Colombo, Sri Lanka",bhuxtable
+"""want""","Helsinki, Finland",bhuxtable
+"""been""","Bronx, NY, USA",bhuxtable
+"""been""","Madrid, Spain",bhuxtable
+"""want""","Tokyo, Japan",bhuxtable
+"""want""","Washington DC, DC, USA",bhuxtable
+"""been""","Colonia del Sacramento, Uruguay",bhuxtable
+"""been""","Gibraltar, Europe",bhuxtable
+"""been""","Whanganui, New Zealand",bhuxtable
+"""want""","Alice Springs, Australia",bhuxtable
+"""been""","Leura, Australia",bhuxtable
+"""been""","Beenleigh, Australia",bhuxtable
+"""want""","Yulara, Australia",bhuxtable
+"""been"",""want""","Darwin, Australia",bhuxtable
+"""been""","Tunuyan, Argentina",bhuxtable
+"""been""","Brisbane, Australia",bhuxtable
+"""want""","Cairns, Australia",bhuxtable
+"""been""","Guatemala City, Guatemala",bhuxtable
+"""want""","Mykonos Town, Greece",bhuxtable
+"""been""","Chichicastenango, Guatemala",bhuxtable
+"""want""","Philadelphia, PA, USA",bhuxtable
+"""been""","Port Lockroy, Antarctica",bhuxtable
+"""been""","Sydney, Australia",bhuxtable
+"""been""","Vienna, Austria",bhuxtable
+"""been""","Albufeira, Portugal",bhuxtable
+"""been""","Patong, Thailand",bhuxtable
+"""been""","Algarve, Portugal",bhuxtable
+"""want""","Wroclaw, Poland",bhuxtable
+"""been""","Santiago, Chile",bhuxtable
+"""been""","Valparaiso, Chile",bhuxtable
+"""want""","Quito, Ecuador",bhuxtable
+"""been""","Santa Monica, CA, USA",bhuxtable
+"""been""","Sausalito, CA, USA",bhuxtable
+"""been""","Akumal, Mexico",bhuxtable
+"""been""","Lauterbrunnen, Switzerland",bhuxtable
+"""been""","Proserpine, Australia",bhuxtable
+"""been""","Great Keppel Island, Australia",bhuxtable
+"""been""","Tikal National Park, Guatemala",bhuxtable
+"""been""","Katoomba, Australia",bhuxtable
+"""been""","Rio Dulce, Guatemala",bhuxtable
+"""want""","Port Douglas, Australia",bhuxtable
+"""been"",""fave""","Lagos, Portugal",bhuxtable
+"""been""","Rockhampton, Australia",bhuxtable
+"""want""","Faro, Portugal",bhuxtable
+"""been""","Kata Beach, Thailand",bhuxtable
+"""been""","Surfers Paradise, Australia",bhuxtable
+"""been""","Ubud, Indonesia",bhuxtable
+"""been""","Sanur, Indonesia",bhuxtable
+"""want""","Cusco, Peru",bhuxtable
+"""want""","Iquitos, Peru",bhuxtable
+"""want""","Lima, Peru",bhuxtable
+"""been""","Elwood, Australia",bhuxtable
+"""want""","Machu Picchu, Peru",bhuxtable
+"""want""","Lillehammer, Norway",bhuxtable
+"""want""","Bratislava, Slovakia",bhuxtable
+"""been""","Canacona, India",bhuxtable
+"""been""","Trinidad, Cuba",bhuxtable
+"""been""","Dandenong, Australia",bhuxtable
+"""want""","Yamba, Australia",bhuxtable
+"""been""","Maroochydore, Australia",bhuxtable
+"""been""","Golden Grove, Australia",bhuxtable
+"""been""","Oakbank, Australia",bhuxtable
+"""been""","Coogee, Australia",bhuxtable
+"""been""","Cambridge, MA, USA",bhuxtable
+"""been""","Paris, France",bhuxtable
+"""been""","Cairo, Egypt",bhuxtable
+"""been""","Montevideo, Uruguay",bhuxtable
+"""been""","Giza, Egypt",bhuxtable
+"""been""","Aswan, Egypt",bhuxtable
+"""been""","Luxor, Egypt",bhuxtable
+"""been""","Nairobi, Kenya",bhuxtable
+"""been""","Bandarawela, Sri Lanka",bhuxtable
+"""been""","Beverly Hills, CA, USA",bhuxtable
+"""been""","San Juan Teotihuacan, Mexico",bhuxtable
+"""been""","Healesville, Australia",bhuxtable
+"""been""","Elizabeth, Australia",bhuxtable
+"""been""","Canberra, Australia",bhuxtable
+"""been""","Ridgehaven, Australia",bhuxtable
+"""been""","Coffs Harbour, Australia",bhuxtable
+"""been""","New York City, NY, USA",bhuxtable
+"""been""","Maipu, Argentina",bhuxtable
+"""been""","Collingwood, Australia",bhuxtable
+"""been""","Mombasa, Kenya",bhuxtable
+"""been""","New Delhi, India",bhuxtable
+"""been""","Heidelberg, Germany",bhuxtable
+"""been""","Innsbruck, Austria",bhuxtable
+"""want""","Zagreb, Croatia",bhuxtable
+"""want""","Antalya, Turkey",bhuxtable
+"""want""","Beijing, China",bhuxtable
+"""want""","Dubai, United Arab Emirates",bhuxtable
+"""been""","Nadi, Fiji",bhuxtable
+"""been""","Palenque, Mexico",bhuxtable
+"""want""","Bucharest, Romania",bhuxtable
+"""been""","Suva, Fiji",bhuxtable
+"""been""","Hong Kong, China",bhuxtable
+"""been""","Candolim, India",bhuxtable
+"""want""","Chennai (Madras), India",bhuxtable
+"""been""","Mumbai, India",bhuxtable
+"""been""","Jaipur, India",bhuxtable
+"""been""","Salzburg, Austria",bhuxtable
+"""been""","Prahran, Australia",bhuxtable
+"""been""","Torquay, Australia",bhuxtable
+"""been""","Ko Samet, Thailand",bhuxtable
+"""want""","Esperance, Australia",bhuxtable
+"""want""","Fitzroy Crossing, Australia",bhuxtable
+"""been""","Port Campbell, Australia",bhuxtable
+"""been""","Port Fairy, Australia",bhuxtable
+"""been""","Toledo, Spain",bhuxtable
+"""want""","San Diego, CA, USA",bhuxtable
+"""been""","Williamstown, Australia",bhuxtable
+"""been""","Stratford-upon-Avon, UK",bhuxtable
+"""want""","Kathmandu, Nepal",bhuxtable
+"""been"",""fave""","Santorini, Greece",bhuxtable
+"""been"",""fave""","Barcelona, Spain",bhuxtable
+"""been""","Paros, Greece",bhuxtable
+"""want""","Warsaw, Poland",bhuxtable
+"""been""","Salamanca, Spain",bhuxtable
+"""been""","Tullamarine, Australia",bhuxtable
+"""been""","Boston, MA, USA",bhuxtable
+"""been""","Mount Buller, Australia",bhuxtable
+"""been""","Torres del Paine National Park, Chile",bhuxtable
+"""been""","Kariba, Zimbabwe",bhuxtable
+"""been"",""want""","West Hollywood, CA, USA",bhuxtable
+"""been""","Wallaroo, Australia",bhuxtable
+"""been""","Apollo Bay, Australia",bhuxtable
+"""been""","Yorketown, Australia",bhuxtable
+"""want""","New Orleans, LA, USA",bhuxtable
+"""want""","Honolulu, HI, USA",bhuxtable
+"""been""","Wirrina Cove, Australia",bhuxtable
+"""been""","Cowes, Australia",bhuxtable
+"""been""","Lorne, Australia",bhuxtable
+"""been""","Zurich, Switzerland",bhuxtable
+"""been""","Fontainebleau, France",bhuxtable
+"""want""","Ballina, Australia",bhuxtable
+"""want""","Coral Bay, Australia",bhuxtable
+"""been""","Amsterdam, The Netherlands",bhuxtable
+"""been""","Stansbury, Australia",bhuxtable
+"""been""","Tanunda, Australia",bhuxtable
+"""been""","Haputale, Sri Lanka",bhuxtable
+"""been""","Robe, Australia",bhuxtable
+"""want""","Riga, Latvia",bhuxtable
+"""want""","Curitiba, Brazil",bhuxtable
+"""want""","Foz do Iguacu, Brazil",bhuxtable
+"""been""","Ceduna, Australia",bhuxtable
+"""been""","Clare, Australia",bhuxtable
+"""been""","Port Vincent, Australia",bhuxtable
+"""been""","Port Wakefield, Australia",bhuxtable
+"""want""","Anaheim, CA, USA",bhuxtable
+"""been""","Port Noarlunga, Australia",bhuxtable
+"""been""","Torquay, UK",bhuxtable
+"""been""","Kingscote, Australia",bhuxtable
+"""been""","Naracoorte, Australia",bhuxtable
+"""been""","Daydream Island, Australia",bhuxtable
+"""want""","Gothenburg, Sweden",bhuxtable
+"""been""","Castro, Chile",bhuxtable
+"""want""","Vilnius, Lithuania",bhuxtable
+"""want""","Khao Lak, Thailand",bhuxtable
+"""been""","Arusha, Tanzania",bhuxtable
+"""been""","Moonta, Australia",bhuxtable
+"""been""","Millicent, Australia",bhuxtable
+"""been""","Daylesford, Australia",bhuxtable
+"""been""","Surat Thani, Thailand",bhuxtable
+"""want""","Tallinn, Estonia",bhuxtable
+"""been""","Nuriootpa, Australia",bhuxtable
+"""been""","Rye, Australia",bhuxtable
+"""been""","Kapunda, Australia",bhuxtable
+"""been""","Hobart, Australia",bhuxtable
+"""been""","Minlaton, Australia",bhuxtable
+"""been""","Maitland, Australia",bhuxtable
+"""been""","Cienfuegos, Cuba",bhuxtable
+"""been""","Heraklion, Greece",bhuxtable
+"""been""","South Molle Island, Australia",bhuxtable
+"""been""","Monte-Carlo, Monaco",bhuxtable
+"""been""","Caloundra, Australia",bhuxtable
+"""been""","Adelaide, Australia",bhuxtable
+"""been""","Nice, France",bhuxtable
+"""been""","Crete, Greece",bhuxtable
+"""been""","Coober Pedy, Australia",bhuxtable
+"""been""","Campbelltown, Australia",bhuxtable
+"""been""","Kangaroo Island, Australia",bhuxtable
+"""been""","Mooloolaba, Australia",bhuxtable
+"""been""","Brighton, UK",bhuxtable
+"""want""","Copenhagen, Denmark",bhuxtable
+"""been"",""fave""","San Francisco, CA, USA",bhuxtable
+"""want""","Hua Hin, Thailand",bhuxtable
+"""want""","Prague, Czech Republic",bhuxtable
+"""been""","Whyalla, Australia",bhuxtable
+"""been""","Largs Bay, Australia",bhuxtable
+"""been""","Gawler, Australia",bhuxtable
+"""been""","Hopfgarten im Brixental, Austria",bhuxtable
+"""been""","Kanchanaburi, Thailand",bhuxtable
+"""been""","Willunga, Australia",bhuxtable
+"""want""","Playa el Agua, Venezuela",bhuxtable
+"""been""","Krabi Town, Thailand",bhuxtable
+"""been""","Edithburgh, Australia",bhuxtable
+"""been""","Tumby Bay, Australia",bhuxtable
+"""been""","Kadina, Australia",bhuxtable
+"""been""","Stirling, Australia",bhuxtable
+"""been""","Crafers, Australia",bhuxtable
+"""been""","Woodside, Australia",bhuxtable
+"""been""","Tailem Bend, Australia",bhuxtable
+"""been""","Brakpan, South Africa",bhuxtable
+"""been""","Bordertown, Australia",bhuxtable
+"""want""","San Jose, Costa Rica",bhuxtable
+"""been""","Burra, Australia",bhuxtable
+"""been""","Rio de Janeiro, Brazil",bhuxtable
+"""been""","Beachport, Australia",bhuxtable
+"""been""","Pretoria, South Africa",bhuxtable
+"""been""","Sorrento, Australia",bhuxtable
+"""been""","Morphett Vale, Australia",bhuxtable
+"""been""","Barwon Heads, Australia",bhuxtable
+"""been""","Rosebud, Australia",bhuxtable
+"""been""","Abu Simbel, Egypt",bhuxtable
+"""been""","Brooklyn, NY, USA",bhuxtable
+"""been""","Singapore, Singapore",bhuxtable
+"""been""","Negombo, Sri Lanka",bhuxtable
+"""been""","Galle, Sri Lanka",bhuxtable
+"""want""","Krakow, Poland",bhuxtable
+"""been""","Aireys Inlet, Australia",bhuxtable
+"""been""","Anglesea, Australia",bhuxtable
+"""been""","Red Hill, Australia",bhuxtable
+"""been""","Port Lincoln, Australia",bhuxtable
+"""been""","Yeppoon, Australia",bhuxtable
+"""want""","St. Petersburg, Russia",bhuxtable
+"""want""","Chaweng, Thailand",bhuxtable
+"""want""","Kununurra, Australia",bhuxtable
+"""been""","Ardrossan, Australia",bhuxtable
+"""want""","Sao Paulo, Brazil",bhuxtable
+"""been""","Port Elliot, Australia",bhuxtable
+"""been""","Angaston, Australia",bhuxtable
+"""been""","Devonport, Australia",bhuxtable
+"""been""","Murray Bridge, Australia",bhuxtable
+"""been""","Tea Tree Gully, Australia",bhuxtable
+"""want""","Durban, South Africa",bhuxtable
+"""been""","Queenscliff, Australia",bhuxtable
+"""want""","Split, Croatia",bhuxtable
+"""been""","Portsea, Australia",bhuxtable
+"""want""","Dubrovnik, Croatia",bhuxtable
+"""been""","Udaipur, India",bhuxtable
+"""want""","Budapest, Hungary",bhuxtable
+"""been""","Antigua, Guatemala",bhuxtable
+"""want""","Miami Beach, FL, USA",bhuxtable
+"""been""","Bikaner, India",bhuxtable
+"""been""","Northcote, Australia",bhuxtable
+"""been""","Dahab, Egypt",bhuxtable
+"""been""","Jodhpur, India",bhuxtable
+"""want""","Miami, FL, USA",bhuxtable
+"""been""","Jaisalmer, India",bhuxtable
+"""been""","Hurghada, Egypt",bhuxtable
+"""been""","West Beach, Australia",bhuxtable
+"""been""","Lobethal, Australia",bhuxtable
+"""been""","Mannum, Australia",bhuxtable
+"""been""","McLaren Vale, Australia",bhuxtable
+"""been""","Hahndorf, Australia",bhuxtable
+"""been""","Prospect, Australia",bhuxtable
+"""been""","Wallaroo, Australia",bhuxtable
+"""been""","Olinda, Australia",bhuxtable
+"""been""","Agra, India",bhuxtable
+"""been""","Cape Schanck, Australia",bhuxtable
+"""been""","Sharm El Sheikh, Egypt",bhuxtable
+"""been""","Taba, Egypt",bhuxtable
+"""been""","Goolwa, Australia",bhuxtable
+"""want""","Ljubljana, Slovenia",bhuxtable
+"""want""","Nashville, TN, USA",bhuxtable
+"""been""","Holden Hill, Australia",bhuxtable
+"""been""","Barmera, Australia",bhuxtable
+"""want""","Mandurah, Australia",bhuxtable
+"""been""","Benoni, South Africa",bhuxtable
+"""been""","Johannesburg, South Africa",bhuxtable
+"""been""","Denpasar, Indonesia",bhuxtable
+"""want""","Pucon, Chile",bhuxtable
+"""been""","Puerto Montt, Chile",bhuxtable
+"""want""","Ankara, Turkey",bhuxtable
+"""been""","Gumeracha, Australia",bhuxtable
+"""been""","Puerto Varas, Chile",bhuxtable
+"""been""","West Lakes, Australia",bhuxtable
+"""been""","Aldinga Beach, Australia",bhuxtable
+"""want""","Bodrum City, Turkey",bhuxtable
+"""been""","Mornington, Australia",bhuxtable
+"""been""","Doncaster, Australia",bhuxtable
+"""want""","Porto, Portugal",bhuxtable
+"""been""","Flinders Chase, Australia",bhuxtable
+"""want""","The Entrance, Australia",bhuxtable
+"""want""","Toronto, Ontario, Canada",bhuxtable
+"""been"",""fave""","Mexico City, Mexico",bhuxtable
+"""been""","Cashel, Ireland",bhuxtable
+"""been""","San Cristobal de las Casas, Mexico",bhuxtable
+"""been""","Mendoza, Argentina",bhuxtable
+"""been""","Oaxaca, Mexico",bhuxtable
+"""been""","Puerto Morelos, Mexico",bhuxtable
+"""been""","Chichen Itza, Mexico",bhuxtable
+"""been""","Lisbon, Portugal",bhuxtable
+"""want""","Trondheim, Norway",bhuxtable
+"""want""","Cape Town Central, South Africa",bhuxtable
+"""want""","Kusadasi, Turkey",bhuxtable
+"""been""","Cancun, Mexico",bhuxtable
+"""been""","Shute Harbour, Australia",bhuxtable
+"""been""","Lucerne, Switzerland",bhuxtable
+"""been""","Karon, Thailand",bhuxtable
+"""been""","Antrim, UK",bhuxtable
+"""been""","Grand Canyon National Park, AZ, USA",bhuxtable
+"""want""","Sedona, AZ, USA",bhuxtable
+"""want""","Canakkale, Turkey",bhuxtable
+"""been""","Dromana, Australia",bhuxtable
+"""want""","Ottawa, Ontario, Canada",bhuxtable
+"""want""","Stellenbosch, South Africa",bhuxtable
+"""been""","Torquay, Australia",bhuxtable
+"""want""","Pamukkale, Turkey",bhuxtable
+"""want""","Kyiv (Kiev), Ukraine",bhuxtable
+"""been""","Sintra, Portugal",bhuxtable
+"""want""","Bengaluru, India",bhuxtable
+"""been""","Majorda, India",bhuxtable
+"""want""","Hvar, Croatia",bhuxtable
+"""been""","Yarra Glen, Australia",bhuxtable
+"""been""","Bushmills, UK",bhuxtable
+"""been""","Woodend, Australia",bhuxtable
+"""been""","Bordeaux, France",bhuxtable
+"""want""","Oslo, Norway",bhuxtable
+"""been""","Chobe National Park, Botswana",bhuxtable
+"""want""","Tromso, Norway",bhuxtable
+"""been""","Port Pirie, Australia",bhuxtable
+"""want""","Karratha, Australia",bhuxtable
+"""been""","Airlie Beach, Australia",bhuxtable
+"""want""","Shanghai, China",bhuxtable
+"""been""","Merida, Mexico",bhuxtable
+"""been"",""fave""","Tulum, Mexico",bhuxtable
+"""been""","Playa del Carmen, Mexico",bhuxtable
+"""been"",""fave""","Boracay, Philippines",bhuxtable
+"""been""","North Haven, Australia",bhuxtable
+"""been""","Sun City, South Africa",bhuxtable
+"""been""","Puerto Natales, Chile",bhuxtable
+"""been""","Geneva, Switzerland",bhuxtable
+"""want""","Abu Dhabi, United Arab Emirates",bhuxtable
+"""been""","Palawan Island, Philippines",bhuxtable
+"""been""","Punta Arenas, Chile",bhuxtable
+"""been""","Puerto Princesa, Philippines",bhuxtable
+"""been""","Belgrave, Australia",bhuxtable
+"""want""","Beechworth, Australia",bhuxtable
+"""want""","Terrigal, Australia",bhuxtable
+"""want""","Montreal, Quebec, Canada",bhuxtable
+"""been""","Pooraka, Australia",bhuxtable
+"""want""","Quebec City, Quebec, Canada",bhuxtable
+"""been""","Para Hills, Australia",bhuxtable

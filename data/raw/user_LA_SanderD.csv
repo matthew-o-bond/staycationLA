@@ -1,0 +1,535 @@
+tag,place,user
+"""been""","Pittsburgh, PA, USA",SanderD
+"""been""","Sintra, Portugal",SanderD
+"""been""","Morro Bay, CA, USA",SanderD
+"""want""","Aitutaki, Cook Islands",SanderD
+"""want""","Quebec City, Quebec, Canada",SanderD
+"""been""","Huntington Beach, CA, USA",SanderD
+"""been""","Montreal, Quebec, Canada",SanderD
+"""want""","Cascais, Portugal",SanderD
+"""been""","Pasadena, CA, USA",SanderD
+"""been""","Joshua Tree National Park, CA, USA",SanderD
+"""been""","Lucerne, Switzerland",SanderD
+"""been""","Galveston, TX, USA",SanderD
+"""been""","Bhaktapur, Nepal",SanderD
+"""been""","Montrouge, France",SanderD
+"""been""","Goreme, Turkey",SanderD
+"""want""","Kyiv (Kiev), Ukraine",SanderD
+"""been""","Monterey, CA, USA",SanderD
+"""been""","Riverside, CA, USA",SanderD
+"""been""","Lisbon, Portugal",SanderD
+"""been""","Carson City, NV, USA",SanderD
+"""want""","Timbuktu, Mali",SanderD
+"""been""","Kamakura, Japan",SanderD
+"""been""","Catalina Island, CA, USA",SanderD
+"""been""","Piran, Slovenia",SanderD
+"""been""","Paso Robles, CA, USA",SanderD
+"""been""","Moose Jaw, Saskatchewan, Canada",SanderD
+"""been""","Krakow, Poland",SanderD
+"""been""","Thun, Switzerland",SanderD
+"""been""","Bern, Switzerland",SanderD
+"""been""","Inglewood, CA, USA",SanderD
+"""want""","Puerto Baquerizo Moreno, Ecuador",SanderD
+"""been""","Singapore, Singapore",SanderD
+"""been""","Long Beach, CA, USA",SanderD
+"""been""","Fountain Valley, CA, USA",SanderD
+"""been""","Laughlin, NV, USA",SanderD
+"""been""","Las Vegas, NV, USA",SanderD
+"""been""","Geneva, Switzerland",SanderD
+"""been""","Fremont, CA, USA",SanderD
+"""been""","Fresno, CA, USA",SanderD
+"""been""","Los Angeles, CA, USA",SanderD
+"""want""","Christmas Island, Australia",SanderD
+"""been""","Jaroslaw, Poland",SanderD
+"""been""","Budapest, Hungary",SanderD
+"""been""","Pismo Beach, CA, USA",SanderD
+"""been""","Irvine, CA, USA",SanderD
+"""been""","Idyllwild, CA, USA",SanderD
+"""been""","Nassau, Bahamas",SanderD
+"""been""","Paradise Island, Bahamas",SanderD
+"""been""","Sacramento, CA, USA",SanderD
+"""been""","Wind Cave National Park, SD, USA",SanderD
+"""want""","Cancun, Mexico",SanderD
+"""been""","Zion National Park, UT, USA",SanderD
+"""been""","Henderson, NV, USA",SanderD
+"""been""","Avila Beach, CA, USA",SanderD
+"""been""","Avalon, CA, USA",SanderD
+"""been""","Toronto, Ontario, Canada",SanderD
+"""been""","Mexico City, Mexico",SanderD
+"""want""","South Pole, Antarctica",SanderD
+"""been""","Milwaukee, WI, USA",SanderD
+"""been""","Napa, CA, USA",SanderD
+"""been""","Rijeka, Croatia",SanderD
+"""been""","Herradura, Costa Rica",SanderD
+"""been""","Phoenix, AZ, USA",SanderD
+"""been""","Rapid City, SD, USA",SanderD
+"""been""","Mountain View, CA, USA",SanderD
+"""been""","Lecce, Italy",SanderD
+"""been"",""want""","Dubrovnik, Croatia",SanderD
+"""been""","Zadar, Croatia",SanderD
+"""been""","Luxembourg City, Luxembourg",SanderD
+"""been""","St. Petersburg, FL, USA",SanderD
+"""want""","Oslo, Norway",SanderD
+"""want""","Lviv, Ukraine",SanderD
+"""been""","Ponce, Puerto Rico",SanderD
+"""been""","Minneapolis, MN, USA",SanderD
+"""been"",""want""","San Juan, Puerto Rico",SanderD
+"""been""","Mayaguez, Puerto Rico",SanderD
+"""been""","Kansas City, MO, USA",SanderD
+"""been""","North Las Vegas, NV, USA",SanderD
+"""want""","Split, Croatia",SanderD
+"""been""","Malibu, CA, USA",SanderD
+"""want""","Odessa, Ukraine",SanderD
+"""been""","Manhattan Beach, CA, USA",SanderD
+"""been""","Fayetteville, AR, USA",SanderD
+"""been""","Puerto Rico, Caribbean",SanderD
+"""been""","Glendale, CA, USA",SanderD
+"""been""","Birmingham, AL, USA",SanderD
+"""been""","Mill Valley, CA, USA",SanderD
+"""been""","Fullerton, CA, USA",SanderD
+"""been""","Chicago, IL, USA",SanderD
+"""been""","Barstow, CA, USA",SanderD
+"""been""","Cefalu, Italy",SanderD
+"""been""","Saint Louis, MO, USA",SanderD
+"""been""","Newport Beach, CA, USA",SanderD
+"""been""","Rydaholm, Sweden",SanderD
+"""been""","Dothan, AL, USA",SanderD
+"""been""","Nazca, Peru",SanderD
+"""want""","St. Petersburg, Russia",SanderD
+"""been""","Garden Grove, CA, USA",SanderD
+"""been""","Vaduz, Liechtenstein",SanderD
+"""want""","St. Lucia, Caribbean",SanderD
+"""been""","South Lake Tahoe, CA, USA",SanderD
+"""been""","Orlando, FL, USA",SanderD
+"""been""","Huacachina, Peru",SanderD
+"""been""","La Jolla, CA, USA",SanderD
+"""been""","Aguas Calientes, Peru",SanderD
+"""been""","Bodrum City, Turkey",SanderD
+"""been""","Chula Vista, CA, USA",SanderD
+"""been""","Portland, OR, USA",SanderD
+"""been""","Pozzuoli, Italy",SanderD
+"""been""","Inishmore, Ireland",SanderD
+"""been""","Positano, Italy",SanderD
+"""been""","Agra, India",SanderD
+"""been""","Goleta, CA, USA",SanderD
+"""been""","Ankara, Turkey",SanderD
+"""been""","Rarotonga, Cook Islands",SanderD
+"""been""","Interlaken, Switzerland",SanderD
+"""been""","Sanibel Island, FL, USA",SanderD
+"""been""","Reno, NV, USA",SanderD
+"""been""","Scottsdale, AZ, USA",SanderD
+"""been""","Copacabana, Bolivia",SanderD
+"""been""","Sedona, AZ, USA",SanderD
+"""been""","Deadwood, SD, USA",SanderD
+"""been""","Andorra la Vella, Andorra",SanderD
+"""been""","Marina del Rey, CA, USA",SanderD
+"""been""","Puno, Peru",SanderD
+"""want""","Kyoto, Japan",SanderD
+"""want""","Kobe, Japan",SanderD
+"""been""","Raleigh, NC, USA",SanderD
+"""want""","Osaka, Japan",SanderD
+"""been""","Rosarito, Mexico",SanderD
+"""been""","Tijuana, Mexico",SanderD
+"""been""","San Felipe, Mexico",SanderD
+"""want""","Sapporo, Japan",SanderD
+"""been""","Ogden, UT, USA",SanderD
+"""been""","Park City, UT, USA",SanderD
+"""been""","Dublin, Ireland",SanderD
+"""been""","Ciudad Juarez, Mexico",SanderD
+"""been""","Cannon Beach, OR, USA",SanderD
+"""been""","Ciudad Del Este, Paraguay",SanderD
+"""been""","Foz do Iguacu, Brazil",SanderD
+"""been""","Galway, Ireland",SanderD
+"""been""","Broadus, MT, USA",SanderD
+"""been""","Chattanooga, TN, USA",SanderD
+"""been""","Columbus, OH, USA",SanderD
+"""want""","Seoul, South Korea",SanderD
+"""been""","Xi'an, China",SanderD
+"""been""","Bozeman, MT, USA",SanderD
+"""been""","Guangzhou, China",SanderD
+"""want""","Acapulco, Mexico",SanderD
+"""want""","Yangon (Rangoon), Myanmar",SanderD
+"""been""","La Paz, Bolivia",SanderD
+"""been""","Yosemite National Park, CA, USA",SanderD
+"""want""","Mazatlan, Mexico",SanderD
+"""been""","Sheboygan, WI, USA",SanderD
+"""been""","Puerto Vallarta, Mexico",SanderD
+"""been""","Oklahoma City, OK, USA",SanderD
+"""been""","City of San Marino, San Marino",SanderD
+"""been""","Toshima, Japan",SanderD
+"""been""","Brattleboro, VT, USA",SanderD
+"""been""","Blue Mountains National Park, Australia",SanderD
+"""been""","Oakland, CA, USA",SanderD
+"""want""","Manila, Philippines",SanderD
+"""been""","Cleveland, OH, USA",SanderD
+"""been""","Niagara Falls, NY, USA",SanderD
+"""want""","Bermuda, Caribbean",SanderD
+"""been""","Kuala Lumpur, Malaysia",SanderD
+"""been""","Ensenada, Mexico",SanderD
+"""been""","Jackson, WY, USA",SanderD
+"""want""","Moscow, Russia",SanderD
+"""been""","Rancho Palos Verdes, CA, USA",SanderD
+"""been""","Ontario, CA, USA",SanderD
+"""been""","Charlotte, NC, USA",SanderD
+"""been""","Orange, CA, USA",SanderD
+"""been""","Las Cruces, NM, USA",SanderD
+"""been""","Siem Reap, Cambodia",SanderD
+"""been""","Cabo San Lucas, Mexico",SanderD
+"""been""","Bialka Tatrzanska, Poland",SanderD
+"""been""","Shingu, Japan",SanderD
+"""been""","Springfield, MO, USA",SanderD
+"""been""","Edinburgh, UK",SanderD
+"""want""","Ayia Napa, Cyprus",SanderD
+"""want""","Turin, Italy",SanderD
+"""been""","Redding, CA, USA",SanderD
+"""been""","Dallas, TX, USA",SanderD
+"""been""","Oceanside, CA, USA",SanderD
+"""been""","Victoria, British Columbia, Canada",SanderD
+"""been""","Rosslare, Ireland",SanderD
+"""been""","Vancouver, British Columbia, Canada",SanderD
+"""been""","Whistler, British Columbia, Canada",SanderD
+"""want""","Havana, Cuba",SanderD
+"""been""","Milan, Italy",SanderD
+"""been""","Rincon, Puerto Rico",SanderD
+"""been""","Macau, China",SanderD
+"""been""","Rancho Mirage, CA, USA",SanderD
+"""been""","Auckland, New Zealand",SanderD
+"""been""","Palo Alto, CA, USA",SanderD
+"""been""","Big Bear Lake, CA, USA",SanderD
+"""been""","Stamford, CT, USA",SanderD
+"""been""","Palm Springs, CA, USA",SanderD
+"""been""","Mojave, CA, USA",SanderD
+"""been""","Palm Desert, CA, USA",SanderD
+"""been""","Banff, Alberta, Canada",SanderD
+"""been""","Calgary, Alberta, Canada",SanderD
+"""been""","Lecco, Italy",SanderD
+"""been""","Phuket, Thailand",SanderD
+"""been""","Shibuya, Japan",SanderD
+"""been""","Mumbai, India",SanderD
+"""been""","Pingyao County, China",SanderD
+"""been""","New Delhi, India",SanderD
+"""want""","Ho Chi Minh City, Vietnam",SanderD
+"""want""","Hanoi, Vietnam",SanderD
+"""been""","Magnetic Island, Australia",SanderD
+"""been""","Redondo Beach, CA, USA",SanderD
+"""been""","Hartford, CT, USA",SanderD
+"""been""","Millbrae, CA, USA",SanderD
+"""been""","Redwood City, CA, USA",SanderD
+"""been""","Medicine Hat, Alberta, Canada",SanderD
+"""want""","Shangdu County, China",SanderD
+"""been""","San Ignacio, Belize",SanderD
+"""been""","Genoa, Italy",SanderD
+"""been""","Riomaggiore, Italy",SanderD
+"""been""","Vernazza, Italy",SanderD
+"""been""","Pacific Grove, CA, USA",SanderD
+"""been""","Chiang Mai, Thailand",SanderD
+"""been""","Bangkok, Thailand",SanderD
+"""want""","Taipei, Taiwan",SanderD
+"""been""","Hampton Falls, NH, USA",SanderD
+"""want""","Pompeii, Italy",SanderD
+"""been""","Atlanta, GA, USA",SanderD
+"""been""","Naples, Italy",SanderD
+"""been""","Sorrento, Italy",SanderD
+"""been""","Temecula, CA, USA",SanderD
+"""been""","Santa Ana, CA, USA",SanderD
+"""been""","Memphis, TN, USA",SanderD
+"""been""","Phnom Penh, Cambodia",SanderD
+"""want""","Pisa, Italy",SanderD
+"""been""","Santa Clara, CA, USA",SanderD
+"""been""","Dingle, Ireland",SanderD
+"""been""","Santa Barbara, CA, USA",SanderD
+"""want""","Saint-Denis, Reunion Island",SanderD
+"""been""","Santa Cruz, CA, USA",SanderD
+"""been""","Santa Clarita, CA, USA",SanderD
+"""been""","Lubeck, Germany",SanderD
+"""been""","Cosenza, Italy",SanderD
+"""been""","Florence, Italy",SanderD
+"""been""","Taormina, Italy",SanderD
+"""been""","Death Valley Junction, CA, USA",SanderD
+"""been""","Plitvice Lakes National Park, Croatia",SanderD
+"""been""","Matera, Italy",SanderD
+"""been""","Mendoza, Argentina",SanderD
+"""been""","Luquillo, Puerto Rico",SanderD
+"""want""","Palermo, Italy",SanderD
+"""want""","Pago Pago, American Samoa",SanderD
+"""been""","San Mateo, CA, USA",SanderD
+"""been""","Mammoth Lakes, CA, USA",SanderD
+"""been""","Devils Tower, WY, USA",SanderD
+"""been""","Overland Park, KS, USA",SanderD
+"""been""","Catania, Italy",SanderD
+"""been""","San Simeon, CA, USA",SanderD
+"""been""","Berkeley, CA, USA",SanderD
+"""been""","Durango, CO, USA",SanderD
+"""been""","Tamarindo, Costa Rica",SanderD
+"""been""","Dickinson, ND, USA",SanderD
+"""want""","Cape Town Central, South Africa",SanderD
+"""been""","Seattle, WA, USA",SanderD
+"""been""","Yellowstone National Park, WY, USA",SanderD
+"""been""","Lahaina, HI, USA",SanderD
+"""been""","Pamplona, Spain",SanderD
+"""been""","Kailua-Kona, HI, USA",SanderD
+"""been""","Cincinnati, OH, USA",SanderD
+"""been""","Tokyo, Japan",SanderD
+"""want""","Thimphu, Bhutan",SanderD
+"""want""","Anchorage, AK, USA",SanderD
+"""been""","Louisville, KY, USA",SanderD
+"""been""","Bodega Bay, CA, USA",SanderD
+"""been""","Sausalito, CA, USA",SanderD
+"""been""","Helsinki, Finland",SanderD
+"""been""","Torrance, CA, USA",SanderD
+"""want""","Madrid, Spain",SanderD
+"""been""","Longview, WA, USA",SanderD
+"""want""","Melbourne, Australia",SanderD
+"""been""","Portland, ME, USA",SanderD
+"""been""","Liberia, Costa Rica",SanderD
+"""want""","Perth, Australia",SanderD
+"""been"",""want""","Shanghai, China",SanderD
+"""been""","Idaho Falls, ID, USA",SanderD
+"""been""","Seal Beach, CA, USA",SanderD
+"""been""","St. George, UT, USA",SanderD
+"""been""","Tarifa, Spain",SanderD
+"""been""","Arenal Volcano National Park, Costa Rica",SanderD
+"""been""","Bagaces, Costa Rica",SanderD
+"""been""","Coos Bay, OR, USA",SanderD
+"""been""","Tunica, MS, USA",SanderD
+"""been""","El Paso, TX, USA",SanderD
+"""been""","Ventura, CA, USA",SanderD
+"""been""","Brindisi, Italy",SanderD
+"""been""","Gibraltar, Europe",SanderD
+"""been""","Omaha, NE, USA",SanderD
+"""been""","Venice, Italy",SanderD
+"""been""","Verona, Italy",SanderD
+"""been""","New York City, NY, USA",SanderD
+"""want""","Ulaanbaatar, Mongolia",SanderD
+"""been""","Santa Monica, CA, USA",SanderD
+"""been""","Wrightwood, CA, USA",SanderD
+"""been""","Richmond, VA, USA",SanderD
+"""been""","Santa Rosa, CA, USA",SanderD
+"""been""","Clearwater, FL, USA",SanderD
+"""been""","Tiburon, CA, USA",SanderD
+"""been""","Santa Maria, CA, USA",SanderD
+"""been""","Bishop, CA, USA",SanderD
+"""been""","Glasgow, UK",SanderD
+"""been""","Christchurch, New Zealand",SanderD
+"""been""","Bath, UK",SanderD
+"""been""","Truth or Consequences, NM, USA",SanderD
+"""want""","Palma de Mallorca, Spain",SanderD
+"""been""","Cannes, France",SanderD
+"""been""","Athens, Greece",SanderD
+"""been""","Hilo, HI, USA",SanderD
+"""want""","Tel Aviv, Israel",SanderD
+"""been""","Frankfurt, Germany",SanderD
+"""want""","Jerusalem, Israel",SanderD
+"""been""","Queenstown, New Zealand",SanderD
+"""been""","Indianapolis, IN, USA",SanderD
+"""been""","Norfolk, VA, USA",SanderD
+"""been""","Wilmington, DE, USA",SanderD
+"""been""","Washington DC, DC, USA",SanderD
+"""been""","Omagh, UK",SanderD
+"""been""","Hamburg, Germany",SanderD
+"""been""","Derry, UK",SanderD
+"""want""","Oxford, UK",SanderD
+"""been""","Virginia Beach, VA, USA",SanderD
+"""want""","Marrakech, Morocco",SanderD
+"""been""","Fes, Morocco",SanderD
+"""want""","Casablanca, Morocco",SanderD
+"""been""","Istanbul, Turkey",SanderD
+"""been""","Truckee, CA, USA",SanderD
+"""been""","San Jose, Costa Rica",SanderD
+"""want""","Sao Paulo, Brazil",SanderD
+"""been""","Tangier, Morocco",SanderD
+"""been""","Billings, MT, USA",SanderD
+"""want""","Johannesburg, South Africa",SanderD
+"""been""","Belfast, UK",SanderD
+"""been""","Medford, OR, USA",SanderD
+"""been""","Nashua, NH, USA",SanderD
+"""been""","Niagara Falls, Ontario, Canada",SanderD
+"""been""","Seville, Spain",SanderD
+"""been""","Berlin, Germany",SanderD
+"""been""","Kathmandu, Nepal",SanderD
+"""been""","Gettysburg, PA, USA",SanderD
+"""want""","Mobile, AL, USA",SanderD
+"""been""","Philadelphia, PA, USA",SanderD
+"""want""","Dededo, Mariana Islands",SanderD
+"""been""","Teton Village, WY, USA",SanderD
+"""want""","Rio de Janeiro, Brazil",SanderD
+"""been""","Noto, Italy",SanderD
+"""want""","Victoria Falls, Zimbabwe",SanderD
+"""been""","Brussels, Belgium",SanderD
+"""been""","Ancona, Italy",SanderD
+"""been""","Stockholm, Sweden",SanderD
+"""been""","Vatican City, Vatican City",SanderD
+"""want""","Reykjavik, Iceland",SanderD
+"""been""","Rome, Italy",SanderD
+"""been""","Caguas, Puerto Rico",SanderD
+"""been""","Munich, Germany",SanderD
+"""been""","London, UK",SanderD
+"""want""","Liverpool, UK",SanderD
+"""been""","Jaco, Costa Rica",SanderD
+"""been""","Manuel Antonio, Costa Rica",SanderD
+"""been""","Eugene, OR, USA",SanderD
+"""want""","Ajaccio, France",SanderD
+"""been""","Nashville, TN, USA",SanderD
+"""been""","Amsterdam, The Netherlands",SanderD
+"""want""","Savannah, GA, USA",SanderD
+"""been""","Albuquerque, NM, USA",SanderD
+"""been""","Versailles, France",SanderD
+"""been""","Lincoln, NE, USA",SanderD
+"""been""","Baltimore, MD, USA",SanderD
+"""been""","Hoboken, NJ, USA",SanderD
+"""been""","Paris, France",SanderD
+"""want""","Lyon, France",SanderD
+"""been""","Zurich, Switzerland",SanderD
+"""been""","Altamura, Italy",SanderD
+"""been""","Tombstone, AZ, USA",SanderD
+"""been""","Lake Havasu City, AZ, USA",SanderD
+"""been""","Boulder, CO, USA",SanderD
+"""been""","Breckenridge, CO, USA",SanderD
+"""been""","Escondido, CA, USA",SanderD
+"""been""","Encinitas, CA, USA",SanderD
+"""want""","Bar Harbor, ME, USA",SanderD
+"""been""","Salzburg, Austria",SanderD
+"""been""","Island of Malta, Malta",SanderD
+"""been""","Providence, RI, USA",SanderD
+"""been""","Crescent City, CA, USA",SanderD
+"""been""","Big Sur, CA, USA",SanderD
+"""been""","Valletta, Malta",SanderD
+"""been""","Santorini, Greece",SanderD
+"""been""","Barcelona, Spain",SanderD
+"""been""","Detroit, MI, USA",SanderD
+"""been""","Laguna Beach, CA, USA",SanderD
+"""been""","Tillamook, OR, USA",SanderD
+"""been""","Tempe, AZ, USA",SanderD
+"""been""","Vail, CO, USA",SanderD
+"""been""","Half Moon Bay, CA, USA",SanderD
+"""been""","Spokane, WA, USA",SanderD
+"""been""","El Segundo, CA, USA",SanderD
+"""been""","Vienna, Austria",SanderD
+"""been""","Red Lodge, MT, USA",SanderD
+"""been""","Copenhagen, Denmark",SanderD
+"""been""","Coronado, CA, USA",SanderD
+"""been""","Sydney, Australia",SanderD
+"""been""","Hermosa Beach, CA, USA",SanderD
+"""been""","Heraklion, Greece",SanderD
+"""been""","Dundalk, Ireland",SanderD
+"""been""","Miami, FL, USA",SanderD
+"""been""","Brisbane, Australia",SanderD
+"""been""","Sonoma, CA, USA",SanderD
+"""want""","Iguazu National Park, Argentina",SanderD
+"""been""","Cairns, Australia",SanderD
+"""been""","Tampa, FL, USA",SanderD
+"""been""","Austin, TX, USA",SanderD
+"""been""","Tallahassee, FL, USA",SanderD
+"""been""","Costa Mesa, CA, USA",SanderD
+"""been""","Solvang, CA, USA",SanderD
+"""been""","Krabi Town, Thailand",SanderD
+"""want""","Mongar, Bhutan",SanderD
+"""been""","Jacksonville, FL, USA",SanderD
+"""been""","Astoria, OR, USA",SanderD
+"""been""","Fredrikstad, Norway",SanderD
+"""been""","Salt Lake City, UT, USA",SanderD
+"""want""","Vang Vieng, Laos",SanderD
+"""been""","Nice, France",SanderD
+"""want""","Easter Island, Chile",SanderD
+"""been""","Ketchikan, AK, USA",SanderD
+"""been""","Surfers Paradise, Australia",SanderD
+"""been""","Townsville, Australia",SanderD
+"""been""","West Memphis, AR, USA",SanderD
+"""been""","Buena Park, CA, USA",SanderD
+"""been""","Eureka, CA, USA",SanderD
+"""been""","Marco Island, FL, USA",SanderD
+"""been""","Burbank, CA, USA",SanderD
+"""been""","Sitia, Greece",SanderD
+"""been""","Newark, NJ, USA",SanderD
+"""been""","Alajuela, Costa Rica",SanderD
+"""want""","Portimao, Portugal",SanderD
+"""been""","La Fortuna de San Carlos, Costa Rica",SanderD
+"""want""","Vilnius, Lithuania",SanderD
+"""been""","Weirton, WV, USA",SanderD
+"""been""","Pisac, Peru",SanderD
+"""been""","Cairo, Egypt",SanderD
+"""been""","Hanapepe, HI, USA",SanderD
+"""been""","Newport, RI, USA",SanderD
+"""been""","Hanalei, HI, USA",SanderD
+"""been""","Flagstaff, AZ, USA",SanderD
+"""been""","Culver City, CA, USA",SanderD
+"""been""","Pigeon Forge, TN, USA",SanderD
+"""been""","Anaheim, CA, USA",SanderD
+"""been""","Prague, Czech Republic",SanderD
+"""been""","Bakersfield, CA, USA",SanderD
+"""been""","Dana Point, CA, USA",SanderD
+"""been""","Houston, TX, USA",SanderD
+"""been""","Cusco, Peru",SanderD
+"""been""","Salinas, CA, USA",SanderD
+"""been""","Lima, Peru",SanderD
+"""been""","Colorado Springs, CO, USA",SanderD
+"""been""","Machu Picchu, Peru",SanderD
+"""been"",""want""","Buenos Aires, Argentina",SanderD
+"""want""","Bora Bora, French Polynesia",SanderD
+"""been""","Miami Beach, FL, USA",SanderD
+"""been""","Ko Phi Phi Don, Thailand",SanderD
+"""been""","Lihue, HI, USA",SanderD
+"""been""","Boston, MA, USA",SanderD
+"""been""","Valley Forge, PA, USA",SanderD
+"""want""","Zanzibar Island, Tanzania",SanderD
+"""been""","New Orleans, LA, USA",SanderD
+"""been""","Honolulu, HI, USA",SanderD
+"""want""","Puerto Rico, Spain",SanderD
+"""been""","Monte-Carlo, Monaco",SanderD
+"""been""","San Diego, CA, USA",SanderD
+"""been""","Ottawa, Ontario, Canada",SanderD
+"""been""","South San Francisco, CA, USA",SanderD
+"""been""","Cambria, CA, USA",SanderD
+"""been""","Des Moines, IA, USA",SanderD
+"""been""","Tallinn, Estonia",SanderD
+"""want""","Santiago, Chile",SanderD
+"""been""","Calistoga, CA, USA",SanderD
+"""been""","Two Harbors, CA, USA",SanderD
+"""been""","Williamsburg, VA, USA",SanderD
+"""been""","Valparaiso, Chile",SanderD
+"""been""","Provo, UT, USA",SanderD
+"""been""","Grand Canyon National Park, AZ, USA",SanderD
+"""been""","Death Valley National Park, CA, USA",SanderD
+"""been""","Santa Fe, NM, USA",SanderD
+"""been""","San Francisco, CA, USA",SanderD
+"""been""","San Antonio, TX, USA",SanderD
+"""been""","Tucson, AZ, USA",SanderD
+"""been""","San Jose, CA, USA",SanderD
+"""been""","Fort Myers Beach, FL, USA",SanderD
+"""been""","Carmel, CA, USA",SanderD
+"""been""","Skotterud, Norway",SanderD
+"""been""","San Juan Capistrano, CA, USA",SanderD
+"""been""","Lawrence, KS, USA",SanderD
+"""been""","Carlsbad, CA, USA",SanderD
+"""want""","Riga, Latvia",SanderD
+"""been""","Viti Levu, Fiji",SanderD
+"""want""","Dubai, United Arab Emirates",SanderD
+"""been""","Manchester, VT, USA",SanderD
+"""want""","Bucharest, Romania",SanderD
+"""been""","Hong Kong, China",SanderD
+"""been""","San Luis Obispo, CA, USA",SanderD
+"""been""","Sunnyvale, CA, USA",SanderD
+"""been""","Denver, CO, USA",SanderD
+"""been""","Carcassonne Center, France",SanderD
+"""been""","Tahiti, French Polynesia",SanderD
+"""been""","Koper, Slovenia",SanderD
+"""been""","Antalya, Turkey",SanderD
+"""been""","Beijing, China",SanderD
+"""been""","Mandello del Lario, Italy",SanderD
+"""been""","Gatlinburg, TN, USA",SanderD
+"""been""","Perpignan, France",SanderD
+"""been""","Stockton, CA, USA",SanderD
+"""been""","Charleston, SC, USA",SanderD
+"""been""","West Hollywood, CA, USA",SanderD
+"""been""","Rhodes, Greece",SanderD
+"""been""","Westlake Village, CA, USA",SanderD
+"""been""","Tirana, Albania",SanderD
+"""been""","Fort Lauderdale, FL, USA",SanderD
+"""been""","Luxor, Egypt",SanderD
+"""want""","Minsk, Belarus",SanderD
+"""been""","San Clemente, CA, USA",SanderD
+"""been""","Del Mar, CA, USA",SanderD
+"""been""","Naples, FL, USA",SanderD
+"""been""","Torun, Poland",SanderD
+"""been""","Key Largo, FL, USA",SanderD
+"""been""","Warsaw, Poland",SanderD

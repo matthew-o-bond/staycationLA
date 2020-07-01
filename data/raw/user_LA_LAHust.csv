@@ -1,0 +1,557 @@
+tag,place,user
+"""been""","Lakeland, FL, USA",LAHust
+"""been""","Lake Manyara National Park, Tanzania",LAHust
+"""been""","Memphis, TN, USA",LAHust
+"""been""","Santa Barbara, CA, USA",LAHust
+"""been""","Villa Rica, GA, USA",LAHust
+"""been""","Dornoch, UK",LAHust
+"""been""","San Salvador, El Salvador",LAHust
+"""been""","Beverly Hills, CA, USA",LAHust
+"""been""","Tunica, MS, USA",LAHust
+"""been""","Stateline, NV, USA",LAHust
+"""been""","Charlottetown, Prince Edward Island, Canada",LAHust
+"""been""","Boat of Garten, UK",LAHust
+"""been""","San Simeon, CA, USA",LAHust
+"""been""","Rome, GA, USA",LAHust
+"""been""","Leuchars, UK",LAHust
+"""been""","Santa Monica, CA, USA",LAHust
+"""been""","Clearwater, FL, USA",LAHust
+"""been""","Ranthambore National Park, India",LAHust
+"""been""","Uijeongbu, South Korea",LAHust
+"""been""","Santa Maria, CA, USA",LAHust
+"""been""","Philadelphia, PA, USA",LAHust
+"""been""","Kusadasi, Turkey",LAHust
+"""been""","Cocoa Beach, FL, USA",LAHust
+"""been""","Geneva, Switzerland",LAHust
+"""been""","Ballindalloch, UK",LAHust
+"""been""","Parksville, British Columbia, Canada",LAHust
+"""been""","Gettysburg, PA, USA",LAHust
+"""been""","Port Alberni, British Columbia, Canada",LAHust
+"""been""","Manchester, TN, USA",LAHust
+"""been""","Pyay, Myanmar",LAHust
+"""been""","Plattsburgh, NY, USA",LAHust
+"""been""","Montreal, Quebec, Canada",LAHust
+"""been""","Golspie, UK",LAHust
+"""been""","Santa Cruz, CA, USA",LAHust
+"""been""","Warner Robins, GA, USA",LAHust
+"""been""","Sausalito, CA, USA",LAHust
+"""been""","New York City, NY, USA",LAHust
+"""been""","Seaside, CA, USA",LAHust
+"""been""","Kemah, TX, USA",LAHust
+"""been""","Mombasa, Kenya",LAHust
+"""been""","Saint Simons Island, GA, USA",LAHust
+"""been""","Walldorf, Germany",LAHust
+"""been"",""fave""","Anchorage, AK, USA",LAHust
+"""been""","Hershey, PA, USA",LAHust
+"""been""","Fort Payne, AL, USA",LAHust
+"""been""","Blairgowrie, UK",LAHust
+"""been""","Beijing, China",LAHust
+"""been""","Little Rock, AR, USA",LAHust
+"""been""","Wisconsin Dells, WI, USA",LAHust
+"""been""","Mijas, Spain",LAHust
+"""been""","Lincoln, NH, USA",LAHust
+"""been""","Gullane, UK",LAHust
+"""been""","Vestavia Hills, AL, USA",LAHust
+"""been""","Qaanaaq, Greenland",LAHust
+"""been""","Milledgeville, GA, USA",LAHust
+"""been""","Hiram, GA, USA",LAHust
+"""been""","Newark, DE, USA",LAHust
+"""been""","Richmond, VA, USA",LAHust
+"""been""","Comayagua, Honduras",LAHust
+"""been""","Mogadishu, Somalia",LAHust
+"""been""","Fort Oglethorpe, GA, USA",LAHust
+"""been""","Giza, Egypt",LAHust
+"""been""","Copan Ruinas, Honduras",LAHust
+"""been""","Cairo, Egypt",LAHust
+"""been""","Nairobi, Kenya",LAHust
+"""been""","Tegucigalpa, Honduras",LAHust
+"""been""","Atlanta, GA, USA",LAHust
+"""been""","Luxor, Egypt",LAHust
+"""been""","Trujillo, Honduras",LAHust
+"""been""","Machu Picchu, Peru",LAHust
+"""been""","Hiawassee, GA, USA",LAHust
+"""been""","Young Harris, GA, USA",LAHust
+"""been""","Bronx, NY, USA",LAHust
+"""been""","Lima, Peru",LAHust
+"""been""","Tikal National Park, Guatemala",LAHust
+"""been""","Southern Pines, NC, USA",LAHust
+"""been""","Cusco, Peru",LAHust
+"""been""","Kangerlussuaq, Greenland",LAHust
+"""been""","Pinehurst, NC, USA",LAHust
+"""been""","Panajachel, Guatemala",LAHust
+"""been""","Wetumpka, AL, USA",LAHust
+"""been""","Bagan, Myanmar",LAHust
+"""been""","Washington DC, DC, USA",LAHust
+"""been""","Aberlour, UK",LAHust
+"""been""","Kodiak National Wildlife Refuge, AK, USA",LAHust
+"""been""","Wonju, South Korea",LAHust
+"""been""","Burlington, WA, USA",LAHust
+"""been""","Norcross, GA, USA",LAHust
+"""been""","Central Saanich, British Columbia, Canada",LAHust
+"""been""","Guatemala City, Guatemala",LAHust
+"""been""","Chiquimula, Guatemala",LAHust
+"""been""","Alexander City, AL, USA",LAHust
+"""been""","Albertville, AL, USA",LAHust
+"""been"",""fave""","Prague, Czech Republic",LAHust
+"""been""","Indianapolis, IN, USA",LAHust
+"""been""","Newnan, GA, USA",LAHust
+"""been""","Stanford, CA, USA",LAHust
+"""been""","Cody, WY, USA",LAHust
+"""been""","Bratislava, Slovakia",LAHust
+"""been""","Mobile, AL, USA",LAHust
+"""been""","Arab, AL, USA",LAHust
+"""been""","Anniston, AL, USA",LAHust
+"""been""","Scottsboro, AL, USA",LAHust
+"""been""","Bristol, TN, USA",LAHust
+"""been""","Peachtree City, GA, USA",LAHust
+"""been""","Salem, VA, USA",LAHust
+"""been""","Virginia Beach, VA, USA",LAHust
+"""been""","Leimen, Germany",LAHust
+"""been""","Oberau, Austria",LAHust
+"""been""","Arusha, Tanzania",LAHust
+"""been""","Aberdeen, NC, USA",LAHust
+"""been""","Montgomery, AL, USA",LAHust
+"""been""","Moundville, AL, USA",LAHust
+"""been""","Monroeville, AL, USA",LAHust
+"""been""","Selma, AL, USA",LAHust
+"""been""","Lithonia, GA, USA",LAHust
+"""been""","Forres, UK",LAHust
+"""been""","Lossiemouth, UK",LAHust
+"""been""","Icheon, South Korea",LAHust
+"""been""","Cork, Ireland",LAHust
+"""been""","Kingsbarns, UK",LAHust
+"""been""","Dublin, Ireland",LAHust
+"""been""","Lake Placid, NY, USA",LAHust
+"""been""","Mountain Brook, AL, USA",LAHust
+"""been""","Muscle Shoals, AL, USA",LAHust
+"""been""","Heflin, AL, USA",LAHust
+"""been""","Atlantic City, NJ, USA",LAHust
+"""been""","Freeport, ME, USA",LAHust
+"""been""","Hoover, AL, USA",LAHust
+"""been""","Delta Junction, AK, USA",LAHust
+"""been""","Homewood, AL, USA",LAHust
+"""been""","San Gerardo de Dota, Costa Rica",LAHust
+"""been""","Santa Ana, Costa Rica",LAHust
+"""been""","Spanish Fort, AL, USA",LAHust
+"""been""","Hollywood, AL, USA",LAHust
+"""been""","Cleveland, OH, USA",LAHust
+"""been""","Anstruther, UK",LAHust
+"""been""","Crail, UK",LAHust
+"""been""","Madison, GA, USA",LAHust
+"""been""","Limerick, Ireland",LAHust
+"""been""","Slidell, LA, USA",LAHust
+"""been""","Fayetteville, NC, USA",LAHust
+"""been""","Blair Atholl, UK",LAHust
+"""been""","Mazatlan, Mexico",LAHust
+"""been""","Irondale, AL, USA",LAHust
+"""been""","Sylacauga, AL, USA",LAHust
+"""been""","Enterprise, AL, USA",LAHust
+"""been""","Prunedale, CA, USA",LAHust
+"""been""","Dutch Harbor, AK, USA",LAHust
+"""been""","Jackson, WY, USA",LAHust
+"""been""","Northport, AL, USA",LAHust
+"""been""","Huntsville, AL, USA",LAHust
+"""been""","Gerlingen, Germany",LAHust
+"""been"",""fave""","Killarney, Ireland",LAHust
+"""been""","Atchison, KS, USA",LAHust
+"""been""","Scott, LA, USA",LAHust
+"""been""","Tralee, Ireland",LAHust
+"""been""","Leven, UK",LAHust
+"""been""","Manama, Bahrain",LAHust
+"""been""","Kilkenny, Ireland",LAHust
+"""been""","North Queensferry, UK",LAHust
+"""been""","Shreveport, LA, USA",LAHust
+"""been""","Riyadh, Saudi Arabia",LAHust
+"""been""","Chattanooga, TN, USA",LAHust
+"""been""","Oxford, AL, USA",LAHust
+"""been""","Oneonta, AL, USA",LAHust
+"""been""","Opelika, AL, USA",LAHust
+"""been""","Talladega, AL, USA",LAHust
+"""been""","Owens Cross Roads, AL, USA",LAHust
+"""been""","Glencullen, Ireland",LAHust
+"""been""","Orange Beach, AL, USA",LAHust
+"""been""","Jasper, AL, USA",LAHust
+"""been""","Zell am See, Austria",LAHust
+"""been""","Lexington, KY, USA",LAHust
+"""been""","Jerusalem, Israel",LAHust
+"""been""","Haifa, Israel",LAHust
+"""been""","Clarksdale, MS, USA",LAHust
+"""been"",""want""","Edinburgh, UK",LAHust
+"""been""","Taean-gun, South Korea",LAHust
+"""been""","Osan, South Korea",LAHust
+"""been""","Tangier, Morocco",LAHust
+"""been""","Trussville, AL, USA",LAHust
+"""been""","Milan, Italy",LAHust
+"""been""","Tuscaloosa, AL, USA",LAHust
+"""been""","Orcutt, CA, USA",LAHust
+"""been""","Manaus, Brazil",LAHust
+"""been""","Speyer, Germany",LAHust
+"""been""","Flores, Guatemala",LAHust
+"""been""","Troy, AL, USA",LAHust
+"""been""","Fairhope, AL, USA",LAHust
+"""been""","Killen, AL, USA",LAHust
+"""been""","Buesnau, Germany",LAHust
+"""been""","Prince Rupert, British Columbia, Canada",LAHust
+"""been""","New Delhi, India",LAHust
+"""been""","Suwon, South Korea",LAHust
+"""been""","Marrakech, Morocco",LAHust
+"""been""","Jackson, MS, USA",LAHust
+"""been""","Milpitas, CA, USA",LAHust
+"""been""","Cedar Bluff, AL, USA",LAHust
+"""been""","Florence, AL, USA",LAHust
+"""been""","Phenix City, AL, USA",LAHust
+"""been""","Jaipur, India",LAHust
+"""been""","Foley, AL, USA",LAHust
+"""been""","Lindau, Germany",LAHust
+"""been""","Tokyo, Japan",LAHust
+"""been""","Qualicum Beach, British Columbia, Canada",LAHust
+"""been""","Piedmont, AL, USA",LAHust
+"""been""","Santarem, Brazil",LAHust
+"""been""","Gibraltar, Europe",LAHust
+"""been""","Poissy, France",LAHust
+"""been""","Venice, Italy",LAHust
+"""been""","Verona, Italy",LAHust
+"""want""","Inverness, UK",LAHust
+"""been""","Madrid, Spain",LAHust
+"""been""","Fort William, UK",LAHust
+"""been""","Nairn, UK",LAHust
+"""been""","Viernheim, Germany",LAHust
+"""been""","Palo Alto, CA, USA",LAHust
+"""been""","Gadsden, AL, USA",LAHust
+"""been""","Douglasville, GA, USA",LAHust
+"""been""","Mbabane, Eswatini (Swaziland)",LAHust
+"""been""","Palm Desert, CA, USA",LAHust
+"""been""","Centre, AL, USA",LAHust
+"""been""","Pacific Grove, CA, USA",LAHust
+"""been""","Long Island City, NY, USA",LAHust
+"""been""","Prattville, AL, USA",LAHust
+"""been""","Point Clear, AL, USA",LAHust
+"""been""","Troon, UK",LAHust
+"""been"",""fave""","St. Andrews, UK",LAHust
+"""been""","Augusta, GA, USA",LAHust
+"""been""","Aviemore, UK",LAHust
+"""been""","Athens, GA, USA",LAHust
+"""been""","Monterey, CA, USA",LAHust
+"""been""","Flatonia, TX, USA",LAHust
+"""been""","Kodiak, AK, USA",LAHust
+"""been""","Clanton, AL, USA",LAHust
+"""been""","Rainsville, AL, USA",LAHust
+"""been""","Woodland Park, CO, USA",LAHust
+"""been""","Dallas, TX, USA",LAHust
+"""been""","Gardendale, AL, USA",LAHust
+"""been""","Madison, AL, USA",LAHust
+"""been""","Winter Park, CO, USA",LAHust
+"""been""","Irvine, UK",LAHust
+"""been""","Florence, Italy",LAHust
+"""been""","Moss Landing, CA, USA",LAHust
+"""been""","Harrisonburg, VA, USA",LAHust
+"""been""","Bruchsal, Germany",LAHust
+"""been""","Bell Buckle, TN, USA",LAHust
+"""been""","Rapid City, SD, USA",LAHust
+"""been""","Pebble Beach, CA, USA",LAHust
+"""been""","Collinsville, AL, USA",LAHust
+"""been""","Gulf Shores, AL, USA",LAHust
+"""want""","Isle of Arran, UK",LAHust
+"""been""","Inverey, UK",LAHust
+"""been""","Elgin, UK",LAHust
+"""been""","Cottondale, AL, USA",LAHust
+"""been""","Sacramento, CA, USA",LAHust
+"""been""","Greenville, AL, USA",LAHust
+"""been""","Mentone, AL, USA",LAHust
+"""been""","Rome, Italy",LAHust
+"""been""","Daphne, AL, USA",LAHust
+"""been""","Passau, Germany",LAHust
+"""been""","Hartselle, AL, USA",LAHust
+"""been""","Nuremberg, Germany",LAHust
+"""been""","Pyeongtaek, South Korea",LAHust
+"""been""","Athens, AL, USA",LAHust
+"""been""","Brussels, Belgium",LAHust
+"""been""","Augsburg, Germany",LAHust
+"""been""","Auburn, AL, USA",LAHust
+"""been"",""fave""","Rothenburg, Germany",LAHust
+"""been""","Manuel Antonio, Costa Rica",LAHust
+"""been""","Dachau, Germany",LAHust
+"""been"",""fave""","Malaga, Spain",LAHust
+"""been""","Taipei, Taiwan",LAHust
+"""been""","Cedartown, GA, USA",LAHust
+"""been""","Long Beach, CA, USA",LAHust
+"""been""","Schwetzingen, Germany",LAHust
+"""been""","Bangkok, Thailand",LAHust
+"""been""","Batesville, MS, USA",LAHust
+"""been""","Cartersville, GA, USA",LAHust
+"""been""","Mountain View, CA, USA",LAHust
+"""been""","Phoenix, AZ, USA",LAHust
+"""been""","Guntersville, AL, USA",LAHust
+"""been""","Alexandria, VA, USA",LAHust
+"""been""","Cave Spring, GA, USA",LAHust
+"""been""","Durham, NC, USA",LAHust
+"""been""","Lompoc, CA, USA",LAHust
+"""been""","Cullman, AL, USA",LAHust
+"""been""","Tubingen, Germany",LAHust
+"""been""","Tortuguero, Costa Rica",LAHust
+"""been""","Salerno, Italy",LAHust
+"""been""","Adak Island, AK, USA",LAHust
+"""been""","Annapolis, MD, USA",LAHust
+"""been""","Oberammergau, Germany",LAHust
+"""been""","Naples, Italy",LAHust
+"""been""","Prestwick, UK",LAHust
+"""been"",""fave""","Sorrento, Italy",LAHust
+"""been""","Meridian, MS, USA",LAHust
+"""been""","Rockville, MD, USA",LAHust
+"""been""","Erlangen, Germany",LAHust
+"""been""","Garmisch-Partenkirchen, Germany",LAHust
+"""been""","Pompeii, Italy",LAHust
+"""been""","Baton Rouge, LA, USA",LAHust
+"""been""","Puerto Limon, Costa Rica",LAHust
+"""been""","Sendai, Japan",LAHust
+"""been""","North Berwick, UK",LAHust
+"""been""","London, UK",LAHust
+"""been""","Munich, Germany",LAHust
+"""been""","Tarangire National Park, Tanzania",LAHust
+"""been""","Fuerth, Germany",LAHust
+"""been""","Hohenschwangau, Germany",LAHust
+"""been""","Hopeman, UK",LAHust
+"""been""","Belize City, Belize",LAHust
+"""been""","Keystone, CO, USA",LAHust
+"""been""","Pismo Beach, CA, USA",LAHust
+"""been""","Decatur, AL, USA",LAHust
+"""been""","Fort Benning, GA, USA",LAHust
+"""been""","Los Angeles, CA, USA",LAHust
+"""been""","Aspen, CO, USA",LAHust
+"""been""","Esquipulas, Guatemala",LAHust
+"""been""","Coban, Guatemala",LAHust
+"""been""","Bessemer, AL, USA",LAHust
+"""been""","Aberdeen, UK",LAHust
+"""been""","Hamburg, Germany",LAHust
+"""been""","Schulenburg, TX, USA",LAHust
+"""been""","San Jose, Costa Rica",LAHust
+"""been""","Curacao, Caribbean",LAHust
+"""been""","Frankfurt, Germany",LAHust
+"""been""","Ettal, Germany",LAHust
+"""been""","Biloxi, MS, USA",LAHust
+"""been""","Darmstadt, Germany",LAHust
+"""been""","San Pedro, Belize",LAHust
+"""been""","Kansas City, MO, USA",LAHust
+"""been""","St. Petersburg, FL, USA",LAHust
+"""been""","Gilroy, CA, USA",LAHust
+"""been""","St. Pete Beach, FL, USA",LAHust
+"""been""","Reno, NV, USA",LAHust
+"""been""","Morristown, NJ, USA",LAHust
+"""been""","Winchester, TN, USA",LAHust
+"""been""","Arlington, VA, USA",LAHust
+"""been"",""fave""","Deadwood, SD, USA",LAHust
+"""been""","Double Springs, AL, USA",LAHust
+"""been""","Boaz, AL, USA",LAHust
+"""been""","Johannesburg, South Africa",LAHust
+"""been""","Marina, CA, USA",LAHust
+"""been""","Sedona, AZ, USA",LAHust
+"""been""","Berlin, Germany",LAHust
+"""been""","Duffus, UK",LAHust
+"""been""","Greenville, MS, USA",LAHust
+"""been""","Fairfax, VA, USA",LAHust
+"""been""","Sarasota, FL, USA",LAHust
+"""been""","Louisville, CO, USA",LAHust
+"""been""","Santa Rosa Beach, FL, USA",LAHust
+"""been""","Columbus, GA, USA",LAHust
+"""been""","Bridgetown, Barbados",LAHust
+"""been""","Athens, TN, USA",LAHust
+"""been""","Birmingham, AL, USA",LAHust
+"""been""","College Park, GA, USA",LAHust
+"""been""","San Carlos, Costa Rica",LAHust
+"""been""","Heraklion, Greece",LAHust
+"""been""","Detroit, MI, USA",LAHust
+"""been""","Anacortes, WA, USA",LAHust
+"""been""","Amarapura, Myanmar",LAHust
+"""been""","Millington, TN, USA",LAHust
+"""been""","Manitou Springs, CO, USA",LAHust
+"""been""","Myrtle Beach, SC, USA",LAHust
+"""been""","Sierra Vista, AZ, USA",LAHust
+"""been""","Sevierville, TN, USA",LAHust
+"""been""","Seaside, FL, USA",LAHust
+"""been""","Carnoustie, UK",LAHust
+"""been""","Landstuhl, Germany",LAHust
+"""been""","El Segundo, CA, USA",LAHust
+"""been""","Seven Mile Beach, Cayman Islands",LAHust
+"""been""","Piraeus, Greece",LAHust
+"""been""","Kilconquhar, UK",LAHust
+"""been""","Platte City, MO, USA",LAHust
+"""been""","Homer, AK, USA",LAHust
+"""been""","Elie, UK",LAHust
+"""been""","Herrenberg, Germany",LAHust
+"""been""","Memmingen, Germany",LAHust
+"""been""","Boblingen, Germany",LAHust
+"""been""","Hockenheim, Germany",LAHust
+"""been""","Leonberg, Germany",LAHust
+"""been""","Belem, Brazil",LAHust
+"""been""","Orlando, FL, USA",LAHust
+"""been""","Soldotna, AK, USA",LAHust
+"""been""","Florence, SC, USA",LAHust
+"""been""","Tombstone, AZ, USA",LAHust
+"""been""","Cologne, Germany",LAHust
+"""been""","Seoul, South Korea",LAHust
+"""been""","Barcelona, Spain",LAHust
+"""been""","Estes Park, CO, USA",LAHust
+"""been""","Fairbanks, AK, USA",LAHust
+"""been"",""fave""","Xi'an, China",LAHust
+"""been""","Sindelfingen, Germany",LAHust
+"""been""","Caracas, Venezuela",LAHust
+"""been""","Brooklyn, NY, USA",LAHust
+"""been""","Friedrichshafen, Germany",LAHust
+"""been""","Yazoo City, MS, USA",LAHust
+"""been""","Talkeetna, AK, USA",LAHust
+"""been""","SeaTac, WA, USA",LAHust
+"""been""","Vail, CO, USA",LAHust
+"""been""","Beaufort, SC, USA",LAHust
+"""been""","Yangon (Rangoon), Myanmar",LAHust
+"""been""","South Pittsburg, TN, USA",LAHust
+"""been""","Half Moon Bay, CA, USA",LAHust
+"""been""","Nashville, TN, USA",LAHust
+"""been""","Darien, GA, USA",LAHust
+"""been""","Hayward, CA, USA",LAHust
+"""been""","Tucson, AZ, USA",LAHust
+"""been""","North Myrtle Beach, SC, USA",LAHust
+"""been"",""fave""","Alexandria, Egypt",LAHust
+"""been""","Buellton, CA, USA",LAHust
+"""been""","Panama City, FL, USA",LAHust
+"""been""","Ketchikan, AK, USA",LAHust
+"""been""","San Francisco, CA, USA",LAHust
+"""been""","San Antonio, TX, USA",LAHust
+"""been""","Ocean City, MD, USA",LAHust
+"""been""","Tambor, Costa Rica",LAHust
+"""been""","Santa Fe, NM, USA",LAHust
+"""been""","Al Khobar, Saudi Arabia",LAHust
+"""been""","Dhahran, Saudi Arabia",LAHust
+"""been""","King Salmon, AK, USA",LAHust
+"""been""","Dammam, Saudi Arabia",LAHust
+"""been""","Jamaica, NY, USA",LAHust
+"""been""","Boulder, CO, USA",LAHust
+"""been""","Tok, AK, USA",LAHust
+"""been""","Kenai, AK, USA",LAHust
+"""been""","Breckenridge, CO, USA",LAHust
+"""been""","Blue Ridge, GA, USA",LAHust
+"""been""","Mosheim, TN, USA",LAHust
+"""been""","Salzburg, Austria",LAHust
+"""been""","Wasilla, AK, USA",LAHust
+"""been""","Agra, India",LAHust
+"""been""","Brora, UK",LAHust
+"""been""","Austin, TX, USA",LAHust
+"""been""","Baden-Baden, Germany",LAHust
+"""been""","Wrangell, AK, USA",LAHust
+"""been""","Perdido Key, FL, USA",LAHust
+"""been""","Pensacola, FL, USA",LAHust
+"""been""","Braselton, GA, USA",LAHust
+"""been""","Syracuse, NY, USA",LAHust
+"""been""","Macon, GA, USA",LAHust
+"""been""","Jacksonville, FL, USA",LAHust
+"""been""","Unalaska, AK, USA",LAHust
+"""been""","Burlingame, CA, USA",LAHust
+"""been""","Panama City Beach, FL, USA",LAHust
+"""been""","Feuerbach, Germany",LAHust
+"""been""","Kaiserslautern, Germany",LAHust
+"""been""","Tarpon Springs, FL, USA",LAHust
+"""been""","Calistoga, CA, USA",LAHust
+"""been""","Aiken, SC, USA",LAHust
+"""been""","Paris, France",LAHust
+"""been""","Jackson, TN, USA",LAHust
+"""been""","Zurich, Switzerland",LAHust
+"""been""","Albuquerque, NM, USA",LAHust
+"""been""","Savannah, GA, USA",LAHust
+"""been""","Morris Plains, NJ, USA",LAHust
+"""been""","Ludwigsburg, Germany",LAHust
+"""been""","Tampa, FL, USA",LAHust
+"""been""","Hollister, CA, USA",LAHust
+"""been""","Solvang, CA, USA",LAHust
+"""been""","Tallahassee, FL, USA",LAHust
+"""been""","Amsterdam, The Netherlands",LAHust
+"""been""","Sonoma, CA, USA",LAHust
+"""been""","Anaheim, CA, USA",LAHust
+"""been""","Honolulu, HI, USA",LAHust
+"""been""","Salinas, CA, USA",LAHust
+"""been""","Drake Bay, Costa Rica",LAHust
+"""been""","Colorado Springs, CO, USA",LAHust
+"""been""","Cupertino, CA, USA",LAHust
+"""been""","Watsonville, CA, USA",LAHust
+"""been""","Houston, TX, USA",LAHust
+"""been""","Berchtesgaden, Germany",LAHust
+"""been""","Tupelo, MS, USA",LAHust
+"""been""","Lanai City, HI, USA",LAHust
+"""been""","Antigua, Guatemala",LAHust
+"""been""","Vicksburg, MS, USA",LAHust
+"""been""","New Orleans, LA, USA",LAHust
+"""been""","Lihue, HI, USA",LAHust
+"""been""","Tullahoma, TN, USA",LAHust
+"""been""","Boston, MA, USA",LAHust
+"""been""","Lundin Links, UK",LAHust
+"""been""","Anseong, South Korea",LAHust
+"""been""","Walnut Creek, CA, USA",LAHust
+"""been""","Ulm, Germany",LAHust
+"""been""","Marghera, Italy",LAHust
+"""been"",""want""","Stuttgart, Germany",LAHust
+"""been""","Mount Dora, FL, USA",LAHust
+"""been""","San Diego, CA, USA",LAHust
+"""been""","Charleston, SC, USA",LAHust
+"""been"",""fave""","Heidelberg, Germany",LAHust
+"""been"",""fave""","Verdun, France",LAHust
+"""been"",""fave""","Vienna, Austria",LAHust
+"""been""","Seward, AK, USA",LAHust
+"""been""","Karlsruhe, Germany",LAHust
+"""been""","Heilbronn, Germany",LAHust
+"""been""","Seattle, WA, USA",LAHust
+"""been""","Berkeley Heights, NJ, USA",LAHust
+"""been""","Lahaina, HI, USA",LAHust
+"""been""","Knoxville, TN, USA",LAHust
+"""been""","Freiburg im Breisgau, Germany",LAHust
+"""been""","Innsbruck, Austria",LAHust
+"""been""","Junction City, KS, USA",LAHust
+"""been""","Kitzbuhel, Austria",LAHust
+"""been""","Gumi, South Korea",LAHust
+"""been""","Carmel, CA, USA",LAHust
+"""been""","San Jose, CA, USA",LAHust
+"""been"",""fave""","Strasbourg, France",LAHust
+"""been""","Lashio, Myanmar",LAHust
+"""been""","Tucker, GA, USA",LAHust
+"""been""","Busan, South Korea",LAHust
+"""been""","Orosi, Costa Rica",LAHust
+"""been""","Lynchburg, TN, USA",LAHust
+"""been""","Basel, Switzerland",LAHust
+"""been""","Kissimmee, FL, USA",LAHust
+"""been""","Magway, Myanmar",LAHust
+"""been""","Budapest, Hungary",LAHust
+"""been""","Daegu, South Korea",LAHust
+"""been""","Pohang, South Korea",LAHust
+"""been""","Gatlinburg, TN, USA",LAHust
+"""been"",""fave""","Jeju, South Korea",LAHust
+"""been""","Daejeon, South Korea",LAHust
+"""been""","Ottawa, Ontario, Canada",LAHust
+"""been""","Chantilly, VA, USA",LAHust
+"""been""","Cripple Creek, CO, USA",LAHust
+"""been""","Brooksville, FL, USA",LAHust
+"""been""","Naples, FL, USA",LAHust
+"""been""","Le Havre, France",LAHust
+"""been""","North Pole, AK, USA",LAHust
+"""been"",""fave""","Rouen, France",LAHust
+"""been""","Giverny, France",LAHust
+"""been""","Murfreesboro, TN, USA",LAHust
+"""been""","Flagstaff, AZ, USA",LAHust
+"""been""","Lookout Mountain, TN, USA",LAHust
+"""been""","Castroville, CA, USA",LAHust
+"""been""","Williamsburg, VA, USA",LAHust
+"""been""","Gainesville, FL, USA",LAHust
+"""been""","Hot Springs, AR, USA",LAHust
+"""been""","Newport, RI, USA",LAHust
+"""been""","Rochester, NY, USA",LAHust
+"""been""","Kuwait City, Kuwait",LAHust
+"""been""","Madison, WI, USA",LAHust
+"""been""","Doha, Qatar",LAHust
+"""been""","Buffalo, NY, USA",LAHust
+"""been""","Leavenworth, KS, USA",LAHust
+"""been""","Cape Canaveral, FL, USA",LAHust
+"""been""","San Luis Obispo, CA, USA",LAHust
+"""been""","South Lake Tahoe, CA, USA",LAHust
+"""been""","St. Augustine, FL, USA",LAHust
+"""been""","Sunnyvale, CA, USA",LAHust
+"""been""","Denver, CO, USA",LAHust
+"""been""","Errington, British Columbia, Canada",LAHust
+"""been""","Toronto, Ontario, Canada",LAHust
+"""been""","Olathe, KS, USA",LAHust
+"""been"",""fave""","Ngorongoro Conservation Area, Tanzania",LAHust

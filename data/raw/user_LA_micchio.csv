@@ -1,0 +1,606 @@
+tag,place,user
+"""been""","Sarasota, FL, USA",micchio
+"""been""","Primm, NV, USA",micchio
+"""been""","Morristown, NJ, USA",micchio
+"""been""","South Lake Tahoe, CA, USA",micchio
+"""been""","Reno, NV, USA",micchio
+"""been""","Mill Valley, CA, USA",micchio
+"""been""","Barstow, CA, USA",micchio
+"""been""","Paterson, NJ, USA",micchio
+"""been""","Scottsdale, AZ, USA",micchio
+"""been""","Marina del Rey, CA, USA",micchio
+"""been""","Sedona, AZ, USA",micchio
+"""been""","Gorman, CA, USA",micchio
+"""been""","Chico, CA, USA",micchio
+"""been""","Graeagle, CA, USA",micchio
+"""been""","Mariposa, CA, USA",micchio
+"""been""","Winter Garden, FL, USA",micchio
+"""been""","Granite Bay, CA, USA",micchio
+"""been""","China Lake, CA, USA",micchio
+"""been""","Grass Valley, CA, USA",micchio
+"""been""","Seminole, FL, USA",micchio
+"""been""","Winter Haven, FL, USA",micchio
+"""been""","Echo Lake, CA, USA",micchio
+"""been""","Chiriaco Summit, CA, USA",micchio
+"""been""","Oldsmar, FL, USA",micchio
+"""been""","Winter Park, FL, USA",micchio
+"""been""","Sevierville, TN, USA",micchio
+"""been""","Salem, OR, USA",micchio
+"""been""","El Centro, CA, USA",micchio
+"""been""","La Canada Flintridge, CA, USA",micchio
+"""been""","Yuba City, CA, USA",micchio
+"""been""","Yreka, CA, USA",micchio
+"""been""","Citrus Heights, CA, USA",micchio
+"""been""","La Jolla, CA, USA",micchio
+"""been""","Yucca Valley, CA, USA",micchio
+"""been""","El Dorado Hills, CA, USA",micchio
+"""been""","Siesta Key, FL, USA",micchio
+"""been"",""want""","Orlando, FL, USA",micchio
+"""been""","Silver Springs, FL, USA",micchio
+"""been""","Galt, CA, USA",micchio
+"""been""","South of the Border, SC, USA",micchio
+"""been"",""fave""","Portland, OR, USA",micchio
+"""been""","Saint Louis, MO, USA",micchio
+"""been""","Los Olivos, CA, USA",micchio
+"""been""","Jenner, CA, USA",micchio
+"""been""","Los Osos, CA, USA",micchio
+"""been""","Jolon, CA, USA",micchio
+"""been""","Nipomo, CA, USA",micchio
+"""been""","Anna Maria, FL, USA",micchio
+"""been""","Lucerne, CA, USA",micchio
+"""been""","Joshua Tree, CA, USA",micchio
+"""been""","Saint Augustine Beach, FL, USA",micchio
+"""been""","June Lake, CA, USA",micchio
+"""been""","Lucerne Valley, CA, USA",micchio
+"""been""","Lakewood, CO, USA",micchio
+"""been""","St. Pete Beach, FL, USA",micchio
+"""been""","Geyserville, CA, USA",micchio
+"""been""","Downieville, CA, USA",micchio
+"""been""","Bryce Canyon City, UT, USA",micchio
+"""been""","St. Petersburg, FL, USA",micchio
+"""been""","North Las Vegas, NV, USA",micchio
+"""been""","Deadwood, SD, USA",micchio
+"""been""","South Orange, NJ, USA",micchio
+"""been""","Rainier, OR, USA",micchio
+"""been""","Kansas City, MO, USA",micchio
+"""been""","Paramus, NJ, USA",micchio
+"""been""","Badlands National Park, SD, USA",micchio
+"""been""","Paris, France",micchio
+"""been""","Arches National Park, UT, USA",micchio
+"""been""","Passaic, NJ, USA",micchio
+"""been""","Versailles, France",micchio
+"""been""","North Highlands, CA, USA",micchio
+"""been""","Glendale, CA, USA",micchio
+"""been""","Minneapolis, MN, USA",micchio
+"""been""","Stevenson Ranch, CA, USA",micchio
+"""been""","Birmingham, AL, USA",micchio
+"""been""","Aberdeen, WA, USA",micchio
+"""been""","West Palm Beach, FL, USA",micchio
+"""been""","Novato, CA, USA",micchio
+"""been""","Malibu, CA, USA",micchio
+"""been""","Sanibel Island, FL, USA",micchio
+"""been""","King City, CA, USA",micchio
+"""been""","Goleta, CA, USA",micchio
+"""been""","Upper Montclair, NJ, USA",micchio
+"""been""","Agoura Hills, CA, USA",micchio
+"""been""","Crescent City, CA, USA",micchio
+"""been""","Vancouver, WA, USA",micchio
+"""been""","East Rutherford, NJ, USA",micchio
+"""been""","Brooklyn, NY, USA",micchio
+"""been""","Estes Park, CO, USA",micchio
+"""been""","Aventura, FL, USA",micchio
+"""been""","Healdsburg, CA, USA",micchio
+"""been""","Grand Junction, CO, USA",micchio
+"""been""","Tusayan, AZ, USA",micchio
+"""been""","Duluth, MN, USA",micchio
+"""been""","Eureka, CA, USA",micchio
+"""been""","Buellton, CA, USA",micchio
+"""been""","Tucson, AZ, USA",micchio
+"""been""","Marco Island, FL, USA",micchio
+"""been""","Fair Oaks, CA, USA",micchio
+"""been""","Burbank, CA, USA",micchio
+"""been""","Homosassa Springs, FL, USA",micchio
+"""been""","Homosassa, FL, USA",micchio
+"""been""","Fairfield, CA, USA",micchio
+"""been""","Sunrise, FL, USA",micchio
+"""been""","Williston, ND, USA",micchio
+"""been""","Jersey City, NJ, USA",micchio
+"""been""","Ridgewood, NJ, USA",micchio
+"""been""","Ringwood, NJ, USA",micchio
+"""been""","Petrified Forest National Park, AZ, USA",micchio
+"""been""","Baltimore, MD, USA",micchio
+"""been""","Syracuse, NY, USA",micchio
+"""been""","Wanaque, NJ, USA",micchio
+"""been""","Elizabeth, NJ, USA",micchio
+"""been""","Elmwood Park, NJ, USA",micchio
+"""been""","Pipestone, MN, USA",micchio
+"""been""","Pensacola, FL, USA",micchio
+"""been""","Apollo Beach, FL, USA",micchio
+"""been""","Coronado, CA, USA",micchio
+"""been""","Soda Springs, CA, USA",micchio
+"""been""","Corte Madera, CA, USA",micchio
+"""been""","Soledad, CA, USA",micchio
+"""been""","East Grand Forks, MN, USA",micchio
+"""been""","Ferndale, CA, USA",micchio
+"""been"",""want""","Tampa, FL, USA",micchio
+"""been""","Solvang, CA, USA",micchio
+"""been""","Indian Rocks Beach, FL, USA",micchio
+"""been""","Miami Beach, FL, USA",micchio
+"""been""","Sonoma, CA, USA",micchio
+"""been""","Indian Shores, FL, USA",micchio
+"""been""","Miami, FL, USA",micchio
+"""been""","Arcadia, FL, USA",micchio
+"""been""","Astoria, OR, USA",micchio
+"""been""","Port Angeles, WA, USA",micchio
+"""been""","Hyde Park, NY, USA",micchio
+"""been""","Macon, GA, USA",micchio
+"""been""","Jacksonville, FL, USA",micchio
+"""been""","Cave Junction, OR, USA",micchio
+"""been""","Seaside, OR, USA",micchio
+"""been""","Guadalupe, CA, USA",micchio
+"""been""","El Segundo, CA, USA",micchio
+"""been""","El Portal, CA, USA",micchio
+"""been""","Lake Itasca, MN, USA",micchio
+"""been""","Guerneville, CA, USA",micchio
+"""been""","Elk, CA, USA",micchio
+"""been""","Altadena, CA, USA",micchio
+"""been""","Shelter Cove, CA, USA",micchio
+"""been""","Half Moon Bay, CA, USA",micchio
+"""been""","Coalinga, CA, USA",micchio
+"""been""","South Venice, FL, USA",micchio
+"""been""","Pecos, TX, USA",micchio
+"""been""","Totowa, NJ, USA",micchio
+"""been""","Trenton, NJ, USA",micchio
+"""been""","Hoboken, NJ, USA",micchio
+"""been""","Princeton, NJ, USA",micchio
+"""been""","Montclair, NJ, USA",micchio
+"""been""","Bridgeport, CA, USA",micchio
+"""been""","Lake Arrowhead, CA, USA",micchio
+"""been""","Morrison, CO, USA",micchio
+"""been""","Palm Beach, FL, USA",micchio
+"""been""","Stuart, FL, USA",micchio
+"""been""","Albion, CA, USA",micchio
+"""been""","Escondido, CA, USA",micchio
+"""been""","Hawthorne, CA, USA",micchio
+"""been""","Glenwood Springs, CO, USA",micchio
+"""been""","Upper Lake, CA, USA",micchio
+"""been""","Cairo, IL, USA",micchio
+"""been""","Columbia, CA, USA",micchio
+"""been""","Vacaville, CA, USA",micchio
+"""been""","Oxnard, CA, USA",micchio
+"""been""","Reedley, CA, USA",micchio
+"""been""","Pacific Grove, CA, USA",micchio
+"""been""","Bloomington, MN, USA",micchio
+"""been""","Richmond, CA, USA",micchio
+"""been""","Mojave, CA, USA",micchio
+"""been""","Palm Desert, CA, USA",micchio
+"""been""","Ridgecrest, CA, USA",micchio
+"""been""","Palmdale, CA, USA",micchio
+"""been""","Belle Fourche, SD, USA",micchio
+"""been""","Palm Springs, CA, USA",micchio
+"""been""","Palo Alto, CA, USA",micchio
+"""been""","Lancaster, CA, USA",micchio
+"""been""","Beaver, UT, USA",micchio
+"""been""","Cumberland Gap, TN, USA",micchio
+"""been""","Beatty, NV, USA",micchio
+"""been""","Saint Paul, MN, USA",micchio
+"""been""","Livonia, MI, USA",micchio
+"""been""","Palos Verdes Estates, CA, USA",micchio
+"""been""","Rio Vista, CA, USA",micchio
+"""been""","Riverside, CA, USA",micchio
+"""been""","Oceanside, CA, USA",micchio
+"""been""","Oceano, CA, USA",micchio
+"""been""","Ojai, CA, USA",micchio
+"""been""","Rancho Cordova, CA, USA",micchio
+"""been""","Pisa, Italy",micchio
+"""been""","Hope Valley, CA, USA",micchio
+"""been""","Lucca, Italy",micchio
+"""been""","Florence, Italy",micchio
+"""been""","Salerno, Italy",micchio
+"""been""","Grand Rivers, KY, USA",micchio
+"""been""","Mendocino, CA, USA",micchio
+"""been""","Rancho Murieta, CA, USA",micchio
+"""been""","Olympic Valley, CA, USA",micchio
+"""been""","Rancho Mirage, CA, USA",micchio
+"""been""","Rancho Santa Fe, CA, USA",micchio
+"""been""","Rancho Palos Verdes, CA, USA",micchio
+"""been""","Orange Cove, CA, USA",micchio
+"""been""","Randsburg, CA, USA",micchio
+"""been""","Franklin, NC, USA",micchio
+"""been""","Chimney Rock, NC, USA",micchio
+"""been""","Orange, CA, USA",micchio
+"""been""","Orcutt, CA, USA",micchio
+"""been""","Cherokee, NC, USA",micchio
+"""been""","Orangevale, CA, USA",micchio
+"""been""","Cuyahoga Falls, OH, USA",micchio
+"""been""","Reykjavik, Iceland",micchio
+"""been""","Rome, Italy",micchio
+"""been""","Lexington, KY, USA",micchio
+"""been""","Red Bluff, CA, USA",micchio
+"""been""","Redding, CA, USA",micchio
+"""been""","Orick, CA, USA",micchio
+"""been""","Redondo Beach, CA, USA",micchio
+"""been""","Chapel Hill, NC, USA",micchio
+"""been""","Redwood City, CA, USA",micchio
+"""been""","Arcata, CA, USA",micchio
+"""been""","Arcadia, CA, USA",micchio
+"""been""","Winnipeg, Manitoba, Canada",micchio
+"""been""","Warrenton, OR, USA",micchio
+"""been""","Sandy Hook, NJ, USA",micchio
+"""been""","Incline Village, NV, USA",micchio
+"""been""","Bari, Italy",micchio
+"""been""","Fort Bragg, CA, USA",micchio
+"""been""","Anza, CA, USA",micchio
+"""been""","Phoenix, AZ, USA",micchio
+"""been""","Indian Wells, CA, USA",micchio
+"""been""","Lone Pine, CA, USA",micchio
+"""been""","Napa, CA, USA",micchio
+"""been""","Lompoc, CA, USA",micchio
+"""been""","Indio, CA, USA",micchio
+"""been""","Venice, FL, USA",micchio
+"""been""","Long Beach, CA, USA",micchio
+"""been""","Navarro, CA, USA",micchio
+"""been""","Valrico, FL, USA",micchio
+"""been""","Frazier Park, CA, USA",micchio
+"""been""","Vero Beach, FL, USA",micchio
+"""been""","Las Vegas, NV, USA",micchio
+"""been""","Secaucus, NJ, USA",micchio
+"""been""","Wildwood Crest, NJ, USA",micchio
+"""been""","Seaside Heights, NJ, USA",micchio
+"""been""","Loomis, CA, USA",micchio
+"""been""","Nevada City, CA, USA",micchio
+"""been""","Pioneertown, CA, USA",micchio
+"""been""","Pismo Beach, CA, USA",micchio
+"""been""","Los Angeles, CA, USA",micchio
+"""been""","Newhall, CA, USA",micchio
+"""been""","Cottonwood, AZ, USA",micchio
+"""been""","Newcastle, CA, USA",micchio
+"""been""","Placerville, CA, USA",micchio
+"""been""","Fresno, CA, USA",micchio
+"""been""","Chicago, IL, USA",micchio
+"""been""","Jamestown, CA, USA",micchio
+"""been""","Lee Vining, CA, USA",micchio
+"""been""","Pasadena, CA, USA",micchio
+"""been""","Monterey Park, CA, USA",micchio
+"""been""","Monterey, CA, USA",micchio
+"""been""","Lebec, CA, USA",micchio
+"""been""","Williams, AZ, USA",micchio
+"""been""","Bryce, UT, USA",micchio
+"""been""","Carson City, NV, USA",micchio
+"""been""","Rocklin, CA, USA",micchio
+"""been""","Paso Robles, CA, USA",micchio
+"""been""","Auburn, CA, USA",micchio
+"""been""","Rolling Hills Estates, CA, USA",micchio
+"""been""","Homewood, CA, USA",micchio
+"""been""","Morongo Valley, CA, USA",micchio
+"""been""","Rosamond, CA, USA",micchio
+"""been""","Honeydew, CA, USA",micchio
+"""been""","Pebble Beach, CA, USA",micchio
+"""been""","Roseville, CA, USA",micchio
+"""been""","Morro Bay, CA, USA",micchio
+"""been""","Lincoln, CA, USA",micchio
+"""been""","Pittsburgh, PA, USA",micchio
+"""been""","Hopland, CA, USA",micchio
+"""been""","Rapid City, SD, USA",micchio
+"""been""","Ely, NV, USA",micchio
+"""been""","Wayne, NJ, USA",micchio
+"""been""","Weehawken, NJ, USA",micchio
+"""been""","Penryn, CA, USA",micchio
+"""been""","Perris, CA, USA",micchio
+"""been""","Petaluma, CA, USA",micchio
+"""been""","Rutherford, CA, USA",micchio
+"""been""","Mount Shasta, CA, USA",micchio
+"""been""","Philo, CA, USA",micchio
+"""been"",""want""","Sacramento, CA, USA",micchio
+"""been""","Athens, OH, USA",micchio
+"""been""","Lake Louise, Alberta, Canada",micchio
+"""been""","Calgary, Alberta, Canada",micchio
+"""been""","Washington DC, DC, USA",micchio
+"""been""","Newport, OR, USA",micchio
+"""been""","Banff, Alberta, Canada",micchio
+"""been""","Jasper National Park, Alberta, Canada",micchio
+"""been""","Sierraville, CA, USA",micchio
+"""been""","Edmonton, Alberta, Canada",micchio
+"""been""","Norfolk, VA, USA",micchio
+"""been""","Simi Valley, CA, USA",micchio
+"""been""","Dunedin, FL, USA",micchio
+"""been""","Wellsboro, PA, USA",micchio
+"""been""","Bend, OR, USA",micchio
+"""been""","Pisgah Forest, NC, USA",micchio
+"""been""","Milan, Italy",micchio
+"""been""","Virginia Beach, VA, USA",micchio
+"""been""","Bartow, FL, USA",micchio
+"""been""","Walt Disney World, FL, USA",micchio
+"""been""","Montgomery, AL, USA",micchio
+"""been""","Emerado, ND, USA",micchio
+"""been""","Truckee, CA, USA",micchio
+"""been""","Trona, CA, USA",micchio
+"""been""","Kanab, UT, USA",micchio
+"""been""","Crystal River, FL, USA",micchio
+"""been""","Cypress Gardens, FL, USA",micchio
+"""been""","Dania Beach, FL, USA",micchio
+"""been""","Hershey, PA, USA",micchio
+"""been""","Stony Point, NY, USA",micchio
+"""been""","Fargo, ND, USA",micchio
+"""been""","Bronx, NY, USA",micchio
+"""been""","Shell Beach, CA, USA",micchio
+"""been""","Davie, FL, USA",micchio
+"""been""","Cheyenne, WY, USA",micchio
+"""been""","Daytona Beach, FL, USA",micchio
+"""been""","Hays, KS, USA",micchio
+"""been""","Hollywood, FL, USA",micchio
+"""been""","Sierra Madre, CA, USA",micchio
+"""been""","Sierra City, CA, USA",micchio
+"""been""","Indianapolis, IN, USA",micchio
+"""been""","Port Hueneme, CA, USA",micchio
+"""been""","Columbus, OH, USA",micchio
+"""been""","Cannon Beach, OR, USA",micchio
+"""been""","Springdale, UT, USA",micchio
+"""been""","Yosemite National Park, CA, USA",micchio
+"""been""","Beacon, NY, USA",micchio
+"""been""","Bear Mountain, NY, USA",micchio
+"""been""","Clarksville, TN, USA",micchio
+"""been""","Oakhurst, CA, USA",micchio
+"""been""","Oakland, CA, USA",micchio
+"""been""","Chattanooga, TN, USA",micchio
+"""been""","Hammond, OR, USA",micchio
+"""been""","Mount Carmel, UT, USA",micchio
+"""been""","Monument Valley, UT, USA",micchio
+"""been""","Boca Raton, FL, USA",micchio
+"""been""","Spearfish, SD, USA",micchio
+"""been""","Ashland, OR, USA",micchio
+"""been""","Point Arena, CA, USA",micchio
+"""been""","Point Reyes Station, CA, USA",micchio
+"""been""","Siena, Italy",micchio
+"""been""","Brookings, OR, USA",micchio
+"""been""","Woodland Park, NJ, USA",micchio
+"""been""","St. George, Bermuda",micchio
+"""been""","Bradenton Beach, FL, USA",micchio
+"""been""","Brandon, FL, USA",micchio
+"""been""","Atlantic City, NJ, USA",micchio
+"""been""","Cleveland, OH, USA",micchio
+"""been""","North Haledon, NJ, USA",micchio
+"""been""","Waterton Lakes National Park, Alberta, Canada",micchio
+"""been""","Boston, MA, USA",micchio
+"""been""","Fort Lee, NJ, USA",micchio
+"""been""","New Orleans, LA, USA",micchio
+"""been""","Custer, SD, USA",micchio
+"""been""","International Falls, MN, USA",micchio
+"""been""","Lassen National Forest, CA, USA",micchio
+"""been""","Mount Dora, FL, USA",micchio
+"""been""","Twentynine Palms, CA, USA",micchio
+"""been""","Pigeon Forge, TN, USA",micchio
+"""been""","Punta Gorda, FL, USA",micchio
+"""been""","San Bruno, CA, USA",micchio
+"""been""","West Hollywood, CA, USA",micchio
+"""been""","Port Saint Lucie, FL, USA",micchio
+"""been""","Davis, CA, USA",micchio
+"""been""","Stockton, CA, USA",micchio
+"""been""","San Clemente, CA, USA",micchio
+"""been""","Flamingo, FL, USA",micchio
+"""been""","San Carlos, CA, USA",micchio
+"""been""","San Fernando, CA, USA",micchio
+"""been""","San Diego, CA, USA",micchio
+"""been""","Key West, FL, USA",micchio
+"""been""","Capay, CA, USA",micchio
+"""been""","West Sacramento, CA, USA",micchio
+"""been""","Cincinnati, OH, USA",micchio
+"""been""","Key Largo, FL, USA",micchio
+"""been""","Westlake Village, CA, USA",micchio
+"""been""","San Gabriel, CA, USA",micchio
+"""been""","Florida City, FL, USA",micchio
+"""been""","Naples, FL, USA",micchio
+"""been""","Fort Lauderdale, FL, USA",micchio
+"""been""","Little Falls, NJ, USA",micchio
+"""been""","Garfield, NJ, USA",micchio
+"""been""","Ochopee, FL, USA",micchio
+"""been""","Jamestown, ND, USA",micchio
+"""been""","Williamsburg, VA, USA",micchio
+"""been""","Madison, WI, USA",micchio
+"""been""","Homestead, FL, USA",micchio
+"""been""","Carmel, CA, USA",micchio
+"""been""","Anaheim, CA, USA",micchio
+"""been""","Carlsbad, CA, USA",micchio
+"""been""","Kingston, WA, USA",micchio
+"""been""","San Juan Bautista, CA, USA",micchio
+"""been""","Carmichael, CA, USA",micchio
+"""been""","Amboy, CA, USA",micchio
+"""been""","Riverview, FL, USA",micchio
+"""been""","Kissimmee, FL, USA",micchio
+"""been""","San Jose, CA, USA",micchio
+"""been""","Fort Myers, FL, USA",micchio
+"""been""","Wheatland, CA, USA",micchio
+"""been""","Carpinteria, CA, USA",micchio
+"""been""","Fort Pierce, FL, USA",micchio
+"""been""","San Juan Capistrano, CA, USA",micchio
+"""been""","Asheville, NC, USA",micchio
+"""been""","Denver, CO, USA",micchio
+"""been""","Honolulu, HI, USA",micchio
+"""been""","Carson, CA, USA",micchio
+"""been""","Fort Walton Beach, FL, USA",micchio
+"""been""","San Luis Obispo, CA, USA",micchio
+"""been""","Lawrence, KS, USA",micchio
+"""been""","Antelope, CA, USA",micchio
+"""been""","San Marino, CA, USA",micchio
+"""been""","St. Augustine, FL, USA",micchio
+"""been""","Cape Canaveral, FL, USA",micchio
+"""been""","Rochelle Park, NJ, USA",micchio
+"""been""","Knoxville, TN, USA",micchio
+"""been""","Rockaway, NJ, USA",micchio
+"""been""","New Brunswick, NJ, USA",micchio
+"""been""","Blowing Rock, NC, USA",micchio
+"""been""","Moab, UT, USA",micchio
+"""been""","Three Rivers, CA, USA",micchio
+"""been""","Gatlinburg, TN, USA",micchio
+"""been""","Agropoli, Italy",micchio
+"""been""","Grand Forks, ND, USA",micchio
+"""been""","Pinellas Park, FL, USA",micchio
+"""been""","Visalia, CA, USA",micchio
+"""been""","Fillmore, CA, USA",micchio
+"""been""","Tarpon Springs, FL, USA",micchio
+"""been""","Plant City, FL, USA",micchio
+"""been""","Medora, ND, USA",micchio
+"""been""","Micanopy, FL, USA",micchio
+"""been""","Flagstaff, AZ, USA",micchio
+"""been""","Folsom, CA, USA",micchio
+"""been""","Camarillo, CA, USA",micchio
+"""been""","South Pasadena, CA, USA",micchio
+"""been""","Walnut Creek, CA, USA",micchio
+"""been""","South San Francisco, CA, USA",micchio
+"""been""","Cambria, CA, USA",micchio
+"""been""","Thonotosassa, FL, USA",micchio
+"""been""","Paphos, Cyprus",micchio
+"""been""","Roselle Park, NJ, USA",micchio
+"""been""","Fair Lawn, NJ, USA",micchio
+"""been""","Newark, NJ, USA",micchio
+"""been""","Boone, NC, USA",micchio
+"""been""","Saddle Brook, NJ, USA",micchio
+"""been""","San Francisco, CA, USA",micchio
+"""been""","Page, AZ, USA",micchio
+"""been""","West Point, NY, USA",micchio
+"""been""","Silver City, NM, USA",micchio
+"""been""","Brevard, NC, USA",micchio
+"""been""","Santa Fe, NM, USA",micchio
+"""been""","Bismarck, ND, USA",micchio
+"""been""","Flemington, NJ, USA",micchio
+"""been""","San Antonio, TX, USA",micchio
+"""been""","Charleston, SC, USA",micchio
+"""been""","Cameron, AZ, USA",micchio
+"""been""","Treasure Island, FL, USA",micchio
+"""been""","Cupertino, CA, USA",micchio
+"""been""","Foresthill, CA, USA",micchio
+"""been""","Squaw Valley, CA, USA",micchio
+"""been""","Wawona, CA, USA",micchio
+"""been""","Jensen Beach, FL, USA",micchio
+"""been""","St. Helena, CA, USA",micchio
+"""been""","Everglades City, FL, USA",micchio
+"""been""","Ponte Vedra Beach, FL, USA",micchio
+"""been""","Daly City, CA, USA",micchio
+"""been""","Baker, CA, USA",micchio
+"""been""","Ely, MN, USA",micchio
+"""been""","Ocean Shores, WA, USA",micchio
+"""been""","San Andreas, CA, USA",micchio
+"""been""","Haledon, NJ, USA",micchio
+"""been""","Stateline, NV, USA",micchio
+"""been""","West Yellowstone, MT, USA",micchio
+"""been""","Death Valley National Park, CA, USA",micchio
+"""been""","Devils Lake, ND, USA",micchio
+"""been""","Bethlehem, PA, USA",micchio
+"""been""","Crater Lake National Park, OR, USA",micchio
+"""been""","Death Valley Junction, CA, USA",micchio
+"""been""","Woodland, CA, USA",micchio
+"""been""","Everglades National Park, FL, USA",micchio
+"""been""","The Sea Ranch, CA, USA",micchio
+"""been""","Woodside, CA, USA",micchio
+"""been""","Santa Monica, CA, USA",micchio
+"""been""","Wrightwood, CA, USA",micchio
+"""been""","Devils Tower, WY, USA",micchio
+"""been""","Carlsbad Caverns National Park, NM, USA",micchio
+"""been""","Clearwater, FL, USA",micchio
+"""been""","Santa Maria, CA, USA",micchio
+"""been""","Bishop, CA, USA",micchio
+"""been""","Capitol Reef National Park, UT, USA",micchio
+"""been""","Canyonlands National Park, UT, USA",micchio
+"""been""","Santa Paula, CA, USA",micchio
+"""been""","Mammoth Lakes, CA, USA",micchio
+"""been""","Thousand Palms, CA, USA",micchio
+"""been""","Bryce Canyon National Park, UT, USA",micchio
+"""been""","Clermont, FL, USA",micchio
+"""been""","Forks, WA, USA",micchio
+"""been""","Santa Ynez, CA, USA",micchio
+"""been""","Santa Rosa, CA, USA",micchio
+"""been""","Tomales, CA, USA",micchio
+"""been""","Santee, CA, USA",micchio
+"""been""","Bern, Switzerland",micchio
+"""been""","Channel Islands National Park, CA, USA",micchio
+"""been""","Blythe, CA, USA",micchio
+"""been""","Philadelphia, PA, USA",micchio
+"""been""","Virginia City, NV, USA",micchio
+"""been""","Convent Station, NJ, USA",micchio
+"""been""","Dickinson, ND, USA",micchio
+"""been""","Mandan, ND, USA",micchio
+"""been""","Cranford, NJ, USA",micchio
+"""been""","Guadalupe Mountains National Park, TX, USA",micchio
+"""been""","Great Smoky Mountains National Park, TN, USA",micchio
+"""been""","Great Basin National Park, NV, USA",micchio
+"""been""","Fruita, CO, USA",micchio
+"""been""","Atlanta, GA, USA",micchio
+"""been""","Waynesville, NC, USA",micchio
+"""been""","Bodega Bay, CA, USA",micchio
+"""been""","Hurricane, UT, USA",micchio
+"""been""","Wahiawa, HI, USA",micchio
+"""been""","Saugus, CA, USA",micchio
+"""been""","Torrance, CA, USA",micchio
+"""been""","Big Sur, CA, USA",micchio
+"""been""","Grand Teton National Park, WY, USA",micchio
+"""been""","Coral Gables, FL, USA",micchio
+"""been""","Sausalito, CA, USA",micchio
+"""been""","Grand Canyon National Park, AZ, USA",micchio
+"""been""","Gulfport, FL, USA",micchio
+"""been""","Cortez, FL, USA",micchio
+"""been""","Hallandale Beach, FL, USA",micchio
+"""been""","Glacier National Park, MT, USA",micchio
+"""been""","Trinidad, CA, USA",micchio
+"""been""","Borrego Springs, CA, USA",micchio
+"""been""","Dayton, OH, USA",micchio
+"""been""","Bradenton, FL, USA",micchio
+"""been""","Sebastopol, CA, USA",micchio
+"""been""","Longboat Key, FL, USA",micchio
+"""been""","Lucerne, Switzerland",micchio
+"""been""","Louisville, KY, USA",micchio
+"""been""","Rugby, ND, USA",micchio
+"""been""","Cape May, NJ, USA",micchio
+"""been""","St. George, UT, USA",micchio
+"""been""","Cavalier, ND, USA",micchio
+"""been""","Haleiwa, HI, USA",micchio
+"""been""","Lassen Volcanic National Park, CA, USA",micchio
+"""been""","Ventura, CA, USA",micchio
+"""been""","Caspar, CA, USA",micchio
+"""been""","Mount Rainier National Park, WA, USA",micchio
+"""been""","Charlottesville, VA, USA",micchio
+"""been""","Edmonds, WA, USA",micchio
+"""been""","Susanville, CA, USA",micchio
+"""been""","Castaic, CA, USA",micchio
+"""been""","San Miguel, CA, USA",micchio
+"""been""","Gainesville, FL, USA",micchio
+"""been""","Captiva Island, FL, USA",micchio
+"""been""","Quinault, WA, USA",micchio
+"""been""","San Mateo, CA, USA",micchio
+"""been""","Joshua Tree National Park, CA, USA",micchio
+"""been""","Kaneohe, HI, USA",micchio
+"""been""","Berkeley, CA, USA",micchio
+"""been""","Tahoe City, CA, USA",micchio
+"""been""","Independence, CA, USA",micchio
+"""been""","Richmond, VA, USA",micchio
+"""been""","Cayucos, CA, USA",micchio
+"""been""","San Rafael, CA, USA",micchio
+"""been""","Cedar Key, FL, USA",micchio
+"""been""","San Simeon, CA, USA",micchio
+"""been""","Dover, DE, USA",micchio
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",micchio
+"""been""","Seattle, WA, USA",micchio
+"""been""","Yellowstone National Park, WY, USA",micchio
+"""been""","Theodore Roosevelt National Park, ND, USA",micchio
+"""been""","Shenandoah National Park, VA, USA",micchio
+"""been""","Zion National Park, UT, USA",micchio
+"""been""","Beverly Hills, CA, USA",micchio
+"""been""","Wind Cave National Park, SD, USA",micchio
+"""been""","Baghdad, Iraq",micchio
+"""been""","Winters, CA, USA",micchio
+"""been""","Santa Ana, CA, USA",micchio
+"""been""","Sanger, CA, USA",micchio
+"""been""","Tehachapi, CA, USA",micchio
+"""been""","Rocky Mountain National Park, CO, USA",micchio
+"""been""","Lakeland, FL, USA",micchio
+"""been""","Santa Barbara, CA, USA",micchio
+"""been"",""want""","New York City, NY, USA",micchio
+"""been""","Temecula, CA, USA",micchio
+"""been""","Omaha, NE, USA",micchio
+"""been""","Chokoloskee, FL, USA",micchio
+"""been""","Santa Clarita, CA, USA",micchio
+"""been""","Carlsbad, NM, USA",micchio
+"""been""","Ocala, FL, USA",micchio
+"""been""","Mineral, CA, USA",micchio
+"""been""","Big Pine, CA, USA",micchio
+"""been""","Santa Cruz, CA, USA",micchio
+"""been""","Largo, FL, USA",micchio

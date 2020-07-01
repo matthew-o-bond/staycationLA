@@ -1,0 +1,420 @@
+tag,place,user
+"""been""","Amsterdam, The Netherlands",aisaac
+"""been""","Stow-on-the-Wold, UK",aisaac
+"""been""","Mammoth Lakes, CA, USA",aisaac
+"""been""","Stateline, NV, USA",aisaac
+"""been""","Santa Monica, CA, USA",aisaac
+"""been""","West Yellowstone, MT, USA",aisaac
+"""been""","Chamonix, France",aisaac
+"""been""","Philadelphia, PA, USA",aisaac
+"""been""","Graz, Austria",aisaac
+"""been""","Santa Rosa, CA, USA",aisaac
+"""want""","Barcelona, Spain",aisaac
+"""been""","Marseille, France",aisaac
+"""been""","Lausanne, Switzerland",aisaac
+"""been""","Reims, France",aisaac
+"""been""","Eindhoven, The Netherlands",aisaac
+"""been""","Dusseldorf, Germany",aisaac
+"""been""","Teton Village, WY, USA",aisaac
+"""been""","Cheltenham, UK",aisaac
+"""been""","Bonn, Germany",aisaac
+"""been""","Santa Ana, CA, USA",aisaac
+"""been""","Cologne, Germany",aisaac
+"""been"",""fave""","Innsbruck, Austria",aisaac
+"""been""","Kitzbuhel, Austria",aisaac
+"""been""","Beverly Hills, CA, USA",aisaac
+"""been""","Salzburg, Austria",aisaac
+"""been""","Maastricht, The Netherlands",aisaac
+"""been""","Santa Barbara, CA, USA",aisaac
+"""been""","Thu Dau Mot, Vietnam",aisaac
+"""been""","Santa Clara, CA, USA",aisaac
+"""been""","Copenhagen, Denmark",aisaac
+"""been""","Santa Cruz, CA, USA",aisaac
+"""been""","Stratford-upon-Avon, UK",aisaac
+"""been""","St-Paul-de-Vence, France",aisaac
+"""been""","Newcastle upon Tyne, UK",aisaac
+"""been""","Brighton, UK",aisaac
+"""been""","Vienna, Austria",aisaac
+"""been""","Berkeley, CA, USA",aisaac
+"""been""","Tahoe City, CA, USA",aisaac
+"""been""","Nice, France",aisaac
+"""been""","Eugene, OR, USA",aisaac
+"""been""","Dijon, France",aisaac
+"""been""","Schaumburg, IL, USA",aisaac
+"""been""","San Jose, CA, USA",aisaac
+"""been""","Hilo, HI, USA",aisaac
+"""been""","Carmel, CA, USA",aisaac
+"""been""","Carlsbad, CA, USA",aisaac
+"""been""","Castle Rock, WA, USA",aisaac
+"""been""","Ostend, Belgium",aisaac
+"""been""","Sunnyvale, CA, USA",aisaac
+"""been""","Denver, CO, USA",aisaac
+"""been""","Cannes, France",aisaac
+"""been""","San Luis Obispo, CA, USA",aisaac
+"""been""","Stoke-on-Trent, UK",aisaac
+"""been""","Karon, Thailand",aisaac
+"""been""","Phuket Town, Thailand",aisaac
+"""been""","Grasse, France",aisaac
+"""been""","Boise, ID, USA",aisaac
+"""been""","Kailua-Kona, HI, USA",aisaac
+"""been""","Cincinnati, OH, USA",aisaac
+"""been""","San Diego, CA, USA",aisaac
+"""been""","Wailea, HI, USA",aisaac
+"""been""","Lahaina, HI, USA",aisaac
+"""been"",""want""","Seattle, WA, USA",aisaac
+"""been""","Washington DC, DC, USA",aisaac
+"""want""","Prague, Czech Republic",aisaac
+"""been""","Princeville, HI, USA",aisaac
+"""been""","Woburn, MA, USA",aisaac
+"""been""","Ubud, Indonesia",aisaac
+"""been""","Stuttgart, Germany",aisaac
+"""been""","Lourdes, France",aisaac
+"""want""","Algarve, Portugal",aisaac
+"""been""","Toulouse, France",aisaac
+"""been""","Graskop, South Africa",aisaac
+"""been""","New York City, NY, USA",aisaac
+"""been""","Bronx, NY, USA",aisaac
+"""been""","Little Rock, AR, USA",aisaac
+"""been""","Monte-Carlo, Monaco",aisaac
+"""been""","Longview, WA, USA",aisaac
+"""been""","Heidelberg, Germany",aisaac
+"""been""","Patong, Thailand",aisaac
+"""been""","Derby, UK",aisaac
+"""been""","Crater Lake National Park, OR, USA",aisaac
+"""been""","Truckee, CA, USA",aisaac
+"""been""","Cambridge, MA, USA",aisaac
+"""been""","Kailua, HI, USA",aisaac
+"""been""","Atlanta, GA, USA",aisaac
+"""been"",""want"",""fave""","Hong Kong, China",aisaac
+"""been""","Sterling, VA, USA",aisaac
+"""been""","Staten Island, NY, USA",aisaac
+"""want""","Dubai, United Arab Emirates",aisaac
+"""want""","Antalya, Turkey",aisaac
+"""been""","Baden-Baden, Germany",aisaac
+"""been""","Dresden, Germany",aisaac
+"""been""","Nimes, France",aisaac
+"""been""","Sausalito, CA, USA",aisaac
+"""been""","Memphis, TN, USA",aisaac
+"""been""","Death Valley Junction, CA, USA",aisaac
+"""been""","Bellevue, WA, USA",aisaac
+"""been""","Portland, ME, USA",aisaac
+"""been""","Zurich, Switzerland",aisaac
+"""been""","Portsmouth, UK",aisaac
+"""been""","Lyon, France",aisaac
+"""been""","Giza, Egypt",aisaac
+"""been""","Cairo, Egypt",aisaac
+"""been""","Paris, France",aisaac
+"""been""","Versailles, France",aisaac
+"""been""","Stellenbosch, South Africa",aisaac
+"""been""","Healdsburg, CA, USA",aisaac
+"""been""","Tucson, AZ, USA",aisaac
+"""been""","Tortuguero, Costa Rica",aisaac
+"""been""","San Francisco, CA, USA",aisaac
+"""been""","Page, AZ, USA",aisaac
+"""been""","Salem, MA, USA",aisaac
+"""been""","Providence, RI, USA",aisaac
+"""been""","Brooklyn, NY, USA",aisaac
+"""been""","Burlingame, CA, USA",aisaac
+"""been""","Burbank, CA, USA",aisaac
+"""been""","Eureka, CA, USA",aisaac
+"""want""","Lisbon, Portugal",aisaac
+"""been""","Oudtshoorn, South Africa",aisaac
+"""been"",""fave""","Knysna, South Africa",aisaac
+"""been""","George, South Africa",aisaac
+"""been""","Princeton, NJ, USA",aisaac
+"""been""","Riva Del Garda, Italy",aisaac
+"""been""","Hermanus, South Africa",aisaac
+"""been"",""fave""","Tamarindo, Costa Rica",aisaac
+"""been""","Lucerne, Switzerland",aisaac
+"""been""","Tombstone, AZ, USA",aisaac
+"""been""","Tolleson, AZ, USA",aisaac
+"""been"",""want""","Santa Fe, NM, USA",aisaac
+"""been""","Knoxville, TN, USA",aisaac
+"""been""","Manchester, VT, USA",aisaac
+"""want""","Bursa, Turkey",aisaac
+"""been"",""fave""","Cape Town Central, South Africa",aisaac
+"""been""","Geneva, Switzerland",aisaac
+"""been""","Camps Bay, South Africa",aisaac
+"""want""","Balikesir, Turkey",aisaac
+"""been""","Boulder, CO, USA",aisaac
+"""been""","Nicoya, Costa Rica",aisaac
+"""been""","Rustenburg, South Africa",aisaac
+"""been""","Liberia, Costa Rica",aisaac
+"""been""","West Drayton, UK",aisaac
+"""been""","Sun City, South Africa",aisaac
+"""been""","Garda, Italy",aisaac
+"""been""","Pilanesberg National Park, South Africa",aisaac
+"""been""","Playas del Coco, Costa Rica",aisaac
+"""been""","Bern, Switzerland",aisaac
+"""been""","Flagstaff, AZ, USA",aisaac
+"""been""","Charleston, SC, USA",aisaac
+"""been""","Franschhoek, South Africa",aisaac
+"""been""","Playa Samara, Costa Rica",aisaac
+"""been""","Playa Hermosa, Costa Rica",aisaac
+"""been""","Buffalo, NY, USA",aisaac
+"""been""","Hot Springs, AR, USA",aisaac
+"""been""","Laguna Beach, CA, USA",aisaac
+"""been""","Tempe, AZ, USA",aisaac
+"""been""","Waikoloa, HI, USA",aisaac
+"""been""","Burlington, VT, USA",aisaac
+"""want""","Budapest, Hungary",aisaac
+"""been""","Bordeaux, France",aisaac
+"""been""","Basel, Switzerland",aisaac
+"""been""","Half Moon Bay, CA, USA",aisaac
+"""been""","Hood River, OR, USA",aisaac
+"""been""","Hillsboro, OR, USA",aisaac
+"""been""","Strasbourg, France",aisaac
+"""been""","Honolulu, HI, USA",aisaac
+"""been""","Bagaces, Costa Rica",aisaac
+"""been""","Toronto, Ontario, Canada",aisaac
+"""been"",""fave""","Jeffreys Bay, South Africa",aisaac
+"""been""","Lihue, HI, USA",aisaac
+"""been""","New Orleans, LA, USA",aisaac
+"""been""","Poipu, HI, USA",aisaac
+"""been""","Boston, MA, USA",aisaac
+"""been""","La Jolla, CA, USA",aisaac
+"""been""","Orlando, FL, USA",aisaac
+"""been""","Newport, RI, USA",aisaac
+"""want""","Gaziantep, Turkey",aisaac
+"""been""","Toledo, WA, USA",aisaac
+"""been""","Manchester, UK",aisaac
+"""been""","Yountville, CA, USA",aisaac
+"""been""","Nelspruit, South Africa",aisaac
+"""been""","Chau Doc, Vietnam",aisaac
+"""want""","Cancun, Mexico",aisaac
+"""been""","Durban, South Africa",aisaac
+"""been""","West Hollywood, CA, USA",aisaac
+"""been""","Luxembourg City, Luxembourg",aisaac
+"""been""","Rochester, NY, USA",aisaac
+"""been""","Chandler, AZ, USA",aisaac
+"""been""","Natchez, MS, USA",aisaac
+"""been""","Salem, OR, USA",aisaac
+"""been""","Camp Verde, AZ, USA",aisaac
+"""been""","Del Mar, CA, USA",aisaac
+"""been""","Soweto, South Africa",aisaac
+"""been""","Pretoria, South Africa",aisaac
+"""been""","San Jose, Costa Rica",aisaac
+"""been""","Culver City, CA, USA",aisaac
+"""been""","Carefree, AZ, USA",aisaac
+"""been""","Macon, GA, USA",aisaac
+"""been""","Seaside, OR, USA",aisaac
+"""been""","Salt Lake City, UT, USA",aisaac
+"""want""","Sao Paulo, Brazil",aisaac
+"""been""","Bakersfield, CA, USA",aisaac
+"""been""","Krugersdorp, South Africa",aisaac
+"""want""","Rio de Janeiro, Brazil",aisaac
+"""want""","Shenzhen, China",aisaac
+"""been""","Campbell, CA, USA",aisaac
+"""been""","Newark, NJ, USA",aisaac
+"""been""","Johannesburg, South Africa",aisaac
+"""been""","Kempton Park, South Africa",aisaac
+"""want""","Singapore, Singapore",aisaac
+"""been""","Quepos, Costa Rica",aisaac
+"""been""","Zermatt, Switzerland",aisaac
+"""been""","Puntarenas, Costa Rica",aisaac
+"""been""","Nogales, AZ, USA",aisaac
+"""been""","Bisbee, AZ, USA",aisaac
+"""been""","St. Moritz, Switzerland",aisaac
+"""been""","Albuquerque, NM, USA",aisaac
+"""been""","Coeur d'Alene, ID, USA",aisaac
+"""been""","Calistoga, CA, USA",aisaac
+"""been""","Walnut Creek, CA, USA",aisaac
+"""been""","Nashville, TN, USA",aisaac
+"""been""","South San Francisco, CA, USA",aisaac
+"""been""","Middleburg, South Africa",aisaac
+"""been""","Guaymas, Mexico",aisaac
+"""been""","San Carlos, Mexico",aisaac
+"""been""","Interlaken, Switzerland",aisaac
+"""been""","Jaco, Costa Rica",aisaac
+"""been""","Montezuma, Costa Rica",aisaac
+"""been""","Sublimity, OR, USA",aisaac
+"""been""","Coronado, CA, USA",aisaac
+"""been""","Mesa, AZ, USA",aisaac
+"""been""","Vancouver, WA, USA",aisaac
+"""been""","Grindelwald, Switzerland",aisaac
+"""been""","Brookline, MA, USA",aisaac
+"""been""","Sonoma, CA, USA",aisaac
+"""been""","Savannah, GA, USA",aisaac
+"""been""","Miami, FL, USA",aisaac
+"""been""","Stowe, VT, USA",aisaac
+"""been""","Miami Beach, FL, USA",aisaac
+"""been""","Austin, TX, USA",aisaac
+"""been""","Plettenberg Bay, South Africa",aisaac
+"""been""","Port Elizabeth, South Africa",aisaac
+"""been""","Solvang, CA, USA",aisaac
+"""been""","Anaheim, CA, USA",aisaac
+"""want""","Auckland, New Zealand",aisaac
+"""been""","Lake Charles, LA, USA",aisaac
+"""been""","Henderson, NV, USA",aisaac
+"""been""","Baton Rouge, LA, USA",aisaac
+"""been""","Lafayette, LA, USA",aisaac
+"""been""","Tijuana, Mexico",aisaac
+"""been""","Ensenada, Mexico",aisaac
+"""been""","Calais, France",aisaac
+"""been""","Incline Village, NV, USA",aisaac
+"""been""","Trieste, Italy",aisaac
+"""been""","Phoenix, AZ, USA",aisaac
+"""been"",""want""","Dublin, Ireland",aisaac
+"""want""","Seoul, South Korea",aisaac
+"""been""","Long Beach, CA, USA",aisaac
+"""been""","New Haven, CT, USA",aisaac
+"""been""","Napa, CA, USA",aisaac
+"""been""","Verbier, Switzerland",aisaac
+"""been""","Gloucester, MA, USA",aisaac
+"""been""","Nogales, Mexico",aisaac
+"""been""","Mystic, CT, USA",aisaac
+"""been""","Bologna, Italy",aisaac
+"""been""","Portland, OR, USA",aisaac
+"""been""","Alexandria, Egypt",aisaac
+"""been""","Kuta, Indonesia",aisaac
+"""been""","Singaraja, Indonesia",aisaac
+"""been""","Denpasar, Indonesia",aisaac
+"""been""","Sacramento, CA, USA",aisaac
+"""been""","Jimbaran, Indonesia",aisaac
+"""been""","Big Sur, CA, USA",aisaac
+"""been""","Paso Robles, CA, USA",aisaac
+"""been""","Long Island City, NY, USA",aisaac
+"""been""","Morro Bay, CA, USA",aisaac
+"""want""","Manila, Philippines",aisaac
+"""been""","Ungasan, Indonesia",aisaac
+"""been""","Mossel Bay, South Africa",aisaac
+"""been""","Montauk, NY, USA",aisaac
+"""been""","Siena, Italy",aisaac
+"""been""","Pasadena, CA, USA",aisaac
+"""been""","Williams, AZ, USA",aisaac
+"""been""","Monterey, CA, USA",aisaac
+"""been""","My Tho, Vietnam",aisaac
+"""been""","Kata Beach, Thailand",aisaac
+"""been""","Reno, NV, USA",aisaac
+"""been""","Siem Reap, Cambodia",aisaac
+"""been""","Edinburgh, UK",aisaac
+"""been""","Chichester, UK",aisaac
+"""been""","Turin, Italy",aisaac
+"""been""","Marina del Rey, CA, USA",aisaac
+"""been""","Glendale, AZ, USA",aisaac
+"""been""","Sedona, AZ, USA",aisaac
+"""been""","Scottsdale, AZ, USA",aisaac
+"""been""","Allentown, PA, USA",aisaac
+"""want""","Buenos Aires, Argentina",aisaac
+"""been""","Birmingham, UK",aisaac
+"""been""","Hermosillo, Mexico",aisaac
+"""been""","Biloxi, MS, USA",aisaac
+"""been""","Silverton, CO, USA",aisaac
+"""been""","Malibu, CA, USA",aisaac
+"""been""","Birmingham, AL, USA",aisaac
+"""been""","Milan, Italy",aisaac
+"""been"",""fave""","Kruger National Park, South Africa",aisaac
+"""been""","Centurion, South Africa",aisaac
+"""been""","Ko Phi Phi Don, Thailand",aisaac
+"""been""","King City, CA, USA",aisaac
+"""been""","Manhattan Beach, CA, USA",aisaac
+"""been""","Wilderness, South Africa",aisaac
+"""been""","Milwaukee, WI, USA",aisaac
+"""been""","South Lake Tahoe, CA, USA",aisaac
+"""been""","Guadalajara, Mexico",aisaac
+"""want""","Banff, Alberta, Canada",aisaac
+"""want""","Mazatlan, Mexico",aisaac
+"""been""","Ho Chi Minh City, Vietnam",aisaac
+"""been""","Como, Italy",aisaac
+"""been""","Phuket, Thailand",aisaac
+"""want""","Hanoi, Vietnam",aisaac
+"""been""","Newport Beach, CA, USA",aisaac
+"""want""","Havana, Cuba",aisaac
+"""been""","Durham, NC, USA",aisaac
+"""want""","Providenciales, Turks and Caicos",aisaac
+"""been""","Pittsburgh, PA, USA",aisaac
+"""been""","Laughlin, NV, USA",aisaac
+"""been""","Las Vegas, NV, USA",aisaac
+"""been""","Bangkok, Thailand",aisaac
+"""been""","Mont-Saint-Michel, France",aisaac
+"""been""","Los Angeles, CA, USA",aisaac
+"""been""","Prescott, AZ, USA",aisaac
+"""been""","Chicago, IL, USA",aisaac
+"""been""","Pismo Beach, CA, USA",aisaac
+"""been""","Genoa, Italy",aisaac
+"""been""","Irvine, CA, USA",aisaac
+"""been""","Fresno, CA, USA",aisaac
+"""been""","Cottonwood, AZ, USA",aisaac
+"""been""","Aloha, OR, USA",aisaac
+"""been""","Huntsville, AL, USA",aisaac
+"""been""","Niagara Falls, NY, USA",aisaac
+"""been""","Pisa, Italy",aisaac
+"""been""","Phnom Penh, Cambodia",aisaac
+"""been"",""fave""","Florence, Italy",aisaac
+"""been""","Kerobokan, Indonesia",aisaac
+"""been""","Huntley, IL, USA",aisaac
+"""been""","Ashland, OR, USA",aisaac
+"""been""","Chelmsford, MA, USA",aisaac
+"""been""","Raleigh, NC, USA",aisaac
+"""been""","Kilkea, Ireland",aisaac
+"""been""","Canterbury, UK",aisaac
+"""want""","Tokyo, Japan",aisaac
+"""been""","Colesberg, South Africa",aisaac
+"""been""","Madrid, Spain",aisaac
+"""been""","Verona, Italy",aisaac
+"""been"",""fave""","Venice, Italy",aisaac
+"""want""","Melbourne, Australia",aisaac
+"""been""","Winchester, UK",aisaac
+"""been""","Mobile, AL, USA",aisaac
+"""been"",""fave""","Ko Phi Phi Lee, Thailand",aisaac
+"""been""","Treviso, Italy",aisaac
+"""been""","Dallas, TX, USA",aisaac
+"""been""","Windsor, UK",aisaac
+"""been""","Montgomery, AL, USA",aisaac
+"""been""","St. Andrews, UK",aisaac
+"""been""","Rockport, MA, USA",aisaac
+"""been""","Bath, UK",aisaac
+"""been""","Bruges, Belgium",aisaac
+"""been""","Pacific Grove, CA, USA",aisaac
+"""been""","Bend, OR, USA",aisaac
+"""been""","Reading, UK",aisaac
+"""been""","Beaverton, OR, USA",aisaac
+"""been""","Palo Alto, CA, USA",aisaac
+"""been""","Avignon, France",aisaac
+"""been""","Palm Springs, CA, USA",aisaac
+"""been""","Sheffield, UK",aisaac
+"""been""","Hamburg, Germany",aisaac
+"""been""","Seminyak, Indonesia",aisaac
+"""been""","Frankfurt, Germany",aisaac
+"""been""","Simon's Town, South Africa",aisaac
+"""been""","Oxford, UK",aisaac
+"""been""","Magaliesburg, South Africa",aisaac
+"""been""","Redding, CA, USA",aisaac
+"""been""","Aix-en-Provence, France",aisaac
+"""want""","Istanbul, Turkey",aisaac
+"""been""","Charlotte, NC, USA",aisaac
+"""been""","Hartford, CT, USA",aisaac
+"""want""","Marrakech, Morocco",aisaac
+"""been""","Milpitas, CA, USA",aisaac
+"""want""","Seville, Spain",aisaac
+"""been""","Cleveland, OH, USA",aisaac
+"""been""","Nottingham, UK",aisaac
+"""been""","Berlin, Germany",aisaac
+"""been""","Jackson, WY, USA",aisaac
+"""been""","Plymouth, MA, USA",aisaac
+"""been""","Niagara Falls, Ontario, Canada",aisaac
+"""been""","Marietta, GA, USA",aisaac
+"""been""","Provincetown, MA, USA",aisaac
+"""been""","Rancho Cucamonga, CA, USA",aisaac
+"""been""","Nuremberg, Germany",aisaac
+"""been""","Vatican City, Vatican City",aisaac
+"""been""","Ontario, CA, USA",aisaac
+"""been""","Mendocino, CA, USA",aisaac
+"""been""","York, UK",aisaac
+"""been""","Cambridge, UK",aisaac
+"""been""","Brussels, Belgium",aisaac
+"""been""","Rome, Italy",aisaac
+"""been""","Park City, UT, USA",aisaac
+"""been""","London, UK",aisaac
+"""been""","Liverpool, UK",aisaac
+"""been""","Antwerp, Belgium",aisaac
+"""been""","Munich, Germany",aisaac
+"""been""","Ojai, CA, USA",aisaac
+"""been""","Chattanooga, TN, USA",aisaac
+"""been""","Blackpool, UK",aisaac
+"""been""","Sorrento, Italy",aisaac
+"""been""","Rotterdam, The Netherlands",aisaac
+"""been""","Naples, Italy",aisaac
+"""been""","Oakland, CA, USA",aisaac
+"""been""","The Hague, The Netherlands",aisaac
+"""been""","Pompeii, Italy",aisaac

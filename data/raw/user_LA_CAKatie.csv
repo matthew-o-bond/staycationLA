@@ -1,0 +1,432 @@
+tag,place,user
+"""been""","Buena Park, CA, USA",CAKatie
+"""been""","Burbank, CA, USA",CAKatie
+"""been""","Aqaba, Jordan",CAKatie
+"""been""","San Francisco, CA, USA",CAKatie
+"""been""","Salem, MA, USA",CAKatie
+"""been""","Friday Harbor, WA, USA",CAKatie
+"""been""","San Antonio, TX, USA",CAKatie
+"""been""","Duluth, MN, USA",CAKatie
+"""been""","Como, Italy",CAKatie
+"""been""","Limerick, Ireland",CAKatie
+"""been""","Bellagio, Italy",CAKatie
+"""want""","Puerto Vallarta, Mexico",CAKatie
+"""been""","East Hampton, NY, USA",CAKatie
+"""been""","Spokane, WA, USA",CAKatie
+"""been"",""fave""","Banff, Alberta, Canada",CAKatie
+"""want""","Zihuatanejo, Mexico",CAKatie
+"""been""","Bergamo, Italy",CAKatie
+"""been""","Edmonton, Alberta, Canada",CAKatie
+"""been""","Healdsburg, CA, USA",CAKatie
+"""been""","Bar Harbor, ME, USA",CAKatie
+"""been""","Lake Louise, Alberta, Canada",CAKatie
+"""been""","Calgary, Alberta, Canada",CAKatie
+"""want""","Austin, TX, USA",CAKatie
+"""been""","Solvang, CA, USA",CAKatie
+"""been""","Sonoma, CA, USA",CAKatie
+"""been""","Miami, FL, USA",CAKatie
+"""been""","Providence, RI, USA",CAKatie
+"""been""","Estes Park, CO, USA",CAKatie
+"""been""","Miami Beach, FL, USA",CAKatie
+"""been""","Milan, Italy",CAKatie
+"""been""","Waterford, Ireland",CAKatie
+"""been""","Stresa, Italy",CAKatie
+"""been""","Sligo, Ireland",CAKatie
+"""been""","Sirmione, Italy",CAKatie
+"""been""","Stowe, VT, USA",CAKatie
+"""been""","Coronado, CA, USA",CAKatie
+"""been""","Burlington, VT, USA",CAKatie
+"""been""","Buffalo, NY, USA",CAKatie
+"""been""","Cambria, CA, USA",CAKatie
+"""been""","Hot Springs, AR, USA",CAKatie
+"""been""","Anaheim, CA, USA",CAKatie
+"""been""","Calais, France",CAKatie
+"""been""","Des Moines, IA, USA",CAKatie
+"""been""","Charleston, SC, USA",CAKatie
+"""been""","Newport, RI, USA",CAKatie
+"""been""","Thomastown, Ireland",CAKatie
+"""been""","Newark, NJ, USA",CAKatie
+"""been""","Flagstaff, AZ, USA",CAKatie
+"""been""","Galway, Ireland",CAKatie
+"""want""","San Pedro, Belize",CAKatie
+"""been""","Dublin, Ireland",CAKatie
+"""been""","Cork, Ireland",CAKatie
+"""been""","Waikoloa, HI, USA",CAKatie
+"""been""","Cabo San Lucas, Mexico",CAKatie
+"""been""","Calistoga, CA, USA",CAKatie
+"""been""","Bakersfield, CA, USA",CAKatie
+"""been""","Dana Point, CA, USA",CAKatie
+"""been""","Moab, UT, USA",CAKatie
+"""want""","Willemstad, Curacao",CAKatie
+"""been""","Mont-Saint-Michel, France",CAKatie
+"""been"",""fave""","Bangkok, Thailand",CAKatie
+"""been""","Taipei, Taiwan",CAKatie
+"""been""","Kilkenny, Ireland",CAKatie
+"""been""","Portofino, Italy",CAKatie
+"""been""","Genoa, Italy",CAKatie
+"""been""","Killarney, Ireland",CAKatie
+"""been""","Santa Fe, NM, USA",CAKatie
+"""been""","St. Helena, CA, USA",CAKatie
+"""been""","Fiumicino, Italy",CAKatie
+"""been""","Colorado Springs, CO, USA",CAKatie
+"""been""","Marina del Rey, CA, USA",CAKatie
+"""been""","Scottsdale, AZ, USA",CAKatie
+"""been""","Playa Hermosa, Costa Rica",CAKatie
+"""want""","Cape Town Central, South Africa",CAKatie
+"""want""","Ho Chi Minh City, Vietnam",CAKatie
+"""been""","Reno, NV, USA",CAKatie
+"""been""","Madrid, Spain",CAKatie
+"""been""","Green Bay, WI, USA",CAKatie
+"""been""","Helsinki, Finland",CAKatie
+"""been""","Inverness, UK",CAKatie
+"""been""","Verona, Italy",CAKatie
+"""been""","Mendoza, Argentina",CAKatie
+"""been""","Venice, Italy",CAKatie
+"""been""","Sedona, AZ, USA",CAKatie
+"""been""","Yountville, CA, USA",CAKatie
+"""been""","Roissy-en-France, France",CAKatie
+"""been""","La Jolla, CA, USA",CAKatie
+"""been""","Detroit, MI, USA",CAKatie
+"""been""","Tamarindo, Costa Rica",CAKatie
+"""been""","Dearborn, MI, USA",CAKatie
+"""been""","Dover, UK",CAKatie
+"""been""","Vancouver, British Columbia, Canada",CAKatie
+"""been""","Big Sur, CA, USA",CAKatie
+"""been""","Whistler, British Columbia, Canada",CAKatie
+"""been""","Victoria, British Columbia, Canada",CAKatie
+"""been""","Manly, Australia",CAKatie
+"""been""","Vail, CO, USA",CAKatie
+"""been""","Laguna Beach, CA, USA",CAKatie
+"""been""","Albuquerque, NM, USA",CAKatie
+"""been""","Elk, CA, USA",CAKatie
+"""been""","Ocean City, MD, USA",CAKatie
+"""been""","Jamaica, NY, USA",CAKatie
+"""been""","Airlie Beach, Australia",CAKatie
+"""been""","Turin, Italy",CAKatie
+"""been""","Wexford, Ireland",CAKatie
+"""been""","Edinburgh, UK",CAKatie
+"""been""","Tempe, AZ, USA",CAKatie
+"""been""","Hakone-machi, Japan",CAKatie
+"""been""","Buenos Aires, Argentina",CAKatie
+"""been""","Boulder, CO, USA",CAKatie
+"""been""","Salt Lake City, UT, USA",CAKatie
+"""been""","Glenwood Springs, CO, USA",CAKatie
+"""been""","Bagaces, Costa Rica",CAKatie
+"""been""","Escondido, CA, USA",CAKatie
+"""been""","Breckenridge, CO, USA",CAKatie
+"""been""","Agoura Hills, CA, USA",CAKatie
+"""been""","La Coruna, Spain",CAKatie
+"""been""","Santiago de Compostela, Spain",CAKatie
+"""been""","Windsor, UK",CAKatie
+"""been""","Glasgow, UK",CAKatie
+"""been"",""want""","Tarragona, Spain",CAKatie
+"""been""","St. Andrews, UK",CAKatie
+"""been""","Palm Beach, FL, USA",CAKatie
+"""been""","Mountain View, CA, USA",CAKatie
+"""been""","Quepos, Costa Rica",CAKatie
+"""been""","Fort Bragg, CA, USA",CAKatie
+"""been""","Lugano, Switzerland",CAKatie
+"""been""","Indian Wells, CA, USA",CAKatie
+"""been""","Freeport, Bahamas",CAKatie
+"""been""","Napa, CA, USA",CAKatie
+"""been"",""want""","Porto, Portugal",CAKatie
+"""been""","Long Beach, CA, USA",CAKatie
+"""been""","Henderson, NV, USA",CAKatie
+"""been""","Garda, Italy",CAKatie
+"""want""","Wadi Rum, Jordan",CAKatie
+"""been""","Alexandria, VA, USA",CAKatie
+"""been""","Phoenix, AZ, USA",CAKatie
+"""been""","Caneel Bay, U.S. Virgin Islands",CAKatie
+"""been""","Pismo Beach, CA, USA",CAKatie
+"""been""","Avalon, CA, USA",CAKatie
+"""been"",""fave""","Riva Del Garda, Italy",CAKatie
+"""been""","Cruz Bay, U.S. Virgin Islands",CAKatie
+"""been""","Los Angeles, CA, USA",CAKatie
+"""been""","Fresno, CA, USA",CAKatie
+"""been""","Chicago, IL, USA",CAKatie
+"""been""","San Jose, Costa Rica",CAKatie
+"""been""","Laughlin, NV, USA",CAKatie
+"""been""","Las Vegas, NV, USA",CAKatie
+"""been""","Dingle, Ireland",CAKatie
+"""been""","Laguardia, Spain",CAKatie
+"""been""","Montreal, Quebec, Canada",CAKatie
+"""been""","Cong, Ireland",CAKatie
+"""been""","Singapore, Singapore",CAKatie
+"""been""","Zermatt, Switzerland",CAKatie
+"""been""","Garden Grove, CA, USA",CAKatie
+"""been""","Ravello, Italy",CAKatie
+"""want""","Dubrovnik, Croatia",CAKatie
+"""been""","Annapolis, MD, USA",CAKatie
+"""want""","Sharm El Sheikh, Egypt",CAKatie
+"""been""","Taba, Egypt",CAKatie
+"""been""","Saint Louis, MO, USA",CAKatie
+"""been""","Waitomo Caves, New Zealand",CAKatie
+"""been""","Newport Beach, CA, USA",CAKatie
+"""been""","Arlington, VA, USA",CAKatie
+"""been""","Los Olivos, CA, USA",CAKatie
+"""been""","Aspen, CO, USA",CAKatie
+"""want""","Positano, Italy",CAKatie
+"""been""","West Palm Beach, FL, USA",CAKatie
+"""been""","Malibu, CA, USA",CAKatie
+"""been""","Interlaken, Switzerland",CAKatie
+"""been""","Manhattan Beach, CA, USA",CAKatie
+"""been""","Negril, Jamaica",CAKatie
+"""been""","Ocho Rios, Jamaica",CAKatie
+"""been""","Kansas City, MO, USA",CAKatie
+"""been""","Jaco, Costa Rica",CAKatie
+"""been""","Minneapolis, MN, USA",CAKatie
+"""been""","Biloxi, MS, USA",CAKatie
+"""been""","Manuel Antonio, Costa Rica",CAKatie
+"""been""","Breaux Bridge, LA, USA",CAKatie
+"""been""","San Juan, Puerto Rico",CAKatie
+"""been""","Birmingham, AL, USA",CAKatie
+"""been""","Portland, OR, USA",CAKatie
+"""been""","Marigot, St Martin \u002F St Maarten",CAKatie
+"""been""","Philipsburg, St Martin \u002F St Maarten",CAKatie
+"""been""","Pacific Grove, CA, USA",CAKatie
+"""been""","Ann Arbor, MI, USA",CAKatie
+"""been""","Palm Desert, CA, USA",CAKatie
+"""been""","Palm Springs, CA, USA",CAKatie
+"""been""","Palo Alto, CA, USA",CAKatie
+"""been""","Rincon, Puerto Rico",CAKatie
+"""been""","Monterey, CA, USA",CAKatie
+"""been""","Pasadena, CA, USA",CAKatie
+"""been""","Rimini, Italy",CAKatie
+"""been""","Bologna, Italy",CAKatie
+"""been""","Dallas, TX, USA",CAKatie
+"""been""","Orient Bay, St Martin \u002F St Maarten",CAKatie
+"""been"",""fave""","Paso Robles, CA, USA",CAKatie
+"""been""","George Town, Cayman Islands",CAKatie
+"""been""","Kyoto, Japan",CAKatie
+"""been""","Seven Mile Beach, Cayman Islands",CAKatie
+"""been""","Osaka, Japan",CAKatie
+"""been""","Morro Bay, CA, USA",CAKatie
+"""been""","Milwaukee, WI, USA",CAKatie
+"""been""","Pittsburgh, PA, USA",CAKatie
+"""been""","Ensenada, Mexico",CAKatie
+"""been""","Rosarito, Mexico",CAKatie
+"""been""","Seoul, South Korea",CAKatie
+"""been""","Tijuana, Mexico",CAKatie
+"""been""","Rapid City, SD, USA",CAKatie
+"""been""","Kuala Lumpur, Malaysia",CAKatie
+"""been""","Huntington Beach, CA, USA",CAKatie
+"""been""","Mystic, CT, USA",CAKatie
+"""been""","Sacramento, CA, USA",CAKatie
+"""been""","Assisi, Italy",CAKatie
+"""been""","Ronda, Spain",CAKatie
+"""been""","San Gimignano, Italy",CAKatie
+"""been""","Gloucester, MA, USA",CAKatie
+"""been""","Siena, Italy",CAKatie
+"""been""","Fort Worth, TX, USA",CAKatie
+"""been""","Vienna, Austria",CAKatie
+"""been""","Katoomba, Australia",CAKatie
+"""been""","Oklahoma City, OK, USA",CAKatie
+"""been""","Baden-Baden, Germany",CAKatie
+"""been"",""fave""","Sydney, Australia",CAKatie
+"""been""","Stuttgart, Germany",CAKatie
+"""been""","Salzburg, Austria",CAKatie
+"""been""","Park City, UT, USA",CAKatie
+"""been""","Oakland, CA, USA",CAKatie
+"""been""","Innsbruck, Austria",CAKatie
+"""been""","Niagara Falls, NY, USA",CAKatie
+"""been""","Ojai, CA, USA",CAKatie
+"""been""","Lake Geneva, WI, USA",CAKatie
+"""been""","Ogunquit, ME, USA",CAKatie
+"""been""","Old Orchard Beach, ME, USA",CAKatie
+"""want""","Santiago, Chile",CAKatie
+"""want""","Prague, Czech Republic",CAKatie
+"""been""","Guatemala City, Guatemala",CAKatie
+"""been""","Kapalua, HI, USA",CAKatie
+"""been""","Heidelberg, Germany",CAKatie
+"""been""","Chamonix, France",CAKatie
+"""been""","Amsterdam, The Netherlands",CAKatie
+"""been""","Holloways Beach, Australia",CAKatie
+"""been""","Rancho Mirage, CA, USA",CAKatie
+"""been""","Mendocino, CA, USA",CAKatie
+"""been""","Menlo Park, CA, USA",CAKatie
+"""been""","Lausanne, Switzerland",CAKatie
+"""been""","Reims, France",CAKatie
+"""been"",""want""","Barcelona, Spain",CAKatie
+"""been""","Marseille, France",CAKatie
+"""been""","Segovia, Spain",CAKatie
+"""been""","Dusseldorf, Germany",CAKatie
+"""been""","Carcassonne Center, France",CAKatie
+"""been""","Kennebunkport, ME, USA",CAKatie
+"""want""","Nairobi, Kenya",CAKatie
+"""been""","Foz do Iguacu, Brazil",CAKatie
+"""been""","Montevideo, Uruguay",CAKatie
+"""been"",""fave""","Paris, France",CAKatie
+"""been""","Zurich, Switzerland",CAKatie
+"""been""","Tulsa, OK, USA",CAKatie
+"""been""","Haarlem, The Netherlands",CAKatie
+"""been""","Collingwood, Australia",CAKatie
+"""been""","Bend, OR, USA",CAKatie
+"""been""","Hong Kong, China",CAKatie
+"""been""","Chacras de Coria, Argentina",CAKatie
+"""been""","Beijing, China",CAKatie
+"""been""","Basel, Switzerland",CAKatie
+"""want""","Bordeaux, France",CAKatie
+"""been""","Boise, ID, USA",CAKatie
+"""been""","Saumur, France",CAKatie
+"""been""","Lucerne, Switzerland",CAKatie
+"""want""","Queenstown, New Zealand",CAKatie
+"""been""","Ka'anapali, HI, USA",CAKatie
+"""been""","Hilo, HI, USA",CAKatie
+"""been""","Geneva, Switzerland",CAKatie
+"""been""","Tulum, Mexico",CAKatie
+"""been""","Charlotte Amalie, U.S. Virgin Islands",CAKatie
+"""been""","Rotorua, New Zealand",CAKatie
+"""been""","Boothbay Harbor, ME, USA",CAKatie
+"""been""","Jackson, WY, USA",CAKatie
+"""been""","Freeport, ME, USA",CAKatie
+"""been""","Raleigh, NC, USA",CAKatie
+"""been""","Lake George, NY, USA",CAKatie
+"""want""","Christchurch, New Zealand",CAKatie
+"""been""","North Conway, NH, USA",CAKatie
+"""been""","Abalos, Spain",CAKatie
+"""been""","San Salvador, El Salvador",CAKatie
+"""been""","Oslo, Norway",CAKatie
+"""been""","Galena, IL, USA",CAKatie
+"""been""","Big Pine Key, FL, USA",CAKatie
+"""been""","Lille, France",CAKatie
+"""been""","Playa del Carmen, Mexico",CAKatie
+"""been""","Auckland Central, New Zealand",CAKatie
+"""want""","Perth, Australia",CAKatie
+"""been""","Cancun, Mexico",CAKatie
+"""been""","Hyannis, MA, USA",CAKatie
+"""been""","Mestre, Italy",CAKatie
+"""been""","Chichen Itza, Mexico",CAKatie
+"""been""","Melbourne, Australia",CAKatie
+"""been""","Toronto, Ontario, Canada",CAKatie
+"""been""","Viareggio, Italy",CAKatie
+"""been""","Fajardo, Puerto Rico",CAKatie
+"""been""","Mexico City, Mexico",CAKatie
+"""been""","Colonia del Sacramento, Uruguay",CAKatie
+"""been""","Saratoga, CA, USA",CAKatie
+"""been""","Portland, ME, USA",CAKatie
+"""been""","Gettysburg, PA, USA",CAKatie
+"""been""","Bellingham, WA, USA",CAKatie
+"""been""","Mammoth Lakes, CA, USA",CAKatie
+"""been""","Philadelphia, PA, USA",CAKatie
+"""been""","Marbella, Spain",CAKatie
+"""been""","Rothenburg, Germany",CAKatie
+"""been""","London, Ontario, Canada",CAKatie
+"""been""","Malaga, Spain",CAKatie
+"""been""","Niagara Falls, Ontario, Canada",CAKatie
+"""been""","Lauderdale-By-The-Sea, FL, USA",CAKatie
+"""been""","Niagara-on-the-Lake, Ontario, Canada",CAKatie
+"""been""","Brussels, Belgium",CAKatie
+"""been""","Stockholm, Sweden",CAKatie
+"""been""","Santa Monica, CA, USA",CAKatie
+"""been""","Cadiz, Spain",CAKatie
+"""been""","Waterloo, IA, USA",CAKatie
+"""want""","Reykjavik, Iceland",CAKatie
+"""been""","Santa Rosa, CA, USA",CAKatie
+"""been""","Santa Ynez, CA, USA",CAKatie
+"""been""","Rome, Italy",CAKatie
+"""been""","Longboat Key, FL, USA",CAKatie
+"""been""","Guanica, Puerto Rico",CAKatie
+"""been""","Death Valley Junction, CA, USA",CAKatie
+"""been""","West Yarmouth, MA, USA",CAKatie
+"""been""","Aix-en-Provence, France",CAKatie
+"""want""","Istanbul, Turkey",CAKatie
+"""want""","Berlin, Germany",CAKatie
+"""been""","Auckland, New Zealand",CAKatie
+"""been""","Sausalito, CA, USA",CAKatie
+"""been""","Coral Gables, FL, USA",CAKatie
+"""been""","Torremolinos, Spain",CAKatie
+"""been""","Limone sul Garda, Italy",CAKatie
+"""been""","Tokyo, Japan",CAKatie
+"""been""","Fargo, ND, USA",CAKatie
+"""been""","Calas de Majorca, Spain",CAKatie
+"""been""","Big Bear Lake, CA, USA",CAKatie
+"""been""","Malmo, Sweden",CAKatie
+"""been""","Pisa, Italy",CAKatie
+"""been""","Tel Aviv, Israel",CAKatie
+"""been""","Delft, The Netherlands",CAKatie
+"""been""","Jerusalem, Israel",CAKatie
+"""been""","Lucca, Italy",CAKatie
+"""been""","Florence, Italy",CAKatie
+"""been""","Eilat, Israel",CAKatie
+"""been""","Eugene, OR, USA",CAKatie
+"""been""","Indianapolis, IN, USA",CAKatie
+"""been""","Teton Village, WY, USA",CAKatie
+"""been""","Washington DC, DC, USA",CAKatie
+"""been""","Cody, WY, USA",CAKatie
+"""been""","Munich, Germany",CAKatie
+"""been""","London, UK",CAKatie
+"""been""","Rotterdam, The Netherlands",CAKatie
+"""want""","Naples, Italy",CAKatie
+"""been""","Petra - Wadi Musa, Jordan",CAKatie
+"""been""","Hollywood, FL, USA",CAKatie
+"""want""","Sorrento, Italy",CAKatie
+"""want""","Amalfi, Italy",CAKatie
+"""been""","Kihei, HI, USA",CAKatie
+"""been""","Lahaina, HI, USA",CAKatie
+"""been""","Kula, HI, USA",CAKatie
+"""been""","Paia, HI, USA",CAKatie
+"""been""","Seattle, WA, USA",CAKatie
+"""been""","Fort Lauderdale, FL, USA",CAKatie
+"""been""","Makawao, HI, USA",CAKatie
+"""been""","Portsmouth, NH, USA",CAKatie
+"""been""","Kailua-Kona, HI, USA",CAKatie
+"""been""","Hana, HI, USA",CAKatie
+"""been"",""fave""","San Diego, CA, USA",CAKatie
+"""been""","Lanai City, HI, USA",CAKatie
+"""been""","Nice, France",CAKatie
+"""been""","Billund, Denmark",CAKatie
+"""been""","Gothenburg, Sweden",CAKatie
+"""been""","West Hollywood, CA, USA",CAKatie
+"""been""","Aarhus, Denmark",CAKatie
+"""been""","San Clemente, CA, USA",CAKatie
+"""been""","Denver, CO, USA",CAKatie
+"""been""","Lihue, HI, USA",CAKatie
+"""been""","San Luis Obispo, CA, USA",CAKatie
+"""been""","New Orleans, LA, USA",CAKatie
+"""been""","Poipu, HI, USA",CAKatie
+"""been""","San Marino, CA, USA",CAKatie
+"""been""","Boston, MA, USA",CAKatie
+"""been""","Princeville, HI, USA",CAKatie
+"""been""","Honolulu, HI, USA",CAKatie
+"""been""","Puerto Iguazu, Argentina",CAKatie
+"""been""","Rochester, NY, USA",CAKatie
+"""been""","Madison, WI, USA",CAKatie
+"""been""","Carlsbad, CA, USA",CAKatie
+"""been"",""fave""","Carmel, CA, USA",CAKatie
+"""been""","Desert Hot Springs, CA, USA",CAKatie
+"""been""","San Jose, CA, USA",CAKatie
+"""been""","Saint-Tropez, France",CAKatie
+"""been""","Copenhagen, Denmark",CAKatie
+"""been""","Houston, TX, USA",CAKatie
+"""been""","Monte-Carlo, Monaco",CAKatie
+"""been""","Atlanta, GA, USA",CAKatie
+"""been""","Bath, UK",CAKatie
+"""been""","San Simeon, CA, USA",CAKatie
+"""been""","Schaumburg, IL, USA",CAKatie
+"""been""","Cambridge, MA, USA",CAKatie
+"""been""","Wailea, HI, USA",CAKatie
+"""been""","Richmond, VA, USA",CAKatie
+"""been""","Frankfurt, Germany",CAKatie
+"""been""","Berkeley, CA, USA",CAKatie
+"""been""","Durango, CO, USA",CAKatie
+"""been""","Omaha, NE, USA",CAKatie
+"""been""","New York City, NY, USA",CAKatie
+"""been""","Santa Cruz, CA, USA",CAKatie
+"""been""","Little Rock, AR, USA",CAKatie
+"""been""","Wisconsin Dells, WI, USA",CAKatie
+"""been""","El Paso, TX, USA",CAKatie
+"""been""","Charlottesville, VA, USA",CAKatie
+"""been""","Cairns, Australia",CAKatie
+"""been""","Brisbane, Australia",CAKatie
+"""been""","Ventura, CA, USA",CAKatie
+"""been""","Anchorage, AK, USA",CAKatie
+"""been""","Beverly Hills, CA, USA",CAKatie
+"""been""","Bergen, Norway",CAKatie
+"""been""","St. George, UT, USA",CAKatie
+"""been""","Townsville, Australia",CAKatie
+"""want""","Surfers Paradise, Australia",CAKatie
+"""been""","Palma de Mallorca, Spain",CAKatie
+"""been""","Cannes, France",CAKatie
+"""been""","Temecula, CA, USA",CAKatie
+"""been""","Port Douglas, Australia",CAKatie
+"""been""","Santa Barbara, CA, USA",CAKatie

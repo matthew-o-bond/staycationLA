@@ -1,0 +1,959 @@
+tag,place,user
+"""want""","Kalpetta, India",mermaidsylvia
+"""want""","Bandung, Indonesia",mermaidsylvia
+"""want""","Surfers Paradise, Australia",mermaidsylvia
+"""been""","Portsmouth, NH, USA",mermaidsylvia
+"""want""","Naples, FL, USA",mermaidsylvia
+"""want""","Denarau Island, Fiji",mermaidsylvia
+"""want""","La Pineda, Spain",mermaidsylvia
+"""want""","Milano Marittima, Italy",mermaidsylvia
+"""been""","Fort Lauderdale, FL, USA",mermaidsylvia
+"""want""","Playa del Secreto, Mexico",mermaidsylvia
+"""want""","Watford, UK",mermaidsylvia
+"""want""","Darwin, Australia",mermaidsylvia
+"""want""","Cairns, Australia",mermaidsylvia
+"""been""","Cincinnati, OH, USA",mermaidsylvia
+"""want""","Brisbane, Australia",mermaidsylvia
+"""want""","Las Terrenas, Dominican Republic",mermaidsylvia
+"""want""","Angra Dos Reis, Brazil",mermaidsylvia
+"""want""","Nairobi, Kenya",mermaidsylvia
+"""been""","Charlottesville, VA, USA",mermaidsylvia
+"""want""","Holguin, Cuba",mermaidsylvia
+"""been""","Oslo, Norway",mermaidsylvia
+"""want""","Corralejo, Spain",mermaidsylvia
+"""been""","Culver City, CA, USA",mermaidsylvia
+"""want""","Montegrotto Terme, Italy",mermaidsylvia
+"""been""","Colorado Springs, CO, USA",mermaidsylvia
+"""want""","Cadaques, Spain",mermaidsylvia
+"""want""","Trinidad, Cuba",mermaidsylvia
+"""want""","Cambrils, Spain",mermaidsylvia
+"""want""","El Paso, TX, USA",mermaidsylvia
+"""want""","Calella, Spain",mermaidsylvia
+"""been""","Dana Point, CA, USA",mermaidsylvia
+"""want""","St. George, UT, USA",mermaidsylvia
+"""want""","Nong Thale, Thailand",mermaidsylvia
+"""want""","Little Rock, AR, USA",mermaidsylvia
+"""want""","Tromso, Norway",mermaidsylvia
+"""want""","Shibukawa, Japan",mermaidsylvia
+"""want""","Manchester, UK",mermaidsylvia
+"""want""","Wroclaw, Poland",mermaidsylvia
+"""want""","Cairo, Egypt",mermaidsylvia
+"""been""","Newark, NJ, USA",mermaidsylvia
+"""want""","Armacao dos Buzios, Brazil",mermaidsylvia
+"""been"",""want""","New York City, NY, USA",mermaidsylvia
+"""want""","Giza, Egypt",mermaidsylvia
+"""want""","Hong Kong, China",mermaidsylvia
+"""want""","Playa Mujeres, Mexico",mermaidsylvia
+"""been""","Anaheim, CA, USA",mermaidsylvia
+"""want""","Fajardo, Puerto Rico",mermaidsylvia
+"""want""","Madonna Di Campiglio, Italy",mermaidsylvia
+"""want""","Knoxville, TN, USA",mermaidsylvia
+"""want""","Rincon de Guayabitos, Mexico",mermaidsylvia
+"""been""","Salzburg, Austria",mermaidsylvia
+"""want""","Parga, Greece",mermaidsylvia
+"""want""","Isle of Palms, SC, USA",mermaidsylvia
+"""want""","Puri, India",mermaidsylvia
+"""want""","New Delhi, India",mermaidsylvia
+"""want""","Zagreb, Croatia",mermaidsylvia
+"""want""","Beijing, China",mermaidsylvia
+"""want""","Bucharest, Romania",mermaidsylvia
+"""want""","Jakarta, Indonesia",mermaidsylvia
+"""want""","Mysuru (Mysore), India",mermaidsylvia
+"""want""","Mumbai, India",mermaidsylvia
+"""been""","Coronado, CA, USA",mermaidsylvia
+"""been""","Vienna, Austria",mermaidsylvia
+"""want""","Jaipur, India",mermaidsylvia
+"""want""","Chennai (Madras), India",mermaidsylvia
+"""been""","Solvang, CA, USA",mermaidsylvia
+"""want""","Tallahassee, FL, USA",mermaidsylvia
+"""want""","Darjeeling, India",mermaidsylvia
+"""want""","Kolkata (Calcutta), India",mermaidsylvia
+"""want""","Stuttgart, Germany",mermaidsylvia
+"""want""","Rishikesh, India",mermaidsylvia
+"""been""","Miami, FL, USA",mermaidsylvia
+"""want""","Freiburg im Breisgau, Germany",mermaidsylvia
+"""been""","Sonoma, CA, USA",mermaidsylvia
+"""want""","Tampa, FL, USA",mermaidsylvia
+"""been""","Bethlehem, PA, USA",mermaidsylvia
+"""want""","Heidelberg, Germany",mermaidsylvia
+"""been""","Miami Beach, FL, USA",mermaidsylvia
+"""want""","Magny-le-Hongre, France",mermaidsylvia
+"""want""","Le Touquet \u2013 Paris-Plage, France",mermaidsylvia
+"""want""","Cayo Largo, Cuba",mermaidsylvia
+"""want""","Diani Beach, Kenya",mermaidsylvia
+"""want""","Canberra, Australia",mermaidsylvia
+"""been""","Bar Harbor, ME, USA",mermaidsylvia
+"""want""","San Antonio, TX, USA",mermaidsylvia
+"""been""","San Francisco, CA, USA",mermaidsylvia
+"""want""","Burgos, Spain",mermaidsylvia
+"""want""","Salem, MA, USA",mermaidsylvia
+"""want""","Leon, Spain",mermaidsylvia
+"""been""","Salamanca, Spain",mermaidsylvia
+"""want""","Segovia, Spain",mermaidsylvia
+"""been""","Memphis, TN, USA",mermaidsylvia
+"""want""","Valladolid, Spain",mermaidsylvia
+"""been""","Marseille, France",mermaidsylvia
+"""want""","Santa Fe, NM, USA",mermaidsylvia
+"""been""","Barcelona, Spain",mermaidsylvia
+"""want""","Richmond, British Columbia, Canada",mermaidsylvia
+"""want""","Girona, Spain",mermaidsylvia
+"""been""","West Yellowstone, MT, USA",mermaidsylvia
+"""want""","Denia, Spain",mermaidsylvia
+"""want""","Lausanne, Switzerland",mermaidsylvia
+"""want""","Bled, Slovenia",mermaidsylvia
+"""been""","Tucson, AZ, USA",mermaidsylvia
+"""want""","Arusha, Tanzania",mermaidsylvia
+"""want""","Foz do Iguacu, Brazil",mermaidsylvia
+"""want""","Cha-am, Thailand",mermaidsylvia
+"""been""","Beverly Hills, CA, USA",mermaidsylvia
+"""been""","Temecula, CA, USA",mermaidsylvia
+"""want""","Peniscola, Spain",mermaidsylvia
+"""want""","Moab, UT, USA",mermaidsylvia
+"""been""","Amsterdam, The Netherlands",mermaidsylvia
+"""want""","Annecy, France",mermaidsylvia
+"""want""","Zurich, Switzerland",mermaidsylvia
+"""been""","Jerez De La Frontera, Spain",mermaidsylvia
+"""want""","Warsaw, Poland",mermaidsylvia
+"""want""","Tsilivi, Greece",mermaidsylvia
+"""want""","Taichung, Taiwan",mermaidsylvia
+"""want""","Accra, Ghana",mermaidsylvia
+"""want""","Monte-Carlo, Monaco",mermaidsylvia
+"""want""","Playa Maroma, Mexico",mermaidsylvia
+"""want""","Adelaide, Australia",mermaidsylvia
+"""been""","Gainesville, FL, USA",mermaidsylvia
+"""want""","Porto Cristo, Spain",mermaidsylvia
+"""want""","Port d'Alcudia, Spain",mermaidsylvia
+"""been""","Berkeley, CA, USA",mermaidsylvia
+"""want""","Sa Coma, Spain",mermaidsylvia
+"""been""","Newport, RI, USA",mermaidsylvia
+"""want""","Las Palmas de Gran Canaria, Spain",mermaidsylvia
+"""been""","Gothenburg, Sweden",mermaidsylvia
+"""been"",""want""","Nice, France",mermaidsylvia
+"""want""","Hua Hin, Thailand",mermaidsylvia
+"""been""","Flagstaff, AZ, USA",mermaidsylvia
+"""want""","Guatemala City, Guatemala",mermaidsylvia
+"""want""","Fort Myers Beach, FL, USA",mermaidsylvia
+"""been""","Desert Hot Springs, CA, USA",mermaidsylvia
+"""want""","Fort Myers, FL, USA",mermaidsylvia
+"""been""","Denver, CO, USA",mermaidsylvia
+"""want""","Houston, TX, USA",mermaidsylvia
+"""want""","Magaluf, Spain",mermaidsylvia
+"""want""","Palmanova, Spain",mermaidsylvia
+"""been""","Boston, MA, USA",mermaidsylvia
+"""want""","Puerto de la Cruz, Spain",mermaidsylvia
+"""been""","Santa Cruz de Tenerife, Spain",mermaidsylvia
+"""want""","Begur, Spain",mermaidsylvia
+"""want""","Lindos, Greece",mermaidsylvia
+"""want""","Santander, Spain",mermaidsylvia
+"""want""","Maastricht, The Netherlands",mermaidsylvia
+"""want""","Rethymnon, Greece",mermaidsylvia
+"""want""","Patong, Thailand",mermaidsylvia
+"""want""","Toledo, Spain",mermaidsylvia
+"""want""","Hobart, Australia",mermaidsylvia
+"""want""","Rawai, Thailand",mermaidsylvia
+"""want""","Ocean City, NJ, USA",mermaidsylvia
+"""been""","Honolulu, HI, USA",mermaidsylvia
+"""want""","Dar es Salaam, Tanzania",mermaidsylvia
+"""been""","Scottsdale, AZ, USA",mermaidsylvia
+"""been""","Marina del Rey, CA, USA",mermaidsylvia
+"""been""","Sedona, AZ, USA",mermaidsylvia
+"""want""","Ixtapa, Mexico",mermaidsylvia
+"""want""","Nara, Japan",mermaidsylvia
+"""want""","Rust, Germany",mermaidsylvia
+"""want""","Playa el Agua, Venezuela",mermaidsylvia
+"""been""","Allentown, PA, USA",mermaidsylvia
+"""want""","Lloret de Mar, Spain",mermaidsylvia
+"""want""","Sheffield, UK",mermaidsylvia
+"""been""","Arles, France",mermaidsylvia
+"""want""","Bilbao, Spain",mermaidsylvia
+"""want""","San Sebastian - Donostia, Spain",mermaidsylvia
+"""want""","Tel Aviv, Israel",mermaidsylvia
+"""want""","Jerusalem, Israel",mermaidsylvia
+"""been""","Minneapolis, MN, USA",mermaidsylvia
+"""been""","Glendale, CA, USA",mermaidsylvia
+"""want""","Eureka Springs, AR, USA",mermaidsylvia
+"""been""","Manhattan Beach, CA, USA",mermaidsylvia
+"""been""","Salt Lake City, UT, USA",mermaidsylvia
+"""been""","Malibu, CA, USA",mermaidsylvia
+"""want""","Corpus Christi, TX, USA",mermaidsylvia
+"""want""","Palma de Mallorca, Spain",mermaidsylvia
+"""been""","Cannes, France",mermaidsylvia
+"""been""","Athens, Greece",mermaidsylvia
+"""want""","Ciutadella, Spain",mermaidsylvia
+"""want""","Juan-les-Pins, France",mermaidsylvia
+"""want""","Olhos de Agua, Portugal",mermaidsylvia
+"""want""","Portland, OR, USA",mermaidsylvia
+"""been""","Arlington, VA, USA",mermaidsylvia
+"""been""","Albuquerque, NM, USA",mermaidsylvia
+"""want""","Watamu, Kenya",mermaidsylvia
+"""want""","St. Petersburg, FL, USA",mermaidsylvia
+"""want""","St. Pete Beach, FL, USA",mermaidsylvia
+"""been""","Cordoba, Spain",mermaidsylvia
+"""want""","Cadiz, Spain",mermaidsylvia
+"""want""","Chiclana de la Frontera, Spain",mermaidsylvia
+"""been""","Stockholm, Sweden",mermaidsylvia
+"""want""","Victoria Falls, Zimbabwe",mermaidsylvia
+"""want""","Estepona, Spain",mermaidsylvia
+"""want""","Malaga, Spain",mermaidsylvia
+"""been""","Las Vegas, NV, USA",mermaidsylvia
+"""want""","Puerto Calero, Spain",mermaidsylvia
+"""been""","Durham, NC, USA",mermaidsylvia
+"""been""","Pismo Beach, CA, USA",mermaidsylvia
+"""been""","Los Angeles, CA, USA",mermaidsylvia
+"""want""","Estes Park, CO, USA",mermaidsylvia
+"""been"",""want""","Fresno, CA, USA",mermaidsylvia
+"""want""","Hounslow, UK",mermaidsylvia
+"""want""","Torremolinos, Spain",mermaidsylvia
+"""want""","Protaras, Cyprus",mermaidsylvia
+"""been""","Granada, Spain",mermaidsylvia
+"""been""","Providence, RI, USA",mermaidsylvia
+"""been""","Seville, Spain",mermaidsylvia
+"""want""","La Rochelle, France",mermaidsylvia
+"""want""","Zaragoza, Spain",mermaidsylvia
+"""been""","Malmo, Sweden",mermaidsylvia
+"""been""","Oia, Greece",mermaidsylvia
+"""want""","Playa de Fanabe, Spain",mermaidsylvia
+"""been""","Fira, Greece",mermaidsylvia
+"""want""","Halifax, Nova Scotia, Canada",mermaidsylvia
+"""want""","Conil de la Frontera, Spain",mermaidsylvia
+"""want""","Bowness-on-Windermere, UK",mermaidsylvia
+"""want""","Palermo, Italy",mermaidsylvia
+"""been""","Florence, Italy",mermaidsylvia
+"""want""","Grasmere, UK",mermaidsylvia
+"""want""","Livorno, Italy",mermaidsylvia
+"""want""","West Bay, Honduras",mermaidsylvia
+"""want""","Almeria, Spain",mermaidsylvia
+"""want""","Lucea, Jamaica",mermaidsylvia
+"""want""","St. John's, Newfoundland and Labrador, Canada",mermaidsylvia
+"""want""","Hakone-machi, Japan",mermaidsylvia
+"""been""","Greenville, SC, USA",mermaidsylvia
+"""want""","Breckenridge, CO, USA",mermaidsylvia
+"""want""","Boulder, CO, USA",mermaidsylvia
+"""want""","Narita, Japan",mermaidsylvia
+"""want""","Windermere, UK",mermaidsylvia
+"""want""","Ayr, UK",mermaidsylvia
+"""want""","Blackpool, UK",mermaidsylvia
+"""want""","Higashiizu-cho, Japan",mermaidsylvia
+"""want""","Liverpool, UK",mermaidsylvia
+"""want""","Karon, Thailand",mermaidsylvia
+"""been""","London, UK",mermaidsylvia
+"""want""","Phuket Town, Thailand",mermaidsylvia
+"""want""","Kingston, Ontario, Canada",mermaidsylvia
+"""want""","Caleta de Fuste, Spain",mermaidsylvia
+"""want""","Ithaca, NY, USA",mermaidsylvia
+"""been""","Niagara Falls, Ontario, Canada",mermaidsylvia
+"""want""","Mont Tremblant, Quebec, Canada",mermaidsylvia
+"""want""","Nikko, Japan",mermaidsylvia
+"""want""","Mississauga, Ontario, Canada",mermaidsylvia
+"""been""","Playa Blanca, Spain",mermaidsylvia
+"""want""","London, Ontario, Canada",mermaidsylvia
+"""want""","Kavos, Greece",mermaidsylvia
+"""been""","Half Moon Bay, CA, USA",mermaidsylvia
+"""been""","Roissy-en-France, France",mermaidsylvia
+"""want""","Yokohama, Japan",mermaidsylvia
+"""been""","Venice, Italy",mermaidsylvia
+"""want""","Seaside, OR, USA",mermaidsylvia
+"""want""","Vicenza, Italy",mermaidsylvia
+"""been""","Marrakech, Morocco",mermaidsylvia
+"""want""","Ambleside, UK",mermaidsylvia
+"""want""","Sant Antoni de Portmany, Spain",mermaidsylvia
+"""been""","Tangier, Morocco",mermaidsylvia
+"""want""","Siesta Key, FL, USA",mermaidsylvia
+"""want""","Salem, OR, USA",mermaidsylvia
+"""been""","Alghero, Italy",mermaidsylvia
+"""want""","Tokyo, Japan",mermaidsylvia
+"""want""","Olbia, Italy",mermaidsylvia
+"""want""","Leipzig, Germany",mermaidsylvia
+"""want""","Catania, Italy",mermaidsylvia
+"""want""","Dallas, TX, USA",mermaidsylvia
+"""want""","Noto, Italy",mermaidsylvia
+"""been""","Pacific Grove, CA, USA",mermaidsylvia
+"""want""","Palm Desert, CA, USA",mermaidsylvia
+"""been""","Palm Springs, CA, USA",mermaidsylvia
+"""want""","La Fortuna de San Carlos, Costa Rica",mermaidsylvia
+"""want""","Alicante, Spain",mermaidsylvia
+"""want""","Warwick, UK",mermaidsylvia
+"""want""","Willemstad, Curacao",mermaidsylvia
+"""want""","Birmingham, UK",mermaidsylvia
+"""want""","Coventry, UK",mermaidsylvia
+"""been""","Bloomington, MN, USA",mermaidsylvia
+"""want""","La Coruna, Spain",mermaidsylvia
+"""want""","Tainan, Taiwan",mermaidsylvia
+"""want""","Puerto Plata, Dominican Republic",mermaidsylvia
+"""want""","Windsor, UK",mermaidsylvia
+"""want""","La Romana, Dominican Republic",mermaidsylvia
+"""want""","Placencia, Belize",mermaidsylvia
+"""want""","Bangkok, Thailand",mermaidsylvia
+"""been""","Fiumicino, Italy",mermaidsylvia
+"""want""","Taipei, Taiwan",mermaidsylvia
+"""want""","Chiang Mai, Thailand",mermaidsylvia
+"""want""","Sardinal, Costa Rica",mermaidsylvia
+"""want""","San Teodoro, Italy",mermaidsylvia
+"""want""","Atami, Japan",mermaidsylvia
+"""want""","Ito, Japan",mermaidsylvia
+"""been""","Charlotte, NC, USA",mermaidsylvia
+"""want""","Zell am See, Austria",mermaidsylvia
+"""want""","La Manga del Mar Menor, Spain",mermaidsylvia
+"""want""","Playa de Palma, Spain",mermaidsylvia
+"""want""","Santo Domingo, Dominican Republic",mermaidsylvia
+"""want""","Sitges, Spain",mermaidsylvia
+"""want""","Tarragona, Spain",mermaidsylvia
+"""want""","Rovaniemi, Finland",mermaidsylvia
+"""want""","San Ignacio, Belize",mermaidsylvia
+"""been""","Kennebunkport, ME, USA",mermaidsylvia
+"""want""","Westport, Ireland",mermaidsylvia
+"""want""","Hanoi, Vietnam",mermaidsylvia
+"""want""","Ho Chi Minh City, Vietnam",mermaidsylvia
+"""want""","Puerto Penasco, Mexico",mermaidsylvia
+"""want""","San Carlos de Bariloche, Argentina",mermaidsylvia
+"""been""","Provincetown, MA, USA",mermaidsylvia
+"""been""","Kill Devil Hills, NC, USA",mermaidsylvia
+"""want""","El Calafate, Argentina",mermaidsylvia
+"""want""","Pont-de-l'Arche, France",mermaidsylvia
+"""been""","Oakland, CA, USA",mermaidsylvia
+"""want""","Kiwengwa, Tanzania",mermaidsylvia
+"""want""","Cassis, France",mermaidsylvia
+"""been""","Oceanside, CA, USA",mermaidsylvia
+"""want""","Chiyoda, Japan",mermaidsylvia
+"""want""","Ushuaia, Argentina",mermaidsylvia
+"""want""","Dublin, Ireland",mermaidsylvia
+"""been""","Phoenix, AZ, USA",mermaidsylvia
+"""want""","Mont-Saint-Michel, France",mermaidsylvia
+"""been""","Fort Bragg, CA, USA",mermaidsylvia
+"""been""","Long Beach, CA, USA",mermaidsylvia
+"""been""","Alexandria, VA, USA",mermaidsylvia
+"""want""","Seoul, South Korea",mermaidsylvia
+"""want""","Hangzhou, China",mermaidsylvia
+"""been""","Salta, Argentina",mermaidsylvia
+"""want""","Cork, Ireland",mermaidsylvia
+"""want""","Guangzhou, China",mermaidsylvia
+"""been""","Baton Rouge, LA, USA",mermaidsylvia
+"""want""","Guilin, China",mermaidsylvia
+"""want""","Kilkenny, Ireland",mermaidsylvia
+"""want""","Palm - Eagle Beach, Aruba",mermaidsylvia
+"""want""","Kobe, Japan",mermaidsylvia
+"""been""","Sissi, Greece",mermaidsylvia
+"""want""","Kyoto, Japan",mermaidsylvia
+"""want""","Sapporo, Japan",mermaidsylvia
+"""been""","Medellin, Colombia",mermaidsylvia
+"""want""","St. John's, Antigua and Barbuda",mermaidsylvia
+"""been"",""want""","Cartagena, Colombia",mermaidsylvia
+"""want""","Osaka, Japan",mermaidsylvia
+"""want""","Golden Sands, Bulgaria",mermaidsylvia
+"""want""","Oranjestad, Aruba",mermaidsylvia
+"""want""","Nasu-machi, Japan",mermaidsylvia
+"""want""","Queretaro City, Mexico",mermaidsylvia
+"""want""","Rincon, Puerto Rico",mermaidsylvia
+"""want""","Rosario, Argentina",mermaidsylvia
+"""been""","Paso Robles, CA, USA",mermaidsylvia
+"""want""","Manila, Philippines",mermaidsylvia
+"""want""","Bellaria-Igea Marina, Italy",mermaidsylvia
+"""want""","Pantai Cenang, Malaysia",mermaidsylvia
+"""want""","Santa Marta, Colombia",mermaidsylvia
+"""want""","Kuala Lumpur, Malaysia",mermaidsylvia
+"""want""","Corolla, NC, USA",mermaidsylvia
+"""want""","Puerto Iguazu, Argentina",mermaidsylvia
+"""want""","Stalis, Greece",mermaidsylvia
+"""been""","Saint Paul, MN, USA",mermaidsylvia
+"""been""","Havana, Cuba",mermaidsylvia
+"""want""","Dingle, Ireland",mermaidsylvia
+"""been""","Praia da Rocha, Portugal",mermaidsylvia
+"""want""","Miyakojima, Japan",mermaidsylvia
+"""been""","Pasadena, CA, USA",mermaidsylvia
+"""been""","Erie, PA, USA",mermaidsylvia
+"""want""","Newport, OR, USA",mermaidsylvia
+"""been""","Washington DC, DC, USA",mermaidsylvia
+"""want""","Cap-d'Agde, France",mermaidsylvia
+"""want""","Alassio, Italy",mermaidsylvia
+"""want""","Batu Ferringhi, Malaysia",mermaidsylvia
+"""want""","Rose Hall, Jamaica",mermaidsylvia
+"""been""","Wilmington, NC, USA",mermaidsylvia
+"""want""","Daytona Beach, FL, USA",mermaidsylvia
+"""want""","Punta Prima, Spain",mermaidsylvia
+"""want""","Praia do Forte, Brazil",mermaidsylvia
+"""want""","Hopkins, Belize",mermaidsylvia
+"""want""","Mae Nam, Thailand",mermaidsylvia
+"""been""","Argassi, Greece",mermaidsylvia
+"""want""","Udaipur, India",mermaidsylvia
+"""want""","Indianapolis, IN, USA",mermaidsylvia
+"""want""","Santa Teresa, Costa Rica",mermaidsylvia
+"""want""","Krakow, Poland",mermaidsylvia
+"""want""","Ooty (Udhagamandalam), India",mermaidsylvia
+"""been""","Jackson, WY, USA",mermaidsylvia
+"""want""","Davenport, FL, USA",mermaidsylvia
+"""want""","Riva Del Garda, Italy",mermaidsylvia
+"""want""","Rodi Garganico, Italy",mermaidsylvia
+"""been""","Lincoln, NH, USA",mermaidsylvia
+"""want""","Suzhou, China",mermaidsylvia
+"""want""","Meloneras, Spain",mermaidsylvia
+"""want""","Agra, India",mermaidsylvia
+"""want""","Sochi, Russia",mermaidsylvia
+"""want""","Varanasi, India",mermaidsylvia
+"""been""","Hershey, PA, USA",mermaidsylvia
+"""been""","Park City, UT, USA",mermaidsylvia
+"""been""","Louisville, KY, USA",mermaidsylvia
+"""been""","Rio de Janeiro, Brazil",mermaidsylvia
+"""want""","Helen, GA, USA",mermaidsylvia
+"""want""","Abano Terme, Italy",mermaidsylvia
+"""want""","Chaweng, Thailand",mermaidsylvia
+"""want""","Pangkor, Malaysia",mermaidsylvia
+"""want""","Portinatx, Spain",mermaidsylvia
+"""want""","Nusa Dua, Indonesia",mermaidsylvia
+"""been""","Lake Geneva, WI, USA",mermaidsylvia
+"""want""","Kuta, Indonesia",mermaidsylvia
+"""want""","George Town, Malaysia",mermaidsylvia
+"""want""","San Jose, Costa Rica",mermaidsylvia
+"""want""","Bengaluru, India",mermaidsylvia
+"""been""","Columbus, OH, USA",mermaidsylvia
+"""want""","Praiano, Italy",mermaidsylvia
+"""want""","Cannon Beach, OR, USA",mermaidsylvia
+"""want""","Tulum, Mexico",mermaidsylvia
+"""want""","Knysna, South Africa",mermaidsylvia
+"""want""","Merida, Mexico",mermaidsylvia
+"""been""","Huntsville, AL, USA",mermaidsylvia
+"""want""","Bolans, Antigua and Barbuda",mermaidsylvia
+"""want""","Minato, Japan",mermaidsylvia
+"""want""","Puerto de Santiago, Spain",mermaidsylvia
+"""want""","Toronto, Ontario, Canada",mermaidsylvia
+"""want""","Taurito, Spain",mermaidsylvia
+"""been""","Riccione, Italy",mermaidsylvia
+"""want""","San Cristobal de las Casas, Mexico",mermaidsylvia
+"""want""","Ravello, Italy",mermaidsylvia
+"""want""","Oaxaca, Mexico",mermaidsylvia
+"""want""","Saint Julian's, Malta",mermaidsylvia
+"""want""","Mexico City, Mexico",mermaidsylvia
+"""want""","Charlotte Amalie, U.S. Virgin Islands",mermaidsylvia
+"""been""","Raleigh, NC, USA",mermaidsylvia
+"""want""","Veracruz, Mexico",mermaidsylvia
+"""want""","Stellenbosch, South Africa",mermaidsylvia
+"""want""","Taito, Japan",mermaidsylvia
+"""want""","Jaco, Costa Rica",mermaidsylvia
+"""want""","Christiansted, U.S. Virgin Islands",mermaidsylvia
+"""been""","Cleveland, OH, USA",mermaidsylvia
+"""been""","Sioux Falls, SD, USA",mermaidsylvia
+"""want""","Peschici, Italy",mermaidsylvia
+"""want""","Biarritz, France",mermaidsylvia
+"""want""","Colmar, France",mermaidsylvia
+"""want""","Onna-son, Japan",mermaidsylvia
+"""want""","Ortisei, Italy",mermaidsylvia
+"""want""","Playa Samara, Costa Rica",mermaidsylvia
+"""want""","Nainital, India",mermaidsylvia
+"""want""","Adeje, Spain",mermaidsylvia
+"""want""","Tarifa, Spain",mermaidsylvia
+"""been""","North Conway, NH, USA",mermaidsylvia
+"""want""","Nerja, Spain",mermaidsylvia
+"""want""","Cruz Bay, U.S. Virgin Islands",mermaidsylvia
+"""been""","Fuengirola, Spain",mermaidsylvia
+"""want""","Quebec City, Quebec, Canada",mermaidsylvia
+"""want""","Puerto Morelos, Mexico",mermaidsylvia
+"""been""","Montreal, Quebec, Canada",mermaidsylvia
+"""want""","Bend, OR, USA",mermaidsylvia
+"""want""","Gangtok, India",mermaidsylvia
+"""want""","Zakopane, Poland",mermaidsylvia
+"""want""","Tamarindo, Costa Rica",mermaidsylvia
+"""want""","Pondicherry, India",mermaidsylvia
+"""want""","Yomitan-son, Japan",mermaidsylvia
+"""want""","Pune, India",mermaidsylvia
+"""been""","Big Sur, CA, USA",mermaidsylvia
+"""want""","Freeport, Bahamas",mermaidsylvia
+"""want""","Cape Town Central, South Africa",mermaidsylvia
+"""want""","Shenzhen, China",mermaidsylvia
+"""been""","Machu Picchu, Peru",mermaidsylvia
+"""been""","Lima, Peru",mermaidsylvia
+"""been""","Prague, Czech Republic",mermaidsylvia
+"""want""","Port Saint Lucie, FL, USA",mermaidsylvia
+"""been""","West Hollywood, CA, USA",mermaidsylvia
+"""want""","Viareggio, Italy",mermaidsylvia
+"""want""","Forio, Italy",mermaidsylvia
+"""want""","Villasimius, Italy",mermaidsylvia
+"""want""","Casamicciola Terme, Italy",mermaidsylvia
+"""been""","Williamsburg, VA, USA",mermaidsylvia
+"""want""","Ischia, Italy",mermaidsylvia
+"""want""","Brescia, Italy",mermaidsylvia
+"""been""","Lourdes, France",mermaidsylvia
+"""want""","Seattle, WA, USA",mermaidsylvia
+"""want""","Marina di Camerota, Italy",mermaidsylvia
+"""want""","Lahaina, HI, USA",mermaidsylvia
+"""been""","Columbia, SC, USA",mermaidsylvia
+"""want""","Pecatu, Indonesia",mermaidsylvia
+"""been""","Faro, Portugal",mermaidsylvia
+"""want""","Carvoeiro, Portugal",mermaidsylvia
+"""want""","Xpu-Ha, Mexico",mermaidsylvia
+"""been""","Lagos, Portugal",mermaidsylvia
+"""want""","Rochester, NY, USA",mermaidsylvia
+"""been""","Cusco, Peru",mermaidsylvia
+"""want""","Kihei, HI, USA",mermaidsylvia
+"""been""","Mykonos Town, Greece",mermaidsylvia
+"""want""","Fujikawaguchiko-machi, Japan",mermaidsylvia
+"""want""","Seward, AK, USA",mermaidsylvia
+"""want""","Kailua-Kona, HI, USA",mermaidsylvia
+"""want""","Bryson City, NC, USA",mermaidsylvia
+"""been""","Arequipa, Peru",mermaidsylvia
+"""want""","Leavenworth, WA, USA",mermaidsylvia
+"""want""","Georgioupolis, Greece",mermaidsylvia
+"""been""","Pompano Beach, FL, USA",mermaidsylvia
+"""want""","Luxembourg City, Luxembourg",mermaidsylvia
+"""want""","Bucerias, Mexico",mermaidsylvia
+"""want""","Caen, France",mermaidsylvia
+"""want""","Deauville City, France",mermaidsylvia
+"""want""","Caorle, Italy",mermaidsylvia
+"""want""","Akumal, Mexico",mermaidsylvia
+"""been""","Charleston, SC, USA",mermaidsylvia
+"""want""","Belo Horizonte, Brazil",mermaidsylvia
+"""want""","Anchorage, AK, USA",mermaidsylvia
+"""want""","Punta de Mita, Mexico",mermaidsylvia
+"""been""","Vilamoura, Portugal",mermaidsylvia
+"""been""","Montevideo, Uruguay",mermaidsylvia
+"""want""","Blowing Rock, NC, USA",mermaidsylvia
+"""want""","Candolim, India",mermaidsylvia
+"""want""","Sciacca, Italy",mermaidsylvia
+"""want""","Bratislava, Slovakia",mermaidsylvia
+"""want""","Valletta, Malta",mermaidsylvia
+"""want""","Calistoga, CA, USA",mermaidsylvia
+"""been""","Cambria, CA, USA",mermaidsylvia
+"""been""","Atlanta, GA, USA",mermaidsylvia
+"""been""","Katoomba, Australia",mermaidsylvia
+"""been""","Montpellier, France",mermaidsylvia
+"""want""","Des Moines, IA, USA",mermaidsylvia
+"""want""","Nago, Japan",mermaidsylvia
+"""want""","Coeur d'Alene, ID, USA",mermaidsylvia
+"""want""","Dresden, Germany",mermaidsylvia
+"""been""","Cambridge, MA, USA",mermaidsylvia
+"""want""","Vina del Mar, Chile",mermaidsylvia
+"""want""","Kapolei, HI, USA",mermaidsylvia
+"""want""","Kailua, HI, USA",mermaidsylvia
+"""want""","Nadi, Fiji",mermaidsylvia
+"""want""","Manali, India",mermaidsylvia
+"""want""","Syracuse, NY, USA",mermaidsylvia
+"""want""","Tropea, Italy",mermaidsylvia
+"""want""","Mesa, AZ, USA",mermaidsylvia
+"""been""","Pensacola, FL, USA",mermaidsylvia
+"""want""","Salou, Spain",mermaidsylvia
+"""want""","Tobermory, Ontario, Canada",mermaidsylvia
+"""want""","Nuevo Vallarta, Mexico",mermaidsylvia
+"""want""","Austin, TX, USA",mermaidsylvia
+"""want""","Alberobello, Italy",mermaidsylvia
+"""want""","Playa del Ingles, Spain",mermaidsylvia
+"""want""","Madikeri, India",mermaidsylvia
+"""been""","Calabasas, CA, USA",mermaidsylvia
+"""want""","Santa Ponsa, Spain",mermaidsylvia
+"""want""","San Agustin, Spain",mermaidsylvia
+"""want""","Morro del Jable, Spain",mermaidsylvia
+"""want""","Hakuba-mura, Japan",mermaidsylvia
+"""want""","Railay Beach, Thailand",mermaidsylvia
+"""want""","Santa Rosa, CA, USA",mermaidsylvia
+"""been""","Santa Monica, CA, USA",mermaidsylvia
+"""been""","Clearwater, FL, USA",mermaidsylvia
+"""been""","San Vincenzo, Italy",mermaidsylvia
+"""want""","Cocoa Beach, FL, USA",mermaidsylvia
+"""want""","Sanremo, Italy",mermaidsylvia
+"""want""","Page, AZ, USA",mermaidsylvia
+"""been""","Cologne, Germany",mermaidsylvia
+"""been""","Portland, ME, USA",mermaidsylvia
+"""want""","Tours, France",mermaidsylvia
+"""want""","Dusseldorf, Germany",mermaidsylvia
+"""want""","Lincoln City, OR, USA",mermaidsylvia
+"""want""","Brasilia, Brazil",mermaidsylvia
+"""been""","Santa Cruz, CA, USA",mermaidsylvia
+"""been""","Santa Barbara, CA, USA",mermaidsylvia
+"""want""","Selva di Val Gardena, Italy",mermaidsylvia
+"""been""","Greensboro, NC, USA",mermaidsylvia
+"""want""","Ajaccio, France",mermaidsylvia
+"""want""","Playa Paraiso, Mexico",mermaidsylvia
+"""want""","Waikoloa, HI, USA",mermaidsylvia
+"""want""","Portsmouth, UK",mermaidsylvia
+"""want""","Southampton, UK",mermaidsylvia
+"""want""","Karuizawa-machi, Japan",mermaidsylvia
+"""been""","Paris, France",mermaidsylvia
+"""want""","Sopot, Poland",mermaidsylvia
+"""want""","Auckland, New Zealand",mermaidsylvia
+"""want""","Gatlinburg, TN, USA",mermaidsylvia
+"""want""","Cavelossim, India",mermaidsylvia
+"""want""","Gdansk, Poland",mermaidsylvia
+"""been""","Riga, Latvia",mermaidsylvia
+"""want""","New Braunfels, TX, USA",mermaidsylvia
+"""want""","Burlington, VT, USA",mermaidsylvia
+"""want""","Bournemouth, UK",mermaidsylvia
+"""been""","Dijon, France",mermaidsylvia
+"""want""","Kapaa, HI, USA",mermaidsylvia
+"""been"",""want""","Quito, Ecuador",mermaidsylvia
+"""want""","Santiago, Chile",mermaidsylvia
+"""want""","Valparaiso, Chile",mermaidsylvia
+"""want""","Tallinn, Estonia",mermaidsylvia
+"""been""","Carlsbad, CA, USA",mermaidsylvia
+"""want""","Kissimmee, FL, USA",mermaidsylvia
+"""been""","Carmel, CA, USA",mermaidsylvia
+"""been""","San Jose, CA, USA",mermaidsylvia
+"""been""","San Luis Obispo, CA, USA",mermaidsylvia
+"""want""","Princeville, HI, USA",mermaidsylvia
+"""been""","San Marino, CA, USA",mermaidsylvia
+"""want""","Puerto de Mogan, Spain",mermaidsylvia
+"""want""","Port de Pollenca, Spain",mermaidsylvia
+"""want""","Poipu, HI, USA",mermaidsylvia
+"""been""","Cape Canaveral, FL, USA",mermaidsylvia
+"""want""","Lihue, HI, USA",mermaidsylvia
+"""want""","Brighton, UK",mermaidsylvia
+"""been""","Copenhagen, Denmark",mermaidsylvia
+"""want""","Hastings, UK",mermaidsylvia
+"""been""","New Orleans, LA, USA",mermaidsylvia
+"""want""","Vilnius, Lithuania",mermaidsylvia
+"""want""","Nafplio, Greece",mermaidsylvia
+"""want""","South Lake Tahoe, CA, USA",mermaidsylvia
+"""want""","Calas de Majorca, Spain",mermaidsylvia
+"""want""","Can Pastilla, Spain",mermaidsylvia
+"""want""","Slough, UK",mermaidsylvia
+"""want""","Morro de Sao Paulo, Brazil",mermaidsylvia
+"""want""","Tagaytay, Philippines",mermaidsylvia
+"""want""","Snowmass Village, CO, USA",mermaidsylvia
+"""want""","Bergen, Norway",mermaidsylvia
+"""want""","Auckland Central, New Zealand",mermaidsylvia
+"""want""","Steamboat Springs, CO, USA",mermaidsylvia
+"""want""","Seminyak, Indonesia",mermaidsylvia
+"""want""","Derry, UK",mermaidsylvia
+"""want""","Aspen, CO, USA",mermaidsylvia
+"""been""","Hamburg, Germany",mermaidsylvia
+"""want""","Wailea, HI, USA",mermaidsylvia
+"""want""","St Ives, UK",mermaidsylvia
+"""want""","Ghent, Belgium",mermaidsylvia
+"""want""","Isabela, Puerto Rico",mermaidsylvia
+"""been""","Frankfurt, Germany",mermaidsylvia
+"""want""","Broome, Australia",mermaidsylvia
+"""been""","Perth, Australia",mermaidsylvia
+"""been""","Melbourne, Australia",mermaidsylvia
+"""been""","Biloxi, MS, USA",mermaidsylvia
+"""want""","Kansas City, MO, USA",mermaidsylvia
+"""want""","Soller, Spain",mermaidsylvia
+"""want""","Cala Millor, Spain",mermaidsylvia
+"""want""","Cala Ratjada, Spain",mermaidsylvia
+"""want""","Ca'n Picafort, Spain",mermaidsylvia
+"""want""","Cala Bona, Spain",mermaidsylvia
+"""want""","Cala d'Or, Spain",mermaidsylvia
+"""want""","West Palm Beach, FL, USA",mermaidsylvia
+"""been""","Birmingham, AL, USA",mermaidsylvia
+"""want""","Christchurch, New Zealand",mermaidsylvia
+"""want""","Wellington, New Zealand",mermaidsylvia
+"""been""","Jacksonville, FL, USA",mermaidsylvia
+"""been""","Bruges, Belgium",mermaidsylvia
+"""want""","Dunedin, New Zealand",mermaidsylvia
+"""want""","Ibiza Town, Spain",mermaidsylvia
+"""want""","Saint-Malo, France",mermaidsylvia
+"""want""","Torquay, UK",mermaidsylvia
+"""want""","Taupo, New Zealand",mermaidsylvia
+"""want""","Rotorua, New Zealand",mermaidsylvia
+"""want""","Skala, Greece",mermaidsylvia
+"""want""","Poole, UK",mermaidsylvia
+"""been""","Newport Beach, CA, USA",mermaidsylvia
+"""want""","Llandudno, UK",mermaidsylvia
+"""want""","Eastbourne, UK",mermaidsylvia
+"""been""","Baltimore, MD, USA",mermaidsylvia
+"""been""","Avalon, CA, USA",mermaidsylvia
+"""been""","Reykjavik, Iceland",mermaidsylvia
+"""want""","Cardiff, UK",mermaidsylvia
+"""been""","Rome, Italy",mermaidsylvia
+"""want""","Bristol, UK",mermaidsylvia
+"""been""","Vatican City, Vatican City",mermaidsylvia
+"""want""","Pokolbin, Australia",mermaidsylvia
+"""want""","Savannah, GA, USA",mermaidsylvia
+"""want""","Nuremberg, Germany",mermaidsylvia
+"""been""","Pensacola Beach, FL, USA",mermaidsylvia
+"""want""","Santa Maria, Cape Verde",mermaidsylvia
+"""want""","Aguas Calientes, Peru",mermaidsylvia
+"""want""","Taunton, UK",mermaidsylvia
+"""want""","Skegness, UK",mermaidsylvia
+"""been""","Stowe, VT, USA",mermaidsylvia
+"""want""","Belfast, UK",mermaidsylvia
+"""been""","Chicago, IL, USA",mermaidsylvia
+"""been""","Brooklyn, NY, USA",mermaidsylvia
+"""want""","Fairbanks, AK, USA",mermaidsylvia
+"""want""","Pokhara, Nepal",mermaidsylvia
+"""want""","Es Canar, Spain",mermaidsylvia
+"""been""","Berlin, Germany",mermaidsylvia
+"""want""","Kathmandu, Nepal",mermaidsylvia
+"""want""","Macau, China",mermaidsylvia
+"""been""","Bremen, Germany",mermaidsylvia
+"""want""","San Alfonso, Chile",mermaidsylvia
+"""want""","Newquay, UK",mermaidsylvia
+"""been""","Duluth, MN, USA",mermaidsylvia
+"""want""","Ise, Japan",mermaidsylvia
+"""want""","Stone Town, Tanzania",mermaidsylvia
+"""been""","Burbank, CA, USA",mermaidsylvia
+"""been""","Panama City Beach, FL, USA",mermaidsylvia
+"""want""","Playa de las Americas, Spain",mermaidsylvia
+"""want""","Johor Bahru, Malaysia",mermaidsylvia
+"""want""","Cayo Guillermo, Cuba",mermaidsylvia
+"""been""","Pescara, Italy",mermaidsylvia
+"""want""","Matera, Italy",mermaidsylvia
+"""want""","St. Lawrence Gap, Barbados",mermaidsylvia
+"""want""","Calvi, France",mermaidsylvia
+"""want""","Tossa de Mar, Spain",mermaidsylvia
+"""want""","Izu, Japan",mermaidsylvia
+"""been""","Munich, Germany",mermaidsylvia
+"""been""","Nashville, TN, USA",mermaidsylvia
+"""want""","Lamai Beach, Thailand",mermaidsylvia
+"""want""","Puerto Aventuras, Mexico",mermaidsylvia
+"""want""","Palm Beach, FL, USA",mermaidsylvia
+"""want""","Beaufort, SC, USA",mermaidsylvia
+"""want""","Glenwood Springs, CO, USA",mermaidsylvia
+"""want""","Salerno, Italy",mermaidsylvia
+"""been""","North Myrtle Beach, SC, USA",mermaidsylvia
+"""been""","Capri, Italy",mermaidsylvia
+"""been""","Rotterdam, The Netherlands",mermaidsylvia
+"""been""","Naples, Italy",mermaidsylvia
+"""want""","Garmisch-Partenkirchen, Germany",mermaidsylvia
+"""want""","Pompeii, Italy",mermaidsylvia
+"""been""","Antwerp, Belgium",mermaidsylvia
+"""want""","Ocean City, MD, USA",mermaidsylvia
+"""want""","Shanklin, UK",mermaidsylvia
+"""want""","Mojacar, Spain",mermaidsylvia
+"""want""","Bansko, Bulgaria",mermaidsylvia
+"""want""","Puerto Del Carmen, Spain",mermaidsylvia
+"""want""","Trou aux Biches, Africa",mermaidsylvia
+"""want""","Le Morne, Africa",mermaidsylvia
+"""want""","Otranto, Italy",mermaidsylvia
+"""want""","Balaclava, Africa",mermaidsylvia
+"""want""","Paignton, UK",mermaidsylvia
+"""been""","Laguna Beach, CA, USA",mermaidsylvia
+"""want""","Kuantan, Malaysia",mermaidsylvia
+"""been""","Helsinki, Finland",mermaidsylvia
+"""been""","Madrid, Spain",mermaidsylvia
+"""want""","Margaret River, Australia",mermaidsylvia
+"""want""","Queenstown, New Zealand",mermaidsylvia
+"""been""","Valencia, Spain",mermaidsylvia
+"""want""","Budoni, Italy",mermaidsylvia
+"""want""","Sperlonga, Italy",mermaidsylvia
+"""want""","Kato Gouves, Greece",mermaidsylvia
+"""been""","Myrtle Beach, SC, USA",mermaidsylvia
+"""been""","La Jolla, CA, USA",mermaidsylvia
+"""been""","Orlando, FL, USA",mermaidsylvia
+"""want""","Colonia del Sacramento, Uruguay",mermaidsylvia
+"""want""","Mount Pleasant, SC, USA",mermaidsylvia
+"""want""","Santa Eulalia del Rio, Spain",mermaidsylvia
+"""want""","Ormond Beach, FL, USA",mermaidsylvia
+"""want""","Pamplona, Spain",mermaidsylvia
+"""want""","Maspalomas, Spain",mermaidsylvia
+"""want""","Benidorm, Spain",mermaidsylvia
+"""want""","Calpe, Spain",mermaidsylvia
+"""want""","Fernie, British Columbia, Canada",mermaidsylvia
+"""want""","Playa de Muro, Spain",mermaidsylvia
+"""want""","Stockport, UK",mermaidsylvia
+"""been""","Buenos Aires, Argentina",mermaidsylvia
+"""want""","Cabo San Lucas, Mexico",mermaidsylvia
+"""want""","San Jose del Cabo, Mexico",mermaidsylvia
+"""want""","Mar del Plata, Argentina",mermaidsylvia
+"""been""","Turin, Italy",mermaidsylvia
+"""want""","Albany, NY, USA",mermaidsylvia
+"""want""","Bolzano, Italy",mermaidsylvia
+"""want""","Treviso, Italy",mermaidsylvia
+"""want""","Cavtat, Croatia",mermaidsylvia
+"""want""","Laganas, Greece",mermaidsylvia
+"""want""","Hvar, Croatia",mermaidsylvia
+"""want""","Platja d'Aro, Spain",mermaidsylvia
+"""want""","Cala'n Bosch, Spain",mermaidsylvia
+"""been""","Lexington, KY, USA",mermaidsylvia
+"""want""","Ronda, Spain",mermaidsylvia
+"""been""","Nags Head, NC, USA",mermaidsylvia
+"""want""","Moscow, Russia",mermaidsylvia
+"""been""","Redondo Beach, CA, USA",mermaidsylvia
+"""want""","Glasgow, UK",mermaidsylvia
+"""been""","Maracaibo, Venezuela",mermaidsylvia
+"""want""","Winnipeg, Manitoba, Canada",mermaidsylvia
+"""been""","Harrisburg, PA, USA",mermaidsylvia
+"""want""","Puebla, Mexico",mermaidsylvia
+"""want""","Tulsa, OK, USA",mermaidsylvia
+"""want""","Bergamo, Italy",mermaidsylvia
+"""want""","Bellagio, Italy",mermaidsylvia
+"""want""","Old Orchard Beach, ME, USA",mermaidsylvia
+"""want""","Ogunquit, ME, USA",mermaidsylvia
+"""want""","Dundee, UK",mermaidsylvia
+"""been""","Milan, Italy",mermaidsylvia
+"""want""","Vancouver, British Columbia, Canada",mermaidsylvia
+"""want""","Tofino, British Columbia, Canada",mermaidsylvia
+"""want""","Victoria, British Columbia, Canada",mermaidsylvia
+"""want""","Torre dell'Orso, Italy",mermaidsylvia
+"""want""","Roquetas de Mar, Spain",mermaidsylvia
+"""want""","Guardalavaca, Cuba",mermaidsylvia
+"""want""","Whistler, British Columbia, Canada",mermaidsylvia
+"""want""","Sirmione, Italy",mermaidsylvia
+"""want""","Almunecar, Spain",mermaidsylvia
+"""want""","La Paz, Mexico",mermaidsylvia
+"""want""","Ensenada, Mexico",mermaidsylvia
+"""been""","Tijuana, Mexico",mermaidsylvia
+"""want""","Gulf Shores, AL, USA",mermaidsylvia
+"""been""","Napa, CA, USA",mermaidsylvia
+"""been""","La Paz, Bolivia",mermaidsylvia
+"""want""","Farallon, Panama",mermaidsylvia
+"""want""","Venice, FL, USA",mermaidsylvia
+"""been""","Bogota, Colombia",mermaidsylvia
+"""want""","Grand Case, St Martin \u002F St Maarten",mermaidsylvia
+"""want""","Springdale, UT, USA",mermaidsylvia
+"""been""","Perissa, Greece",mermaidsylvia
+"""been""","Firostefani, Greece",mermaidsylvia
+"""want""","Hyderabad, India",mermaidsylvia
+"""been""","Portofino, Italy",mermaidsylvia
+"""want""","Rapallo, Italy",mermaidsylvia
+"""want""","Santa Margherita Ligure, Italy",mermaidsylvia
+"""been""","Pittsburgh, PA, USA",mermaidsylvia
+"""want""","White House, Jamaica",mermaidsylvia
+"""been""","Huntington Beach, CA, USA",mermaidsylvia
+"""been""","Rhodes Town, Greece",mermaidsylvia
+"""want""","Faliraki, Greece",mermaidsylvia
+"""want""","Mystic, CT, USA",mermaidsylvia
+"""want""","Kolimbia, Greece",mermaidsylvia
+"""want""","Ao Nang, Thailand",mermaidsylvia
+"""been""","Sacramento, CA, USA",mermaidsylvia
+"""want""","Ialyssos, Greece",mermaidsylvia
+"""want""","Arenal d'en Castell, Spain",mermaidsylvia
+"""want""","Fukuoka, Japan",mermaidsylvia
+"""want""","Golf del Sur, Spain",mermaidsylvia
+"""been""","Monterosso al Mare, Italy",mermaidsylvia
+"""been""","Riomaggiore, Italy",mermaidsylvia
+"""want""","Seven Mile Beach, Cayman Islands",mermaidsylvia
+"""been""","Genoa, Italy",mermaidsylvia
+"""been""","La Spezia, Italy",mermaidsylvia
+"""want""","El Arenal, Spain",mermaidsylvia
+"""want""","Roses, Spain",mermaidsylvia
+"""want""","Sosua, Dominican Republic",mermaidsylvia
+"""want""","Puerto Vallarta, Mexico",mermaidsylvia
+"""want""","Juan Dolio, Dominican Republic",mermaidsylvia
+"""want""","Lake Louise, Alberta, Canada",mermaidsylvia
+"""want""","Mazatlan, Mexico",mermaidsylvia
+"""want""","Cabarete, Dominican Republic",mermaidsylvia
+"""want""","Banff, Alberta, Canada",mermaidsylvia
+"""want""","Manzanillo, Mexico",mermaidsylvia
+"""want""","Guadalajara, Mexico",mermaidsylvia
+"""want""","Croydon, UK",mermaidsylvia
+"""want""","Cuernavaca, Mexico",mermaidsylvia
+"""want""","Jasper, Alberta, Canada",mermaidsylvia
+"""want""","Imerovigli, Greece",mermaidsylvia
+"""want""","Kagoshima, Japan",mermaidsylvia
+"""want""","Edmonton, Alberta, Canada",mermaidsylvia
+"""want""","Calgary, Alberta, Canada",mermaidsylvia
+"""been""","Morro Bay, CA, USA",mermaidsylvia
+"""want""","Waitomo Caves, New Zealand",mermaidsylvia
+"""want""","Davao City, Philippines",mermaidsylvia
+"""want""","Sasebo, Japan",mermaidsylvia
+"""want""","Beppu, Japan",mermaidsylvia
+"""want""","Kumamoto, Japan",mermaidsylvia
+"""want""","Miyazaki, Japan",mermaidsylvia
+"""want""","Ayia Napa, Cyprus",mermaidsylvia
+"""want""","Tuban, Indonesia",mermaidsylvia
+"""want""","Monterrey, Mexico",mermaidsylvia
+"""been""","Caracas, Venezuela",mermaidsylvia
+"""want""","Acapulco, Mexico",mermaidsylvia
+"""been""","Long Island City, NY, USA",mermaidsylvia
+"""want""","Huatulco, Mexico",mermaidsylvia
+"""want""","Polignano a Mare, Italy",mermaidsylvia
+"""want""","Ishigaki, Japan",mermaidsylvia
+"""been""","Monterey, CA, USA",mermaidsylvia
+"""been""","Bologna, Italy",mermaidsylvia
+"""want""","Ubatuba, Brazil",mermaidsylvia
+"""been""","Boise, ID, USA",mermaidsylvia
+"""been""","Sao Paulo, Brazil",mermaidsylvia
+"""want""","St. Paul's Bay, Malta",mermaidsylvia
+"""been""","Virginia Beach, VA, USA",mermaidsylvia
+"""want""","Santa Susanna, Spain",mermaidsylvia
+"""want""","Panjim, India",mermaidsylvia
+"""want""","Palm Cove, Australia",mermaidsylvia
+"""want""","Peschiera del Garda, Italy",mermaidsylvia
+"""want""","Runaway Bay, Jamaica",mermaidsylvia
+"""want""","San Miguel de Abona, Spain",mermaidsylvia
+"""want""","Puerto Rico, Spain",mermaidsylvia
+"""want""","Umag, Croatia",mermaidsylvia
+"""want""","Arraial d'Ajuda, Brazil",mermaidsylvia
+"""want""","Antigua, Guatemala",mermaidsylvia
+"""want""","Ocho Rios, Jamaica",mermaidsylvia
+"""want""","Ostuni, Italy",mermaidsylvia
+"""want""","Negril, Jamaica",mermaidsylvia
+"""want""","Odessa, Ukraine",mermaidsylvia
+"""want""","Lido di Venezia, Italy",mermaidsylvia
+"""want""","Munnar, India",mermaidsylvia
+"""been""","Hollywood, FL, USA",mermaidsylvia
+"""want""","Amritsar, India",mermaidsylvia
+"""want""","Isla Verde, Puerto Rico",mermaidsylvia
+"""want""","Eugene, OR, USA",mermaidsylvia
+"""want""","Livigno, Italy",mermaidsylvia
+"""want""","Pula, Croatia",mermaidsylvia
+"""want""","Zadar, Croatia",mermaidsylvia
+"""been""","Lecce, Italy",mermaidsylvia
+"""want""","Dubrovnik, Croatia",mermaidsylvia
+"""want""","Lviv, Ukraine",mermaidsylvia
+"""been""","Fargo, ND, USA",mermaidsylvia
+"""want""","Yalta, Europe",mermaidsylvia
+"""want""","San Juan, Puerto Rico",mermaidsylvia
+"""want""","Dorado, Puerto Rico",mermaidsylvia
+"""want""","Cala Galdana, Spain",mermaidsylvia
+"""want""","Santa Teresa Gallura, Italy",mermaidsylvia
+"""want""","Stintino, Italy",mermaidsylvia
+"""want""","Playa d'en Bossa, Spain",mermaidsylvia
+"""been""","Rehoboth Beach, DE, USA",mermaidsylvia
+"""want""","Costa Calma, Spain",mermaidsylvia
+"""want""","Porto, Portugal",mermaidsylvia
+"""want""","St. Moritz, Switzerland",mermaidsylvia
+"""want""","Forte Dei Marmi, Italy",mermaidsylvia
+"""want""","Costa Teguise, Spain",mermaidsylvia
+"""want""","Playa de Jandia, Spain",mermaidsylvia
+"""want""","Tenby, UK",mermaidsylvia
+"""want""","Southport, UK",mermaidsylvia
+"""want""","Follonica, Italy",mermaidsylvia
+"""been"",""want""","Budapest, Hungary",mermaidsylvia
+"""want""","Alvor, Portugal",mermaidsylvia
+"""been""","Sant'Antioco, Italy",mermaidsylvia
+"""want""","Simpson Bay, St Martin \u002F St Maarten",mermaidsylvia
+"""want""","Giardini Naxos, Italy",mermaidsylvia
+"""want""","Kardamena, Greece",mermaidsylvia
+"""want""","Zermatt, Switzerland",mermaidsylvia
+"""want""","Johannesburg, South Africa",mermaidsylvia
+"""want""","Hayes, UK",mermaidsylvia
+"""want""","West Drayton, UK",mermaidsylvia
+"""want""","Santa Margherita di Pula, Italy",mermaidsylvia
+"""want""","Garda, Italy",mermaidsylvia
+"""been""","Punta del Este, Uruguay",mermaidsylvia
+"""want""","Castries, St. Lucia",mermaidsylvia
+"""want""","Gros Islet, St. Lucia",mermaidsylvia
+"""want""","Ljubljana, Slovenia",mermaidsylvia
+"""want""","Soufriere, St. Lucia",mermaidsylvia
+"""want""","Philipsburg, St Martin \u002F St Maarten",mermaidsylvia
+"""want""","Chattanooga, TN, USA",mermaidsylvia
+"""want""","Cortina d'Ampezzo, Italy",mermaidsylvia
+"""want""","Rovinj, Croatia",mermaidsylvia
+"""want""","Limassol City, Cyprus",mermaidsylvia
+"""been""","Cascais, Portugal",mermaidsylvia
+"""want""","Los Cristianos, Spain",mermaidsylvia
+"""want""","Lucerne, Switzerland",mermaidsylvia
+"""been""","Lisbon, Portugal",mermaidsylvia
+"""been""","Niagara Falls, NY, USA",mermaidsylvia
+"""want""","Paphos, Cyprus",mermaidsylvia
+"""want""","Mammoth Lakes, CA, USA",mermaidsylvia
+"""want""","Kyiv (Kiev), Ukraine",mermaidsylvia
+"""been""","Gettysburg, PA, USA",mermaidsylvia
+"""want""","Ystad, Sweden",mermaidsylvia
+"""been""","Philadelphia, PA, USA",mermaidsylvia
+"""been""","Guayaquil, Ecuador",mermaidsylvia
+"""want""","Bonita Springs, FL, USA",mermaidsylvia
+"""want""","Kutchan-cho, Japan",mermaidsylvia
+"""want""","Atlantic City, NJ, USA",mermaidsylvia
+"""want""","Andorra la Vella, Andorra",mermaidsylvia
+"""want""","Sintra, Portugal",mermaidsylvia
+"""want""","Funchal, Portugal",mermaidsylvia
+"""want""","Ixelles, Belgium",mermaidsylvia
+"""been""","Hyannis, MA, USA",mermaidsylvia
+"""want""","Kata Beach, Thailand",mermaidsylvia
+"""want""","Boca Raton, FL, USA",mermaidsylvia
+"""want""","Cefalu, Italy",mermaidsylvia
+"""want""","Cattolica, Italy",mermaidsylvia
+"""want""","Franschhoek, South Africa",mermaidsylvia
+"""want""","Costa Adeje, Spain",mermaidsylvia
+"""want""","Basel, Switzerland",mermaidsylvia
+"""want""","Shanghai, China",mermaidsylvia
+"""want""","Cordoba, Argentina",mermaidsylvia
+"""want""","Porec, Croatia",mermaidsylvia
+"""want""","Kyrenia, Cyprus",mermaidsylvia
+"""want""","Chianciano Terme, Italy",mermaidsylvia
+"""been""","Norfolk, VA, USA",mermaidsylvia
+"""been""","Lancaster, PA, USA",mermaidsylvia
+"""want""","Bern, Switzerland",mermaidsylvia
+"""want""","Cesenatico, Italy",mermaidsylvia
+"""want""","Puerto Ayora, Ecuador",mermaidsylvia
+"""want""","Hilo, HI, USA",mermaidsylvia
+"""want""","Singapore, Singapore",mermaidsylvia
+"""want""","Alcudia, Spain",mermaidsylvia

@@ -1,0 +1,458 @@
+tag,place,user
+"""been""","Florence, Italy",KLM1
+"""been""","Cape May, NJ, USA",KLM1
+"""been""","St. George, UT, USA",KLM1
+"""been""","Ventura, CA, USA",KLM1
+"""been""","Haleiwa, HI, USA",KLM1
+"""been""","Cape Canaveral, FL, USA",KLM1
+"""been""","Denver, CO, USA",KLM1
+"""been""","St. Augustine, FL, USA",KLM1
+"""been""","Palmer, AK, USA",KLM1
+"""been""","Fort Myers Beach, FL, USA",KLM1
+"""been""","Kissimmee, FL, USA",KLM1
+"""been""","Paxson, AK, USA",KLM1
+"""been""","Anchorage, AK, USA",KLM1
+"""been""","San Mateo, CA, USA",KLM1
+"""been""","Irving, TX, USA",KLM1
+"""been""","Salem, NH, USA",KLM1
+"""been""","Ocean View, NJ, USA",KLM1
+"""been""","Cape Breton Island, Nova Scotia, Canada",KLM1
+"""been""","New York City, NY, USA",KLM1
+"""been""","Boulder City, NV, USA",KLM1
+"""been""","Castile, NY, USA",KLM1
+"""been""","Ocean City, NJ, USA",KLM1
+"""been""","Halifax, Nova Scotia, Canada",KLM1
+"""been""","Pearl City, HI, USA",KLM1
+"""been""","North Pole, AK, USA",KLM1
+"""been""","Marathon, FL, USA",KLM1
+"""been""","Fort Lauderdale, FL, USA",KLM1
+"""been""","Key West, FL, USA",KLM1
+"""been""","Germantown, TN, USA",KLM1
+"""been""","Naples, FL, USA",KLM1
+"""been""","Islamorada, FL, USA",KLM1
+"""been""","Florida City, FL, USA",KLM1
+"""been""","Key Largo, FL, USA",KLM1
+"""been""","West Hollywood, CA, USA",KLM1
+"""been""","Carlsbad, CA, USA",KLM1
+"""been""","New Smyrna Beach, FL, USA",KLM1
+"""been""","San Jose, CA, USA",KLM1
+"""been""","Fort Myers, FL, USA",KLM1
+"""been""","Guelph, Ontario, Canada",KLM1
+"""been"",""fave""","Carmel, CA, USA",KLM1
+"""been""","Corning, NY, USA",KLM1
+"""been""","Atlanta, GA, USA",KLM1
+"""been""","Rochester, NY, USA",KLM1
+"""been""","Kaneohe, HI, USA",KLM1
+"""been""","Cambridge, Ontario, Canada",KLM1
+"""been""","North Wildwood, NJ, USA",KLM1
+"""been""","Hamilton, Ontario, Canada",KLM1
+"""been""","Bellevue, WA, USA",KLM1
+"""been""","Dana Point, CA, USA",KLM1
+"""been""","Memphis, TN, USA",KLM1
+"""been""","Colorado Springs, CO, USA",KLM1
+"""been""","Treasure Island, FL, USA",KLM1
+"""been""","Everglades City, FL, USA",KLM1
+"""been""","Bellingham, WA, USA",KLM1
+"""been""","Niagara-on-the-Lake, Ontario, Canada",KLM1
+"""been""","Marysville, WA, USA",KLM1
+"""been""","Death Valley Junction, CA, USA",KLM1
+"""been""","Bradenton, FL, USA",KLM1
+"""been""","London, Ontario, Canada",KLM1
+"""been""","Mississauga, Ontario, Canada",KLM1
+"""been""","Rome, Italy",KLM1
+"""been""","Waimanalo, HI, USA",KLM1
+"""been""","Niagara Falls, Ontario, Canada",KLM1
+"""been""","Henrietta, NY, USA",KLM1
+"""been""","Newark, NJ, USA",KLM1
+"""been""","South San Francisco, CA, USA",KLM1
+"""been""","Cambria, CA, USA",KLM1
+"""been""","Calistoga, CA, USA",KLM1
+"""been""","Orient Bay, St Martin \u002F St Maarten",KLM1
+"""been""","Hershey, PA, USA",KLM1
+"""been""","Levis, Quebec, Canada",KLM1
+"""been""","Miami Beach, FL, USA",KLM1
+"""been""","Sonoma, CA, USA",KLM1
+"""been""","Miami, FL, USA",KLM1
+"""been""","Tampa, FL, USA",KLM1
+"""been""","Maalaea, HI, USA",KLM1
+"""been""","Solvang, CA, USA",KLM1
+"""been""","Victorville, CA, USA",KLM1
+"""been""","Whittier, AK, USA",KLM1
+"""been""","Kelowna, British Columbia, Canada",KLM1
+"""been""","Tarpon Springs, FL, USA",KLM1
+"""been""","Anaheim, CA, USA",KLM1
+"""been""","Nanaimo, British Columbia, Canada",KLM1
+"""been""","Grove City, OH, USA",KLM1
+"""been""","Syracuse, NY, USA",KLM1
+"""been""","Elizabeth, NJ, USA",KLM1
+"""been""","Keene, NY, USA",KLM1
+"""been""","Kamloops, British Columbia, Canada",KLM1
+"""been""","Edison, NJ, USA",KLM1
+"""been""","Perkinsfield, Ontario, Canada",KLM1
+"""been""","Valdez, AK, USA",KLM1
+"""been""","Burlingame, CA, USA",KLM1
+"""been""","Burbank, CA, USA",KLM1
+"""been""","Kerrville, TX, USA",KLM1
+"""been""","Sunrise, FL, USA",KLM1
+"""been""","Panama City Beach, FL, USA",KLM1
+"""been""","Marco Island, FL, USA",KLM1
+"""been""","Ketchikan, AK, USA",KLM1
+"""been""","Panama City, FL, USA",KLM1
+"""been""","Tysons Corner, VA, USA",KLM1
+"""been""","Victoria, British Columbia, Canada",KLM1
+"""been""","Wailua, HI, USA",KLM1
+"""been""","Coronado, CA, USA",KLM1
+"""been""","Whistler, British Columbia, Canada",KLM1
+"""been""","White Rock, British Columbia, Canada",KLM1
+"""been""","Dundee, NY, USA",KLM1
+"""been""","Tofino, British Columbia, Canada",KLM1
+"""been""","Vancouver, British Columbia, Canada",KLM1
+"""been""","Venice, Italy",KLM1
+"""been""","Escondido, CA, USA",KLM1
+"""been""","Lunenburg, Nova Scotia, Canada",KLM1
+"""been""","Juneau, AK, USA",KLM1
+"""been""","Palm Beach, FL, USA",KLM1
+"""been""","Madeira Beach, FL, USA",KLM1
+"""been""","Hilo, HI, USA",KLM1
+"""been""","Fredericton, New Brunswick, Canada",KLM1
+"""been""","Moncton, New Brunswick, Canada",KLM1
+"""been""","Hoboken, NJ, USA",KLM1
+"""been""","Watkins Glen, NY, USA",KLM1
+"""been""","Erie, PA, USA",KLM1
+"""been""","Lincoln, NE, USA",KLM1
+"""been""","Waterloo, NY, USA",KLM1
+"""been""","Winnipeg, Manitoba, Canada",KLM1
+"""been""","Skokie, IL, USA",KLM1
+"""been""","Half Moon Bay, CA, USA",KLM1
+"""been""","Kingman, AZ, USA",KLM1
+"""been""","Lansing, MI, USA",KLM1
+"""been""","Hagerstown, MD, USA",KLM1
+"""been""","Langford, British Columbia, Canada",KLM1
+"""been""","Talkeetna, AK, USA",KLM1
+"""been""","Doral, FL, USA",KLM1
+"""been""","Jerome, AZ, USA",KLM1
+"""been""","Highlands, NJ, USA",KLM1
+"""been""","Saint John, New Brunswick, Canada",KLM1
+"""been""","Chimayo, NM, USA",KLM1
+"""been""","Ocean City, MD, USA",KLM1
+"""been""","Toulon, France",KLM1
+"""been""","Homer, AK, USA",KLM1
+"""been""","Barcelona, Spain",KLM1
+"""been""","Soldotna, AK, USA",KLM1
+"""been""","Cleveland, OH, USA",KLM1
+"""been""","Orlando, FL, USA",KLM1
+"""been""","Altoona, PA, USA",KLM1
+"""been""","Girdwood, AK, USA",KLM1
+"""been""","Detroit, MI, USA",KLM1
+"""been""","Stone Harbor, NJ, USA",KLM1
+"""been""","Marina del Rey, CA, USA",KLM1
+"""been"",""fave""","Sedona, AZ, USA",KLM1
+"""been""","Margate City, NJ, USA",KLM1
+"""been""","Primm, NV, USA",KLM1
+"""been""","Reno, NV, USA",KLM1
+"""been""","Sarasota, FL, USA",KLM1
+"""been""","Columbus, OH, USA",KLM1
+"""been""","Chattanooga, TN, USA",KLM1
+"""been""","Glendale, CA, USA",KLM1
+"""been""","Birmingham, AL, USA",KLM1
+"""been""","Malibu, CA, USA",KLM1
+"""been""","West Palm Beach, FL, USA",KLM1
+"""been""","Whitby, Ontario, Canada",KLM1
+"""been""","Waterloo, Ontario, Canada",KLM1
+"""been""","Canmore, Alberta, Canada",KLM1
+"""been""","Parsippany, NJ, USA",KLM1
+"""been""","Overton, NV, USA",KLM1
+"""been""","Bernalillo, NM, USA",KLM1
+"""been""","Minneapolis, MN, USA",KLM1
+"""been""","Biloxi, MS, USA",KLM1
+"""been""","North Las Vegas, NV, USA",KLM1
+"""been""","St. Pete Beach, FL, USA",KLM1
+"""been""","St. Petersburg, FL, USA",KLM1
+"""been""","Arlington, VA, USA",KLM1
+"""been""","Dryden, Ontario, Canada",KLM1
+"""been""","Rimrock, AZ, USA",KLM1
+"""been""","Richmond, British Columbia, Canada",KLM1
+"""been""","North Vancouver, British Columbia, Canada",KLM1
+"""been""","Chatham, MA, USA",KLM1
+"""been""","Mount Charleston, NV, USA",KLM1
+"""been""","Chicago, IL, USA",KLM1
+"""been""","Los Angeles, CA, USA",KLM1
+"""been""","Roatan, Honduras",KLM1
+"""been""","Grapevine, TX, USA",KLM1
+"""been""","French Harbour, Honduras",KLM1
+"""been""","Frankenmuth, MI, USA",KLM1
+"""been""","Laughlin, NV, USA",KLM1
+"""been""","Las Vegas, NV, USA",KLM1
+"""been""","Wildwood, NJ, USA",KLM1
+"""been""","Long Beach, CA, USA",KLM1
+"""been""","Venice, FL, USA",KLM1
+"""been""","Wailea, HI, USA",KLM1
+"""been""","Napa, CA, USA",KLM1
+"""been""","Sea Isle City, NJ, USA",KLM1
+"""been""","Incline Village, NV, USA",KLM1
+"""been""","Flint, MI, USA",KLM1
+"""been""","Henderson, NV, USA",KLM1
+"""been""","Rockville, MD, USA",KLM1
+"""been""","Dallas, TX, USA",KLM1
+"""been""","Sacramento, CA, USA",KLM1
+"""been""","Athens, Greece",KLM1
+"""been""","Lanai, HI, USA",KLM1
+"""been""","Pebble Beach, CA, USA",KLM1
+"""been""","Morro Bay, CA, USA",KLM1
+"""been""","Kirkland Lake, Ontario, Canada",KLM1
+"""been""","Winslow, AZ, USA",KLM1
+"""been""","Saginaw, MI, USA",KLM1
+"""been"",""fave""","Maui, HI, USA",KLM1
+"""been""","Barnstable, MA, USA",KLM1
+"""been""","Monterey, CA, USA",KLM1
+"""been""","Fort Worth, TX, USA",KLM1
+"""been""","Cozumel, Mexico",KLM1
+"""been""","Pasadena, CA, USA",KLM1
+"""been""","Williams, AZ, USA",KLM1
+"""been""","Bryce, UT, USA",KLM1
+"""been""","Charlottetown, Prince Edward Island, Canada",KLM1
+"""been""","Cochrane, Alberta, Canada",KLM1
+"""been""","Hawaii Volcanoes National Park, HI, USA",KLM1
+"""been""","Smith Bay, U.S. Virgin Islands",KLM1
+"""been""","Falmouth, MA, USA",KLM1
+"""been""","Great Smoky Mountains National Park, TN, USA",KLM1
+"""been""","Haleakala National Park, HI, USA",KLM1
+"""been""","Summerside, Prince Edward Island, Canada",KLM1
+"""been""","Romulus, MI, USA",KLM1
+"""been""","Essex, MA, USA",KLM1
+"""been""","Palm Springs, CA, USA",KLM1
+"""been""","Montreal, Quebec, Canada",KLM1
+"""been""","Pittsburgh, PA, USA",KLM1
+"""been""","Quebec City, Quebec, Canada",KLM1
+"""been""","Hope, British Columbia, Canada",KLM1
+"""been""","Everglades National Park, FL, USA",KLM1
+"""been""","Golden, British Columbia, Canada",KLM1
+"""been""","Pacific Grove, CA, USA",KLM1
+"""been"",""fave""","Glacier Bay National Park and Preserve, AK, USA",KLM1
+"""been""","Fredericksburg, TX, USA",KLM1
+"""been""","El Prat de Llobregat, Spain",KLM1
+"""been""","Sagamore, MA, USA",KLM1
+"""been""","Eastham, MA, USA",KLM1
+"""been""","Denali National Park and Preserve, AK, USA",KLM1
+"""been""","Rockport, MA, USA",KLM1
+"""been""","Galveston, TX, USA",KLM1
+"""been""","Oxnard, CA, USA",KLM1
+"""been""","Regina, Saskatchewan, Canada",KLM1
+"""been""","Beachwood, OH, USA",KLM1
+"""been""","Coombs, British Columbia, Canada",KLM1
+"""been""","Kittery, ME, USA",KLM1
+"""been""","Arches National Park, UT, USA",KLM1
+"""been""","Acadia National Park, ME, USA",KLM1
+"""been""","Kennebunk, ME, USA",KLM1
+"""been""","Las Cruces, NM, USA",KLM1
+"""been""","Ontario, CA, USA",KLM1
+"""been""","San Marcos, TX, USA",KLM1
+"""been""","Breezewood, PA, USA",KLM1
+"""been""","Driftwood, TX, USA",KLM1
+"""been""","Provincetown, MA, USA",KLM1
+"""been""","Albany, NY, USA",KLM1
+"""been""","Oakland, CA, USA",KLM1
+"""been""","Le Roy, NY, USA",KLM1
+"""been""","Nantucket, MA, USA",KLM1
+"""been""","Martha's Vineyard, MA, USA",KLM1
+"""been""","Algonquin Provincial Park, Ontario, Canada",KLM1
+"""been""","Huntsville, Ontario, Canada",KLM1
+"""been""","Collingwood, Ontario, Canada",KLM1
+"""been""","Troy, OH, USA",KLM1
+"""been""","Port Dover, Ontario, Canada",KLM1
+"""been""","Kincardine, Ontario, Canada",KLM1
+"""been""","Dennis Port, MA, USA",KLM1
+"""been""","Kenora, Ontario, Canada",KLM1
+"""been""","Slidell, LA, USA",KLM1
+"""been""","Dennis, MA, USA",KLM1
+"""been""","Wareham, MA, USA",KLM1
+"""been""","Cape Elizabeth, ME, USA",KLM1
+"""been""","Rocky Mountain House, Alberta, Canada",KLM1
+"""been""","Ogunquit, ME, USA",KLM1
+"""been""","Old Orchard Beach, ME, USA",KLM1
+"""been""","Avalon, NJ, USA",KLM1
+"""been""","Falls Church, VA, USA",KLM1
+"""been""","Danvers, MA, USA",KLM1
+"""been""","Mahahual, Mexico",KLM1
+"""been""","Port Huron, MI, USA",KLM1
+"""been""","Malahat, British Columbia, Canada",KLM1
+"""been""","Midland, Ontario, Canada",KLM1
+"""been""","Baddeck, Nova Scotia, Canada",KLM1
+"""been""","Kitchener, Ontario, Canada",KLM1
+"""been""","Trenton, Ontario, Canada",KLM1
+"""been""","Orleans, MA, USA",KLM1
+"""been""","Ka'anapali, HI, USA",KLM1
+"""been""","Birch Run, MI, USA",KLM1
+"""been""","Simcoe, Ontario, Canada",KLM1
+"""been""","Grassy Key, FL, USA",KLM1
+"""been""","Freeport, Bahamas",KLM1
+"""been""","Lee, MA, USA",KLM1
+"""been""","Kapalua, HI, USA",KLM1
+"""been""","Oak Bluffs, MA, USA",KLM1
+"""been""","Delta Junction, AK, USA",KLM1
+"""been""","Bandera, TX, USA",KLM1
+"""been""","Lake Placid, NY, USA",KLM1
+"""been""","Camp Verde, AZ, USA",KLM1
+"""been""","Niagara Falls, NY, USA",KLM1
+"""been""","Barstow, CA, USA",KLM1
+"""been""","North Bay, Ontario, Canada",KLM1
+"""been""","Asbury Park, NJ, USA",KLM1
+"""been""","Bulverde, TX, USA",KLM1
+"""been""","Revelstoke, British Columbia, Canada",KLM1
+"""been""","Cooper Landing, AK, USA",KLM1
+"""been""","Port Coquitlam, British Columbia, Canada",KLM1
+"""been""","Port Alberni, British Columbia, Canada",KLM1
+"""been""","Parksville, British Columbia, Canada",KLM1
+"""been""","Nassau, Bahamas",KLM1
+"""been""","Gulfport, MS, USA",KLM1
+"""been""","Hyannis, MA, USA",KLM1
+"""been""","Ottawa, Ontario, Canada",KLM1
+"""been""","Lake George, NY, USA",KLM1
+"""been""","Ranchos De Taos, NM, USA",KLM1
+"""been""","Atlantic City, NJ, USA",KLM1
+"""been""","South Freeport, ME, USA",KLM1
+"""been""","Sevierville, TN, USA",KLM1
+"""been""","Myrtle Beach, SC, USA",KLM1
+"""been""","Sault Ste. Marie, Ontario, Canada",KLM1
+"""been"",""fave""","St. Thomas, U.S. Virgin Islands",KLM1
+"""been""","Truro, Nova Scotia, Canada",KLM1
+"""been""","Lewisburg, PA, USA",KLM1
+"""been""","Boca Raton, FL, USA",KLM1
+"""been""","Mount Pleasant, SC, USA",KLM1
+"""been""","Charlotte Amalie, U.S. Virgin Islands",KLM1
+"""been""","Cavendish, Prince Edward Island, Canada",KLM1
+"""been""","Florence, KY, USA",KLM1
+"""been""","Freeport, ME, USA",KLM1
+"""been""","Stratford, Ontario, Canada",KLM1
+"""been""","Sudbury, Ontario, Canada",KLM1
+"""been""","Thunder Bay, Ontario, Canada",KLM1
+"""been""","Point Reyes Station, CA, USA",KLM1
+"""been""","Toronto, Ontario, Canada",KLM1
+"""been""","Santa Barbara de Samana, Dominican Republic",KLM1
+"""been""","Big Pine Key, FL, USA",KLM1
+"""been""","North Myrtle Beach, SC, USA",KLM1
+"""been""","Biddeford, ME, USA",KLM1
+"""been""","Tortola, British Virgin Islands",KLM1
+"""been""","Macon, GA, USA",KLM1
+"""been""","Nashville, TN, USA",KLM1
+"""been""","Savannah, GA, USA",KLM1
+"""been""","Nashua, NH, USA",KLM1
+"""been""","Albuquerque, NM, USA",KLM1
+"""been""","St Martin \u002F St Maarten, Caribbean",KLM1
+"""been""","Scarborough, ME, USA",KLM1
+"""been""","Woods Hole, MA, USA",KLM1
+"""been""","York, ME, USA",KLM1
+"""been""","Big Sur, CA, USA",KLM1
+"""been""","Wrentham, MA, USA",KLM1
+"""been""","Luckenbach, TX, USA",KLM1
+"""been""","Bar Harbor, ME, USA",KLM1
+"""been""","Providence, RI, USA",KLM1
+"""been""","Estes Park, CO, USA",KLM1
+"""been""","Fredericksburg, VA, USA",KLM1
+"""been""","Orillia, Ontario, Canada",KLM1
+"""been""","Hurricane Mills, TN, USA",KLM1
+"""been""","Murano, Italy",KLM1
+"""been"",""fave""","Banff, Alberta, Canada",KLM1
+"""been""","Lake Louise, Alberta, Canada",KLM1
+"""been""","Calgary, Alberta, Canada",KLM1
+"""want""","Puerto Vallarta, Mexico",KLM1
+"""been""","Saco, ME, USA",KLM1
+"""been""","Edmonton, Alberta, Canada",KLM1
+"""been""","Jasper National Park, Alberta, Canada",KLM1
+"""been""","Jasper, Alberta, Canada",KLM1
+"""been""","Kotor, Montenegro",KLM1
+"""been""","Banff National Park, Alberta, Canada",KLM1
+"""been""","Truth or Consequences, NM, USA",KLM1
+"""been""","Surrey, British Columbia, Canada",KLM1
+"""been"",""fave""","Santa Fe, NM, USA",KLM1
+"""been"",""fave""","San Antonio, TX, USA",KLM1
+"""been"",""fave""","San Francisco, CA, USA",KLM1
+"""been""","Jackson, TN, USA",KLM1
+"""been""","Killington, VT, USA",KLM1
+"""been""","Hilton Head, SC, USA",KLM1
+"""been""","Rehoboth Beach, DE, USA",KLM1
+"""been""","Michigan City, IN, USA",KLM1
+"""been""","Hollywood, FL, USA",KLM1
+"""been""","Daytona Beach, FL, USA",KLM1
+"""been""","San Juan, Puerto Rico",KLM1
+"""been""","New Hamburg, Ontario, Canada",KLM1
+"""been""","Bucerias, Mexico",KLM1
+"""been""","Dubrovnik, Croatia",KLM1
+"""been""","Medicine Hat, Alberta, Canada",KLM1
+"""been""","Washington DC, DC, USA",KLM1
+"""been""","Moab, UT, USA",KLM1
+"""been""","Plano, TX, USA",KLM1
+"""been""","Mykonos Town, Greece",KLM1
+"""been""","Seaside, CA, USA",KLM1
+"""been""","Grand Turk, Turks and Caicos",KLM1
+"""been""","Wells, ME, USA",KLM1
+"""been""","New Braunfels, TX, USA",KLM1
+"""been""","Louisville, KY, USA",KLM1
+"""been""","Charleston, SC, USA",KLM1
+"""been""","Gatlinburg, TN, USA",KLM1
+"""been""","Bowmansville, NY, USA",KLM1
+"""been"",""fave""","Taos, NM, USA",KLM1
+"""been""","Spring Valley, NY, USA",KLM1
+"""been""","Homestead, FL, USA",KLM1
+"""been""","Kapaa, HI, USA",KLM1
+"""been""","Newport, RI, USA",KLM1
+"""been""","Central Saanich, British Columbia, Canada",KLM1
+"""been""","Lewes, DE, USA",KLM1
+"""been""","Portland, ME, USA",KLM1
+"""been""","Santa Rosa, CA, USA",KLM1
+"""been""","Sausalito, CA, USA",KLM1
+"""been""","Pigeon Forge, TN, USA",KLM1
+"""been""","Sauble Beach, Ontario, Canada",KLM1
+"""been""","Hanalei, HI, USA",KLM1
+"""been""","Norwich, NY, USA",KLM1
+"""been""","Buffalo, NY, USA",KLM1
+"""been""","Flagstaff, AZ, USA",KLM1
+"""been""","Tunica, MS, USA",KLM1
+"""been""","Victor, NY, USA",KLM1
+"""been""","Haiku, HI, USA",KLM1
+"""been""","Lanai City, HI, USA",KLM1
+"""been""","Ucluelet, British Columbia, Canada",KLM1
+"""been""","Waimea, HI, USA",KLM1
+"""been""","Princeville, HI, USA",KLM1
+"""been""","Hackensack, NJ, USA",KLM1
+"""been""","Houston, TX, USA",KLM1
+"""been""","West Dennis, MA, USA",KLM1
+"""been""","Santa Cruz, CA, USA",KLM1
+"""been""","Santa Barbara, CA, USA",KLM1
+"""been""","Temecula, CA, USA",KLM1
+"""been""","Santa Monica, CA, USA",KLM1
+"""been""","Clearwater, FL, USA",KLM1
+"""been""","Hamilton, Bermuda",KLM1
+"""been""","St. George, Bermuda",KLM1
+"""been""","Boston, MA, USA",KLM1
+"""been""","New Orleans, LA, USA",KLM1
+"""been""","Asheville, NC, USA",KLM1
+"""been""","Wilmington, NY, USA",KLM1
+"""been""","Honolulu, HI, USA",KLM1
+"""been""","Binghamton, NY, USA",KLM1
+"""been""","Central Valley, NY, USA",KLM1
+"""been""","Wailuku, HI, USA",KLM1
+"""been""","Paia, HI, USA",KLM1
+"""been""","Seattle, WA, USA",KLM1
+"""been""","San Simeon, CA, USA",KLM1
+"""been""","Yorkton, Saskatchewan, Canada",KLM1
+"""been""","Tahoe City, CA, USA",KLM1
+"""been""","Berkeley, CA, USA",KLM1
+"""been""","Goodland, FL, USA",KLM1
+"""been""","Seven Mile Beach, Cayman Islands",KLM1
+"""been""","Beverly Hills, CA, USA",KLM1
+"""been""","Grand Cayman, Cayman Islands",KLM1
+"""been""","Makawao, HI, USA",KLM1
+"""been""","Skagway, AK, USA",KLM1
+"""been""","Lahaina, HI, USA",KLM1
+"""been""","Pittsford, NY, USA",KLM1
+"""been""","Kula, HI, USA",KLM1
+"""been""","Wellfleet, MA, USA",KLM1
+"""been""","Kihei, HI, USA",KLM1
+"""been""","Kahului, HI, USA",KLM1
+"""been""","Seward, AK, USA",KLM1
+"""been""","Cape May Point, NJ, USA",KLM1
+"""been""","Kailua-Kona, HI, USA",KLM1
+"""been""","Hana, HI, USA",KLM1
+"""been""","Cincinnati, OH, USA",KLM1
+"""been""","San Diego, CA, USA",KLM1

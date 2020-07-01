@@ -1,0 +1,516 @@
+tag,place,user
+"""been""","Bicester, UK",sharalDc
+"""been""","Boca Raton, FL, USA",sharalDc
+"""been""","Bend, OR, USA",sharalDc
+"""been""","Lancaster, PA, USA",sharalDc
+"""been""","Gallup, NM, USA",sharalDc
+"""been""","Raleigh, NC, USA",sharalDc
+"""been""","Fort Knox, KY, USA",sharalDc
+"""been""","Doha, Qatar",sharalDc
+"""want""","Montreal, Quebec, Canada",sharalDc
+"""want""","Quebec City, Quebec, Canada",sharalDc
+"""been""","Pearson, GA, USA",sharalDc
+"""been""","Emporia, KS, USA",sharalDc
+"""been""","Nitro, WV, USA",sharalDc
+"""been""","Cleveland, OH, USA",sharalDc
+"""been""","Frankfort, KY, USA",sharalDc
+"""been""","Muskogee, OK, USA",sharalDc
+"""been""","Abu Dhabi, United Arab Emirates",sharalDc
+"""been""","Dunbar, WV, USA",sharalDc
+"""been"",""fave""","Washington DC, DC, USA",sharalDc
+"""been""","Niagara Falls, NY, USA",sharalDc
+"""been""","Archangelos, Greece",sharalDc
+"""been""","Richmond, KY, USA",sharalDc
+"""been""","Clarksville, IN, USA",sharalDc
+"""been""","Mount Hope, OH, USA",sharalDc
+"""been""","Morehead, KY, USA",sharalDc
+"""been""","Oklahoma City, OK, USA",sharalDc
+"""been""","Texarkana, AR, USA",sharalDc
+"""want""","Toronto, Ontario, Canada",sharalDc
+"""been""","Danville, KY, USA",sharalDc
+"""been""","Wembley, UK",sharalDc
+"""been""","Budapest, Hungary",sharalDc
+"""been""","Park City, UT, USA",sharalDc
+"""been""","Lyons, GA, USA",sharalDc
+"""been""","Chattanooga, TN, USA",sharalDc
+"""been""","Columbus, OH, USA",sharalDc
+"""been""","Mount Sterling, KY, USA",sharalDc
+"""been""","Kyiv (Kiev), Ukraine",sharalDc
+"""been""","Paintsville, KY, USA",sharalDc
+"""been""","Shelbyville, KY, USA",sharalDc
+"""been""","Paris, KY, USA",sharalDc
+"""been""","Hendersonville, TN, USA",sharalDc
+"""been""","Lockhart, TX, USA",sharalDc
+"""been""","Roanoke, VA, USA",sharalDc
+"""been""","Tysons Corner, VA, USA",sharalDc
+"""been""","Castries, St. Lucia",sharalDc
+"""been""","Cheyenne, WY, USA",sharalDc
+"""been""","Atlantic City, NJ, USA",sharalDc
+"""been""","Dinosaur, CO, USA",sharalDc
+"""been""","Gettysburg, PA, USA",sharalDc
+"""been""","Philadelphia, PA, USA",sharalDc
+"""been""","Ankara, Turkey",sharalDc
+"""been""","Hays, KS, USA",sharalDc
+"""want""","Oslo, Norway",sharalDc
+"""been""","Daytona Beach, FL, USA",sharalDc
+"""been""","Hollywood, FL, USA",sharalDc
+"""been""","Henderson, KY, USA",sharalDc
+"""been""","Somerset, KY, USA",sharalDc
+"""been""","Pikeville, KY, USA",sharalDc
+"""been""","Indianapolis, IN, USA",sharalDc
+"""been""","Wilmington, NC, USA",sharalDc
+"""want""","Dubrovnik, Croatia",sharalDc
+"""been""","Boise, ID, USA",sharalDc
+"""been""","Norcross, GA, USA",sharalDc
+"""been""","Winchester, KY, USA",sharalDc
+"""been""","Dodge City, KS, USA",sharalDc
+"""been""","Virginia Beach, VA, USA",sharalDc
+"""been""","Williamsburg, KY, USA",sharalDc
+"""been""","Lviv, Ukraine",sharalDc
+"""been""","Big Sur, CA, USA",sharalDc
+"""been""","San Juan, Puerto Rico",sharalDc
+"""been""","Newport News, VA, USA",sharalDc
+"""been""","Billings, MT, USA",sharalDc
+"""want""","St. Petersburg, Russia",sharalDc
+"""been""","Mobile, AL, USA",sharalDc
+"""want""","Lisbon, Portugal",sharalDc
+"""been""","Stone Mountain, GA, USA",sharalDc
+"""want""","Auckland, New Zealand",sharalDc
+"""been""","Millersburg, OH, USA",sharalDc
+"""been""","Norfolk, VA, USA",sharalDc
+"""been""","Okefenokee, GA, USA",sharalDc
+"""been""","Winter Park, CO, USA",sharalDc
+"""want""","Banff, Alberta, Canada",sharalDc
+"""been""","Monterey, CA, USA",sharalDc
+"""been""","Riverside, CA, USA",sharalDc
+"""been""","Pasadena, CA, USA",sharalDc
+"""been""","Williams, AZ, USA",sharalDc
+"""been""","Campbellsville, KY, USA",sharalDc
+"""been""","Saint Paul, MN, USA",sharalDc
+"""been""","Milwaukee, WI, USA",sharalDc
+"""been""","Hazard, KY, USA",sharalDc
+"""been""","Yuma, AZ, USA",sharalDc
+"""been""","Medford, WI, USA",sharalDc
+"""been""","Ann Arbor, MI, USA",sharalDc
+"""been""","Catlettsburg, KY, USA",sharalDc
+"""been""","Wichita, KS, USA",sharalDc
+"""been""","Fort Worth, TX, USA",sharalDc
+"""been""","Huntington Beach, CA, USA",sharalDc
+"""been""","Sacramento, CA, USA",sharalDc
+"""been""","Payson, AZ, USA",sharalDc
+"""been""","Kyiliv, Ukraine",sharalDc
+"""been""","Tijuana, Mexico",sharalDc
+"""been""","Pueblo West, CO, USA",sharalDc
+"""been""","Pueblo, CO, USA",sharalDc
+"""been""","Rocheport, MO, USA",sharalDc
+"""been""","Asuncion, Paraguay",sharalDc
+"""been""","Pittsburgh, PA, USA",sharalDc
+"""want""","Glasgow, UK",sharalDc
+"""want""","Gulf Shores, AL, USA",sharalDc
+"""been""","Pensacola Beach, FL, USA",sharalDc
+"""been""","New Haven, CT, USA",sharalDc
+"""been""","Phoenix, AZ, USA",sharalDc
+"""been""","Imperial Beach, CA, USA",sharalDc
+"""been""","Rangely, CO, USA",sharalDc
+"""been""","Napa, CA, USA",sharalDc
+"""been""","Indian Wells, CA, USA",sharalDc
+"""been""","Alexandria, VA, USA",sharalDc
+"""been""","Long Beach, CA, USA",sharalDc
+"""want""","Milan, Italy",sharalDc
+"""been""","Stegna, Greece",sharalDc
+"""been""","Harrisonburg, VA, USA",sharalDc
+"""been""","Henderson, NV, USA",sharalDc
+"""been""","St. Michaels, MD, USA",sharalDc
+"""been""","Salina, KS, USA",sharalDc
+"""want""","Tbilisi, Georgia",sharalDc
+"""been""","Asklipiio, Greece",sharalDc
+"""been""","Barbourville, KY, USA",sharalDc
+"""been""","Galveston, TX, USA",sharalDc
+"""want""","Edinburgh, UK",sharalDc
+"""been""","Irvine, CA, USA",sharalDc
+"""been""","Oakland, CA, USA",sharalDc
+"""been""","Oceanside, CA, USA",sharalDc
+"""been""","Fayetteville, NC, USA",sharalDc
+"""been""","Kill Devil Hills, NC, USA",sharalDc
+"""been""","Temple Hills, MD, USA",sharalDc
+"""been""","Marietta, GA, USA",sharalDc
+"""want""","Whistler, British Columbia, Canada",sharalDc
+"""been""","Clarksville, TN, USA",sharalDc
+"""want""","Bologna, Italy",sharalDc
+"""been""","Bowling Green, KY, USA",sharalDc
+"""been""","Kritinia, Greece",sharalDc
+"""been""","Rancho Mirage, CA, USA",sharalDc
+"""been""","Ontario, CA, USA",sharalDc
+"""want""","Victoria, British Columbia, Canada",sharalDc
+"""been""","Las Cruces, NM, USA",sharalDc
+"""been""","Charlotte, NC, USA",sharalDc
+"""been""","Chapel Hill, NC, USA",sharalDc
+"""been""","National Harbor, MD, USA",sharalDc
+"""want""","Vancouver, British Columbia, Canada",sharalDc
+"""been""","Las Vegas, NM, USA",sharalDc
+"""been""","Grayson, KY, USA",sharalDc
+"""been""","Hurricane, WV, USA",sharalDc
+"""been""","Huntington, WV, USA",sharalDc
+"""been""","Springfield, MO, USA",sharalDc
+"""been""","Gallipolis, OH, USA",sharalDc
+"""been""","Tulsa, OK, USA",sharalDc
+"""been""","Lexington, KY, USA",sharalDc
+"""want""","Dublin, Ireland",sharalDc
+"""been""","Bloomington, MN, USA",sharalDc
+"""want""","Genoa, Italy",sharalDc
+"""want""","Moscow, Russia",sharalDc
+"""been""","Palm Springs, CA, USA",sharalDc
+"""been""","Palm Desert, CA, USA",sharalDc
+"""been""","Douglas, GA, USA",sharalDc
+"""been""","Foz do Iguacu, Brazil",sharalDc
+"""been""","Elizabethtown, KY, USA",sharalDc
+"""been""","Haraki, Greece",sharalDc
+"""want""","Cork, Ireland",sharalDc
+"""want""","Calgary, Alberta, Canada",sharalDc
+"""been""","Dallas, TX, USA",sharalDc
+"""been""","Telluride, CO, USA",sharalDc
+"""been""","Salt Lake City, UT, USA",sharalDc
+"""been""","Orlando, FL, USA",sharalDc
+"""been""","Mississauga, Ontario, Canada",sharalDc
+"""been""","Fort Collins, CO, USA",sharalDc
+"""been""","La Jolla, CA, USA",sharalDc
+"""been""","Macon, GA, USA",sharalDc
+"""been""","Basalt, CO, USA",sharalDc
+"""been""","Niagara-on-the-Lake, Ontario, Canada",sharalDc
+"""been""","Barboursville, WV, USA",sharalDc
+"""been""","Jacksonville, FL, USA",sharalDc
+"""been""","Fort Morgan, CO, USA",sharalDc
+"""been""","Oxon Hill, MD, USA",sharalDc
+"""been""","Homer, AK, USA",sharalDc
+"""been""","Niagara Falls, Ontario, Canada",sharalDc
+"""been""","Detroit, MI, USA",sharalDc
+"""been""","Ocean City, MD, USA",sharalDc
+"""want""","Belfast, UK",sharalDc
+"""want""","Casablanca, Morocco",sharalDc
+"""been"",""want""","Istanbul, Turkey",sharalDc
+"""want""","Agadir, Morocco",sharalDc
+"""been""","Sevierville, TN, USA",sharalDc
+"""been""","Jerome, AZ, USA",sharalDc
+"""been""","Beaver Creek, CO, USA",sharalDc
+"""want""","Berlin, Germany",sharalDc
+"""been""","El Segundo, CA, USA",sharalDc
+"""been""","Frisco, CO, USA",sharalDc
+"""been""","Myrtle Beach, SC, USA",sharalDc
+"""been""","Fraser, CO, USA",sharalDc
+"""been""","Berthoud, CO, USA",sharalDc
+"""been""","Roanoke, TX, USA",sharalDc
+"""been""","Tyler, TX, USA",sharalDc
+"""been""","Tempe, AZ, USA",sharalDc
+"""been""","Half Moon Bay, CA, USA",sharalDc
+"""been""","Vail, CO, USA",sharalDc
+"""been""","Black Hawk, CO, USA",sharalDc
+"""been""","North Myrtle Beach, SC, USA",sharalDc
+"""been""","Carthage, MO, USA",sharalDc
+"""been""","Cardiff, UK",sharalDc
+"""want""","Rome, Italy",sharalDc
+"""been""","Kolympia, Greece",sharalDc
+"""been""","Tombstone, AZ, USA",sharalDc
+"""been""","Monument, CO, USA",sharalDc
+"""been""","Georgetown, CO, USA",sharalDc
+"""been""","Morrison, CO, USA",sharalDc
+"""been""","Lake Havasu City, AZ, USA",sharalDc
+"""been""","Nederland, CO, USA",sharalDc
+"""want""","Brussels, Belgium",sharalDc
+"""been""","Walden, CO, USA",sharalDc
+"""want""","Stockholm, Sweden",sharalDc
+"""been""","Estes Park, CO, USA",sharalDc
+"""been""","Golden, CO, USA",sharalDc
+"""been""","Fredericksburg, VA, USA",sharalDc
+"""been""","Breckenridge, CO, USA",sharalDc
+"""been""","Boulder, CO, USA",sharalDc
+"""been""","Escondido, CA, USA",sharalDc
+"""been""","Glenwood Springs, CO, USA",sharalDc
+"""been""","Aurora, CO, USA",sharalDc
+"""been""","Abilene, KS, USA",sharalDc
+"""been""","Aspen, CO, USA",sharalDc
+"""been""","Brooklyn, NY, USA",sharalDc
+"""been""","Nur-Sultan, Kazakhstan",sharalDc
+"""been""","Granby, CO, USA",sharalDc
+"""been""","Arvada, CO, USA",sharalDc
+"""been""","Providence, RI, USA",sharalDc
+"""been""","Lone Tree, CO, USA",sharalDc
+"""been"",""want""","Athens, Greece",sharalDc
+"""want""","Bruges, Belgium",sharalDc
+"""been""","Rhodes Town, Greece",sharalDc
+"""been""","Grand Junction, CO, USA",sharalDc
+"""been""","Grand Lake, CO, USA",sharalDc
+"""been""","Arlington, TX, USA",sharalDc
+"""been""","Nashville, TN, USA",sharalDc
+"""been""","Greeley, CO, USA",sharalDc
+"""been""","Panama City Beach, FL, USA",sharalDc
+"""been""","Wheat Ridge, CO, USA",sharalDc
+"""been""","Burbank, CA, USA",sharalDc
+"""been""","Buena Vista, CO, USA",sharalDc
+"""been""","Greenville, SC, USA",sharalDc
+"""been""","Albuquerque, NM, USA",sharalDc
+"""been""","Greenwood Village, CO, USA",sharalDc
+"""been""","Glen Allen, VA, USA",sharalDc
+"""been""","Baltimore, MD, USA",sharalDc
+"""been""","Byers, CO, USA",sharalDc
+"""been""","Oak Ridge, TN, USA",sharalDc
+"""been""","Fort Smith, AR, USA",sharalDc
+"""been""","Annapolis, MD, USA",sharalDc
+"""been""","Savannah, GA, USA",sharalDc
+"""been""","Alton, IL, USA",sharalDc
+"""been""","Arapahoe, CO, USA",sharalDc
+"""want""","Auckland Central, New Zealand",sharalDc
+"""been""","Paleo Faliro, Greece",sharalDc
+"""been""","Coronado, CA, USA",sharalDc
+"""been""","Canon City, CO, USA",sharalDc
+"""been""","Pensacola, FL, USA",sharalDc
+"""been""","Mesa, AZ, USA",sharalDc
+"""been""","Frankfurt, Germany",sharalDc
+"""want""","Melbourne, Australia",sharalDc
+"""been""","Palmer Lake, CO, USA",sharalDc
+"""been""","Austin, TX, USA",sharalDc
+"""been""","Tallahassee, FL, USA",sharalDc
+"""been""","Leesburg, VA, USA",sharalDc
+"""been""","Castle Rock, CO, USA",sharalDc
+"""been""","Carbondale, CO, USA",sharalDc
+"""been""","Palisade, CO, USA",sharalDc
+"""been""","Prescott, AZ, USA",sharalDc
+"""been""","White House, TN, USA",sharalDc
+"""been""","Berlin, OH, USA",sharalDc
+"""been""","Los Angeles, CA, USA",sharalDc
+"""been""","Prescott Valley, AZ, USA",sharalDc
+"""been""","Keystone, CO, USA",sharalDc
+"""been""","Chicago, IL, USA",sharalDc
+"""been""","Fairfax, VA, USA",sharalDc
+"""been""","Saint Joseph, MO, USA",sharalDc
+"""been""","Saint Louis, MO, USA",sharalDc
+"""been""","Petaloudes, Greece",sharalDc
+"""been""","Bethesda, MD, USA",sharalDc
+"""been""","Laughlin, NV, USA",sharalDc
+"""been""","Las Vegas, NV, USA",sharalDc
+"""been""","Saint Charles, MO, USA",sharalDc
+"""been""","Covington, KY, USA",sharalDc
+"""been""","Corbin, KY, USA",sharalDc
+"""been""","Newport Beach, CA, USA",sharalDc
+"""been""","Salida, CO, USA",sharalDc
+"""been""","Durham, NC, USA",sharalDc
+"""been""","Arlington, VA, USA",sharalDc
+"""been""","Sedalia, CO, USA",sharalDc
+"""been""","Larkspur, CO, USA",sharalDc
+"""been""","St. Pete Beach, FL, USA",sharalDc
+"""been""","St. Petersburg, FL, USA",sharalDc
+"""been""","Lamar, CO, USA",sharalDc
+"""been""","Manama, Bahrain",sharalDc
+"""been""","Joplin, MO, USA",sharalDc
+"""want""","Venice, Italy",sharalDc
+"""been""","Jefferson City, MO, USA",sharalDc
+"""want""","Madrid, Spain",sharalDc
+"""want""","Helsinki, Finland",sharalDc
+"""been""","Leadville, CO, USA",sharalDc
+"""been""","Portland, OR, USA",sharalDc
+"""been""","West Palm Beach, FL, USA",sharalDc
+"""been""","McGaheysville, VA, USA",sharalDc
+"""been""","Birmingham, AL, USA",sharalDc
+"""been""","Littleton, CO, USA",sharalDc
+"""been""","Limon, CO, USA",sharalDc
+"""been""","Charles Town, WV, USA",sharalDc
+"""been""","Abilene, TX, USA",sharalDc
+"""been""","Texarkana, TX, USA",sharalDc
+"""been""","Charleston, WV, USA",sharalDc
+"""been""","Sarasota, FL, USA",sharalDc
+"""been""","Simla, CO, USA",sharalDc
+"""been""","Longmont, CO, USA",sharalDc
+"""been""","Amman, Jordan",sharalDc
+"""been""","Reno, NV, USA",sharalDc
+"""been"",""fave""","Minneapolis, MN, USA",sharalDc
+"""been""","Prassonissi, Greece",sharalDc
+"""been""","Kansas City, MO, USA",sharalDc
+"""want""","Liverpool, UK",sharalDc
+"""been""","Riyadh, Saudi Arabia",sharalDc
+"""been""","Scottsdale, AZ, USA",sharalDc
+"""been""","Aventura, FL, USA",sharalDc
+"""been"",""fave""","London, UK",sharalDc
+"""want""","Antwerp, Belgium",sharalDc
+"""been""","Sedona, AZ, USA",sharalDc
+"""want""","Naples, Italy",sharalDc
+"""been""","Mariposa, CA, USA",sharalDc
+"""been""","Loveland, CO, USA",sharalDc
+"""been""","Show Low, AZ, USA",sharalDc
+"""been""","Evergreen, CO, USA",sharalDc
+"""been""","Englewood, CO, USA",sharalDc
+"""want""","Rabat, Morocco",sharalDc
+"""been""","Fairplay, CO, USA",sharalDc
+"""been""","Sterling, CO, USA",sharalDc
+"""want""","Marrakech, Morocco",sharalDc
+"""been""","Tel Aviv, Israel",sharalDc
+"""been""","Jerusalem, Israel",sharalDc
+"""been""","Heber, AZ, USA",sharalDc
+"""want""","Florence, Italy",sharalDc
+"""been""","Superior, CO, USA",sharalDc
+"""been""","Strasburg, CO, USA",sharalDc
+"""been""","Ventura, CA, USA",sharalDc
+"""been""","El Paso, TX, USA",sharalDc
+"""been""","Little Rock, AR, USA",sharalDc
+"""want""","Wisconsin Dells, WI, USA",sharalDc
+"""been""","Springfield, IL, USA",sharalDc
+"""been""","Lawrence, KS, USA",sharalDc
+"""been""","Anchorage, AK, USA",sharalDc
+"""been""","Pefkos, Greece",sharalDc
+"""been""","Omaha, NE, USA",sharalDc
+"""been""","New York City, NY, USA",sharalDc
+"""been""","Russell Springs, KY, USA",sharalDc
+"""been""","Kallithea, Greece",sharalDc
+"""been""","Eagle, CO, USA",sharalDc
+"""been""","Berkeley, CA, USA",sharalDc
+"""been""","Durango, CO, USA",sharalDc
+"""been""","Eads, CO, USA",sharalDc
+"""been""","Seattle, WA, USA",sharalDc
+"""been""","Vidalia, GA, USA",sharalDc
+"""been""","Winchester, VA, USA",sharalDc
+"""want""","Lahaina, HI, USA",sharalDc
+"""been""","Irving, TX, USA",sharalDc
+"""been""","San Diego, CA, USA",sharalDc
+"""been""","Gallatin, TN, USA",sharalDc
+"""want""","Kihei, HI, USA",sharalDc
+"""been"",""fave""","Salzburg, Austria",sharalDc
+"""want""","Kailua-Kona, HI, USA",sharalDc
+"""been""","Cincinnati, OH, USA",sharalDc
+"""been""","Beverly Hills, CA, USA",sharalDc
+"""been""","Charlottesville, VA, USA",sharalDc
+"""been""","Temecula, CA, USA",sharalDc
+"""been""","Williamson, WV, USA",sharalDc
+"""been""","Santa Cruz, CA, USA",sharalDc
+"""been""","Santa Barbara, CA, USA",sharalDc
+"""been""","Versailles, KY, USA",sharalDc
+"""been""","Memphis, TN, USA",sharalDc
+"""been""","Stateline, NV, USA",sharalDc
+"""been""","Death Valley Junction, CA, USA",sharalDc
+"""been""","Massanutten, VA, USA",sharalDc
+"""been""","Dayton, OH, USA",sharalDc
+"""been""","Webster Groves, MO, USA",sharalDc
+"""been""","Kattavia, Greece",sharalDc
+"""been""","Santa Monica, CA, USA",sharalDc
+"""been""","Clearwater, FL, USA",sharalDc
+"""want""","Manchester, UK",sharalDc
+"""been""","Waycross, GA, USA",sharalDc
+"""been""","Cocoa Beach, FL, USA",sharalDc
+"""been"",""want""","Sydney, Australia",sharalDc
+"""been""","Atlanta, GA, USA",sharalDc
+"""been""","Olive Hill, KY, USA",sharalDc
+"""been""","Richmond, VA, USA",sharalDc
+"""been""","Vati, Greece",sharalDc
+"""been""","Cambridge, MA, USA",sharalDc
+"""been""","Fruita, CO, USA",sharalDc
+"""been""","Manassas, VA, USA",sharalDc
+"""been""","Mammoth Cave, KY, USA",sharalDc
+"""been""","Vienna, Austria",sharalDc
+"""been""","Berchtesgaden, Germany",sharalDc
+"""been""","South Point, OH, USA",sharalDc
+"""been""","Portsmouth, OH, USA",sharalDc
+"""been""","Owensboro, KY, USA",sharalDc
+"""been""","Manhattan, KS, USA",sharalDc
+"""been""","Paducah, KY, USA",sharalDc
+"""been""","Louisville, KY, USA",sharalDc
+"""been""","Coral Gables, FL, USA",sharalDc
+"""want""","Brisbane, Australia",sharalDc
+"""been""","Anaheim, CA, USA",sharalDc
+"""been""","Louisa, KY, USA",sharalDc
+"""been""","Buenos Aires, Argentina",sharalDc
+"""been""","Central City, CO, USA",sharalDc
+"""been""","Moab, UT, USA",sharalDc
+"""been""","Miami, FL, USA",sharalDc
+"""been""","Ottawa, Ontario, Canada",sharalDc
+"""been""","Carbondale, IL, USA",sharalDc
+"""been""","Tampa, FL, USA",sharalDc
+"""been""","Luray, VA, USA",sharalDc
+"""been""","Round Rock, TX, USA",sharalDc
+"""been""","Plano, TX, USA",sharalDc
+"""been""","Independence, MO, USA",sharalDc
+"""been""","Miami Beach, FL, USA",sharalDc
+"""been""","McLean, VA, USA",sharalDc
+"""want""","Riga, Latvia",sharalDc
+"""been""","Gatlinburg, TN, USA",sharalDc
+"""want""","Brighton, UK",sharalDc
+"""been""","Syracuse, NY, USA",sharalDc
+"""want""","Copenhagen, Denmark",sharalDc
+"""been""","Bisbee, AZ, USA",sharalDc
+"""been""","Parker, CO, USA",sharalDc
+"""been""","Independence, KS, USA",sharalDc
+"""been""","Highlands Ranch, CO, USA",sharalDc
+"""been""","Stratford-upon-Avon, UK",sharalDc
+"""been""","Tacoma, WA, USA",sharalDc
+"""been""","Jellico, TN, USA",sharalDc
+"""been""","Jefferson City, TN, USA",sharalDc
+"""been""","San Antonio, TX, USA",sharalDc
+"""been""","San Francisco, CA, USA",sharalDc
+"""been""","Page, AZ, USA",sharalDc
+"""been""","Des Moines, IA, USA",sharalDc
+"""been""","Santa Fe, NM, USA",sharalDc
+"""been""","Coeur d'Alene, ID, USA",sharalDc
+"""been""","Newark, NJ, USA",sharalDc
+"""been""","Charleston, SC, USA",sharalDc
+"""been""","Boone, NC, USA",sharalDc
+"""been""","Tucson, AZ, USA",sharalDc
+"""been""","Columbia, MO, USA",sharalDc
+"""want""","Wailea, HI, USA",sharalDc
+"""want""","Antalya, Turkey",sharalDc
+"""been""","Centennial, CO, USA",sharalDc
+"""been""","Puerto Iguazu, Argentina",sharalDc
+"""want""","Bucharest, Romania",sharalDc
+"""want""","Dubai, United Arab Emirates",sharalDc
+"""been""","Pompano Beach, FL, USA",sharalDc
+"""want""","Nice, France",sharalDc
+"""been""","Idaho Springs, CO, USA",sharalDc
+"""been""","Colorado Springs, CO, USA",sharalDc
+"""been""","Knoxville, TN, USA",sharalDc
+"""been""","Topeka, KS, USA",sharalDc
+"""been""","Bakersfield, CA, USA",sharalDc
+"""been""","Dana Point, CA, USA",sharalDc
+"""been""","Laramie, WY, USA",sharalDc
+"""been""","Conifer, CO, USA",sharalDc
+"""been""","Houston, TX, USA",sharalDc
+"""been""","Boston, MA, USA",sharalDc
+"""been""","Kansas City, KS, USA",sharalDc
+"""been""","Pigeon Forge, TN, USA",sharalDc
+"""been""","New Orleans, LA, USA",sharalDc
+"""been""","Asheville, NC, USA",sharalDc
+"""been""","Rochester, NY, USA",sharalDc
+"""want""","Honolulu, HI, USA",sharalDc
+"""been""","Gunnison, CO, USA",sharalDc
+"""want""","Prague, Czech Republic",sharalDc
+"""want""","Zurich, Switzerland",sharalDc
+"""want""","Lyon, France",sharalDc
+"""been""","Chandler, AZ, USA",sharalDc
+"""been""","Lindos, Greece",sharalDc
+"""been""","Afandou, Greece",sharalDc
+"""been"",""want""","Amsterdam, The Netherlands",sharalDc
+"""been""","West Hollywood, CA, USA",sharalDc
+"""been""","Rhodes, Greece",sharalDc
+"""been""","Paris, France",sharalDc
+"""been""","Tifton, GA, USA",sharalDc
+"""been""","Naples, FL, USA",sharalDc
+"""been""","Williamsburg, VA, USA",sharalDc
+"""been""","San Clemente, CA, USA",sharalDc
+"""been""","Newport, RI, USA",sharalDc
+"""been""","Hot Springs, AR, USA",sharalDc
+"""been""","Fort Lauderdale, FL, USA",sharalDc
+"""been""","Buffalo, NY, USA",sharalDc
+"""been""","La Junta, CO, USA",sharalDc
+"""been""","Ocean City, NJ, USA",sharalDc
+"""been""","Flagstaff, AZ, USA",sharalDc
+"""want""","Marseille, France",sharalDc
+"""want""","Dusseldorf, Germany",sharalDc
+"""want""","Barcelona, Spain",sharalDc
+"""been""","Portsmouth, NH, USA",sharalDc
+"""been""","Carlsbad, CA, USA",sharalDc
+"""want""","Cologne, Germany",sharalDc
+"""been""","Sandusky, OH, USA",sharalDc
+"""been""","Fort Myers Beach, FL, USA",sharalDc
+"""been""","Kissimmee, FL, USA",sharalDc
+"""been""","Carmel, CA, USA",sharalDc
+"""been""","Desert Hot Springs, CA, USA",sharalDc
+"""been""","San Jose, CA, USA",sharalDc
+"""been""","Fort Myers, FL, USA",sharalDc
+"""been"",""fave""","Denver, CO, USA",sharalDc
+"""been""","San Luis Obispo, CA, USA",sharalDc
+"""been""","Dillon, CO, USA",sharalDc
+"""been""","St. Augustine, FL, USA",sharalDc

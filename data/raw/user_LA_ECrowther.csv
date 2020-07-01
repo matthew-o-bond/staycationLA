@@ -1,0 +1,393 @@
+tag,place,user
+"""been""","Madrid, Spain",ECrowther
+"""been""","Masaya, Nicaragua",ECrowther
+"""been""","Roissy-en-France, France",ECrowther
+"""been""","Vancouver, British Columbia, Canada",ECrowther
+"""been""","Victoria, British Columbia, Canada",ECrowther
+"""been""","Eugene, OR, USA",ECrowther
+"""been""","Whistler, British Columbia, Canada",ECrowther
+"""been""","Utrecht, The Netherlands",ECrowther
+"""been""","Medford, OR, USA",ECrowther
+"""been""","Dundee, OR, USA",ECrowther
+"""been""","Cheyenne, WY, USA",ECrowther
+"""been""","Gettysburg, PA, USA",ECrowther
+"""been""","Kanab, UT, USA",ECrowther
+"""been""","Winnipeg, Manitoba, Canada",ECrowther
+"""been""","Indianapolis, IN, USA",ECrowther
+"""been""","Florence, Italy",ECrowther
+"""been""","Wilmington, NC, USA",ECrowther
+"""been""","Belize City, Belize",ECrowther
+"""been""","Nelson, New Zealand",ECrowther
+"""been""","Boise, ID, USA",ECrowther
+"""been""","Concepcion, Chile",ECrowther
+"""been""","Antofagasta, Chile",ECrowther
+"""been""","Arica, Chile",ECrowther
+"""been""","Moscow, Russia",ECrowther
+"""been""","Vladimir, Russia",ECrowther
+"""been"",""fave""","London, UK",ECrowther
+"""been""","Munich, Germany",ECrowther
+"""been""","Billings, MT, USA",ECrowther
+"""been""","Bangkok, Thailand",ECrowther
+"""been""","Sainte-Sabine, France",ECrowther
+"""been""","Moorea, French Polynesia",ECrowther
+"""been""","Mobile, AL, USA",ECrowther
+"""been""","San Jose del Cabo, Mexico",ECrowther
+"""been""","Cabo San Lucas, Mexico",ECrowther
+"""been""","Harrison Hot Springs, British Columbia, Canada",ECrowther
+"""been""","Rome, Italy",ECrowther
+"""been""","Newberg, OR, USA",ECrowther
+"""been""","Brussels, Belgium",ECrowther
+"""been""","Newport, OR, USA",ECrowther
+"""been""","Nanaimo, British Columbia, Canada",ECrowther
+"""been""","Goathland, UK",ECrowther
+"""been""","Nuremberg, Germany",ECrowther
+"""been""","Fussen, Germany",ECrowther
+"""been""","York, UK",ECrowther
+"""been""","Klamath Falls, OR, USA",ECrowther
+"""been""","Mazatlan, Mexico",ECrowther
+"""been""","El Paso, TX, USA",ECrowther
+"""been""","South Lake Tahoe, CA, USA",ECrowther
+"""been""","Little Rock, AR, USA",ECrowther
+"""been""","Springfield, IL, USA",ECrowther
+"""been""","New York City, NY, USA",ECrowther
+"""been""","Omaha, NE, USA",ECrowther
+"""been""","Richmond, VA, USA",ECrowther
+"""been""","Tahoe City, CA, USA",ECrowther
+"""been""","Durango, CO, USA",ECrowther
+"""been""","Berkeley, CA, USA",ECrowther
+"""been""","Cambridge, MA, USA",ECrowther
+"""want""","Berlin, Germany",ECrowther
+"""been""","Wurzburg, Germany",ECrowther
+"""been"",""fave""","Seattle, WA, USA",ECrowther
+"""been""","Santa Ana, CA, USA",ECrowther
+"""been""","Charlottesville, VA, USA",ECrowther
+"""been""","Santa Barbara, CA, USA",ECrowther
+"""been""","Jasper, Alberta, Canada",ECrowther
+"""been""","Beverly Hills, CA, USA",ECrowther
+"""been""","Cuernavaca, Mexico",ECrowther
+"""been""","Hamburg, Germany",ECrowther
+"""been""","Havana, Cuba",ECrowther
+"""been""","Banff, Alberta, Canada",ECrowther
+"""been""","Santa Clarita, CA, USA",ECrowther
+"""been""","Santa Clara, CA, USA",ECrowther
+"""been""","Calgary, Alberta, Canada",ECrowther
+"""been""","St. George, UT, USA",ECrowther
+"""been""","Santiago de Cuba, Cuba",ECrowther
+"""been""","Frankfurt, Germany",ECrowther
+"""been""","Depoe Bay, OR, USA",ECrowther
+"""been""","Ensenada, Mexico",ECrowther
+"""been""","Washington DC, DC, USA",ECrowther
+"""been""","Asuncion, Paraguay",ECrowther
+"""been"",""fave""","Philadelphia, PA, USA",ECrowther
+"""been""","Santa Ynez, CA, USA",ECrowther
+"""been""","Paramaribo, Suriname",ECrowther
+"""been""","Santa Rosa, CA, USA",ECrowther
+"""been""","Mammoth Lakes, CA, USA",ECrowther
+"""been""","Santa Monica, CA, USA",ECrowther
+"""been""","Bishop, CA, USA",ECrowther
+"""been""","Santa Maria, CA, USA",ECrowther
+"""been""","Castro, Chile",ECrowther
+"""been""","Wiesbaden, Germany",ECrowther
+"""been""","Taos, NM, USA",ECrowther
+"""been""","Lincoln City, OR, USA",ECrowther
+"""been""","Ciudad Juarez, Mexico",ECrowther
+"""been""","Atlanta, GA, USA",ECrowther
+"""been""","Tijuana, Mexico",ECrowther
+"""been""","Louisville, KY, USA",ECrowther
+"""been""","Torrance, CA, USA",ECrowther
+"""been""","Rosarito, Mexico",ECrowther
+"""been""","Sausalito, CA, USA",ECrowther
+"""been""","Memphis, TN, USA",ECrowther
+"""been""","Bournemouth, UK",ECrowther
+"""been""","Manila, Philippines",ECrowther
+"""been""","Nice, France",ECrowther
+"""been""","Rockford, IL, USA",ECrowther
+"""been""","Helena, MT, USA",ECrowther
+"""been""","Puerto Iguazu, Argentina",ECrowther
+"""been""","Flagstaff, AZ, USA",ECrowther
+"""been""","Charleston, SC, USA",ECrowther
+"""been""","Burlington, VT, USA",ECrowther
+"""been""","Maastricht, The Netherlands",ECrowther
+"""been""","South San Francisco, CA, USA",ECrowther
+"""been""","Coeur d'Alene, ID, USA",ECrowther
+"""been""","Tacoma, WA, USA",ECrowther
+"""been""","Des Moines, IA, USA",ECrowther
+"""been""","Aiken, SC, USA",ECrowther
+"""been""","Walnut Creek, CA, USA",ECrowther
+"""been""","Newark, NJ, USA",ECrowther
+"""been""","Santa Fe, NM, USA",ECrowther
+"""been""","San Antonio, TX, USA",ECrowther
+"""been""","San Francisco, CA, USA",ECrowther
+"""been""","Tucson, AZ, USA",ECrowther
+"""been""","Culver City, CA, USA",ECrowther
+"""been""","Colorado Springs, CO, USA",ECrowther
+"""been""","Cologne, Germany",ECrowther
+"""been""","Salta, Argentina",ECrowther
+"""been""","Cayenne, French Guiana",ECrowther
+"""been""","Marseille, France",ECrowther
+"""been""","Georgetown, Guyana",ECrowther
+"""been""","David, Panama",ECrowther
+"""been""","Salinas, CA, USA",ECrowther
+"""been""","La Paz, Bolivia",ECrowther
+"""been""","Knoxville, TN, USA",ECrowther
+"""been""","Saint-Remy-de-Provence, France",ECrowther
+"""been""","Bakersfield, CA, USA",ECrowther
+"""been""","Dana Point, CA, USA",ECrowther
+"""been""","Bogota, Colombia",ECrowther
+"""been""","Barcelona, Spain",ECrowther
+"""been""","Salon-de-Provence, France",ECrowther
+"""been""","Sao Paulo, Brazil",ECrowther
+"""been""","Melk, Austria",ECrowther
+"""been""","Topeka, KS, USA",ECrowther
+"""been""","Boston, MA, USA",ECrowther
+"""been""","Bamberg, Germany",ECrowther
+"""been""","Richmond, British Columbia, Canada",ECrowther
+"""been""","New Orleans, LA, USA",ECrowther
+"""been""","North Vancouver, British Columbia, Canada",ECrowther
+"""been""","West Hollywood, CA, USA",ECrowther
+"""been""","San Diego, CA, USA",ECrowther
+"""been""","Stockton, CA, USA",ECrowther
+"""been""","Cincinnati, OH, USA",ECrowther
+"""want""","Amsterdam, The Netherlands",ECrowther
+"""been""","San Clemente, CA, USA",ECrowther
+"""been""","Del Mar, CA, USA",ECrowther
+"""been""","Chamonix, France",ECrowther
+"""been""","Martinique, Caribbean",ECrowther
+"""been""","San Jose, Costa Rica",ECrowther
+"""been""","Lyon, France",ECrowther
+"""been""","Evian-les-Bains, France",ECrowther
+"""been""","Williamsburg, VA, USA",ECrowther
+"""been""","Chateauneuf, France",ECrowther
+"""been""","Versailles, France",ECrowther
+"""been""","Paris, France",ECrowther
+"""been""","La Chapelle-en-Serval, France",ECrowther
+"""been""","Rio de Janeiro, Brazil",ECrowther
+"""been""","Madison, WI, USA",ECrowther
+"""been""","Cochabamba, Bolivia",ECrowther
+"""been""","Newport, RI, USA",ECrowther
+"""been""","Neuvecelle, France",ECrowther
+"""been""","Buffalo, NY, USA",ECrowther
+"""been""","Carmel Valley, CA, USA",ECrowther
+"""been""","San Jose, CA, USA",ECrowther
+"""been""","Carpinteria, CA, USA",ECrowther
+"""been""","San Martin de los Andes, Argentina",ECrowther
+"""been""","Bristol, RI, USA",ECrowther
+"""been""","Carlsbad, CA, USA",ECrowther
+"""been""","Roberts Creek, British Columbia, Canada",ECrowther
+"""been"",""fave""","Carmel, CA, USA",ECrowther
+"""been""","Pucon, Chile",ECrowther
+"""been""","Houston, TX, USA",ECrowther
+"""been""","Puerto Varas, Chile",ECrowther
+"""been""","Puerto Montt, Chile",ECrowther
+"""been""","Denver, CO, USA",ECrowther
+"""been""","Frutillar, Chile",ECrowther
+"""been""","Puerto Octay, Chile",ECrowther
+"""been""","Baden-Baden, Germany",ECrowther
+"""been""","San Luis Obispo, CA, USA",ECrowther
+"""been""","San Carlos de Bariloche, Argentina",ECrowther
+"""been""","Salt Lake City, UT, USA",ECrowther
+"""been""","Budapest, Hungary",ECrowther
+"""been"",""fave""","Salzburg, Austria",ECrowther
+"""been""","El Segundo, CA, USA",ECrowther
+"""been""","Krakow, Poland",ECrowther
+"""been""","Jaco, Costa Rica",ECrowther
+"""been""","Laguna Beach, CA, USA",ECrowther
+"""been""","SeaTac, WA, USA",ECrowther
+"""been""","Kingman, AZ, USA",ECrowther
+"""been""","Singapore, Singapore",ECrowther
+"""been""","La Quinta, CA, USA",ECrowther
+"""been""","Nashville, TN, USA",ECrowther
+"""been""","Vail, CO, USA",ECrowther
+"""been""","Harrogate, UK",ECrowther
+"""been""","Guayaquil, Ecuador",ECrowther
+"""been""","Lincoln, NE, USA",ECrowther
+"""been""","Vienna, Austria",ECrowther
+"""been""","Buenos Aires, Argentina",ECrowther
+"""been""","Seaside, OR, USA",ECrowther
+"""been""","Feuchtwangen, Germany",ECrowther
+"""been""","Golden, CO, USA",ECrowther
+"""been""","Escondido, CA, USA",ECrowther
+"""been""","Antigua, Guatemala",ECrowther
+"""been""","Bayreuth, Germany",ECrowther
+"""been""","Encinitas, CA, USA",ECrowther
+"""been""","Boulder, CO, USA",ECrowther
+"""been""","Managua, Nicaragua",ECrowther
+"""been""","Brooklyn, NY, USA",ECrowther
+"""been""","Estes Park, CO, USA",ECrowther
+"""been""","Providence, RI, USA",ECrowther
+"""been""","Mar del Plata, Argentina",ECrowther
+"""been""","Crescent City, CA, USA",ECrowther
+"""been""","Vancouver, WA, USA",ECrowther
+"""been""","Duluth, MN, USA",ECrowther
+"""been""","San Antonio De Belen, Costa Rica",ECrowther
+"""been""","Grand Junction, CO, USA",ECrowther
+"""been""","Mexico City, Mexico",ECrowther
+"""been""","Westminster, CO, USA",ECrowther
+"""been""","Eureka, CA, USA",ECrowther
+"""been""","Toronto, Ontario, Canada",ECrowther
+"""been""","Big Sur, CA, USA",ECrowther
+"""been""","Buena Park, CA, USA",ECrowther
+"""been""","Panama City, Panama",ECrowther
+"""been""","Buena Vista, CO, USA",ECrowther
+"""been""","Taxco, Mexico",ECrowther
+"""been""","Montreal, Quebec, Canada",ECrowther
+"""been""","Luxembourg City, Luxembourg",ECrowther
+"""been""","Savannah, GA, USA",ECrowther
+"""been""","Baltimore, MD, USA",ECrowther
+"""been""","Albuquerque, NM, USA",ECrowther
+"""been""","Auckland, New Zealand",ECrowther
+"""been""","Anaheim, CA, USA",ECrowther
+"""been""","Costa Mesa, CA, USA",ECrowther
+"""been""","Austin, TX, USA",ECrowther
+"""been""","Colmar, France",ECrowther
+"""been""","Hermosa Beach, CA, USA",ECrowther
+"""been""","Mesa, AZ, USA",ECrowther
+"""been""","Tampa, FL, USA",ECrowther
+"""been""","Miami Beach, FL, USA",ECrowther
+"""been""","Sonoma, CA, USA",ECrowther
+"""been""","Miami, FL, USA",ECrowther
+"""been"",""fave""","Snoqualmie, WA, USA",ECrowther
+"""been""","Solana Beach, CA, USA",ECrowther
+"""been""","Basel, Switzerland",ECrowther
+"""been""","Solvang, CA, USA",ECrowther
+"""been""","Saint Louis, MO, USA",ECrowther
+"""been""","Ottawa, Ontario, Canada",ECrowther
+"""been""","Vina del Mar, Chile",ECrowther
+"""been""","Chicago, IL, USA",ECrowther
+"""been""","Newport Beach, CA, USA",ECrowther
+"""been""","Los Olivos, CA, USA",ECrowther
+"""been""","Bern, Switzerland",ECrowther
+"""been""","Avalon, CA, USA",ECrowther
+"""been""","Geneva, Switzerland",ECrowther
+"""been""","Arlington, VA, USA",ECrowther
+"""been""","Sucre, Bolivia",ECrowther
+"""been""","Thunder Bay, Ontario, Canada",ECrowther
+"""been"",""fave""","Grand Canyon National Park, AZ, USA",ECrowther
+"""been""","Kansas City, MO, USA",ECrowther
+"""been""","Tallinn, Estonia",ECrowther
+"""been""","Granada, Nicaragua",ECrowther
+"""been""","Lucerne, Switzerland",ECrowther
+"""been""","Papeete, French Polynesia",ECrowther
+"""been""","Malibu, CA, USA",ECrowther
+"""been""","Birmingham, AL, USA",ECrowther
+"""been""","Portland, OR, USA",ECrowther
+"""been""","Chillan, Chile",ECrowther
+"""been""","Glendale, CA, USA",ECrowther
+"""been""","Yachats, OR, USA",ECrowther
+"""been""","Lima, Peru",ECrowther
+"""been""","Machu Picchu, Peru",ECrowther
+"""been""","Reno, NV, USA",ECrowther
+"""been""","Cusco, Peru",ECrowther
+"""been""","Sechelt, British Columbia, Canada",ECrowther
+"""been""","Scottsdale, AZ, USA",ECrowther
+"""been""","Salem, OR, USA",ECrowther
+"""been""","Mount Pleasant, SC, USA",ECrowther
+"""been""","Sedona, AZ, USA",ECrowther
+"""been""","Marina del Rey, CA, USA",ECrowther
+"""been""","Montevideo, Uruguay",ECrowther
+"""been""","Gundershoffen, France",ECrowther
+"""been""","La Jolla, CA, USA",ECrowther
+"""been""","Pontcharra, France",ECrowther
+"""been""","Orlando, FL, USA",ECrowther
+"""been""","Madeira Park, British Columbia, Canada",ECrowther
+"""been""","Montecito, CA, USA",ECrowther
+"""been""","Riverside, CA, USA",ECrowther
+"""been""","Monterey, CA, USA",ECrowther
+"""been""","Pasadena, CA, USA",ECrowther
+"""been""","Williams, AZ, USA",ECrowther
+"""been""","Bratislava, Slovakia",ECrowther
+"""been""","Milwaukee, WI, USA",ECrowther
+"""been""","Lugano, Switzerland",ECrowther
+"""been""","Paso Robles, CA, USA",ECrowther
+"""been""","Santiago, Chile",ECrowther
+"""been""","Guatemala City, Guatemala",ECrowther
+"""been""","Foz do Iguacu, Brazil",ECrowther
+"""been""","Valparaiso, Chile",ECrowther
+"""been""","Morro Bay, CA, USA",ECrowther
+"""been""","Temuco, Chile",ECrowther
+"""been""","Villarrica, Chile",ECrowther
+"""been""","Valdivia, Chile",ECrowther
+"""been""","Quito, Ecuador",ECrowther
+"""been""","Cairns, Australia",ECrowther
+"""been""","Wichita, KS, USA",ECrowther
+"""been""","Huntington Beach, CA, USA",ECrowther
+"""been""","Sydney, Australia",ECrowther
+"""been""","Prague, Czech Republic",ECrowther
+"""been""","Pueblo, CO, USA",ECrowther
+"""been""","Galveston, TX, USA",ECrowther
+"""been""","Sacramento, CA, USA",ECrowther
+"""been""","Aurora, CO, USA",ECrowther
+"""been""","La Serena, Chile",ECrowther
+"""been""","Aspen, CO, USA",ECrowther
+"""been""","Copiapo, Chile",ECrowther
+"""been""","Napa, CA, USA",ECrowther
+"""been""","Indio, CA, USA",ECrowther
+"""been""","Inglewood, CA, USA",ECrowther
+"""been""","Talca, Chile",ECrowther
+"""been""","Alexandria, VA, USA",ECrowther
+"""been""","Phoenix, AZ, USA",ECrowther
+"""been""","Weilburg, Germany",ECrowther
+"""been""","Pittsburgh, PA, USA",ECrowther
+"""been""","Easter Island, Chile",ECrowther
+"""been""","Long Beach, CA, USA",ECrowther
+"""been""","Siena, Italy",ECrowther
+"""been""","San Gimignano, Italy",ECrowther
+"""been""","Laughlin, NV, USA",ECrowther
+"""been""","Las Vegas, NV, USA",ECrowther
+"""been""","Annapolis, MD, USA",ECrowther
+"""been""","Prescott, AZ, USA",ECrowther
+"""been""","Los Angeles, CA, USA",ECrowther
+"""been""","Fresno, CA, USA",ECrowther
+"""been""","Irvine, CA, USA",ECrowther
+"""been""","Pismo Beach, CA, USA",ECrowther
+"""been""","Ucluelet, British Columbia, Canada",ECrowther
+"""been"",""fave""","Ojai, CA, USA",ECrowther
+"""been""","Rancho Mirage, CA, USA",ECrowther
+"""been""","Mendocino, CA, USA",ECrowther
+"""been""","Las Cruces, NM, USA",ECrowther
+"""been""","Kennebunkport, ME, USA",ECrowther
+"""been""","Ashland, OR, USA",ECrowther
+"""been""","Borgo San Lorenzo, Italy",ECrowther
+"""been""","Redondo Beach, CA, USA",ECrowther
+"""been""","Lexington, KY, USA",ECrowther
+"""been""","Harrisburg, PA, USA",ECrowther
+"""been""","Redwood City, CA, USA",ECrowther
+"""been""","Dublin, Ireland",ECrowther
+"""been""","Champagnole, France",ECrowther
+"""been""","Oxnard, CA, USA",ECrowther
+"""been""","Noves, France",ECrowther
+"""been""","Palo Alto, CA, USA",ECrowther
+"""been""","Genoa, Italy",ECrowther
+"""been""","Bonnieux, France",ECrowther
+"""been""","Palm Springs, CA, USA",ECrowther
+"""been""","Saint Paul, MN, USA",ECrowther
+"""been""","Dallas, TX, USA",ECrowther
+"""been""","Highlands, NC, USA",ECrowther
+"""been""","Cleveland, OH, USA",ECrowther
+"""been""","Montgomery, AL, USA",ECrowther
+"""been""","Sioux Falls, SD, USA",ECrowther
+"""been""","Como, Italy",ECrowther
+"""been""","Fortaleza, Brazil",ECrowther
+"""been""","Santa Ana, Costa Rica",ECrowther
+"""been""","Cassis, France",ECrowther
+"""been""","Suzdal, Russia",ECrowther
+"""been""","Bend, OR, USA",ECrowther
+"""been""","Gallup, NM, USA",ECrowther
+"""been""","Raleigh, NC, USA",ECrowther
+"""been""","Milan, Italy",ECrowther
+"""been""","Monument Valley, UT, USA",ECrowther
+"""been""","Auckland Central, New Zealand",ECrowther
+"""been""","Grants Pass, OR, USA",ECrowther
+"""been""","Niagara Falls, Ontario, Canada",ECrowther
+"""been""","Chattanooga, TN, USA",ECrowther
+"""been""","Edinburgh, UK",ECrowther
+"""been""","Salvador, Brazil",ECrowther
+"""been""","Wellington, New Zealand",ECrowther
+"""been""","Oberwesel, Germany",ECrowther
+"""been""","Oklahoma City, OK, USA",ECrowther
+"""been""","Niagara Falls, NY, USA",ECrowther
+"""been""","Glasgow, UK",ECrowther
+"""been""","Sitges, Spain",ECrowther
+"""been""","Ogden, UT, USA",ECrowther
+"""been"",""fave""","Venice, Italy",ECrowther
+"""been""","Oakland, CA, USA",ECrowther

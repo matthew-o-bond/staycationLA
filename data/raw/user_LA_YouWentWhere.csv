@@ -1,0 +1,442 @@
+tag,place,user
+"""been""","Centerville, MA, USA",YouWentWhere
+"""been""","Los Angeles, CA, USA",YouWentWhere
+"""want""","Warsaw, Poland",YouWentWhere
+"""been""","Durham, NC, USA",YouWentWhere
+"""been""","Grand Canyon National Park, AZ, USA",YouWentWhere
+"""been""","Irvine, CA, USA",YouWentWhere
+"""been""","Bossier City, LA, USA",YouWentWhere
+"""want""","Bordeaux, France",YouWentWhere
+"""been""","Bardstown, KY, USA",YouWentWhere
+"""been""","Strasbourg, France",YouWentWhere
+"""want""","Colmar, France",YouWentWhere
+"""want""","Beijing, China",YouWentWhere
+"""been""","Venice, FL, USA",YouWentWhere
+"""been""","New Haven, CT, USA",YouWentWhere
+"""been""","Long Beach, CA, USA",YouWentWhere
+"""been""","Westport, CT, USA",YouWentWhere
+"""want""","Dubai, United Arab Emirates",YouWentWhere
+"""been""","Inglewood, CA, USA",YouWentWhere
+"""been""","Alexandria, VA, USA",YouWentWhere
+"""want""","Hong Kong, China",YouWentWhere
+"""been""","Minneapolis, MN, USA",YouWentWhere
+"""been""","Biloxi, MS, USA",YouWentWhere
+"""been""","Playa del Carmen, Mexico",YouWentWhere
+"""been""","Bayeux, France",YouWentWhere
+"""been""","Caen, France",YouWentWhere
+"""been""","Tulum, Mexico",YouWentWhere
+"""been""","Mystic, CT, USA",YouWentWhere
+"""been""","Huntington Beach, CA, USA",YouWentWhere
+"""been""","Charlotte Amalie, U.S. Virgin Islands",YouWentWhere
+"""been""","New Bedford, MA, USA",YouWentWhere
+"""want""","Toulouse, France",YouWentWhere
+"""been""","Rouen, France",YouWentWhere
+"""been""","Budapest, Hungary",YouWentWhere
+"""been""","Uncasville, CT, USA",YouWentWhere
+"""been""","Paso Robles, CA, USA",YouWentWhere
+"""been""","Pebble Beach, CA, USA",YouWentWhere
+"""been""","Toronto, Ontario, Canada",YouWentWhere
+"""been""","Concord, MA, USA",YouWentWhere
+"""want""","Honfleur, France",YouWentWhere
+"""been""","Mestre, Italy",YouWentWhere
+"""been""","Detroit, MI, USA",YouWentWhere
+"""want""","Giverny, France",YouWentWhere
+"""been""","Vienna, Austria",YouWentWhere
+"""been""","La Jolla, CA, USA",YouWentWhere
+"""been""","Orlando, FL, USA",YouWentWhere
+"""been""","Yountville, CA, USA",YouWentWhere
+"""been""","Apalachicola, FL, USA",YouWentWhere
+"""been""","Framingham, MA, USA",YouWentWhere
+"""been""","Barnstable, MA, USA",YouWentWhere
+"""been""","Foxborough, MA, USA",YouWentWhere
+"""want""","Dresden, Germany",YouWentWhere
+"""been""","Needham, MA, USA",YouWentWhere
+"""been""","Natick, MA, USA",YouWentWhere
+"""been""","Bedford, MA, USA",YouWentWhere
+"""been""","Belmont, MA, USA",YouWentWhere
+"""want""","Lourdes, France",YouWentWhere
+"""want""","Cayo Largo, Cuba",YouWentWhere
+"""been""","Salzburg, Austria",YouWentWhere
+"""been""","Gloucester, MA, USA",YouWentWhere
+"""been""","Waco, TX, USA",YouWentWhere
+"""been""","Pittsburgh, PA, USA",YouWentWhere
+"""been""","Marina del Rey, CA, USA",YouWentWhere
+"""been""","Sedona, AZ, USA",YouWentWhere
+"""been"",""fave""","Prague, Czech Republic",YouWentWhere
+"""been""","Billerica, MA, USA",YouWentWhere
+"""been""","Beverly, MA, USA",YouWentWhere
+"""want""","Heidelberg, Germany",YouWentWhere
+"""been""","Great Barrington, MA, USA",YouWentWhere
+"""been""","Malibu, CA, USA",YouWentWhere
+"""been""","Birmingham, AL, USA",YouWentWhere
+"""been""","West Palm Beach, FL, USA",YouWentWhere
+"""been""","Manhattan Beach, CA, USA",YouWentWhere
+"""want""","Galveston, TX, USA",YouWentWhere
+"""been""","Braintree, MA, USA",YouWentWhere
+"""been"",""fave""","Barcelona, Spain",YouWentWhere
+"""want""","Marseille, France",YouWentWhere
+"""been""","Brewster, MA, USA",YouWentWhere
+"""want""","Tours, France",YouWentWhere
+"""want""","Cologne, Germany",YouWentWhere
+"""been""","St. Petersburg, FL, USA",YouWentWhere
+"""been""","St. Pete Beach, FL, USA",YouWentWhere
+"""want""","Lima, Peru",YouWentWhere
+"""been""","Garden Grove, CA, USA",YouWentWhere
+"""been""","Annapolis, MD, USA",YouWentWhere
+"""been""","Arlington, VA, USA",YouWentWhere
+"""been"",""fave""","Paris, France",YouWentWhere
+"""been""","Newport Beach, CA, USA",YouWentWhere
+"""been"",""want""","Versailles, France",YouWentWhere
+"""been""","Burlington, MA, USA",YouWentWhere
+"""been""","Las Vegas, NV, USA",YouWentWhere
+"""want""","Lyon, France",YouWentWhere
+"""been""","Philipsburg, St Martin \u002F St Maarten",YouWentWhere
+"""been""","Marigot, St Martin \u002F St Maarten",YouWentWhere
+"""been""","Soufriere, St. Lucia",YouWentWhere
+"""been""","Castries, St. Lucia",YouWentWhere
+"""been""","Wellesley, MA, USA",YouWentWhere
+"""been""","Waterville, Ireland",YouWentWhere
+"""been""","Lisdoonvarna, Ireland",YouWentWhere
+"""been""","Simpson Bay, St Martin \u002F St Maarten",YouWentWhere
+"""been""","Grand Case, St Martin \u002F St Maarten",YouWentWhere
+"""been""","Plymouth, MA, USA",YouWentWhere
+"""been""","Provincetown, MA, USA",YouWentWhere
+"""been""","Marblehead, MA, USA",YouWentWhere
+"""been"",""fave""","Big Sur, CA, USA",YouWentWhere
+"""want""","Mostar, Bosnia and Herzegovina",YouWentWhere
+"""been""","Chapel Hill, NC, USA",YouWentWhere
+"""been""","Charlotte, NC, USA",YouWentWhere
+"""want""","Parma, Italy",YouWentWhere
+"""been"",""fave""","Bologna, Italy",YouWentWhere
+"""been""","Marlborough, MA, USA",YouWentWhere
+"""been""","Kennebunk, ME, USA",YouWentWhere
+"""been""","Amherst, MA, USA",YouWentWhere
+"""been""","Kennebunkport, ME, USA",YouWentWhere
+"""want""","St. Jean, St. Barthelemy",YouWentWhere
+"""been""","Andover, MA, USA",YouWentWhere
+"""been""","Revere, MA, USA",YouWentWhere
+"""been""","Arlington, MA, USA",YouWentWhere
+"""been""","Mashpee, MA, USA",YouWentWhere
+"""been""","Kittery, ME, USA",YouWentWhere
+"""been""","Rockport, MA, USA",YouWentWhere
+"""been""","Dallas, TX, USA",YouWentWhere
+"""want""","Phuket Town, Thailand",YouWentWhere
+"""been""","Melrose, MA, USA",YouWentWhere
+"""been""","Eastham, MA, USA",YouWentWhere
+"""been""","Edgartown, MA, USA",YouWentWhere
+"""want""","Seoul, South Korea",YouWentWhere
+"""want""","Montauk, NY, USA",YouWentWhere
+"""been""","Assisi, Italy",YouWentWhere
+"""been""","Siena, Italy",YouWentWhere
+"""been""","Falmouth, MA, USA",YouWentWhere
+"""been""","Fall River, MA, USA",YouWentWhere
+"""been""","Pasadena, CA, USA",YouWentWhere
+"""been""","North Conway, NH, USA",YouWentWhere
+"""been"",""fave""","Monterey, CA, USA",YouWentWhere
+"""been""","Freeport, Bahamas",YouWentWhere
+"""want""","St. Petersburg, Russia",YouWentWhere
+"""been"",""fave""","Boothbay Harbor, ME, USA",YouWentWhere
+"""been""","North Truro, MA, USA",YouWentWhere
+"""want""","Monument Valley, UT, USA",YouWentWhere
+"""been""","Sneem, Ireland",YouWentWhere
+"""been""","Brattleboro, VT, USA",YouWentWhere
+"""been""","Freeport, ME, USA",YouWentWhere
+"""been""","Sturbridge, MA, USA",YouWentWhere
+"""been""","Caneel Bay, U.S. Virgin Islands",YouWentWhere
+"""been""","Lake George, NY, USA",YouWentWhere
+"""been"",""want""","Palm Springs, CA, USA",YouWentWhere
+"""been""","Raleigh, NC, USA",YouWentWhere
+"""want""","Abu Dhabi, United Arab Emirates",YouWentWhere
+"""been""","Pacific Grove, CA, USA",YouWentWhere
+"""been"",""want""","Palm Desert, CA, USA",YouWentWhere
+"""been""","Mykonos Town, Greece",YouWentWhere
+"""been""","Nassau, Bahamas",YouWentWhere
+"""been""","Quebec City, Quebec, Canada",YouWentWhere
+"""been""","Ipswich, MA, USA",YouWentWhere
+"""been""","Montreal, Quebec, Canada",YouWentWhere
+"""been""","Norwood, MA, USA",YouWentWhere
+"""been""","Alexandria Bay, NY, USA",YouWentWhere
+"""been""","South Portland, ME, USA",YouWentWhere
+"""been""","Gulfport, MS, USA",YouWentWhere
+"""been""","Chelmsford, MA, USA",YouWentWhere
+"""been""","Tewksbury, MA, USA",YouWentWhere
+"""been""","Hyannis, MA, USA",YouWentWhere
+"""want""","Rio de Janeiro, Brazil",YouWentWhere
+"""been""","Columbus, OH, USA",YouWentWhere
+"""been""","Franconia, NH, USA",YouWentWhere
+"""want""","Dubrovnik, Croatia",YouWentWhere
+"""been""","Hartford, CT, USA",YouWentWhere
+"""want""","Split, Croatia",YouWentWhere
+"""been""","San Juan, Puerto Rico",YouWentWhere
+"""want""","Sharm El Sheikh, Egypt",YouWentWhere
+"""been""","Niagara Falls, NY, USA",YouWentWhere
+"""been""","Redondo Beach, CA, USA",YouWentWhere
+"""been""","Marigot Bay, St. Lucia",YouWentWhere
+"""been""","Lenox, MA, USA",YouWentWhere
+"""been""","Lexington, KY, USA",YouWentWhere
+"""been""","Danvers, MA, USA",YouWentWhere
+"""been""","Oak Bluffs, MA, USA",YouWentWhere
+"""been""","Albany, NY, USA",YouWentWhere
+"""been""","Vineyard Haven, MA, USA",YouWentWhere
+"""been""","Shreveport, LA, USA",YouWentWhere
+"""been""","Wakefield, MA, USA",YouWentWhere
+"""been""","Orleans, MA, USA",YouWentWhere
+"""been""","Kingston, Jamaica",YouWentWhere
+"""been""","Montego Bay, Jamaica",YouWentWhere
+"""been""","Waltham, MA, USA",YouWentWhere
+"""been""","Ogunquit, ME, USA",YouWentWhere
+"""been""","Mendocino, CA, USA",YouWentWhere
+"""been""","Rancho Mirage, CA, USA",YouWentWhere
+"""been""","Orient Bay, St Martin \u002F St Maarten",YouWentWhere
+"""been""","Old Orchard Beach, ME, USA",YouWentWhere
+"""been""","Camden, ME, USA",YouWentWhere
+"""been""","Dedham, MA, USA",YouWentWhere
+"""been""","Peabody, MA, USA",YouWentWhere
+"""been""","Dennis, MA, USA",YouWentWhere
+"""been""","Lexington, MA, USA",YouWentWhere
+"""been""","Metairie, LA, USA",YouWentWhere
+"""been""","Slidell, LA, USA",YouWentWhere
+"""been""","Watertown, MA, USA",YouWentWhere
+"""been""","Dennis Port, MA, USA",YouWentWhere
+"""been""","Staten Island, NY, USA",YouWentWhere
+"""been""","Lincoln, NH, USA",YouWentWhere
+"""been""","Weirs Beach, NH, USA",YouWentWhere
+"""want""","Louisville, KY, USA",YouWentWhere
+"""been""","Longboat Key, FL, USA",YouWentWhere
+"""been""","Sausalito, CA, USA",YouWentWhere
+"""been""","Madrid, Spain",YouWentWhere
+"""been""","Seal Beach, CA, USA",YouWentWhere
+"""been""","Somerville, MA, USA",YouWentWhere
+"""want""","Inverness, UK",YouWentWhere
+"""been""","Verona, Italy",YouWentWhere
+"""been""","Venice, Italy",YouWentWhere
+"""been""","Rockland, ME, USA",YouWentWhere
+"""been""","Rockport, ME, USA",YouWentWhere
+"""been""","Manchester, NH, USA",YouWentWhere
+"""been""","Bretton Woods, NH, USA",YouWentWhere
+"""been""","Meredith, NH, USA",YouWentWhere
+"""been""","Wolfeboro, NH, USA",YouWentWhere
+"""been""","Newport News, VA, USA",YouWentWhere
+"""been""","Santa Monica, CA, USA",YouWentWhere
+"""want""","Hanoi, Vietnam",YouWentWhere
+"""been""","Newton, MA, USA",YouWentWhere
+"""want""","Ho Chi Minh City, Vietnam",YouWentWhere
+"""been""","Clearwater, FL, USA",YouWentWhere
+"""been""","Woburn, MA, USA",YouWentWhere
+"""been""","Newburyport, MA, USA",YouWentWhere
+"""been""","Vieux Fort, St. Lucia",YouWentWhere
+"""been""","Saco, ME, USA",YouWentWhere
+"""want""","Williamstown, MA, USA",YouWentWhere
+"""been""","Oswego, NY, USA",YouWentWhere
+"""been""","Santa Cruz, CA, USA",YouWentWhere
+"""been""","York, ME, USA",YouWentWhere
+"""been""","Bath, ME, USA",YouWentWhere
+"""been""","North Adams, MA, USA",YouWentWhere
+"""been""","Jeffersonville, VT, USA",YouWentWhere
+"""been""","Wicklow, Ireland",YouWentWhere
+"""want""","Edinburgh, UK",YouWentWhere
+"""been"",""fave""","Turin, Italy",YouWentWhere
+"""been""","Belfast, ME, USA",YouWentWhere
+"""been""","Santa Barbara, CA, USA",YouWentWhere
+"""been""","Norfolk, VA, USA",YouWentWhere
+"""been""","Pavia, Italy",YouWentWhere
+"""been""","Scarborough, ME, USA",YouWentWhere
+"""been""","Worcester, MA, USA",YouWentWhere
+"""been""","Beverly Hills, CA, USA",YouWentWhere
+"""been""","Bangor, ME, USA",YouWentWhere
+"""want""","Buenos Aires, Argentina",YouWentWhere
+"""been""","San Simeon, CA, USA",YouWentWhere
+"""been""","Winston Salem, NC, USA",YouWentWhere
+"""been""","Concord, NH, USA",YouWentWhere
+"""been""","Nashua, NH, USA",YouWentWhere
+"""want""","Phnom Penh, Cambodia",YouWentWhere
+"""been""","Windsor, UK",YouWentWhere
+"""been""","Virginia Beach, VA, USA",YouWentWhere
+"""been""","Bethel, ME, USA",YouWentWhere
+"""been""","Pensacola Beach, FL, USA",YouWentWhere
+"""been"",""fave""","Padua, Italy",YouWentWhere
+"""been""","Carrabelle, FL, USA",YouWentWhere
+"""been""","York Beach, ME, USA",YouWentWhere
+"""been""","York Harbor, ME, USA",YouWentWhere
+"""been""","South Yarmouth, MA, USA",YouWentWhere
+"""been""","Kinsale, Ireland",YouWentWhere
+"""been""","White Plains, NY, USA",YouWentWhere
+"""want""","Okinawa City, Japan",YouWentWhere
+"""been""","Westport, Ireland",YouWentWhere
+"""been""","Richmond, VA, USA",YouWentWhere
+"""been""","Charlottesville, VA, USA",YouWentWhere
+"""want""","Como, Italy",YouWentWhere
+"""been""","Franklin, TN, USA",YouWentWhere
+"""been""","Limerick, Ireland",YouWentWhere
+"""been""","Cambridge, MA, USA",YouWentWhere
+"""been""","Lowell, MA, USA",YouWentWhere
+"""want""","Havana, Cuba",YouWentWhere
+"""been""","Atlanta, GA, USA",YouWentWhere
+"""been""","Hampton, NH, USA",YouWentWhere
+"""been""","Hamilton, Bermuda",YouWentWhere
+"""been""","Mobile, AL, USA",YouWentWhere
+"""been""","Kenmare, Ireland",YouWentWhere
+"""been""","Dingle, Ireland",YouWentWhere
+"""been""","Waterford, Ireland",YouWentWhere
+"""been""","Milan, Italy",YouWentWhere
+"""been"",""fave""","Mantua, Italy",YouWentWhere
+"""been"",""fave""","Stresa, Italy",YouWentWhere
+"""been""","New York City, NY, USA",YouWentWhere
+"""been""","Narragansett, RI, USA",YouWentWhere
+"""been"",""fave""","Sligo, Ireland",YouWentWhere
+"""been""","Duck Key, FL, USA",YouWentWhere
+"""been""","Little Rock, AR, USA",YouWentWhere
+"""been""","El Paso, TX, USA",YouWentWhere
+"""been"",""fave""","Galway, Ireland",YouWentWhere
+"""been""","Dublin, Ireland",YouWentWhere
+"""been""","Philadelphia, PA, USA",YouWentWhere
+"""been""","Trieste, Italy",YouWentWhere
+"""been""","Delray Beach, FL, USA",YouWentWhere
+"""been""","Memphis, TN, USA",YouWentWhere
+"""been"",""fave""","Donegal Town, Ireland",YouWentWhere
+"""been""","Waterville, ME, USA",YouWentWhere
+"""been""","Portland, ME, USA",YouWentWhere
+"""been""","Cork, Ireland",YouWentWhere
+"""been""","Hollywood, FL, USA",YouWentWhere
+"""want""","Bangkok, Thailand",YouWentWhere
+"""been""","Washington DC, DC, USA",YouWentWhere
+"""been""","Jackson, NH, USA",YouWentWhere
+"""been""","Daytona Beach, FL, USA",YouWentWhere
+"""want""","Gettysburg, PA, USA",YouWentWhere
+"""been""","Quechee, VT, USA",YouWentWhere
+"""been""","Keene, NH, USA",YouWentWhere
+"""been""","Mont-Saint-Michel, France",YouWentWhere
+"""been""","Waterville Valley, NH, USA",YouWentWhere
+"""want""","Taos, NM, USA",YouWentWhere
+"""been""","Laconia, NH, USA",YouWentWhere
+"""been""","Shannon, Ireland",YouWentWhere
+"""want""","Clifden, Ireland",YouWentWhere
+"""been""","Adare, Ireland",YouWentWhere
+"""been""","Kilkenny, Ireland",YouWentWhere
+"""been""","Westborough, MA, USA",YouWentWhere
+"""been""","Sandwich, MA, USA",YouWentWhere
+"""want""","Portofino, Italy",YouWentWhere
+"""been""","West Yarmouth, MA, USA",YouWentWhere
+"""been""","Westford, MA, USA",YouWentWhere
+"""been"",""fave""","Killarney, Ireland",YouWentWhere
+"""want""","Genoa, Italy",YouWentWhere
+"""been""","Bradenton, FL, USA",YouWentWhere
+"""been""","Tralee, Ireland",YouWentWhere
+"""been""","Wells, ME, USA",YouWentWhere
+"""been""","Bunratty, Ireland",YouWentWhere
+"""been""","Miami, FL, USA",YouWentWhere
+"""been""","Miami Beach, FL, USA",YouWentWhere
+"""been""","Solvang, CA, USA",YouWentWhere
+"""been""","Middlebury, VT, USA",YouWentWhere
+"""been""","Anaheim, CA, USA",YouWentWhere
+"""been""","Tampa, FL, USA",YouWentWhere
+"""been""","Sonoma, CA, USA",YouWentWhere
+"""been""","Indian Rocks Beach, FL, USA",YouWentWhere
+"""been""","Coronado, CA, USA",YouWentWhere
+"""been""","Hermosa Beach, CA, USA",YouWentWhere
+"""been""","Tallahassee, FL, USA",YouWentWhere
+"""been""","Austin, TX, USA",YouWentWhere
+"""been""","Pensacola, FL, USA",YouWentWhere
+"""been""","Newport, RI, USA",YouWentWhere
+"""want""","Nice, France",YouWentWhere
+"""want""","Dijon, France",YouWentWhere
+"""been""","Letterkenny, Ireland",YouWentWhere
+"""want""","Queenstown, New Zealand",YouWentWhere
+"""want""","Cayo Guillermo, Cuba",YouWentWhere
+"""been""","Healdsburg, CA, USA",YouWentWhere
+"""want""","Monte-Carlo, Monaco",YouWentWhere
+"""want""","Tusayan, AZ, USA",YouWentWhere
+"""been""","Panama City, FL, USA",YouWentWhere
+"""been""","Saugus, MA, USA",YouWentWhere
+"""been""","Panama City Beach, FL, USA",YouWentWhere
+"""been""","Burlington, VT, USA",YouWentWhere
+"""been""","Toledo, Spain",YouWentWhere
+"""been""","Dulles, VA, USA",YouWentWhere
+"""been""","Springfield, MA, USA",YouWentWhere
+"""want""","Saint-Tropez, France",YouWentWhere
+"""want""","Chartres, France",YouWentWhere
+"""been""","Greensboro, NC, USA",YouWentWhere
+"""been""","East Syracuse, NY, USA",YouWentWhere
+"""been""","San Diego, CA, USA",YouWentWhere
+"""been""","Palm Beach, FL, USA",YouWentWhere
+"""been""","Rochester, NY, USA",YouWentWhere
+"""been""","Wellfleet, MA, USA",YouWentWhere
+"""want""","Derry, UK",YouWentWhere
+"""been""","Portsmouth, NH, USA",YouWentWhere
+"""want""","Seattle, WA, USA",YouWentWhere
+"""been""","Laguna Hills, CA, USA",YouWentWhere
+"""want""","Asheville, NC, USA",YouWentWhere
+"""been""","Williamsburg, VA, USA",YouWentWhere
+"""want""","Bratislava, Slovakia",YouWentWhere
+"""been""","White River Junction, VT, USA",YouWentWhere
+"""been""","Salem, NH, USA",YouWentWhere
+"""want""","Athens, Greece",YouWentWhere
+"""been"",""fave""","New Orleans, LA, USA",YouWentWhere
+"""been""","Boston, MA, USA",YouWentWhere
+"""want""","Bath, UK",YouWentWhere
+"""want""","Tokyo, Japan",YouWentWhere
+"""been""","West Warwick, RI, USA",YouWentWhere
+"""been""","Westerly, RI, USA",YouWentWhere
+"""been""","San Luis Obispo, CA, USA",YouWentWhere
+"""want""","St. Augustine, FL, USA",YouWentWhere
+"""been""","Istanbul, Turkey",YouWentWhere
+"""want""","Marrakech, Morocco",YouWentWhere
+"""been""","Carmel Valley, CA, USA",YouWentWhere
+"""been""","Carmel, CA, USA",YouWentWhere
+"""been""","Fort Walton Beach, FL, USA",YouWentWhere
+"""been""","Malaga, Spain",YouWentWhere
+"""want""","Sydney, Australia",YouWentWhere
+"""been""","Warwick, RI, USA",YouWentWhere
+"""been""","Fort Myers, FL, USA",YouWentWhere
+"""want""","Brussels, Belgium",YouWentWhere
+"""been""","San Juan Capistrano, CA, USA",YouWentWhere
+"""been""","Fort Myers Beach, FL, USA",YouWentWhere
+"""been""","Kissimmee, FL, USA",YouWentWhere
+"""want""","Stockholm, Sweden",YouWentWhere
+"""been""","Yarmouth, MA, USA",YouWentWhere
+"""been""","Vatican City, Vatican City",YouWentWhere
+"""been""","Tivoli, Italy",YouWentWhere
+"""been"",""fave""","Rome, Italy",YouWentWhere
+"""want""","Cardiff, UK",YouWentWhere
+"""been""","Ithaca, NY, USA",YouWentWhere
+"""been""","Niagara Falls, Ontario, Canada",YouWentWhere
+"""been""","South Burlington, VT, USA",YouWentWhere
+"""been""","San Gabriel, CA, USA",YouWentWhere
+"""been""","Naples, FL, USA",YouWentWhere
+"""been""","Nashville, TN, USA",YouWentWhere
+"""been""","Fort Lauderdale, FL, USA",YouWentWhere
+"""been""","West Hollywood, CA, USA",YouWentWhere
+"""been""","Key West, FL, USA",YouWentWhere
+"""been""","Port Saint Lucie, FL, USA",YouWentWhere
+"""been""","Blarney, Ireland",YouWentWhere
+"""been""","Del Mar, CA, USA",YouWentWhere
+"""been""","Ennis, Ireland",YouWentWhere
+"""want""","Berlin, Germany",YouWentWhere
+"""been""","Granada, Spain",YouWentWhere
+"""been""","Jacksonville, FL, USA",YouWentWhere
+"""been""","Torremolinos, Spain",YouWentWhere
+"""been""","Bar Harbor, ME, USA",YouWentWhere
+"""been""","Dana Point, CA, USA",YouWentWhere
+"""been""","Stowe, VT, USA",YouWentWhere
+"""been""","Pisa, Italy",YouWentWhere
+"""been""","Fira, Greece",YouWentWhere
+"""been""","St. Helena, CA, USA",YouWentWhere
+"""been""","Florence, Italy",YouWentWhere
+"""been""","Oia, Greece",YouWentWhere
+"""been""","Salem, MA, USA",YouWentWhere
+"""been""","San Francisco, CA, USA",YouWentWhere
+"""been""","South San Francisco, CA, USA",YouWentWhere
+"""been"",""fave""","Cambria, CA, USA",YouWentWhere
+"""want""","Jerusalem, Israel",YouWentWhere
+"""want""","London, UK",YouWentWhere
+"""been""","Calistoga, CA, USA",YouWentWhere
+"""been""","Killington, VT, USA",YouWentWhere
+"""want""","The Hague, The Netherlands",YouWentWhere
+"""been""","Pompeii, Italy",YouWentWhere
+"""been""","Providence, RI, USA",YouWentWhere
+"""want""","Capri, Italy",YouWentWhere
+"""been""","Sorrento, Italy",YouWentWhere
+"""been""","Brooklyn, NY, USA",YouWentWhere
+"""been""","Amalfi, Italy",YouWentWhere
+"""been""","Syracuse, NY, USA",YouWentWhere
+"""been""","Brookline, MA, USA",YouWentWhere

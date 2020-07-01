@@ -1,0 +1,406 @@
+tag,place,user
+"""want""","Athens, Greece",PVtalker
+"""been""","Fayetteville, NC, USA",PVtalker
+"""been""","Haverford, PA, USA",PVtalker
+"""been""","Rancho Palos Verdes, CA, USA",PVtalker
+"""want""","Christchurch, New Zealand",PVtalker
+"""been""","Orange, CA, USA",PVtalker
+"""been""","Mount Airy, NC, USA",PVtalker
+"""been""","Cuyahoga Falls, OH, USA",PVtalker
+"""been""","Traverse City, MI, USA",PVtalker
+"""want""","Nice, France",PVtalker
+"""been""","Kennebunkport, ME, USA",PVtalker
+"""been""","Charlotte, NC, USA",PVtalker
+"""been""","Reading, PA, USA",PVtalker
+"""been""","Redondo Beach, CA, USA",PVtalker
+"""been""","Chapel Hill, NC, USA",PVtalker
+"""been"",""fave""","Wailea, HI, USA",PVtalker
+"""been""","Tulsa, OK, USA",PVtalker
+"""been""","Lexington, KY, USA",PVtalker
+"""want""","Copenhagen, Denmark",PVtalker
+"""been""","Ann Arbor, MI, USA",PVtalker
+"""been""","Rutland, MA, USA",PVtalker
+"""been""","Palo Alto, CA, USA",PVtalker
+"""been""","Niagara Falls, Ontario, Canada",PVtalker
+"""been"",""want"",""fave""","Himeji, Japan",PVtalker
+"""been""","Palm Springs, CA, USA",PVtalker
+"""been""","Palm Desert, CA, USA",PVtalker
+"""been""","Niagara-on-the-Lake, Ontario, Canada",PVtalker
+"""been""","Pacific Grove, CA, USA",PVtalker
+"""want""","Barcelona, Spain",PVtalker
+"""been"",""fave""","Nara, Japan",PVtalker
+"""been""","Pasadena, CA, USA",PVtalker
+"""been""","Birdsboro, PA, USA",PVtalker
+"""want""","Amsterdam, The Netherlands",PVtalker
+"""been""","Monterey, CA, USA",PVtalker
+"""been""","Riverside, CA, USA",PVtalker
+"""been""","Palos Verdes Estates, CA, USA",PVtalker
+"""been""","Dallas, TX, USA",PVtalker
+"""been""","Fort Wayne, IN, USA",PVtalker
+"""been""","Fort Knox, KY, USA",PVtalker
+"""want""","Zurich, Switzerland",PVtalker
+"""want""","Lyon, France",PVtalker
+"""been"",""fave""","Paris, France",PVtalker
+"""been""","Versailles, France",PVtalker
+"""been""","Yokohama, Japan",PVtalker
+"""want""","Naruto, Japan",PVtalker
+"""been""","Lorain, OH, USA",PVtalker
+"""been"",""want""","South Haven, MI, USA",PVtalker
+"""been"",""want""","Utsunomiya, Japan",PVtalker
+"""been""","Tokyo, Japan",PVtalker
+"""been""","Cleveland, OH, USA",PVtalker
+"""been""","Raleigh, NC, USA",PVtalker
+"""been""","Nikko, Japan",PVtalker
+"""been""","Kapalua, HI, USA",PVtalker
+"""been""","Grants Pass, OR, USA",PVtalker
+"""been""","Innsbruck, Austria",PVtalker
+"""want""","New Delhi, India",PVtalker
+"""want""","Salzburg, Austria",PVtalker
+"""been""","Fairfield, OH, USA",PVtalker
+"""been""","Yosemite National Park, CA, USA",PVtalker
+"""been""","Shreveport, LA, USA",PVtalker
+"""been""","Atlantic City, NJ, USA",PVtalker
+"""been""","Metz, France",PVtalker
+"""been""","Ashland, OR, USA",PVtalker
+"""been""","Lake Placid, NY, USA",PVtalker
+"""been""","Niagara Falls, NY, USA",PVtalker
+"""want""","Vienna, Austria",PVtalker
+"""been""","Oklahoma City, OK, USA",PVtalker
+"""been""","Lake Geneva, WI, USA",PVtalker
+"""been""","Maalaea, HI, USA",PVtalker
+"""been""","Nantucket, MA, USA",PVtalker
+"""been""","Narita, Japan",PVtalker
+"""been""","Martha's Vineyard, MA, USA",PVtalker
+"""been""","Columbus, OH, USA",PVtalker
+"""want""","Melbourne, Australia",PVtalker
+"""been""","Giverny, France",PVtalker
+"""been""","Ciudad Acuna, Mexico",PVtalker
+"""been""","West Reading, PA, USA",PVtalker
+"""been""","Oakland, CA, USA",PVtalker
+"""want""","Luxor, Egypt",PVtalker
+"""want""","Glasgow, UK",PVtalker
+"""want""","Cairo, Egypt",PVtalker
+"""been""","Lakewood, OH, USA",PVtalker
+"""been""","Middletown, OH, USA",PVtalker
+"""been""","Hamilton, OH, USA",PVtalker
+"""been""","Eugene, OR, USA",PVtalker
+"""been"",""want""","Madrid, Spain",PVtalker
+"""want""","Helsinki, Finland",PVtalker
+"""been""","Daytona Beach, FL, USA",PVtalker
+"""been""","Washington DC, DC, USA",PVtalker
+"""been"",""want"",""fave""","Venice, Italy",PVtalker
+"""been"",""fave""","Arches National Park, UT, USA",PVtalker
+"""been""","Bronx, NY, USA",PVtalker
+"""been""","Crater Lake National Park, OR, USA",PVtalker
+"""been""","Indianapolis, IN, USA",PVtalker
+"""want""","Prague, Czech Republic",PVtalker
+"""been""","Virginia Beach, VA, USA",PVtalker
+"""been""","Bomoseen, VT, USA",PVtalker
+"""been""","Bend, OR, USA",PVtalker
+"""been""","Ossining, NY, USA",PVtalker
+"""been""","Mountainville, NY, USA",PVtalker
+"""been"",""fave""","Kamakura, Japan",PVtalker
+"""been"",""want""","Weil am Rhein, Germany",PVtalker
+"""been""","Oberlin, OH, USA",PVtalker
+"""been""","Hilo, HI, USA",PVtalker
+"""want""","Malmo, Sweden",PVtalker
+"""been"",""want"",""fave""","Florence, Italy",PVtalker
+"""been""","Gladwyne, PA, USA",PVtalker
+"""been""","Hatteras Island, NC, USA",PVtalker
+"""been"",""fave""","Shelter Island, NY, USA",PVtalker
+"""been""","Richmond, VA, USA",PVtalker
+"""been"",""want"",""fave""","Uji, Japan",PVtalker
+"""been""","Cathedral City, CA, USA",PVtalker
+"""been""","Cambridge, MA, USA",PVtalker
+"""want""","London, UK",PVtalker
+"""want""","Minamiawaji, Japan",PVtalker
+"""been"",""fave""","Munich, Germany",PVtalker
+"""want""","Awaji, Japan",PVtalker
+"""been""","Pearl City, HI, USA",PVtalker
+"""been""","Atlanta, GA, USA",PVtalker
+"""been""","Pittsford, NY, USA",PVtalker
+"""want""","Sorrento, Italy",PVtalker
+"""been""","Glen Rock, NJ, USA",PVtalker
+"""been""","Oberammergau, Germany",PVtalker
+"""been""","Whitehall, NY, USA",PVtalker
+"""been""","Kaneohe, HI, USA",PVtalker
+"""been""","Garmisch-Partenkirchen, Germany",PVtalker
+"""been""","Berkeley, CA, USA",PVtalker
+"""been""","Durango, CO, USA",PVtalker
+"""been""","Fussen, Germany",PVtalker
+"""been""","Santa Ana, CA, USA",PVtalker
+"""been""","Beverly Hills, CA, USA",PVtalker
+"""been""","El Paso, TX, USA",PVtalker
+"""been""","Webster Groves, MO, USA",PVtalker
+"""been""","Ventura, CA, USA",PVtalker
+"""want""","Cardiff, UK",PVtalker
+"""want""","Rome, Italy",PVtalker
+"""want""","Bristol, UK",PVtalker
+"""want""","Stockholm, Sweden",PVtalker
+"""been""","New York City, NY, USA",PVtalker
+"""want""","Swansea, UK",PVtalker
+"""want""","Brussels, Belgium",PVtalker
+"""been""","Cherry Hill, NJ, USA",PVtalker
+"""been"",""want""","Wailuku, HI, USA",PVtalker
+"""been""","Klamath Falls, OR, USA",PVtalker
+"""been""","Roosevelt, UT, USA",PVtalker
+"""been""","Big Pine, CA, USA",PVtalker
+"""been"",""fave""","Santa Barbara, CA, USA",PVtalker
+"""been""","Santa Cruz, CA, USA",PVtalker
+"""been""","Rutland, VT, USA",PVtalker
+"""been""","Santa Monica, CA, USA",PVtalker
+"""been""","Mammoth Lakes, CA, USA",PVtalker
+"""been""","Kanan-cho, Japan",PVtalker
+"""been""","Santa Maria, CA, USA",PVtalker
+"""been""","Bishop, CA, USA",PVtalker
+"""want""","Sydney, Australia",PVtalker
+"""want""","Granada, Spain",PVtalker
+"""been""","Berlin, Germany",PVtalker
+"""want""","Seville, Spain",PVtalker
+"""been""","Philadelphia, PA, USA",PVtalker
+"""been""","Akron, OH, USA",PVtalker
+"""been""","Medford, OR, USA",PVtalker
+"""been""","Hackensack, NJ, USA",PVtalker
+"""been""","Medina, OH, USA",PVtalker
+"""been""","Waimanalo, HI, USA",PVtalker
+"""been""","Frankfurt, Germany",PVtalker
+"""been""","Manhattan, KS, USA",PVtalker
+"""been""","Coral Gables, FL, USA",PVtalker
+"""been""","Louisville, KY, USA",PVtalker
+"""been""","Memphis, TN, USA",PVtalker
+"""been""","Torrance, CA, USA",PVtalker
+"""want""","Oxford, UK",PVtalker
+"""been""","Ocracoke, NC, USA",PVtalker
+"""been""","Hamburg, Germany",PVtalker
+"""want""","Avignon, France",PVtalker
+"""been""","Maumee, OH, USA",PVtalker
+"""been""","Bellevue, WA, USA",PVtalker
+"""want""","Noto-cho, Japan",PVtalker
+"""been""","Mashiko-machi, Japan",PVtalker
+"""been"",""want"",""fave""","Ichikai-machi, Japan",PVtalker
+"""been""","Charleston, SC, USA",PVtalker
+"""been""","Anaheim, CA, USA",PVtalker
+"""been""","Shinjuku, Japan",PVtalker
+"""been""","Shibuya, Japan",PVtalker
+"""been""","Oregon, OH, USA",PVtalker
+"""been""","Newport, RI, USA",PVtalker
+"""been""","Blowing Rock, NC, USA",PVtalker
+"""been""","Buffalo, NY, USA",PVtalker
+"""been""","Kingston, NJ, USA",PVtalker
+"""been""","Flagstaff, AZ, USA",PVtalker
+"""been""","Cambria, CA, USA",PVtalker
+"""been"",""fave""","Castleton, VT, USA",PVtalker
+"""been""","Oyamazaki-cho, Japan",PVtalker
+"""been""","North Bergen, NJ, USA",PVtalker
+"""been""","Boone, NC, USA",PVtalker
+"""been""","Three Rivers, CA, USA",PVtalker
+"""been""","Newark, NJ, USA",PVtalker
+"""been""","Santa Fe, NM, USA",PVtalker
+"""been""","Bakersfield, CA, USA",PVtalker
+"""been""","Dana Point, CA, USA",PVtalker
+"""been""","Salinas, CA, USA",PVtalker
+"""been""","Colorado Springs, CO, USA",PVtalker
+"""been""","Salton City, CA, USA",PVtalker
+"""want""","St. Petersburg, Russia",PVtalker
+"""been""","West Covina, CA, USA",PVtalker
+"""been""","San Diego, CA, USA",PVtalker
+"""been""","West Hollywood, CA, USA",PVtalker
+"""been"",""fave""","Paia, HI, USA",PVtalker
+"""been""","Seattle, WA, USA",PVtalker
+"""been""","Munroe Falls, OH, USA",PVtalker
+"""been""","Lahaina, HI, USA",PVtalker
+"""been""","Makawao, HI, USA",PVtalker
+"""been""","Tuxedo Park, NY, USA",PVtalker
+"""been"",""fave""","Kihei, HI, USA",PVtalker
+"""been""","Rochester, NY, USA",PVtalker
+"""been""","Hana, HI, USA",PVtalker
+"""been""","Cincinnati, OH, USA",PVtalker
+"""been"",""fave""","Kahului, HI, USA",PVtalker
+"""been""","Big Sur, CA, USA",PVtalker
+"""been""","North Brunswick, NJ, USA",PVtalker
+"""been""","Jacksonville, OR, USA",PVtalker
+"""been"",""fave""","Haiku, HI, USA",PVtalker
+"""been""","White River Junction, VT, USA",PVtalker
+"""been""","Fort Lauderdale, FL, USA",PVtalker
+"""been""","Key West, FL, USA",PVtalker
+"""been""","San Clemente, CA, USA",PVtalker
+"""been""","Williamsburg, VA, USA",PVtalker
+"""been""","Provo, UT, USA",PVtalker
+"""been""","San Jose, CA, USA",PVtalker
+"""been""","Carmel, CA, USA",PVtalker
+"""been""","San Juan Capistrano, CA, USA",PVtalker
+"""been""","Lawrence, KS, USA",PVtalker
+"""been""","Columbia, SC, USA",PVtalker
+"""been""","Boston, MA, USA",PVtalker
+"""been""","Asheville, NC, USA",PVtalker
+"""been""","New Orleans, LA, USA",PVtalker
+"""been""","Honolulu, HI, USA",PVtalker
+"""been""","Sandusky, OH, USA",PVtalker
+"""want""","Montego Bay, Jamaica",PVtalker
+"""been""","Houston, TX, USA",PVtalker
+"""want""","Misasa-cho, Japan",PVtalker
+"""been""","Whittier, CA, USA",PVtalker
+"""been""","Denver, CO, USA",PVtalker
+"""been""","North Myrtle Beach, SC, USA",PVtalker
+"""been""","Albuquerque, NM, USA",PVtalker
+"""been""","Baltimore, MD, USA",PVtalker
+"""been""","Millstone, NJ, USA",PVtalker
+"""been""","Brownsville, TX, USA",PVtalker
+"""been""","Nashville, TN, USA",PVtalker
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",PVtalker
+"""been""","Laguna Beach, CA, USA",PVtalker
+"""been""","Kayenta, AZ, USA",PVtalker
+"""been""","Vail, CO, USA",PVtalker
+"""been""","La Quinta, CA, USA",PVtalker
+"""been""","El Segundo, CA, USA",PVtalker
+"""want""","Como, Italy",PVtalker
+"""been""","Salt Lake City, UT, USA",PVtalker
+"""been""","Princeton, NJ, USA",PVtalker
+"""been""","Montclair, NJ, USA",PVtalker
+"""want""","Limerick, Ireland",PVtalker
+"""been""","Boulder, CO, USA",PVtalker
+"""been""","Media, PA, USA",PVtalker
+"""been"",""fave""","Koya-cho, Japan",PVtalker
+"""been""","Palm Beach, FL, USA",PVtalker
+"""been""","Quebec City, Quebec, Canada",PVtalker
+"""been""","Ware Shoals, SC, USA",PVtalker
+"""been""","Albany, CA, USA",PVtalker
+"""want""","Milan, Italy",PVtalker
+"""been"",""fave""","San Francisco, CA, USA",PVtalker
+"""been""","San Antonio, TX, USA",PVtalker
+"""been""","Hopewell, NJ, USA",PVtalker
+"""been""","Rocky River, OH, USA",PVtalker
+"""been""","Tucson, AZ, USA",PVtalker
+"""been""","Upper Saddle River, NJ, USA",PVtalker
+"""been""","Brooklyn, NY, USA",PVtalker
+"""been""","Ottawa, Ontario, Canada",PVtalker
+"""been""","Corona, CA, USA",PVtalker
+"""been""","Buena Park, CA, USA",PVtalker
+"""been""","Buellton, CA, USA",PVtalker
+"""been""","Burbank, CA, USA",PVtalker
+"""been""","Coronado, CA, USA",PVtalker
+"""been""","Windsor, Ontario, Canada",PVtalker
+"""want""","Edinburgh, UK",PVtalker
+"""want""","Sado, Japan",PVtalker
+"""been""","East Hampton, NY, USA",PVtalker
+"""been""","Hermosa Beach, CA, USA",PVtalker
+"""want""","Budapest, Hungary",PVtalker
+"""been""","Crescent City, CA, USA",PVtalker
+"""been""","Estes Park, CO, USA",PVtalker
+"""been""","Jersey City, NJ, USA",PVtalker
+"""been""","Haleakala National Park, HI, USA",PVtalker
+"""been""","Higashiosaka, Japan",PVtalker
+"""been""","Mexico City, Mexico",PVtalker
+"""been""","Ridgewood, NJ, USA",PVtalker
+"""been""","Savannah, GA, USA",PVtalker
+"""been""","Miami Beach, FL, USA",PVtalker
+"""been""","Toronto, Ontario, Canada",PVtalker
+"""been""","Miami, FL, USA",PVtalker
+"""been""","Talent, OR, USA",PVtalker
+"""been""","Tampa, FL, USA",PVtalker
+"""been""","Austin, TX, USA",PVtalker
+"""been""","Solvang, CA, USA",PVtalker
+"""been""","Newport Beach, CA, USA",PVtalker
+"""been""","Yellow Springs, OH, USA",PVtalker
+"""want""","Sendai, Japan",PVtalker
+"""been""","Saint Louis, MO, USA",PVtalker
+"""want""","Manchester, UK",PVtalker
+"""been"",""want""","Shikokuchuo, Japan",PVtalker
+"""want""","Bangkok, Thailand",PVtalker
+"""been""","Covington, KY, USA",PVtalker
+"""been""","Bryn Mawr, PA, USA",PVtalker
+"""want""","Chiang Mai, Thailand",PVtalker
+"""been""","Garden Grove, CA, USA",PVtalker
+"""been""","Aspen, CO, USA",PVtalker
+"""been""","Passaic, NJ, USA",PVtalker
+"""been""","Kalamazoo, MI, USA",PVtalker
+"""been""","Paramus, NJ, USA",PVtalker
+"""been""","Kansas City, MO, USA",PVtalker
+"""want""","Bordeaux, France",PVtalker
+"""been"",""want""","Basel, Switzerland",PVtalker
+"""been""","South Brunswick, NJ, USA",PVtalker
+"""been""","Okayama, Japan",PVtalker
+"""been""","Minneapolis, MN, USA",PVtalker
+"""want""","Shanghai, China",PVtalker
+"""want""","Vancouver, British Columbia, Canada",PVtalker
+"""been""","Goleta, CA, USA",PVtalker
+"""been""","Abilene, TX, USA",PVtalker
+"""been""","Victoria, British Columbia, Canada",PVtalker
+"""been"",""fave""","Naoshima-cho, Japan",PVtalker
+"""been""","Malibu, CA, USA",PVtalker
+"""been""","Manhattan Beach, CA, USA",PVtalker
+"""been""","Elgin, IL, USA",PVtalker
+"""want""","Hanoi, Vietnam",PVtalker
+"""been""","Littleton, CO, USA",PVtalker
+"""want""","Ayia Napa, Cyprus",PVtalker
+"""been""","Portland, OR, USA",PVtalker
+"""been""","West Palm Beach, FL, USA",PVtalker
+"""been""","Scottsdale, AZ, USA",PVtalker
+"""want""","Havana, Cuba",PVtalker
+"""been"",""want""","Geneva, Switzerland",PVtalker
+"""been""","Nagoya, Japan",PVtalker
+"""been""","Reno, NV, USA",PVtalker
+"""want""","Varadero, Cuba",PVtalker
+"""been""","Napili-Honokowai, HI, USA",PVtalker
+"""want""","Banff, Alberta, Canada",PVtalker
+"""been""","Salem, OR, USA",PVtalker
+"""been""","Evergreen, CO, USA",PVtalker
+"""been""","Sedona, AZ, USA",PVtalker
+"""been""","Myrtle Beach, SC, USA",PVtalker
+"""been""","Klamath, CA, USA",PVtalker
+"""been""","Marina del Rey, CA, USA",PVtalker
+"""been""","Detroit, MI, USA",PVtalker
+"""want""","Lisbon, Portugal",PVtalker
+"""been""","Kanazawa, Japan",PVtalker
+"""been"",""want"",""fave""","Takamatsu, Japan",PVtalker
+"""been""","Grand Rapids, MI, USA",PVtalker
+"""been""","Bailey, CO, USA",PVtalker
+"""been""","Dearborn, MI, USA",PVtalker
+"""been""","City of Industry, CA, USA",PVtalker
+"""been""","Orlando, FL, USA",PVtalker
+"""been""","Whidbey Island, WA, USA",PVtalker
+"""been""","La Jolla, CA, USA",PVtalker
+"""been""","Milwaukee, WI, USA",PVtalker
+"""been""","Otsu, Japan",PVtalker
+"""been"",""want""","Osaka, Japan",PVtalker
+"""been"",""want""","Kobe, Japan",PVtalker
+"""been""","Bermuda, Caribbean",PVtalker
+"""been"",""want"",""fave""","Kyoto, Japan",PVtalker
+"""want""","Kuala Lumpur, Malaysia",PVtalker
+"""been""","Pittsburgh, PA, USA",PVtalker
+"""been""","Morro Bay, CA, USA",PVtalker
+"""been""","Rolling Hills Estates, CA, USA",PVtalker
+"""been""","Barberton, OH, USA",PVtalker
+"""been""","Rohnert Park, CA, USA",PVtalker
+"""been"",""fave""","Maui, HI, USA",PVtalker
+"""been""","Saline, MI, USA",PVtalker
+"""been""","Hamilton, Bermuda",PVtalker
+"""been""","New Hope, PA, USA",PVtalker
+"""been""","Sacramento, CA, USA",PVtalker
+"""been""","Nuevo Laredo, Mexico",PVtalker
+"""been""","Mystic, CT, USA",PVtalker
+"""want""","Zermatt, Switzerland",PVtalker
+"""been""","Bridgeport, CT, USA",PVtalker
+"""been""","Ciudad Juarez, Mexico",PVtalker
+"""been""","Huntington Beach, CA, USA",PVtalker
+"""been""","Shillington, PA, USA",PVtalker
+"""been""","Stow, OH, USA",PVtalker
+"""want""","Rio de Janeiro, Brazil",PVtalker
+"""been""","Inglewood, CA, USA",PVtalker
+"""been""","Lone Pine, CA, USA",PVtalker
+"""been""","Long Beach, CA, USA",PVtalker
+"""been""","Napa, CA, USA",PVtalker
+"""been""","Lomita, CA, USA",PVtalker
+"""been""","Indian Wells, CA, USA",PVtalker
+"""been""","Toledo, OH, USA",PVtalker
+"""been""","New Haven, CT, USA",PVtalker
+"""been""","Phoenix, AZ, USA",PVtalker
+"""been""","Dripping Springs, TX, USA",PVtalker
+"""been""","Las Vegas, NV, USA",PVtalker
+"""want""","Seoul, South Korea",PVtalker
+"""been""","Chicago, IL, USA",PVtalker
+"""been""","Fresno, CA, USA",PVtalker
+"""been""","Los Angeles, CA, USA",PVtalker
+"""been""","Sylvania, OH, USA",PVtalker
+"""been""","Pismo Beach, CA, USA",PVtalker
+"""been""","Irvine, CA, USA",PVtalker

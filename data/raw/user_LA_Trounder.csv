@@ -1,0 +1,958 @@
+tag,place,user
+"""been""","Stalis, Greece",Trounder
+"""been""","London, UK",Trounder
+"""been""","Liverpool, UK",Trounder
+"""been""","Dingle, Ireland",Trounder
+"""been""","Chatham, MA, USA",Trounder
+"""been"",""want""","Leicester, UK",Trounder
+"""been""","Ayr, UK",Trounder
+"""been""","Blackpool, UK",Trounder
+"""been""","Windermere, UK",Trounder
+"""been""","Avalon, CA, USA",Trounder
+"""been""","Aspen, CO, USA",Trounder
+"""been""","Mississauga, Ontario, Canada",Trounder
+"""want""","Rovinj, Croatia",Trounder
+"""want""","Phnom Penh, Cambodia",Trounder
+"""been""","Malahide, Ireland",Trounder
+"""been""","Wildwood Crest, NJ, USA",Trounder
+"""been""","Wildwood, NJ, USA",Trounder
+"""been""","Kinsale, Ireland",Trounder
+"""been""","Chicago, IL, USA",Trounder
+"""been""","Florence, Italy",Trounder
+"""been""","Niagara Falls, Ontario, Canada",Trounder
+"""been"",""want""","Niagara-on-the-Lake, Ontario, Canada",Trounder
+"""want""","Palermo, Italy",Trounder
+"""want""","Hakodate, Japan",Trounder
+"""been""","Tangier, Morocco",Trounder
+"""want""","Ambleside, UK",Trounder
+"""been""","Kingston-upon-Hull, UK",Trounder
+"""been""","Steamboat Springs, CO, USA",Trounder
+"""want""","Catania, Italy",Trounder
+"""been""","Casablanca, Morocco",Trounder
+"""been""","Istanbul, Turkey",Trounder
+"""been""","Fes, Morocco",Trounder
+"""been""","Marrakech, Morocco",Trounder
+"""been""","Dover, UK",Trounder
+"""been""","St. John's, Newfoundland and Labrador, Canada",Trounder
+"""want""","Cagliari, Italy",Trounder
+"""want""","Alghero, Italy",Trounder
+"""want""","Tokyo, Japan",Trounder
+"""been""","West Palm Beach, FL, USA",Trounder
+"""been""","Birmingham, AL, USA",Trounder
+"""been""","Yachats, OR, USA",Trounder
+"""want""","Shanghai, China",Trounder
+"""been""","Kokkini Hani, Greece",Trounder
+"""been""","Biloxi, MS, USA",Trounder
+"""been""","Valras-Plage, France",Trounder
+"""been""","Kansas City, MO, USA",Trounder
+"""been""","Inverness, UK",Trounder
+"""want""","Hakone-machi, Japan",Trounder
+"""want""","Verona, Italy",Trounder
+"""been""","Halifax, Nova Scotia, Canada",Trounder
+"""been""","Venice, Italy",Trounder
+"""been""","Mont Tremblant, Quebec, Canada",Trounder
+"""want""","Yokohama, Japan",Trounder
+"""want""","Taipei, Taiwan",Trounder
+"""want""","Cavtat, Croatia",Trounder
+"""been""","Amarillo, TX, USA",Trounder
+"""been""","Hanioti, Greece",Trounder
+"""been""","North Myrtle Beach, SC, USA",Trounder
+"""want""","Bangkok, Thailand",Trounder
+"""been""","Laguna Beach, CA, USA",Trounder
+"""want""","Chiang Mai, Thailand",Trounder
+"""been""","Vail, CO, USA",Trounder
+"""been""","Baltimore, MD, USA",Trounder
+"""been""","Glasgow, UK",Trounder
+"""been""","Savannah, GA, USA",Trounder
+"""been""","Beaufort, SC, USA",Trounder
+"""been""","Placencia, Belize",Trounder
+"""been""","Santa Teresa, Costa Rica",Trounder
+"""been""","Point Pleasant Beach, NJ, USA",Trounder
+"""want""","Marsa Alam, Egypt",Trounder
+"""been""","Nashville, TN, USA",Trounder
+"""been""","Whistler, British Columbia, Canada",Trounder
+"""been""","Tofino, British Columbia, Canada",Trounder
+"""been""","Ocean City, MD, USA",Trounder
+"""want""","Monte-Carlo, Monaco",Trounder
+"""been""","Vancouver, British Columbia, Canada",Trounder
+"""want""","Hvar, Croatia",Trounder
+"""been""","Victoria, British Columbia, Canada",Trounder
+"""been""","Rincon, Puerto Rico",Trounder
+"""want""","San Pedro, Belize",Trounder
+"""want""","Chiyoda, Japan",Trounder
+"""been""","Telluride, CO, USA",Trounder
+"""want""","Chuo, Japan",Trounder
+"""been""","Orlando, FL, USA",Trounder
+"""been""","Stowe, VT, USA",Trounder
+"""been""","Edinburgh, UK",Trounder
+"""want""","Turin, Italy",Trounder
+"""been""","La Jolla, CA, USA",Trounder
+"""been""","Detroit, MI, USA",Trounder
+"""been""","Brooklyn, NY, USA",Trounder
+"""been""","Mar del Plata, Argentina",Trounder
+"""been""","Dearborn, MI, USA",Trounder
+"""want""","Batu Ferringhi, Malaysia",Trounder
+"""been""","Whitefish, MT, USA",Trounder
+"""been""","Buenos Aires, Argentina",Trounder
+"""been""","Ormond Beach, FL, USA",Trounder
+"""been""","Winnipeg, Manitoba, Canada",Trounder
+"""been""","Panama City Beach, FL, USA",Trounder
+"""been""","Dundee, UK",Trounder
+"""been""","Milan, Italy",Trounder
+"""been""","Epsom, UK",Trounder
+"""been""","Panama City, FL, USA",Trounder
+"""want""","Playa de Muro, Spain",Trounder
+"""been""","Myrtle Beach, SC, USA",Trounder
+"""want""","Oludeniz, Turkey",Trounder
+"""been""","Arlington, TX, USA",Trounder
+"""want""","Alicante, Spain",Trounder
+"""want""","Chaweng, Thailand",Trounder
+"""been""","Rose Hall, Jamaica",Trounder
+"""want""","Peniscola, Spain",Trounder
+"""been""","Duluth, MN, USA",Trounder
+"""want""","Sirmione, Italy",Trounder
+"""been""","Croydon, UK",Trounder
+"""want""","Hanoi, Vietnam",Trounder
+"""want""","Ho Chi Minh City, Vietnam",Trounder
+"""been""","Palm Beach, FL, USA",Trounder
+"""want""","Como, Italy",Trounder
+"""want""","Nha Trang, Vietnam",Trounder
+"""been""","Aransas Pass, TX, USA",Trounder
+"""been""","Glenwood Springs, CO, USA",Trounder
+"""been""","Jacksonville, FL, USA",Trounder
+"""want""","Mellieha, Malta",Trounder
+"""been""","Tsilivi, Greece",Trounder
+"""been""","Beamish, UK",Trounder
+"""been""","Sidari, Greece",Trounder
+"""want""","Belek, Turkey",Trounder
+"""been""","Argassi, Greece",Trounder
+"""been""","San Jose del Cabo, Mexico",Trounder
+"""been""","Cabo San Lucas, Mexico",Trounder
+"""been""","Burlington, VT, USA",Trounder
+"""been""","Calistoga, CA, USA",Trounder
+"""want""","Puerto de Santiago, Spain",Trounder
+"""been""","New Braunfels, TX, USA",Trounder
+"""been""","Cambria, CA, USA",Trounder
+"""been""","Hot Springs, AR, USA",Trounder
+"""been""","Charleston, SC, USA",Trounder
+"""want""","Genoa, Italy",Trounder
+"""been""","Madison, WI, USA",Trounder
+"""been""","Curitiba, Brazil",Trounder
+"""been""","Kapaa, HI, USA",Trounder
+"""want""","Salzburg, Austria",Trounder
+"""want""","Kyoto, Japan",Trounder
+"""been""","East Kilbride, UK",Trounder
+"""want""","Kobe, Japan",Trounder
+"""want""","Magaluf, Spain",Trounder
+"""want""","Hisaronu, Turkey",Trounder
+"""been""","Blowing Rock, NC, USA",Trounder
+"""want""","Seven Mile Beach, Cayman Islands",Trounder
+"""want""","Cartagena, Colombia",Trounder
+"""want""","Osaka, Japan",Trounder
+"""want""","Monterosso al Mare, Italy",Trounder
+"""want""","Malcesine, Italy",Trounder
+"""been""","Acapulco, Mexico",Trounder
+"""been""","Coeur d'Alene, ID, USA",Trounder
+"""want""","Sapporo, Japan",Trounder
+"""been""","Huatulco, Mexico",Trounder
+"""been""","Austin, TX, USA",Trounder
+"""been""","New Orleans, LA, USA",Trounder
+"""been""","Sunny Isles Beach, FL, USA",Trounder
+"""been""","Columbia, SC, USA",Trounder
+"""want""","Princeville, HI, USA",Trounder
+"""been""","Puerto Vallarta, Mexico",Trounder
+"""been""","Poipu, HI, USA",Trounder
+"""been""","Pigeon Forge, TN, USA",Trounder
+"""been""","Manzanillo, Mexico",Trounder
+"""been""","Lihue, HI, USA",Trounder
+"""been""","Mazatlan, Mexico",Trounder
+"""been""","East Hampton, NY, USA",Trounder
+"""been""","Pensacola, FL, USA",Trounder
+"""been""","Jersey City, NJ, USA",Trounder
+"""want""","Seoul, South Korea",Trounder
+"""want""","Jasper, Alberta, Canada",Trounder
+"""want""","Sa Coma, Spain",Trounder
+"""been""","Rincon de Guayabitos, Mexico",Trounder
+"""been""","Syracuse, NY, USA",Trounder
+"""want""","Vienna, Austria",Trounder
+"""want""","Guangzhou, China",Trounder
+"""want""","Port d'Alcudia, Spain",Trounder
+"""been""","Calgary, Alberta, Canada",Trounder
+"""been""","Cuernavaca, Mexico",Trounder
+"""been""","Edmonton, Alberta, Canada",Trounder
+"""been""","Guadalajara, Mexico",Trounder
+"""been""","Banff, Alberta, Canada",Trounder
+"""been""","Guanajuato, Mexico",Trounder
+"""been""","Lake Louise, Alberta, Canada",Trounder
+"""been""","Puerto Morelos, Mexico",Trounder
+"""been""","Big Sur, CA, USA",Trounder
+"""been""","Page, AZ, USA",Trounder
+"""want""","Bologna, Italy",Trounder
+"""been""","Spokane, WA, USA",Trounder
+"""been""","Port Saint Lucie, FL, USA",Trounder
+"""been"",""want""","Essaouira, Morocco",Trounder
+"""been""","West Hollywood, CA, USA",Trounder
+"""want""","Flic En Flac, Africa",Trounder
+"""been""","Rochester, NY, USA",Trounder
+"""been""","Bryson City, NC, USA",Trounder
+"""want""","Milano Marittima, Italy",Trounder
+"""want""","Saint Julian's, Malta",Trounder
+"""want""","Nagoya, Japan",Trounder
+"""been""","Gatlinburg, TN, USA",Trounder
+"""been""","Greensboro, NC, USA",Trounder
+"""been""","Ensenada, Mexico",Trounder
+"""want""","Denarau Island, Fiji",Trounder
+"""been""","Waikoloa, HI, USA",Trounder
+"""been""","Volcano, HI, USA",Trounder
+"""want""","Phuket Town, Thailand",Trounder
+"""want""","Karon, Thailand",Trounder
+"""been""","St. Helena, CA, USA",Trounder
+"""been""","Pompano Beach, FL, USA",Trounder
+"""been""","Boone, NC, USA",Trounder
+"""want""","Manila, Philippines",Trounder
+"""been""","Oslo, Norway",Trounder
+"""been""","Tijuana, Mexico",Trounder
+"""want""","Kuala Lumpur, Malaysia",Trounder
+"""been""","Kapolei, HI, USA",Trounder
+"""been""","Kailua, HI, USA",Trounder
+"""been""","San Simeon, CA, USA",Trounder
+"""been""","Atlanta, GA, USA",Trounder
+"""want""","Munnar, India",Trounder
+"""want""","Udaipur, India",Trounder
+"""been""","Lincoln City, OR, USA",Trounder
+"""want""","Ortisei, Italy",Trounder
+"""want""","Zakopane, Poland",Trounder
+"""been""","San Juan, Puerto Rico",Trounder
+"""been""","Richmond, VA, USA",Trounder
+"""been""","Cape May, NJ, USA",Trounder
+"""been""","Cambridge, MA, USA",Trounder
+"""been""","San Luis Obispo, CA, USA",Trounder
+"""been""","St. Augustine, FL, USA",Trounder
+"""been""","Bellevue, WA, USA",Trounder
+"""been""","Cape Coral, FL, USA",Trounder
+"""been""","Cape Canaveral, FL, USA",Trounder
+"""been""","Carlsbad, CA, USA",Trounder
+"""want""","Jodhpur, India",Trounder
+"""been""","Kissimmee, FL, USA",Trounder
+"""been""","Carmel, CA, USA",Trounder
+"""been""","San Jose, CA, USA",Trounder
+"""been""","Runaway Bay, Jamaica",Trounder
+"""been""","Hawley, PA, USA",Trounder
+"""been""","Negril, Jamaica",Trounder
+"""been""","Ocho Rios, Jamaica",Trounder
+"""been""","Warminster, UK",Trounder
+"""been""","Kihei, HI, USA",Trounder
+"""been""","Williamsburg, VA, USA",Trounder
+"""been""","Cocoa Beach, FL, USA",Trounder
+"""been""","Kailua-Kona, HI, USA",Trounder
+"""been""","Hana, HI, USA",Trounder
+"""been""","Seattle, WA, USA",Trounder
+"""been""","Lahaina, HI, USA",Trounder
+"""want""","Kota Kinabalu, Malaysia",Trounder
+"""been""","South Lake Tahoe, CA, USA",Trounder
+"""been""","Santa Rosa, CA, USA",Trounder
+"""been""","Santa Monica, CA, USA",Trounder
+"""been""","Clearwater, FL, USA",Trounder
+"""want""","Portland, ME, USA",Trounder
+"""want""","Kuching, Malaysia",Trounder
+"""been""","Philipsburg, St Martin \u002F St Maarten",Trounder
+"""want""","Portoferraio, Italy",Trounder
+"""want""","George Town, Malaysia",Trounder
+"""want""","Nusa Dua, Indonesia",Trounder
+"""been""","Jackson, NH, USA",Trounder
+"""been""","Soufriere, St. Lucia",Trounder
+"""want""","Jimbaran, Indonesia",Trounder
+"""been""","Gros Islet, St. Lucia",Trounder
+"""want""","Kuta, Indonesia",Trounder
+"""been""","Castries, St. Lucia",Trounder
+"""want""","Porto, Portugal",Trounder
+"""want""","Lamai Beach, Thailand",Trounder
+"""want""","Zermatt, Switzerland",Trounder
+"""been""","Santa Cruz, CA, USA",Trounder
+"""been""","Omaha, NE, USA",Trounder
+"""been""","Santa Barbara, CA, USA",Trounder
+"""want""","Nabq Bay, Egypt",Trounder
+"""been""","Wisconsin Dells, WI, USA",Trounder
+"""been""","Springfield, IL, USA",Trounder
+"""been""","Leavenworth, WA, USA",Trounder
+"""want""","Agra, India",Trounder
+"""want""","Riccione, Italy",Trounder
+"""been""","Hampton, NH, USA",Trounder
+"""been""","Davenport, FL, USA",Trounder
+"""been""","Quebec City, Quebec, Canada",Trounder
+"""been""","Montreal, Quebec, Canada",Trounder
+"""been""","Southport, UK",Trounder
+"""been""","Charlotte Amalie, U.S. Virgin Islands",Trounder
+"""been""","Tenby, UK",Trounder
+"""been""","Christiansted, U.S. Virgin Islands",Trounder
+"""want""","Kochi (Cochin), India",Trounder
+"""want""","Follonica, Italy",Trounder
+"""been""","Lincoln, NH, USA",Trounder
+"""been""","Saratoga Springs, NY, USA",Trounder
+"""want""","Kunigami-son, Japan",Trounder
+"""been""","Helen, GA, USA",Trounder
+"""been""","West Yarmouth, MA, USA",Trounder
+"""been"",""want""","Santa Maria, Cape Verde",Trounder
+"""been""","Louisville, KY, USA",Trounder
+"""been""","Newport, OR, USA",Trounder
+"""want""","Salvador, Brazil",Trounder
+"""been""","Hayes, UK",Trounder
+"""want""","Bengaluru, India",Trounder
+"""been""","Taos, NM, USA",Trounder
+"""been""","Erie, PA, USA",Trounder
+"""been""","Ocean Isle Beach, NC, USA",Trounder
+"""want""","Tumon, Mariana Islands",Trounder
+"""want""","Shenzhen, China",Trounder
+"""want""","St. Petersburg, Russia",Trounder
+"""been""","Tigaki, Greece",Trounder
+"""want""","Krakow, Poland",Trounder
+"""been""","Veracruz, Mexico",Trounder
+"""want""","Pune, India",Trounder
+"""want""","Port Vila, Vanuatu",Trounder
+"""been""","Cancun, Mexico",Trounder
+"""been""","Biarritz, France",Trounder
+"""been""","Freeport, Bahamas",Trounder
+"""been""","Oaxaca, Mexico",Trounder
+"""been""","Toronto, Ontario, Canada",Trounder
+"""been""","Washington DC, DC, USA",Trounder
+"""been""","Wilmington, NC, USA",Trounder
+"""been""","Mexico City, Mexico",Trounder
+"""been""","Hershey, PA, USA",Trounder
+"""been""","Hersonissos, Greece",Trounder
+"""been""","Indianapolis, IN, USA",Trounder
+"""been""","Daytona Beach, FL, USA",Trounder
+"""been""","Playa Paraiso, Mexico",Trounder
+"""want""","Armacao dos Buzios, Brazil",Trounder
+"""been"",""want""","Psalidi, Greece",Trounder
+"""been""","Paradise Island, Bahamas",Trounder
+"""been""","Nassau, Bahamas",Trounder
+"""want""","Colmar, France",Trounder
+"""been""","Deming, NM, USA",Trounder
+"""been""","Cruz Bay, U.S. Virgin Islands",Trounder
+"""want""","Busan, South Korea",Trounder
+"""been""","Cody, WY, USA",Trounder
+"""been""","Playa del Carmen, Mexico",Trounder
+"""been""","Tulum, Mexico",Trounder
+"""been""","Merida, Mexico",Trounder
+"""want""","Freeport, ME, USA",Trounder
+"""been""","Montevideo, Uruguay",Trounder
+"""want""","Tallinn, Estonia",Trounder
+"""want""","Umag, Croatia",Trounder
+"""been""","Lancaster, UK",Trounder
+"""want""","Calangute, India",Trounder
+"""want""","Melaka, Malaysia",Trounder
+"""been""","Jackson, WY, USA",Trounder
+"""been""","Barking, UK",Trounder
+"""been""","Manchester, UK",Trounder
+"""been"",""want""","North Conway, NH, USA",Trounder
+"""been""","Doncaster, UK",Trounder
+"""been""","Chelmsford, UK",Trounder
+"""been""","Ottawa, Ontario, Canada",Trounder
+"""want""","Macau, China",Trounder
+"""want""","Arequipa, Peru",Trounder
+"""want""","Sousse, Tunisia",Trounder
+"""want""","Riga, Latvia",Trounder
+"""been""","Park City, UT, USA",Trounder
+"""been""","Cusco, Peru",Trounder
+"""been""","Cannon Beach, OR, USA",Trounder
+"""been""","Lima, Peru",Trounder
+"""been""","Machu Picchu, Peru",Trounder
+"""been""","Wembley, UK",Trounder
+"""been""","Crawley, UK",Trounder
+"""want""","Stuttgart, Germany",Trounder
+"""been""","Columbus, OH, USA",Trounder
+"""want""","Port de Pollenca, Spain",Trounder
+"""been""","Watford, UK",Trounder
+"""been""","Wrightsville Beach, NC, USA",Trounder
+"""been""","Billings, MT, USA",Trounder
+"""been""","Maidstone, UK",Trounder
+"""been""","Milton Keynes, UK",Trounder
+"""been""","Lake Geneva, WI, USA",Trounder
+"""been""","Thessaloniki, Greece",Trounder
+"""want""","Chennai (Madras), India",Trounder
+"""want""","Corralejo, Spain",Trounder
+"""want""","Jaipur, India",Trounder
+"""want""","Mumbai, India",Trounder
+"""want""","Shimla, India",Trounder
+"""want""","Manali, India",Trounder
+"""want""","New Delhi, India",Trounder
+"""want""","Calella, Spain",Trounder
+"""been""","Bend, OR, USA",Trounder
+"""been""","Twickenham, UK",Trounder
+"""been""","Swindon, UK",Trounder
+"""been""","Oak Bluffs, MA, USA",Trounder
+"""been""","Gloucester, UK",Trounder
+"""been""","Harrogate, UK",Trounder
+"""been""","Hounslow, UK",Trounder
+"""want""","Golden Sands, Bulgaria",Trounder
+"""want""","Sunny Beach, Bulgaria",Trounder
+"""want""","Dubai, United Arab Emirates",Trounder
+"""been""","Skala, Greece",Trounder
+"""been""","Parga, Greece",Trounder
+"""been""","Cleveland, OH, USA",Trounder
+"""want""","Ibiza Town, Spain",Trounder
+"""been""","Atlantic Beach, NC, USA",Trounder
+"""been""","Raleigh, NC, USA",Trounder
+"""want""","Kata Beach, Thailand",Trounder
+"""been""","Provincetown, MA, USA",Trounder
+"""want""","Bophut, Thailand",Trounder
+"""been""","Chamonix, France",Trounder
+"""been""","Annecy, France",Trounder
+"""want""","Zurich, Switzerland",Trounder
+"""been""","Amsterdam, The Netherlands",Trounder
+"""been""","Lyon, France",Trounder
+"""been""","Kill Devil Hills, NC, USA",Trounder
+"""been""","Kato Gouves, Greece",Trounder
+"""want""","Maspalomas, Spain",Trounder
+"""been""","Oakland, CA, USA",Trounder
+"""been""","Dennis Port, MA, USA",Trounder
+"""been""","Dallas, TX, USA",Trounder
+"""want""","Santa Eulalia del Rio, Spain",Trounder
+"""want""","Salta, Argentina",Trounder
+"""want""","Otranto, Italy",Trounder
+"""been""","Saint-Remy-de-Provence, France",Trounder
+"""been""","Carolina Beach, NC, USA",Trounder
+"""been""","Barcelona, Spain",Trounder
+"""been""","Oceanside, CA, USA",Trounder
+"""been""","Marseille, France",Trounder
+"""been""","Cuenca, Ecuador",Trounder
+"""been""","Pacific Grove, CA, USA",Trounder
+"""been""","Montauk, NY, USA",Trounder
+"""been""","Edgartown, MA, USA",Trounder
+"""been""","Malia, Greece",Trounder
+"""want""","Tossa de Mar, Spain",Trounder
+"""been""","Xpu-Ha, Mexico",Trounder
+"""been""","Santiago, Chile",Trounder
+"""been""","Quito, Ecuador",Trounder
+"""been""","Oklahoma City, OK, USA",Trounder
+"""want""","Cayo Guillermo, Cuba",Trounder
+"""want""","Puerto de la Cruz, Spain",Trounder
+"""been""","Rethymnon, Greece",Trounder
+"""been""","Palm Springs, CA, USA",Trounder
+"""been""","Palm Desert, CA, USA",Trounder
+"""been""","Bloomington, MN, USA",Trounder
+"""want""","Santander, Spain",Trounder
+"""been""","Saint-Tropez, France",Trounder
+"""been""","Kapalua, HI, USA",Trounder
+"""want""","Prague, Czech Republic",Trounder
+"""been""","Elounda, Greece",Trounder
+"""been""","Grapevine, TX, USA",Trounder
+"""want""","Sarigerme, Turkey",Trounder
+"""been""","Punta de Mita, Mexico",Trounder
+"""been""","Akumal, Mexico",Trounder
+"""want""","Puerto Iguazu, Argentina",Trounder
+"""want""","Gothenburg, Sweden",Trounder
+"""been""","Lucea, Jamaica",Trounder
+"""been""","Agios Nikolaos, Greece",Trounder
+"""been""","Chania Town, Greece",Trounder
+"""been""","Charlotte, NC, USA",Trounder
+"""want""","Kennebunkport, ME, USA",Trounder
+"""been""","Nice, France",Trounder
+"""been""","Menton, France",Trounder
+"""want""","Gallipoli, Italy",Trounder
+"""been""","Paso Robles, CA, USA",Trounder
+"""been""","Cap Estate, St. Lucia",Trounder
+"""want""","Queenstown, New Zealand",Trounder
+"""been""","Roissy-en-France, France",Trounder
+"""been""","Athens, Greece",Trounder
+"""been""","Mackinaw City, MI, USA",Trounder
+"""want""","Hoi An, Vietnam",Trounder
+"""been""","Milwaukee, WI, USA",Trounder
+"""been""","Stafford, UK",Trounder
+"""been""","Christchurch, UK",Trounder
+"""want""","Ciutadella, Spain",Trounder
+"""want""","Palma de Mallorca, Spain",Trounder
+"""been""","Cannes, France",Trounder
+"""been""","Corolla, NC, USA",Trounder
+"""been""","Naxos Town, Greece",Trounder
+"""been""","Holetown, Barbados",Trounder
+"""been""","Antibes, France",Trounder
+"""want""","Seminyak, Indonesia",Trounder
+"""been""","Saint Paul, MN, USA",Trounder
+"""want""","San Sebastian - Donostia, Spain",Trounder
+"""want""","Bilbao, Spain",Trounder
+"""been""","Avignon, France",Trounder
+"""been""","Sheffield, UK",Trounder
+"""been""","Arles, France",Trounder
+"""been""","Pasadena, CA, USA",Trounder
+"""been""","Reading, UK",Trounder
+"""been""","Oxford, UK",Trounder
+"""been""","Phoenix, AZ, USA",Trounder
+"""been""","Fort Bragg, CA, USA",Trounder
+"""been""","La Rochelle, France",Trounder
+"""been""","Seaside Heights, NJ, USA",Trounder
+"""been""","Henderson, NV, USA",Trounder
+"""want""","Kathmandu, Nepal",Trounder
+"""been""","Bowness-on-Windermere, UK",Trounder
+"""been""","Alexandria, VA, USA",Trounder
+"""want""","San Teodoro, Italy",Trounder
+"""want""","Vilamoura, Portugal",Trounder
+"""been""","Long Beach, CA, USA",Trounder
+"""been""","Baton Rouge, LA, USA",Trounder
+"""want""","Seville, Spain",Trounder
+"""been""","Saugatuck, MI, USA",Trounder
+"""want""","Granada, Spain",Trounder
+"""want""","Torremolinos, Spain",Trounder
+"""want""","Malgrat de Mar, Spain",Trounder
+"""want""","Puerto Del Carmen, Spain",Trounder
+"""been""","Ixtapa, Mexico",Trounder
+"""want""","Marbella, Spain",Trounder
+"""been""","Kaysersberg, France",Trounder
+"""want""","Malaga, Spain",Trounder
+"""been""","Northampton, UK",Trounder
+"""want""","Estepona, Spain",Trounder
+"""want""","Playa de Palma, Spain",Trounder
+"""been""","Gloucester, MA, USA",Trounder
+"""been""","Stockholm, Sweden",Trounder
+"""been""","Whitby, UK",Trounder
+"""been""","Durham, UK",Trounder
+"""been""","Isla Verde, Puerto Rico",Trounder
+"""want""","Cadiz, Spain",Trounder
+"""been""","Norwich, UK",Trounder
+"""want""","Cordoba, Spain",Trounder
+"""been""","Bognor Regis, UK",Trounder
+"""been""","Annapolis, MD, USA",Trounder
+"""been""","Arlington, VA, USA",Trounder
+"""want""","Munich, Germany",Trounder
+"""been""","Garden Grove, CA, USA",Trounder
+"""been""","Bethany Beach, DE, USA",Trounder
+"""been""","Saint Augustine Beach, FL, USA",Trounder
+"""want""","Ao Nang, Thailand",Trounder
+"""been""","Jaco, Costa Rica",Trounder
+"""want""","Antwerp, Belgium",Trounder
+"""been""","Faliraki, Greece",Trounder
+"""been""","Rhodes Town, Greece",Trounder
+"""want""","Legian, Indonesia",Trounder
+"""been""","Ialyssos, Greece",Trounder
+"""been""","Kolimbia, Greece",Trounder
+"""been""","St. Pete Beach, FL, USA",Trounder
+"""been""","Llandudno, UK",Trounder
+"""been""","St. Petersburg, FL, USA",Trounder
+"""been""","Eastbourne, UK",Trounder
+"""want""","Naples, Italy",Trounder
+"""want""","Capri, Italy",Trounder
+"""been""","Wakefield, UK",Trounder
+"""been""","Poole, UK",Trounder
+"""want""","Amalfi, Italy",Trounder
+"""been""","Pismo Beach, CA, USA",Trounder
+"""been""","Fresno, CA, USA",Trounder
+"""been""","Los Angeles, CA, USA",Trounder
+"""want""","Marmaris, Turkey",Trounder
+"""been""","Laughlin, NV, USA",Trounder
+"""been""","Ozona, TX, USA",Trounder
+"""been""","Las Vegas, NV, USA",Trounder
+"""been""","Firostefani, Greece",Trounder
+"""been""","Taunton, UK",Trounder
+"""been""","Perissa, Greece",Trounder
+"""been""","St. Michaels, MD, USA",Trounder
+"""been""","Sedona, AZ, USA",Trounder
+"""been""","Saidia, Morocco",Trounder
+"""want""","Valencia, Spain",Trounder
+"""been""","Marina del Rey, CA, USA",Trounder
+"""been""","Puerto Aventuras, Mexico",Trounder
+"""want""","Calpe, Spain",Trounder
+"""want""","Benidorm, Spain",Trounder
+"""want""","Melbourne, Australia",Trounder
+"""want""","Perth, Australia",Trounder
+"""been""","Tamarindo, Costa Rica",Trounder
+"""been""","Scottsdale, AZ, USA",Trounder
+"""want""","Auckland Central, New Zealand",Trounder
+"""been""","Playa Hermosa, Costa Rica",Trounder
+"""been""","Reno, NV, USA",Trounder
+"""want""","Cape Town Central, South Africa",Trounder
+"""been""","Slough, UK",Trounder
+"""been""","Manitou Springs, CO, USA",Trounder
+"""want""","Bergen, Norway",Trounder
+"""been""","Kefalos, Greece",Trounder
+"""been""","Utica, IL, USA",Trounder
+"""want""","Polignano a Mare, Italy",Trounder
+"""been""","Eureka Springs, AR, USA",Trounder
+"""been""","Malibu, CA, USA",Trounder
+"""been""","Madrid, Spain",Trounder
+"""been""","Portland, OR, USA",Trounder
+"""been""","Helsinki, Finland",Trounder
+"""want""","Rotorua, New Zealand",Trounder
+"""want""","Nerja, Spain",Trounder
+"""been""","Playa Flamingo, Costa Rica",Trounder
+"""want""","Adeje, Spain",Trounder
+"""want""","Fuengirola, Spain",Trounder
+"""been""","Minneapolis, MN, USA",Trounder
+"""want""","Stavanger, Norway",Trounder
+"""been""","Isabela, Puerto Rico",Trounder
+"""want""","Dalyan, Turkey",Trounder
+"""been""","Santa Rosa Beach, FL, USA",Trounder
+"""been""","Basildon, UK",Trounder
+"""been""","Sarasota, FL, USA",Trounder
+"""been""","Agia Pelagia, Greece",Trounder
+"""been""","Ashford, UK",Trounder
+"""been""","Imerovigli, Greece",Trounder
+"""been""","Puerto Plata, Dominican Republic",Trounder
+"""been""","Windsor, UK",Trounder
+"""want""","Alvor, Portugal",Trounder
+"""been""","Albuquerque, NM, USA",Trounder
+"""been""","Half Moon Bay, CA, USA",Trounder
+"""want""","Ayia Napa, Cyprus",Trounder
+"""want""","Sitges, Spain",Trounder
+"""been""","Ithaca, NY, USA",Trounder
+"""been""","Greenville, SC, USA",Trounder
+"""been""","Wailea, HI, USA",Trounder
+"""been""","La Fortuna de San Carlos, Costa Rica",Trounder
+"""want""","Moscow, Russia",Trounder
+"""want""","Sendai, Japan",Trounder
+"""been""","Santo Domingo, Dominican Republic",Trounder
+"""want""","Nelspruit, South Africa",Trounder
+"""want""","Siem Reap, Cambodia",Trounder
+"""want""","Santa Susanna, Spain",Trounder
+"""been""","Kalamaki, Greece",Trounder
+"""been""","Yountville, CA, USA",Trounder
+"""been""","Estes Park, CO, USA",Trounder
+"""been""","Siesta Key, FL, USA",Trounder
+"""been""","Coventry, UK",Trounder
+"""been""","Puerto Penasco, Mexico",Trounder
+"""been""","Birmingham, UK",Trounder
+"""been""","Providence, RI, USA",Trounder
+"""want""","El Arenal, Spain",Trounder
+"""want""","Bar Harbor, ME, USA",Trounder
+"""want""","Puerto Rico, Spain",Trounder
+"""want""","Costa Calma, Spain",Trounder
+"""want""","Playa d'en Bossa, Spain",Trounder
+"""want""","Costa Teguise, Spain",Trounder
+"""been""","Kardamena, Greece",Trounder
+"""been"",""want""","Willemstad, Curacao",Trounder
+"""want""","Varadero, Cuba",Trounder
+"""been""","Hopton on Sea, UK",Trounder
+"""been""","Healdsburg, CA, USA",Trounder
+"""been""","Tusayan, AZ, USA",Trounder
+"""want""","Gandia, Spain",Trounder
+"""been""","Sevierville, TN, USA",Trounder
+"""been""","Green Bay, WI, USA",Trounder
+"""been""","Seaside, OR, USA",Trounder
+"""been""","Westport, Ireland",Trounder
+"""been""","Salt Lake City, UT, USA",Trounder
+"""been""","Breckenridge, CO, USA",Trounder
+"""been""","Boulder, CO, USA",Trounder
+"""been""","Corpus Christi, TX, USA",Trounder
+"""been""","San Carlos de Bariloche, Argentina",Trounder
+"""been""","Limerick, Ireland",Trounder
+"""been""","Punta Cana, Dominican Republic",Trounder
+"""been""","La Romana, Dominican Republic",Trounder
+"""been""","Buffalo, NY, USA",Trounder
+"""been""","Kilkenny, Ireland",Trounder
+"""been""","Flagstaff, AZ, USA",Trounder
+"""been""","Newport, RI, USA",Trounder
+"""been""","Anaheim, CA, USA",Trounder
+"""been""","Ilford, UK",Trounder
+"""want""","Fukuoka, Japan",Trounder
+"""been""","Port Aransas, TX, USA",Trounder
+"""been""","White House, Jamaica",Trounder
+"""want""","Costa Adeje, Spain",Trounder
+"""been""","Palm - Eagle Beach, Aruba",Trounder
+"""been""","Oranjestad, Aruba",Trounder
+"""want""","Los Cristianos, Spain",Trounder
+"""want""","Baguio, Philippines",Trounder
+"""been""","St. John's, Antigua and Barbuda",Trounder
+"""want""","Sliema, Malta",Trounder
+"""been""","Portland, TX, USA",Trounder
+"""been""","Tallahassee, FL, USA",Trounder
+"""been""","Solvang, CA, USA",Trounder
+"""been""","Asheville, NC, USA",Trounder
+"""been""","Pagosa Springs, CO, USA",Trounder
+"""been""","Dublin, Ireland",Trounder
+"""been""","Skiathos Town, Greece",Trounder
+"""been""","Honolulu, HI, USA",Trounder
+"""been""","Sonoma, CA, USA",Trounder
+"""been""","Miami, FL, USA",Trounder
+"""been""","Boston, MA, USA",Trounder
+"""been""","Tampa, FL, USA",Trounder
+"""been""","Cork, Ireland",Trounder
+"""want""","Armutalan, Turkey",Trounder
+"""been""","Coronado, CA, USA",Trounder
+"""been""","Houston, TX, USA",Trounder
+"""want""","Bogota, Colombia",Trounder
+"""been""","Sandusky, OH, USA",Trounder
+"""want""","Hyderabad, India",Trounder
+"""been""","Miami Beach, FL, USA",Trounder
+"""been""","Naples, FL, USA",Trounder
+"""been""","Tucson, AZ, USA",Trounder
+"""been""","San Antonio, TX, USA",Trounder
+"""been""","San Francisco, CA, USA",Trounder
+"""been""","Salem, MA, USA",Trounder
+"""been""","Fort Lauderdale, FL, USA",Trounder
+"""been""","Portsmouth, NH, USA",Trounder
+"""been""","Santa Fe, NM, USA",Trounder
+"""been""","Friday Harbor, WA, USA",Trounder
+"""want""","Naha, Japan",Trounder
+"""want""","Cebu City, Philippines",Trounder
+"""want""","Villasimius, Italy",Trounder
+"""been""","Colorado Springs, CO, USA",Trounder
+"""been""","Isle of Palms, SC, USA",Trounder
+"""been""","Dana Point, CA, USA",Trounder
+"""been""","Moab, UT, USA",Trounder
+"""been""","Fernandina Beach, FL, USA",Trounder
+"""been""","Luray, VA, USA",Trounder
+"""been""","Platys Gialos, Greece",Trounder
+"""been""","Knoxville, TN, USA",Trounder
+"""been""","Cooperstown, NY, USA",Trounder
+"""been""","Rosemont, IL, USA",Trounder
+"""been""","Treasure Island, FL, USA",Trounder
+"""been""","Harrow, UK",Trounder
+"""been""","Greenford, UK",Trounder
+"""been""","Hamilton, Bermuda",Trounder
+"""been""","Newark, NJ, USA",Trounder
+"""want""","Makati, Philippines",Trounder
+"""been""","Berkeley, CA, USA",Trounder
+"""been""","Durango, CO, USA",Trounder
+"""been""","Irving, TX, USA",Trounder
+"""want""","Taba, Egypt",Trounder
+"""want""","Cattolica, Italy",Trounder
+"""want""","Dubrovnik, Croatia",Trounder
+"""want""","Makadi Bay, Egypt",Trounder
+"""want""","Split, Croatia",Trounder
+"""been""","Denver, CO, USA",Trounder
+"""been""","Memphis, TN, USA",Trounder
+"""been""","Fort Walton Beach, FL, USA",Trounder
+"""want""","El Gouna, Egypt",Trounder
+"""want""","Hurghada, Egypt",Trounder
+"""want""","Dahab, Egypt",Trounder
+"""been""","Fort Myers Beach, FL, USA",Trounder
+"""been""","New Smyrna Beach, FL, USA",Trounder
+"""been""","Fort Myers, FL, USA",Trounder
+"""been""","Ocean City, NJ, USA",Trounder
+"""been""","Antigua, Guatemala",Trounder
+"""been"",""want""","Rio de Janeiro, Brazil",Trounder
+"""been""","Cincinnati, OH, USA",Trounder
+"""been""","San Jose, Costa Rica",Trounder
+"""been""","Mykonos Town, Greece",Trounder
+"""want""","Limassol City, Cyprus",Trounder
+"""been""","West Yellowstone, MT, USA",Trounder
+"""want""","Guardalavaca, Cuba",Trounder
+"""been""","Bucerias, Mexico",Trounder
+"""want""","Gumbet, Turkey",Trounder
+"""want""","Paphos, Cyprus",Trounder
+"""been""","Punta del Este, Uruguay",Trounder
+"""want""","Turgutreis, Turkey",Trounder
+"""been""","San Diego, CA, USA",Trounder
+"""been""","New York City, NY, USA",Trounder
+"""been""","El Paso, TX, USA",Trounder
+"""been""","St. George, UT, USA",Trounder
+"""been""","Little Rock, AR, USA",Trounder
+"""been""","Beverly Hills, CA, USA",Trounder
+"""want""","Bodrum City, Turkey",Trounder
+"""been""","Temecula, CA, USA",Trounder
+"""been""","Ingleside, TX, USA",Trounder
+"""been""","Playa el Agua, Venezuela",Trounder
+"""been""","Rehoboth Beach, DE, USA",Trounder
+"""been""","Playa Mujeres, Mexico",Trounder
+"""want""","Opatija, Croatia",Trounder
+"""want""","Beirut, Lebanon",Trounder
+"""been""","Eugene, OR, USA",Trounder
+"""want""","Funchal, Portugal",Trounder
+"""been""","Lindos, Greece",Trounder
+"""want""","Onna-son, Japan",Trounder
+"""want""","Sintra, Portugal",Trounder
+"""been""","Norfolk, VA, USA",Trounder
+"""want""","Mojacar, Spain",Trounder
+"""want""","Playa de las Americas, Spain",Trounder
+"""want""","Budapest, Hungary",Trounder
+"""been""","Rufford, UK",Trounder
+"""want""","Lisbon, Portugal",Trounder
+"""want""","Kyiv (Kiev), Ukraine",Trounder
+"""been""","Hilo, HI, USA",Trounder
+"""want""","Lucerne, Switzerland",Trounder
+"""been""","Gettysburg, PA, USA",Trounder
+"""been""","Philadelphia, PA, USA",Trounder
+"""been""","Boise, ID, USA",Trounder
+"""want""","Lloret de Mar, Spain",Trounder
+"""been""","Mobile, AL, USA",Trounder
+"""want""","Geneva, Switzerland",Trounder
+"""want""","Singapore, Singapore",Trounder
+"""been""","New Milton, UK",Trounder
+"""want""","Jesolo, Italy",Trounder
+"""been""","Mammoth Lakes, CA, USA",Trounder
+"""want""","Airlie Beach, Australia",Trounder
+"""been""","Holmes Beach, FL, USA",Trounder
+"""been""","Hollywood, FL, USA",Trounder
+"""been""","Rouen, France",Trounder
+"""want""","Abu Dhabi, United Arab Emirates",Trounder
+"""been""","Kiotari, Greece",Trounder
+"""been""","Las Terrenas, Dominican Republic",Trounder
+"""been""","Lardos, Greece",Trounder
+"""been""","Nuevo Vallarta, Mexico",Trounder
+"""want""","Luxor, Egypt",Trounder
+"""been""","Boca Raton, FL, USA",Trounder
+"""want""","Nairobi, Kenya",Trounder
+"""been""","Galena, IL, USA",Trounder
+"""been""","Deauville City, France",Trounder
+"""been""","Pensacola Beach, FL, USA",Trounder
+"""been""","Bayeux, France",Trounder
+"""want""","Port El Kantaoui, Tunisia",Trounder
+"""want""","Cairo, Egypt",Trounder
+"""want""","Hobart, Australia",Trounder
+"""want""","Sanur, Indonesia",Trounder
+"""want""","Hammamet, Tunisia",Trounder
+"""want""","Ubud, Indonesia",Trounder
+"""want""","Midoun, Tunisia",Trounder
+"""want""","Monastir, Tunisia",Trounder
+"""want""","Bandung, Indonesia",Trounder
+"""been""","Buckhurst Hill, UK",Trounder
+"""been""","Lourdes, France",Trounder
+"""want""","Carvoeiro, Portugal",Trounder
+"""been""","Chattanooga, TN, USA",Trounder
+"""want""","Lagos, Portugal",Trounder
+"""been""","South Yarmouth, MA, USA",Trounder
+"""been""","Beach Haven, NJ, USA",Trounder
+"""been""","Lille, France",Trounder
+"""been""","Toulouse, France",Trounder
+"""been""","Lenox, MA, USA",Trounder
+"""been""","Roswell, NM, USA",Trounder
+"""been""","Lancaster, PA, USA",Trounder
+"""want""","Jakarta, Indonesia",Trounder
+"""been""","Virginia Beach, VA, USA",Trounder
+"""want""","Warsaw, Poland",Trounder
+"""been""","Sissi, Greece",Trounder
+"""want""","Cayo Largo, Cuba",Trounder
+"""want""","Playa del Ingles, Spain",Trounder
+"""been""","Mont-Saint-Michel, France",Trounder
+"""want""","Kusadasi, Turkey",Trounder
+"""want""","Santa Ponsa, Spain",Trounder
+"""been""","Niagara Falls, NY, USA",Trounder
+"""want""","Morro del Jable, Spain",Trounder
+"""been""","Lake Placid, NY, USA",Trounder
+"""been""","Emerald Isle, NC, USA",Trounder
+"""want""","Salou, Spain",Trounder
+"""want""","Auckland, New Zealand",Trounder
+"""been""","Hyannis, MA, USA",Trounder
+"""want""","Manavgat, Turkey",Trounder
+"""want""","Forio, Italy",Trounder
+"""want""","Bucharest, Romania",Trounder
+"""want""","Kalkan, Turkey",Trounder
+"""want""","Kas, Turkey",Trounder
+"""want""","Hong Kong, China",Trounder
+"""want""","Side, Turkey",Trounder
+"""been""","Lake George, NY, USA",Trounder
+"""been""","Kallithea, Greece",Trounder
+"""want""","Antalya, Turkey",Trounder
+"""want""","Mombasa, Kenya",Trounder
+"""been""","Ashland, OR, USA",Trounder
+"""want""","Beijing, China",Trounder
+"""want""","Alanya, Turkey",Trounder
+"""want""","Dresden, Germany",Trounder
+"""been""","Atlantic City, NJ, USA",Trounder
+"""been""","Perpignan, France",Trounder
+"""been"",""want""","Montpellier, France",Trounder
+"""been""","Nags Head, NC, USA",Trounder
+"""been""","Rancho Mirage, CA, USA",Trounder
+"""been""","Budleigh Salterton, UK",Trounder
+"""been""","Geneva on the Lake, OH, USA",Trounder
+"""want""","Khao Lak, Thailand",Trounder
+"""been""","Mendocino, CA, USA",Trounder
+"""been""","Paris, France",Trounder
+"""been""","Southampton, UK",Trounder
+"""been""","Portsmouth, UK",Trounder
+"""want""","Sant Antoni de Portmany, Spain",Trounder
+"""want""","Caleta de Fuste, Spain",Trounder
+"""been""","Orange Beach, AL, USA",Trounder
+"""been""","Bayahibe, Dominican Republic",Trounder
+"""been""","Cassis, France",Trounder
+"""been""","Tours, France",Trounder
+"""want""","Cologne, Germany",Trounder
+"""want""","Playa Blanca, Spain",Trounder
+"""been""","Ramatuelle, France",Trounder
+"""been""","Reims, France",Trounder
+"""want""","Old Orchard Beach, ME, USA",Trounder
+"""been"",""want""","Camden, ME, USA",Trounder
+"""want""","Ogunquit, ME, USA",Trounder
+"""been""","Caracas, Venezuela",Trounder
+"""want""","Dusseldorf, Germany",Trounder
+"""want""","Minato, Japan",Trounder
+"""want""","Sydney, Australia",Trounder
+"""been""","West Bay, Honduras",Trounder
+"""want""","Shinjuku, Japan",Trounder
+"""want""","Brisbane, Australia",Trounder
+"""want""","Rawai, Thailand",Trounder
+"""want""","Cairns, Australia",Trounder
+"""been"",""want""","Copenhagen, Denmark",Trounder
+"""want""","Patong, Thailand",Trounder
+"""been""","Albany, NY, USA",Trounder
+"""been""","Juan Dolio, Dominican Republic",Trounder
+"""been""","Sosua, Dominican Republic",Trounder
+"""been""","Springdale, UT, USA",Trounder
+"""been""","Cabarete, Dominican Republic",Trounder
+"""been""","Brighton, UK",Trounder
+"""want""","Port Douglas, Australia",Trounder
+"""want""","Surfers Paradise, Australia",Trounder
+"""been""","Traverse City, MI, USA",Trounder
+"""want""","Hua Hin, Thailand",Trounder
+"""been""","Tulsa, OK, USA",Trounder
+"""been""","Lexington, KY, USA",Trounder
+"""want""","Kanchanaburi, Thailand",Trounder
+"""want""","Toshima, Japan",Trounder
+"""want""","Taito, Japan",Trounder
+"""been""","Harrisburg, PA, USA",Trounder
+"""want""","Tanjung Benoa, Indonesia",Trounder
+"""been""","Ann Arbor, MI, USA",Trounder
+"""want""","Conil de la Frontera, Spain",Trounder
+"""been""","Alexandria Bay, NY, USA",Trounder
+"""been""","Dijon, France",Trounder
+"""been""","Bournemouth, UK",Trounder
+"""want""","Soller, Spain",Trounder
+"""been""","Beaune, France",Trounder
+"""want""","Didim, Turkey",Trounder
+"""been"",""want""","Torquay, UK",Trounder
+"""been""","Le Touquet \u2013 Paris-Plage, France",Trounder
+"""been""","Freeport, TX, USA",Trounder
+"""been""","Rapid City, SD, USA",Trounder
+"""been""","Fredericksburg, TX, USA",Trounder
+"""been""","Tunis, Tunisia",Trounder
+"""want""","Bruges, Belgium",Trounder
+"""been""","Pittsburgh, PA, USA",Trounder
+"""been""","Morro Bay, CA, USA",Trounder
+"""been""","Plymouth, UK",Trounder
+"""want""","Saint-Malo, France",Trounder
+"""been""","Paignton, UK",Trounder
+"""been""","Shanklin, UK",Trounder
+"""been""","Long Island City, NY, USA",Trounder
+"""been""","Nafplio, Greece",Trounder
+"""been""","Kos Town, Greece",Trounder
+"""been""","Frankfurt, Germany",Trounder
+"""want""","Roquetas de Mar, Spain",Trounder
+"""want""","Jerusalem, Israel",Trounder
+"""want""","Tel Aviv, Israel",Trounder
+"""been""","Galveston, TX, USA",Trounder
+"""been""","Monterey, CA, USA",Trounder
+"""been""","Aberdeen, UK",Trounder
+"""been""","St Ives, UK",Trounder
+"""been""","Williams, AZ, USA",Trounder
+"""want""","Hamburg, Germany",Trounder
+"""been""","Gulf Shores, AL, USA",Trounder
+"""been""","Newquay, UK",Trounder
+"""been""","Napa, CA, USA",Trounder
+"""been""","Aguas Calientes, Peru",Trounder
+"""want""","Cala d'Or, Spain",Trounder
+"""want""","Cala Bona, Spain",Trounder
+"""want""","Ca'n Picafort, Spain",Trounder
+"""want""","Cala Ratjada, Spain",Trounder
+"""been""","Porto-Vecchio, France",Trounder
+"""want""","Cala Millor, Spain",Trounder
+"""been""","Belfast, UK",Trounder
+"""want""","Bremen, Germany",Trounder
+"""want""","Berlin, Germany",Trounder
+"""been""","Kamari, Greece",Trounder
+"""been""","Needles, CA, USA",Trounder
+"""been""","Laganas, Greece",Trounder
+"""been""","Vero Beach, FL, USA",Trounder
+"""want""","Cala'n Bosch, Spain",Trounder
+"""want""","Calas de Majorca, Spain",Trounder
+"""been""","Fira, Greece",Trounder
+"""been""","Oia, Greece",Trounder
+"""been""","Huntington Beach, CA, USA",Trounder
+"""been""","Wichita, KS, USA",Trounder
+"""been""","Pefkos, Greece",Trounder
+"""been""","Fort Worth, TX, USA",Trounder
+"""been""","Sacramento, CA, USA",Trounder
+"""been""","Cambridge, UK",Trounder
+"""been""","Mystic, CT, USA",Trounder
+"""want""","Nuremberg, Germany",Trounder
+"""been""","Bristol, UK",Trounder
+"""been""","Cardiff, UK",Trounder
+"""been""","Rome, Italy",Trounder

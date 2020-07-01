@@ -1,0 +1,753 @@
+tag,place,user
+"""want""","Forster, Australia",MSUmindy
+"""been""","Northbrook, IL, USA",MSUmindy
+"""been""","Merrillville, IN, USA",MSUmindy
+"""been""","Domodossola, Italy",MSUmindy
+"""want""","Jindabyne, Australia",MSUmindy
+"""want""","Arrowtown, New Zealand",MSUmindy
+"""been""","Oak Brook, IL, USA",MSUmindy
+"""been""","Michigan City, IN, USA",MSUmindy
+"""been""","Council Bluffs, IA, USA",MSUmindy
+"""been""","Middlebury, IN, USA",MSUmindy
+"""want""","Skagen, Denmark",MSUmindy
+"""been""","Heidelberg, Germany",MSUmindy
+"""want""","Staten Island, NY, USA",MSUmindy
+"""been""","Saranac Lake, NY, USA",MSUmindy
+"""want""","Give, Denmark",MSUmindy
+"""want""","Tortona, Italy",MSUmindy
+"""been""","Owen Sound, Ontario, Canada",MSUmindy
+"""been""","Vienna, Austria",MSUmindy
+"""been""","Kitchener, Ontario, Canada",MSUmindy
+"""been""","Reston, VA, USA",MSUmindy
+"""been""","Daytona Beach, FL, USA",MSUmindy
+"""want""","Teton Village, WY, USA",MSUmindy
+"""want""","Mt. Cook Village, New Zealand",MSUmindy
+"""been""","Plainfield, IN, USA",MSUmindy
+"""been""","DeLand, FL, USA",MSUmindy
+"""want""","Coogee, Australia",MSUmindy
+"""been""","Mishawaka, IN, USA",MSUmindy
+"""been""","Tobermory, Ontario, Canada",MSUmindy
+"""been""","Indianapolis, IN, USA",MSUmindy
+"""want""","Franz Josef, New Zealand",MSUmindy
+"""been""","Schenectady, NY, USA",MSUmindy
+"""want""","Valletta, Malta",MSUmindy
+"""want""","Loreto, Italy",MSUmindy
+"""been""","Newport News, VA, USA",MSUmindy
+"""been""","Tysons Corner, VA, USA",MSUmindy
+"""want""","Fox Glacier, New Zealand",MSUmindy
+"""been""","Waterloo, Ontario, Canada",MSUmindy
+"""been""","Murano, Italy",MSUmindy
+"""been""","Roanoke, VA, USA",MSUmindy
+"""been""","Alatri, Italy",MSUmindy
+"""been""","Santa Monica, CA, USA",MSUmindy
+"""been""","Clearwater, FL, USA",MSUmindy
+"""want""","Mooloolaba, Australia",MSUmindy
+"""want""","Cocoa Beach, FL, USA",MSUmindy
+"""been""","South Bend, IN, USA",MSUmindy
+"""want""","Kerikeri, New Zealand",MSUmindy
+"""want""","West Yellowstone, MT, USA",MSUmindy
+"""been""","Missoula, MT, USA",MSUmindy
+"""been""","Alabaster, AL, USA",MSUmindy
+"""been""","East Glacier Park, MT, USA",MSUmindy
+"""been""","Cheektowaga, NY, USA",MSUmindy
+"""been"",""want""","Washington DC, DC, USA",MSUmindy
+"""want""","Oslo, Norway",MSUmindy
+"""want""","Truro, Nova Scotia, Canada",MSUmindy
+"""been""","Fairport, NY, USA",MSUmindy
+"""want""","West Bay, Cayman Islands",MSUmindy
+"""been""","Gettysburg, PA, USA",MSUmindy
+"""been""","Essex, VT, USA",MSUmindy
+"""been""","Austintown, OH, USA",MSUmindy
+"""been""","Jefferson, TX, USA",MSUmindy
+"""want""","Little Torch Key, FL, USA",MSUmindy
+"""want""","Brisbane, Australia",MSUmindy
+"""been""","Grand Isle, VT, USA",MSUmindy
+"""want""","Cairns, Australia",MSUmindy
+"""been""","Normal, IL, USA",MSUmindy
+"""want""","Yulara, Australia",MSUmindy
+"""been""","Bradenton, FL, USA",MSUmindy
+"""been""","Crescent Beach, FL, USA",MSUmindy
+"""want""","Darwin, Australia",MSUmindy
+"""been""","Owensboro, KY, USA",MSUmindy
+"""been""","Dayton, OH, USA",MSUmindy
+"""want""","Sydney, Australia",MSUmindy
+"""been""","Louisville, KY, USA",MSUmindy
+"""want""","Alice Springs, Australia",MSUmindy
+"""been""","Hershey, PA, USA",MSUmindy
+"""been""","West Des Moines, IA, USA",MSUmindy
+"""been""","Bratislava, Slovakia",MSUmindy
+"""been""","Kingsville, OH, USA",MSUmindy
+"""been""","Collingwood, Ontario, Canada",MSUmindy
+"""been""","Baraboo, WI, USA",MSUmindy
+"""want""","Bunya Mountains, Australia",MSUmindy
+"""been""","Coralville, IA, USA",MSUmindy
+"""been""","Rutland, VT, USA",MSUmindy
+"""been""","Quincy, IL, USA",MSUmindy
+"""been""","Lake City, FL, USA",MSUmindy
+"""been""","Bloomington, IL, USA",MSUmindy
+"""been""","Gainesville, FL, USA",MSUmindy
+"""want""","Greymouth, New Zealand",MSUmindy
+"""been""","Richmond, VA, USA",MSUmindy
+"""want""","Hokitika, New Zealand",MSUmindy
+"""been""","Lake Mary, FL, USA",MSUmindy
+"""been""","Peru, IL, USA",MSUmindy
+"""been""","Manassas, VA, USA",MSUmindy
+"""want""","Cedar Key, FL, USA",MSUmindy
+"""been""","Schaumburg, IL, USA",MSUmindy
+"""want""","Bern, Switzerland",MSUmindy
+"""want""","Whangarei, New Zealand",MSUmindy
+"""been""","Branson West, MO, USA",MSUmindy
+"""want""","Geneva, Switzerland",MSUmindy
+"""been""","Vilano Beach, FL, USA",MSUmindy
+"""been""","St. George, UT, USA",MSUmindy
+"""been""","Atlanta, GA, USA",MSUmindy
+"""been""","Franklin, TN, USA",MSUmindy
+"""been""","Springfield, VA, USA",MSUmindy
+"""been""","Chesapeake, VA, USA",MSUmindy
+"""been""","Rawlins, WY, USA",MSUmindy
+"""want""","Carmel Valley, CA, USA",MSUmindy
+"""been""","Charlottesville, VA, USA",MSUmindy
+"""want""","Geraldton, Australia",MSUmindy
+"""been""","Lakeland, FL, USA",MSUmindy
+"""want""","Margaret River, Australia",MSUmindy
+"""want""","South Lake Tahoe, CA, USA",MSUmindy
+"""want""","Palmerston North, New Zealand",MSUmindy
+"""been""","Ocala, FL, USA",MSUmindy
+"""want""","Invercargill, New Zealand",MSUmindy
+"""been""","Omaha, NE, USA",MSUmindy
+"""want""","Warrnambool, Australia",MSUmindy
+"""want""","Milford Sound, New Zealand",MSUmindy
+"""been"",""want""","New York City, NY, USA",MSUmindy
+"""want""","Queenstown, New Zealand",MSUmindy
+"""been""","Shipshewana, IN, USA",MSUmindy
+"""want""","St Kilda, Australia",MSUmindy
+"""been""","Binghamton, NY, USA",MSUmindy
+"""want""","Basel, Switzerland",MSUmindy
+"""been""","Plattsburgh, NY, USA",MSUmindy
+"""want""","Bondi, Australia",MSUmindy
+"""been""","Wisconsin Dells, WI, USA",MSUmindy
+"""been""","Wilmington, NY, USA",MSUmindy
+"""been""","Goodlettsville, TN, USA",MSUmindy
+"""been""","Green River, UT, USA",MSUmindy
+"""been""","Staunton, VA, USA",MSUmindy
+"""been""","Port Saint Lucie, FL, USA",MSUmindy
+"""been""","Champaign, IL, USA",MSUmindy
+"""been""","Mount Dora, FL, USA",MSUmindy
+"""been""","West Hollywood, CA, USA",MSUmindy
+"""been""","Dubuque, IA, USA",MSUmindy
+"""been""","Flagler Beach, FL, USA",MSUmindy
+"""been""","Titusville, FL, USA",MSUmindy
+"""want""","San Diego, CA, USA",MSUmindy
+"""want""","Kihei, HI, USA",MSUmindy
+"""been""","Quincy, FL, USA",MSUmindy
+"""want""","Anse Marcel, St Martin \u002F St Maarten",MSUmindy
+"""been""","Kalispell, MT, USA",MSUmindy
+"""been""","Naples, FL, USA",MSUmindy
+"""been""","Saint Charles, IL, USA",MSUmindy
+"""want""","Fort Lauderdale, FL, USA",MSUmindy
+"""been""","Mount Vernon, IL, USA",MSUmindy
+"""been""","Sandusky, OH, USA",MSUmindy
+"""want""","Blaavand, Denmark",MSUmindy
+"""been""","Rochester, NY, USA",MSUmindy
+"""been""","Geneva, NY, USA",MSUmindy
+"""want""","Wyong, Australia",MSUmindy
+"""want""","Seattle, WA, USA",MSUmindy
+"""been""","Yellowstone National Park, WY, USA",MSUmindy
+"""want""","Skagway, AK, USA",MSUmindy
+"""been""","Houston, TX, USA",MSUmindy
+"""been""","Corning, NY, USA",MSUmindy
+"""been""","Torrey, UT, USA",MSUmindy
+"""been""","Lebanon, TN, USA",MSUmindy
+"""been""","Columbia, SC, USA",MSUmindy
+"""want""","Yamba, Australia",MSUmindy
+"""been""","New Port Richey, FL, USA",MSUmindy
+"""been""","Beverly Hills, CA, USA",MSUmindy
+"""been""","Fort Myers, FL, USA",MSUmindy
+"""been""","Fort Myers Beach, FL, USA",MSUmindy
+"""been""","Kissimmee, FL, USA",MSUmindy
+"""been""","Honolulu, HI, USA",MSUmindy
+"""been""","Cedar Rapids, IA, USA",MSUmindy
+"""been""","Fort Pierce, FL, USA",MSUmindy
+"""been""","Koloa, HI, USA",MSUmindy
+"""been""","Asheville, NC, USA",MSUmindy
+"""been"",""want""","Denver, CO, USA",MSUmindy
+"""been"",""want""","St. Augustine, FL, USA",MSUmindy
+"""been""","Peoria, IL, USA",MSUmindy
+"""been""","Santa Claus, IN, USA",MSUmindy
+"""want""","Cape Canaveral, FL, USA",MSUmindy
+"""want""","Lisbon, Portugal",MSUmindy
+"""been""","Branson, MO, USA",MSUmindy
+"""want""","Kalbarri, Australia",MSUmindy
+"""been""","Winchester, VA, USA",MSUmindy
+"""been""","Lihue, HI, USA",MSUmindy
+"""been""","Custer, SD, USA",MSUmindy
+"""been""","Williamsburg, VA, USA",MSUmindy
+"""been"",""want""","Poipu, HI, USA",MSUmindy
+"""been""","Positano, Italy",MSUmindy
+"""been""","Laramie, WY, USA",MSUmindy
+"""been""","Wheeling, WV, USA",MSUmindy
+"""been""","Utica, NY, USA",MSUmindy
+"""been""","Waimea, HI, USA",MSUmindy
+"""been""","Princeville, HI, USA",MSUmindy
+"""want""","Porto Santo Stefano, Italy",MSUmindy
+"""want""","St. Moritz, Switzerland",MSUmindy
+"""been""","Bowling Green, KY, USA",MSUmindy
+"""been""","Bryce Canyon City, UT, USA",MSUmindy
+"""been""","Nashville, MI, USA",MSUmindy
+"""been""","Niagara Falls, Ontario, Canada",MSUmindy
+"""want""","Coolangatta, Australia",MSUmindy
+"""been""","Mississauga, Ontario, Canada",MSUmindy
+"""been""","Wall, SD, USA",MSUmindy
+"""want""","Coromandel, New Zealand",MSUmindy
+"""been""","Spooner, WI, USA",MSUmindy
+"""been""","State College, PA, USA",MSUmindy
+"""been""","Columbia, TN, USA",MSUmindy
+"""been""","Harrisburg, PA, USA",MSUmindy
+"""want""","Carrum Downs, Australia",MSUmindy
+"""been""","Kingston, Ontario, Canada",MSUmindy
+"""been""","Springfield, MO, USA",MSUmindy
+"""been""","New Era, MI, USA",MSUmindy
+"""been""","New Buffalo, MI, USA",MSUmindy
+"""been""","Lexington, KY, USA",MSUmindy
+"""been""","Guelph, Ontario, Canada",MSUmindy
+"""been""","Brantford, Ontario, Canada",MSUmindy
+"""want""","Rio de Janeiro, Brazil",MSUmindy
+"""want""","Trevi, Italy",MSUmindy
+"""been""","Huntsville, AL, USA",MSUmindy
+"""been""","Brampton, Ontario, Canada",MSUmindy
+"""want""","Mosfellsbaer, Iceland",MSUmindy
+"""been""","Barrie, Ontario, Canada",MSUmindy
+"""want""","Newcastle, Australia",MSUmindy
+"""been""","Marion, IN, USA",MSUmindy
+"""been""","Traverse City, MI, USA",MSUmindy
+"""been""","Iowa City, IA, USA",MSUmindy
+"""want""","Pokolbin, Australia",MSUmindy
+"""been""","Plymouth, MI, USA",MSUmindy
+"""want""","New Plymouth, New Zealand",MSUmindy
+"""been""","Birch Run, MI, USA",MSUmindy
+"""been""","Southfield, MI, USA",MSUmindy
+"""want""","Mermaid Beach, Australia",MSUmindy
+"""want""","Halifax, Nova Scotia, Canada",MSUmindy
+"""want""","Katherine, Australia",MSUmindy
+"""want""","Biggera Waters, Australia",MSUmindy
+"""want""","Wellington, New Zealand",MSUmindy
+"""been""","Sheboygan, WI, USA",MSUmindy
+"""want""","Grand Anse, Grenada",MSUmindy
+"""been""","Lake Placid, NY, USA",MSUmindy
+"""been""","Foley, AL, USA",MSUmindy
+"""been""","Columbus, OH, USA",MSUmindy
+"""been""","San Gimignano, Italy",MSUmindy
+"""been""","Albany, NY, USA",MSUmindy
+"""been""","Florence, AL, USA",MSUmindy
+"""been""","DuBois, PA, USA",MSUmindy
+"""want""","Sydney Olympic Park, Australia",MSUmindy
+"""been""","Portage, MI, USA",MSUmindy
+"""been""","Assisi, Italy",MSUmindy
+"""been""","Port Huron, MI, USA",MSUmindy
+"""want""","Christchurch, New Zealand",MSUmindy
+"""been""","Sikeston, MO, USA",MSUmindy
+"""been""","Huntington, WV, USA",MSUmindy
+"""want""","Broome, Australia",MSUmindy
+"""been""","Lake Mills, WI, USA",MSUmindy
+"""want""","McLaren Vale, Australia",MSUmindy
+"""been""","Lake Geneva, WI, USA",MSUmindy
+"""want""","Ballarat, Australia",MSUmindy
+"""been""","Columbus, IN, USA",MSUmindy
+"""want""","Noosaville, Australia",MSUmindy
+"""want""","Mount Gambier, Australia",MSUmindy
+"""want""","Melbourne, Australia",MSUmindy
+"""want""","Mangere, New Zealand",MSUmindy
+"""been""","Mitchell, SD, USA",MSUmindy
+"""been""","Cleveland, TN, USA",MSUmindy
+"""want""","Windhoek, Namibia",MSUmindy
+"""want""","White House, Jamaica",MSUmindy
+"""want""","Saint John, New Brunswick, Canada",MSUmindy
+"""want""","Vila Nova de Milfontes, Portugal",MSUmindy
+"""been""","Stevensville, MI, USA",MSUmindy
+"""been""","Sterling Heights, MI, USA",MSUmindy
+"""want""","Auckland Central, New Zealand",MSUmindy
+"""been""","Joliet, IL, USA",MSUmindy
+"""want""","Echuca, Australia",MSUmindy
+"""want""","Hamilton, New Zealand",MSUmindy
+"""been""","Galena, IL, USA",MSUmindy
+"""been""","Whitehall, MI, USA",MSUmindy
+"""want""","Big Pine Key, FL, USA",MSUmindy
+"""want""","Fredericton, New Brunswick, Canada",MSUmindy
+"""been""","Valparaiso, IN, USA",MSUmindy
+"""been""","Florence, KY, USA",MSUmindy
+"""been""","Waynesboro, VA, USA",MSUmindy
+"""want""","Bright, Australia",MSUmindy
+"""been""","Lincolnwood, IL, USA",MSUmindy
+"""been""","Kokomo, IN, USA",MSUmindy
+"""been""","Bay City, MI, USA",MSUmindy
+"""been""","Muncie, IN, USA",MSUmindy
+"""been""","Fort Wayne, IN, USA",MSUmindy
+"""been""","La Crosse, WI, USA",MSUmindy
+"""been""","Cleveland, OH, USA",MSUmindy
+"""want""","Longyearbyen, Norway",MSUmindy
+"""been"",""want""","Jackson, WY, USA",MSUmindy
+"""been""","Wausau, WI, USA",MSUmindy
+"""been""","Montgomery, AL, USA",MSUmindy
+"""been""","Somerset, PA, USA",MSUmindy
+"""been""","New Paltz, NY, USA",MSUmindy
+"""been""","Kingston, NY, USA",MSUmindy
+"""want""","Bologna, Italy",MSUmindy
+"""want""","Mudgee, Australia",MSUmindy
+"""been""","Geneva, IL, USA",MSUmindy
+"""been""","Nashville, IN, USA",MSUmindy
+"""been""","Williamston, MI, USA",MSUmindy
+"""want""","Victoria, British Columbia, Canada",MSUmindy
+"""been""","Bradenton Beach, FL, USA",MSUmindy
+"""want""","Vancouver, British Columbia, Canada",MSUmindy
+"""want""","Esperance, Australia",MSUmindy
+"""been""","Frankfort, KY, USA",MSUmindy
+"""been""","Waukesha, WI, USA",MSUmindy
+"""been""","Belleville, MI, USA",MSUmindy
+"""been""","Sturgis, SD, USA",MSUmindy
+"""want""","Red River, NM, USA",MSUmindy
+"""been""","Niagara Falls, NY, USA",MSUmindy
+"""want""","Dolo, Italy",MSUmindy
+"""want""","Assago, Italy",MSUmindy
+"""been""","Spearfish, SD, USA",MSUmindy
+"""been""","Penn Yan, NY, USA",MSUmindy
+"""been""","Findlay, OH, USA",MSUmindy
+"""been""","Schiphol, The Netherlands",MSUmindy
+"""been""","Lombard, IL, USA",MSUmindy
+"""been""","Ka'anapali, HI, USA",MSUmindy
+"""been""","Bessemer, MI, USA",MSUmindy
+"""been""","Ypsilanti, MI, USA",MSUmindy
+"""been""","Bennington, VT, USA",MSUmindy
+"""want""","Duck Key, FL, USA",MSUmindy
+"""want""","Rye, Australia",MSUmindy
+"""want""","Kamloops, British Columbia, Canada",MSUmindy
+"""want""","Harrison Hot Springs, British Columbia, Canada",MSUmindy
+"""been""","Great Falls, MT, USA",MSUmindy
+"""been""","Hoover, AL, USA",MSUmindy
+"""been""","Erie, PA, USA",MSUmindy
+"""want""","Riomaggiore, Italy",MSUmindy
+"""been""","Lebanon, OH, USA",MSUmindy
+"""been""","Maggie Valley, NC, USA",MSUmindy
+"""want""","Portofino, Italy",MSUmindy
+"""want""","Broken Hill, Australia",MSUmindy
+"""want""","Ventimiglia, Italy",MSUmindy
+"""been""","Norfolk, VA, USA",MSUmindy
+"""want""","Oamaru, New Zealand",MSUmindy
+"""want""","Armidale, Australia",MSUmindy
+"""want""","Russell, New Zealand",MSUmindy
+"""want""","Policoro, Italy",MSUmindy
+"""want""","Bathurst, Australia",MSUmindy
+"""been""","Brattleboro, VT, USA",MSUmindy
+"""want""","Hilo, HI, USA",MSUmindy
+"""been""","Monument Valley, UT, USA",MSUmindy
+"""want""","Cockburn Town, Turks and Caicos",MSUmindy
+"""been""","Kingsland, GA, USA",MSUmindy
+"""been""","Waimea, HI, USA",MSUmindy
+"""been""","Brentwood, TN, USA",MSUmindy
+"""been""","Billings, MT, USA",MSUmindy
+"""been""","Bozeman, MT, USA",MSUmindy
+"""been""","Lancaster, PA, USA",MSUmindy
+"""want""","Bend, OR, USA",MSUmindy
+"""been""","Lima, OH, USA",MSUmindy
+"""want""","Swakopmund, Namibia",MSUmindy
+"""been""","Haliburton, Ontario, Canada",MSUmindy
+"""been""","White Cloud, MI, USA",MSUmindy
+"""want""","Tanunda, Australia",MSUmindy
+"""been""","Virginia Beach, VA, USA",MSUmindy
+"""been""","Battle Creek, MI, USA",MSUmindy
+"""want""","Robe, Australia",MSUmindy
+"""been""","Moline, IL, USA",MSUmindy
+"""been""","Bath, MI, USA",MSUmindy
+"""want""","Lido degli Estensi, Italy",MSUmindy
+"""want""","Calgary, Alberta, Canada",MSUmindy
+"""been""","Midland, MI, USA",MSUmindy
+"""want""","Lake Louise, Alberta, Canada",MSUmindy
+"""been""","North Platte, NE, USA",MSUmindy
+"""want""","Banff, Alberta, Canada",MSUmindy
+"""been""","Covington, KY, USA",MSUmindy
+"""been""","Jefferson City, MO, USA",MSUmindy
+"""been""","Comstock Park, MI, USA",MSUmindy
+"""been""","Silver Spring, MD, USA",MSUmindy
+"""been""","Jackson, MI, USA",MSUmindy
+"""been""","Annapolis, MD, USA",MSUmindy
+"""been""","Saint Augustine Beach, FL, USA",MSUmindy
+"""been""","Danbury, CT, USA",MSUmindy
+"""been""","Burano, Italy",MSUmindy
+"""been""","Ironwood, MI, USA",MSUmindy
+"""been""","Pentwater, MI, USA",MSUmindy
+"""been""","Weeki Wachee, FL, USA",MSUmindy
+"""been""","Ellicott City, MD, USA",MSUmindy
+"""been""","Effingham, IL, USA",MSUmindy
+"""been""","Old Saybrook, CT, USA",MSUmindy
+"""been""","Fairfax, VA, USA",MSUmindy
+"""been""","Allenspark, CO, USA",MSUmindy
+"""been""","St. Pete Beach, FL, USA",MSUmindy
+"""been""","Fiumicino, Italy",MSUmindy
+"""been""","St. Petersburg, FL, USA",MSUmindy
+"""been""","Cottonwood, AZ, USA",MSUmindy
+"""been""","Los Angeles, CA, USA",MSUmindy
+"""been""","Decatur, AL, USA",MSUmindy
+"""been""","Baveno, Italy",MSUmindy
+"""been""","Escalante, UT, USA",MSUmindy
+"""want""","Milan, Italy",MSUmindy
+"""been""","Kalamazoo, MI, USA",MSUmindy
+"""been"",""want""","Minneapolis, MN, USA",MSUmindy
+"""been""","Gaylord, MI, USA",MSUmindy
+"""been""","Elk Grove Village, IL, USA",MSUmindy
+"""been""","Sanford, FL, USA",MSUmindy
+"""been""","Sarasota, FL, USA",MSUmindy
+"""want""","Napa, CA, USA",MSUmindy
+"""been""","Orillia, Ontario, Canada",MSUmindy
+"""been""","Alexandria, VA, USA",MSUmindy
+"""been""","Ames, IA, USA",MSUmindy
+"""been""","Sullivan's Island, SC, USA",MSUmindy
+"""been""","Phoenix, AZ, USA",MSUmindy
+"""been""","Deadwood, SD, USA",MSUmindy
+"""been""","Falls Church, VA, USA",MSUmindy
+"""want""","Grindavik, Iceland",MSUmindy
+"""want""","Hella, Iceland",MSUmindy
+"""been""","Flint, MI, USA",MSUmindy
+"""been""","Owosso, MI, USA",MSUmindy
+"""been""","Marshall, MI, USA",MSUmindy
+"""been""","Sault Ste. Marie, MI, USA",MSUmindy
+"""want""","Palm - Eagle Beach, Aruba",MSUmindy
+"""want""","Seven Mile Beach, Cayman Islands",MSUmindy
+"""been""","New Haven, CT, USA",MSUmindy
+"""been""","Apache Junction, AZ, USA",MSUmindy
+"""been""","New London, CT, USA",MSUmindy
+"""been""","Marquette, MI, USA",MSUmindy
+"""been""","Saugatuck, MI, USA",MSUmindy
+"""been""","New Milford, CT, USA",MSUmindy
+"""been""","Arlington Heights, IL, USA",MSUmindy
+"""want""","Glasgow, UK",MSUmindy
+"""been""","Fountain Hills, AZ, USA",MSUmindy
+"""been""","Tavarnuzze, Italy",MSUmindy
+"""been"",""want""","Vero Beach, FL, USA",MSUmindy
+"""been""","Sugar Land, TX, USA",MSUmindy
+"""been""","Birmingham, AL, USA",MSUmindy
+"""been""","Padua, Italy",MSUmindy
+"""been""","Bardstown, KY, USA",MSUmindy
+"""been""","Ozark, MO, USA",MSUmindy
+"""been""","Frankenmuth, MI, USA",MSUmindy
+"""been""","Mears, MI, USA",MSUmindy
+"""been""","Paradise, MI, USA",MSUmindy
+"""been""","Saint Charles, MO, USA",MSUmindy
+"""been""","Las Vegas, NV, USA",MSUmindy
+"""been""","Aurora, CO, USA",MSUmindy
+"""been""","Shelby, MI, USA",MSUmindy
+"""want""","Simpson Bay, St Martin \u002F St Maarten",MSUmindy
+"""want""","Grand Case, St Martin \u002F St Maarten",MSUmindy
+"""been""","Chicago, IL, USA",MSUmindy
+"""want""","Joshua Tree, CA, USA",MSUmindy
+"""been""","Dothan, AL, USA",MSUmindy
+"""been""","Toledo, OH, USA",MSUmindy
+"""been""","Herndon, VA, USA",MSUmindy
+"""want""","Edinburgh, UK",MSUmindy
+"""want""","Turin, Italy",MSUmindy
+"""been""","Arlington, VA, USA",MSUmindy
+"""been""","Santee, SC, USA",MSUmindy
+"""been""","Hilton, NY, USA",MSUmindy
+"""been""","Corbin, KY, USA",MSUmindy
+"""been""","Castries, St. Lucia",MSUmindy
+"""been""","Mackinaw City, MI, USA",MSUmindy
+"""been""","Okemos, MI, USA",MSUmindy
+"""been""","Gros Islet, St. Lucia",MSUmindy
+"""been"",""want""","Lido di Venezia, Italy",MSUmindy
+"""want""","Kangaroo Valley, Australia",MSUmindy
+"""been""","Saginaw, MI, USA",MSUmindy
+"""been""","Soufriere, St. Lucia",MSUmindy
+"""been""","Auburn Hills, MI, USA",MSUmindy
+"""been""","Greenville, NC, USA",MSUmindy
+"""been""","Royal Oak, MI, USA",MSUmindy
+"""been""","Pasadena, CA, USA",MSUmindy
+"""been""","Williams, AZ, USA",MSUmindy
+"""want""","Monterey, CA, USA",MSUmindy
+"""been""","Victoria, TX, USA",MSUmindy
+"""been""","Canfield, OH, USA",MSUmindy
+"""been""","Milford, CT, USA",MSUmindy
+"""been""","Gardendale, AL, USA",MSUmindy
+"""been""","Bryce, UT, USA",MSUmindy
+"""been""","Spring, TX, USA",MSUmindy
+"""want""","Catania, Italy",MSUmindy
+"""been""","Edinburgh, IN, USA",MSUmindy
+"""been""","Manistee, MI, USA",MSUmindy
+"""been""","Elkhart, IN, USA",MSUmindy
+"""been""","Chambersburg, PA, USA",MSUmindy
+"""been""","Cave City, KY, USA",MSUmindy
+"""been""","Winona, MN, USA",MSUmindy
+"""been""","Oscoda, MI, USA",MSUmindy
+"""want""","Big Sur, CA, USA",MSUmindy
+"""been""","Saint Joseph, MI, USA",MSUmindy
+"""been"",""want""","Holland, MI, USA",MSUmindy
+"""been""","Warren, MI, USA",MSUmindy
+"""been""","Ontonagon, MI, USA",MSUmindy
+"""been""","Holt, MI, USA",MSUmindy
+"""been""","Manistique, MI, USA",MSUmindy
+"""been""","Saint Johns, MI, USA",MSUmindy
+"""been""","Waterbury, CT, USA",MSUmindy
+"""been""","Saint Ignace, MI, USA",MSUmindy
+"""been""","Mystic, CT, USA",MSUmindy
+"""been"",""want""","Venice, Italy",MSUmindy
+"""want""","Palm Springs, CA, USA",MSUmindy
+"""been""","Gadsden, AL, USA",MSUmindy
+"""been""","West Cornwall, CT, USA",MSUmindy
+"""been""","Bridgeport, CT, USA",MSUmindy
+"""been""","Pittsburgh, PA, USA",MSUmindy
+"""been""","Rapid City, SD, USA",MSUmindy
+"""been""","Vieux Fort, St. Lucia",MSUmindy
+"""been""","Ann Arbor, MI, USA",MSUmindy
+"""want""","Madrid, Spain",MSUmindy
+"""want""","Lake Tekapo, New Zealand",MSUmindy
+"""been""","Gurnee, IL, USA",MSUmindy
+"""been""","North Muskegon, MI, USA",MSUmindy
+"""want""","Coles Bay, Australia",MSUmindy
+"""want""","San Juan, Puerto Rico",MSUmindy
+"""been""","Troy, MI, USA",MSUmindy
+"""been""","Capri, Italy",MSUmindy
+"""been"",""want""","Sorrento, Italy",MSUmindy
+"""want""","Salerno, Italy",MSUmindy
+"""been"",""want""","Pompeii, Italy",MSUmindy
+"""want""","Husavik, Iceland",MSUmindy
+"""been""","Petaluma, CA, USA",MSUmindy
+"""want""","Keflavik, Iceland",MSUmindy
+"""been""","Paradise Valley, AZ, USA",MSUmindy
+"""been""","Alexandria, MN, USA",MSUmindy
+"""want""","London, UK",MSUmindy
+"""been""","Stoystown, PA, USA",MSUmindy
+"""want""","Mount Maunganui, New Zealand",MSUmindy
+"""been""","Ludington, MI, USA",MSUmindy
+"""been""","Elizabethtown, KY, USA",MSUmindy
+"""want""","Saint Paul, MN, USA",MSUmindy
+"""been""","Livonia, MI, USA",MSUmindy
+"""been""","Union Pier, MI, USA",MSUmindy
+"""been""","Romulus, MI, USA",MSUmindy
+"""want""","Long Island City, NY, USA",MSUmindy
+"""want""","Port Arthur, Australia",MSUmindy
+"""been""","Boulder, UT, USA",MSUmindy
+"""want""","Campofelice di Roccella, Italy",MSUmindy
+"""been""","Lucca, Italy",MSUmindy
+"""been""","Blanding, UT, USA",MSUmindy
+"""been"",""want""","Florence, Italy",MSUmindy
+"""want""","Malmo, Sweden",MSUmindy
+"""been""","Rothbury, MI, USA",MSUmindy
+"""been""","Novi, MI, USA",MSUmindy
+"""want""","Hanmer Springs, New Zealand",MSUmindy
+"""been""","Flagstaff, AZ, USA",MSUmindy
+"""been""","Charlotte, MI, USA",MSUmindy
+"""been""","Charlevoix, MI, USA",MSUmindy
+"""want""","Main Beach, Australia",MSUmindy
+"""been""","Des Moines, IA, USA",MSUmindy
+"""been""","Helena, MT, USA",MSUmindy
+"""been""","Impruneta, Italy",MSUmindy
+"""been""","Empire, MI, USA",MSUmindy
+"""been""","Jacksonville Beach, FL, USA",MSUmindy
+"""want""","Moose Jaw, Saskatchewan, Canada",MSUmindy
+"""been""","Waterbury, VT, USA",MSUmindy
+"""been""","Hanalei, HI, USA",MSUmindy
+"""been""","Brookfield, WI, USA",MSUmindy
+"""been""","Manchester, VT, USA",MSUmindy
+"""been""","Buffalo, NY, USA",MSUmindy
+"""been""","Mesa, AZ, USA",MSUmindy
+"""been""","Madison, WI, USA",MSUmindy
+"""been""","Carmel, IN, USA",MSUmindy
+"""been""","Pigeon Forge, TN, USA",MSUmindy
+"""been""","Ponte Vedra Beach, FL, USA",MSUmindy
+"""been""","Everglades City, FL, USA",MSUmindy
+"""been""","Butte, MT, USA",MSUmindy
+"""want""","Colorado Springs, CO, USA",MSUmindy
+"""been""","Zion National Park, UT, USA",MSUmindy
+"""want""","Sorrento, Australia",MSUmindy
+"""been""","Monticello, FL, USA",MSUmindy
+"""been"",""want""","Rome, Italy",MSUmindy
+"""been""","Tremezzina, Italy",MSUmindy
+"""want""","Stockholm, Sweden",MSUmindy
+"""been""","Passau, Germany",MSUmindy
+"""been""","Newark, NJ, USA",MSUmindy
+"""been""","Nuremberg, Germany",MSUmindy
+"""been""","Chelsea, MI, USA",MSUmindy
+"""been"",""want""","Vatican City, Vatican City",MSUmindy
+"""been""","Waikoloa, HI, USA",MSUmindy
+"""want""","Marbella, Spain",MSUmindy
+"""want""","Eden, Australia",MSUmindy
+"""been""","Burbank, CA, USA",MSUmindy
+"""been""","Luray, VA, USA",MSUmindy
+"""been""","Gatlinburg, TN, USA",MSUmindy
+"""been""","Moab, UT, USA",MSUmindy
+"""been""","Port Aransas, TX, USA",MSUmindy
+"""been""","Burlington, VT, USA",MSUmindy
+"""been""","Tusayan, AZ, USA",MSUmindy
+"""been""","New Braunfels, TX, USA",MSUmindy
+"""been""","Charleston, SC, USA",MSUmindy
+"""want""","Quebec City, Quebec, Canada",MSUmindy
+"""been""","Skaneateles, NY, USA",MSUmindy
+"""want""","Montreal, Quebec, Canada",MSUmindy
+"""been""","Chandler, AZ, USA",MSUmindy
+"""been""","Grand Lake, CO, USA",MSUmindy
+"""been""","Hart, MI, USA",MSUmindy
+"""been""","College Park, MD, USA",MSUmindy
+"""been""","Panama City, FL, USA",MSUmindy
+"""been""","Homosassa, FL, USA",MSUmindy
+"""want""","Tucson, AZ, USA",MSUmindy
+"""been""","Panama City Beach, FL, USA",MSUmindy
+"""been""","Marianna, FL, USA",MSUmindy
+"""want""","Yallingup, Australia",MSUmindy
+"""been""","Wasaga Beach, Ontario, Canada",MSUmindy
+"""been""","Lebanon, MO, USA",MSUmindy
+"""want""","Palm Cove, Australia",MSUmindy
+"""want""","Richmond, Australia",MSUmindy
+"""been""","Harbor Springs, MI, USA",MSUmindy
+"""been""","Davenport, IA, USA",MSUmindy
+"""been""","Frankfurt (Oder), Germany",MSUmindy
+"""want""","Ferragudo, Portugal",MSUmindy
+"""been""","Eagle River, WI, USA",MSUmindy
+"""been""","Ruedesheim am Rhein, Germany",MSUmindy
+"""been""","Stowe, VT, USA",MSUmindy
+"""been""","West Glacier, MT, USA",MSUmindy
+"""been""","Hayward, WI, USA",MSUmindy
+"""been""","Page, AZ, USA",MSUmindy
+"""been""","Leesburg, VA, USA",MSUmindy
+"""been""","Culver City, CA, USA",MSUmindy
+"""been""","San Antonio, TX, USA",MSUmindy
+"""been""","Windsor, Ontario, Canada",MSUmindy
+"""been""","Moose, WY, USA",MSUmindy
+"""been""","Carefree, AZ, USA",MSUmindy
+"""want""","Santa Fe, NM, USA",MSUmindy
+"""want""","Olinda, Australia",MSUmindy
+"""want""","Perdido Key, FL, USA",MSUmindy
+"""been""","Toronto, Ontario, Canada",MSUmindy
+"""been""","Eden Prairie, MN, USA",MSUmindy
+"""been""","Red Lodge, MT, USA",MSUmindy
+"""been""","Thunder Bay, Ontario, Canada",MSUmindy
+"""want""","Marcoola, Australia",MSUmindy
+"""been""","Tallahassee, FL, USA",MSUmindy
+"""been""","Waukegan, IL, USA",MSUmindy
+"""been""","Des Plaines, IL, USA",MSUmindy
+"""been""","Tampa, FL, USA",MSUmindy
+"""want""","Wanaka, New Zealand",MSUmindy
+"""been""","Rockford, IL, USA",MSUmindy
+"""been""","Hastings, MI, USA",MSUmindy
+"""been""","Haslett, MI, USA",MSUmindy
+"""been"",""want""","Frankfurt, Germany",MSUmindy
+"""been""","Johnson City, TN, USA",MSUmindy
+"""want""","Spokane, WA, USA",MSUmindy
+"""been""","Bullhead City, AZ, USA",MSUmindy
+"""been""","Syracuse, NY, USA",MSUmindy
+"""been""","St. Catharines, Ontario, Canada",MSUmindy
+"""been""","Sault Ste. Marie, Ontario, Canada",MSUmindy
+"""been""","Budapest, Hungary",MSUmindy
+"""been"",""want""","Estes Park, CO, USA",MSUmindy
+"""been""","Bristol, VA, USA",MSUmindy
+"""been""","Fredericksburg, VA, USA",MSUmindy
+"""want""","Tillamook, OR, USA",MSUmindy
+"""been""","Bisbee, AZ, USA",MSUmindy
+"""want""","Lorne, Australia",MSUmindy
+"""been""","Cape Girardeau, MO, USA",MSUmindy
+"""been""","Bainbridge, GA, USA",MSUmindy
+"""been""","Peterborough, Ontario, Canada",MSUmindy
+"""want""","Hobart, Australia",MSUmindy
+"""been""","Greenwich, CT, USA",MSUmindy
+"""been""","Evanston, IL, USA",MSUmindy
+"""been""","Arkadelphia, AR, USA",MSUmindy
+"""been""","Dalton, GA, USA",MSUmindy
+"""been""","Dimondale, MI, USA",MSUmindy
+"""been""","Aurora, IL, USA",MSUmindy
+"""been""","Bloomington, IN, USA",MSUmindy
+"""want""","Coober Pedy, Australia",MSUmindy
+"""been""","Atlantic Beach, FL, USA",MSUmindy
+"""been""","Apopka, FL, USA",MSUmindy
+"""been""","Palatka, FL, USA",MSUmindy
+"""been""","Skokie, IL, USA",MSUmindy
+"""been""","DeWitt, MI, USA",MSUmindy
+"""want""","La Jolla, CA, USA",MSUmindy
+"""been""","Apalachicola, FL, USA",MSUmindy
+"""been""","Marineland, FL, USA",MSUmindy
+"""been""","Front Royal, VA, USA",MSUmindy
+"""been""","Petersburg, VA, USA",MSUmindy
+"""been""","Oshawa, Ontario, Canada",MSUmindy
+"""want""","Grand Canyon National Park, AZ, USA",MSUmindy
+"""been""","Grand Teton National Park, WY, USA",MSUmindy
+"""been"",""want""","Savannah, GA, USA",MSUmindy
+"""been""","Minot, ND, USA",MSUmindy
+"""been""","East Grand Rapids, MI, USA",MSUmindy
+"""been""","Lincoln, NE, USA",MSUmindy
+"""been""","East Lansing, MI, USA",MSUmindy
+"""been""","Spring Hill, FL, USA",MSUmindy
+"""want""","Cannobio, Italy",MSUmindy
+"""want""","Jenolan Caves, Australia",MSUmindy
+"""want""","Broadbeach, Australia",MSUmindy
+"""been"",""want""","Boulder, CO, USA",MSUmindy
+"""been""","Palm Coast, FL, USA",MSUmindy
+"""want""","Trinity Beach, Australia",MSUmindy
+"""been""","Lansing, MI, USA",MSUmindy
+"""been""","Dundee, MI, USA",MSUmindy
+"""been""","Nashville, TN, USA",MSUmindy
+"""want""","Corpus Christi, TX, USA",MSUmindy
+"""been""","Green Valley, AZ, USA",MSUmindy
+"""been""","Goodyear, AZ, USA",MSUmindy
+"""been""","Delavan, WI, USA",MSUmindy
+"""been""","Greenville, SC, USA",MSUmindy
+"""been""","South Burlington, VT, USA",MSUmindy
+"""want""","Beijing, China",MSUmindy
+"""want""","Mudjimba, Australia",MSUmindy
+"""been""","South Hero, VT, USA",MSUmindy
+"""been""","Bryce Canyon National Park, UT, USA",MSUmindy
+"""been""","Glendale, AZ, USA",MSUmindy
+"""want""","Sedona, AZ, USA",MSUmindy
+"""been""","Watertown, NY, USA",MSUmindy
+"""been""","Gilbert, AZ, USA",MSUmindy
+"""been""","Capitol Reef National Park, UT, USA",MSUmindy
+"""been""","Scottsdale, AZ, USA",MSUmindy
+"""been""","Watkins Glen, NY, USA",MSUmindy
+"""been""","Wailea, HI, USA",MSUmindy
+"""been""","Jacksonville, FL, USA",MSUmindy
+"""want""","Bolgheri, Italy",MSUmindy
+"""been""","Boyne Falls, MI, USA",MSUmindy
+"""been"",""want""","Amsterdam, The Netherlands",MSUmindy
+"""been""","Collinsville, IL, USA",MSUmindy
+"""want""","Anacapri, Italy",MSUmindy
+"""want""","Englewood, CO, USA",MSUmindy
+"""been""","Bloomfield Hills, MI, USA",MSUmindy
+"""been""","Seaside, FL, USA",MSUmindy
+"""want""","Evergreen, CO, USA",MSUmindy
+"""been""","Urbana, IL, USA",MSUmindy
+"""been""","Montague, MI, USA",MSUmindy
+"""want""","Spokane Valley, WA, USA",MSUmindy
+"""been""","Florence, SC, USA",MSUmindy
+"""been""","Charleston, WV, USA",MSUmindy
+"""want""","Tamborine Mountain, Australia",MSUmindy
+"""been""","Cornwall, Ontario, Canada",MSUmindy
+"""been""","Bamberg, Germany",MSUmindy
+"""been""","Lake Havasu City, AZ, USA",MSUmindy
+"""been""","Tombstone, AZ, USA",MSUmindy
+"""been""","Detroit, MI, USA",MSUmindy
+"""been""","Kearney, NE, USA",MSUmindy
+"""been""","Fairfield, CT, USA",MSUmindy
+"""been""","Grand Rapids, MI, USA",MSUmindy
+"""want""","Lezzeno, Italy",MSUmindy
+"""been""","Munising, MI, USA",MSUmindy
+"""been""","Grand Marais, MI, USA",MSUmindy
+"""been""","Whitefish, MT, USA",MSUmindy
+"""been""","Brighton, MI, USA",MSUmindy
+"""been""","Muskegon, MI, USA",MSUmindy
+"""been""","Grand Haven, MI, USA",MSUmindy
+"""want""","Port Campbell, Australia",MSUmindy
+"""been""","Dearborn, MI, USA",MSUmindy
+"""been""","Cologne, Germany",MSUmindy
+"""been""","Vandalia, IL, USA",MSUmindy
+"""want""","Siesta Key, FL, USA",MSUmindy
+"""been""","Orlando, FL, USA",MSUmindy
+"""want""","Barcelona, Spain",MSUmindy
+"""been""","Mount Pleasant, MI, USA",MSUmindy
+"""been""","Green Bay, WI, USA",MSUmindy
+"""want""","Torquay, Australia",MSUmindy
+"""been""","Myrtle Beach, SC, USA",MSUmindy
+"""been""","Santa Maria Maggiore, Italy",MSUmindy
+"""been""","Bedford, PA, USA",MSUmindy
+"""been""","Tempe, AZ, USA",MSUmindy
+"""been""","Kayenta, AZ, USA",MSUmindy
+"""been""","Lewisburg, PA, USA",MSUmindy
+"""been""","Murrells Inlet, SC, USA",MSUmindy
+"""been""","Jerome, AZ, USA",MSUmindy
+"""been""","Surprise, AZ, USA",MSUmindy
+"""been""","Mount Pleasant, SC, USA",MSUmindy
+"""been""","Frederick, MD, USA",MSUmindy
+"""want""","Castel di Sangro, Italy",MSUmindy

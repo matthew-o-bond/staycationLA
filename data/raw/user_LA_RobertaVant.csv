@@ -1,0 +1,477 @@
+tag,place,user
+"""want""","Niagara Falls, NY, USA",RobertaVant
+"""want""","Saint Julian's, Malta",RobertaVant
+"""want""","Chattanooga, TN, USA",RobertaVant
+"""want""","George Town, Malaysia",RobertaVant
+"""been""","Eboli, Italy",RobertaVant
+"""want""","Caucaia, Brazil",RobertaVant
+"""want""","Naxos Town, Greece",RobertaVant
+"""been""","Parma, Italy",RobertaVant
+"""been""","Bologna, Italy",RobertaVant
+"""been""","Lamai Beach, Thailand",RobertaVant
+"""want""","Guangzhou, China",RobertaVant
+"""want""","Seoul, South Korea",RobertaVant
+"""want""","Mont-Saint-Michel, France",RobertaVant
+"""want""","Butuan, Philippines",RobertaVant
+"""want""","Cork, Ireland",RobertaVant
+"""want""","La Paz, Bolivia",RobertaVant
+"""want""","Dublin, Ireland",RobertaVant
+"""want""","Oklahoma City, OK, USA",RobertaVant
+"""want""","Ticuantepe, Nicaragua",RobertaVant
+"""want""","Kyoto, Japan",RobertaVant
+"""been""","Anacapri, Italy",RobertaVant
+"""been""","Lipari, Italy",RobertaVant
+"""want""","Medellin, Colombia",RobertaVant
+"""want""","Port Howard, Falkland Islands",RobertaVant
+"""been""","Sperlonga, Italy",RobertaVant
+"""want""","El Chalten, Argentina",RobertaVant
+"""been""","Perugia, Italy",RobertaVant
+"""been""","Gubbio, Italy",RobertaVant
+"""want""","Pwani Mchangani, Tanzania",RobertaVant
+"""been""","Assisi, Italy",RobertaVant
+"""been""","Siena, Italy",RobertaVant
+"""want""","Chora, Greece",RobertaVant
+"""been""","L'Aquila, Italy",RobertaVant
+"""been""","Lecce, Italy",RobertaVant
+"""want""","Lerici, Italy",RobertaVant
+"""want""","Iranduba, Brazil",RobertaVant
+"""want""","Huatulco, Mexico",RobertaVant
+"""want""","Acapulco, Mexico",RobertaVant
+"""want""","Rionegro, Colombia",RobertaVant
+"""want""","Male, Asia",RobertaVant
+"""want""","Kuala Lumpur, Malaysia",RobertaVant
+"""want""","Makati, Philippines",RobertaVant
+"""want""","Boise, ID, USA",RobertaVant
+"""want""","Alingsas, Sweden",RobertaVant
+"""want""","Alausi, Ecuador",RobertaVant
+"""want""","Santa Fe de Antioquia, Colombia",RobertaVant
+"""been""","Bardolino, Italy",RobertaVant
+"""want""","Singapore, Singapore",RobertaVant
+"""want""","Porvenir, Chile",RobertaVant
+"""been""","Trapani, Italy",RobertaVant
+"""want""","Gonor Station, Manitoba, Canada",RobertaVant
+"""been""","Grosseto, Italy",RobertaVant
+"""want""","Freeport, Bahamas",RobertaVant
+"""want""","Washington DC, DC, USA",RobertaVant
+"""been""","Fiumicino, Italy",RobertaVant
+"""want""","Gisambai, Kenya",RobertaVant
+"""want""","Kata Beach, Thailand",RobertaVant
+"""want""","St. Petersburg, Russia",RobertaVant
+"""want""","Stintino, Italy",RobertaVant
+"""want""","Lagos, Nigeria",RobertaVant
+"""been""","Giardini Naxos, Italy",RobertaVant
+"""want""","Milos, Greece",RobertaVant
+"""want""","Santa Margherita di Pula, Italy",RobertaVant
+"""want""","Fortaleza, Brazil",RobertaVant
+"""want""","Antigua, Guatemala",RobertaVant
+"""want""","Negril, Jamaica",RobertaVant
+"""want""","Ocho Rios, Jamaica",RobertaVant
+"""want""","Montego Bay, Jamaica",RobertaVant
+"""been""","Otranto, Italy",RobertaVant
+"""want""","Bagan, Myanmar",RobertaVant
+"""want""","East Falkland, Falkland Islands",RobertaVant
+"""want""","Island Park, ID, USA",RobertaVant
+"""been""","Agrigento, Italy",RobertaVant
+"""want""","Hurghada, Egypt",RobertaVant
+"""want""","Cloghane, Ireland",RobertaVant
+"""want""","Xining, China",RobertaVant
+"""want""","Erice, Italy",RobertaVant
+"""want""","Yinchuan, China",RobertaVant
+"""want""","Sharm El Sheikh, Egypt",RobertaVant
+"""want""","Split, Croatia",RobertaVant
+"""want""","Nxai Pan National Park, Botswana",RobertaVant
+"""want""","Dubrovnik, Croatia",RobertaVant
+"""been"",""want""","Ravello, Italy",RobertaVant
+"""been""","Campagna, Italy",RobertaVant
+"""want""","Bodrum City, Turkey",RobertaVant
+"""been""","Noto, Italy",RobertaVant
+"""want""","Vallecito Lake, CO, USA",RobertaVant
+"""want""","Shangani, Zimbabwe",RobertaVant
+"""been""","Santa Monica, CA, USA",RobertaVant
+"""want""","Floda, Sweden",RobertaVant
+"""want""","Macas, Ecuador",RobertaVant
+"""want""","Porto, Portugal",RobertaVant
+"""been""","Frascati, Italy",RobertaVant
+"""been""","Ferrara, Italy",RobertaVant
+"""want""","Rurrenabaque, Bolivia",RobertaVant
+"""want""","Cocoa Beach, FL, USA",RobertaVant
+"""want""","Coroico, Bolivia",RobertaVant
+"""want""","Grand Canyon National Park, AZ, USA",RobertaVant
+"""want""","Geneva, Switzerland",RobertaVant
+"""want""","Oregon City, OR, USA",RobertaVant
+"""want""","Cape Town Central, South Africa",RobertaVant
+"""been""","Castiglione Della Pescaia, Italy",RobertaVant
+"""been""","Chianciano Terme, Italy",RobertaVant
+"""want""","Mesaria, Greece",RobertaVant
+"""want""","Serekunda, Gambia",RobertaVant
+"""want""","Bern, Switzerland",RobertaVant
+"""want""","Dauin, Philippines",RobertaVant
+"""want""","Dipolog, Philippines",RobertaVant
+"""been""","Pietranera, France",RobertaVant
+"""want""","Santa Barbara, CA, USA",RobertaVant
+"""want""","Saint-Jean-de-la-Ruelle, France",RobertaVant
+"""want""","Cancun, Mexico",RobertaVant
+"""want""","Lisbon, Portugal",RobertaVant
+"""want""","San Salvador, El Salvador",RobertaVant
+"""been""","Positano, Italy",RobertaVant
+"""been""","Civitavecchia, Italy",RobertaVant
+"""been""","Pozzuoli, Italy",RobertaVant
+"""want""","Managua, Nicaragua",RobertaVant
+"""want""","Las Vegas, NV, USA",RobertaVant
+"""want""","Mexico City, Mexico",RobertaVant
+"""want""","Lucerne, Switzerland",RobertaVant
+"""want""","Deville-les-Rouen, France",RobertaVant
+"""want""","Pirenopolis, Brazil",RobertaVant
+"""want""","Bengaluru, India",RobertaVant
+"""been""","Portoferraio, Italy",RobertaVant
+"""been""","Anagni, Italy",RobertaVant
+"""want""","Riga, Latvia",RobertaVant
+"""want""","Doi Saket, Thailand",RobertaVant
+"""want""","Limone sul Garda, Italy",RobertaVant
+"""been""","Caserta, Italy",RobertaVant
+"""want""","Marsa Alam, Egypt",RobertaVant
+"""want""","Lindos, Greece",RobertaVant
+"""want""","Abidjan, Ivory Coast",RobertaVant
+"""been""","Montecatini Terme, Italy",RobertaVant
+"""want""","Volterra, Italy",RobertaVant
+"""want""","Nelspruit, South Africa",RobertaVant
+"""want""","Oslo, Norway",RobertaVant
+"""want""","Kochi (Cochin), India",RobertaVant
+"""want""","Manchester, UK",RobertaVant
+"""been""","Orbetello, Italy",RobertaVant
+"""want""","Tulum, Mexico",RobertaVant
+"""want""","Fort Myers, FL, USA",RobertaVant
+"""want""","San Jose, CA, USA",RobertaVant
+"""want""","Surfers Paradise, Australia",RobertaVant
+"""want""","Mae Rim, Thailand",RobertaVant
+"""want""","Rovinj, Croatia",RobertaVant
+"""been""","Viterbo, Italy",RobertaVant
+"""want""","Vila, Brazil",RobertaVant
+"""been""","Paestum, Italy",RobertaVant
+"""been""","Cefalu, Italy",RobertaVant
+"""want""","Suizhong County, China",RobertaVant
+"""want""","Basel, Switzerland",RobertaVant
+"""want""","Punta Arenas, Chile",RobertaVant
+"""been""","Orvieto, Italy",RobertaVant
+"""want""","Tavira, Portugal",RobertaVant
+"""want""","Sikinos, Greece",RobertaVant
+"""want""","Kansas City, MO, USA",RobertaVant
+"""want""","Fort Lauderdale, FL, USA",RobertaVant
+"""want""","Montreal, Quebec, Canada",RobertaVant
+"""want""","Shanghai, China",RobertaVant
+"""want""","Prague, Czech Republic",RobertaVant
+"""want""","Lanzhou, China",RobertaVant
+"""want""","Vienna, Austria",RobertaVant
+"""been""","Torre Del Greco, Italy",RobertaVant
+"""been""","Torre Canne, Italy",RobertaVant
+"""want""","Praia do Forte, Brazil",RobertaVant
+"""want""","Ushuaia, Argentina",RobertaVant
+"""want""","Krakow, Poland",RobertaVant
+"""been""","Croydon, UK",RobertaVant
+"""want""","Bel Ombre, Africa",RobertaVant
+"""want""","Reno, NV, USA",RobertaVant
+"""been""","Ferentino, Italy",RobertaVant
+"""been""","Tropea, Italy",RobertaVant
+"""been""","Massa Lubrense, Italy",RobertaVant
+"""want""","Hindas, Sweden",RobertaVant
+"""want""","Bayan County, China",RobertaVant
+"""want""","Omaruru, Namibia",RobertaVant
+"""want""","Vallenar, Chile",RobertaVant
+"""want""","Quito, Ecuador",RobertaVant
+"""want""","Chaweng, Thailand",RobertaVant
+"""want""","Cuenca, Ecuador",RobertaVant
+"""want""","Toulouse, France",RobertaVant
+"""want""","Budapest, Hungary",RobertaVant
+"""want""","Bin County, China",RobertaVant
+"""want""","Lourdes, France",RobertaVant
+"""want""","Buenos Aires, Argentina",RobertaVant
+"""want""","Vieste, Italy",RobertaVant
+"""want""","Villasimius, Italy",RobertaVant
+"""been""","Ostuni, Italy",RobertaVant
+"""want""","Gweru, Zimbabwe",RobertaVant
+"""want""","Chiang Dao, Thailand",RobertaVant
+"""want""","Red Rock, Ontario, Canada",RobertaVant
+"""want""","Bandung, Indonesia",RobertaVant
+"""want""","Malabo, Equatorial Guinea",RobertaVant
+"""want""","Lima, Peru",RobertaVant
+"""want""","Monastir, Tunisia",RobertaVant
+"""want""","Grenoble, France",RobertaVant
+"""want""","Ljubljana, Slovenia",RobertaVant
+"""been""","Bastia, France",RobertaVant
+"""want""","Jacksonville, FL, USA",RobertaVant
+"""want""","Chamonix, France",RobertaVant
+"""been""","Ajaccio, France",RobertaVant
+"""want""","Esquel, Argentina",RobertaVant
+"""want""","Cairo, Egypt",RobertaVant
+"""want""","Maguhdhuvaa, Asia",RobertaVant
+"""want""","Miami Beach, FL, USA",RobertaVant
+"""want""","Miami, FL, USA",RobertaVant
+"""want""","Salt Lake City, UT, USA",RobertaVant
+"""want""","Montevideo, Uruguay",RobertaVant
+"""want""","Giza, Egypt",RobertaVant
+"""been""","Amsterdam, The Netherlands",RobertaVant
+"""want""","Hopkins, Belize",RobertaVant
+"""want""","Paris, France",RobertaVant
+"""want""","Southampton, UK",RobertaVant
+"""want""","Portsmouth, UK",RobertaVant
+"""want""","Skiathos Town, Greece",RobertaVant
+"""want""","Luxor, Egypt",RobertaVant
+"""want""","Montpellier, France",RobertaVant
+"""want""","Antiguo Cuscatlan, El Salvador",RobertaVant
+"""been""","Spoleto, Italy",RobertaVant
+"""been""","Salzburg, Austria",RobertaVant
+"""want""","Mombasa, Kenya",RobertaVant
+"""been"",""want""","Beijing, China",RobertaVant
+"""want""","Kas, Turkey",RobertaVant
+"""want""","Nashville, TN, USA",RobertaVant
+"""been""","Innsbruck, Austria",RobertaVant
+"""want""","Antalya, Turkey",RobertaVant
+"""want""","Dresden, Germany",RobertaVant
+"""been"",""fave""","Ko Pha Ngan, Thailand",RobertaVant
+"""want""","Baia Sardinia, Italy",RobertaVant
+"""want""","Kisumu, Kenya",RobertaVant
+"""want""","Hong Kong, China",RobertaVant
+"""want""","Bar Harbor, ME, USA",RobertaVant
+"""want""","Santander, Spain",RobertaVant
+"""want""","Saint-Tropez, France",RobertaVant
+"""been""","Brighton, UK",RobertaVant
+"""want""","Kathmandu, Nepal",RobertaVant
+"""want""","Brooklyn, NY, USA",RobertaVant
+"""want""","Folegandros, Greece",RobertaVant
+"""want""","Orleans, France",RobertaVant
+"""been""","Toledo, Spain",RobertaVant
+"""want""","La Maddalena, Italy",RobertaVant
+"""want""","Kabale, Uganda",RobertaVant
+"""want""","Copenhagen, Denmark",RobertaVant
+"""want""","Pointe aux Canonniers, Africa",RobertaVant
+"""want""","Salvaterra, Brazil",RobertaVant
+"""want""","Astipalea, Greece",RobertaVant
+"""want""","Lausanne, Switzerland",RobertaVant
+"""been"",""want""","San Francisco, CA, USA",RobertaVant
+"""want""","Sun Valley, ID, USA",RobertaVant
+"""want""","Santa Cruz, Nicaragua",RobertaVant
+"""want""","Girona, Spain",RobertaVant
+"""want""","Altagracia, Nicaragua",RobertaVant
+"""want""","Pienza, Italy",RobertaVant
+"""been""","Barcelona, Spain",RobertaVant
+"""been""","Sant'Agnello, Italy",RobertaVant
+"""want""","Nyalam County, China",RobertaVant
+"""want""","Harlowton, MT, USA",RobertaVant
+"""want""","Belem, Brazil",RobertaVant
+"""want""","Laguna Beach, CA, USA",RobertaVant
+"""want""","Skyros Town, Greece",RobertaVant
+"""want""","Molos, Greece",RobertaVant
+"""want""","Formentera, Spain",RobertaVant
+"""want""","Athens, Greece",RobertaVant
+"""been""","Bonifacio, France",RobertaVant
+"""want""","Kakamega, Kenya",RobertaVant
+"""want""","Castro, Chile",RobertaVant
+"""want""","La Jolla, CA, USA",RobertaVant
+"""want""","Plymouth, UK",RobertaVant
+"""want""","Bruges, Belgium",RobertaVant
+"""want""","Flagstaff, AZ, USA",RobertaVant
+"""want""","Buffalo, NY, USA",RobertaVant
+"""want""","Rotorua, New Zealand",RobertaVant
+"""want""","Khao Lak, Thailand",RobertaVant
+"""want""","Menton, France",RobertaVant
+"""want""","Heraklion, Greece",RobertaVant
+"""want""","Monaco-Ville, Monaco",RobertaVant
+"""want""","Nice, France",RobertaVant
+"""been""","Tossa de Mar, Spain",RobertaVant
+"""want""","Acheroynes, Greece",RobertaVant
+"""been""","Pioppi, Italy",RobertaVant
+"""want""","Nyaung U, Myanmar",RobertaVant
+"""want""","Hua Hin, Thailand",RobertaVant
+"""want""","Chachapoyas, Peru",RobertaVant
+"""want""","Skopelos, Greece",RobertaVant
+"""want""","Leting  County, China",RobertaVant
+"""want""","Johannesburg, South Africa",RobertaVant
+"""want""","Boston, MA, USA",RobertaVant
+"""want""","Tokyo, Japan",RobertaVant
+"""want""","New Orleans, LA, USA",RobertaVant
+"""want""","Saffle, Sweden",RobertaVant
+"""want""","Berlin, Germany",RobertaVant
+"""been""","Seville, Spain",RobertaVant
+"""want""","Sydney, Australia",RobertaVant
+"""want""","Jordan, MT, USA",RobertaVant
+"""been""","Granada, Spain",RobertaVant
+"""want""","Niagara Falls, Ontario, Canada",RobertaVant
+"""want""","Aix-en-Provence, France",RobertaVant
+"""want""","Nabq Bay, Egypt",RobertaVant
+"""want""","Casablanca, Morocco",RobertaVant
+"""been"",""fave""","Istanbul, Turkey",RobertaVant
+"""want""","West Palm Beach, FL, USA",RobertaVant
+"""want""","Fes, Morocco",RobertaVant
+"""want""","Marrakech, Morocco",RobertaVant
+"""want""","Oxford, UK",RobertaVant
+"""want""","St. Petersburg, FL, USA",RobertaVant
+"""want""","Bergen, Norway",RobertaVant
+"""want""","Lakewood, CO, USA",RobertaVant
+"""want""","Seattle, WA, USA",RobertaVant
+"""want""","Taguatinga, Brazil",RobertaVant
+"""want""","Antibes, France",RobertaVant
+"""want""","San Sebastian - Donostia, Spain",RobertaVant
+"""want""","Aberdeen, UK",RobertaVant
+"""want""","Clyde Park, MT, USA",RobertaVant
+"""want""","Bilbao, Spain",RobertaVant
+"""want""","Avignon, France",RobertaVant
+"""want""","San Diego, CA, USA",RobertaVant
+"""want""","Sheffield, UK",RobertaVant
+"""want""","Pretoria, South Africa",RobertaVant
+"""want""","Galissas, Greece",RobertaVant
+"""want""","Honolulu, HI, USA",RobertaVant
+"""want""","Puerto de Santiago, Spain",RobertaVant
+"""want""","Bratislava, Slovakia",RobertaVant
+"""want""","Dar es Salaam, Tanzania",RobertaVant
+"""been""","Salerno, Italy",RobertaVant
+"""been""","Amalfi, Italy",RobertaVant
+"""want""","Chicago, IL, USA",RobertaVant
+"""been"",""want""","Rotterdam, The Netherlands",RobertaVant
+"""been"",""fave""","Los Angeles, CA, USA",RobertaVant
+"""want""","Japaratinga, Brazil",RobertaVant
+"""want""","Jiri, Nepal",RobertaVant
+"""want""","Antwerp, Belgium",RobertaVant
+"""been""","Procida, Italy",RobertaVant
+"""want""","Hoi An, Vietnam",RobertaVant
+"""want""","Leicester, UK",RobertaVant
+"""been""","Pompeii, Italy",RobertaVant
+"""been"",""want""","New York City, NY, USA",RobertaVant
+"""been""","Naples, Italy",RobertaVant
+"""been""","Capri, Italy",RobertaVant
+"""been""","Sorrento, Italy",RobertaVant
+"""want""","Anchorage, AK, USA",RobertaVant
+"""want""","Munich, Germany",RobertaVant
+"""been""","London, UK",RobertaVant
+"""want""","Tarapoto, Peru",RobertaVant
+"""been""","Elba Island, Italy",RobertaVant
+"""been""","Tivoli, Italy",RobertaVant
+"""been""","Rome, Italy",RobertaVant
+"""been""","Gaeta, Italy",RobertaVant
+"""want""","Stockholm, Sweden",RobertaVant
+"""want""","Victoria Falls, Zimbabwe",RobertaVant
+"""want""","Llandudno, UK",RobertaVant
+"""want""","Cambridge, UK",RobertaVant
+"""been""","Cadiz, Spain",RobertaVant
+"""been""","Cordoba, Spain",RobertaVant
+"""been""","Vatican City, Vatican City",RobertaVant
+"""want""","Rio de Janeiro, Brazil",RobertaVant
+"""want""","Salina, UT, USA",RobertaVant
+"""been""","Marbella, Spain",RobertaVant
+"""been""","Malaga, Spain",RobertaVant
+"""want""","Mykonos Town, Greece",RobertaVant
+"""want""","Phoenix, AZ, USA",RobertaVant
+"""want""","Ouagadougou, Burkina Faso",RobertaVant
+"""want""","Pueblo, CO, USA",RobertaVant
+"""want""","Uijeongbu, South Korea",RobertaVant
+"""been"",""want""","Catania, Italy",RobertaVant
+"""been""","Dover, UK",RobertaVant
+"""want""","Karavostasis, Greece",RobertaVant
+"""want""","Canterbury, UK",RobertaVant
+"""want""","Riverton, WY, USA",RobertaVant
+"""want""","San Vito, Costa Rica",RobertaVant
+"""want""","Rincon, Puerto Rico",RobertaVant
+"""want""","Valencia, Spain",RobertaVant
+"""been""","Messina, Italy",RobertaVant
+"""want""","Wichita, KS, USA",RobertaVant
+"""want""","Playa Paraiso, Mexico",RobertaVant
+"""want""","Armacao dos Buzios, Brazil",RobertaVant
+"""been""","Pescara, Italy",RobertaVant
+"""been""","Syracuse, Italy",RobertaVant
+"""been""","Palermo, Italy",RobertaVant
+"""want""","Balaclava, Africa",RobertaVant
+"""want""","Casper, WY, USA",RobertaVant
+"""been""","Pisa, Italy",RobertaVant
+"""been""","Reggio Calabria, Italy",RobertaVant
+"""been""","Livorno, Italy",RobertaVant
+"""been""","Florence, Italy",RobertaVant
+"""want""","Trou aux Biches, Africa",RobertaVant
+"""want""","Sheridan, WY, USA",RobertaVant
+"""want""","Philadelphia, PA, USA",RobertaVant
+"""want""","Matera, Italy",RobertaVant
+"""been""","Taormina, Italy",RobertaVant
+"""want""","Le Morne, Africa",RobertaVant
+"""been""","Calvi, France",RobertaVant
+"""want""","Kigali, Rwanda",RobertaVant
+"""want""","Puerto Aventuras, Mexico",RobertaVant
+"""want""","Bhaktapur, Nepal",RobertaVant
+"""been""","Porto-Vecchio, France",RobertaVant
+"""want""","Abuja, Nigeria",RobertaVant
+"""want""","Meru National Park, Kenya",RobertaVant
+"""want""","Monterey, CA, USA",RobertaVant
+"""want""","Pangkalan Bun, Indonesia",RobertaVant
+"""want""","Glasgow, UK",RobertaVant
+"""want""","Cajamarca, Peru",RobertaVant
+"""been""","Gallipoli, Italy",RobertaVant
+"""been""","Padua, Italy",RobertaVant
+"""want""","Timbuktu, Mali",RobertaVant
+"""want""","Lockport, Manitoba, Canada",RobertaVant
+"""want""","Salvador, Brazil",RobertaVant
+"""want""","Helsinki, Finland",RobertaVant
+"""been""","Madrid, Spain",RobertaVant
+"""want""","Yokohama, Japan",RobertaVant
+"""want""","Inverness, UK",RobertaVant
+"""been""","Figarella, France",RobertaVant
+"""want""","Winchester, UK",RobertaVant
+"""been""","Verona, Italy",RobertaVant
+"""been""","Venice, Italy",RobertaVant
+"""been""","Piano di Sorrento, Italy",RobertaVant
+"""been""","Taranto, Italy",RobertaVant
+"""want""","Rusumo, Rwanda",RobertaVant
+"""want""","Naha, Japan",RobertaVant
+"""want""","Flic En Flac, Africa",RobertaVant
+"""want""","Santiago de Veraguas, Panama",RobertaVant
+"""want""","Belle Mare, Africa",RobertaVant
+"""want""","Cebu City, Philippines",RobertaVant
+"""want""","Havana, Cuba",RobertaVant
+"""want""","Muju-gun, South Korea",RobertaVant
+"""been""","Milan, Italy",RobertaVant
+"""want""","Puerto Vallarta, Mexico",RobertaVant
+"""want""","Maceio, Brazil",RobertaVant
+"""want""","Hermoupolis, Greece",RobertaVant
+"""want""","Ibiza Town, Spain",RobertaVant
+"""want""","Akumal, Mexico",RobertaVant
+"""want""","Swakopmund, Namibia",RobertaVant
+"""want""","Mrauk U, Myanmar",RobertaVant
+"""want""","Big Timber, MT, USA",RobertaVant
+"""want""","Walvis Bay, Namibia",RobertaVant
+"""want""","Coventry, UK",RobertaVant
+"""want""","Saint-Gilles-Les-Bains, Reunion Island",RobertaVant
+"""been""","Ao Nang, Thailand",RobertaVant
+"""want""","Edinburgh, UK",RobertaVant
+"""want""","Melbourne, Australia",RobertaVant
+"""want""","Perth, Australia",RobertaVant
+"""want""","Marechal Deodoro, Brazil",RobertaVant
+"""want""","Brasilia, Brazil",RobertaVant
+"""want""","Foz do Iguacu, Brazil",RobertaVant
+"""want""","Orange Beach, AL, USA",RobertaVant
+"""want""","Happy Valley, OR, USA",RobertaVant
+"""want""","Vernazza, Italy",RobertaVant
+"""want""","Cabo San Lucas, Mexico",RobertaVant
+"""want""","Siem Reap, Cambodia",RobertaVant
+"""want""","Moscow, Russia",RobertaVant
+"""been""","Playa de las Americas, Spain",RobertaVant
+"""want""","Placencia, Belize",RobertaVant
+"""been""","Bangkok, Thailand",RobertaVant
+"""want""","Dangriga, Belize",RobertaVant
+"""want""","Rapallo, Italy",RobertaVant
+"""want""","Portofino, Italy",RobertaVant
+"""want""","Genoa, Italy",RobertaVant
+"""been""","Ischia, Italy",RobertaVant
+"""want""","Manaus, Brazil",RobertaVant
+"""been""","Forio, Italy",RobertaVant
+"""want""","Ilha Grande, Brazil",RobertaVant
+"""want""","Hustai National Park, Mongolia",RobertaVant
+"""want""","Parnaiba, Brazil",RobertaVant
+"""want""","Rio Preto da Eva, Brazil",RobertaVant
+"""want""","Palau, Italy",RobertaVant
+"""want""","Nha Trang, Vietnam",RobertaVant
+"""want""","Antananarivo, Madagascar",RobertaVant
+"""want""","Como, Italy",RobertaVant
+"""want""","Bellagio, Italy",RobertaVant
+"""want""","Kolkata (Calcutta), India",RobertaVant
+"""want""","Chennai (Madras), India",RobertaVant
+"""want""","Jaipur, India",RobertaVant
+"""want""","Mumbai, India",RobertaVant
+"""want""","Porto de Galinhas, Brazil",RobertaVant
+"""want""","New Delhi, India",RobertaVant
+"""want""","Ho Chi Minh City, Vietnam",RobertaVant

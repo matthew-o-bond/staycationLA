@@ -1,0 +1,417 @@
+tag,place,user
+"""been""","Barcelona, Spain",GaCare
+"""been""","Sanremo, Italy",GaCare
+"""been""","Dusseldorf, Germany",GaCare
+"""been""","Marseille, France",GaCare
+"""been""","Cologne, Germany",GaCare
+"""been""","Jersey City, NJ, USA",GaCare
+"""been""","Spokane, WA, USA",GaCare
+"""been""","Perdido Key, FL, USA",GaCare
+"""been""","Tucson, AZ, USA",GaCare
+"""been""","Pensacola, FL, USA",GaCare
+"""been""","Coronado, CA, USA",GaCare
+"""been""","Plano, TX, USA",GaCare
+"""been""","Austin, TX, USA",GaCare
+"""been""","Tallahassee, FL, USA",GaCare
+"""been""","Costa Mesa, CA, USA",GaCare
+"""been""","Santa Fe, NM, USA",GaCare
+"""been""","Salem, MA, USA",GaCare
+"""been""","San Francisco, CA, USA",GaCare
+"""been""","San Antonio, TX, USA",GaCare
+"""been""","Lyon, France",GaCare
+"""been""","Zurich, Switzerland",GaCare
+"""been""","Chamonix, France",GaCare
+"""been""","Amsterdam, The Netherlands",GaCare
+"""been""","Breckenridge, CO, USA",GaCare
+"""been""","Blue Ridge, GA, USA",GaCare
+"""been""","Knoxville, TN, USA",GaCare
+"""been""","Glenwood Springs, CO, USA",GaCare
+"""been""","Boulder, CO, USA",GaCare
+"""been""","Versailles, France",GaCare
+"""been""","Paris, France",GaCare
+"""been""","New Braunfels, TX, USA",GaCare
+"""been""","Charleston, SC, USA",GaCare
+"""been""","Grand Junction, CO, USA",GaCare
+"""been""","Gatlinburg, TN, USA",GaCare
+"""been""","Burbank, CA, USA",GaCare
+"""been""","Panama City Beach, FL, USA",GaCare
+"""been""","Panama City, FL, USA",GaCare
+"""been""","Waikoloa, HI, USA",GaCare
+"""been""","Princeton, NJ, USA",GaCare
+"""been""","Pensacola Beach, FL, USA",GaCare
+"""been""","Greensboro, NC, USA",GaCare
+"""been""","Gothenburg, Sweden",GaCare
+"""been""","Monaco-Ville, Monaco",GaCare
+"""been""","Half Moon Bay, CA, USA",GaCare
+"""been""","Laguna Beach, CA, USA",GaCare
+"""been""","Vail, CO, USA",GaCare
+"""been""","Monte-Carlo, Monaco",GaCare
+"""been""","Nice, France",GaCare
+"""been""","Flagstaff, AZ, USA",GaCare
+"""been""","Buffalo, NY, USA",GaCare
+"""been""","Houston, TX, USA",GaCare
+"""been""","Palm Beach Gardens, FL, USA",GaCare
+"""been""","Palm Beach, FL, USA",GaCare
+"""been""","Kapaa, HI, USA",GaCare
+"""been""","Hot Springs, AR, USA",GaCare
+"""been""","Pigeon Forge, TN, USA",GaCare
+"""been""","Columbia, SC, USA",GaCare
+"""been""","Ithaca, NY, USA",GaCare
+"""been""","Newport, RI, USA",GaCare
+"""been""","Wailea, HI, USA",GaCare
+"""been""","Saint-Tropez, France",GaCare
+"""been""","La Jolla, CA, USA",GaCare
+"""been""","Siesta Key, FL, USA",GaCare
+"""been""","Orlando, FL, USA",GaCare
+"""been""","Telluride, CO, USA",GaCare
+"""been""","Honolulu, HI, USA",GaCare
+"""been""","Asheville, NC, USA",GaCare
+"""been""","Aventura, FL, USA",GaCare
+"""been""","Kapalua, HI, USA",GaCare
+"""been""","New Orleans, LA, USA",GaCare
+"""been""","Williamsburg, VA, USA",GaCare
+"""been""","Amarillo, TX, USA",GaCare
+"""been""","Detroit, MI, USA",GaCare
+"""been""","Boston, MA, USA",GaCare
+"""been""","Princeville, HI, USA",GaCare
+"""been""","Hamburg, Germany",GaCare
+"""been""","Myrtle Beach, SC, USA",GaCare
+"""been""","Ocean City, NJ, USA",GaCare
+"""been""","Tel Aviv, Israel",GaCare
+"""been""","Cairns, Australia",GaCare
+"""been""","Fort Lauderdale, FL, USA",GaCare
+"""been""","Frankfurt, Germany",GaCare
+"""been""","Jerusalem, Israel",GaCare
+"""been""","Brisbane, Australia",GaCare
+"""been""","Eilat, Israel",GaCare
+"""been""","Bilbao, Spain",GaCare
+"""been""","Ixtapa, Mexico",GaCare
+"""been""","Fort Myers Beach, FL, USA",GaCare
+"""been""","Kissimmee, FL, USA",GaCare
+"""been""","Carmel, CA, USA",GaCare
+"""been""","San Jose, CA, USA",GaCare
+"""been""","Desert Hot Springs, CA, USA",GaCare
+"""been""","Fort Myers, FL, USA",GaCare
+"""been""","Sydney, Australia",GaCare
+"""been""","St. Augustine, FL, USA",GaCare
+"""been""","Denver, CO, USA",GaCare
+"""been""","Fort Walton Beach, FL, USA",GaCare
+"""been""","Aix-en-Provence, France",GaCare
+"""been""","Carlsbad, CA, USA",GaCare
+"""been""","Palma de Mallorca, Spain",GaCare
+"""been""","Cannes, France",GaCare
+"""been""","Athens, Greece",GaCare
+"""been""","Eze, France",GaCare
+"""been""","Bruges, Belgium",GaCare
+"""been""","Rochester, NY, USA",GaCare
+"""been""","Durban, South Africa",GaCare
+"""been""","Dana Point, CA, USA",GaCare
+"""been""","West Hollywood, CA, USA",GaCare
+"""been""","Port Douglas, Australia",GaCare
+"""been""","Naples, FL, USA",GaCare
+"""been""","White House, Jamaica",GaCare
+"""been""","Jacksonville, FL, USA",GaCare
+"""been""","Corpus Christi, TX, USA",GaCare
+"""been""","Port Saint Lucie, FL, USA",GaCare
+"""been""","Salt Lake City, UT, USA",GaCare
+"""been""","North Myrtle Beach, SC, USA",GaCare
+"""been""","North Charleston, SC, USA",GaCare
+"""been""","Cordoba, Spain",GaCare
+"""been""","Vatican City, Vatican City",GaCare
+"""been""","Cardiff, UK",GaCare
+"""been""","Nuremberg, Germany",GaCare
+"""been""","Rome, Italy",GaCare
+"""been""","Newark, NJ, USA",GaCare
+"""been""","Boone, NC, USA",GaCare
+"""been""","Greenville, SC, USA",GaCare
+"""been""","Jacksonville Beach, FL, USA",GaCare
+"""been""","Marbella, Spain",GaCare
+"""been""","Nashville, TN, USA",GaCare
+"""been""","Brussels, Belgium",GaCare
+"""been""","York, UK",GaCare
+"""been""","Stockholm, Sweden",GaCare
+"""been""","Treasure Island, FL, USA",GaCare
+"""been""","Anaheim, CA, USA",GaCare
+"""been""","Pompano Beach, FL, USA",GaCare
+"""been""","Colorado Springs, CO, USA",GaCare
+"""been""","Rosemont, IL, USA",GaCare
+"""been""","Munich, Germany",GaCare
+"""been""","Savannah, GA, USA",GaCare
+"""been""","Blowing Rock, NC, USA",GaCare
+"""been""","Baltimore, MD, USA",GaCare
+"""been""","Albuquerque, NM, USA",GaCare
+"""been""","Wurzburg, Germany",GaCare
+"""been""","Sonoma, CA, USA",GaCare
+"""been""","Miami, FL, USA",GaCare
+"""been""","Tampa, FL, USA",GaCare
+"""been""","Johannesburg, South Africa",GaCare
+"""been""","Seville, Spain",GaCare
+"""been""","Miami Beach, FL, USA",GaCare
+"""been""","Berlin, Germany",GaCare
+"""been""","Calistoga, CA, USA",GaCare
+"""been""","Mykonos Town, Greece",GaCare
+"""been""","Providence, RI, USA",GaCare
+"""been""","Brooklyn, NY, USA",GaCare
+"""been""","Palermo, Italy",GaCare
+"""been""","Taos, NM, USA",GaCare
+"""been""","Hershey, PA, USA",GaCare
+"""been""","Pisa, Italy",GaCare
+"""been""","Florence, Italy",GaCare
+"""been""","Oia, Greece",GaCare
+"""been""","Philadelphia, PA, USA",GaCare
+"""been""","Louisville, KY, USA",GaCare
+"""been""","Gettysburg, PA, USA",GaCare
+"""been""","Helen, GA, USA",GaCare
+"""been""","Valencia, Spain",GaCare
+"""been""","Portland, ME, USA",GaCare
+"""been""","Sorrento, Italy",GaCare
+"""been""","Capri, Italy",GaCare
+"""been""","Amalfi, Italy",GaCare
+"""been""","West Yellowstone, MT, USA",GaCare
+"""been""","London, UK",GaCare
+"""been""","Pompeii, Italy",GaCare
+"""been""","Tunica, MS, USA",GaCare
+"""been""","Naples, Italy",GaCare
+"""been""","Santa Rosa, CA, USA",GaCare
+"""been""","Puerto Aventuras, Mexico",GaCare
+"""been""","Santa Monica, CA, USA",GaCare
+"""been""","Clearwater, FL, USA",GaCare
+"""been""","Roanoke, VA, USA",GaCare
+"""been""","Roswell, GA, USA",GaCare
+"""been""","Cocoa Beach, FL, USA",GaCare
+"""been""","Modica, Italy",GaCare
+"""been""","Lauderdale-By-The-Sea, FL, USA",GaCare
+"""been""","Venice, Italy",GaCare
+"""been""","Verona, Italy",GaCare
+"""been""","Eugene, OR, USA",GaCare
+"""been""","Mont Tremblant, Quebec, Canada",GaCare
+"""been""","Yokohama, Japan",GaCare
+"""been""","Madrid, Spain",GaCare
+"""been""","Vicenza, Italy",GaCare
+"""been""","Santa Cruz, CA, USA",GaCare
+"""been""","Niagara-on-the-Lake, Ontario, Canada",GaCare
+"""been""","Norfolk, VA, USA",GaCare
+"""been""","Rincon, Puerto Rico",GaCare
+"""been""","Santa Barbara, CA, USA",GaCare
+"""been""","Niagara Falls, Ontario, Canada",GaCare
+"""been""","Beverly Hills, CA, USA",GaCare
+"""been""","Istanbul, Turkey",GaCare
+"""been""","Tokyo, Japan",GaCare
+"""been""","Cape Coral, FL, USA",GaCare
+"""been""","Cape Canaveral, FL, USA",GaCare
+"""been""","Catania, Italy",GaCare
+"""been""","Erie, PA, USA",GaCare
+"""been""","Gainesville, FL, USA",GaCare
+"""been""","Virginia Beach, VA, USA",GaCare
+"""been""","Hilo, HI, USA",GaCare
+"""been""","Piano di Sorrento, Italy",GaCare
+"""been""","Mobile, AL, USA",GaCare
+"""been""","Perth, Australia",GaCare
+"""been""","Birmingham, UK",GaCare
+"""been""","Edinburgh, UK",GaCare
+"""been""","Turin, Italy",GaCare
+"""been""","Melbourne, Australia",GaCare
+"""been""","Winston Salem, NC, USA",GaCare
+"""been""","Kailua-Kona, HI, USA",GaCare
+"""been""","Cincinnati, OH, USA",GaCare
+"""been""","Kihei, HI, USA",GaCare
+"""been""","Milan, Italy",GaCare
+"""been""","San Diego, CA, USA",GaCare
+"""been""","Lahaina, HI, USA",GaCare
+"""been""","Seattle, WA, USA",GaCare
+"""been""","Charlottesville, VA, USA",GaCare
+"""been""","Maggie Valley, NC, USA",GaCare
+"""been""","Wilmington, NC, USA",GaCare
+"""been""","Calgary, Alberta, Canada",GaCare
+"""been""","St. George, UT, USA",GaCare
+"""been""","Indianapolis, IN, USA",GaCare
+"""been""","Trento, Italy",GaCare
+"""been""","New York City, NY, USA",GaCare
+"""been""","Omaha, NE, USA",GaCare
+"""been""","Little Rock, AR, USA",GaCare
+"""been""","Wisconsin Dells, WI, USA",GaCare
+"""been""","Shinjuku, Japan",GaCare
+"""been""","El Paso, TX, USA",GaCare
+"""been""","Shibuya, Japan",GaCare
+"""been""","Ventura, CA, USA",GaCare
+"""been""","Whistler, British Columbia, Canada",GaCare
+"""been""","Como, Italy",GaCare
+"""been""","Memphis, TN, USA",GaCare
+"""been""","Hollywood, FL, USA",GaCare
+"""been""","Cambridge, MA, USA",GaCare
+"""been""","Delray Beach, FL, USA",GaCare
+"""been""","Portofino, Italy",GaCare
+"""been""","Winnipeg, Manitoba, Canada",GaCare
+"""been""","Richmond, VA, USA",GaCare
+"""been""","Atlanta, GA, USA",GaCare
+"""been""","Daytona Beach, FL, USA",GaCare
+"""been""","San Jose del Cabo, Mexico",GaCare
+"""been""","Washington DC, DC, USA",GaCare
+"""been""","Cabo San Lucas, Mexico",GaCare
+"""been""","Dayton, OH, USA",GaCare
+"""been""","Bradenton, FL, USA",GaCare
+"""been""","Victoria, British Columbia, Canada",GaCare
+"""been""","Vancouver, British Columbia, Canada",GaCare
+"""been""","Seoul, South Korea",GaCare
+"""been""","Carolina Beach, NC, USA",GaCare
+"""been""","Atlantic City, NJ, USA",GaCare
+"""been""","Huntsville, AL, USA",GaCare
+"""been""","Big Sur, CA, USA",GaCare
+"""been""","Shreveport, LA, USA",GaCare
+"""been""","Modena, Italy",GaCare
+"""been""","Osaka, Japan",GaCare
+"""been""","Harrisburg, PA, USA",GaCare
+"""been""","Nagasaki, Japan",GaCare
+"""been""","Lake Placid, NY, USA",GaCare
+"""been""","Fukuoka, Japan",GaCare
+"""been""","Palm - Eagle Beach, Aruba",GaCare
+"""been""","Seven Mile Beach, Cayman Islands",GaCare
+"""been""","Genoa, Italy",GaCare
+"""been""","Oranjestad, Aruba",GaCare
+"""been""","Sapporo, Japan",GaCare
+"""been""","Kobe, Japan",GaCare
+"""been""","Hiroshima, Japan",GaCare
+"""been""","Kyoto, Japan",GaCare
+"""been""","Niagara Falls, NY, USA",GaCare
+"""been""","St. John's, Antigua and Barbuda",GaCare
+"""been""","Mont-Saint-Michel, France",GaCare
+"""been""","Hyannis, MA, USA",GaCare
+"""been""","Huatulco, Mexico",GaCare
+"""been""","Raleigh, NC, USA",GaCare
+"""been""","Mazatlan, Mexico",GaCare
+"""been""","Puerto Vallarta, Mexico",GaCare
+"""been""","Bradenton Beach, FL, USA",GaCare
+"""been""","Perugia, Italy",GaCare
+"""been""","Banff, Alberta, Canada",GaCare
+"""been""","Siena, Italy",GaCare
+"""been""","Bonita Springs, FL, USA",GaCare
+"""been""","Nagoya, Japan",GaCare
+"""been""","Anacapri, Italy",GaCare
+"""been""","Highlands, NC, USA",GaCare
+"""been""","Bologna, Italy",GaCare
+"""been""","Dallas, TX, USA",GaCare
+"""been""","Bozeman, MT, USA",GaCare
+"""been""","Montgomery, AL, USA",GaCare
+"""been""","Boca Raton, FL, USA",GaCare
+"""been""","Acapulco, Mexico",GaCare
+"""been""","South Lake Tahoe, CA, USA",GaCare
+"""been""","Palo Alto, CA, USA",GaCare
+"""been""","Ann Arbor, MI, USA",GaCare
+"""been""","Lancaster, PA, USA",GaCare
+"""been""","Runaway Bay, Jamaica",GaCare
+"""been""","Ocho Rios, Jamaica",GaCare
+"""been""","Montauk, NY, USA",GaCare
+"""been""","Montego Bay, Jamaica",GaCare
+"""been""","Negril, Jamaica",GaCare
+"""been""","Palm Desert, CA, USA",GaCare
+"""been""","Palm Springs, CA, USA",GaCare
+"""been""","Kingston, Jamaica",GaCare
+"""been""","Ferno, Italy",GaCare
+"""been""","Jackson, WY, USA",GaCare
+"""been""","Fiumicino, Italy",GaCare
+"""been""","Cleveland, OH, USA",GaCare
+"""been""","San Juan, Puerto Rico",GaCare
+"""been""","Nags Head, NC, USA",GaCare
+"""been""","Rancho Mirage, CA, USA",GaCare
+"""been""","Cherokee, NC, USA",GaCare
+"""been""","Charlotte, NC, USA",GaCare
+"""been""","Mendocino, CA, USA",GaCare
+"""been""","Rancho Palos Verdes, CA, USA",GaCare
+"""been""","Sainte-Anne, Martinique",GaCare
+"""been""","Interlaken, Switzerland",GaCare
+"""been""","Park City, UT, USA",GaCare
+"""been""","Provincetown, MA, USA",GaCare
+"""been""","Chattanooga, TN, USA",GaCare
+"""been""","Columbus, OH, USA",GaCare
+"""been""","Zermatt, Switzerland",GaCare
+"""been""","Oakland, CA, USA",GaCare
+"""been""","Castries, St. Lucia",GaCare
+"""been""","Oklahoma City, OK, USA",GaCare
+"""been""","Marietta, GA, USA",GaCare
+"""been""","St. Moritz, Switzerland",GaCare
+"""been""","Cancun, Mexico",GaCare
+"""been""","Vero Beach, FL, USA",GaCare
+"""been""","Lucerne, Switzerland",GaCare
+"""been""","Napa, CA, USA",GaCare
+"""been""","Mexico City, Mexico",GaCare
+"""been""","Oaxaca, Mexico",GaCare
+"""been""","Long Beach, CA, USA",GaCare
+"""been""","Venice, FL, USA",GaCare
+"""been""","Alexandria, VA, USA",GaCare
+"""been""","Baton Rouge, LA, USA",GaCare
+"""been""","Panama City, Panama",GaCare
+"""been""","Portland, OR, USA",GaCare
+"""been""","Huntington Beach, CA, USA",GaCare
+"""been""","Hot Springs, VA, USA",GaCare
+"""been""","Lafayette, LA, USA",GaCare
+"""been""","Sacramento, CA, USA",GaCare
+"""been""","Gulf Shores, AL, USA",GaCare
+"""been""","New Haven, CT, USA",GaCare
+"""been""","Phoenix, AZ, USA",GaCare
+"""been""","Toronto, Ontario, Canada",GaCare
+"""been""","Positano, Italy",GaCare
+"""been""","Tremezzina, Italy",GaCare
+"""been""","Bordeaux, France",GaCare
+"""been""","Strasbourg, France",GaCare
+"""been""","Paradise Island, Bahamas",GaCare
+"""been""","Nassau, Bahamas",GaCare
+"""been""","Augusta, GA, USA",GaCare
+"""been""","Geneva, Switzerland",GaCare
+"""been""","Cape Town Central, South Africa",GaCare
+"""been""","Port-au-Prince, Haiti",GaCare
+"""been""","Bern, Switzerland",GaCare
+"""been""","Playa del Carmen, Mexico",GaCare
+"""been""","Tulum, Mexico",GaCare
+"""been""","Monterey, CA, USA",GaCare
+"""been""","Freeport, Bahamas",GaCare
+"""been""","Adelaide, Australia",GaCare
+"""been""","Long Island City, NY, USA",GaCare
+"""been""","Montreal, Quebec, Canada",GaCare
+"""been""","Quebec City, Quebec, Canada",GaCare
+"""been""","Prague, Czech Republic",GaCare
+"""been""","Rose Hall, Jamaica",GaCare
+"""been""","Toulouse, France",GaCare
+"""been""","Puerto Rico, Spain",GaCare
+"""been""","West Chester, OH, USA",GaCare
+"""been""","Steamboat Springs, CO, USA",GaCare
+"""been""","Allentown, PA, USA",GaCare
+"""been""","Yountville, CA, USA",GaCare
+"""been""","Stuttgart, Germany",GaCare
+"""been""","Vienna, Austria",GaCare
+"""been""","Reno, NV, USA",GaCare
+"""been""","Milwaukee, WI, USA",GaCare
+"""been""","Sarasota, FL, USA",GaCare
+"""been""","Fort Worth, TX, USA",GaCare
+"""been""","Santa Rosa Beach, FL, USA",GaCare
+"""been""","Columbus, GA, USA",GaCare
+"""been""","Manchester, UK",GaCare
+"""been""","Goleta, CA, USA",GaCare
+"""been""","Scottsdale, AZ, USA",GaCare
+"""been""","Marina del Rey, CA, USA",GaCare
+"""been""","Sedona, AZ, USA",GaCare
+"""been""","Minneapolis, MN, USA",GaCare
+"""been""","Biloxi, MS, USA",GaCare
+"""been""","Kansas City, MO, USA",GaCare
+"""been""","Pittsburgh, PA, USA",GaCare
+"""been""","Montpellier, France",GaCare
+"""been""","Moraira, Spain",GaCare
+"""been""","Saint Augustine Beach, FL, USA",GaCare
+"""been""","St. Petersburg, FL, USA",GaCare
+"""been""","Annapolis, MD, USA",GaCare
+"""been""","St. Pete Beach, FL, USA",GaCare
+"""been""","Baden-Baden, Germany",GaCare
+"""been""","Ottawa, Ontario, Canada",GaCare
+"""been""","West Palm Beach, FL, USA",GaCare
+"""been""","Birmingham, AL, USA",GaCare
+"""been""","Carolina, Puerto Rico",GaCare
+"""been""","Heidelberg, Germany",GaCare
+"""been""","Los Angeles, CA, USA",GaCare
+"""been""","Chicago, IL, USA",GaCare
+"""been""","Aspen, CO, USA",GaCare
+"""been""","Galveston, TX, USA",GaCare
+"""been""","Newport Beach, CA, USA",GaCare
+"""been""","Durham, NC, USA",GaCare
+"""been""","Arlington, VA, USA",GaCare
+"""been""","Las Vegas, NV, USA",GaCare
+"""been""","Wildwood, NJ, USA",GaCare
+"""been""","Salzburg, Austria",GaCare

@@ -1,0 +1,508 @@
+tag,place,user
+"""been""","Montreal, Quebec, Canada",azzure
+"""been""","Quebec City, Quebec, Canada",azzure
+"""been""","Charlotte Amalie, U.S. Virgin Islands",azzure
+"""been""","St. Thomas, U.S. Virgin Islands",azzure
+"""been""","Vancouver, WA, USA",azzure
+"""been""","Crescent City, CA, USA",azzure
+"""been""","Laguna Beach, CA, USA",azzure
+"""been""","Brooklyn, NY, USA",azzure
+"""been""","SeaTac, WA, USA",azzure
+"""been""","Bar Harbor, ME, USA",azzure
+"""been""","El Portal, CA, USA",azzure
+"""been""","Saint Cloud, MN, USA",azzure
+"""been""","Brea, CA, USA",azzure
+"""been""","Sun Valley, ID, USA",azzure
+"""been""","Budapest, Hungary",azzure
+"""been"",""fave""","Kyiv (Kiev), Ukraine",azzure
+"""been""","Healdsburg, CA, USA",azzure
+"""been""","Ketchikan, AK, USA",azzure
+"""been""","Tusayan, AZ, USA",azzure
+"""been""","Sisters, OR, USA",azzure
+"""been""","West Glacier, MT, USA",azzure
+"""been""","Ithaca, NY, USA",azzure
+"""been""","San Francisco, CA, USA",azzure
+"""been""","Page, AZ, USA",azzure
+"""been""","Escondido, CA, USA",azzure
+"""been""","Front Royal, VA, USA",azzure
+"""been""","Thousand Oaks, CA, USA",azzure
+"""been""","Juneau, AK, USA",azzure
+"""been""","Ketchum, ID, USA",azzure
+"""been""","Twin Falls, ID, USA",azzure
+"""been""","Grand Rapids, MI, USA",azzure
+"""been""","Munising, MI, USA",azzure
+"""been""","Whitefish, MT, USA",azzure
+"""been""","Nelson, British Columbia, Canada",azzure
+"""been""","Hope, British Columbia, Canada",azzure
+"""been""","Three Rivers, CA, USA",azzure
+"""been""","Seaside, OR, USA",azzure
+"""been""","Luray, VA, USA",azzure
+"""been""","Cranbrook, British Columbia, Canada",azzure
+"""been""","Sitka, AK, USA",azzure
+"""been""","Salem, OR, USA",azzure
+"""been""","Chico, CA, USA",azzure
+"""been""","Volcano, HI, USA",azzure
+"""been""","Klamath, CA, USA",azzure
+"""been""","Anacortes, WA, USA",azzure
+"""been""","Mariposa, CA, USA",azzure
+"""been""","Marina del Rey, CA, USA",azzure
+"""been""","Sedona, AZ, USA",azzure
+"""been""","Mexico City, Mexico",azzure
+"""been""","Bern, Switzerland",azzure
+"""been""","Grass Valley, CA, USA",azzure
+"""been""","Yakima, WA, USA",azzure
+"""been""","Reno, NV, USA",azzure
+"""been""","Revelstoke, British Columbia, Canada",azzure
+"""been""","La Palma, CA, USA",azzure
+"""been""","La Mirada, CA, USA",azzure
+"""been""","Flagstaff, AZ, USA",azzure
+"""been""","Eleele, HI, USA",azzure
+"""been""","Buffalo, NY, USA",azzure
+"""been""","Hanalei, HI, USA",azzure
+"""been""","Hanapepe, HI, USA",azzure
+"""been""","Caneel Bay, U.S. Virgin Islands",azzure
+"""been""","Kalaheo, HI, USA",azzure
+"""been""","La Jolla, CA, USA",azzure
+"""been""","Kapaa, HI, USA",azzure
+"""been""","Rockaway Beach, OR, USA",azzure
+"""been""","Cruz Bay, U.S. Virgin Islands",azzure
+"""been""","Redmond, WA, USA",azzure
+"""been""","Homestead, FL, USA",azzure
+"""been""","Wenatchee, WA, USA",azzure
+"""been""","Renton, WA, USA",azzure
+"""been""","Butte, MT, USA",azzure
+"""been""","Bismarck, ND, USA",azzure
+"""been""","West Point, NY, USA",azzure
+"""been""","Hood River, OR, USA",azzure
+"""been""","Culver City, CA, USA",azzure
+"""been""","Assisi, Italy",azzure
+"""been""","Kingston, WA, USA",azzure
+"""been""","San Gimignano, Italy",azzure
+"""been""","Skaneateles, NY, USA",azzure
+"""been""","Cambria, CA, USA",azzure
+"""been""","Concord, MA, USA",azzure
+"""been""","San Juan, Puerto Rico",azzure
+"""been""","South San Francisco, CA, USA",azzure
+"""been""","Barstow, CA, USA",azzure
+"""been""","Coeur d'Alene, ID, USA",azzure
+"""been""","Folsom, CA, USA",azzure
+"""been""","Kent, WA, USA",azzure
+"""been""","Camarillo, CA, USA",azzure
+"""been""","Olympia, WA, USA",azzure
+"""been""","Suquamish, WA, USA",azzure
+"""been""","Burlington, VT, USA",azzure
+"""been""","Fish Camp, CA, USA",azzure
+"""been""","Montpelier, VT, USA",azzure
+"""been""","Tacoma, WA, USA",azzure
+"""been""","Meridian, ID, USA",azzure
+"""been""","Nafplio, Greece",azzure
+"""been""","West Hollywood, CA, USA",azzure
+"""been""","Stockton, CA, USA",azzure
+"""been""","Cesky Krumlov, Czech Republic",azzure
+"""been""","Waterbury, VT, USA",azzure
+"""been""","Cle Elum, WA, USA",azzure
+"""been""","Bakersfield, CA, USA",azzure
+"""been""","Dana Point, CA, USA",azzure
+"""been""","Oak Harbor, WA, USA",azzure
+"""been""","Newark, NJ, USA",azzure
+"""been""","Freiberg, Germany",azzure
+"""been""","Issaquah, WA, USA",azzure
+"""been""","San Bernardino, CA, USA",azzure
+"""been""","Coronado, CA, USA",azzure
+"""been""","Port Angeles, WA, USA",azzure
+"""been""","Salt Lake City, UT, USA",azzure
+"""been""","Hyde Park, NY, USA",azzure
+"""been""","Corning, CA, USA",azzure
+"""been""","Davenport, IA, USA",azzure
+"""been""","Corona, CA, USA",azzure
+"""been""","Tillamook, OR, USA",azzure
+"""been""","Astoria, OR, USA",azzure
+"""been""","Buena Park, CA, USA",azzure
+"""been""","Burbank, CA, USA",azzure
+"""been""","Eureka, CA, USA",azzure
+"""been""","Killington, VT, USA",azzure
+"""been""","Positano, Italy",azzure
+"""been""","Spokane, WA, USA",azzure
+"""been""","Murano, Italy",azzure
+"""been""","Corfu Town, Greece",azzure
+"""been""","Visalia, CA, USA",azzure
+"""been""","Mykonos Town, Greece",azzure
+"""been""","The Dalles, OR, USA",azzure
+"""been""","Baltimore, MD, USA",azzure
+"""been""","Mukilteo, WA, USA",azzure
+"""been""","Solvang, CA, USA",azzure
+"""been""","Calabasas, CA, USA",azzure
+"""been""","Stowe, VT, USA",azzure
+"""been""","Silverdale, WA, USA",azzure
+"""been""","Costa Mesa, CA, USA",azzure
+"""been""","Bethesda, UK",azzure
+"""been""","Snoqualmie, WA, USA",azzure
+"""been""","Murren, Switzerland",azzure
+"""been""","Sonora, CA, USA",azzure
+"""been""","Anaheim, CA, USA",azzure
+"""been""","Miami Beach, FL, USA",azzure
+"""been""","Interlaken, Switzerland",azzure
+"""been""","Sonoma, CA, USA",azzure
+"""been""","McCall, ID, USA",azzure
+"""been""","Miami, FL, USA",azzure
+"""been""","Monterosso al Mare, Italy",azzure
+"""been""","Riomaggiore, Italy",azzure
+"""been""","Saint Ignace, MI, USA",azzure
+"""been""","Kilkenny, Ireland",azzure
+"""been"",""fave""","Killarney, Ireland",azzure
+"""been""","Kauai, HI, USA",azzure
+"""been""","Gardnerville, NV, USA",azzure
+"""been""","Rapid City, SD, USA",azzure
+"""been""","Paso Robles, CA, USA",azzure
+"""been""","Arcadia, CA, USA",azzure
+"""been""","Galway, Ireland",azzure
+"""been""","Manarola, Italy",azzure
+"""been""","Pittsburgh, PA, USA",azzure
+"""been""","Pebble Beach, CA, USA",azzure
+"""been""","Morro Bay, CA, USA",azzure
+"""been""","Mackinac Island, MI, USA",azzure
+"""been""","Cork, Ireland",azzure
+"""been""","Dublin, Ireland",azzure
+"""been""","Mackinaw City, MI, USA",azzure
+"""been""","Virgin Gorda, British Virgin Islands",azzure
+"""been""","Lake Louise, Alberta, Canada",azzure
+"""been""","Brian Head, UT, USA",azzure
+"""been""","Calgary, Alberta, Canada",azzure
+"""been""","Bryce, UT, USA",azzure
+"""been""","Guadalajara, Mexico",azzure
+"""been""","Road Town, British Virgin Islands",azzure
+"""been"",""fave""","Banff, Alberta, Canada",azzure
+"""been""","Arroyo Grande, CA, USA",azzure
+"""been""","Idyllwild, CA, USA",azzure
+"""been""","Sacramento, CA, USA",azzure
+"""been""","Puerto Vallarta, Mexico",azzure
+"""been""","Mystic, CT, USA",azzure
+"""been""","Mount Shasta, CA, USA",azzure
+"""been""","Huntington Beach, CA, USA",azzure
+"""been""","Saint Paul, MN, USA",azzure
+"""been""","Carson City, NV, USA",azzure
+"""been""","Pacific Grove, CA, USA",azzure
+"""been""","Lahinch, Ireland",azzure
+"""been""","Palm Springs, CA, USA",azzure
+"""been""","Palm Desert, CA, USA",azzure
+"""been""","Modesto, CA, USA",azzure
+"""been""","Au Train, MI, USA",azzure
+"""been""","Edgartown, MA, USA",azzure
+"""been""","Tijuana, Mexico",azzure
+"""been""","Perugia, Italy",azzure
+"""been""","Bird in Hand, PA, USA",azzure
+"""been""","Pasadena, CA, USA",azzure
+"""been""","Monterey, CA, USA",azzure
+"""been""","Riverside, CA, USA",azzure
+"""been""","Ensenada, Mexico",azzure
+"""been""","Minneapolis, MN, USA",azzure
+"""been""","Glasgow, UK",azzure
+"""been""","Victoria, British Columbia, Canada",azzure
+"""been""","Redmond, OR, USA",azzure
+"""been""","Julian, CA, USA",azzure
+"""been""","Joshua Tree, CA, USA",azzure
+"""been""","Letterkenny, Ireland",azzure
+"""been""","Vancouver, British Columbia, Canada",azzure
+"""been""","Deadwood, SD, USA",azzure
+"""been""","Garden Grove, CA, USA",azzure
+"""been""","Ka'anapali, HI, USA",azzure
+"""been""","Arlington, VA, USA",azzure
+"""been"",""fave""","Whistler, British Columbia, Canada",azzure
+"""been""","Newport Beach, CA, USA",azzure
+"""been""","Glen Ellen, CA, USA",azzure
+"""been""","Gilroy, CA, USA",azzure
+"""been""","June Lake, CA, USA",azzure
+"""been""","Radium Hot Springs, British Columbia, Canada",azzure
+"""been""","Fernie, British Columbia, Canada",azzure
+"""been""","Haworth, UK",azzure
+"""been""","Cong, Ireland",azzure
+"""been"",""fave""","Edinburgh, UK",azzure
+"""been""","Bunratty, Ireland",azzure
+"""been""","Malibu, CA, USA",azzure
+"""been""","Reutte, Austria",azzure
+"""been""","Glendale, CA, USA",azzure
+"""been"",""fave""","Portland, OR, USA",azzure
+"""been""","Yachats, OR, USA",azzure
+"""been""","King City, CA, USA",azzure
+"""been""","Goleta, CA, USA",azzure
+"""been""","Manhattan Beach, CA, USA",azzure
+"""been""","Las Vegas, NV, USA",azzure
+"""been"",""fave""","Jasper, Alberta, Canada",azzure
+"""been""","Lethbridge, Alberta, Canada",azzure
+"""been""","Adare, Ireland",azzure
+"""been""","Milan, Italy",azzure
+"""been""","Fort Bragg, CA, USA",azzure
+"""been""","Phoenix, AZ, USA",azzure
+"""been""","Lodi, CA, USA",azzure
+"""been""","Avalon, CA, USA",azzure
+"""been""","West Hartford, CT, USA",azzure
+"""been""","Long Beach, CA, USA",azzure
+"""been""","Needles, CA, USA",azzure
+"""been""","Inglewood, CA, USA",azzure
+"""been""","Lone Pine, CA, USA",azzure
+"""been""","Napa, CA, USA",azzure
+"""been""","Lompoc, CA, USA",azzure
+"""been""","Indio, CA, USA",azzure
+"""been""","Alexandria, VA, USA",azzure
+"""been""","Henderson, NV, USA",azzure
+"""been""","Limerick, Ireland",azzure
+"""been""","Marquette, MI, USA",azzure
+"""been""","Saugatuck, MI, USA",azzure
+"""been""","Varenna, Italy",azzure
+"""been""","Bellagio, Italy",azzure
+"""been""","Los Angeles, CA, USA",azzure
+"""been""","Placentia, CA, USA",azzure
+"""been""","Prescott, AZ, USA",azzure
+"""been""","Nanaimo, British Columbia, Canada",azzure
+"""been""","Kamloops, British Columbia, Canada",azzure
+"""been""","Pismo Beach, CA, USA",azzure
+"""been""","Chicago, IL, USA",azzure
+"""been""","Irvine, CA, USA",azzure
+"""been""","Garberville, CA, USA",azzure
+"""been""","Fullerton, CA, USA",azzure
+"""been""","Placerville, CA, USA",azzure
+"""been""","Fresno, CA, USA",azzure
+"""been""","Ogden, UT, USA",azzure
+"""been""","Pompeii, Italy",azzure
+"""been""","Lake George, NY, USA",azzure
+"""been""","Rhodes Town, Greece",azzure
+"""been"",""fave""","Sorrento, Italy",azzure
+"""been""","Park City, UT, USA",azzure
+"""been""","Munich, Germany",azzure
+"""been"",""want"",""fave""","London, UK",azzure
+"""been""","Hyannis, MA, USA",azzure
+"""been"",""fave""","Dingle, Ireland",azzure
+"""been""","Kenmare, Ireland",azzure
+"""been""","Franconia, NH, USA",azzure
+"""been""","Amalfi, Italy",azzure
+"""been""","Niagara Falls, NY, USA",azzure
+"""been""","Llandudno, UK",azzure
+"""been""","Florence, Italy",azzure
+"""been""","Grasmere, UK",azzure
+"""been""","New Windsor, NY, USA",azzure
+"""been""","Yosemite National Park, CA, USA",azzure
+"""been""","Cortona, Italy",azzure
+"""been""","Keswick, UK",azzure
+"""been""","Sturbridge, MA, USA",azzure
+"""been""","Amherst, MA, USA",azzure
+"""been""","Niagara Falls, Ontario, Canada",azzure
+"""been"",""fave""","Kinsale, Ireland",azzure
+"""been""","Grants Pass, OR, USA",azzure
+"""been""","Newburgh, NY, USA",azzure
+"""been""","Cleveland, OH, USA",azzure
+"""been""","London, Ontario, Canada",azzure
+"""been""","Big Bear Lake, CA, USA",azzure
+"""been"",""fave""","Conwy, UK",azzure
+"""been""","Chimacum, WA, USA",azzure
+"""been""","Lancaster, PA, USA",azzure
+"""been""","Beaverton, OR, USA",azzure
+"""been""","Bend, OR, USA",azzure
+"""been""","Rhinebeck, NY, USA",azzure
+"""been""","Montalcino, Italy",azzure
+"""been""","North Conway, NH, USA",azzure
+"""been""","Bozeman, MT, USA",azzure
+"""been""","New Hyde Park, NY, USA",azzure
+"""been""","Brindisi, Italy",azzure
+"""been""","Spring Green, WI, USA",azzure
+"""been"",""fave""","Venice, Italy",azzure
+"""been""","Bangor, ME, USA",azzure
+"""been""","Newport, OR, USA",azzure
+"""been""","Billings, MT, USA",azzure
+"""been""","Bandon, OR, USA",azzure
+"""been""","Concord, NH, USA",azzure
+"""been""","Piraeus, Greece",azzure
+"""been""","Athens, Greece",azzure
+"""been""","Hilo, HI, USA",azzure
+"""been""","Traverse City, MI, USA",azzure
+"""been""","Waimea, HI, USA",azzure
+"""been""","Beaune, France",azzure
+"""been""","Delphi, Greece",azzure
+"""been""","Kittery, ME, USA",azzure
+"""been""","Lindau, Germany",azzure
+"""been""","Bath, UK",azzure
+"""been""","Merced, CA, USA",azzure
+"""been""","Orange, CA, USA",azzure
+"""been""","Rancho Palos Verdes, CA, USA",azzure
+"""been""","Ontario, CA, USA",azzure
+"""been""","Mendocino, CA, USA",azzure
+"""been""","Rancho Mirage, CA, USA",azzure
+"""been""","Frankfurt, Germany",azzure
+"""been""","Plymouth, MA, USA",azzure
+"""been""","Provincetown, MA, USA",azzure
+"""been""","Kos Town, Greece",azzure
+"""been""","Redding, CA, USA",azzure
+"""been""","Wall, SD, USA",azzure
+"""been""","Oxnard, CA, USA",azzure
+"""been""","Hartford, CT, USA",azzure
+"""been""","Redondo Beach, CA, USA",azzure
+"""been""","Redlands, CA, USA",azzure
+"""been""","Fiumicino, Italy",azzure
+"""been""","Blarney, Ireland",azzure
+"""been""","Oakhurst, CA, USA",azzure
+"""been""","Ogunquit, ME, USA",azzure
+"""been""","Chester, UK",azzure
+"""been""","Waltham, MA, USA",azzure
+"""been""","Pittsfield, MA, USA",azzure
+"""been""","Ashland, OR, USA",azzure
+"""been""","Skibbereen, Ireland",azzure
+"""been""","Vermillion, SD, USA",azzure
+"""been""","Mitchell, SD, USA",azzure
+"""been""","Jackson, WY, USA",azzure
+"""been""","Spokane Valley, WA, USA",azzure
+"""been"",""fave""","York, UK",azzure
+"""been""","Bristol, UK",azzure
+"""been""","Passau, Germany",azzure
+"""been""","Vatican City, Vatican City",azzure
+"""been""","Rothenburg, Germany",azzure
+"""been""","Fussen, Germany",azzure
+"""been""","Cannon Beach, OR, USA",azzure
+"""been""","Intercourse, PA, USA",azzure
+"""been""","Ojai, CA, USA",azzure
+"""been""","Rome, Italy",azzure
+"""been""","Oceanside, CA, USA",azzure
+"""been""","Oakland, CA, USA",azzure
+"""been""","Lincoln City, OR, USA",azzure
+"""been"",""fave""","Paris, France",azzure
+"""been""","Santa Ana, CA, USA",azzure
+"""been""","Bainbridge Island, WA, USA",azzure
+"""been""","Big Bear City, CA, USA",azzure
+"""been""","Beverly Hills, CA, USA",azzure
+"""been""","Death Valley Junction, CA, USA",azzure
+"""been""","Burano, Italy",azzure
+"""been""","North Vancouver, British Columbia, Canada",azzure
+"""been""","Richmond, British Columbia, Canada",azzure
+"""been""","San Simeon, CA, USA",azzure
+"""been""","Tahoe City, CA, USA",azzure
+"""been""","Berkeley, CA, USA",azzure
+"""been""","Ellensburg, WA, USA",azzure
+"""been""","Salzburg, Austria",azzure
+"""been""","East Glacier Park, MT, USA",azzure
+"""been""","Amsterdam, The Netherlands",azzure
+"""been""","Corvallis, OR, USA",azzure
+"""been"",""fave""","Mammoth Lakes, CA, USA",azzure
+"""been""","Tiburon, CA, USA",azzure
+"""been""","Edmonds, WA, USA",azzure
+"""been""","Puyallup, WA, USA",azzure
+"""been""","Santa Monica, CA, USA",azzure
+"""been""","Bishop, CA, USA",azzure
+"""been""","Quilcene, WA, USA",azzure
+"""been""","Santa Maria, CA, USA",azzure
+"""been""","Gettysburg, PA, USA",azzure
+"""been""","Kinvara, Ireland",azzure
+"""been""","St. George, UT, USA",azzure
+"""been""","Santa Cruz, CA, USA",azzure
+"""been""","Port Ludlow, WA, USA",azzure
+"""been""","Poulsbo, WA, USA",azzure
+"""been"",""fave""","Santa Barbara, CA, USA",azzure
+"""been""","Port Townsend, WA, USA",azzure
+"""been""","Temecula, CA, USA",azzure
+"""been""","Mykonos, Greece",azzure
+"""been""","Sneem, Ireland",azzure
+"""been""","Vienna, Austria",azzure
+"""been""","Coos Bay, OR, USA",azzure
+"""been""","Klamath Falls, OR, USA",azzure
+"""been""","Stratford-upon-Avon, UK",azzure
+"""been""","Columbia Falls, MT, USA",azzure
+"""been""","Teton Village, WY, USA",azzure
+"""been""","Cody, WY, USA",azzure
+"""been""","Leavenworth, WA, USA",azzure
+"""been""","Charlottesville, VA, USA",azzure
+"""been""","Port Hadlock, WA, USA",azzure
+"""been""","Carlsbad, CA, USA",azzure
+"""been""","Carmel, CA, USA",azzure
+"""been""","Westminster, CA, USA",azzure
+"""been""","Provo, UT, USA",azzure
+"""been""","Westlake Village, CA, USA",azzure
+"""been""","Big Sur, CA, USA",azzure
+"""been""","Crested Butte, CO, USA",azzure
+"""been""","San Clemente, CA, USA",azzure
+"""been""","Del Mar, CA, USA",azzure
+"""been""","Williamsburg, VA, USA",azzure
+"""been""","Dubuque, IA, USA",azzure
+"""been""","Crete, Greece",azzure
+"""been""","Kalispell, MT, USA",azzure
+"""been""","Tukwila, WA, USA",azzure
+"""been""","Fish Creek, WI, USA",azzure
+"""been""","Heraklion, Greece",azzure
+"""been""","San Luis Obispo, CA, USA",azzure
+"""been""","Denver, CO, USA",azzure
+"""been""","San Juan Capistrano, CA, USA",azzure
+"""been""","Montepulciano, Italy",azzure
+"""been""","Chipping Campden, UK",azzure
+"""been""","Wailea, HI, USA",azzure
+"""been""","Wolfeboro, NH, USA",azzure
+"""been""","Olympia, Greece",azzure
+"""been""","Honolulu, HI, USA",azzure
+"""been""","Gunnison, CO, USA",azzure
+"""been""","Kilauea, HI, USA",azzure
+"""been"",""fave""","Koloa, HI, USA",azzure
+"""been""","Vicksburg, MS, USA",azzure
+"""been""","New Orleans, LA, USA",azzure
+"""been""","Amherst, NY, USA",azzure
+"""been""","Lihue, HI, USA",azzure
+"""been""","Custer, SD, USA",azzure
+"""been""","Boston, MA, USA",azzure
+"""been""","Poipu, HI, USA",azzure
+"""been""","Princeville, HI, USA",azzure
+"""been""","Waimea, HI, USA",azzure
+"""been""","Logan, UT, USA",azzure
+"""been""","Washington DC, DC, USA",azzure
+"""been""","Kellogg, ID, USA",azzure
+"""been""","Eugene, OR, USA",azzure
+"""been""","Anacapri, Italy",azzure
+"""been""","Florence, OR, USA",azzure
+"""been""","Boise, ID, USA",azzure
+"""been""","Berchtesgaden, Germany",azzure
+"""been""","San Diego, CA, USA",azzure
+"""been""","Kailua-Kona, HI, USA",azzure
+"""been""","Hana, HI, USA",azzure
+"""been""","Oughterard, Ireland",azzure
+"""been""","Lahaina, HI, USA",azzure
+"""been""","Simi Valley, CA, USA",azzure
+"""been""","Seattle, WA, USA",azzure
+"""been""","Yellowstone National Park, WY, USA",azzure
+"""been""","South Lake Tahoe, CA, USA",azzure
+"""been""","Lauterbrunnen, Switzerland",azzure
+"""been""","Gig Harbor, WA, USA",azzure
+"""been""","Fargo, ND, USA",azzure
+"""been""","Manchester, NH, USA",azzure
+"""been""","Indianapolis, IN, USA",azzure
+"""been""","Boulder City, NV, USA",azzure
+"""been"",""fave""","New York City, NY, USA",azzure
+"""been""","Bremerton, WA, USA",azzure
+"""been""","Sausalito, CA, USA",azzure
+"""been""","Torrance, CA, USA",azzure
+"""been""","Cedar City, UT, USA",azzure
+"""been""","Moran, WY, USA",azzure
+"""been""","Kusadasi, Turkey",azzure
+"""been""","Bodega Bay, CA, USA",azzure
+"""been""","Ventura, CA, USA",azzure
+"""been""","Forks, WA, USA",azzure
+"""been""","Santa Ynez, CA, USA",azzure
+"""been""","Yorba Linda, CA, USA",azzure
+"""been""","Santa Rosa, CA, USA",azzure
+"""been""","McMinnville, OR, USA",azzure
+"""been""","Saugerties, NY, USA",azzure
+"""been""","Sandpoint, ID, USA",azzure
+"""been""","South Bend, IN, USA",azzure
+"""been""","Medford, OR, USA",azzure
+"""been""","Linz, Austria",azzure
+"""been""","Stateline, NV, USA",azzure
+"""been""","West Yellowstone, MT, USA",azzure
+"""been""","Tlaquepaque, Mexico",azzure
+"""been""","Missoula, MT, USA",azzure
+"""been""","Kailua, HI, USA",azzure
+"""been""","Yorktown, VA, USA",azzure
+"""been""","Laie, HI, USA",azzure
+"""been""","Atlanta, GA, USA",azzure
+"""been""","Bellingham, WA, USA",azzure
+"""been""","Federal Way, WA, USA",azzure
+"""been""","Truckee, CA, USA",azzure
+"""been""","Bellevue, WA, USA",azzure
+"""been""","Canmore, Alberta, Canada",azzure
+"""been""","Abbotsford, British Columbia, Canada",azzure
+"""been""","Everett, WA, USA",azzure
+"""been""","Seaside, CA, USA",azzure
+"""been""","Portland, ME, USA",azzure
+"""been""","Seal Beach, CA, USA",azzure
+"""been""","Idaho Falls, ID, USA",azzure

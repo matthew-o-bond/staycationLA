@@ -1,0 +1,553 @@
+tag,place,user
+"""been""","Drogheda, Ireland",stonecroft
+"""been""","Limerick, Ireland",stonecroft
+"""been""","Port Jefferson, NY, USA",stonecroft
+"""been""","West Springfield, MA, USA",stonecroft
+"""been""","Portland, ME, USA",stonecroft
+"""been""","King of Prussia, PA, USA",stonecroft
+"""been""","Cocoa Beach, FL, USA",stonecroft
+"""been""","Acapulco, Mexico",stonecroft
+"""been""","Clearwater, FL, USA",stonecroft
+"""been""","Rutland, VT, USA",stonecroft
+"""been""","Portrush, UK",stonecroft
+"""been""","Sandwich, MA, USA",stonecroft
+"""been""","West Yarmouth, MA, USA",stonecroft
+"""been""","Ocean Beach, NY, USA",stonecroft
+"""been""","Sligo, Ireland",stonecroft
+"""been""","Louisville, KY, USA",stonecroft
+"""been""","Milan, Italy",stonecroft
+"""been""","Ibarra, Ecuador",stonecroft
+"""been""","Banos, Ecuador",stonecroft
+"""been""","Edmonton, Alberta, Canada",stonecroft
+"""been""","Coral Gables, FL, USA",stonecroft
+"""want""","Banff, Alberta, Canada",stonecroft
+"""been""","Sag Harbor, NY, USA",stonecroft
+"""been""","Donegal Town, Ireland",stonecroft
+"""been""","Amherst, NY, USA",stonecroft
+"""been""","Schenectady, NY, USA",stonecroft
+"""been""","Cork, Ireland",stonecroft
+"""been""","Amsterdam, NY, USA",stonecroft
+"""been""","Manchester, NH, USA",stonecroft
+"""been""","Bretton Woods, NH, USA",stonecroft
+"""been""","Galway, Ireland",stonecroft
+"""been""","Roanoke, VA, USA",stonecroft
+"""been"",""fave""","Dublin, Ireland",stonecroft
+"""been""","Newport News, VA, USA",stonecroft
+"""been"",""fave""","Portree, UK",stonecroft
+"""want""","Siem Reap, Cambodia",stonecroft
+"""been""","Dominican Republic, Caribbean",stonecroft
+"""want""","Moscow, Russia",stonecroft
+"""been"",""fave""","Ko Phi Phi Don, Thailand",stonecroft
+"""been""","Ko Lanta, Thailand",stonecroft
+"""been""","Bronx, NY, USA",stonecroft
+"""been""","Killarney, Ireland",stonecroft
+"""been""","Tralee, Ireland",stonecroft
+"""been""","Vernazza, Italy",stonecroft
+"""been""","Staten Island, NY, USA",stonecroft
+"""been""","Saratoga Springs, NY, USA",stonecroft
+"""been""","Bethlehem, PA, USA",stonecroft
+"""want""","Taipei, Taiwan",stonecroft
+"""been""","Lincoln, NH, USA",stonecroft
+"""been""","Hollywood, FL, USA",stonecroft
+"""been""","Kilkenny, Ireland",stonecroft
+"""been""","Deerfield Beach, FL, USA",stonecroft
+"""been""","Daytona Beach, FL, USA",stonecroft
+"""been""","Hershey, PA, USA",stonecroft
+"""been""","Rockland, ME, USA",stonecroft
+"""been""","Cabo San Lucas, Mexico",stonecroft
+"""been""","Rockport, ME, USA",stonecroft
+"""been""","Old Forge, NY, USA",stonecroft
+"""want""","Punta Cana, Dominican Republic",stonecroft
+"""been""","Choeng Thale, Thailand",stonecroft
+"""been""","Bangkok, Thailand",stonecroft
+"""been""","Brewster, NY, USA",stonecroft
+"""been""","Chiang Mai, Thailand",stonecroft
+"""been""","Gettysburg, PA, USA",stonecroft
+"""been""","Pattaya, Thailand",stonecroft
+"""been""","Poughkeepsie, NY, USA",stonecroft
+"""been""","Puerto Plata, Dominican Republic",stonecroft
+"""been""","Washington DC, DC, USA",stonecroft
+"""been""","Philadelphia, PA, USA",stonecroft
+"""been""","Calais, France",stonecroft
+"""been""","Lancaster, PA, USA",stonecroft
+"""want""","Madrid, Spain",stonecroft
+"""been"",""fave""","Phuket, Thailand",stonecroft
+"""been""","Fort William, UK",stonecroft
+"""been""","Inverness, UK",stonecroft
+"""been""","Winston Salem, NC, USA",stonecroft
+"""want""","Ho Chi Minh City, Vietnam",stonecroft
+"""been""","York, ME, USA",stonecroft
+"""been""","Bath, ME, USA",stonecroft
+"""been""","North Adams, MA, USA",stonecroft
+"""been""","Virginia Beach, VA, USA",stonecroft
+"""been""","Whistler, British Columbia, Canada",stonecroft
+"""want""","Shanghai, China",stonecroft
+"""want""","Victoria, British Columbia, Canada",stonecroft
+"""been""","South Yarmouth, MA, USA",stonecroft
+"""been""","Erie, PA, USA",stonecroft
+"""been""","Bennington, VT, USA",stonecroft
+"""been""","Bethel, ME, USA",stonecroft
+"""been""","Hendersonville, NC, USA",stonecroft
+"""been"",""want""","Vancouver, British Columbia, Canada",stonecroft
+"""been""","Sukhothai, Thailand",stonecroft
+"""want""","Benidorm, Spain",stonecroft
+"""been""","Wilmington, NC, USA",stonecroft
+"""been""","Queensbury, NY, USA",stonecroft
+"""been""","Dover, UK",stonecroft
+"""been""","Leipzig, Germany",stonecroft
+"""been""","Norfolk, VA, USA",stonecroft
+"""been""","Newton, MA, USA",stonecroft
+"""been""","Woburn, MA, USA",stonecroft
+"""want""","Valencia, Spain",stonecroft
+"""want""","Cape Town Central, South Africa",stonecroft
+"""been""","Scarborough, ME, USA",stonecroft
+"""want""","Tamarindo, Costa Rica",stonecroft
+"""been""","Worcester, MA, USA",stonecroft
+"""been""","Heredia, Costa Rica",stonecroft
+"""been""","Bangor, ME, USA",stonecroft
+"""been""","South Lee, MA, USA",stonecroft
+"""been""","Pinehurst, NC, USA",stonecroft
+"""been""","Wicklow, Ireland",stonecroft
+"""been"",""fave""","Edinburgh, UK",stonecroft
+"""been""","Raleigh, NC, USA",stonecroft
+"""been""","Newburgh, NY, USA",stonecroft
+"""been""","Birmingham, UK",stonecroft
+"""been""","North Truro, MA, USA",stonecroft
+"""been""","Boca Raton, FL, USA",stonecroft
+"""been""","South Portland, ME, USA",stonecroft
+"""been""","Northampton, MA, USA",stonecroft
+"""been""","Hyannis, MA, USA",stonecroft
+"""been""","Alajuela, Costa Rica",stonecroft
+"""been""","La Fortuna de San Carlos, Costa Rica",stonecroft
+"""been""","St. John's, Newfoundland and Labrador, Canada",stonecroft
+"""been""","Lake George, NY, USA",stonecroft
+"""been""","St. Andrews, UK",stonecroft
+"""been""","Glasgow, UK",stonecroft
+"""been""","North Conway, NH, USA",stonecroft
+"""been""","Leeds, UK",stonecroft
+"""been""","Trento, Italy",stonecroft
+"""been""","Gyor, Hungary",stonecroft
+"""been""","Heviz, Hungary",stonecroft
+"""been""","Boynton Beach, FL, USA",stonecroft
+"""been""","Brattleboro, VT, USA",stonecroft
+"""been""","Stockbridge, MA, USA",stonecroft
+"""been""","Freeport, ME, USA",stonecroft
+"""been""","Boothbay Harbor, ME, USA",stonecroft
+"""been""","Venice, Italy",stonecroft
+"""been""","Rhinebeck, NY, USA",stonecroft
+"""been""","New Paltz, NY, USA",stonecroft
+"""been""","Halifax, Nova Scotia, Canada",stonecroft
+"""been""","Digby, Nova Scotia, Canada",stonecroft
+"""been""","Lanzhou, China",stonecroft
+"""want""","San Francisco, CA, USA",stonecroft
+"""been""","Salem, MA, USA",stonecroft
+"""been""","Strathpeffer, UK",stonecroft
+"""been""","Killington, VT, USA",stonecroft
+"""been""","East Hampton, NY, USA",stonecroft
+"""been""","Ferrara, Italy",stonecroft
+"""been""","Freeport, Bahamas",stonecroft
+"""been""","East Elmhurst, NY, USA",stonecroft
+"""been""","Edison, NJ, USA",stonecroft
+"""been""","Jersey City, NJ, USA",stonecroft
+"""been""","Otavalo, Ecuador",stonecroft
+"""been""","Harpers Ferry, WV, USA",stonecroft
+"""been""","Gatlinburg, TN, USA",stonecroft
+"""been""","Syracuse, NY, USA",stonecroft
+"""been""","Zermatt, Switzerland",stonecroft
+"""been""","Laguna Cuicocha, Ecuador",stonecroft
+"""been""","Elizabeth, NJ, USA",stonecroft
+"""been""","Lugano, Switzerland",stonecroft
+"""been""","Guayaquil, Ecuador",stonecroft
+"""been""","Towson, MD, USA",stonecroft
+"""been""","Scranton, PA, USA",stonecroft
+"""been""","Stowe, VT, USA",stonecroft
+"""been""","Tampa, FL, USA",stonecroft
+"""been""","Greensboro, NC, USA",stonecroft
+"""been""","Miami, FL, USA",stonecroft
+"""been""","Springfield, MA, USA",stonecroft
+"""been""","Miami Beach, FL, USA",stonecroft
+"""been""","Tallahassee, FL, USA",stonecroft
+"""been""","Melbourne, FL, USA",stonecroft
+"""been""","Leesburg, VA, USA",stonecroft
+"""been""","Melbourne Beach, FL, USA",stonecroft
+"""been""","Adare, Ireland",stonecroft
+"""been""","Singapore, Singapore",stonecroft
+"""been""","Pensacola, FL, USA",stonecroft
+"""want""","Melbourne, Australia",stonecroft
+"""been""","San Jose, Costa Rica",stonecroft
+"""been""","Mount Laurel, NJ, USA",stonecroft
+"""been""","Carrick-on-Shannon, Ireland",stonecroft
+"""been""","Negril, Jamaica",stonecroft
+"""been""","Clonakilty, Ireland",stonecroft
+"""want""","Montego Bay, Jamaica",stonecroft
+"""been""","Kinsale, Ireland",stonecroft
+"""been""","Mesa, AZ, USA",stonecroft
+"""been""","Stirling, UK",stonecroft
+"""been""","Oyster Pond, St Martin \u002F St Maarten",stonecroft
+"""been""","Buffalo, NY, USA",stonecroft
+"""been""","Flagstaff, AZ, USA",stonecroft
+"""been""","Rome, NY, USA",stonecroft
+"""been""","Baltimore, MD, USA",stonecroft
+"""been""","Jacksonville Beach, FL, USA",stonecroft
+"""been""","Savannah, GA, USA",stonecroft
+"""want""","Lisbon, Portugal",stonecroft
+"""been""","Plantation, FL, USA",stonecroft
+"""been""","Burlington, VT, USA",stonecroft
+"""been""","Macau, China",stonecroft
+"""been""","Montpelier, VT, USA",stonecroft
+"""been""","El Yunque National Forest, Puerto Rico",stonecroft
+"""been""","Bisbee, AZ, USA",stonecroft
+"""been""","San Juan, Puerto Rico",stonecroft
+"""want""","Dubrovnik, Croatia",stonecroft
+"""been""","Charleston, SC, USA",stonecroft
+"""been""","Shannon, Ireland",stonecroft
+"""been""","Cooperstown, NY, USA",stonecroft
+"""been""","Boone, NC, USA",stonecroft
+"""want""","Funchal, Portugal",stonecroft
+"""been""","Newark, NJ, USA",stonecroft
+"""been""","Brooklyn, NY, USA",stonecroft
+"""been""","Brookline, MA, USA",stonecroft
+"""been""","Providence, RI, USA",stonecroft
+"""been""","Port Charlotte, FL, USA",stonecroft
+"""been""","Pompano Beach, FL, USA",stonecroft
+"""been""","Treasure Island, FL, USA",stonecroft
+"""been""","York, PA, USA",stonecroft
+"""been""","Bar Harbor, ME, USA",stonecroft
+"""been""","Ponte Vedra Beach, FL, USA",stonecroft
+"""been""","Everglades City, FL, USA",stonecroft
+"""been""","Manchester, VT, USA",stonecroft
+"""been""","Spindleruv Mlyn, Czech Republic",stonecroft
+"""been""","Manuel Antonio, Costa Rica",stonecroft
+"""been""","Tucson, AZ, USA",stonecroft
+"""been""","Tarrytown, NY, USA",stonecroft
+"""been""","Ayutthaya, Thailand",stonecroft
+"""been""","Picton, Ontario, Canada",stonecroft
+"""want""","Seattle, WA, USA",stonecroft
+"""been""","Fort Lauderdale, FL, USA",stonecroft
+"""been""","Naples, FL, USA",stonecroft
+"""been""","Punta Gorda, FL, USA",stonecroft
+"""been""","Williamsburg, VA, USA",stonecroft
+"""been""","St Martin \u002F St Maarten, Caribbean",stonecroft
+"""been""","Catskill, NY, USA",stonecroft
+"""been""","Utica, NY, USA",stonecroft
+"""been""","Ocean City, NJ, USA",stonecroft
+"""been""","New York City, NY, USA",stonecroft
+"""want""","Hersonissos, Greece",stonecroft
+"""been""","Cape Coral, FL, USA",stonecroft
+"""been""","Columbia, SC, USA",stonecroft
+"""been""","Jimbaran, Indonesia",stonecroft
+"""been"",""want""","Nusa Dua, Indonesia",stonecroft
+"""been""","Kuta, Indonesia",stonecroft
+"""been""","Fort Myers, FL, USA",stonecroft
+"""been""","Houston, TX, USA",stonecroft
+"""been""","Kissimmee, FL, USA",stonecroft
+"""been""","Modena, Italy",stonecroft
+"""been""","Fort Pierce, FL, USA",stonecroft
+"""been""","Marigot, St Martin \u002F St Maarten",stonecroft
+"""been""","Portsmouth, NH, USA",stonecroft
+"""been""","Cambridge, MA, USA",stonecroft
+"""been""","Corning, NY, USA",stonecroft
+"""been""","Bogota, Colombia",stonecroft
+"""been""","Simpson Bay, St Martin \u002F St Maarten",stonecroft
+"""been""","Grand Case, St Martin \u002F St Maarten",stonecroft
+"""been""","Manassas, VA, USA",stonecroft
+"""been""","Atlanta, GA, USA",stonecroft
+"""been""","Rochester, NY, USA",stonecroft
+"""been""","Geneva, NY, USA",stonecroft
+"""been""","Richmond, VA, USA",stonecroft
+"""been""","East Syracuse, NY, USA",stonecroft
+"""been""","Elmhurst, NY, USA",stonecroft
+"""been""","Newport, RI, USA",stonecroft
+"""been""","Valdosta, GA, USA",stonecroft
+"""been""","Guangzhou, China",stonecroft
+"""been""","Narragansett, RI, USA",stonecroft
+"""been""","North Kingstown, RI, USA",stonecroft
+"""been""","Gainesville, FL, USA",stonecroft
+"""been""","Xi'an, China",stonecroft
+"""been""","Puno, Peru",stonecroft
+"""been""","Asheville, NC, USA",stonecroft
+"""been""","Cherry Hill, NJ, USA",stonecroft
+"""been""","Rio Grande, Puerto Rico",stonecroft
+"""been""","Southampton, NY, USA",stonecroft
+"""want""","Honolulu, HI, USA",stonecroft
+"""been""","Plattsburgh, NY, USA",stonecroft
+"""been""","Boston, MA, USA",stonecroft
+"""been""","Kenmare, Ireland",stonecroft
+"""been""","Chesapeake, VA, USA",stonecroft
+"""been"",""fave""","Dingle, Ireland",stonecroft
+"""want""","Kyoto, Japan",stonecroft
+"""been""","Lakeland, FL, USA",stonecroft
+"""been""","Ocala, FL, USA",stonecroft
+"""been""","Siena, Italy",stonecroft
+"""want""","Kuala Lumpur, Malaysia",stonecroft
+"""want""","Manila, Philippines",stonecroft
+"""want""","Male, Asia",stonecroft
+"""been""","Cape May, NJ, USA",stonecroft
+"""been""","Wellfleet, MA, USA",stonecroft
+"""been""","White Plains, NY, USA",stonecroft
+"""been""","Venice, FL, USA",stonecroft
+"""been""","Alexandria, VA, USA",stonecroft
+"""been""","Westport, CT, USA",stonecroft
+"""been""","Kosice, Slovakia",stonecroft
+"""been""","New Milford, CT, USA",stonecroft
+"""been""","New Preston, CT, USA",stonecroft
+"""been""","Krabi Town, Thailand",stonecroft
+"""been""","Newington, CT, USA",stonecroft
+"""been"",""fave""","Bratislava, Slovakia",stonecroft
+"""been""","Newtown, CT, USA",stonecroft
+"""been""","Canton, CT, USA",stonecroft
+"""been""","Dresden, Germany",stonecroft
+"""been""","Brookfield, CT, USA",stonecroft
+"""been""","New Haven, CT, USA",stonecroft
+"""been""","Akumal, Mexico",stonecroft
+"""been""","New London, CT, USA",stonecroft
+"""been""","Phoenix, AZ, USA",stonecroft
+"""been""","Hua Hin, Thailand",stonecroft
+"""been""","Secaucus, NJ, USA",stonecroft
+"""been""","Wildwood Crest, NJ, USA",stonecroft
+"""been""","Esmeraldas, Ecuador",stonecroft
+"""been""","Salzburg, Austria",stonecroft
+"""been""","Heidelberg, Germany",stonecroft
+"""been""","Sunny Isles Beach, FL, USA",stonecroft
+"""been"",""fave""","Innsbruck, Austria",stonecroft
+"""been""","Las Vegas, NV, USA",stonecroft
+"""been""","Wildwood, NJ, USA",stonecroft
+"""been""","Los Angeles, CA, USA",stonecroft
+"""been""","Prescott, AZ, USA",stonecroft
+"""been"",""fave""","Quito, Ecuador",stonecroft
+"""been""","Cuenca, Ecuador",stonecroft
+"""been""","Szeged, Hungary",stonecroft
+"""been""","Windsor Locks, CT, USA",stonecroft
+"""been""","Szentendre, Hungary",stonecroft
+"""been""","Cheshire, CT, USA",stonecroft
+"""been""","Patong, Thailand",stonecroft
+"""been""","Doolin, Ireland",stonecroft
+"""been""","Vienna, Austria",stonecroft
+"""want""","Albufeira, Portugal",stonecroft
+"""been""","Stuttgart, Germany",stonecroft
+"""been""","Rockville, MD, USA",stonecroft
+"""been""","Lourdes, France",stonecroft
+"""been""","Lima, Peru",stonecroft
+"""been""","Linz, Austria",stonecroft
+"""been""","St. Petersburg, FL, USA",stonecroft
+"""been""","Lausanne, Switzerland",stonecroft
+"""been""","Reims, France",stonecroft
+"""been""","Old Saybrook, CT, USA",stonecroft
+"""been""","Norwalk, CT, USA",stonecroft
+"""been""","Norwich, CT, USA",stonecroft
+"""been""","Saint Augustine Beach, FL, USA",stonecroft
+"""been""","Danbury, CT, USA",stonecroft
+"""been""","Arlington, VA, USA",stonecroft
+"""been""","Woodbury, CT, USA",stonecroft
+"""been""","Cusco, Peru",stonecroft
+"""been"",""fave""","Ubud, Indonesia",stonecroft
+"""been""","Parsippany, NJ, USA",stonecroft
+"""been""","Annapolis, MD, USA",stonecroft
+"""been""","Minneapolis, MN, USA",stonecroft
+"""been""","Amsterdam, The Netherlands",stonecroft
+"""been""","Sarasota, FL, USA",stonecroft
+"""been""","Fairfax, VA, USA",stonecroft
+"""been""","Plainville, CT, USA",stonecroft
+"""been""","Paris, France",stonecroft
+"""been""","Versailles, France",stonecroft
+"""want""","Mumbai, India",stonecroft
+"""been""","College Park, GA, USA",stonecroft
+"""been""","Portsmouth, UK",stonecroft
+"""want""","New Delhi, India",stonecroft
+"""been""","Zurich, Switzerland",stonecroft
+"""been""","West Palm Beach, FL, USA",stonecroft
+"""been""","Durham, NC, USA",stonecroft
+"""been""","Urubamba, Peru",stonecroft
+"""been""","Orange, CT, USA",stonecroft
+"""been""","Chatham, MA, USA",stonecroft
+"""been""","Marne-la-Vallee, France",stonecroft
+"""been""","Hong Kong, China",stonecroft
+"""been""","Myrtle Beach, SC, USA",stonecroft
+"""been""","Winter Haven, FL, USA",stonecroft
+"""been""","Allentown, PA, USA",stonecroft
+"""been""","Bordeaux, France",stonecroft
+"""been""","Winter Park, FL, USA",stonecroft
+"""been""","Scottsdale, AZ, USA",stonecroft
+"""been""","Carolina, Puerto Rico",stonecroft
+"""been"",""fave""","Beijing, China",stonecroft
+"""want""","Dubai, United Arab Emirates",stonecroft
+"""been""","Glendale, AZ, USA",stonecroft
+"""been""","Sedona, AZ, USA",stonecroft
+"""been""","Detroit, MI, USA",stonecroft
+"""been""","Geneva, Switzerland",stonecroft
+"""been""","Avon, CT, USA",stonecroft
+"""been""","Jacksonville, FL, USA",stonecroft
+"""been""","Charleston, WV, USA",stonecroft
+"""been""","Jakarta, Indonesia",stonecroft
+"""been""","Hyde Park, NY, USA",stonecroft
+"""been""","Siesta Key, FL, USA",stonecroft
+"""been""","Orlando, FL, USA",stonecroft
+"""been""","Farmington, CT, USA",stonecroft
+"""been""","Hunter, NY, USA",stonecroft
+"""been""","Bunratty, Ireland",stonecroft
+"""been""","Ottawa, Ontario, Canada",stonecroft
+"""been"",""fave""","Lucerne, Switzerland",stonecroft
+"""been""","Apalachicola, FL, USA",stonecroft
+"""been""","Greenville, SC, USA",stonecroft
+"""been""","Kingman, AZ, USA",stonecroft
+"""been""","Nashville, TN, USA",stonecroft
+"""been"",""fave""","Cancun, Mexico",stonecroft
+"""been""","Groton, CT, USA",stonecroft
+"""been""","Tempe, AZ, USA",stonecroft
+"""been""","South Burlington, VT, USA",stonecroft
+"""been""","Beaufort, SC, USA",stonecroft
+"""been""","Greenwich, CT, USA",stonecroft
+"""been""","Flushing, NY, USA",stonecroft
+"""want""","Mexico City, Mexico",stonecroft
+"""been""","Princeton, NJ, USA",stonecroft
+"""want""","Auckland Central, New Zealand",stonecroft
+"""been""","Watkins Glen, NY, USA",stonecroft
+"""been""","Veracruz, Mexico",stonecroft
+"""been""","Jamaica, NY, USA",stonecroft
+"""been""","Watertown, NY, USA",stonecroft
+"""been""","Toronto, Ontario, Canada",stonecroft
+"""been""","Westerly, RI, USA",stonecroft
+"""been""","Stuart, FL, USA",stonecroft
+"""want""","Quebec City, Quebec, Canada",stonecroft
+"""been""","Montreal, Quebec, Canada",stonecroft
+"""been""","Concord, MA, USA",stonecroft
+"""want""","Manchester, UK",stonecroft
+"""been""","Valladolid, Mexico",stonecroft
+"""been""","Lake Havasu City, AZ, USA",stonecroft
+"""been""","Decatur, GA, USA",stonecroft
+"""been""","Doral, FL, USA",stonecroft
+"""been""","Tombstone, AZ, USA",stonecroft
+"""been""","St. Thomas, U.S. Virgin Islands",stonecroft
+"""been""","Blacksburg, VA, USA",stonecroft
+"""been""","Wilkes-Barre, PA, USA",stonecroft
+"""been""","Palm Beach, FL, USA",stonecroft
+"""been""","Playa del Carmen, Mexico",stonecroft
+"""been""","Tulum, Mexico",stonecroft
+"""been""","Ithaca, NY, USA",stonecroft
+"""been""","Strasbourg, France",stonecroft
+"""been""","Isla Verde, Puerto Rico",stonecroft
+"""want""","Malaga, Spain",stonecroft
+"""want""","York, UK",stonecroft
+"""been""","Cambridge, UK",stonecroft
+"""been""","Brussels, Belgium",stonecroft
+"""been""","Nuremberg, Germany",stonecroft
+"""want""","Stockholm, Sweden",stonecroft
+"""been""","Lenox, MA, USA",stonecroft
+"""been""","Budapest, Hungary",stonecroft
+"""want""","Marbella, Spain",stonecroft
+"""want""","Tokyo, Japan",stonecroft
+"""been""","Pittsfield, MA, USA",stonecroft
+"""been""","Belfast, UK",stonecroft
+"""been""","Waltham, MA, USA",stonecroft
+"""been""","Ogunquit, ME, USA",stonecroft
+"""been""","Atlantic City, NJ, USA",stonecroft
+"""been""","Old Orchard Beach, ME, USA",stonecroft
+"""been""","Camden, ME, USA",stonecroft
+"""been""","Amherst, MA, USA",stonecroft
+"""been""","Lake Placid, NY, USA",stonecroft
+"""been""","Ennis, Ireland",stonecroft
+"""been""","Berlin, Germany",stonecroft
+"""been""","Niagara Falls, NY, USA",stonecroft
+"""want""","Seville, Spain",stonecroft
+"""want""","Agadir, Morocco",stonecroft
+"""been""","Brunswick, ME, USA",stonecroft
+"""been""","Vineyard Haven, MA, USA",stonecroft
+"""been""","Orleans, MA, USA",stonecroft
+"""been""","Seminyak, Indonesia",stonecroft
+"""been""","Lee, MA, USA",stonecroft
+"""been""","Hamburg, Germany",stonecroft
+"""been""","Oxford, UK",stonecroft
+"""been""","Niagara Falls, Ontario, Canada",stonecroft
+"""been""","Oak Bluffs, MA, USA",stonecroft
+"""been""","Charlotte, NC, USA",stonecroft
+"""been""","Shelton, CT, USA",stonecroft
+"""been""","Akureyri, Iceland",stonecroft
+"""been""","Perth, UK",stonecroft
+"""been""","Florence, Italy",stonecroft
+"""want""","Oia, Greece",stonecroft
+"""been""","Nags Head, NC, USA",stonecroft
+"""been""","Potenza, Italy",stonecroft
+"""been""","Carlisle, PA, USA",stonecroft
+"""been""","Revere, MA, USA",stonecroft
+"""been""","Kittery, ME, USA",stonecroft
+"""been""","Marietta, GA, USA",stonecroft
+"""been""","Owings Mills, MD, USA",stonecroft
+"""been""","Reading, PA, USA",stonecroft
+"""been""","Sorrento, Italy",stonecroft
+"""been""","Salerno, Italy",stonecroft
+"""been""","Marlborough, MA, USA",stonecroft
+"""been""","Kennebunkport, ME, USA",stonecroft
+"""been""","Albany, NY, USA",stonecroft
+"""been""","London, UK",stonecroft
+"""been""","Hartford, CT, USA",stonecroft
+"""been""","State College, PA, USA",stonecroft
+"""been""","The Hague, The Netherlands",stonecroft
+"""been""","Rotterdam, The Netherlands",stonecroft
+"""been""","Naples, Italy",stonecroft
+"""been""","Harrisburg, PA, USA",stonecroft
+"""been""","Munich, Germany",stonecroft
+"""been""","Lexington, KY, USA",stonecroft
+"""been""","Provincetown, MA, USA",stonecroft
+"""been""","Vatican City, Vatican City",stonecroft
+"""been""","Reykjavik, Iceland",stonecroft
+"""been""","Rome, Italy",stonecroft
+"""been""","Fayetteville, NC, USA",stonecroft
+"""been""","Stamford, CT, USA",stonecroft
+"""been""","Southbury, CT, USA",stonecroft
+"""want""","Riga, Latvia",stonecroft
+"""been""","Montauk, NY, USA",stonecroft
+"""been""","Nice, France",stonecroft
+"""been""","Mindo, Ecuador",stonecroft
+"""been""","Falmouth, MA, USA",stonecroft
+"""been""","Copenhagen, Denmark",stonecroft
+"""want""","Cabarete, Dominican Republic",stonecroft
+"""want""","Puerto de la Cruz, Spain",stonecroft
+"""been""","Concord, NC, USA",stonecroft
+"""been""","Dallas, TX, USA",stonecroft
+"""been""","Duluth, GA, USA",stonecroft
+"""been""","Olomouc, Czech Republic",stonecroft
+"""been""","Stroudsburg, PA, USA",stonecroft
+"""been""","Ostrava, Czech Republic",stonecroft
+"""been""","Litchfield, CT, USA",stonecroft
+"""been""","Brno, Czech Republic",stonecroft
+"""been""","Athens, GA, USA",stonecroft
+"""been""","Eastham, MA, USA",stonecroft
+"""been""","Edgartown, MA, USA",stonecroft
+"""been""","Marseille, France",stonecroft
+"""been""","Rockport, MA, USA",stonecroft
+"""been""","Dusseldorf, Germany",stonecroft
+"""been""","Ledyard, CT, USA",stonecroft
+"""been""","Cologne, Germany",stonecroft
+"""been""","Prague, Czech Republic",stonecroft
+"""been""","Middletown, CT, USA",stonecroft
+"""been""","Frankfurt, Germany",stonecroft
+"""been""","Yuma, AZ, USA",stonecroft
+"""been""","Uncasville, CT, USA",stonecroft
+"""been""","Aberdeen, UK",stonecroft
+"""been""","Pittsburgh, PA, USA",stonecroft
+"""want""","Port Douglas, Australia",stonecroft
+"""been""","Bantam, CT, USA",stonecroft
+"""been""","Torrington, CT, USA",stonecroft
+"""been""","Great Barrington, MA, USA",stonecroft
+"""want""","Bruges, Belgium",stonecroft
+"""been""","Lynchburg, VA, USA",stonecroft
+"""been""","Gloucester, MA, USA",stonecroft
+"""been""","Marble Dale, CT, USA",stonecroft
+"""been""","Bath, UK",stonecroft
+"""been""","Augusta, GA, USA",stonecroft
+"""been""","New Hope, PA, USA",stonecroft
+"""been""","New Fairfield, CT, USA",stonecroft
+"""been""","Khao Lak, Thailand",stonecroft
+"""been""","Waterbury, CT, USA",stonecroft
+"""been""","Surat Thani, Thailand",stonecroft
+"""been""","Fort Worth, TX, USA",stonecroft
+"""been""","Morris, CT, USA",stonecroft
+"""been""","Mystic, CT, USA",stonecroft
+"""want""","Athens, Greece",stonecroft
+"""been""","Washington, CT, USA",stonecroft
+"""been""","Monroe, CT, USA",stonecroft
+"""been""","Washington Depot, CT, USA",stonecroft
+"""been""","Hannover, Germany",stonecroft
+"""been""","Bethel, CT, USA",stonecroft
+"""been""","Bethlehem, CT, USA",stonecroft
+"""been""","Framingham, MA, USA",stonecroft

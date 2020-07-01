@@ -1,0 +1,403 @@
+tag,place,user
+"""been"",""fave""","Atlixco, Mexico",DYNAMISTO
+"""been"",""fave""","Borjomi, Georgia",DYNAMISTO
+"""been""","Beaverton, OR, USA",DYNAMISTO
+"""been""","Bend, OR, USA",DYNAMISTO
+"""been""","Chelan, WA, USA",DYNAMISTO
+"""been"",""fave""","T'ba, Georgia",DYNAMISTO
+"""been""","Cheney, WA, USA",DYNAMISTO
+"""been""","Boise, ID, USA",DYNAMISTO
+"""been""","St. Petersburg, Russia",DYNAMISTO
+"""been""","Brac Island, Croatia",DYNAMISTO
+"""been"",""fave""","Veliky Novgorod, Russia",DYNAMISTO
+"""been""","Chehalis, WA, USA",DYNAMISTO
+"""been""","Calas de Majorca, Spain",DYNAMISTO
+"""been""","Billings, MT, USA",DYNAMISTO
+"""been""","Bozeman, MT, USA",DYNAMISTO
+"""been"",""fave""","Zadar, Croatia",DYNAMISTO
+"""been""","Sibenik, Croatia",DYNAMISTO
+"""been""","Grants Pass, OR, USA",DYNAMISTO
+"""been""","Split, Croatia",DYNAMISTO
+"""want""","Dubrovnik, Croatia",DYNAMISTO
+"""been""","Dahab, Egypt",DYNAMISTO
+"""been""","Nizhny Novgorod, Russia",DYNAMISTO
+"""been"",""fave""","Supetar, Croatia",DYNAMISTO
+"""been""","Perm, Russia",DYNAMISTO
+"""want""","Odessa, Ukraine",DYNAMISTO
+"""want""","Budapest, Hungary",DYNAMISTO
+"""been""","Cleveland, OH, USA",DYNAMISTO
+"""been""","Sharm El Sheikh, Egypt",DYNAMISTO
+"""want""","Lviv, Ukraine",DYNAMISTO
+"""been""","Truckee, CA, USA",DYNAMISTO
+"""been""","Sunny Beach, Bulgaria",DYNAMISTO
+"""been""","Sioux Falls, SD, USA",DYNAMISTO
+"""been"",""fave""","Ravello, Italy",DYNAMISTO
+"""been""","Catalina Island, CA, USA",DYNAMISTO
+"""been""","Columbus, OH, USA",DYNAMISTO
+"""been""","Yekaterinburg, Russia",DYNAMISTO
+"""been"",""fave""","Ushguli, Georgia",DYNAMISTO
+"""been""","Jackson, WY, USA",DYNAMISTO
+"""been""","Torrance, CA, USA",DYNAMISTO
+"""been""","Mostar, Bosnia and Herzegovina",DYNAMISTO
+"""been""","Oklahoma City, OK, USA",DYNAMISTO
+"""been"",""fave""","Tbilisi, Georgia",DYNAMISTO
+"""been""","Santa Monica, CA, USA",DYNAMISTO
+"""been""","Seoul, South Korea",DYNAMISTO
+"""been""","Santa Ynez, CA, USA",DYNAMISTO
+"""been""","Santa Rosa, CA, USA",DYNAMISTO
+"""been"",""fave""","Batumi, Georgia",DYNAMISTO
+"""been""","South Lake Tahoe, CA, USA",DYNAMISTO
+"""want""","Bologna, Italy",DYNAMISTO
+"""been""","Stepantsminda, Georgia",DYNAMISTO
+"""want""","Warsaw, Poland",DYNAMISTO
+"""been""","Santa Cruz, CA, USA",DYNAMISTO
+"""been""","Tulsa, OK, USA",DYNAMISTO
+"""been""","Santa Clarita, CA, USA",DYNAMISTO
+"""been""","Santa Barbara, CA, USA",DYNAMISTO
+"""been""","Temecula, CA, USA",DYNAMISTO
+"""been""","Beverly Hills, CA, USA",DYNAMISTO
+"""been""","Dublin, Ireland",DYNAMISTO
+"""been""","Jurmala, Latvia",DYNAMISTO
+"""been""","Riga, Latvia",DYNAMISTO
+"""been""","Acapulco, Mexico",DYNAMISTO
+"""want""","Monterrey, Mexico",DYNAMISTO
+"""want""","Huatulco, Mexico",DYNAMISTO
+"""been""","Tahoe City, CA, USA",DYNAMISTO
+"""been"",""fave""","Vrboska, Croatia",DYNAMISTO
+"""been"",""fave""","Tallinn, Estonia",DYNAMISTO
+"""been"",""fave""","Tartu, Estonia",DYNAMISTO
+"""want""","Queretaro City, Mexico",DYNAMISTO
+"""want""","Vilnius, Lithuania",DYNAMISTO
+"""been""","Haapsalu, Estonia",DYNAMISTO
+"""been""","Parnu, Estonia",DYNAMISTO
+"""been""","San Marino, CA, USA",DYNAMISTO
+"""been""","Rosarito, Mexico",DYNAMISTO
+"""been"",""fave""","Paracho, Mexico",DYNAMISTO
+"""been""","San Luis Obispo, CA, USA",DYNAMISTO
+"""been""","Tijuana, Mexico",DYNAMISTO
+"""been""","Dallas, TX, USA",DYNAMISTO
+"""been""","Ensenada, Mexico",DYNAMISTO
+"""been""","San Jose, CA, USA",DYNAMISTO
+"""been""","Desert Hot Springs, CA, USA",DYNAMISTO
+"""been""","Denver, CO, USA",DYNAMISTO
+"""been""","Carpinteria, CA, USA",DYNAMISTO
+"""been""","Prague, Czech Republic",DYNAMISTO
+"""been""","Lloret de Mar, Spain",DYNAMISTO
+"""been"",""fave""","Salme, Estonia",DYNAMISTO
+"""been""","Chipilo, Mexico",DYNAMISTO
+"""been""","Palm Desert, CA, USA",DYNAMISTO
+"""want""","Mexicali, Mexico",DYNAMISTO
+"""been"",""fave""","Seattle, WA, USA",DYNAMISTO
+"""want""","Buenos Aires, Argentina",DYNAMISTO
+"""been""","Milpitas, CA, USA",DYNAMISTO
+"""been"",""fave""","New York City, NY, USA",DYNAMISTO
+"""want""","Vienna, Austria",DYNAMISTO
+"""been""","Omaha, NE, USA",DYNAMISTO
+"""been""","Longview, WA, USA",DYNAMISTO
+"""been""","Redding, CA, USA",DYNAMISTO
+"""been"",""fave""","Sarpi, Georgia",DYNAMISTO
+"""want""","New Orleans, LA, USA",DYNAMISTO
+"""been""","Redondo Beach, CA, USA",DYNAMISTO
+"""been""","Leavenworth, WA, USA",DYNAMISTO
+"""been""","Long Beach, WA, USA",DYNAMISTO
+"""been""","Port Townsend, WA, USA",DYNAMISTO
+"""been""","Walla Walla, WA, USA",DYNAMISTO
+"""been""","San Diego, CA, USA",DYNAMISTO
+"""been"",""fave""","Snowbird, UT, USA",DYNAMISTO
+"""been"",""fave""","Rincon de Guayabitos, Mexico",DYNAMISTO
+"""been""","Trinidad, Cuba",DYNAMISTO
+"""been""","Atlanta, GA, USA",DYNAMISTO
+"""been""","Rancho Mirage, CA, USA",DYNAMISTO
+"""been""","Puyallup, WA, USA",DYNAMISTO
+"""been""","Pullman, WA, USA",DYNAMISTO
+"""want""","Sarajevo, Bosnia and Herzegovina",DYNAMISTO
+"""been""","Ellensburg, WA, USA",DYNAMISTO
+"""been""","Khashuri, Georgia",DYNAMISTO
+"""been""","Corvallis, OR, USA",DYNAMISTO
+"""been"",""fave""","Ganisi, Georgia",DYNAMISTO
+"""been"",""fave""","Paris, France",DYNAMISTO
+"""want""","Cairo, Egypt",DYNAMISTO
+"""been""","Ojai, CA, USA",DYNAMISTO
+"""been""","Gateshead, UK",DYNAMISTO
+"""been""","Oceanside, CA, USA",DYNAMISTO
+"""been""","Bellevue, WA, USA",DYNAMISTO
+"""been""","Ventura, CA, USA",DYNAMISTO
+"""been""","Fall City, WA, USA",DYNAMISTO
+"""been""","Cluses, France",DYNAMISTO
+"""been""","Oakland, CA, USA",DYNAMISTO
+"""been""","El Paso, TX, USA",DYNAMISTO
+"""been""","Enumclaw, WA, USA",DYNAMISTO
+"""been""","Bainbridge Island, WA, USA",DYNAMISTO
+"""been""","Everett, WA, USA",DYNAMISTO
+"""want""","Hong Kong, China",DYNAMISTO
+"""want""","Zagreb, Croatia",DYNAMISTO
+"""been"",""fave""","Dusheti, Georgia",DYNAMISTO
+"""been""","Nuevo Vallarta, Mexico",DYNAMISTO
+"""been""","West Yellowstone, MT, USA",DYNAMISTO
+"""been""","Chalco, Mexico",DYNAMISTO
+"""been""","Toronto, Ontario, Canada",DYNAMISTO
+"""been""","Ashland, OR, USA",DYNAMISTO
+"""been""","Ferndale, WA, USA",DYNAMISTO
+"""want""","Veracruz, Mexico",DYNAMISTO
+"""been""","Puerto Morelos, Mexico",DYNAMISTO
+"""been""","Cancun, Mexico",DYNAMISTO
+"""been"",""want"",""fave""","Oaxaca, Mexico",DYNAMISTO
+"""been""","Forks, WA, USA",DYNAMISTO
+"""been"",""want"",""fave""","Mexico City, Mexico",DYNAMISTO
+"""been""","Black Diamond, WA, USA",DYNAMISTO
+"""want""","Taxco, Mexico",DYNAMISTO
+"""want""","San Cristobal de las Casas, Mexico",DYNAMISTO
+"""want""","Chichen Itza, Mexico",DYNAMISTO
+"""been""","Bellingham, WA, USA",DYNAMISTO
+"""been""","Cody, WY, USA",DYNAMISTO
+"""been"",""fave""","San Martin de las Piramides, Mexico",DYNAMISTO
+"""been""","Tepeji del Rio, Mexico",DYNAMISTO
+"""been""","Atlantic City, NJ, USA",DYNAMISTO
+"""been""","Christiansted, U.S. Virgin Islands",DYNAMISTO
+"""been""","St. Croix, U.S. Virgin Islands",DYNAMISTO
+"""been""","Bremerton, WA, USA",DYNAMISTO
+"""been""","Gig Harbor, WA, USA",DYNAMISTO
+"""been""","Huejotzingo, Mexico",DYNAMISTO
+"""been""","West Vancouver, British Columbia, Canada",DYNAMISTO
+"""want""","Kyiv (Kiev), Ukraine",DYNAMISTO
+"""been""","Medford, OR, USA",DYNAMISTO
+"""been""","Pleasanton, CA, USA",DYNAMISTO
+"""been""","Civitavecchia, Italy",DYNAMISTO
+"""been"",""fave""","Telavi, Georgia",DYNAMISTO
+"""been"",""fave""","Mammoth Lakes, CA, USA",DYNAMISTO
+"""been"",""fave""","Signagi, Georgia",DYNAMISTO
+"""been""","Cruz Bay, U.S. Virgin Islands",DYNAMISTO
+"""been""","Bol, Croatia",DYNAMISTO
+"""been""","Eugene, OR, USA",DYNAMISTO
+"""been""","Burien, WA, USA",DYNAMISTO
+"""been"",""fave""","Hvar, Croatia",DYNAMISTO
+"""been""","Gori, Georgia",DYNAMISTO
+"""been""","Mestia, Georgia",DYNAMISTO
+"""been""","Fargo, ND, USA",DYNAMISTO
+"""been""","Figueres, Spain",DYNAMISTO
+"""been""","Biarritz, France",DYNAMISTO
+"""been"",""fave""","Shatili, Georgia",DYNAMISTO
+"""been""","Castle Rock, WA, USA",DYNAMISTO
+"""been""","Playa del Carmen, Mexico",DYNAMISTO
+"""want""","Merida, Mexico",DYNAMISTO
+"""been"",""fave""","Tulum, Mexico",DYNAMISTO
+"""been""","Nassau, Bahamas",DYNAMISTO
+"""been""","Mobile, AL, USA",DYNAMISTO
+"""want""","Montreal, Quebec, Canada",DYNAMISTO
+"""been""","Salem, OR, USA",DYNAMISTO
+"""been""","Anacortes, WA, USA",DYNAMISTO
+"""been""","Yakima, WA, USA",DYNAMISTO
+"""been""","Abakan, Russia",DYNAMISTO
+"""been""","Steamboat Springs, CO, USA",DYNAMISTO
+"""want""","Rio de Janeiro, Brazil",DYNAMISTO
+"""been"",""fave""","Burgas, Bulgaria",DYNAMISTO
+"""been""","Marina del Rey, CA, USA",DYNAMISTO
+"""been""","Sedona, AZ, USA",DYNAMISTO
+"""want""","Bilbao, Spain",DYNAMISTO
+"""been"",""fave""","Sozopol, Bulgaria",DYNAMISTO
+"""been""","Scottsdale, AZ, USA",DYNAMISTO
+"""been""","Newcastle, UK",DYNAMISTO
+"""been"",""fave""","Berlin, Germany",DYNAMISTO
+"""want""","Sao Paulo, Brazil",DYNAMISTO
+"""been"",""want"",""fave""","Istanbul, Turkey",DYNAMISTO
+"""been""","Richland, WA, USA",DYNAMISTO
+"""been""","Smolensk, Russia",DYNAMISTO
+"""been""","Malibu, CA, USA",DYNAMISTO
+"""been""","Birmingham, AL, USA",DYNAMISTO
+"""been""","Aberdeen, WA, USA",DYNAMISTO
+"""been""","Niagara Falls, Ontario, Canada",DYNAMISTO
+"""been"",""fave""","Jelsa, Croatia",DYNAMISTO
+"""been""","Manhattan Beach, CA, USA",DYNAMISTO
+"""been""","Lagodekhi, Georgia",DYNAMISTO
+"""been""","Glendale, CA, USA",DYNAMISTO
+"""been""","Palma de Mallorca, Spain",DYNAMISTO
+"""been"",""fave""","San Sebastian - Donostia, Spain",DYNAMISTO
+"""want""","Bergen, Norway",DYNAMISTO
+"""want""","Tel Aviv, Israel",DYNAMISTO
+"""want""","Phuket Town, Thailand",DYNAMISTO
+"""been""","Aspen, CO, USA",DYNAMISTO
+"""been""","Selah, WA, USA",DYNAMISTO
+"""been""","Sequim, WA, USA",DYNAMISTO
+"""been"",""fave""","Rome, Italy",DYNAMISTO
+"""been""","SeaTac, WA, USA",DYNAMISTO
+"""want""","Cadiz, Spain",DYNAMISTO
+"""been""","Ancona, Italy",DYNAMISTO
+"""been""","Newport Beach, CA, USA",DYNAMISTO
+"""want""","Cordoba, Spain",DYNAMISTO
+"""been""","Vatican City, Vatican City",DYNAMISTO
+"""been"",""fave""","Naples, Italy",DYNAMISTO
+"""been"",""fave""","Pompeii, Italy",DYNAMISTO
+"""been"",""fave""","Borjomi-Kharagauli National Park, Georgia",DYNAMISTO
+"""been"",""fave""","Jokolo, Georgia",DYNAMISTO
+"""been""","London, UK",DYNAMISTO
+"""been""","Omalo, Georgia",DYNAMISTO
+"""been""","Munich, Germany",DYNAMISTO
+"""been"",""fave""","Valle de Guadalupe, Mexico",DYNAMISTO
+"""been""","Los Angeles, CA, USA",DYNAMISTO
+"""been""","Chicago, IL, USA",DYNAMISTO
+"""been""","Jacksonville, FL, USA",DYNAMISTO
+"""been""","Ixtapa, Mexico",DYNAMISTO
+"""been""","Port Angeles, WA, USA",DYNAMISTO
+"""been""","Fresno, CA, USA",DYNAMISTO
+"""been""","Salt Lake City, UT, USA",DYNAMISTO
+"""been""","Irvine, CA, USA",DYNAMISTO
+"""been"",""fave""","Seville, Spain",DYNAMISTO
+"""been""","Mount Vernon, WA, USA",DYNAMISTO
+"""want""","Malaga, Spain",DYNAMISTO
+"""been""","Fiordo di Furore, Italy",DYNAMISTO
+"""been""","Friday Harbor, WA, USA",DYNAMISTO
+"""been""","Phoenix, AZ, USA",DYNAMISTO
+"""been""","Santa Fe, NM, USA",DYNAMISTO
+"""been""","Thousand Oaks, CA, USA",DYNAMISTO
+"""been""","Normandy Park, WA, USA",DYNAMISTO
+"""been""","Long Beach, CA, USA",DYNAMISTO
+"""been""","Ancy-le-Franc, France",DYNAMISTO
+"""been""","Spokane, WA, USA",DYNAMISTO
+"""been"",""fave""","San Francisco, CA, USA",DYNAMISTO
+"""been"",""fave""","Napa, CA, USA",DYNAMISTO
+"""been"",""want"",""fave""","San Luis Potosi, Mexico",DYNAMISTO
+"""been"",""fave""","Barcelona, Spain",DYNAMISTO
+"""want""","Orleans, France",DYNAMISTO
+"""been"",""fave""","Bakuriani, Georgia",DYNAMISTO
+"""been"",""fave""","Gudauri, Georgia",DYNAMISTO
+"""been""","Jersey City, NJ, USA",DYNAMISTO
+"""been""","Index, WA, USA",DYNAMISTO
+"""been""","Petaluma, CA, USA",DYNAMISTO
+"""been""","Ocean Shores, WA, USA",DYNAMISTO
+"""been""","Knoxville, TN, USA",DYNAMISTO
+"""been""","Cle Elum, WA, USA",DYNAMISTO
+"""been""","Vancouver, WA, USA",DYNAMISTO
+"""been""","Amsterdam, The Netherlands",DYNAMISTO
+"""been""","Issaquah, WA, USA",DYNAMISTO
+"""been""","Sacramento, CA, USA",DYNAMISTO
+"""been""","Mount Shasta, CA, USA",DYNAMISTO
+"""been""","Huntington Beach, CA, USA",DYNAMISTO
+"""been""","Annecy, France",DYNAMISTO
+"""been""","Mount Baldy, CA, USA",DYNAMISTO
+"""been""","Morzine, France",DYNAMISTO
+"""been""","Sammamish, WA, USA",DYNAMISTO
+"""been""","Helena, MT, USA",DYNAMISTO
+"""been""","North Vancouver, British Columbia, Canada",DYNAMISTO
+"""been""","Kent, WA, USA",DYNAMISTO
+"""been""","Paso Robles, CA, USA",DYNAMISTO
+"""been""","Saaremaa, Estonia",DYNAMISTO
+"""been""","Roseville, CA, USA",DYNAMISTO
+"""been"",""fave""","Furore, Italy",DYNAMISTO
+"""been"",""fave""","Nessebar, Bulgaria",DYNAMISTO
+"""been""","Olympia, WA, USA",DYNAMISTO
+"""been""","Tacoma, WA, USA",DYNAMISTO
+"""been""","Kelso, WA, USA",DYNAMISTO
+"""been""","Bismarck, ND, USA",DYNAMISTO
+"""been""","Newark, NJ, USA",DYNAMISTO
+"""been""","Pasadena, CA, USA",DYNAMISTO
+"""been""","Mankato, MN, USA",DYNAMISTO
+"""been"",""fave""","La Push, WA, USA",DYNAMISTO
+"""been""","Riverside, CA, USA",DYNAMISTO
+"""been""","Cienfuegos, Cuba",DYNAMISTO
+"""been""","Newcastle upon Tyne, UK",DYNAMISTO
+"""been""","Kirkland, WA, USA",DYNAMISTO
+"""been""","Kittitas, WA, USA",DYNAMISTO
+"""been""","Houston, TX, USA",DYNAMISTO
+"""been""","San Pedro Cholula, Mexico",DYNAMISTO
+"""want""","Puerto Escondido, Mexico",DYNAMISTO
+"""been""","Palm Springs, CA, USA",DYNAMISTO
+"""been""","Hood River, OR, USA",DYNAMISTO
+"""been"",""fave""","Ananuri, Georgia",DYNAMISTO
+"""been"",""fave""","Minori, Italy",DYNAMISTO
+"""been""","Westlake Village, CA, USA",DYNAMISTO
+"""been""","Varadero, Cuba",DYNAMISTO
+"""been""","West Hollywood, CA, USA",DYNAMISTO
+"""been"",""fave""","Korgessaare, Estonia",DYNAMISTO
+"""been""","San Clemente, CA, USA",DYNAMISTO
+"""been"",""fave""","Santa Maria Tonantzintla, Mexico",DYNAMISTO
+"""been""","Havana, Cuba",DYNAMISTO
+"""been""","Saint Paul, MN, USA",DYNAMISTO
+"""been""","Kuopio, Finland",DYNAMISTO
+"""been""","Milan, Italy",DYNAMISTO
+"""want""","Cuernavaca, Mexico",DYNAMISTO
+"""been""","Dana Point, CA, USA",DYNAMISTO
+"""been"",""want"",""fave""","Guanajuato, Mexico",DYNAMISTO
+"""been""","Kvareli, Georgia",DYNAMISTO
+"""been""","Bakersfield, CA, USA",DYNAMISTO
+"""want""","Guadalajara, Mexico",DYNAMISTO
+"""been""","Long Island City, NY, USA",DYNAMISTO
+"""been""","Puerto Vallarta, Mexico",DYNAMISTO
+"""been""","San Bernardino, CA, USA",DYNAMISTO
+"""been"",""fave""","Zihuatanejo, Mexico",DYNAMISTO
+"""been""","Culver City, CA, USA",DYNAMISTO
+"""been""","Yaroslavl, Russia",DYNAMISTO
+"""been""","Carefree, AZ, USA",DYNAMISTO
+"""been""","Ryazan, Russia",DYNAMISTO
+"""been"",""fave""","Gergeti, Georgia",DYNAMISTO
+"""been""","Los Mochis, Mexico",DYNAMISTO
+"""been"",""fave""","Moscow, Russia",DYNAMISTO
+"""been""","Edinburgh, UK",DYNAMISTO
+"""been""","Victoria, British Columbia, Canada",DYNAMISTO
+"""been""","South San Francisco, CA, USA",DYNAMISTO
+"""been""","Moscow, ID, USA",DYNAMISTO
+"""been""","Coeur d'Alene, ID, USA",DYNAMISTO
+"""been""","Vancouver, British Columbia, Canada",DYNAMISTO
+"""been"",""want""","Aguascalientes, Mexico",DYNAMISTO
+"""been""","Des Moines, IA, USA",DYNAMISTO
+"""been""","Jacksonville Beach, FL, USA",DYNAMISTO
+"""been""","Vladivostok, Russia",DYNAMISTO
+"""been""","Yuzhno-Sakhalinsk, Russia",DYNAMISTO
+"""been"",""fave""","Hvar Island, Croatia",DYNAMISTO
+"""been""","Nakhodka, Russia",DYNAMISTO
+"""been"",""fave""","Whistler, British Columbia, Canada",DYNAMISTO
+"""been""","Khabarovsk, Russia",DYNAMISTO
+"""been""","Anaheim, CA, USA",DYNAMISTO
+"""want""","Genoa, Italy",DYNAMISTO
+"""been"",""fave""","Morelia, Mexico",DYNAMISTO
+"""been""","Blanes, Spain",DYNAMISTO
+"""been""","Sonora, CA, USA",DYNAMISTO
+"""been""","Miami Beach, FL, USA",DYNAMISTO
+"""been""","Sonoma, CA, USA",DYNAMISTO
+"""been""","Miami, FL, USA",DYNAMISTO
+"""been""","Coronado, CA, USA",DYNAMISTO
+"""been""","Hermosa Beach, CA, USA",DYNAMISTO
+"""been""","Austin, TX, USA",DYNAMISTO
+"""been"",""fave""","Tossa de Mar, Spain",DYNAMISTO
+"""been"",""fave""","Healdsburg, CA, USA",DYNAMISTO
+"""been""","Burbank, CA, USA",DYNAMISTO
+"""been""","Buena Park, CA, USA",DYNAMISTO
+"""been""","Las Vegas, NV, USA",DYNAMISTO
+"""been""","Yerevan, Armenia",DYNAMISTO
+"""been""","Big Bear Lake, CA, USA",DYNAMISTO
+"""been""","Tlaxcala, Mexico",DYNAMISTO
+"""been""","Boulder, CO, USA",DYNAMISTO
+"""been""","Encinitas, CA, USA",DYNAMISTO
+"""been"",""fave""","Alamos, Mexico",DYNAMISTO
+"""been""","Vashon, WA, USA",DYNAMISTO
+"""want""","Zacatecas, Mexico",DYNAMISTO
+"""been""","Breckenridge, CO, USA",DYNAMISTO
+"""been"",""fave""","Puebla, Mexico",DYNAMISTO
+"""been"",""fave""","Amalfi, Italy",DYNAMISTO
+"""want""","Capri, Italy",DYNAMISTO
+"""been""","Portland, OR, USA",DYNAMISTO
+"""want""","Florence, Italy",DYNAMISTO
+"""been""","Ciudad Obregon, Mexico",DYNAMISTO
+"""been""","Saint Louis, MO, USA",DYNAMISTO
+"""been""","Laguna Beach, CA, USA",DYNAMISTO
+"""been""","Vail, CO, USA",DYNAMISTO
+"""been""","Sun Valley, ID, USA",DYNAMISTO
+"""been""","Narva-Joesuu, Estonia",DYNAMISTO
+"""been""","La Quinta, CA, USA",DYNAMISTO
+"""want""","Venice, Italy",DYNAMISTO
+"""been""","Minneapolis, MN, USA",DYNAMISTO
+"""been""","Tepic, Mexico",DYNAMISTO
+"""been""","La Jolla, CA, USA",DYNAMISTO
+"""been""","La Mision, Mexico",DYNAMISTO
+"""been""","White Salmon, WA, USA",DYNAMISTO
+"""been""","Orlando, FL, USA",DYNAMISTO
+"""been""","Wenatchee, WA, USA",DYNAMISTO
+"""been""","Chula Vista, CA, USA",DYNAMISTO
+"""want""","Pamplona, Spain",DYNAMISTO
+"""been""","Olbia, Italy",DYNAMISTO
+"""been""","Arlington, WA, USA",DYNAMISTO
+"""want""","Tokyo, Japan",DYNAMISTO
+"""been"",""fave""","Sardinia, Italy",DYNAMISTO
+"""want""","Madrid, Spain",DYNAMISTO
+"""been""","Helsinki, Finland",DYNAMISTO
+"""been"",""fave""","Xcalak, Mexico",DYNAMISTO
+"""been""","Reno, NV, USA",DYNAMISTO

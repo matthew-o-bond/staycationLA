@@ -1,0 +1,664 @@
+tag,place,user
+"""want""","Lecce, Italy",Toni_Priore
+"""want""","Es Canar, Spain",Toni_Priore
+"""want""","Udaipur, India",Toni_Priore
+"""want""","Split, Croatia",Toni_Priore
+"""been""","Tucson, AZ, USA",Toni_Priore
+"""want""","Tagaytay, Philippines",Toni_Priore
+"""want""","Alcudia, Spain",Toni_Priore
+"""want""","Providence, RI, USA",Toni_Priore
+"""been""","Estes Park, CO, USA",Toni_Priore
+"""want""","Antigua, Guatemala",Toni_Priore
+"""want""","Fredericksburg, VA, USA",Toni_Priore
+"""been""","Burbank, CA, USA",Toni_Priore
+"""been""","Buena Park, CA, USA",Toni_Priore
+"""been""","Corcoran, CA, USA",Toni_Priore
+"""been""","Burlingame, CA, USA",Toni_Priore
+"""been""","Vallejo, CA, USA",Toni_Priore
+"""been""","Grand Junction, CO, USA",Toni_Priore
+"""want""","Bar Harbor, ME, USA",Toni_Priore
+"""want""","Montego Bay, Jamaica",Toni_Priore
+"""want""","Ocho Rios, Jamaica",Toni_Priore
+"""want""","Negril, Jamaica",Toni_Priore
+"""want""","Puerto Calero, Spain",Toni_Priore
+"""been""","Agoura, CA, USA",Toni_Priore
+"""want""","Shenzhen, China",Toni_Priore
+"""been""","Thousand Oaks, CA, USA",Toni_Priore
+"""been""","Santa Fe, NM, USA",Toni_Priore
+"""been""","Breckenridge, CO, USA",Toni_Priore
+"""been""","Coloma, CA, USA",Toni_Priore
+"""been""","San Antonio, TX, USA",Toni_Priore
+"""been""","San Francisco, CA, USA",Toni_Priore
+"""been""","Issaquah, WA, USA",Toni_Priore
+"""been""","Page, AZ, USA",Toni_Priore
+"""want""","Port Vila, Vanuatu",Toni_Priore
+"""been""","Lake Forest, CA, USA",Toni_Priore
+"""been""","Boulder, CO, USA",Toni_Priore
+"""been""","Hanford, CA, USA",Toni_Priore
+"""want""","Juneau, AK, USA",Toni_Priore
+"""want""","Sosua, Dominican Republic",Toni_Priore
+"""want""","Charleston, SC, USA",Toni_Priore
+"""want""","Ithaca, NY, USA",Toni_Priore
+"""been""","Buffalo, NY, USA",Toni_Priore
+"""been""","Flagstaff, AZ, USA",Toni_Priore
+"""want""","Ocean City, MD, USA",Toni_Priore
+"""want""","Puerto Princesa, Philippines",Toni_Priore
+"""want""","Waikoloa, HI, USA",Toni_Priore
+"""want""","Colakli, Turkey",Toni_Priore
+"""want""","Kent, WA, USA",Toni_Priore
+"""been""","Clovis, CA, USA",Toni_Priore
+"""been""","Laguna Beach, CA, USA",Toni_Priore
+"""been""","Elk Grove, CA, USA",Toni_Priore
+"""been"",""want""","Coarsegold, CA, USA",Toni_Priore
+"""been""","Brea, CA, USA",Toni_Priore
+"""been""","Half Moon Bay, CA, USA",Toni_Priore
+"""been""","Coalinga, CA, USA",Toni_Priore
+"""want""","Puerto Galera, Philippines",Toni_Priore
+"""want""","Tacoma, WA, USA",Toni_Priore
+"""want""","Vail, CO, USA",Toni_Priore
+"""been""","Tempe, AZ, USA",Toni_Priore
+"""been""","La Palma, CA, USA",Toni_Priore
+"""want""","Santa Maria, Cape Verde",Toni_Priore
+"""want""","Burlington, VT, USA",Toni_Priore
+"""want""","Budapest, Hungary",Toni_Priore
+"""want""","Detroit, MI, USA",Toni_Priore
+"""want""","Cruz Bay, U.S. Virgin Islands",Toni_Priore
+"""want""","Lihue, HI, USA",Toni_Priore
+"""want""","New Orleans, LA, USA",Toni_Priore
+"""want""","Honolulu, HI, USA",Toni_Priore
+"""want""","Grand Rapids, MI, USA",Toni_Priore
+"""want""","Qawra, Malta",Toni_Priore
+"""want""","Kavos, Greece",Toni_Priore
+"""been""","La Jolla, CA, USA",Toni_Priore
+"""want""","Orlando, FL, USA",Toni_Priore
+"""want""","Newport, RI, USA",Toni_Priore
+"""want""","Kalpetta, India",Toni_Priore
+"""been""","Yuba City, CA, USA",Toni_Priore
+"""been""","El Dorado, CA, USA",Toni_Priore
+"""been""","La Habra, CA, USA",Toni_Priore
+"""been""","Columbia, SC, USA",Toni_Priore
+"""been""","Citrus Heights, CA, USA",Toni_Priore
+"""been""","Mc Farland, CA, USA",Toni_Priore
+"""want""","Sarigerme, Turkey",Toni_Priore
+"""want""","Houston, TX, USA",Toni_Priore
+"""want""","Charlotte Amalie, U.S. Virgin Islands",Toni_Priore
+"""want""","Olhos de Agua, Portugal",Toni_Priore
+"""want""","Portsmouth, NH, USA",Toni_Priore
+"""want""","Rochester, NY, USA",Toni_Priore
+"""been""","Tijuana, Mexico",Toni_Priore
+"""want""","Myrtle Beach, SC, USA",Toni_Priore
+"""been""","McKeesport, PA, USA",Toni_Priore
+"""want""","Goreme, Turkey",Toni_Priore
+"""want""","Fort Lauderdale, FL, USA",Toni_Priore
+"""want""","Cork, Ireland",Toni_Priore
+"""want""","Kyiv (Kiev), Ukraine",Toni_Priore
+"""been""","Delano, CA, USA",Toni_Priore
+"""been""","Westlake Village, CA, USA",Toni_Priore
+"""want""","Dublin, Ireland",Toni_Priore
+"""been""","Delhi, CA, USA",Toni_Priore
+"""want""","Key West, FL, USA",Toni_Priore
+"""want""","Salta, Argentina",Toni_Priore
+"""been""","Mill Valley, CA, USA",Toni_Priore
+"""been""","Davis, CA, USA",Toni_Priore
+"""been""","San Clemente, CA, USA",Toni_Priore
+"""been""","McKees Rocks, PA, USA",Toni_Priore
+"""want""","Galway, Ireland",Toni_Priore
+"""been""","Stockton, CA, USA",Toni_Priore
+"""been""","West Hollywood, CA, USA",Toni_Priore
+"""want""","San Agustin, Spain",Toni_Priore
+"""want""","Huatulco, Mexico",Toni_Priore
+"""want""","Newark, NJ, USA",Toni_Priore
+"""want""","Acapulco, Mexico",Toni_Priore
+"""been""","San Andreas, CA, USA",Toni_Priore
+"""been""","Seaside, OR, USA",Toni_Priore
+"""been""","Cypress, CA, USA",Toni_Priore
+"""been""","Bakersfield, CA, USA",Toni_Priore
+"""been""","Dana Point, CA, USA",Toni_Priore
+"""want""","Ljubljana, Slovenia",Toni_Priore
+"""want""","Puerto de Mogan, Spain",Toni_Priore
+"""want""","Manali, India",Toni_Priore
+"""been""","Wawona, CA, USA",Toni_Priore
+"""been""","Culver City, CA, USA",Toni_Priore
+"""been""","Colorado Springs, CO, USA",Toni_Priore
+"""been""","Grand Canyon National Park, AZ, USA",Toni_Priore
+"""been""","Cutler, CA, USA",Toni_Priore
+"""want""","Treasure Island, FL, USA",Toni_Priore
+"""want""","Gurugram (Gurgaon), India",Toni_Priore
+"""want""","Calgary, Alberta, Canada",Toni_Priore
+"""want""","Edmonton, Alberta, Canada",Toni_Priore
+"""want""","Skala, Greece",Toni_Priore
+"""want""","Mazatlan, Mexico",Toni_Priore
+"""want""","Puerto Vallarta, Mexico",Toni_Priore
+"""want""","Jasper, Alberta, Canada",Toni_Priore
+"""been""","Anaheim, CA, USA",Toni_Priore
+"""want""","Guadalajara, Mexico",Toni_Priore
+"""want""","Nashville, TN, USA",Toni_Priore
+"""want""","Riga, Latvia",Toni_Priore
+"""want""","Dubai, United Arab Emirates",Toni_Priore
+"""want""","Kas, Turkey",Toni_Priore
+"""want""","Beijing, China",Toni_Priore
+"""been""","Greenville, SC, USA",Toni_Priore
+"""want""","Kalkan, Turkey",Toni_Priore
+"""want""","Sigatoka, Fiji",Toni_Priore
+"""want""","Bellagio, Italy",Toni_Priore
+"""been""","Cambria, CA, USA",Toni_Priore
+"""been""","Salt Lake City, UT, USA",Toni_Priore
+"""been""","Wasco, CA, USA",Toni_Priore
+"""want""","Bergamo, Italy",Toni_Priore
+"""want""","Sofia, Bulgaria",Toni_Priore
+"""been""","Walnut Creek, CA, USA",Toni_Priore
+"""been""","Five Points, CA, USA",Toni_Priore
+"""want""","North Myrtle Beach, SC, USA",Toni_Priore
+"""want""","Ahmedabad, India",Toni_Priore
+"""want""","Hong Kong, China",Toni_Priore
+"""been""","Calistoga, CA, USA",Toni_Priore
+"""been""","Fish Camp, CA, USA",Toni_Priore
+"""been""","Visalia, CA, USA",Toni_Priore
+"""want""","San Carlos de Bariloche, Argentina",Toni_Priore
+"""been""","Alpaugh, CA, USA",Toni_Priore
+"""want""","Vancouver, WA, USA",Toni_Priore
+"""want""","Syracuse, NY, USA",Toni_Priore
+"""want""","Jersey City, NJ, USA",Toni_Priore
+"""want""","Monterosso al Mare, Italy",Toni_Priore
+"""want""","Giza, Egypt",Toni_Priore
+"""want""","Cairo, Egypt",Toni_Priore
+"""been""","Sonoma, CA, USA",Toni_Priore
+"""want""","Savannah, GA, USA",Toni_Priore
+"""want""","Miami, FL, USA",Toni_Priore
+"""want""","Stowe, VT, USA",Toni_Priore
+"""want""","Miami Beach, FL, USA",Toni_Priore
+"""been""","Albuquerque, NM, USA",Toni_Priore
+"""want""","Tampa, FL, USA",Toni_Priore
+"""been""","Baltimore, MD, USA",Toni_Priore
+"""been""","Calabasas, CA, USA",Toni_Priore
+"""been""","Coronado, CA, USA",Toni_Priore
+"""want""","Luxor, Egypt",Toni_Priore
+"""been""","Costa Mesa, CA, USA",Toni_Priore
+"""been""","Austin, TX, USA",Toni_Priore
+"""been""","Henderson, NV, USA",Toni_Priore
+"""want""","Denarau Island, Fiji",Toni_Priore
+"""want""","Moscow, Russia",Toni_Priore
+"""been""","Long Beach, CA, USA",Toni_Priore
+"""been""","Fountain Valley, CA, USA",Toni_Priore
+"""been""","Atascadero, CA, USA",Toni_Priore
+"""been""","Frazier Park, CA, USA",Toni_Priore
+"""been""","Fowler, CA, USA",Toni_Priore
+"""want""","Kanazawa, Japan",Toni_Priore
+"""been""","Pinedale, CA, USA",Toni_Priore
+"""been""","Auberry, CA, USA",Toni_Priore
+"""been""","Inglewood, CA, USA",Toni_Priore
+"""want""","Lagos, Portugal",Toni_Priore
+"""been""","Napa, CA, USA",Toni_Priore
+"""want""","Takayama, Japan",Toni_Priore
+"""been""","Lodi, CA, USA",Toni_Priore
+"""want""","New Haven, CT, USA",Toni_Priore
+"""been""","Phoenix, AZ, USA",Toni_Priore
+"""want""","Belize City, Belize",Toni_Priore
+"""want""","Mykonos Town, Greece",Toni_Priore
+"""want""","Mar del Plata, Argentina",Toni_Priore
+"""want""","Willemstad, Curacao",Toni_Priore
+"""want""","Buenos Aires, Argentina",Toni_Priore
+"""want""","Cattolica, Italy",Toni_Priore
+"""want""","Stuttgart, Germany",Toni_Priore
+"""want""","Cefalu, Italy",Toni_Priore
+"""want""","Cala San Vincente, Spain",Toni_Priore
+"""been""","Huron, CA, USA",Toni_Priore
+"""been""","Sacramento, CA, USA",Toni_Priore
+"""been""","Petaluma, CA, USA",Toni_Priore
+"""want""","Mystic, CT, USA",Toni_Priore
+"""been""","Livermore, CA, USA",Toni_Priore
+"""been""","Armona, CA, USA",Toni_Priore
+"""want""","Vienna, Austria",Toni_Priore
+"""been""","Huntington Beach, CA, USA",Toni_Priore
+"""want""","Ishigaki, Japan",Toni_Priore
+"""been""","Rowland Heights, CA, USA",Toni_Priore
+"""been""","Hornitos, CA, USA",Toni_Priore
+"""want""","Magny-le-Hongre, France",Toni_Priore
+"""been""","Lindsay, CA, USA",Toni_Priore
+"""want""","Cayo Largo, Cuba",Toni_Priore
+"""been""","Portland, OR, USA",Toni_Priore
+"""want""","Ottawa, Ontario, Canada",Toni_Priore
+"""want""","Flic En Flac, Africa",Toni_Priore
+"""want""","Geneva, Switzerland",Toni_Priore
+"""want""","Cebu City, Philippines",Toni_Priore
+"""been""","Roseville, CA, USA",Toni_Priore
+"""been""","Morro Bay, CA, USA",Toni_Priore
+"""been""","Yuma, AZ, USA",Toni_Priore
+"""want""","Sasebo, Japan",Toni_Priore
+"""been""","Lemoore, CA, USA",Toni_Priore
+"""been""","St. Catharines, Ontario, Canada",Toni_Priore
+"""been""","Rocklin, CA, USA",Toni_Priore
+"""been""","Moorpark, CA, USA",Toni_Priore
+"""been""","Paso Robles, CA, USA",Toni_Priore
+"""want""","Nerja, Spain",Toni_Priore
+"""want""","Fuengirola, Spain",Toni_Priore
+"""been""","Carson City, NV, USA",Toni_Priore
+"""want""","Kagoshima, Japan",Toni_Priore
+"""want""","Santa Marta, Colombia",Toni_Priore
+"""want""","Milano Marittima, Italy",Toni_Priore
+"""want""","Mestre, Italy",Toni_Priore
+"""want""","Oaxaca, Mexico",Toni_Priore
+"""been""","Toronto, Ontario, Canada",Toni_Priore
+"""want""","Viareggio, Italy",Toni_Priore
+"""want""","Kuala Lumpur, Malaysia",Toni_Priore
+"""been""","Riverside, CA, USA",Toni_Priore
+"""been""","Lee Vining, CA, USA",Toni_Priore
+"""been""","Pasadena, CA, USA",Toni_Priore
+"""been""","Williams, AZ, USA",Toni_Priore
+"""been""","Monterey, CA, USA",Toni_Priore
+"""been""","Parlier, CA, USA",Toni_Priore
+"""want""","Oslo, Norway",Toni_Priore
+"""want""","Nagasaki, Japan",Toni_Priore
+"""been""","Ripon, CA, USA",Toni_Priore
+"""been""","Laton, CA, USA",Toni_Priore
+"""want""","Cozumel, Mexico",Toni_Priore
+"""want""","Medellin, Colombia",Toni_Priore
+"""been""","Windsor, Ontario, Canada",Toni_Priore
+"""want""","Manchester, UK",Toni_Priore
+"""want""","Luxembourg City, Luxembourg",Toni_Priore
+"""want""","Osaka, Japan",Toni_Priore
+"""want""","Cancun, Mexico",Toni_Priore
+"""want""","Psalidi, Greece",Toni_Priore
+"""want""","Oranjestad, Aruba",Toni_Priore
+"""want""","Palm - Eagle Beach, Aruba",Toni_Priore
+"""want""","Grand Cayman, Cayman Islands",Toni_Priore
+"""want""","Riccione, Italy",Toni_Priore
+"""want""","Tulum, Mexico",Toni_Priore
+"""been""","St. George, Ontario, Canada",Toni_Priore
+"""want""","Merida, Mexico",Toni_Priore
+"""been""","Reno, NV, USA",Toni_Priore
+"""been""","Chowchilla, CA, USA",Toni_Priore
+"""been""","Allentown, PA, USA",Toni_Priore
+"""want""","Hangzhou, China",Toni_Priore
+"""want""","Xi'an, China",Toni_Priore
+"""want""","Montreal, Quebec, Canada",Toni_Priore
+"""want""","Lisbon, Portugal",Toni_Priore
+"""want""","Seoul, South Korea",Toni_Priore
+"""been""","Marysville, CA, USA",Toni_Priore
+"""been""","Grass Valley, CA, USA",Toni_Priore
+"""been""","Goshen, CA, USA",Toni_Priore
+"""been""","Marina del Rey, CA, USA",Toni_Priore
+"""been""","Sedona, AZ, USA",Toni_Priore
+"""been""","Earlimart, CA, USA",Toni_Priore
+"""been""","Mariposa, CA, USA",Toni_Priore
+"""been""","Kingsburg, CA, USA",Toni_Priore
+"""been""","Scottsdale, AZ, USA",Toni_Priore
+"""been""","Kansas City, MO, USA",Toni_Priore
+"""been""","Big Sur, CA, USA",Toni_Priore
+"""want""","Knysna, South Africa",Toni_Priore
+"""want""","Aspen, CO, USA",Toni_Priore
+"""want""","Minneapolis, MN, USA",Toni_Priore
+"""want""","Gangtok, India",Toni_Priore
+"""want""","Porec, Croatia",Toni_Priore
+"""want""","Kunigami-son, Japan",Toni_Priore
+"""want""","George Town, Malaysia",Toni_Priore
+"""been""","Kerman, CA, USA",Toni_Priore
+"""been""","Malibu, CA, USA",Toni_Priore
+"""been""","Manteca, CA, USA",Toni_Priore
+"""want""","Jimbaran, Indonesia",Toni_Priore
+"""been""","Fort Worth, TX, USA",Toni_Priore
+"""been""","Madera, CA, USA",Toni_Priore
+"""been""","Glendale, CA, USA",Toni_Priore
+"""want""","West Palm Beach, FL, USA",Toni_Priore
+"""been""","North Highlands, CA, USA",Toni_Priore
+"""want""","Philipsburg, St Martin \u002F St Maarten",Toni_Priore
+"""want""","Kuching, Malaysia",Toni_Priore
+"""want""","Castries, St. Lucia",Toni_Priore
+"""want""","Gros Islet, St. Lucia",Toni_Priore
+"""want""","Soufriere, St. Lucia",Toni_Priore
+"""want""","Zermatt, Switzerland",Toni_Priore
+"""want""","Lugano, Switzerland",Toni_Priore
+"""been""","Saint Louis, MO, USA",Toni_Priore
+"""want""","Mussoorie, India",Toni_Priore
+"""want""","Ankara, Turkey",Toni_Priore
+"""been""","North Fork, CA, USA",Toni_Priore
+"""been""","Pittsburgh, PA, USA",Toni_Priore
+"""been""","Garden Grove, CA, USA",Toni_Priore
+"""been""","Los Osos, CA, USA",Toni_Priore
+"""want""","Nainital, India",Toni_Priore
+"""been""","Rapid City, SD, USA",Toni_Priore
+"""been""","Newport Beach, CA, USA",Toni_Priore
+"""want""","Jaco, Costa Rica",Toni_Priore
+"""been""","Laughlin, NV, USA",Toni_Priore
+"""been""","Auburn, CA, USA",Toni_Priore
+"""want""","Agra, India",Toni_Priore
+"""been""","Avalon, CA, USA",Toni_Priore
+"""been""","Las Vegas, NV, USA",Toni_Priore
+"""been""","Fullerton, CA, USA",Toni_Priore
+"""been""","Chicago, IL, USA",Toni_Priore
+"""want""","Yalta, Europe",Toni_Priore
+"""want""","Taba, Egypt",Toni_Priore
+"""been""","Galt, CA, USA",Toni_Priore
+"""been""","Ivanhoe, CA, USA",Toni_Priore
+"""been""","Los Angeles, CA, USA",Toni_Priore
+"""been""","Pixley, CA, USA",Toni_Priore
+"""been""","Newhall, CA, USA",Toni_Priore
+"""been""","Placerville, CA, USA",Toni_Priore
+"""been"",""want""","Fresno, CA, USA",Toni_Priore
+"""been""","Irvine, CA, USA",Toni_Priore
+"""been""","Nevada City, CA, USA",Toni_Priore
+"""been""","Pittsburg, CA, USA",Toni_Priore
+"""been""","Pismo Beach, CA, USA",Toni_Priore
+"""been""","Yosemite National Park, CA, USA",Toni_Priore
+"""want""","Isabela, Puerto Rico",Toni_Priore
+"""want""","Santa Susanna, Spain",Toni_Priore
+"""want""","Durban, South Africa",Toni_Priore
+"""want""","Rotorua, New Zealand",Toni_Priore
+"""want""","Bath, UK",Toni_Priore
+"""want""","Bruges, Belgium",Toni_Priore
+"""want""","Cannes, France",Toni_Priore
+"""want""","Ixtapa, Mexico",Toni_Priore
+"""been""","Dartmoor National Park, UK",Toni_Priore
+"""want""","Da Nang, Vietnam",Toni_Priore
+"""want""","Atlantic City, NJ, USA",Toni_Priore
+"""want""","Lake Placid, NY, USA",Toni_Priore
+"""want""","Aberdeen, UK",Toni_Priore
+"""want""","Frankfurt, Germany",Toni_Priore
+"""want""","Tel Aviv, Israel",Toni_Priore
+"""want""","Munnar, India",Toni_Priore
+"""been""","Prather, CA, USA",Toni_Priore
+"""want""","St Ives, UK",Toni_Priore
+"""want""","Sheffield, UK",Toni_Priore
+"""been""","Niagara Falls, NY, USA",Toni_Priore
+"""want""","Bilbao, Spain",Toni_Priore
+"""want""","Koto, Japan",Toni_Priore
+"""want""","Alvor, Portugal",Toni_Priore
+"""want""","Wailea, HI, USA",Toni_Priore
+"""want""","Amman, Jordan",Toni_Priore
+"""want""","Auckland Central, New Zealand",Toni_Priore
+"""want""","San Jose, Costa Rica",Toni_Priore
+"""want""","Melbourne, Australia",Toni_Priore
+"""want""","Rio de Janeiro, Brazil",Toni_Priore
+"""been""","Point Reyes Station, CA, USA",Toni_Priore
+"""want""","Hamburg, Germany",Toni_Priore
+"""want""","Peschiera del Garda, Italy",Toni_Priore
+"""want""","Raleigh, NC, USA",Toni_Priore
+"""been""","Pomona, CA, USA",Toni_Priore
+"""been""","Harrisburg, PA, USA",Toni_Priore
+"""want""","La Rochelle, France",Toni_Priore
+"""want""","Port Dickson, Malaysia",Toni_Priore
+"""want""","Newquay, UK",Toni_Priore
+"""want""","Seville, Spain",Toni_Priore
+"""want""","Berlin, Germany",Toni_Priore
+"""want""","Sao Paulo, Brazil",Toni_Priore
+"""want""","Johannesburg, South Africa",Toni_Priore
+"""want""","Casablanca, Morocco",Toni_Priore
+"""want""","Istanbul, Turkey",Toni_Priore
+"""want""","Portinatx, Spain",Toni_Priore
+"""been""","Beaver Island, MI, USA",Toni_Priore
+"""want""","Saint-Tropez, France",Toni_Priore
+"""want""","Rethymnon, Greece",Toni_Priore
+"""want""","Gramado, Brazil",Toni_Priore
+"""want""","Copenhagen, Denmark",Toni_Priore
+"""want""","Monte-Carlo, Monaco",Toni_Priore
+"""want""","Tokyo, Japan",Toni_Priore
+"""want""","New Paltz, NY, USA",Toni_Priore
+"""want""","Nikko, Japan",Toni_Priore
+"""want""","Elounda, Greece",Toni_Priore
+"""want""","Chania Town, Greece",Toni_Priore
+"""want""","Nice, France",Toni_Priore
+"""want""","Toshima, Japan",Toni_Priore
+"""want""","Agios Nikolaos, Greece",Toni_Priore
+"""want""","Mahabaleshwar, India",Toni_Priore
+"""want""","Goynuk, Turkey",Toni_Priore
+"""been""","Fort Wayne, IN, USA",Toni_Priore
+"""want""","Boca Raton, FL, USA",Toni_Priore
+"""want""","Tossa de Mar, Spain",Toni_Priore
+"""want""","Gothenburg, Sweden",Toni_Priore
+"""want""","Kuantan, Malaysia",Toni_Priore
+"""been""","Dallas, TX, USA",Toni_Priore
+"""want""","Vientiane, Laos",Toni_Priore
+"""want""","Athens, Greece",Toni_Priore
+"""been""","Sharpsburg, PA, USA",Toni_Priore
+"""want""","Saint-Malo, France",Toni_Priore
+"""want""","Christchurch, New Zealand",Toni_Priore
+"""want""","Kodaikanal, India",Toni_Priore
+"""want""","Shibuya, Japan",Toni_Priore
+"""want""","Wellington, New Zealand",Toni_Priore
+"""want""","Lyon, France",Toni_Priore
+"""want""","Kallithea, Greece",Toni_Priore
+"""want""","Amsterdam, The Netherlands",Toni_Priore
+"""want""","Annecy, France",Toni_Priore
+"""want""","Chamonix, France",Toni_Priore
+"""been""","Palm Desert, CA, USA",Toni_Priore
+"""been""","Modesto, CA, USA",Toni_Priore
+"""want""","Curitiba, Brazil",Toni_Priore
+"""been""","Palm Springs, CA, USA",Toni_Priore
+"""want""","Ann Arbor, MI, USA",Toni_Priore
+"""want""","Beldibi, Turkey",Toni_Priore
+"""been""","Bend, OR, USA",Toni_Priore
+"""want""","Barcelona, Spain",Toni_Priore
+"""want""","Chiba, Japan",Toni_Priore
+"""been""","Mission Viejo, CA, USA",Toni_Priore
+"""want""","Foz do Iguacu, Brazil",Toni_Priore
+"""want""","Johor Bahru, Malaysia",Toni_Priore
+"""been""","Pacific Grove, CA, USA",Toni_Priore
+"""want""","Stalis, Greece",Toni_Priore
+"""want""","Virginia Beach, VA, USA",Toni_Priore
+"""been""","Lancaster, PA, USA",Toni_Priore
+"""want""","Kovalam, India",Toni_Priore
+"""want""","Hisaronu, Turkey",Toni_Priore
+"""want""","Praia da Rocha, Portugal",Toni_Priore
+"""want""","Dusseldorf, Germany",Toni_Priore
+"""want""","Hakodate, Japan",Toni_Priore
+"""want""","Cologne, Germany",Toni_Priore
+"""been""","Redwood City, CA, USA",Toni_Priore
+"""been""","Orosi, CA, USA",Toni_Priore
+"""want""","Hartford, CT, USA",Toni_Priore
+"""want""","Malcesine, Italy",Toni_Priore
+"""been""","Millbrae, CA, USA",Toni_Priore
+"""been""","Oroville, CA, USA",Toni_Priore
+"""been""","Las Cruces, NM, USA",Toni_Priore
+"""want""","Charlotte, NC, USA",Toni_Priore
+"""been""","Redding, CA, USA",Toni_Priore
+"""want""","Toledo, Spain",Toni_Priore
+"""been""","Red Bluff, CA, USA",Toni_Priore
+"""want""","Miyakojima, Japan",Toni_Priore
+"""been""","Jackson, WY, USA",Toni_Priore
+"""want""","Springfield, MO, USA",Toni_Priore
+"""want""","Provincetown, MA, USA",Toni_Priore
+"""been""","Cleveland, OH, USA",Toni_Priore
+"""been""","Sioux Falls, SD, USA",Toni_Priore
+"""want""","Valletta, Malta",Toni_Priore
+"""been""","Ontario, CA, USA",Toni_Priore
+"""want""","Darjeeling, India",Toni_Priore
+"""been""","Orange, CA, USA",Toni_Priore
+"""want""","Kolkata (Calcutta), India",Toni_Priore
+"""want""","Innsbruck, Austria",Toni_Priore
+"""want""","New Delhi, India",Toni_Priore
+"""want""","Shimla, India",Toni_Priore
+"""been""","Mendocino, CA, USA",Toni_Priore
+"""been""","Park City, UT, USA",Toni_Priore
+"""want""","Argassi, Greece",Toni_Priore
+"""been"",""want""","Oakhurst, CA, USA",Toni_Priore
+"""want""","La Romana, Dominican Republic",Toni_Priore
+"""want""","Montpellier, France",Toni_Priore
+"""want""","Punta Cana, Dominican Republic",Toni_Priore
+"""want""","Lake Geneva, WI, USA",Toni_Priore
+"""want""","Ogunquit, ME, USA",Toni_Priore
+"""been""","Raisin, CA, USA",Toni_Priore
+"""want""","Southampton, UK",Toni_Priore
+"""want""","San Ignacio, Belize",Toni_Priore
+"""want""","Zurich, Switzerland",Toni_Priore
+"""want""","Santa Teresa, Costa Rica",Toni_Priore
+"""been""","Columbus, OH, USA",Toni_Priore
+"""want""","Paris, France",Toni_Priore
+"""been"",""want""","Oakland, CA, USA",Toni_Priore
+"""want""","Versailles, France",Toni_Priore
+"""want""","Taipei, Taiwan",Toni_Priore
+"""want""","Placencia, Belize",Toni_Priore
+"""want""","Sidari, Greece",Toni_Priore
+"""been""","Mammoth Lakes, CA, USA",Toni_Priore
+"""been""","Santa Monica, CA, USA",Toni_Priore
+"""want""","Forio, Italy",Toni_Priore
+"""been""","Sun Valley, NV, USA",Toni_Priore
+"""want""","West Yellowstone, MT, USA",Toni_Priore
+"""want""","Gettysburg, PA, USA",Toni_Priore
+"""been""","Philadelphia, PA, USA",Toni_Priore
+"""been""","Sparks, NV, USA",Toni_Priore
+"""want""","Edinburgh, UK",Toni_Priore
+"""want""","Prague, Czech Republic",Toni_Priore
+"""want""","Coventry, UK",Toni_Priore
+"""want""","Fernie, British Columbia, Canada",Toni_Priore
+"""been""","Akron, OH, USA",Toni_Priore
+"""been""","South Bend, IN, USA",Toni_Priore
+"""been""","Santa Rosa, CA, USA",Toni_Priore
+"""been""","Tipton, CA, USA",Toni_Priore
+"""want""","Midoun, Tunisia",Toni_Priore
+"""been""","Tollhouse, CA, USA",Toni_Priore
+"""want""","Cocoa Beach, FL, USA",Toni_Priore
+"""want""","Victoria, British Columbia, Canada",Toni_Priore
+"""want""","Brisbane, Australia",Toni_Priore
+"""been""","Beverly Hills, CA, USA",Toni_Priore
+"""want""","Whistler, British Columbia, Canada",Toni_Priore
+"""want""","Gallipoli, Italy",Toni_Priore
+"""want""","Sydney, Australia",Toni_Priore
+"""been""","Hershey, PA, USA",Toni_Priore
+"""want""","Tofino, British Columbia, Canada",Toni_Priore
+"""want""","Vancouver, British Columbia, Canada",Toni_Priore
+"""want""","Balaclava, Africa",Toni_Priore
+"""want""","Sirmione, Italy",Toni_Priore
+"""been""","Cheyenne, WY, USA",Toni_Priore
+"""been""","Santa Cruz, CA, USA",Toni_Priore
+"""want""","Dundee, UK",Toni_Priore
+"""want""","Quito, Ecuador",Toni_Priore
+"""been""","Santa Clarita, CA, USA",Toni_Priore
+"""been""","Cerritos, CA, USA",Toni_Priore
+"""been""","Temecula, CA, USA",Toni_Priore
+"""been""","Ceres, CA, USA",Toni_Priore
+"""been""","Santa Barbara, CA, USA",Toni_Priore
+"""want""","Vilnius, Lithuania",Toni_Priore
+"""been""","Santa Ana, CA, USA",Toni_Priore
+"""want""","Milan, Italy",Toni_Priore
+"""want""","Rawai, Thailand",Toni_Priore
+"""been""","Susanville, CA, USA",Toni_Priore
+"""been""","Castaic, CA, USA",Toni_Priore
+"""want""","Hobart, Australia",Toni_Priore
+"""want""","Roquetas de Mar, Spain",Toni_Priore
+"""been""","Ahwahnee, CA, USA",Toni_Priore
+"""want""","Cape May, NJ, USA",Toni_Priore
+"""want""","Winnipeg, Manitoba, Canada",Toni_Priore
+"""want""","Madrid, Spain",Toni_Priore
+"""been""","Eugene, OR, USA",Toni_Priore
+"""want""","Bratislava, Slovakia",Toni_Priore
+"""want""","Verona, Italy",Toni_Priore
+"""been""","San Rafael, CA, USA",Toni_Priore
+"""been""","Wilton, CA, USA",Toni_Priore
+"""been""","Durango, CO, USA",Toni_Priore
+"""been""","San Mateo, CA, USA",Toni_Priore
+"""been""","Berkeley, CA, USA",Toni_Priore
+"""been""","Catheys Valley, CA, USA",Toni_Priore
+"""want""","Kanchanaburi, Thailand",Toni_Priore
+"""want""","Xpu-Ha, Mexico",Toni_Priore
+"""been""","Denair, CA, USA",Toni_Priore
+"""been""","Carmel, CA, USA",Toni_Priore
+"""been""","Desert Hot Springs, CA, USA",Toni_Priore
+"""been""","Carlsbad, CA, USA",Toni_Priore
+"""want""","Higashiizu-cho, Japan",Toni_Priore
+"""want""","Las Terrenas, Dominican Republic",Toni_Priore
+"""want""","Malia, Greece",Toni_Priore
+"""want""","Venice, Italy",Toni_Priore
+"""want""","Mont Tremblant, Quebec, Canada",Toni_Priore
+"""want""","Wroclaw, Poland",Toni_Priore
+"""want""","Accra, Ghana",Toni_Priore
+"""want""","Lucea, Jamaica",Toni_Priore
+"""want""","Glasgow, UK",Toni_Priore
+"""been""","San Luis Obispo, CA, USA",Toni_Priore
+"""been""","Caruthers, CA, USA",Toni_Priore
+"""been""","Dinuba, CA, USA",Toni_Priore
+"""been""","Whittier, CA, USA",Toni_Priore
+"""want""","Windsor, UK",Toni_Priore
+"""been""","Denver, CO, USA",Toni_Priore
+"""want""","Punta de Mita, Mexico",Toni_Priore
+"""been"",""want""","San Jose, CA, USA",Toni_Priore
+"""been""","Diamond Bar, CA, USA",Toni_Priore
+"""want""","Kissimmee, FL, USA",Toni_Priore
+"""been""","Simi Valley, CA, USA",Toni_Priore
+"""want""","Alappuzha, India",Toni_Priore
+"""want""","Bangor, ME, USA",Toni_Priore
+"""want""","Lahaina, HI, USA",Toni_Priore
+"""want""","Amalfi, Italy",Toni_Priore
+"""want""","Kihei, HI, USA",Toni_Priore
+"""want""","Ialyssos, Greece",Toni_Priore
+"""want""","Rhodes Town, Greece",Toni_Priore
+"""been""","Cincinnati, OH, USA",Toni_Priore
+"""want""","Windermere, UK",Toni_Priore
+"""been""","San Diego, CA, USA",Toni_Priore
+"""want""","Perissa, Greece",Toni_Priore
+"""been""","Topanga, CA, USA",Toni_Priore
+"""want""","Florence, Italy",Toni_Priore
+"""want""","Kandy, Sri Lanka",Toni_Priore
+"""want""","Cape Panwa, Thailand",Toni_Priore
+"""want""","Boston, MA, USA",Toni_Priore
+"""want""","Fira, Greece",Toni_Priore
+"""want""","Williamsburg, VA, USA",Toni_Priore
+"""want""","Kaohsiung, Taiwan",Toni_Priore
+"""want""","Daytona Beach, FL, USA",Toni_Priore
+"""been""","Springfield, IL, USA",Toni_Priore
+"""been""","Brantford, Ontario, Canada",Toni_Priore
+"""want""","New York City, NY, USA",Toni_Priore
+"""want""","Bronx, NY, USA",Toni_Priore
+"""want""","Washington DC, DC, USA",Toni_Priore
+"""want""","Anchorage, AK, USA",Toni_Priore
+"""want""","Otranto, Italy",Toni_Priore
+"""want""","Catania, Italy",Toni_Priore
+"""want""","Calpe, Spain",Toni_Priore
+"""been""","St. George, UT, USA",Toni_Priore
+"""want""","Seattle, WA, USA",Toni_Priore
+"""been""","South Lake Tahoe, CA, USA",Toni_Priore
+"""want""","Yellowstone National Park, WY, USA",Toni_Priore
+"""been""","Indianapolis, IN, USA",Toni_Priore
+"""been""","Hamilton, Ontario, Canada",Toni_Priore
+"""want""","Porto Seguro, Brazil",Toni_Priore
+"""want""","Mojacar, Spain",Toni_Priore
+"""want""","Wilmington, DE, USA",Toni_Priore
+"""been""","Princetown, UK",Toni_Priore
+"""want""","Salvador, Brazil",Toni_Priore
+"""want""","Cambridge, MA, USA",Toni_Priore
+"""been""","Selma, CA, USA",Toni_Priore
+"""been""","Tulare, CA, USA",Toni_Priore
+"""want""","Pefkos, Greece",Toni_Priore
+"""want""","Atlanta, GA, USA",Toni_Priore
+"""been""","Kingston, Ontario, Canada",Toni_Priore
+"""been""","London, Ontario, Canada",Toni_Priore
+"""want""","Granada, Spain",Toni_Priore
+"""been""","Mississauga, Ontario, Canada",Toni_Priore
+"""want""","Shirahama-cho, Japan",Toni_Priore
+"""want""","Poole, UK",Toni_Priore
+"""been""","Niagara Falls, Ontario, Canada",Toni_Priore
+"""been""","Niagara-on-the-Lake, Ontario, Canada",Toni_Priore
+"""want""","Staten Island, NY, USA",Toni_Priore
+"""want""","Llandudno, UK",Toni_Priore
+"""want""","Whitby, UK",Toni_Priore
+"""want""","Nuremberg, Germany",Toni_Priore
+"""want""","Stockholm, Sweden",Toni_Priore
+"""been""","Ventura, CA, USA",Toni_Priore
+"""been""","El Paso, TX, USA",Toni_Priore
+"""want""","Playa de Fanabe, Spain",Toni_Priore
+"""want""","York, UK",Toni_Priore
+"""want""","Cambridge, UK",Toni_Priore
+"""want""","Brussels, Belgium",Toni_Priore
+"""want""","Cala Millor, Spain",Toni_Priore
+"""want""","Ca'n Picafort, Spain",Toni_Priore
+"""been""","Turlock, CA, USA",Toni_Priore
+"""been""","Sausalito, CA, USA",Toni_Priore
+"""been""","Tracy, CA, USA",Toni_Priore
+"""want""","Porto-Vecchio, France",Toni_Priore
+"""been""","Saugus, CA, USA",Toni_Priore
+"""want""","Lamai Beach, Thailand",Toni_Priore
+"""want""","Cala Bona, Spain",Toni_Priore
+"""want""","Rome, Italy",Toni_Priore
+"""want""","Vatican City, Vatican City",Toni_Priore
+"""want""","Fiumicino, Italy",Toni_Priore
+"""want""","Mecca, Saudi Arabia",Toni_Priore
+"""want""","Durham, UK",Toni_Priore
+"""been""","Rawlins, WY, USA",Toni_Priore
+"""want""","London, UK",Toni_Priore
+"""want""","Capri, Italy",Toni_Priore
+"""want""","Liverpool, UK",Toni_Priore
+"""want""","Naples, Italy",Toni_Priore
+"""want""","Portland, ME, USA",Toni_Priore
+"""want""","Memphis, TN, USA",Toni_Priore
+"""been"",""want""","Bellevue, WA, USA",Toni_Priore
+"""been""","Seal Beach, CA, USA",Toni_Priore
+"""want""","Munich, Germany",Toni_Priore

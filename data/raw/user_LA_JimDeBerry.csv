@@ -1,0 +1,363 @@
+tag,place,user
+"""been""","Acme, MI, USA",JimDeBerry
+"""been""","Higginsville, MO, USA",JimDeBerry
+"""been""","Marietta, GA, USA",JimDeBerry
+"""been""","Inwood, WV, USA",JimDeBerry
+"""been""","Springfield, MO, USA",JimDeBerry
+"""been""","Upper Marlboro, MD, USA",JimDeBerry
+"""been""","Berlin, MD, USA",JimDeBerry
+"""been""","Kalk Bay, South Africa",JimDeBerry
+"""been""","Fish Camp, CA, USA",JimDeBerry
+"""been""","Murfreesboro, TN, USA",JimDeBerry
+"""been""","Tavares, FL, USA",JimDeBerry
+"""been""","Bowling Green, KY, USA",JimDeBerry
+"""been""","Buffalo, NY, USA",JimDeBerry
+"""been""","Inverness, FL, USA",JimDeBerry
+"""been""","Plantation, FL, USA",JimDeBerry
+"""been""","Florida, MO, USA",JimDeBerry
+"""been""","Plant City, FL, USA",JimDeBerry
+"""been""","Cape Charles, VA, USA",JimDeBerry
+"""been""","Olympic Valley, CA, USA",JimDeBerry
+"""been""","Jacksonville Beach, FL, USA",JimDeBerry
+"""been""","Kannapolis, NC, USA",JimDeBerry
+"""been""","Quarryville, PA, USA",JimDeBerry
+"""been""","Syracuse, NY, USA",JimDeBerry
+"""been""","Cohoes, NY, USA",JimDeBerry
+"""been""","Pigeon Forge, TN, USA",JimDeBerry
+"""been""","Homestead, FL, USA",JimDeBerry
+"""want""","Honolulu, HI, USA",JimDeBerry
+"""been""","Dublin, Ireland",JimDeBerry
+"""been""","Coronado, CA, USA",JimDeBerry
+"""been""","Austin, TX, USA",JimDeBerry
+"""been""","Anaheim, CA, USA",JimDeBerry
+"""been""","Canon City, CO, USA",JimDeBerry
+"""been""","Houston, TX, USA",JimDeBerry
+"""been""","New Orleans, LA, USA",JimDeBerry
+"""been""","Asheville, NC, USA",JimDeBerry
+"""been""","Melbourne, FL, USA",JimDeBerry
+"""been""","Indialantic, FL, USA",JimDeBerry
+"""been""","Cascade, CO, USA",JimDeBerry
+"""been""","Oakland, CA, USA",JimDeBerry
+"""been""","Miami Beach, FL, USA",JimDeBerry
+"""been""","Dallas, TX, USA",JimDeBerry
+"""been""","Miami, FL, USA",JimDeBerry
+"""been""","Tampa, FL, USA",JimDeBerry
+"""been""","Barcelona, Spain",JimDeBerry
+"""been""","Mooresville, NC, USA",JimDeBerry
+"""been""","Guangzhou, China",JimDeBerry
+"""been""","Christiana, TN, USA",JimDeBerry
+"""been""","Columbus, OH, USA",JimDeBerry
+"""been""","Chattanooga, TN, USA",JimDeBerry
+"""been""","Huron, OH, USA",JimDeBerry
+"""been""","Jonesboro, AR, USA",JimDeBerry
+"""been""","Mount Laurel, NJ, USA",JimDeBerry
+"""been""","Hardeeville, SC, USA",JimDeBerry
+"""been""","Boston, MA, USA",JimDeBerry
+"""been""","Cincinnati, OH, USA",JimDeBerry
+"""been""","San Diego, CA, USA",JimDeBerry
+"""been""","Ocean Springs, MS, USA",JimDeBerry
+"""been""","West Memphis, AR, USA",JimDeBerry
+"""been""","Williamsburg, VA, USA",JimDeBerry
+"""been""","Concord, CA, USA",JimDeBerry
+"""been""","Buena Park, CA, USA",JimDeBerry
+"""been""","Panama City Beach, FL, USA",JimDeBerry
+"""been""","Homosassa Springs, FL, USA",JimDeBerry
+"""been""","Vallejo, CA, USA",JimDeBerry
+"""been""","Burbank, CA, USA",JimDeBerry
+"""been""","Homosassa, FL, USA",JimDeBerry
+"""been""","Niagara Falls, NY, USA",JimDeBerry
+"""been""","Vasai, India",JimDeBerry
+"""been""","Lake Placid, NY, USA",JimDeBerry
+"""been""","Osaka, Japan",JimDeBerry
+"""been""","Huntersville, NC, USA",JimDeBerry
+"""been""","Lake George, NY, USA",JimDeBerry
+"""been""","Jamaica, NY, USA",JimDeBerry
+"""been""","Rocky Harbour, Newfoundland and Labrador, Canada",JimDeBerry
+"""been""","Palm Beach, FL, USA",JimDeBerry
+"""been"",""want""","Wisconsin Dells, WI, USA",JimDeBerry
+"""been""","Berthierville, Quebec, Canada",JimDeBerry
+"""been""","Crescent Springs, KY, USA",JimDeBerry
+"""been""","Palm Beach Gardens, FL, USA",JimDeBerry
+"""been"",""want""","New York City, NY, USA",JimDeBerry
+"""been""","Breckenridge, CO, USA",JimDeBerry
+"""been""","Hua Hin, Thailand",JimDeBerry
+"""been""","Cleveland, OH, USA",JimDeBerry
+"""been""","Raleigh, NC, USA",JimDeBerry
+"""been""","Hagerstown, MD, USA",JimDeBerry
+"""been""","Fenwick Island, DE, USA",JimDeBerry
+"""been""","Marne-la-Vallee, France",JimDeBerry
+"""been""","Glenmont, NY, USA",JimDeBerry
+"""been""","Dayton, NV, USA",JimDeBerry
+"""been""","Salt Lake City, UT, USA",JimDeBerry
+"""been""","Mackinaw City, MI, USA",JimDeBerry
+"""been""","Queenstown, MD, USA",JimDeBerry
+"""been""","Jacksonville, FL, USA",JimDeBerry
+"""been""","Sao Paulo, Brazil",JimDeBerry
+"""been""","Landover, MD, USA",JimDeBerry
+"""been""","North Miami Beach, FL, USA",JimDeBerry
+"""been""","Rio de Janeiro, Brazil",JimDeBerry
+"""been""","North Fort Myers, FL, USA",JimDeBerry
+"""want""","Surfers Paradise, Australia",JimDeBerry
+"""been""","Paso Robles, CA, USA",JimDeBerry
+"""been""","Celebration, FL, USA",JimDeBerry
+"""been""","Valdosta, GA, USA",JimDeBerry
+"""been""","North Port, FL, USA",JimDeBerry
+"""been""","Marrakech, Morocco",JimDeBerry
+"""been""","Lake Mary, FL, USA",JimDeBerry
+"""been""","Dover, DE, USA",JimDeBerry
+"""been""","San Juan, Puerto Rico",JimDeBerry
+"""been""","Cherating, Malaysia",JimDeBerry
+"""been""","Dewey Beach, DE, USA",JimDeBerry
+"""been""","Nashville, TN, USA",JimDeBerry
+"""been""","Branson, MO, USA",JimDeBerry
+"""been""","Wauwatosa, WI, USA",JimDeBerry
+"""been""","Roseville, CA, USA",JimDeBerry
+"""been""","Singapore, Singapore",JimDeBerry
+"""been""","Concord, NC, USA",JimDeBerry
+"""been""","Ocean City, NJ, USA",JimDeBerry
+"""been""","Bray on Thames, UK",JimDeBerry
+"""been""","Dandridge, TN, USA",JimDeBerry
+"""been""","Savannah, GA, USA",JimDeBerry
+"""been"",""want""","Niagara Falls, Ontario, Canada",JimDeBerry
+"""been""","Carlsbad, CA, USA",JimDeBerry
+"""been""","New Smyrna Beach, FL, USA",JimDeBerry
+"""been""","Riviera Beach, FL, USA",JimDeBerry
+"""been""","Riverview, FL, USA",JimDeBerry
+"""been""","Rothbury, MI, USA",JimDeBerry
+"""been""","Kingston, Ontario, Canada",JimDeBerry
+"""been""","San Jose, CA, USA",JimDeBerry
+"""been""","Fort Myers Beach, FL, USA",JimDeBerry
+"""been""","Kissimmee, FL, USA",JimDeBerry
+"""been""","Fort Myers, FL, USA",JimDeBerry
+"""been""","San Luis Obispo, CA, USA",JimDeBerry
+"""been""","St. Augustine, FL, USA",JimDeBerry
+"""been""","Fort White, FL, USA",JimDeBerry
+"""been"",""want""","Denver, CO, USA",JimDeBerry
+"""been"",""want"",""fave""","Jerusalem, Israel",JimDeBerry
+"""been""","Cape Canaveral, FL, USA",JimDeBerry
+"""been""","Lake Delton, WI, USA",JimDeBerry
+"""been""","Auburn Hills, MI, USA",JimDeBerry
+"""been""","Dunwoody, GA, USA",JimDeBerry
+"""been""","Sandusky, OH, USA",JimDeBerry
+"""been""","Rochester, NY, USA",JimDeBerry
+"""been""","Rome, Italy",JimDeBerry
+"""been""","Albany, NY, USA",JimDeBerry
+"""been""","Marion, IN, USA",JimDeBerry
+"""been""","Bristol, VA, USA",JimDeBerry
+"""been""","Key Biscayne, FL, USA",JimDeBerry
+"""been""","Munich, Germany",JimDeBerry
+"""been""","Amelia Island, FL, USA",JimDeBerry
+"""been""","West Hollywood, CA, USA",JimDeBerry
+"""been""","Mount Dora, FL, USA",JimDeBerry
+"""been""","Brooksville, FL, USA",JimDeBerry
+"""been""","Marathon, FL, USA",JimDeBerry
+"""been""","Islamorada, FL, USA",JimDeBerry
+"""been""","Eddyville, KY, USA",JimDeBerry
+"""been""","Key West, FL, USA",JimDeBerry
+"""been""","Key Largo, FL, USA",JimDeBerry
+"""been""","Buena Ventura Lakes, FL, USA",JimDeBerry
+"""been""","Fort Lauderdale, FL, USA",JimDeBerry
+"""been""","Gastonia, NC, USA",JimDeBerry
+"""been""","Liverpool, UK",JimDeBerry
+"""been""","London, UK",JimDeBerry
+"""been""","Newark, NJ, USA",JimDeBerry
+"""been""","Tonawanda, NY, USA",JimDeBerry
+"""been""","Ann Arbor, MI, USA",JimDeBerry
+"""been""","Columbia, MO, USA",JimDeBerry
+"""been""","San Antonio, TX, USA",JimDeBerry
+"""been""","Cooperstown, NY, USA",JimDeBerry
+"""been""","San Francisco, CA, USA",JimDeBerry
+"""been""","Traverse City, MI, USA",JimDeBerry
+"""been""","Minneola, FL, USA",JimDeBerry
+"""been""","Colorado Springs, CO, USA",JimDeBerry
+"""been""","Gatlinburg, TN, USA",JimDeBerry
+"""been""","Kingsport, TN, USA",JimDeBerry
+"""been""","Jupiter, FL, USA",JimDeBerry
+"""been""","Grapevine, TX, USA",JimDeBerry
+"""been""","Knoxville, TN, USA",JimDeBerry
+"""been""","Fernandina Beach, FL, USA",JimDeBerry
+"""want""","Stockholm, Sweden",JimDeBerry
+"""been""","Charlotte, NC, USA",JimDeBerry
+"""been""","Saugerties, NY, USA",JimDeBerry
+"""been""","Portland Creek, Newfoundland and Labrador, Canada",JimDeBerry
+"""been""","Mexico City, Mexico",JimDeBerry
+"""been""","Bowie, MD, USA",JimDeBerry
+"""been""","Jefferson City, MO, USA",JimDeBerry
+"""been"",""want""","Toronto, Ontario, Canada",JimDeBerry
+"""been""","Corner Brook, Newfoundland and Labrador, Canada",JimDeBerry
+"""been""","Clermont-Ferrand, France",JimDeBerry
+"""been""","Crystal River, FL, USA",JimDeBerry
+"""been""","Tulare, CA, USA",JimDeBerry
+"""been""","Corbin, KY, USA",JimDeBerry
+"""want""","Valencia, Spain",JimDeBerry
+"""been""","Windsor, Ontario, Canada",JimDeBerry
+"""been""","Saint Augustine Beach, FL, USA",JimDeBerry
+"""been""","Arlington, VA, USA",JimDeBerry
+"""been""","Rehoboth Beach, DE, USA",JimDeBerry
+"""been""","Garden Grove, CA, USA",JimDeBerry
+"""been""","Dania Beach, FL, USA",JimDeBerry
+"""been""","Cleveland, GA, USA",JimDeBerry
+"""been""","Wekiva Springs, FL, USA",JimDeBerry
+"""been""","Buda, TX, USA",JimDeBerry
+"""been""","Bethany Beach, DE, USA",JimDeBerry
+"""been""","Weeki Wachee, FL, USA",JimDeBerry
+"""been""","Saint Cloud, FL, USA",JimDeBerry
+"""been"",""want""","Hershey, PA, USA",JimDeBerry
+"""been""","Cape Town Central, South Africa",JimDeBerry
+"""been""","Auburn, CA, USA",JimDeBerry
+"""been""","Mammoth Cave National Park, KY, USA",JimDeBerry
+"""been""","St. Pete Beach, FL, USA",JimDeBerry
+"""been""","Toledo, OH, USA",JimDeBerry
+"""been""","Las Vegas, NV, USA",JimDeBerry
+"""been""","Dickson City, PA, USA",JimDeBerry
+"""been""","Ottawa, Ontario, Canada",JimDeBerry
+"""been""","Hallandale Beach, FL, USA",JimDeBerry
+"""been""","Louisville, KY, USA",JimDeBerry
+"""been""","Seaside Heights, NJ, USA",JimDeBerry
+"""been""","Helen, GA, USA",JimDeBerry
+"""want""","Bengaluru, India",JimDeBerry
+"""been""","Fresno, CA, USA",JimDeBerry
+"""been""","Decatur, AL, USA",JimDeBerry
+"""been""","Los Angeles, CA, USA",JimDeBerry
+"""been""","Annapolis, MD, USA",JimDeBerry
+"""been""","Wallkill, NY, USA",JimDeBerry
+"""been""","Chicago, IL, USA",JimDeBerry
+"""been""","Sparks, NV, USA",JimDeBerry
+"""been""","Mill Valley, CA, USA",JimDeBerry
+"""been""","Nassau, Bahamas",JimDeBerry
+"""been""","Venice, Italy",JimDeBerry
+"""been""","Houghton Lake, MI, USA",JimDeBerry
+"""been""","Sault Ste. Marie, MI, USA",JimDeBerry
+"""been""","Port Clinton, OH, USA",JimDeBerry
+"""been""","Budapest, Hungary",JimDeBerry
+"""want""","Mont Tremblant, Quebec, Canada",JimDeBerry
+"""been""","Bohemia, NY, USA",JimDeBerry
+"""been""","Verdi, NV, USA",JimDeBerry
+"""been""","Evansville, IN, USA",JimDeBerry
+"""been""","Clearwater, FL, USA",JimDeBerry
+"""been""","Santa Monica, CA, USA",JimDeBerry
+"""been""","Lauderdale-By-The-Sea, FL, USA",JimDeBerry
+"""been""","Trois-Rivieres, Quebec, Canada",JimDeBerry
+"""been""","Cocoa Beach, FL, USA",JimDeBerry
+"""been""","Clermont, FL, USA",JimDeBerry
+"""been""","Groveland, FL, USA",JimDeBerry
+"""been""","Leesburg, FL, USA",JimDeBerry
+"""want""","Saint Sauveur des Monts, Quebec, Canada",JimDeBerry
+"""been""","Mason, OH, USA",JimDeBerry
+"""been""","Sevierville, TN, USA",JimDeBerry
+"""been""","Manchester, UK",JimDeBerry
+"""been""","Long Beach, CA, USA",JimDeBerry
+"""want""","Glasgow, UK",JimDeBerry
+"""been""","Plattsburgh, NY, USA",JimDeBerry
+"""been""","Rocky Mountain National Park, CO, USA",JimDeBerry
+"""been""","Shanghai, China",JimDeBerry
+"""been""","Holland, MI, USA",JimDeBerry
+"""been""","Oak Hill, FL, USA",JimDeBerry
+"""been""","Lake Worth, FL, USA",JimDeBerry
+"""been""","Beverly Hills, CA, USA",JimDeBerry
+"""been""","Shelbyville, IN, USA",JimDeBerry
+"""been""","Christmas, FL, USA",JimDeBerry
+"""been""","Santa Barbara, CA, USA",JimDeBerry
+"""been""","Ocala, FL, USA",JimDeBerry
+"""want""","Quebec City, Quebec, Canada",JimDeBerry
+"""been""","Lakeland, FL, USA",JimDeBerry
+"""been"",""want""","Montreal, Quebec, Canada",JimDeBerry
+"""been""","Kenmare, Ireland",JimDeBerry
+"""been""","Chew Magna, UK",JimDeBerry
+"""been""","Dingle, Ireland",JimDeBerry
+"""been""","Santa Clara, CA, USA",JimDeBerry
+"""been""","Madrid, Spain",JimDeBerry
+"""been""","Abu Dhabi, United Arab Emirates",JimDeBerry
+"""been""","Buenos Aires, Argentina",JimDeBerry
+"""been""","Ocean City, MD, USA",JimDeBerry
+"""been""","Algarve, Portugal",JimDeBerry
+"""been""","Newberry, SC, USA",JimDeBerry
+"""been""","Altamonte Springs, FL, USA",JimDeBerry
+"""been""","Milan, Italy",JimDeBerry
+"""been""","Boca Raton, FL, USA",JimDeBerry
+"""been""","Frisco, CO, USA",JimDeBerry
+"""been""","Atlanta, GA, USA",JimDeBerry
+"""been""","South Daytona, FL, USA",JimDeBerry
+"""been""","Longwood, FL, USA",JimDeBerry
+"""been""","Oviedo, FL, USA",JimDeBerry
+"""been""","Kitchener, Ontario, Canada",JimDeBerry
+"""been""","Wytheville, VA, USA",JimDeBerry
+"""been""","Coarsegold, CA, USA",JimDeBerry
+"""been""","Clovis, CA, USA",JimDeBerry
+"""been""","Laguna Beach, CA, USA",JimDeBerry
+"""been""","Loxahatchee, FL, USA",JimDeBerry
+"""been""","Patong, Thailand",JimDeBerry
+"""been""","Chessy, France",JimDeBerry
+"""been""","Milwaukee, WI, USA",JimDeBerry
+"""been""","Bristol, TN, USA",JimDeBerry
+"""been""","Brentwood, CA, USA",JimDeBerry
+"""been""","Macau, China",JimDeBerry
+"""been""","Twillingate, Newfoundland and Labrador, Canada",JimDeBerry
+"""been""","Mount Pleasant, MI, USA",JimDeBerry
+"""been""","Dearborn, MI, USA",JimDeBerry
+"""been""","Scottsboro, AL, USA",JimDeBerry
+"""been""","Myrtle Beach, SC, USA",JimDeBerry
+"""want""","Calgary, Alberta, Canada",JimDeBerry
+"""been""","Grand Rapids, MI, USA",JimDeBerry
+"""been""","Morriston, Ontario, Canada",JimDeBerry
+"""been""","Detroit, MI, USA",JimDeBerry
+"""been""","St. Marys, GA, USA",JimDeBerry
+"""been""","Apopka, FL, USA",JimDeBerry
+"""been""","Fishers, IN, USA",JimDeBerry
+"""been""","St. Anthony, Newfoundland and Labrador, Canada",JimDeBerry
+"""been""","Auburndale, FL, USA",JimDeBerry
+"""been""","Orlando, FL, USA",JimDeBerry
+"""been""","Melbourne, Australia",JimDeBerry
+"""been""","La Jolla, CA, USA",JimDeBerry
+"""been""","Yulee, FL, USA",JimDeBerry
+"""been""","Galveston, TX, USA",JimDeBerry
+"""been""","Erie, PA, USA",JimDeBerry
+"""been""","Ormond Beach, FL, USA",JimDeBerry
+"""been""","Austinburg, OH, USA",JimDeBerry
+"""been""","Reno, NV, USA",JimDeBerry
+"""been""","Florence, SC, USA",JimDeBerry
+"""been""","Hudson, NY, USA",JimDeBerry
+"""been""","Stanhoe, UK",JimDeBerry
+"""been""","Mount Pocono, PA, USA",JimDeBerry
+"""been""","Vancouver, British Columbia, Canada",JimDeBerry
+"""been""","Boyne Falls, MI, USA",JimDeBerry
+"""been""","Bangkok, Thailand",JimDeBerry
+"""been""","Philadelphia, PA, USA",JimDeBerry
+"""been""","Baraboo, WI, USA",JimDeBerry
+"""been""","Dundee, FL, USA",JimDeBerry
+"""been""","Monon, IN, USA",JimDeBerry
+"""been""","Gettysburg, PA, USA",JimDeBerry
+"""been""","Manitou Springs, CO, USA",JimDeBerry
+"""been""","Winter Park, FL, USA",JimDeBerry
+"""been""","Paris, France",JimDeBerry
+"""been""","Cairo, Egypt",JimDeBerry
+"""been""","South Lake Tahoe, CA, USA",JimDeBerry
+"""been""","Fairplay, CO, USA",JimDeBerry
+"""been""","Winter Haven, FL, USA",JimDeBerry
+"""been"",""want""","Washington DC, DC, USA",JimDeBerry
+"""been""","Winter Garden, FL, USA",JimDeBerry
+"""been""","Killarney, Ireland",JimDeBerry
+"""been""","Queensbury, NY, USA",JimDeBerry
+"""been""","Pyrgos, Greece",JimDeBerry
+"""been""","San Jose del Cabo, Mexico",JimDeBerry
+"""been""","Biloxi, MS, USA",JimDeBerry
+"""been""","Cabo San Lucas, Mexico",JimDeBerry
+"""been""","Bronx, NY, USA",JimDeBerry
+"""been""","Kansas City, MO, USA",JimDeBerry
+"""been""","Davie, FL, USA",JimDeBerry
+"""been""","Mumbai, India",JimDeBerry
+"""been""","New Delhi, India",JimDeBerry
+"""been""","Daytona Beach, FL, USA",JimDeBerry
+"""been""","DeLand, FL, USA",JimDeBerry
+"""been""","Hollywood, FL, USA",JimDeBerry
+"""been""","Beloit, WI, USA",JimDeBerry
+"""been""","West Palm Beach, FL, USA",JimDeBerry
+"""been""","Hong Kong, China",JimDeBerry
+"""been""","Waterloo, Ontario, Canada",JimDeBerry
+"""been""","Wilmington, DE, USA",JimDeBerry
+"""been""","Birmingham, AL, USA",JimDeBerry
+"""been""","Dubai, United Arab Emirates",JimDeBerry
+"""been""","Indianapolis, IN, USA",JimDeBerry
+"""been""","Sarasota, FL, USA",JimDeBerry
+"""been""","Wildwood, FL, USA",JimDeBerry
+"""been""","Sanibel Island, FL, USA",JimDeBerry

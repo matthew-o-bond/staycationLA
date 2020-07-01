@@ -1,0 +1,498 @@
+tag,place,user
+"""been""","Nairobi, Kenya",NYCheapEats
+"""been""","Wilmington, DE, USA",NYCheapEats
+"""been""","Indianapolis, IN, USA",NYCheapEats
+"""been""","Luxor, Egypt",NYCheapEats
+"""been""","Surabaya, Indonesia",NYCheapEats
+"""been""","Luxembourg City, Luxembourg",NYCheapEats
+"""been""","Daytona Beach, FL, USA",NYCheapEats
+"""been""","Oslo, Norway",NYCheapEats
+"""been""","Brno, Czech Republic",NYCheapEats
+"""been""","Hollywood, FL, USA",NYCheapEats
+"""been""","Norfolk, VA, USA",NYCheapEats
+"""been""","Great Falls, MT, USA",NYCheapEats
+"""been""","Mersa Matruh, Egypt",NYCheapEats
+"""been""","Ischia, Italy",NYCheapEats
+"""been""","Washington DC, DC, USA",NYCheapEats
+"""been""","Antalya, Turkey",NYCheapEats
+"""been""","Mombasa, Kenya",NYCheapEats
+"""want""","Zagreb, Croatia",NYCheapEats
+"""been""","Beijing, China",NYCheapEats
+"""been""","Wilmington, NC, USA",NYCheapEats
+"""been""","Roanoke, VA, USA",NYCheapEats
+"""been""","Nadi, Fiji",NYCheapEats
+"""been""","Side, Turkey",NYCheapEats
+"""been""","Suva, Fiji",NYCheapEats
+"""been""","Medan, Indonesia",NYCheapEats
+"""been""","Hong Kong, China",NYCheapEats
+"""been""","Boise, ID, USA",NYCheapEats
+"""been""","Ottawa, Ontario, Canada",NYCheapEats
+"""been""","Manaus, Brazil",NYCheapEats
+"""been""","Prague, Czech Republic",NYCheapEats
+"""been""","Manchester, NH, USA",NYCheapEats
+"""been""","Kusadasi, Turkey",NYCheapEats
+"""been""","Lhasa, China",NYCheapEats
+"""been""","Bronx, NY, USA",NYCheapEats
+"""been""","Fargo, ND, USA",NYCheapEats
+"""been""","Guatemala City, Guatemala",NYCheapEats
+"""been""","Valparaiso, Chile",NYCheapEats
+"""been""","Longboat Key, FL, USA",NYCheapEats
+"""been""","Louisville, KY, USA",NYCheapEats
+"""been"",""want""","Santiago, Chile",NYCheapEats
+"""been""","New Delhi, India",NYCheapEats
+"""been""","Warsaw, Poland",NYCheapEats
+"""been""","Jaipur, India",NYCheapEats
+"""been""","Coral Gables, FL, USA",NYCheapEats
+"""been"",""want""","Mumbai, India",NYCheapEats
+"""been""","Lucerne, Switzerland",NYCheapEats
+"""been""","Hershey, PA, USA",NYCheapEats
+"""want""","Lisbon, Portugal",NYCheapEats
+"""been""","Jackson, WY, USA",NYCheapEats
+"""been""","Sanur, Indonesia",NYCheapEats
+"""been""","Rutland, VT, USA",NYCheapEats
+"""been""","Machu Picchu, Peru",NYCheapEats
+"""been""","Mahdia, Tunisia",NYCheapEats
+"""been""","Mandalay, Myanmar",NYCheapEats
+"""been""","Davenport, FL, USA",NYCheapEats
+"""been""","Arequipa, Peru",NYCheapEats
+"""been""","Bouake, Ivory Coast",NYCheapEats
+"""been""","Bellingham, WA, USA",NYCheapEats
+"""been""","Cusco, Peru",NYCheapEats
+"""been""","Hammamet, Tunisia",NYCheapEats
+"""been""","Iquitos, Peru",NYCheapEats
+"""been""","Lima, Peru",NYCheapEats
+"""been""","Gdansk, Poland",NYCheapEats
+"""been""","Portland, ME, USA",NYCheapEats
+"""been""","Positano, Italy",NYCheapEats
+"""been""","Presque Isle, ME, USA",NYCheapEats
+"""been""","Urubamba, Peru",NYCheapEats
+"""been""","Cairo, Egypt",NYCheapEats
+"""want""","Funchal, Portugal",NYCheapEats
+"""been""","Giza, Egypt",NYCheapEats
+"""been""","Quebec City, Quebec, Canada",NYCheapEats
+"""been""","Montreal, Quebec, Canada",NYCheapEats
+"""been""","Dayton, OH, USA",NYCheapEats
+"""been""","Ouarzazate, Morocco",NYCheapEats
+"""been""","Beirut, Lebanon",NYCheapEats
+"""been""","Gulfport, MS, USA",NYCheapEats
+"""been""","Hyannis, MA, USA",NYCheapEats
+"""been""","Bradenton Beach, FL, USA",NYCheapEats
+"""been""","Merida, Mexico",NYCheapEats
+"""been""","Tulum, Mexico",NYCheapEats
+"""been""","Norman, OK, USA",NYCheapEats
+"""been""","Nassau, Bahamas",NYCheapEats
+"""been""","Niagara Falls, NY, USA",NYCheapEats
+"""been""","Saskatoon, Saskatchewan, Canada",NYCheapEats
+"""been""","Philadelphia, PA, USA",NYCheapEats
+"""been""","Timbuktu, Mali",NYCheapEats
+"""been""","Gettysburg, PA, USA",NYCheapEats
+"""been""","Aurangabad, India",NYCheapEats
+"""been""","Kapalua, HI, USA",NYCheapEats
+"""been""","Salzburg, Austria",NYCheapEats
+"""been""","Sioux Falls, SD, USA",NYCheapEats
+"""been""","Cleveland, OH, USA",NYCheapEats
+"""been""","Port-au-Prince, Haiti",NYCheapEats
+"""been""","Haiti, Caribbean",NYCheapEats
+"""been""","Singapore, Singapore",NYCheapEats
+"""been""","Kaliningrad, Russia",NYCheapEats
+"""been""","Freeport, Bahamas",NYCheapEats
+"""been""","Raleigh, NC, USA",NYCheapEats
+"""been""","Atlantic City, NJ, USA",NYCheapEats
+"""been""","Jakarta, Indonesia",NYCheapEats
+"""been""","Bursa, Turkey",NYCheapEats
+"""been""","Gurugram (Gurgaon), India",NYCheapEats
+"""been""","Toronto, Ontario, Canada",NYCheapEats
+"""been""","Vienna, Austria",NYCheapEats
+"""been""","Stuttgart, Germany",NYCheapEats
+"""been""","Ngapali, Myanmar",NYCheapEats
+"""been""","Bozeman, MT, USA",NYCheapEats
+"""been""","Goreme, Turkey",NYCheapEats
+"""been""","San Salvador, El Salvador",NYCheapEats
+"""been""","Mobile, AL, USA",NYCheapEats
+"""been""","Papeete, French Polynesia",NYCheapEats
+"""been""","Virginia Beach, VA, USA",NYCheapEats
+"""been""","Port Moresby, Papua New Guinea",NYCheapEats
+"""been""","Budapest, Hungary",NYCheapEats
+"""been""","Laval, Quebec, Canada",NYCheapEats
+"""been""","Lancaster, PA, USA",NYCheapEats
+"""been""","Kuta, Indonesia",NYCheapEats
+"""been""","Boca Raton, FL, USA",NYCheapEats
+"""been""","Mexico City, Mexico",NYCheapEats
+"""been""","Billings, MT, USA",NYCheapEats
+"""been""","Panama City, Panama",NYCheapEats
+"""been""","Krakow, Poland",NYCheapEats
+"""been""","Nashua, NH, USA",NYCheapEats
+"""been""","Chichen Itza, Mexico",NYCheapEats
+"""been""","Winston Salem, NC, USA",NYCheapEats
+"""been""","Pensacola Beach, FL, USA",NYCheapEats
+"""been""","Abidjan, Ivory Coast",NYCheapEats
+"""been""","Erie, PA, USA",NYCheapEats
+"""been""","Cancun, Mexico",NYCheapEats
+"""been""","Honolulu, HI, USA",NYCheapEats
+"""been""","Siena, Italy",NYCheapEats
+"""been""","Columbia, SC, USA",NYCheapEats
+"""been""","Asheville, NC, USA",NYCheapEats
+"""been""","Vicksburg, MS, USA",NYCheapEats
+"""been""","New Orleans, LA, USA",NYCheapEats
+"""been""","Santa Cruz, Bolivia",NYCheapEats
+"""been""","Custer, SD, USA",NYCheapEats
+"""been""","Boston, MA, USA",NYCheapEats
+"""been""","Pigeon Forge, TN, USA",NYCheapEats
+"""been""","Bismarck, ND, USA",NYCheapEats
+"""been""","Colorado Springs, CO, USA",NYCheapEats
+"""been""","Pompano Beach, FL, USA",NYCheapEats
+"""been""","Houston, TX, USA",NYCheapEats
+"""been""","Treasure Island, FL, USA",NYCheapEats
+"""been""","Waitomo Caves, New Zealand",NYCheapEats
+"""been""","Watamu, Kenya",NYCheapEats
+"""been""","Ankara, Turkey",NYCheapEats
+"""been""","Moscow, ID, USA",NYCheapEats
+"""been""","Coeur d'Alene, ID, USA",NYCheapEats
+"""been""","Agra, India",NYCheapEats
+"""been""","Kalispell, MT, USA",NYCheapEats
+"""been""","San Diego, CA, USA",NYCheapEats
+"""been""","Charleston, SC, USA",NYCheapEats
+"""been""","Sandakan, Malaysia",NYCheapEats
+"""been""","Cincinnati, OH, USA",NYCheapEats
+"""been""","Naples, FL, USA",NYCheapEats
+"""been""","Lahaina, HI, USA",NYCheapEats
+"""been""","Fort Lauderdale, FL, USA",NYCheapEats
+"""been""","Bodrum City, Turkey",NYCheapEats
+"""been""","Seattle, WA, USA",NYCheapEats
+"""been""","Yellowstone National Park, WY, USA",NYCheapEats
+"""been""","Burlington, VT, USA",NYCheapEats
+"""been""","Newark, NJ, USA",NYCheapEats
+"""been""","Uturoa, French Polynesia",NYCheapEats
+"""been""","San Jose, Costa Rica",NYCheapEats
+"""been""","Alexandria, Egypt",NYCheapEats
+"""been""","Nusa Dua, Indonesia",NYCheapEats
+"""been""","Macau, China",NYCheapEats
+"""been""","Columbia, MO, USA",NYCheapEats
+"""been""","Anchorage, AK, USA",NYCheapEats
+"""been""","Carlsbad, NM, USA",NYCheapEats
+"""been""","New York City, NY, USA",NYCheapEats
+"""been""","Mesa, AZ, USA",NYCheapEats
+"""been""","Omaha, NE, USA",NYCheapEats
+"""been""","Tallahassee, FL, USA",NYCheapEats
+"""been""","Melbourne, FL, USA",NYCheapEats
+"""been""","Rio de Janeiro, Brazil",NYCheapEats
+"""been""","Little Rock, AR, USA",NYCheapEats
+"""been""","Springfield, IL, USA",NYCheapEats
+"""been""","Englewood, NJ, USA",NYCheapEats
+"""been""","St. Petersburg, Russia",NYCheapEats
+"""been""","Sihanoukville, Cambodia",NYCheapEats
+"""been""","Tampa, FL, USA",NYCheapEats
+"""been""","El Paso, TX, USA",NYCheapEats
+"""been""","Knoxville, TN, USA",NYCheapEats
+"""been""","Jamaica, Caribbean",NYCheapEats
+"""been""","City of San Marino, San Marino",NYCheapEats
+"""been""","Austin, TX, USA",NYCheapEats
+"""been""","Pensacola, FL, USA",NYCheapEats
+"""been""","Ocho Rios, Jamaica",NYCheapEats
+"""been""","Negril, Jamaica",NYCheapEats
+"""been""","Spokane, WA, USA",NYCheapEats
+"""been""","Tianjin, China",NYCheapEats
+"""been""","Antigua, Guatemala",NYCheapEats
+"""been""","Helena, MT, USA",NYCheapEats
+"""been""","Montego Bay, Jamaica",NYCheapEats
+"""been""","Cambridge, MA, USA",NYCheapEats
+"""been""","Richmond, VA, USA",NYCheapEats
+"""been""","Atlanta, GA, USA",NYCheapEats
+"""been""","Edgewater, NJ, USA",NYCheapEats
+"""been""","Anaheim, CA, USA",NYCheapEats
+"""been""","Dublin, Ireland",NYCheapEats
+"""been""","Des Moines, IA, USA",NYCheapEats
+"""been""","Hurghada, Egypt",NYCheapEats
+"""been""","Galway, Ireland",NYCheapEats
+"""been""","Syracuse, NY, USA",NYCheapEats
+"""been""","Miami, FL, USA",NYCheapEats
+"""been""","Miami Beach, FL, USA",NYCheapEats
+"""been""","White House, Jamaica",NYCheapEats
+"""been""","Udaipur, India",NYCheapEats
+"""been""","Dorado, Puerto Rico",NYCheapEats
+"""been""","Jersey City, NJ, USA",NYCheapEats
+"""been""","San Juan, Puerto Rico",NYCheapEats
+"""been""","Ocala, FL, USA",NYCheapEats
+"""been""","Memphis, TN, USA",NYCheapEats
+"""been""","Beverly Hills, CA, USA",NYCheapEats
+"""been""","Fredericksburg, VA, USA",NYCheapEats
+"""been""","Brooklyn, NY, USA",NYCheapEats
+"""been""","Santa Barbara, CA, USA",NYCheapEats
+"""been""","Ciudad Juarez, Mexico",NYCheapEats
+"""been""","Lakeland, FL, USA",NYCheapEats
+"""been""","Kuala Lumpur, Malaysia",NYCheapEats
+"""been""","Tijuana, Mexico",NYCheapEats
+"""been""","West Yellowstone, MT, USA",NYCheapEats
+"""been""","Missoula, MT, USA",NYCheapEats
+"""been""","Staunton, VA, USA",NYCheapEats
+"""been""","Cocoa Beach, FL, USA",NYCheapEats
+"""been""","Santa Monica, CA, USA",NYCheapEats
+"""been""","Tucson, AZ, USA",NYCheapEats
+"""been""","Salem, MA, USA",NYCheapEats
+"""been""","San Francisco, CA, USA",NYCheapEats
+"""been""","San Antonio, TX, USA",NYCheapEats
+"""been""","Santa Fe, NM, USA",NYCheapEats
+"""been""","Clearwater, FL, USA",NYCheapEats
+"""been""","Clermont, FL, USA",NYCheapEats
+"""been""","Port of Spain, Trinidad and Tobago",NYCheapEats
+"""been""","Acapulco, Mexico",NYCheapEats
+"""been""","Bridgetown, Barbados",NYCheapEats
+"""been""","Guttenberg, NJ, USA",NYCheapEats
+"""been""","Trinidad, Trinidad and Tobago",NYCheapEats
+"""been""","Johannesburg, South Africa",NYCheapEats
+"""been""","Charlottesville, VA, USA",NYCheapEats
+"""been""","Carlsbad, CA, USA",NYCheapEats
+"""been""","Gatlinburg, TN, USA",NYCheapEats
+"""been""","St. Augustine, FL, USA",NYCheapEats
+"""been""","Luray, VA, USA",NYCheapEats
+"""been""","Kuching, Malaysia",NYCheapEats
+"""been""","Cape Canaveral, FL, USA",NYCheapEats
+"""been""","Cape Coral, FL, USA",NYCheapEats
+"""been""","Greensboro, NC, USA",NYCheapEats
+"""been""","Kota Kinabalu, Malaysia",NYCheapEats
+"""been""","Stanardsville, VA, USA",NYCheapEats
+"""been""","Denver, CO, USA",NYCheapEats
+"""been""","New Smyrna Beach, FL, USA",NYCheapEats
+"""been""","Fort Myers, FL, USA",NYCheapEats
+"""been""","Fort Myers Beach, FL, USA",NYCheapEats
+"""been""","Kissimmee, FL, USA",NYCheapEats
+"""been""","Yangon (Rangoon), Myanmar",NYCheapEats
+"""been""","Cape May, NJ, USA",NYCheapEats
+"""been""","La Paz, Bolivia",NYCheapEats
+"""been""","Georgetown, Guyana",NYCheapEats
+"""been""","Xi'an, China",NYCheapEats
+"""been""","Petaling Jaya, Malaysia",NYCheapEats
+"""been""","Guangzhou, China",NYCheapEats
+"""been""","Guilin, China",NYCheapEats
+"""been""","Bogota, Colombia",NYCheapEats
+"""been""","Chengdu, China",NYCheapEats
+"""been""","Seoul, South Korea",NYCheapEats
+"""been""","Ayutthaya, Thailand",NYCheapEats
+"""been""","Buffalo, NY, USA",NYCheapEats
+"""been""","Celebration, FL, USA",NYCheapEats
+"""been""","Newport, RI, USA",NYCheapEats
+"""been""","Konakli, Turkey",NYCheapEats
+"""been""","Williamsburg, VA, USA",NYCheapEats
+"""been""","Gainesville, FL, USA",NYCheapEats
+"""been""","Jayapura, Indonesia",NYCheapEats
+"""been""","Hersonissos, Greece",NYCheapEats
+"""been""","Medellin, Colombia",NYCheapEats
+"""been""","Cartagena, Colombia",NYCheapEats
+"""been""","Cali, Colombia",NYCheapEats
+"""been""","Aspen, CO, USA",NYCheapEats
+"""been""","Placencia, Belize",NYCheapEats
+"""been""","West Palm Beach, FL, USA",NYCheapEats
+"""been""","Windsor, UK",NYCheapEats
+"""been""","Chiang Mai, Thailand",NYCheapEats
+"""been""","Bangkok, Thailand",NYCheapEats
+"""been""","Birmingham, AL, USA",NYCheapEats
+"""been""","Mount Pocono, PA, USA",NYCheapEats
+"""been""","Pattaya, Thailand",NYCheapEats
+"""been""","Mont Tremblant, Quebec, Canada",NYCheapEats
+"""been""","Punta Cana, Dominican Republic",NYCheapEats
+"""been""","St. Pete Beach, FL, USA",NYCheapEats
+"""been""","Venice, Italy",NYCheapEats
+"""been""","St. Petersburg, FL, USA",NYCheapEats
+"""been""","Gibraltar, Europe",NYCheapEats
+"""been""","Reno, NV, USA",NYCheapEats
+"""been""","Madrid, Spain",NYCheapEats
+"""been""","Hanoi, Vietnam",NYCheapEats
+"""been""","Wyckoff, NJ, USA",NYCheapEats
+"""been""","Ho Chi Minh City, Vietnam",NYCheapEats
+"""been""","Sedona, AZ, USA",NYCheapEats
+"""been""","Scottsdale, AZ, USA",NYCheapEats
+"""been""","Tahaa, French Polynesia",NYCheapEats
+"""been""","South of the Border, SC, USA",NYCheapEats
+"""been""","Victoria, British Columbia, Canada",NYCheapEats
+"""been""","Hanga Roa, Chile",NYCheapEats
+"""been""","Vancouver, British Columbia, Canada",NYCheapEats
+"""been""","Minneapolis, MN, USA",NYCheapEats
+"""want""","Cape Town Central, South Africa",NYCheapEats
+"""been""","Biloxi, MS, USA",NYCheapEats
+"""been""","Sarasota, FL, USA",NYCheapEats
+"""been""","Catania, Italy",NYCheapEats
+"""been""","Durham, NC, USA",NYCheapEats
+"""been""","Macon, GA, USA",NYCheapEats
+"""been""","Valencia, Spain",NYCheapEats
+"""been""","Salt Lake City, UT, USA",NYCheapEats
+"""been""","Los Angeles, CA, USA",NYCheapEats
+"""been""","Prescott, AZ, USA",NYCheapEats
+"""been""","Jacksonville, FL, USA",NYCheapEats
+"""been""","Portland, OR, USA",NYCheapEats
+"""been""","Edmonton, Alberta, Canada",NYCheapEats
+"""been""","Long Beach, CA, USA",NYCheapEats
+"""been""","Calgary, Alberta, Canada",NYCheapEats
+"""been""","Banff, Alberta, Canada",NYCheapEats
+"""been""","Alexandria, VA, USA",NYCheapEats
+"""been"",""want""","Havana, Cuba",NYCheapEats
+"""been""","Scarborough, Trinidad and Tobago",NYCheapEats
+"""been""","Taormina, Italy",NYCheapEats
+"""been""","Varadero, Cuba",NYCheapEats
+"""been""","Florence, Italy",NYCheapEats
+"""been""","Vero Beach, FL, USA",NYCheapEats
+"""been""","San Pedro, Belize",NYCheapEats
+"""been""","Pisa, Italy",NYCheapEats
+"""been""","Saint Augustine Beach, FL, USA",NYCheapEats
+"""been""","Baltimore, MD, USA",NYCheapEats
+"""been""","Albuquerque, NM, USA",NYCheapEats
+"""been""","Malmo, Sweden",NYCheapEats
+"""been""","Tahiti, French Polynesia",NYCheapEats
+"""been""","Savannah, GA, USA",NYCheapEats
+"""been""","Belize City, Belize",NYCheapEats
+"""been""","Norwich, CT, USA",NYCheapEats
+"""been""","Arlington, VA, USA",NYCheapEats
+"""been""","Moscow, Russia",NYCheapEats
+"""been""","Siem Reap, Cambodia",NYCheapEats
+"""been""","Secaucus, NJ, USA",NYCheapEats
+"""been""","Las Vegas, NV, USA",NYCheapEats
+"""been""","Chicago, IL, USA",NYCheapEats
+"""been""","Izmir, Turkey",NYCheapEats
+"""been""","Annapolis, MD, USA",NYCheapEats
+"""been""","Dominican Republic, Caribbean",NYCheapEats
+"""been""","Santo Domingo, Dominican Republic",NYCheapEats
+"""been""","Pompeii, Italy",NYCheapEats
+"""been""","Palm Beach, FL, USA",NYCheapEats
+"""been""","Dakar, Senegal",NYCheapEats
+"""been""","Guayaquil, Ecuador",NYCheapEats
+"""been""","Killarney, Ireland",NYCheapEats
+"""been""","Otavalo, Ecuador",NYCheapEats
+"""been""","Watkins Glen, NY, USA",NYCheapEats
+"""been""","Boulder, CO, USA",NYCheapEats
+"""been""","Juneau, AK, USA",NYCheapEats
+"""been""","Nashville, TN, USA",NYCheapEats
+"""been""","Crown Point, Trinidad and Tobago",NYCheapEats
+"""been""","Belek, Turkey",NYCheapEats
+"""been""","Chihuahua, Mexico",NYCheapEats
+"""been""","Arlington, TX, USA",NYCheapEats
+"""been""","North Myrtle Beach, SC, USA",NYCheapEats
+"""been""","Kampala, Uganda",NYCheapEats
+"""been""","Panama City Beach, FL, USA",NYCheapEats
+"""been""","Greenville, SC, USA",NYCheapEats
+"""been""","Kingston, Ontario, Canada",NYCheapEats
+"""been""","Bwejuu, Tanzania",NYCheapEats
+"""been""","Kiwengwa, Tanzania",NYCheapEats
+"""been""","Lincoln, NE, USA",NYCheapEats
+"""been""","Hoboken, NJ, USA",NYCheapEats
+"""been""","Oludeniz, Turkey",NYCheapEats
+"""been""","Ushuaia, Argentina",NYCheapEats
+"""been""","Mopti, Mali",NYCheapEats
+"""been""","El Calafate, Argentina",NYCheapEats
+"""been""","Detroit, MI, USA",NYCheapEats
+"""been""","Bamako, Mali",NYCheapEats
+"""been""","Dominical, Costa Rica",NYCheapEats
+"""been""","San Jose Island, Panama",NYCheapEats
+"""been""","Marmaris, Turkey",NYCheapEats
+"""been""","Auckland Central, New Zealand",NYCheapEats
+"""been""","Myrtle Beach, SC, USA",NYCheapEats
+"""been""","Shanghai, China",NYCheapEats
+"""been""","Apia, Samoa",NYCheapEats
+"""been""","Point Pleasant Beach, NJ, USA",NYCheapEats
+"""been""","Bora Bora, French Polynesia",NYCheapEats
+"""want""","Buenos Aires, Argentina",NYCheapEats
+"""been""","Phnom Penh, Cambodia",NYCheapEats
+"""been""","Edinburgh, UK",NYCheapEats
+"""been""","Sun Valley, ID, USA",NYCheapEats
+"""been""","Vail, CO, USA",NYCheapEats
+"""been""","Entebbe, Uganda",NYCheapEats
+"""been""","Charleston, WV, USA",NYCheapEats
+"""been""","Wellington, New Zealand",NYCheapEats
+"""been""","Grand Rapids, MI, USA",NYCheapEats
+"""been""","Orlando, FL, USA",NYCheapEats
+"""been""","Marsa Alam, Egypt",NYCheapEats
+"""been""","Rotorua, New Zealand",NYCheapEats
+"""been""","Traverse City, MI, USA",NYCheapEats
+"""been"",""want""","Easter Island, Chile",NYCheapEats
+"""been""","Dallas, TX, USA",NYCheapEats
+"""been""","Lexington, KY, USA",NYCheapEats
+"""been""","Tuscaloosa, AL, USA",NYCheapEats
+"""been""","Orange, CA, USA",NYCheapEats
+"""been""","Te Anau, New Zealand",NYCheapEats
+"""been""","Nice, France",NYCheapEats
+"""been""","Albany, NY, USA",NYCheapEats
+"""been""","Gothenburg, Sweden",NYCheapEats
+"""been""","Queenstown, New Zealand",NYCheapEats
+"""been""","Bloomington, MN, USA",NYCheapEats
+"""been""","Springfield, MO, USA",NYCheapEats
+"""been""","Heraklion, Greece",NYCheapEats
+"""been""","Puerto Iguazu, Argentina",NYCheapEats
+"""been""","Jackson, MS, USA",NYCheapEats
+"""been""","Carolina, Puerto Rico",NYCheapEats
+"""been""","Lethem, Guyana",NYCheapEats
+"""been""","Rose Hall, Jamaica",NYCheapEats
+"""been""","Harrisburg, PA, USA",NYCheapEats
+"""been""","Hartford, CT, USA",NYCheapEats
+"""been""","State College, PA, USA",NYCheapEats
+"""been""","Ica, Peru",NYCheapEats
+"""want""","Kathmandu, Nepal",NYCheapEats
+"""been""","Chapel Hill, NC, USA",NYCheapEats
+"""been""","Ann Arbor, MI, USA",NYCheapEats
+"""been""","Charlotte, NC, USA",NYCheapEats
+"""been""","Copenhagen, Denmark",NYCheapEats
+"""been""","Cherokee, NC, USA",NYCheapEats
+"""been""","Toledo, Spain",NYCheapEats
+"""been""","Fes, Morocco",NYCheapEats
+"""been""","Casablanca, Morocco",NYCheapEats
+"""been""","Istanbul, Turkey",NYCheapEats
+"""been""","Tangier, Morocco",NYCheapEats
+"""been""","Rabat, Morocco",NYCheapEats
+"""been""","Marrakech, Morocco",NYCheapEats
+"""been""","Aguas Calientes, Peru",NYCheapEats
+"""been""","Puerto Rico, Spain",NYCheapEats
+"""been""","Niagara Falls, Ontario, Canada",NYCheapEats
+"""been""","Barcelona, Spain",NYCheapEats
+"""been""","Caracas, Venezuela",NYCheapEats
+"""been""","Milwaukee, WI, USA",NYCheapEats
+"""been""","Lee, MA, USA",NYCheapEats
+"""been""","Dar es Salaam, Tanzania",NYCheapEats
+"""been""","Shreveport, LA, USA",NYCheapEats
+"""been""","Ixtapa, Mexico",NYCheapEats
+"""been""","Oklahoma City, OK, USA",NYCheapEats
+"""been""","Chattanooga, TN, USA",NYCheapEats
+"""been""","Columbus, OH, USA",NYCheapEats
+"""been""","Oakland, CA, USA",NYCheapEats
+"""been""","Hopkins, Belize",NYCheapEats
+"""been""","Zurich, Switzerland",NYCheapEats
+"""been""","Lyon, France",NYCheapEats
+"""been""","Paris, France",NYCheapEats
+"""been""","Almeria, Spain",NYCheapEats
+"""been""","London, UK",NYCheapEats
+"""been""","Munich, Germany",NYCheapEats
+"""been""","Arusha, Tanzania",NYCheapEats
+"""been""","Wichita, KS, USA",NYCheapEats
+"""been""","Wanaka, New Zealand",NYCheapEats
+"""been""","Rome, Italy",NYCheapEats
+"""been""","Pittsburgh, PA, USA",NYCheapEats
+"""been""","Stockholm, Sweden",NYCheapEats
+"""been""","Baton Rouge, LA, USA",NYCheapEats
+"""been""","Vatican City, Vatican City",NYCheapEats
+"""been""","York, UK",NYCheapEats
+"""been""","Weehawken, NJ, USA",NYCheapEats
+"""been""","Kanchanaburi, Thailand",NYCheapEats
+"""been""","Rapid City, SD, USA",NYCheapEats
+"""been""","Phoenix, AZ, USA",NYCheapEats
+"""been""","New Haven, CT, USA",NYCheapEats
+"""been""","Belfast, UK",NYCheapEats
+"""been""","Sacramento, CA, USA",NYCheapEats
+"""been""","Palenque, Mexico",NYCheapEats
+"""been""","Lindos, Greece",NYCheapEats
+"""been""","Fort Worth, TX, USA",NYCheapEats
+"""been""","Seville, Spain",NYCheapEats
+"""been""","Torremolinos, Spain",NYCheapEats
+"""been""","Alacati, Turkey",NYCheapEats
+"""been""","Granada, Spain",NYCheapEats
+"""been""","Long Island City, NY, USA",NYCheapEats
+"""been""","Wroclaw, Poland",NYCheapEats
+"""been""","Palm Springs, CA, USA",NYCheapEats
+"""been""","Mojave, CA, USA",NYCheapEats
+"""been""","Palm Desert, CA, USA",NYCheapEats
+"""been""","Oxford, UK",NYCheapEats
+"""been""","Bagan, Myanmar",NYCheapEats
+"""been""","Hamburg, Germany",NYCheapEats
+"""been""","Seminyak, Indonesia",NYCheapEats
+"""been""","Sydney, Australia",NYCheapEats
+"""been""","Frankfurt, Germany",NYCheapEats
+"""been""","Pasadena, CA, USA",NYCheapEats
+"""been""","Monterey, CA, USA",NYCheapEats
+"""been""","Bath, UK",NYCheapEats
+"""been""","Augusta, GA, USA",NYCheapEats
+"""been""","Athens, Greece",NYCheapEats

@@ -1,0 +1,550 @@
+tag,place,user
+"""been""","Pittsburgh, PA, USA",ACK22
+"""been""","Winslow, AZ, USA",ACK22
+"""been""","Saint Joseph, MI, USA",ACK22
+"""been""","Meriden, CT, USA",ACK22
+"""been""","Pebble Beach, CA, USA",ACK22
+"""been""","Morro Bay, CA, USA",ACK22
+"""been""","Gloucester, MA, USA",ACK22
+"""been""","Middletown, CT, USA",ACK22
+"""been""","Auburn Hills, MI, USA",ACK22
+"""been""","Milford, CT, USA",ACK22
+"""been""","Wallingford, CT, USA",ACK22
+"""been""","Bourne, MA, USA",ACK22
+"""want""","Lucerne, Switzerland",ACK22
+"""been""","Fort Worth, TX, USA",ACK22
+"""want""","Budapest, Hungary",ACK22
+"""been""","Waterbury, CT, USA",ACK22
+"""been""","Waterford, CT, USA",ACK22
+"""been""","Framingham, MA, USA",ACK22
+"""been""","Barnstable, MA, USA",ACK22
+"""been""","Mystic, CT, USA",ACK22
+"""want""","Lisbon, Portugal",ACK22
+"""been""","Sacramento, CA, USA",ACK22
+"""been""","Bridgeport, CT, USA",ACK22
+"""want""","Kyiv (Kiev), Ukraine",ACK22
+"""been""","Weehawken, NJ, USA",ACK22
+"""been""","Toronto, Ontario, Canada",ACK22
+"""been""","Thunder Bay, Ontario, Canada",ACK22
+"""been""","Wayne, NJ, USA",ACK22
+"""been""","Chadds Ford, PA, USA",ACK22
+"""been""","Stonington, CT, USA",ACK22
+"""been""","Ann Arbor, MI, USA",ACK22
+"""been"",""fave""","Zermatt, Switzerland",ACK22
+"""been""","Southbury, CT, USA",ACK22
+"""been""","Southington, CT, USA",ACK22
+"""been""","Fairhaven, MA, USA",ACK22
+"""been""","Montauk, NY, USA",ACK22
+"""been""","Palm Desert, CA, USA",ACK22
+"""been""","Palm Springs, CA, USA",ACK22
+"""been""","Stamford, CT, USA",ACK22
+"""been""","Lakeville, CT, USA",ACK22
+"""been""","Saint Paul, MN, USA",ACK22
+"""been""","Fall River, MA, USA",ACK22
+"""been""","Pacific Grove, CA, USA",ACK22
+"""been""","Long Island City, NY, USA",ACK22
+"""been""","Falmouth, MA, USA",ACK22
+"""been""","Iowa City, IA, USA",ACK22
+"""been""","Bird in Hand, PA, USA",ACK22
+"""been""","Channel Islands National Park, CA, USA",ACK22
+"""been""","Dallas, TX, USA",ACK22
+"""been""","Litchfield, CT, USA",ACK22
+"""been""","Stratford, CT, USA",ACK22
+"""want""","Dubai, United Arab Emirates",ACK22
+"""been""","Dunwoody, GA, USA",ACK22
+"""been""","Montecito, CA, USA",ACK22
+"""been""","Rockport, MA, USA",ACK22
+"""want""","Monterey, CA, USA",ACK22
+"""been""","Pasadena, CA, USA",ACK22
+"""been""","Edgartown, MA, USA",ACK22
+"""want""","Bucharest, Romania",ACK22
+"""been""","Dubrovnik, Croatia",ACK22
+"""been""","Dothan, AL, USA",ACK22
+"""been""","Old Greenwich, CT, USA",ACK22
+"""been""","Minneapolis, MN, USA",ACK22
+"""been""","Weeki Wachee, FL, USA",ACK22
+"""been""","San Juan, Puerto Rico",ACK22
+"""been""","Old Saybrook, CT, USA",ACK22
+"""been""","St. Pete Beach, FL, USA",ACK22
+"""been""","Downey, CA, USA",ACK22
+"""been""","St. Petersburg, FL, USA",ACK22
+"""been""","Annapolis, MD, USA",ACK22
+"""been""","Los Olivos, CA, USA",ACK22
+"""been""","Norwalk, CT, USA",ACK22
+"""been""","Kansas City, MO, USA",ACK22
+"""been""","Saint Augustine Beach, FL, USA",ACK22
+"""been""","Danbury, CT, USA",ACK22
+"""been"",""fave""","Middleburg, VA, USA",ACK22
+"""been""","Paramus, NJ, USA",ACK22
+"""been""","Falls Church, VA, USA",ACK22
+"""been""","Oslo, Norway",ACK22
+"""been""","Arlington, VA, USA",ACK22
+"""been""","Parsippany, NJ, USA",ACK22
+"""been""","Fairfax, VA, USA",ACK22
+"""want""","Stuttgart, Germany",ACK22
+"""been""","Hot Springs, VA, USA",ACK22
+"""been""","Malibu, CA, USA",ACK22
+"""been""","Littleton, CO, USA",ACK22
+"""been""","Stillwater, MN, USA",ACK22
+"""been""","Elk Grove Village, IL, USA",ACK22
+"""been""","Pentwater, MI, USA",ACK22
+"""been""","Aspen, CO, USA",ACK22
+"""been""","Sarasota, FL, USA",ACK22
+"""been""","West Palm Beach, FL, USA",ACK22
+"""been""","Silver Spring, MD, USA",ACK22
+"""been""","Chatham, MA, USA",ACK22
+"""been""","Moon Township, PA, USA",ACK22
+"""been""","Vero Beach, FL, USA",ACK22
+"""been""","Bern, Switzerland",ACK22
+"""been""","Alexandria, VA, USA",ACK22
+"""want""","Geneva, Switzerland",ACK22
+"""been""","Wildwood, NJ, USA",ACK22
+"""been""","New Milford, CT, USA",ACK22
+"""been""","Indian Wells, CA, USA",ACK22
+"""been""","Salisbury, MD, USA",ACK22
+"""been""","Buzzards Bay, MA, USA",ACK22
+"""been""","Napa, CA, USA",ACK22
+"""been""","Ames, IA, USA",ACK22
+"""been""","Easton, MD, USA",ACK22
+"""been""","Venice, FL, USA",ACK22
+"""been""","Long Beach, CA, USA",ACK22
+"""been""","Westport, CT, USA",ACK22
+"""been""","Elkridge, MD, USA",ACK22
+"""been""","Elkton, MD, USA",ACK22
+"""been""","West Hartford, CT, USA",ACK22
+"""been""","Bethesda, MD, USA",ACK22
+"""been""","West Haven, CT, USA",ACK22
+"""been""","New Haven, CT, USA",ACK22
+"""been""","New London, CT, USA",ACK22
+"""want""","St. Petersburg, Russia",ACK22
+"""been""","Wildwood Crest, NJ, USA",ACK22
+"""been""","Phoenix, AZ, USA",ACK22
+"""been""","Secaucus, NJ, USA",ACK22
+"""been""","Evansville, IN, USA",ACK22
+"""been""","Nassau, Bahamas",ACK22
+"""been""","Galveston, TX, USA",ACK22
+"""been""","Paradise Island, Bahamas",ACK22
+"""been""","Rockville, MD, USA",ACK22
+"""been""","Los Angeles, CA, USA",ACK22
+"""been""","North Stonington, CT, USA",ACK22
+"""want""","Bordeaux, France",ACK22
+"""been""","Aberdeen, MD, USA",ACK22
+"""been""","Chicago, IL, USA",ACK22
+"""been""","Big Sur, CA, USA",ACK22
+"""been""","Milwaukee, WI, USA",ACK22
+"""been"",""fave""","Montreal, Quebec, Canada",ACK22
+"""been""","Sandy Hook, NJ, USA",ACK22
+"""been""","Delaware Water Gap, PA, USA",ACK22
+"""been""","Whippany, NJ, USA",ACK22
+"""been""","Skytop, PA, USA",ACK22
+"""been""","Doylestown, PA, USA",ACK22
+"""been""","St. John's, Antigua and Barbuda",ACK22
+"""been""","Newburgh, NY, USA",ACK22
+"""been""","Raleigh, NC, USA",ACK22
+"""been""","Fort Wayne, IN, USA",ACK22
+"""been""","Boca Raton, FL, USA",ACK22
+"""been""","Boca Grande, FL, USA",ACK22
+"""been""","Hyannis, MA, USA",ACK22
+"""been""","Hyannis Port, MA, USA",ACK22
+"""been""","Tewksbury, MA, USA",ACK22
+"""want""","Mont-Saint-Michel, France",ACK22
+"""been""","Rhinebeck, NY, USA",ACK22
+"""been""","West Chester, PA, USA",ACK22
+"""been""","New Windsor, NY, USA",ACK22
+"""been""","Somerset, PA, USA",ACK22
+"""been""","Cleveland, OH, USA",ACK22
+"""want""","Seoul, South Korea",ACK22
+"""been""","North Conway, NH, USA",ACK22
+"""want""","Dublin, Ireland",ACK22
+"""been""","Sturbridge, MA, USA",ACK22
+"""been""","Freeport, ME, USA",ACK22
+"""been""","Boynton Beach, FL, USA",ACK22
+"""been""","Belmar, NJ, USA",ACK22
+"""been""","Winston Salem, NC, USA",ACK22
+"""been""","Mount Washington, NH, USA",ACK22
+"""been""","Nashua, NH, USA",ACK22
+"""been""","Concord, NH, USA",ACK22
+"""been""","Conway, NH, USA",ACK22
+"""been""","Milan, Italy",ACK22
+"""been""","Harwich Port, MA, USA",ACK22
+"""been""","South Yarmouth, MA, USA",ACK22
+"""been""","Lancaster, PA, USA",ACK22
+"""been""","Virginia Beach, VA, USA",ACK22
+"""been""","Basking Ridge, NJ, USA",ACK22
+"""been""","Pinehurst, NC, USA",ACK22
+"""been""","Mykonos Town, Greece",ACK22
+"""been""","Mamora Bay, Antigua and Barbuda",ACK22
+"""been""","Erie, PA, USA",ACK22
+"""been""","Bangor, ME, USA",ACK22
+"""been""","Worcester, MA, USA",ACK22
+"""been""","Woods Hole, MA, USA",ACK22
+"""been""","Stone Mountain, GA, USA",ACK22
+"""been""","Norfolk, VA, USA",ACK22
+"""want""","Bath, ME, USA",ACK22
+"""been""","East Stroudsburg, PA, USA",ACK22
+"""been""","Simsbury, CT, USA",ACK22
+"""want""","Moscow, Russia",ACK22
+"""been""","Carlisle, PA, USA",ACK22
+"""been""","Kennebunkport, ME, USA",ACK22
+"""been""","Charlotte, NC, USA",ACK22
+"""been""","Chapel Hill, NC, USA",ACK22
+"""been""","Traverse City, MI, USA",ACK22
+"""been""","East Sandwich, MA, USA",ACK22
+"""been""","Revere, MA, USA",ACK22
+"""want""","Sao Paulo, Brazil",ACK22
+"""been""","Albany, NY, USA",ACK22
+"""been""","Tulsa, OK, USA",ACK22
+"""been""","Harrisburg, PA, USA",ACK22
+"""been""","Wellesley, MA, USA",ACK22
+"""been""","Reading, PA, USA",ACK22
+"""been""","Hartford, CT, USA",ACK22
+"""been""","Oxnard, CA, USA",ACK22
+"""been""","Lexington, KY, USA",ACK22
+"""been""","Provincetown, MA, USA",ACK22
+"""been""","Plymouth, MA, USA",ACK22
+"""been""","Atlantic City, NJ, USA",ACK22
+"""been""","Amherst, MA, USA",ACK22
+"""been""","Pittsfield, MA, USA",ACK22
+"""been""","Lexington, MA, USA",ACK22
+"""been""","Dedham, MA, USA",ACK22
+"""been""","Oklahoma City, OK, USA",ACK22
+"""been""","Lookout Mountain, GA, USA",ACK22
+"""been""","Franconia, NH, USA",ACK22
+"""been"",""fave""","Nantucket, MA, USA",ACK22
+"""been""","Ojai, CA, USA",ACK22
+"""been""","Chattanooga, TN, USA",ACK22
+"""been""","Columbus, OH, USA",ACK22
+"""been""","Oak Bluffs, MA, USA",ACK22
+"""been""","Codrington, Antigua and Barbuda",ACK22
+"""been""","Oakland, CA, USA",ACK22
+"""been""","Niagara Falls, NY, USA",ACK22
+"""been""","Bear Mountain, NY, USA",ACK22
+"""been""","Ridgefield, CT, USA",ACK22
+"""been""","Hamilton, Bermuda",ACK22
+"""been""","Lake Placid, NY, USA",ACK22
+"""been""","Bedford, NY, USA",ACK22
+"""been""","Park City, UT, USA",ACK22
+"""been""","Orleans, MA, USA",ACK22
+"""been""","Orem, UT, USA",ACK22
+"""been""","Vineyard Haven, MA, USA",ACK22
+"""been""","Intercourse, PA, USA",ACK22
+"""been""","Bolans, Antigua and Barbuda",ACK22
+"""been""","Cherry Hill, NJ, USA",ACK22
+"""been""","Elmsford, NY, USA",ACK22
+"""been""","Hanover, NH, USA",ACK22
+"""been""","Rye Brook, NY, USA",ACK22
+"""been""","Southampton, NY, USA",ACK22
+"""been""","Rye, NY, USA",ACK22
+"""been""","San Simeon, CA, USA",ACK22
+"""been""","Naples, Italy",ACK22
+"""been"",""fave""","London, UK",ACK22
+"""been""","Munich, Germany",ACK22
+"""been""","North Miami Beach, FL, USA",ACK22
+"""been""","Berkeley, CA, USA",ACK22
+"""been""","North Miami, FL, USA",ACK22
+"""been""","Bethlehem, PA, USA",ACK22
+"""want""","Halifax, Nova Scotia, Canada",ACK22
+"""been""","Narragansett, RI, USA",ACK22
+"""been""","West Dennis, MA, USA",ACK22
+"""been""","North Kingstown, RI, USA",ACK22
+"""been""","Cape May, NJ, USA",ACK22
+"""been""","White Plains, NY, USA",ACK22
+"""been""","Cape May Court House, NJ, USA",ACK22
+"""want""","Branson, MO, USA",ACK22
+"""been""","Carteret, NJ, USA",ACK22
+"""been""","Florence, Italy",ACK22
+"""been""","Camden, NJ, USA",ACK22
+"""been""","Charlottesville, VA, USA",ACK22
+"""been""","Philadelphia, PA, USA",ACK22
+"""been""","Santa Barbara, CA, USA",ACK22
+"""been""","Santa Clara, CA, USA",ACK22
+"""been""","West Orange, NJ, USA",ACK22
+"""been""","Gettysburg, PA, USA",ACK22
+"""been""","Beverly Hills, CA, USA",ACK22
+"""been""","San Ysidro, CA, USA",ACK22
+"""been""","Lake Worth, FL, USA",ACK22
+"""been""","Jamestown, RI, USA",ACK22
+"""been""","Ocean City, NJ, USA",ACK22
+"""been""","Glen Cove, NY, USA",ACK22
+"""want""","Belfast, UK",ACK22
+"""want""","Berlin, Germany",ACK22
+"""been""","Fort Lauderdale, FL, USA",ACK22
+"""been""","Newcastle, UK",ACK22
+"""been""","West Hollywood, CA, USA",ACK22
+"""been""","Flagler Beach, FL, USA",ACK22
+"""been""","Dubuque, IA, USA",ACK22
+"""been""","Westlake Village, CA, USA",ACK22
+"""been""","Naples, FL, USA",ACK22
+"""been""","Salem, NH, USA",ACK22
+"""been""","Williamsburg, VA, USA",ACK22
+"""been""","Shepherdstown, WV, USA",ACK22
+"""been""","Sleepy Hollow, NY, USA",ACK22
+"""want""","Cordoba, Spain",ACK22
+"""been""","Bridgewater, NJ, USA",ACK22
+"""been""","Rochester, NY, USA",ACK22
+"""been""","Rome, Italy",ACK22
+"""been""","Brussels, Belgium",ACK22
+"""been""","Cape Canaveral, FL, USA",ACK22
+"""want""","Nuremberg, Germany",ACK22
+"""want""","Stockholm, Sweden",ACK22
+"""been""","Cambridge, UK",ACK22
+"""been""","Lawrenceville, NJ, USA",ACK22
+"""been""","Fort Myers Beach, FL, USA",ACK22
+"""been""","Kissimmee, FL, USA",ACK22
+"""been""","Cedar Falls, IA, USA",ACK22
+"""been""","Fort Myers, FL, USA",ACK22
+"""been""","Fort Pierce, FL, USA",ACK22
+"""been""","Carpinteria, CA, USA",ACK22
+"""been""","Denver, CO, USA",ACK22
+"""been""","San Luis Obispo, CA, USA",ACK22
+"""want""","Hanoi, Vietnam",ACK22
+"""been""","St. Augustine, FL, USA",ACK22
+"""been""","Brigantine, NJ, USA",ACK22
+"""want""","Vancouver, British Columbia, Canada",ACK22
+"""been""","Houston, TX, USA",ACK22
+"""been""","Portsmouth, NH, USA",ACK22
+"""been""","Bristol, RI, USA",ACK22
+"""been""","Charlestown, RI, USA",ACK22
+"""been""","Bronx, NY, USA",ACK22
+"""been""","Lancaster, OH, USA",ACK22
+"""been""","Truth or Consequences, NM, USA",ACK22
+"""been""","Manchester, NH, USA",ACK22
+"""been""","Schenectady, NY, USA",ACK22
+"""want""","Glasgow, UK",ACK22
+"""been""","Newark, DE, USA",ACK22
+"""been""","Honolulu, HI, USA",ACK22
+"""been""","Rehoboth Beach, DE, USA",ACK22
+"""been""","New Orleans, LA, USA",ACK22
+"""been""","Newport News, VA, USA",ACK22
+"""been""","Boston, MA, USA",ACK22
+"""been""","Hialeah, FL, USA",ACK22
+"""been""","Roanoke, VA, USA",ACK22
+"""been""","Poughkeepsie, NY, USA",ACK22
+"""want""","Buenos Aires, Argentina",ACK22
+"""want""","Perth, Australia",ACK22
+"""been""","Indianapolis, IN, USA",ACK22
+"""been"",""want"",""fave""","Washington DC, DC, USA",ACK22
+"""want""","Edinburgh, UK",ACK22
+"""been""","Staten Island, NY, USA",ACK22
+"""been""","Deerfield Beach, FL, USA",ACK22
+"""been""","Cincinnati, OH, USA",ACK22
+"""been""","DeLand, FL, USA",ACK22
+"""been""","Singer Island, FL, USA",ACK22
+"""been""","San Diego, CA, USA",ACK22
+"""been""","Wilmington, DE, USA",ACK22
+"""been""","Delray Beach, FL, USA",ACK22
+"""been""","Rockport, ME, USA",ACK22
+"""been""","Vienna, VA, USA",ACK22
+"""been""","Wellfleet, MA, USA",ACK22
+"""want""","Seattle, WA, USA",ACK22
+"""been""","Somerville, MA, USA",ACK22
+"""been""","Daytona Beach, FL, USA",ACK22
+"""been""","Siasconset, MA, USA",ACK22
+"""been""","Keene, NH, USA",ACK22
+"""been""","Taos, NM, USA",ACK22
+"""been""","King of Prussia, PA, USA",ACK22
+"""been""","Hershey, PA, USA",ACK22
+"""want""","Cape Town Central, South Africa",ACK22
+"""been""","Port Jefferson, NY, USA",ACK22
+"""been""","Santa Paula, CA, USA",ACK22
+"""been""","West Yarmouth, MA, USA",ACK22
+"""want""","Valencia, Spain",ACK22
+"""been""","Sandwich, MA, USA",ACK22
+"""been""","Cocoa Beach, FL, USA",ACK22
+"""been""","Santa Ynez, CA, USA",ACK22
+"""been""","Carlsbad, NM, USA",ACK22
+"""been""","Cocoa, FL, USA",ACK22
+"""want""","Casablanca, Morocco",ACK22
+"""want""","Istanbul, Turkey",ACK22
+"""been""","Omaha, NE, USA",ACK22
+"""been""","New York City, NY, USA",ACK22
+"""been""","El Paso, TX, USA",ACK22
+"""been""","Niagara Falls, Ontario, Canada",ACK22
+"""been""","Ventura, CA, USA",ACK22
+"""been""","Lauderdale-By-The-Sea, FL, USA",ACK22
+"""been""","Clearwater, FL, USA",ACK22
+"""been""","Santa Monica, CA, USA",ACK22
+"""been""","Holderness, NH, USA",ACK22
+"""been""","Venice, Italy",ACK22
+"""been""","Jackson, NH, USA",ACK22
+"""want""","Inverness, UK",ACK22
+"""want""","Queenstown, New Zealand",ACK22
+"""been""","Hackensack, NJ, USA",ACK22
+"""want""","Madrid, Spain",ACK22
+"""been""","Cambridge, MA, USA",ACK22
+"""been""","Brindisi, Italy",ACK22
+"""been""","Richmond, VA, USA",ACK22
+"""been""","West Hyannisport, MA, USA",ACK22
+"""been""","Milford, DE, USA",ACK22
+"""been""","Louisville, KY, USA",ACK22
+"""been""","Atlanta, GA, USA",ACK22
+"""been""","Woodstock, VT, USA",ACK22
+"""been""","Presque Isle, ME, USA",ACK22
+"""been""","Memphis, TN, USA",ACK22
+"""been""","West Springfield, MA, USA",ACK22
+"""been""","Coral Gables, FL, USA",ACK22
+"""been""","Portland, ME, USA",ACK22
+"""been""","Lansing, MI, USA",ACK22
+"""been""","Hagerstown, MD, USA",ACK22
+"""been""","Chevy Chase, MD, USA",ACK22
+"""been""","Toms River, NJ, USA",ACK22
+"""been""","Amsterdam, The Netherlands",ACK22
+"""been""","Trenton, NJ, USA",ACK22
+"""want""","Lyon, France",ACK22
+"""been""","Nashville, TN, USA",ACK22
+"""been""","South Miami, FL, USA",ACK22
+"""been""","Guilford, CT, USA",ACK22
+"""been"",""fave""","Paris, France",ACK22
+"""been""","Laguna Hills, CA, USA",ACK22
+"""want""","Southampton, UK",ACK22
+"""been""","Zurich, Switzerland",ACK22
+"""want""","Maspalomas, Spain",ACK22
+"""been""","Greenwich, CT, USA",ACK22
+"""been""","Evanston, IL, USA",ACK22
+"""been""","Groton, CT, USA",ACK22
+"""been""","Vail, CO, USA",ACK22
+"""been""","East Lansing, MI, USA",ACK22
+"""been""","Princeton, NJ, USA",ACK22
+"""been""","Brookline, MA, USA",ACK22
+"""been""","Hoboken, NJ, USA",ACK22
+"""been""","Smyrna, TN, USA",ACK22
+"""been""","Montclair, NJ, USA",ACK22
+"""been""","Providence, RI, USA",ACK22
+"""been""","Fredericksburg, VA, USA",ACK22
+"""been""","Watkins Glen, NY, USA",ACK22
+"""been""","Brooklyn, NY, USA",ACK22
+"""been""","Flushing, NY, USA",ACK22
+"""been""","Bar Harbor, ME, USA",ACK22
+"""want""","Marseille, France",ACK22
+"""been""","Yonkers, NY, USA",ACK22
+"""been""","Mykonos, Greece",ACK22
+"""want""","Dusseldorf, Germany",ACK22
+"""been""","Ocean City, MD, USA",ACK22
+"""been""","Escondido, CA, USA",ACK22
+"""want""","Barcelona, Spain",ACK22
+"""been""","Palm Beach, FL, USA",ACK22
+"""been""","Tucson, AZ, USA",ACK22
+"""been""","Palm Beach Gardens, FL, USA",ACK22
+"""been""","Chestertown, MD, USA",ACK22
+"""been""","Boulder, CO, USA",ACK22
+"""been""","San Francisco, CA, USA",ACK22
+"""been""","Wilkes-Barre, PA, USA",ACK22
+"""been""","Watch Hill, RI, USA",ACK22
+"""been""","Salem, MA, USA",ACK22
+"""been""","San Antonio, TX, USA",ACK22
+"""been""","Thousand Oaks, CA, USA",ACK22
+"""been""","Santa Fe, NM, USA",ACK22
+"""been""","Warwick, RI, USA",ACK22
+"""been""","Allentown, PA, USA",ACK22
+"""been""","Stone Harbor, NJ, USA",ACK22
+"""been""","Myrtle Beach, SC, USA",ACK22
+"""been""","Winter Garden, FL, USA",ACK22
+"""been""","Okeechobee, FL, USA",ACK22
+"""been""","Enfield, CT, USA",ACK22
+"""been""","Sebring, FL, USA",ACK22
+"""been""","Winter Park, FL, USA",ACK22
+"""been""","Essex, CT, USA",ACK22
+"""been""","Dearborn, MI, USA",ACK22
+"""been""","Avon, CT, USA",ACK22
+"""been""","Scottsdale, AZ, USA",ACK22
+"""want""","Sydney, Australia",ACK22
+"""been""","Sedona, AZ, USA",ACK22
+"""been""","Detroit, MI, USA",ACK22
+"""been""","Luray, VA, USA",ACK22
+"""been""","Harpers Ferry, WV, USA",ACK22
+"""been""","Summit, NJ, USA",ACK22
+"""been""","McLean, VA, USA",ACK22
+"""been""","Woodstock, NY, USA",ACK22
+"""been""","Springfield, MA, USA",ACK22
+"""been""","Vienna, Austria",ACK22
+"""been""","Scranton, PA, USA",ACK22
+"""been""","Florence, SC, USA",ACK22
+"""been""","Salzburg, Austria",ACK22
+"""been""","Reno, NV, USA",ACK22
+"""been""","La Jolla, CA, USA",ACK22
+"""been""","Glastonbury, CT, USA",ACK22
+"""been""","Orlando, FL, USA",ACK22
+"""been""","Gaithersburg, MD, USA",ACK22
+"""want""","Dresden, Germany",ACK22
+"""been""","Fairfield, CT, USA",ACK22
+"""been""","Flagstaff, AZ, USA",ACK22
+"""been""","Farmington, CT, USA",ACK22
+"""been""","Cambridge, MD, USA",ACK22
+"""been""","Buffalo, NY, USA",ACK22
+"""been""","Pawtucket, RI, USA",ACK22
+"""been""","Newport, RI, USA",ACK22
+"""been""","Homestead, FL, USA",ACK22
+"""been""","Great Neck, NY, USA",ACK22
+"""been""","Madison, WI, USA",ACK22
+"""want""","Innsbruck, Austria",ACK22
+"""been""","Newark, NJ, USA",ACK22
+"""been""","Fairfield, NJ, USA",ACK22
+"""been""","Saddle Brook, NJ, USA",ACK22
+"""want""","Cannes, France",ACK22
+"""been""","West Point, NY, USA",ACK22
+"""been""","East Quogue, NY, USA",ACK22
+"""want""","Cairo, Egypt",ACK22
+"""been""","Des Moines, IA, USA",ACK22
+"""been""","Jacksonville Beach, FL, USA",ACK22
+"""been""","Athens, Greece",ACK22
+"""been""","Ely, MN, USA",ACK22
+"""been""","Farmington Hills, MI, USA",ACK22
+"""been""","Charleston, SC, USA",ACK22
+"""want""","Nairobi, Kenya",ACK22
+"""been""","Montpelier, VT, USA",ACK22
+"""been""","Concord, MA, USA",ACK22
+"""been""","Burlington, VT, USA",ACK22
+"""been""","Morristown, NJ, USA",ACK22
+"""been""","Tarrytown, NY, USA",ACK22
+"""been""","Middlebury, VT, USA",ACK22
+"""been""","Knoxville, TN, USA",ACK22
+"""been""","Hamburg, Germany",ACK22
+"""been""","Oxford, UK",ACK22
+"""been""","Kansas City, KS, USA",ACK22
+"""want""","Avignon, France",ACK22
+"""been""","Frankfurt, Germany",ACK22
+"""been""","Port Canaveral, FL, USA",ACK22
+"""been""","Everglades City, FL, USA",ACK22
+"""been""","Juno Beach, FL, USA",ACK22
+"""been""","Jupiter, FL, USA",ACK22
+"""been""","Bergen, Norway",ACK22
+"""want""","Gdansk, Poland",ACK22
+"""been""","Manchester, VT, USA",ACK22
+"""been""","Voorhees, NJ, USA",ACK22
+"""been""","Ridgefield Park, NJ, USA",ACK22
+"""been""","Edison, NJ, USA",ACK22
+"""want""","Saint-Tropez, France",ACK22
+"""been""","Copenhagen, Denmark",ACK22
+"""been""","Elizabeth, NJ, USA",ACK22
+"""been""","Davenport, IA, USA",ACK22
+"""been""","Burbank, CA, USA",ACK22
+"""want""","Santiago, Chile",ACK22
+"""been""","Burlingame, CA, USA",ACK22
+"""been""","Salt Lake City, UT, USA",ACK22
+"""been""","Killington, VT, USA",ACK22
+"""been""","Jacksonville, FL, USA",ACK22
+"""been""","Stratton Mountain, VT, USA",ACK22
+"""want""","Gothenburg, Sweden",ACK22
+"""been""","Lubbock, TX, USA",ACK22
+"""been""","Stowe, VT, USA",ACK22
+"""been""","Tampa, FL, USA",ACK22
+"""been""","Sonoma, CA, USA",ACK22
+"""been""","Miami Beach, FL, USA",ACK22
+"""been""","Miami, FL, USA",ACK22
+"""been""","Hunt Valley, MD, USA",ACK22
+"""been""","Coronado, CA, USA",ACK22
+"""been""","Pensacola, FL, USA",ACK22
+"""been""","Anaheim, CA, USA",ACK22
+"""been""","Duluth, MN, USA",ACK22
+"""been""","Tallahassee, FL, USA",ACK22
+"""been""","Solvang, CA, USA",ACK22
+"""been""","Calabasas, CA, USA",ACK22
+"""been""","Albuquerque, NM, USA",ACK22
+"""been""","Red Bank, NJ, USA",ACK22
+"""been""","Baltimore, MD, USA",ACK22
+"""been""","Savannah, GA, USA",ACK22
+"""been""","Lexington, VA, USA",ACK22
+"""been""","Mount Laurel, NJ, USA",ACK22
+"""been""","Austin, TX, USA",ACK22
+"""been""","Edgewater, NJ, USA",ACK22
+"""want""","Prague, Czech Republic",ACK22

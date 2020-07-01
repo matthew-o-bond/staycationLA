@@ -1,0 +1,411 @@
+tag,place,user
+"""been""","Anaheim, CA, USA",Camda
+"""been""","Charleston, SC, USA",Camda
+"""been""","Yandina, Australia",Camda
+"""been""","South San Francisco, CA, USA",Camda
+"""been""","Tawa, New Zealand",Camda
+"""been""","Newark, NJ, USA",Camda
+"""been""","Sonoma, CA, USA",Camda
+"""want""","Miami Beach, FL, USA",Camda
+"""been""","Wembley, UK",Camda
+"""been""","Moab, UT, USA",Camda
+"""been""","Auckland, New Zealand",Camda
+"""been""","Saugus, MA, USA",Camda
+"""been""","Whakatane, New Zealand",Camda
+"""been""","Pensacola, FL, USA",Camda
+"""been""","Pigeon Forge, TN, USA",Camda
+"""been""","Calas de Majorca, Spain",Camda
+"""been""","Walt Disney World, FL, USA",Camda
+"""been""","Solvang, CA, USA",Camda
+"""been""","Houston, TX, USA",Camda
+"""been""","Glenorchy, New Zealand",Camda
+"""been""","Tampa, FL, USA",Camda
+"""been""","Tallahassee, FL, USA",Camda
+"""been""","Newport, RI, USA",Camda
+"""been""","Flagstaff, AZ, USA",Camda
+"""been""","Williamsburg, VA, USA",Camda
+"""been""","Buena Park, CA, USA",Camda
+"""been""","Quebec City, Quebec, Canada",Camda
+"""been""","Vallejo, CA, USA",Camda
+"""been""","Burbank, CA, USA",Camda
+"""been""","Montreal, Quebec, Canada",Camda
+"""been""","New Orleans, LA, USA",Camda
+"""been""","Boston, MA, USA",Camda
+"""been""","Honolulu, HI, USA",Camda
+"""been""","Hemel Hempstead, UK",Camda
+"""been""","Puerto Iguazu, Argentina",Camda
+"""been""","Boulder, CO, USA",Camda
+"""been""","Lake Havasu City, AZ, USA",Camda
+"""been""","St. George, UT, USA",Camda
+"""been""","Levin, New Zealand",Camda
+"""been""","Seattle, WA, USA",Camda
+"""been""","Singapore, Singapore",Camda
+"""been""","Golden, British Columbia, Canada",Camda
+"""been""","Mount Maunganui, New Zealand",Camda
+"""been""","Amarillo, TX, USA",Camda
+"""been""","Vail, CO, USA",Camda
+"""been""","El Segundo, CA, USA",Camda
+"""been""","Lucerne, Switzerland",Camda
+"""been""","Trondheim, Norway",Camda
+"""been""","Ventura, CA, USA",Camda
+"""been""","Orlando, FL, USA",Camda
+"""been""","Little Rock, AR, USA",Camda
+"""been""","Lisbon, Portugal",Camda
+"""been""","New York City, NY, USA",Camda
+"""been""","Memphis, TN, USA",Camda
+"""been""","La Jolla, CA, USA",Camda
+"""been""","Ensenada, Mexico",Camda
+"""been""","Tasman, New Zealand",Camda
+"""been""","Steamboat Springs, CO, USA",Camda
+"""been""","Jerez De La Frontera, Spain",Camda
+"""been""","Chico, CA, USA",Camda
+"""been""","Sedona, AZ, USA",Camda
+"""been""","Grindelwald, Switzerland",Camda
+"""been""","Scottsdale, AZ, USA",Camda
+"""been""","Marina del Rey, CA, USA",Camda
+"""been""","Oxford, New Zealand",Camda
+"""been""","Teton Village, WY, USA",Camda
+"""been""","Flaxton, Australia",Camda
+"""been""","Wedderburn, New Zealand",Camda
+"""been""","Aspen, CO, USA",Camda
+"""been""","Porto, Portugal",Camda
+"""been""","Malibu, CA, USA",Camda
+"""been""","St. Moritz, Switzerland",Camda
+"""been""","St. Petersburg, FL, USA",Camda
+"""been""","Medford, OR, USA",Camda
+"""been""","Cheyenne, WY, USA",Camda
+"""been""","Nusa Dua, Indonesia",Camda
+"""been""","Whitianga, New Zealand",Camda
+"""been""","Hershey, PA, USA",Camda
+"""been""","Roanoke, VA, USA",Camda
+"""been""","Port Chalmers, New Zealand",Camda
+"""been""","Saint Augustine Beach, FL, USA",Camda
+"""been""","Arlington, VA, USA",Camda
+"""been""","Noosaville, Australia",Camda
+"""been""","Mt. Cook Village, New Zealand",Camda
+"""been""","Buenos Aires, Argentina",Camda
+"""been""","Toulouse, France",Camda
+"""been""","Richmond-upon-Thames, UK",Camda
+"""been""","Vienna, Austria",Camda
+"""been""","Katoomba, Australia",Camda
+"""been""","Fresno, CA, USA",Camda
+"""been""","Mykonos Town, Greece",Camda
+"""want""","Chicago, IL, USA",Camda
+"""been""","Brisbane, Australia",Camda
+"""been""","Sanur, Indonesia",Camda
+"""been""","Cairns, Australia",Camda
+"""been""","Sydney, Australia",Camda
+"""been""","Whitstable, UK",Camda
+"""been""","Pismo Beach, CA, USA",Camda
+"""been""","Ubud, Indonesia",Camda
+"""been""","Los Angeles, CA, USA",Camda
+"""been""","Eugene, OR, USA",Camda
+"""been""","Napa, CA, USA",Camda
+"""been""","Long Beach, CA, USA",Camda
+"""been""","Avalon, CA, USA",Camda
+"""been""","Margate, UK",Camda
+"""been""","Surfers Paradise, Australia",Camda
+"""been""","Trinity Beach, Australia",Camda
+"""been""","Indian Wells, CA, USA",Camda
+"""been""","Tokaanu, New Zealand",Camda
+"""been"",""want""","Phoenix, AZ, USA",Camda
+"""been""","Cardrona, New Zealand",Camda
+"""been""","Rouen, France",Camda
+"""been""","Luxembourg City, Luxembourg",Camda
+"""been""","Mystic, CT, USA",Camda
+"""been""","Fuengirola, Spain",Camda
+"""been""","Sacramento, CA, USA",Camda
+"""been""","Billings, MT, USA",Camda
+"""been""","Oslo, Norway",Camda
+"""been""","Basel, Switzerland",Camda
+"""been""","Akaroa, New Zealand",Camda
+"""been""","Nantes, France",Camda
+"""been""","Mooloolaba, Australia",Camda
+"""been""","Revelstoke, British Columbia, Canada",Camda
+"""been""","Monument Valley, UT, USA",Camda
+"""been""","Denarau Island, Fiji",Camda
+"""want""","Prague, Czech Republic",Camda
+"""been""","Bern, Switzerland",Camda
+"""been""","Marlow, UK",Camda
+"""been""","Cape Town Central, South Africa",Camda
+"""been""","Biarritz, France",Camda
+"""been""","Morro Bay, CA, USA",Camda
+"""been""","Alicante, Spain",Camda
+"""been""","Matakana, New Zealand",Camda
+"""been""","Big Sur, CA, USA",Camda
+"""been""","Stockbridge, MA, USA",Camda
+"""been""","Adelaide, Australia",Camda
+"""been""","Toronto, Ontario, Canada",Camda
+"""been""","Jackson, WY, USA",Camda
+"""been""","Monterey, CA, USA",Camda
+"""been""","Leon, Spain",Camda
+"""been""","Cologne, Germany",Camda
+"""been""","Bourton-on-the-Water, UK",Camda
+"""been""","Salamanca, Spain",Camda
+"""been""","Girona, Spain",Camda
+"""been""","Toulon, France",Camda
+"""been""","Saint-Remy-de-Provence, France",Camda
+"""been""","Barcelona, Spain",Camda
+"""been""","Hyannis, MA, USA",Camda
+"""been""","Busselton, Australia",Camda
+"""been""","Palm Springs, CA, USA",Camda
+"""been""","Lake Placid, NY, USA",Camda
+"""been""","Peniscola, Spain",Camda
+"""been""","Hahei, New Zealand",Camda
+"""been""","Pamukkale, Turkey",Camda
+"""been""","Niagara Falls, NY, USA",Camda
+"""been""","Cape Reinga, New Zealand",Camda
+"""been""","Stow-on-the-Wold, UK",Camda
+"""been""","Amsterdam, The Netherlands",Camda
+"""been""","Palm Desert, CA, USA",Camda
+"""been""","Paris, France",Camda
+"""been""","Karaka, New Zealand",Camda
+"""been""","Lyon, France",Camda
+"""been""","Portsmouth, UK",Camda
+"""been""","Southampton, UK",Camda
+"""been""","Zurich, Switzerland",Camda
+"""been""","Tanjung Benoa, Indonesia",Camda
+"""been""","Sayan, Indonesia",Camda
+"""been""","Fox Glacier, New Zealand",Camda
+"""been""","Montpellier, France",Camda
+"""been""","Otaki, New Zealand",Camda
+"""been""","Javea, Spain",Camda
+"""been""","Redondo Beach, CA, USA",Camda
+"""been""","Middlemarch, New Zealand",Camda
+"""been""","Noosa, Australia",Camda
+"""been""","Clyde, New Zealand",Camda
+"""been""","Featherston, New Zealand",Camda
+"""been""","Waitakere City, New Zealand",Camda
+"""been""","Carterton, New Zealand",Camda
+"""been""","Whakapapa, New Zealand",Camda
+"""been""","Nimes, France",Camda
+"""been""","Ottawa, Ontario, Canada",Camda
+"""been""","Hong Kong, China",Camda
+"""been""","Nadi, Fiji",Camda
+"""want""","Dubai, United Arab Emirates",Camda
+"""been""","National Park Village, New Zealand",Camda
+"""been""","Orange, CA, USA",Camda
+"""been""","Nancy, France",Camda
+"""been""","Mascot, Australia",Camda
+"""been""","Ranfurly, New Zealand",Camda
+"""been""","Salzburg, Austria",Camda
+"""been""","Rancho Mirage, CA, USA",Camda
+"""been""","Kusadasi, Turkey",Camda
+"""been""","Heidelberg, Germany",Camda
+"""been""","Rabat, Morocco",Camda
+"""been""","Provincetown, MA, USA",Camda
+"""been""","Marrakech, Morocco",Camda
+"""been""","Casablanca, Morocco",Camda
+"""been""","Istanbul, Turkey",Camda
+"""been""","Newquay, UK",Camda
+"""been""","Fes, Morocco",Camda
+"""been""","Zaragoza, Spain",Camda
+"""been""","Gisborne, New Zealand",Camda
+"""been""","Oxford, UK",Camda
+"""been""","Auckland Central, New Zealand",Camda
+"""been""","Taunton, UK",Camda
+"""been""","Perth, Australia",Camda
+"""been""","Ballarat, Australia",Camda
+"""been""","Niagara-on-the-Lake, Ontario, Canada",Camda
+"""been""","Taihape, New Zealand",Camda
+"""been""","Niagara Falls, Ontario, Canada",Camda
+"""been""","Melbourne, Australia",Camda
+"""been""","San Sebastian - Donostia, Spain",Camda
+"""been""","Hamburg, Germany",Camda
+"""been""","Mangere, New Zealand",Camda
+"""been""","St Ives, UK",Camda
+"""been""","Bilbao, Spain",Camda
+"""been""","Uppsala, Sweden",Camda
+"""been""","Arles, France",Camda
+"""been""","Traverse City, MI, USA",Camda
+"""been""","Napier, New Zealand",Camda
+"""been""","Christchurch, New Zealand",Camda
+"""been""","Paekakariki, New Zealand",Camda
+"""been""","Dunedin, New Zealand",Camda
+"""want""","Bruges, Belgium",Camda
+"""been""","Blenheim, New Zealand",Camda
+"""been""","Tauranga, New Zealand",Camda
+"""been""","Slough, UK",Camda
+"""been""","Wellington, New Zealand",Camda
+"""been""","New Plymouth, New Zealand",Camda
+"""been""","Croydon, UK",Camda
+"""been""","Taupo, New Zealand",Camda
+"""been""","Paihia, New Zealand",Camda
+"""been""","Rotorua, New Zealand",Camda
+"""been""","Torquay, UK",Camda
+"""been""","Odense, Denmark",Camda
+"""been""","Cannes, France",Camda
+"""been""","Athens, Greece",Camda
+"""been""","Beamish, UK",Camda
+"""been""","Oakhurst, CA, USA",Camda
+"""been""","Eze, France",Camda
+"""been""","Mapua, New Zealand",Camda
+"""been""","Las Palmas de Gran Canaria, Spain",Camda
+"""been""","Bournemouth, UK",Camda
+"""been""","Westport, New Zealand",Camda
+"""been""","Stavanger, Norway",Camda
+"""been""","Te Anau, New Zealand",Camda
+"""been""","Queenstown, New Zealand",Camda
+"""been""","Dijon, France",Camda
+"""been""","St Kilda, Australia",Camda
+"""been""","Nice, France",Camda
+"""been""","Gothenburg, Sweden",Camda
+"""been""","Heraklion, Greece",Camda
+"""been""","Moonta, Australia",Camda
+"""been""","Brighton, UK",Camda
+"""been""","St-Paul-de-Vence, France",Camda
+"""been""","Hanmer Springs, New Zealand",Camda
+"""been""","Toledo, Spain",Camda
+"""been""","Kaikoura, New Zealand",Camda
+"""been""","Villefranche-sur-Mer, France",Camda
+"""been""","Greymouth, New Zealand",Camda
+"""been""","Buninyong, Australia",Camda
+"""been""","Hastings, UK",Camda
+"""want""","Tokyo, Japan",Camda
+"""been""","Santander, Spain",Camda
+"""been""","Monte-Carlo, Monaco",Camda
+"""been""","Petone, New Zealand",Camda
+"""been""","Copenhagen, Denmark",Camda
+"""been""","Valencia, Spain",Camda
+"""been""","Benidorm, Spain",Camda
+"""been""","Hot Water Beach, New Zealand",Camda
+"""been""","Broadbeach, Australia",Camda
+"""been""","Perth, UK",Camda
+"""been""","Florence, Italy",Camda
+"""been""","Grasmere, UK",Camda
+"""been""","Malmo, Sweden",Camda
+"""been""","Kendal, UK",Camda
+"""been""","Ayutthaya, Thailand",Camda
+"""been""","Greytown, New Zealand",Camda
+"""been""","Martinborough, New Zealand",Camda
+"""been""","Hyde, New Zealand",Camda
+"""been""","Paisley, UK",Camda
+"""been""","Bowness-on-Windermere, UK",Camda
+"""been""","South Lake Tahoe, CA, USA",Camda
+"""been""","Henderson, NV, USA",Camda
+"""been""","Windermere, UK",Camda
+"""been""","Rhodes Town, Greece",Camda
+"""been""","Ayr, UK",Camda
+"""been""","Blackpool, UK",Camda
+"""been""","Boise, ID, USA",Camda
+"""been""","Munich, Germany",Camda
+"""been""","Incline Village, NV, USA",Camda
+"""been""","Liverpool, UK",Camda
+"""been""","London, UK",Camda
+"""been""","Lake Tekapo, New Zealand",Camda
+"""been""","Rome, Italy",Camda
+"""been""","Cardiff, UK",Camda
+"""been""","Cambridge, UK",Camda
+"""been""","Cordoba, Spain",Camda
+"""been""","Vatican City, Vatican City",Camda
+"""been""","Bristol, UK",Camda
+"""been""","Stockholm, Sweden",Camda
+"""been""","Las Vegas, NV, USA",Camda
+"""been""","Cadiz, Spain",Camda
+"""been""","Wanaka, New Zealand",Camda
+"""been""","Bethesda, MD, USA",Camda
+"""been""","Havelock North, New Zealand",Camda
+"""been""","Malaga, Spain",Camda
+"""been""","Daytona Beach, FL, USA",Camda
+"""been""","Portland, OR, USA",Camda
+"""been""","Coffs Harbour, Australia",Camda
+"""been""","Canberra, Australia",Camda
+"""been""","Eastbourne, UK",Camda
+"""been""","Lower Hutt, New Zealand",Camda
+"""want""","Berlin, Germany",Camda
+"""been""","Newcastle, UK",Camda
+"""been""","Granada, Spain",Camda
+"""been""","Poole, UK",Camda
+"""been""","Washington DC, DC, USA",Camda
+"""been""","Torremolinos, Spain",Camda
+"""been""","Seville, Spain",Camda
+"""been""","Waterford, Ireland",Camda
+"""been""","Dundee, UK",Camda
+"""been""","Muri, Cook Islands",Camda
+"""been""","Dumfries, UK",Camda
+"""been""","Ronda, Spain",Camda
+"""been""","Te Aroha, New Zealand",Camda
+"""been""","Davenport, FL, USA",Camda
+"""been""","Jasper, Alberta, Canada",Camda
+"""been""","Banff, Alberta, Canada",Camda
+"""been""","Warwick, UK",Camda
+"""been""","Calgary, Alberta, Canada",Camda
+"""been""","Lake Louise, Alberta, Canada",Camda
+"""been""","Edmonton, Alberta, Canada",Camda
+"""been""","Biloxi, MS, USA",Camda
+"""been""","Sausalito, CA, USA",Camda
+"""been""","Coventry, UK",Camda
+"""been""","Arundel, UK",Camda
+"""been""","Falkirk, UK",Camda
+"""been""","Seal Beach, CA, USA",Camda
+"""been""","Reno, NV, USA",Camda
+"""been""","Glasgow, UK",Camda
+"""want""","Moscow, Russia",Camda
+"""been""","Santa Monica, CA, USA",Camda
+"""been""","Windsor, UK",Camda
+"""been""","Tarragona, Spain",Camda
+"""been""","Foz do Iguacu, Brazil",Camda
+"""been""","Charleston, WV, USA",Camda
+"""been""","Harrow, UK",Camda
+"""been""","Waitangi, New Zealand",Camda
+"""been""","Kerikeri, New Zealand",Camda
+"""been""","Tijuana, Mexico",Camda
+"""been""","Muskegon, MI, USA",Camda
+"""been""","Venice, Italy",Camda
+"""been""","Grand Rapids, MI, USA",Camda
+"""been""","Kawakawa, New Zealand",Camda
+"""been""","Madrid, Spain",Camda
+"""been""","Beverly Hills, CA, USA",Camda
+"""been""","Manutuke, New Zealand",Camda
+"""been""","Argeles-sur-Mer, France",Camda
+"""been""","Santa Barbara, CA, USA",Camda
+"""been""","Christchurch, UK",Camda
+"""been""","Pamplona, Spain",Camda
+"""been""","Susanville, CA, USA",Camda
+"""been""","Celebration, FL, USA",Camda
+"""been""","Tossa de Mar, Spain",Camda
+"""been""","San Simeon, CA, USA",Camda
+"""been""","Jacksonville, FL, USA",Camda
+"""been""","Salt Lake City, UT, USA",Camda
+"""been""","Cork, Ireland",Camda
+"""been""","Carlsbad, CA, USA",Camda
+"""been""","Dublin, Ireland",Camda
+"""been""","Carmel, CA, USA",Camda
+"""been""","San Jose, CA, USA",Camda
+"""been""","Kissimmee, FL, USA",Camda
+"""been""","Tongariro National Park, New Zealand",Camda
+"""been""","San Luis Obispo, CA, USA",Camda
+"""been""","St. Augustine, FL, USA",Camda
+"""been""","Cape Canaveral, FL, USA",Camda
+"""been""","Denver, CO, USA",Camda
+"""been""","Mont-Saint-Michel, France",Camda
+"""been""","Nelson, New Zealand",Camda
+"""been""","Savannah, GA, USA",Camda
+"""been""","Kilkenny, Ireland",Camda
+"""been""","West Hollywood, CA, USA",Camda
+"""been""","Mount Prospect, IL, USA",Camda
+"""been""","Bangkok, Thailand",Camda
+"""been""","Ka'anapali, HI, USA",Camda
+"""been""","Newcastle, Australia",Camda
+"""been""","Providence, RI, USA",Camda
+"""been""","Brooklyn, NY, USA",Camda
+"""been""","Calais, France",Camda
+"""been""","Kamloops, British Columbia, Canada",Camda
+"""been""","Turangi, New Zealand",Camda
+"""been""","Nanaimo, British Columbia, Canada",Camda
+"""been""","Limerick, Ireland",Camda
+"""been""","Hastings, New Zealand",Camda
+"""been""","Tolaga Bay, New Zealand",Camda
+"""been""","Penticton, British Columbia, Canada",Camda
+"""been""","Porirua, New Zealand",Camda
+"""been""","Kuranda, Australia",Camda
+"""been""","Colorado Springs, CO, USA",Camda
+"""been""","Knoxville, TN, USA",Camda
+"""been""","Vergennes, VT, USA",Camda
+"""been""","Byron Bay, Australia",Camda
+"""been""","San Antonio, TX, USA",Camda
+"""been""","Coolangatta, Australia",Camda
+"""been""","Santa Fe, NM, USA",Camda
+"""been""","Vancouver, British Columbia, Canada",Camda
+"""been""","San Francisco, CA, USA",Camda
+"""been""","Victoria, British Columbia, Canada",Camda

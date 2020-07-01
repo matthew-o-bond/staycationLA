@@ -1,0 +1,646 @@
+tag,place,user
+"""been""","Old Orchard Beach, ME, USA",AmbleOutdoors
+"""been""","Camden, ME, USA",AmbleOutdoors
+"""been""","Pass Christian, MS, USA",AmbleOutdoors
+"""been""","Portsmouth, VA, USA",AmbleOutdoors
+"""been""","Dover, UK",AmbleOutdoors
+"""been""","Oklahoma City, OK, USA",AmbleOutdoors
+"""been""","Grand Prairie, TX, USA",AmbleOutdoors
+"""been""","Huntsville, AL, USA",AmbleOutdoors
+"""been""","Fayetteville, NC, USA",AmbleOutdoors
+"""been""","Ozark, AR, USA",AmbleOutdoors
+"""been""","Kill Devil Hills, NC, USA",AmbleOutdoors
+"""been""","Avon, NC, USA",AmbleOutdoors
+"""been""","Yosemite National Park, CA, USA",AmbleOutdoors
+"""been""","Jackson, MS, USA",AmbleOutdoors
+"""been""","Eufaula, OK, USA",AmbleOutdoors
+"""been""","Asbury Park, NJ, USA",AmbleOutdoors
+"""been""","Springfield, MO, USA",AmbleOutdoors
+"""been""","Provincetown, MA, USA",AmbleOutdoors
+"""been""","Tulsa, OK, USA",AmbleOutdoors
+"""been""","Elk City, OK, USA",AmbleOutdoors
+"""been""","Kosciusko, MS, USA",AmbleOutdoors
+"""been"",""fave""","Nags Head, NC, USA",AmbleOutdoors
+"""been""","Atlantic City, NJ, USA",AmbleOutdoors
+"""been""","Grapevine, TX, USA",AmbleOutdoors
+"""been""","Fort Bragg, NC, USA",AmbleOutdoors
+"""been""","Kitty Hawk, NC, USA",AmbleOutdoors
+"""been""","Wimberley, TX, USA",AmbleOutdoors
+"""been""","Greenville, TX, USA",AmbleOutdoors
+"""been""","Harrisburg, PA, USA",AmbleOutdoors
+"""been""","Middletown, NY, USA",AmbleOutdoors
+"""been""","Atlantic Beach, NC, USA",AmbleOutdoors
+"""want""","New Bern, NC, USA",AmbleOutdoors
+"""been""","Wall, SD, USA",AmbleOutdoors
+"""been""","Kure Beach, NC, USA",AmbleOutdoors
+"""been""","Las Cruces, NM, USA",AmbleOutdoors
+"""been""","Charlotte, NC, USA",AmbleOutdoors
+"""been""","Winnie, TX, USA",AmbleOutdoors
+"""been""","Jonesboro, AR, USA",AmbleOutdoors
+"""been""","Kennebunk, ME, USA",AmbleOutdoors
+"""been""","Kennebunkport, ME, USA",AmbleOutdoors
+"""want""","Bangkok, Thailand",AmbleOutdoors
+"""been"",""fave""","Vancouver, British Columbia, Canada",AmbleOutdoors
+"""been""","Broken Bow, OK, USA",AmbleOutdoors
+"""been""","Broken Arrow, OK, USA",AmbleOutdoors
+"""been""","Lawton, OK, USA",AmbleOutdoors
+"""been""","Covington, TN, USA",AmbleOutdoors
+"""been""","Carlisle, PA, USA",AmbleOutdoors
+"""been""","Springdale, AR, USA",AmbleOutdoors
+"""been""","Fort Knox, KY, USA",AmbleOutdoors
+"""been""","East Stroudsburg, PA, USA",AmbleOutdoors
+"""been""","Brussels, Belgium",AmbleOutdoors
+"""been""","Farmers Branch, TX, USA",AmbleOutdoors
+"""been""","North Little Rock, AR, USA",AmbleOutdoors
+"""been""","Bloomington, MN, USA",AmbleOutdoors
+"""been""","Edinburgh, UK",AmbleOutdoors
+"""been""","Long Beach, MS, USA",AmbleOutdoors
+"""been""","Radcliff, KY, USA",AmbleOutdoors
+"""been""","Florence, KY, USA",AmbleOutdoors
+"""been""","Fort Gibson, OK, USA",AmbleOutdoors
+"""been""","Strasburg, PA, USA",AmbleOutdoors
+"""been""","Antlers, OK, USA",AmbleOutdoors
+"""been""","Dallas, TX, USA",AmbleOutdoors
+"""been""","Stroudsburg, PA, USA",AmbleOutdoors
+"""been""","Harker Heights, TX, USA",AmbleOutdoors
+"""been""","Siloam Springs, AR, USA",AmbleOutdoors
+"""been""","Flatonia, TX, USA",AmbleOutdoors
+"""been""","Monticello, NY, USA",AmbleOutdoors
+"""been""","Murfreesboro, AR, USA",AmbleOutdoors
+"""been""","Mobile, AL, USA",AmbleOutdoors
+"""been"",""fave""","Saint Paul, MN, USA",AmbleOutdoors
+"""been""","Stone Mountain, GA, USA",AmbleOutdoors
+"""want""","Rio de Janeiro, Brazil",AmbleOutdoors
+"""been""","Dodge City, KS, USA",AmbleOutdoors
+"""been""","Van Horn, TX, USA",AmbleOutdoors
+"""want""","Buenos Aires, Argentina",AmbleOutdoors
+"""been""","Deer Park, TX, USA",AmbleOutdoors
+"""want""","Tel Aviv, Israel",AmbleOutdoors
+"""been""","Corolla, NC, USA",AmbleOutdoors
+"""been""","Simi Valley, CA, USA",AmbleOutdoors
+"""been""","Isle of Skye, UK",AmbleOutdoors
+"""been""","Canton, OH, USA",AmbleOutdoors
+"""been""","Chambersburg, PA, USA",AmbleOutdoors
+"""been""","Lorton, VA, USA",AmbleOutdoors
+"""been""","Denton, TX, USA",AmbleOutdoors
+"""been""","Indianapolis, IN, USA",AmbleOutdoors
+"""been""","Wilmington, DE, USA",AmbleOutdoors
+"""been""","Fort Worth, TX, USA",AmbleOutdoors
+"""been""","DeSoto, TX, USA",AmbleOutdoors
+"""been""","Spring, TX, USA",AmbleOutdoors
+"""been""","Fort Stockton, TX, USA",AmbleOutdoors
+"""been""","Royal, AR, USA",AmbleOutdoors
+"""been""","Lynchburg, VA, USA",AmbleOutdoors
+"""been""","Munich, Germany",AmbleOutdoors
+"""been""","McComb, MS, USA",AmbleOutdoors
+"""been""","London, UK",AmbleOutdoors
+"""been""","North Kansas City, MO, USA",AmbleOutdoors
+"""been""","Oberammergau, Germany",AmbleOutdoors
+"""want""","Blackpool, UK",AmbleOutdoors
+"""been""","Grove, OK, USA",AmbleOutdoors
+"""been""","Daytona Beach, FL, USA",AmbleOutdoors
+"""want""","Amalfi, Italy",AmbleOutdoors
+"""been""","Washington DC, DC, USA",AmbleOutdoors
+"""been""","Rapid City, SD, USA",AmbleOutdoors
+"""been""","Fredericksburg, TX, USA",AmbleOutdoors
+"""been""","Davenport, FL, USA",AmbleOutdoors
+"""been""","Hampton, VA, USA",AmbleOutdoors
+"""been"",""fave""","Rehoboth Beach, DE, USA",AmbleOutdoors
+"""been""","Waco, TX, USA",AmbleOutdoors
+"""been""","Pittsburgh, PA, USA",AmbleOutdoors
+"""been""","Harrisonburg, VA, USA",AmbleOutdoors
+"""been""","Rockville, MD, USA",AmbleOutdoors
+"""want""","Incline Village, NV, USA",AmbleOutdoors
+"""been""","Niagara Falls, Ontario, Canada",AmbleOutdoors
+"""been""","Dania Beach, FL, USA",AmbleOutdoors
+"""been""","Crestview, FL, USA",AmbleOutdoors
+"""been""","Sulphur Springs, TX, USA",AmbleOutdoors
+"""been""","Sugar Land, TX, USA",AmbleOutdoors
+"""been"",""fave""","Galveston, TX, USA",AmbleOutdoors
+"""been""","Louisville, KY, USA",AmbleOutdoors
+"""been""","Manhattan, KS, USA",AmbleOutdoors
+"""been""","Cleburne, TX, USA",AmbleOutdoors
+"""been""","Duck, NC, USA",AmbleOutdoors
+"""want""","Istanbul, Turkey",AmbleOutdoors
+"""been""","Hershey, PA, USA",AmbleOutdoors
+"""been""","Bardstown, KY, USA",AmbleOutdoors
+"""been""","Llano, TX, USA",AmbleOutdoors
+"""been""","Wells, ME, USA",AmbleOutdoors
+"""been""","Katy, TX, USA",AmbleOutdoors
+"""been""","Reston, VA, USA",AmbleOutdoors
+"""been""","Shelburne, VT, USA",AmbleOutdoors
+"""been""","Benton, AR, USA",AmbleOutdoors
+"""been""","Morgantown, WV, USA",AmbleOutdoors
+"""been""","Kemah, TX, USA",AmbleOutdoors
+"""been""","Salina, KS, USA",AmbleOutdoors
+"""been""","Indian Wells, CA, USA",AmbleOutdoors
+"""been""","Mount Ida, AR, USA",AmbleOutdoors
+"""been""","Hope, AR, USA",AmbleOutdoors
+"""been""","Phoenix, AZ, USA",AmbleOutdoors
+"""been""","Weirs Beach, NH, USA",AmbleOutdoors
+"""been""","Mountain View, CA, USA",AmbleOutdoors
+"""been""","Bella Vista, AR, USA",AmbleOutdoors
+"""been""","Gettysburg, PA, USA",AmbleOutdoors
+"""been""","Alexandria, VA, USA",AmbleOutdoors
+"""been""","New Haven, CT, USA",AmbleOutdoors
+"""been""","Fort Bragg, CA, USA",AmbleOutdoors
+"""been""","King of Prussia, PA, USA",AmbleOutdoors
+"""been""","Poughkeepsie, NY, USA",AmbleOutdoors
+"""been""","Philadelphia, PA, USA",AmbleOutdoors
+"""been""","Long Beach, CA, USA",AmbleOutdoors
+"""been""","Needles, CA, USA",AmbleOutdoors
+"""been""","Lincoln, NH, USA",AmbleOutdoors
+"""been""","Augusta, ME, USA",AmbleOutdoors
+"""been""","Rockland, ME, USA",AmbleOutdoors
+"""been""","Longview, TX, USA",AmbleOutdoors
+"""been""","Rockport, ME, USA",AmbleOutdoors
+"""been""","Nice, France",AmbleOutdoors
+"""been""","Gulf Shores, AL, USA",AmbleOutdoors
+"""been"",""fave""","Machias, ME, USA",AmbleOutdoors
+"""been""","Amsterdam, The Netherlands",AmbleOutdoors
+"""been""","Roanoke, VA, USA",AmbleOutdoors
+"""been""","Huntington Beach, CA, USA",AmbleOutdoors
+"""been""","Helena, AR, USA",AmbleOutdoors
+"""been""","Mystic, CT, USA",AmbleOutdoors
+"""been""","Monticello, AR, USA",AmbleOutdoors
+"""been""","Purdys, NY, USA",AmbleOutdoors
+"""been""","Teton Village, WY, USA",AmbleOutdoors
+"""been""","Winona, MS, USA",AmbleOutdoors
+"""been""","Schenectady, NY, USA",AmbleOutdoors
+"""been""","Tucumcari, NM, USA",AmbleOutdoors
+"""been""","Bristol, CT, USA",AmbleOutdoors
+"""been""","Aromas, CA, USA",AmbleOutdoors
+"""been""","Pueblo, CO, USA",AmbleOutdoors
+"""been""","Wichita, KS, USA",AmbleOutdoors
+"""want""","Elkhart, IN, USA",AmbleOutdoors
+"""been""","Killeen, TX, USA",AmbleOutdoors
+"""been""","Bronx, NY, USA",AmbleOutdoors
+"""been""","Torquay, UK",AmbleOutdoors
+"""been""","Deming, NM, USA",AmbleOutdoors
+"""been""","Kilgore, TX, USA",AmbleOutdoors
+"""been""","Jeffersonville, VT, USA",AmbleOutdoors
+"""want""","Victoria Falls, Zambia",AmbleOutdoors
+"""been""","Norfolk, VA, USA",AmbleOutdoors
+"""been""","Newport News, VA, USA",AmbleOutdoors
+"""been""","Pebble Beach, CA, USA",AmbleOutdoors
+"""been""","Rogers, AR, USA",AmbleOutdoors
+"""been""","Brunswick, GA, USA",AmbleOutdoors
+"""been""","De Queen, AR, USA",AmbleOutdoors
+"""been""","Mena, AR, USA",AmbleOutdoors
+"""been""","Dardanelle, AR, USA",AmbleOutdoors
+"""want""","Bratislava, Slovakia",AmbleOutdoors
+"""been""","Wilmington, NC, USA",AmbleOutdoors
+"""been""","Winthrop, ME, USA",AmbleOutdoors
+"""been""","Scarborough, ME, USA",AmbleOutdoors
+"""been""","Frankfurt, Germany",AmbleOutdoors
+"""been""","Sand Springs, OK, USA",AmbleOutdoors
+"""been""","Manlius, NY, USA",AmbleOutdoors
+"""been""","Wiscasset, ME, USA",AmbleOutdoors
+"""been""","Sallisaw, OK, USA",AmbleOutdoors
+"""been""","Bangor, ME, USA",AmbleOutdoors
+"""been""","York, ME, USA",AmbleOutdoors
+"""been""","Bath, ME, USA",AmbleOutdoors
+"""been""","Ellsworth, ME, USA",AmbleOutdoors
+"""been""","Virginia Beach, VA, USA",AmbleOutdoors
+"""been""","Belfast, ME, USA",AmbleOutdoors
+"""been""","Augusta, GA, USA",AmbleOutdoors
+"""been""","Austell, GA, USA",AmbleOutdoors
+"""been""","Winston Salem, NC, USA",AmbleOutdoors
+"""been""","Conway, AR, USA",AmbleOutdoors
+"""been""","Hamburg, AR, USA",AmbleOutdoors
+"""been""","Williams, AZ, USA",AmbleOutdoors
+"""been""","Wrightsville Beach, NC, USA",AmbleOutdoors
+"""been""","Riverside, CA, USA",AmbleOutdoors
+"""been"",""fave""","Monterey, CA, USA",AmbleOutdoors
+"""been""","Erie, PA, USA",AmbleOutdoors
+"""been"",""fave""","Hilo, HI, USA",AmbleOutdoors
+"""been""","Pasadena, CA, USA",AmbleOutdoors
+"""been""","Hatteras Island, NC, USA",AmbleOutdoors
+"""been""","York Beach, ME, USA",AmbleOutdoors
+"""been""","Harwich, MA, USA",AmbleOutdoors
+"""been""","Heavener, OK, USA",AmbleOutdoors
+"""been""","Harwich Port, MA, USA",AmbleOutdoors
+"""been""","Heidelberg, Germany",AmbleOutdoors
+"""been""","New Harbor, ME, USA",AmbleOutdoors
+"""been""","Elizabethtown, KY, USA",AmbleOutdoors
+"""been""","Freiburg im Breisgau, Germany",AmbleOutdoors
+"""been""","Lancaster, PA, USA",AmbleOutdoors
+"""been""","Malvern, AR, USA",AmbleOutdoors
+"""been""","Pacific Grove, CA, USA",AmbleOutdoors
+"""been""","Clarksville, AR, USA",AmbleOutdoors
+"""been""","Langhorne, PA, USA",AmbleOutdoors
+"""been""","Palm Desert, CA, USA",AmbleOutdoors
+"""been"",""fave""","Palm Springs, CA, USA",AmbleOutdoors
+"""been""","North Conway, NH, USA",AmbleOutdoors
+"""been""","Brownsville, TN, USA",AmbleOutdoors
+"""want""","Machu Picchu, Peru",AmbleOutdoors
+"""been""","Jackson, WY, USA",AmbleOutdoors
+"""been""","Stockbridge, MA, USA",AmbleOutdoors
+"""been""","Cleveland, OH, USA",AmbleOutdoors
+"""been""","Muskogee, OK, USA",AmbleOutdoors
+"""been""","Freeport, ME, USA",AmbleOutdoors
+"""been""","Boothbay Harbor, ME, USA",AmbleOutdoors
+"""been""","Boothbay, ME, USA",AmbleOutdoors
+"""been""","Smithville, OK, USA",AmbleOutdoors
+"""want""","Gurnee, IL, USA",AmbleOutdoors
+"""been""","North Truro, MA, USA",AmbleOutdoors
+"""been""","Florence, AL, USA",AmbleOutdoors
+"""been""","Raton, NM, USA",AmbleOutdoors
+"""been""","Elizabeth City, NC, USA",AmbleOutdoors
+"""been""","Hartford, CT, USA",AmbleOutdoors
+"""been""","Pensacola Beach, FL, USA",AmbleOutdoors
+"""been""","Newburgh, NY, USA",AmbleOutdoors
+"""been""","Idabel, OK, USA",AmbleOutdoors
+"""been""","Grenada, MS, USA",AmbleOutdoors
+"""been""","Hyannis, MA, USA",AmbleOutdoors
+"""been""","Paris, France",AmbleOutdoors
+"""been""","Gray, ME, USA",AmbleOutdoors
+"""been""","Southwest Harbor, ME, USA",AmbleOutdoors
+"""been""","Gulfport, MS, USA",AmbleOutdoors
+"""been""","Park City, UT, USA",AmbleOutdoors
+"""been""","Ipswich, MA, USA",AmbleOutdoors
+"""been""","Truro, MA, USA",AmbleOutdoors
+"""been""","Lyon, France",AmbleOutdoors
+"""been""","Ocean Springs, MS, USA",AmbleOutdoors
+"""been""","Bear Mountain, NY, USA",AmbleOutdoors
+"""been""","Albany, NY, USA",AmbleOutdoors
+"""been"",""fave""","Niagara Falls, NY, USA",AmbleOutdoors
+"""been""","Van Buren, AR, USA",AmbleOutdoors
+"""been""","Lebanon, PA, USA",AmbleOutdoors
+"""been""","Orange, CA, USA",AmbleOutdoors
+"""been""","Merced, CA, USA",AmbleOutdoors
+"""been""","Franconia, NH, USA",AmbleOutdoors
+"""been""","Brunswick, ME, USA",AmbleOutdoors
+"""been""","Shreveport, LA, USA",AmbleOutdoors
+"""been""","Hattiesburg, MS, USA",AmbleOutdoors
+"""been""","Columbus, OH, USA",AmbleOutdoors
+"""been""","Jenks, OK, USA",AmbleOutdoors
+"""been""","Bowling Green, KY, USA",AmbleOutdoors
+"""been""","Marseille, France",AmbleOutdoors
+"""been""","Cologne, Germany",AmbleOutdoors
+"""been""","Talladega, AL, USA",AmbleOutdoors
+"""been""","Intercourse, PA, USA",AmbleOutdoors
+"""been""","Lake Village, AR, USA",AmbleOutdoors
+"""been""","Orange Beach, AL, USA",AmbleOutdoors
+"""been""","Chattanooga, TN, USA",AmbleOutdoors
+"""been""","Rodanthe, NC, USA",AmbleOutdoors
+"""been""","Carolina Beach, NC, USA",AmbleOutdoors
+"""been""","Ruidoso, NM, USA",AmbleOutdoors
+"""been""","Ogunquit, ME, USA",AmbleOutdoors
+"""been""","Cold Spring, NY, USA",AmbleOutdoors
+"""been""","Playa Mujeres, Mexico",AmbleOutdoors
+"""been""","Syracuse, NY, USA",AmbleOutdoors
+"""been""","Canon City, CO, USA",AmbleOutdoors
+"""been""","Pensacola, FL, USA",AmbleOutdoors
+"""been""","Isle of Palms, SC, USA",AmbleOutdoors
+"""been""","Austin, TX, USA",AmbleOutdoors
+"""been""","Toronto, Ontario, Canada",AmbleOutdoors
+"""been""","Round Rock, TX, USA",AmbleOutdoors
+"""been""","Plano, TX, USA",AmbleOutdoors
+"""been""","San Antonio, TX, USA",AmbleOutdoors
+"""been""","Spicewood, TX, USA",AmbleOutdoors
+"""been""","San Francisco, CA, USA",AmbleOutdoors
+"""been"",""fave""","Santa Fe, NM, USA",AmbleOutdoors
+"""been""","Dickson, TN, USA",AmbleOutdoors
+"""been""","Killington, VT, USA",AmbleOutdoors
+"""been""","Nacogdoches, TX, USA",AmbleOutdoors
+"""want""","Cortina d'Ampezzo, Italy",AmbleOutdoors
+"""want""","Vallejo, CA, USA",AmbleOutdoors
+"""been""","Burbank, CA, USA",AmbleOutdoors
+"""been""","West Helena, AR, USA",AmbleOutdoors
+"""been"",""fave""","Panama City Beach, FL, USA",AmbleOutdoors
+"""want""","Lisbon, Portugal",AmbleOutdoors
+"""been""","West Memphis, AR, USA",AmbleOutdoors
+"""want""","West Glacier, MT, USA",AmbleOutdoors
+"""been""","Tucson, AZ, USA",AmbleOutdoors
+"""been""","Farmington, MO, USA",AmbleOutdoors
+"""been""","Senatobia, MS, USA",AmbleOutdoors
+"""been""","New Braunfels, TX, USA",AmbleOutdoors
+"""been""","Charleston, SC, USA",AmbleOutdoors
+"""been""","Panama City, FL, USA",AmbleOutdoors
+"""been""","Buena Park, CA, USA",AmbleOutdoors
+"""been""","Waikoloa, HI, USA",AmbleOutdoors
+"""been""","Tacoma, WA, USA",AmbleOutdoors
+"""been""","Burlington, VT, USA",AmbleOutdoors
+"""been""","Volcano, HI, USA",AmbleOutdoors
+"""been"",""fave""","Strasbourg, France",AmbleOutdoors
+"""been""","Arlington, TX, USA",AmbleOutdoors
+"""been"",""fave""","Pahoa, HI, USA",AmbleOutdoors
+"""been""","Greensboro, NC, USA",AmbleOutdoors
+"""been""","York, PA, USA",AmbleOutdoors
+"""been""","Knoxville, TN, USA",AmbleOutdoors
+"""been""","Scranton, PA, USA",AmbleOutdoors
+"""been""","Doswell, VA, USA",AmbleOutdoors
+"""been""","McLean, VA, USA",AmbleOutdoors
+"""been""","Cancun, Mexico",AmbleOutdoors
+"""been""","Gatlinburg, TN, USA",AmbleOutdoors
+"""been""","Le Havre, France",AmbleOutdoors
+"""been""","New Boston, TX, USA",AmbleOutdoors
+"""been""","Shiloh, TN, USA",AmbleOutdoors
+"""been""","Marble Falls, TX, USA",AmbleOutdoors
+"""been""","Harpers Ferry, WV, USA",AmbleOutdoors
+"""been""","Newark, NJ, USA",AmbleOutdoors
+"""been""","Truro, Nova Scotia, Canada",AmbleOutdoors
+"""been"",""fave""","Cooperstown, NY, USA",AmbleOutdoors
+"""been""","West Point, NY, USA",AmbleOutdoors
+"""been""","Pigeon Forge, TN, USA",AmbleOutdoors
+"""been""","Columbia, SC, USA",AmbleOutdoors
+"""been""","Houston, TX, USA",AmbleOutdoors
+"""been""","Newport, RI, USA",AmbleOutdoors
+"""want""","Sun Valley, ID, USA",AmbleOutdoors
+"""been""","Tempe, AZ, USA",AmbleOutdoors
+"""been""","Lago Vista, TX, USA",AmbleOutdoors
+"""been"",""fave""","Hot Springs, AR, USA",AmbleOutdoors
+"""been""","Amarillo, TX, USA",AmbleOutdoors
+"""been""","Marshall, TX, USA",AmbleOutdoors
+"""been""","Beaumont, TX, USA",AmbleOutdoors
+"""been""","Buffalo, NY, USA",AmbleOutdoors
+"""been"",""fave""","Laguna Beach, CA, USA",AmbleOutdoors
+"""been""","Highland Falls, NY, USA",AmbleOutdoors
+"""want""","Dubai, United Arab Emirates",AmbleOutdoors
+"""been""","Flagstaff, AZ, USA",AmbleOutdoors
+"""been""","Portsmouth, NH, USA",AmbleOutdoors
+"""been""","Rochester, NY, USA",AmbleOutdoors
+"""been""","Fort Lee, NJ, USA",AmbleOutdoors
+"""been""","Lakeway, TX, USA",AmbleOutdoors
+"""want""","Sandusky, OH, USA",AmbleOutdoors
+"""been""","Williamsburg, VA, USA",AmbleOutdoors
+"""been""","Lampasas, TX, USA",AmbleOutdoors
+"""been""","Wheeling, WV, USA",AmbleOutdoors
+"""been""","Topeka, KS, USA",AmbleOutdoors
+"""been""","Siesta Key, FL, USA",AmbleOutdoors
+"""been"",""fave""","Orlando, FL, USA",AmbleOutdoors
+"""been""","Tupelo, MS, USA",AmbleOutdoors
+"""been""","Harrison, AR, USA",AmbleOutdoors
+"""been""","Silver Springs, FL, USA",AmbleOutdoors
+"""been""","Vicksburg, MS, USA",AmbleOutdoors
+"""been""","New Orleans, LA, USA",AmbleOutdoors
+"""been""","Fort Collins, CO, USA",AmbleOutdoors
+"""been""","Boston, MA, USA",AmbleOutdoors
+"""been""","Alpine, TX, USA",AmbleOutdoors
+"""been""","Custer, SD, USA",AmbleOutdoors
+"""been""","Buxton, NC, USA",AmbleOutdoors
+"""been""","Ocean City, NJ, USA",AmbleOutdoors
+"""been""","Honolulu, HI, USA",AmbleOutdoors
+"""been""","Grand Canyon National Park, AZ, USA",AmbleOutdoors
+"""been""","Arkadelphia, AR, USA",AmbleOutdoors
+"""been""","Catskill, NY, USA",AmbleOutdoors
+"""been""","McKinney, TX, USA",AmbleOutdoors
+"""been""","Charlottesville, VA, USA",AmbleOutdoors
+"""been""","Long Beach, WA, USA",AmbleOutdoors
+"""been""","Chesapeake, VA, USA",AmbleOutdoors
+"""been""","Leander, TX, USA",AmbleOutdoors
+"""been""","Springfield, VA, USA",AmbleOutdoors
+"""been""","Odessa, TX, USA",AmbleOutdoors
+"""want""","Zermatt, Switzerland",AmbleOutdoors
+"""been""","Hutto, TX, USA",AmbleOutdoors
+"""been""","Seattle, WA, USA",AmbleOutdoors
+"""been"",""fave""","Yellowstone National Park, WY, USA",AmbleOutdoors
+"""been""","Forrest City, AR, USA",AmbleOutdoors
+"""been""","Manitou Springs, CO, USA",AmbleOutdoors
+"""been""","Hurst, TX, USA",AmbleOutdoors
+"""been""","Laredo, TX, USA",AmbleOutdoors
+"""been""","Chantilly, VA, USA",AmbleOutdoors
+"""been""","Vienna, VA, USA",AmbleOutdoors
+"""been""","Allentown, PA, USA",AmbleOutdoors
+"""been""","Wellfleet, MA, USA",AmbleOutdoors
+"""been""","Winchester, VA, USA",AmbleOutdoors
+"""been""","Manteo, NC, USA",AmbleOutdoors
+"""been""","San Diego, CA, USA",AmbleOutdoors
+"""been""","Branson West, MO, USA",AmbleOutdoors
+"""been""","Kailua-Kona, HI, USA",AmbleOutdoors
+"""been"",""fave""","Branson, MO, USA",AmbleOutdoors
+"""been""","Cincinnati, OH, USA",AmbleOutdoors
+"""want""","Titusville, FL, USA",AmbleOutdoors
+"""been""","Snowshoe, WV, USA",AmbleOutdoors
+"""been""","Staunton, VA, USA",AmbleOutdoors
+"""been""","Irving, TX, USA",AmbleOutdoors
+"""been""","Bryant, AR, USA",AmbleOutdoors
+"""been""","Sterling, VA, USA",AmbleOutdoors
+"""been""","Scottsdale, AZ, USA",AmbleOutdoors
+"""been""","Sandestin, FL, USA",AmbleOutdoors
+"""been""","El Paso, TX, USA",AmbleOutdoors
+"""been""","Birmingham, AL, USA",AmbleOutdoors
+"""been""","Glendale, CA, USA",AmbleOutdoors
+"""been""","Brinkley, AR, USA",AmbleOutdoors
+"""been""","Pemaquid, ME, USA",AmbleOutdoors
+"""been""","Fayetteville, AR, USA",AmbleOutdoors
+"""been""","Malibu, CA, USA",AmbleOutdoors
+"""been""","Little Rock, AR, USA",AmbleOutdoors
+"""want""","Springfield, IL, USA",AmbleOutdoors
+"""been""","Woodbridge, VA, USA",AmbleOutdoors
+"""been""","Carlsbad, NM, USA",AmbleOutdoors
+"""been""","Plattsburgh, NY, USA",AmbleOutdoors
+"""been"",""fave""","New York City, NY, USA",AmbleOutdoors
+"""been""","Santa Rosa Beach, FL, USA",AmbleOutdoors
+"""been""","Croton on Hudson, NY, USA",AmbleOutdoors
+"""been""","Mason, OH, USA",AmbleOutdoors
+"""been"",""fave""","Montreal, Quebec, Canada",AmbleOutdoors
+"""been""","Quebec City, Quebec, Canada",AmbleOutdoors
+"""been""","Jefferson, TX, USA",AmbleOutdoors
+"""been""","Lewisville, TX, USA",AmbleOutdoors
+"""been""","Jasper, TX, USA",AmbleOutdoors
+"""been""","Essex, VT, USA",AmbleOutdoors
+"""been"",""fave""","Eureka Springs, AR, USA",AmbleOutdoors
+"""been""","Memphis, TN, USA",AmbleOutdoors
+"""been""","Midland, TX, USA",AmbleOutdoors
+"""been""","Jacksonville, TX, USA",AmbleOutdoors
+"""been""","Bethany Beach, DE, USA",AmbleOutdoors
+"""been""","West Harwich, MA, USA",AmbleOutdoors
+"""been""","Jasper, AR, USA",AmbleOutdoors
+"""been""","Arlington, VA, USA",AmbleOutdoors
+"""been""","Garden Grove, CA, USA",AmbleOutdoors
+"""been""","Salida, CO, USA",AmbleOutdoors
+"""been""","Atlanta, GA, USA",AmbleOutdoors
+"""been""","Saint Augustine Beach, FL, USA",AmbleOutdoors
+"""been""","Richmond, VA, USA",AmbleOutdoors
+"""been""","Johnson City, TX, USA",AmbleOutdoors
+"""been""","Salvo, NC, USA",AmbleOutdoors
+"""been""","Manassas, VA, USA",AmbleOutdoors
+"""been""","West Yellowstone, MT, USA",AmbleOutdoors
+"""been""","St. Petersburg, FL, USA",AmbleOutdoors
+"""been""","St. Pete Beach, FL, USA",AmbleOutdoors
+"""want""","Paradise Island, Bahamas",AmbleOutdoors
+"""want""","Nassau, Bahamas",AmbleOutdoors
+"""been""","Weston, MO, USA",AmbleOutdoors
+"""been""","Newport Beach, CA, USA",AmbleOutdoors
+"""been""","Bismarck, AR, USA",AmbleOutdoors
+"""been""","Covington, KY, USA",AmbleOutdoors
+"""been""","Portland, ME, USA",AmbleOutdoors
+"""been""","Los Angeles, CA, USA",AmbleOutdoors
+"""been""","Fresno, CA, USA",AmbleOutdoors
+"""been""","Lewiston, ME, USA",AmbleOutdoors
+"""been""","Bentonville, AR, USA",AmbleOutdoors
+"""been""","Chickamauga, GA, USA",AmbleOutdoors
+"""been""","Irvine, CA, USA",AmbleOutdoors
+"""been""","El Dorado, AR, USA",AmbleOutdoors
+"""been""","Bethlehem, PA, USA",AmbleOutdoors
+"""been""","Bushkill, PA, USA",AmbleOutdoors
+"""want""","Taos, NM, USA",AmbleOutdoors
+"""been""","Dayton, OH, USA",AmbleOutdoors
+"""been""","Wagoner, OK, USA",AmbleOutdoors
+"""been""","Annapolis, MD, USA",AmbleOutdoors
+"""been""","East Saint Louis, IL, USA",AmbleOutdoors
+"""been""","Chicago, IL, USA",AmbleOutdoors
+"""been""","Jefferson, NH, USA",AmbleOutdoors
+"""want""","Laughlin, NV, USA",AmbleOutdoors
+"""been""","Las Vegas, NV, USA",AmbleOutdoors
+"""been""","Bethesda, MD, USA",AmbleOutdoors
+"""been""","Wildwood, NJ, USA",AmbleOutdoors
+"""been""","Pittsburg, KS, USA",AmbleOutdoors
+"""been""","Georgetown, TX, USA",AmbleOutdoors
+"""been""","Garland, TX, USA",AmbleOutdoors
+"""been""","Herndon, VA, USA",AmbleOutdoors
+"""been""","Dripping Springs, TX, USA",AmbleOutdoors
+"""been""","Waxahachie, TX, USA",AmbleOutdoors
+"""been""","Brenham, TX, USA",AmbleOutdoors
+"""been""","Durham, NC, USA",AmbleOutdoors
+"""been""","Lewes, DE, USA",AmbleOutdoors
+"""been""","College Station, TX, USA",AmbleOutdoors
+"""been""","San Marcos, TX, USA",AmbleOutdoors
+"""been""","Saint Louis, MO, USA",AmbleOutdoors
+"""been""","Bay Saint Louis, MS, USA",AmbleOutdoors
+"""been""","Silver Spring, MD, USA",AmbleOutdoors
+"""been""","Chatham, MA, USA",AmbleOutdoors
+"""been"",""fave""","Clearwater, FL, USA",AmbleOutdoors
+"""been""","Calais, France",AmbleOutdoors
+"""been""","Santa Clarita, CA, USA",AmbleOutdoors
+"""been""","Taylor, TX, USA",AmbleOutdoors
+"""been""","Dillon, SC, USA",AmbleOutdoors
+"""been""","West, TX, USA",AmbleOutdoors
+"""been""","Fairfax, VA, USA",AmbleOutdoors
+"""been""","Minneapolis, MN, USA",AmbleOutdoors
+"""been""","Biloxi, MS, USA",AmbleOutdoors
+"""been""","Joplin, MO, USA",AmbleOutdoors
+"""been""","Beverly Hills, CA, USA",AmbleOutdoors
+"""been""","Kansas City, MO, USA",AmbleOutdoors
+"""been""","Paramus, NJ, USA",AmbleOutdoors
+"""been""","Ocala, FL, USA",AmbleOutdoors
+"""been""","Chipley, FL, USA",AmbleOutdoors
+"""been""","Lakeland, FL, USA",AmbleOutdoors
+"""been""","Texarkana, TX, USA",AmbleOutdoors
+"""been""","Temple, TX, USA",AmbleOutdoors
+"""been""","Bryan, TX, USA",AmbleOutdoors
+"""been""","Ripley, TN, USA",AmbleOutdoors
+"""been""","Falls Church, VA, USA",AmbleOutdoors
+"""been""","Dover, DE, USA",AmbleOutdoors
+"""been""","Dewey Beach, DE, USA",AmbleOutdoors
+"""been""","Westlake, TX, USA",AmbleOutdoors
+"""been""","Overland Park, KS, USA",AmbleOutdoors
+"""been""","Bartlesville, OK, USA",AmbleOutdoors
+"""want""","Celebration, FL, USA",AmbleOutdoors
+"""been""","Matamoros, Mexico",AmbleOutdoors
+"""want""","Reno, NV, USA",AmbleOutdoors
+"""been""","Gaithersburg, MD, USA",AmbleOutdoors
+"""been""","Hudson, NY, USA",AmbleOutdoors
+"""been""","Gainesville, FL, USA",AmbleOutdoors
+"""want""","Tahoe Vista, CA, USA",AmbleOutdoors
+"""been""","Hunter, NY, USA",AmbleOutdoors
+"""been""","Sealy, TX, USA",AmbleOutdoors
+"""been""","Copperas Cove, TX, USA",AmbleOutdoors
+"""been""","Leawood, KS, USA",AmbleOutdoors
+"""been""","Leavenworth, KS, USA",AmbleOutdoors
+"""been""","Frederick, MD, USA",AmbleOutdoors
+"""been""","Barstow, CA, USA",AmbleOutdoors
+"""been""","The Woodlands, TX, USA",AmbleOutdoors
+"""been""","Denver, CO, USA",AmbleOutdoors
+"""been"",""fave""","St. Augustine, FL, USA",AmbleOutdoors
+"""been""","Mount Pocono, PA, USA",AmbleOutdoors
+"""been""","Charleston, WV, USA",AmbleOutdoors
+"""want""","Cape Canaveral, FL, USA",AmbleOutdoors
+"""been""","Florence, SC, USA",AmbleOutdoors
+"""been""","Burnet, TX, USA",AmbleOutdoors
+"""been""","Olathe, KS, USA",AmbleOutdoors
+"""been""","Moneta, VA, USA",AmbleOutdoors
+"""been""","Plattsburg, MO, USA",AmbleOutdoors
+"""want""","San Jose, Costa Rica",AmbleOutdoors
+"""been""","Cassis, France",AmbleOutdoors
+"""want""","Escazu, Costa Rica",AmbleOutdoors
+"""been""","Woodstock, NY, USA",AmbleOutdoors
+"""been""","Detroit, MI, USA",AmbleOutdoors
+"""been""","Niceville, FL, USA",AmbleOutdoors
+"""been""","Kissimmee, FL, USA",AmbleOutdoors
+"""been""","Fort Walton Beach, FL, USA",AmbleOutdoors
+"""been""","Seaside, OR, USA",AmbleOutdoors
+"""been""","Bastrop, TX, USA",AmbleOutdoors
+"""been""","Carmel, CA, USA",AmbleOutdoors
+"""been""","Desert Hot Springs, CA, USA",AmbleOutdoors
+"""been""","Palestine, TX, USA",AmbleOutdoors
+"""been""","Mount Pleasant, SC, USA",AmbleOutdoors
+"""been""","Fort Belvoir, VA, USA",AmbleOutdoors
+"""been""","Richardson, TX, USA",AmbleOutdoors
+"""been""","Myrtle Beach, SC, USA",AmbleOutdoors
+"""been""","Millington, TN, USA",AmbleOutdoors
+"""been""","Natchez, MS, USA",AmbleOutdoors
+"""been""","Fort Lauderdale, FL, USA",AmbleOutdoors
+"""been""","Navarre, FL, USA",AmbleOutdoors
+"""been""","Sevierville, TN, USA",AmbleOutdoors
+"""been"",""fave""","Shannon, Ireland",AmbleOutdoors
+"""been""","Ocean City, MD, USA",AmbleOutdoors
+"""want""","Como, Italy",AmbleOutdoors
+"""been""","West Hollywood, CA, USA",AmbleOutdoors
+"""been""","Key Largo, FL, USA",AmbleOutdoors
+"""been""","North Myrtle Beach, SC, USA",AmbleOutdoors
+"""been""","North Charleston, SC, USA",AmbleOutdoors
+"""been""","Corpus Christi, TX, USA",AmbleOutdoors
+"""been""","Jacksonville, FL, USA",AmbleOutdoors
+"""been""","Fort Davis, TX, USA",AmbleOutdoors
+"""been""","Brownsville, TX, USA",AmbleOutdoors
+"""been""","Paris, TX, USA",AmbleOutdoors
+"""been""","Blacksburg, VA, USA",AmbleOutdoors
+"""been""","Front Royal, VA, USA",AmbleOutdoors
+"""been""","Salt Lake City, UT, USA",AmbleOutdoors
+"""been""","Crystal Beach, TX, USA",AmbleOutdoors
+"""been""","Mechanicsburg, PA, USA",AmbleOutdoors
+"""been""","Wilkes-Barre, PA, USA",AmbleOutdoors
+"""been""","Kansas City, KS, USA",AmbleOutdoors
+"""been""","Williamsport, PA, USA",AmbleOutdoors
+"""been""","Bakersfield, CA, USA",AmbleOutdoors
+"""been""","Hagerstown, MD, USA",AmbleOutdoors
+"""been""","Jamaica, NY, USA",AmbleOutdoors
+"""been""","Nuevo Laredo, Mexico",AmbleOutdoors
+"""been""","Everglades City, FL, USA",AmbleOutdoors
+"""been""","Milton, FL, USA",AmbleOutdoors
+"""been""","Treasure Island, FL, USA",AmbleOutdoors
+"""been""","Colorado Springs, CO, USA",AmbleOutdoors
+"""been""","Castroville, TX, USA",AmbleOutdoors
+"""been""","Belton, TX, USA",AmbleOutdoors
+"""been""","Leesburg, VA, USA",AmbleOutdoors
+"""been""","Flushing, NY, USA",AmbleOutdoors
+"""been""","Fort Smith, AR, USA",AmbleOutdoors
+"""been""","Culpeper, VA, USA",AmbleOutdoors
+"""been""","Jacksonville Beach, FL, USA",AmbleOutdoors
+"""been""","Beckley, WV, USA",AmbleOutdoors
+"""been""","Beaufort, SC, USA",AmbleOutdoors
+"""been""","Albuquerque, NM, USA",AmbleOutdoors
+"""been""","Fort Scott, KS, USA",AmbleOutdoors
+"""been""","Tyler, TX, USA",AmbleOutdoors
+"""been""","Savannah, GA, USA",AmbleOutdoors
+"""been""","South Burlington, VT, USA",AmbleOutdoors
+"""been""","Baltimore, MD, USA",AmbleOutdoors
+"""been""","Nashville, TN, USA",AmbleOutdoors
+"""been""","Petersburg, VA, USA",AmbleOutdoors
+"""want""","Hannibal, MO, USA",AmbleOutdoors
+"""been""","Dublin, Ireland",AmbleOutdoors
+"""been""","Jackson, NJ, USA",AmbleOutdoors
+"""been"",""fave""","Anaheim, CA, USA",AmbleOutdoors
+"""been""","Pinellas Park, FL, USA",AmbleOutdoors
+"""want""","Lake Louise, Alberta, Canada",AmbleOutdoors
+"""been""","Pflugerville, TX, USA",AmbleOutdoors
+"""been""","Jackson, TN, USA",AmbleOutdoors
+"""been""","Bristol, VA, USA",AmbleOutdoors
+"""been""","Bar Harbor, ME, USA",AmbleOutdoors
+"""been""","Great Falls, VA, USA",AmbleOutdoors
+"""been""","Estes Park, CO, USA",AmbleOutdoors
+"""been""","Rockwall, TX, USA",AmbleOutdoors
+"""been""","Cedar Hill, TX, USA",AmbleOutdoors
+"""been""","Stowe, VT, USA",AmbleOutdoors
+"""been""","Rockport, TX, USA",AmbleOutdoors
+"""been""","Cedar Park, TX, USA",AmbleOutdoors
+"""been""","Vancouver, WA, USA",AmbleOutdoors
+"""been""","Lubbock, TX, USA",AmbleOutdoors
+"""been""","Tallahassee, FL, USA",AmbleOutdoors
+"""been"",""fave""","Tampa, FL, USA",AmbleOutdoors
+"""been""","Eureka, MO, USA",AmbleOutdoors
+"""been""","Jersey City, NJ, USA",AmbleOutdoors
+"""been""","Fort Montgomery, NY, USA",AmbleOutdoors

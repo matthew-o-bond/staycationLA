@@ -1,0 +1,427 @@
+tag,place,user
+"""been""","Jerash, Jordan",ECWorld
+"""been""","Madaba, Jordan",ECWorld
+"""been""","Amman, Jordan",ECWorld
+"""been""","Tel Aviv, Israel",ECWorld
+"""been""","Haifa, Israel",ECWorld
+"""been""","Jerusalem, Israel",ECWorld
+"""been""","Bergen, Norway",ECWorld
+"""been""","Geelong, Australia",ECWorld
+"""been""","Box Hill, Australia",ECWorld
+"""been""","Oxford, UK",ECWorld
+"""been""","Chun'an County, China",ECWorld
+"""been""","Christchurch, New Zealand",ECWorld
+"""been""","Nynashamn, Sweden",ECWorld
+"""been""","Kinneret, Israel",ECWorld
+"""been""","Rotorua, New Zealand",ECWorld
+"""been""","Changi, Singapore",ECWorld
+"""been""","Piraeus, Greece",ECWorld
+"""been""","Himeji, Japan",ECWorld
+"""been""","Megalochori, Greece",ECWorld
+"""been""","Athens, Greece",ECWorld
+"""been""","Bruges, Belgium",ECWorld
+"""been""","Holyoke, MA, USA",ECWorld
+"""been""","Calella de Palafrugell, Spain",ECWorld
+"""been""","Tegalalang, Indonesia",ECWorld
+"""been""","Nara, Japan",ECWorld
+"""been""","Auckland Central, New Zealand",ECWorld
+"""been""","Perth, Australia",ECWorld
+"""been""","Melbourne, Australia",ECWorld
+"""been""","Hamilton, New Zealand",ECWorld
+"""been""","Ayutthaya, Thailand",ECWorld
+"""been""","Blois, France",ECWorld
+"""been""","Nice, France",ECWorld
+"""been""","Nikko, Japan",ECWorld
+"""been""","Niagara Falls, Ontario, Canada",ECWorld
+"""been""","Tokyo, Japan",ECWorld
+"""been""","Monte-Carlo, Monaco",ECWorld
+"""been""","Lake Tarawera, New Zealand",ECWorld
+"""been""","Kemenuh, Indonesia",ECWorld
+"""been""","Bethlehem, Palestinian Territories",ECWorld
+"""been""","Schoenau am Koenigssee, Germany",ECWorld
+"""been""","Istanbul, Turkey",ECWorld
+"""been""","Umm Qays, Jordan",ECWorld
+"""been""","Stratford-upon-Avon, UK",ECWorld
+"""been""","Milford Sound, New Zealand",ECWorld
+"""been""","Hakone-machi, Japan",ECWorld
+"""been""","Toledo, Spain",ECWorld
+"""been""","South Hadley, MA, USA",ECWorld
+"""been""","Chambord, France",ECWorld
+"""been""","Yokohama, Japan",ECWorld
+"""been""","Brighton, UK",ECWorld
+"""been""","Wismar, Germany",ECWorld
+"""been""","Warnemunde, Germany",ECWorld
+"""been""","Copenhagen, Denmark",ECWorld
+"""been""","Slunj, Croatia",ECWorld
+"""been""","Rostock, Germany",ECWorld
+"""been""","Te Anau, New Zealand",ECWorld
+"""been""","Gapyeong-gun, South Korea",ECWorld
+"""been""","Queenstown, New Zealand",ECWorld
+"""been""","Ueno, Japan",ECWorld
+"""been""","Lijiang, China",ECWorld
+"""been""","Concord, NH, USA",ECWorld
+"""been""","Dali, China",ECWorld
+"""been""","Furano, Japan",ECWorld
+"""been""","Cheverny, France",ECWorld
+"""been""","Kaohsiung, Taiwan",ECWorld
+"""been""","Deerfield, MA, USA",ECWorld
+"""been""","Pisa, Italy",ECWorld
+"""been""","Florence, Italy",ECWorld
+"""been""","Ashland, OR, USA",ECWorld
+"""been""","Taormina, Italy",ECWorld
+"""been""","Mianyang, China",ECWorld
+"""been""","Kunshan, China",ECWorld
+"""been""","Taichung, Taiwan",ECWorld
+"""been""","Munich, Germany",ECWorld
+"""been""","Malden, MA, USA",ECWorld
+"""been""","Liverpool, UK",ECWorld
+"""been""","Yosemite National Park, CA, USA",ECWorld
+"""been""","Cromwell, New Zealand",ECWorld
+"""been""","London, UK",ECWorld
+"""been""","Naples, Italy",ECWorld
+"""been""","Pompeii, Italy",ECWorld
+"""been""","Amalfi, Italy",ECWorld
+"""been""","Sorrento, Italy",ECWorld
+"""been""","Rhodes Town, Greece",ECWorld
+"""been""","Amherst, MA, USA",ECWorld
+"""been""","Northampton, MA, USA",ECWorld
+"""been""","Wadi Rum, Jordan",ECWorld
+"""been""","Brussels, Belgium",ECWorld
+"""been""","Dangin Puri, Indonesia",ECWorld
+"""been""","York, UK",ECWorld
+"""been""","Cambridge, UK",ECWorld
+"""been""","Stockholm, Sweden",ECWorld
+"""been""","Rome, Italy",ECWorld
+"""been""","Cordoba, Spain",ECWorld
+"""been""","Vatican City, Vatican City",ECWorld
+"""been""","Sunderland, UK",ECWorld
+"""been""","Menlo Park, CA, USA",ECWorld
+"""been""","Glen Waverley, Australia",ECWorld
+"""been""","South Lake Tahoe, CA, USA",ECWorld
+"""been""","Durham, UK",ECWorld
+"""been""","Berlin, Germany",ECWorld
+"""been""","Ajlun, Jordan",ECWorld
+"""been""","Seville, Spain",ECWorld
+"""been""","Wurzburg, Germany",ECWorld
+"""been""","Granada, Spain",ECWorld
+"""been""","Oakland, CA, USA",ECWorld
+"""been""","Mykonos Town, Greece",ECWorld
+"""been""","Huntly, New Zealand",ECWorld
+"""been""","Stein, Switzerland",ECWorld
+"""been""","Lake Tekapo, New Zealand",ECWorld
+"""been""","Shima, Japan",ECWorld
+"""been""","Fall River, MA, USA",ECWorld
+"""been""","Bradford, UK",ECWorld
+"""been""","Edinburgh, UK",ECWorld
+"""been""","Warwick, UK",ECWorld
+"""been""","Siem Reap, Cambodia",ECWorld
+"""been""","Moscow, Russia",ECWorld
+"""been""","Pacific Grove, CA, USA",ECWorld
+"""been""","Toyama, Japan",ECWorld
+"""been""","Palo Alto, CA, USA",ECWorld
+"""been""","Lakeville, CT, USA",ECWorld
+"""been""","Pals, Spain",ECWorld
+"""been""","Tainan, Taiwan",ECWorld
+"""been""","Montserrat, Spain",ECWorld
+"""been""","Ann Arbor, MI, USA",ECWorld
+"""been""","Qingyuan, China",ECWorld
+"""been""","Takayama, Japan",ECWorld
+"""been""","Kanazawa, Japan",ECWorld
+"""been""","Zurrieq, Malta",ECWorld
+"""been""","Milpitas, CA, USA",ECWorld
+"""been""","Millbrae, CA, USA",ECWorld
+"""been""","Redwood City, CA, USA",ECWorld
+"""been""","Guanyang County, China",ECWorld
+"""been""","Madrid, Spain",ECWorld
+"""been""","Savoca, Italy",ECWorld
+"""been""","Helsinki, Finland",ECWorld
+"""been""","Banff, Alberta, Canada",ECWorld
+"""been""","Lake Louise, Alberta, Canada",ECWorld
+"""been""","Kauai, HI, USA",ECWorld
+"""been""","Verona, Italy",ECWorld
+"""been""","Venice, Italy",ECWorld
+"""been""","Oahu, HI, USA",ECWorld
+"""been""","Nagoya, Japan",ECWorld
+"""been""","Wallingford, CT, USA",ECWorld
+"""been""","Vernon Rockville, CT, USA",ECWorld
+"""been""","Messina, Italy",ECWorld
+"""been""","Canterbury, UK",ECWorld
+"""been""","Dover, UK",ECWorld
+"""been""","Mulgrave, Australia",ECWorld
+"""been""","Litchfield, CT, USA",ECWorld
+"""been""","Kumamoto, Japan",ECWorld
+"""been""","Monterey Park, CA, USA",ECWorld
+"""been""","Beppu, Japan",ECWorld
+"""been""","Monterey, CA, USA",ECWorld
+"""been""","Asakusa, Japan",ECWorld
+"""been""","Las Vegas, NV, USA",ECWorld
+"""been""","Urayasu, Japan",ECWorld
+"""been""","Narita, Japan",ECWorld
+"""been""","Maebashi, Japan",ECWorld
+"""been""","Muir Beach, CA, USA",ECWorld
+"""been""","New Haven, CT, USA",ECWorld
+"""been""","Mountain View, CA, USA",ECWorld
+"""been""","Noboribetsu, Japan",ECWorld
+"""been""","Long Beach, CA, USA",ECWorld
+"""been""","Bandar Seri Begawan, Brunei Darussalam",ECWorld
+"""been""","Foster City, CA, USA",ECWorld
+"""been""","Shibuya, Japan",ECWorld
+"""been""","Shinjuku, Japan",ECWorld
+"""been""","Minato, Japan",ECWorld
+"""been""","Birgu (Vittoriosa), Malta",ECWorld
+"""been""","Sumida, Japan",ECWorld
+"""been""","Otaru, Japan",ECWorld
+"""been""","Watertown, CT, USA",ECWorld
+"""been""","Chaumont-sur-Loire, France",ECWorld
+"""been""","Oshiage, Japan",ECWorld
+"""been""","Petaluma, CA, USA",ECWorld
+"""been""","Johor Bahru, Malaysia",ECWorld
+"""been""","Megiddo, Israel",ECWorld
+"""been""","Huangshan, China",ECWorld
+"""been""","Taito, Japan",ECWorld
+"""been""","Toshima, Japan",ECWorld
+"""been""","Sacramento, CA, USA",ECWorld
+"""been""","Chuo, Japan",ECWorld
+"""been""","Chaozhou, China",ECWorld
+"""been""","Oban, UK",ECWorld
+"""been""","Como, Italy",ECWorld
+"""been""","Chiyoda, Japan",ECWorld
+"""been""","Bellagio, Italy",ECWorld
+"""been""","Greenfield, MA, USA",ECWorld
+"""been""","Gold Coast, Australia",ECWorld
+"""been""","Mitaka, Japan",ECWorld
+"""been""","Pittsburgh, PA, USA",ECWorld
+"""been""","Meguro, Japan",ECWorld
+"""been""","Gilroy, CA, USA",ECWorld
+"""been""","Bangkok, Thailand",ECWorld
+"""been""","Taipei, Taiwan",ECWorld
+"""been""","Milan, Italy",ECWorld
+"""been""","Hadley, MA, USA",ECWorld
+"""been""","Victoria, British Columbia, Canada",ECWorld
+"""been""","Jungfraujoch, Switzerland",ECWorld
+"""been""","Vancouver, British Columbia, Canada",ECWorld
+"""been""","Windsor Locks, CT, USA",ECWorld
+"""been""","Vladivostok, Russia",ECWorld
+"""been""","Los Angeles, CA, USA",ECWorld
+"""been""","Chicago, IL, USA",ECWorld
+"""been""","Los Altos, CA, USA",ECWorld
+"""been""","Fremont, CA, USA",ECWorld
+"""been""","Okayama, Japan",ECWorld
+"""been""","Ho Chi Minh City, Vietnam",ECWorld
+"""been""","Macau, China",ECWorld
+"""been""","Seligman, AZ, USA",ECWorld
+"""been""","My Tho, Vietnam",ECWorld
+"""been""","Harbin, China",ECWorld
+"""been""","East Windsor, CT, USA",ECWorld
+"""been""","Snir, Israel",ECWorld
+"""been""","Siena, Italy",ECWorld
+"""been""","San Gimignano, Italy",ECWorld
+"""been""","Pushkin, Russia",ECWorld
+"""been""","Waitomo Caves, New Zealand",ECWorld
+"""been""","Ithaca, NY, USA",ECWorld
+"""been""","Ein Bokek, Israel",ECWorld
+"""been""","Vincennes, France",ECWorld
+"""been""","Aoraki Mount Cook National Park (Te Wahipounamu), New Zealand",ECWorld
+"""been""","Yiliang (Zhaotong) County, China",ECWorld
+"""been""","Suwon, South Korea",ECWorld
+"""been""","Mesa Verde National Park, CO, USA",ECWorld
+"""been""","Usuki, Japan",ECWorld
+"""been""","Half Moon Bay, CA, USA",ECWorld
+"""been""","Kingman, AZ, USA",ECWorld
+"""been""","Dongguan, China",ECWorld
+"""been""","Shantou, China",ECWorld
+"""been""","Shenzhen, China",ECWorld
+"""been""","Zhuhai, China",ECWorld
+"""been""","St. Petersburg, Russia",ECWorld
+"""been""","Elk Grove, CA, USA",ECWorld
+"""been""","Keelung, Taiwan",ECWorld
+"""been""","Singapore, Singapore",ECWorld
+"""been""","Bernex, Switzerland",ECWorld
+"""been""","Sentosa Island, Singapore",ECWorld
+"""been""","Jurong, Singapore",ECWorld
+"""been""","La Jolla, CA, USA",ECWorld
+"""been""","Busan, South Korea",ECWorld
+"""been""","Tiberias, Israel",ECWorld
+"""been""","Gyeongju, South Korea",ECWorld
+"""been""","Prasat Bakong, Cambodia",ECWorld
+"""been""","Orlando, FL, USA",ECWorld
+"""been""","Fira, Greece",ECWorld
+"""been""","Elizabeth, NJ, USA",ECWorld
+"""been""","Oia, Greece",ECWorld
+"""been""","Ise, Japan",ECWorld
+"""been""","Shuangliu County, China",ECWorld
+"""been""","Foshan, China",ECWorld
+"""been""","Seoul, South Korea",ECWorld
+"""been""","Petra - Wadi Musa, Jordan",ECWorld
+"""been""","Sapporo, Japan",ECWorld
+"""been""","Lucerne, Switzerland",ECWorld
+"""been""","Kobe, Japan",ECWorld
+"""been""","Kyoto, Japan",ECWorld
+"""been""","Ravello, Italy",ECWorld
+"""been""","Osaka, Japan",ECWorld
+"""been""","Maihama, Japan",ECWorld
+"""been""","Wakayama, Japan",ECWorld
+"""been""","Fukuoka, Japan",ECWorld
+"""been""","Kamakura, Japan",ECWorld
+"""been""","Peterhof, Russia",ECWorld
+"""been""","Tampaksiring, Indonesia",ECWorld
+"""been""","San Francisco, CA, USA",ECWorld
+"""been""","Yufu, Japan",ECWorld
+"""been""","Positano, Italy",ECWorld
+"""been""","Civitavecchia, Italy",ECWorld
+"""been""","Chengdu, China",ECWorld
+"""been""","Schaffhausen, Switzerland",ECWorld
+"""been""","Guangzhou, China",ECWorld
+"""been""","Xi'an, China",ECWorld
+"""been""","Ben Tre, Vietnam",ECWorld
+"""been""","Guilin, China",ECWorld
+"""been""","Hangzhou, China",ECWorld
+"""been""","Kunming, China",ECWorld
+"""been""","Princeton, NJ, USA",ECWorld
+"""been""","East Lansing, MI, USA",ECWorld
+"""been""","Yulong County, China",ECWorld
+"""been""","Cupertino, CA, USA",ECWorld
+"""been""","Brookline, MA, USA",ECWorld
+"""been""","Providence, RI, USA",ECWorld
+"""been""","Brooklyn, NY, USA",ECWorld
+"""been""","Denpasar, Indonesia",ECWorld
+"""been""","Kuta, Indonesia",ECWorld
+"""been""","Grindelwald, Switzerland",ECWorld
+"""been""","Interlaken, Switzerland",ECWorld
+"""been""","Monistrol de Montserrat, Spain",ECWorld
+"""been""","Kota Kinabalu, Malaysia",ECWorld
+"""been""","Tarxien, Malta",ECWorld
+"""been""","Alexandria, Egypt",ECWorld
+"""been""","Seiano, Italy",ECWorld
+"""been""","Miami Beach, FL, USA",ECWorld
+"""been""","Zermatt, Switzerland",ECWorld
+"""been""","Sukawati, Indonesia",ECWorld
+"""been""","Wai-O-Tapu, New Zealand",ECWorld
+"""been""","Suzhou, China",ECWorld
+"""been""","Solvang, CA, USA",ECWorld
+"""been""","Waimangu, New Zealand",ECWorld
+"""been""","St. Moritz, Switzerland",ECWorld
+"""been""","Anaheim, CA, USA",ECWorld
+"""been""","Miami, FL, USA",ECWorld
+"""been""","Nippombashi, Japan",ECWorld
+"""been""","Prague, Czech Republic",ECWorld
+"""been""","Boulder City, NV, USA",ECWorld
+"""been""","New York City, NY, USA",ECWorld
+"""been""","San Jose, CA, USA",ECWorld
+"""been""","Carmel, CA, USA",ECWorld
+"""been""","Fremantle, Australia",ECWorld
+"""been""","Berchtesgaden, Germany",ECWorld
+"""been""","Thessaloniki, Greece",ECWorld
+"""been""","Takaoka, Japan",ECWorld
+"""been""","Luxembourg City, Luxembourg",ECWorld
+"""been""","Williamsburg, VA, USA",ECWorld
+"""been""","Oslo, Norway",ECWorld
+"""been""","Mt. Cook Village, New Zealand",ECWorld
+"""been""","Nachikatsura-cho, Japan",ECWorld
+"""been""","Fort Lauderdale, FL, USA",ECWorld
+"""been""","Tallinn, Estonia",ECWorld
+"""been""","Luxor, Egypt",ECWorld
+"""been""","Gadong, Brunei Darussalam",ECWorld
+"""been""","Appenzell, Switzerland",ECWorld
+"""been""","San Diego, CA, USA",ECWorld
+"""been""","Cairo, Egypt",ECWorld
+"""been""","Stanford, CA, USA",ECWorld
+"""been""","Olympia, Greece",ECWorld
+"""been""","Seattle, WA, USA",ECWorld
+"""been""","Sydney, Australia",ECWorld
+"""been""","Stinson Beach, CA, USA",ECWorld
+"""been""","Corinth, Greece",ECWorld
+"""been""","Geraldine, New Zealand",ECWorld
+"""been""","Daly City, CA, USA",ECWorld
+"""been""","Cairns, Australia",ECWorld
+"""been""","Brisbane, Australia",ECWorld
+"""been""","Campbell, CA, USA",ECWorld
+"""been""","Ubud, Indonesia",ECWorld
+"""been""","Stein am Rhein, Switzerland",ECWorld
+"""been""","Columbia, MO, USA",ECWorld
+"""been""","Honolulu, HI, USA",ECWorld
+"""been""","Colac, Australia",ECWorld
+"""been""","Apollo Bay, Australia",ECWorld
+"""been""","Boston, MA, USA",ECWorld
+"""been""","Poros, Greece",ECWorld
+"""been""","San Simeon, CA, USA",ECWorld
+"""been""","Aegina, Greece",ECWorld
+"""been""","Hydra, Greece",ECWorld
+"""been""","Berkeley, CA, USA",ECWorld
+"""been""","Dazhou, China",ECWorld
+"""been""","Bruelisau, Switzerland",ECWorld
+"""been""","Shirahama-cho, Japan",ECWorld
+"""been""","Peterborough, NH, USA",ECWorld
+"""been""","San Mateo, CA, USA",ECWorld
+"""been""","Geneva, Switzerland",ECWorld
+"""been""","Plitvice Lakes National Park, Croatia",ECWorld
+"""been""","Xichong County, China",ECWorld
+"""been""","Thun, Switzerland",ECWorld
+"""been""","Bern, Switzerland",ECWorld
+"""been""","Shanghai, China",ECWorld
+"""been""","Sunnyvale, CA, USA",ECWorld
+"""been""","Kfar Cana, Israel",ECWorld
+"""been""","Tuban, Indonesia",ECWorld
+"""been""","Biei-cho, Japan",ECWorld
+"""been""","Langzhong, China",ECWorld
+"""been""","Sant Sadurni d'Anoia, Spain",ECWorld
+"""been""","Busselton, Australia",ECWorld
+"""been""","Scotts Valley, CA, USA",ECWorld
+"""been""","Girona, Spain",ECWorld
+"""been""","Hallstatt, Austria",ECWorld
+"""been""","Sausalito, CA, USA",ECWorld
+"""been""","Santorini, Greece",ECWorld
+"""been""","Barcelona, Spain",ECWorld
+"""been""","Guanghan, China",ECWorld
+"""been""","Asahikawa, Japan",ECWorld
+"""been""","Staten Island, NY, USA",ECWorld
+"""been""","Jericho, Palestinian Territories",ECWorld
+"""been""","New Taipei, Taiwan",ECWorld
+"""been""","Ljubljana, Slovenia",ECWorld
+"""been""","Postojna, Slovenia",ECWorld
+"""been""","Nazareth, Israel",ECWorld
+"""been""","Kalia, Palestinian Territories",ECWorld
+"""been""","Yongin, South Korea",ECWorld
+"""been""","Port Campbell, Australia",ECWorld
+"""been""","Paris, France",ECWorld
+"""been""","Toronto, Ontario, Canada",ECWorld
+"""been""","Versailles, France",ECWorld
+"""been""","Zurich, Switzerland",ECWorld
+"""been""","Zug, Switzerland",ECWorld
+"""been""","Lyon, France",ECWorld
+"""been""","Amsterdam, The Netherlands",ECWorld
+"""been""","Olinda, Australia",ECWorld
+"""been""","Beersheba, Israel",ECWorld
+"""been""","Santa Clara, CA, USA",ECWorld
+"""been""","Caesarea, Israel",ECWorld
+"""been""","Ein Gedi, Israel",ECWorld
+"""been""","Budapest, Hungary",ECWorld
+"""been""","Jaffa, Israel",ECWorld
+"""been""","Nakafurano-cho, Japan",ECWorld
+"""been""","Hong Kong, China",ECWorld
+"""been""","Chongqing, China",ECWorld
+"""been""","Zagreb, Croatia",ECWorld
+"""been""","Beijing, China",ECWorld
+"""been""","Shinjuku 3 Chome, Japan",ECWorld
+"""been""","Dresden, Germany",ECWorld
+"""been""","Valletta, Malta",ECWorld
+"""been""","Crater Lake National Park, OR, USA",ECWorld
+"""been""","Washington DC, DC, USA",ECWorld
+"""been""","Koblenz, Germany",ECWorld
+"""been""","Grand Canyon National Park, AZ, USA",ECWorld
+"""been""","Vienna, Austria",ECWorld
+"""been""","Springvale, Australia",ECWorld
+"""been""","Capernaum, Israel",ECWorld
+"""been""","Cambridge, MA, USA",ECWorld
+"""been""","Tirano, Italy",ECWorld
+"""been""","Nanjing, China",ECWorld
+"""been""","Heidelberg, Germany",ECWorld
+"""been""","Salzburg, Austria",ECWorld
+"""been""","Bled, Slovenia",ECWorld
+"""been""","Marsaxlokk, Malta",ECWorld
+"""been""","Omarama, New Zealand",ECWorld
+"""been""","Innsbruck, Austria",ECWorld
+"""been""","Mdina, Malta",ECWorld
+"""been""","Keene, NH, USA",ECWorld
+"""been""","Masada, Israel",ECWorld
+"""been""","Tabgha, Israel",ECWorld

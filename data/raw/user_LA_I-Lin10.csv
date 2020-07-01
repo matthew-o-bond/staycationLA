@@ -1,0 +1,410 @@
+tag,place,user
+"""been""","Barcelona, Spain",I-Lin10
+"""been""","Cologne, Germany",I-Lin10
+"""been""","Dusseldorf, Germany",I-Lin10
+"""been""","Lake Geneva, WI, USA",I-Lin10
+"""been""","Bonn, Germany",I-Lin10
+"""been""","Niagara Falls, NY, USA",I-Lin10
+"""been""","Pleasanton, CA, USA",I-Lin10
+"""been""","Pleasant Hill, CA, USA",I-Lin10
+"""been""","Konstanz, Germany",I-Lin10
+"""been""","Mount Robson, British Columbia, Canada",I-Lin10
+"""been""","Lincolnwood, IL, USA",I-Lin10
+"""been""","Zurich, Switzerland",I-Lin10
+"""been""","Maresias, Brazil",I-Lin10
+"""been""","Winterthur, Switzerland",I-Lin10
+"""been""","Munster, IN, USA",I-Lin10
+"""been""","Paris, France",I-Lin10
+"""been""","Hoffman Estates, IL, USA",I-Lin10
+"""been""","Yosemite National Park, CA, USA",I-Lin10
+"""been""","Zug, Switzerland",I-Lin10
+"""been""","Amsterdam, The Netherlands",I-Lin10
+"""been""","North Vancouver, British Columbia, Canada",I-Lin10
+"""been""","Richmond, British Columbia, Canada",I-Lin10
+"""been""","Rensselaer, IN, USA",I-Lin10
+"""been""","Fishers, IN, USA",I-Lin10
+"""been""","Au, Switzerland",I-Lin10
+"""been""","Hinsdale, IL, USA",I-Lin10
+"""been""","Flumserberg, Switzerland",I-Lin10
+"""been""","Leingarten, Germany",I-Lin10
+"""been""","Chincha Alta, Peru",I-Lin10
+"""been""","Dunedin, New Zealand",I-Lin10
+"""been""","Christchurch, New Zealand",I-Lin10
+"""been""","Highland Park, IL, USA",I-Lin10
+"""been""","Las Cruces, NM, USA",I-Lin10
+"""been""","Charlotte, NC, USA",I-Lin10
+"""been""","Te Anau, New Zealand",I-Lin10
+"""been""","Queenstown, New Zealand",I-Lin10
+"""been""","Signal Hill, CA, USA",I-Lin10
+"""been""","Milford Sound, New Zealand",I-Lin10
+"""been""","Lake in the Hills, IL, USA",I-Lin10
+"""been""","Indianapolis, IN, USA",I-Lin10
+"""been""","Dallas, TX, USA",I-Lin10
+"""been""","Lake Zurich, IL, USA",I-Lin10
+"""been""","Menaggio, Italy",I-Lin10
+"""been""","Inverness, IL, USA",I-Lin10
+"""been""","Washington DC, DC, USA",I-Lin10
+"""been""","Kathu, Thailand",I-Lin10
+"""been""","Patong, Thailand",I-Lin10
+"""been""","Merrillville, IN, USA",I-Lin10
+"""been""","Vienna, Austria",I-Lin10
+"""been""","Feldkirch, Austria",I-Lin10
+"""been""","Oak Brook, IL, USA",I-Lin10
+"""been""","Stein am Rhein, Switzerland",I-Lin10
+"""been""","Machu Picchu, Peru",I-Lin10
+"""been""","Ollantaytambo, Peru",I-Lin10
+"""been""","Lima, Peru",I-Lin10
+"""been""","Gailingen, Germany",I-Lin10
+"""been""","Cusco, Peru",I-Lin10
+"""been""","Rapperswil, Switzerland",I-Lin10
+"""been""","Saint Paul, MN, USA",I-Lin10
+"""been""","Carlsbad Caverns National Park, NM, USA",I-Lin10
+"""been""","Torrance, CA, USA",I-Lin10
+"""been""","Norridge, IL, USA",I-Lin10
+"""been""","Ottawa, Ontario, Canada",I-Lin10
+"""been""","Laax, Switzerland",I-Lin10
+"""been""","Canmore, Alberta, Canada",I-Lin10
+"""been""","Heilbronn, Germany",I-Lin10
+"""been""","Santa Monica, CA, USA",I-Lin10
+"""been""","Wrightwood, CA, USA",I-Lin10
+"""been""","Bishop, CA, USA",I-Lin10
+"""been""","Santa Rosa, CA, USA",I-Lin10
+"""been""","Heidelberg, Germany",I-Lin10
+"""been""","Omarama, New Zealand",I-Lin10
+"""been""","Bever, Switzerland",I-Lin10
+"""been""","Lisbon, Portugal",I-Lin10
+"""been""","Cancun, Mexico",I-Lin10
+"""been""","St. Gallen, Switzerland",I-Lin10
+"""been""","Cascais, Portugal",I-Lin10
+"""been""","Lucerne, Switzerland",I-Lin10
+"""been""","Engelberg, Switzerland",I-Lin10
+"""been""","Mount Baldy, CA, USA",I-Lin10
+"""been""","Sacramento, CA, USA",I-Lin10
+"""been""","Livermore, CA, USA",I-Lin10
+"""been""","Positano, Italy",I-Lin10
+"""been""","Huntington Beach, CA, USA",I-Lin10
+"""been""","Widen, Switzerland",I-Lin10
+"""been""","Toronto, Ontario, Canada",I-Lin10
+"""been""","Jungfraujoch, Switzerland",I-Lin10
+"""been""","Buchs St. Gallen, Switzerland",I-Lin10
+"""been""","Oahu, HI, USA",I-Lin10
+"""been""","Oamaru, New Zealand",I-Lin10
+"""been""","Delta, British Columbia, Canada",I-Lin10
+"""been""","Hope, British Columbia, Canada",I-Lin10
+"""been""","Golden, British Columbia, Canada",I-Lin10
+"""been""","Elm, Switzerland",I-Lin10
+"""been""","Glacier Bay National Park and Preserve, AK, USA",I-Lin10
+"""been""","Sheridan, WY, USA",I-Lin10
+"""been""","Philadelphia, PA, USA",I-Lin10
+"""been""","Grand Canyon National Park, AZ, USA",I-Lin10
+"""been""","Mammoth Lakes, CA, USA",I-Lin10
+"""been""","Vaduz, Liechtenstein",I-Lin10
+"""been""","Rolling Hills Estates, CA, USA",I-Lin10
+"""been""","Rolling Hills, CA, USA",I-Lin10
+"""been""","Schaffhausen, Switzerland",I-Lin10
+"""been""","Blaine, WA, USA",I-Lin10
+"""been""","Neuhausen am Rheinfall, Switzerland",I-Lin10
+"""been""","Pasadena, CA, USA",I-Lin10
+"""been""","Monterey Park, CA, USA",I-Lin10
+"""been""","Monterey, CA, USA",I-Lin10
+"""been""","Lebec, CA, USA",I-Lin10
+"""been""","Window Rock, AZ, USA",I-Lin10
+"""been""","Joshua Tree National Park, CA, USA",I-Lin10
+"""been""","Highland, IN, USA",I-Lin10
+"""been""","Paramount, CA, USA",I-Lin10
+"""been""","Lawndale, CA, USA",I-Lin10
+"""been""","Triesen, Liechtenstein",I-Lin10
+"""been""","Palos Verdes Estates, CA, USA",I-Lin10
+"""been""","Paracas, Peru",I-Lin10
+"""been""","Lakewood, CA, USA",I-Lin10
+"""been""","Palm Springs, CA, USA",I-Lin10
+"""been""","Hebron, IN, USA",I-Lin10
+"""been""","Cheyenne, WY, USA",I-Lin10
+"""been""","Demotte, IN, USA",I-Lin10
+"""been""","Sentosa Island, Singapore",I-Lin10
+"""been""","Geneva, Switzerland",I-Lin10
+"""been""","Waldshut-Tiengen, Germany",I-Lin10
+"""been""","Singapore, Singapore",I-Lin10
+"""been""","Martinsville, IN, USA",I-Lin10
+"""been""","Montreal, Quebec, Canada",I-Lin10
+"""been""","Bern, Switzerland",I-Lin10
+"""been""","Modesto, CA, USA",I-Lin10
+"""been""","Denville, NJ, USA",I-Lin10
+"""been""","Milpitas, CA, USA",I-Lin10
+"""been""","Oxnard, CA, USA",I-Lin10
+"""been""","Hartford, CT, USA",I-Lin10
+"""been""","Iowa City, IA, USA",I-Lin10
+"""been""","Revelstoke, British Columbia, Canada",I-Lin10
+"""been""","Washington, UT, USA",I-Lin10
+"""been""","Hammond, IN, USA",I-Lin10
+"""been""","Rogers Pass, British Columbia, Canada",I-Lin10
+"""been""","Adliswil, Switzerland",I-Lin10
+"""been""","Agrigento, Italy",I-Lin10
+"""been""","Redondo Beach, CA, USA",I-Lin10
+"""been""","Sao Paulo, Brazil",I-Lin10
+"""been""","Merced, CA, USA",I-Lin10
+"""been""","Menlo Park, CA, USA",I-Lin10
+"""been""","Orange, CA, USA",I-Lin10
+"""been""","Twizel, New Zealand",I-Lin10
+"""been""","Central Saanich, British Columbia, Canada",I-Lin10
+"""been""","Euskirchen, Germany",I-Lin10
+"""been""","Parede, Portugal",I-Lin10
+"""been"",""fave""","Rancho Palos Verdes, CA, USA",I-Lin10
+"""been""","Geraldine, New Zealand",I-Lin10
+"""been""","Olympic Valley, CA, USA",I-Lin10
+"""been""","Rocky Hill, CT, USA",I-Lin10
+"""been""","Clearwater, British Columbia, Canada",I-Lin10
+"""been""","Baar, Switzerland",I-Lin10
+"""been""","Noblesville, IN, USA",I-Lin10
+"""been""","Itasca, IL, USA",I-Lin10
+"""been""","Arosa, Switzerland",I-Lin10
+"""been""","Alamogordo, NM, USA",I-Lin10
+"""been""","Oakland, CA, USA",I-Lin10
+"""been""","Interlaken, Switzerland",I-Lin10
+"""been""","Grindelwald, Switzerland",I-Lin10
+"""been""","Uetliberg, Switzerland",I-Lin10
+"""been""","Glendale Heights, IL, USA",I-Lin10
+"""been""","Lebanon, IN, USA",I-Lin10
+"""been""","Monument Valley, UT, USA",I-Lin10
+"""been""","Clear Creek, IN, USA",I-Lin10
+"""been""","Ingleside, IL, USA",I-Lin10
+"""been""","Locarno, Switzerland",I-Lin10
+"""been""","Bellinzona, Switzerland",I-Lin10
+"""been""","Jackson, WY, USA",I-Lin10
+"""been""","Lugano, Switzerland",I-Lin10
+"""been""","Davos, Switzerland",I-Lin10
+"""been""","St. Moritz, Switzerland",I-Lin10
+"""been""","Taquile Island, Peru",I-Lin10
+"""been""","Gore, New Zealand",I-Lin10
+"""been""","Long Grove, IL, USA",I-Lin10
+"""been""","Juneau, AK, USA",I-Lin10
+"""been""","Golden, CO, USA",I-Lin10
+"""been""","Albuquerque, NM, USA",I-Lin10
+"""been""","Agoura Hills, CA, USA",I-Lin10
+"""been""","Juliaca, Peru",I-Lin10
+"""been""","Puno, Peru",I-Lin10
+"""been""","Petrified Forest National Park, AZ, USA",I-Lin10
+"""been""","Putrajaya, Malaysia",I-Lin10
+"""been""","Tucson, AZ, USA",I-Lin10
+"""been""","El Segundo, CA, USA",I-Lin10
+"""been""","Laguna Beach, CA, USA",I-Lin10
+"""been""","Tempe, AZ, USA",I-Lin10
+"""been""","Lafayette, CA, USA",I-Lin10
+"""been""","Amarillo, TX, USA",I-Lin10
+"""been""","Opfikon, Switzerland",I-Lin10
+"""been""","Bloomington, IN, USA",I-Lin10
+"""been""","Flims, Switzerland",I-Lin10
+"""been""","Hacienda Heights, CA, USA",I-Lin10
+"""been""","Vernon Hills, IL, USA",I-Lin10
+"""been""","Dublin, Ireland",I-Lin10
+"""been""","Vancouver, WA, USA",I-Lin10
+"""been""","Burgenstock, Switzerland",I-Lin10
+"""been""","Girdwood, AK, USA",I-Lin10
+"""been""","Thornton, CO, USA",I-Lin10
+"""been""","Thousand Oaks, CA, USA",I-Lin10
+"""been""","San Francisco, CA, USA",I-Lin10
+"""been""","Page, AZ, USA",I-Lin10
+"""been""","San Antonio, TX, USA",I-Lin10
+"""been""","Santa Fe, NM, USA",I-Lin10
+"""been""","Flagstaff, AZ, USA",I-Lin10
+"""been""","Sedona, AZ, USA",I-Lin10
+"""been""","Scottsdale, AZ, USA",I-Lin10
+"""been""","Yoho National Park, British Columbia, Canada",I-Lin10
+"""been""","Tijuana, Mexico",I-Lin10
+"""been""","Marina del Rey, CA, USA",I-Lin10
+"""been""","Glacier National Park of Canada, British Columbia, Canada",I-Lin10
+"""been""","Newark, NJ, USA",I-Lin10
+"""been""","Arlington Heights, IL, USA",I-Lin10
+"""been""","Kuala Lumpur, Malaysia",I-Lin10
+"""been""","Hillsboro, OR, USA",I-Lin10
+"""been""","Aurora, CO, USA",I-Lin10
+"""been""","Dublin, CA, USA",I-Lin10
+"""been""","Malibu, CA, USA",I-Lin10
+"""been""","Elk Grove Village, IL, USA",I-Lin10
+"""been""","Ascona, Switzerland",I-Lin10
+"""been""","Manhattan Beach, CA, USA",I-Lin10
+"""been""","Milan, Italy",I-Lin10
+"""been""","Brookhaven, GA, USA",I-Lin10
+"""been""","San Diego, CA, USA",I-Lin10
+"""been""","Fontana, WI, USA",I-Lin10
+"""been""","Baden, Switzerland",I-Lin10
+"""been""","Gardena, CA, USA",I-Lin10
+"""been""","Kusnacht, Switzerland",I-Lin10
+"""been""","Garden Grove, CA, USA",I-Lin10
+"""been""","Wood Dale, IL, USA",I-Lin10
+"""been""","June Lake, CA, USA",I-Lin10
+"""been""","Lenzerheide, Switzerland",I-Lin10
+"""been""","Ehrenberg, AZ, USA",I-Lin10
+"""been""","Banff National Park, Alberta, Canada",I-Lin10
+"""been""","Lake Louise, Alberta, Canada",I-Lin10
+"""been""","Chicago, IL, USA",I-Lin10
+"""been""","Banff, Alberta, Canada",I-Lin10
+"""been""","Jasper, Alberta, Canada",I-Lin10
+"""been""","Jasper National Park, Alberta, Canada",I-Lin10
+"""been""","Aoraki Mount Cook National Park (Te Wahipounamu), New Zealand",I-Lin10
+"""been""","Boston, MA, USA",I-Lin10
+"""been""","Richfield, UT, USA",I-Lin10
+"""been""","New York City, NY, USA",I-Lin10
+"""been""","Avalon, CA, USA",I-Lin10
+"""been""","Anchorage, AK, USA",I-Lin10
+"""been""","Fremont, CA, USA",I-Lin10
+"""been""","Pittsburg, CA, USA",I-Lin10
+"""been""","Irvine, CA, USA",I-Lin10
+"""been""","Newhall, CA, USA",I-Lin10
+"""been""","St. George, UT, USA",I-Lin10
+"""been""","Fresno, CA, USA",I-Lin10
+"""been""","Windsor Locks, CT, USA",I-Lin10
+"""been""","Los Angeles, CA, USA",I-Lin10
+"""been""","Quartzsite, AZ, USA",I-Lin10
+"""been""","Vancouver, British Columbia, Canada",I-Lin10
+"""been""","Long Beach, CA, USA",I-Lin10
+"""been""","Fountain Valley, CA, USA",I-Lin10
+"""been""","Victoria, British Columbia, Canada",I-Lin10
+"""been""","Filzbach, Switzerland",I-Lin10
+"""been""","Taipei, Taiwan",I-Lin10
+"""been""","Vancouver Island, British Columbia, Canada",I-Lin10
+"""been""","Catalina Island, CA, USA",I-Lin10
+"""been""","Kriens, Switzerland",I-Lin10
+"""been""","Seattle, WA, USA",I-Lin10
+"""been""","Yellowstone National Park, WY, USA",I-Lin10
+"""been""","Whistler, British Columbia, Canada",I-Lin10
+"""been""","Azusa, CA, USA",I-Lin10
+"""been""","Algonquin, IL, USA",I-Lin10
+"""been""","Chinle, AZ, USA",I-Lin10
+"""been""","Skagway, AK, USA",I-Lin10
+"""been""","Green River, UT, USA",I-Lin10
+"""been""","Mountain View, CA, USA",I-Lin10
+"""been""","Phoenix, AZ, USA",I-Lin10
+"""been""","Foster City, CA, USA",I-Lin10
+"""been""","Napa, CA, USA",I-Lin10
+"""been""","Lomita, CA, USA",I-Lin10
+"""been""","Kamloops, British Columbia, Canada",I-Lin10
+"""been""","South Lake Tahoe, CA, USA",I-Lin10
+"""been""","Artesia, CA, USA",I-Lin10
+"""been""","El Paso, TX, USA",I-Lin10
+"""been""","Bellagio, Italy",I-Lin10
+"""been""","Phuket, Thailand",I-Lin10
+"""been""","Como, Italy",I-Lin10
+"""been""","Varenna, Italy",I-Lin10
+"""been""","Cedar City, UT, USA",I-Lin10
+"""been""","Big Bear City, CA, USA",I-Lin10
+"""been""","Florence, Italy",I-Lin10
+"""been""","Big Pine, CA, USA",I-Lin10
+"""been""","Santa Barbara, CA, USA",I-Lin10
+"""been""","Palermo, Italy",I-Lin10
+"""been""","Cerritos, CA, USA",I-Lin10
+"""been""","Santa Ana, CA, USA",I-Lin10
+"""been""","Syracuse, Italy",I-Lin10
+"""been""","Santa Clarita, CA, USA",I-Lin10
+"""been""","Mendrisio, Switzerland",I-Lin10
+"""been""","Wolcott, IN, USA",I-Lin10
+"""been""","Beverly Hills, CA, USA",I-Lin10
+"""been""","Whippany, NJ, USA",I-Lin10
+"""been""","Catania, Italy",I-Lin10
+"""been""","San Mateo, CA, USA",I-Lin10
+"""been""","Sorrento, Italy",I-Lin10
+"""been""","Naperville, IL, USA",I-Lin10
+"""been""","Belmont, CA, USA",I-Lin10
+"""been""","Naples, Italy",I-Lin10
+"""been""","Berkeley, CA, USA",I-Lin10
+"""been""","San Ramon, CA, USA",I-Lin10
+"""been""","Overland Park, KS, USA",I-Lin10
+"""been""","Eagle, CO, USA",I-Lin10
+"""been""","Weil am Rhein, Germany",I-Lin10
+"""been""","Bolingbrook, IL, USA",I-Lin10
+"""been""","Schaumburg, IL, USA",I-Lin10
+"""been""","Cromwell, New Zealand",I-Lin10
+"""been""","Dorio, Italy",I-Lin10
+"""been""","Las Vegas, NV, USA",I-Lin10
+"""been""","Sun Peaks, British Columbia, Canada",I-Lin10
+"""been""","Pisa, Italy",I-Lin10
+"""been""","San Jose, CA, USA",I-Lin10
+"""been""","Venice, Italy",I-Lin10
+"""been""","Verona, Italy",I-Lin10
+"""been""","Carson, CA, USA",I-Lin10
+"""been""","Lead, SD, USA",I-Lin10
+"""been""","Denver, CO, USA",I-Lin10
+"""been""","Leawood, KS, USA",I-Lin10
+"""been""","Fillmore, UT, USA",I-Lin10
+"""been""","Crazy Horse, SD, USA",I-Lin10
+"""been""","Westfield, IN, USA",I-Lin10
+"""been""","Portland, OR, USA",I-Lin10
+"""been""","Tokyo, Japan",I-Lin10
+"""been""","Stockton, CA, USA",I-Lin10
+"""been""","Field, British Columbia, Canada",I-Lin10
+"""been""","West Hollywood, CA, USA",I-Lin10
+"""been""","Westlake Village, CA, USA",I-Lin10
+"""been""","San Gabriel, CA, USA",I-Lin10
+"""been""","Kajang, Malaysia",I-Lin10
+"""been""","Schlieren, Switzerland",I-Lin10
+"""been""","Minneapolis, MN, USA",I-Lin10
+"""been""","Chandler, AZ, USA",I-Lin10
+"""been""","Parsippany, NJ, USA",I-Lin10
+"""been""","Kansas City, MO, USA",I-Lin10
+"""been""","Madrid, Spain",I-Lin10
+"""been""","Culver City, CA, USA",I-Lin10
+"""been""","Nazca, Peru",I-Lin10
+"""been""","Palatine, IL, USA",I-Lin10
+"""been""","Ica, Peru",I-Lin10
+"""been""","Salida, CA, USA",I-Lin10
+"""been""","Cupertino, CA, USA",I-Lin10
+"""been""","Carmel, IN, USA",I-Lin10
+"""been""","Bakersfield, CA, USA",I-Lin10
+"""been""","Daly City, CA, USA",I-Lin10
+"""been""","Stanton, CA, USA",I-Lin10
+"""been""","Baker, CA, USA",I-Lin10
+"""been""","Round Lake Beach, IL, USA",I-Lin10
+"""been""","Reno, NV, USA",I-Lin10
+"""been""","Primm, NV, USA",I-Lin10
+"""been""","Craigellachie, British Columbia, Canada",I-Lin10
+"""been""","Istanbul, Turkey",I-Lin10
+"""been""","Palma de Mallorca, Spain",I-Lin10
+"""been""","Sesimbra, Portugal",I-Lin10
+"""been""","Oracle, AZ, USA",I-Lin10
+"""been""","Antioch, CA, USA",I-Lin10
+"""been""","Walnut Creek, CA, USA",I-Lin10
+"""been""","Roselle, IL, USA",I-Lin10
+"""been""","Rolling Meadows, IL, USA",I-Lin10
+"""been""","Anaheim, CA, USA",I-Lin10
+"""been""","Romeoville, IL, USA",I-Lin10
+"""been""","Keystone, SD, USA",I-Lin10
+"""been""","Niagara Falls, Ontario, Canada",I-Lin10
+"""been""","Rockford, IL, USA",I-Lin10
+"""been""","Barstow, CA, USA",I-Lin10
+"""been""","Coronado, CA, USA",I-Lin10
+"""been""","Hermosa Beach, CA, USA",I-Lin10
+"""been""","Austin, TX, USA",I-Lin10
+"""been""","Costa Mesa, CA, USA",I-Lin10
+"""been""","Wettingen, Switzerland",I-Lin10
+"""been""","Rome, Italy",I-Lin10
+"""been""","Whittier, AK, USA",I-Lin10
+"""been""","Barrington, IL, USA",I-Lin10
+"""been""","Calabasas, CA, USA",I-Lin10
+"""been""","Rock Falls, IL, USA",I-Lin10
+"""been""","Cabazon, CA, USA",I-Lin10
+"""been""","Deerfield, IL, USA",I-Lin10
+"""been""","Sonoma, CA, USA",I-Lin10
+"""been""","Lake Powell, UT, USA",I-Lin10
+"""been""","London, UK",I-Lin10
+"""been""","Hohenschwangau, Germany",I-Lin10
+"""been""","Munich, Germany",I-Lin10
+"""been""","Pompeii, Italy",I-Lin10
+"""been""","Alamo, CA, USA",I-Lin10
+"""been""","Aguas Calientes, Peru",I-Lin10
+"""been""","Berlin, Germany",I-Lin10
+"""been""","Concord, CA, USA",I-Lin10
+"""been""","Ketchikan, AK, USA",I-Lin10
+"""been""","Alhambra, CA, USA",I-Lin10
+"""been""","Grand Junction, CO, USA",I-Lin10
+"""been""","Kilchberg, Switzerland",I-Lin10
+"""been""","Fairfield, CA, USA",I-Lin10
+"""been""","SeaTac, WA, USA",I-Lin10
+"""been""","Meilen, Switzerland",I-Lin10
+"""been""","Burbank, CA, USA",I-Lin10
+"""been""","Bad Ragaz, Switzerland",I-Lin10
+"""been""","Corona del Mar, CA, USA",I-Lin10
+"""been""","Jacksonville, FL, USA",I-Lin10
+"""been""","Lake Tekapo, New Zealand",I-Lin10
+"""been""","Salt Lake City, UT, USA",I-Lin10
+"""been""","Danville, CA, USA",I-Lin10
+"""been""","Rumlang, Switzerland",I-Lin10

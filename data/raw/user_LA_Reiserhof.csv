@@ -1,0 +1,414 @@
+tag,place,user
+"""been""","Macau, China",Reiserhof
+"""been""","North Conway, NH, USA",Reiserhof
+"""been""","Bozeman, MT, USA",Reiserhof
+"""been""","Sioux Falls, SD, USA",Reiserhof
+"""want""","Yalta, Europe",Reiserhof
+"""want""","Lviv, Ukraine",Reiserhof
+"""been""","Boca Raton, FL, USA",Reiserhof
+"""been""","Raleigh, NC, USA",Reiserhof
+"""been""","Monument Valley, UT, USA",Reiserhof
+"""been""","Wendover, UK",Reiserhof
+"""want""","Ankara, Turkey",Reiserhof
+"""been""","Bradenton Beach, FL, USA",Reiserhof
+"""been""","Cleveland, OH, USA",Reiserhof
+"""been""","Niagara Falls, NY, USA",Reiserhof
+"""been""","Washington DC, DC, USA",Reiserhof
+"""want""","Porto, Portugal",Reiserhof
+"""been""","Cannon Beach, OR, USA",Reiserhof
+"""want""","Krakow, Poland",Reiserhof
+"""been""","Hyannis, MA, USA",Reiserhof
+"""want""","Brasov, Romania",Reiserhof
+"""been""","Oklahoma City, OK, USA",Reiserhof
+"""been""","Huntsville, AL, USA",Reiserhof
+"""want""","Budapest, Hungary",Reiserhof
+"""want""","Xi'an, China",Reiserhof
+"""been""","Shreveport, LA, USA",Reiserhof
+"""been""","Seoul, South Korea",Reiserhof
+"""want""","Guilin, China",Reiserhof
+"""been""","Lenox, MA, USA",Reiserhof
+"""been""","Seminyak, Indonesia",Reiserhof
+"""been""","Columbus, OH, USA",Reiserhof
+"""been""","Wembley, UK",Reiserhof
+"""been""","Saratoga Springs, NY, USA",Reiserhof
+"""been""","Cody, WY, USA",Reiserhof
+"""want""","Gaziantep, Turkey",Reiserhof
+"""been""","Hershey, PA, USA",Reiserhof
+"""been""","Montreal, Quebec, Canada",Reiserhof
+"""been"",""want""","Quebec City, Quebec, Canada",Reiserhof
+"""been""","Roanoke, VA, USA",Reiserhof
+"""been""","Oaxaca, Mexico",Reiserhof
+"""been""","Mexico City, Mexico",Reiserhof
+"""been""","Ashland, OR, USA",Reiserhof
+"""been""","Gettysburg, PA, USA",Reiserhof
+"""been""","Fargo, ND, USA",Reiserhof
+"""been""","Atlantic City, NJ, USA",Reiserhof
+"""been""","Philadelphia, PA, USA",Reiserhof
+"""been""","Windsor, Ontario, Canada",Reiserhof
+"""been""","Daytona Beach, FL, USA",Reiserhof
+"""want""","Oia, Greece",Reiserhof
+"""been""","Hollywood, FL, USA",Reiserhof
+"""been""","Merida, Mexico",Reiserhof
+"""been""","Delray Beach, FL, USA",Reiserhof
+"""been""","Wilmington, NC, USA",Reiserhof
+"""been""","Indianapolis, IN, USA",Reiserhof
+"""want""","Biarritz, France",Reiserhof
+"""been""","Karlovy Vary, Czech Republic",Reiserhof
+"""been""","Singapore, Singapore",Reiserhof
+"""been""","Virginia Beach, VA, USA",Reiserhof
+"""want""","Bern, Switzerland",Reiserhof
+"""been""","Eugene, OR, USA",Reiserhof
+"""been""","Lancaster, PA, USA",Reiserhof
+"""been""","Billings, MT, USA",Reiserhof
+"""been""","Big Sur, CA, USA",Reiserhof
+"""been""","Winston Salem, NC, USA",Reiserhof
+"""been""","Mobile, AL, USA",Reiserhof
+"""been""","Salvador, Brazil",Reiserhof
+"""been""","Kamakura, Japan",Reiserhof
+"""been""","Bangor, ME, USA",Reiserhof
+"""been""","Lucerne, Switzerland",Reiserhof
+"""been""","Norfolk, VA, USA",Reiserhof
+"""been""","St. George, UT, USA",Reiserhof
+"""been""","Cape Canaveral, FL, USA",Reiserhof
+"""been""","El Paso, TX, USA",Reiserhof
+"""been""","Ventura, CA, USA",Reiserhof
+"""been""","New York City, NY, USA",Reiserhof
+"""been""","Little Rock, AR, USA",Reiserhof
+"""been""","Wisconsin Dells, WI, USA",Reiserhof
+"""been""","Anchorage, AK, USA",Reiserhof
+"""want""","Lima, Peru",Reiserhof
+"""want""","Machu Picchu, Peru",Reiserhof
+"""been""","Cairo, Egypt",Reiserhof
+"""been""","Giza, Egypt",Reiserhof
+"""been""","Manchester, UK",Reiserhof
+"""been"",""want""","Prague, Czech Republic",Reiserhof
+"""been""","Berkeley, CA, USA",Reiserhof
+"""been""","Durango, CO, USA",Reiserhof
+"""been""","Leamington Spa, UK",Reiserhof
+"""been""","Irving, TX, USA",Reiserhof
+"""been""","Gainesville, FL, USA",Reiserhof
+"""want""","Caen, France",Reiserhof
+"""been""","Lancaster, UK",Reiserhof
+"""been""","San Simeon, CA, USA",Reiserhof
+"""been""","Seattle, WA, USA",Reiserhof
+"""been""","Yellowstone National Park, WY, USA",Reiserhof
+"""been""","Lahaina, HI, USA",Reiserhof
+"""been""","Luxor, Egypt",Reiserhof
+"""been""","San Diego, CA, USA",Reiserhof
+"""been""","Nairobi, Kenya",Reiserhof
+"""been""","Hana, HI, USA",Reiserhof
+"""been""","Cincinnati, OH, USA",Reiserhof
+"""want""","Basel, Switzerland",Reiserhof
+"""been""","Auckland, New Zealand",Reiserhof
+"""been""","Beverly Hills, CA, USA",Reiserhof
+"""been""","Charlottesville, VA, USA",Reiserhof
+"""been""","Santa Barbara, CA, USA",Reiserhof
+"""been""","Temecula, CA, USA",Reiserhof
+"""been""","Ocala, FL, USA",Reiserhof
+"""been""","Santa Cruz, CA, USA",Reiserhof
+"""been""","Dayton, OH, USA",Reiserhof
+"""been""","Bradenton, FL, USA",Reiserhof
+"""been""","Death Valley Junction, CA, USA",Reiserhof
+"""want""","Bucharest, Romania",Reiserhof
+"""been""","Grand Canyon National Park, AZ, USA",Reiserhof
+"""been""","Hong Kong, China",Reiserhof
+"""been""","West Yellowstone, MT, USA",Reiserhof
+"""want""","Side, Turkey",Reiserhof
+"""want""","Bursa, Turkey",Reiserhof
+"""been""","Gloucester, UK",Reiserhof
+"""want""","Balikesir, Turkey",Reiserhof
+"""been""","Santa Monica, CA, USA",Reiserhof
+"""been""","Clearwater, FL, USA",Reiserhof
+"""want""","Kusadasi, Turkey",Reiserhof
+"""been""","Santa Rosa, CA, USA",Reiserhof
+"""been""","Toronto, Ontario, Canada",Reiserhof
+"""been""","Atlanta, GA, USA",Reiserhof
+"""been""","Richmond, VA, USA",Reiserhof
+"""been""","Jakarta, Indonesia",Reiserhof
+"""been""","Anaheim, CA, USA",Reiserhof
+"""been""","Sausalito, CA, USA",Reiserhof
+"""want""","Kyiv (Kiev), Ukraine",Reiserhof
+"""been""","Memphis, TN, USA",Reiserhof
+"""been""","Sydney, Australia",Reiserhof
+"""been""","Portland, ME, USA",Reiserhof
+"""been""","Richmond, British Columbia, Canada",Reiserhof
+"""been""","Knoxville, TN, USA",Reiserhof
+"""been""","Miami Beach, FL, USA",Reiserhof
+"""been""","Sonoma, CA, USA",Reiserhof
+"""been""","Miami, FL, USA",Reiserhof
+"""been""","Tampa, FL, USA",Reiserhof
+"""been""","Moab, UT, USA",Reiserhof
+"""been""","Greensboro, NC, USA",Reiserhof
+"""been""","Kaohsiung, Taiwan",Reiserhof
+"""been""","Gatlinburg, TN, USA",Reiserhof
+"""been""","Paris, France",Reiserhof
+"""been""","Portsmouth, UK",Reiserhof
+"""been""","Southampton, UK",Reiserhof
+"""been""","New Braunfels, TX, USA",Reiserhof
+"""been""","Charleston, SC, USA",Reiserhof
+"""been""","Calistoga, CA, USA",Reiserhof
+"""been""","Burlington, VT, USA",Reiserhof
+"""been""","Amsterdam, The Netherlands",Reiserhof
+"""been""","South Pasadena, CA, USA",Reiserhof
+"""been""","Tacoma, WA, USA",Reiserhof
+"""been"",""want"",""fave""","Santa Fe, NM, USA",Reiserhof
+"""been""","Cambria, CA, USA",Reiserhof
+"""been""","Salem, MA, USA",Reiserhof
+"""been""","San Francisco, CA, USA",Reiserhof
+"""been""","San Antonio, TX, USA",Reiserhof
+"""been""","Friday Harbor, WA, USA",Reiserhof
+"""been""","Coeur d'Alene, ID, USA",Reiserhof
+"""been""","Tucson, AZ, USA",Reiserhof
+"""been""","Shinjuku, Japan",Reiserhof
+"""been""","Newark, NJ, USA",Reiserhof
+"""been""","Shibuya, Japan",Reiserhof
+"""been""","Colorado Springs, CO, USA",Reiserhof
+"""been""","St. Helena, CA, USA",Reiserhof
+"""been""","Pompano Beach, FL, USA",Reiserhof
+"""been""","Bakersfield, CA, USA",Reiserhof
+"""been""","Dana Point, CA, USA",Reiserhof
+"""want""","Montpellier, France",Reiserhof
+"""been""","Boston, MA, USA",Reiserhof
+"""been""","Asheville, NC, USA",Reiserhof
+"""been""","New Orleans, LA, USA",Reiserhof
+"""been""","Honolulu, HI, USA",Reiserhof
+"""been""","Koto, Japan",Reiserhof
+"""been""","Cooperstown, NY, USA",Reiserhof
+"""been""","Toledo, Spain",Reiserhof
+"""want""","Poznan, Poland",Reiserhof
+"""want""","Maastricht, The Netherlands",Reiserhof
+"""been""","West Hollywood, CA, USA",Reiserhof
+"""want""","Copenhagen, Denmark",Reiserhof
+"""been""","Hastings, UK",Reiserhof
+"""been""","Naples, FL, USA",Reiserhof
+"""been""","Williamsburg, VA, USA",Reiserhof
+"""been""","Brighton, UK",Reiserhof
+"""been""","Fort Lauderdale, FL, USA",Reiserhof
+"""been""","Hot Springs, AR, USA",Reiserhof
+"""been""","Newport, RI, USA",Reiserhof
+"""been""","Buffalo, NY, USA",Reiserhof
+"""been""","Flagstaff, AZ, USA",Reiserhof
+"""been""","Portsmouth, NH, USA",Reiserhof
+"""want""","Cusco, Peru",Reiserhof
+"""been""","Barcelona, Spain",Reiserhof
+"""been""","Carmel, CA, USA",Reiserhof
+"""been""","Desert Hot Springs, CA, USA",Reiserhof
+"""been""","Carlsbad, CA, USA",Reiserhof
+"""been""","Pigeon Forge, TN, USA",Reiserhof
+"""been""","Columbia, SC, USA",Reiserhof
+"""been""","Fort Myers Beach, FL, USA",Reiserhof
+"""been""","Kissimmee, FL, USA",Reiserhof
+"""been""","San Jose, CA, USA",Reiserhof
+"""been""","Fort Myers, FL, USA",Reiserhof
+"""been""","San Luis Obispo, CA, USA",Reiserhof
+"""want""","Houston, TX, USA",Reiserhof
+"""been""","Denver, CO, USA",Reiserhof
+"""been""","Bourton-on-the-Water, UK",Reiserhof
+"""been""","Jacksonville, FL, USA",Reiserhof
+"""been""","Orlando, FL, USA",Reiserhof
+"""been""","Rotorua, New Zealand",Reiserhof
+"""been""","Astoria, OR, USA",Reiserhof
+"""been""","La Jolla, CA, USA",Reiserhof
+"""been""","Telluride, CO, USA",Reiserhof
+"""been""","Corpus Christi, TX, USA",Reiserhof
+"""been""","Taupo, New Zealand",Reiserhof
+"""been""","Salt Lake City, UT, USA",Reiserhof
+"""been""","Seaside, OR, USA",Reiserhof
+"""been""","Christchurch, New Zealand",Reiserhof
+"""been""","Dunedin, New Zealand",Reiserhof
+"""been""","Wailea, HI, USA",Reiserhof
+"""been""","Wellington, New Zealand",Reiserhof
+"""been""","Detroit, MI, USA",Reiserhof
+"""been""","Slough, UK",Reiserhof
+"""been""","North Myrtle Beach, SC, USA",Reiserhof
+"""been""","Beaufort, SC, USA",Reiserhof
+"""want""","Bruges, Belgium",Reiserhof
+"""been""","SeaTac, WA, USA",Reiserhof
+"""been""","Amarillo, TX, USA",Reiserhof
+"""been""","Half Moon Bay, CA, USA",Reiserhof
+"""been""","Queenstown, New Zealand",Reiserhof
+"""been""","Myrtle Beach, SC, USA",Reiserhof
+"""been""","Laguna Beach, CA, USA",Reiserhof
+"""been""","Green Bay, WI, USA",Reiserhof
+"""been""","Jamaica, NY, USA",Reiserhof
+"""want""","Nice, France",Reiserhof
+"""been""","Phuket Town, Thailand",Reiserhof
+"""been""","Boulder, CO, USA",Reiserhof
+"""been""","Bournemouth, UK",Reiserhof
+"""been""","Brooklyn, NY, USA",Reiserhof
+"""been""","Stowe, VT, USA",Reiserhof
+"""been""","Estes Park, CO, USA",Reiserhof
+"""been""","Providence, RI, USA",Reiserhof
+"""been""","Seville, Spain",Reiserhof
+"""been""","Rio de Janeiro, Brazil",Reiserhof
+"""been""","Healdsburg, CA, USA",Reiserhof
+"""been""","Bar Harbor, ME, USA",Reiserhof
+"""been""","Granada, Spain",Reiserhof
+"""want""","Torremolinos, Spain",Reiserhof
+"""been""","Burbank, CA, USA",Reiserhof
+"""been""","Panama City Beach, FL, USA",Reiserhof
+"""been""","Belfast, UK",Reiserhof
+"""been""","Buena Park, CA, USA",Reiserhof
+"""been""","Nashville, TN, USA",Reiserhof
+"""been""","Petrified Forest National Park, AZ, USA",Reiserhof
+"""been""","Baltimore, MD, USA",Reiserhof
+"""been""","Albuquerque, NM, USA",Reiserhof
+"""been""","Savannah, GA, USA",Reiserhof
+"""been""","Jersey City, NJ, USA",Reiserhof
+"""been""","Annapolis, MD, USA",Reiserhof
+"""been""","Auckland Central, New Zealand",Reiserhof
+"""been""","Duluth, MN, USA",Reiserhof
+"""been""","Mesa, AZ, USA",Reiserhof
+"""been""","Sao Paulo, Brazil",Reiserhof
+"""been""","Austin, TX, USA",Reiserhof
+"""been""","Pensacola, FL, USA",Reiserhof
+"""been""","Solvang, CA, USA",Reiserhof
+"""been""","Portland, OR, USA",Reiserhof
+"""been""","Chicago, IL, USA",Reiserhof
+"""been""","Halifax, Nova Scotia, Canada",Reiserhof
+"""been""","Los Angeles, CA, USA",Reiserhof
+"""been""","Pompeii, Italy",Reiserhof
+"""been""","Naples, Italy",Reiserhof
+"""been""","Bowness-on-Windermere, UK",Reiserhof
+"""been""","Blackpool, UK",Reiserhof
+"""been""","Liverpool, UK",Reiserhof
+"""been"",""want""","London, UK",Reiserhof
+"""been""","Durham, NC, USA",Reiserhof
+"""been""","Saint Augustine Beach, FL, USA",Reiserhof
+"""been""","Salerno, Italy",Reiserhof
+"""been""","Arlington, VA, USA",Reiserhof
+"""been""","Campos Do Jordao, Brazil",Reiserhof
+"""been""","Narita, Japan",Reiserhof
+"""been""","St. Petersburg, FL, USA",Reiserhof
+"""been""","Munich, Germany",Reiserhof
+"""been""","Minneapolis, MN, USA",Reiserhof
+"""been""","Biloxi, MS, USA",Reiserhof
+"""want""","Stockholm, Sweden",Reiserhof
+"""been""","Cordoba, Spain",Reiserhof
+"""been""","Vatican City, Vatican City",Reiserhof
+"""been""","Yokohama, Japan",Reiserhof
+"""been""","Bristol, UK",Reiserhof
+"""been""","Rome, Italy",Reiserhof
+"""been""","Hakone-machi, Japan",Reiserhof
+"""been""","Cardiff, UK",Reiserhof
+"""been""","Niagara Falls, Ontario, Canada",Reiserhof
+"""been""","Malibu, CA, USA",Reiserhof
+"""been""","London, Ontario, Canada",Reiserhof
+"""been""","Reno, NV, USA",Reiserhof
+"""been""","Redwood National Park, CA, USA",Reiserhof
+"""been""","Kansas City, MO, USA",Reiserhof
+"""been""","Scottsdale, AZ, USA",Reiserhof
+"""been""","Tokyo, Japan",Reiserhof
+"""been""","Keystone, SD, USA",Reiserhof
+"""been""","Sedona, AZ, USA",Reiserhof
+"""been""","Steamboat Springs, CO, USA",Reiserhof
+"""been""","Deadwood, SD, USA",Reiserhof
+"""been""","Salem, OR, USA",Reiserhof
+"""been""","Ambleside, UK",Reiserhof
+"""been""","Tangier, Morocco",Reiserhof
+"""been""","Casablanca, Morocco",Reiserhof
+"""want""","Istanbul, Turkey",Reiserhof
+"""been""","Whitefish, MT, USA",Reiserhof
+"""been""","Grand Rapids, MI, USA",Reiserhof
+"""been""","Marrakech, Morocco",Reiserhof
+"""been""","Florence, Italy",Reiserhof
+"""been""","Jerusalem, Israel",Reiserhof
+"""been""","Tel Aviv, Israel",Reiserhof
+"""been""","Kendal, UK",Reiserhof
+"""been""","Grasmere, UK",Reiserhof
+"""been""","Yountville, CA, USA",Reiserhof
+"""been""","Kamloops, British Columbia, Canada",Reiserhof
+"""been""","Pasadena, CA, USA",Reiserhof
+"""been""","Fort Worth, TX, USA",Reiserhof
+"""been""","Monterey, CA, USA",Reiserhof
+"""been""","Williams, AZ, USA",Reiserhof
+"""been""","Pensacola Beach, FL, USA",Reiserhof
+"""been""","San Pedro, Belize",Reiserhof
+"""been""","Belize City, Belize",Reiserhof
+"""been""","Saint Paul, MN, USA",Reiserhof
+"""been""","Milwaukee, WI, USA",Reiserhof
+"""been""","Glasgow, UK",Reiserhof
+"""been""","Paso Robles, CA, USA",Reiserhof
+"""been""","Rapid City, SD, USA",Reiserhof
+"""been""","Fredericksburg, TX, USA",Reiserhof
+"""been""","Vancouver, British Columbia, Canada",Reiserhof
+"""been""","Bangkok, Thailand",Reiserhof
+"""been""","Chiang Mai, Thailand",Reiserhof
+"""been""","Morro Bay, CA, USA",Reiserhof
+"""been""","Windsor, UK",Reiserhof
+"""been""","Taipei, Taiwan",Reiserhof
+"""been""","Broadway, UK",Reiserhof
+"""been""","Mackinaw City, MI, USA",Reiserhof
+"""been""","Madrid, Spain",Reiserhof
+"""been""","Matsue, Japan",Reiserhof
+"""been""","Venice, Italy",Reiserhof
+"""been""","Cabo San Lucas, Mexico",Reiserhof
+"""been""","Lido di Venezia, Italy",Reiserhof
+"""been""","Mystic, CT, USA",Reiserhof
+"""been""","Huntington Beach, CA, USA",Reiserhof
+"""been""","Galveston, TX, USA",Reiserhof
+"""been""","Sacramento, CA, USA",Reiserhof
+"""been""","Lafayette, LA, USA",Reiserhof
+"""been""","Fort Bragg, CA, USA",Reiserhof
+"""been""","Whistler, British Columbia, Canada",Reiserhof
+"""been"",""want""","Phoenix, AZ, USA",Reiserhof
+"""been""","New Haven, CT, USA",Reiserhof
+"""been""","Victoria, British Columbia, Canada",Reiserhof
+"""been""","Napa, CA, USA",Reiserhof
+"""been""","Venice, FL, USA",Reiserhof
+"""been""","Alexandria, VA, USA",Reiserhof
+"""been""","Long Beach, CA, USA",Reiserhof
+"""been""","Milan, Italy",Reiserhof
+"""been""","Las Vegas, NV, USA",Reiserhof
+"""been""","Vero Beach, FL, USA",Reiserhof
+"""been""","Warwick, UK",Reiserhof
+"""been""","Coventry, UK",Reiserhof
+"""been""","Manaus, Brazil",Reiserhof
+"""been""","Birmingham, UK",Reiserhof
+"""want""","Marmaris, Turkey",Reiserhof
+"""been""","Pismo Beach, CA, USA",Reiserhof
+"""been""","Irvine, CA, USA",Reiserhof
+"""been""","Nungwi, Tanzania",Reiserhof
+"""been""","Oakland, CA, USA",Reiserhof
+"""been""","Oceanside, CA, USA",Reiserhof
+"""been""","Ensenada, Mexico",Reiserhof
+"""been""","Dublin, Ireland",Reiserhof
+"""been""","Ojai, CA, USA",Reiserhof
+"""been""","Kill Devil Hills, NC, USA",Reiserhof
+"""been""","Fukuoka, Japan",Reiserhof
+"""want""","Genoa, Italy",Reiserhof
+"""been"",""want""","Osaka, Japan",Reiserhof
+"""been""","Foz do Iguacu, Brazil",Reiserhof
+"""been""","Kyoto, Japan",Reiserhof
+"""been""","Mont-Saint-Michel, France",Reiserhof
+"""been""","Kobe, Japan",Reiserhof
+"""been""","Sapporo, Japan",Reiserhof
+"""been""","Hiroshima, Japan",Reiserhof
+"""been""","Mendocino, CA, USA",Reiserhof
+"""been""","Charlotte, NC, USA",Reiserhof
+"""been""","Cherokee, NC, USA",Reiserhof
+"""been""","Kennebunkport, ME, USA",Reiserhof
+"""been""","Sasebo, Japan",Reiserhof
+"""been""","Provincetown, MA, USA",Reiserhof
+"""been""","Kumamoto, Japan",Reiserhof
+"""been""","Kagoshima, Japan",Reiserhof
+"""been""","Tulsa, OK, USA",Reiserhof
+"""been""","Harrisburg, PA, USA",Reiserhof
+"""been""","Tijuana, Mexico",Reiserhof
+"""been""","Kuala Lumpur, Malaysia",Reiserhof
+"""been""","Lexington, KY, USA",Reiserhof
+"""been""","Banff, Alberta, Canada",Reiserhof
+"""been""","Dallas, TX, USA",Reiserhof
+"""been""","Nagoya, Japan",Reiserhof
+"""been""","Traverse City, MI, USA",Reiserhof
+"""been""","Naha, Japan",Reiserhof
+"""been""","Pacific Grove, CA, USA",Reiserhof
+"""been""","Acapulco, Mexico",Reiserhof
+"""been""","Waitomo Caves, New Zealand",Reiserhof
+"""been""","Palm Springs, CA, USA",Reiserhof
+"""been""","Palm Desert, CA, USA",Reiserhof
+"""been""","Palo Alto, CA, USA",Reiserhof
+"""been""","Takayama, Japan",Reiserhof
+"""been""","Jasper, Alberta, Canada",Reiserhof
+"""been""","Calgary, Alberta, Canada",Reiserhof
+"""been""","Lake Louise, Alberta, Canada",Reiserhof

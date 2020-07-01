@@ -1,0 +1,628 @@
+tag,place,user
+"""been""","Ghent, Belgium",Projournalist
+"""been""","Haifa, Israel",Projournalist
+"""been""","Frankfurt, Germany",Projournalist
+"""been""","Eilat, Israel",Projournalist
+"""been""","Amman, Jordan",Projournalist
+"""been""","Jerusalem, Israel",Projournalist
+"""been""","Bergen, Norway",Projournalist
+"""been""","Tel Aviv, Israel",Projournalist
+"""been""","Madaba, Jordan",Projournalist
+"""been""","Lanai City, HI, USA",Projournalist
+"""been""","Auckland Central, New Zealand",Projournalist
+"""been""","Rochester, NY, USA",Projournalist
+"""been""","Jerash, Jordan",Projournalist
+"""been""","New Orleans, LA, USA",Projournalist
+"""been""","Boston, MA, USA",Projournalist
+"""been""","Portsmouth, NH, USA",Projournalist
+"""been""","Melbourne, Australia",Projournalist
+"""been""","Honolulu, HI, USA",Projournalist
+"""been""","Pompano Beach, FL, USA",Projournalist
+"""been""","Cranston, RI, USA",Projournalist
+"""been""","Asheville, NC, USA",Projournalist
+"""been""","Colorado Springs, CO, USA",Projournalist
+"""been""","Houston, TX, USA",Projournalist
+"""been""","Oxford, UK",Projournalist
+"""been""","Soweto, South Africa",Projournalist
+"""been""","Hamburg, Germany",Projournalist
+"""been""","Potsdam, Germany",Projournalist
+"""been""","Avignon, France",Projournalist
+"""been""","Pretoria, South Africa",Projournalist
+"""been""","Sheffield, UK",Projournalist
+"""been""","Stoke-on-Trent, UK",Projournalist
+"""been""","Jacksonville, OR, USA",Projournalist
+"""been""","Aalborg, Denmark",Projournalist
+"""been""","Carthage, Tunisia",Projournalist
+"""been""","Muscat, Oman",Projournalist
+"""been""","Stavanger, Norway",Projournalist
+"""been""","Manama, Bahrain",Projournalist
+"""been""","Ocean City, NJ, USA",Projournalist
+"""been""","Beaune, France",Projournalist
+"""been""","Riyadh, Saudi Arabia",Projournalist
+"""been""","Tunis, Tunisia",Projournalist
+"""been""","Catskill, NY, USA",Projournalist
+"""been""","Lahaina, HI, USA",Projournalist
+"""been""","Seattle, WA, USA",Projournalist
+"""been""","Qufu, China",Projournalist
+"""been""","San Diego, CA, USA",Projournalist
+"""been""","Hana, HI, USA",Projournalist
+"""been""","Oro Valley, AZ, USA",Projournalist
+"""been""","Williamsburg, VA, USA",Projournalist
+"""been""","Cambria, CA, USA",Projournalist
+"""been""","Bath, UK",Projournalist
+"""been""","Coeur d'Alene, ID, USA",Projournalist
+"""been""","South Pasadena, CA, USA",Projournalist
+"""been""","Bruges, Belgium",Projournalist
+"""been""","Athens, Greece",Projournalist
+"""been""","Ostend, Belgium",Projournalist
+"""been""","Cape May, NJ, USA",Projournalist
+"""been""","Brussels, Belgium",Projournalist
+"""been""","Kiryat Shmona, Israel",Projournalist
+"""been""","Cambridge, UK",Projournalist
+"""been""","York, UK",Projournalist
+"""been""","Ventura, CA, USA",Projournalist
+"""been""","El Paso, TX, USA",Projournalist
+"""been""","Coronado, CA, USA",Projournalist
+"""been""","Carlsbad, NM, USA",Projournalist
+"""been""","Anaheim, CA, USA",Projournalist
+"""been""","Charlottesville, VA, USA",Projournalist
+"""been""","New York City, NY, USA",Projournalist
+"""been""","Omaha, NE, USA",Projournalist
+"""been""","Thurmont, MD, USA",Projournalist
+"""been""","Austin, TX, USA",Projournalist
+"""been""","Tallahassee, FL, USA",Projournalist
+"""been""","Chesapeake, VA, USA",Projournalist
+"""been""","Anchorage, AK, USA",Projournalist
+"""been""","Tampa, FL, USA",Projournalist
+"""been""","Rome, Italy",Projournalist
+"""been""","Solvang, CA, USA",Projournalist
+"""been""","Klamath Falls, OR, USA",Projournalist
+"""been""","Stockholm, Sweden",Projournalist
+"""been""","Miami Beach, FL, USA",Projournalist
+"""been""","Reykjavik, Iceland",Projournalist
+"""been""","Sonoma, CA, USA",Projournalist
+"""been""","Miami, FL, USA",Projournalist
+"""been""","Liege, Belgium",Projournalist
+"""been""","Berlin, Germany",Projournalist
+"""been""","Hanover, NH, USA",Projournalist
+"""been""","Aix-en-Provence, France",Projournalist
+"""been""","Atlanta, GA, USA",Projournalist
+"""been""","Richmond, VA, USA",Projournalist
+"""been""","Kailua, HI, USA",Projournalist
+"""been""","Tusayan, AZ, USA",Projournalist
+"""been""","Buena Park, CA, USA",Projournalist
+"""been""","Burbank, CA, USA",Projournalist
+"""been""","Cambridge, MA, USA",Projournalist
+"""been""","Wollongong, Australia",Projournalist
+"""been""","San Jose, Costa Rica",Projournalist
+"""been""","Johannesburg, South Africa",Projournalist
+"""been""","Reims, France",Projournalist
+"""been""","Lausanne, Switzerland",Projournalist
+"""been""","Homs, Syria",Projournalist
+"""been""","Palmyra, Syria",Projournalist
+"""been""","Montreux, Switzerland",Projournalist
+"""been""","Missoula, MT, USA",Projournalist
+"""been""","Hamilton, NJ, USA",Projournalist
+"""been""","Dayton, OH, USA",Projournalist
+"""been""","Memphis, TN, USA",Projournalist
+"""been""","Palm Beach, FL, USA",Projournalist
+"""been""","Cologne, Germany",Projournalist
+"""been""","Bonn, Germany",Projournalist
+"""been""","Dusseldorf, Germany",Projournalist
+"""been""","Depoe Bay, OR, USA",Projournalist
+"""been""","Tours, France",Projournalist
+"""been""","Marseille, France",Projournalist
+"""been""","Saint-Remy-de-Provence, France",Projournalist
+"""been""","Barcelona, Spain",Projournalist
+"""been""","Versailles, France",Projournalist
+"""been""","Paris, France",Projournalist
+"""been""","Taos, NM, USA",Projournalist
+"""been""","Gettysburg, PA, USA",Projournalist
+"""been""","Kanab, UT, USA",Projournalist
+"""been""","Hagatna, Mariana Islands",Projournalist
+"""been""","Philadelphia, PA, USA",Projournalist
+"""been""","Tangier Island, VA, USA",Projournalist
+"""been""","Amsterdam, The Netherlands",Projournalist
+"""been""","Laguna Beach, CA, USA",Projournalist
+"""been""","Chamonix, France",Projournalist
+"""been""","Hershey, PA, USA",Projournalist
+"""been""","Annecy, France",Projournalist
+"""been""","Tempe, AZ, USA",Projournalist
+"""been""","Haarlem, The Netherlands",Projournalist
+"""been""","Lyon, France",Projournalist
+"""been""","Half Moon Bay, CA, USA",Projournalist
+"""been""","Rhodes Town, Greece",Projournalist
+"""been""","Zurich, Switzerland",Projournalist
+"""been""","Poughkeepsie, NY, USA",Projournalist
+"""been""","La Canada Flintridge, CA, USA",Projournalist
+"""been""","Morgantown, WV, USA",Projournalist
+"""been""","Telluride, CO, USA",Projournalist
+"""been""","La Jolla, CA, USA",Projournalist
+"""been""","Holbrook, AZ, USA",Projournalist
+"""been""","Hannover, Germany",Projournalist
+"""been""","Dijon, France",Projournalist
+"""been""","Nice, France",Projournalist
+"""been""","Orlando, FL, USA",Projournalist
+"""been""","Gothenburg, Sweden",Projournalist
+"""been""","Toledo, Spain",Projournalist
+"""been""","Stratford-upon-Avon, UK",Projournalist
+"""been""","Guatemala City, Guatemala",Projournalist
+"""been""","Wailea, HI, USA",Projournalist
+"""been""","Roanoke, VA, USA",Projournalist
+"""been""","Sedona, AZ, USA",Projournalist
+"""been""","Scottsdale, AZ, USA",Projournalist
+"""been""","Montalcino, Italy",Projournalist
+"""been""","Chartres, France",Projournalist
+"""been""","Copenhagen, Denmark",Projournalist
+"""been""","Allentown, PA, USA",Projournalist
+"""been""","Reno, NV, USA",Projournalist
+"""been""","Gaithersburg, MD, USA",Projournalist
+"""been""","Washington DC, DC, USA",Projournalist
+"""been""","Windham, NY, USA",Projournalist
+"""been""","Frederick, MD, USA",Projournalist
+"""been""","Cambridge, MD, USA",Projournalist
+"""been""","Hunter, NY, USA",Projournalist
+"""been""","Winterthur, DE, USA",Projournalist
+"""been""","Colonia Valdense, Uruguay",Projournalist
+"""been""","Wilmington, DE, USA",Projournalist
+"""been""","Delray Beach, FL, USA",Projournalist
+"""been""","Mykonos Town, Greece",Projournalist
+"""been""","Lourdes, France",Projournalist
+"""been""","Stuttgart, Germany",Projournalist
+"""been""","Buenos Aires, Argentina",Projournalist
+"""been""","Toulouse, France",Projournalist
+"""been""","Charles Town, WV, USA",Projournalist
+"""been""","Lille, France",Projournalist
+"""been""","Berchtesgaden, Germany",Projournalist
+"""been""","Giza, Egypt",Projournalist
+"""been""","Cairo, Egypt",Projournalist
+"""been""","Adana, Turkey",Projournalist
+"""been""","Myrtle Beach, SC, USA",Projournalist
+"""been""","Luxembourg City, Luxembourg",Projournalist
+"""been""","Minsk, Belarus",Projournalist
+"""been""","Luxor, Egypt",Projournalist
+"""been""","Auckland, New Zealand",Projournalist
+"""been""","Oslo, Norway",Projournalist
+"""been""","Montepulciano, Italy",Projournalist
+"""been""","Tirana, Albania",Projournalist
+"""been""","Grand Rapids, MI, USA",Projournalist
+"""been""","Jeddah, Saudi Arabia",Projournalist
+"""been""","Tromso, Norway",Projournalist
+"""been""","Volterra, Italy",Projournalist
+"""been""","Daytona Beach, FL, USA",Projournalist
+"""been""","Seaford, DE, USA",Projournalist
+"""been""","Detroit, MI, USA",Projournalist
+"""been""","Newark, DE, USA",Projournalist
+"""been""","Rehoboth Beach, DE, USA",Projournalist
+"""been""","Caen, France",Projournalist
+"""been""","Ocean View, DE, USA",Projournalist
+"""been""","Deauville City, France",Projournalist
+"""been""","Limoges, France",Projournalist
+"""been""","Valletta, Malta",Projournalist
+"""been""","Zagreb, Croatia",Projournalist
+"""been""","Beijing, China",Projournalist
+"""been""","Sofia, Bulgaria",Projournalist
+"""been""","Zahle, Lebanon",Projournalist
+"""been""","Carlsbad Caverns National Park, NM, USA",Projournalist
+"""been""","Hong Kong, China",Projournalist
+"""been""","Innsbruck, Austria",Projournalist
+"""been""","Bucharest, Romania",Projournalist
+"""been""","Bryce Canyon National Park, UT, USA",Projournalist
+"""been""","Chisinau, Moldova",Projournalist
+"""been""","Dubai, United Arab Emirates",Projournalist
+"""been""","Ocean City, MD, USA",Projournalist
+"""been""","Ottawa, Ontario, Canada",Projournalist
+"""been""","Salzburg, Austria",Projournalist
+"""been""","Oxon Hill, MD, USA",Projournalist
+"""been""","Warwick, RI, USA",Projournalist
+"""been""","Babelsberg, Germany",Projournalist
+"""been""","Ithaca, NY, USA",Projournalist
+"""been""","Salt Lake City, UT, USA",Projournalist
+"""been""","Milford, DE, USA",Projournalist
+"""been""","Carcassonne Center, France",Projournalist
+"""been""","Milton, DE, USA",Projournalist
+"""been""","Montpellier, France",Projournalist
+"""been""","Millsboro, DE, USA",Projournalist
+"""been""","Trier, Germany",Projournalist
+"""been""","Nimes, France",Projournalist
+"""been""","Saarbrucken, Germany",Projournalist
+"""been""","Sarajevo, Bosnia and Herzegovina",Projournalist
+"""been""","Dresden, Germany",Projournalist
+"""been""","Perpignan, France",Projournalist
+"""been""","Hagerstown, MD, USA",Projournalist
+"""been""","Bursa, Turkey",Projournalist
+"""been""","Acre, Israel",Projournalist
+"""been""","Canakkale, Turkey",Projournalist
+"""been""","Arad, Israel",Projournalist
+"""been""","Kusadasi, Turkey",Projournalist
+"""been""","Church Creek, MD, USA",Projournalist
+"""been""","Jamaica, NY, USA",Projournalist
+"""been""","Ushuaia, Argentina",Projournalist
+"""been""","Beaufort, SC, USA",Projournalist
+"""been""","Savannah, GA, USA",Projournalist
+"""been""","Hoboken, NJ, USA",Projournalist
+"""been""","Portland, ME, USA",Projournalist
+"""been""","Vienna, Austria",Projournalist
+"""been""","Ashkelon, Israel",Projournalist
+"""been""","Afula, Israel",Projournalist
+"""been""","Baltimore, MD, USA",Projournalist
+"""been""","Albuquerque, NM, USA",Projournalist
+"""been""","Metulla, Israel",Projournalist
+"""been""","Santa Monica, CA, USA",Projournalist
+"""been""","Clearwater, FL, USA",Projournalist
+"""been""","Nancy, France",Projournalist
+"""been""","Lewes, DE, USA",Projournalist
+"""been""","Metz, France",Projournalist
+"""been""","Laurel, DE, USA",Projournalist
+"""been""","Sergiyev Posad, Russia",Projournalist
+"""been""","Crater Lake National Park, OR, USA",Projournalist
+"""been""","Nashville, TN, USA",Projournalist
+"""been""","Heidelberg, Germany",Projournalist
+"""been""","Karlsruhe, Germany",Projournalist
+"""been""","San Salvador, El Salvador",Projournalist
+"""been""","Herzliya, Israel",Projournalist
+"""been""","Kyiv (Kiev), Ukraine",Projournalist
+"""been""","Beersheba, Israel",Projournalist
+"""been""","Goreme, Turkey",Projournalist
+"""been""","Caesarea, Israel",Projournalist
+"""been""","Bar Harbor, ME, USA",Projournalist
+"""been""","Managua, Nicaragua",Projournalist
+"""been""","Ein Gedi, Israel",Projournalist
+"""been""","Fredericksburg, VA, USA",Projournalist
+"""been""","Red Bank, NJ, USA",Projournalist
+"""been""","Providence, RI, USA",Projournalist
+"""been""","Brooklyn, NY, USA",Projournalist
+"""been""","Vancouver, WA, USA",Projournalist
+"""been""","Jaffa, Israel",Projournalist
+"""been""","Dimona, Israel",Projournalist
+"""been""","Templeton, CA, USA",Projournalist
+"""been""","Clermont-Ferrand, France",Projournalist
+"""been""","Santa Barbara, CA, USA",Projournalist
+"""been""","Culpeper, VA, USA",Projournalist
+"""been""","Lucerne, Switzerland",Projournalist
+"""been""","Georgetown, DE, USA",Projournalist
+"""been""","Lisbon, Portugal",Projournalist
+"""been""","Kuwait City, Kuwait",Projournalist
+"""been""","Nahariya, Israel",Projournalist
+"""been""","Nablus, Palestinian Territories",Projournalist
+"""been""","Nazareth, Israel",Projournalist
+"""been""","Netanya, Israel",Projournalist
+"""been""","Diyarbakir, Turkey",Projournalist
+"""been""","Jersey City, NJ, USA",Projournalist
+"""been""","San Antonio, TX, USA",Projournalist
+"""been""","Santa Fe, NM, USA",Projournalist
+"""been""","Syracuse, NY, USA",Projournalist
+"""been""","Doha, Qatar",Projournalist
+"""been""","Tillamook, OR, USA",Projournalist
+"""been""","Beverly Hills, CA, USA",Projournalist
+"""been""","Andorra la Vella, Andorra",Projournalist
+"""been""","San Francisco, CA, USA",Projournalist
+"""been""","Page, AZ, USA",Projournalist
+"""been""","Tucson, AZ, USA",Projournalist
+"""been""","Susanville, CA, USA",Projournalist
+"""been""","Berkeley Springs, WV, USA",Projournalist
+"""been""","Timmins, Ontario, Canada",Projournalist
+"""been""","Toronto, Ontario, Canada",Projournalist
+"""been""","Durango, CO, USA",Projournalist
+"""been""","Berkeley, CA, USA",Projournalist
+"""been""","Panama City, Panama",Projournalist
+"""been""","Dewey Beach, DE, USA",Projournalist
+"""been""","San Simeon, CA, USA",Projournalist
+"""been""","Delmar, DE, USA",Projournalist
+"""been""","Pamukkale, Turkey",Projournalist
+"""been""","Petah Tiqwa, Israel",Projournalist
+"""been""","Jericho, Palestinian Territories",Projournalist
+"""been""","Cancun, Mexico",Projournalist
+"""been""","Mexico City, Mexico",Projournalist
+"""been""","Spokane, WA, USA",Projournalist
+"""been""","Lehavot Habashan, Israel",Projournalist
+"""been""","Dover, DE, USA",Projournalist
+"""been""","Pienza, Italy",Projournalist
+"""been""","Crisfield, MD, USA",Projournalist
+"""been""","Basel, Switzerland",Projournalist
+"""been""","Sanaa, Yemen",Projournalist
+"""been""","Abu Dhabi, United Arab Emirates",Projournalist
+"""been""","Safed, Israel",Projournalist
+"""been""","Cumberland, MD, USA",Projournalist
+"""been""","Tarrytown, NY, USA",Projournalist
+"""been""","Tiberias, Israel",Projournalist
+"""been""","Nassau, Bahamas",Projournalist
+"""been""","Orvieto, Italy",Projournalist
+"""been""","Berlin, MD, USA",Projournalist
+"""been""","Volcano, HI, USA",Projournalist
+"""been""","Paradise Island, Bahamas",Projournalist
+"""been""","Luray, VA, USA",Projournalist
+"""been""","Harpers Ferry, WV, USA",Projournalist
+"""been""","Moab, UT, USA",Projournalist
+"""been""","Kissimmee, FL, USA",Projournalist
+"""been""","San Jose, CA, USA",Projournalist
+"""been""","Carmel, CA, USA",Projournalist
+"""been""","Denver, CO, USA",Projournalist
+"""been""","Rouen, France",Projournalist
+"""been""","Shanghai, China",Projournalist
+"""been""","Manchester, VT, USA",Projournalist
+"""been""","San Marino, CA, USA",Projournalist
+"""been""","Cape Canaveral, FL, USA",Projournalist
+"""been""","Colmar, France",Projournalist
+"""been""","San Luis Obispo, CA, USA",Projournalist
+"""been""","St. Augustine, FL, USA",Projournalist
+"""been""","Strasbourg, France",Projournalist
+"""been""","Rosh Pina, Israel",Projournalist
+"""been""","Nantes, France",Projournalist
+"""been""","Damascus, Syria",Projournalist
+"""been""","Bordeaux, France",Projournalist
+"""been""","Newark, NJ, USA",Projournalist
+"""been""","Fair Lawn, NJ, USA",Projournalist
+"""been""","St. Petersburg, Russia",Projournalist
+"""been""","Singapore, Singapore",Projournalist
+"""been""","Trondheim, Norway",Projournalist
+"""been""","Cape Town Central, South Africa",Projournalist
+"""been""","Kaliningrad, Russia",Projournalist
+"""been""","Larnaca, Cyprus",Projournalist
+"""been""","Chianciano Terme, Italy",Projournalist
+"""been""","Hai Phong, Vietnam",Projournalist
+"""been""","Cortez, CO, USA",Projournalist
+"""been""","Newport, RI, USA",Projournalist
+"""been""","Port-au-Prince, Haiti",Projournalist
+"""been""","Buffalo, NY, USA",Projournalist
+"""been""","Montreal, Quebec, Canada",Projournalist
+"""been""","Quebec City, Quebec, Canada",Projournalist
+"""been""","Cooperstown, NY, USA",Projournalist
+"""been""","Charleston, SC, USA",Projournalist
+"""been""","West Hollywood, CA, USA",Projournalist
+"""been""","Flagstaff, AZ, USA",Projournalist
+"""been""","Big Sur, CA, USA",Projournalist
+"""been""","Port Saint Lucie, FL, USA",Projournalist
+"""been""","Burlington, VT, USA",Projournalist
+"""been""","Tacoma, WA, USA",Projournalist
+"""been""","Fort Lauderdale, FL, USA",Projournalist
+"""been""","Bern, Switzerland",Projournalist
+"""been""","Geneva, Switzerland",Projournalist
+"""been""","Fujairah, United Arab Emirates",Projournalist
+"""been""","Albany, NY, USA",Projournalist
+"""been""","Jaisalmer, India",Projournalist
+"""been""","Westminster, MD, USA",Projournalist
+"""been""","Gaspe, Quebec, Canada",Projournalist
+"""been""","Ra'anana, Israel",Projournalist
+"""been""","Kennebunkport, ME, USA",Projournalist
+"""been""","Fenwick Island, DE, USA",Projournalist
+"""been""","Redding, CA, USA",Projournalist
+"""been""","Dallas, TX, USA",Projournalist
+"""been""","Irbid, Jordan",Projournalist
+"""been""","Montauk, NY, USA",Projournalist
+"""been""","Bluff, UT, USA",Projournalist
+"""been""","Irkutsk, Russia",Projournalist
+"""been""","Sharm El Sheikh, Egypt",Projournalist
+"""been""","Siena, Italy",Projournalist
+"""been""","San Gimignano, Italy",Projournalist
+"""been""","Taba, Egypt",Projournalist
+"""been""","Saint Paul, MN, USA",Projournalist
+"""been""","Assisi, Italy",Projournalist
+"""been""","Arezzo, Italy",Projournalist
+"""been""","Perugia, Italy",Projournalist
+"""been""","Potomac, MD, USA",Projournalist
+"""been""","San Juan, Puerto Rico",Projournalist
+"""been""","Long Island City, NY, USA",Projournalist
+"""been""","Ontario, CA, USA",Projournalist
+"""been""","Rancho Mirage, CA, USA",Projournalist
+"""been""","Ojai, CA, USA",Projournalist
+"""been""","Budapest, Hungary",Projournalist
+"""been""","Chelyabinsk, Russia",Projournalist
+"""been""","Timberline Lodge, OR, USA",Projournalist
+"""been""","Ankara, Turkey",Projournalist
+"""been""","Chambersburg, PA, USA",Projournalist
+"""been""","Princess Anne, MD, USA",Projournalist
+"""been""","Interlaken, Switzerland",Projournalist
+"""been""","Moosonee, Ontario, Canada",Projournalist
+"""been""","Omsk, Russia",Projournalist
+"""been""","Agra, India",Projournalist
+"""been""","Bryce, UT, USA",Projournalist
+"""been""","Oakland, CA, USA",Projournalist
+"""been""","Pittsburgh, PA, USA",Projournalist
+"""been""","Ashland, OR, USA",Projournalist
+"""been""","Harrisonburg, VA, USA",Projournalist
+"""been""","Atlantic Beach, NC, USA",Projournalist
+"""been""","Alexandria, Egypt",Projournalist
+"""been""","Rapid City, SD, USA",Projournalist
+"""been""","Amherst, MA, USA",Projournalist
+"""been""","Jinan, China",Projournalist
+"""been""","Lanham, MD, USA",Projournalist
+"""been""","Ashdod, Israel",Projournalist
+"""been""","Lugano, Switzerland",Projournalist
+"""been""","Yekaterinburg, Russia",Projournalist
+"""been""","Dalian, China",Projournalist
+"""been""","Zermatt, Switzerland",Projournalist
+"""been""","Kinshasa, Democratic Republic of the Congo",Projournalist
+"""been""","Hampton, VA, USA",Projournalist
+"""been""","Kislovodsk, Russia",Projournalist
+"""been""","Georgetown, Guyana",Projournalist
+"""been""","Cork, Ireland",Projournalist
+"""been""","Guangzhou, China",Projournalist
+"""been""","Guilin, China",Projournalist
+"""been""","Rockville, MD, USA",Projournalist
+"""been""","Dublin, Ireland",Projournalist
+"""been""","Mont-Saint-Michel, France",Projournalist
+"""been""","Manarola, Italy",Projournalist
+"""been""","Millville, DE, USA",Projournalist
+"""been""","Tijuana, Mexico",Projournalist
+"""been""","Atlantic City, NJ, USA",Projournalist
+"""been""","Taif, Saudi Arabia",Projournalist
+"""been""","Duck, NC, USA",Projournalist
+"""been""","Caracas, Venezuela",Projournalist
+"""been""","Seoul, South Korea",Projournalist
+"""been""","Galveston, TX, USA",Projournalist
+"""been""","Bogota, Colombia",Projournalist
+"""been""","Tbilisi, Georgia",Projournalist
+"""been""","Warsaw, Poland",Projournalist
+"""been""","Riomaggiore, Italy",Projournalist
+"""been""","Monterosso al Mare, Italy",Projournalist
+"""been""","Osaka, Japan",Projournalist
+"""been""","Killarney, Ireland",Projournalist
+"""been""","Saint Mary's City, MD, USA",Projournalist
+"""been""","Easton, MD, USA",Projournalist
+"""been""","La Spezia, Italy",Projournalist
+"""been""","St. Michaels, MD, USA",Projournalist
+"""been""","Salisbury, MD, USA",Projournalist
+"""been""","Bethesda, MD, USA",Projournalist
+"""been""","Las Vegas, NV, USA",Projournalist
+"""been""","Elkridge, MD, USA",Projournalist
+"""been""","Bishopville, MD, USA",Projournalist
+"""been""","Boca Raton, FL, USA",Projournalist
+"""been""","Durham, NC, USA",Projournalist
+"""been""","South Pole, Antarctica",Projournalist
+"""been""","Fairfax, VA, USA",Projournalist
+"""been""","Gdansk, Poland",Projournalist
+"""been""","Riga, Latvia",Projournalist
+"""been""","Katzrin, Golan Heights",Projournalist
+"""been""","Portland, OR, USA",Projournalist
+"""been""","Banff, Alberta, Canada",Projournalist
+"""been""","Calgary, Alberta, Canada",Projournalist
+"""been""","Lake Louise, Alberta, Canada",Projournalist
+"""been""","Hamilton, Bermuda",Projournalist
+"""been""","Karmiel, Israel",Projournalist
+"""been""","Manila, Philippines",Projournalist
+"""been""","Jasper, Alberta, Canada",Projournalist
+"""been""","Montgomery, AL, USA",Projournalist
+"""been""","Snow Hill, MD, USA",Projournalist
+"""been""","Vilnius, Lithuania",Projournalist
+"""been""","Minneapolis, MN, USA",Projournalist
+"""been""","Kansas City, MO, USA",Projournalist
+"""been""","Prospect, OR, USA",Projournalist
+"""been""","Holon, Israel",Projournalist
+"""been""","Tallinn, Estonia",Projournalist
+"""been""","Bangor, ME, USA",Projournalist
+"""been""","Aqaba, Jordan",Projournalist
+"""been""","Assateague Island, MD, USA",Projournalist
+"""been""","Sarasota, FL, USA",Projournalist
+"""been""","Edinburgh, UK",Projournalist
+"""been""","Wilmington, NC, USA",Projournalist
+"""been""","Worcester, MA, USA",Projournalist
+"""been""","Prague, Czech Republic",Projournalist
+"""been""","Paradise Harbour, Antarctica",Projournalist
+"""been""","Norfolk, VA, USA",Projournalist
+"""been""","Hilo, HI, USA",Projournalist
+"""been""","Malibu, CA, USA",Projournalist
+"""been""","Erie, PA, USA",Projournalist
+"""been""","West Palm Beach, FL, USA",Projournalist
+"""been""","Havana, Cuba",Projournalist
+"""been""","Fiumicino, Italy",Projournalist
+"""been""","Glasgow, UK",Projournalist
+"""been""","St. Petersburg, FL, USA",Projournalist
+"""been""","St. Andrews, UK",Projournalist
+"""been""","Izmir, Turkey",Projournalist
+"""been""","Lancaster, PA, USA",Projournalist
+"""been""","Taipei, Taiwan",Projournalist
+"""been""","Monument Valley, UT, USA",Projournalist
+"""been""","Bangkok, Thailand",Projournalist
+"""been""","Chiang Mai, Thailand",Projournalist
+"""been""","Ascension Island, Africa",Projournalist
+"""been""","Virginia Beach, VA, USA",Projournalist
+"""been""","Siem Reap, Cambodia",Projournalist
+"""been""","Newport Beach, CA, USA",Projournalist
+"""been""","Arlington, VA, USA",Projournalist
+"""been""","Los Olivos, CA, USA",Projournalist
+"""been""","Bethany Beach, DE, USA",Projournalist
+"""been""","Cesme, Turkey",Projournalist
+"""been""","Moscow, Russia",Projournalist
+"""been""","Limerick, Ireland",Projournalist
+"""been""","Hanoi, Vietnam",Projournalist
+"""been""","Puerto Penasco, Mexico",Projournalist
+"""been""","Los Angeles, CA, USA",Projournalist
+"""been""","Pismo Beach, CA, USA",Projournalist
+"""been""","Chicago, IL, USA",Projournalist
+"""been""","Annapolis, MD, USA",Projournalist
+"""been""","Almaty, Kazakhstan",Projournalist
+"""been""","Fresno, CA, USA",Projournalist
+"""been""","Cleveland, OH, USA",Projournalist
+"""been""","Mumbai, India",Projournalist
+"""been""","Raleigh, NC, USA",Projournalist
+"""been""","Atascadero, CA, USA",Projournalist
+"""been""","Lake George, NY, USA",Projournalist
+"""been""","Baku, Azerbaijan",Projournalist
+"""been""","Waterford, Ireland",Projournalist
+"""been""","Yerevan, Armenia",Projournalist
+"""been""","Hyannis, MA, USA",Projournalist
+"""been""","New Delhi, India",Projournalist
+"""been""","Vancouver, British Columbia, Canada",Projournalist
+"""been""","Victoria, British Columbia, Canada",Projournalist
+"""been""","Phoenix, AZ, USA",Projournalist
+"""been""","Jackson, WY, USA",Projournalist
+"""been""","New Haven, CT, USA",Projournalist
+"""been""","Moose Factory, Ontario, Canada",Projournalist
+"""been""","Alexandria, VA, USA",Projournalist
+"""been""","Long Beach, CA, USA",Projournalist
+"""been""","Napa, CA, USA",Projournalist
+"""been""","Niagara Falls, NY, USA",Projournalist
+"""been""","Bear Mountain, NY, USA",Projournalist
+"""been""","Gander, Newfoundland and Labrador, Canada",Projournalist
+"""been""","Hatta, United Arab Emirates",Projournalist
+"""been""","Emerald Isle, NC, USA",Projournalist
+"""been""","Florence, Italy",Projournalist
+"""been""","Columbus, OH, USA",Projournalist
+"""been""","Beit She'an, Israel",Projournalist
+"""been""","Pisa, Italy",Projournalist
+"""been""","Windhoek, Namibia",Projournalist
+"""been""","Phnom Penh, Cambodia",Projournalist
+"""been""","Malmo, Sweden",Projournalist
+"""been""","Bishkek, Kyrgyzstan",Projournalist
+"""been""","Park City, UT, USA",Projournalist
+"""been""","Cummington, MA, USA",Projournalist
+"""been""","Halifax, Nova Scotia, Canada",Projournalist
+"""been""","Bondi, Australia",Projournalist
+"""been""","Sacramento, CA, USA",Projournalist
+"""been""","Mount Shasta, CA, USA",Projournalist
+"""been""","Huntington Beach, CA, USA",Projournalist
+"""been""","Mystic, CT, USA",Projournalist
+"""been""","Cortona, Italy",Projournalist
+"""been""","Marmaris, Turkey",Projournalist
+"""been""","The Hague, The Netherlands",Projournalist
+"""been""","Rotterdam, The Netherlands",Projournalist
+"""been""","Keflavik, Iceland",Projournalist
+"""been""","London, UK",Projournalist
+"""been""","Liverpool, UK",Projournalist
+"""been""","Antwerp, Belgium",Projournalist
+"""been""","Augusta, GA, USA",Projournalist
+"""been""","Morehead City, NC, USA",Projournalist
+"""been""","Ulaanbaatar, Mongolia",Projournalist
+"""been""","Oklahoma City, OK, USA",Projournalist
+"""been""","Munich, Germany",Projournalist
+"""been""","Algiers, Algeria",Projournalist
+"""been""","Narita, Japan",Projournalist
+"""been""","Springdale, UT, USA",Projournalist
+"""been""","Paso Robles, CA, USA",Projournalist
+"""been""","Morro Bay, CA, USA",Projournalist
+"""been""","Petra - Wadi Musa, Jordan",Projournalist
+"""been""","Kill Devil Hills, NC, USA",Projournalist
+"""been""","Leonardsville, NY, USA",Projournalist
+"""been""","Monterey, CA, USA",Projournalist
+"""been""","Mont Tremblant, Quebec, Canada",Projournalist
+"""been""","Edirne, Turkey",Projournalist
+"""been""","Pasadena, CA, USA",Projournalist
+"""been""","Harrisburg, PA, USA",Projournalist
+"""been""","Madrid, Spain",Projournalist
+"""been""","Dushanbe, Tajikistan",Projournalist
+"""been""","Helsinki, Finland",Projournalist
+"""been""","Hanover, PA, USA",Projournalist
+"""been""","Tashkent, Uzbekistan",Projournalist
+"""been""","Ashgabat, Turkmenistan",Projournalist
+"""been""","Provincetown, MA, USA",Projournalist
+"""been""","Niagara Falls, Ontario, Canada",Projournalist
+"""been""","Tomsk, Russia",Projournalist
+"""been""","Nags Head, NC, USA",Projournalist
+"""been""","Venice, Italy",Projournalist
+"""been""","Chapel Hill, NC, USA",Projournalist
+"""been""","Kitty Hawk, NC, USA",Projournalist
+"""been""","Palo Alto, CA, USA",Projournalist
+"""been""","Leipzig, Germany",Projournalist
+"""been""","Palm Springs, CA, USA",Projournalist
+"""been""","Carlisle, PA, USA",Projournalist
+"""been""","Istanbul, Turkey",Projournalist
+"""been""","Fes, Morocco",Projournalist
+"""been""","New Bern, NC, USA",Projournalist
+"""been""","Rabat, Morocco",Projournalist
+"""been""","Bethlehem, Palestinian Territories",Projournalist
+"""been""","Selcuk, Turkey",Projournalist
+"""been""","Oxford, MD, USA",Projournalist
+"""been""","Rishon Lezion, Israel",Projournalist
+"""been""","Samarkand, Uzbekistan",Projournalist
+"""been""","Tokyo, Japan",Projournalist

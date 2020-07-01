@@ -1,0 +1,718 @@
+tag,place,user
+"""been""","Newark, NJ, USA",DianneRoberson
+"""been""","Coeur d'Alene, ID, USA",DianneRoberson
+"""been""","Jacksonville Beach, FL, USA",DianneRoberson
+"""been""","Englewood, FL, USA",DianneRoberson
+"""been""","Hot Springs, AR, USA",DianneRoberson
+"""been""","Newport, RI, USA",DianneRoberson
+"""been""","Boone, NC, USA",DianneRoberson
+"""been""","Niagara Falls, Ontario, Canada",DianneRoberson
+"""been""","London, Ontario, Canada",DianneRoberson
+"""been""","Mississauga, Ontario, Canada",DianneRoberson
+"""been""","Buffalo, NY, USA",DianneRoberson
+"""been""","Flagstaff, AZ, USA",DianneRoberson
+"""been""","Columbia, MO, USA",DianneRoberson
+"""been""","Guarulhos, Brazil",DianneRoberson
+"""been""","Hood River, OR, USA",DianneRoberson
+"""been""","Murfreesboro, TN, USA",DianneRoberson
+"""been""","Kingston, Ontario, Canada",DianneRoberson
+"""been""","Anaheim, CA, USA",DianneRoberson
+"""been""","Pompano Beach, FL, USA",DianneRoberson
+"""been""","Colonia del Sacramento, Uruguay",DianneRoberson
+"""been""","Uvita, Costa Rica",DianneRoberson
+"""been""","Pigeon Forge, TN, USA",DianneRoberson
+"""been""","Tokyo, Japan",DianneRoberson
+"""been""","Grand Forks, ND, USA",DianneRoberson
+"""been""","Jupiter, FL, USA",DianneRoberson
+"""been""","Houston, TX, USA",DianneRoberson
+"""been""","Bakersfield, CA, USA",DianneRoberson
+"""been""","Dana Point, CA, USA",DianneRoberson
+"""been""","Port Saint Joe, FL, USA",DianneRoberson
+"""been""","St. Helena, CA, USA",DianneRoberson
+"""been""","Jaco, Costa Rica",DianneRoberson
+"""been""","Everglades City, FL, USA",DianneRoberson
+"""been""","Treasure Island, FL, USA",DianneRoberson
+"""been""","Colorado Springs, CO, USA",DianneRoberson
+"""been""","Rosemont, IL, USA",DianneRoberson
+"""been""","Rockford, IL, USA",DianneRoberson
+"""want""","Munich, Germany",DianneRoberson
+"""been""","Indian Shores, FL, USA",DianneRoberson
+"""been""","Miami, FL, USA",DianneRoberson
+"""been""","Balneario Camboriu, Brazil",DianneRoberson
+"""been""","Indian Rocks Beach, FL, USA",DianneRoberson
+"""been"",""fave""","Rio de Janeiro, Brazil",DianneRoberson
+"""been""","Poipu, HI, USA",DianneRoberson
+"""been""","Miami Beach, FL, USA",DianneRoberson
+"""been""","Boston, MA, USA",DianneRoberson
+"""been""","Asheville, NC, USA",DianneRoberson
+"""been""","New Orleans, LA, USA",DianneRoberson
+"""been""","Blowing Rock, NC, USA",DianneRoberson
+"""been""","Honolulu, HI, USA",DianneRoberson
+"""been""","Fish Creek, WI, USA",DianneRoberson
+"""been""","Tarpon Springs, FL, USA",DianneRoberson
+"""been""","Quepos, Costa Rica",DianneRoberson
+"""been""","East Hampton, NY, USA",DianneRoberson
+"""been""","McAllen, TX, USA",DianneRoberson
+"""been""","Des Moines, IA, USA",DianneRoberson
+"""been""","Williamsburg, VA, USA",DianneRoberson
+"""been""","South San Francisco, CA, USA",DianneRoberson
+"""been""","Tavernier, FL, USA",DianneRoberson
+"""been""","Calistoga, CA, USA",DianneRoberson
+"""been""","Winchester, VA, USA",DianneRoberson
+"""been""","Wailuku, HI, USA",DianneRoberson
+"""been""","Davenport, IA, USA",DianneRoberson
+"""been""","Seattle, WA, USA",DianneRoberson
+"""been""","Yellowstone National Park, WY, USA",DianneRoberson
+"""been""","Lahaina, HI, USA",DianneRoberson
+"""been""","Skagway, AK, USA",DianneRoberson
+"""been""","Alpharetta, GA, USA",DianneRoberson
+"""been""","Halifax, Nova Scotia, Canada",DianneRoberson
+"""been""","Elizabeth, NJ, USA",DianneRoberson
+"""been""","Syracuse, NY, USA",DianneRoberson
+"""been""","Kailua-Kona, HI, USA",DianneRoberson
+"""been""","Cincinnati, OH, USA",DianneRoberson
+"""been""","Sao Paulo, Brazil",DianneRoberson
+"""been""","Seward, AK, USA",DianneRoberson
+"""been""","West End, Honduras",DianneRoberson
+"""been""","Jersey City, NJ, USA",DianneRoberson
+"""been""","San Diego, CA, USA",DianneRoberson
+"""been""","Anchorage, AK, USA",DianneRoberson
+"""want""","Wellington, New Zealand",DianneRoberson
+"""been""","Mesa, AZ, USA",DianneRoberson
+"""been""","Duluth, MN, USA",DianneRoberson
+"""been""","Wasilla, AK, USA",DianneRoberson
+"""been""","Leavenworth, WA, USA",DianneRoberson
+"""been""","Charlottesville, VA, USA",DianneRoberson
+"""been""","Long Beach, WA, USA",DianneRoberson
+"""been""","Port Townsend, WA, USA",DianneRoberson
+"""been""","Solvang, CA, USA",DianneRoberson
+"""been""","Austin, TX, USA",DianneRoberson
+"""been""","Tallahassee, FL, USA",DianneRoberson
+"""been""","Melbourne, FL, USA",DianneRoberson
+"""been""","Chesapeake, VA, USA",DianneRoberson
+"""been""","Tampa, FL, USA",DianneRoberson
+"""been""","Franklin, TN, USA",DianneRoberson
+"""been""","Perdido Key, FL, USA",DianneRoberson
+"""been""","San Jose, Costa Rica",DianneRoberson
+"""been""","Pensacola, FL, USA",DianneRoberson
+"""been""","Costa Mesa, CA, USA",DianneRoberson
+"""been""","Pagosa Springs, CO, USA",DianneRoberson
+"""been""","Belem, Brazil",DianneRoberson
+"""been""","St. George, UT, USA",DianneRoberson
+"""been""","Escondido, CA, USA",DianneRoberson
+"""been""","Breckenridge, CO, USA",DianneRoberson
+"""been""","Blue Ridge, GA, USA",DianneRoberson
+"""been""","El Paso, TX, USA",DianneRoberson
+"""been""","Ventura, CA, USA",DianneRoberson
+"""been""","Little Rock, AR, USA",DianneRoberson
+"""been""","Wisconsin Dells, WI, USA",DianneRoberson
+"""been""","Springfield, IL, USA",DianneRoberson
+"""been""","St. John's, Newfoundland and Labrador, Canada",DianneRoberson
+"""been""","Puerto Aventuras, Mexico",DianneRoberson
+"""been""","Omaha, NE, USA",DianneRoberson
+"""been""","Cedar City, UT, USA",DianneRoberson
+"""been""","Saint John, New Brunswick, Canada",DianneRoberson
+"""been""","New York City, NY, USA",DianneRoberson
+"""been""","Boulder City, NV, USA",DianneRoberson
+"""been""","Praia da Pipa, Brazil",DianneRoberson
+"""been""","Cambridge, MA, USA",DianneRoberson
+"""been""","Flushing, NY, USA",DianneRoberson
+"""been""","Staunton, VA, USA",DianneRoberson
+"""been""","Watkins Glen, NY, USA",DianneRoberson
+"""been""","Irving, TX, USA",DianneRoberson
+"""been""","Moncton, New Brunswick, Canada",DianneRoberson
+"""been""","Banner Elk, NC, USA",DianneRoberson
+"""been""","Burbank, CA, USA",DianneRoberson
+"""been""","Burlingame, CA, USA",DianneRoberson
+"""been""","Panama City Beach, FL, USA",DianneRoberson
+"""been""","Arlington, TX, USA",DianneRoberson
+"""been""","Ketchikan, AK, USA",DianneRoberson
+"""been""","Tusayan, AZ, USA",DianneRoberson
+"""been""","Grand Lake, CO, USA",DianneRoberson
+"""been""","Grand Junction, CO, USA",DianneRoberson
+"""been""","Eureka, CA, USA",DianneRoberson
+"""been""","Buena Vista, CO, USA",DianneRoberson
+"""been""","Panama City, FL, USA",DianneRoberson
+"""been""","Buena Park, CA, USA",DianneRoberson
+"""want""","Frankfurt, Germany",DianneRoberson
+"""been""","Half Moon Bay, CA, USA",DianneRoberson
+"""been""","Mont Tremblant, Quebec, Canada",DianneRoberson
+"""been""","Atlanta, GA, USA",DianneRoberson
+"""been""","Lincoln City, OR, USA",DianneRoberson
+"""been""","Lincoln, NE, USA",DianneRoberson
+"""been""","Princeton, NJ, USA",DianneRoberson
+"""been""","Woodstock, VT, USA",DianneRoberson
+"""been""","Jamaica, NY, USA",DianneRoberson
+"""been""","Richmond, VA, USA",DianneRoberson
+"""been""","Ithaca, NY, USA",DianneRoberson
+"""been""","Glenwood Springs, CO, USA",DianneRoberson
+"""been""","Memphis, TN, USA",DianneRoberson
+"""been""","Boulder, CO, USA",DianneRoberson
+"""been""","Palm Coast, FL, USA",DianneRoberson
+"""been""","Juneau, AK, USA",DianneRoberson
+"""been""","Bellevue, WA, USA",DianneRoberson
+"""been""","Lake Havasu City, AZ, USA",DianneRoberson
+"""been""","Madeira Beach, FL, USA",DianneRoberson
+"""been""","Palm Beach, FL, USA",DianneRoberson
+"""been"",""fave""","Homer, AK, USA",DianneRoberson
+"""been""","Playa Maroma, Mexico",DianneRoberson
+"""been""","Port Clinton, OH, USA",DianneRoberson
+"""been""","La Jolla, CA, USA",DianneRoberson
+"""been""","Siesta Key, FL, USA",DianneRoberson
+"""been""","Orlando, FL, USA",DianneRoberson
+"""been""","Telluride, CO, USA",DianneRoberson
+"""been""","Ormond Beach, FL, USA",DianneRoberson
+"""been""","Hawley, PA, USA",DianneRoberson
+"""been""","Bethlehem, PA, USA",DianneRoberson
+"""been""","Bradenton, FL, USA",DianneRoberson
+"""been""","Death Valley Junction, CA, USA",DianneRoberson
+"""been""","Playa Samara, Costa Rica",DianneRoberson
+"""been""","Point Pleasant Beach, NJ, USA",DianneRoberson
+"""been""","Dayton, OH, USA",DianneRoberson
+"""been""","Ocean City, MD, USA",DianneRoberson
+"""been""","Mammoth Lakes, CA, USA",DianneRoberson
+"""been""","Playa Conchal, Costa Rica",DianneRoberson
+"""been""","Detroit, MI, USA",DianneRoberson
+"""been""","Bellingham, WA, USA",DianneRoberson
+"""been""","Playas del Coco, Costa Rica",DianneRoberson
+"""been""","Frisco, CO, USA",DianneRoberson
+"""been""","Tempe, AZ, USA",DianneRoberson
+"""been""","Laguna Beach, CA, USA",DianneRoberson
+"""been""","Vail, CO, USA",DianneRoberson
+"""been""","Bloomington, IN, USA",DianneRoberson
+"""been""","Groveland, CA, USA",DianneRoberson
+"""been""","El Segundo, CA, USA",DianneRoberson
+"""been""","Amarillo, TX, USA",DianneRoberson
+"""been""","Dahlonega, GA, USA",DianneRoberson
+"""been""","Allentown, PA, USA",DianneRoberson
+"""been""","Steamboat Springs, CO, USA",DianneRoberson
+"""been""","Winter Haven, FL, USA",DianneRoberson
+"""been""","Cheyenne, WY, USA",DianneRoberson
+"""been""","Ixtapa, Mexico",DianneRoberson
+"""want""","Bowness-on-Windermere, UK",DianneRoberson
+"""been""","Whitefish, MT, USA",DianneRoberson
+"""been""","Sturgeon Bay, WI, USA",DianneRoberson
+"""been""","Dearborn, MI, USA",DianneRoberson
+"""been""","Gettysburg, PA, USA",DianneRoberson
+"""been""","Grand Rapids, MI, USA",DianneRoberson
+"""been""","Philadelphia, PA, USA",DianneRoberson
+"""been""","Hershey, PA, USA",DianneRoberson
+"""been""","Tamarindo, Costa Rica",DianneRoberson
+"""been""","Fort Collins, CO, USA",DianneRoberson
+"""been""","Girdwood, AK, USA",DianneRoberson
+"""been""","Columbus, GA, USA",DianneRoberson
+"""been""","Manhattan Beach, CA, USA",DianneRoberson
+"""been""","Campinas, Brazil",DianneRoberson
+"""been""","Campos Do Jordao, Brazil",DianneRoberson
+"""been""","Hudson, NY, USA",DianneRoberson
+"""been""","Anna Maria, FL, USA",DianneRoberson
+"""been""","Reno, NV, USA",DianneRoberson
+"""been""","Teton Village, WY, USA",DianneRoberson
+"""been""","Cody, WY, USA",DianneRoberson
+"""been""","Cahuita, Costa Rica",DianneRoberson
+"""been""","Kansas City, MO, USA",DianneRoberson
+"""been""","Tortuguero, Costa Rica",DianneRoberson
+"""been""","Marina del Rey, CA, USA",DianneRoberson
+"""been""","Roanoke, VA, USA",DianneRoberson
+"""been""","Scottsdale, AZ, USA",DianneRoberson
+"""been""","Newport News, VA, USA",DianneRoberson
+"""been""","Snowmass Village, CO, USA",DianneRoberson
+"""been""","Sedona, AZ, USA",DianneRoberson
+"""been""","Deadwood, SD, USA",DianneRoberson
+"""been""","Manchester, NH, USA",DianneRoberson
+"""been""","Bretton Woods, NH, USA",DianneRoberson
+"""been""","Surfside Beach, SC, USA",DianneRoberson
+"""been""","Bronx, NY, USA",DianneRoberson
+"""been""","Fargo, ND, USA",DianneRoberson
+"""been""","Daytona Beach, FL, USA",DianneRoberson
+"""been""","El Calafate, Argentina",DianneRoberson
+"""been""","Hollywood, FL, USA",DianneRoberson
+"""been""","Rio Quente, Brazil",DianneRoberson
+"""been""","Itacare, Brazil",DianneRoberson
+"""been""","Bombinhas, Brazil",DianneRoberson
+"""been""","Wilmington, DE, USA",DianneRoberson
+"""been""","Osoyoos, British Columbia, Canada",DianneRoberson
+"""been""","Holmes Beach, FL, USA",DianneRoberson
+"""been""","Deerfield Beach, FL, USA",DianneRoberson
+"""been""","Ushuaia, Argentina",DianneRoberson
+"""been""","Delray Beach, FL, USA",DianneRoberson
+"""been""","The Woodlands, TX, USA",DianneRoberson
+"""been""","Staten Island, NY, USA",DianneRoberson
+"""been""","Lincoln, NH, USA",DianneRoberson
+"""been""","Charleston, WV, USA",DianneRoberson
+"""been""","Mount Pocono, PA, USA",DianneRoberson
+"""been""","Puerto Escondido, Mexico",DianneRoberson
+"""been""","Florence, SC, USA",DianneRoberson
+"""been""","Saratoga Springs, NY, USA",DianneRoberson
+"""been""","Frederick, MD, USA",DianneRoberson
+"""been""","Washington DC, DC, USA",DianneRoberson
+"""been""","Crystal River, FL, USA",DianneRoberson
+"""been""","Newark, DE, USA",DianneRoberson
+"""been""","Davenport, FL, USA",DianneRoberson
+"""been""","Rehoboth Beach, DE, USA",DianneRoberson
+"""been""","San Carlos de Bariloche, Argentina",DianneRoberson
+"""been""","Salem, OR, USA",DianneRoberson
+"""been""","Folly Beach, SC, USA",DianneRoberson
+"""been""","San Martin de los Andes, Argentina",DianneRoberson
+"""been""","Mount Pleasant, SC, USA",DianneRoberson
+"""been""","Villa La Angostura, Argentina",DianneRoberson
+"""been""","Keystone, SD, USA",DianneRoberson
+"""been""","Dania Beach, FL, USA",DianneRoberson
+"""been""","Sevierville, TN, USA",DianneRoberson
+"""been""","Myrtle Beach, SC, USA",DianneRoberson
+"""been""","Green Bay, WI, USA",DianneRoberson
+"""been""","Murrells Inlet, SC, USA",DianneRoberson
+"""been""","Waynesville, NC, USA",DianneRoberson
+"""been""","Ocean Isle Beach, NC, USA",DianneRoberson
+"""been""","Kaohsiung, Taiwan",DianneRoberson
+"""been""","Sausalito, CA, USA",DianneRoberson
+"""been""","Torrance, CA, USA",DianneRoberson
+"""been""","Coral Gables, FL, USA",DianneRoberson
+"""been""","Louisville, KY, USA",DianneRoberson
+"""been""","Seaside, OR, USA",DianneRoberson
+"""been""","Kitchener, Ontario, Canada",DianneRoberson
+"""been""","Portland, ME, USA",DianneRoberson
+"""been""","Taichung, Taiwan",DianneRoberson
+"""been"",""fave""","Helen, GA, USA",DianneRoberson
+"""been""","Longboat Key, FL, USA",DianneRoberson
+"""been""","Jacksonville, FL, USA",DianneRoberson
+"""been""","Astoria, OR, USA",DianneRoberson
+"""been""","Corpus Christi, TX, USA",DianneRoberson
+"""been""","Salt Lake City, UT, USA",DianneRoberson
+"""been""","Tunica, MS, USA",DianneRoberson
+"""been""","Macon, GA, USA",DianneRoberson
+"""been""","Port Angeles, WA, USA",DianneRoberson
+"""been""","San Luis Potosi, Mexico",DianneRoberson
+"""been""","La Fortuna de San Carlos, Costa Rica",DianneRoberson
+"""been""","Jackson, NH, USA",DianneRoberson
+"""been""","Missoula, MT, USA",DianneRoberson
+"""been""","Stateline, NV, USA",DianneRoberson
+"""been""","West Yellowstone, MT, USA",DianneRoberson
+"""been""","Drake Bay, Costa Rica",DianneRoberson
+"""been""","Lauderdale-By-The-Sea, FL, USA",DianneRoberson
+"""been""","Buenos Aires, Argentina",DianneRoberson
+"""been""","Clermont, FL, USA",DianneRoberson
+"""been""","Santa Monica, CA, USA",DianneRoberson
+"""been""","Clearwater, FL, USA",DianneRoberson
+"""been""","North Myrtle Beach, SC, USA",DianneRoberson
+"""been""","North Charleston, SC, USA",DianneRoberson
+"""been""","Mar del Plata, Argentina",DianneRoberson
+"""been""","South Bend, IN, USA",DianneRoberson
+"""been""","Lewes, DE, USA",DianneRoberson
+"""been""","Santa Rosa, CA, USA",DianneRoberson
+"""been""","Beaufort, SC, USA",DianneRoberson
+"""been""","Collingwood, Ontario, Canada",DianneRoberson
+"""been""","Greenville, SC, USA",DianneRoberson
+"""been""","Huntsville, Ontario, Canada",DianneRoberson
+"""been""","SeaTac, WA, USA",DianneRoberson
+"""been""","Tyler, TX, USA",DianneRoberson
+"""been""","Cocoa Beach, FL, USA",DianneRoberson
+"""been""","Nashville, TN, USA",DianneRoberson
+"""been""","Queretaro City, Mexico",DianneRoberson
+"""been""","Hong Kong, China",DianneRoberson
+"""been""","Rosario, Argentina",DianneRoberson
+"""been""","Savannah, GA, USA",DianneRoberson
+"""been""","Dover, DE, USA",DianneRoberson
+"""been""","Dewey Beach, DE, USA",DianneRoberson
+"""been""","Albuquerque, NM, USA",DianneRoberson
+"""been""","Overland Park, KS, USA",DianneRoberson
+"""been""","Puerto Iguazu, Argentina",DianneRoberson
+"""been""","Petrified Forest National Park, AZ, USA",DianneRoberson
+"""been""","Baltimore, MD, USA",DianneRoberson
+"""been""","Hampton, NH, USA",DianneRoberson
+"""been""","Lakeland, FL, USA",DianneRoberson
+"""been""","Beverly Hills, CA, USA",DianneRoberson
+"""been""","Santa Cruz, CA, USA",DianneRoberson
+"""been""","Grand Canyon National Park, AZ, USA",DianneRoberson
+"""been""","Ocala, FL, USA",DianneRoberson
+"""been""","Santa Ana, CA, USA",DianneRoberson
+"""been""","Santa Clara, CA, USA",DianneRoberson
+"""been""","Rockport, TX, USA",DianneRoberson
+"""been""","Santa Barbara, CA, USA",DianneRoberson
+"""been""","Lexington, VA, USA",DianneRoberson
+"""been""","Lubbock, TX, USA",DianneRoberson
+"""been""","Bar Harbor, ME, USA",DianneRoberson
+"""been""","Brooklyn, NY, USA",DianneRoberson
+"""been""","Cape May, NJ, USA",DianneRoberson
+"""been""","Providence, RI, USA",DianneRoberson
+"""been""","Fairbanks, AK, USA",DianneRoberson
+"""been""","Cape Coral, FL, USA",DianneRoberson
+"""been""","Crescent City, CA, USA",DianneRoberson
+"""been""","Estes Park, CO, USA",DianneRoberson
+"""been""","Fredericksburg, VA, USA",DianneRoberson
+"""been"",""fave""","Vancouver, WA, USA",DianneRoberson
+"""been""","Nuevo Vallarta, Mexico",DianneRoberson
+"""been""","Nosara, Costa Rica",DianneRoberson
+"""been""","South Padre Island, TX, USA",DianneRoberson
+"""want""","Las Palmas de Gran Canaria, Spain",DianneRoberson
+"""been""","Cedar Key, FL, USA",DianneRoberson
+"""been""","Schaumburg, IL, USA",DianneRoberson
+"""been""","San Simeon, CA, USA",DianneRoberson
+"""been""","Valdosta, GA, USA",DianneRoberson
+"""been""","Celebration, FL, USA",DianneRoberson
+"""want""","Nice, France",DianneRoberson
+"""been""","Gainesville, FL, USA",DianneRoberson
+"""been""","Berkeley, CA, USA",DianneRoberson
+"""been""","Tahoe City, CA, USA",DianneRoberson
+"""been""","Killington, VT, USA",DianneRoberson
+"""want""","Prague, Czech Republic",DianneRoberson
+"""been""","Spokane, WA, USA",DianneRoberson
+"""been""","Santa Fe, NM, USA",DianneRoberson
+"""been""","San Francisco, CA, USA",DianneRoberson
+"""been""","San Antonio, TX, USA",DianneRoberson
+"""been""","Redwood National Park, CA, USA",DianneRoberson
+"""been""","Salem, MA, USA",DianneRoberson
+"""been""","Tucson, AZ, USA",DianneRoberson
+"""been""","Ocean City, NJ, USA",DianneRoberson
+"""been""","Carlsbad, CA, USA",DianneRoberson
+"""been""","Hopkins, Belize",DianneRoberson
+"""been""","Carmel, CA, USA",DianneRoberson
+"""been""","San Jose, CA, USA",DianneRoberson
+"""been""","Desert Hot Springs, CA, USA",DianneRoberson
+"""been""","Fort Myers, FL, USA",DianneRoberson
+"""been""","New Smyrna Beach, FL, USA",DianneRoberson
+"""been""","Portsmouth, NH, USA",DianneRoberson
+"""been""","San Luis Obispo, CA, USA",DianneRoberson
+"""been""","Manchester, VT, USA",DianneRoberson
+"""been""","Denver, CO, USA",DianneRoberson
+"""been""","Cape Canaveral, FL, USA",DianneRoberson
+"""been""","Plano, TX, USA",DianneRoberson
+"""been""","Santa Teresa, Costa Rica",DianneRoberson
+"""been""","Palmer, AK, USA",DianneRoberson
+"""been""","Knoxville, TN, USA",DianneRoberson
+"""been""","Fort Myers Beach, FL, USA",DianneRoberson
+"""been""","Montevideo, Uruguay",DianneRoberson
+"""been""","Fort Walton Beach, FL, USA",DianneRoberson
+"""been""","Guatemala City, Guatemala",DianneRoberson
+"""been""","Waikoloa, HI, USA",DianneRoberson
+"""been""","Ocean Shores, WA, USA",DianneRoberson
+"""been""","Fernandina Beach, FL, USA",DianneRoberson
+"""been""","Sitka, AK, USA",DianneRoberson
+"""been""","Moab, UT, USA",DianneRoberson
+"""been""","Greensboro, NC, USA",DianneRoberson
+"""been""","Luray, VA, USA",DianneRoberson
+"""been""","Rochester, NY, USA",DianneRoberson
+"""been""","Geneva, NY, USA",DianneRoberson
+"""been""","Gatlinburg, TN, USA",DianneRoberson
+"""been""","Bryson City, NC, USA",DianneRoberson
+"""been""","Port Saint Lucie, FL, USA",DianneRoberson
+"""been""","Bismarck, ND, USA",DianneRoberson
+"""been""","New Braunfels, TX, USA",DianneRoberson
+"""been""","Charleston, SC, USA",DianneRoberson
+"""been""","North Vancouver, British Columbia, Canada",DianneRoberson
+"""been""","Townsend, TN, USA",DianneRoberson
+"""been""","Chandler, AZ, USA",DianneRoberson
+"""been""","Cooperstown, NY, USA",DianneRoberson
+"""been""","Tacoma, WA, USA",DianneRoberson
+"""been""","Naples, FL, USA",DianneRoberson
+"""been""","Kiawah Island, SC, USA",DianneRoberson
+"""been""","Crested Butte, CO, USA",DianneRoberson
+"""been""","Port Aransas, TX, USA",DianneRoberson
+"""been""","Burlington, VT, USA",DianneRoberson
+"""been""","Fort Lauderdale, FL, USA",DianneRoberson
+"""been""","West Hollywood, CA, USA",DianneRoberson
+"""been""","Punta Gorda, FL, USA",DianneRoberson
+"""been""","Salta, Argentina",DianneRoberson
+"""been""","Del Mar, CA, USA",DianneRoberson
+"""been""","San Clemente, CA, USA",DianneRoberson
+"""been""","Las Cruces, NM, USA",DianneRoberson
+"""been""","Orange, CA, USA",DianneRoberson
+"""been""","Regina, Saskatchewan, Canada",DianneRoberson
+"""been""","Charlotte, NC, USA",DianneRoberson
+"""been""","Saskatoon, Saskatchewan, Canada",DianneRoberson
+"""been""","Cherokee, NC, USA",DianneRoberson
+"""been""","Kitty Hawk, NC, USA",DianneRoberson
+"""been""","Rancho Mirage, CA, USA",DianneRoberson
+"""been""","Chapel Hill, NC, USA",DianneRoberson
+"""been""","Tuscaloosa, AL, USA",DianneRoberson
+"""been""","Ontario, CA, USA",DianneRoberson
+"""want""","Porto, Portugal",DianneRoberson
+"""been""","Milton, NY, USA",DianneRoberson
+"""been""","Whitehorse, Yukon, Canada",DianneRoberson
+"""been""","Lexington, KY, USA",DianneRoberson
+"""been""","Jackson, MS, USA",DianneRoberson
+"""been""","Fortaleza, Brazil",DianneRoberson
+"""been""","Springfield, MO, USA",DianneRoberson
+"""been""","Tepoztlan, Mexico",DianneRoberson
+"""been""","Provincetown, MA, USA",DianneRoberson
+"""been""","Pensacola Beach, FL, USA",DianneRoberson
+"""been""","Quebec City, Quebec, Canada",DianneRoberson
+"""been""","Kill Devil Hills, NC, USA",DianneRoberson
+"""been""","Oceanside, CA, USA",DianneRoberson
+"""been""","Dallas, TX, USA",DianneRoberson
+"""been""","Orange Beach, AL, USA",DianneRoberson
+"""been""","Montreal, Quebec, Canada",DianneRoberson
+"""been""","Oakland, CA, USA",DianneRoberson
+"""been""","Marietta, GA, USA",DianneRoberson
+"""been""","Plymouth, MA, USA",DianneRoberson
+"""been""","Fayetteville, NC, USA",DianneRoberson
+"""been""","Albany, NY, USA",DianneRoberson
+"""been""","Slidell, LA, USA",DianneRoberson
+"""been""","Tulum, Mexico",DianneRoberson
+"""been""","Arraial d'Ajuda, Brazil",DianneRoberson
+"""been""","Morro de Sao Paulo, Brazil",DianneRoberson
+"""been""","Merida, Mexico",DianneRoberson
+"""been""","Bowling Green, KY, USA",DianneRoberson
+"""been""","Rockwell, NC, USA",DianneRoberson
+"""been""","Ruidoso, NM, USA",DianneRoberson
+"""been""","Ashland, OR, USA",DianneRoberson
+"""been""","Huntsville, AL, USA",DianneRoberson
+"""been""","Windsor, Ontario, Canada",DianneRoberson
+"""been""","Atlantic Beach, NC, USA",DianneRoberson
+"""been""","Ogunquit, ME, USA",DianneRoberson
+"""been"",""fave""","Laval, Quebec, Canada",DianneRoberson
+"""been""","Atlantic City, NJ, USA",DianneRoberson
+"""been""","Carolina Beach, NC, USA",DianneRoberson
+"""been""","Oakhurst, CA, USA",DianneRoberson
+"""been""","Old Orchard Beach, ME, USA",DianneRoberson
+"""been""","Camden, ME, USA",DianneRoberson
+"""been""","Oaxaca, Mexico",DianneRoberson
+"""been""","Shreveport, LA, USA",DianneRoberson
+"""been""","San Cristobal de las Casas, Mexico",DianneRoberson
+"""been""","Veracruz, Mexico",DianneRoberson
+"""been""","Mexico City, Mexico",DianneRoberson
+"""been""","Lenox, MA, USA",DianneRoberson
+"""been"",""fave""","Chichen Itza, Mexico",DianneRoberson
+"""been""","Macau, China",DianneRoberson
+"""been""","Fort Worth, TX, USA",DianneRoberson
+"""been""","New Hope, PA, USA",DianneRoberson
+"""been""","Lake Placid, NY, USA",DianneRoberson
+"""been""","Niagara Falls, NY, USA",DianneRoberson
+"""been""","Toronto, Ontario, Canada",DianneRoberson
+"""been""","Lynchburg, VA, USA",DianneRoberson
+"""been""","Stratford, Ontario, Canada",DianneRoberson
+"""been""","Milwaukee, WI, USA",DianneRoberson
+"""been""","South Haven, MI, USA",DianneRoberson
+"""been""","Gulfport, MS, USA",DianneRoberson
+"""been""","Eagle River, AK, USA",DianneRoberson
+"""been""","Fredericksburg, TX, USA",DianneRoberson
+"""been""","Miramar Beach, FL, USA",DianneRoberson
+"""been""","Managua, Nicaragua",DianneRoberson
+"""been""","San Salvador, El Salvador",DianneRoberson
+"""been""","Rapid City, SD, USA",DianneRoberson
+"""been""","Hampton, VA, USA",DianneRoberson
+"""been""","Waco, TX, USA",DianneRoberson
+"""been""","Sao Luis, Brazil",DianneRoberson
+"""been""","Raleigh, NC, USA",DianneRoberson
+"""been""","Pittsburgh, PA, USA",DianneRoberson
+"""been""","Belo Horizonte, Brazil",DianneRoberson
+"""been""","Harrisonburg, VA, USA",DianneRoberson
+"""been""","Freeport, ME, USA",DianneRoberson
+"""been""","Lafayette, IN, USA",DianneRoberson
+"""been""","Nashville, IN, USA",DianneRoberson
+"""been""","Bonita Springs, FL, USA",DianneRoberson
+"""been""","Boothbay Harbor, ME, USA",DianneRoberson
+"""been""","Armacao dos Buzios, Brazil",DianneRoberson
+"""been""","Punta del Este, Uruguay",DianneRoberson
+"""been""","Bozeman, MT, USA",DianneRoberson
+"""been""","Galveston, TX, USA",DianneRoberson
+"""been""","Montgomery, AL, USA",DianneRoberson
+"""been""","Playa Mujeres, Mexico",DianneRoberson
+"""been""","New Paltz, NY, USA",DianneRoberson
+"""been""","Mata de Sao Joao, Brazil",DianneRoberson
+"""been""","Galena, IL, USA",DianneRoberson
+"""been""","Big Pine Key, FL, USA",DianneRoberson
+"""been""","South Yarmouth, MA, USA",DianneRoberson
+"""been""","Canela, Brazil",DianneRoberson
+"""been""","Parksville, British Columbia, Canada",DianneRoberson
+"""been""","Boca Raton, FL, USA",DianneRoberson
+"""been""","Fort Wayne, IN, USA",DianneRoberson
+"""been""","Bethel, AK, USA",DianneRoberson
+"""been""","Toledo, OH, USA",DianneRoberson
+"""been""","Billings, MT, USA",DianneRoberson
+"""been""","Winston Salem, NC, USA",DianneRoberson
+"""been""","College Station, TX, USA",DianneRoberson
+"""been""","Beach Haven, NJ, USA",DianneRoberson
+"""been""","San Marcos, TX, USA",DianneRoberson
+"""been""","Hendersonville, NC, USA",DianneRoberson
+"""been""","Wrightsville Beach, NC, USA",DianneRoberson
+"""been""","Mobile, AL, USA",DianneRoberson
+"""been"",""fave""","Stone Mountain, GA, USA",DianneRoberson
+"""been""","Pocos de Caldas, Brazil",DianneRoberson
+"""been""","Porto Seguro, Brazil",DianneRoberson
+"""been""","Bangor, ME, USA",DianneRoberson
+"""been""","Salvador, Brazil",DianneRoberson
+"""been""","Big Sur, CA, USA",DianneRoberson
+"""been""","San Juan, Puerto Rico",DianneRoberson
+"""been""","Portland, OR, USA",DianneRoberson
+"""been""","Golden, British Columbia, Canada",DianneRoberson
+"""been""","South of the Border, SC, USA",DianneRoberson
+"""been""","Wilmington, NC, USA",DianneRoberson
+"""been""","Indianapolis, IN, USA",DianneRoberson
+"""been""","Great Falls, MT, USA",DianneRoberson
+"""been""","Ouarzazate, Morocco",DianneRoberson
+"""been""","Maggie Valley, NC, USA",DianneRoberson
+"""been""","Boise, ID, USA",DianneRoberson
+"""been""","Duck Key, FL, USA",DianneRoberson
+"""been""","Dunedin, FL, USA",DianneRoberson
+"""been""","Ocho Rios, Jamaica",DianneRoberson
+"""been""","Antigua, Guatemala",DianneRoberson
+"""been""","St. Petersburg, FL, USA",DianneRoberson
+"""been""","Eugene, OR, USA",DianneRoberson
+"""been""","St. Pete Beach, FL, USA",DianneRoberson
+"""been""","Maceio, Brazil",DianneRoberson
+"""been""","Sunny Isles Beach, FL, USA",DianneRoberson
+"""been""","Bethany Beach, DE, USA",DianneRoberson
+"""been""","Florence, OR, USA",DianneRoberson
+"""been""","Puerto Vallarta, Mexico",DianneRoberson
+"""been""","Annapolis, MD, USA",DianneRoberson
+"""been""","Sardinal, Costa Rica",DianneRoberson
+"""been""","Minneapolis, MN, USA",DianneRoberson
+"""been""","Biloxi, MS, USA",DianneRoberson
+"""been""","Manzanillo, Mexico",DianneRoberson
+"""been""","Mazatlan, Mexico",DianneRoberson
+"""want""","Belle Mare, Africa",DianneRoberson
+"""been""","Acapulco, Mexico",DianneRoberson
+"""been""","Akumal, Mexico",DianneRoberson
+"""been""","West Palm Beach, FL, USA",DianneRoberson
+"""been""","Punta de Mita, Mexico",DianneRoberson
+"""been""","Norfolk, VA, USA",DianneRoberson
+"""been""","Malibu, CA, USA",DianneRoberson
+"""been""","Birmingham, AL, USA",DianneRoberson
+"""been""","Newport, OR, USA",DianneRoberson
+"""been""","Bonito, Brazil",DianneRoberson
+"""been""","Chicago, IL, USA",DianneRoberson
+"""been""","Los Angeles, CA, USA",DianneRoberson
+"""been""","Fresno, CA, USA",DianneRoberson
+"""been""","Bandon, OR, USA",DianneRoberson
+"""been""","Erie, PA, USA",DianneRoberson
+"""been""","Aspen, CO, USA",DianneRoberson
+"""been""","Porto de Galinhas, Brazil",DianneRoberson
+"""been""","Bossier City, LA, USA",DianneRoberson
+"""want""","Malia, Greece",DianneRoberson
+"""been""","Frankenmuth, MI, USA",DianneRoberson
+"""been""","Secaucus, NJ, USA",DianneRoberson
+"""been""","Tijuana, Mexico",DianneRoberson
+"""been""","Garden Grove, CA, USA",DianneRoberson
+"""been""","Monte Verde, Brazil",DianneRoberson
+"""been""","Saint Augustine Beach, FL, USA",DianneRoberson
+"""been""","Durham, NC, USA",DianneRoberson
+"""been""","Virginia Beach, VA, USA",DianneRoberson
+"""been""","Mahahual, Mexico",DianneRoberson
+"""been""","Arlington, VA, USA",DianneRoberson
+"""been""","Lancaster, PA, USA",DianneRoberson
+"""been""","Long Beach, CA, USA",DianneRoberson
+"""been""","Fernie, British Columbia, Canada",DianneRoberson
+"""been""","Venice, FL, USA",DianneRoberson
+"""been""","Alexandria, VA, USA",DianneRoberson
+"""been""","Bend, OR, USA",DianneRoberson
+"""been""","Napa, CA, USA",DianneRoberson
+"""been""","Indio, CA, USA",DianneRoberson
+"""been""","La Paz, Mexico",DianneRoberson
+"""been""","Loreto, Mexico",DianneRoberson
+"""been""","Las Vegas, NV, USA",DianneRoberson
+"""been""","Wildwood, NJ, USA",DianneRoberson
+"""been"",""fave""","Rosarito, Mexico",DianneRoberson
+"""been""","Laughlin, NV, USA",DianneRoberson
+"""been"",""fave""","Manaus, Brazil",DianneRoberson
+"""been""","Vero Beach, FL, USA",DianneRoberson
+"""been""","Bethesda, MD, USA",DianneRoberson
+"""been""","Ensenada, Mexico",DianneRoberson
+"""been""","Monument Valley, UT, USA",DianneRoberson
+"""been""","Incline Village, NV, USA",DianneRoberson
+"""been""","Recife, Brazil",DianneRoberson
+"""been""","Irvine, CA, USA",DianneRoberson
+"""been""","Pismo Beach, CA, USA",DianneRoberson
+"""been""","Prescott, AZ, USA",DianneRoberson
+"""been""","Grants Pass, OR, USA",DianneRoberson
+"""been""","Huntington Beach, CA, USA",DianneRoberson
+"""want""","Milan, Italy",DianneRoberson
+"""been""","Sioux Falls, SD, USA",DianneRoberson
+"""been""","Sacramento, CA, USA",DianneRoberson
+"""been""","Cleveland, OH, USA",DianneRoberson
+"""been""","Mystic, CT, USA",DianneRoberson
+"""been""","Henderson, NV, USA",DianneRoberson
+"""been""","Lafayette, LA, USA",DianneRoberson
+"""been""","Lake Charles, LA, USA",DianneRoberson
+"""been""","Brewster, MA, USA",DianneRoberson
+"""been""","Baton Rouge, LA, USA",DianneRoberson
+"""been""","Jackson, WY, USA",DianneRoberson
+"""been""","Gulf Shores, AL, USA",DianneRoberson
+"""been""","New Haven, CT, USA",DianneRoberson
+"""been""","Phoenix, AZ, USA",DianneRoberson
+"""been""","Fort Bragg, CA, USA",DianneRoberson
+"""been""","Gramado, Brazil",DianneRoberson
+"""been""","Yuma, AZ, USA",DianneRoberson
+"""been""","Rincon, Puerto Rico",DianneRoberson
+"""been""","Morro Bay, CA, USA",DianneRoberson
+"""been""","Brunswick, GA, USA",DianneRoberson
+"""been""","Puebla, Mexico",DianneRoberson
+"""been""","Winnipeg, Manitoba, Canada",DianneRoberson
+"""been""","Gloucester, MA, USA",DianneRoberson
+"""been""","Augusta, GA, USA",DianneRoberson
+"""been""","Puerto Penasco, Mexico",DianneRoberson
+"""been""","Lake Geneva, WI, USA",DianneRoberson
+"""been""","Mackinaw City, MI, USA",DianneRoberson
+"""been""","Vernon, British Columbia, Canada",DianneRoberson
+"""been""","Wichita, KS, USA",DianneRoberson
+"""been""","Park City, UT, USA",DianneRoberson
+"""been""","Playa Paraiso, Mexico",DianneRoberson
+"""been""","Cannon Beach, OR, USA",DianneRoberson
+"""been""","Appleton, WI, USA",DianneRoberson
+"""been""","Riverside, CA, USA",DianneRoberson
+"""been""","Monterey, CA, USA",DianneRoberson
+"""been""","Corolla, NC, USA",DianneRoberson
+"""been""","Porto Alegre, Brazil",DianneRoberson
+"""been""","Pasadena, CA, USA",DianneRoberson
+"""been""","Williams, AZ, USA",DianneRoberson
+"""been""","San Ignacio, Belize",DianneRoberson
+"""been""","Joao Pessoa, Brazil",DianneRoberson
+"""been""","Winter Park, CO, USA",DianneRoberson
+"""been""","Placencia, Belize",DianneRoberson
+"""been""","Chattanooga, TN, USA",DianneRoberson
+"""been""","Columbus, OH, USA",DianneRoberson
+"""been""","Taipei, Taiwan",DianneRoberson
+"""been""","Tainan, Taiwan",DianneRoberson
+"""been""","Tofino, British Columbia, Canada",DianneRoberson
+"""been""","Vancouver, British Columbia, Canada",DianneRoberson
+"""been""","Springdale, UT, USA",DianneRoberson
+"""been""","Penticton, British Columbia, Canada",DianneRoberson
+"""been""","Saint Paul, MN, USA",DianneRoberson
+"""been""","Nanaimo, British Columbia, Canada",DianneRoberson
+"""been""","Sheboygan, WI, USA",DianneRoberson
+"""been""","San Jose del Cabo, Mexico",DianneRoberson
+"""been""","Cabo San Lucas, Mexico",DianneRoberson
+"""been""","Long Island City, NY, USA",DianneRoberson
+"""been""","Paso Robles, CA, USA",DianneRoberson
+"""been""","Mashantucket, CT, USA",DianneRoberson
+"""been""","Oklahoma City, OK, USA",DianneRoberson
+"""been""","Mojave, CA, USA",DianneRoberson
+"""been""","Palm Desert, CA, USA",DianneRoberson
+"""been""","San Pedro, Belize",DianneRoberson
+"""been""","Palm Springs, CA, USA",DianneRoberson
+"""been""","Ann Arbor, MI, USA",DianneRoberson
+"""want""","Dublin, Ireland",DianneRoberson
+"""been""","Palo Alto, CA, USA",DianneRoberson
+"""been""","Kamloops, British Columbia, Canada",DianneRoberson
+"""want""","Forio, Italy",DianneRoberson
+"""been"",""fave""","Belize City, Belize",DianneRoberson
+"""want""","Ischia, Italy",DianneRoberson
+"""been""","Concord, NC, USA",DianneRoberson
+"""want""","Moscow, Russia",DianneRoberson
+"""been""","Edgartown, MA, USA",DianneRoberson
+"""been""","South Lake Tahoe, CA, USA",DianneRoberson
+"""been""","Grapevine, TX, USA",DianneRoberson
+"""been""","Wimberley, TX, USA",DianneRoberson
+"""been""","Hartford, CT, USA",DianneRoberson
+"""been""","Tulsa, OK, USA",DianneRoberson
+"""want""","Bologna, Italy",DianneRoberson
+"""been""","Oxnard, CA, USA",DianneRoberson
+"""been""","Harrisburg, PA, USA",DianneRoberson
+"""been""","Redding, CA, USA",DianneRoberson
+"""been""","Athens, GA, USA",DianneRoberson
+"""been""","Redondo Beach, CA, USA",DianneRoberson
+"""been""","Rockport, MA, USA",DianneRoberson
+"""been""","Curitiba, Brazil",DianneRoberson
+"""been""","Foz do Iguacu, Brazil",DianneRoberson
+"""been""","Brasilia, Brazil",DianneRoberson
+"""been""","Bloomington, MN, USA",DianneRoberson
+"""been""","New Buffalo, MI, USA",DianneRoberson
+"""been""","Calgary, Alberta, Canada",DianneRoberson
+"""been""","Cuernavaca, Mexico",DianneRoberson
+"""been""","Edmonton, Alberta, Canada",DianneRoberson
+"""been""","Guadalajara, Mexico",DianneRoberson
+"""been""","Banff, Alberta, Canada",DianneRoberson
+"""been""","Guanajuato, Mexico",DianneRoberson
+"""been""","Traverse City, MI, USA",DianneRoberson
+"""been""","Sonsonate, El Salvador",DianneRoberson
+"""been""","Pacific Grove, CA, USA",DianneRoberson

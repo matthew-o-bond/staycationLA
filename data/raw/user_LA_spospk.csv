@@ -1,0 +1,484 @@
+tag,place,user
+"""been""","Niagara Falls, NY, USA",spospk
+"""want""","Ocho Rios, Jamaica",spospk
+"""want""","Lloret de Mar, Spain",spospk
+"""want""","Seminyak, Indonesia",spospk
+"""been""","Columbus, OH, USA",spospk
+"""want""","Cala d'Or, Spain",spospk
+"""been""","Cannon Beach, OR, USA",spospk
+"""been""","Park City, UT, USA",spospk
+"""want""","Pune, India",spospk
+"""want""","Singapore, Singapore",spospk
+"""been""","South Lake Tahoe, CA, USA",spospk
+"""want""","Macau, China",spospk
+"""want""","Krakow, Poland",spospk
+"""want""","Shenzhen, China",spospk
+"""want""","Tanjung Benoa, Indonesia",spospk
+"""want""","Hounslow, UK",spospk
+"""want""","Playa Maroma, Mexico",spospk
+"""want""","Porto, Portugal",spospk
+"""want""","Zermatt, Switzerland",spospk
+"""want""","Caldas Novas, Brazil",spospk
+"""want""","Isla Verde, Puerto Rico",spospk
+"""been""","Aguas Calientes, Peru",spospk
+"""want""","El Nido, Philippines",spospk
+"""want""","Abu Dhabi, United Arab Emirates",spospk
+"""want""","Busan, South Korea",spospk
+"""been""","Grapevine, TX, USA",spospk
+"""want""","Agra, India",spospk
+"""want""","Sunny Beach, Bulgaria",spospk
+"""been"",""fave""","Jackson, WY, USA",spospk
+"""been""","Chivay, Peru",spospk
+"""want""","Jericoacoara, Brazil",spospk
+"""want""","Yalta, Europe",spospk
+"""want""","Mojacar, Spain",spospk
+"""want""","Fortaleza, Brazil",spospk
+"""want""","Kata Beach, Thailand",spospk
+"""want""","Ooty (Udhagamandalam), India",spospk
+"""want""","Udaipur, India",spospk
+"""want""","San Juan, Puerto Rico",spospk
+"""want""","Funchal, Portugal",spospk
+"""want""","Dubrovnik, Croatia",spospk
+"""want""","Makadi Bay, Egypt",spospk
+"""want""","Runaway Bay, Jamaica",spospk
+"""want""","Jodhpur, India",spospk
+"""been""","Dallas, TX, USA",spospk
+"""want""","Limassol City, Cyprus",spospk
+"""want""","Yangon (Rangoon), Myanmar",spospk
+"""want""","Bogota, Colombia",spospk
+"""want""","Bologna, Italy",spospk
+"""want""","George Town, Malaysia",spospk
+"""want""","Nusa Dua, Indonesia",spospk
+"""want""","Kota Kinabalu, Malaysia",spospk
+"""want""","Playa Paraiso, Mexico",spospk
+"""been""","Soufriere, St. Lucia",spospk
+"""want""","Gros Islet, St. Lucia",spospk
+"""been""","Castries, St. Lucia",spospk
+"""want""","Gumbet, Turkey",spospk
+"""want""","Riccione, Italy",spospk
+"""been""","Traverse City, MI, USA",spospk
+"""want""","Oia, Greece",spospk
+"""want""","Puerto Iguazu, Argentina",spospk
+"""want""","Mussoorie, India",spospk
+"""want""","Bodrum City, Turkey",spospk
+"""want""","Kuala Lumpur, Malaysia",spospk
+"""want""","Makati, Philippines",spospk
+"""been""","Monterey, CA, USA",spospk
+"""want""","Santa Marta, Colombia",spospk
+"""want""","Manila, Philippines",spospk
+"""been""","Mackinac Island, MI, USA",spospk
+"""want""","Medellin, Colombia",spospk
+"""want""","Cartagena, Colombia",spospk
+"""want""","Baguio, Philippines",spospk
+"""want""","Osaka, Japan",spospk
+"""want""","Palm - Eagle Beach, Aruba",spospk
+"""want""","Fukuoka, Japan",spospk
+"""want""","Oranjestad, Aruba",spospk
+"""want""","Sapporo, Japan",spospk
+"""want""","Seven Mile Beach, Cayman Islands",spospk
+"""been""","Puno, Peru",spospk
+"""want""","St. John's, Antigua and Barbuda",spospk
+"""been"",""fave""","Kyoto, Japan",spospk
+"""been""","Juliaca, Peru",spospk
+"""want""","Hiroshima, Japan",spospk
+"""want""","Kobe, Japan",spospk
+"""want""","Tagaytay, Philippines",spospk
+"""want""","Santa Maria, Cape Verde",spospk
+"""want""","Guilin, China",spospk
+"""want""","Xi'an, China",spospk
+"""want""","Hyderabad, India",spospk
+"""want""","Guangzhou, China",spospk
+"""want""","Hangzhou, China",spospk
+"""want""","Stuttgart, Germany",spospk
+"""want""","Buenos Aires, Argentina",spospk
+"""want""","Algarve, Portugal",spospk
+"""been""","Memphis, TN, USA",spospk
+"""been""","Santa Cruz, CA, USA",spospk
+"""want""","Villasimius, Italy",spospk
+"""want""","Brescia, Italy",spospk
+"""want""","Milano Marittima, Italy",spospk
+"""been""","Beverly Hills, CA, USA",spospk
+"""want""","Santiago, Chile",spospk
+"""want""","Surfers Paradise, Australia",spospk
+"""want""","Oludeniz, Turkey",spospk
+"""want""","Patong, Thailand",spospk
+"""want""","Onna-son, Japan",spospk
+"""want""","Wroclaw, Poland",spospk
+"""want""","El Calafate, Argentina",spospk
+"""want""","Tumon, Mariana Islands",spospk
+"""want""","Oslo, Norway",spospk
+"""been""","Santa Monica, CA, USA",spospk
+"""been""","Lummi Island, WA, USA",spospk
+"""been""","Prague, Czech Republic",spospk
+"""want""","Las Terrenas, Dominican Republic",spospk
+"""want""","Dresden, Germany",spospk
+"""want""","Hua Hin, Thailand",spospk
+"""want""","Mykonos Town, Greece",spospk
+"""want""","Pondicherry, India",spospk
+"""want""","Costa Adeje, Spain",spospk
+"""want""","Nainital, India",spospk
+"""want""","Cefalu, Italy",spospk
+"""want""","Carcassonne Center, France",spospk
+"""want""","Cattolica, Italy",spospk
+"""want""","Puerto de Santiago, Spain",spospk
+"""want""","Nairobi, Kenya",spospk
+"""been""","Paris, France",spospk
+"""been""","Pisac, Peru",spospk
+"""want""","Hobart, Australia",spospk
+"""want""","Port El Kantaoui, Tunisia",spospk
+"""been""","Yucay, Peru",spospk
+"""want""","Cairo, Egypt",spospk
+"""want""","Rafael Freyre, Cuba",spospk
+"""been""","Urubamba, Peru",spospk
+"""want""","Montevideo, Uruguay",spospk
+"""want""","Vilnius, Lithuania",spospk
+"""been""","Amsterdam, The Netherlands",spospk
+"""been"",""fave""","Portland, ME, USA",spospk
+"""want""","Midoun, Tunisia",spospk
+"""been""","Lima, Peru",spospk
+"""want""","Monastir, Tunisia",spospk
+"""been""","Ollantaytambo, Peru",spospk
+"""want""","Bandung, Indonesia",spospk
+"""want""","Gdansk, Poland",spospk
+"""want""","Riga, Latvia",spospk
+"""want""","Port de Pollenca, Spain",spospk
+"""been""","Arequipa, Peru",spospk
+"""want""","Sousse, Tunisia",spospk
+"""want""","Sanur, Indonesia",spospk
+"""been"",""fave""","Cusco, Peru",spospk
+"""want""","Hammamet, Tunisia",spospk
+"""been""","Indianapolis, IN, USA",spospk
+"""want""","Lisbon, Portugal",spospk
+"""want""","Toronto, Ontario, Canada",spospk
+"""want""","Manali, India",spospk
+"""want""","Jakarta, Indonesia",spospk
+"""want""","Rovinj, Croatia",spospk
+"""want""","Puerto Morelos, Mexico",spospk
+"""want""","Sodegaura, Japan",spospk
+"""been""","Big Sur, CA, USA",spospk
+"""want""","Balikesir, Turkey",spospk
+"""been""","Cancun, Mexico",spospk
+"""want""","Warsaw, Poland",spospk
+"""want""","Bursa, Turkey",spospk
+"""want""","Gurugram (Gurgaon), India",spospk
+"""want""","Washington DC, DC, USA",spospk
+"""want""","Peniscola, Spain",spospk
+"""want""","Cape Town Central, South Africa",spospk
+"""been""","Playa Conchal, Costa Rica",spospk
+"""want""","Tulum, Mexico",spospk
+"""want""","Los Cristianos, Spain",spospk
+"""want""","Biarritz, France",spospk
+"""want""","Denia, Spain",spospk
+"""want""","Merida, Mexico",spospk
+"""been""","Crater Lake National Park, OR, USA",spospk
+"""want""","Quebec City, Quebec, Canada",spospk
+"""been""","Hong Kong, China",spospk
+"""want""","Side, Turkey",spospk
+"""want""","Candolim, India",spospk
+"""want""","Basel, Switzerland",spospk
+"""want""","Montreal, Quebec, Canada",spospk
+"""been""","Parksville, British Columbia, Canada",spospk
+"""want""","Nerja, Spain",spospk
+"""want""","Antalya, Turkey",spospk
+"""want""","Zagreb, Croatia",spospk
+"""want""","Beijing, China",spospk
+"""want""","Dubai, United Arab Emirates",spospk
+"""been""","Liberia, Costa Rica",spospk
+"""want""","Fuengirola, Spain",spospk
+"""want""","Bucharest, Romania",spospk
+"""want""","Shanghai, China",spospk
+"""want""","Kardamena, Greece",spospk
+"""want""","Icmeler, Turkey",spospk
+"""want""","Salzburg, Austria",spospk
+"""been""","Arenal Volcano National Park, Costa Rica",spospk
+"""want""","Costa Calma, Spain",spospk
+"""want""","Valletta, Malta",spospk
+"""want""","Playa d'en Bossa, Spain",spospk
+"""want""","Costa Teguise, Spain",spospk
+"""want""","Sliema, Malta",spospk
+"""want""","Doha, Qatar",spospk
+"""want""","Manchester, UK",spospk
+"""been""","Grand Mound, WA, USA",spospk
+"""want""","Marsa Alam, Egypt",spospk
+"""want""","Ljubljana, Slovenia",spospk
+"""want""","Gaziantep, Turkey",spospk
+"""been""","La Fortuna de San Carlos, Costa Rica",spospk
+"""been""","Vienna, Austria",spospk
+"""want""","Fajardo, Puerto Rico",spospk
+"""been"",""fave""","Saint Julian's, Malta",spospk
+"""been""","Centralia, WA, USA",spospk
+"""want""","Bengaluru, India",spospk
+"""want""","Kyiv (Kiev), Ukraine",spospk
+"""want""","Mar del Plata, Argentina",spospk
+"""been""","Budapest, Hungary",spospk
+"""want""","Goreme, Turkey",spospk
+"""want""","Srinagar, India",spospk
+"""been""","Brooklyn, NY, USA",spospk
+"""want""","Chaweng, Thailand",spospk
+"""want""","Auckland Central, New Zealand",spospk
+"""want""","Puerto Rico, Spain",spospk
+"""been""","Breckenridge, CO, USA",spospk
+"""want""","Rose Hall, Jamaica",spospk
+"""want""","Batu Ferringhi, Malaysia",spospk
+"""want""","Hamburg, Germany",spospk
+"""want""","Rio de Janeiro, Brazil",spospk
+"""want""","Bergen, Norway",spospk
+"""want""","Fes, Morocco",spospk
+"""want""","Marrakech, Morocco",spospk
+"""want""","Zaragoza, Spain",spospk
+"""want""","Ubatuba, Brazil",spospk
+"""want""","Sao Paulo, Brazil",spospk
+"""want""","Berlin, Germany",spospk
+"""want""","Seville, Spain",spospk
+"""been""","Tucson, AZ, USA",spospk
+"""want""","San Jose, Costa Rica",spospk
+"""been"",""fave""","Casablanca, Morocco",spospk
+"""want""","Istanbul, Turkey",spospk
+"""want""","Wellington, New Zealand",spospk
+"""want""","Christchurch, New Zealand",spospk
+"""want""","Santa Fe, NM, USA",spospk
+"""want""","Polignano a Mare, Italy",spospk
+"""want""","Johannesburg, South Africa",spospk
+"""been""","Tokyo, Japan",spospk
+"""been""","San Francisco, CA, USA",spospk
+"""been""","Nashville, TN, USA",spospk
+"""been"",""want""","Ixtapa, Mexico",spospk
+"""want""","Granada, Spain",spospk
+"""want""","Torremolinos, Spain",spospk
+"""want""","Belfast, UK",spospk
+"""want""","Malaga, Spain",spospk
+"""want""","Cadiz, Spain",spospk
+"""been""","Stockholm, Sweden",spospk
+"""been""","Wailea, HI, USA",spospk
+"""want""","Mahabaleshwar, India",spospk
+"""want""","Colombo, Sri Lanka",spospk
+"""want""","Manuel Antonio, Costa Rica",spospk
+"""been""","Salt Lake City, UT, USA",spospk
+"""been""","Tampa, FL, USA",spospk
+"""want""","Austin, TX, USA",spospk
+"""want""","Nuremberg, Germany",spospk
+"""want""","Cordoba, Spain",spospk
+"""want""","Bristol, UK",spospk
+"""want""","Campos Do Jordao, Brazil",spospk
+"""been""","Rome, Italy",spospk
+"""been"",""fave""","Monte-Carlo, Monaco",spospk
+"""been""","London, UK",spospk
+"""want""","Nabq Bay, Egypt",spospk
+"""want""","Liverpool, UK",spospk
+"""want""","Balneario Camboriu, Brazil",spospk
+"""want""","Rotterdam, The Netherlands",spospk
+"""want""","Tsilivi, Greece",spospk
+"""want""","Jaco, Costa Rica",spospk
+"""want""","Mecca, Saudi Arabia",spospk
+"""want""","Antwerp, Belgium",spospk
+"""want""","Munich, Germany",spospk
+"""want""","Cavelossim, India",spospk
+"""want""","Da Nang, Vietnam",spospk
+"""want""","Capri, Italy",spospk
+"""want""","Windermere, UK",spospk
+"""want""","Salerno, Italy",spospk
+"""been""","Niagara Falls, Ontario, Canada",spospk
+"""been""","Florence, Italy",spospk
+"""been""","Anaheim, CA, USA",spospk
+"""want""","Jerusalem, Israel",spospk
+"""been""","Poipu, HI, USA",spospk
+"""been""","Boston, MA, USA",spospk
+"""been""","Barcelona, Spain",spospk
+"""been""","Colorado Springs, CO, USA",spospk
+"""want""","Bowness-on-Windermere, UK",spospk
+"""want""","Marseille, France",spospk
+"""want""","Dusseldorf, Germany",spospk
+"""want""","Salamanca, Spain",spospk
+"""want""","Cologne, Germany",spospk
+"""been""","Houston, TX, USA",spospk
+"""want""","Joao Pessoa, Brazil",spospk
+"""want""","Minato, Japan",spospk
+"""want""","Toledo, Spain",spospk
+"""been""","Kihei, HI, USA",spospk
+"""want""","Kathmandu, Nepal",spospk
+"""been""","Kailua-Kona, HI, USA",spospk
+"""been""","Cincinnati, OH, USA",spospk
+"""want""","Shibuya, Japan",spospk
+"""been""","Shinjuku, Japan",spospk
+"""been""","Seattle, WA, USA",spospk
+"""been""","Copenhagen, Denmark",spospk
+"""been""","Lahaina, HI, USA",spospk
+"""been""","Naples, FL, USA",spospk
+"""been""","Punta Hermosa, Peru",spospk
+"""want""","Santander, Spain",spospk
+"""want""","Brighton, UK",spospk
+"""want""","Puerto de la Cruz, Spain",spospk
+"""want""","Port Aransas, TX, USA",spospk
+"""want""","Porto Alegre, Brazil",spospk
+"""want""","Auckland, New Zealand",spospk
+"""want""","Taito, Japan",spospk
+"""been""","Nice, France",spospk
+"""been""","Toshima, Japan",spospk
+"""been""","New York City, NY, USA",spospk
+"""been""","Anchorage, AK, USA",spospk
+"""want""","Imerovigli, Greece",spospk
+"""want""","Moab, UT, USA",spospk
+"""been""","Gothenburg, Sweden",spospk
+"""been""","Denver, CO, USA",spospk
+"""want""","Las Palmas de Gran Canaria, Spain",spospk
+"""want""","Bournemouth, UK",spospk
+"""been""","San Jose, CA, USA",spospk
+"""been""","Carmel, CA, USA",spospk
+"""want""","Gramado, Brazil",spospk
+"""been""","Carlsbad, CA, USA",spospk
+"""want""","Torquay, UK",spospk
+"""want""","Ciutadella, Spain",spospk
+"""want""","Kodaikanal, India",spospk
+"""been""","Flagstaff, AZ, USA",spospk
+"""want""","Legian, Indonesia",spospk
+"""been"",""fave""","Taichung, Taiwan",spospk
+"""been""","Kapaa, HI, USA",spospk
+"""want""","Faliraki, Greece",spospk
+"""want""","Rhodes Town, Greece",spospk
+"""want""","Kolimbia, Greece",spospk
+"""want""","Palma de Mallorca, Spain",spospk
+"""been""","Cannes, France",spospk
+"""want""","Chiyoda, Japan",spospk
+"""want""","Frankfurt, Germany",spospk
+"""want""","San Sebastian - Donostia, Spain",spospk
+"""want""","Bratislava, Slovakia",spospk
+"""been"",""fave""","Kaohsiung, Taiwan",spospk
+"""want""","Bilbao, Spain",spospk
+"""been""","Honolulu, HI, USA",spospk
+"""want""","Ghent, Belgium",spospk
+"""want""","Brisbane, Australia",spospk
+"""want""","Chuo, Japan",spospk
+"""want""","Playa de Muro, Spain",spospk
+"""want""","Cairns, Australia",spospk
+"""been""","Sacramento, CA, USA",spospk
+"""want""","Willemstad, Curacao",spospk
+"""want""","Corralejo, Spain",spospk
+"""want""","Takayama, Japan",spospk
+"""been""","Galveston, TX, USA",spospk
+"""been""","Huanuco, Peru",spospk
+"""want""","Havana, Cuba",spospk
+"""want""","Cambrils, Spain",spospk
+"""want""","Alicante, Spain",spospk
+"""want""","Malia, Greece",spospk
+"""want""","Sirmione, Italy",spospk
+"""want""","Vilamoura, Portugal",spospk
+"""want""","Kamari, Greece",spospk
+"""want""","Laganas, Greece",spospk
+"""want""","Nagoya, Japan",spospk
+"""want""","Recife, Brazil",spospk
+"""want""","Naha, Japan",spospk
+"""want""","Milan, Italy",spospk
+"""want""","Cebu City, Philippines",spospk
+"""want""","Lapu Lapu, Philippines",spospk
+"""been""","San Jose del Cabo, Mexico",spospk
+"""been""","Long Beach, CA, USA",spospk
+"""been""","Cabo San Lucas, Mexico",spospk
+"""want""","Flic En Flac, Africa",spospk
+"""want""","Ishigaki, Japan",spospk
+"""been""","Napa, CA, USA",spospk
+"""want""","Belle Mare, Africa",spospk
+"""been""","Qualicum Beach, British Columbia, Canada",spospk
+"""been""","Phoenix, AZ, USA",spospk
+"""want""","Kolkata (Calcutta), India",spospk
+"""want""","Playa Mujeres, Mexico",spospk
+"""want""","Ayia Napa, Cyprus",spospk
+"""want""","Chennai (Madras), India",spospk
+"""want""","Bergamo, Italy",spospk
+"""want""","Mysuru (Mysore), India",spospk
+"""want""","Shimla, India",spospk
+"""want""","Porto de Galinhas, Brazil",spospk
+"""want""","New Delhi, India",spospk
+"""want""","Ao Nang, Thailand",spospk
+"""been""","Chicago, IL, USA",spospk
+"""been""","Portland, OR, USA",spospk
+"""want""","Magaluf, Spain",spospk
+"""been""","Los Angeles, CA, USA",spospk
+"""want""","Kamala, Thailand",spospk
+"""want""","Chiang Mai, Thailand",spospk
+"""want""","Playa Blanca, Spain",spospk
+"""want""","Acapulco, Mexico",spospk
+"""want""","Puerto Plata, Dominican Republic",spospk
+"""want""","Palmanova, Spain",spospk
+"""want""","Sant Antoni de Portmany, Spain",spospk
+"""been"",""fave""","Tainan, Taiwan",spospk
+"""want""","Roses, Spain",spospk
+"""been""","Taipei, Taiwan",spospk
+"""want""","Puerto Del Carmen, Spain",spospk
+"""want""","El Arenal, Spain",spospk
+"""want""","Bangkok, Thailand",spospk
+"""want""","Sendai, Japan",spospk
+"""want""","Playa de Palma, Spain",spospk
+"""want""","Sa Coma, Spain",spospk
+"""want""","Edmonton, Alberta, Canada",spospk
+"""been""","Calgary, Alberta, Canada",spospk
+"""want""","Santo Domingo, Dominican Republic",spospk
+"""want""","Port d'Alcudia, Spain",spospk
+"""been"",""fave""","Jasper, Alberta, Canada",spospk
+"""want""","Moscow, Russia",spospk
+"""been""","Puerto Vallarta, Mexico",spospk
+"""want""","Mazatlan, Mexico",spospk
+"""been"",""fave""","Banff, Alberta, Canada",spospk
+"""want""","Siem Reap, Cambodia",spospk
+"""been""","Newport Beach, CA, USA",spospk
+"""want""","Caleta de Fuste, Spain",spospk
+"""been""","Las Vegas, NV, USA",spospk
+"""want""","Brasilia, Brazil",spospk
+"""want""","Foz do Iguacu, Brazil",spospk
+"""want""","Curitiba, Brazil",spospk
+"""want""","Kanazawa, Japan",spospk
+"""been""","Dublin, Ireland",spospk
+"""want""","San Pedro, Belize",spospk
+"""want""","Playa del Ingles, Spain",spospk
+"""been""","Sarasota, FL, USA",spospk
+"""want""","Hakodate, Japan",spospk
+"""want""","Santa Ponsa, Spain",spospk
+"""want""","Lamai Beach, Thailand",spospk
+"""want""","Johor Bahru, Malaysia",spospk
+"""want""","Marmaris, Turkey",spospk
+"""want""","Puerto Aventuras, Mexico",spospk
+"""want""","Salou, Spain",spospk
+"""want""","Conil de la Frontera, Spain",spospk
+"""been""","Boyne Falls, MI, USA",spospk
+"""want""","Calpe, Spain",spospk
+"""want""","Benidorm, Spain",spospk
+"""want""","Catania, Italy",spospk
+"""been""","Reno, NV, USA",spospk
+"""want""","Salvador, Brazil",spospk
+"""want""","Bayahibe, Dominican Republic",spospk
+"""want""","Valencia, Spain",spospk
+"""want""","Bavaro, Dominican Republic",spospk
+"""want""","Nha Trang, Vietnam",spospk
+"""want""","Halifax, Nova Scotia, Canada",spospk
+"""been""","Madrid, Spain",spospk
+"""been""","Minneapolis, MN, USA",spospk
+"""want""","Hanoi, Vietnam",spospk
+"""want""","Ho Chi Minh City, Vietnam",spospk
+"""want""","Hue, Vietnam",spospk
+"""want""","Helsinki, Finland",spospk
+"""want""","Tossa de Mar, Spain",spospk
+"""been""","Whistler, British Columbia, Canada",spospk
+"""want""","Yokohama, Japan",spospk
+"""been""","Orlando, FL, USA",spospk
+"""been""","La Jolla, CA, USA",spospk
+"""been""","Venice, Italy",spospk
+"""been""","Victoria, British Columbia, Canada",spospk
+"""want""","Hakone-machi, Japan",spospk
+"""been""","Vancouver, British Columbia, Canada",spospk
+"""want""","Glasgow, UK",spospk
+"""want""","Sitges, Spain",spospk
+"""want""","Punta de Mita, Mexico",spospk
+"""want""","Belo Horizonte, Brazil",spospk
+"""want""","Armacao dos Buzios, Brazil",spospk
+"""want""","Akumal, Mexico",spospk
+"""want""","Protaras, Cyprus",spospk
+"""been"",""want""","Urayasu, Japan",spospk
+"""want""","Vail, CO, USA",spospk
+"""been""","Woodinville, WA, USA",spospk
+"""want""","Calangute, India",spospk
+"""want""","Melaka, Malaysia",spospk
+"""want""","Playa de las Americas, Spain",spospk
+"""want""","Coventry, UK",spospk
+"""want""","Turin, Italy",spospk
+"""been""","Detroit, MI, USA",spospk
+"""want""","Melbourne, Australia",spospk
+"""want""","Phnom Penh, Cambodia",spospk

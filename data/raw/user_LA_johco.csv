@@ -1,0 +1,448 @@
+tag,place,user
+"""been""","Spring Lake, NJ, USA",johco
+"""been""","Glacier National Park, MT, USA",johco
+"""been""","Windham, NY, USA",johco
+"""been""","Hudson, NY, USA",johco
+"""been""","Grand Canyon National Park, AZ, USA",johco
+"""been""","Manhattan Beach, CA, USA",johco
+"""been""","Geneva, Switzerland",johco
+"""been""","Sedona, AZ, USA",johco
+"""been""","Toronto, Ontario, Canada",johco
+"""been""","Frederick, MD, USA",johco
+"""been""","Parsippany, NJ, USA",johco
+"""been""","Salem, OR, USA",johco
+"""been""","Morristown, NJ, USA",johco
+"""been""","Steamboat Springs, CO, USA",johco
+"""been""","Allentown, PA, USA",johco
+"""been""","Annapolis, MD, USA",johco
+"""been""","El Cajon, CA, USA",johco
+"""been""","Telluride, CO, USA",johco
+"""been""","La Jolla, CA, USA",johco
+"""been""","Mount Pocono, PA, USA",johco
+"""been""","Tulum, Mexico",johco
+"""been""","Saint Louis, MO, USA",johco
+"""been""","Merida, Mexico",johco
+"""been""","Playa del Carmen, Mexico",johco
+"""been""","Marshalls Creek, PA, USA",johco
+"""been""","Chatham, MA, USA",johco
+"""been""","Chicago, IL, USA",johco
+"""been""","Manchester, UK",johco
+"""been""","Norwalk, CT, USA",johco
+"""been""","Arlington, VA, USA",johco
+"""been""","Bethany Beach, DE, USA",johco
+"""been""","Julian, CA, USA",johco
+"""been""","Assateague Island, MD, USA",johco
+"""been""","Danbury, CT, USA",johco
+"""been""","Covington, KY, USA",johco
+"""been""","Deadwood, SD, USA",johco
+"""been""","Ship Bottom, NJ, USA",johco
+"""been""","Montreal, Quebec, Canada",johco
+"""been""","Quebec City, Quebec, Canada",johco
+"""been""","North Las Vegas, NV, USA",johco
+"""been""","Mexico City, Mexico",johco
+"""been""","Minneapolis, MN, USA",johco
+"""been""","Nassau, Bahamas",johco
+"""been""","Kansas City, MO, USA",johco
+"""been""","Paramus, NJ, USA",johco
+"""been""","Basel, Switzerland",johco
+"""been""","Chichen Itza, Mexico",johco
+"""been""","Old Saybrook, CT, USA",johco
+"""been""","Cancun, Mexico",johco
+"""been""","West Palm Beach, FL, USA",johco
+"""been""","Malibu, CA, USA",johco
+"""been"",""want""","Portland, OR, USA",johco
+"""been""","Oslo, Norway",johco
+"""been""","Vernon, NJ, USA",johco
+"""been""","Howell, NJ, USA",johco
+"""been""","East Orange, NJ, USA",johco
+"""been""","East Rutherford, NJ, USA",johco
+"""been""","Red Bank, NJ, USA",johco
+"""been""","Stratton Mountain, VT, USA",johco
+"""been""","Breckenridge, CO, USA",johco
+"""been""","Eureka, CA, USA",johco
+"""been""","The Dalles, OR, USA",johco
+"""been""","Hilton Head, SC, USA",johco
+"""been""","Burbank, CA, USA",johco
+"""been""","Brookline, MA, USA",johco
+"""been""","Montclair, NJ, USA",johco
+"""been""","Brooklyn, NY, USA",johco
+"""been""","Estes Park, CO, USA",johco
+"""been""","Flushing, NY, USA",johco
+"""been""","Innsbruck, Austria",johco
+"""been""","Providence, RI, USA",johco
+"""been""","Killington, VT, USA",johco
+"""been""","Bar Harbor, ME, USA",johco
+"""been""","Milford, PA, USA",johco
+"""been""","Ketchikan, AK, USA",johco
+"""been""","Salzburg, Austria",johco
+"""been""","Jersey City, NJ, USA",johco
+"""been""","Elizabeth, NJ, USA",johco
+"""been""","Syracuse, NY, USA",johco
+"""been""","Austin, TX, USA",johco
+"""been""","Tampa, FL, USA",johco
+"""been""","Baltimore, MD, USA",johco
+"""been""","Albuquerque, NM, USA",johco
+"""been""","Stowe, VT, USA",johco
+"""been""","Mount Laurel, NJ, USA",johco
+"""been""","Bluffton, SC, USA",johco
+"""been""","Savannah, GA, USA",johco
+"""been""","Vienna, Austria",johco
+"""been""","Coronado, CA, USA",johco
+"""been""","Annecy, France",johco
+"""been""","Chamonix, France",johco
+"""been""","Point Pleasant Beach, NJ, USA",johco
+"""been""","Amsterdam, The Netherlands",johco
+"""been""","Paris, France",johco
+"""been"",""want""","Orlando, FL, USA",johco
+"""been""","Ocean City, MD, USA",johco
+"""been""","Zurich, Switzerland",johco
+"""been""","El Segundo, CA, USA",johco
+"""been""","Nuevo Vallarta, Mexico",johco
+"""been""","Greenwich, CT, USA",johco
+"""been""","South Burlington, VT, USA",johco
+"""been""","Salt Lake City, UT, USA",johco
+"""been""","Hyde Park, NY, USA",johco
+"""been""","Detroit, MI, USA",johco
+"""been""","Groton, CT, USA",johco
+"""been""","Laguna Beach, CA, USA",johco
+"""been""","North Vancouver, British Columbia, Canada",johco
+"""been""","Woodstock, NY, USA",johco
+"""been""","Ka'anapali, HI, USA",johco
+"""been""","Badlands National Park, SD, USA",johco
+"""been""","Trenton, NJ, USA",johco
+"""been""","Jamaica, NY, USA",johco
+"""been""","Hoboken, NJ, USA",johco
+"""been""","Princeton, NJ, USA",johco
+"""been""","Toms River, NJ, USA",johco
+"""been""","Juneau, AK, USA",johco
+"""been""","Palm Beach, FL, USA",johco
+"""been""","Ukiah, CA, USA",johco
+"""been""","Encinitas, CA, USA",johco
+"""been""","Golden, CO, USA",johco
+"""been""","Escondido, CA, USA",johco
+"""been""","Ithaca, NY, USA",johco
+"""been""","Bensalem, PA, USA",johco
+"""been""","Westerly, RI, USA",johco
+"""been""","New Bedford, MA, USA",johco
+"""been""","Wilkes-Barre, PA, USA",johco
+"""been""","Warwick, RI, USA",johco
+"""been""","North Wildwood, NJ, USA",johco
+"""been""","Fort Lee, NJ, USA",johco
+"""been""","Rochester, NY, USA",johco
+"""been""","Brigantine, NJ, USA",johco
+"""been""","Toledo, Spain",johco
+"""been""","Santander, Spain",johco
+"""been""","Copenhagen, Denmark",johco
+"""been""","San Clemente, CA, USA",johco
+"""been""","Wheeling, WV, USA",johco
+"""been""","Key Biscayne, FL, USA",johco
+"""been""","Williamsburg, VA, USA",johco
+"""been""","White River Junction, VT, USA",johco
+"""been""","Monte-Carlo, Monaco",johco
+"""been""","Honolulu, HI, USA",johco
+"""been""","Fort Lauderdale, FL, USA",johco
+"""been""","Boston, MA, USA",johco
+"""been""","New Orleans, LA, USA",johco
+"""been""","Custer, SD, USA",johco
+"""been""","Topeka, KS, USA",johco
+"""been""","Punta Gorda, FL, USA",johco
+"""been""","West Hollywood, CA, USA",johco
+"""been""","Ocean City, NJ, USA",johco
+"""been""","Ocean Grove, NJ, USA",johco
+"""want""","Mykonos, Greece",johco
+"""been""","Catskill, NY, USA",johco
+"""been""","Marseille, France",johco
+"""been""","Barcelona, Spain",johco
+"""been""","Denver, CO, USA",johco
+"""been""","Lawrence, KS, USA",johco
+"""been""","Anaheim, CA, USA",johco
+"""been""","Cape Canaveral, FL, USA",johco
+"""been""","San Luis Obispo, CA, USA",johco
+"""been""","Buffalo, NY, USA",johco
+"""been""","Madison, WI, USA",johco
+"""been""","Newport, RI, USA",johco
+"""been""","Carmel, CA, USA",johco
+"""been""","Desert Hot Springs, CA, USA",johco
+"""been""","Carlsbad, CA, USA",johco
+"""been""","Kissimmee, FL, USA",johco
+"""been""","San Jose, CA, USA",johco
+"""been""","New Brunswick, NJ, USA",johco
+"""been""","Tarrytown, NY, USA",johco
+"""been""","Sonoma, CA, USA",johco
+"""been""","Miami, FL, USA",johco
+"""been""","Miami Beach, FL, USA",johco
+"""been""","Charleston, SC, USA",johco
+"""been""","Cape Charles, VA, USA",johco
+"""been""","Fulda, Germany",johco
+"""been""","Dover, VT, USA",johco
+"""been""","Scranton, PA, USA",johco
+"""been""","Englewood, NJ, USA",johco
+"""been""","Springfield, MA, USA",johco
+"""been""","Wailea, HI, USA",johco
+"""been""","Burlington, VT, USA",johco
+"""been""","North Bergen, NJ, USA",johco
+"""been""","Ludlow, VT, USA",johco
+"""been""","Spokane, WA, USA",johco
+"""been""","Lambertville, NJ, USA",johco
+"""been""","Newark, NJ, USA",johco
+"""been""","Nice, France",johco
+"""been""","Colorado Springs, CO, USA",johco
+"""been""","Kansas City, KS, USA",johco
+"""been""","Port Canaveral, FL, USA",johco
+"""been""","San Francisco, CA, USA",johco
+"""been""","Quincy, MA, USA",johco
+"""been""","Santa Fe, NM, USA",johco
+"""been""","Thousand Oaks, CA, USA",johco
+"""been""","Manchester, VT, USA",johco
+"""been""","Hawley, PA, USA",johco
+"""been""","Cheektowaga, NY, USA",johco
+"""been""","Clifton, NJ, USA",johco
+"""been""","Niagara Falls, Ontario, Canada",johco
+"""been""","Niagara-on-the-Lake, Ontario, Canada",johco
+"""been""","Torremolinos, Spain",johco
+"""been""","East Glacier Park, MT, USA",johco
+"""been""","Kennett Square, PA, USA",johco
+"""been""","Granada, Spain",johco
+"""been""","Seville, Spain",johco
+"""been""","Cocoa Beach, FL, USA",johco
+"""been""","Rutland, VT, USA",johco
+"""been""","Bethlehem, PA, USA",johco
+"""been""","Death Valley Junction, CA, USA",johco
+"""been""","Santa Monica, CA, USA",johco
+"""been""","Taos, NM, USA",johco
+"""been""","Laconia, NH, USA",johco
+"""been""","Waterville Valley, NH, USA",johco
+"""been""","San Sebastian - Donostia, Spain",johco
+"""been""","Frankfurt, Germany",johco
+"""want""","Sydney, Australia",johco
+"""been""","Manassas, VA, USA",johco
+"""been""","Marrakech, Morocco",johco
+"""been""","Richmond, VA, USA",johco
+"""been""","Tangier, Morocco",johco
+"""been""","Agadir, Morocco",johco
+"""been""","Woodstock, VT, USA",johco
+"""been""","Manhattan, KS, USA",johco
+"""been""","Atlanta, GA, USA",johco
+"""been""","Casablanca, Morocco",johco
+"""been""","Torrance, CA, USA",johco
+"""been""","Bainbridge Island, WA, USA",johco
+"""been""","Coral Gables, FL, USA",johco
+"""been""","Portland, ME, USA",johco
+"""been""","Naples, Italy",johco
+"""been""","Garmisch-Partenkirchen, Germany",johco
+"""been""","Pompeii, Italy",johco
+"""been""","Jim Thorpe, PA, USA",johco
+"""been""","Long Branch, NJ, USA",johco
+"""been""","Long Beach Township, NJ, USA",johco
+"""been""","White Plains, NY, USA",johco
+"""been""","Cape May, NJ, USA",johco
+"""been""","Cambridge, MA, USA",johco
+"""been""","Durango, CO, USA",johco
+"""been""","New York City, NY, USA",johco
+"""been""","Narragansett, RI, USA",johco
+"""been""","Cherry Hill, NJ, USA",johco
+"""been""","Rome, Italy",johco
+"""been""","Brussels, Belgium",johco
+"""been""","Dover, DE, USA",johco
+"""been""","Anchorage, AK, USA",johco
+"""been""","Elmhurst, NY, USA",johco
+"""been""","Reykjavik, Iceland",johco
+"""been""","Marne-la-Vallee, France",johco
+"""been""","Stockholm, Sweden",johco
+"""been""","Manasquan, NJ, USA",johco
+"""been""","Seward, AK, USA",johco
+"""been""","Munich, Germany",johco
+"""been""","San Diego, CA, USA",johco
+"""been""","London, UK",johco
+"""been""","Hana, HI, USA",johco
+"""been""","Cincinnati, OH, USA",johco
+"""been""","Titusville, FL, USA",johco
+"""been""","Skagway, AK, USA",johco
+"""been""","Antwerp, Belgium",johco
+"""been""","Santa Cruz, CA, USA",johco
+"""been""","Yellowstone National Park, WY, USA",johco
+"""been""","Wellfleet, MA, USA",johco
+"""been""","Woodbridge, VA, USA",johco
+"""been""","Beverly Hills, CA, USA",johco
+"""been""","Williamsville, VT, USA",johco
+"""been""","Playa Conchal, Costa Rica",johco
+"""been""","Elia, Greece",johco
+"""been""","Washington DC, DC, USA",johco
+"""been""","Erie, PA, USA",johco
+"""been""","Wilmington, NC, USA",johco
+"""been""","Madrid, Spain",johco
+"""been""","Bennington, VT, USA",johco
+"""been""","Lancaster, PA, USA",johco
+"""been""","Newton, MA, USA",johco
+"""been""","Virginia Beach, VA, USA",johco
+"""been""","Woburn, MA, USA",johco
+"""been""","Belmar, NJ, USA",johco
+"""been""","Eugene, OR, USA",johco
+"""been""","Vancouver, British Columbia, Canada",johco
+"""been""","Beach Haven, NJ, USA",johco
+"""been""","Florence, Italy",johco
+"""been""","Victoria, British Columbia, Canada",johco
+"""been""","Concord, NH, USA",johco
+"""been""","Nashua, NH, USA",johco
+"""been""","Tannersville, PA, USA",johco
+"""been""","Norfolk, VA, USA",johco
+"""been""","Jeffersonville, VT, USA",johco
+"""been""","Yarmouth Port, MA, USA",johco
+"""been""","Bangor, ME, USA",johco
+"""been""","Worcester, MA, USA",johco
+"""been""","Poughkeepsie, NY, USA",johco
+"""been""","Staten Island, NY, USA",johco
+"""been""","Saratoga Springs, NY, USA",johco
+"""been""","Rehoboth Beach, DE, USA",johco
+"""been""","Cody, WY, USA",johco
+"""been""","Sandwich, MA, USA",johco
+"""been""","West Yarmouth, MA, USA",johco
+"""been""","Newark, DE, USA",johco
+"""been""","King of Prussia, PA, USA",johco
+"""been""","Teton Village, WY, USA",johco
+"""been""","Manchester, NH, USA",johco
+"""been""","Bretton Woods, NH, USA",johco
+"""been""","Venice, Italy",johco
+"""been""","Hershey, PA, USA",johco
+"""been""","Schenectady, NY, USA",johco
+"""been""","Verona, Italy",johco
+"""been""","West Orange, NJ, USA",johco
+"""been""","Wilmington, DE, USA",johco
+"""been""","Santiago de Compostela, Spain",johco
+"""been""","Philadelphia, PA, USA",johco
+"""been""","Casper, WY, USA",johco
+"""been""","Gettysburg, PA, USA",johco
+"""been""","Oak Park, IL, USA",johco
+"""been""","Daytona Beach, FL, USA",johco
+"""been""","Cheyenne, WY, USA",johco
+"""been""","Somerville, MA, USA",johco
+"""been""","Bear Mountain, NY, USA",johco
+"""been""","Oak Bluffs, MA, USA",johco
+"""been""","Calgary, Alberta, Canada",johco
+"""been""","Niagara Falls, NY, USA",johco
+"""been""","Edmonton, Alberta, Canada",johco
+"""been""","Lake Placid, NY, USA",johco
+"""been""","Truro, MA, USA",johco
+"""been""","Punta Allen, Mexico",johco
+"""been""","Hyannis, MA, USA",johco
+"""been""","Bellagio, Italy",johco
+"""been""","Acapulco, Mexico",johco
+"""been""","Absecon, NJ, USA",johco
+"""been""","Camden, ME, USA",johco
+"""been""","Milan, Italy",johco
+"""been""","Park City, UT, USA",johco
+"""been""","Orleans, MA, USA",johco
+"""been""","Vineyard Haven, MA, USA",johco
+"""been""","Puerto Vallarta, Mexico",johco
+"""been""","Cleveland, OH, USA",johco
+"""been""","Domburg, The Netherlands",johco
+"""been""","Stockbridge, MA, USA",johco
+"""been""","Rhinebeck, NY, USA",johco
+"""been""","North Conway, NH, USA",johco
+"""been""","New Paltz, NY, USA",johco
+"""been""","Kingston, NY, USA",johco
+"""been""","Bethel, ME, USA",johco
+"""been""","Harwich Port, MA, USA",johco
+"""been""","South Yarmouth, MA, USA",johco
+"""been""","Dublin, Ireland",johco
+"""been""","Lake George, NY, USA",johco
+"""been""","Avalon, NJ, USA",johco
+"""been""","Amherst, MA, USA",johco
+"""been""","Atlantic City, NJ, USA",johco
+"""been""","North Truro, MA, USA",johco
+"""been""","Sturbridge, MA, USA",johco
+"""been""","Brattleboro, VT, USA",johco
+"""been""","West Chester, PA, USA",johco
+"""been""","Stroudsburg, PA, USA",johco
+"""been""","Redondo Beach, CA, USA",johco
+"""been""","Albany, NY, USA",johco
+"""been""","Lisdoonvarna, Ireland",johco
+"""been""","Navan, Ireland",johco
+"""been""","Redwood City, CA, USA",johco
+"""been""","Slane, Ireland",johco
+"""been""","Mashpee, MA, USA",johco
+"""been""","Shawnee on Delaware, PA, USA",johco
+"""been""","East Stroudsburg, PA, USA",johco
+"""been""","Falmouth, MA, USA",johco
+"""been""","Big Sur, CA, USA",johco
+"""been""","Palm Desert, CA, USA",johco
+"""been""","Palm Springs, CA, USA",johco
+"""want""","Bogota, Colombia",johco
+"""been""","Stamford, CT, USA",johco
+"""been""","Edgartown, MA, USA",johco
+"""been""","Bologna, Italy",johco
+"""been""","Eastham, MA, USA",johco
+"""been""","Dallas, TX, USA",johco
+"""been""","Easton, PA, USA",johco
+"""been""","Palm - Eagle Beach, Aruba",johco
+"""been""","Oranjestad, Aruba",johco
+"""been""","Scotrun, PA, USA",johco
+"""been""","Tijuana, Mexico",johco
+"""been""","Harrisburg, PA, USA",johco
+"""been""","Rosarito, Mexico",johco
+"""been""","State College, PA, USA",johco
+"""been""","Plymouth, MA, USA",johco
+"""been""","Ojai, CA, USA",johco
+"""been""","Oshkosh, WI, USA",johco
+"""been""","Dennis Port, MA, USA",johco
+"""been""","Dennis, MA, USA",johco
+"""been""","Carlisle, PA, USA",johco
+"""been""","Ciudad Juarez, Mexico",johco
+"""been""","Hamilton, Bermuda",johco
+"""been""","Revere, MA, USA",johco
+"""been""","Rancho Palos Verdes, CA, USA",johco
+"""been""","Marblehead, MA, USA",johco
+"""been""","St. George, Bermuda",johco
+"""been""","Provincetown, MA, USA",johco
+"""been""","Pommeuse, France",johco
+"""been""","Ensenada, Mexico",johco
+"""been""","Quepos, Costa Rica",johco
+"""been""","Sainte-Anne, Guadeloupe",johco
+"""been""","Puntarenas, Costa Rica",johco
+"""been""","Sandy Hook, NJ, USA",johco
+"""been""","Huntington Beach, CA, USA",johco
+"""been""","Bridgeport, CT, USA",johco
+"""been""","Brewster, MA, USA",johco
+"""been""","Sacramento, CA, USA",johco
+"""been""","Mystic, CT, USA",johco
+"""been""","Braintree, MA, USA",johco
+"""been""","Pueblo, CO, USA",johco
+"""been""","Freeport, Bahamas",johco
+"""been""","Fort Bragg, CA, USA",johco
+"""been""","Phoenix, AZ, USA",johco
+"""been""","Herndon, VA, USA",johco
+"""been""","New Haven, CT, USA",johco
+"""been""","New London, CT, USA",johco
+"""been""","West Long Branch, NJ, USA",johco
+"""been""","Negril, Jamaica",johco
+"""been""","Ocho Rios, Jamaica",johco
+"""been"",""want""","Las Vegas, NV, USA",johco
+"""been""","Wildwood, NJ, USA",johco
+"""been""","Seaside Park, NJ, USA",johco
+"""been""","Pittsburgh, PA, USA",johco
+"""been""","San Jose, Costa Rica",johco
+"""been""","Secaucus, NJ, USA",johco
+"""been""","Wildwood Crest, NJ, USA",johco
+"""been""","Napa, CA, USA",johco
+"""been""","Bethesda, MD, USA",johco
+"""been""","Alexandria, VA, USA",johco
+"""been""","Long Beach, CA, USA",johco
+"""been""","Montego Bay, Jamaica",johco
+"""been""","Kingston, Jamaica",johco
+"""been""","Los Angeles, CA, USA",johco
+"""been""","Sea Isle City, NJ, USA",johco
+"""been""","Seaside Heights, NJ, USA",johco
+"""been""","Andorra la Vella, Andorra",johco
+"""been""","New Hope, PA, USA",johco
+"""been""","Barnstable, MA, USA",johco
+"""been""","Monterey, CA, USA",johco
+"""been""","Long Island City, NY, USA",johco
+"""been""","Mykonos Town, Greece",johco
+"""been""","Jaco, Costa Rica",johco
+"""been""","Morro Bay, CA, USA",johco
+"""been""","Yuma, AZ, USA",johco
+"""been""","Milford, CT, USA",johco
+"""been""","Appleton, WI, USA",johco
+"""been""","Natick, MA, USA",johco
+"""been""","Wichita, KS, USA",johco
+"""been""","Weehawken, NJ, USA",johco

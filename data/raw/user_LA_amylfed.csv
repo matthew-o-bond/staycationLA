@@ -1,0 +1,936 @@
+tag,place,user
+"""been""","Lahaina, HI, USA",amylfed
+"""been""","Hiroshima, Japan",amylfed
+"""been""","Kula, HI, USA",amylfed
+"""been""","Seattle, WA, USA",amylfed
+"""been""","Wheeling, WV, USA",amylfed
+"""been""","Hana, HI, USA",amylfed
+"""been""","Winchester, VA, USA",amylfed
+"""been""","Tijuana, Mexico",amylfed
+"""been""","West Sacramento, CA, USA",amylfed
+"""been""","Kahului, HI, USA",amylfed
+"""been""","Seward, AK, USA",amylfed
+"""been""","West Baden Springs, IN, USA",amylfed
+"""been""","Peninsula, OH, USA",amylfed
+"""been""","Utica, NY, USA",amylfed
+"""been""","Romulus, NY, USA",amylfed
+"""been""","Canyon, CA, USA",amylfed
+"""been""","West Hollywood, CA, USA",amylfed
+"""been""","Cayuga, NY, USA",amylfed
+"""been""","Seoul, South Korea",amylfed
+"""been""","Martinez, CA, USA",amylfed
+"""been""","Haiku, HI, USA",amylfed
+"""been""","Cawston, British Columbia, Canada",amylfed
+"""been""","Lihue, HI, USA",amylfed
+"""been""","Lawai, HI, USA",amylfed
+"""been""","St. Augustine, FL, USA",amylfed
+"""been""","Poipu, HI, USA",amylfed
+"""been""","Tonasket, WA, USA",amylfed
+"""been""","Peoria, IL, USA",amylfed
+"""been""","Palmer, AK, USA",amylfed
+"""been""","Kitimat-Stikine District, British Columbia, Canada",amylfed
+"""been""","San Leandro, CA, USA",amylfed
+"""been""","Koloa, HI, USA",amylfed
+"""been""","Toutle, WA, USA",amylfed
+"""been""","Trumansburg, NY, USA",amylfed
+"""been""","Rochester, NY, USA",amylfed
+"""been""","Rock Stream, NY, USA",amylfed
+"""been""","Carmel, CA, USA",amylfed
+"""been""","Sussex, New Brunswick, Canada",amylfed
+"""been""","San Jose, CA, USA",amylfed
+"""been""","Osaka, Japan",amylfed
+"""been""","Kapaa, HI, USA",amylfed
+"""been""","O'Leary, Prince Edward Island, Canada",amylfed
+"""been""","Kalaheo, HI, USA",amylfed
+"""been""","Old Harbor, AK, USA",amylfed
+"""been""","Cortez, CO, USA",amylfed
+"""been""","Kyoto, Japan",amylfed
+"""been""","Columbia, SC, USA",amylfed
+"""been""","Walnut Creek, CA, USA",amylfed
+"""been""","Des Moines, IA, USA",amylfed
+"""been""","Tacoma, WA, USA",amylfed
+"""been""","Folsom, CA, USA",amylfed
+"""been""","Hanapepe, HI, USA",amylfed
+"""been""","Cambria, CA, USA",amylfed
+"""been""","Hot Springs, AR, USA",amylfed
+"""been""","Cameron Park, CA, USA",amylfed
+"""been""","Calistoga, CA, USA",amylfed
+"""been""","Canandaigua, NY, USA",amylfed
+"""been""","Visalia, CA, USA",amylfed
+"""been""","Charleston, SC, USA",amylfed
+"""been""","Nogales, AZ, USA",amylfed
+"""been""","Independence, MO, USA",amylfed
+"""been""","Nenana, AK, USA",amylfed
+"""been""","Kispiox, British Columbia, Canada",amylfed
+"""been""","Greensboro, NC, USA",amylfed
+"""been""","Dragoer, Denmark",amylfed
+"""been""","St. Helena, CA, USA",amylfed
+"""been""","Draper, VA, USA",amylfed
+"""been""","Idaho Springs, CO, USA",amylfed
+"""been""","Doswell, VA, USA",amylfed
+"""been""","Helena, MT, USA",amylfed
+"""been""","Hector, NY, USA",amylfed
+"""been""","Milan, Italy",amylfed
+"""been""","Vanderhoof, British Columbia, Canada",amylfed
+"""been""","Berkeley, MO, USA",amylfed
+"""been""","Camino, CA, USA",amylfed
+"""been""","Iskut, British Columbia, Canada",amylfed
+"""been""","Dinwiddie, VA, USA",amylfed
+"""been""","Moose Pass, AK, USA",amylfed
+"""been""","Fairfield, CA, USA",amylfed
+"""been""","Vallejo, CA, USA",amylfed
+"""been""","South Lake Tahoe, CA, USA",amylfed
+"""been""","Syracuse, NY, USA",amylfed
+"""been""","Jersey City, NJ, USA",amylfed
+"""been""","Kamloops, British Columbia, Canada",amylfed
+"""been""","Kelowna, British Columbia, Canada",amylfed
+"""been""","Essex, CA, USA",amylfed
+"""been""","Grand Junction, CO, USA",amylfed
+"""been""","Penticton, British Columbia, Canada",amylfed
+"""been""","Fredericksburg, VA, USA",amylfed
+"""been""","Prince George, British Columbia, Canada",amylfed
+"""been""","Brooklyn, NY, USA",amylfed
+"""been""","Fairbanks, AK, USA",amylfed
+"""been""","Vancouver, WA, USA",amylfed
+"""been""","Lexington, VA, USA",amylfed
+"""been""","Fukuyama, Japan",amylfed
+"""been""","Austin, TX, USA",amylfed
+"""been""","Dale City, VA, USA",amylfed
+"""been""","Greenwater, WA, USA",amylfed
+"""been""","Taipei, Taiwan",amylfed
+"""been""","Lanikai, HI, USA",amylfed
+"""been""","Dundee, NY, USA",amylfed
+"""been""","Medicine Hat, Alberta, Canada",amylfed
+"""been""","Red Deer, Alberta, Canada",amylfed
+"""been""","Carcross, Yukon, Canada",amylfed
+"""been""","Gypsum, CO, USA",amylfed
+"""been""","Pensacola, FL, USA",amylfed
+"""been""","Burwash Landing, Yukon, Canada",amylfed
+"""been""","Savannah, GA, USA",amylfed
+"""been""","Totolan, Philippines",amylfed
+"""been""","Fort Smith, AR, USA",amylfed
+"""been""","Frisco, CO, USA",amylfed
+"""been""","Amarillo, TX, USA",amylfed
+"""been""","Boyes Hot Springs, CA, USA",amylfed
+"""been""","Lafayette, CA, USA",amylfed
+"""been""","Vail, CO, USA",amylfed
+"""been""","Tulia, TX, USA",amylfed
+"""been""","Baltimore, MD, USA",amylfed
+"""been""","Houston, AK, USA",amylfed
+"""been""","Nashville, TN, USA",amylfed
+"""been""","Kingman, AZ, USA",amylfed
+"""been""","Elk Grove, CA, USA",amylfed
+"""been""","Lincoln, NE, USA",amylfed
+"""been""","Calgary, Alberta, Canada",amylfed
+"""been""","Edmonton, Alberta, Canada",amylfed
+"""been""","Danville, CA, USA",amylfed
+"""been""","Jacksonville, FL, USA",amylfed
+"""been""","Quezon City, Philippines",amylfed
+"""been""","Manila, Philippines",amylfed
+"""been""","Warwick, RI, USA",amylfed
+"""been""","Warren, RI, USA",amylfed
+"""been""","Union City, CA, USA",amylfed
+"""been""","Glenwood Springs, CO, USA",amylfed
+"""been""","Ramah, NM, USA",amylfed
+"""been""","Golden, CO, USA",amylfed
+"""been""","Georgetown, CO, USA",amylfed
+"""been""","Emeryville, CA, USA",amylfed
+"""been""","Bridgeport, CA, USA",amylfed
+"""been""","Brisbane, CA, USA",amylfed
+"""been""","Westerly, RI, USA",amylfed
+"""been""","Nogales, Mexico",amylfed
+"""been""","Vacaville, CA, USA",amylfed
+"""been""","North Attleboro, MA, USA",amylfed
+"""been""","Jasper, IN, USA",amylfed
+"""been""","Zuni, NM, USA",amylfed
+"""been""","Winston Salem, NC, USA",amylfed
+"""been""","Billings, MT, USA",amylfed
+"""been""","Ovid, NY, USA",amylfed
+"""been""","Nashua, NH, USA",amylfed
+"""been""","Erie, PA, USA",amylfed
+"""been""","Malmo, Sweden",amylfed
+"""been""","Sydney, Nova Scotia, Canada",amylfed
+"""been""","Midvale, UT, USA",amylfed
+"""been""","Halifax, Nova Scotia, Canada",amylfed
+"""been""","Poseyville, IN, USA",amylfed
+"""been""","Ruther Glen, VA, USA",amylfed
+"""been""","Salem, VA, USA",amylfed
+"""been""","Merrimack, NH, USA",amylfed
+"""been""","O'Brien, OR, USA",amylfed
+"""been""","Saint John, New Brunswick, Canada",amylfed
+"""been""","Tessera, Italy",amylfed
+"""been""","London, UK",amylfed
+"""been""","Worcester, MA, USA",amylfed
+"""been""","Port au Port, Newfoundland and Labrador, Canada",amylfed
+"""been""","Wrentham, MA, USA",amylfed
+"""been""","Auburn, NY, USA",amylfed
+"""been""","Norfolk, MA, USA",amylfed
+"""been""","North Andover, MA, USA",amylfed
+"""been""","Burlington, WA, USA",amylfed
+"""been""","Kellogg, ID, USA",amylfed
+"""been""","Davenport, FL, USA",amylfed
+"""been""","Manchester, NH, USA",amylfed
+"""been""","Tucumcari, NM, USA",amylfed
+"""been""","Madbury, NH, USA",amylfed
+"""been""","Brandon, Manitoba, Canada",amylfed
+"""been""","Corella, Philippines",amylfed
+"""been""","Winnipeg, Manitoba, Canada",amylfed
+"""been""","Yarmouth, MA, USA",amylfed
+"""been""","Fredericton, New Brunswick, Canada",amylfed
+"""been""","Lehi, UT, USA",amylfed
+"""been""","Roanoke, VA, USA",amylfed
+"""been""","Moncton, New Brunswick, Canada",amylfed
+"""been""","Indianapolis, IN, USA",amylfed
+"""been""","Westport, MA, USA",amylfed
+"""been""","Huntingburg, IN, USA",amylfed
+"""been""","Washington DC, DC, USA",amylfed
+"""been""","Ka'anapali, HI, USA",amylfed
+"""been""","Watonga, OK, USA",amylfed
+"""been""","Lincoln, NH, USA",amylfed
+"""been""","Hershey, PA, USA",amylfed
+"""been""","Londonderry, NH, USA",amylfed
+"""been""","Westport Point, MA, USA",amylfed
+"""been""","Vernon, British Columbia, Canada",amylfed
+"""been""","Cheyenne, WY, USA",amylfed
+"""been""","Daytona Beach, FL, USA",amylfed
+"""been""","West Springfield, MA, USA",amylfed
+"""been""","Portland, ME, USA",amylfed
+"""been""","Mazama, WA, USA",amylfed
+"""been""","Santa Rosa, CA, USA",amylfed
+"""been""","Woodstock, New Brunswick, Canada",amylfed
+"""been""","Lee, NH, USA",amylfed
+"""been""","Warner, OK, USA",amylfed
+"""been""","Lebanon, NH, USA",amylfed
+"""been""","Santa Maria, CA, USA",amylfed
+"""been""","Portage la Prairie, Manitoba, Canada",amylfed
+"""been""","Clearwater, FL, USA",amylfed
+"""been""","Marblemount, WA, USA",amylfed
+"""been""","Glacier View, AK, USA",amylfed
+"""been""","Westborough, MA, USA",amylfed
+"""been""","Westford, MA, USA",amylfed
+"""been""","Louisville, KY, USA",amylfed
+"""been""","Rawlings, VA, USA",amylfed
+"""been""","Bellevue, WA, USA",amylfed
+"""been""","Idaho Falls, ID, USA",amylfed
+"""been""","Waialua, HI, USA",amylfed
+"""been""","Missoula, MT, USA",amylfed
+"""been""","Maalaea, HI, USA",amylfed
+"""been""","Shiprock, NM, USA",amylfed
+"""been""","Sausalito, CA, USA",amylfed
+"""been""","Helper, UT, USA",amylfed
+"""been""","Laie, HI, USA",amylfed
+"""been""","San Rafael, CA, USA",amylfed
+"""been""","Lynnwood, WA, USA",amylfed
+"""been""","Atlanta, GA, USA",amylfed
+"""been""","San Ramon, CA, USA",amylfed
+"""been""","San Simeon, CA, USA",amylfed
+"""been""","Tokyo, Japan",amylfed
+"""been""","Kailua, HI, USA",amylfed
+"""been""","Willows, CA, USA",amylfed
+"""been""","San Pablo, CA, USA",amylfed
+"""been""","Richmond, VA, USA",amylfed
+"""been""","Kapolei, HI, USA",amylfed
+"""been""","Kaneohe, HI, USA",amylfed
+"""been""","Cambridge, MA, USA",amylfed
+"""been""","Elmira, NY, USA",amylfed
+"""been""","Lowell, MA, USA",amylfed
+"""been""","Hampton, NH, USA",amylfed
+"""been""","Santa Rosa, NM, USA",amylfed
+"""been""","Hanover, NH, USA",amylfed
+"""been""","Niagara Falls, Ontario, Canada",amylfed
+"""been""","Niagara-on-the-Lake, Ontario, Canada",amylfed
+"""been""","Castro Valley, CA, USA",amylfed
+"""been""","Green River, UT, USA",amylfed
+"""been""","Hauula, HI, USA",amylfed
+"""been""","Venice, Italy",amylfed
+"""been""","Verona, Italy",amylfed
+"""been""","Santa Cruz, CA, USA",amylfed
+"""been""","Springfield, IL, USA",amylfed
+"""been""","Williamson, WV, USA",amylfed
+"""been""","Haleiwa, HI, USA",amylfed
+"""been""","Woodbridge, VA, USA",amylfed
+"""been""","Santa Barbara, CA, USA",amylfed
+"""been""","Omaha, NE, USA",amylfed
+"""been""","Branson, MO, USA",amylfed
+"""been""","Anchorage, AK, USA",amylfed
+"""been""","Livingston, MT, USA",amylfed
+"""been""","Kapalua, HI, USA",amylfed
+"""been""","Troutman, NC, USA",amylfed
+"""been""","San Ysidro, CA, USA",amylfed
+"""been""","Winters, CA, USA",amylfed
+"""been""","Pukalani, HI, USA",amylfed
+"""been""","Wailuku, HI, USA",amylfed
+"""been""","Waldron, AR, USA",amylfed
+"""been""","Lexington, NC, USA",amylfed
+"""been""","Stamford, CT, USA",amylfed
+"""been""","Montezuma, NY, USA",amylfed
+"""been""","Mansfield, AR, USA",amylfed
+"""been""","Fairhaven, MA, USA",amylfed
+"""been""","Saint Paul, MN, USA",amylfed
+"""been""","Concord, NC, USA",amylfed
+"""been""","Falmouth, MA, USA",amylfed
+"""been""","Fall River, MA, USA",amylfed
+"""been""","Carlin, NV, USA",amylfed
+"""been""","Tagbilaran City, Philippines",amylfed
+"""been""","Dallas, TX, USA",amylfed
+"""been""","Marion, AR, USA",amylfed
+"""been""","Lee Vining, CA, USA",amylfed
+"""been""","Lemon Cove, CA, USA",amylfed
+"""been""","Wolcott, CO, USA",amylfed
+"""been""","Clemmons, NC, USA",amylfed
+"""been""","West Kelowna, British Columbia, Canada",amylfed
+"""been""","Bloomington, MN, USA",amylfed
+"""been""","Larkspur, CA, USA",amylfed
+"""been""","Taoyuan, Taiwan",amylfed
+"""been""","Paris, France",amylfed
+"""been""","Easton, MA, USA",amylfed
+"""been""","Travemuende, Germany",amylfed
+"""been""","Teslin, Yukon, Canada",amylfed
+"""been""","Las Cruces, NM, USA",amylfed
+"""been""","Las Vegas, NM, USA",amylfed
+"""been""","Laguna, NM, USA",amylfed
+"""been""","Charlotte, NC, USA",amylfed
+"""been""","Raynham, MA, USA",amylfed
+"""been""","Reading, MA, USA",amylfed
+"""been""","Rehoboth, MA, USA",amylfed
+"""been""","East Freetown, MA, USA",amylfed
+"""been""","East Orleans, MA, USA",amylfed
+"""been""","Cuyahoga Falls, OH, USA",amylfed
+"""been""","Kittery, ME, USA",amylfed
+"""been""","Orick, CA, USA",amylfed
+"""been""","Orinda, CA, USA",amylfed
+"""been""","Lonoke, AR, USA",amylfed
+"""been""","Orland, CA, USA",amylfed
+"""been""","Rose Hill, NC, USA",amylfed
+"""been""","Avon, CO, USA",amylfed
+"""been""","Plainville, MA, USA",amylfed
+"""been""","Plymouth, MA, USA",amylfed
+"""been""","Elk City, OK, USA",amylfed
+"""been""","Provincetown, MA, USA",amylfed
+"""been""","Wailea, HI, USA",amylfed
+"""been""","O Brien, CA, USA",amylfed
+"""been""","Houston, British Columbia, Canada",amylfed
+"""been""","El Reno, OK, USA",amylfed
+"""been""","Dedham, MA, USA",amylfed
+"""been""","Dartmouth, MA, USA",amylfed
+"""been""","Oklahoma City, OK, USA",amylfed
+"""been""","Dighton, MA, USA",amylfed
+"""been""","Hamburg, Germany",amylfed
+"""been""","Oakland, CA, USA",amylfed
+"""been""","Oakville, CA, USA",amylfed
+"""been""","Okemah, OK, USA",amylfed
+"""been""","Columbus, OH, USA",amylfed
+"""been""","Orem, UT, USA",amylfed
+"""been""","Hubbard, OH, USA",amylfed
+"""been""","Orleans, MA, USA",amylfed
+"""been""","Leavenworth, IN, USA",amylfed
+"""been""","North Uxbridge, MA, USA",amylfed
+"""been""","Raleigh, NC, USA",amylfed
+"""been""","Northwood, NH, USA",amylfed
+"""been""","Gallup, NM, USA",amylfed
+"""been""","Batavia, NY, USA",amylfed
+"""been""","Nottingham, NH, USA",amylfed
+"""been""","Dease Lake, British Columbia, Canada",amylfed
+"""been""","Penn Yan, NY, USA",amylfed
+"""been""","Northborough, MA, USA",amylfed
+"""been""","Northampton, MA, USA",amylfed
+"""been""","Chelmsford, MA, USA",amylfed
+"""been""","Northbridge, MA, USA",amylfed
+"""been""","Norton, MA, USA",amylfed
+"""been""","Osnabruck, Germany",amylfed
+"""been""","Norwood, MA, USA",amylfed
+"""been""","Bozeman, MT, USA",amylfed
+"""been""","Sioux Falls, SD, USA",amylfed
+"""been""","Hillsborough, NC, USA",amylfed
+"""been""","Muldrow, OK, USA",amylfed
+"""been""","Monticello, UT, USA",amylfed
+"""been""","Indian, AK, USA",amylfed
+"""been""","Murray, UT, USA",amylfed
+"""been""","Copenhagen, Denmark",amylfed
+"""been""","Seligman, AZ, USA",amylfed
+"""been""","Ullin, IL, USA",amylfed
+"""been""","Salem, OR, USA",amylfed
+"""been""","Scottsdale, AZ, USA",amylfed
+"""been""","Ash Fork, AZ, USA",amylfed
+"""been""","Winthrop, WA, USA",amylfed
+"""been""","Forrest City, AR, USA",amylfed
+"""been""","Shamrock, TX, USA",amylfed
+"""been""","Mill Valley, CA, USA",amylfed
+"""been""","Grand Rapids, MI, USA",amylfed
+"""been""","Summerland, British Columbia, Canada",amylfed
+"""been""","Malay, Philippines",amylfed
+"""been""","Barstow, CA, USA",amylfed
+"""been""","Wichita Falls, TX, USA",amylfed
+"""been""","Interlaken, NY, USA",amylfed
+"""been""","Saint Helens, OR, USA",amylfed
+"""been""","McKinleyville, CA, USA",amylfed
+"""been""","Greenbrae, CA, USA",amylfed
+"""been""","Yountville, CA, USA",amylfed
+"""been""","Berkley, MA, USA",amylfed
+"""been""","Clayton, CA, USA",amylfed
+"""been""","Silver Springs, NV, USA",amylfed
+"""been""","Fairfield, CT, USA",amylfed
+"""been""","Prospect, OR, USA",amylfed
+"""been""","Danbury, CT, USA",amylfed
+"""been""","Darien, CT, USA",amylfed
+"""been""","Lost Hills, CA, USA",amylfed
+"""been""","Glen Ellen, CA, USA",amylfed
+"""been""","St. Petersburg, FL, USA",amylfed
+"""been""","Fancy Gap, VA, USA",amylfed
+"""been""","Ashland, VA, USA",amylfed
+"""been""","Lakewood, CO, USA",amylfed
+"""been""","Gilroy, CA, USA",amylfed
+"""been""","Minneapolis, MN, USA",amylfed
+"""been""","Horseheads, NY, USA",amylfed
+"""been""","Selfoss, Iceland",amylfed
+"""been""","Thingvellir, Iceland",amylfed
+"""been""","Anderson, AK, USA",amylfed
+"""been""","Durham, NC, USA",amylfed
+"""been""","Portland, OR, USA",amylfed
+"""been""","Madera, CA, USA",amylfed
+"""been""","Columbus, GA, USA",amylfed
+"""been""","Fairfax, VA, USA",amylfed
+"""been""","Saint Louis, MO, USA",amylfed
+"""been""","Fort Bragg, CA, USA",amylfed
+"""been""","Dobson, NC, USA",amylfed
+"""been""","Piedmont, CA, USA",amylfed
+"""been""","Lodi, CA, USA",amylfed
+"""been""","Phoenix, AZ, USA",amylfed
+"""been""","Sabang, Philippines",amylfed
+"""been""","Elkton, VA, USA",amylfed
+"""been""","Pinole, CA, USA",amylfed
+"""been""","Evansville, IN, USA",amylfed
+"""been""","Himrod, NY, USA",amylfed
+"""been""","English, IN, USA",amylfed
+"""been""","Bellville, OH, USA",amylfed
+"""been""","Kastrup, Denmark",amylfed
+"""been""","Elkton, MD, USA",amylfed
+"""been""","Lovelock, NV, USA",amylfed
+"""been""","Fremont, CA, USA",amylfed
+"""been""","Pittsburg, CA, USA",amylfed
+"""been""","Pixley, CA, USA",amylfed
+"""been""","Los Angeles, CA, USA",amylfed
+"""been""","Johnson's Crossing, Yukon, Canada",amylfed
+"""been""","Prescott, AZ, USA",amylfed
+"""been""","Galt, CA, USA",amylfed
+"""been""","Placerville, CA, USA",amylfed
+"""been""","Fresno, CA, USA",amylfed
+"""been""","East Saint Louis, IL, USA",amylfed
+"""been""","Hawthorne, NV, USA",amylfed
+"""been""","Baton Rouge, LA, USA",amylfed
+"""been""","Pico, Portugal",amylfed
+"""been""","Patterson, CA, USA",amylfed
+"""been""","Boracay, Philippines",amylfed
+"""been""","Augusta, GA, USA",amylfed
+"""been""","Milwaukee, WI, USA",amylfed
+"""been""","St. Teresa, Newfoundland and Labrador, Canada",amylfed
+"""been""","Fallon, NV, USA",amylfed
+"""been""","Bohol Island, Philippines",amylfed
+"""been""","Topley, British Columbia, Canada",amylfed
+"""been""","Puerto Princesa, Philippines",amylfed
+"""been""","Eckerty, IN, USA",amylfed
+"""been""","Palawan Island, Philippines",amylfed
+"""been""","Ponta Delgada, Portugal",amylfed
+"""been""","Sao Miguel, Portugal",amylfed
+"""been""","Terceira, Portugal",amylfed
+"""been""","Oahu, HI, USA",amylfed
+"""been""","Petaluma, CA, USA",amylfed
+"""been""","Livermore, CA, USA",amylfed
+"""been""","Lynchburg, VA, USA",amylfed
+"""been""","Livingston, CA, USA",amylfed
+"""been""","Bridgeport, CT, USA",amylfed
+"""been""","Elberfeld, IN, USA",amylfed
+"""been""","Framingham, MA, USA",amylfed
+"""been""","Foxborough, MA, USA",amylfed
+"""been""","Franklin, MA, USA",amylfed
+"""been""","Elko, NV, USA",amylfed
+"""been""","Seneca Falls, NY, USA",amylfed
+"""been""","Price, UT, USA",amylfed
+"""been""","Naples, FL, USA",amylfed
+"""been""","Wellfleet, MA, USA",amylfed
+"""been""","Glocester, RI, USA",amylfed
+"""been""","Pleasant Grove, UT, USA",amylfed
+"""been""","Grindavik, Iceland",amylfed
+"""been""","San Diego, CA, USA",amylfed
+"""been""","Bay Point, CA, USA",amylfed
+"""been""","Provo, UT, USA",amylfed
+"""been""","Raymond, NH, USA",amylfed
+"""been""","Mount Vernon, IL, USA",amylfed
+"""been""","Salem, NH, USA",amylfed
+"""been""","Copper Mountain, CO, USA",amylfed
+"""been""","Davis, CA, USA",amylfed
+"""been""","Stockton, CA, USA",amylfed
+"""been""","Cumberland, RI, USA",amylfed
+"""been""","Cranston, RI, USA",amylfed
+"""been""","East Providence, RI, USA",amylfed
+"""been""","Topeka, KS, USA",amylfed
+"""been""","Exeter, RI, USA",amylfed
+"""been""","Tagish, Yukon, Canada",amylfed
+"""been""","Sunol, CA, USA",amylfed
+"""been""","Houston, TX, USA",amylfed
+"""been""","Oxnadalur Valley, Iceland",amylfed
+"""been""","Santa Claus, IN, USA",amylfed
+"""been""","Central Falls, RI, USA",amylfed
+"""been""","Makati, Philippines",amylfed
+"""been""","Chepachet, RI, USA",amylfed
+"""been""","Boston, MA, USA",amylfed
+"""been""","Honolulu, HI, USA",amylfed
+"""been""","Cedar Rapids, IA, USA",amylfed
+"""been""","Coventry, RI, USA",amylfed
+"""been""","Denver, CO, USA",amylfed
+"""been""","Woonsocket, RI, USA",amylfed
+"""been""","Geneva, NY, USA",amylfed
+"""been""","Corning, NY, USA",amylfed
+"""been""","Maple Creek, Saskatchewan, Canada",amylfed
+"""been""","Barrington, RI, USA",amylfed
+"""been""","Diablo, CA, USA",amylfed
+"""been""","De Beque, CO, USA",amylfed
+"""been""","Cougar, WA, USA",amylfed
+"""been""","Newport, RI, USA",amylfed
+"""been""","Portsmouth, NH, USA",amylfed
+"""been""","Oroville, WA, USA",amylfed
+"""been""","Bristol, RI, USA",amylfed
+"""been""","Crockett, CA, USA",amylfed
+"""been""","Antioch, CA, USA",amylfed
+"""been""","Omak, WA, USA",amylfed
+"""been""","Buffalo, NY, USA",amylfed
+"""been""","Montpelier, VT, USA",amylfed
+"""been""","South San Francisco, CA, USA",amylfed
+"""been""","Clifton, CO, USA",amylfed
+"""been""","American Fork, UT, USA",amylfed
+"""been""","Flagstaff, AZ, USA",amylfed
+"""been""","American Canyon, CA, USA",amylfed
+"""been""","Anderson, CA, USA",amylfed
+"""been""","Newark, NJ, USA",amylfed
+"""been""","Anaheim, CA, USA",amylfed
+"""been""","Angels Camp, CA, USA",amylfed
+"""been""","Butte, MT, USA",amylfed
+"""been""","Columbia, MO, USA",amylfed
+"""been""","Springfield, MA, USA",amylfed
+"""been""","Okanogan, WA, USA",amylfed
+"""been""","Bismarck, ND, USA",amylfed
+"""been""","Daly City, CA, USA",amylfed
+"""been""","Baker, CA, USA",amylfed
+"""been""","Luray, VA, USA",amylfed
+"""been""","Bakersfield, CA, USA",amylfed
+"""been""","Three Rivers, CA, USA",amylfed
+"""been""","Kansas City, KS, USA",amylfed
+"""been""","Moab, UT, USA",amylfed
+"""been""","Buchanan, VA, USA",amylfed
+"""been""","Chambers, AZ, USA",amylfed
+"""been""","Furnas, Portugal",amylfed
+"""been""","Loay, Philippines",amylfed
+"""been""","Mill Hall, PA, USA",amylfed
+"""been""","Plainview, TX, USA",amylfed
+"""been""","San Antonio, TX, USA",amylfed
+"""been""","Santa Fe, NM, USA",amylfed
+"""been""","Taswell, IN, USA",amylfed
+"""been""","Tigard, OR, USA",amylfed
+"""been""","Copperopolis, CA, USA",amylfed
+"""been""","Hercules, CA, USA",amylfed
+"""been""","Killington, VT, USA",amylfed
+"""been""","Quincy, MA, USA",amylfed
+"""been""","San Francisco, CA, USA",amylfed
+"""been""","Corning, CA, USA",amylfed
+"""been""","Salem, MA, USA",amylfed
+"""been""","Concord, CA, USA",amylfed
+"""been""","Tucson, AZ, USA",amylfed
+"""been""","Alameda, CA, USA",amylfed
+"""been""","Alamo, CA, USA",amylfed
+"""been""","Ribeira Grande, Portugal",amylfed
+"""been""","Hayward, CA, USA",amylfed
+"""been""","Healdsburg, CA, USA",amylfed
+"""been""","Providence, RI, USA",amylfed
+"""been""","Vila Franca do Campo, Portugal",amylfed
+"""been""","Mount Vernon, WA, USA",amylfed
+"""been""","Cottonwood, CA, USA",amylfed
+"""been""","Willow, AK, USA",amylfed
+"""been""","Parachute, CO, USA",amylfed
+"""been""","Whittier, AK, USA",amylfed
+"""been""","Tampa, FL, USA",amylfed
+"""been""","Putnam, CT, USA",amylfed
+"""been""","Corte Madera, CA, USA",amylfed
+"""been""","Palisade, CO, USA",amylfed
+"""been""","Tallahassee, FL, USA",amylfed
+"""been""","Triangle, VA, USA",amylfed
+"""been""","Lubbock, TX, USA",amylfed
+"""been""","Sonoma, CA, USA",amylfed
+"""been""","Wasilla, AK, USA",amylfed
+"""been""","Petersburg, VA, USA",amylfed
+"""been""","Groton, CT, USA",amylfed
+"""been""","Bellvue, CO, USA",amylfed
+"""been""","Albuquerque, NM, USA",amylfed
+"""been""","Cebu City, Philippines",amylfed
+"""been""","Talkeetna, AK, USA",amylfed
+"""been""","Glen Allen, VA, USA",amylfed
+"""been""","Greenwich, CT, USA",amylfed
+"""been""","Sutton, AK, USA",amylfed
+"""been""","Half Moon Bay, CA, USA",amylfed
+"""been""","Waterloo, NY, USA",amylfed
+"""been""","Watson Lake, Yukon, Canada",amylfed
+"""been""","Cave Junction, OR, USA",amylfed
+"""been""","Watkins Glen, NY, USA",amylfed
+"""been""","Haines Junction, Yukon, Canada",amylfed
+"""been""","Pasay, Philippines",amylfed
+"""been""","New Castle, CO, USA",amylfed
+"""been""","Macon, GA, USA",amylfed
+"""been""","Shady Cove, OR, USA",amylfed
+"""been""","Salt Lake City, UT, USA",amylfed
+"""been""","Danao, Philippines",amylfed
+"""been""","Trapper Creek, AK, USA",amylfed
+"""been""","Tok, AK, USA",amylfed
+"""been""","Bad Oeynhausen, Germany",amylfed
+"""been""","South Hazelton, British Columbia, Canada",amylfed
+"""been""","New Bedford, MA, USA",amylfed
+"""been""","Tombstone, AZ, USA",amylfed
+"""been""","Ithaca, NY, USA",amylfed
+"""been""","Lancaster, PA, USA",amylfed
+"""been""","Concord, NH, USA",amylfed
+"""been""","Utqiagvik, AK, USA",amylfed
+"""been""","Smithers, British Columbia, Canada",amylfed
+"""been""","Burdett, NY, USA",amylfed
+"""been""","Conway, NH, USA",amylfed
+"""been""","Shawnee, OK, USA",amylfed
+"""been""","Beaver Creek, Yukon, Canada",amylfed
+"""been""","York Beach, ME, USA",amylfed
+"""been""","Hafnarfjordur, Iceland",amylfed
+"""been""","Statesville, NC, USA",amylfed
+"""been""","Okawville, IL, USA",amylfed
+"""been""","Spencer, MA, USA",amylfed
+"""been""","Peachland, British Columbia, Canada",amylfed
+"""been""","Verona, VA, USA",amylfed
+"""been""","Norfolk, VA, USA",amylfed
+"""been""","Montgomery, AL, USA",amylfed
+"""been""","Little Fort, British Columbia, Canada",amylfed
+"""been""","Great Falls, MT, USA",amylfed
+"""been""","Chickaloon, AK, USA",amylfed
+"""been""","Mobile, AL, USA",amylfed
+"""been""","Cantwell, AK, USA",amylfed
+"""been""","Chester, NH, USA",amylfed
+"""been""","Sallisaw, OK, USA",amylfed
+"""been""","Ferdinand, IN, USA",amylfed
+"""been""","Keflavik, Iceland",amylfed
+"""been""","Bangor, ME, USA",amylfed
+"""been""","York, ME, USA",amylfed
+"""been""","Somerset, MA, USA",amylfed
+"""been""","West Valley City, UT, USA",amylfed
+"""been""","Somerville, MA, USA",amylfed
+"""been""","O'Fallon, IL, USA",amylfed
+"""been""","Kaleden, British Columbia, Canada",amylfed
+"""been""","Ludlow, CA, USA",amylfed
+"""been""","Candia, NH, USA",amylfed
+"""been""","Roland, OK, USA",amylfed
+"""been""","Saint-Jean-sur-Richelieu, Quebec, Canada",amylfed
+"""been""","Eugene, OR, USA",amylfed
+"""been""","Bronx, NY, USA",amylfed
+"""been""","Brussels, Belgium",amylfed
+"""been""","Wellington, UT, USA",amylfed
+"""been""","New Castle, DE, USA",amylfed
+"""been""","Newark, DE, USA",amylfed
+"""been""","Turlock, CA, USA",amylfed
+"""been""","Reykjavik, Iceland",amylfed
+"""been""","Redwood National Park, CA, USA",amylfed
+"""been""","Tulare, CA, USA",amylfed
+"""been""","Wendover, UT, USA",amylfed
+"""been""","Sharon, MA, USA",amylfed
+"""been""","Seekonk, MA, USA",amylfed
+"""been""","Carmen, Philippines",amylfed
+"""been""","Wilmington, DE, USA",amylfed
+"""been""","Staten Island, NY, USA",amylfed
+"""been""","West Nottingham, NH, USA",amylfed
+"""been""","Milan, NM, USA",amylfed
+"""been""","Liege, Belgium",amylfed
+"""been""","Shrewsbury, MA, USA",amylfed
+"""been""","Grants, NM, USA",amylfed
+"""been""","Thompson, UT, USA",amylfed
+"""been""","Gettysburg, PA, USA",amylfed
+"""been""","Waterville, ME, USA",amylfed
+"""been""","Philadelphia, PA, USA",amylfed
+"""been""","Winnemucca, NV, USA",amylfed
+"""been""","West Wendover, NV, USA",amylfed
+"""been""","Wells, NV, USA",amylfed
+"""been""","Lake Country, British Columbia, Canada",amylfed
+"""been""","Warner, NH, USA",amylfed
+"""been""","Barrington, NH, USA",amylfed
+"""been""","Port Washington, NY, USA",amylfed
+"""been""","Akron, OH, USA",amylfed
+"""been""","Sandwich, MA, USA",amylfed
+"""been""","Springville, UT, USA",amylfed
+"""been""","Everett, WA, USA",amylfed
+"""been""","Spanish Fork, UT, USA",amylfed
+"""been""","Boron, CA, USA",amylfed
+"""been""","Loboc, Philippines",amylfed
+"""been""","Barriere, British Columbia, Canada",amylfed
+"""been""","Stateline, NV, USA",amylfed
+"""been""","West Yellowstone, MT, USA",amylfed
+"""been""","Chase, British Columbia, Canada",amylfed
+"""been""","Hamburg, NJ, USA",amylfed
+"""been""","Burns Lake, British Columbia, Canada",amylfed
+"""been""","Tracy, CA, USA",amylfed
+"""been""","South Salt Lake, UT, USA",amylfed
+"""been""","Topaz, CA, USA",amylfed
+"""been""","Memphis, TN, USA",amylfed
+"""been""","Telkwa, British Columbia, Canada",amylfed
+"""been""","North Providence, RI, USA",amylfed
+"""been""","Fruita, CO, USA",amylfed
+"""been""","North Kingstown, RI, USA",amylfed
+"""been""","Dimiao, Philippines",amylfed
+"""been""","Berkeley, CA, USA",amylfed
+"""been""","Claymont, DE, USA",amylfed
+"""been""","Eagle, CO, USA",amylfed
+"""been""","McLure, British Columbia, Canada",amylfed
+"""been""","Elmira, Prince Edward Island, Canada",amylfed
+"""been""","Crescent Lake, OR, USA",amylfed
+"""been""","Pinehurst, CA, USA",amylfed
+"""been""","Lincoln, RI, USA",amylfed
+"""been""","Kingston, RI, USA",amylfed
+"""been""","Manville, RI, USA",amylfed
+"""been""","Benicia, CA, USA",amylfed
+"""been""","Pocatello, ID, USA",amylfed
+"""been""","Ventura, CA, USA",amylfed
+"""been""","Sandy, UT, USA",amylfed
+"""been""","Staunton, VA, USA",amylfed
+"""been""","Narragansett, RI, USA",amylfed
+"""been""","Little Rock, AR, USA",amylfed
+"""been""","Stafford, VA, USA",amylfed
+"""been""","Johnston, RI, USA",amylfed
+"""been""","El Paso, TX, USA",amylfed
+"""been""","Temecula, CA, USA",amylfed
+"""been""","New Baden, IL, USA",amylfed
+"""been""","New York City, NY, USA",amylfed
+"""been""","Cowansville, Quebec, Canada",amylfed
+"""been""","Tehachapi, CA, USA",amylfed
+"""been""","Okanagan Falls, British Columbia, Canada",amylfed
+"""been""","Charlottesville, VA, USA",amylfed
+"""been""","Amsterdam, The Netherlands",amylfed
+"""been""","Lodi, NY, USA",amylfed
+"""been""","Ledyard, CT, USA",amylfed
+"""been""","Richmond, CA, USA",amylfed
+"""been""","Modesto, CA, USA",amylfed
+"""been""","Bluff, UT, USA",amylfed
+"""been""","Mojave, CA, USA",amylfed
+"""been""","New Hazelton, British Columbia, Canada",amylfed
+"""been""","Milford, MA, USA",amylfed
+"""been""","Praia da Vitoria, Portugal",amylfed
+"""been""","Cavendish, Prince Edward Island, Canada",amylfed
+"""been""","Millis, MA, USA",amylfed
+"""been""","Iowa City, IA, USA",amylfed
+"""been""","Panglao Island, Philippines",amylfed
+"""been""","Medford, MA, USA",amylfed
+"""been""","Haubstadt, IN, USA",amylfed
+"""been""","Calumet, OK, USA",amylfed
+"""been""","Murray Harbour, Prince Edward Island, Canada",amylfed
+"""been""","Dryden, Ontario, Canada",amylfed
+"""been""","Medway, MA, USA",amylfed
+"""been""","Osoyoos, British Columbia, Canada",amylfed
+"""been""","Mendon, MA, USA",amylfed
+"""been""","Methuen, MA, USA",amylfed
+"""been""","Middleborough, MA, USA",amylfed
+"""been""","Middleboro, MA, USA",amylfed
+"""been""","Grenoble, France",amylfed
+"""been""","Lewiston, NY, USA",amylfed
+"""been""","Limhamn, Sweden",amylfed
+"""been""","Merced, CA, USA",amylfed
+"""been""","East Stroudsburg, PA, USA",amylfed
+"""been""","Rancho Cordova, CA, USA",amylfed
+"""been""","Brossard, Quebec, Canada",amylfed
+"""been""","Marlborough, MA, USA",amylfed
+"""been""","Mashpee, MA, USA",amylfed
+"""been""","Mattapoisett, MA, USA",amylfed
+"""been""","Red Bluff, CA, USA",amylfed
+"""been""","Redding, CA, USA",amylfed
+"""been""","Hazelton, British Columbia, Canada",amylfed
+"""been""","Albany, NY, USA",amylfed
+"""been""","Millbrae, CA, USA",amylfed
+"""been""","Harrisburg, PA, USA",amylfed
+"""been""","Kenora, Ontario, Canada",amylfed
+"""been""","Tulsa, OK, USA",amylfed
+"""been""","Lexington, KY, USA",amylfed
+"""been""","Grayville, IL, USA",amylfed
+"""been""","West Barnstable, MA, USA",amylfed
+"""been""","Jackson, MS, USA",amylfed
+"""been""","Mansfield, MA, USA",amylfed
+"""been""","Springfield, MO, USA",amylfed
+"""been""","Eagle River, AK, USA",amylfed
+"""been""","Yosemite National Park, CA, USA",amylfed
+"""been""","Mooresville, NC, USA",amylfed
+"""been""","Roswell, NM, USA",amylfed
+"""been""","Mitchell, SD, USA",amylfed
+"""been""","Texola, OK, USA",amylfed
+"""been""","Mansfield, OH, USA",amylfed
+"""been""","Wareham, MA, USA",amylfed
+"""been""","Cape Neddick, ME, USA",amylfed
+"""been""","French Lick, IN, USA",amylfed
+"""been""","Ashland, MA, USA",amylfed
+"""been""","Assonet, MA, USA",amylfed
+"""been""","Attleboro, MA, USA",amylfed
+"""been""","Epping, NH, USA",amylfed
+"""been""","Chattanooga, TN, USA",amylfed
+"""been""","Niagara Falls, NY, USA",amylfed
+"""been""","Uxbridge, MA, USA",amylfed
+"""been""","Brunswick, ME, USA",amylfed
+"""been""","Lakeville, MA, USA",amylfed
+"""been""","Hattiesburg, MS, USA",amylfed
+"""been""","Walpole, MA, USA",amylfed
+"""been""","Hudson, MA, USA",amylfed
+"""been""","Pleasant Hill, CA, USA",amylfed
+"""been""","Chugiak, AK, USA",amylfed
+"""been""","Pleasanton, CA, USA",amylfed
+"""been""","Clear, AK, USA",amylfed
+"""been""","Elkin, NC, USA",amylfed
+"""been""","Taunton, MA, USA",amylfed
+"""been""","Tawala, Philippines",amylfed
+"""been""","Hyannis Port, MA, USA",amylfed
+"""been""","Hyannis, MA, USA",amylfed
+"""been""","Chistochina, AK, USA",amylfed
+"""been""","Port Costa, CA, USA",amylfed
+"""been""","Dover, NH, USA",amylfed
+"""been""","Pollock Pines, CA, USA",amylfed
+"""been""","Durham, NH, USA",amylfed
+"""been""","Pinehill, NM, USA",amylfed
+"""been""","Point Reyes Station, CA, USA",amylfed
+"""been""","Albany, OR, USA",amylfed
+"""been""","Stoughton, MA, USA",amylfed
+"""been""","Sittard, The Netherlands",amylfed
+"""been""","Holliston, MA, USA",amylfed
+"""been""","Sudbury, MA, USA",amylfed
+"""been""","Grants Pass, OR, USA",amylfed
+"""been""","Sturbridge, MA, USA",amylfed
+"""been""","Acushnet, MA, USA",amylfed
+"""been""","Sutton, MA, USA",amylfed
+"""been""","Hopedale, MA, USA",amylfed
+"""been""","Newport, ME, USA",amylfed
+"""been""","Holyoke, MA, USA",amylfed
+"""been""","Warfield, VA, USA",amylfed
+"""been""","Swansea, MA, USA",amylfed
+"""been""","Hopkinton, MA, USA",amylfed
+"""been""","Maastricht, The Netherlands",amylfed
+"""been""","North Cascades National Park, WA, USA",amylfed
+"""been""","Rumford, RI, USA",amylfed
+"""been""","Earlimart, CA, USA",amylfed
+"""been""","Glendale, AZ, USA",amylfed
+"""been""","Mount Rainier National Park, WA, USA",amylfed
+"""been""","Slatersville, RI, USA",amylfed
+"""been""","Smithfield, RI, USA",amylfed
+"""been""","Tiverton, RI, USA",amylfed
+"""been""","Echo Lake, CA, USA",amylfed
+"""been""","Quebec City, Quebec, Canada",amylfed
+"""been""","Montreal, Quebec, Canada",amylfed
+"""been""","Summerside, Prince Edward Island, Canada",amylfed
+"""been""","Charlottetown, Prince Edward Island, Canada",amylfed
+"""been""","Keremeos, British Columbia, Canada",amylfed
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",amylfed
+"""been""","Detroit, MI, USA",amylfed
+"""been""","Gimpo, South Korea",amylfed
+"""been""","Glennallen, AK, USA",amylfed
+"""been""","El Cerrito, CA, USA",amylfed
+"""been""","Girdwood, AK, USA",amylfed
+"""been""","North Smithfield, RI, USA",amylfed
+"""been""","North Scituate, RI, USA",amylfed
+"""been""","Kenai Fjords National Park, AK, USA",amylfed
+"""been""","Kyburz, CA, USA",amylfed
+"""been""","Carlisle, AR, USA",amylfed
+"""been""","Pawtucket, RI, USA",amylfed
+"""been""","Portsmouth, RI, USA",amylfed
+"""been""","Holbrook, AZ, USA",amylfed
+"""been""","Healy, AK, USA",amylfed
+"""been""","Riverside, RI, USA",amylfed
+"""been""","Birdseye, IN, USA",amylfed
+"""been""","Thunder Bay, Ontario, Canada",amylfed
+"""been""","Sudbury, Ontario, Canada",amylfed
+"""been""","Toronto, Ontario, Canada",amylfed
+"""been""","Baclayon, Philippines",amylfed
+"""been""","Pennsville, NJ, USA",amylfed
+"""been""","Dixon, CA, USA",amylfed
+"""been""","Denali National Park and Preserve, AK, USA",amylfed
+"""been""","Norwalk, CT, USA",amylfed
+"""been""","Norwich, CT, USA",amylfed
+"""been""","Blytheville, AR, USA",amylfed
+"""been""","Christiansburg, VA, USA",amylfed
+"""been""","Douglas City, CA, USA",amylfed
+"""been""","Kansas City, MO, USA",amylfed
+"""been""","Kalamazoo, MI, USA",amylfed
+"""been""","Joplin, MO, USA",amylfed
+"""been""","Farnham, Quebec, Canada",amylfed
+"""been""","Kenwood, CA, USA",amylfed
+"""been""","Plainfield, CT, USA",amylfed
+"""been""","Wilsonville, OR, USA",amylfed
+"""been""","Novato, CA, USA",amylfed
+"""been""","Dublin, CA, USA",amylfed
+"""been""","Arches National Park, UT, USA",amylfed
+"""been""","Silverthorne, CO, USA",amylfed
+"""been""","Pawcatuck, CT, USA",amylfed
+"""been""","Woodburn, OR, USA",amylfed
+"""been""","Canyonlands National Park, UT, USA",amylfed
+"""been""","Birmingham, AL, USA",amylfed
+"""been""","Abilene, TX, USA",amylfed
+"""been""","Brinkley, AR, USA",amylfed
+"""been""","Kettleman City, CA, USA",amylfed
+"""been""","North Bay, Ontario, Canada",amylfed
+"""been""","Chatham, MA, USA",amylfed
+"""been""","Crater Lake National Park, OR, USA",amylfed
+"""been""","Paranaque, Philippines",amylfed
+"""been""","Muir Beach, CA, USA",amylfed
+"""been""","New Haven, CT, USA",amylfed
+"""been""","Murphys, CA, USA",amylfed
+"""been""","New London, CT, USA",amylfed
+"""been""","Chamberlain, SD, USA",amylfed
+"""been""","Hot Springs Village, AR, USA",amylfed
+"""been""","Hillsville, VA, USA",amylfed
+"""been""","Napa, CA, USA",amylfed
+"""been""","Inverness, CA, USA",amylfed
+"""been""","Needles, CA, USA",amylfed
+"""been""","Buzzards Bay, MA, USA",amylfed
+"""been""","Burlington, MA, USA",amylfed
+"""been""","Atwater, CA, USA",amylfed
+"""been""","Newark, CA, USA",amylfed
+"""been""","Rifle, CO, USA",amylfed
+"""been""","Draper, UT, USA",amylfed
+"""been""","Jamestown, CA, USA",amylfed
+"""been""","Yarmouth, Nova Scotia, Canada",amylfed
+"""been""","Boylston, MA, USA",amylfed
+"""been""","Braintree, MA, USA",amylfed
+"""been""","Stephenville, Newfoundland and Labrador, Canada",amylfed
+"""been""","Bridgewater, MA, USA",amylfed
+"""been""","Brewster, MA, USA",amylfed
+"""been""","Leavesden, UK",amylfed
+"""been""","Falkland, British Columbia, Canada",amylfed
+"""been""","Clinton, OK, USA",amylfed
+"""been""","Greenville, NC, USA",amylfed
+"""been""","Moraga, CA, USA",amylfed
+"""been""","Rapid City, SD, USA",amylfed
+"""been""","Fredericksburg, TX, USA",amylfed
+"""been""","Winslow, AZ, USA",amylfed
+"""been""","Dauis, Philippines",amylfed
+"""been""","Milford, CT, USA",amylfed
+"""been""","Pittsburgh, PA, USA",amylfed
+"""been""","Morgan Hill, CA, USA",amylfed
+"""been""","Harrisonburg, VA, USA",amylfed
+"""been""","Yuma, AZ, USA",amylfed
+"""been""","Whitehorse, Yukon, Canada",amylfed
+"""been""","Incheon, South Korea",amylfed
+"""been""","Blackstone, MA, USA",amylfed
+"""been""","Caticlan, Philippines",amylfed
+"""been""","Bourne, MA, USA",amylfed
+"""been""","Walker, CA, USA",amylfed
+"""been""","New Providence Island, Bahamas",amylfed
+"""been""","Long Island City, NY, USA",amylfed
+"""been"",""want""","Nassau, Bahamas",amylfed
+"""been""","Paradise Island, Bahamas",amylfed
+"""been""","Tualatin, OR, USA",amylfed
+"""been""","Moose Jaw, Saskatchewan, Canada",amylfed
+"""been""","Fort Worth, TX, USA",amylfed
+"""been""","Rutherford, CA, USA",amylfed
+"""been""","Regina, Saskatchewan, Canada",amylfed
+"""been""","Graham, NC, USA",amylfed
+"""been""","Mystic, CT, USA",amylfed
+"""been""","Sacramento, CA, USA",amylfed
+"""been""","Swift Current, Saskatchewan, Canada",amylfed
+"""been""","Saskatoon, Saskatchewan, Canada",amylfed
+"""been""","Barnstable, MA, USA",amylfed
+"""been""","Needham, MA, USA",amylfed
+"""been""","Big Sur, CA, USA",amylfed
+"""been""","Natick, MA, USA",amylfed
+"""been""","Belmont, MA, USA",amylfed
+"""been""","Bellingham, MA, USA",amylfed
+"""been""","Wichita, KS, USA",amylfed

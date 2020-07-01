@@ -1,0 +1,503 @@
+tag,place,user
+"""want""","Chisinau, Moldova",haydesigner
+"""want""","Dubai, United Arab Emirates",haydesigner
+"""want""","Bucharest, Romania",haydesigner
+"""want""","Hong Kong, China",haydesigner
+"""been""","Jamul, CA, USA",haydesigner
+"""want""","Riga, Latvia",haydesigner
+"""been""","Los Angeles, CA, USA",haydesigner
+"""want""","Sarajevo, Bosnia and Herzegovina",haydesigner
+"""want""","Mombasa, Kenya",haydesigner
+"""want""","Hobart, Australia",haydesigner
+"""want""","Beijing, China",haydesigner
+"""want""","Ossora, Russia",haydesigner
+"""want""","Portland, OR, USA",haydesigner
+"""want""","Adak Island, AK, USA",haydesigner
+"""been""","Las Vegas, NV, USA",haydesigner
+"""been"",""want"",""fave""","Chicago, IL, USA",haydesigner
+"""want""","Annapolis, MD, USA",haydesigner
+"""want""","Tirana, Albania",haydesigner
+"""want""","Karachi, Pakistan",haydesigner
+"""want""","Luang Prabang, Laos",haydesigner
+"""want""","Minsk, Belarus",haydesigner
+"""want""","Nairobi, Kenya",haydesigner
+"""want""","Laayoune, Morocco",haydesigner
+"""want""","Warsaw, Poland",haydesigner
+"""want""","Glacis, Seychelles",haydesigner
+"""been""","Julian, CA, USA",haydesigner
+"""want""","Mogadishu, Somalia",haydesigner
+"""want""","Sao Tome, Sao Tome and Principe",haydesigner
+"""been""","Arlington, VA, USA",haydesigner
+"""want""","Cairo, Egypt",haydesigner
+"""want""","Giza, Egypt",haydesigner
+"""want""","Pyongyang, North Korea",haydesigner
+"""want""","Mexico City, Mexico",haydesigner
+"""been""","Cicero, IL, USA",haydesigner
+"""want""","Hersonissos, Greece",haydesigner
+"""been""","Saint Louis, MO, USA",haydesigner
+"""been""","Toronto, Ontario, Canada",haydesigner
+"""want""","Atka Island, AK, USA",haydesigner
+"""been""","Idyllwild, CA, USA",haydesigner
+"""want""","Attu Island, AK, USA",haydesigner
+"""want""","Port Moresby, Papua New Guinea",haydesigner
+"""been""","Chios, Greece",haydesigner
+"""want""","Belgrade, Serbia",haydesigner
+"""want""","Papeete, French Polynesia",haydesigner
+"""been""","Canakkale, Turkey",haydesigner
+"""want""","Mumbai, India",haydesigner
+"""want""","New Delhi, India",haydesigner
+"""want""","Jakarta, Indonesia",haydesigner
+"""been""","Long Beach, CA, USA",haydesigner
+"""been""","National City, CA, USA",haydesigner
+"""been""","Imperial Beach, CA, USA",haydesigner
+"""been""","Pine Valley, CA, USA",haydesigner
+"""been""","Grand Canyon National Park, AZ, USA",haydesigner
+"""want""","Phoenix, AZ, USA",haydesigner
+"""want""","Nanjing, China",haydesigner
+"""been""","Seaside Heights, NJ, USA",haydesigner
+"""been""","Milwaukee, WI, USA",haydesigner
+"""want""","Kolkata (Calcutta), India",haydesigner
+"""been"",""fave""","Monterey, CA, USA",haydesigner
+"""want""","Kribi, Cameroon",haydesigner
+"""want""","Santa Maria, Cape Verde",haydesigner
+"""been""","Saint Paul, MN, USA",haydesigner
+"""been"",""fave""","Stirling, UK",haydesigner
+"""want""","Banjul, Gambia",haydesigner
+"""been""","Paris, France",haydesigner
+"""want""","Libreville, Gabon",haydesigner
+"""been""","Versailles, France",haydesigner
+"""want""","Addis Ababa, Ethiopia",haydesigner
+"""want""","Khao Lak, Thailand",haydesigner
+"""want""","Sydney, Australia",haydesigner
+"""been""","Lemon Grove, CA, USA",haydesigner
+"""been""","Mackinaw City, MI, USA",haydesigner
+"""been""","Oahu, HI, USA",haydesigner
+"""been""","Pleasant Prairie, WI, USA",haydesigner
+"""want""","Nosy Be, Madagascar",haydesigner
+"""been""","Amsterdam, The Netherlands",haydesigner
+"""want""","Ducie Island, South Pacific",haydesigner
+"""been"",""fave""","Cusco, Peru",haydesigner
+"""want""","Moroni, Comoros",haydesigner
+"""been""","Lima, Peru",haydesigner
+"""want""","Prague, Czech Republic",haydesigner
+"""want""","Malabo, Equatorial Guinea",haydesigner
+"""been"",""fave""","Machu Picchu, Peru",haydesigner
+"""been""","Dallas, TX, USA",haydesigner
+"""been""","Gurnee, IL, USA",haydesigner
+"""want""","Rodrigues Island, Africa",haydesigner
+"""been""","Hainesville, IL, USA",haydesigner
+"""been""","New Buffalo, MI, USA",haydesigner
+"""been""","Mykonos, Greece",haydesigner
+"""been""","Kennebunkport, ME, USA",haydesigner
+"""want""","Cologne, Germany",haydesigner
+"""been""","Palm Springs, CA, USA",haydesigner
+"""want""","Santiago, Chile",haydesigner
+"""been""","Lakeside, CA, USA",haydesigner
+"""want""","Quito, Ecuador",haydesigner
+"""want""","Saint-Tropez, France",haydesigner
+"""want""","Copenhagen, Denmark",haydesigner
+"""want""","Vilnius, Lithuania",haydesigner
+"""want""","Nagarkot, Nepal",haydesigner
+"""want""","Pitcairn Island, South Pacific",haydesigner
+"""want""","Henderson Island, South Pacific",haydesigner
+"""want""","Madikwe Game Reserve, South Africa",haydesigner
+"""want""","Victoria Falls, Zimbabwe",haydesigner
+"""been""","Miami Beach, FL, USA",haydesigner
+"""been""","Miami, FL, USA",haydesigner
+"""want""","Larsen Bay, AK, USA",haydesigner
+"""want""","Ouagadougou, Burkina Faso",haydesigner
+"""been"",""fave""","Solana Beach, CA, USA",haydesigner
+"""want""","Luanda, Angola",haydesigner
+"""been""","Anaheim, CA, USA",haydesigner
+"""been""","Deerfield, IL, USA",haydesigner
+"""been""","Waukegan, IL, USA",haydesigner
+"""been""","Barrington, IL, USA",haydesigner
+"""been""","Des Plaines, IL, USA",haydesigner
+"""want""","Easter Island, Chile",haydesigner
+"""been""","Bury St. Edmunds, UK",haydesigner
+"""been""","Rockford, IL, USA",haydesigner
+"""want""","Victoria Falls, Zambia",haydesigner
+"""want""","Manama, Bahrain",haydesigner
+"""want""","Spokane, WA, USA",haydesigner
+"""been""","Athens, Greece",haydesigner
+"""want""","Tehran, Iran",haydesigner
+"""been""","Spring Valley, CA, USA",haydesigner
+"""been""","South San Francisco, CA, USA",haydesigner
+"""want""","Tunis, Tunisia",haydesigner
+"""want""","Matmata, Tunisia",haydesigner
+"""been""","Vista, CA, USA",haydesigner
+"""want""","Mecca, Saudi Arabia",haydesigner
+"""been""","Rolling Meadows, IL, USA",haydesigner
+"""want""","Aden, Yemen",haydesigner
+"""been""","Cary, IL, USA",haydesigner
+"""been""","Romeoville, IL, USA",haydesigner
+"""been""","San Francisco, CA, USA",haydesigner
+"""been""","Des Moines, IA, USA",haydesigner
+"""been""","Beach Park, IL, USA",haydesigner
+"""been"",""want""","Bruges, Belgium",haydesigner
+"""been"",""fave""","Aberdeen, UK",haydesigner
+"""want""","Avignon, France",haydesigner
+"""been""","Escondido, CA, USA",haydesigner
+"""want""","Fairbanks, AK, USA",haydesigner
+"""been""","Encinitas, CA, USA",haydesigner
+"""want""","Djibouti, Djibouti",haydesigner
+"""want""","Juneau, AK, USA",haydesigner
+"""been""","Crystal Lake, IL, USA",haydesigner
+"""been""","Volo, IL, USA",haydesigner
+"""been""","Wadsworth, IL, USA",haydesigner
+"""been""","Redwood National Park, CA, USA",haydesigner
+"""been""","South Holland, IL, USA",haydesigner
+"""want""","Yaounde, Cameroon",haydesigner
+"""been""","Aguas Calientes, Peru",haydesigner
+"""want""","Berlin, Germany",haydesigner
+"""want""","Wales, AK, USA",haydesigner
+"""want""","N'Djamena, Chad",haydesigner
+"""want""","Bangui, Central African Republic",haydesigner
+"""been""","Hemet, CA, USA",haydesigner
+"""been""","DeKalb, IL, USA",haydesigner
+"""want""","Praia, Cape Verde",haydesigner
+"""been"",""want""","Wasilla, AK, USA",haydesigner
+"""been""","Coronado, CA, USA",haydesigner
+"""been""","Alpine, CA, USA",haydesigner
+"""been""","Pensacola, FL, USA",haydesigner
+"""want""","Belfast, UK",haydesigner
+"""been""","York, UK",haydesigner
+"""want""","Cambridge, UK",haydesigner
+"""want""","Colombo, Sri Lanka",haydesigner
+"""been""","Brussels, Belgium",haydesigner
+"""want""","Lagos, Nigeria",haydesigner
+"""want""","Lusaka, Zambia",haydesigner
+"""want""","Dushanbe, Tajikistan",haydesigner
+"""want""","Stockholm, Sweden",haydesigner
+"""want""","Ashgabat, Turkmenistan",haydesigner
+"""been""","La Mesa, CA, USA",haydesigner
+"""been""","Orlando, FL, USA",haydesigner
+"""want""","Reykjavik, Iceland",haydesigner
+"""been""","Vatican City, Vatican City",haydesigner
+"""want""","Tashkent, Uzbekistan",haydesigner
+"""been"",""fave""","La Jolla, CA, USA",haydesigner
+"""been""","Chula Vista, CA, USA",haydesigner
+"""been""","El Cajon, CA, USA",haydesigner
+"""been"",""fave""","Niagara Falls, Ontario, Canada",haydesigner
+"""been""","Detroit, MI, USA",haydesigner
+"""been""","North Myrtle Beach, SC, USA",haydesigner
+"""want""","Algiers, Algeria",haydesigner
+"""want""","Yokohama, Japan",haydesigner
+"""been""","Salt Lake City, UT, USA",haydesigner
+"""want""","Cardiff, UK",haydesigner
+"""been"",""fave""","Rome, Italy",haydesigner
+"""want""","Lome, Togo",haydesigner
+"""been""","Vernon Hills, IL, USA",haydesigner
+"""want""","Vientiane, Laos",haydesigner
+"""want""","Kandy, Sri Lanka",haydesigner
+"""been""","Green Bay, WI, USA",haydesigner
+"""want""","Dakar, Senegal",haydesigner
+"""been""","Myrtle Beach, SC, USA",haydesigner
+"""been"",""fave""","Pompeii, Italy",haydesigner
+"""want""","Freetown, Sierra Leone",haydesigner
+"""been""","Ayr, UK",haydesigner
+"""want""","Khartoum, Sudan",haydesigner
+"""want""","Ulaanbaatar, Mongolia",haydesigner
+"""been""","Sorrento, Italy",haydesigner
+"""been""","Laguna Beach, CA, USA",haydesigner
+"""want""","Munich, Germany",haydesigner
+"""want""","Liverpool, UK",haydesigner
+"""been""","London, UK",haydesigner
+"""want""","Melbourne, Australia",haydesigner
+"""been""","Evanston, IL, USA",haydesigner
+"""been""","Buffalo Grove, IL, USA",haydesigner
+"""want""","Entebbe, Uganda",haydesigner
+"""want""","Auckland Central, New Zealand",haydesigner
+"""been""","Ithaca, NY, USA",haydesigner
+"""want""","Bishkek, Kyrgyzstan",haydesigner
+"""been""","Skokie, IL, USA",haydesigner
+"""want""","Kigali, Rwanda",haydesigner
+"""want""","Jerusalem, Israel",haydesigner
+"""want""","Tel Aviv, Israel",haydesigner
+"""want""","Florence, Italy",haydesigner
+"""been""","Sarasota, FL, USA",haydesigner
+"""been""","Perth, UK",haydesigner
+"""want""","Amman, Jordan",haydesigner
+"""want""","Dar es Salaam, Tanzania",haydesigner
+"""been""","West Palm Beach, FL, USA",haydesigner
+"""been""","North Palm Springs, CA, USA",haydesigner
+"""want""","Kabul, Afghanistan",haydesigner
+"""want""","Paihia, New Zealand",haydesigner
+"""been""","Keystone, SD, USA",haydesigner
+"""want""","Halifax, Nova Scotia, Canada",haydesigner
+"""want""","Wellington, New Zealand",haydesigner
+"""want""","Christchurch, New Zealand",haydesigner
+"""been""","Antioch, IL, USA",haydesigner
+"""been""","Minneapolis, MN, USA",haydesigner
+"""been""","Elk Grove Village, IL, USA",haydesigner
+"""been""","Arlington Heights, IL, USA",haydesigner
+"""want""","Palermo, Italy",haydesigner
+"""want""","Timbuktu, Mali",haydesigner
+"""been"",""fave""","Istanbul, Turkey",haydesigner
+"""want""","Corlu, Turkey",haydesigner
+"""want""","Marrakech, Morocco",haydesigner
+"""want""","Benidorm, Spain",haydesigner
+"""want""","Guwahati, India",haydesigner
+"""been""","Zion, IL, USA",haydesigner
+"""want""","Tokyo, Japan",haydesigner
+"""been""","Reno, NV, USA",haydesigner
+"""been""","Inverness, UK",haydesigner
+"""been""","Venice, Italy",haydesigner
+"""want""","Hanoi, Vietnam",haydesigner
+"""want""","Maseru, Lesotho",haydesigner
+"""want""","Bissau, Guinea-Bissau",haydesigner
+"""been""","Beloit, WI, USA",haydesigner
+"""been""","North Chicago, IL, USA",haydesigner
+"""want""","Madrid, Spain",haydesigner
+"""been""","Northbrook, IL, USA",haydesigner
+"""want""","Helsinki, Finland",haydesigner
+"""been""","Prospect Heights, IL, USA",haydesigner
+"""been""","Norridge, IL, USA",haydesigner
+"""want""","Winnipeg, Manitoba, Canada",haydesigner
+"""want""","Bangkok, Thailand",haydesigner
+"""been"",""fave""","Glasgow, UK",haydesigner
+"""want""","Taipei, Taiwan",haydesigner
+"""been""","Oak Lawn, IL, USA",haydesigner
+"""been""","Oak Park, IL, USA",haydesigner
+"""been""","Lake Bluff, IL, USA",haydesigner
+"""been""","Lake Forest, IL, USA",haydesigner
+"""been""","McHenry, IL, USA",haydesigner
+"""want""","Santo Domingo, Dominican Republic",haydesigner
+"""want""","Siem Reap, Cambodia",haydesigner
+"""been""","Harvard, IL, USA",haydesigner
+"""been""","Gettysburg, PA, USA",haydesigner
+"""want""","Douala, Cameroon",haydesigner
+"""want""","Moscow, Russia",haydesigner
+"""want""","Tumon, Mariana Islands",haydesigner
+"""been""","Harwood Heights, IL, USA",haydesigner
+"""been""","Hershey, PA, USA",haydesigner
+"""been""","Washington DC, DC, USA",haydesigner
+"""want""","Adamstown, South Pacific",haydesigner
+"""want""","Phnom Penh, Cambodia",haydesigner
+"""want""","Nur-Sultan, Kazakhstan",haydesigner
+"""want""","Niamey, Niger",haydesigner
+"""want""","Buenos Aires, Argentina",haydesigner
+"""been""","Santa Clarita, CA, USA",haydesigner
+"""want""","Windhoek, Namibia",haydesigner
+"""been""","Temecula, CA, USA",haydesigner
+"""been"",""fave""","Edinburgh, UK",haydesigner
+"""been""","Waimanalo, HI, USA",haydesigner
+"""want""","Antsiranana (Diego Suarez), Madagascar",haydesigner
+"""been""","Cabo San Lucas, Mexico",haydesigner
+"""want""","Maputo, Mozambique",haydesigner
+"""want""","Blantyre, Malawi",haydesigner
+"""want""","Nouakchott, Mauritania",haydesigner
+"""want""","Dhaka City, Bangladesh",haydesigner
+"""want""","Lampang, Thailand",haydesigner
+"""want""","Pointe Noire, Republic of the Congo",haydesigner
+"""want""","Baku, Azerbaijan",haydesigner
+"""want""","Bamako, Mali",haydesigner
+"""want""","Milan, Italy",haydesigner
+"""been""","Santee, CA, USA",haydesigner
+"""been""","Santa Ysabel, CA, USA",haydesigner
+"""been"",""fave""","Dumfries, UK",haydesigner
+"""been""","Kahuku, HI, USA",haydesigner
+"""been""","Kailua, HI, USA",haydesigner
+"""want""","Paradise Harbour, Antarctica",haydesigner
+"""been""","Kaneohe, HI, USA",haydesigner
+"""been""","Bonita, CA, USA",haydesigner
+"""been""","Coral Gables, FL, USA",haydesigner
+"""want""","Antananarivo, Madagascar",haydesigner
+"""want""","Vancouver, British Columbia, Canada",haydesigner
+"""want""","Tripoli, Libya",haydesigner
+"""been""","Laie, HI, USA",haydesigner
+"""want""","Ko Phi Phi Don, Thailand",haydesigner
+"""been""","Niles, IL, USA",haydesigner
+"""want""","Monrovia, Liberia",haydesigner
+"""want""","Ho Chi Minh City, Vietnam",haydesigner
+"""want""","Kumasi, Ghana",haydesigner
+"""been""","Oban, UK",haydesigner
+"""been""","San Marcos, CA, USA",haydesigner
+"""been""","Manila, Philippines",haydesigner
+"""been"",""fave""","Denver, CO, USA",haydesigner
+"""been""","Tinley Park, IL, USA",haydesigner
+"""want""","Calgary, Alberta, Canada",haydesigner
+"""been""","New York City, NY, USA",haydesigner
+"""been""","Winnetka, IL, USA",haydesigner
+"""want""","Male, Asia",haydesigner
+"""been""","Wisconsin Dells, WI, USA",haydesigner
+"""been""","Springfield, IL, USA",haydesigner
+"""been""","Winthrop Harbor, IL, USA",haydesigner
+"""want""","Edmonton, Alberta, Canada",haydesigner
+"""been""","Mundelein, IL, USA",haydesigner
+"""want""","Kuala Lumpur, Malaysia",haydesigner
+"""want""","Thursday Island, Australia",haydesigner
+"""want""","Scott Base, Antarctica",haydesigner
+"""want""","Maun, Botswana",haydesigner
+"""been""","Puerto Vallarta, Mexico",haydesigner
+"""been""","Mazatlan, Mexico",haydesigner
+"""want""","Anchorage, AK, USA",haydesigner
+"""been"",""fave""","Monterosso al Mare, Italy",haydesigner
+"""want""","Kyoto, Japan",haydesigner
+"""want""","Tegalalang, Indonesia",haydesigner
+"""been""","Jasper, Alberta, Canada",haydesigner
+"""been""","Schiller Park, IL, USA",haydesigner
+"""been""","Vernazza, Italy",haydesigner
+"""been"",""fave""","Baguio, Philippines",haydesigner
+"""want""","Osaka, Japan",haydesigner
+"""been""","San Onofre, CA, USA",haydesigner
+"""been""","Williamsburg, VA, USA",haydesigner
+"""been"",""fave""","San Diego, CA, USA",haydesigner
+"""been""","Naperville, IL, USA",haydesigner
+"""want""","Seward, AK, USA",haydesigner
+"""been""","San Ysidro, CA, USA",haydesigner
+"""been""","Bolingbrook, IL, USA",haydesigner
+"""want""","Asuncion, Paraguay",haydesigner
+"""want""","Hiroshima, Japan",haydesigner
+"""been""","Schaumburg, IL, USA",haydesigner
+"""want""","Galway, Ireland",haydesigner
+"""been""","Seattle, WA, USA",haydesigner
+"""want""","Dzaoudzi, Mayotte",haydesigner
+"""want""","Zabljak, Montenegro",haydesigner
+"""want""","Coronation Island, Antarctica",haydesigner
+"""want""","Kuala Belait, Brunei Darussalam",haydesigner
+"""been""","Corniglia, Italy",haydesigner
+"""want""","Dublin, Ireland",haydesigner
+"""been""","Dana Point, CA, USA",haydesigner
+"""want""","Hanga Roa, Chile",haydesigner
+"""been""","Camp Pendleton, CA, USA",haydesigner
+"""been""","Houston, TX, USA",haydesigner
+"""been""","Bomarzo, Italy",haydesigner
+"""want""","Walvis Bay, Namibia",haydesigner
+"""been""","Westchester, IL, USA",haydesigner
+"""been""","Rosemont, IL, USA",haydesigner
+"""been"",""want""","Honolulu, HI, USA",haydesigner
+"""been""","Palatine, IL, USA",haydesigner
+"""been""","Tijuana, Mexico",haydesigner
+"""been""","Westmont, IL, USA",haydesigner
+"""been""","Round Lake, IL, USA",haydesigner
+"""been""","Wheaton, IL, USA",haydesigner
+"""been""","Round Lake Beach, IL, USA",haydesigner
+"""want""","Caracas, Venezuela",haydesigner
+"""been""","Round Lake Heights, IL, USA",haydesigner
+"""want""","Havana, Cuba",haydesigner
+"""want""","Saint-Gilles-Les-Bains, Reunion Island",haydesigner
+"""been""","Sycamore, IL, USA",haydesigner
+"""been""","Round Lake Park, IL, USA",haydesigner
+"""been""","Wheeling, IL, USA",haydesigner
+"""want""","Scarborough, Trinidad and Tobago",haydesigner
+"""want""","Elephant Island, Antarctica",haydesigner
+"""been""","Janesville, WI, USA",haydesigner
+"""been""","Fort Lauderdale, FL, USA",haydesigner
+"""been""","Madison, WI, USA",haydesigner
+"""want""","Belle Mare, Africa",haydesigner
+"""been"",""fave""","Cardiff-by-the-Sea, CA, USA",haydesigner
+"""been"",""fave""","Key West, FL, USA",haydesigner
+"""been"",""fave""","Del Mar, CA, USA",haydesigner
+"""been""","Burlington, WI, USA",haydesigner
+"""been""","Carlsbad, CA, USA",haydesigner
+"""been""","Bensenville, IL, USA",haydesigner
+"""been""","Park City, IL, USA",haydesigner
+"""want""","Nome, AK, USA",haydesigner
+"""been""","Buffalo, NY, USA",haydesigner
+"""been""","Park Ridge, IL, USA",haydesigner
+"""been""","Saint Charles, IL, USA",haydesigner
+"""been""","Mount Prospect, IL, USA",haydesigner
+"""been""","Cebu City, Philippines",haydesigner
+"""been""","Ramona, CA, USA",haydesigner
+"""want""","Waikkal, Sri Lanka",haydesigner
+"""want""","Gambell, AK, USA",haydesigner
+"""been""","Rancho Bernardo, CA, USA",haydesigner
+"""been""","Tulsa, OK, USA",haydesigner
+"""been""","Oceanside, CA, USA",haydesigner
+"""want""","Sunny Beach, Bulgaria",haydesigner
+"""been""","South Milwaukee, WI, USA",haydesigner
+"""been""","Rancho Santa Fe, CA, USA",haydesigner
+"""been""","Grayslake, IL, USA",haydesigner
+"""been""","Siena, Italy",haydesigner
+"""want""","Cotonou, Benin",haydesigner
+"""want""","San Juan, Puerto Rico",haydesigner
+"""want""","Split, Croatia",haydesigner
+"""want""","Durban, South Africa",haydesigner
+"""been""","Whitewater, WI, USA",haydesigner
+"""been""","Wilmot, WI, USA",haydesigner
+"""been""","Niagara Falls, NY, USA",haydesigner
+"""been""","Bogota, Colombia",haydesigner
+"""want""","Tbilisi, Georgia",haydesigner
+"""want""","Port Blair, India",haydesigner
+"""want""","Seoul, South Korea",haydesigner
+"""been"",""fave""","Bagnoregio, Italy",haydesigner
+"""want""","Yangon (Rangoon), Myanmar",haydesigner
+"""want""","Paro, Bhutan",haydesigner
+"""been""","Lake Geneva, WI, USA",haydesigner
+"""want""","Sandakan, Malaysia",haydesigner
+"""want""","Ifaty, Madagascar",haydesigner
+"""been""","Poway, CA, USA",haydesigner
+"""been""","Glencoe, IL, USA",haydesigner
+"""want""","Denpasar, Indonesia",haydesigner
+"""want""","Dutch Harbor, AK, USA",haydesigner
+"""want""","Johannesburg, South Africa",haydesigner
+"""been""","Glenview, IL, USA",haydesigner
+"""want""","Kololi, Gambia",haydesigner
+"""been""","Itasca, IL, USA",haydesigner
+"""want""","Kinshasa, Democratic Republic of the Congo",haydesigner
+"""want""","Garapan, Mariana Islands",haydesigner
+"""been""","Glen Ellyn, IL, USA",haydesigner
+"""want""","Capital Hill, Mariana Islands",haydesigner
+"""want""","Rio de Janeiro, Brazil",haydesigner
+"""been""","Jackson, WY, USA",haydesigner
+"""want""","Moose Jaw, Saskatchewan, Canada",haydesigner
+"""been""","Cleveland, OH, USA",haydesigner
+"""want""","Budapest, Hungary",haydesigner
+"""want""","Saskatoon, Saskatchewan, Canada",haydesigner
+"""been""","Gages Lake, IL, USA",haydesigner
+"""been""","Libertyville, IL, USA",haydesigner
+"""want""","Damascus, Syria",haydesigner
+"""want""","Punta Arenas, Chile",haydesigner
+"""want""","Jeju, South Korea",haydesigner
+"""been""","Galena, IL, USA",haydesigner
+"""been""","Lincolnshire, IL, USA",haydesigner
+"""been""","Lincolnwood, IL, USA",haydesigner
+"""want""","Sanaa, Yemen",haydesigner
+"""want""","Koror, Palau",haydesigner
+"""been""","Waukesha, WI, USA",haydesigner
+"""been""","Kenosha, WI, USA",haydesigner
+"""been""","Hinsdale, IL, USA",haydesigner
+"""want""","Vienna, Austria",haydesigner
+"""want""","Dili, East Timor",haydesigner
+"""want""","Doha, Qatar",haydesigner
+"""want""","Abidjan, Ivory Coast",haydesigner
+"""want""","Krakow, Poland",haydesigner
+"""been"",""fave""","Lindenhurst, IL, USA",haydesigner
+"""been""","Munster, IN, USA",haydesigner
+"""been""","Mukwonago, WI, USA",haydesigner
+"""want""","Panama City, Panama",haydesigner
+"""want""","Kharkiv, Ukraine",haydesigner
+"""want""","Campbell River, British Columbia, Canada",haydesigner
+"""want""","Lisbon, Portugal",haydesigner
+"""want""","Colonia, Federated States of Micronesia",haydesigner
+"""want""","Boise, ID, USA",haydesigner
+"""want""","Odessa, Ukraine",haydesigner
+"""been""","Lake in the Hills, IL, USA",haydesigner
+"""want""","Montego Bay, Jamaica",haydesigner
+"""want""","Titikaveka, Cook Islands",haydesigner
+"""been""","Lake Villa, IL, USA",haydesigner
+"""been""","Lake Zurich, IL, USA",haydesigner
+"""want""","Samosir Island, Indonesia",haydesigner
+"""been""","Viterbo, Italy",haydesigner
+"""want""","Oslo, Norway",haydesigner
+"""want""","St. Petersburg, Russia",haydesigner
+"""want""","Ezulwini, Eswatini (Swaziland)",haydesigner
+"""want""","Eugene, OR, USA",haydesigner
+"""want""","Geneva, Switzerland",haydesigner
+"""want""","Nuku'alofa, Tonga",haydesigner
+"""want""","Big Sur, CA, USA",haydesigner
+"""want""","Nuuk, Greenland",haydesigner
+"""want""","Singapore, Singapore",haydesigner
+"""want""","Cape Town Central, South Africa",haydesigner
+"""been""","Hillside, IL, USA",haydesigner
+"""been""","Old Mill Creek, IL, USA",haydesigner
+"""been""","Hickory Hills, IL, USA",haydesigner
+"""want""","Shanghai, China",haydesigner
+"""been""","Fox Lake, IL, USA",haydesigner
+"""want""","Sun City, South Africa",haydesigner
+"""been""","Trevor, WI, USA",haydesigner
+"""been""","Highland Park, IL, USA",haydesigner
+"""want""","Kampong Jerudong, Brunei Darussalam",haydesigner
+"""been""","Racine, WI, USA",haydesigner
+"""want""","Denarau Island, Fiji",haydesigner

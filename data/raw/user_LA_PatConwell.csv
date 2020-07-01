@@ -1,0 +1,280 @@
+tag,place,user
+"""been""","Napa, CA, USA",PatConwell
+"""been""","Lompoc, CA, USA",PatConwell
+"""been""","Indio, CA, USA",PatConwell
+"""been""","Atascadero, CA, USA",PatConwell
+"""been""","Imperial Beach, CA, USA",PatConwell
+"""been""","Phoenix, AZ, USA",PatConwell
+"""been""","Arroyo Grande, CA, USA",PatConwell
+"""been""","South Lake Tahoe, CA, USA",PatConwell
+"""been""","Santee, CA, USA",PatConwell
+"""been""","Long Beach, CA, USA",PatConwell
+"""been""","Inyokern, CA, USA",PatConwell
+"""been""","Inglewood, CA, USA",PatConwell
+"""been""","Lone Pine, CA, USA",PatConwell
+"""been""","National City, CA, USA",PatConwell
+"""been""","Bodega, CA, USA",PatConwell
+"""been""","Torrance, CA, USA",PatConwell
+"""been""","Henderson, NV, USA",PatConwell
+"""been""","Sausalito, CA, USA",PatConwell
+"""been""","Stanstead, Quebec, Canada",PatConwell
+"""been""","Mammoth Lakes, CA, USA",PatConwell
+"""been""","Rockville, MD, USA",PatConwell
+"""want""","Dresden, Germany",PatConwell
+"""been""","Bonsall, CA, USA",PatConwell
+"""want""","Gettysburg, PA, USA",PatConwell
+"""been""","North Vancouver, British Columbia, Canada",PatConwell
+"""been""","Bonita, CA, USA",PatConwell
+"""been""","Armona, CA, USA",PatConwell
+"""been""","Portland, OR, USA",PatConwell
+"""been""","Huntington Beach, CA, USA",PatConwell
+"""been""","Sacramento, CA, USA",PatConwell
+"""been""","Little River, CA, USA",PatConwell
+"""been""","Avalon, CA, USA",PatConwell
+"""been""","Big Bear Lake, CA, USA",PatConwell
+"""been""","Port Orford, OR, USA",PatConwell
+"""been""","Avila Beach, CA, USA",PatConwell
+"""been""","Santa Barbara, CA, USA",PatConwell
+"""been""","Santa Clara, CA, USA",PatConwell
+"""been""","Woodlake, CA, USA",PatConwell
+"""been""","Santa Clarita, CA, USA",PatConwell
+"""want""","Calgary, Alberta, Canada",PatConwell
+"""been""","Santa Cruz, CA, USA",PatConwell
+"""want""","Edmonton, Alberta, Canada",PatConwell
+"""been""","The Sea Ranch, CA, USA",PatConwell
+"""been""","Santa Maria, CA, USA",PatConwell
+"""been""","Santa Monica, CA, USA",PatConwell
+"""been""","Santa Paula, CA, USA",PatConwell
+"""been""","Bishop, CA, USA",PatConwell
+"""been""","Lemoore, CA, USA",PatConwell
+"""been""","Lemon Grove, CA, USA",PatConwell
+"""been""","Paso Robles, CA, USA",PatConwell
+"""been""","Big Sur, CA, USA",PatConwell
+"""been""","Cayucos, CA, USA",PatConwell
+"""been""","Jedburgh, UK",PatConwell
+"""been""","Durango, CO, USA",PatConwell
+"""been""","Moss Landing, CA, USA",PatConwell
+"""been""","San Simeon, CA, USA",PatConwell
+"""been""","Pebble Beach, CA, USA",PatConwell
+"""been""","Morro Bay, CA, USA",PatConwell
+"""been""","Leucadia, CA, USA",PatConwell
+"""been""","San Ysidro, CA, USA",PatConwell
+"""been""","Santa Ana, CA, USA",PatConwell
+"""been""","Temecula, CA, USA",PatConwell
+"""been""","Big Bear City, CA, USA",PatConwell
+"""been""","Edinburgh, UK",PatConwell
+"""been""","Red Mountain, CA, USA",PatConwell
+"""been""","Beverly Hills, CA, USA",PatConwell
+"""been""","Ahwahnee, CA, USA",PatConwell
+"""been""","Palos Verdes Estates, CA, USA",PatConwell
+"""been""","Barstow, CA, USA",PatConwell
+"""been""","Riverside, CA, USA",PatConwell
+"""been""","Casmalia, CA, USA",PatConwell
+"""been""","Dinuba, CA, USA",PatConwell
+"""been""","Carpinteria, CA, USA",PatConwell
+"""been"",""want""","Denver, CO, USA",PatConwell
+"""been""","San Luis Obispo, CA, USA",PatConwell
+"""been""","Pasadena, CA, USA",PatConwell
+"""been""","Monterey, CA, USA",PatConwell
+"""been""","Montecito, CA, USA",PatConwell
+"""been""","San Marcos, CA, USA",PatConwell
+"""been""","Bandon, OR, USA",PatConwell
+"""been""","Tijuana, Mexico",PatConwell
+"""want""","Oslo, Norway",PatConwell
+"""been""","Hilo, HI, USA",PatConwell
+"""been""","San Onofre, CA, USA",PatConwell
+"""been""","Castroville, CA, USA",PatConwell
+"""been""","Pacifica, CA, USA",PatConwell
+"""been""","Ridgecrest, CA, USA",PatConwell
+"""been""","Pacific Grove, CA, USA",PatConwell
+"""been""","Cardiff-by-the-Sea, CA, USA",PatConwell
+"""been""","Del Mar, CA, USA",PatConwell
+"""been""","San Clemente, CA, USA",PatConwell
+"""been""","Palo Alto, CA, USA",PatConwell
+"""been""","Westlake Village, CA, USA",PatConwell
+"""been""","Lakeside, CA, USA",PatConwell
+"""been""","Palm Desert, CA, USA",PatConwell
+"""been""","San Jose, CA, USA",PatConwell
+"""been""","San Juan Capistrano, CA, USA",PatConwell
+"""been""","Seaside, OR, USA",PatConwell
+"""been""","Carmel Valley, CA, USA",PatConwell
+"""been""","Carmel, CA, USA",PatConwell
+"""been""","Desert Hot Springs, CA, USA",PatConwell
+"""been""","Carlsbad, CA, USA",PatConwell
+"""been""","Descanso, CA, USA",PatConwell
+"""been""","Redondo Beach, CA, USA",PatConwell
+"""been""","San Bernardino, CA, USA",PatConwell
+"""been""","Astoria, OR, USA",PatConwell
+"""been""","Bakersfield, CA, USA",PatConwell
+"""been""","Dana Point, CA, USA",PatConwell
+"""been""","Reedley, CA, USA",PatConwell
+"""been"",""want""","Colorado Springs, CO, USA",PatConwell
+"""been""","Salinas, CA, USA",PatConwell
+"""been""","Bridal Veil, OR, USA",PatConwell
+"""been""","Oxnard, CA, USA",PatConwell
+"""been""","Orosi, CA, USA",PatConwell
+"""been""","San Anselmo, CA, USA",PatConwell
+"""want""","Cleveland, OH, USA",PatConwell
+"""been""","West Hollywood, CA, USA",PatConwell
+"""been""","Cave Junction, OR, USA",PatConwell
+"""been""","Salt Lake City, UT, USA",PatConwell
+"""been""","Spring Valley, CA, USA",PatConwell
+"""been""","Sequim, WA, USA",PatConwell
+"""been""","Cambria, CA, USA",PatConwell
+"""been""","Rancho Santa Fe, CA, USA",PatConwell
+"""been""","Randsburg, CA, USA",PatConwell
+"""been""","Walnut Grove, CA, USA",PatConwell
+"""been""","Orange, CA, USA",PatConwell
+"""been""","South San Francisco, CA, USA",PatConwell
+"""been""","Anaheim, CA, USA",PatConwell
+"""been""","Ontario, CA, USA",PatConwell
+"""been""","Rancho Mirage, CA, USA",PatConwell
+"""been""","Watsonville, CA, USA",PatConwell
+"""been""","St. Helena, CA, USA",PatConwell
+"""been""","Cutler, CA, USA",PatConwell
+"""been""","Camp Pendleton, CA, USA",PatConwell
+"""been""","Culver City, CA, USA",PatConwell
+"""been""","Keswick, UK",PatConwell
+"""been""","Baltimore, MD, USA",PatConwell
+"""been""","Albuquerque, NM, USA",PatConwell
+"""want""","Provincetown, MA, USA",PatConwell
+"""been""","Oakland, CA, USA",PatConwell
+"""been""","Cascade Locks, OR, USA",PatConwell
+"""been""","Ramona, CA, USA",PatConwell
+"""been""","Rancho Bernardo, CA, USA",PatConwell
+"""been""","Olancha, CA, USA",PatConwell
+"""been""","Ojai, CA, USA",PatConwell
+"""been""","Solana Beach, CA, USA",PatConwell
+"""been""","Solvang, CA, USA",PatConwell
+"""been""","Oceanside, CA, USA",PatConwell
+"""been""","Victorville, CA, USA",PatConwell
+"""been""","Oceano, CA, USA",PatConwell
+"""been""","Sonoma, CA, USA",PatConwell
+"""been""","Karlovy Vary, Czech Republic",PatConwell
+"""been""","Visalia, CA, USA",PatConwell
+"""been""","Vista, CA, USA",PatConwell
+"""been""","South Bend, WA, USA",PatConwell
+"""been""","Vancouver, WA, USA",PatConwell
+"""been""","London, UK",PatConwell
+"""been""","Crescent City, CA, USA",PatConwell
+"""been""","Santa Fe, NM, USA",PatConwell
+"""been""","Fallbrook, CA, USA",PatConwell
+"""been""","Poway, CA, USA",PatConwell
+"""been""","Thousand Oaks, CA, USA",PatConwell
+"""been""","Burbank, CA, USA",PatConwell
+"""been""","Hemet, CA, USA",PatConwell
+"""been""","Exeter, CA, USA",PatConwell
+"""want""","Quebec City, Quebec, Canada",PatConwell
+"""been""","Eureka, CA, USA",PatConwell
+"""been""","Buellton, CA, USA",PatConwell
+"""been""","Valley Center, CA, USA",PatConwell
+"""been""","Fawnskin, CA, USA",PatConwell
+"""been""","Tucson, AZ, USA",PatConwell
+"""been""","Coronado, CA, USA",PatConwell
+"""been""","Mesa, AZ, USA",PatConwell
+"""been""","Hermosa Beach, CA, USA",PatConwell
+"""been""","San Antonio, TX, USA",PatConwell
+"""been""","San Francisco, CA, USA",PatConwell
+"""been""","Escondido, CA, USA",PatConwell
+"""been""","Middlebury, VT, USA",PatConwell
+"""been""","Encinitas, CA, USA",PatConwell
+"""been""","Boulder, CO, USA",PatConwell
+"""been""","Alpine, CA, USA",PatConwell
+"""want""","Belfast, UK",PatConwell
+"""been""","Chester, UK",PatConwell
+"""been""","Newcastle, UK",PatConwell
+"""been""","Stirling, UK",PatConwell
+"""been""","Healdsburg, CA, USA",PatConwell
+"""been""","Three Rivers, CA, USA",PatConwell
+"""been""","Ashland, OR, USA",PatConwell
+"""been""","Half Moon Bay, CA, USA",PatConwell
+"""been""","Laguna Hills, CA, USA",PatConwell
+"""been""","Laguna Beach, CA, USA",PatConwell
+"""been""","Raleigh, NC, USA",PatConwell
+"""been""","Tempe, AZ, USA",PatConwell
+"""been""","Guerneville, CA, USA",PatConwell
+"""been""","Gualala, CA, USA",PatConwell
+"""been""","Guadalupe, CA, USA",PatConwell
+"""been""","Henley-on-Thames, UK",PatConwell
+"""been""","Hillsboro, OR, USA",PatConwell
+"""been""","Hanford, CA, USA",PatConwell
+"""want""","Frankfurt, Germany",PatConwell
+"""been""","Laguna Niguel, CA, USA",PatConwell
+"""been""","Lanai City, HI, USA",PatConwell
+"""been""","La Mesa, CA, USA",PatConwell
+"""been""","La Jolla, CA, USA",PatConwell
+"""been""","Adelanto, CA, USA",PatConwell
+"""been""","Chula Vista, CA, USA",PatConwell
+"""been""","El Cajon, CA, USA",PatConwell
+"""want""","Bergen, Norway",PatConwell
+"""been""","Glastonbury, UK",PatConwell
+"""want""","Cannes, France",PatConwell
+"""been""","Bruges, Belgium",PatConwell
+"""been""","Honolulu, HI, USA",PatConwell
+"""been""","Asheville, NC, USA",PatConwell
+"""been""","China Lake, CA, USA",PatConwell
+"""been""","Chico, CA, USA",PatConwell
+"""been""","Marina del Rey, CA, USA",PatConwell
+"""been""","Sedona, AZ, USA",PatConwell
+"""been""","Kingsburg, CA, USA",PatConwell
+"""been""","Maricopa, CA, USA",PatConwell
+"""been""","Victoria, British Columbia, Canada",PatConwell
+"""been""","Vancouver, British Columbia, Canada",PatConwell
+"""been""","San Diego, CA, USA",PatConwell
+"""been""","Reno, NV, USA",PatConwell
+"""been""","Kailua-Kona, HI, USA",PatConwell
+"""been""","Lahaina, HI, USA",PatConwell
+"""been""","Seattle, WA, USA",PatConwell
+"""been""","Kettleman City, CA, USA",PatConwell
+"""been""","Manhattan Beach, CA, USA",PatConwell
+"""been""","Malibu, CA, USA",PatConwell
+"""been""","Norwalk, CA, USA",PatConwell
+"""been""","Madera, CA, USA",PatConwell
+"""been""","Glendale, CA, USA",PatConwell
+"""been""","Port Townsend, WA, USA",PatConwell
+"""been""","Prague, Czech Republic",PatConwell
+"""been""","Goleta, CA, USA",PatConwell
+"""want""","Kansas City, MO, USA",PatConwell
+"""been""","Simi Valley, CA, USA",PatConwell
+"""been""","Copenhagen, Denmark",PatConwell
+"""been""","Stratford-upon-Avon, UK",PatConwell
+"""been""","Scottsdale, AZ, USA",PatConwell
+"""been""","New York City, NY, USA",PatConwell
+"""been""","Ventura, CA, USA",PatConwell
+"""been""","Julian, CA, USA",PatConwell
+"""been""","Nipomo, CA, USA",PatConwell
+"""been""","Arlington, VA, USA",PatConwell
+"""been""","Garden Grove, CA, USA",PatConwell
+"""been""","Johannesburg, CA, USA",PatConwell
+"""been""","Los Osos, CA, USA",PatConwell
+"""been""","Annapolis, MD, USA",PatConwell
+"""been""","June Lake, CA, USA",PatConwell
+"""been""","Shell Beach, CA, USA",PatConwell
+"""want""","Marseille, France",PatConwell
+"""been""","Kailua, HI, USA",PatConwell
+"""want""","Cork, Ireland",PatConwell
+"""been""","Dublin, Ireland",PatConwell
+"""been""","Fresno, CA, USA",PatConwell
+"""been""","Los Angeles, CA, USA",PatConwell
+"""been""","Prescott, AZ, USA",PatConwell
+"""been""","Pismo Beach, CA, USA",PatConwell
+"""been""","Irvine, CA, USA",PatConwell
+"""been""","Aurora, CO, USA",PatConwell
+"""been""","Borrego Springs, CA, USA",PatConwell
+"""been""","Washington DC, DC, USA",PatConwell
+"""been""","Seal Beach, CA, USA",PatConwell
+"""want""","Louisville, KY, USA",PatConwell
+"""been""","Cabo San Lucas, Mexico",PatConwell
+"""been""","Nanaimo, British Columbia, Canada",PatConwell
+"""been""","Jamul, CA, USA",PatConwell
+"""been""","Jamestown, CA, USA",PatConwell
+"""been""","Fullerton, CA, USA",PatConwell
+"""been""","Amsterdam, The Netherlands",PatConwell
+"""want""","Lyon, France",PatConwell
+"""been""","Selma, CA, USA",PatConwell
+"""been""","Tulare, CA, USA",PatConwell
+"""been""","Laughlin, NV, USA",PatConwell
+"""want""","Portsmouth, UK",PatConwell
+"""been""","Las Vegas, NV, USA",PatConwell
+"""been""","Paris, France",PatConwell
+"""been""","Taos, NM, USA",PatConwell

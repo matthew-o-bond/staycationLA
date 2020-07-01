@@ -1,0 +1,854 @@
+tag,place,user
+"""been""","Cordoba, Spain",SPAINDOCTOR
+"""been""","Colombo, Sri Lanka",SPAINDOCTOR
+"""been""","Estepona, Spain",SPAINDOCTOR
+"""been""","Torrelaguna, Spain",SPAINDOCTOR
+"""been""","Malaga, Spain",SPAINDOCTOR
+"""been""","Marbella, Spain",SPAINDOCTOR
+"""been""","Cadiz, Spain",SPAINDOCTOR
+"""been""","Stockholm, Sweden",SPAINDOCTOR
+"""been""","El Puerto de Santa Maria, Spain",SPAINDOCTOR
+"""been""","York, UK",SPAINDOCTOR
+"""been""","Guayaquil, Ecuador",SPAINDOCTOR
+"""been""","Playa Mujeres, Mexico",SPAINDOCTOR
+"""been""","Torremolinos, Spain",SPAINDOCTOR
+"""been""","Kempton Park, South Africa",SPAINDOCTOR
+"""been""","Granada, Spain",SPAINDOCTOR
+"""been""","Huelva, Spain",SPAINDOCTOR
+"""been""","Zaragoza, Spain",SPAINDOCTOR
+"""been""","Istanbul, Turkey",SPAINDOCTOR
+"""been""","Tokyo, Japan",SPAINDOCTOR
+"""been""","Seville, Spain",SPAINDOCTOR
+"""been""","Johannesburg, South Africa",SPAINDOCTOR
+"""been""","Huesca, Spain",SPAINDOCTOR
+"""been""","Tangier, Morocco",SPAINDOCTOR
+"""been""","Niagara Falls, Ontario, Canada",SPAINDOCTOR
+"""been""","Rabat, Morocco",SPAINDOCTOR
+"""been""","Marrakech, Morocco",SPAINDOCTOR
+"""been""","Aviles, Spain",SPAINDOCTOR
+"""been""","Oxford, UK",SPAINDOCTOR
+"""been""","Uppsala, Sweden",SPAINDOCTOR
+"""been""","Gijon, Spain",SPAINDOCTOR
+"""been""","Oviedo, Spain",SPAINDOCTOR
+"""been""","Zipaquira, Colombia",SPAINDOCTOR
+"""been""","Vitoria-Gasteiz, Spain",SPAINDOCTOR
+"""been""","Pretoria, South Africa",SPAINDOCTOR
+"""been""","Phnom Penh, Cambodia",SPAINDOCTOR
+"""been""","Beaulieu-sur-Mer, France",SPAINDOCTOR
+"""been""","Bilbao, Spain",SPAINDOCTOR
+"""been""","Sandton, South Africa",SPAINDOCTOR
+"""been""","San Sebastian - Donostia, Spain",SPAINDOCTOR
+"""been""","Deshaies, Guadeloupe",SPAINDOCTOR
+"""been""","Nur-Sultan, Kazakhstan",SPAINDOCTOR
+"""been""","Petrovac, Montenegro",SPAINDOCTOR
+"""been""","Majorca, Spain",SPAINDOCTOR
+"""been""","Palma de Mallorca, Spain",SPAINDOCTOR
+"""been""","Cannes, France",SPAINDOCTOR
+"""been"",""fave""","Athens, Greece",SPAINDOCTOR
+"""been""","El Yaque, Venezuela",SPAINDOCTOR
+"""been""","Jadraque, Spain",SPAINDOCTOR
+"""been""","Shanghai, China",SPAINDOCTOR
+"""been""","Siguenza, Spain",SPAINDOCTOR
+"""been""","Algiers, Algeria",SPAINDOCTOR
+"""been""","Makarska, Croatia",SPAINDOCTOR
+"""been""","Nieuwpoort, Curacao",SPAINDOCTOR
+"""been""","Venice, Italy",SPAINDOCTOR
+"""been""","Daytona Beach, FL, USA",SPAINDOCTOR
+"""been""","La Solana, Spain",SPAINDOCTOR
+"""been""","Tigre, Argentina",SPAINDOCTOR
+"""been""","Victoria Falls, Zimbabwe",SPAINDOCTOR
+"""been""","Inverness, UK",SPAINDOCTOR
+"""been""","Cagliari, Italy",SPAINDOCTOR
+"""been""","Erie, PA, USA",SPAINDOCTOR
+"""been""","Montecarlo, Italy",SPAINDOCTOR
+"""been""","Catania, Italy",SPAINDOCTOR
+"""been""","Fatehpur Sikri, India",SPAINDOCTOR
+"""been""","Sao Paulo, Brazil",SPAINDOCTOR
+"""been""","Palermo, Italy",SPAINDOCTOR
+"""been""","Hershey, PA, USA",SPAINDOCTOR
+"""been""","Taormina, Italy",SPAINDOCTOR
+"""been""","Sausalito, CA, USA",SPAINDOCTOR
+"""been""","Pisa, Italy",SPAINDOCTOR
+"""been""","Jerusalem, Israel",SPAINDOCTOR
+"""been""","Nara, Japan",SPAINDOCTOR
+"""been""","Florence, Italy",SPAINDOCTOR
+"""been""","Lubeck, Germany",SPAINDOCTOR
+"""been""","Comillas, Spain",SPAINDOCTOR
+"""been""","Jerash, Jordan",SPAINDOCTOR
+"""been""","Amman, Jordan",SPAINDOCTOR
+"""been""","Ohrid, Republic of North Macedonia",SPAINDOCTOR
+"""been""","Manzanares, Spain",SPAINDOCTOR
+"""been""","Maharepa, French Polynesia",SPAINDOCTOR
+"""been""","Plettenberg Bay, South Africa",SPAINDOCTOR
+"""been""","Basse-Terre Island, Guadeloupe",SPAINDOCTOR
+"""been""","Girardot, Colombia",SPAINDOCTOR
+"""been""","Port Elizabeth, South Africa",SPAINDOCTOR
+"""been""","Riyadh, Saudi Arabia",SPAINDOCTOR
+"""been""","Carthage, Tunisia",SPAINDOCTOR
+"""been""","London, UK",SPAINDOCTOR
+"""been""","Fiumicino, Italy",SPAINDOCTOR
+"""been""","Washington DC, DC, USA",SPAINDOCTOR
+"""been""","Mataro, Spain",SPAINDOCTOR
+"""been""","Alcala, Spain",SPAINDOCTOR
+"""been""","Almeria, Spain",SPAINDOCTOR
+"""been""","Tunis, Tunisia",SPAINDOCTOR
+"""been""","Manama, Bahrain",SPAINDOCTOR
+"""been""","Guarulhos, Brazil",SPAINDOCTOR
+"""been""","La Manga del Mar Menor, Spain",SPAINDOCTOR
+"""been""","Nabq Bay, Egypt",SPAINDOCTOR
+"""been""","Playa Maroma, Mexico",SPAINDOCTOR
+"""been""","Salzburg, Austria",SPAINDOCTOR
+"""been""","Almazan, Spain",SPAINDOCTOR
+"""been""","Hua Hin, Thailand",SPAINDOCTOR
+"""been""","Corfu, Greece",SPAINDOCTOR
+"""been""","Augusta, GA, USA",SPAINDOCTOR
+"""been""","San Felipe, Venezuela",SPAINDOCTOR
+"""been""","Paraguana Peninsula, Venezuela",SPAINDOCTOR
+"""been""","Vinuesa, Spain",SPAINDOCTOR
+"""been""","Falmouth, Jamaica",SPAINDOCTOR
+"""been""","Maracaibo, Venezuela",SPAINDOCTOR
+"""been""","Innsbruck, Austria",SPAINDOCTOR
+"""been""","Coro, Venezuela",SPAINDOCTOR
+"""been""","Barquisimeto, Venezuela",SPAINDOCTOR
+"""been""","Heidelberg, Germany",SPAINDOCTOR
+"""been""","Marghera, Italy",SPAINDOCTOR
+"""been""","Bouillante, Guadeloupe",SPAINDOCTOR
+"""been""","Sydney, Australia",SPAINDOCTOR
+"""been""","Guatemala City, Guatemala",SPAINDOCTOR
+"""been""","Alexandria, VA, USA",SPAINDOCTOR
+"""been""","Stuttgart, Germany",SPAINDOCTOR
+"""been""","Ercolano, Italy",SPAINDOCTOR
+"""been""","Vienna, Austria",SPAINDOCTOR
+"""been""","Mestre, Italy",SPAINDOCTOR
+"""been""","Bora Bora, French Polynesia",SPAINDOCTOR
+"""been""","Mar del Plata, Argentina",SPAINDOCTOR
+"""been""","Tavira, Portugal",SPAINDOCTOR
+"""been""","Manzini, Eswatini (Swaziland)",SPAINDOCTOR
+"""been""","Buenos Aires, Argentina",SPAINDOCTOR
+"""been""","Surfers Paradise, Australia",SPAINDOCTOR
+"""been""","Denarau Island, Fiji",SPAINDOCTOR
+"""been""","Axpe Achondo, Spain",SPAINDOCTOR
+"""been""","Olympia, Greece",SPAINDOCTOR
+"""been""","Saint Julian's, Malta",SPAINDOCTOR
+"""been""","Budva, Montenegro",SPAINDOCTOR
+"""been""","Taichung, Taiwan",SPAINDOCTOR
+"""been""","Addis Ababa, Ethiopia",SPAINDOCTOR
+"""been""","Maui, HI, USA",SPAINDOCTOR
+"""been""","Lublin, Poland",SPAINDOCTOR
+"""been""","Las Palmas de Gran Canaria, Spain",SPAINDOCTOR
+"""been""","El Tigre, Venezuela",SPAINDOCTOR
+"""been""","Valdepenas, Spain",SPAINDOCTOR
+"""been""","Sarajevo, Bosnia and Herzegovina",SPAINDOCTOR
+"""been""","Maiquetia, Venezuela",SPAINDOCTOR
+"""been""","Heraklion, Greece",SPAINDOCTOR
+"""been""","Bucharest, Romania",SPAINDOCTOR
+"""been""","Chisinau, Moldova",SPAINDOCTOR
+"""been""","Nice, France",SPAINDOCTOR
+"""been""","Sunny Beach, Bulgaria",SPAINDOCTOR
+"""been""","Beijing, China",SPAINDOCTOR
+"""been""","St-Jean-Cap-Ferrat, France",SPAINDOCTOR
+"""been""","Sofia, Bulgaria",SPAINDOCTOR
+"""been""","Dallas, TX, USA",SPAINDOCTOR
+"""been""","Charlotte, NC, USA",SPAINDOCTOR
+"""been""","San Cristobal, Venezuela",SPAINDOCTOR
+"""been""","Merida, Venezuela",SPAINDOCTOR
+"""been""","Juan Dolio, Dominican Republic",SPAINDOCTOR
+"""been""","Monte-Carlo, Monaco",SPAINDOCTOR
+"""been""","Monaco-Ville, Monaco",SPAINDOCTOR
+"""been""","Hong Kong, China",SPAINDOCTOR
+"""been""","Trujillo, Venezuela",SPAINDOCTOR
+"""been""","Soldeu, Andorra",SPAINDOCTOR
+"""been""","Poznan, Poland",SPAINDOCTOR
+"""been""","Pampatar, Venezuela",SPAINDOCTOR
+"""been""","Santander, Spain",SPAINDOCTOR
+"""been""","Albacete, Spain",SPAINDOCTOR
+"""been""","San Cristobal de La Laguna, Spain",SPAINDOCTOR
+"""been""","Puerto de la Cruz, Spain",SPAINDOCTOR
+"""been""","Lugo, Spain",SPAINDOCTOR
+"""been""","Santa Cruz de Tenerife, Spain",SPAINDOCTOR
+"""been""","Bursa, Turkey",SPAINDOCTOR
+"""been""","Ciudad Real, Spain",SPAINDOCTOR
+"""been""","Balikesir, Turkey",SPAINDOCTOR
+"""been""","Villefranche-sur-Mer, France",SPAINDOCTOR
+"""been""","Toledo, Spain",SPAINDOCTOR
+"""been""","Bel Ombre, Seychelles",SPAINDOCTOR
+"""been"",""fave""","Los Roques National Park, Venezuela",SPAINDOCTOR
+"""been""","Villanueva de la Canada, Spain",SPAINDOCTOR
+"""been""","Los Belones, Spain",SPAINDOCTOR
+"""been""","Porlamar, Venezuela",SPAINDOCTOR
+"""been""","Margarita Island, Venezuela",SPAINDOCTOR
+"""been""","Stamford, CT, USA",SPAINDOCTOR
+"""been""","Palm Springs, CA, USA",SPAINDOCTOR
+"""been""","Maracay, Venezuela",SPAINDOCTOR
+"""been""","Brunete, Spain",SPAINDOCTOR
+"""been""","Caracas, Venezuela",SPAINDOCTOR
+"""been""","Palo Alto, CA, USA",SPAINDOCTOR
+"""been""","Ucles, Spain",SPAINDOCTOR
+"""been""","La Linea de la Concepcion, Spain",SPAINDOCTOR
+"""been""","Los Teques, Venezuela",SPAINDOCTOR
+"""been""","Segovia, Spain",SPAINDOCTOR
+"""been""","Belmonte, Spain",SPAINDOCTOR
+"""been""","Valladolid, Spain",SPAINDOCTOR
+"""been""","Marseille, France",SPAINDOCTOR
+"""been""","Mykonos, Greece",SPAINDOCTOR
+"""been""","Santorini, Greece",SPAINDOCTOR
+"""been""","Laucala Island, Fiji",SPAINDOCTOR
+"""been""","Playa el Agua, Venezuela",SPAINDOCTOR
+"""been""","Barcelona, Spain",SPAINDOCTOR
+"""been""","Burgos, Spain",SPAINDOCTOR
+"""been""","Leon, Spain",SPAINDOCTOR
+"""been""","Salamanca, Spain",SPAINDOCTOR
+"""been""","Ubud, Indonesia",SPAINDOCTOR
+"""been""","Valencia, Venezuela",SPAINDOCTOR
+"""been""","Girona, Spain",SPAINDOCTOR
+"""been""","Toulon, France",SPAINDOCTOR
+"""been""","Oakland, CA, USA",SPAINDOCTOR
+"""been""","Ciudad Guayana, Venezuela",SPAINDOCTOR
+"""been""","Oceanside, CA, USA",SPAINDOCTOR
+"""been""","Canaima National Park, Venezuela",SPAINDOCTOR
+"""been""","Martinez, GA, USA",SPAINDOCTOR
+"""been""","Lisse, The Netherlands",SPAINDOCTOR
+"""been""","Zurich, Switzerland",SPAINDOCTOR
+"""been""","Amsterdam, The Netherlands",SPAINDOCTOR
+"""been""","Warsaw, Poland",SPAINDOCTOR
+"""been""","Denia, Spain",SPAINDOCTOR
+"""been""","Aswan, Egypt",SPAINDOCTOR
+"""been""","Luxor, Egypt",SPAINDOCTOR
+"""been""","Giza, Egypt",SPAINDOCTOR
+"""been""","Cairo, Egypt",SPAINDOCTOR
+"""been""","Puerto La Cruz, Venezuela",SPAINDOCTOR
+"""been""","Maturin, Venezuela",SPAINDOCTOR
+"""been""","Cumana, Venezuela",SPAINDOCTOR
+"""been""","Minsk, Belarus",SPAINDOCTOR
+"""been""","Puerto Piritu, Venezuela",SPAINDOCTOR
+"""been""","Majadahonda, Spain",SPAINDOCTOR
+"""been""","Nairobi, Kenya",SPAINDOCTOR
+"""been""","Barcelona, Venezuela",SPAINDOCTOR
+"""been""","Sigiriya, Sri Lanka",SPAINDOCTOR
+"""been""","Petionville, Haiti",SPAINDOCTOR
+"""been""","Budapest, Hungary",SPAINDOCTOR
+"""been""","Aventura, FL, USA",SPAINDOCTOR
+"""been""","Abu Dhabi, United Arab Emirates",SPAINDOCTOR
+"""been""","Encinitas, CA, USA",SPAINDOCTOR
+"""been""","Palm Beach, FL, USA",SPAINDOCTOR
+"""been""","Escondido, CA, USA",SPAINDOCTOR
+"""been""","Brooklyn, NY, USA",SPAINDOCTOR
+"""been""","Chevy Chase, MD, USA",SPAINDOCTOR
+"""been""","Kandy, Sri Lanka",SPAINDOCTOR
+"""been""","Porto, Portugal",SPAINDOCTOR
+"""been""","Cap-Haitien, Haiti",SPAINDOCTOR
+"""been""","Ljubljana, Slovenia",SPAINDOCTOR
+"""been""","Lavacolla, Spain",SPAINDOCTOR
+"""been""","Dambulla, Sri Lanka",SPAINDOCTOR
+"""been""","Port-au-Prince, Haiti",SPAINDOCTOR
+"""been""","Piran, Slovenia",SPAINDOCTOR
+"""been""","Pointe-a-Pitre, Guadeloupe",SPAINDOCTOR
+"""been""","Burbank, CA, USA",SPAINDOCTOR
+"""been""","Panama City Beach, FL, USA",SPAINDOCTOR
+"""been""","Singapore, Singapore",SPAINDOCTOR
+"""been""","Baltimore, MD, USA",SPAINDOCTOR
+"""been""","Hellesylt, Norway",SPAINDOCTOR
+"""been""","Salvador, Brazil",SPAINDOCTOR
+"""been""","Savaneta, Aruba",SPAINDOCTOR
+"""been""","Managua, Nicaragua",SPAINDOCTOR
+"""been""","San Salvador, El Salvador",SPAINDOCTOR
+"""been""","Seminyak, Indonesia",SPAINDOCTOR
+"""been""","Bedford, PA, USA",SPAINDOCTOR
+"""been""","Kyiv (Kiev), Ukraine",SPAINDOCTOR
+"""been""","La Jolla, CA, USA",SPAINDOCTOR
+"""been""","Orlando, FL, USA",SPAINDOCTOR
+"""been""","Jacksonville, FL, USA",SPAINDOCTOR
+"""been""","Juan Griego, Venezuela",SPAINDOCTOR
+"""been""","Panama City, Panama",SPAINDOCTOR
+"""been""","Grand Anse, Seychelles",SPAINDOCTOR
+"""been""","Abidjan, Ivory Coast",SPAINDOCTOR
+"""been""","Beirut, Lebanon",SPAINDOCTOR
+"""been""","Cangas de Onis, Spain",SPAINDOCTOR
+"""been""","Mieres, Spain",SPAINDOCTOR
+"""been""","Kuwait City, Kuwait",SPAINDOCTOR
+"""been""","El Segundo, CA, USA",SPAINDOCTOR
+"""been""","Lagun, Curacao",SPAINDOCTOR
+"""been""","Doha, Qatar",SPAINDOCTOR
+"""been""","Noord, Aruba",SPAINDOCTOR
+"""been""","Qawra, Malta",SPAINDOCTOR
+"""been""","Alhambra, Spain",SPAINDOCTOR
+"""been""","Le Morne, Africa",SPAINDOCTOR
+"""been""","Kotor, Montenegro",SPAINDOCTOR
+"""been""","Cesky Krumlov, Czech Republic",SPAINDOCTOR
+"""been""","Grand Anse, Grenada",SPAINDOCTOR
+"""been""","West Palm Beach, FL, USA",SPAINDOCTOR
+"""been""","Savusavu, Fiji",SPAINDOCTOR
+"""been""","Weston, FL, USA",SPAINDOCTOR
+"""been""","Brasov, Romania",SPAINDOCTOR
+"""been""","Cook's  Bay, French Polynesia",SPAINDOCTOR
+"""been""","Bern, Switzerland",SPAINDOCTOR
+"""been""","Vaduz, Liechtenstein",SPAINDOCTOR
+"""been""","Colon, Panama",SPAINDOCTOR
+"""been""","Coimbra, Portugal",SPAINDOCTOR
+"""been""","Soufriere, St. Lucia",SPAINDOCTOR
+"""been""","Tetouan, Morocco",SPAINDOCTOR
+"""been""","Winter Haven, FL, USA",SPAINDOCTOR
+"""been""","Takamaka, Seychelles",SPAINDOCTOR
+"""been""","Kyrenia, Cyprus",SPAINDOCTOR
+"""been""","Bethesda, MD, USA",SPAINDOCTOR
+"""been"",""fave""","Abu Simbel, Egypt",SPAINDOCTOR
+"""been""","Lisbon, Portugal",SPAINDOCTOR
+"""been""","Fatima, Portugal",SPAINDOCTOR
+"""been""","Nicosia, Cyprus",SPAINDOCTOR
+"""been""","Lucerne, Switzerland",SPAINDOCTOR
+"""been""","Latchi, Cyprus",SPAINDOCTOR
+"""been""","Ocho Rios, Jamaica",SPAINDOCTOR
+"""been""","Mykonos Town, Greece",SPAINDOCTOR
+"""been""","Odessa, Ukraine",SPAINDOCTOR
+"""been""","Stone Town, Tanzania",SPAINDOCTOR
+"""been""","Irvine, CA, USA",SPAINDOCTOR
+"""been""","Antigua, Guatemala",SPAINDOCTOR
+"""been""","Leon, Nicaragua",SPAINDOCTOR
+"""been""","Chicago, IL, USA",SPAINDOCTOR
+"""been""","Loix, France",SPAINDOCTOR
+"""been""","Civitavecchia, Italy",SPAINDOCTOR
+"""been""","Corfu Town, Greece",SPAINDOCTOR
+"""been""","Funchal, Portugal",SPAINDOCTOR
+"""been""","Dubrovnik, Croatia",SPAINDOCTOR
+"""been""","Baie Lazare, Seychelles",SPAINDOCTOR
+"""been""","Arinsal, Andorra",SPAINDOCTOR
+"""been""","Fort-de-France, Martinique",SPAINDOCTOR
+"""been""","Andorra la Vella, Andorra",SPAINDOCTOR
+"""been""","Mbour, Senegal",SPAINDOCTOR
+"""been""","Sintra, Portugal",SPAINDOCTOR
+"""been""","Kasane, Botswana",SPAINDOCTOR
+"""been""","Glacis, Seychelles",SPAINDOCTOR
+"""been""","Mahe Island, Seychelles",SPAINDOCTOR
+"""been""","Sharm El Sheikh, Egypt",SPAINDOCTOR
+"""been""","San Juan, Puerto Rico",SPAINDOCTOR
+"""been""","Sidi Bou Said, Tunisia",SPAINDOCTOR
+"""been""","Grindelwald, Switzerland",SPAINDOCTOR
+"""been""","Tocancipa, Colombia",SPAINDOCTOR
+"""been""","Pontevedra, Spain",SPAINDOCTOR
+"""been""","Soria, Spain",SPAINDOCTOR
+"""been""","Makati, Philippines",SPAINDOCTOR
+"""been""","Santa Cruz, CA, USA",SPAINDOCTOR
+"""been""","Santa Clara, CA, USA",SPAINDOCTOR
+"""been""","Santa Barbara, CA, USA",SPAINDOCTOR
+"""been""","Puerto Del Carmen, Spain",SPAINDOCTOR
+"""been""","Saltillo, Mexico",SPAINDOCTOR
+"""been""","Vejer de la Frontera, Spain",SPAINDOCTOR
+"""been""","Monterrey, Mexico",SPAINDOCTOR
+"""been""","Ciudad Juarez, Mexico",SPAINDOCTOR
+"""been""","Portugalete, Spain",SPAINDOCTOR
+"""been""","Santa Monica, CA, USA",SPAINDOCTOR
+"""been""","Arona, Spain",SPAINDOCTOR
+"""been""","Atlanta, GA, USA",SPAINDOCTOR
+"""been""","San Juan Teotihuacan, Mexico",SPAINDOCTOR
+"""been""","Milan, Italy",SPAINDOCTOR
+"""been""","Las Cumbres, Panama",SPAINDOCTOR
+"""been""","Port d'Alcudia, Spain",SPAINDOCTOR
+"""been""","Heidelberg, South Africa",SPAINDOCTOR
+"""been""","Kapolei, HI, USA",SPAINDOCTOR
+"""been""","Richmond, VA, USA",SPAINDOCTOR
+"""been""","Ajlun, Jordan",SPAINDOCTOR
+"""been""","Bogota, Colombia",SPAINDOCTOR
+"""been""","Carlsbad, CA, USA",SPAINDOCTOR
+"""been""","La Paz, Bolivia",SPAINDOCTOR
+"""been""","Kissimmee, FL, USA",SPAINDOCTOR
+"""been""","Turin, Italy",SPAINDOCTOR
+"""been""","San Jose, CA, USA",SPAINDOCTOR
+"""been""","Edinburgh, UK",SPAINDOCTOR
+"""been""","Tortola, British Virgin Islands",SPAINDOCTOR
+"""been""","Georgetown, Guyana",SPAINDOCTOR
+"""been""","Cape Canaveral, FL, USA",SPAINDOCTOR
+"""been""","Ronda, Spain",SPAINDOCTOR
+"""been""","Paramaribo, Suriname",SPAINDOCTOR
+"""been""","Asuncion, Paraguay",SPAINDOCTOR
+"""been""","George Town, Cayman Islands",SPAINDOCTOR
+"""been""","Williamsburg, VA, USA",SPAINDOCTOR
+"""been""","Bondi, Australia",SPAINDOCTOR
+"""been""","San Isidro, Argentina",SPAINDOCTOR
+"""been""","Lido di Venezia, Italy",SPAINDOCTOR
+"""been""","Celebration, FL, USA",SPAINDOCTOR
+"""been""","Flam, Norway",SPAINDOCTOR
+"""been""","Kailua-Kona, HI, USA",SPAINDOCTOR
+"""been""","Tijuana, Mexico",SPAINDOCTOR
+"""been""","Valle de La Pascua, Venezuela",SPAINDOCTOR
+"""been""","Ayutthaya, Thailand",SPAINDOCTOR
+"""been""","Barinas, Venezuela",SPAINDOCTOR
+"""been""","La Paz, Mexico",SPAINDOCTOR
+"""been""","El Tirano, Venezuela",SPAINDOCTOR
+"""been""","Armacao dos Buzios, Brazil",SPAINDOCTOR
+"""been""","Anglet, France",SPAINDOCTOR
+"""been""","Hendaye, France",SPAINDOCTOR
+"""been""","Pompano Beach, FL, USA",SPAINDOCTOR
+"""been""","Almaty, Kazakhstan",SPAINDOCTOR
+"""been""","Kendall, FL, USA",SPAINDOCTOR
+"""been""","Maseru, Lesotho",SPAINDOCTOR
+"""been""","Princeville, HI, USA",SPAINDOCTOR
+"""been""","Valera, Venezuela",SPAINDOCTOR
+"""want""","New Orleans, LA, USA",SPAINDOCTOR
+"""been""","Antananarivo, Madagascar",SPAINDOCTOR
+"""been""","Key Biscayne, FL, USA",SPAINDOCTOR
+"""been""","West Hollywood, CA, USA",SPAINDOCTOR
+"""been""","Punta Gorda, FL, USA",SPAINDOCTOR
+"""been""","Bologna, Italy",SPAINDOCTOR
+"""been""","Burlington, VT, USA",SPAINDOCTOR
+"""been""","Macau, China",SPAINDOCTOR
+"""been""","Rimini, Italy",SPAINDOCTOR
+"""been""","Mauritius, Africa",SPAINDOCTOR
+"""been""","Port Louis, Africa",SPAINDOCTOR
+"""been""","Ravenna, Italy",SPAINDOCTOR
+"""been""","Lilongwe, Malawi",SPAINDOCTOR
+"""been""","Tucacas, Venezuela",SPAINDOCTOR
+"""been""","Utrera, Spain",SPAINDOCTOR
+"""been""","Granada, Nicaragua",SPAINDOCTOR
+"""been""","Manaus, Brazil",SPAINDOCTOR
+"""been""","Maputo, Mozambique",SPAINDOCTOR
+"""been""","Timisoara, Romania",SPAINDOCTOR
+"""been""","Syracuse, NY, USA",SPAINDOCTOR
+"""been""","Pensacola, FL, USA",SPAINDOCTOR
+"""been""","Canggu, Indonesia",SPAINDOCTOR
+"""been""","Corniglia, Italy",SPAINDOCTOR
+"""been""","Manarola, Italy",SPAINDOCTOR
+"""been""","Greensboro, NC, USA",SPAINDOCTOR
+"""been""","Siem Reap, Cambodia",SPAINDOCTOR
+"""been""","Corralejo, Spain",SPAINDOCTOR
+"""been""","Jaipur, India",SPAINDOCTOR
+"""been""","New Delhi, India",SPAINDOCTOR
+"""been""","Porters, Barbados",SPAINDOCTOR
+"""been""","Cabo San Lucas, Mexico",SPAINDOCTOR
+"""been""","Riomaggiore, Italy",SPAINDOCTOR
+"""been""","San Jose del Cabo, Mexico",SPAINDOCTOR
+"""been""","Vernazza, Italy",SPAINDOCTOR
+"""been""","Genoa, Italy",SPAINDOCTOR
+"""been""","La Spezia, Italy",SPAINDOCTOR
+"""been""","Moscow, Russia",SPAINDOCTOR
+"""been""","Monterosso al Mare, Italy",SPAINDOCTOR
+"""been""","Portofino, Italy",SPAINDOCTOR
+"""been""","Kata Beach, Thailand",SPAINDOCTOR
+"""been""","Santa Margherita Ligure, Italy",SPAINDOCTOR
+"""been""","Blanes, Spain",SPAINDOCTOR
+"""been""","Rome, Italy",SPAINDOCTOR
+"""been""","Vatican City, Vatican City",SPAINDOCTOR
+"""been""","Nuremberg, Germany",SPAINDOCTOR
+"""been""","Soto, Curacao",SPAINDOCTOR
+"""been""","El Cabo de Gata, Spain",SPAINDOCTOR
+"""been""","Kampala, Uganda",SPAINDOCTOR
+"""been""","Anse Kerlan, Seychelles",SPAINDOCTOR
+"""been""","Brussels, Belgium",SPAINDOCTOR
+"""been""","Thimphu, Bhutan",SPAINDOCTOR
+"""been""","Ourense, Spain",SPAINDOCTOR
+"""been""","Lusaka, Zambia",SPAINDOCTOR
+"""been""","Ajman, United Arab Emirates",SPAINDOCTOR
+"""been""","Stevenage, UK",SPAINDOCTOR
+"""been""","Las Rozas, Spain",SPAINDOCTOR
+"""been""","Navalmoral de la Mata, Spain",SPAINDOCTOR
+"""been""","Orena, Spain",SPAINDOCTOR
+"""been""","Sharjah, United Arab Emirates",SPAINDOCTOR
+"""been""","Tissamaharama, Sri Lanka",SPAINDOCTOR
+"""been""","Berlin, Germany",SPAINDOCTOR
+"""been""","Newcastle, UK",SPAINDOCTOR
+"""been""","Liege, Belgium",SPAINDOCTOR
+"""been""","Bremen, Germany",SPAINDOCTOR
+"""been""","Niagara Falls, NY, USA",SPAINDOCTOR
+"""been""","Potsdam, Germany",SPAINDOCTOR
+"""been""","Hamburg, Germany",SPAINDOCTOR
+"""been""","Auckland Central, New Zealand",SPAINDOCTOR
+"""been""","Frankfurt, Germany",SPAINDOCTOR
+"""been""","Muscat, Oman",SPAINDOCTOR
+"""been""","Morondava, Madagascar",SPAINDOCTOR
+"""been""","Lancaster, PA, USA",SPAINDOCTOR
+"""been""","Ghent, Belgium",SPAINDOCTOR
+"""been""","Puerto Banus, Spain",SPAINDOCTOR
+"""been""","Saint-Denis, Reunion Island",SPAINDOCTOR
+"""been""","Atlantic City, NJ, USA",SPAINDOCTOR
+"""been""","Puente San Miguel, Spain",SPAINDOCTOR
+"""been""","Bergen, Norway",SPAINDOCTOR
+"""been""","Peterhof, Russia",SPAINDOCTOR
+"""been""","Kigali, Rwanda",SPAINDOCTOR
+"""been""","Doral, FL, USA",SPAINDOCTOR
+"""been""","Rhodes Town, Greece",SPAINDOCTOR
+"""been""","Bruges, Belgium",SPAINDOCTOR
+"""been""","Christchurch, New Zealand",SPAINDOCTOR
+"""been""","Wellington, New Zealand",SPAINDOCTOR
+"""been""","Virgilina, VA, USA",SPAINDOCTOR
+"""been""","Boca Raton, FL, USA",SPAINDOCTOR
+"""been""","Dakar, Senegal",SPAINDOCTOR
+"""been""","Rotorua, New Zealand",SPAINDOCTOR
+"""been""","Entebbe, Uganda",SPAINDOCTOR
+"""been""","Paihia, New Zealand",SPAINDOCTOR
+"""been""","Alcazar de San Juan, Spain",SPAINDOCTOR
+"""been""","Beau Vallon, Seychelles",SPAINDOCTOR
+"""been""","Cap d'Ail, France",SPAINDOCTOR
+"""been""","Stavanger, Norway",SPAINDOCTOR
+"""been""","Fuengirola, Spain",SPAINDOCTOR
+"""been""","Baeza, Spain",SPAINDOCTOR
+"""been""","Adeje, Spain",SPAINDOCTOR
+"""been""","Tarifa, Spain",SPAINDOCTOR
+"""been""","Nerja, Spain",SPAINDOCTOR
+"""been""","Jaen, Spain",SPAINDOCTOR
+"""been""","Helsinki, Finland",SPAINDOCTOR
+"""been""","Madrid, Spain",SPAINDOCTOR
+"""been""","Hollywood, FL, USA",SPAINDOCTOR
+"""been"",""fave""","Queenstown, New Zealand",SPAINDOCTOR
+"""been""","Auckland, New Zealand",SPAINDOCTOR
+"""been""","Wilmington, DE, USA",SPAINDOCTOR
+"""been""","Gibraltar, Europe",SPAINDOCTOR
+"""been""","Avila, Spain",SPAINDOCTOR
+"""been""","Milford Sound, New Zealand",SPAINDOCTOR
+"""been""","Andorra, Spain",SPAINDOCTOR
+"""been""","Hout Bay, South Africa",SPAINDOCTOR
+"""been""","Cartagena, Spain",SPAINDOCTOR
+"""been""","Murcia, Spain",SPAINDOCTOR
+"""been""","Sainte-Luce, Martinique",SPAINDOCTOR
+"""been""","Guardalavaca, Cuba",SPAINDOCTOR
+"""been"",""fave""","Cape Town Central, South Africa",SPAINDOCTOR
+"""been""","Bani, Dominican Republic",SPAINDOCTOR
+"""been""","Camps Bay, South Africa",SPAINDOCTOR
+"""been""","Khimki, Russia",SPAINDOCTOR
+"""been""","Bal Harbour, FL, USA",SPAINDOCTOR
+"""been""","Benidorm, Spain",SPAINDOCTOR
+"""been""","Terres Basses, St Martin \u002F St Maarten",SPAINDOCTOR
+"""been""","Utrecht, The Netherlands",SPAINDOCTOR
+"""been""","Pamplona, Spain",SPAINDOCTOR
+"""been""","Figueres, Spain",SPAINDOCTOR
+"""been""","Borobudur, Indonesia",SPAINDOCTOR
+"""been""","Castellon de la Plana, Spain",SPAINDOCTOR
+"""been""","Kathmandu, Nepal",SPAINDOCTOR
+"""been""","Coral Bay, U.S. Virgin Islands",SPAINDOCTOR
+"""been""","Pokhara, Nepal",SPAINDOCTOR
+"""been""","Isla Cristina, Spain",SPAINDOCTOR
+"""been""","Villajoyosa, Spain",SPAINDOCTOR
+"""been""","Valencia, Spain",SPAINDOCTOR
+"""been""","Schiphol, The Netherlands",SPAINDOCTOR
+"""been""","Hallandale Beach, FL, USA",SPAINDOCTOR
+"""been""","George, South Africa",SPAINDOCTOR
+"""been""","San Jose, Costa Rica",SPAINDOCTOR
+"""been""","Knysna, South Africa",SPAINDOCTOR
+"""been""","Hermanus, South Africa",SPAINDOCTOR
+"""been""","Beraban, Indonesia",SPAINDOCTOR
+"""been""","Rio de Janeiro, Brazil",SPAINDOCTOR
+"""been""","Amalfi, Italy",SPAINDOCTOR
+"""been""","La Seu d'Urgell, Spain",SPAINDOCTOR
+"""been""","Sorrento, Italy",SPAINDOCTOR
+"""been""","Katakolo, Greece",SPAINDOCTOR
+"""been""","Capri, Italy",SPAINDOCTOR
+"""been""","Antwerp, Belgium",SPAINDOCTOR
+"""been""","Newark, DE, USA",SPAINDOCTOR
+"""been""","Hialeah, FL, USA",SPAINDOCTOR
+"""been""","Naples, Italy",SPAINDOCTOR
+"""been""","Livingstone, Zambia",SPAINDOCTOR
+"""been""","Pompeii, Italy",SPAINDOCTOR
+"""been""","Munich, Germany",SPAINDOCTOR
+"""been""","Philadelphia, PA, USA",SPAINDOCTOR
+"""been""","Oistins, Barbados",SPAINDOCTOR
+"""been""","Gettysburg, PA, USA",SPAINDOCTOR
+"""been""","Costa Adeje, Spain",SPAINDOCTOR
+"""been""","Island of Malta, Malta",SPAINDOCTOR
+"""been""","Rio Caribe, Venezuela",SPAINDOCTOR
+"""been""","Pittsburgh, PA, USA",SPAINDOCTOR
+"""been""","Dresden, Germany",SPAINDOCTOR
+"""been""","Evans, GA, USA",SPAINDOCTOR
+"""been""","Naivasha, Kenya",SPAINDOCTOR
+"""been""","Valletta, Malta",SPAINDOCTOR
+"""been""","Sliema, Malta",SPAINDOCTOR
+"""been""","Rabat, Malta",SPAINDOCTOR
+"""been""","Bratislava, Slovakia",SPAINDOCTOR
+"""been""","Mosta, Malta",SPAINDOCTOR
+"""been""","Mdina, Malta",SPAINDOCTOR
+"""been""","Marsaxlokk, Malta",SPAINDOCTOR
+"""been""","Tirolo \u002F Dorf Tirol, Italy",SPAINDOCTOR
+"""been""","Hoedspruit, South Africa",SPAINDOCTOR
+"""been""","Zona Bananera, Colombia",SPAINDOCTOR
+"""been"",""fave""","Kruger National Park, South Africa",SPAINDOCTOR
+"""been""","New Haven, CT, USA",SPAINDOCTOR
+"""been""","Venice, FL, USA",SPAINDOCTOR
+"""been""","Quito, Ecuador",SPAINDOCTOR
+"""been""","Santiago, Chile",SPAINDOCTOR
+"""been""","Valparaiso, Chile",SPAINDOCTOR
+"""been""","Gansbaai, South Africa",SPAINDOCTOR
+"""been""","El Poble Nou Del Delta, Spain",SPAINDOCTOR
+"""been""","Ban Xieng Lom, Laos",SPAINDOCTOR
+"""been""","Toulouse, France",SPAINDOCTOR
+"""been""","Algarve, Portugal",SPAINDOCTOR
+"""been""","Faro, Portugal",SPAINDOCTOR
+"""been""","Fort Worth, TX, USA",SPAINDOCTOR
+"""been""","Pilsen, Czech Republic",SPAINDOCTOR
+"""been""","Kaunas, Lithuania",SPAINDOCTOR
+"""been""","Bavaro, Dominican Republic",SPAINDOCTOR
+"""been""","Amer, India",SPAINDOCTOR
+"""been""","Prague, Czech Republic",SPAINDOCTOR
+"""been""","Los Cristianos, Spain",SPAINDOCTOR
+"""been""","Caen, France",SPAINDOCTOR
+"""been""","White River, South Africa",SPAINDOCTOR
+"""been""","Sinaia, Romania",SPAINDOCTOR
+"""been""","Skukuza, South Africa",SPAINDOCTOR
+"""been""","Sagres, Portugal",SPAINDOCTOR
+"""been""","Portimao, Portugal",SPAINDOCTOR
+"""been""","Giverny, France",SPAINDOCTOR
+"""been""","Pensacola Beach, FL, USA",SPAINDOCTOR
+"""been""","Nelspruit, South Africa",SPAINDOCTOR
+"""been""","San Vicente de la Barquera, Spain",SPAINDOCTOR
+"""been""","Algeciras, Spain",SPAINDOCTOR
+"""been""","Cabo de Gata, Spain",SPAINDOCTOR
+"""been""","Luxembourg City, Luxembourg",SPAINDOCTOR
+"""been""","Playa d'en Bossa, Spain",SPAINDOCTOR
+"""been""","Hannover, Germany",SPAINDOCTOR
+"""been""","Vina del Mar, Chile",SPAINDOCTOR
+"""been""","Crown Point, Trinidad and Tobago",SPAINDOCTOR
+"""been""","Suva, Fiji",SPAINDOCTOR
+"""been""","Dubai, United Arab Emirates",SPAINDOCTOR
+"""been""","Nadi, Fiji",SPAINDOCTOR
+"""been""","Carupano, Venezuela",SPAINDOCTOR
+"""been""","Truskavets, Ukraine",SPAINDOCTOR
+"""been""","Riga, Latvia",SPAINDOCTOR
+"""been""","Gdynia, Poland",SPAINDOCTOR
+"""been""","Copenhagen, Denmark",SPAINDOCTOR
+"""been""","Anacapri, Italy",SPAINDOCTOR
+"""been""","Vilnius, Lithuania",SPAINDOCTOR
+"""been""","Membrilla, Spain",SPAINDOCTOR
+"""been""","Rostock, Germany",SPAINDOCTOR
+"""been""","St. Ann's, Trinidad and Tobago",SPAINDOCTOR
+"""been""","Kalamaki, Greece",SPAINDOCTOR
+"""been""","Sucre, Bolivia",SPAINDOCTOR
+"""been""","Easton, PA, USA",SPAINDOCTOR
+"""been""","San Javier, Spain",SPAINDOCTOR
+"""been""","Uyuni, Bolivia",SPAINDOCTOR
+"""been""","Tallinn, Estonia",SPAINDOCTOR
+"""been""","Brno, Czech Republic",SPAINDOCTOR
+"""been""","Villafranca, Spain",SPAINDOCTOR
+"""been""","Dusseldorf, Germany",SPAINDOCTOR
+"""been""","Bonn, Germany",SPAINDOCTOR
+"""been""","Cologne, Germany",SPAINDOCTOR
+"""been""","Tahaa, French Polynesia",SPAINDOCTOR
+"""been""","Dortmund, Germany",SPAINDOCTOR
+"""been""","Cusco, Peru",SPAINDOCTOR
+"""been""","Sant'Agnello, Italy",SPAINDOCTOR
+"""been""","La Colonia Tovar, Venezuela",SPAINDOCTOR
+"""been""","Sousse, Tunisia",SPAINDOCTOR
+"""been""","Arequipa, Peru",SPAINDOCTOR
+"""been""","Savona, Italy",SPAINDOCTOR
+"""been""","Venta de Banos, Spain",SPAINDOCTOR
+"""been""","Reims, France",SPAINDOCTOR
+"""been""","Puertollano, Spain",SPAINDOCTOR
+"""been""","Boca Chica, Dominican Republic",SPAINDOCTOR
+"""been""","Machu Picchu, Peru",SPAINDOCTOR
+"""been""","Ollantaytambo, Peru",SPAINDOCTOR
+"""been""","Mandalay, Myanmar",SPAINDOCTOR
+"""been""","Lima, Peru",SPAINDOCTOR
+"""been""","Orient Bay, St Martin \u002F St Maarten",SPAINDOCTOR
+"""been""","Aghir, Tunisia",SPAINDOCTOR
+"""been"",""fave""","Luang Prabang, Laos",SPAINDOCTOR
+"""been""","Montevideo, Uruguay",SPAINDOCTOR
+"""been""","Harrisburg, PA, USA",SPAINDOCTOR
+"""been""","Schuylkill Haven, PA, USA",SPAINDOCTOR
+"""been""","Paris, France",SPAINDOCTOR
+"""been""","Geiranger, Norway",SPAINDOCTOR
+"""been""","Versailles, France",SPAINDOCTOR
+"""been""","Panevezys, Lithuania",SPAINDOCTOR
+"""been""","Paro, Bhutan",SPAINDOCTOR
+"""been""","Cox's Bazar, Bangladesh",SPAINDOCTOR
+"""been""","Katowice, Poland",SPAINDOCTOR
+"""been""","Cabo de Palos, Spain",SPAINDOCTOR
+"""been""","Jeju, South Korea",SPAINDOCTOR
+"""been""","Greenville, SC, USA",SPAINDOCTOR
+"""been""","Honiara, Solomon Islands",SPAINDOCTOR
+"""been""","Elche, Spain",SPAINDOCTOR
+"""been""","Oswiecim, Poland",SPAINDOCTOR
+"""been""","Negombo, Sri Lanka",SPAINDOCTOR
+"""been""","Port Vila, Vanuatu",SPAINDOCTOR
+"""been""","Mijas, Spain",SPAINDOCTOR
+"""been""","Playa de las Americas, Spain",SPAINDOCTOR
+"""been""","St. Petersburg, Russia",SPAINDOCTOR
+"""been""","Teruel, Spain",SPAINDOCTOR
+"""been""","Ubeda, Spain",SPAINDOCTOR
+"""been""","Irun, Spain",SPAINDOCTOR
+"""been""","Merida, Spain",SPAINDOCTOR
+"""been""","Mexico City, Mexico",SPAINDOCTOR
+"""been""","Cozumel, Mexico",SPAINDOCTOR
+"""been""","Papeete, French Polynesia",SPAINDOCTOR
+"""been""","Chichen Itza, Mexico",SPAINDOCTOR
+"""been""","Cancun, Mexico",SPAINDOCTOR
+"""been""","Siesta Key, FL, USA",SPAINDOCTOR
+"""been""","Blacksburg, VA, USA",SPAINDOCTOR
+"""been""","Toronto, Ontario, Canada",SPAINDOCTOR
+"""been""","Salt Lake City, UT, USA",SPAINDOCTOR
+"""been""","Wieliczka, Poland",SPAINDOCTOR
+"""been""","Lloret de Mar, Spain",SPAINDOCTOR
+"""been""","Mariana, Brazil",SPAINDOCTOR
+"""been""","Retamar, Spain",SPAINDOCTOR
+"""been""","Badalona, Spain",SPAINDOCTOR
+"""been""","Furanafushi Island, Asia",SPAINDOCTOR
+"""been""","Ouro Preto, Brazil",SPAINDOCTOR
+"""been""","Linares de Ribadesella, Spain",SPAINDOCTOR
+"""been"",""fave""","Krakow, Poland",SPAINDOCTOR
+"""been""","Tulum, Mexico",SPAINDOCTOR
+"""been""","Playa del Carmen, Mexico",SPAINDOCTOR
+"""been""","Trakai, Lithuania",SPAINDOCTOR
+"""been""","Nauru, South Pacific",SPAINDOCTOR
+"""been""","Jerez De La Frontera, Spain",SPAINDOCTOR
+"""been""","Williamsport, PA, USA",SPAINDOCTOR
+"""been""","Tarawa Atoll, Republic of Kiribati",SPAINDOCTOR
+"""been""","South Miami, FL, USA",SPAINDOCTOR
+"""been""","Wilkes-Barre, PA, USA",SPAINDOCTOR
+"""been""","Santillana del Mar, Spain",SPAINDOCTOR
+"""been""","Sabadell, Spain",SPAINDOCTOR
+"""been""","San Antonio de Pichincha, Ecuador",SPAINDOCTOR
+"""been""","Bayonne, France",SPAINDOCTOR
+"""been""","Agra, India",SPAINDOCTOR
+"""been""","Bordeaux, France",SPAINDOCTOR
+"""been""","Invergordon, UK",SPAINDOCTOR
+"""been""","Simon's Town, South Africa",SPAINDOCTOR
+"""been""","Aegina, Greece",SPAINDOCTOR
+"""been""","Caceres, Spain",SPAINDOCTOR
+"""been""","Bansko, Bulgaria",SPAINDOCTOR
+"""been""","Annapolis, MD, USA",SPAINDOCTOR
+"""been""","Biarritz, France",SPAINDOCTOR
+"""been""","Porto Azzurro, Italy",SPAINDOCTOR
+"""been""","Bauska, Latvia",SPAINDOCTOR
+"""been""","Saint-Jean-de-Luz, France",SPAINDOCTOR
+"""been""","Porto Ercole, Italy",SPAINDOCTOR
+"""been""","Wadowice, Poland",SPAINDOCTOR
+"""been""","Salinas, Spain",SPAINDOCTOR
+"""been""","Nusa Dua, Indonesia",SPAINDOCTOR
+"""been""","Kuta, Indonesia",SPAINDOCTOR
+"""been""","Allentown, PA, USA",SPAINDOCTOR
+"""been""","Beausoleil, France",SPAINDOCTOR
+"""been""","Vichy, France",SPAINDOCTOR
+"""been""","Las Vegas, NV, USA",SPAINDOCTOR
+"""been""","Praiano, Italy",SPAINDOCTOR
+"""been""","Oia, Greece",SPAINDOCTOR
+"""been""","Fira, Greece",SPAINDOCTOR
+"""been""","Los Angeles, CA, USA",SPAINDOCTOR
+"""been""","Fresno, CA, USA",SPAINDOCTOR
+"""been""","Los Altos, CA, USA",SPAINDOCTOR
+"""been""","Fremont, CA, USA",SPAINDOCTOR
+"""been""","La Goulette, Tunisia",SPAINDOCTOR
+"""been""","Petra - Wadi Musa, Jordan",SPAINDOCTOR
+"""been""","San Lorenzo de El Escorial, Spain",SPAINDOCTOR
+"""been""","Los Gigantes, Spain",SPAINDOCTOR
+"""been""","Aguas Calientes, Peru",SPAINDOCTOR
+"""been""","Getafe, Spain",SPAINDOCTOR
+"""been""","Positano, Italy",SPAINDOCTOR
+"""been""","Silver Spring, MD, USA",SPAINDOCTOR
+"""been""","Vaitape, French Polynesia",SPAINDOCTOR
+"""been""","Alicante, Spain",SPAINDOCTOR
+"""been""","Arlington, VA, USA",SPAINDOCTOR
+"""been""","Oroklini, Cyprus",SPAINDOCTOR
+"""been""","Alcala De Henares, Spain",SPAINDOCTOR
+"""been""","St. Petersburg, FL, USA",SPAINDOCTOR
+"""been""","Aranjuez, Spain",SPAINDOCTOR
+"""been""","Alcaidesa, Spain",SPAINDOCTOR
+"""been""","Alcorcon, Spain",SPAINDOCTOR
+"""been""","Amesbury, UK",SPAINDOCTOR
+"""been""","Ravello, Italy",SPAINDOCTOR
+"""been""","Almagro, Spain",SPAINDOCTOR
+"""been""","Santa Marta, Colombia",SPAINDOCTOR
+"""been""","Playa Blanca, Spain",SPAINDOCTOR
+"""been""","Majuro, Marshall Islands",SPAINDOCTOR
+"""been""","Beverly Hills, CA, USA",SPAINDOCTOR
+"""been""","Ocala, FL, USA",SPAINDOCTOR
+"""been""","Palencia, Spain",SPAINDOCTOR
+"""been""","Kuala Lumpur, Malaysia",SPAINDOCTOR
+"""been""","Male, Asia",SPAINDOCTOR
+"""been""","Victoria, Seychelles",SPAINDOCTOR
+"""been""","Manila, Philippines",SPAINDOCTOR
+"""been""","Quezon City, Philippines",SPAINDOCTOR
+"""been""","Ella, Sri Lanka",SPAINDOCTOR
+"""been""","Irving, TX, USA",SPAINDOCTOR
+"""been""","Castel Gandolfo, Italy",SPAINDOCTOR
+"""been""","Bridgetown, Barbados",SPAINDOCTOR
+"""been""","Belle Mare, Africa",SPAINDOCTOR
+"""been""","Aqaba, Jordan",SPAINDOCTOR
+"""been""","Las Rosas, Spain",SPAINDOCTOR
+"""been""","Havana, Cuba",SPAINDOCTOR
+"""been""","Anse Louis, Seychelles",SPAINDOCTOR
+"""been""","Chengdu, China",SPAINDOCTOR
+"""want""","Seoul, South Korea",SPAINDOCTOR
+"""been""","Tbilisi, Georgia",SPAINDOCTOR
+"""been""","Conil de la Frontera, Spain",SPAINDOCTOR
+"""been""","Yangon (Rangoon), Myanmar",SPAINDOCTOR
+"""been""","Fort Myers, FL, USA",SPAINDOCTOR
+"""been""","Olden, Norway",SPAINDOCTOR
+"""been""","Ventura, CA, USA",SPAINDOCTOR
+"""been""","New York City, NY, USA",SPAINDOCTOR
+"""been""","Cali, Colombia",SPAINDOCTOR
+"""been""","Nagasaki, Japan",SPAINDOCTOR
+"""been""","Palm - Eagle Beach, Aruba",SPAINDOCTOR
+"""been""","Sitges, Spain",SPAINDOCTOR
+"""been""","Tarragona, Spain",SPAINDOCTOR
+"""been""","Aruba, Caribbean",SPAINDOCTOR
+"""been""","Oranjestad, Aruba",SPAINDOCTOR
+"""been""","Higuey, Dominican Republic",SPAINDOCTOR
+"""been""","Medellin, Colombia",SPAINDOCTOR
+"""been""","Berkeley, CA, USA",SPAINDOCTOR
+"""been""","St. John's, Antigua and Barbuda",SPAINDOCTOR
+"""been""","Lleida, Spain",SPAINDOCTOR
+"""been""","Gardermoen, Norway",SPAINDOCTOR
+"""been""","Cartagena, Colombia",SPAINDOCTOR
+"""been""","La Coruna, Spain",SPAINDOCTOR
+"""been""","Santiago de Compostela, Spain",SPAINDOCTOR
+"""been""","Vigo, Spain",SPAINDOCTOR
+"""been""","San Diego, CA, USA",SPAINDOCTOR
+"""been""","Belo Horizonte, Brazil",SPAINDOCTOR
+"""been""","Everglades City, FL, USA",SPAINDOCTOR
+"""been""","Culver City, CA, USA",SPAINDOCTOR
+"""been""","Houston, TX, USA",SPAINDOCTOR
+"""been""","Hanoi, Vietnam",SPAINDOCTOR
+"""been""","Ho Chi Minh City, Vietnam",SPAINDOCTOR
+"""been""","Hondarribia, Spain",SPAINDOCTOR
+"""been""","Halong Bay, Vietnam",SPAINDOCTOR
+"""been""","Cucuta, Colombia",SPAINDOCTOR
+"""been""","Paleokastritsa, Greece",SPAINDOCTOR
+"""been"",""fave""","Honolulu, HI, USA",SPAINDOCTOR
+"""been""","Villa de Leyva, Colombia",SPAINDOCTOR
+"""been""","Campo Grande, Brazil",SPAINDOCTOR
+"""been""","Torres, Spain",SPAINDOCTOR
+"""been""","Newark, NJ, USA",SPAINDOCTOR
+"""been""","Nha Trang, Vietnam",SPAINDOCTOR
+"""been""","Santa Monica, Cape Verde",SPAINDOCTOR
+"""been""","Anaheim, CA, USA",SPAINDOCTOR
+"""been""","Davis, CA, USA",SPAINDOCTOR
+"""been""","Naples, FL, USA",SPAINDOCTOR
+"""been""","Fort Lauderdale, FL, USA",SPAINDOCTOR
+"""been""","Dhaka City, Bangladesh",SPAINDOCTOR
+"""been""","Baku, Azerbaijan",SPAINDOCTOR
+"""been""","Newport, RI, USA",SPAINDOCTOR
+"""been""","Yerevan, Armenia",SPAINDOCTOR
+"""been""","Protaras, Cyprus",SPAINDOCTOR
+"""been""","Buffalo, NY, USA",SPAINDOCTOR
+"""been""","Swakopmund, Namibia",SPAINDOCTOR
+"""been""","Walvis Bay, Namibia",SPAINDOCTOR
+"""been""","Kom Ombo, Egypt",SPAINDOCTOR
+"""been""","Willemstad, Curacao",SPAINDOCTOR
+"""been""","Christoffel National Park, Curacao",SPAINDOCTOR
+"""been""","Coronado, CA, USA",SPAINDOCTOR
+"""been""","Tallahassee, FL, USA",SPAINDOCTOR
+"""been""","Varadero, Cuba",SPAINDOCTOR
+"""been""","Solana Beach, CA, USA",SPAINDOCTOR
+"""been""","Miami, FL, USA",SPAINDOCTOR
+"""been""","Scranton, PA, USA",SPAINDOCTOR
+"""been""","Tampa, FL, USA",SPAINDOCTOR
+"""been""","Belize City, Belize",SPAINDOCTOR
+"""been""","Benalmadena, Spain",SPAINDOCTOR
+"""been""","San Pedro, Belize",SPAINDOCTOR
+"""been""","Dublin, Ireland",SPAINDOCTOR
+"""been""","Salou, Spain",SPAINDOCTOR
+"""been""","Nungwi, Tanzania",SPAINDOCTOR
+"""been""","Miami Beach, FL, USA",SPAINDOCTOR
+"""been""","Adare, Ireland",SPAINDOCTOR
+"""been""","Loch Lomond and The Trossachs National Park, UK",SPAINDOCTOR
+"""been""","Grindavik, Iceland",SPAINDOCTOR
+"""been""","Itapema, Brazil",SPAINDOCTOR
+"""been""","Santo Domingo, Dominican Republic",SPAINDOCTOR
+"""been""","Tuscania, Italy",SPAINDOCTOR
+"""been""","French Harbour, Honduras",SPAINDOCTOR
+"""been""","Dominican Republic, Caribbean",SPAINDOCTOR
+"""been""","La Romana, Dominican Republic",SPAINDOCTOR
+"""been""","Placencia, Belize",SPAINDOCTOR
+"""been""","York, PA, USA",SPAINDOCTOR
+"""been""","Punta Cana, Dominican Republic",SPAINDOCTOR
+"""been""","Bangkok, Thailand",SPAINDOCTOR
+"""been""","South San Francisco, CA, USA",SPAINDOCTOR
+"""been""","Taipei, Taiwan",SPAINDOCTOR
+"""been""","Tainan, Taiwan",SPAINDOCTOR
+"""been""","San Francisco, CA, USA",SPAINDOCTOR
+"""been""","San Antonio, TX, USA",SPAINDOCTOR
+"""been""","Chiang Mai, Thailand",SPAINDOCTOR

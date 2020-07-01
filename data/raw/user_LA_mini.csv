@@ -1,0 +1,424 @@
+tag,place,user
+"""been""","Narita, Japan",mini
+"""been""","Mill City, OR, USA",mini
+"""been""","Elkton, OR, USA",mini
+"""been""","Mosier, OR, USA",mini
+"""been""","Trinidad, CA, USA",mini
+"""been""","Seal Beach, CA, USA",mini
+"""been""","Idaho City, ID, USA",mini
+"""been""","Scotts Valley, CA, USA",mini
+"""been""","Tres Pinos, CA, USA",mini
+"""been""","Idaho Falls, ID, USA",mini
+"""been""","Traver, CA, USA",mini
+"""been""","Sebastopol, CA, USA",mini
+"""been""","Seaside, CA, USA",mini
+"""been""","Coral Gables, FL, USA",mini
+"""been""","Tracy, CA, USA",mini
+"""been""","Sausalito, CA, USA",mini
+"""been""","Torrance, CA, USA",mini
+"""been""","Topaz, CA, USA",mini
+"""been""","Florence, OR, USA",mini
+"""been""","Nehalem, OR, USA",mini
+"""been""","Eugene, OR, USA",mini
+"""been""","Fargo, ND, USA",mini
+"""been""","Fort Klamath, OR, USA",mini
+"""been""","Forest Grove, OR, USA",mini
+"""been""","Santa Ynez, CA, USA",mini
+"""been""","Yorba Linda, CA, USA",mini
+"""been""","Santa Rosa, CA, USA",mini
+"""been""","Tiburon, CA, USA",mini
+"""been""","Saratoga, CA, USA",mini
+"""been""","Tomales, CA, USA",mini
+"""been""","Salmon, ID, USA",mini
+"""been""","Cocoa, FL, USA",mini
+"""been""","Sandpoint, ID, USA",mini
+"""been""","Woodland, CA, USA",mini
+"""been""","Lauderdale-By-The-Sea, FL, USA",mini
+"""been""","Sagle, ID, USA",mini
+"""been""","Hailey, ID, USA",mini
+"""been""","Clearwater, FL, USA",mini
+"""been""","Santa Monica, CA, USA",mini
+"""been""","Santa Maria, CA, USA",mini
+"""been""","The Sea Ranch, CA, USA",mini
+"""been""","Woodside, CA, USA",mini
+"""been""","Santa Margarita, CA, USA",mini
+"""been""","Baker City, OR, USA",mini
+"""been"",""fave""","Tokyo, Japan",mini
+"""been""","North Bend, OR, USA",mini
+"""been""","Newport, OR, USA",mini
+"""been""","Erie, PA, USA",mini
+"""been""","Walker, CA, USA",mini
+"""been""","Bandon, OR, USA",mini
+"""been""","Santa Barbara, CA, USA",mini
+"""been""","Temple City, CA, USA",mini
+"""been""","Maple Ridge, British Columbia, Canada",mini
+"""been""","Temecula, CA, USA",mini
+"""been""","Santa Ana, CA, USA",mini
+"""been""","Tehachapi, CA, USA",mini
+"""been""","Santa Fe Springs, CA, USA",mini
+"""been""","Santa Cruz, CA, USA",mini
+"""been""","Santa Clarita, CA, USA",mini
+"""been""","Santa Clara, CA, USA",mini
+"""been""","Templeton, CA, USA",mini
+"""been""","Glenns Ferry, ID, USA",mini
+"""been""","Newberg, OR, USA",mini
+"""been""","Priest River, ID, USA",mini
+"""been""","San Ysidro, CA, USA",mini
+"""been""","Windsor, CA, USA",mini
+"""been""","Government Camp, OR, USA",mini
+"""been""","Gold Hill, OR, USA",mini
+"""been""","Hakone-machi, Japan",mini
+"""been""","Gold Beach, OR, USA",mini
+"""been""","Bend, OR, USA",mini
+"""been""","Beaverton, OR, USA",mini
+"""been""","Yokohama, Japan",mini
+"""been""","Gleneden Beach, OR, USA",mini
+"""been""","Kuantan, Malaysia",mini
+"""been""","San Simeon, CA, USA",mini
+"""been""","Garden City, ID, USA",mini
+"""been""","San Pablo, CA, USA",mini
+"""been""","Tahoe City, CA, USA",mini
+"""been""","Post Falls, ID, USA",mini
+"""been""","Durango, CO, USA",mini
+"""been""","Willows, CA, USA",mini
+"""been""","San Miguel, CA, USA",mini
+"""been""","Willits, CA, USA",mini
+"""been""","San Mateo, CA, USA",mini
+"""been""","Sutter Creek, CA, USA",mini
+"""been""","Creston, British Columbia, Canada",mini
+"""been""","San Ramon, CA, USA",mini
+"""been""","Pocatello, ID, USA",mini
+"""been""","San Rafael, CA, USA",mini
+"""been""","Wilton, CA, USA",mini
+"""been""","Tahoma, CA, USA",mini
+"""been""","Tahoe Vista, CA, USA",mini
+"""been""","Pinetop-Lakeside, AZ, USA",mini
+"""been""","North Miami Beach, FL, USA",mini
+"""been""","Gearhart, OR, USA",mini
+"""been""","Bloomingdale, IL, USA",mini
+"""been""","Bloomington, IL, USA",mini
+"""been""","Lake City, FL, USA",mini
+"""been""","Williams, CA, USA",mini
+"""been""","San Martin, CA, USA",mini
+"""been""","Fairmont Hot Springs, British Columbia, Canada",mini
+"""been""","Susanville, CA, USA",mini
+"""been""","Field, British Columbia, Canada",mini
+"""been""","Harbor, OR, USA",mini
+"""been""","Bridal Veil, OR, USA",mini
+"""been""","Sumida, Japan",mini
+"""been""","Wailea, HI, USA",mini
+"""been""","San Marino, CA, USA",mini
+"""been""","San Marcos, CA, USA",mini
+"""been""","Cape Canaveral, FL, USA",mini
+"""been""","Cape Coral, FL, USA",mini
+"""been""","San Leandro, CA, USA",mini
+"""been""","San Juan Capistrano, CA, USA",mini
+"""been""","San Juan Bautista, CA, USA",mini
+"""been""","San Jose, CA, USA",mini
+"""been""","Fort Myers, FL, USA",mini
+"""been""","Sunol, CA, USA",mini
+"""been""","San Luis Obispo, CA, USA",mini
+"""been""","Whittier, CA, USA",mini
+"""been""","Dillon, CO, USA",mini
+"""been""","Fort Myers Beach, FL, USA",mini
+"""been""","Kissimmee, FL, USA",mini
+"""been""","Sunnyvale, CA, USA",mini
+"""been""","Denver, CO, USA",mini
+"""been""","Grants Pass, OR, USA",mini
+"""been""","Grand Ronde, OR, USA",mini
+"""been""","Westminster, CA, USA",mini
+"""been""","Minato, Japan",mini
+"""been""","Suisun City, CA, USA",mini
+"""been""","Raleigh, NC, USA",mini
+"""been""","San Gregorio, CA, USA",mini
+"""been""","Fort Lauderdale, FL, USA",mini
+"""been""","San Clemente, CA, USA",mini
+"""been""","San Carlos, CA, USA",mini
+"""been""","San Bruno, CA, USA",mini
+"""been""","West Hollywood, CA, USA",mini
+"""been""","Naples, FL, USA",mini
+"""been""","Stockton, CA, USA",mini
+"""been""","San Geronimo, CA, USA",mini
+"""been""","San Gabriel, CA, USA",mini
+"""been""","Amelia Island, FL, USA",mini
+"""been""","West Sacramento, CA, USA",mini
+"""been""","San Dimas, CA, USA",mini
+"""been""","Brookings, OR, USA",mini
+"""been""","West Covina, CA, USA",mini
+"""been""","Columbus, OH, USA",mini
+"""been""","Cascade Locks, OR, USA",mini
+"""been""","San Bernardino, CA, USA",mini
+"""been""","Weott, CA, USA",mini
+"""been""","Stinson Beach, CA, USA",mini
+"""been""","San Andreas, CA, USA",mini
+"""been""","Squaw Valley, CA, USA",mini
+"""been""","Wawona, CA, USA",mini
+"""been""","Colorado Springs, CO, USA",mini
+"""been""","St. Helena, CA, USA",mini
+"""been""","Watsonville, CA, USA",mini
+"""been""","Weldon, CA, USA",mini
+"""been""","Stanton, CA, USA",mini
+"""been""","Treasure Island, FL, USA",mini
+"""been""","Weed, CA, USA",mini
+"""been""","Everglades City, FL, USA",mini
+"""been""","Weaverville, CA, USA",mini
+"""been""","Salinas, CA, USA",mini
+"""been""","Port Canaveral, FL, USA",mini
+"""been""","Canyonville, OR, USA",mini
+"""been""","Cannon Beach, OR, USA",mini
+"""been""","South San Francisco, CA, USA",mini
+"""been""","Coeur d'Alene, ID, USA",mini
+"""been""","Chubbuck, ID, USA",mini
+"""been""","Vista, CA, USA",mini
+"""been""","Plantation, FL, USA",mini
+"""been""","Visalia, CA, USA",mini
+"""been""","South Pasadena, CA, USA",mini
+"""been""","Walnut Creek, CA, USA",mini
+"""been""","South El Monte, CA, USA",mini
+"""been""","Oklahoma City, OK, USA",mini
+"""been""","Tarpon Springs, FL, USA",mini
+"""been""","Old Station, CA, USA",mini
+"""been""","Tijuana, Mexico",mini
+"""been""","Rancho Cordova, CA, USA",mini
+"""been""","Todos Santos, Mexico",mini
+"""been""","Ojai, CA, USA",mini
+"""been""","Ramona, CA, USA",mini
+"""been""","Oakland, CA, USA",mini
+"""been""","Oceanside, CA, USA",mini
+"""been""","Oceano, CA, USA",mini
+"""been""","Occidental, CA, USA",mini
+"""been""","Oakville, CA, USA",mini
+"""been""","Quincy, CA, USA",mini
+"""been""","Ensenada, Mexico",mini
+"""been""","Rosarito, Mexico",mini
+"""been""","Grand Forks, ND, USA",mini
+"""been""","Oakdale, CA, USA",mini
+"""been""","Oakhurst, CA, USA",mini
+"""been""","Hillsboro, OR, USA",mini
+"""been""","Surrey, British Columbia, Canada",mini
+"""been""","Bismarck, ND, USA",mini
+"""been""","Portola, CA, USA",mini
+"""been""","Porterville, CA, USA",mini
+"""been""","Pollock Pines, CA, USA",mini
+"""been""","Pomona, CA, USA",mini
+"""been""","Hood River, OR, USA",mini
+"""been""","Mazatlan, Mexico",mini
+"""been""","Puerto Vallarta, Mexico",mini
+"""been""","Bonita Springs, FL, USA",mini
+"""been""","Regent, ND, USA",mini
+"""been""","Point Mugu, CA, USA",mini
+"""been""","Point Arena, CA, USA",mini
+"""been""","Central Point, OR, USA",mini
+"""been""","Pleasanton, CA, USA",mini
+"""been""","Point Reyes Station, CA, USA",mini
+"""been""","Cloverdale, OR, USA",mini
+"""been""","Pleasant Hill, CA, USA",mini
+"""been""","Jefferson, OR, USA",mini
+"""been""","Chemult, OR, USA",mini
+"""been""","Boca Raton, FL, USA",mini
+"""been""","Jamestown, ND, USA",mini
+"""been""","Cottage Grove, OR, USA",mini
+"""been""","Corvallis, OR, USA",mini
+"""been""","La Pine, OR, USA",mini
+"""been""","Corbett, OR, USA",mini
+"""been""","Klamath Falls, OR, USA",mini
+"""been""","Coos Bay, OR, USA",mini
+"""been""","Radium Hot Springs, British Columbia, Canada",mini
+"""been""","Lincoln City, OR, USA",mini
+"""been""","Lebanon, OR, USA",mini
+"""been""","Smith River, CA, USA",mini
+"""been""","Boise, ID, USA",mini
+"""been""","Simi Valley, CA, USA",mini
+"""been""","Detroit, OR, USA",mini
+"""been""","Depoe Bay, OR, USA",mini
+"""been""","Orillia, Ontario, Canada",mini
+"""been""","Bellevue, ID, USA",mini
+"""been""","Shell Beach, CA, USA",mini
+"""been""","Daytona Beach, FL, USA",mini
+"""been""","Devils Lake, ND, USA",mini
+"""been""","Medford, OR, USA",mini
+"""been""","Diamond Lake, OR, USA",mini
+"""been""","Dickinson, ND, USA",mini
+"""been""","Nobel, Ontario, Canada",mini
+"""been""","Shasta Lake, CA, USA",mini
+"""been""","Tustin, CA, USA",mini
+"""been""","Turlock, CA, USA",mini
+"""been""","Sooke, British Columbia, Canada",mini
+"""been""","Shaver Lake, CA, USA",mini
+"""been""","Truckee, CA, USA",mini
+"""been""","Tuolumne, CA, USA",mini
+"""been""","Tulare, CA, USA",mini
+"""been""","Yachats, OR, USA",mini
+"""been""","Placerville, CA, USA",mini
+"""been""","Chicago, IL, USA",mini
+"""been""","Placentia, CA, USA",mini
+"""been""","Newman, CA, USA",mini
+"""been""","Newark, CA, USA",mini
+"""been""","Pismo Beach, CA, USA",mini
+"""been""","Nevada City, CA, USA",mini
+"""been""","Big Bear Lake, CA, USA",mini
+"""been""","Pioneertown, CA, USA",mini
+"""been""","Winston, OR, USA",mini
+"""been""","Portland, OR, USA",mini
+"""been""","Port Orford, OR, USA",mini
+"""been""","Roxburgh, New Zealand",mini
+"""been""","Vero Beach, FL, USA",mini
+"""been""","Pinecrest, CA, USA",mini
+"""been""","Pine Grove, CA, USA",mini
+"""been""","Cozumel, Mexico",mini
+"""been""","Needles, CA, USA",mini
+"""been""","New Haven, CT, USA",mini
+"""been""","Reedsport, OR, USA",mini
+"""been""","Redmond, OR, USA",mini
+"""been""","Prospect, OR, USA",mini
+"""been""","Pueblo, CO, USA",mini
+"""been""","Phillipsville, CA, USA",mini
+"""been""","Rutherford, CA, USA",mini
+"""been""","Revelstoke, British Columbia, Canada",mini
+"""been""","Petaluma, CA, USA",mini
+"""been""","Sacramento, CA, USA",mini
+"""been""","Pescadero, CA, USA",mini
+"""been""","Squamish, British Columbia, Canada",mini
+"""been""","Roseburg, OR, USA",mini
+"""been""","Rockaway Beach, OR, USA",mini
+"""been""","Rosemead, CA, USA",mini
+"""been""","Cranbrook, British Columbia, Canada",mini
+"""been""","Golden, British Columbia, Canada",mini
+"""been""","Pebble Beach, CA, USA",mini
+"""been""","Roseville, CA, USA",mini
+"""been""","Nelson, British Columbia, Canada",mini
+"""been""","Rohnert Park, CA, USA",mini
+"""been""","Paso Robles, CA, USA",mini
+"""been""","Invermere, British Columbia, Canada",mini
+"""been""","Merritt, British Columbia, Canada",mini
+"""been""","Rocklin, CA, USA",mini
+"""been""","Bedford, PA, USA",mini
+"""been""","Sandy, OR, USA",mini
+"""been""","Salem, OR, USA",mini
+"""been""","Paradise, CA, USA",mini
+"""been""","Winter Park, CO, USA",mini
+"""been""","Pasadena, CA, USA",mini
+"""been""","Riverside, CA, USA",mini
+"""been""","Parker Dam, CA, USA",mini
+"""been""","Seal Rock, OR, USA",mini
+"""been""","Rio Nido, CA, USA",mini
+"""been""","Wapakoneta, OH, USA",mini
+"""been""","Seaside, OR, USA",mini
+"""been""","Palo Alto, CA, USA",mini
+"""been""","Pala, CA, USA",mini
+"""been""","Richmond, CA, USA",mini
+"""been""","Pacifica, CA, USA",mini
+"""been""","Palmdale, CA, USA",mini
+"""been""","Palm Springs, CA, USA",mini
+"""been""","Palm Desert, CA, USA",mini
+"""been""","Ridgecrest, CA, USA",mini
+"""been""","Pacific Grove, CA, USA",mini
+"""been""","Springfield, OR, USA",mini
+"""been""","Sisters, OR, USA",mini
+"""been""","Redondo Beach, CA, USA",mini
+"""been""","Redlands, CA, USA",mini
+"""been""","Pangkor, Malaysia",mini
+"""been""","Redding, CA, USA",mini
+"""been""","George Town, Malaysia",mini
+"""been""","Orick, CA, USA",mini
+"""been""","Oxnard, CA, USA",mini
+"""been""","Redwood City, CA, USA",mini
+"""been""","Red Bluff, CA, USA",mini
+"""been""","Talent, OR, USA",mini
+"""been""","Sunriver, OR, USA",mini
+"""been""","Sunny Valley, OR, USA",mini
+"""been""","Olympic Valley, CA, USA",mini
+"""been""","Rancho Mirage, CA, USA",mini
+"""been""","Olema, CA, USA",mini
+"""been""","Orange, CA, USA",mini
+"""been""","Rancho Palos Verdes, CA, USA",mini
+"""been""","Ontario, CA, USA",mini
+"""been""","The Dalles, OR, USA",mini
+"""been""","Tillamook, OR, USA",mini
+"""been""","Tigard, OR, USA",mini
+"""been""","North Vancouver, British Columbia, Canada",mini
+"""been""","Richmond, British Columbia, Canada",mini
+"""been""","Sonora, CA, USA",mini
+"""been""","Sonoma, CA, USA",mini
+"""been""","Bamberg, Germany",mini
+"""been""","Tampa, FL, USA",mini
+"""been""","Miami, FL, USA",mini
+"""been""","Soquel, CA, USA",mini
+"""been""","Miami Beach, FL, USA",mini
+"""been""","Tallahassee, FL, USA",mini
+"""been""","Ouray, CO, USA",mini
+"""been""","Carbondale, IL, USA",mini
+"""been""","Solvang, CA, USA",mini
+"""been""","Victorville, CA, USA",mini
+"""been""","Pensacola, FL, USA",mini
+"""been""","Soledad, CA, USA",mini
+"""been""","Solana Beach, CA, USA",mini
+"""been""","Langley City, British Columbia, Canada",mini
+"""been""","Grand Lake, CO, USA",mini
+"""been""","Grand Junction, CO, USA",mini
+"""been""","Westminster, CO, USA",mini
+"""been""","Valley Ford, CA, USA",mini
+"""been""","Hsinchu, Taiwan",mini
+"""been""","Valley Center, CA, USA",mini
+"""been""","Vallejo, CA, USA",mini
+"""been""","Watford City, ND, USA",mini
+"""been""","Upper Lake, CA, USA",mini
+"""been""","Granby, CO, USA",mini
+"""been""","Upland, CA, USA",mini
+"""been""","Breckenridge, CO, USA",mini
+"""been""","Golden, CO, USA",mini
+"""been""","Union City, CA, USA",mini
+"""been""","Glenwood Springs, CO, USA",mini
+"""been""","Twin Falls, ID, USA",mini
+"""been""","Vacaville, CA, USA",mini
+"""been""","Ketchum, ID, USA",mini
+"""been""","Ukiah, CA, USA",mini
+"""been""","Boulder, CO, USA",mini
+"""been""","Twin Peaks, CA, USA",mini
+"""been""","Twin Bridges, CA, USA",mini
+"""been""","Twain Harte, CA, USA",mini
+"""been""","Palm Beach, FL, USA",mini
+"""been""","Vail, CO, USA",mini
+"""been""","Beaver Creek, CO, USA",mini
+"""been""","Canton, OH, USA",mini
+"""been""","Troutdale, OR, USA",mini
+"""been""","Trail, OR, USA",mini
+"""been""","Yucca Valley, CA, USA",mini
+"""been""","Telluride, CO, USA",mini
+"""been""","Yucaipa, CA, USA",mini
+"""been""","Stanley, ID, USA",mini
+"""been""","Siesta Key, FL, USA",mini
+"""been"",""fave""","Orlando, FL, USA",mini
+"""been""","Yuba City, CA, USA",mini
+"""been""","Fort Collins, CO, USA",mini
+"""been""","Yreka, CA, USA",mini
+"""been""","Yountville, CA, USA",mini
+"""been""","Dublin, OH, USA",mini
+"""been""","Timberline Lodge, OR, USA",mini
+"""been""","Waldport, OR, USA",mini
+"""been""","Steamboat Springs, CO, USA",mini
+"""been""","Winter Park, FL, USA",mini
+"""been""","Loveland, CO, USA",mini
+"""been""","Oregon City, OR, USA",mini
+"""been""","Ophir, OR, USA",mini
+"""been""","Welches, OR, USA",mini
+"""been""","Ontario, OR, USA",mini
+"""been""","Oceanside, OR, USA",mini
+"""been""","Sarasota, FL, USA",mini
+"""been""","Novato, CA, USA",mini
+"""been""","Kusadasi, Turkey",mini
+"""been""","Longmont, CO, USA",mini
+"""been""","West Palm Beach, FL, USA",mini
+"""been""","Oakland, OR, USA",mini
+"""been""","Phoenix, OR, USA",mini
+"""been""","Toledo, OH, USA",mini
+"""been""","North Fork, CA, USA",mini
+"""been""","Norden, CA, USA",mini
+"""been""","St. Petersburg, FL, USA",mini
+"""been""","Kitchener, Ontario, Canada",mini
+"""been""","Midland, Ontario, Canada",mini
+"""been""","Newport Beach, CA, USA",mini
+"""been""","Nipomo, CA, USA",mini
+"""been""","Nice, CA, USA",mini
+"""been""","Norwalk, CT, USA",mini
+"""been""","Pacific City, OR, USA",mini

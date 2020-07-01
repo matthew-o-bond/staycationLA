@@ -1,0 +1,634 @@
+tag,place,user
+"""been""","Venice, Italy",FranChasen
+"""been""","Bethlehem, PA, USA",FranChasen
+"""been""","Foggia, Italy",FranChasen
+"""been""","Helsinki, Finland",FranChasen
+"""been""","Victoria, British Columbia, Canada",FranChasen
+"""been""","West Yellowstone, MT, USA",FranChasen
+"""been""","Brindisi, Italy",FranChasen
+"""been""","Whistler, British Columbia, Canada",FranChasen
+"""been""","Madrid, Spain",FranChasen
+"""been""","Avila, Spain",FranChasen
+"""been""","Hvar, Croatia",FranChasen
+"""been""","Missoula, MT, USA",FranChasen
+"""been""","Gibraltar, Europe",FranChasen
+"""been""","Bellingham, WA, USA",FranChasen
+"""been""","Mammoth Lakes, CA, USA",FranChasen
+"""been""","Bishop, CA, USA",FranChasen
+"""been""","Santa Monica, CA, USA",FranChasen
+"""been""","Vigo, Spain",FranChasen
+"""been""","Rutland, VT, USA",FranChasen
+"""been""","Santiago de Compostela, Spain",FranChasen
+"""been""","Windsor, UK",FranChasen
+"""been""","Santa Rosa, CA, USA",FranChasen
+"""been""","Izmir, Turkey",FranChasen
+"""been""","Atlanta, GA, USA",FranChasen
+"""been""","Woodstock, VT, USA",FranChasen
+"""been""","Glasgow, UK",FranChasen
+"""been""","Manassas, VA, USA",FranChasen
+"""been""","Richmond, VA, USA",FranChasen
+"""been""","Sausalito, CA, USA",FranChasen
+"""been""","Coral Gables, FL, USA",FranChasen
+"""been""","Torrance, CA, USA",FranChasen
+"""been""","Bodega Bay, CA, USA",FranChasen
+"""been""","Portland, ME, USA",FranChasen
+"""been""","Bellevue, WA, USA",FranChasen
+"""been""","Memphis, TN, USA",FranChasen
+"""been""","Seal Beach, CA, USA",FranChasen
+"""been""","Borrego Springs, CA, USA",FranChasen
+"""been""","Bonsall, CA, USA",FranChasen
+"""been""","Long Branch, NJ, USA",FranChasen
+"""been""","Noto, Italy",FranChasen
+"""been""","Ventura, CA, USA",FranChasen
+"""been""","St. George, UT, USA",FranChasen
+"""been""","Haleiwa, HI, USA",FranChasen
+"""been""","El Paso, TX, USA",FranChasen
+"""been""","Little Rock, AR, USA",FranChasen
+"""been""","Lawrence, KS, USA",FranChasen
+"""been""","Peoria, IL, USA",FranChasen
+"""been""","Coos Bay, OR, USA",FranChasen
+"""been""","Omaha, NE, USA",FranChasen
+"""been""","Coventry, UK",FranChasen
+"""been""","Klamath Falls, OR, USA",FranChasen
+"""been"",""want""","New York City, NY, USA",FranChasen
+"""been""","Edinburgh, UK",FranChasen
+"""been""","Turin, Italy",FranChasen
+"""been""","Corvallis, OR, USA",FranChasen
+"""been""","Cape May, NJ, USA",FranChasen
+"""been""","White Plains, NY, USA",FranChasen
+"""been""","Anchorage, AK, USA",FranChasen
+"""been""","Cambridge, MA, USA",FranChasen
+"""been""","Belmont, CA, USA",FranChasen
+"""been""","Milan, Italy",FranChasen
+"""been""","Dundee, UK",FranChasen
+"""been""","Cayucos, CA, USA",FranChasen
+"""been""","Berkeley, CA, USA",FranChasen
+"""been""","San Mateo, CA, USA",FranChasen
+"""been""","Wailuku, HI, USA",FranChasen
+"""been""","Dover, DE, USA",FranChasen
+"""been""","Seattle, WA, USA",FranChasen
+"""been""","San Simeon, CA, USA",FranChasen
+"""been""","Lahaina, HI, USA",FranChasen
+"""been""","Wellfleet, MA, USA",FranChasen
+"""been""","Kahului, HI, USA",FranChasen
+"""been""","Seward, AK, USA",FranChasen
+"""been""","Kailua-Kona, HI, USA",FranChasen
+"""been""","Hana, HI, USA",FranChasen
+"""been""","Cherry Hill, NJ, USA",FranChasen
+"""been""","Walla Walla, WA, USA",FranChasen
+"""been""","San Diego, CA, USA",FranChasen
+"""been""","Big Bear City, CA, USA",FranChasen
+"""been""","Beverly Hills, CA, USA",FranChasen
+"""been""","Charlottesville, VA, USA",FranChasen
+"""been""","Vancouver, British Columbia, Canada",FranChasen
+"""been""","Santa Cruz, CA, USA",FranChasen
+"""been""","Arcos de la Frontera, Spain",FranChasen
+"""been""","Temecula, CA, USA",FranChasen
+"""been""","Santa Barbara, CA, USA",FranChasen
+"""been""","Santa Ana, CA, USA",FranChasen
+"""been""","San Bernardino, CA, USA",FranChasen
+"""been""","Boston, MA, USA",FranChasen
+"""been""","Kansas City, KS, USA",FranChasen
+"""been""","New Orleans, LA, USA",FranChasen
+"""been""","Rochester, NY, USA",FranChasen
+"""been""","Asheville, NC, USA",FranChasen
+"""been""","North Wildwood, NJ, USA",FranChasen
+"""been""","Bellagio, Italy",FranChasen
+"""been""","Honolulu, HI, USA",FranChasen
+"""been""","Tremezzina, Italy",FranChasen
+"""been""","Chandler, AZ, USA",FranChasen
+"""been""","Portofino, Italy",FranChasen
+"""been""","Cooperstown, NY, USA",FranChasen
+"""been""","Banff, Alberta, Canada",FranChasen
+"""been""","Kilkenny, Ireland",FranChasen
+"""been""","Westlake Village, CA, USA",FranChasen
+"""been""","Naples, FL, USA",FranChasen
+"""been""","San Clemente, CA, USA",FranChasen
+"""been""","Del Mar, CA, USA",FranChasen
+"""been""","Davis, CA, USA",FranChasen
+"""been""","Stockton, CA, USA",FranChasen
+"""been""","San Bruno, CA, USA",FranChasen
+"""been""","West Hollywood, CA, USA",FranChasen
+"""been""","Newport, RI, USA",FranChasen
+"""been""","Fort Lauderdale, FL, USA",FranChasen
+"""been""","Calgary, Alberta, Canada",FranChasen
+"""been""","Riomaggiore, Italy",FranChasen
+"""been""","Lake Louise, Alberta, Canada",FranChasen
+"""been""","Buffalo, NY, USA",FranChasen
+"""been""","Seven Mile Beach, Cayman Islands",FranChasen
+"""been""","Edmonton, Alberta, Canada",FranChasen
+"""been""","Hillsboro, OR, USA",FranChasen
+"""been""","Flagstaff, AZ, USA",FranChasen
+"""been""","Ocean City, NJ, USA",FranChasen
+"""been""","Carlsbad, CA, USA",FranChasen
+"""been""","Adare, Ireland",FranChasen
+"""been""","Carmel, CA, USA",FranChasen
+"""been""","Hood River, OR, USA",FranChasen
+"""been""","Manarola, Italy",FranChasen
+"""been""","Ronda, Spain",FranChasen
+"""been""","Portsmouth, NH, USA",FranChasen
+"""been""","Dublin, Ireland",FranChasen
+"""been""","Anaheim, CA, USA",FranChasen
+"""been""","San Luis Obispo, CA, USA",FranChasen
+"""been""","Houston, TX, USA",FranChasen
+"""been""","Sunnyvale, CA, USA",FranChasen
+"""been""","Denver, CO, USA",FranChasen
+"""been""","Columbia, SC, USA",FranChasen
+"""been""","Kirkland, WA, USA",FranChasen
+"""been""","Shannon, Ireland",FranChasen
+"""been""","Carpinteria, CA, USA",FranChasen
+"""been""","San Jose, CA, USA",FranChasen
+"""been""","Kissimmee, FL, USA",FranChasen
+"""been""","Knoxville, TN, USA",FranChasen
+"""been""","Sonoma, CA, USA",FranChasen
+"""been""","Miami Beach, FL, USA",FranChasen
+"""been""","Springfield, MA, USA",FranChasen
+"""been""","Miami, FL, USA",FranChasen
+"""been""","Bergen, Norway",FranChasen
+"""been""","South Lake Tahoe, CA, USA",FranChasen
+"""been""","Greensboro, NC, USA",FranChasen
+"""been""","Tampa, FL, USA",FranChasen
+"""been""","Luray, VA, USA",FranChasen
+"""been""","Harpers Ferry, WV, USA",FranChasen
+"""been""","Helena, MT, USA",FranChasen
+"""been""","Cork, Ireland",FranChasen
+"""been""","New Brunswick, NJ, USA",FranChasen
+"""been""","Tarrytown, NY, USA",FranChasen
+"""been""","Ravenna, Italy",FranChasen
+"""been""","Bisbee, AZ, USA",FranChasen
+"""been""","City of San Marino, San Marino",FranChasen
+"""been""","New Braunfels, TX, USA",FranChasen
+"""been""","Charleston, SC, USA",FranChasen
+"""been""","Maranello, Italy",FranChasen
+"""been""","Walnut Creek, CA, USA",FranChasen
+"""been""","Tacoma, WA, USA",FranChasen
+"""been""","Camarillo, CA, USA",FranChasen
+"""been""","Rosarito, Mexico",FranChasen
+"""been""","Calistoga, CA, USA",FranChasen
+"""been""","Fish Camp, CA, USA",FranChasen
+"""been""","Ensenada, Mexico",FranChasen
+"""been""","Visalia, CA, USA",FranChasen
+"""been""","Burlington, VT, USA",FranChasen
+"""been""","Thousand Oaks, CA, USA",FranChasen
+"""been""","Santa Fe, NM, USA",FranChasen
+"""been""","San Antonio, TX, USA",FranChasen
+"""been""","San Francisco, CA, USA",FranChasen
+"""been""","South San Francisco, CA, USA",FranChasen
+"""been""","Cambria, CA, USA",FranChasen
+"""been""","Spokane, WA, USA",FranChasen
+"""been""","Tijuana, Mexico",FranChasen
+"""been""","Salem, MA, USA",FranChasen
+"""been""","Bologna, Italy",FranChasen
+"""been""","Tucson, AZ, USA",FranChasen
+"""been""","Newark, NJ, USA",FranChasen
+"""been""","Hollister, MO, USA",FranChasen
+"""been""","Dingle, Ireland",FranChasen
+"""been""","Manchester, VT, USA",FranChasen
+"""been""","Bakersfield, CA, USA",FranChasen
+"""been""","Dana Point, CA, USA",FranChasen
+"""been""","Salinas, CA, USA",FranChasen
+"""been""","St. Helena, CA, USA",FranChasen
+"""been""","Colorado Springs, CO, USA",FranChasen
+"""been""","Culver City, CA, USA",FranChasen
+"""been""","Lake Placid, NY, USA",FranChasen
+"""been""","Bournemouth, UK",FranChasen
+"""been""","Columbus, OH, USA",FranChasen
+"""been""","Niagara Falls, NY, USA",FranChasen
+"""been""","Asbury Park, NJ, USA",FranChasen
+"""been""","St-Jean-Cap-Ferrat, France",FranChasen
+"""been""","Waitomo Caves, New Zealand",FranChasen
+"""been""","Milford Sound, New Zealand",FranChasen
+"""been""","Queenstown, New Zealand",FranChasen
+"""been""","Nice, France",FranChasen
+"""been""","Franconia, NH, USA",FranChasen
+"""been""","Hyannis, MA, USA",FranChasen
+"""been""","South Portland, ME, USA",FranChasen
+"""been""","Northampton, MA, USA",FranChasen
+"""been""","Flam, Norway",FranChasen
+"""been""","Bolsena, Italy",FranChasen
+"""been""","Oklahoma City, OK, USA",FranChasen
+"""been""","Bruges, Belgium",FranChasen
+"""been""","Cannes, France",FranChasen
+"""been""","Christchurch, New Zealand",FranChasen
+"""been""","Auckland, New Zealand",FranChasen
+"""been""","Wellington, New Zealand",FranChasen
+"""been""","Waltham, MA, USA",FranChasen
+"""been""","Oakhurst, CA, USA",FranChasen
+"""been""","Rotorua, New Zealand",FranChasen
+"""been""","Old Orchard Beach, ME, USA",FranChasen
+"""been""","Athens, Greece",FranChasen
+"""been""","Ogunquit, ME, USA",FranChasen
+"""been""","Park City, UT, USA",FranChasen
+"""been""","Brunswick, ME, USA",FranChasen
+"""been""","Vineyard Haven, MA, USA",FranChasen
+"""been""","Intercourse, PA, USA",FranChasen
+"""been""","Lenox, MA, USA",FranChasen
+"""been""","Bozeman, MT, USA",FranChasen
+"""been""","North Conway, NH, USA",FranChasen
+"""been""","Oviedo, Spain",FranChasen
+"""been""","Mont-Saint-Michel, France",FranChasen
+"""been""","Hamburg, Germany",FranChasen
+"""been""","Potsdam, Germany",FranChasen
+"""been""","Auckland Central, New Zealand",FranChasen
+"""been""","Perth, Australia",FranChasen
+"""been""","Frankfurt, Germany",FranChasen
+"""been""","Cleveland, OH, USA",FranChasen
+"""been""","Melbourne, Australia",FranChasen
+"""been""","St Ives, UK",FranChasen
+"""been""","Bilbao, Spain",FranChasen
+"""been""","Rhinebeck, NY, USA",FranChasen
+"""been""","Jackson, WY, USA",FranChasen
+"""been""","South Yarmouth, MA, USA",FranChasen
+"""been""","Ashland, OR, USA",FranChasen
+"""been""","Belfast, UK",FranChasen
+"""been""","Raleigh, NC, USA",FranChasen
+"""been""","Granada, Spain",FranChasen
+"""been""","Beaverton, OR, USA",FranChasen
+"""been""","Bend, OR, USA",FranChasen
+"""been""","Point Reyes Station, CA, USA",FranChasen
+"""been""","Seville, Spain",FranChasen
+"""been""","North Little Rock, AR, USA",FranChasen
+"""been""","Atlantic City, NJ, USA",FranChasen
+"""been""","Ennis, Ireland",FranChasen
+"""been""","Berlin, Germany",FranChasen
+"""been""","Sturbridge, MA, USA",FranChasen
+"""been""","Freeport, ME, USA",FranChasen
+"""been""","Stockbridge, MA, USA",FranChasen
+"""been""","Boothbay Harbor, ME, USA",FranChasen
+"""been""","Brattleboro, VT, USA",FranChasen
+"""been""","Wilmington, NC, USA",FranChasen
+"""been""","Rome, Italy",FranChasen
+"""been""","Cordoba, Spain",FranChasen
+"""been""","Vatican City, Vatican City",FranChasen
+"""been""","Bristol, UK",FranChasen
+"""been""","Otranto, Italy",FranChasen
+"""been""","Indianapolis, IN, USA",FranChasen
+"""been""","Malaga, Spain",FranChasen
+"""been""","Washington DC, DC, USA",FranChasen
+"""been""","Brussels, Belgium",FranChasen
+"""been""","Hilo, HI, USA",FranChasen
+"""been""","Stockholm, Sweden",FranChasen
+"""been""","Sydney Olympic Park, Australia",FranChasen
+"""been""","Williamstown, MA, USA",FranChasen
+"""been""","Munich, Germany",FranChasen
+"""been""","Cassis, France",FranChasen
+"""been""","Virginia Beach, VA, USA",FranChasen
+"""been""","Lancaster, PA, USA",FranChasen
+"""been""","Newton, MA, USA",FranChasen
+"""been""","Eugene, OR, USA",FranChasen
+"""been""","Billings, MT, USA",FranChasen
+"""been""","Nashua, NH, USA",FranChasen
+"""been""","Sorrento, Italy",FranChasen
+"""been""","Concord, NH, USA",FranChasen
+"""been""","Windermere, UK",FranChasen
+"""been""","Salerno, Italy",FranChasen
+"""been""","Winston Salem, NC, USA",FranChasen
+"""been""","Mobile, AL, USA",FranChasen
+"""been""","London, UK",FranChasen
+"""been""","Antwerp, Belgium",FranChasen
+"""been""","York Beach, ME, USA",FranChasen
+"""been""","Capri, Italy",FranChasen
+"""been""","Naples, Italy",FranChasen
+"""been""","Worcester, MA, USA",FranChasen
+"""been""","Norfolk, VA, USA",FranChasen
+"""been""","Staten Island, NY, USA",FranChasen
+"""been""","Pescara, Italy",FranChasen
+"""been""","Lubeck, Germany",FranChasen
+"""been""","Matera, Italy",FranChasen
+"""been""","Big Bear Lake, CA, USA",FranChasen
+"""been""","Poughkeepsie, NY, USA",FranChasen
+"""been""","Florence, Italy",FranChasen
+"""been""","Crystal River, FL, USA",FranChasen
+"""been""","West Yarmouth, MA, USA",FranChasen
+"""been""","Sandwich, MA, USA",FranChasen
+"""been""","Truckee, CA, USA",FranChasen
+"""been""","Istanbul, Turkey",FranChasen
+"""been""","Halifax, Nova Scotia, Canada",FranChasen
+"""been""","Roanoke, VA, USA",FranChasen
+"""been""","Manchester, NH, USA",FranChasen
+"""been""","Bretton Woods, NH, USA",FranChasen
+"""been""","Medford, OR, USA",FranChasen
+"""been""","Gettysburg, PA, USA",FranChasen
+"""been""","Bronx, NY, USA",FranChasen
+"""been""","Catania, Italy",FranChasen
+"""been""","Philadelphia, PA, USA",FranChasen
+"""been""","Hershey, PA, USA",FranChasen
+"""been""","Rockport, ME, USA",FranChasen
+"""been""","Rockland, ME, USA",FranChasen
+"""been""","Wilmington, DE, USA",FranChasen
+"""been""","Saint-Denis, France",FranChasen
+"""been""","Roissy-en-France, France",FranChasen
+"""been""","Natural Bridge, VA, USA",FranChasen
+"""been""","Galveston, TX, USA",FranChasen
+"""been""","Caceres, Spain",FranChasen
+"""been"",""want""","Sacramento, CA, USA",FranChasen
+"""been""","Paestum, Italy",FranChasen
+"""been""","Antalya, Turkey",FranChasen
+"""been""","Mount Shasta, CA, USA",FranChasen
+"""been""","Huntington Beach, CA, USA",FranChasen
+"""been""","Cefalu, Italy",FranChasen
+"""been""","Mystic, CT, USA",FranChasen
+"""been""","Petaluma, CA, USA",FranChasen
+"""been""","Kas, Turkey",FranChasen
+"""been""","Waterbury, CT, USA",FranChasen
+"""been""","Zagreb, Croatia",FranChasen
+"""been"",""want""","Beijing, China",FranChasen
+"""been""","Aptos, CA, USA",FranChasen
+"""been""","Idyllwild, CA, USA",FranChasen
+"""been""","Sarajevo, Bosnia and Herzegovina",FranChasen
+"""been""","Great Barrington, MA, USA",FranChasen
+"""been""","Phoenix, AZ, USA",FranChasen
+"""been""","New Haven, CT, USA",FranChasen
+"""been""","Fort Bragg, CA, USA",FranChasen
+"""been""","New London, CT, USA",FranChasen
+"""been""","Tallinn, Estonia",FranChasen
+"""been""","Mountain View, CA, USA",FranChasen
+"""been""","Lodi, CA, USA",FranChasen
+"""been""","Piazza Armerina, Italy",FranChasen
+"""been""","Boerne, TX, USA",FranChasen
+"""been""","Giverny, France",FranChasen
+"""been""","Long Beach, CA, USA",FranChasen
+"""been""","Napa, CA, USA",FranChasen
+"""been""","Indio, CA, USA",FranChasen
+"""been""","Caen, France",FranChasen
+"""been""","Torun, Poland",FranChasen
+"""been""","Inglewood, CA, USA",FranChasen
+"""been""","Lone Pine, CA, USA",FranChasen
+"""been""","Pittsburgh, PA, USA",FranChasen
+"""been""","Alexandria, VA, USA",FranChasen
+"""been""","Las Vegas, NV, USA",FranChasen
+"""been""","Wildwood, NJ, USA",FranChasen
+"""been""","Burlington, MA, USA",FranChasen
+"""been""","Cairo, Egypt",FranChasen
+"""been""","Giza, Egypt",FranChasen
+"""been""","Augusta, GA, USA",FranChasen
+"""been""","Chipping Campden, UK",FranChasen
+"""been""","Baton Rouge, LA, USA",FranChasen
+"""been""","Toronto, Ontario, Canada",FranChasen
+"""been""","Brewster, MA, USA",FranChasen
+"""been""","Henderson, NV, USA",FranChasen
+"""been""","Pismo Beach, CA, USA",FranChasen
+"""been""","Poznan, Poland",FranChasen
+"""been""","Fremont, CA, USA",FranChasen
+"""been""","Irvine, CA, USA",FranChasen
+"""been""","Riga, Latvia",FranChasen
+"""been""","Paphos, Cyprus",FranChasen
+"""been""","Monterey, CA, USA",FranChasen
+"""been""","Fort Worth, TX, USA",FranChasen
+"""been""","New Hope, PA, USA",FranChasen
+"""been""","Pasadena, CA, USA",FranChasen
+"""been""","Goreme, Turkey",FranChasen
+"""been""","Riverside, CA, USA",FranChasen
+"""been""","Algarve, Portugal",FranChasen
+"""been""","Bryce, UT, USA",FranChasen
+"""been""","Mykonos Town, Greece",FranChasen
+"""been""","Avalon, CA, USA",FranChasen
+"""been""","Brisbane, Australia",FranChasen
+"""been""","Faro, Portugal",FranChasen
+"""been""","Avila Beach, CA, USA",FranChasen
+"""been""","Carson City, NV, USA",FranChasen
+"""been""","Sydney, Australia",FranChasen
+"""been""","Milwaukee, WI, USA",FranChasen
+"""been""","Paso Robles, CA, USA",FranChasen
+"""been""","Long Island City, NY, USA",FranChasen
+"""been""","Warsaw, Poland",FranChasen
+"""been""","Fredericksburg, TX, USA",FranChasen
+"""been""","Ischia, Italy",FranChasen
+"""been""","Milford, CT, USA",FranChasen
+"""been""","Ljubljana, Slovenia",FranChasen
+"""been""","Pebble Beach, CA, USA",FranChasen
+"""been""","Roseville, CA, USA",FranChasen
+"""been""","Morro Bay, CA, USA",FranChasen
+"""been""","Kusadasi, Turkey",FranChasen
+"""been""","Heidelberg, Germany",FranChasen
+"""been""","Canberra, Australia",FranChasen
+"""been""","Gloucester, MA, USA",FranChasen
+"""been""","Ischia Porto, Italy",FranChasen
+"""been""","Bucharest, Romania",FranChasen
+"""been"",""want""","Hong Kong, China",FranChasen
+"""been""","Ka'anapali, HI, USA",FranChasen
+"""been""","Corfu Town, Greece",FranChasen
+"""been""","Millbrae, CA, USA",FranChasen
+"""been""","Hartford, CT, USA",FranChasen
+"""been""","Oxnard, CA, USA",FranChasen
+"""been""","Redwood City, CA, USA",FranChasen
+"""been""","Nimes, France",FranChasen
+"""been""","Redondo Beach, CA, USA",FranChasen
+"""been""","Dallas, TX, USA",FranChasen
+"""been""","Redding, CA, USA",FranChasen
+"""been""","Dresden, Germany",FranChasen
+"""been""","Limoges, France",FranChasen
+"""been""","Rockport, MA, USA",FranChasen
+"""been""","Kittery, ME, USA",FranChasen
+"""been""","Mashpee, MA, USA",FranChasen
+"""been""","Pacific Grove, CA, USA",FranChasen
+"""been""","Garda, Italy",FranChasen
+"""been""","Palm Springs, CA, USA",FranChasen
+"""been""","Stamford, CT, USA",FranChasen
+"""been""","Modesto, CA, USA",FranChasen
+"""been""","Palm Desert, CA, USA",FranChasen
+"""been""","Amsterdam, The Netherlands",FranChasen
+"""been""","Montauk, NY, USA",FranChasen
+"""want""","Rhodes, Greece",FranChasen
+"""been""","Portsmouth, UK",FranChasen
+"""been""","Palo Alto, CA, USA",FranChasen
+"""been""","Paris, France",FranChasen
+"""been""","Edgartown, MA, USA",FranChasen
+"""been""","Eastham, MA, USA",FranChasen
+"""been""","Bratislava, Slovakia",FranChasen
+"""been""","North Vancouver, British Columbia, Canada",FranChasen
+"""been""","Agrigento, Italy",FranChasen
+"""been""","Segovia, Spain",FranChasen
+"""been""","Bourton-on-the-Water, UK",FranChasen
+"""been""","Dusseldorf, Germany",FranChasen
+"""been""","Oceanside, CA, USA",FranChasen
+"""been""","Salamanca, Spain",FranChasen
+"""been""","Cap-d'Agde, France",FranChasen
+"""been""","Marseille, France",FranChasen
+"""been""","Oakland, CA, USA",FranChasen
+"""been""","Saint-Remy-de-Provence, France",FranChasen
+"""been""","Barcelona, Spain",FranChasen
+"""been""","Ojai, CA, USA",FranChasen
+"""been""","Pittsfield, MA, USA",FranChasen
+"""been""","Slidell, LA, USA",FranChasen
+"""been""","Wroclaw, Poland",FranChasen
+"""been""","Orange, CA, USA",FranChasen
+"""been""","Las Cruces, NM, USA",FranChasen
+"""been""","Brighton, UK",FranChasen
+"""been""","Palanga, Lithuania",FranChasen
+"""been""","Rancho Palos Verdes, CA, USA",FranChasen
+"""been""","Ontario, CA, USA",FranChasen
+"""been""","Charlotte, NC, USA",FranChasen
+"""been""","Warnemunde, Germany",FranChasen
+"""been""","Olympic Valley, CA, USA",FranChasen
+"""been""","Nags Head, NC, USA",FranChasen
+"""been""","Vilnius, Lithuania",FranChasen
+"""been""","Korcula Town, Croatia",FranChasen
+"""been""","Kennebunkport, ME, USA",FranChasen
+"""been""","Kennebunk, ME, USA",FranChasen
+"""been""","Toledo, Spain",FranChasen
+"""been""","Villefranche-sur-Mer, France",FranChasen
+"""been""","Provincetown, MA, USA",FranChasen
+"""been""","Plymouth, MA, USA",FranChasen
+"""been""","Kaunas, Lithuania",FranChasen
+"""been""","Prague, Czech Republic",FranChasen
+"""been""","Klaipeda, Lithuania",FranChasen
+"""been""","Brooklyn, NY, USA",FranChasen
+"""been""","Fairbanks, AK, USA",FranChasen
+"""been""","Providence, RI, USA",FranChasen
+"""been""","Ankara, Turkey",FranChasen
+"""been""","Estes Park, CO, USA",FranChasen
+"""been""","Fredericksburg, VA, USA",FranChasen
+"""been""","Crescent City, CA, USA",FranChasen
+"""been""","Brookline, MA, USA",FranChasen
+"""been""","Bodrum City, Turkey",FranChasen
+"""been""","Escondido, CA, USA",FranChasen
+"""been""","Cesky Krumlov, Czech Republic",FranChasen
+"""been""","Vancouver, WA, USA",FranChasen
+"""been""","Monte-Carlo, Monaco",FranChasen
+"""been""","Mostar, Bosnia and Herzegovina",FranChasen
+"""been"",""want""","South Padre Island, TX, USA",FranChasen
+"""been""","Flushing, NY, USA",FranChasen
+"""been""","Cap-Ferret, France",FranChasen
+"""been""","Princeton, NJ, USA",FranChasen
+"""been""","Hoboken, NJ, USA",FranChasen
+"""been""","Burlingame, CA, USA",FranChasen
+"""been""","Fairfield, CA, USA",FranChasen
+"""been""","Killington, VT, USA",FranChasen
+"""been""","Buena Park, CA, USA",FranChasen
+"""been""","Burbank, CA, USA",FranChasen
+"""been""","Aguadulce, Spain",FranChasen
+"""been""","Eureka, CA, USA",FranChasen
+"""been""","Healdsburg, CA, USA",FranChasen
+"""been""","Bar Harbor, ME, USA",FranChasen
+"""been""","Nashville, TN, USA",FranChasen
+"""want""","Dubrovnik, Croatia",FranChasen
+"""been""","Greenville, SC, USA",FranChasen
+"""been""","Savannah, GA, USA",FranChasen
+"""been""","Glen Allen, VA, USA",FranChasen
+"""been""","Albuquerque, NM, USA",FranChasen
+"""been""","Corona, CA, USA",FranChasen
+"""want""","Baltimore, MD, USA",FranChasen
+"""been""","Syracuse, NY, USA",FranChasen
+"""been""","Elizabeth, NJ, USA",FranChasen
+"""been""","Edison, NJ, USA",FranChasen
+"""been""","Jersey City, NJ, USA",FranChasen
+"""been""","Voorhees, NJ, USA",FranChasen
+"""been""","Mesa, AZ, USA",FranChasen
+"""been""","Solvang, CA, USA",FranChasen
+"""been""","Solana Beach, CA, USA",FranChasen
+"""been""","Costa Mesa, CA, USA",FranChasen
+"""been""","Coronado, CA, USA",FranChasen
+"""been""","Corpus Christi, TX, USA",FranChasen
+"""been""","Jacksonville, FL, USA",FranChasen
+"""been""","Xi'an, China",FranChasen
+"""been""","Orlando, FL, USA",FranChasen
+"""been""","Salt Lake City, UT, USA",FranChasen
+"""been""","Hyde Park, NY, USA",FranChasen
+"""been""","Port Angeles, WA, USA",FranChasen
+"""been""","La Jolla, CA, USA",FranChasen
+"""been""","Hallstatt, Austria",FranChasen
+"""been""","North Charleston, SC, USA",FranChasen
+"""been""","Woodstock, NY, USA",FranChasen
+"""been""","Detroit, MI, USA",FranChasen
+"""been""","Guerneville, CA, USA",FranChasen
+"""been""","Amarillo, TX, USA",FranChasen
+"""been""","Groton, CT, USA",FranChasen
+"""been""","Jerome, AZ, USA",FranChasen
+"""been""","Tempe, AZ, USA",FranChasen
+"""been""","South Burlington, VT, USA",FranChasen
+"""been""","Evanston, IL, USA",FranChasen
+"""been""","North Myrtle Beach, SC, USA",FranChasen
+"""been""","El Portal, CA, USA",FranChasen
+"""been""","El Segundo, CA, USA",FranChasen
+"""been""","Greenwich, CT, USA",FranChasen
+"""been""","Myrtle Beach, SC, USA",FranChasen
+"""been""","Half Moon Bay, CA, USA",FranChasen
+"""been""","Laguna Beach, CA, USA",FranChasen
+"""been""","Kingman, AZ, USA",FranChasen
+"""been""","Jamaica, NY, USA",FranChasen
+"""been""","Alexandria, Egypt",FranChasen
+"""been""","Toms River, NJ, USA",FranChasen
+"""been""","Point Pleasant Beach, NJ, USA",FranChasen
+"""been""","Warwick, RI, USA",FranChasen
+"""been""","Boulder, CO, USA",FranChasen
+"""been""","Porto, Portugal",FranChasen
+"""been""","Palm Beach, FL, USA",FranChasen
+"""been""","Tombstone, AZ, USA",FranChasen
+"""been""","Lake Havasu City, AZ, USA",FranChasen
+"""been"",""want""","Salzburg, Austria",FranChasen
+"""been""","Morristown, NJ, USA",FranChasen
+"""been""","Mount Pocono, PA, USA",FranChasen
+"""been""","Frederick, MD, USA",FranChasen
+"""been""","Barano d'Ischia, Italy",FranChasen
+"""been""","Manhattan Beach, CA, USA",FranChasen
+"""been""","Barstow, CA, USA",FranChasen
+"""been""","Murano, Italy",FranChasen
+"""been""","Budapest, Hungary",FranChasen
+"""been""","Malibu, CA, USA",FranChasen
+"""been""","Charleston, WV, USA",FranChasen
+"""been""","Hudson, NY, USA",FranChasen
+"""been""","Aspen, CO, USA",FranChasen
+"""been""","Spring Lake, NJ, USA",FranChasen
+"""been""","Franz Josef, New Zealand",FranChasen
+"""been""","Reno, NV, USA",FranChasen
+"""been""","Kansas City, MO, USA",FranChasen
+"""been""","Parsippany, NJ, USA",FranChasen
+"""been""","Chico, CA, USA",FranChasen
+"""been""","Salem, OR, USA",FranChasen
+"""been""","Glendale, AZ, USA",FranChasen
+"""been""","Anacortes, WA, USA",FranChasen
+"""been""","Sedona, AZ, USA",FranChasen
+"""been""","Marina del Rey, CA, USA",FranChasen
+"""been""","Scottsdale, AZ, USA",FranChasen
+"""been""","Mill Valley, CA, USA",FranChasen
+"""been""","Pamukkale, Turkey",FranChasen
+"""been""","Vienna, Austria",FranChasen
+"""been""","Krakow, Poland",FranChasen
+"""been""","Sintra, Portugal",FranChasen
+"""been""","Opatija, Croatia",FranChasen
+"""been""","Annapolis, MD, USA",FranChasen
+"""been""","Obidos, Portugal",FranChasen
+"""been""","Chula Vista, CA, USA",FranChasen
+"""been""","Yountville, CA, USA",FranChasen
+"""been""","Fullerton, CA, USA",FranChasen
+"""been""","Chicago, IL, USA",FranChasen
+"""been""","Cascais, Portugal",FranChasen
+"""been""","Dinard, France",FranChasen
+"""been""","Fresno, CA, USA",FranChasen
+"""been""","Mexico City, Mexico",FranChasen
+"""been""","Prescott, AZ, USA",FranChasen
+"""been""","Los Angeles, CA, USA",FranChasen
+"""been""","Mesquite, NV, USA",FranChasen
+"""been""","Big Sur, CA, USA",FranChasen
+"""been""","Lisbon, Portugal",FranChasen
+"""been""","Trogir, Croatia",FranChasen
+"""been""","Bethesda, MD, USA",FranChasen
+"""been""","Laughlin, NV, USA",FranChasen
+"""been""","Wildwood Crest, NJ, USA",FranChasen
+"""been""","Secaucus, NJ, USA",FranChasen
+"""been""","Arlington, VA, USA",FranChasen
+"""been""","Durham, NC, USA",FranChasen
+"""been""","Danbury, CT, USA",FranChasen
+"""been""","Garden Grove, CA, USA",FranChasen
+"""been""","Falls Church, VA, USA",FranChasen
+"""been""","Norwich, CT, USA",FranChasen
+"""been""","Windsor, Ontario, Canada",FranChasen
+"""been""","Toledo, OH, USA",FranChasen
+"""been""","St. Petersburg, FL, USA",FranChasen
+"""been""","Oslo, Norway",FranChasen
+"""been""","Joshua Tree, CA, USA",FranChasen
+"""been"",""want""","Shanghai, China",FranChasen
+"""been""","Julian, CA, USA",FranChasen
+"""been""","Bern, Switzerland",FranChasen
+"""been""","Freeport, Bahamas",FranChasen
+"""been""","Minneapolis, MN, USA",FranChasen
+"""been""","Biloxi, MS, USA",FranChasen
+"""been""","North Las Vegas, NV, USA",FranChasen
+"""been""","Silver Spring, MD, USA",FranChasen
+"""been""","West Palm Beach, FL, USA",FranChasen
+"""been""","Glendale, CA, USA",FranChasen
+"""been""","Biarritz, France",FranChasen
+"""been""","Quebec City, Quebec, Canada",FranChasen
+"""been""","Portland, OR, USA",FranChasen
+"""been""","Montreal, Quebec, Canada",FranChasen

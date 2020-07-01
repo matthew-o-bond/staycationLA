@@ -1,0 +1,372 @@
+tag,place,user
+"""been""","Coolangatta, Australia",cariannec
+"""been""","Bundaberg, Australia",cariannec
+"""been""","Taree, Australia",cariannec
+"""been""","Krakow, Poland",cariannec
+"""been""","Tamworth, Australia",cariannec
+"""been""","Seattle, WA, USA",cariannec
+"""been""","Tuxedo Park, NY, USA",cariannec
+"""been""","Sleepy Hollow, NY, USA",cariannec
+"""been""","Portsmouth, NH, USA",cariannec
+"""been""","Port Elliot, Australia",cariannec
+"""been""","Geneseo, NY, USA",cariannec
+"""been""","Rochester, NY, USA",cariannec
+"""been""","Geneva, NY, USA",cariannec
+"""been""","Mount Isa, Australia",cariannec
+"""been""","Sloatsburg, NY, USA",cariannec
+"""been""","Wellfleet, MA, USA",cariannec
+"""been""","Eastham, MA, USA",cariannec
+"""been""","Mackay, Australia",cariannec
+"""been""","Hartford, CT, USA",cariannec
+"""want""","Bakersfield, CA, USA",cariannec
+"""been""","Berlin, Germany",cariannec
+"""been""","Houston, TX, USA",cariannec
+"""been""","Monsey, NY, USA",cariannec
+"""been""","Dallas, TX, USA",cariannec
+"""been""","Byron Bay, Australia",cariannec
+"""been""","Tokyo, Japan",cariannec
+"""been""","Nara, Japan",cariannec
+"""been""","Carlsbad, CA, USA",cariannec
+"""been""","Kissimmee, FL, USA",cariannec
+"""been""","Ballarat, Australia",cariannec
+"""been""","Perth, Australia",cariannec
+"""been""","McLaren Vale, Australia",cariannec
+"""been""","Broome, Australia",cariannec
+"""been""","Melbourne, Australia",cariannec
+"""been""","Glenelg, Australia",cariannec
+"""been""","Canandaigua, NY, USA",cariannec
+"""been""","East Rochester, NY, USA",cariannec
+"""been""","Saddle River, NJ, USA",cariannec
+"""been""","Herkimer, NY, USA",cariannec
+"""been""","Congers, NY, USA",cariannec
+"""been""","Revere, MA, USA",cariannec
+"""been""","Mannum, Australia",cariannec
+"""been""","New York City, NY, USA",cariannec
+"""been""","Mashpee, MA, USA",cariannec
+"""been""","North Bergen, NJ, USA",cariannec
+"""been""","Hahndorf, Australia",cariannec
+"""been""","Garnerville, NY, USA",cariannec
+"""been""","Tel Aviv, Israel",cariannec
+"""been""","Jerusalem, Israel",cariannec
+"""been""","Stamford, CT, USA",cariannec
+"""been""","Rockport, MA, USA",cariannec
+"""been""","Haifa, Israel",cariannec
+"""been""","Fort Lauderdale, FL, USA",cariannec
+"""been""","Niagara Falls, Ontario, Canada",cariannec
+"""been""","Eilat, Israel",cariannec
+"""been""","Toowoomba, Australia",cariannec
+"""been""","Himeji, Japan",cariannec
+"""been""","Provincetown, MA, USA",cariannec
+"""been""","Charleston, SC, USA",cariannec
+"""been""","Hatsukaichi, Japan",cariannec
+"""been""","Cambridge, MA, USA",cariannec
+"""been""","Nambucca Heads, Australia",cariannec
+"""been""","Kakadu National Park, Australia",cariannec
+"""been""","Haverstraw, NY, USA",cariannec
+"""been""","Netanya, Israel",cariannec
+"""been""","Katherine, Australia",cariannec
+"""been""","Manassas, VA, USA",cariannec
+"""been""","Plymouth, MA, USA",cariannec
+"""been""","Nazareth, Israel",cariannec
+"""been""","Uluru-Kata Tjuta National Park, Australia",cariannec
+"""been""","Tennant Creek, Australia",cariannec
+"""been""","Henrietta, NY, USA",cariannec
+"""been""","Montreal, Quebec, Canada",cariannec
+"""been""","West Nyack, NY, USA",cariannec
+"""been""","Chapel Hill, NC, USA",cariannec
+"""been""","Paju, South Korea",cariannec
+"""been""","Newark, NJ, USA",cariannec
+"""been""","Tampa, FL, USA",cariannec
+"""been""","Miami, FL, USA",cariannec
+"""been""","Nags Head, NC, USA",cariannec
+"""been""","Middlebury, VT, USA",cariannec
+"""been""","Solvang, CA, USA",cariannec
+"""been""","Harrisburg, PA, USA",cariannec
+"""been""","Dennis Port, MA, USA",cariannec
+"""been""","Nassau, Bahamas",cariannec
+"""been""","Waimanalo, HI, USA",cariannec
+"""been""","Margaret River, Australia",cariannec
+"""been""","Kalgoorlie-Boulder, Australia",cariannec
+"""been""","Cancun, Mexico",cariannec
+"""been""","Geraldton, Australia",cariannec
+"""been""","Bunbury, Australia",cariannec
+"""been""","Elizabeth, NJ, USA",cariannec
+"""been""","Waltham, MA, USA",cariannec
+"""been""","Tiberias, Israel",cariannec
+"""been""","Tallman, NY, USA",cariannec
+"""been""","Victor Harbor, Australia",cariannec
+"""been""","Albany, NY, USA",cariannec
+"""been""","Peabody, MA, USA",cariannec
+"""been""","Elmwood Park, NJ, USA",cariannec
+"""been""","Dennis, MA, USA",cariannec
+"""been""","Lexington, MA, USA",cariannec
+"""been""","Kununurra, Australia",cariannec
+"""been""","Karratha, Australia",cariannec
+"""been""","Tarrytown, NY, USA",cariannec
+"""been""","Airlie Beach, Australia",cariannec
+"""been""","Oklahoma City, OK, USA",cariannec
+"""been""","St Kilda, Australia",cariannec
+"""want""","Playa del Carmen, Mexico",cariannec
+"""been""","Cocoa Beach, FL, USA",cariannec
+"""been""","Seaside Heights, NJ, USA",cariannec
+"""been""","Santa Monica, CA, USA",cariannec
+"""been""","Clearwater, FL, USA",cariannec
+"""been""","San Francisco, CA, USA",cariannec
+"""been""","Arroyo Grande, CA, USA",cariannec
+"""been""","San Antonio, TX, USA",cariannec
+"""been""","Braintree, MA, USA",cariannec
+"""been""","Fairport, NY, USA",cariannec
+"""been""","Cooktown, Australia",cariannec
+"""been""","Brewster, MA, USA",cariannec
+"""been""","Acre, Israel",cariannec
+"""been""","Quincy, MA, USA",cariannec
+"""been""","Nyack, NY, USA",cariannec
+"""been""","Galveston, TX, USA",cariannec
+"""been""","Chestnut Ridge, NY, USA",cariannec
+"""been""","Port Campbell, Australia",cariannec
+"""been""","Spring Valley, NY, USA",cariannec
+"""been""","Toledo, Spain",cariannec
+"""been""","Toronto, Ontario, Canada",cariannec
+"""been""","Coober Pedy, Australia",cariannec
+"""been""","Santa Clarita, CA, USA",cariannec
+"""been""","Adelaide, Australia",cariannec
+"""been""","Cape Tribulation, Australia",cariannec
+"""been""","Buderim, Australia",cariannec
+"""been""","Chiba, Japan",cariannec
+"""been""","Sausalito, CA, USA",cariannec
+"""been""","Caesarea, Israel",cariannec
+"""been""","West Dennis, MA, USA",cariannec
+"""been""","Ein Gedi, Israel",cariannec
+"""been""","Springfield, MA, USA",cariannec
+"""been""","Blauvelt, NY, USA",cariannec
+"""been""","Great Barrington, MA, USA",cariannec
+"""been""","Cleveland, Australia",cariannec
+"""been""","Bloomfield, NY, USA",cariannec
+"""been""","Jaffa, Israel",cariannec
+"""been""","Pomona, NY, USA",cariannec
+"""been""","Victor, NY, USA",cariannec
+"""been""","Scranton, PA, USA",cariannec
+"""been""","Harrisonburg, VA, USA",cariannec
+"""want""","Barcelona, Spain",cariannec
+"""been""","New Haven, CT, USA",cariannec
+"""been""","Apollo Bay, Australia",cariannec
+"""been""","Segovia, Spain",cariannec
+"""been""","Gainesville, FL, USA",cariannec
+"""been""","Amsterdam, The Netherlands",cariannec
+"""been""","Shizuoka, Japan",cariannec
+"""been""","Pittsford, NY, USA",cariannec
+"""been""","Lancelin, Australia",cariannec
+"""been""","Barnstable, MA, USA",cariannec
+"""been""","Oswiecim, Poland",cariannec
+"""been""","Kilcoy, Australia",cariannec
+"""been""","Newport, RI, USA",cariannec
+"""been""","Needham, MA, USA",cariannec
+"""been""","Buffalo, NY, USA",cariannec
+"""been""","Monterey, CA, USA",cariannec
+"""been""","Capernaum, Israel",cariannec
+"""been""","Elmsford, NY, USA",cariannec
+"""been""","Mahwah, NJ, USA",cariannec
+"""been""","Croton on Hudson, NY, USA",cariannec
+"""been""","Paris, France",cariannec
+"""been""","Zurich, Switzerland",cariannec
+"""been""","Denver, CO, USA",cariannec
+"""been""","San Luis Obispo, CA, USA",cariannec
+"""been""","Box Elder, SD, USA",cariannec
+"""been""","St. Augustine, FL, USA",cariannec
+"""been""","Santa Ana, CA, USA",cariannec
+"""been""","Newcastle, Australia",cariannec
+"""been""","Honolulu, HI, USA",cariannec
+"""been""","Santa Barbara, CA, USA",cariannec
+"""been""","Goulburn, Australia",cariannec
+"""been""","Wounded Knee, SD, USA",cariannec
+"""been""","Derby, Australia",cariannec
+"""been""","Boston, MA, USA",cariannec
+"""been""","Falmouth, MA, USA",cariannec
+"""been""","Fall River, MA, USA",cariannec
+"""been""","Derby, Australia",cariannec
+"""been""","Port Macquarie, Australia",cariannec
+"""been"",""want""","New Orleans, LA, USA",cariannec
+"""been""","White Plains, NY, USA",cariannec
+"""been""","Albany, Australia",cariannec
+"""been""","Valley Cottage, NY, USA",cariannec
+"""been""","Busselton, Australia",cariannec
+"""been""","Daintree, Australia",cariannec
+"""been""","Nadi, Fiji",cariannec
+"""been""","Cape May, NJ, USA",cariannec
+"""been""","Noosa, Australia",cariannec
+"""been""","Williamsburg, VA, USA",cariannec
+"""been""","Dresden, Germany",cariannec
+"""been""","Long Island City, NY, USA",cariannec
+"""been""","Pemberton, Australia",cariannec
+"""want""","Punta Cana, Dominican Republic",cariannec
+"""been""","Port Hedland, Australia",cariannec
+"""been""","Aqaba, Jordan",cariannec
+"""been""","Yarmouth Port, MA, USA",cariannec
+"""been""","Coffs Harbour, Australia",cariannec
+"""been""","Vienna, Austria",cariannec
+"""been""","Canberra, Australia",cariannec
+"""been""","Katoomba, Australia",cariannec
+"""been""","Greece, NY, USA",cariannec
+"""been""","Spring Lake, NJ, USA",cariannec
+"""been""","New Bedford, MA, USA",cariannec
+"""been""","Woods Hole, MA, USA",cariannec
+"""been""","Painted Post, NY, USA",cariannec
+"""been""","New City, NY, USA",cariannec
+"""been""","Newbury, NH, USA",cariannec
+"""been""","Austintown, OH, USA",cariannec
+"""been""","Red Deer, Alberta, Canada",cariannec
+"""been""","Indianapolis, IN, USA",cariannec
+"""been""","Cairns, Australia",cariannec
+"""been""","Brisbane, Australia",cariannec
+"""been""","Newton, MA, USA",cariannec
+"""been""","Woburn, MA, USA",cariannec
+"""been""","Darwin, Australia",cariannec
+"""been""","Orangeburg, NY, USA",cariannec
+"""been""","Bronx, NY, USA",cariannec
+"""been""","Nambour, Australia",cariannec
+"""been""","Park Ridge, NJ, USA",cariannec
+"""been""","Paramus, NJ, USA",cariannec
+"""been""","Nanuet, NY, USA",cariannec
+"""been""","Maroochydore, Australia",cariannec
+"""been""","New Norcia, Australia",cariannec
+"""been""","Mumford, NY, USA",cariannec
+"""been""","Yulara, Australia",cariannec
+"""been""","Banff, Alberta, Canada",cariannec
+"""been""","Alice Springs, Australia",cariannec
+"""been""","Fremantle, Australia",cariannec
+"""been""","Sydney, Australia",cariannec
+"""been""","Lake Louise, Alberta, Canada",cariannec
+"""been""","Calgary, Alberta, Canada",cariannec
+"""been""","Hiroshima, Japan",cariannec
+"""been""","Kobe, Japan",cariannec
+"""been""","Mooloolaba, Australia",cariannec
+"""been""","Kyoto, Japan",cariannec
+"""been""","Honeoye, NY, USA",cariannec
+"""been""","Osaka, Japan",cariannec
+"""been""","Youngstown, OH, USA",cariannec
+"""been""","Woodcliff Lake, NJ, USA",cariannec
+"""been""","Baltimore, MD, USA",cariannec
+"""been""","Nagasaki, Japan",cariannec
+"""been""","Savannah, GA, USA",cariannec
+"""been""","Terezin, Czech Republic",cariannec
+"""been""","Chatham, MA, USA",cariannec
+"""been""","Briarcliff Manor, NY, USA",cariannec
+"""been""","Prague, Czech Republic",cariannec
+"""been""","Brockport, NY, USA",cariannec
+"""been""","Chicago, IL, USA",cariannec
+"""been""","Clarkstown, NY, USA",cariannec
+"""been""","Scarsdale, NY, USA",cariannec
+"""been""","Stony Point, NY, USA",cariannec
+"""been""","Denham, Australia",cariannec
+"""been""","Somerville, MA, USA",cariannec
+"""been""","Kingscote, Australia",cariannec
+"""been""","Denmark, Australia",cariannec
+"""been""","Townsville, Australia",cariannec
+"""been""","Newhall, CA, USA",cariannec
+"""been""","Carnarvon, Australia",cariannec
+"""been""","Surfers Paradise, Australia",cariannec
+"""been""","Los Angeles, CA, USA",cariannec
+"""been""","Port Douglas, Australia",cariannec
+"""been""","Sandwich, MA, USA",cariannec
+"""been""","Kagoshima, Japan",cariannec
+"""been""","West Yarmouth, MA, USA",cariannec
+"""been""","Avila, Spain",cariannec
+"""been""","Natural Bridge, VA, USA",cariannec
+"""been""","South West Rocks, Australia",cariannec
+"""been""","Las Vegas, NV, USA",cariannec
+"""been""","Brookline, MA, USA",cariannec
+"""been""","Kutna Hora, Czech Republic",cariannec
+"""been""","Hershey, PA, USA",cariannec
+"""been""","Washington DC, DC, USA",cariannec
+"""been""","Fredericksburg, VA, USA",cariannec
+"""been""","Burlington, MA, USA",cariannec
+"""been""","Secaucus, NJ, USA",cariannec
+"""been""","Wildwood Crest, NJ, USA",cariannec
+"""been""","Hervey Bay, Australia",cariannec
+"""been""","Brooklyn, NY, USA",cariannec
+"""been""","Madrid, Spain",cariannec
+"""been""","St. Pete Beach, FL, USA",cariannec
+"""been""","Staten Island, NY, USA",cariannec
+"""been""","Burleigh Heads, Australia",cariannec
+"""been""","Augusta, Australia",cariannec
+"""been""","Caloundra, Australia",cariannec
+"""been""","Arlington, VA, USA",cariannec
+"""been""","Dania Beach, FL, USA",cariannec
+"""been""","Tumut, Australia",cariannec
+"""been""","Agua Dulce, CA, USA",cariannec
+"""been""","Orleans, MA, USA",cariannec
+"""been""","Kalbarri National Park, Australia",cariannec
+"""been""","Philadelphia, PA, USA",cariannec
+"""been""","Karlovy Vary, Czech Republic",cariannec
+"""been""","Atlantic City, NJ, USA",cariannec
+"""been""","Webster, NY, USA",cariannec
+"""been""","Arlington, MA, USA",cariannec
+"""been""","Andover, MA, USA",cariannec
+"""been""","Gettysburg, PA, USA",cariannec
+"""been""","Suffern, NY, USA",cariannec
+"""been""","Fuenlabrada, Spain",cariannec
+"""been""","Rocky Mount, NC, USA",cariannec
+"""been""","Jersey City, NJ, USA",cariannec
+"""been""","Fuji, Japan",cariannec
+"""been""","San Lorenzo de El Escorial, Spain",cariannec
+"""been""","Geneva, Switzerland",cariannec
+"""been""","Manjimup, Australia",cariannec
+"""been""","Cottesloe, Australia",cariannec
+"""been""","Hyannis, MA, USA",cariannec
+"""been""","Exmouth, Australia",cariannec
+"""been""","Cervantes, Australia",cariannec
+"""been""","Coral Bay, Australia",cariannec
+"""been""","Dunsborough, Australia",cariannec
+"""been""","Flushing, NY, USA",cariannec
+"""been""","Tweed Heads, Australia",cariannec
+"""been""","Cesky Krumlov, Czech Republic",cariannec
+"""been""","Montvale, NJ, USA",cariannec
+"""been""","Jamaica, NY, USA",cariannec
+"""been""","Ramsey, NJ, USA",cariannec
+"""been""","Upper Saddle River, NJ, USA",cariannec
+"""been""","Lake Placid, NY, USA",cariannec
+"""been""","South Burlington, VT, USA",cariannec
+"""want""","Burbank, CA, USA",cariannec
+"""been""","Beaufort, SC, USA",cariannec
+"""been""","Bear Mountain, NY, USA",cariannec
+"""been""","Niagara Falls, NY, USA",cariannec
+"""been""","Kalbarri, Australia",cariannec
+"""been""","Seoul, South Korea",cariannec
+"""been""","Tullamarine, Australia",cariannec
+"""been""","Greenough, Australia",cariannec
+"""been""","Douglas, WY, USA",cariannec
+"""been""","Yanchep, Australia",cariannec
+"""been""","Greenwich, CT, USA",cariannec
+"""been""","North Truro, MA, USA",cariannec
+"""been""","North Myrtle Beach, SC, USA",cariannec
+"""been""","Yallingup, Australia",cariannec
+"""been""","Greenwood Lake, NY, USA",cariannec
+"""been""","Irvington, NY, USA",cariannec
+"""been""","Yonkers, NY, USA",cariannec
+"""been""","Munich, Germany",cariannec
+"""been""","Pearl River, NY, USA",cariannec
+"""been""","Massena, NY, USA",cariannec
+"""been""","Peekskill, NY, USA",cariannec
+"""been""","London, UK",cariannec
+"""been""","Liverpool, UK",cariannec
+"""been""","Dandenong, Australia",cariannec
+"""been""","Wilkes-Barre, PA, USA",cariannec
+"""been""","Petra - Wadi Musa, Jordan",cariannec
+"""been""","Orlando, FL, USA",cariannec
+"""been""","Cleveland, OH, USA",cariannec
+"""been""","Healesville, Australia",cariannec
+"""been""","Northampton, Australia",cariannec
+"""been""","Nannup, Australia",cariannec
+"""been""","Halls Gap, Australia",cariannec
+"""been""","Warwick, RI, USA",cariannec
+"""been""","Ilion, NY, USA",cariannec
+"""been""","Farmington, NY, USA",cariannec
+"""been""","Margaretville, NY, USA",cariannec
+"""been""","Palisades, NY, USA",cariannec
+"""been""","South Yarmouth, MA, USA",cariannec
+"""been""","Bardonia, NY, USA",cariannec
+"""been""","New Rochelle, NY, USA",cariannec
+"""been""","Walpole, Australia",cariannec
+"""been""","Myrtle Beach, SC, USA",cariannec
+"""been""","Yarmouth, MA, USA",cariannec
+"""been""","Rome, Italy",cariannec

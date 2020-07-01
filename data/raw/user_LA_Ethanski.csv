@@ -1,0 +1,491 @@
+tag,place,user
+"""want""","Yalta, Europe",Ethanski
+"""been""","Kalk Bay, South Africa",Ethanski
+"""been""","Kasane, Botswana",Ethanski
+"""want""","Ooty (Udhagamandalam), India",Ethanski
+"""been""","Watamu, Kenya",Ethanski
+"""been""","San Juan, Puerto Rico",Ethanski
+"""been""","Betty's Bay, South Africa",Ethanski
+"""want""","Dubrovnik, Croatia",Ethanski
+"""want""","Charlotte, NC, USA",Ethanski
+"""want""","Bophut, Thailand",Ethanski
+"""been"",""fave""","Cape Peninsula National Park, South Africa",Ethanski
+"""been"",""fave""","West Coast National Park, South Africa",Ethanski
+"""been""","Antigua, Guatemala",Ethanski
+"""been"",""want""","Runaway Bay, Jamaica",Ethanski
+"""want""","Jodhpur, India",Ethanski
+"""been""","Provincetown, MA, USA",Ethanski
+"""want""","Stanley, Falkland Islands",Ethanski
+"""been""","Columbus, OH, USA",Ethanski
+"""been"",""fave""","St. Petersburg, Russia",Ethanski
+"""been""","Puerto Morelos, Mexico",Ethanski
+"""been"",""fave""","Big Sur, CA, USA",Ethanski
+"""been"",""want""","Singapore, Singapore",Ethanski
+"""been""","Cannon Beach, OR, USA",Ethanski
+"""been""","Kabarnet, Kenya",Ethanski
+"""want""","Pune, India",Ethanski
+"""been""","Cayo Guillermo, Cuba",Ethanski
+"""been""","Freeport, Bahamas",Ethanski
+"""been""","Atlantic City, NJ, USA",Ethanski
+"""been""","Santa Fe de Antioquia, Colombia",Ethanski
+"""been""","Grand Bahama Island, Bahamas",Ethanski
+"""been""","Puerto Iguazu, Argentina",Ethanski
+"""been""","Tsavo, Kenya",Ethanski
+"""been""","Park City, UT, USA",Ethanski
+"""been""","Cruz Bay, U.S. Virgin Islands",Ethanski
+"""want""","Dutch Harbor, AK, USA",Ethanski
+"""want""","Airlie Beach, Australia",Ethanski
+"""want""","Niagara Falls, NY, USA",Ethanski
+"""been""","Jackson, WY, USA",Ethanski
+"""been""","Killarney, Ireland",Ethanski
+"""want""","Kochi (Cochin), India",Ethanski
+"""been""","Battle Creek, MI, USA",Ethanski
+"""been""","Beirut, Lebanon",Ethanski
+"""been""","Charlotte Amalie, U.S. Virgin Islands",Ethanski
+"""want""","Genoa, Italy",Ethanski
+"""been""","Panama City, Panama",Ethanski
+"""been""","Acapulco, Mexico",Ethanski
+"""been""","Donegal Town, Ireland",Ethanski
+"""want""","Bengaluru, India",Ethanski
+"""want""","Cork, Ireland",Ethanski
+"""been""","Lancaster, PA, USA",Ethanski
+"""been""","Budapest, Hungary",Ethanski
+"""want""","Galway, Ireland",Ethanski
+"""want""","Salta, Argentina",Ethanski
+"""want""","Dublin, Ireland",Ethanski
+"""been""","Srinagar, India",Ethanski
+"""been""","Jasper, Alberta, Canada",Ethanski
+"""been""","Great Basin National Park, NV, USA",Ethanski
+"""been""","Calgary, Alberta, Canada",Ethanski
+"""been""","Puerto Vallarta, Mexico",Ethanski
+"""been""","Banff, Alberta, Canada",Ethanski
+"""been""","Manzanillo, Mexico",Ethanski
+"""been""","Mazatlan, Mexico",Ethanski
+"""been""","Guadalajara, Mexico",Ethanski
+"""want""","Manali, India",Ethanski
+"""want""","Kusadasi, Turkey",Ethanski
+"""want""","Gurugram (Gurgaon), India",Ethanski
+"""been""","Bursa, Turkey",Ethanski
+"""been""","Hollywood, FL, USA",Ethanski
+"""want""","El Calafate, Argentina",Ethanski
+"""been""","Naivasha, Kenya",Ethanski
+"""been""","Kisumu, Kenya",Ethanski
+"""been""","Ahmedabad, India",Ethanski
+"""been""","Hong Kong, China",Ethanski
+"""been""","Sunny Beach, Bulgaria",Ethanski
+"""want""","Candolim, India",Ethanski
+"""want""","San Carlos de Bariloche, Argentina",Ethanski
+"""been""","Sofia, Bulgaria",Ethanski
+"""want""","Antalya, Turkey",Ethanski
+"""want""","Alanya, Turkey",Ethanski
+"""want""","Kemer, Turkey",Ethanski
+"""been""","Bucharest, Romania",Ethanski
+"""been""","San Jose del Cabo, Mexico",Ethanski
+"""been""","Cabo San Lucas, Mexico",Ethanski
+"""been""","Kommetjie, South Africa",Ethanski
+"""been""","Utqiagvik, AK, USA",Ethanski
+"""been""","Nairobi, Kenya",Ethanski
+"""been"",""fave""","Maasai Mara National Reserve, Kenya",Ethanski
+"""been""","Glasgow, UK",Ethanski
+"""been""","Las Terrenas, Dominican Republic",Ethanski
+"""been""","Lizard Island, Australia",Ethanski
+"""been""","Portland, OR, USA",Ethanski
+"""been""","Tallinn, Estonia",Ethanski
+"""want""","Montevideo, Uruguay",Ethanski
+"""want""","Vilnius, Lithuania",Ethanski
+"""want""","Luxor, Egypt",Ethanski
+"""been""","Simon's Town, South Africa",Ethanski
+"""been""","Pioneertown, CA, USA",Ethanski
+"""been""","Whistler, British Columbia, Canada",Ethanski
+"""been""","Kilifi, Kenya",Ethanski
+"""been""","Pismo Beach, CA, USA",Ethanski
+"""been""","Tofino, British Columbia, Canada",Ethanski
+"""been""","Holguin, Cuba",Ethanski
+"""been""","Vancouver, British Columbia, Canada",Ethanski
+"""want""","Calangute, India",Ethanski
+"""been""","Los Angeles, CA, USA",Ethanski
+"""been""","Victoria, British Columbia, Canada",Ethanski
+"""been""","Chicago, IL, USA",Ethanski
+"""been""","Lima, Peru",Ethanski
+"""been""","Edinburgh, UK",Ethanski
+"""been""","Fernie, British Columbia, Canada",Ethanski
+"""been""","Machu Picchu, Peru",Ethanski
+"""been""","Adelaide, Australia",Ethanski
+"""been""","Las Vegas, NV, USA",Ethanski
+"""want""","Hobart, Australia",Ethanski
+"""been""","Arlington, VA, USA",Ethanski
+"""want""","Arequipa, Peru",Ethanski
+"""been""","Cusco, Peru",Ethanski
+"""been""","Yzerfontein, South Africa",Ethanski
+"""been""","Bamburi, Kenya",Ethanski
+"""been""","Joshua Tree, CA, USA",Ethanski
+"""been""","Winnipeg, Manitoba, Canada",Ethanski
+"""been""","St. Petersburg, FL, USA",Ethanski
+"""been""","Aspen, CO, USA",Ethanski
+"""been""","Quito, Ecuador",Ethanski
+"""been""","Galveston, TX, USA",Ethanski
+"""been""","Sydney, Australia",Ethanski
+"""want""","Patong, Thailand",Ethanski
+"""been""","Darwin, Australia",Ethanski
+"""want""","Brisbane, Australia",Ethanski
+"""been""","Cairns, Australia",Ethanski
+"""been"",""fave""","Nakuru, Kenya",Ethanski
+"""been""","Sacramento, CA, USA",Ethanski
+"""been""","Puerto Aventuras, Mexico",Ethanski
+"""been""","Prague, Czech Republic",Ethanski
+"""been""","Alexandria, VA, USA",Ethanski
+"""want""","Nong Thale, Thailand",Ethanski
+"""want""","Ao Nang, Thailand",Ethanski
+"""been""","Port Douglas, Australia",Ethanski
+"""want""","Surfers Paradise, Australia",Ethanski
+"""want""","Kamala, Thailand",Ethanski
+"""been""","Akumal, Mexico",Ethanski
+"""been""","Playa Mujeres, Mexico",Ethanski
+"""been""","Helsinki, Finland",Ethanski
+"""been""","Madrid, Spain",Ethanski
+"""been""","Venice, Italy",Ethanski
+"""been""","Phoenix, AZ, USA",Ethanski
+"""been""","Mont Tremblant, Quebec, Canada",Ethanski
+"""been"",""fave""","Avalon, CA, USA",Ethanski
+"""been""","Halifax, Nova Scotia, Canada",Ethanski
+"""been""","Napa, CA, USA",Ethanski
+"""want""","Auckland, New Zealand",Ethanski
+"""been""","Long Beach, CA, USA",Ethanski
+"""been""","Pasadena, CA, USA",Ethanski
+"""been""","London, UK",Ethanski
+"""been""","Liverpool, UK",Ethanski
+"""want""","Khao Lak, Thailand",Ethanski
+"""been""","Fort Worth, TX, USA",Ethanski
+"""want""","Kandy, Sri Lanka",Ethanski
+"""been""","Blackpool, UK",Ethanski
+"""been""","Naples, Italy",Ethanski
+"""been""","Antwerp, Belgium",Ethanski
+"""been""","Amalfi, Italy",Ethanski
+"""want""","Faliraki, Greece",Ethanski
+"""been""","Capri, Italy",Ethanski
+"""been""","Windermere, UK",Ethanski
+"""been""","Kamanjab, Namibia",Ethanski
+"""been""","Monterey, CA, USA",Ethanski
+"""been""","Bratislava, Slovakia",Ethanski
+"""been""","Bayahibe, Dominican Republic",Ethanski
+"""been""","Florence, Italy",Ethanski
+"""want""","Canberra, Australia",Ethanski
+"""want""","Santa Maria, Cape Verde",Ethanski
+"""been""","Luquillo, Puerto Rico",Ethanski
+"""been""","Palermo, Italy",Ethanski
+"""want""","Niagara Falls, Ontario, Canada",Ethanski
+"""been""","Dallas, TX, USA",Ethanski
+"""want""","Seville, Spain",Ethanski
+"""been""","Berlin, Germany",Ethanski
+"""been"",""fave""","Kathmandu, Nepal",Ethanski
+"""want""","Vilamoura, Portugal",Ethanski
+"""want""","Granada, Spain",Ethanski
+"""want""","Kalpetta, India",Ethanski
+"""want""","Belfast, UK",Ethanski
+"""want""","Fira, Greece",Ethanski
+"""been""","Cambridge, UK",Ethanski
+"""been"",""fave""","Stockholm, Sweden",Ethanski
+"""been""","Victoria Falls, Zimbabwe",Ethanski
+"""want""","Alappuzha, India",Ethanski
+"""want""","Marbella, Spain",Ethanski
+"""been""","Reykjavik, Iceland",Ethanski
+"""been""","Rome, Italy",Ethanski
+"""want""","Cordoba, Spain",Ethanski
+"""been""","Victoria Falls, Zambia",Ethanski
+"""been""","Cardiff, UK",Ethanski
+"""been""","Palm Desert, CA, USA",Ethanski
+"""been""","Palm Springs, CA, USA",Ethanski
+"""been""","Ixtapa, Mexico",Ethanski
+"""want""","Munnar, India",Ethanski
+"""been""","Moab, UT, USA",Ethanski
+"""been""","Austin, TX, USA",Ethanski
+"""been""","Waikoloa, HI, USA",Ethanski
+"""been""","Isla Verde, Puerto Rico",Ethanski
+"""been""","Sesriem, Namibia",Ethanski
+"""want""","Queenstown, New Zealand",Ethanski
+"""want""","Alvor, Portugal",Ethanski
+"""been""","Anaheim, CA, USA",Ethanski
+"""been""","Coronado, CA, USA",Ethanski
+"""been"",""want""","Charleston, SC, USA",Ethanski
+"""want""","Da Nang, Vietnam",Ethanski
+"""been""","Bruges, Belgium",Ethanski
+"""been""","Wailea, HI, USA",Ethanski
+"""want""","Palma de Mallorca, Spain",Ethanski
+"""been""","Athens, Greece",Ethanski
+"""been""","Livingstone, Zambia",Ethanski
+"""want""","Kata Beach, Thailand",Ethanski
+"""been""","Baker, NV, USA",Ethanski
+"""been""","Tampa, FL, USA",Ethanski
+"""been""","Sonoma, CA, USA",Ethanski
+"""been""","Miami, FL, USA",Ethanski
+"""been""","Rundu, Namibia",Ethanski
+"""been""","Miami Beach, FL, USA",Ethanski
+"""been""","Bath, UK",Ethanski
+"""want""","Hoi An, Vietnam",Ethanski
+"""been""","Monte-Carlo, Monaco",Ethanski
+"""been""","Sao Paulo, Brazil",Ethanski
+"""been""","Bukit Fraser, Malaysia",Ethanski
+"""been""","San Francisco, CA, USA",Ethanski
+"""been""","Page, AZ, USA",Ethanski
+"""been""","Avignon, France",Ethanski
+"""been""","San Antonio, TX, USA",Ethanski
+"""been""","Ghent, Belgium",Ethanski
+"""want""","San Sebastian - Donostia, Spain",Ethanski
+"""been"",""fave""","Eilat, Israel",Ethanski
+"""been""","Frankfurt, Germany",Ethanski
+"""been"",""fave""","Jerusalem, Israel",Ethanski
+"""been""","Santa Fe, NM, USA",Ethanski
+"""been""","Tel Aviv, Israel",Ethanski
+"""want""","Kardamena, Greece",Ethanski
+"""been""","Atherton, Australia",Ethanski
+"""want""","Chaweng, Thailand",Ethanski
+"""been""","Calistoga, CA, USA",Ethanski
+"""been""","Tucson, AZ, USA",Ethanski
+"""been""","Cambria, CA, USA",Ethanski
+"""been""","Oxford, UK",Ethanski
+"""want""","West Bay, Honduras",Ethanski
+"""want""","Marrakech, Morocco",Ethanski
+"""been""","Bar Harbor, ME, USA",Ethanski
+"""been""","Estes Park, CO, USA",Ethanski
+"""been"",""fave""","Toledo, Spain",Ethanski
+"""been""","Brooklyn, NY, USA",Ethanski
+"""been""","Otjiwarongo, Namibia",Ethanski
+"""been""","Melbourne, Australia",Ethanski
+"""been""","Providence, RI, USA",Ethanski
+"""been"",""fave""","Istanbul, Turkey",Ethanski
+"""want""","Perth, Australia",Ethanski
+"""been""","Fairbanks, AK, USA",Ethanski
+"""want""","Broome, Australia",Ethanski
+"""want""","Puerto de la Cruz, Spain",Ethanski
+"""want""","Tokyo, Japan",Ethanski
+"""been""","South Lake Tahoe, CA, USA",Ethanski
+"""want""","Auckland Central, New Zealand",Ethanski
+"""been""","Copenhagen, Denmark",Ethanski
+"""been""","Fish Hoek, South Africa",Ethanski
+"""been""","Boulder, CO, USA",Ethanski
+"""been""","Breckenridge, CO, USA",Ethanski
+"""been""","Bergen, Norway",Ethanski
+"""been""","Nashville, TN, USA",Ethanski
+"""been""","Albuquerque, NM, USA",Ethanski
+"""been""","Nice, France",Ethanski
+"""want""","Mahabaleshwar, India",Ethanski
+"""want""","Kodaikanal, India",Ethanski
+"""been""","Beaufort, SC, USA",Ethanski
+"""been""","Baltimore, MD, USA",Ethanski
+"""been""","North Myrtle Beach, SC, USA",Ethanski
+"""been""","Kakadu National Park, Australia",Ethanski
+"""been"",""want""","Savannah, GA, USA",Ethanski
+"""want""","Colombo, Sri Lanka",Ethanski
+"""want""","Wellington, New Zealand",Ethanski
+"""want""","Christchurch, New Zealand",Ethanski
+"""been""","Kazungula, Zambia",Ethanski
+"""been""","Unalaska, AK, USA",Ethanski
+"""been""","Panama City Beach, FL, USA",Ethanski
+"""been""","Foz do Iguacu, Brazil",Ethanski
+"""been""","Salt Lake City, UT, USA",Ethanski
+"""been""","Paris, France",Ethanski
+"""want""","Mai Khao, Thailand",Ethanski
+"""want""","Vientiane, Laos",Ethanski
+"""been""","Corpus Christi, TX, USA",Ethanski
+"""been""","Icmeler, Turkey",Ethanski
+"""been""","Amsterdam, The Netherlands",Ethanski
+"""been""","Detroit, MI, USA",Ethanski
+"""been""","Divundu, Namibia",Ethanski
+"""been""","Lyon, France",Ethanski
+"""want""","Lisse, The Netherlands",Ethanski
+"""been""","Zurich, Switzerland",Ethanski
+"""been""","La Jolla, CA, USA",Ethanski
+"""been""","Siesta Key, FL, USA",Ethanski
+"""been""","Orlando, FL, USA",Ethanski
+"""been""","Strand, South Africa",Ethanski
+"""been""","Soldotna, AK, USA",Ethanski
+"""been"",""fave""","Homer, AK, USA",Ethanski
+"""been""","Windhoek, Namibia",Ethanski
+"""been""","Myrtle Beach, SC, USA",Ethanski
+"""been""","Girona, Spain",Ethanski
+"""want""","Phnom Penh, Cambodia",Ethanski
+"""want""","Praia da Rocha, Portugal",Ethanski
+"""want""","Salamanca, Spain",Ethanski
+"""been""","Barcelona, Spain",Ethanski
+"""been""","Talkeetna, AK, USA",Ethanski
+"""been""","Laguna Beach, CA, USA",Ethanski
+"""been""","Vail, CO, USA",Ethanski
+"""been"",""fave""","Vienna, Austria",Ethanski
+"""want""","Darjeeling, India",Ethanski
+"""want""","Chennai (Madras), India",Ethanski
+"""been""","Reno, NV, USA",Ethanski
+"""been""","Jaipur, India",Ethanski
+"""want""","Sihanoukville, Cambodia",Ethanski
+"""want""","Mumbai, India",Ethanski
+"""want""","Mysuru (Mysore), India",Ethanski
+"""want""","Shimla, India",Ethanski
+"""been""","New Delhi, India",Ethanski
+"""want""","Kiotari, Greece",Ethanski
+"""want""","Derby, Australia",Ethanski
+"""been""","Daintree, Australia",Ethanski
+"""been""","West Palm Beach, FL, USA",Ethanski
+"""been""","Minneapolis, MN, USA",Ethanski
+"""been""","Malibu, CA, USA",Ethanski
+"""been"",""want""","Nha Trang, Vietnam",Ethanski
+"""been""","Louisville, CO, USA",Ethanski
+"""want""","Ho Chi Minh City, Vietnam",Ethanski
+"""want""","Hanoi, Vietnam",Ethanski
+"""want""","Hue, Vietnam",Ethanski
+"""want""","Mellieha, Malta",Ethanski
+"""been""","Petropavlovsk-Kamchatsky, Russia",Ethanski
+"""been""","Scottsdale, AZ, USA",Ethanski
+"""been""","Sedona, AZ, USA",Ethanski
+"""been""","Lyons, CO, USA",Ethanski
+"""been"",""fave""","Malindi, Kenya",Ethanski
+"""been""","Punta Cana, Dominican Republic",Ethanski
+"""been""","La Romana, Dominican Republic",Ethanski
+"""want""","Pattaya, Thailand",Ethanski
+"""been""","Puerto Plata, Dominican Republic",Ethanski
+"""been""","Chyulu Hills National Park, Kenya",Ethanski
+"""been""","Placencia, Belize",Ethanski
+"""been""","Taipei, Taiwan",Ethanski
+"""want""","Bangkok, Thailand",Ethanski
+"""been""","Manchester, UK",Ethanski
+"""been""","Louisville, KY, USA",Ethanski
+"""been""","La Fortuna de San Carlos, Costa Rica",Ethanski
+"""want""","Denarau Island, Fiji",Ethanski
+"""been""","Nuevo Vallarta, Mexico",Ethanski
+"""want""","Siem Reap, Cambodia",Ethanski
+"""been""","San Pedro, Belize",Ethanski
+"""want""","Mar del Plata, Argentina",Ethanski
+"""been""","Walvis Bay, Namibia",Ethanski
+"""want""","Tumon, Mariana Islands",Ethanski
+"""want""","Lagos, Portugal",Ethanski
+"""been""","Cayo Largo, Cuba",Ethanski
+"""been"",""want""","Buenos Aires, Argentina",Ethanski
+"""been""","Mammoth Lakes, CA, USA",Ethanski
+"""been""","Willemstad, Curacao",Ethanski
+"""been""","Dania Beach, FL, USA",Ethanski
+"""been""","Toulouse, France",Ethanski
+"""want""","Gettysburg, PA, USA",Ethanski
+"""been""","Varadero, Cuba",Ethanski
+"""been""","Philadelphia, PA, USA",Ethanski
+"""want""","Armacao de Pera, Portugal",Ethanski
+"""been""","Magadi, Kenya",Ethanski
+"""been""","Havana, Cuba",Ethanski
+"""been""","Washington DC, DC, USA",Ethanski
+"""been""","Hershey, PA, USA",Ethanski
+"""been""","Rincon, Puerto Rico",Ethanski
+"""want""","Cape Panwa, Thailand",Ethanski
+"""been""","West Yellowstone, MT, USA",Ethanski
+"""want""","Memphis, TN, USA",Ethanski
+"""been"",""fave""","Cape Town Central, South Africa",Ethanski
+"""been""","Camps Bay, South Africa",Ethanski
+"""been""","Oaxaca, Mexico",Ethanski
+"""been""","Lake Worth, FL, USA",Ethanski
+"""want""","Hersonissos, Greece",Ethanski
+"""been""","Mexico City, Mexico",Ethanski
+"""want""","Bonaire, Caribbean",Ethanski
+"""been""","Santa Barbara, CA, USA",Ethanski
+"""been""","Santa Cruz, CA, USA",Ethanski
+"""been""","Toronto, Ontario, Canada",Ethanski
+"""been""","Fajardo, Puerto Rico",Ethanski
+"""want""","South Pole, Antarctica",Ethanski
+"""been""","Sardinal, Costa Rica",Ethanski
+"""been""","Cancun, Mexico",Ethanski
+"""been""","Atlanta, GA, USA",Ethanski
+"""been""","Portland, ME, USA",Ethanski
+"""been""","Playa del Carmen, Mexico",Ethanski
+"""been""","Santa Monica, CA, USA",Ethanski
+"""been""","Tulum, Mexico",Ethanski
+"""been""","Clearwater, FL, USA",Ethanski
+"""been""","Richmond, VA, USA",Ethanski
+"""been"",""fave""","Chobe National Park, Botswana",Ethanski
+"""been"",""want""","Kuala Lumpur, Malaysia",Ethanski
+"""been""","Playa Paraiso, Mexico",Ethanski
+"""been""","Merida, Mexico",Ethanski
+"""want""","Lamai Beach, Thailand",Ethanski
+"""been""","Kapolei, HI, USA",Ethanski
+"""been""","Cocoa Beach, FL, USA",Ethanski
+"""been""","Kagoshima, Japan",Ethanski
+"""been"",""fave""","Okaukuejo, Namibia",Ethanski
+"""been""","Cayo Santa Maria, Cuba",Ethanski
+"""been"",""fave""","Shakawe, Botswana",Ethanski
+"""been""","Cape May, NJ, USA",Ethanski
+"""been""","Quebec City, Quebec, Canada",Ethanski
+"""been""","Montreal, Quebec, Canada",Ethanski
+"""been""","Medellin, Colombia",Ethanski
+"""been""","Osaka, Japan",Ethanski
+"""want""","Cartagena, Colombia",Ethanski
+"""been""","Jaco, Costa Rica",Ethanski
+"""want""","Palm - Eagle Beach, Aruba",Ethanski
+"""been""","Carmel, CA, USA",Ethanski
+"""been""","San Jose, CA, USA",Ethanski
+"""been""","Fort Myers, FL, USA",Ethanski
+"""want""","Oranjestad, Aruba",Ethanski
+"""been""","Seven Mile Beach, Cayman Islands",Ethanski
+"""been""","Anchorage, AK, USA",Ethanski
+"""been""","Fort Myers Beach, FL, USA",Ethanski
+"""been""","Kissimmee, FL, USA",Ethanski
+"""want""","Funchal, Portugal",Ethanski
+"""been""","Kyoto, Japan",Ethanski
+"""been""","St. John's, Antigua and Barbuda",Ethanski
+"""been""","San Luis Obispo, CA, USA",Ethanski
+"""been""","Stellenbosch, South Africa",Ethanski
+"""been""","Kobe, Japan",Ethanski
+"""been""","Denver, CO, USA",Ethanski
+"""been""","New York City, NY, USA",Ethanski
+"""been""","Nainital, India",Ethanski
+"""been""","Seattle, WA, USA",Ethanski
+"""been""","Lahaina, HI, USA",Ethanski
+"""want""","Hyderabad, India",Ethanski
+"""been""","Beverly Hills, CA, USA",Ethanski
+"""been""","Charlottesville, VA, USA",Ethanski
+"""want""","Yangon (Rangoon), Myanmar",Ethanski
+"""been""","San Diego, CA, USA",Ethanski
+"""been""","Lucerne, Switzerland",Ethanski
+"""been""","Tamarindo, Costa Rica",Ethanski
+"""been""","Kihei, HI, USA",Ethanski
+"""want""","Bogota, Colombia",Ethanski
+"""want""","Pondicherry, India",Ethanski
+"""been""","Kailua-Kona, HI, USA",Ethanski
+"""want""","Lisbon, Portugal",Ethanski
+"""been""","Seoul, South Korea",Ethanski
+"""been""","Sandusky, OH, USA",Ethanski
+"""been""","Poipu, HI, USA",Ethanski
+"""been""","Princeville, HI, USA",Ethanski
+"""want""","Punta del Este, Uruguay",Ethanski
+"""want""","Nusa Dua, Indonesia",Ethanski
+"""been""","Lihue, HI, USA",Ethanski
+"""been""","Houston, TX, USA",Ethanski
+"""been""","Boston, MA, USA",Ethanski
+"""been"",""want""","Columbia, SC, USA",Ethanski
+"""been"",""want""","Kota Kinabalu, Malaysia",Ethanski
+"""been""","San Jose, Costa Rica",Ethanski
+"""been""","Philipsburg, St Martin \u002F St Maarten",Ethanski
+"""been""","Culver City, CA, USA",Ethanski
+"""want""","Limassol City, Cyprus",Ethanski
+"""been""","Soufriere, St. Lucia",Ethanski
+"""been""","Johannesburg, South Africa",Ethanski
+"""been""","Treasure Island, FL, USA",Ethanski
+"""been""","Gros Islet, St. Lucia",Ethanski
+"""been""","Castries, St. Lucia",Ethanski
+"""been""","Colorado Springs, CO, USA",Ethanski
+"""been""","New Orleans, LA, USA",Ethanski
+"""been""","Guardalavaca, Cuba",Ethanski
+"""been""","Honolulu, HI, USA",Ethanski
+"""want""","Gumbet, Turkey",Ethanski
+"""been""","Rio de Janeiro, Brazil",Ethanski
+"""want""","Porto, Portugal",Ethanski
+"""been""","Newark, NJ, USA",Ethanski
+"""been""","Newport, RI, USA",Ethanski
+"""been""","Port Aransas, TX, USA",Ethanski
+"""been""","Puerto Varas, Chile",Ethanski
+"""been""","Varanasi, India",Ethanski
+"""been""","Kapaa, HI, USA",Ethanski
+"""want""","Bodrum City, Turkey",Ethanski
+"""been""","Carlsbad, CA, USA",Ethanski
+"""been""","West Hollywood, CA, USA",Ethanski
+"""been""","Nome, AK, USA",Ethanski
+"""been""","Agra, India",Ethanski
+"""been""","Flagstaff, AZ, USA",Ethanski
+"""been""","Naples, FL, USA",Ethanski
+"""been""","Fort Lauderdale, FL, USA",Ethanski
+"""want""","Karon, Thailand",Ethanski
+"""been"",""fave""","Tsavo National Park West, Kenya",Ethanski
+"""been"",""fave""","Tsavo National Park East, Kenya",Ethanski

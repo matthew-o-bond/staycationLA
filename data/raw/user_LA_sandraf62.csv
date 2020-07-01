@@ -1,0 +1,578 @@
+tag,place,user
+"""want""","Nha Trang, Vietnam",sandraf62
+"""want""","Hue, Vietnam",sandraf62
+"""want""","Ho Chi Minh City, Vietnam",sandraf62
+"""been""","Playa Conchal, Costa Rica",sandraf62
+"""been""","Paradise Valley, AZ, USA",sandraf62
+"""been""","Playas del Coco, Costa Rica",sandraf62
+"""been""","Shanghai, China",sandraf62
+"""been""","Madrid, Spain",sandraf62
+"""want""","Helsinki, Finland",sandraf62
+"""want""","Hanoi, Vietnam",sandraf62
+"""been""","Alykanas, Greece",sandraf62
+"""been""","Liberia, Costa Rica",sandraf62
+"""want""","Da Lat, Vietnam",sandraf62
+"""been""","Shibuya, Japan",sandraf62
+"""want""","Cordoba, Argentina",sandraf62
+"""want""","Venice, Italy",sandraf62
+"""been""","Huntington Beach, CA, USA",sandraf62
+"""been""","Okayama, Japan",sandraf62
+"""been""","Evansville, IN, USA",sandraf62
+"""want""","Tandil, Argentina",sandraf62
+"""been""","Holland, MI, USA",sandraf62
+"""been""","Chiang Mai, Thailand",sandraf62
+"""been""","Milwaukee, WI, USA",sandraf62
+"""been""","Bangkok, Thailand",sandraf62
+"""been""","Phoenix, AZ, USA",sandraf62
+"""been""","Windsor, UK",sandraf62
+"""want""","Taipei, Taiwan",sandraf62
+"""want""","Placencia, Belize",sandraf62
+"""want""","Tainan, Taiwan",sandraf62
+"""want""","New Taipei, Taiwan",sandraf62
+"""been""","Izmir, Turkey",sandraf62
+"""been""","Pittsburgh, PA, USA",sandraf62
+"""been""","Alexandria, VA, USA",sandraf62
+"""want""","Sapa, Vietnam",sandraf62
+"""been""","Napa, CA, USA",sandraf62
+"""been""","La Fortuna de San Carlos, Costa Rica",sandraf62
+"""been""","Glasgow, UK",sandraf62
+"""been""","Cesme, Turkey",sandraf62
+"""been""","Long Beach, CA, USA",sandraf62
+"""been""","Toshima, Japan",sandraf62
+"""been""","Henderson, NV, USA",sandraf62
+"""want""","Moscow, Russia",sandraf62
+"""been""","Niigata, Japan",sandraf62
+"""been""","Baton Rouge, LA, USA",sandraf62
+"""want""","Cavtat, Croatia",sandraf62
+"""want""","Siem Reap, Cambodia",sandraf62
+"""been""","Pai, Thailand",sandraf62
+"""been""","Malgrat de Mar, Spain",sandraf62
+"""been""","Coventry, UK",sandraf62
+"""been""","Prescott, AZ, USA",sandraf62
+"""been""","Turin, Italy",sandraf62
+"""want""","Phnom Penh, Cambodia",sandraf62
+"""been""","Los Angeles, CA, USA",sandraf62
+"""been""","Irvine, CA, USA",sandraf62
+"""want""","Mar del Plata, Argentina",sandraf62
+"""been""","Chicago, IL, USA",sandraf62
+"""want""","Buenos Aires, Argentina",sandraf62
+"""been""","Las Vegas, NV, USA",sandraf62
+"""been""","Marmaris, Turkey",sandraf62
+"""been""","Bethesda, MD, USA",sandraf62
+"""want""","Cabo San Lucas, Mexico",sandraf62
+"""been""","Ann Arbor, MI, USA",sandraf62
+"""been""","Arlington, VA, USA",sandraf62
+"""been""","Waterford, Ireland",sandraf62
+"""been""","Milan, Italy",sandraf62
+"""been""","Legian, Indonesia",sandraf62
+"""want""","El Calafate, Argentina",sandraf62
+"""been""","Los Alcazares, Spain",sandraf62
+"""been""","Victoria, British Columbia, Canada",sandraf62
+"""want""","Vancouver, British Columbia, Canada",sandraf62
+"""been""","Lexington, KY, USA",sandraf62
+"""been""","Aspen, CO, USA",sandraf62
+"""been""","Kinsale, Ireland",sandraf62
+"""want""","Como, Italy",sandraf62
+"""been""","Dallas, TX, USA",sandraf62
+"""been""","Playa de Muro, Spain",sandraf62
+"""want""","San Carlos de Bariloche, Argentina",sandraf62
+"""been""","Tremezzina, Italy",sandraf62
+"""want""","Imbassai, Brazil",sandraf62
+"""been""","Charlotte, NC, USA",sandraf62
+"""been""","Kumamoto, Japan",sandraf62
+"""been""","Chapel Hill, NC, USA",sandraf62
+"""been""","Limerick, Ireland",sandraf62
+"""want""","Mahabaleshwar, India",sandraf62
+"""been""","Kuala Lumpur, Malaysia",sandraf62
+"""been""","Annapolis, MD, USA",sandraf62
+"""been""","Edmonton, Alberta, Canada",sandraf62
+"""want""","Makati, Philippines",sandraf62
+"""want""","Guanajuato, Mexico",sandraf62
+"""been""","Clifden, Ireland",sandraf62
+"""been""","Gurnee, IL, USA",sandraf62
+"""want""","Havana, Cuba",sandraf62
+"""been""","Genoa, Italy",sandraf62
+"""want""","Balneario Camboriu, Brazil",sandraf62
+"""been""","Kilkenny, Ireland",sandraf62
+"""been""","Palm Springs, CA, USA",sandraf62
+"""been""","Punta Prima, Spain",sandraf62
+"""been""","Olhao, Portugal",sandraf62
+"""want""","Baguio, Philippines",sandraf62
+"""been""","Osaka, Japan",sandraf62
+"""want""","Bergen, Norway",sandraf62
+"""want""","Nagasaki, Japan",sandraf62
+"""been""","Monterosso al Mare, Italy",sandraf62
+"""been""","Kobe, Japan",sandraf62
+"""been""","Nagano, Japan",sandraf62
+"""been""","Palm Desert, CA, USA",sandraf62
+"""been""","Kyoto, Japan",sandraf62
+"""been""","Ronda, Spain",sandraf62
+"""been""","Gandia, Spain",sandraf62
+"""want""","Arraial do Cabo, Brazil",sandraf62
+"""want""","Belize City, Belize",sandraf62
+"""want""","San Pedro, Belize",sandraf62
+"""been""","Long Island City, NY, USA",sandraf62
+"""been""","Dublin, Ireland",sandraf62
+"""been""","Monterey, CA, USA",sandraf62
+"""want""","Stavanger, Norway",sandraf62
+"""been""","Matsumoto, Japan",sandraf62
+"""been""","Takamatsu, Japan",sandraf62
+"""been""","Cork, Ireland",sandraf62
+"""been""","Takayama, Japan",sandraf62
+"""been""","Matsuyama, Japan",sandraf62
+"""been""","Saint Paul, MN, USA",sandraf62
+"""been""","Tijuana, Mexico",sandraf62
+"""been""","Dingle, Ireland",sandraf62
+"""been""","Mackinaw City, MI, USA",sandraf62
+"""want""","Saidia, Morocco",sandraf62
+"""been""","Winslow, AZ, USA",sandraf62
+"""been""","Bologna, Italy",sandraf62
+"""want""","Tuban, Indonesia",sandraf62
+"""been""","Koto, Japan",sandraf62
+"""want""","Ilhabela, Brazil",sandraf62
+"""been""","Miyakojima, Japan",sandraf62
+"""been""","Yuma, AZ, USA",sandraf62
+"""been""","Nagoya, Japan",sandraf62
+"""been""","Aqaba, Jordan",sandraf62
+"""been""","Naha, Japan",sandraf62
+"""been""","Ayia Napa, Cyprus",sandraf62
+"""want""","Lapu Lapu, Philippines",sandraf62
+"""been""","Gulfport, MS, USA",sandraf62
+"""been""","Lake Geneva, WI, USA",sandraf62
+"""been""","South Haven, MI, USA",sandraf62
+"""been""","Bodrum City, Turkey",sandraf62
+"""want""","Kodaikanal, India",sandraf62
+"""want""","Raleigh, NC, USA",sandraf62
+"""been""","Ankara, Turkey",sandraf62
+"""want""","Agra, India",sandraf62
+"""want""","Chattanooga, TN, USA",sandraf62
+"""been""","Suzhou, China",sandraf62
+"""been""","Kardamena, Greece",sandraf62
+"""been""","Playa de Jandia, Spain",sandraf62
+"""been""","Costa Teguise, Spain",sandraf62
+"""want""","Caracas, Venezuela",sandraf62
+"""been""","Shreveport, LA, USA",sandraf62
+"""been""","Columbus, OH, USA",sandraf62
+"""want""","Lviv, Ukraine",sandraf62
+"""been""","Goynuk, Turkey",sandraf62
+"""want""","Niagara Falls, NY, USA",sandraf62
+"""want""","Udaipur, India",sandraf62
+"""want""","Auckland, New Zealand",sandraf62
+"""want""","Dubrovnik, Croatia",sandraf62
+"""want""","Hopkins, Belize",sandraf62
+"""been""","Ornos, Greece",sandraf62
+"""want""","Mui Ne, Vietnam",sandraf62
+"""been""","Diani Beach, Kenya",sandraf62
+"""been""","Hangzhou, China",sandraf62
+"""want""","Etterbeek, Belgium",sandraf62
+"""want""","Visakhapatnam, India",sandraf62
+"""want""","Sepang, Malaysia",sandraf62
+"""been""","Guilin, China",sandraf62
+"""been""","Guangzhou, China",sandraf62
+"""want""","Seoul, South Korea",sandraf62
+"""been""","Xi'an, China",sandraf62
+"""want""","Sao Paulo, Brazil",sandraf62
+"""been""","Sandakan, Malaysia",sandraf62
+"""want""","La Paz, Bolivia",sandraf62
+"""want""","Yangon (Rangoon), Myanmar",sandraf62
+"""been""","Alvor, Portugal",sandraf62
+"""been""","San Jose, Costa Rica",sandraf62
+"""been""","Punta Umbria, Spain",sandraf62
+"""been"",""want""","Nusa Dua, Indonesia",sandraf62
+"""been""","Kuta, Indonesia",sandraf62
+"""been""","Qingdao, China",sandraf62
+"""been""","Rancho Mirage, CA, USA",sandraf62
+"""want""","Salzburg, Austria",sandraf62
+"""want""","Brasov, Romania",sandraf62
+"""want""","Johannesburg, South Africa",sandraf62
+"""been""","Ontario, CA, USA",sandraf62
+"""been""","Jimbaran, Indonesia",sandraf62
+"""been""","Lugano, Switzerland",sandraf62
+"""want""","Santos, Brazil",sandraf62
+"""want""","Rio de Janeiro, Brazil",sandraf62
+"""been""","Washington DC, DC, USA",sandraf62
+"""been""","Ukunda, Kenya",sandraf62
+"""want""","Playa el Agua, Venezuela",sandraf62
+"""been""","Freeport, Bahamas",sandraf62
+"""been""","Porto, Portugal",sandraf62
+"""been""","Daytona Beach, FL, USA",sandraf62
+"""want""","Indianapolis, IN, USA",sandraf62
+"""been""","Quepos, Costa Rica",sandraf62
+"""want""","Incheon, South Korea",sandraf62
+"""been""","Xiamen, China",sandraf62
+"""been"",""want""","Budapest, Hungary",sandraf62
+"""want""","Jeju, South Korea",sandraf62
+"""want""","Busan, South Korea",sandraf62
+"""been""","Terracina, Italy",sandraf62
+"""want""","Puerto Princesa, Philippines",sandraf62
+"""want""","Vienna, Austria",sandraf62
+"""want""","Abu Dhabi, United Arab Emirates",sandraf62
+"""want""","Puerto Galera, Philippines",sandraf62
+"""want""","Kota Tinggi, Malaysia",sandraf62
+"""been""","Roanoke, VA, USA",sandraf62
+"""been""","Genting Highlands, Malaysia",sandraf62
+"""want""","Ocho Rios, Jamaica",sandraf62
+"""been""","Jaco, Costa Rica",sandraf62
+"""want""","Milano Marittima, Italy",sandraf62
+"""want""","Nainital, India",sandraf62
+"""been""","Funchal, Portugal",sandraf62
+"""been""","Costa Adeje, Spain",sandraf62
+"""want""","Lagoi, Indonesia",sandraf62
+"""want""","Campinas, Brazil",sandraf62
+"""been""","Sintra, Portugal",sandraf62
+"""been""","Battle Creek, MI, USA",sandraf62
+"""want""","Jodhpur, India",sandraf62
+"""want""","Lisbon, Portugal",sandraf62
+"""been""","Estoril, Portugal",sandraf62
+"""want""","Oslo, Norway",sandraf62
+"""want""","Odessa, Ukraine",sandraf62
+"""been""","Fujiyoshida, Japan",sandraf62
+"""been""","Knysna, South Africa",sandraf62
+"""been""","Atlantic City, NJ, USA",sandraf62
+"""been""","Cascais, Portugal",sandraf62
+"""been""","Lucerne, Switzerland",sandraf62
+"""want""","Porec, Croatia",sandraf62
+"""been""","Turunc, Turkey",sandraf62
+"""been""","Boca Raton, FL, USA",sandraf62
+"""been""","Galena, IL, USA",sandraf62
+"""been""","Quebec City, Quebec, Canada",sandraf62
+"""want""","Cleveland, OH, USA",sandraf62
+"""want""","Montreal, Quebec, Canada",sandraf62
+"""want""","Shirdi, India",sandraf62
+"""been""","Lancaster, PA, USA",sandraf62
+"""been""","Shenzhen, China",sandraf62
+"""been""","Fort Wayne, IN, USA",sandraf62
+"""been""","Fuengirola, Spain",sandraf62
+"""want""","St. Petersburg, Russia",sandraf62
+"""been""","Nassau, Bahamas",sandraf62
+"""been""","Nerja, Spain",sandraf62
+"""want""","Pune, India",sandraf62
+"""been""","Tarifa, Spain",sandraf62
+"""want""","Cape Town Central, South Africa",sandraf62
+"""want""","Alwar, India",sandraf62
+"""been""","Geneva, Switzerland",sandraf62
+"""been""","Playa Hermosa, Costa Rica",sandraf62
+"""want""","Mount Abu, India",sandraf62
+"""want""","Seogwipo, South Korea",sandraf62
+"""want""","Cape Panwa, Thailand",sandraf62
+"""been""","Singapore, Singapore",sandraf62
+"""been""","Coimbra, Portugal",sandraf62
+"""want""","Hobart, Australia",sandraf62
+"""been""","Ottawa, Ontario, Canada",sandraf62
+"""been""","Memphis, TN, USA",sandraf62
+"""been""","Beverly Hills, CA, USA",sandraf62
+"""been""","Hong Kong, China",sandraf62
+"""want""","Bucharest, Romania",sandraf62
+"""want""","Dubai, United Arab Emirates",sandraf62
+"""been""","Glacier Bay National Park and Preserve, AK, USA",sandraf62
+"""been""","Santa Barbara, CA, USA",sandraf62
+"""want""","Candolim, India",sandraf62
+"""been""","Antalya, Turkey",sandraf62
+"""want""","Sarajevo, Bosnia and Herzegovina",sandraf62
+"""been""","Alanya, Turkey",sandraf62
+"""want""","Puri, India",sandraf62
+"""been""","Ponta Delgada, Portugal",sandraf62
+"""want""","Belo Horizonte, Brazil",sandraf62
+"""been""","Beijing, China",sandraf62
+"""want""","Costa Do Sauipe, Brazil",sandraf62
+"""been""","Basel, Switzerland",sandraf62
+"""want""","Sofia, Bulgaria",sandraf62
+"""been""","Mombasa, Kenya",sandraf62
+"""want""","Railay Beach, Thailand",sandraf62
+"""been""","Angers, France",sandraf62
+"""been""","Clearwater, FL, USA",sandraf62
+"""been""","Toronto, Ontario, Canada",sandraf62
+"""been""","Santa Monica, CA, USA",sandraf62
+"""been""","Irving, TX, USA",sandraf62
+"""been""","Stratford, Ontario, Canada",sandraf62
+"""been""","Lauderdale-By-The-Sea, FL, USA",sandraf62
+"""been""","South Bend, IN, USA",sandraf62
+"""been""","Nairobi, Kenya",sandraf62
+"""been""","Jerez De La Frontera, Spain",sandraf62
+"""been""","Atlanta, GA, USA",sandraf62
+"""want""","Kapolei, HI, USA",sandraf62
+"""want""","Richmond, VA, USA",sandraf62
+"""been""","Petra - Wadi Musa, Jordan",sandraf62
+"""been""","Forio, Italy",sandraf62
+"""been""","Lagoa, Portugal",sandraf62
+"""been""","Fira, Greece",sandraf62
+"""been""","Louisville, KY, USA",sandraf62
+"""been""","Longboat Key, FL, USA",sandraf62
+"""been""","Urgup, Turkey",sandraf62
+"""been""","Carvoeiro, Portugal",sandraf62
+"""want""","Bled, Slovenia",sandraf62
+"""want""","Recife, Brazil",sandraf62
+"""been""","Stone Town, Tanzania",sandraf62
+"""been""","Lagos, Portugal",sandraf62
+"""want""","Manaus, Brazil",sandraf62
+"""been""","Faro, Portugal",sandraf62
+"""want""","Kyiv (Kiev), Ukraine",sandraf62
+"""been""","Algarve, Portugal",sandraf62
+"""been""","Toulouse, France",sandraf62
+"""been""","Davenport, FL, USA",sandraf62
+"""been""","Mykonos Town, Greece",sandraf62
+"""been""","Jakarta, Indonesia",sandraf62
+"""want""","New Delhi, India",sandraf62
+"""been""","Nanjing, China",sandraf62
+"""want""","Maribor, Slovenia",sandraf62
+"""been""","Kusadasi, Turkey",sandraf62
+"""want""","Shimla, India",sandraf62
+"""been""","Heidelberg, Germany",sandraf62
+"""want""","Jaipur, India",sandraf62
+"""been""","Evora, Portugal",sandraf62
+"""want""","Mumbai, India",sandraf62
+"""want""","Darjeeling, India",sandraf62
+"""been""","Philadelphia, PA, USA",sandraf62
+"""want""","Pompano Beach, FL, USA",sandraf62
+"""been""","Columbia, SC, USA",sandraf62
+"""been""","Houston, TX, USA",sandraf62
+"""want""","Bratislava, Slovakia",sandraf62
+"""want""","Colorado Springs, CO, USA",sandraf62
+"""want""","Kalpetta, India",sandraf62
+"""been""","Rosemont, IL, USA",sandraf62
+"""been""","Kanchanaburi, Thailand",sandraf62
+"""been""","Dresden, Germany",sandraf62
+"""want""","Chiang Rai, Thailand",sandraf62
+"""been""","Koblenz, Germany",sandraf62
+"""been""","New Orleans, LA, USA",sandraf62
+"""want""","Asheville, NC, USA",sandraf62
+"""want""","Honolulu, HI, USA",sandraf62
+"""been""","Champaign, IL, USA",sandraf62
+"""been""","West Hollywood, CA, USA",sandraf62
+"""been""","Corralejo, Spain",sandraf62
+"""been""","Cha-am, Thailand",sandraf62
+"""want""","Sydney, Australia",sandraf62
+"""been""","Charleston, SC, USA",sandraf62
+"""been""","Chandler, AZ, USA",sandraf62
+"""been""","Ephraim, WI, USA",sandraf62
+"""been""","Fort Lauderdale, FL, USA",sandraf62
+"""been""","Moraira, Spain",sandraf62
+"""want""","Brisbane, Australia",sandraf62
+"""want""","Cairns, Australia",sandraf62
+"""been""","Arusha, Tanzania",sandraf62
+"""been""","Zurich, Switzerland",sandraf62
+"""been""","Lyon, France",sandraf62
+"""been""","Madison, WI, USA",sandraf62
+"""want""","Brasilia, Brazil",sandraf62
+"""been""","Newport, RI, USA",sandraf62
+"""been""","Paris, France",sandraf62
+"""want""","Foz do Iguacu, Brazil",sandraf62
+"""been""","Cadaques, Spain",sandraf62
+"""been""","Hot Springs, AR, USA",sandraf62
+"""been""","Amsterdam, The Netherlands",sandraf62
+"""been""","Flagstaff, AZ, USA",sandraf62
+"""been""","Anchorage, AK, USA",sandraf62
+"""been""","Desert Hot Springs, CA, USA",sandraf62
+"""been""","San Jose, CA, USA",sandraf62
+"""been""","Fort Myers Beach, FL, USA",sandraf62
+"""been""","Fort Myers, FL, USA",sandraf62
+"""been""","San Luis Obispo, CA, USA",sandraf62
+"""want""","Prague, Czech Republic",sandraf62
+"""been""","Peoria, IL, USA",sandraf62
+"""been""","Puerto de Mogan, Spain",sandraf62
+"""been""","St. George, UT, USA",sandraf62
+"""been""","Ubud, Indonesia",sandraf62
+"""been""","Pwani Mchangani, Tanzania",sandraf62
+"""been""","Bandung, Indonesia",sandraf62
+"""been""","Olhos de Agua, Portugal",sandraf62
+"""been""","Barcelona, Spain",sandraf62
+"""been""","Saint-Remy-de-Provence, France",sandraf62
+"""want""","Marseille, France",sandraf62
+"""been""","Sanur, Indonesia",sandraf62
+"""want""","Caldas Novas, Brazil",sandraf62
+"""been""","Lausanne, Switzerland",sandraf62
+"""been""","Girona, Spain",sandraf62
+"""been""","Reims, France",sandraf62
+"""been""","Wisconsin Dells, WI, USA",sandraf62
+"""want""","Arraial d'Ajuda, Brazil",sandraf62
+"""been""","Springfield, IL, USA",sandraf62
+"""want""","Tours, France",sandraf62
+"""been""","Dusseldorf, Germany",sandraf62
+"""want""","Kovalam, India",sandraf62
+"""been""","Bonn, Germany",sandraf62
+"""been""","New York City, NY, USA",sandraf62
+"""been""","Leon, Spain",sandraf62
+"""been""","Cologne, Germany",sandraf62
+"""been""","Fish Creek, WI, USA",sandraf62
+"""been""","San Mateo, CA, USA",sandraf62
+"""been""","Schaumburg, IL, USA",sandraf62
+"""want""","Santiago, Chile",sandraf62
+"""been""","Williamsburg, VA, USA",sandraf62
+"""been""","Lloret de Mar, Spain",sandraf62
+"""want""","Tallinn, Estonia",sandraf62
+"""been""","Naperville, IL, USA",sandraf62
+"""want""","Valparaiso, Chile",sandraf62
+"""want""","Umag, Croatia",sandraf62
+"""want""","Copenhagen, Denmark",sandraf62
+"""been""","Patong, Thailand",sandraf62
+"""been""","Lijiang, China",sandraf62
+"""been""","Toledo, Spain",sandraf62
+"""been""","Skagway, AK, USA",sandraf62
+"""want""","Porto Alegre, Brazil",sandraf62
+"""been""","Seattle, WA, USA",sandraf62
+"""been""","Magaluf, Spain",sandraf62
+"""been""","San Diego, CA, USA",sandraf62
+"""want""","Joao Pessoa, Brazil",sandraf62
+"""been""","Brighton, UK",sandraf62
+"""been""","Cincinnati, OH, USA",sandraf62
+"""been""","Puerto de la Cruz, Spain",sandraf62
+"""been""","Peguera, Spain",sandraf62
+"""want""","Boulder, CO, USA",sandraf62
+"""been""","Fujisawa, Japan",sandraf62
+"""want""","Rosario, Argentina",sandraf62
+"""want""","Ixelles, Belgium",sandraf62
+"""want""","Sainte-Maxime, France",sandraf62
+"""been""","Heraklion, Greece",sandraf62
+"""been""","Juneau, AK, USA",sandraf62
+"""been""","Lake Havasu City, AZ, USA",sandraf62
+"""been""","Palm Beach, FL, USA",sandraf62
+"""want""","Puerto Iguazu, Argentina",sandraf62
+"""want""","Nice, France",sandraf62
+"""been""","Dijon, France",sandraf62
+"""been""","Fairbanks, AK, USA",sandraf62
+"""been""","Brooklyn, NY, USA",sandraf62
+"""been""","Agios Nikolaos, Greece",sandraf62
+"""been""","Corrales, NM, USA",sandraf62
+"""been""","Harbert, MI, USA",sandraf62
+"""been""","Ketchikan, AK, USA",sandraf62
+"""been""","Watamu, Kenya",sandraf62
+"""been""","Luz, Portugal",sandraf62
+"""been""","Izu, Japan",sandraf62
+"""want""","Sihanoukville, Cambodia",sandraf62
+"""been""","Burbank, CA, USA",sandraf62
+"""been""","Greenville, SC, USA",sandraf62
+"""want""","Ieper (Ypres), Belgium",sandraf62
+"""been""","Athens, Greece",sandraf62
+"""want""","Nashville, TN, USA",sandraf62
+"""want""","Cannes, France",sandraf62
+"""been""","Stafford, UK",sandraf62
+"""been""","Savannah, GA, USA",sandraf62
+"""been""","Baltimore, MD, USA",sandraf62
+"""been""","Albuquerque, NM, USA",sandraf62
+"""want""","Da Nang, Vietnam",sandraf62
+"""want""","Hoi An, Vietnam",sandraf62
+"""want""","Bruges, Belgium",sandraf62
+"""been""","Mesa, AZ, USA",sandraf62
+"""been""","Coronado, CA, USA",sandraf62
+"""been""","Egg Harbor, WI, USA",sandraf62
+"""been""","Calas de Majorca, Spain",sandraf62
+"""been""","Noboribetsu, Japan",sandraf62
+"""been""","Arles, France",sandraf62
+"""want""","Bilbao, Spain",sandraf62
+"""been""","Oviedo, Spain",sandraf62
+"""been""","Sonoma, CA, USA",sandraf62
+"""been""","Miami Beach, FL, USA",sandraf62
+"""been""","Rockford, IL, USA",sandraf62
+"""been""","Miami, FL, USA",sandraf62
+"""been""","Frankfurt, Germany",sandraf62
+"""been""","Greensboro, NC, USA",sandraf62
+"""want""","Gatlinburg, TN, USA",sandraf62
+"""been""","Jersey City, NJ, USA",sandraf62
+"""been""","Des Moines, IA, USA",sandraf62
+"""been""","South San Francisco, CA, USA",sandraf62
+"""been""","Calistoga, CA, USA",sandraf62
+"""want""","Kathmandu, Nepal",sandraf62
+"""been""","Seville, Spain",sandraf62
+"""been""","Torremolinos, Spain",sandraf62
+"""been""","Granada, Spain",sandraf62
+"""been""","Santa Fe, NM, USA",sandraf62
+"""been""","San Antonio, TX, USA",sandraf62
+"""want""","Berlin, Germany",sandraf62
+"""been""","San Francisco, CA, USA",sandraf62
+"""been""","Kiwengwa, Tanzania",sandraf62
+"""been""","Tucson, AZ, USA",sandraf62
+"""been""","Nungwi, Tanzania",sandraf62
+"""want""","Playa de Palma, Spain",sandraf62
+"""been""","Fujikawaguchiko-machi, Japan",sandraf62
+"""been""","London, Ontario, Canada",sandraf62
+"""want""","Cassis, France",sandraf62
+"""been""","Marbella, Spain",sandraf62
+"""want""","West Palm Beach, FL, USA",sandraf62
+"""been""","Malaga, Spain",sandraf62
+"""been""","Birmingham, AL, USA",sandraf62
+"""been""","Bristol, UK",sandraf62
+"""want""","Stockholm, Sweden",sandraf62
+"""want""","Sarasota, FL, USA",sandraf62
+"""been""","Cadiz, Spain",sandraf62
+"""want""","Jericoacoara, Brazil",sandraf62
+"""been""","Playa Blanca, Spain",sandraf62
+"""been""","Cordoba, Spain",sandraf62
+"""been""","Vatican City, Vatican City",sandraf62
+"""been""","Ipoh, Malaysia",sandraf62
+"""been""","Yokohama, Japan",sandraf62
+"""been""","Kuantan, Malaysia",sandraf62
+"""been""","Rome, Italy",sandraf62
+"""been""","Minneapolis, MN, USA",sandraf62
+"""want""","Niagara Falls, Ontario, Canada",sandraf62
+"""been""","Niagara-on-the-Lake, Ontario, Canada",sandraf62
+"""been""","Anaheim, CA, USA",sandraf62
+"""want""","Melbourne, Australia",sandraf62
+"""been""","Saintes-Maries-de-la-Mer, France",sandraf62
+"""been""","London, UK",sandraf62
+"""want""","Auckland Central, New Zealand",sandraf62
+"""want""","Antwerp, Belgium",sandraf62
+"""been""","Scottsdale, AZ, USA",sandraf62
+"""been""","Sedona, AZ, USA",sandraf62
+"""been""","Munich, Germany",sandraf62
+"""want""","Perth, Australia",sandraf62
+"""been""","Marina del Rey, CA, USA",sandraf62
+"""been""","Snowmass Village, CO, USA",sandraf62
+"""want""","Fortaleza, Brazil",sandraf62
+"""been""","Capri, Italy",sandraf62
+"""been""","Salerno, Italy",sandraf62
+"""been""","Utica, IL, USA",sandraf62
+"""been""","Kamari, Greece",sandraf62
+"""want""","Rotterdam, The Netherlands",sandraf62
+"""been""","Naples, Italy",sandraf62
+"""been""","Pompeii, Italy",sandraf62
+"""been""","Ouarzazate, Morocco",sandraf62
+"""been""","Reno, NV, USA",sandraf62
+"""been""","Amalfi, Italy",sandraf62
+"""want""","Lido di Venezia, Italy",sandraf62
+"""been""","Narita, Japan",sandraf62
+"""been""","Detroit, MI, USA",sandraf62
+"""want""","Piano di Sorrento, Italy",sandraf62
+"""been""","Amman, Jordan",sandraf62
+"""been""","Tel Aviv, Israel",sandraf62
+"""want""","Christchurch, New Zealand",sandraf62
+"""been""","La Jolla, CA, USA",sandraf62
+"""want""","Ischgl, Austria",sandraf62
+"""been""","Jerusalem, Israel",sandraf62
+"""been""","Dar es Salaam, Tanzania",sandraf62
+"""want""","Taupo, New Zealand",sandraf62
+"""want""","Wellington, New Zealand",sandraf62
+"""want""","Zell am See, Austria",sandraf62
+"""been""","Pescara, Italy",sandraf62
+"""been""","Haifa, Israel",sandraf62
+"""want""","Jacksonville, FL, USA",sandraf62
+"""been""","Kamakura, Japan",sandraf62
+"""been""","Florence, Italy",sandraf62
+"""been""","Eilat, Israel",sandraf62
+"""been""","Dearborn, MI, USA",sandraf62
+"""been""","Nara, Japan",sandraf62
+"""been""","Palermo, Italy",sandraf62
+"""been""","Grand Rapids, MI, USA",sandraf62
+"""want""","Queenstown, New Zealand",sandraf62
+"""want""","Vail, CO, USA",sandraf62
+"""been""","Fes, Morocco",sandraf62
+"""been""","Tempe, AZ, USA",sandraf62
+"""been""","Casablanca, Morocco",sandraf62
+"""been""","Istanbul, Turkey",sandraf62
+"""been""","Laguna Beach, CA, USA",sandraf62
+"""been""","Bloomington, IN, USA",sandraf62
+"""been""","Benidorm, Spain",sandraf62
+"""been""","Tangier, Morocco",sandraf62
+"""been""","Rabat, Morocco",sandraf62
+"""want""","Te Anau, New Zealand",sandraf62
+"""want""","Salvador, Brazil",sandraf62
+"""been""","Valencia, Spain",sandraf62
+"""been""","Marrakech, Morocco",sandraf62
+"""been""","Nago, Japan",sandraf62
+"""been""","Green Bay, WI, USA",sandraf62
+"""been""","Myrtle Beach, SC, USA",sandraf62
+"""been""","Pamplona, Spain",sandraf62
+"""been""","Olbia, Italy",sandraf62
+"""been""","Hamamatsu, Japan",sandraf62
+"""been""","Tokyo, Japan",sandraf62
+"""want""","Bansko, Bulgaria",sandraf62
+"""been""","Nikko, Japan",sandraf62

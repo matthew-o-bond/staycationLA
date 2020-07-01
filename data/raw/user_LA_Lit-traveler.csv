@@ -1,0 +1,515 @@
+tag,place,user
+"""been""","Pavia, Italy",Lit-traveler
+"""been""","Point Reyes Station, CA, USA",Lit-traveler
+"""been""","Lake George, NY, USA",Lit-traveler
+"""been""","Pleasanton, CA, USA",Lit-traveler
+"""been""","Buenos Aires, Argentina",Lit-traveler
+"""been""","Gatineau, Quebec, Canada",Lit-traveler
+"""been""","Rosslare, Ireland",Lit-traveler
+"""been""","Turin, Italy",Lit-traveler
+"""been""","Beaupre, Quebec, Canada",Lit-traveler
+"""been""","Lisburn, UK",Lit-traveler
+"""been""","Ipswich, MA, USA",Lit-traveler
+"""been""","Northampton, MA, USA",Lit-traveler
+"""been""","Hyannis, MA, USA",Lit-traveler
+"""been""","Ronda, Spain",Lit-traveler
+"""been"",""fave""","Arcos de la Frontera, Spain",Lit-traveler
+"""been""","Asbury Park, NJ, USA",Lit-traveler
+"""been""","New Rochelle, NY, USA",Lit-traveler
+"""been""","North Conway, NH, USA",Lit-traveler
+"""been""","Jasper, Alberta, Canada",Lit-traveler
+"""been""","Sligo, Ireland",Lit-traveler
+"""been""","Waterford, Ireland",Lit-traveler
+"""been""","Fairlawn, OH, USA",Lit-traveler
+"""been""","Calgary, Alberta, Canada",Lit-traveler
+"""been""","Banff, Alberta, Canada",Lit-traveler
+"""been""","Milan, Italy",Lit-traveler
+"""been""","Lake Louise, Alberta, Canada",Lit-traveler
+"""been""","Yosemite National Park, CA, USA",Lit-traveler
+"""been""","Springdale, UT, USA",Lit-traveler
+"""been""","Stockbridge, MA, USA",Lit-traveler
+"""been""","Venice, Italy",Lit-traveler
+"""been""","Verona, Italy",Lit-traveler
+"""been""","Huntsville, AL, USA",Lit-traveler
+"""been""","Oklahoma City, OK, USA",Lit-traveler
+"""been""","Madrid, Spain",Lit-traveler
+"""been""","Pittsfield, MA, USA",Lit-traveler
+"""been""","Andover, MA, USA",Lit-traveler
+"""been""","Saint-Denis, France",Lit-traveler
+"""been""","Amherst, MA, USA",Lit-traveler
+"""been""","Atlantic City, NJ, USA",Lit-traveler
+"""been""","Ashland, OR, USA",Lit-traveler
+"""been""","Arlington, MA, USA",Lit-traveler
+"""been""","Peabody, MA, USA",Lit-traveler
+"""been""","Lake Placid, NY, USA",Lit-traveler
+"""been""","Occidental, CA, USA",Lit-traveler
+"""been""","Jackson, WY, USA",Lit-traveler
+"""been""","Niagara Falls, NY, USA",Lit-traveler
+"""been""","Padua, Italy",Lit-traveler
+"""been""","Oakland, CA, USA",Lit-traveler
+"""been""","Orly, France",Lit-traveler
+"""been""","Chau Doc, Vietnam",Lit-traveler
+"""been""","Lenox, MA, USA",Lit-traveler
+"""been""","Loreto, Mexico",Lit-traveler
+"""been""","Danvers, MA, USA",Lit-traveler
+"""been""","Park City, UT, USA",Lit-traveler
+"""been""","Tijuana, Mexico",Lit-traveler
+"""been""","Windsor, UK",Lit-traveler
+"""been""","Orleans, MA, USA",Lit-traveler
+"""been""","Ogden, UT, USA",Lit-traveler
+"""been""","Cortona, Italy",Lit-traveler
+"""been""","Florence, Italy",Lit-traveler
+"""been""","Manchester, NH, USA",Lit-traveler
+"""been""","Oak Park, IL, USA",Lit-traveler
+"""been""","Helsingborg, Sweden",Lit-traveler
+"""been""","Logan, UT, USA",Lit-traveler
+"""been""","Pisa, Italy",Lit-traveler
+"""been""","Rehoboth Beach, DE, USA",Lit-traveler
+"""been""","Big Sur, CA, USA",Lit-traveler
+"""been""","Newburyport, MA, USA",Lit-traveler
+"""been""","Newton, MA, USA",Lit-traveler
+"""been""","Indianapolis, IN, USA",Lit-traveler
+"""been""","Captain Cook, HI, USA",Lit-traveler
+"""been""","Truckee, CA, USA",Lit-traveler
+"""been""","Williamstown, MA, USA",Lit-traveler
+"""been""","Can Tho, Vietnam",Lit-traveler
+"""been"",""fave""","Hawi, HI, USA",Lit-traveler
+"""been""","Hilo, HI, USA",Lit-traveler
+"""been""","Bronx, NY, USA",Lit-traveler
+"""been""","Celle, Germany",Lit-traveler
+"""been""","Leipzig, Germany",Lit-traveler
+"""been""","Cagliari, Italy",Lit-traveler
+"""been""","Bromont, Quebec, Canada",Lit-traveler
+"""been""","Staten Island, NY, USA",Lit-traveler
+"""been""","Natural Bridge, VA, USA",Lit-traveler
+"""been""","Somerville, MA, USA",Lit-traveler
+"""been""","Daytona Beach, FL, USA",Lit-traveler
+"""been""","Washington DC, DC, USA",Lit-traveler
+"""been""","Wokingham, UK",Lit-traveler
+"""been""","Stockholm, Sweden",Lit-traveler
+"""been""","Langhorne, PA, USA",Lit-traveler
+"""been""","Cordoba, Spain",Lit-traveler
+"""been""","Rome, Italy",Lit-traveler
+"""been""","Lancaster, PA, USA",Lit-traveler
+"""been""","Nashua, NH, USA",Lit-traveler
+"""been""","Long Island, Bahamas",Lit-traveler
+"""been""","Brussels, Belgium",Lit-traveler
+"""been""","Essington, PA, USA",Lit-traveler
+"""been""","Virginia Beach, VA, USA",Lit-traveler
+"""been""","Bethel, ME, USA",Lit-traveler
+"""been""","Quepos, Costa Rica",Lit-traveler
+"""been""","Gaiole in Chianti, Italy",Lit-traveler
+"""been""","Fiumicino, Italy",Lit-traveler
+"""been""","London, UK",Lit-traveler
+"""been""","Munich, Germany",Lit-traveler
+"""been""","Norfolk, VA, USA",Lit-traveler
+"""been""","Jay, VT, USA",Lit-traveler
+"""been""","North Adams, MA, USA",Lit-traveler
+"""been""","Worcester, MA, USA",Lit-traveler
+"""been""","Harrisonburg, VA, USA",Lit-traveler
+"""been""","Gloucester, MA, USA",Lit-traveler
+"""been""","Hamburg, Germany",Lit-traveler
+"""been""","Pittsburgh, PA, USA",Lit-traveler
+"""been""","Potsdam, Germany",Lit-traveler
+"""been""","Rapid City, SD, USA",Lit-traveler
+"""been""","Alta, UT, USA",Lit-traveler
+"""been""","Morgan Hill, CA, USA",Lit-traveler
+"""been""","Frankfurt, Germany",Lit-traveler
+"""been""","Rohnert Park, CA, USA",Lit-traveler
+"""been""","Paso Robles, CA, USA",Lit-traveler
+"""been""","Luneburg, Germany",Lit-traveler
+"""been""","Great Barrington, MA, USA",Lit-traveler
+"""been"",""fave""","Berlin, Germany",Lit-traveler
+"""been""","Ennis, Ireland",Lit-traveler
+"""been"",""fave""","Granada, Spain",Lit-traveler
+"""been""","Montalcino, Italy",Lit-traveler
+"""been""","Livermore, CA, USA",Lit-traveler
+"""been""","Bryce, UT, USA",Lit-traveler
+"""been""","Sacramento, CA, USA",Lit-traveler
+"""been""","Bagno Vignoni, Italy",Lit-traveler
+"""been""","Rutherford, CA, USA",Lit-traveler
+"""been""","Mount Shasta, CA, USA",Lit-traveler
+"""been""","Pescadero, CA, USA",Lit-traveler
+"""been""","Blarney, Ireland",Lit-traveler
+"""been""","Little River, CA, USA",Lit-traveler
+"""been""","Petaluma, CA, USA",Lit-traveler
+"""been""","New Hope, PA, USA",Lit-traveler
+"""been"",""fave""","Spello, Italy",Lit-traveler
+"""been""","Aptos, CA, USA",Lit-traveler
+"""been"",""fave""","Iguazu National Park, Argentina",Lit-traveler
+"""been""","Nice, France",Lit-traveler
+"""been""","Tiberias, Israel",Lit-traveler
+"""been""","Dijon, France",Lit-traveler
+"""been""","Long Beach, CA, USA",Lit-traveler
+"""been""","Inverness, CA, USA",Lit-traveler
+"""been""","Plymouth Meeting, PA, USA",Lit-traveler
+"""been""","Napa, CA, USA",Lit-traveler
+"""been""","Lompoc, CA, USA",Lit-traveler
+"""been""","Murphys, CA, USA",Lit-traveler
+"""been""","Mountain View, CA, USA",Lit-traveler
+"""been""","Zion National Park, UT, USA",Lit-traveler
+"""been""","New Haven, CT, USA",Lit-traveler
+"""been""","Phoenix, AZ, USA",Lit-traveler
+"""been""","Racha Thewa, Thailand",Lit-traveler
+"""been""","Atascadero, CA, USA",Lit-traveler
+"""been""","Chicago, IL, USA",Lit-traveler
+"""been""","Quebec City, Quebec, Canada",Lit-traveler
+"""been""","Secaucus, NJ, USA",Lit-traveler
+"""been""","Montreal, Quebec, Canada",Lit-traveler
+"""been""","Las Vegas, NV, USA",Lit-traveler
+"""been""","Wildwood, NJ, USA",Lit-traveler
+"""been""","Trois-Rivieres, Quebec, Canada",Lit-traveler
+"""been""","Wildwood Crest, NJ, USA",Lit-traveler
+"""been""","Burlington, MA, USA",Lit-traveler
+"""been""","Bethesda, MD, USA",Lit-traveler
+"""been""","Tipperary, Ireland",Lit-traveler
+"""been""","Wailea, HI, USA",Lit-traveler
+"""been""","Netanya, Israel",Lit-traveler
+"""been""","Los Gatos, CA, USA",Lit-traveler
+"""been"",""want""","Los Angeles, CA, USA",Lit-traveler
+"""been""","Delaware Water Gap, PA, USA",Lit-traveler
+"""been""","Fresno, CA, USA",Lit-traveler
+"""been""","Beaune, France",Lit-traveler
+"""been""","Fremont, CA, USA",Lit-traveler
+"""been""","Keystone, CO, USA",Lit-traveler
+"""been""","Newtown, PA, USA",Lit-traveler
+"""been""","Krakow, Poland",Lit-traveler
+"""been""","Irvine, CA, USA",Lit-traveler
+"""been""","Pismo Beach, CA, USA",Lit-traveler
+"""been""","Dozza, Italy",Lit-traveler
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",Lit-traveler
+"""been""","Auburn, CA, USA",Lit-traveler
+"""been""","Incline Village, NV, USA",Lit-traveler
+"""been""","Epernay, France",Lit-traveler
+"""been""","Pienza, Italy",Lit-traveler
+"""been""","Bourton-on-the-Water, UK",Lit-traveler
+"""been""","Menlo Park, CA, USA",Lit-traveler
+"""been""","Mendocino, CA, USA",Lit-traveler
+"""been""","Ontario, CA, USA",Lit-traveler
+"""been""","Olema, CA, USA",Lit-traveler
+"""been""","Reims, France",Lit-traveler
+"""been""","Toronto, Ontario, Canada",Lit-traveler
+"""been""","Revere, MA, USA",Lit-traveler
+"""been""","Stow-on-the-Wold, UK",Lit-traveler
+"""been""","Amsterdam, The Netherlands",Lit-traveler
+"""been""","Kittery, ME, USA",Lit-traveler
+"""been""","Vence, France",Lit-traveler
+"""been""","Oswiecim, Poland",Lit-traveler
+"""been""","Warnemunde, Germany",Lit-traveler
+"""been""","Monteriggioni, Italy",Lit-traveler
+"""been""","Copenhagen, Denmark",Lit-traveler
+"""been""","Milpitas, CA, USA",Lit-traveler
+"""been""","Redwood City, CA, USA",Lit-traveler
+"""been""","Hartford, CT, USA",Lit-traveler
+"""been""","Millbrae, CA, USA",Lit-traveler
+"""been""","St-Paul-de-Vence, France",Lit-traveler
+"""been""","Death Valley National Park, CA, USA",Lit-traveler
+"""been""","Redding, CA, USA",Lit-traveler
+"""been""","Crater Lake National Park, OR, USA",Lit-traveler
+"""been""","Clonmel, Ireland",Lit-traveler
+"""been""","Cashel, Ireland",Lit-traveler
+"""been""","Red Bluff, CA, USA",Lit-traveler
+"""been""","Glacier National Park, MT, USA",Lit-traveler
+"""been""","State College, PA, USA",Lit-traveler
+"""been""","Dundalk, Ireland",Lit-traveler
+"""been""","Toledo, Spain",Lit-traveler
+"""been""","Provincetown, MA, USA",Lit-traveler
+"""been""","Albany, NY, USA",Lit-traveler
+"""been""","Ottawa, Ontario, Canada",Lit-traveler
+"""been""","Plymouth, MA, USA",Lit-traveler
+"""been""","Chadds Ford, PA, USA",Lit-traveler
+"""been""","Palo Alto, CA, USA",Lit-traveler
+"""been""","Stamford, CT, USA",Lit-traveler
+"""been""","Palm Springs, CA, USA",Lit-traveler
+"""been""","Modesto, CA, USA",Lit-traveler
+"""been""","Pacifica, CA, USA",Lit-traveler
+"""been""","Bryce Canyon National Park, UT, USA",Lit-traveler
+"""been""","Falmouth, MA, USA",Lit-traveler
+"""been""","Saint Paul, MN, USA",Lit-traveler
+"""been""","Salzburg, Austria",Lit-traveler
+"""been"",""fave""","Paris, France",Lit-traveler
+"""been""","Rockport, MA, USA",Lit-traveler
+"""been""","Pasadena, CA, USA",Lit-traveler
+"""been""","Monterey, CA, USA",Lit-traveler
+"""been""","Stroudsburg, PA, USA",Lit-traveler
+"""been""","Versailles, France",Lit-traveler
+"""been""","Goslar, Germany",Lit-traveler
+"""been""","Edgartown, MA, USA",Lit-traveler
+"""been""","Berchtesgaden, Germany",Lit-traveler
+"""been""","Elk, CA, USA",Lit-traveler
+"""been""","Nashville, TN, USA",Lit-traveler
+"""been""","Half Moon Bay, CA, USA",Lit-traveler
+"""been""","Kingman, AZ, USA",Lit-traveler
+"""been""","Lafayette, CA, USA",Lit-traveler
+"""been""","Tempe, AZ, USA",Lit-traveler
+"""been""","Frisco, CO, USA",Lit-traveler
+"""been""","Guerneville, CA, USA",Lit-traveler
+"""been""","El Segundo, CA, USA",Lit-traveler
+"""been""","Gualala, CA, USA",Lit-traveler
+"""been""","Vancouver, WA, USA",Lit-traveler
+"""been""","Greenwich, CT, USA",Lit-traveler
+"""been""","Brookline, MA, USA",Lit-traveler
+"""been""","Estes Park, CO, USA",Lit-traveler
+"""been""","Providence, RI, USA",Lit-traveler
+"""been""","Hoboken, NJ, USA",Lit-traveler
+"""been""","Princeton, NJ, USA",Lit-traveler
+"""been""","Menaggio, Italy",Lit-traveler
+"""been""","Albi, France",Lit-traveler
+"""been""","Vacaville, CA, USA",Lit-traveler
+"""been""","Media, PA, USA",Lit-traveler
+"""been""","Brooklyn, NY, USA",Lit-traveler
+"""been""","Breckenridge, CO, USA",Lit-traveler
+"""been""","Wilkes-Barre, PA, USA",Lit-traveler
+"""been""","Boulder, CO, USA",Lit-traveler
+"""been""","Nederland, CO, USA",Lit-traveler
+"""been""","Chantilly City, France",Lit-traveler
+"""been""","Emeryville, CA, USA",Lit-traveler
+"""been""","Quincy, MA, USA",Lit-traveler
+"""been""","West Glacier, MT, USA",Lit-traveler
+"""been""","Salem, MA, USA",Lit-traveler
+"""been"",""fave""","San Francisco, CA, USA",Lit-traveler
+"""been""","San Antonio, TX, USA",Lit-traveler
+"""been""","Quathiaski Cove, British Columbia, Canada",Lit-traveler
+"""been""","Santa Fe, NM, USA",Lit-traveler
+"""been""","Point Pleasant Beach, NJ, USA",Lit-traveler
+"""been""","Tucson, AZ, USA",Lit-traveler
+"""been""","Jersey City, NJ, USA",Lit-traveler
+"""been""","Cernobbio, Italy",Lit-traveler
+"""been""","Spokane, WA, USA",Lit-traveler
+"""been""","Milford, PA, USA",Lit-traveler
+"""been""","Burbank, CA, USA",Lit-traveler
+"""been""","Burlingame, CA, USA",Lit-traveler
+"""been""","Vallejo, CA, USA",Lit-traveler
+"""been""","Alameda, CA, USA",Lit-traveler
+"""been""","Concord, CA, USA",Lit-traveler
+"""been""","Healdsburg, CA, USA",Lit-traveler
+"""been""","Salt Lake City, UT, USA",Lit-traveler
+"""been""","Hyde Park, NY, USA",Lit-traveler
+"""been""","Danville, CA, USA",Lit-traveler
+"""been""","Orvieto, Italy",Lit-traveler
+"""been""","Castellina In Chianti, Italy",Lit-traveler
+"""been""","Jerez De La Frontera, Spain",Lit-traveler
+"""been""","Hunt Valley, MD, USA",Lit-traveler
+"""been""","Honfleur, France",Lit-traveler
+"""been""","Wroclaw, Poland",Lit-traveler
+"""been""","Sonora, CA, USA",Lit-traveler
+"""been""","Miami Beach, FL, USA",Lit-traveler
+"""been""","Sonoma, CA, USA",Lit-traveler
+"""been""","Miami, FL, USA",Lit-traveler
+"""been""","Calabasas, CA, USA",Lit-traveler
+"""been""","Anaheim, CA, USA",Lit-traveler
+"""been""","Lexington, VA, USA",Lit-traveler
+"""been""","Solvang, CA, USA",Lit-traveler
+"""been""","Stowe, VT, USA",Lit-traveler
+"""been""","Hollister, CA, USA",Lit-traveler
+"""been""","Costa Mesa, CA, USA",Lit-traveler
+"""been""","Radda in Chianti, Italy",Lit-traveler
+"""been""","Baltimore, MD, USA",Lit-traveler
+"""been""","Albuquerque, NM, USA",Lit-traveler
+"""been""","Coronado, CA, USA",Lit-traveler
+"""been""","Savannah, GA, USA",Lit-traveler
+"""been""","Viterbo, Italy",Lit-traveler
+"""been""","Montepulciano, Italy",Lit-traveler
+"""been""","East Rutherford, NJ, USA",Lit-traveler
+"""been""","Lisbon, Portugal",Lit-traveler
+"""been""","Gilroy, CA, USA",Lit-traveler
+"""been""","Glen Ellen, CA, USA",Lit-traveler
+"""been""","Belem, Portugal",Lit-traveler
+"""been""","Jenner, CA, USA",Lit-traveler
+"""been""","Newport Beach, CA, USA",Lit-traveler
+"""been""","Concord, MA, USA",Lit-traveler
+"""been""","Annapolis, MD, USA",Lit-traveler
+"""been""","Parsippany, NJ, USA",Lit-traveler
+"""been""","Paramus, NJ, USA",Lit-traveler
+"""been""","Minneapolis, MN, USA",Lit-traveler
+"""been""","Saint Louis, MO, USA",Lit-traveler
+"""been""","Ellicott City, MD, USA",Lit-traveler
+"""been""","Portland, OR, USA",Lit-traveler
+"""been""","Goleta, CA, USA",Lit-traveler
+"""been""","Morristown, NJ, USA",Lit-traveler
+"""been""","Kenwood, CA, USA",Lit-traveler
+"""been""","Mill Valley, CA, USA",Lit-traveler
+"""been""","Malibu, CA, USA",Lit-traveler
+"""been""","Courtenay, British Columbia, Canada",Lit-traveler
+"""been""","Aspen, CO, USA",Lit-traveler
+"""been""","Silver Spring, MD, USA",Lit-traveler
+"""been""","Chatham, MA, USA",Lit-traveler
+"""been""","Chianciano Terme, Italy",Lit-traveler
+"""been""","Mesquite, NV, USA",Lit-traveler
+"""been""","Steamboat Springs, CO, USA",Lit-traveler
+"""been""","Anacortes, WA, USA",Lit-traveler
+"""been""","Waterton Lakes National Park, Alberta, Canada",Lit-traveler
+"""been""","Marina, CA, USA",Lit-traveler
+"""been""","Sedona, AZ, USA",Lit-traveler
+"""been""","Scottsdale, AZ, USA",Lit-traveler
+"""been""","Salem, OR, USA",Lit-traveler
+"""been""","Detroit, MI, USA",Lit-traveler
+"""been""","Whitefish, MT, USA",Lit-traveler
+"""been""","Reno, NV, USA",Lit-traveler
+"""been""","Funchal, Portugal",Lit-traveler
+"""been""","La Jolla, CA, USA",Lit-traveler
+"""been""","Yountville, CA, USA",Lit-traveler
+"""been""","Pula, Italy",Lit-traveler
+"""been"",""fave""","Tel Aviv, Israel",Lit-traveler
+"""been""","San Simeon, CA, USA",Lit-traveler
+"""been""","Jerusalem, Israel",Lit-traveler
+"""been""","Haifa, Israel",Lit-traveler
+"""been""","San Rafael, CA, USA",Lit-traveler
+"""been""","Snowbird, UT, USA",Lit-traveler
+"""been""","Berkeley, CA, USA",Lit-traveler
+"""been""","Shannon, Ireland",Lit-traveler
+"""been""","Death Valley Junction, CA, USA",Lit-traveler
+"""been""","Bethlehem, PA, USA",Lit-traveler
+"""been""","San Mateo, CA, USA",Lit-traveler
+"""been""","Pullman, WA, USA",Lit-traveler
+"""been""","Adare, Ireland",Lit-traveler
+"""been""","Belmont, CA, USA",Lit-traveler
+"""been""","Staunton, VA, USA",Lit-traveler
+"""been""","Camden, NJ, USA",Lit-traveler
+"""been""","Long Branch, NJ, USA",Lit-traveler
+"""been""","Cape May, NJ, USA",Lit-traveler
+"""been""","Klamath Falls, OR, USA",Lit-traveler
+"""been""","St. George, UT, USA",Lit-traveler
+"""been""","Santa Cruz, CA, USA",Lit-traveler
+"""been""","Santa Clara, CA, USA",Lit-traveler
+"""been""","Santa Barbara, CA, USA",Lit-traveler
+"""been""","Niagara Falls, Ontario, Canada",Lit-traveler
+"""been""","Gettysburg, PA, USA",Lit-traveler
+"""been""","San Jose, Costa Rica",Lit-traveler
+"""been""","Niagara-on-the-Lake, Ontario, Canada",Lit-traveler
+"""been""","Windsor, CA, USA",Lit-traveler
+"""been""","Beverly Hills, CA, USA",Lit-traveler
+"""been"",""fave""","Philadelphia, PA, USA",Lit-traveler
+"""been""","Winnemucca, NV, USA",Lit-traveler
+"""been""","Hasbrouck Heights, NJ, USA",Lit-traveler
+"""been""","Laconia, NH, USA",Lit-traveler
+"""been""","McMinnville, OR, USA",Lit-traveler
+"""been""","King of Prussia, PA, USA",Lit-traveler
+"""been""","Santa Ynez, CA, USA",Lit-traveler
+"""been""","Cedar City, UT, USA",Lit-traveler
+"""been""","Santa Rosa, CA, USA",Lit-traveler
+"""been""","Tiburon, CA, USA",Lit-traveler
+"""been""","Ventura, CA, USA",Lit-traveler
+"""been""","Santa Monica, CA, USA",Lit-traveler
+"""been""","Santa Maria, CA, USA",Lit-traveler
+"""been""","Boulder City, NV, USA",Lit-traveler
+"""been""","New York City, NY, USA",Lit-traveler
+"""been""","Hawley, PA, USA",Lit-traveler
+"""been""","Clifton, NJ, USA",Lit-traveler
+"""been""","Kennett Square, PA, USA",Lit-traveler
+"""been"",""fave""","Siena, Italy",Lit-traveler
+"""been""","San Gimignano, Italy",Lit-traveler
+"""been""","Sebastopol, CA, USA",Lit-traveler
+"""been""","Seaside, CA, USA",Lit-traveler
+"""been""","Yorktown, VA, USA",Lit-traveler
+"""been""","Atlanta, GA, USA",Lit-traveler
+"""been""","Portland, ME, USA",Lit-traveler
+"""been""","Gubbio, Italy",Lit-traveler
+"""been""","Tracy, CA, USA",Lit-traveler
+"""been""","Bainbridge Island, WA, USA",Lit-traveler
+"""been""","Sausalito, CA, USA",Lit-traveler
+"""been""","Assisi, Italy",Lit-traveler
+"""been""","Bodega Bay, CA, USA",Lit-traveler
+"""been""","Cambridge, MA, USA",Lit-traveler
+"""been""","Arezzo, Italy",Lit-traveler
+"""been""","Richmond, VA, USA",Lit-traveler
+"""been""","Lambertville, NJ, USA",Lit-traveler
+"""been""","Fair Lawn, NJ, USA",Lit-traveler
+"""been""","Newark, NJ, USA",Lit-traveler
+"""been""","Dublin, Ireland",Lit-traveler
+"""been""","South San Francisco, CA, USA",Lit-traveler
+"""been""","Cambria, CA, USA",Lit-traveler
+"""been""","Montpelier, VT, USA",Lit-traveler
+"""been""","Walnut Creek, CA, USA",Lit-traveler
+"""been""","Cork, Ireland",Lit-traveler
+"""been""","Calistoga, CA, USA",Lit-traveler
+"""been""","Asheville, NC, USA",Lit-traveler
+"""been""","New Orleans, LA, USA",Lit-traveler
+"""been""","Custer, SD, USA",Lit-traveler
+"""been""","Charleston, SC, USA",Lit-traveler
+"""been""","Burlington, VT, USA",Lit-traveler
+"""been""","Boston, MA, USA",Lit-traveler
+"""been""","Dun Laoghaire, Ireland",Lit-traveler
+"""been""","Galway, Ireland",Lit-traveler
+"""been""","Skaneateles, NY, USA",Lit-traveler
+"""been""","Cooperstown, NY, USA",Lit-traveler
+"""been""","Canandaigua, NY, USA",Lit-traveler
+"""been""","Honolulu, HI, USA",Lit-traveler
+"""been""","Mont-Saint-Michel, France",Lit-traveler
+"""been""","New Brunswick, NJ, USA",Lit-traveler
+"""been""","Tarrytown, NY, USA",Lit-traveler
+"""been""","Middlebury, VT, USA",Lit-traveler
+"""been""","Grazalema, Spain",Lit-traveler
+"""been""","Bologna, Italy",Lit-traveler
+"""been""","Stinson Beach, CA, USA",Lit-traveler
+"""been""","York, PA, USA",Lit-traveler
+"""been""","Bakersfield, CA, USA",Lit-traveler
+"""been""","Dana Point, CA, USA",Lit-traveler
+"""been""","Daly City, CA, USA",Lit-traveler
+"""been""","Weed, CA, USA",Lit-traveler
+"""been""","Kihei, HI, USA",Lit-traveler
+"""been""","Salinas, CA, USA",Lit-traveler
+"""been""","Idaho Springs, CO, USA",Lit-traveler
+"""been""","Colorado Springs, CO, USA",Lit-traveler
+"""been""","Winnipeg, Manitoba, Canada",Lit-traveler
+"""been""","Wellfleet, MA, USA",Lit-traveler
+"""been""","Lahaina, HI, USA",Lit-traveler
+"""been""","St. Helena, CA, USA",Lit-traveler
+"""been""","Cupertino, CA, USA",Lit-traveler
+"""been""","Makawao, HI, USA",Lit-traveler
+"""been""","Seattle, WA, USA",Lit-traveler
+"""been""","Yellowstone National Park, WY, USA",Lit-traveler
+"""been""","Moscow, ID, USA",Lit-traveler
+"""been""","San Diego, CA, USA",Lit-traveler
+"""been""","Kailua-Kona, HI, USA",Lit-traveler
+"""been""","Hana, HI, USA",Lit-traveler
+"""been""","Cincinnati, OH, USA",Lit-traveler
+"""been""","Kahului, HI, USA",Lit-traveler
+"""been""","Bunratty, Ireland",Lit-traveler
+"""been""","Lecco, Italy",Lit-traveler
+"""been""","Drogheda, Ireland",Lit-traveler
+"""been""","Varenna, Italy",Lit-traveler
+"""been""","Whistler, British Columbia, Canada",Lit-traveler
+"""been""","Bellagio, Italy",Lit-traveler
+"""been""","Limerick, Ireland",Lit-traveler
+"""been""","Westlake Village, CA, USA",Lit-traveler
+"""been""","Bergamo, Italy",Lit-traveler
+"""been""","Capitola, CA, USA",Lit-traveler
+"""been""","West Lafayette, IN, USA",Lit-traveler
+"""been""","Ka'anapali, HI, USA",Lit-traveler
+"""been""","Vancouver, British Columbia, Canada",Lit-traveler
+"""been""","Luray, VA, USA",Lit-traveler
+"""been""","Harpers Ferry, WV, USA",Lit-traveler
+"""been""","Williamsburg, VA, USA",Lit-traveler
+"""been""","San Bruno, CA, USA",Lit-traveler
+"""been""","West Hollywood, CA, USA",Lit-traveler
+"""been""","Wheeling, WV, USA",Lit-traveler
+"""been""","Ho Chi Minh City, Vietnam",Lit-traveler
+"""been""","Davis, CA, USA",Lit-traveler
+"""been""","Victoria, British Columbia, Canada",Lit-traveler
+"""been""","Foz do Iguacu, Brazil",Lit-traveler
+"""been""","Saugus, MA, USA",Lit-traveler
+"""been""","Volcano, HI, USA",Lit-traveler
+"""been""","Shepherdstown, WV, USA",Lit-traveler
+"""been""","Waikoloa, HI, USA",Lit-traveler
+"""been""","Tralee, Ireland",Lit-traveler
+"""been""","San Luis Obispo, CA, USA",Lit-traveler
+"""been""","St. Augustine, FL, USA",Lit-traveler
+"""been""","Killarney, Ireland",Lit-traveler
+"""been""","Sunnyvale, CA, USA",Lit-traveler
+"""been""","Denver, CO, USA",Lit-traveler
+"""been""","Manheim, PA, USA",Lit-traveler
+"""been""","Elverson, PA, USA",Lit-traveler
+"""been"",""fave""","Bangkok, Thailand",Lit-traveler
+"""been""","Houston, TX, USA",Lit-traveler
+"""been""","Carmel, CA, USA",Lit-traveler
+"""been""","San Jose, CA, USA",Lit-traveler
+"""been""","Pigeon Forge, TN, USA",Lit-traveler
+"""been""","Newport, RI, USA",Lit-traveler
+"""been""","Portsmouth, NH, USA",Lit-traveler
+"""been""","Corning, NY, USA",Lit-traveler
+"""been""","Malvern, PA, USA",Lit-traveler
+"""been""","Brigantine, NJ, USA",Lit-traveler
+"""been""","Kalispell, MT, USA",Lit-traveler
+"""been""","Flagstaff, AZ, USA",Lit-traveler
+"""been""","Fort Lee, NJ, USA",Lit-traveler

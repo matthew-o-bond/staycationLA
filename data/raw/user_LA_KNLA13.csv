@@ -1,0 +1,779 @@
+tag,place,user
+"""been""","Sarasota, FL, USA",KNLA13
+"""been""","Frederick, MD, USA",KNLA13
+"""been""","Manhattan Beach, CA, USA",KNLA13
+"""been""","Concord, MA, USA",KNLA13
+"""been""","Reno, NV, USA",KNLA13
+"""been""","Gaithersburg, MD, USA",KNLA13
+"""been""","Salem, OR, USA",KNLA13
+"""been"",""fave""","Sedona, AZ, USA",KNLA13
+"""been""","Graz, Austria",KNLA13
+"""been"",""fave""","Scottsdale, AZ, USA",KNLA13
+"""been""","Amsterdam, The Netherlands",KNLA13
+"""been""","Allentown, PA, USA",KNLA13
+"""been""","Chiriaco Summit, CA, USA",KNLA13
+"""been""","Washougal, WA, USA",KNLA13
+"""been""","Enfield, CT, USA",KNLA13
+"""been""","Annapolis, MD, USA",KNLA13
+"""been""","Zurich, Switzerland",KNLA13
+"""been""","Rungsted, Denmark",KNLA13
+"""been""","Glen Burnie, MD, USA",KNLA13
+"""been""","Fairfield, CT, USA",KNLA13
+"""been""","Spartanburg, SC, USA",KNLA13
+"""been""","Fairfax, VA, USA",KNLA13
+"""been""","Den Bosch, The Netherlands",KNLA13
+"""been""","Fresno, CA, USA",KNLA13
+"""been""","Segovia, Spain",KNLA13
+"""been""","Prescott, AZ, USA",KNLA13
+"""been"",""fave""","Los Angeles, CA, USA",KNLA13
+"""been""","Marseille, France",KNLA13
+"""been"",""fave""","Barcelona, Spain",KNLA13
+"""been""","Mesquite, NV, USA",KNLA13
+"""been""","Saint Louis, MO, USA",KNLA13
+"""been""","Laughlin, NV, USA",KNLA13
+"""been""","Secaucus, NJ, USA",KNLA13
+"""been""","Arlington, VA, USA",KNLA13
+"""been""","Youngstown, OH, USA",KNLA13
+"""been""","Durham, NC, USA",KNLA13
+"""been""","Danbury, CT, USA",KNLA13
+"""been""","Garden Grove, CA, USA",KNLA13
+"""been""","Falls Church, VA, USA",KNLA13
+"""been""","St. Petersburg, FL, USA",KNLA13
+"""been""","St. Pete Beach, FL, USA",KNLA13
+"""been"",""fave""","Toledo, Spain",KNLA13
+"""been""","Minneapolis, MN, USA",KNLA13
+"""been""","North Platte, NE, USA",KNLA13
+"""been""","Silver Spring, MD, USA",KNLA13
+"""been"",""fave""","Portland, OR, USA",KNLA13
+"""been""","Bridgeport, CT, USA",KNLA13
+"""want""","Gothenburg, Sweden",KNLA13
+"""been""","Littlerock, CA, USA",KNLA13
+"""been""","Nice, France",KNLA13
+"""been""","Hamilton Island, Australia",KNLA13
+"""been""","Nijmegen, The Netherlands",KNLA13
+"""been""","Lake Charles, LA, USA",KNLA13
+"""been""","Rockville, MD, USA",KNLA13
+"""been""","Tunis, Tunisia",KNLA13
+"""been""","Lodi, CA, USA",KNLA13
+"""been""","Phoenix, AZ, USA",KNLA13
+"""been"",""fave""","Long Beach, CA, USA",KNLA13
+"""been""","Lompoc, CA, USA",KNLA13
+"""been""","Lone Pine, CA, USA",KNLA13
+"""been""","Waco, TX, USA",KNLA13
+"""been""","Lanai, HI, USA",KNLA13
+"""been""","Alexandria, VA, USA",KNLA13
+"""been""","Palma de Mallorca, Spain",KNLA13
+"""been""","Majorca, Spain",KNLA13
+"""been""","Las Vegas, NV, USA",KNLA13
+"""want""","Athens, Greece",KNLA13
+"""been""","Augusta, GA, USA",KNLA13
+"""been""","Flint, MI, USA",KNLA13
+"""been""","Hanover, MA, USA",KNLA13
+"""been""","Henderson, NV, USA",KNLA13
+"""been""","Incline Village, NV, USA",KNLA13
+"""been""","Pismo Beach, CA, USA",KNLA13
+"""been""","Gijon, Spain",KNLA13
+"""been""","Bilbao, Spain",KNLA13
+"""been""","Foxborough, MA, USA",KNLA13
+"""been""","Framingham, MA, USA",KNLA13
+"""been""","San Sebastian - Donostia, Spain",KNLA13
+"""been""","Augusta, ME, USA",KNLA13
+"""been""","Fall River, MA, USA",KNLA13
+"""been""","Sydney, Australia",KNLA13
+"""been""","Potomac, MD, USA",KNLA13
+"""been""","Falmouth, MA, USA",KNLA13
+"""been""","Paso Robles, CA, USA",KNLA13
+"""want""","Sao Paulo, Brazil",KNLA13
+"""been""","Pearblossom, CA, USA",KNLA13
+"""been""","Uncasville, CT, USA",KNLA13
+"""been""","Seville, Spain",KNLA13
+"""been""","Gloucester, MA, USA",KNLA13
+"""been""","Elko, NV, USA",KNLA13
+"""been""","Paradise Valley, AZ, USA",KNLA13
+"""been""","Elkhart, IN, USA",KNLA13
+"""been""","Oxnard, CA, USA",KNLA13
+"""been""","Dallas, TX, USA",KNLA13
+"""been"",""fave""","Cordoba, Spain",KNLA13
+"""been""","East Walpole, MA, USA",KNLA13
+"""been""","Rowley, MA, USA",KNLA13
+"""been"",""fave""","Stockholm, Sweden",KNLA13
+"""been""","Rockport, MA, USA",KNLA13
+"""been""","Hamilton, Ontario, Canada",KNLA13
+"""been""","Revere, MA, USA",KNLA13
+"""been""","Kittery, ME, USA",KNLA13
+"""been""","Niagara Falls, Ontario, Canada",KNLA13
+"""been""","Kingston, Ontario, Canada",KNLA13
+"""been""","London, Ontario, Canada",KNLA13
+"""been""","Palm Springs, CA, USA",KNLA13
+"""been""","Stamford, CT, USA",KNLA13
+"""been""","Palmdale, CA, USA",KNLA13
+"""been""","Palm Desert, CA, USA",KNLA13
+"""been""","Montauk, NY, USA",KNLA13
+"""been""","Essex, MA, USA",KNLA13
+"""been""","Fairhaven, MA, USA",KNLA13
+"""been""","Palo Alto, CA, USA",KNLA13
+"""been""","Lancaster, CA, USA",KNLA13
+"""been""","London, UK",KNLA13
+"""been""","Malmo, Sweden",KNLA13
+"""been""","Clifden, Ireland",KNLA13
+"""been""","Oceanside, CA, USA",KNLA13
+"""been""","Oakland, CA, USA",KNLA13
+"""been"",""want""","Palermo, Italy",KNLA13
+"""been""","Reading, PA, USA",KNLA13
+"""been""","Dracut, MA, USA",KNLA13
+"""want""","Florence, Italy",KNLA13
+"""want""","Marrakech, Morocco",KNLA13
+"""been""","Devens, MA, USA",KNLA13
+"""want""","Casablanca, Morocco",KNLA13
+"""want""","Istanbul, Turkey",KNLA13
+"""been""","Peabody, MA, USA",KNLA13
+"""been""","Dedham, MA, USA",KNLA13
+"""been""","Pembroke, MA, USA",KNLA13
+"""been""","Halifax, Nova Scotia, Canada",KNLA13
+"""been""","Las Cruces, NM, USA",KNLA13
+"""been""","Ontario, CA, USA",KNLA13
+"""been""","Charlotte, NC, USA",KNLA13
+"""want""","Tokyo, Japan",KNLA13
+"""been""","Reading, MA, USA",KNLA13
+"""been""","Leipzig, Germany",KNLA13
+"""been""","Kennebunkport, ME, USA",KNLA13
+"""been""","Dover, UK",KNLA13
+"""been""","Provincetown, MA, USA",KNLA13
+"""been""","Barrie, Ontario, Canada",KNLA13
+"""been""","Randolph, MA, USA",KNLA13
+"""been""","Plymouth, MA, USA",KNLA13
+"""been""","Carthage, MS, USA",KNLA13
+"""been"",""fave""","Dingle, Ireland",KNLA13
+"""been""","Brantford, Ontario, Canada",KNLA13
+"""been""","Cascade Locks, OR, USA",KNLA13
+"""been""","Columbus, OH, USA",KNLA13
+"""been""","Victoria, British Columbia, Canada",KNLA13
+"""been""","Whistler, British Columbia, Canada",KNLA13
+"""been""","Venice, Italy",KNLA13
+"""been""","Treviso, Italy",KNLA13
+"""been""","Northampton, MA, USA",KNLA13
+"""been""","Chelsea, MA, USA",KNLA13
+"""want""","Taipei, Taiwan",KNLA13
+"""been""","Winnipeg, Manitoba, Canada",KNLA13
+"""been""","Norwood, MA, USA",KNLA13
+"""been""","Chicopee, MA, USA",KNLA13
+"""been""","Brandon, Manitoba, Canada",KNLA13
+"""been""","Oklahoma City, OK, USA",KNLA13
+"""been""","Fredericton, New Brunswick, Canada",KNLA13
+"""been""","Southeastern, PA, USA",KNLA13
+"""been""","Park City, UT, USA",KNLA13
+"""been""","Cohasset, MA, USA",KNLA13
+"""been""","Shreveport, LA, USA",KNLA13
+"""been""","Saint John, New Brunswick, Canada",KNLA13
+"""been""","Port Huron, MI, USA",KNLA13
+"""been""","Danvers, MA, USA",KNLA13
+"""been""","North Conway, NH, USA",KNLA13
+"""been""","West Chester, PA, USA",KNLA13
+"""been""","Cleveland, OH, USA",KNLA13
+"""been""","Teotitlan del Valle, Mexico",KNLA13
+"""been""","Rimouski, Quebec, Canada",KNLA13
+"""been""","Turin, Italy",KNLA13
+"""been""","Kokomo, IN, USA",KNLA13
+"""been""","Milan, Italy",KNLA13
+"""been""","Kelowna, British Columbia, Canada",KNLA13
+"""been""","Kamloops, British Columbia, Canada",KNLA13
+"""been""","Raleigh, NC, USA",KNLA13
+"""been""","Peekskill, NY, USA",KNLA13
+"""been""","Bay Shore, NY, USA",KNLA13
+"""been""","Bayside, NY, USA",KNLA13
+"""been""","Mount Carmel, UT, USA",KNLA13
+"""want""","Ho Chi Minh City, Vietnam",KNLA13
+"""been""","Monument Valley, UT, USA",KNLA13
+"""want""","Hanoi, Vietnam",KNLA13
+"""been""","Dunbar, WV, USA",KNLA13
+"""want""","New Delhi, India",KNLA13
+"""been"",""fave""","Vancouver, British Columbia, Canada",KNLA13
+"""want""","Mumbai, India",KNLA13
+"""been""","Letterkenny, Ireland",KNLA13
+"""want""","Kuala Lumpur, Malaysia",KNLA13
+"""been""","Erie, PA, USA",KNLA13
+"""been""","Indianapolis, IN, USA",KNLA13
+"""been""","Limerick, Ireland",KNLA13
+"""been"",""fave""","Washington DC, DC, USA",KNLA13
+"""been""","Bushmills, UK",KNLA13
+"""been""","Simi Valley, CA, USA",KNLA13
+"""been""","Kilkenny, Ireland",KNLA13
+"""been""","Wilmington, MA, USA",KNLA13
+"""been""","Newbury, MA, USA",KNLA13
+"""been""","Calais, France",KNLA13
+"""been""","Woburn, MA, USA",KNLA13
+"""been""","Newton, MA, USA",KNLA13
+"""been""","Nashua, NH, USA",KNLA13
+"""been""","Winston Salem, NC, USA",KNLA13
+"""want""","Kyoto, Japan",KNLA13
+"""been""","Killarney, Ireland",KNLA13
+"""want""","Osaka, Japan",KNLA13
+"""been""","Tralee, Ireland",KNLA13
+"""been""","Wrentham, MA, USA",KNLA13
+"""been"",""fave""","Dublin, Ireland",KNLA13
+"""been""","Galway, Ireland",KNLA13
+"""been""","Camas, WA, USA",KNLA13
+"""been""","Worcester, MA, USA",KNLA13
+"""been""","North Billerica, MA, USA",KNLA13
+"""been""","Big Sur, CA, USA",KNLA13
+"""been""","Puerto Morelos, Mexico",KNLA13
+"""been""","Cork, Ireland",KNLA13
+"""been""","West Yarmouth, MA, USA",KNLA13
+"""been""","Roanoke, VA, USA",KNLA13
+"""been""","Manchester, NH, USA",KNLA13
+"""been""","Schenectady, NY, USA",KNLA13
+"""been""","Scarsdale, NY, USA",KNLA13
+"""been""","Medford, OR, USA",KNLA13
+"""been""","Astoria, NY, USA",KNLA13
+"""been""","Cheyenne, WY, USA",KNLA13
+"""been""","Hershey, PA, USA",KNLA13
+"""been""","Kanab, UT, USA",KNLA13
+"""been""","Weymouth, MA, USA",KNLA13
+"""been""","Daytona Beach, FL, USA",KNLA13
+"""been""","Whitman, MA, USA",KNLA13
+"""been""","Playa Mujeres, Mexico",KNLA13
+"""been""","Clifton, NJ, USA",KNLA13
+"""been""","Suzhou, China",KNLA13
+"""been""","Wuxi, China",KNLA13
+"""been""","Waialua, HI, USA",KNLA13
+"""been""","Santa Maria, CA, USA",KNLA13
+"""been""","Clearwater, FL, USA",KNLA13
+"""been""","Santa Monica, CA, USA",KNLA13
+"""been""","Waterloo, IA, USA",KNLA13
+"""been""","Santa Rosa, CA, USA",KNLA13
+"""been""","Cocoa Beach, FL, USA",KNLA13
+"""been""","Atlanta, GA, USA",KNLA13
+"""been""","Woodstock, VT, USA",KNLA13
+"""been""","Kaneohe, HI, USA",KNLA13
+"""been""","Kailua, HI, USA",KNLA13
+"""been""","Taos, NM, USA",KNLA13
+"""been""","Richmond, VA, USA",KNLA13
+"""been""","Keene, NH, USA",KNLA13
+"""been""","Sausalito, CA, USA",KNLA13
+"""been""","Louisville, KY, USA",KNLA13
+"""been""","Portland, ME, USA",KNLA13
+"""been""","West Springfield, MA, USA",KNLA13
+"""been""","Camden, NJ, USA",KNLA13
+"""been""","Chengdu, China",KNLA13
+"""been""","Kaaawa, HI, USA",KNLA13
+"""been""","Dieppe, France",KNLA13
+"""been""","Pine Valley, UT, USA",KNLA13
+"""been""","Springfield, IL, USA",KNLA13
+"""been""","Omaha, NE, USA",KNLA13
+"""want""","Seoul, South Korea",KNLA13
+"""want""","Anchorage, AK, USA",KNLA13
+"""been""","Cambridge, MA, USA",KNLA13
+"""been""","Lake City, FL, USA",KNLA13
+"""been""","Utica, NY, USA",KNLA13
+"""been""","Cathedral City, CA, USA",KNLA13
+"""been""","Elmhurst, NY, USA",KNLA13
+"""been""","Mahwah, NJ, USA",KNLA13
+"""been"",""fave""","Paia, HI, USA",KNLA13
+"""been"",""fave""","Seattle, WA, USA",KNLA13
+"""been""","San Simeon, CA, USA",KNLA13
+"""been""","Lahaina, HI, USA",KNLA13
+"""been""","Rye Brook, NY, USA",KNLA13
+"""been""","Kihei, HI, USA",KNLA13
+"""been""","Chappaqua, NY, USA",KNLA13
+"""been"",""fave""","Kailua-Kona, HI, USA",KNLA13
+"""been""","Elmsford, NY, USA",KNLA13
+"""been""","Twentynine Palms, CA, USA",KNLA13
+"""been""","Central Islip, NY, USA",KNLA13
+"""been""","Santa Cruz, CA, USA",KNLA13
+"""been""","Santa Clara, CA, USA",KNLA13
+"""been""","Santa Clarita, CA, USA",KNLA13
+"""been"",""fave""","Santa Barbara, CA, USA",KNLA13
+"""been""","Santa Ana, CA, USA",KNLA13
+"""been""","Lanai City, HI, USA",KNLA13
+"""want""","Nassau, Bahamas",KNLA13
+"""been""","San Bernardino, CA, USA",KNLA13
+"""been""","New Orleans, LA, USA",KNLA13
+"""been""","Rochester, NY, USA",KNLA13
+"""been""","Saskatoon, Saskatchewan, Canada",KNLA13
+"""been""","Regina, Saskatchewan, Canada",KNLA13
+"""been""","Moose Jaw, Saskatchewan, Canada",KNLA13
+"""been""","Westlake Village, CA, USA",KNLA13
+"""been""","Williamsburg, VA, USA",KNLA13
+"""been""","San Clemente, CA, USA",KNLA13
+"""been""","West Hollywood, CA, USA",KNLA13
+"""been""","Wheeling, WV, USA",KNLA13
+"""been""","Madison, WI, USA",KNLA13
+"""been""","Carlsbad, CA, USA",KNLA13
+"""been""","Carmel, CA, USA",KNLA13
+"""been""","Hood River, OR, USA",KNLA13
+"""been""","San Luis Obispo, CA, USA",KNLA13
+"""been""","St. Augustine, FL, USA",KNLA13
+"""been""","San Juan Capistrano, CA, USA",KNLA13
+"""been""","San Jose, CA, USA",KNLA13
+"""been""","Kissimmee, FL, USA",KNLA13
+"""been""","Oaxaca, Mexico",KNLA13
+"""been""","Waikoloa, HI, USA",KNLA13
+"""been"",""fave""","Mexico City, Mexico",KNLA13
+"""been""","Greensboro, NC, USA",KNLA13
+"""been"",""fave""","Chichen Itza, Mexico",KNLA13
+"""been""","Cancun, Mexico",KNLA13
+"""been""","Tarrytown, NY, USA",KNLA13
+"""been""","East Hampton, NY, USA",KNLA13
+"""been""","Charleston, SC, USA",KNLA13
+"""been""","St. Petersburg, Russia",KNLA13
+"""been""","East Elmhurst, NY, USA",KNLA13
+"""been""","Walnut Creek, CA, USA",KNLA13
+"""been""","Tacoma, WA, USA",KNLA13
+"""been""","Camarillo, CA, USA",KNLA13
+"""been""","Visalia, CA, USA",KNLA13
+"""been""","Burlington, VT, USA",KNLA13
+"""been"",""fave""","Playa del Carmen, Mexico",KNLA13
+"""been""","Isla Mujeres, Mexico",KNLA13
+"""been""","Page, AZ, USA",KNLA13
+"""been""","Spokane, WA, USA",KNLA13
+"""been""","Tulum, Mexico",KNLA13
+"""been""","Des Moines, IA, USA",KNLA13
+"""been""","Rutherford, NJ, USA",KNLA13
+"""been""","Shenzhen, China",KNLA13
+"""been""","Revelstoke, British Columbia, Canada",KNLA13
+"""been""","Shawinigan, Quebec, Canada",KNLA13
+"""been""","Sherbrooke, Quebec, Canada",KNLA13
+"""been""","Montreal, Quebec, Canada",KNLA13
+"""been""","Quebec City, Quebec, Canada",KNLA13
+"""been""","Salinas, CA, USA",KNLA13
+"""been""","Trois-Rivieres, Quebec, Canada",KNLA13
+"""been"",""fave""","Brooklyn, NY, USA",KNLA13
+"""want""","Fairbanks, AK, USA",KNLA13
+"""been""","Stowe, VT, USA",KNLA13
+"""been""","Fredericksburg, VA, USA",KNLA13
+"""been""","Strasbourg, France",KNLA13
+"""been""","Brookline, MA, USA",KNLA13
+"""been""","Escondido, CA, USA",KNLA13
+"""been""","Bordeaux, France",KNLA13
+"""been""","Capitol Reef National Park, UT, USA",KNLA13
+"""been""","Lincoln, NE, USA",KNLA13
+"""been""","Tallinn, Estonia",KNLA13
+"""been""","Princeton, NJ, USA",KNLA13
+"""been""","Hoboken, NJ, USA",KNLA13
+"""want""","Oslo, Norway",KNLA13
+"""been""","Marble Canyon, AZ, USA",KNLA13
+"""been""","Panama City Beach, FL, USA",KNLA13
+"""been""","Burbank, CA, USA",KNLA13
+"""been""","Panama City, FL, USA",KNLA13
+"""been""","Ketchikan, AK, USA",KNLA13
+"""been""","Oshawa, Ontario, Canada",KNLA13
+"""been""","Grand Junction, CO, USA",KNLA13
+"""been""","Ottawa, Ontario, Canada",KNLA13
+"""been""","Nashville, TN, USA",KNLA13
+"""been""","Rome, NY, USA",KNLA13
+"""been""","Savannah, GA, USA",KNLA13
+"""been""","Lugo, Spain",KNLA13
+"""been""","Fallbrook, CA, USA",KNLA13
+"""been""","Baltimore, MD, USA",KNLA13
+"""been""","Syracuse, NY, USA",KNLA13
+"""been""","Jersey City, NJ, USA",KNLA13
+"""want""","Montevideo, Uruguay",KNLA13
+"""been""","Dundalk, Ireland",KNLA13
+"""been""","Yarmouth, Nova Scotia, Canada",KNLA13
+"""been""","Mesa, AZ, USA",KNLA13
+"""been""","Sarnia, Ontario, Canada",KNLA13
+"""want""","Lima, Peru",KNLA13
+"""want""","Gdansk, Poland",KNLA13
+"""been""","Calabasas, CA, USA",KNLA13
+"""been""","Timmins, Ontario, Canada",KNLA13
+"""been"",""fave""","Prahran, Australia",KNLA13
+"""been""","Cabazon, CA, USA",KNLA13
+"""been"",""fave""","Toronto, Ontario, Canada",KNLA13
+"""been""","Thunder Bay, Ontario, Canada",KNLA13
+"""been""","Austin, TX, USA",KNLA13
+"""been""","Pensacola, FL, USA",KNLA13
+"""been""","Hawaii Volcanoes National Park, HI, USA",KNLA13
+"""been""","Jacksonville, FL, USA",KNLA13
+"""been""","Great Smoky Mountains National Park, TN, USA",KNLA13
+"""been""","Orlando, FL, USA",KNLA13
+"""been""","La Jolla, CA, USA",KNLA13
+"""been""","Yonkers, NY, USA",KNLA13
+"""been""","Chimayo, NM, USA",KNLA13
+"""been""","Ocean City, MD, USA",KNLA13
+"""been""","Detroit, MI, USA",KNLA13
+"""been""","SeaTac, WA, USA",KNLA13
+"""been""","Amarillo, TX, USA",KNLA13
+"""been""","Jerome, AZ, USA",KNLA13
+"""been""","Vail, CO, USA",KNLA13
+"""been""","La Quinta, CA, USA",KNLA13
+"""been""","Tyler, TX, USA",KNLA13
+"""been""","North Myrtle Beach, SC, USA",KNLA13
+"""been""","Vienna, Austria",KNLA13
+"""been""","Myrtle Beach, SC, USA",KNLA13
+"""been""","Tiverton, RI, USA",KNLA13
+"""been""","Lansing, MI, USA",KNLA13
+"""been""","Laguna Beach, CA, USA",KNLA13
+"""been""","Laguna Hills, CA, USA",KNLA13
+"""been""","Bondi Junction, Australia",KNLA13
+"""been"",""fave""","Grand Canyon National Park, AZ, USA",KNLA13
+"""been""","Dorval, Quebec, Canada",KNLA13
+"""been""","Brossard, Quebec, Canada",KNLA13
+"""been""","Drummondville, Quebec, Canada",KNLA13
+"""been"",""fave""","South Yarra, Australia",KNLA13
+"""been""","Warwick, RI, USA",KNLA13
+"""been""","Lake Elsinore, CA, USA",KNLA13
+"""been""","Lake Arrowhead, CA, USA",KNLA13
+"""been""","Emeryville, CA, USA",KNLA13
+"""been""","Juneau, AK, USA",KNLA13
+"""been""","Lake Havasu City, AZ, USA",KNLA13
+"""been""","King City, CA, USA",KNLA13
+"""been""","Charleston, WV, USA",KNLA13
+"""been""","Saarbrucken, Germany",KNLA13
+"""been""","Dresden, Germany",KNLA13
+"""been""","Pontevedra, Spain",KNLA13
+"""been""","Paterson, NJ, USA",KNLA13
+"""been""","Kansas City, MO, USA",KNLA13
+"""been""","Paramus, NJ, USA",KNLA13
+"""been""","Glendale, AZ, USA",KNLA13
+"""been""","Southampton, UK",KNLA13
+"""been""","Versailles, France",KNLA13
+"""been"",""fave""","Paris, France",KNLA13
+"""been""","Great Neck, NY, USA",KNLA13
+"""been""","Bratislava, Slovakia",KNLA13
+"""been""","El Centro, CA, USA",KNLA13
+"""been""","Mexicali, Mexico",KNLA13
+"""been"",""fave""","Chicago, IL, USA",KNLA13
+"""been""","Dortmund, Germany",KNLA13
+"""been""","Essen, Germany",KNLA13
+"""been""","Cottonwood, AZ, USA",KNLA13
+"""been""","Reims, France",KNLA13
+"""been""","Bondi, Australia",KNLA13
+"""been""","Canton, MA, USA",KNLA13
+"""been""","Bethesda, MD, USA",KNLA13
+"""want""","Santiago, Chile",KNLA13
+"""been""","Norwalk, CT, USA",KNLA13
+"""been""","Glendale, UT, USA",KNLA13
+"""been""","Newport Beach, CA, USA",KNLA13
+"""been""","Toledo, OH, USA",KNLA13
+"""been"",""fave""","Copenhagen, Denmark",KNLA13
+"""been""","Brighton, UK",KNLA13
+"""been""","Rostock, Germany",KNLA13
+"""been""","Joshua Tree, CA, USA",KNLA13
+"""been""","Old Greenwich, CT, USA",KNLA13
+"""been""","Warnemunde, Germany",KNLA13
+"""been""","Biloxi, MS, USA",KNLA13
+"""been""","Chatham, MA, USA",KNLA13
+"""been""","Puerto Escondido, Mexico",KNLA13
+"""been""","Bowie, MD, USA",KNLA13
+"""been""","Prague, Czech Republic",KNLA13
+"""been""","West Palm Beach, FL, USA",KNLA13
+"""been""","Birmingham, AL, USA",KNLA13
+"""been""","Moosic, PA, USA",KNLA13
+"""been""","Kapalua, HI, USA",KNLA13
+"""been""","Sacramento, CA, USA",KNLA13
+"""been""","Huntington Beach, CA, USA",KNLA13
+"""been""","Mystic, CT, USA",KNLA13
+"""been""","Boxborough, MA, USA",KNLA13
+"""been""","New Haven, CT, USA",KNLA13
+"""been""","Napa, CA, USA",KNLA13
+"""been""","Indio, CA, USA",KNLA13
+"""been"",""want""","Bruges, Belgium",KNLA13
+"""been""","Inglewood, CA, USA",KNLA13
+"""been""","Indian Wells, CA, USA",KNLA13
+"""been""","Pittsburgh, PA, USA",KNLA13
+"""been""","Brockton, MA, USA",KNLA13
+"""been""","Rennes, France",KNLA13
+"""been""","Braunschweig, Germany",KNLA13
+"""been""","Harrisonburg, VA, USA",KNLA13
+"""been""","Burlington, MA, USA",KNLA13
+"""been""","Bridgewater, MA, USA",KNLA13
+"""been""","Brewster, MA, USA",KNLA13
+"""been""","Irvine, CA, USA",KNLA13
+"""been""","Monterey, CA, USA",KNLA13
+"""been""","Wickenburg, AZ, USA",KNLA13
+"""been""","Williams, AZ, USA",KNLA13
+"""been""","Riverside, CA, USA",KNLA13
+"""want""","Mykonos Town, Greece",KNLA13
+"""been""","Bryce, UT, USA",KNLA13
+"""been"",""fave""","Derry, UK",KNLA13
+"""been""","Hamburg, Germany",KNLA13
+"""been""","Fort Worth, TX, USA",KNLA13
+"""been""","Avalon, CA, USA",KNLA13
+"""been""","Frankfurt, Germany",KNLA13
+"""want""","San Jose, Costa Rica",KNLA13
+"""been""","Milton, MA, USA",KNLA13
+"""been""","Long Island City, NY, USA",KNLA13
+"""been""","Morro Bay, CA, USA",KNLA13
+"""been""","Yuma, AZ, USA",KNLA13
+"""been"",""fave""","Belfast, UK",KNLA13
+"""been""","Rosemead, CA, USA",KNLA13
+"""been"",""fave""","Berlin, Germany",KNLA13
+"""been""","Beverly, MA, USA",KNLA13
+"""been""","Rio de Janeiro, Brazil",KNLA13
+"""been""","Bellingham, MA, USA",KNLA13
+"""been""","Greenville, NC, USA",KNLA13
+"""been""","Wichita, KS, USA",KNLA13
+"""been""","Weehawken, NJ, USA",KNLA13
+"""been""","Hartford, CT, USA",KNLA13
+"""been""","Albany, NY, USA",KNLA13
+"""been""","Redlands, CA, USA",KNLA13
+"""been""","Rome, Italy",KNLA13
+"""been""","Redondo Beach, CA, USA",KNLA13
+"""been""","Redding, CA, USA",KNLA13
+"""been""","Medfield, MA, USA",KNLA13
+"""been""","Medway, MA, USA",KNLA13
+"""been""","Brussels, Belgium",KNLA13
+"""been""","Marshfield, MA, USA",KNLA13
+"""been""","Hammond, IN, USA",KNLA13
+"""been""","Iowa City, IA, USA",KNLA13
+"""been""","Modesto, CA, USA",KNLA13
+"""been""","The Hague, The Netherlands",KNLA13
+"""been""","Rotterdam, The Netherlands",KNLA13
+"""been""","Antwerp, Belgium",KNLA13
+"""been""","Tulsa, OK, USA",KNLA13
+"""been""","Harrisburg, PA, USA",KNLA13
+"""been""","Wellesley, MA, USA",KNLA13
+"""been""","Lynn, MA, USA",KNLA13
+"""been""","Levittown, NY, USA",KNLA13
+"""been""","Watertown, MA, USA",KNLA13
+"""been""","Valencia, Spain",KNLA13
+"""been""","Lexington, MA, USA",KNLA13
+"""been""","Rancho Mirage, CA, USA",KNLA13
+"""been""","Marlborough, MA, USA",KNLA13
+"""been""","Anderson, IN, USA",KNLA13
+"""been""","Lexington, KY, USA",KNLA13
+"""been""","Huntington, WV, USA",KNLA13
+"""been""","West Bridgewater, MA, USA",KNLA13
+"""been""","Manchester-by-the-Sea, MA, USA",KNLA13
+"""been""","Springfield, MO, USA",KNLA13
+"""been""","Mansfield, MA, USA",KNLA13
+"""been""","Lynnfield, MA, USA",KNLA13
+"""been""","Wenham, MA, USA",KNLA13
+"""been""","Jackson, MS, USA",KNLA13
+"""been""","West Boxford, MA, USA",KNLA13
+"""been""","Ballymena, UK",KNLA13
+"""been""","Village of Oak Creek, AZ, USA",KNLA13
+"""been""","Niagara Falls, NY, USA",KNLA13
+"""been""","Chattanooga, TN, USA",KNLA13
+"""been""","St Kilda, Australia",KNLA13
+"""been""","Helsinki, Finland",KNLA13
+"""been""","Port Hueneme, CA, USA",KNLA13
+"""been"",""fave""","Madrid, Spain",KNLA13
+"""want""","Queenstown, New Zealand",KNLA13
+"""been""","Hyannis, MA, USA",KNLA13
+"""been""","Gulfport, MS, USA",KNLA13
+"""been""","Topsfield, MA, USA",KNLA13
+"""been""","Santiago de Compostela, Spain",KNLA13
+"""been""","La Coruna, Spain",KNLA13
+"""been""","Hull, MA, USA",KNLA13
+"""been""","Vigo, Spain",KNLA13
+"""been""","Dunmore, PA, USA",KNLA13
+"""want""","Wellington, New Zealand",KNLA13
+"""been""","Roswell, NM, USA",KNLA13
+"""want""","Christchurch, New Zealand",KNLA13
+"""been""","Waltham, MA, USA",KNLA13
+"""been""","Old Town, ME, USA",KNLA13
+"""been""","Old Orchard Beach, ME, USA",KNLA13
+"""been""","Ogunquit, ME, USA",KNLA13
+"""been""","Lawrence, MA, USA",KNLA13
+"""been""","Walpole, MA, USA",KNLA13
+"""been""","Upton, MA, USA",KNLA13
+"""been""","Lenox, MA, USA",KNLA13
+"""want""","Auckland Central, New Zealand",KNLA13
+"""been"",""fave""","Nantucket, MA, USA",KNLA13
+"""been""","Ayer, MA, USA",KNLA13
+"""been""","New Rochelle, NY, USA",KNLA13
+"""been"",""fave""","Melbourne, Australia",KNLA13
+"""been""","Fort Wayne, IN, USA",KNLA13
+"""been""","Harvard, MA, USA",KNLA13
+"""been""","Boca Raton, FL, USA",KNLA13
+"""been""","Arlington, MA, USA",KNLA13
+"""been""","Andover, MA, USA",KNLA13
+"""been""","Atlantic City, NJ, USA",KNLA13
+"""been""","Macau, China",KNLA13
+"""been""","Sligo, Ireland",KNLA13
+"""been""","Sturbridge, MA, USA",KNLA13
+"""been""","Westport, Ireland",KNLA13
+"""been""","Stoneham, MA, USA",KNLA13
+"""been""","Boothbay Harbor, ME, USA",KNLA13
+"""been""","Stoughton, MA, USA",KNLA13
+"""been""","Sunset Beach, HI, USA",KNLA13
+"""been""","Ka'anapali, HI, USA",KNLA13
+"""been""","Hopkinton, MA, USA",KNLA13
+"""been""","Swampscott, MA, USA",KNLA13
+"""been"",""fave""","Huatulco, Mexico",KNLA13
+"""been""","Hilo, HI, USA",KNLA13
+"""been""","Terre Haute, IN, USA",KNLA13
+"""been""","Tipton, IN, USA",KNLA13
+"""been"",""fave""","Banff, Alberta, Canada",KNLA13
+"""been""","Virginia Beach, VA, USA",KNLA13
+"""been""","Lancaster, PA, USA",KNLA13
+"""been""","Eugene, OR, USA",KNLA13
+"""been""","Calgary, Alberta, Canada",KNLA13
+"""been""","Lake Louise, Alberta, Canada",KNLA13
+"""been""","Edmonton, Alberta, Canada",KNLA13
+"""been""","Mobile, AL, USA",KNLA13
+"""been""","Surrey, British Columbia, Canada",KNLA13
+"""been""","Bangor, ME, USA",KNLA13
+"""been""","Medicine Hat, Alberta, Canada",KNLA13
+"""been""","Staten Island, NY, USA",KNLA13
+"""been""","Poughkeepsie, NY, USA",KNLA13
+"""been""","Sioux City, IA, USA",KNLA13
+"""been""","Hialeah, FL, USA",KNLA13
+"""been""","Salisbury, MA, USA",KNLA13
+"""been""","Council Bluffs, IA, USA",KNLA13
+"""been""","Sandwich, MA, USA",KNLA13
+"""been""","Truckee, CA, USA",KNLA13
+"""been""","Michigan City, IN, USA",KNLA13
+"""been""","Ensenada, Mexico",KNLA13
+"""been""","Tysons Corner, VA, USA",KNLA13
+"""want""","Caracas, Venezuela",KNLA13
+"""been""","Rehoboth Beach, DE, USA",KNLA13
+"""been""","Rosarito, Mexico",KNLA13
+"""been""","Scituate, MA, USA",KNLA13
+"""been""","Seekonk, MA, USA",KNLA13
+"""been""","Sharon, MA, USA",KNLA13
+"""been""","King of Prussia, PA, USA",KNLA13
+"""been""","Tijuana, Mexico",KNLA13
+"""been""","West Orange, NJ, USA",KNLA13
+"""been""","Bronx, NY, USA",KNLA13
+"""been"",""fave""","Philadelphia, PA, USA",KNLA13
+"""been""","Bologna, Italy",KNLA13
+"""been""","Somerville, MA, USA",KNLA13
+"""been""","Ciudad Juarez, Mexico",KNLA13
+"""been""","Wilmington, DE, USA",KNLA13
+"""been""","Tropic, UT, USA",KNLA13
+"""been""","Morgantown, WV, USA",KNLA13
+"""been""","Hollywood, FL, USA",KNLA13
+"""been""","Hackensack, NJ, USA",KNLA13
+"""been""","Bethlehem, PA, USA",KNLA13
+"""been""","Death Valley Junction, CA, USA",KNLA13
+"""been""","Stateline, NV, USA",KNLA13
+"""been""","Port Chester, NY, USA",KNLA13
+"""been""","South Bend, IN, USA",KNLA13
+"""been""","Blythe, CA, USA",KNLA13
+"""been""","Virginia City, NV, USA",KNLA13
+"""want""","San Juan, Puerto Rico",KNLA13
+"""been""","Tracy, CA, USA",KNLA13
+"""been""","Torrance, CA, USA",KNLA13
+"""been""","Memphis, TN, USA",KNLA13
+"""been""","Borrego Springs, CA, USA",KNLA13
+"""been""","Everett, WA, USA",KNLA13
+"""want""","Bogota, Colombia",KNLA13
+"""been""","Ventura, CA, USA",KNLA13
+"""been""","St. George, UT, USA",KNLA13
+"""been""","El Paso, TX, USA",KNLA13
+"""been""","Little Rock, AR, USA",KNLA13
+"""been""","Cedar City, UT, USA",KNLA13
+"""been"",""fave""","Lawrence, KS, USA",KNLA13
+"""been""","New York City, NY, USA",KNLA13
+"""been""","Carlsbad, NM, USA",KNLA13
+"""been""","White Plains, NY, USA",KNLA13
+"""been""","Berkeley, CA, USA",KNLA13
+"""been""","Tahoe City, CA, USA",KNLA13
+"""been""","Durango, CO, USA",KNLA13
+"""been""","Gainesville, FL, USA",KNLA13
+"""been""","Cincinnati, OH, USA",KNLA13
+"""been"",""fave""","San Diego, CA, USA",KNLA13
+"""been""","Beverly Hills, CA, USA",KNLA13
+"""been""","Charlottesville, VA, USA",KNLA13
+"""been""","Temecula, CA, USA",KNLA13
+"""been""","Porto, Portugal",KNLA13
+"""been""","Garden City, NY, USA",KNLA13
+"""been""","Grand Island, NE, USA",KNLA13
+"""been""","Topeka, KS, USA",KNLA13
+"""been""","Laramie, WY, USA",KNLA13
+"""been"",""fave""","Boston, MA, USA",KNLA13
+"""been""","Kansas City, KS, USA",KNLA13
+"""been""","Fort Lee, NJ, USA",KNLA13
+"""want""","Budapest, Hungary",KNLA13
+"""been""","Asheville, NC, USA",KNLA13
+"""been""","Woonsocket, RI, USA",KNLA13
+"""been""","Honolulu, HI, USA",KNLA13
+"""been""","Chandler, AZ, USA",KNLA13
+"""been""","North Bergen, NJ, USA",KNLA13
+"""been""","Naples, FL, USA",KNLA13
+"""been""","Provo, UT, USA",KNLA13
+"""been""","Del Mar, CA, USA",KNLA13
+"""been""","Davis, CA, USA",KNLA13
+"""been""","Stockton, CA, USA",KNLA13
+"""been""","Beaumont, TX, USA",KNLA13
+"""been"",""fave""","Newport, RI, USA",KNLA13
+"""been""","Fort Lauderdale, FL, USA",KNLA13
+"""want""","Panama City, Panama",KNLA13
+"""been""","Buffalo, NY, USA",KNLA13
+"""been""","Flagstaff, AZ, USA",KNLA13
+"""been""","Ocean City, NJ, USA",KNLA13
+"""been""","Desert Center, CA, USA",KNLA13
+"""been""","Desert Hot Springs, CA, USA",KNLA13
+"""been""","Cedar Rapids, IA, USA",KNLA13
+"""been""","Portsmouth, NH, USA",KNLA13
+"""been""","Anaheim, CA, USA",KNLA13
+"""been""","Houston, TX, USA",KNLA13
+"""been""","Denver, CO, USA",KNLA13
+"""been""","Bristol, RI, USA",KNLA13
+"""been""","Fort Myers Beach, FL, USA",KNLA13
+"""been""","Fort Myers, FL, USA",KNLA13
+"""been""","Knoxville, TN, USA",KNLA13
+"""been""","Scranton, PA, USA",KNLA13
+"""been""","Irun, Spain",KNLA13
+"""been""","Sonoma, CA, USA",KNLA13
+"""been"",""fave""","Miami Beach, FL, USA",KNLA13
+"""been""","McLean, VA, USA",KNLA13
+"""been""","Springfield, MA, USA",KNLA13
+"""been""","Miami, FL, USA",KNLA13
+"""been""","Sitka, AK, USA",KNLA13
+"""been""","Tampa, FL, USA",KNLA13
+"""been""","New Brunswick, NJ, USA",KNLA13
+"""been""","Lisbon, Portugal",KNLA13
+"""been"",""fave""","Peterhof, Russia",KNLA13
+"""been""","Bisbee, AZ, USA",KNLA13
+"""been""","South Pasadena, CA, USA",KNLA13
+"""been""","Olympia, WA, USA",KNLA13
+"""been""","Thousand Oaks, CA, USA",KNLA13
+"""been"",""fave""","Shanghai, China",KNLA13
+"""been""","Santa Fe, NM, USA",KNLA13
+"""been""","Bern, Switzerland",KNLA13
+"""been""","San Antonio, TX, USA",KNLA13
+"""been""","Wailea, HI, USA",KNLA13
+"""been"",""fave""","San Francisco, CA, USA",KNLA13
+"""been""","South San Francisco, CA, USA",KNLA13
+"""been""","Geneva, Switzerland",KNLA13
+"""been""","Salem, MA, USA",KNLA13
+"""want""","Singapore, Singapore",KNLA13
+"""been""","Quincy, MA, USA",KNLA13
+"""been""","Tucson, AZ, USA",KNLA13
+"""been""","Newark, NJ, USA",KNLA13
+"""want""","Adelaide, Australia",KNLA13
+"""been""","Bakersfield, CA, USA",KNLA13
+"""been""","Dana Point, CA, USA",KNLA13
+"""been""","Cave Creek, AZ, USA",KNLA13
+"""been""","Colorado Springs, CO, USA",KNLA13
+"""been""","York, PA, USA",KNLA13
+"""been""","Providence, RI, USA",KNLA13
+"""been"",""fave""","Beijing, China",KNLA13
+"""want""","Luxor, Egypt",KNLA13
+"""been""","Flushing, NY, USA",KNLA13
+"""been""","Montclair, NJ, USA",KNLA13
+"""been""","Tusayan, AZ, USA",KNLA13
+"""been""","Bar Harbor, ME, USA",KNLA13
+"""been""","Le Havre, France",KNLA13
+"""been""","Greenville, SC, USA",KNLA13
+"""been""","Albuquerque, NM, USA",KNLA13
+"""been""","Corona, CA, USA",KNLA13
+"""been""","Elizabeth, NJ, USA",KNLA13
+"""been""","Edison, NJ, USA",KNLA13
+"""want""","Cairo, Egypt",KNLA13
+"""been""","Poznan, Poland",KNLA13
+"""been""","East Rutherford, NJ, USA",KNLA13
+"""been""","Solvang, CA, USA",KNLA13
+"""been""","Tallahassee, FL, USA",KNLA13
+"""been""","Soledad, CA, USA",KNLA13
+"""been"",""fave""","Buenos Aires, Argentina",KNLA13
+"""been""","Salt Lake City, UT, USA",KNLA13
+"""been""","Macon, GA, USA",KNLA13
+"""been""","Teaneck, NJ, USA",KNLA13
+"""been""","Tempe, AZ, USA",KNLA13
+"""been""","Greenwich, CT, USA",KNLA13
+"""been""","Half Moon Bay, CA, USA",KNLA13
+"""been""","New Bedford, MA, USA",KNLA13
+"""been""","Clovis, CA, USA",KNLA13
+"""been"",""fave""","Lake Powell, UT, USA",KNLA13
+"""been""","Jamaica, NY, USA",KNLA13
+"""been""","Trenton, NJ, USA",KNLA13
+"""been"",""want"",""fave""","Hong Kong, China",KNLA13
+"""been""","Ithaca, NY, USA",KNLA13
+"""been""","Roncade, Italy",KNLA13
+"""been""","Tombstone, AZ, USA",KNLA13
+"""been""","Wilkes-Barre, PA, USA",KNLA13
+"""been""","Hanford, CA, USA",KNLA13

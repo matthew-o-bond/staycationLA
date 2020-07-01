@@ -1,0 +1,437 @@
+tag,place,user
+"""want""","Santa Barbara, CA, USA",go4elk
+"""been""","Death Valley Junction, CA, USA",go4elk
+"""want""","Santa Cruz, CA, USA",go4elk
+"""been""","Beverly Hills, CA, USA",go4elk
+"""been""","Memphis, TN, USA",go4elk
+"""want""","West Yellowstone, MT, USA",go4elk
+"""want""","Sapporo, Japan",go4elk
+"""want""","Kyoto, Japan",go4elk
+"""want""","Puerto Morelos, Mexico",go4elk
+"""want""","Oranjestad, Aruba",go4elk
+"""want""","Bologna, Italy",go4elk
+"""want""","Cartagena, Colombia",go4elk
+"""want""","Seven Mile Beach, Cayman Islands",go4elk
+"""want""","Osaka, Japan",go4elk
+"""want""","Monterosso al Mare, Italy",go4elk
+"""been"",""fave""","Atlanta, GA, USA",go4elk
+"""want""","Portland, ME, USA",go4elk
+"""been""","Berkeley, CA, USA",go4elk
+"""want""","Saint Julian's, Malta",go4elk
+"""want""","Galway, Ireland",go4elk
+"""want""","Bogota, Colombia",go4elk
+"""want""","Salta, Argentina",go4elk
+"""want""","Louisville, KY, USA",go4elk
+"""been"",""fave""","Dublin, Ireland",go4elk
+"""been"",""want""","Seoul, South Korea",go4elk
+"""want""","Bodrum City, Turkey",go4elk
+"""been""","Cedar Rapids, IA, USA",go4elk
+"""been""","Denver, CO, USA",go4elk
+"""been""","San Jose, CA, USA",go4elk
+"""been""","Kissimmee, FL, USA",go4elk
+"""want""","Fort Myers, FL, USA",go4elk
+"""want""","Castries, St. Lucia",go4elk
+"""want""","Hershey, PA, USA",go4elk
+"""want""","Puerto Del Carmen, Spain",go4elk
+"""been""","Prairie du Sac, WI, USA",go4elk
+"""want""","Ushuaia, Argentina",go4elk
+"""want""","Gumbet, Turkey",go4elk
+"""want""","Punta del Este, Uruguay",go4elk
+"""want""","Genoa, Italy",go4elk
+"""want""","Kuta, Indonesia",go4elk
+"""want""","Taba, Egypt",go4elk
+"""want""","Fort Lauderdale, FL, USA",go4elk
+"""been""","Saint-Gilles, Belgium",go4elk
+"""want""","Gettysburg, PA, USA",go4elk
+"""been""","Philadelphia, PA, USA",go4elk
+"""been""","Brooklyn Center, MN, USA",go4elk
+"""been""","West Hollywood, CA, USA",go4elk
+"""been""","Fargo, ND, USA",go4elk
+"""want""","Belek, Turkey",go4elk
+"""been""","Oban, UK",go4elk
+"""want""","El Gouna, Egypt",go4elk
+"""been""","Indianapolis, IN, USA",go4elk
+"""been""","Washington DC, DC, USA",go4elk
+"""want""","Odessa, Ukraine",go4elk
+"""want""","Hurghada, Egypt",go4elk
+"""been""","Boston, MA, USA",go4elk
+"""want""","Asheville, NC, USA",go4elk
+"""been""","New Orleans, LA, USA",go4elk
+"""want""","Mar del Plata, Argentina",go4elk
+"""want""","Honolulu, HI, USA",go4elk
+"""want""","Pigeon Forge, TN, USA",go4elk
+"""been""","Bismarck, ND, USA",go4elk
+"""been""","Daytona Beach, FL, USA",go4elk
+"""want""","San Juan, Puerto Rico",go4elk
+"""want""","Protaras, Cyprus",go4elk
+"""been""","San Diego, CA, USA",go4elk
+"""been""","Milan, Italy",go4elk
+"""want""","Dubrovnik, Croatia",go4elk
+"""want""","Sharm El Sheikh, Egypt",go4elk
+"""been""","Maplewood, MN, USA",go4elk
+"""been""","St. Andrews, UK",go4elk
+"""want""","Rehoboth Beach, DE, USA",go4elk
+"""want""","Oludeniz, Turkey",go4elk
+"""been""","Oak Brook, IL, USA",go4elk
+"""been""","Williamsburg, VA, USA",go4elk
+"""want""","St. Petersburg, Russia",go4elk
+"""want""","Minato, Japan",go4elk
+"""been""","Madison, WI, USA",go4elk
+"""been""","Jamestown, ND, USA",go4elk
+"""been""","Farmington, MN, USA",go4elk
+"""want""","Negril, Jamaica",go4elk
+"""been"",""fave""","Edinburgh, UK",go4elk
+"""want""","Buenos Aires, Argentina",go4elk
+"""want""","Caleta de Fuste, Spain",go4elk
+"""want""","Birmingham, UK",go4elk
+"""want""","Turin, Italy",go4elk
+"""want""","Ocho Rios, Jamaica",go4elk
+"""been""","Inverness, UK",go4elk
+"""want""","Helsinki, Finland",go4elk
+"""been""","Wisconsin Dells, WI, USA",go4elk
+"""been""","Omaha, NE, USA",go4elk
+"""want""","Verona, Italy",go4elk
+"""been"",""fave""","Venice, Italy",go4elk
+"""want""","Budapest, Hungary",go4elk
+"""want""","Mont Tremblant, Quebec, Canada",go4elk
+"""want""","Adeje, Spain",go4elk
+"""want""","New York City, NY, USA",go4elk
+"""want""","Playa Blanca, Spain",go4elk
+"""want""","Freeport, Bahamas",go4elk
+"""want""","Santa Eulalia del Rio, Spain",go4elk
+"""want""","Hvar, Croatia",go4elk
+"""want""","Krakow, Poland",go4elk
+"""been""","Richmond, VA, USA",go4elk
+"""been""","Cambridge, MA, USA",go4elk
+"""want""","Cape Town Central, South Africa",go4elk
+"""want""","Singapore, Singapore",go4elk
+"""want""","Branson, MO, USA",go4elk
+"""been"",""fave""","Glasgow, UK",go4elk
+"""been""","Tarragona, Spain",go4elk
+"""want""","Seattle, WA, USA",go4elk
+"""want""","Lahaina, HI, USA",go4elk
+"""want""","Gaziantep, Turkey",go4elk
+"""want""","Montreal, Quebec, Canada",go4elk
+"""been""","Cincinnati, OH, USA",go4elk
+"""been""","Cocoa Beach, FL, USA",go4elk
+"""want""","Sant Antoni de Portmany, Spain",go4elk
+"""want""","Alghero, Italy",go4elk
+"""been""","Santa Monica, CA, USA",go4elk
+"""want""","Clearwater, FL, USA",go4elk
+"""want""","Quebec City, Quebec, Canada",go4elk
+"""want""","Shanghai, China",go4elk
+"""want""","Tulum, Mexico",go4elk
+"""want""","Playa del Carmen, Mexico",go4elk
+"""want""","Nassau, Bahamas",go4elk
+"""want""","Paradise Island, Bahamas",go4elk
+"""want""","Fuengirola, Spain",go4elk
+"""want""","Anchorage, AK, USA",go4elk
+"""been""","Fort William, UK",go4elk
+"""been"",""fave""","Madrid, Spain",go4elk
+"""want""","Abu Dhabi, United Arab Emirates",go4elk
+"""been""","Estes Park, CO, USA",go4elk
+"""been""","Boulder, CO, USA",go4elk
+"""want""","Phnom Penh, Cambodia",go4elk
+"""want""","Playa de las Americas, Spain",go4elk
+"""want""","Paphos, Cyprus",go4elk
+"""want""","Bar Harbor, ME, USA",go4elk
+"""want""","Brooklyn, NY, USA",go4elk
+"""want""","Positano, Italy",go4elk
+"""been""","Duluth, MN, USA",go4elk
+"""want""","Porec, Croatia",go4elk
+"""been""","Saint Louis Park, MN, USA",go4elk
+"""want""","Salou, Spain",go4elk
+"""want""","Funchal, Portugal",go4elk
+"""been""","Saint Cloud, MN, USA",go4elk
+"""want""","Nashville, TN, USA",go4elk
+"""want""","Playa del Ingles, Spain",go4elk
+"""been""","Skokie, IL, USA",go4elk
+"""been""","Laguna Beach, CA, USA",go4elk
+"""want""","Albuquerque, NM, USA",go4elk
+"""want""","Baltimore, MD, USA",go4elk
+"""been""","Eau Claire, WI, USA",go4elk
+"""want""","Puerto Aventuras, Mexico",go4elk
+"""want""","Savannah, GA, USA",go4elk
+"""want""","Winnipeg, Manitoba, Canada",go4elk
+"""been""","Eden Prairie, MN, USA",go4elk
+"""been""","Eagan, MN, USA",go4elk
+"""been""","Hastings, MN, USA",go4elk
+"""want""","Marmaris, Turkey",go4elk
+"""want""","Lisbon, Portugal",go4elk
+"""been""","Orlando, FL, USA",go4elk
+"""been""","La Jolla, CA, USA",go4elk
+"""want""","Gatlinburg, TN, USA",go4elk
+"""been""","Hudson, WI, USA",go4elk
+"""want""","Hanoi, Vietnam",go4elk
+"""want""","Ho Chi Minh City, Vietnam",go4elk
+"""want""","Nabq Bay, Egypt",go4elk
+"""want""","Victoria, British Columbia, Canada",go4elk
+"""want""","Porto, Portugal",go4elk
+"""want""","Vancouver, British Columbia, Canada",go4elk
+"""want""","Whistler, British Columbia, Canada",go4elk
+"""been""","Edina, MN, USA",go4elk
+"""want""","Johannesburg, South Africa",go4elk
+"""been""","San Francisco, CA, USA",go4elk
+"""want""","San Antonio, TX, USA",go4elk
+"""been""","Salem, MA, USA",go4elk
+"""want""","Sedona, AZ, USA",go4elk
+"""been""","Tucson, AZ, USA",go4elk
+"""want""","Puerto Plata, Dominican Republic",go4elk
+"""want""","Rio de Janeiro, Brazil",go4elk
+"""want""","Taipei, Taiwan",go4elk
+"""want""","Charleston, SC, USA",go4elk
+"""been""","Scottsdale, AZ, USA",go4elk
+"""want""","Riccione, Italy",go4elk
+"""want""","Bangkok, Thailand",go4elk
+"""want""","Chiang Mai, Thailand",go4elk
+"""want""","Santa Fe, NM, USA",go4elk
+"""been""","Mankato, MN, USA",go4elk
+"""want""","Cabo San Lucas, Mexico",go4elk
+"""been""","Maple Grove, MN, USA",go4elk
+"""want""","San Jose del Cabo, Mexico",go4elk
+"""want""","Punta Cana, Dominican Republic",go4elk
+"""want""","Sarasota, FL, USA",go4elk
+"""been""","Dana Point, CA, USA",go4elk
+"""want""","Sao Paulo, Brazil",go4elk
+"""want""","Auckland, New Zealand",go4elk
+"""been""","Colorado Springs, CO, USA",go4elk
+"""been""","Keystone, SD, USA",go4elk
+"""been""","Rosemont, IL, USA",go4elk
+"""been""","Minnetonka, MN, USA",go4elk
+"""want""","San Jose, Costa Rica",go4elk
+"""been""","Moorhead, MN, USA",go4elk
+"""want""","Siem Reap, Cambodia",go4elk
+"""want""","Reno, NV, USA",go4elk
+"""been""","Red Wing, MN, USA",go4elk
+"""want""","Moscow, Russia",go4elk
+"""been""","Des Moines, IA, USA",go4elk
+"""want""","Myrtle Beach, SC, USA",go4elk
+"""been""","Morris, MN, USA",go4elk
+"""want""","Port d'Alcudia, Spain",go4elk
+"""been""","Rochester, MN, USA",go4elk
+"""want""","Corralejo, Spain",go4elk
+"""want""","Banff, Alberta, Canada",go4elk
+"""want""","Varadero, Cuba",go4elk
+"""want""","Edmonton, Alberta, Canada",go4elk
+"""want""","Calgary, Alberta, Canada",go4elk
+"""want""","Havana, Cuba",go4elk
+"""been""","Richfield, MN, USA",go4elk
+"""been""","Anaheim, CA, USA",go4elk
+"""want""","San Pedro, Belize",go4elk
+"""want""","Miami Beach, FL, USA",go4elk
+"""want""","Salt Lake City, UT, USA",go4elk
+"""want""","Miami, FL, USA",go4elk
+"""been""","Sonoma, CA, USA",go4elk
+"""want""","Tampa, FL, USA",go4elk
+"""want""","Austin, TX, USA",go4elk
+"""want""","Palmanova, Spain",go4elk
+"""been""","Mazatlan, Mexico",go4elk
+"""been""","Golden Valley, MN, USA",go4elk
+"""want""","Puerto Vallarta, Mexico",go4elk
+"""been""","Roseville, MN, USA",go4elk
+"""been""","Acapulco, Mexico",go4elk
+"""want""","Playa Paraiso, Mexico",go4elk
+"""been""","Rosemount, MN, USA",go4elk
+"""want""","Siena, Italy",go4elk
+"""been""","Panama City Beach, FL, USA",go4elk
+"""been""","Grand Junction, CO, USA",go4elk
+"""want""","Ayia Napa, Cyprus",go4elk
+"""been""","Lakeville, MN, USA",go4elk
+"""want""","Kuala Lumpur, Malaysia",go4elk
+"""been""","New Prague, MN, USA",go4elk
+"""been""","New Ulm, MN, USA",go4elk
+"""been""","Huntington Beach, CA, USA",go4elk
+"""been"",""fave""","Barcelona, Spain",go4elk
+"""been""","Marseille, France",go4elk
+"""want""","Cologne, Germany",go4elk
+"""been""","Woodbury, MN, USA",go4elk
+"""want""","Maspalomas, Spain",go4elk
+"""been""","Versailles, France",go4elk
+"""been"",""fave""","Paris, France",go4elk
+"""want""","Zurich, Switzerland",go4elk
+"""want""","Lyon, France",go4elk
+"""been""","Chamonix, France",go4elk
+"""been""","Amsterdam, The Netherlands",go4elk
+"""been""","Las Vegas, NV, USA",go4elk
+"""been""","Pasadena, CA, USA",go4elk
+"""want""","Monterey, CA, USA",go4elk
+"""want""","Dresden, Germany",go4elk
+"""want""","Portland, OR, USA",go4elk
+"""been""","Montpellier, France",go4elk
+"""want""","Salzburg, Austria",go4elk
+"""want""","Playa d'en Bossa, Spain",go4elk
+"""want""","Costa Adeje, Spain",go4elk
+"""want""","Costa Teguise, Spain",go4elk
+"""been""","Starbuck, MN, USA",go4elk
+"""want""","Canberra, Australia",go4elk
+"""been""","Stillwater, MN, USA",go4elk
+"""want""","Icmeler, Turkey",go4elk
+"""want""","Kathmandu, Nepal",go4elk
+"""been""","Palm Springs, CA, USA",go4elk
+"""want""","Mumbai, India",go4elk
+"""want""","Jaipur, India",go4elk
+"""want""","New Delhi, India",go4elk
+"""been""","Prior Lake, MN, USA",go4elk
+"""been"",""fave""","Minneapolis, MN, USA",go4elk
+"""want""","Biloxi, MS, USA",go4elk
+"""been""","Kansas City, MO, USA",go4elk
+"""been""","Redondo Beach, CA, USA",go4elk
+"""been""","Malibu, CA, USA",go4elk
+"""want""","Amman, Jordan",go4elk
+"""want""","Marne-la-Vallee, France",go4elk
+"""want""","Villasimius, Italy",go4elk
+"""been""","Blaine, MN, USA",go4elk
+"""want""","Crawley, UK",go4elk
+"""want""","Stuttgart, Germany",go4elk
+"""been""","Iowa City, IA, USA",go4elk
+"""been""","Bloomington, MN, USA",go4elk
+"""want""","Wellington, New Zealand",go4elk
+"""want""","Christchurch, New Zealand",go4elk
+"""want""","Manchester, UK",go4elk
+"""want""","Istanbul, Turkey",go4elk
+"""want""","Marrakech, Morocco",go4elk
+"""been""","Arlington, VA, USA",go4elk
+"""been""","Newport Beach, CA, USA",go4elk
+"""want""","Vienna, Austria",go4elk
+"""want""","Melbourne, Australia",go4elk
+"""been""","Brainerd, MN, USA",go4elk
+"""been""","Saint Paul, MN, USA",go4elk
+"""want""","Niagara Falls, Ontario, Canada",go4elk
+"""want""","Perth, Australia",go4elk
+"""want""","Auckland Central, New Zealand",go4elk
+"""been""","Breezy Point, MN, USA",go4elk
+"""want""","Algarve, Portugal",go4elk
+"""been""","Chicago, IL, USA",go4elk
+"""want""","Lagos, Portugal",go4elk
+"""want""","Basel, Switzerland",go4elk
+"""been""","Los Angeles, CA, USA",go4elk
+"""been""","Saint Peter, MN, USA",go4elk
+"""been""","Wayzata, MN, USA",go4elk
+"""want""","Akumal, Mexico",go4elk
+"""want""","Tokyo, Japan",go4elk
+"""been""","Alexandria, VA, USA",go4elk
+"""been""","Milwaukee, WI, USA",go4elk
+"""been""","Long Beach, CA, USA",go4elk
+"""been""","Napa, CA, USA",go4elk
+"""want""","Gulf Shores, AL, USA",go4elk
+"""been""","Phoenix, AZ, USA",go4elk
+"""been""","Rapid City, SD, USA",go4elk
+"""been""","Shakopee, MN, USA",go4elk
+"""want""","Oslo, Norway",go4elk
+"""want""","Luxembourg City, Luxembourg",go4elk
+"""want""","Queenstown, New Zealand",go4elk
+"""want""","Halifax, Nova Scotia, Canada",go4elk
+"""been""","Willmar, MN, USA",go4elk
+"""been""","Sacramento, CA, USA",go4elk
+"""been""","Florence, Italy",go4elk
+"""want""","Bengaluru, India",go4elk
+"""want""","Toronto, Ontario, Canada",go4elk
+"""want""","Mexico City, Mexico",go4elk
+"""want""","Valencia, Spain",go4elk
+"""want""","Ljubljana, Slovenia",go4elk
+"""want""","Cancun, Mexico",go4elk
+"""want""","Niagara Falls, NY, USA",go4elk
+"""want""","Benidorm, Spain",go4elk
+"""want""","Bursa, Turkey",go4elk
+"""want""","Rotterdam, The Netherlands",go4elk
+"""want""","Naples, Italy",go4elk
+"""want""","Capri, Italy",go4elk
+"""want""","Jakarta, Indonesia",go4elk
+"""been""","La Crosse, WI, USA",go4elk
+"""been""","Coon Rapids, MN, USA",go4elk
+"""been""","Lake Delton, WI, USA",go4elk
+"""want""","Pisa, Italy",go4elk
+"""want""","Gdansk, Poland",go4elk
+"""want""","Riga, Latvia",go4elk
+"""want""","Dubai, United Arab Emirates",go4elk
+"""been""","York, UK",go4elk
+"""want""","Cambridge, UK",go4elk
+"""been""","Brussels, Belgium",go4elk
+"""want""","Bucharest, Romania",go4elk
+"""want""","Bristol, UK",go4elk
+"""want""","Hong Kong, China",go4elk
+"""been""","Apple Valley, MN, USA",go4elk
+"""want""","Cordoba, Spain",go4elk
+"""want""","Cardiff, UK",go4elk
+"""want""","Side, Turkey",go4elk
+"""been"",""fave""","Rome, Italy",go4elk
+"""been""","Cottage Grove, MN, USA",go4elk
+"""want""","Ottawa, Ontario, Canada",go4elk
+"""want""","Holguin, Cuba",go4elk
+"""been"",""fave""","Munich, Germany",go4elk
+"""been""","Mitchell, SD, USA",go4elk
+"""been"",""fave""","London, UK",go4elk
+"""want""","Balikesir, Turkey",go4elk
+"""want""","Antwerp, Belgium",go4elk
+"""been""","Liverpool, UK",go4elk
+"""want""","Kusadasi, Turkey",go4elk
+"""want""","Montevideo, Uruguay",go4elk
+"""want""","Berlin, Germany",go4elk
+"""been""","Seville, Spain",go4elk
+"""been"",""want""","Granada, Spain",go4elk
+"""want""","Warsaw, Poland",go4elk
+"""want""","Belfast, UK",go4elk
+"""been""","Benson, MN, USA",go4elk
+"""want""","Stockholm, Sweden",go4elk
+"""want""","Antalya, Turkey",go4elk
+"""want""","Malaga, Spain",go4elk
+"""want""","Zagreb, Croatia",go4elk
+"""want""","Beijing, China",go4elk
+"""want""","San Sebastian - Donostia, Spain",go4elk
+"""want""","Sousse, Tunisia",go4elk
+"""want""","Bergen, Norway",go4elk
+"""been""","Aberdeen, UK",go4elk
+"""been""","Avignon, France",go4elk
+"""want""","Hammamet, Tunisia",go4elk
+"""want""","Ubud, Indonesia",go4elk
+"""want""","Lima, Peru",go4elk
+"""been""","Arles, France",go4elk
+"""want""","Midoun, Tunisia",go4elk
+"""want""","Hamburg, Germany",go4elk
+"""want""","Monastir, Tunisia",go4elk
+"""want""","Machu Picchu, Peru",go4elk
+"""want""","Oxford, UK",go4elk
+"""want""","Prague, Czech Republic",go4elk
+"""been""","Burnsville, MN, USA",go4elk
+"""want""","Surfers Paradise, Australia",go4elk
+"""been""","Aix-en-Provence, France",go4elk
+"""want""","Athens, Greece",go4elk
+"""want""","Port El Kantaoui, Tunisia",go4elk
+"""want""","Kos Town, Greece",go4elk
+"""been""","Orange, CA, USA",go4elk
+"""want""","Saint-Malo, France",go4elk
+"""want""","Tallinn, Estonia",go4elk
+"""want""","Santiago, Chile",go4elk
+"""want""","Palma de Mallorca, Spain",go4elk
+"""want""","Cannes, France",go4elk
+"""want""","Quito, Ecuador",go4elk
+"""want""","Bath, UK",go4elk
+"""been""","Virginia Beach, VA, USA",go4elk
+"""want""","Brisbane, Australia",go4elk
+"""want""","Puerto Rico, Spain",go4elk
+"""want""","Seminyak, Indonesia",go4elk
+"""want""","Sydney, Australia",go4elk
+"""want""","Frankfurt, Germany",go4elk
+"""want""","Darwin, Australia",go4elk
+"""want""","Hua Hin, Thailand",go4elk
+"""been"",""fave""","Nice, France",go4elk
+"""want""","Monte-Carlo, Monaco",go4elk
+"""want""","Puerto Iguazu, Argentina",go4elk
+"""want""","Las Palmas de Gran Canaria, Spain",go4elk
+"""been""","Chaska, MN, USA",go4elk
+"""want""","Copenhagen, Denmark",go4elk
+"""want""","Adelaide, Australia",go4elk
+"""want""","Patong, Thailand",go4elk
+"""want""","Jackson, WY, USA",go4elk
+"""want""","Atlantic City, NJ, USA",go4elk
+"""been""","Toledo, Spain",go4elk
+"""been""","River Falls, WI, USA",go4elk
+"""want""","Wailea, HI, USA",go4elk
+"""want""","Brighton, UK",go4elk
+"""want""","Wroclaw, Poland",go4elk
+"""want""","Khao Lak, Thailand",go4elk
+"""want""","Puerto de la Cruz, Spain",go4elk
+"""want""","Lindos, Greece",go4elk
+"""want""","Soller, Spain",go4elk
+"""want""","Gothenburg, Sweden",go4elk
+"""been""","Sioux Falls, SD, USA",go4elk

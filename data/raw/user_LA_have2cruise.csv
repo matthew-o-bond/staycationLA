@@ -1,0 +1,564 @@
+tag,place,user
+"""been""","Baileys Crossroads, VA, USA",have2cruise
+"""been""","Staunton, VA, USA",have2cruise
+"""been""","Paekakariki, New Zealand",have2cruise
+"""been""","Atlanta, GA, USA",have2cruise
+"""been""","Manassas, VA, USA",have2cruise
+"""been""","Richmond, VA, USA",have2cruise
+"""want""","Zagreb, Croatia",have2cruise
+"""want""","Basel, Switzerland",have2cruise
+"""been""","Ventura, CA, USA",have2cruise
+"""been""","Sterling, VA, USA",have2cruise
+"""been""","Broad Bay, New Zealand",have2cruise
+"""been""","Woodstock, VA, USA",have2cruise
+"""been""","Motueka, New Zealand",have2cruise
+"""want""","Bucharest, Romania",have2cruise
+"""been""","Maharahara, New Zealand",have2cruise
+"""been""","Charlottesville, VA, USA",have2cruise
+"""been""","Beverly Hills, CA, USA",have2cruise
+"""been""","Little Rock, AR, USA",have2cruise
+"""want""","Omaha, NE, USA",have2cruise
+"""been""","Toronto, Ontario, Canada",have2cruise
+"""been""","New York City, NY, USA",have2cruise
+"""want""","Warsaw, Poland",have2cruise
+"""want""","Gallipoli, Turkey",have2cruise
+"""been""","Puunene, HI, USA",have2cruise
+"""been""","Omapere, New Zealand",have2cruise
+"""been""","Wailuku, HI, USA",have2cruise
+"""been"",""want""","Seattle, WA, USA",have2cruise
+"""want""","Manchester, UK",have2cruise
+"""been""","Springfield, VA, USA",have2cruise
+"""been""","Cape Reinga, New Zealand",have2cruise
+"""been""","Coopers Beach, New Zealand",have2cruise
+"""been""","Big Bear Lake, CA, USA",have2cruise
+"""want""","Franklin, TN, USA",have2cruise
+"""been""","Kohukoru, New Zealand",have2cruise
+"""been""","Temecula, CA, USA",have2cruise
+"""been""","Cozumel, Mexico",have2cruise
+"""been""","Santa Barbara, CA, USA",have2cruise
+"""been""","Picton, New Zealand",have2cruise
+"""been""","Corning, NY, USA",have2cruise
+"""been""","Twizel, New Zealand",have2cruise
+"""been""","Akaroa, New Zealand",have2cruise
+"""been""","Waiheke Island, New Zealand",have2cruise
+"""been""","Lahaina, HI, USA",have2cruise
+"""been"",""fave""","Skagway, AK, USA",have2cruise
+"""been""","Kihei, HI, USA",have2cruise
+"""been""","Vienna, VA, USA",have2cruise
+"""been""","Kailua-Kona, HI, USA",have2cruise
+"""been""","Cincinnati, OH, USA",have2cruise
+"""been""","Kahului, HI, USA",have2cruise
+"""been""","San Diego, CA, USA",have2cruise
+"""been""","Winchester, VA, USA",have2cruise
+"""been""","Prague, Czech Republic",have2cruise
+"""been""","Naples, FL, USA",have2cruise
+"""been""","Williamsburg, VA, USA",have2cruise
+"""been""","Centreville, VA, USA",have2cruise
+"""been""","Roatan, Honduras",have2cruise
+"""been""","Fort Lauderdale, FL, USA",have2cruise
+"""been""","West Hollywood, CA, USA",have2cruise
+"""been""","San Clemente, CA, USA",have2cruise
+"""been""","Carlsbad, CA, USA",have2cruise
+"""been""","Carmel, CA, USA",have2cruise
+"""been""","San Jose, CA, USA",have2cruise
+"""been""","Orient Bay, St Martin \u002F St Maarten",have2cruise
+"""been""","Tokanui, New Zealand",have2cruise
+"""been""","Pigeon Forge, TN, USA",have2cruise
+"""been""","Columbia, SC, USA",have2cruise
+"""been""","Asheville, NC, USA",have2cruise
+"""been""","Valley Forge, PA, USA",have2cruise
+"""want""","New Orleans, LA, USA",have2cruise
+"""been""","Ocean City, NJ, USA",have2cruise
+"""want""","Saskatoon, Saskatchewan, Canada",have2cruise
+"""been""","San Luis Obispo, CA, USA",have2cruise
+"""want""","Denver, CO, USA",have2cruise
+"""want""","Houston, TX, USA",have2cruise
+"""been""","Cape Canaveral, FL, USA",have2cruise
+"""been""","Foxton, New Zealand",have2cruise
+"""been""","Kissimmee, FL, USA",have2cruise
+"""been""","Amberley, New Zealand",have2cruise
+"""been""","Truckee, CA, USA",have2cruise
+"""been""","Kaiapoi, New Zealand",have2cruise
+"""want""","Zermatt, Switzerland",have2cruise
+"""been""","Arthur's Pass National Park, New Zealand",have2cruise
+"""been""","Cheviot, New Zealand",have2cruise
+"""been""","Fairlie, New Zealand",have2cruise
+"""been""","Kekerengu, New Zealand",have2cruise
+"""been""","Geraldine, New Zealand",have2cruise
+"""want""","Bratislava, Slovakia",have2cruise
+"""want""","Eugene, OR, USA",have2cruise
+"""been""","Tysons Corner, VA, USA",have2cruise
+"""been""","Roanoke, VA, USA",have2cruise
+"""been""","New Market, VA, USA",have2cruise
+"""been""","Mina, New Zealand",have2cruise
+"""been""","Daytona Beach, FL, USA",have2cruise
+"""been""","Mt. Cook Village, New Zealand",have2cruise
+"""been""","Hollywood, FL, USA",have2cruise
+"""been""","Rangiora, New Zealand",have2cruise
+"""been""","Temuka, New Zealand",have2cruise
+"""been""","Reston, VA, USA",have2cruise
+"""been""","Kurow, New Zealand",have2cruise
+"""been""","Methven, New Zealand",have2cruise
+"""been""","Washington DC, DC, USA",have2cruise
+"""been""","Hershey, PA, USA",have2cruise
+"""been""","Waimate, New Zealand",have2cruise
+"""been""","Kaeo, New Zealand",have2cruise
+"""been""","Waipara, New Zealand",have2cruise
+"""been""","Winchester, New Zealand",have2cruise
+"""been""","Aitutaki, Cook Islands",have2cruise
+"""been""","Rarotonga, Cook Islands",have2cruise
+"""been""","Tucumcari, NM, USA",have2cruise
+"""want""","Indianapolis, IN, USA",have2cruise
+"""been""","Santa Monica, CA, USA",have2cruise
+"""been""","Clearwater, FL, USA",have2cruise
+"""been""","Te Awanga, New Zealand",have2cruise
+"""been""","Gettysburg, PA, USA",have2cruise
+"""been""","Philadelphia, PA, USA",have2cruise
+"""been""","Whitianga, New Zealand",have2cruise
+"""been""","Taumarunui, New Zealand",have2cruise
+"""been""","King of Prussia, PA, USA",have2cruise
+"""been""","Akron, OH, USA",have2cruise
+"""been""","Naseby, New Zealand",have2cruise
+"""been""","Santa Rosa, CA, USA",have2cruise
+"""been""","Gore, New Zealand",have2cruise
+"""want""","Mykonos Town, Greece",have2cruise
+"""been""","Cocoa Beach, FL, USA",have2cruise
+"""been""","Taihape, New Zealand",have2cruise
+"""been""","Sydney, Australia",have2cruise
+"""been""","Riverton, New Zealand",have2cruise
+"""been""","Okarito, New Zealand",have2cruise
+"""been""","Memphis, TN, USA",have2cruise
+"""been""","Arrowtown, New Zealand",have2cruise
+"""want""","Bellevue, WA, USA",have2cruise
+"""been""","Kaikoura, New Zealand",have2cruise
+"""been""","Hokitika, New Zealand",have2cruise
+"""been""","Greymouth, New Zealand",have2cruise
+"""want""","Jackson, WY, USA",have2cruise
+"""been""","Whangarei, New Zealand",have2cruise
+"""been""","Whanganui, New Zealand",have2cruise
+"""been""","Seven Corners, VA, USA",have2cruise
+"""been""","Tongariro National Park, New Zealand",have2cruise
+"""been""","Otorohanga, New Zealand",have2cruise
+"""been""","Whangaparaoa, New Zealand",have2cruise
+"""been""","Turangi, New Zealand",have2cruise
+"""been""","Te Kuiti, New Zealand",have2cruise
+"""been""","Onaero, New Zealand",have2cruise
+"""been""","Urenui, New Zealand",have2cruise
+"""been""","Awakino, New Zealand",have2cruise
+"""been""","Mokau, New Zealand",have2cruise
+"""been""","Waitara, New Zealand",have2cruise
+"""been""","Thames, New Zealand",have2cruise
+"""been""","Palmerston North, New Zealand",have2cruise
+"""been""","Westport, New Zealand",have2cruise
+"""been""","Te Anau, New Zealand",have2cruise
+"""been"",""fave""","Queenstown, New Zealand",have2cruise
+"""been"",""fave""","Milford Sound, New Zealand",have2cruise
+"""been""","Invercargill, New Zealand",have2cruise
+"""been""","Kaka Point, New Zealand",have2cruise
+"""been""","Raleigh, NC, USA",have2cruise
+"""want""","Sioux Falls, SD, USA",have2cruise
+"""been""","Manaia, New Zealand",have2cruise
+"""been""","Okaiawa, New Zealand",have2cruise
+"""been""","Cleveland, OH, USA",have2cruise
+"""been"",""fave""","Dunedin, New Zealand",have2cruise
+"""been""","Christchurch, New Zealand",have2cruise
+"""been""","Warrenton, VA, USA",have2cruise
+"""been""","Blenheim, New Zealand",have2cruise
+"""been""","Normanby, New Zealand",have2cruise
+"""been""","Ohangai, New Zealand",have2cruise
+"""been""","Patea, New Zealand",have2cruise
+"""been"",""fave""","Wellington, New Zealand",have2cruise
+"""want""","Hastings, Barbados",have2cruise
+"""been""","Tauranga, New Zealand",have2cruise
+"""been""","Hawera, New Zealand",have2cruise
+"""been""","Taupo, New Zealand",have2cruise
+"""been""","Greytown, New Zealand",have2cruise
+"""want""","Boise, ID, USA",have2cruise
+"""been""","Martinborough, New Zealand",have2cruise
+"""been""","Waiatarua, New Zealand",have2cruise
+"""been""","Moerewa, New Zealand",have2cruise
+"""been""","Ensenada, Mexico",have2cruise
+"""been""","Waitangi, New Zealand",have2cruise
+"""been""","Collingwood, New Zealand",have2cruise
+"""been""","Ohaeawai, New Zealand",have2cruise
+"""been""","Ocean View, HI, USA",have2cruise
+"""been""","Opua, New Zealand",have2cruise
+"""been""","Kerikeri, New Zealand",have2cruise
+"""been""","Naalehu, HI, USA",have2cruise
+"""been""","Kaikohe, New Zealand",have2cruise
+"""been""","Wilmington, NC, USA",have2cruise
+"""been""","Virginia Beach, VA, USA",have2cruise
+"""been""","Pukekohe, New Zealand",have2cruise
+"""been""","Lancaster, PA, USA",have2cruise
+"""want""","Dublin, Ireland",have2cruise
+"""been""","Oakton, VA, USA",have2cruise
+"""been""","Tuatapere, New Zealand",have2cruise
+"""been""","Upperville, VA, USA",have2cruise
+"""been""","Hilo, HI, USA",have2cruise
+"""been""","Waitomo Caves, New Zealand",have2cruise
+"""been""","Winston Salem, NC, USA",have2cruise
+"""been""","Norfolk, VA, USA",have2cruise
+"""want""","Grand Anse, Grenada",have2cruise
+"""been""","Matakana, New Zealand",have2cruise
+"""want""","Bologna, Italy",have2cruise
+"""want""","Istanbul, Turkey",have2cruise
+"""want""","Calgary, Alberta, Canada",have2cruise
+"""been""","Quantico, VA, USA",have2cruise
+"""been""","Purcellville, VA, USA",have2cruise
+"""want""","Banff, Alberta, Canada",have2cruise
+"""want""","Jasper, Alberta, Canada",have2cruise
+"""been""","Mazatlan, Mexico",have2cruise
+"""been""","Puerto Vallarta, Mexico",have2cruise
+"""been""","Fayetteville, NC, USA",have2cruise
+"""been""","Rolleston, New Zealand",have2cruise
+"""been""","Rancho Mirage, CA, USA",have2cruise
+"""been""","Ontario, CA, USA",have2cruise
+"""been""","Coromandel, New Zealand",have2cruise
+"""been""","Aoraki Mount Cook National Park (Te Wahipounamu), New Zealand",have2cruise
+"""been""","Whakatane, New Zealand",have2cruise
+"""been""","Martinsburg, WV, USA",have2cruise
+"""been""","Hastings, New Zealand",have2cruise
+"""been""","Cable Bay, New Zealand",have2cruise
+"""want""","Tulsa, OK, USA",have2cruise
+"""been""","Charlotte, NC, USA",have2cruise
+"""been""","Harrisburg, PA, USA",have2cruise
+"""been""","Redondo Beach, CA, USA",have2cruise
+"""been""","Waimauku, New Zealand",have2cruise
+"""been""","Russell, New Zealand",have2cruise
+"""been""","Nelson, New Zealand",have2cruise
+"""been""","Oamaru, New Zealand",have2cruise
+"""been""","Auroa, New Zealand",have2cruise
+"""been""","New Plymouth, New Zealand",have2cruise
+"""been""","Rotorua, New Zealand",have2cruise
+"""want""","Shreveport, LA, USA",have2cruise
+"""been""","South Riding, VA, USA",have2cruise
+"""been""","Paihia, New Zealand",have2cruise
+"""been""","Cabo San Lucas, Mexico",have2cruise
+"""been""","Prince Rupert, British Columbia, Canada",have2cruise
+"""been""","Spotsylvania, VA, USA",have2cruise
+"""been""","Pukenui, New Zealand",have2cruise
+"""been""","Atlantic City, NJ, USA",have2cruise
+"""want""","Coventry, UK",have2cruise
+"""want""","Turin, Italy",have2cruise
+"""been""","Niagara Falls, NY, USA",have2cruise
+"""been""","Napier, New Zealand",have2cruise
+"""been""","Hamilton, New Zealand",have2cruise
+"""been""","Gisborne, New Zealand",have2cruise
+"""been"",""fave""","Auckland Central, New Zealand",have2cruise
+"""been""","Oklahoma City, OK, USA",have2cruise
+"""been""","Melbourne, Australia",have2cruise
+"""been""","Victoria, British Columbia, Canada",have2cruise
+"""been""","Shenandoah Caverns, VA, USA",have2cruise
+"""been""","Ka'anapali, HI, USA",have2cruise
+"""been""","Mangere, New Zealand",have2cruise
+"""want""","Whistler, British Columbia, Canada",have2cruise
+"""been""","Shenandoah, VA, USA",have2cruise
+"""been""","Whangamata, New Zealand",have2cruise
+"""been"",""fave""","Vancouver, British Columbia, Canada",have2cruise
+"""been""","Ahipara, New Zealand",have2cruise
+"""been""","Oceanside, CA, USA",have2cruise
+"""been""","Chattanooga, TN, USA",have2cruise
+"""been""","Papamoa, New Zealand",have2cruise
+"""been""","Katikati, New Zealand",have2cruise
+"""want""","Milan, Italy",have2cruise
+"""been""","Pauanui, New Zealand",have2cruise
+"""been""","Columbus, OH, USA",have2cruise
+"""been""","Wedderburn, New Zealand",have2cruise
+"""been""","Ravensburg, Germany",have2cruise
+"""been""","Weehawken, NJ, USA",have2cruise
+"""want""","Winnipeg, Manitoba, Canada",have2cruise
+"""want""","Inverness, UK",have2cruise
+"""want""","Madrid, Spain",have2cruise
+"""been""","Pittsburgh, PA, USA",have2cruise
+"""been""","Manassas Park, VA, USA",have2cruise
+"""want""","Venice, Italy",have2cruise
+"""been""","Barrytown, New Zealand",have2cruise
+"""been""","Waihau Bay, New Zealand",have2cruise
+"""been""","Winslow, AZ, USA",have2cruise
+"""want""","Playas del Coco, Costa Rica",have2cruise
+"""been""","Manutahi, New Zealand",have2cruise
+"""want""","Rapid City, SD, USA",have2cruise
+"""been""","Cromwell, New Zealand",have2cruise
+"""been""","Opotiki, New Zealand",have2cruise
+"""been""","Maui, HI, USA",have2cruise
+"""been""","Glenorchy, New Zealand",have2cruise
+"""been""","Eltham, New Zealand",have2cruise
+"""want""","Glasgow, UK",have2cruise
+"""been""","Huntington Beach, CA, USA",have2cruise
+"""been""","Sacramento, CA, USA",have2cruise
+"""been""","Windwhistle, New Zealand",have2cruise
+"""been""","Alexandra, New Zealand",have2cruise
+"""been""","Lorton, VA, USA",have2cruise
+"""been""","Blue Ball, PA, USA",have2cruise
+"""been""","Canton, OH, USA",have2cruise
+"""been""","Seddon, New Zealand",have2cruise
+"""been""","Belize City, Belize",have2cruise
+"""been""","Levin, New Zealand",have2cruise
+"""been""","Palm Desert, CA, USA",have2cruise
+"""been""","Palm Springs, CA, USA",have2cruise
+"""want""","Providenciales, Turks and Caicos",have2cruise
+"""want""","Willemstad, Curacao",have2cruise
+"""been""","Potomac, MD, USA",have2cruise
+"""been""","Drury, New Zealand",have2cruise
+"""want""","Ayia Napa, Cyprus",have2cruise
+"""been""","Monterey, CA, USA",have2cruise
+"""want""","Dallas, TX, USA",have2cruise
+"""want""","Catania, Italy",have2cruise
+"""been""","Orewa, New Zealand",have2cruise
+"""been""","Ashburton, New Zealand",have2cruise
+"""been""","Ohakune, New Zealand",have2cruise
+"""want""","Valencia, Spain",have2cruise
+"""been""","Timaru, New Zealand",have2cruise
+"""been""","Hanmer Springs, New Zealand",have2cruise
+"""been""","Mangonui, New Zealand",have2cruise
+"""been""","Niagara-on-the-Lake, Ontario, Canada",have2cruise
+"""been""","Otaki, New Zealand",have2cruise
+"""want""","Bridgetown, Barbados",have2cruise
+"""been""","Annapolis, MD, USA",have2cruise
+"""been""","Niagara Falls, Ontario, Canada",have2cruise
+"""been""","Takaka, New Zealand",have2cruise
+"""been""","Lyttelton, New Zealand",have2cruise
+"""want""","White House, Jamaica",have2cruise
+"""been""","St. Petersburg, FL, USA",have2cruise
+"""been""","Ngaruawahia, New Zealand",have2cruise
+"""been""","Ashburn, VA, USA",have2cruise
+"""been""","Nuremberg, Germany",have2cruise
+"""want""","Bristol, UK",have2cruise
+"""been""","Passau, Germany",have2cruise
+"""been""","Cambridge, New Zealand",have2cruise
+"""been""","Garden Grove, CA, USA",have2cruise
+"""been""","Durham, NC, USA",have2cruise
+"""been""","Waitakere City, New Zealand",have2cruise
+"""been""","Falls Church, VA, USA",have2cruise
+"""want""","Malaga, Spain",have2cruise
+"""been""","Middleburg, VA, USA",have2cruise
+"""been""","Arlington, VA, USA",have2cruise
+"""been""","Te Aroha, New Zealand",have2cruise
+"""been""","Kansas City, MO, USA",have2cruise
+"""been""","Te Kauwhata, New Zealand",have2cruise
+"""want""","Rome, Italy",have2cruise
+"""want""","Minneapolis, MN, USA",have2cruise
+"""want""","Antwerp, Belgium",have2cruise
+"""want""","Liverpool, UK",have2cruise
+"""want""","Capri, Italy",have2cruise
+"""been""","Manhattan Beach, CA, USA",have2cruise
+"""been""","Fairfax Station, VA, USA",have2cruise
+"""want""","Windermere, UK",have2cruise
+"""want""","Rotterdam, The Netherlands",have2cruise
+"""been""","Fairfax, VA, USA",have2cruise
+"""been""","West Palm Beach, FL, USA",have2cruise
+"""been""","Malibu, CA, USA",have2cruise
+"""want""","Oranjestad, Aruba",have2cruise
+"""want""","London, UK",have2cruise
+"""want""","Portland, OR, USA",have2cruise
+"""been""","Birmingham, AL, USA",have2cruise
+"""been""","Grand Cayman, Cayman Islands",have2cruise
+"""want""","St. John's, Antigua and Barbuda",have2cruise
+"""want""","Bruges, Belgium",have2cruise
+"""been""","Henderson, NV, USA",have2cruise
+"""been""","Bluff, New Zealand",have2cruise
+"""been""","Matamata, New Zealand",have2cruise
+"""been""","Long Beach, CA, USA",have2cruise
+"""been""","Alexandria, VA, USA",have2cruise
+"""been""","Paraparaumu, New Zealand",have2cruise
+"""been""","Te Awamutu, New Zealand",have2cruise
+"""been""","Frankfurt, Germany",have2cruise
+"""been""","Tokoroa, New Zealand",have2cruise
+"""want""","Napa, CA, USA",have2cruise
+"""want""","Hamburg, Germany",have2cruise
+"""been""","Phoenix, AZ, USA",have2cruise
+"""want""","Farallon, Panama",have2cruise
+"""been""","Clive, New Zealand",have2cruise
+"""been""","Herndon, VA, USA",have2cruise
+"""want""","San Jose, Costa Rica",have2cruise
+"""been""","Simpson Bay, St Martin \u002F St Maarten",have2cruise
+"""been""","Wanaka, New Zealand",have2cruise
+"""been""","Stratford, New Zealand",have2cruise
+"""been""","Lake Tekapo, New Zealand",have2cruise
+"""been""","Grand Case, St Martin \u002F St Maarten",have2cruise
+"""been""","Las Vegas, NV, USA",have2cruise
+"""been""","Harrisonburg, VA, USA",have2cruise
+"""been""","Swanson, New Zealand",have2cruise
+"""been""","Morrinsville, New Zealand",have2cruise
+"""want""","Galveston, TX, USA",have2cruise
+"""been""","Haymarket, VA, USA",have2cruise
+"""been""","Annandale, VA, USA",have2cruise
+"""been""","Los Angeles, CA, USA",have2cruise
+"""been""","Fresno, CA, USA",have2cruise
+"""been""","Manapouri, New Zealand",have2cruise
+"""been""","Paeroa, New Zealand",have2cruise
+"""want""","Berlin, Germany",have2cruise
+"""been""","Pensacola Beach, FL, USA",have2cruise
+"""been""","Irvine, CA, USA",have2cruise
+"""been""","Hinuera, New Zealand",have2cruise
+"""been""","Philipsburg, St Martin \u002F St Maarten",have2cruise
+"""been""","St Martin \u002F St Maarten, Caribbean",have2cruise
+"""want""","Castries, St. Lucia",have2cruise
+"""want""","Soufriere, St. Lucia",have2cruise
+"""want""","Gros Islet, St. Lucia",have2cruise
+"""want""","Nieuwpoort, Curacao",have2cruise
+"""been""","Woodville, New Zealand",have2cruise
+"""been""","Balclutha, New Zealand",have2cruise
+"""been""","North Charleston, SC, USA",have2cruise
+"""been""","Moana, New Zealand",have2cruise
+"""been""","Baltimore, MD, USA",have2cruise
+"""want""","Brighton, UK",have2cruise
+"""been""","Ocean City, MD, USA",have2cruise
+"""been""","Nashville, TN, USA",have2cruise
+"""been""","Jacksonville, FL, USA",have2cruise
+"""been""","Boston, VA, USA",have2cruise
+"""been""","Eketahuna, New Zealand",have2cruise
+"""want""","Astoria, OR, USA",have2cruise
+"""been""","Featherston, New Zealand",have2cruise
+"""been""","Karamea, New Zealand",have2cruise
+"""been""","Kingman, AZ, USA",have2cruise
+"""want""","Salt Lake City, UT, USA",have2cruise
+"""want""","Gothenburg, Sweden",have2cruise
+"""want""","Nice, France",have2cruise
+"""been""","Blue Ridge, VA, USA",have2cruise
+"""been""","Laguna Beach, CA, USA",have2cruise
+"""been""","Greenville, SC, USA",have2cruise
+"""been""","SeaTac, WA, USA",have2cruise
+"""been""","Saint Arnaud, New Zealand",have2cruise
+"""been""","Waihi, New Zealand",have2cruise
+"""been""","Kahurangi National Park, New Zealand",have2cruise
+"""been""","Melk, Austria",have2cruise
+"""been""","Gainesville, VA, USA",have2cruise
+"""want""","Torquay, UK",have2cruise
+"""been""","Escondido, CA, USA",have2cruise
+"""want""","Palma de Mallorca, Spain",have2cruise
+"""want""","Cannes, France",have2cruise
+"""been""","Kaitaia, New Zealand",have2cruise
+"""want""","Boulder, CO, USA",have2cruise
+"""been""","Manukau, New Zealand",have2cruise
+"""been""","Raglan, New Zealand",have2cruise
+"""been"",""fave""","Juneau, AK, USA",have2cruise
+"""been""","Blacksburg, VA, USA",have2cruise
+"""been""","Hahei, New Zealand",have2cruise
+"""been""","Palm Beach, FL, USA",have2cruise
+"""want""","North Vancouver, British Columbia, Canada",have2cruise
+"""been""","San Juan, Puerto Rico",have2cruise
+"""want""","Dubrovnik, Croatia",have2cruise
+"""want""","Amsterdam, The Netherlands",have2cruise
+"""been""","Dargaville, New Zealand",have2cruise
+"""been""","Karekare, New Zealand",have2cruise
+"""been""","Reno, NV, USA",have2cruise
+"""been""","Shamrock, TX, USA",have2cruise
+"""been""","Myrtle Beach, SC, USA",have2cruise
+"""been""","Berryville, VA, USA",have2cruise
+"""want""","Barcelona, Spain",have2cruise
+"""want""","Santorini, Greece",have2cruise
+"""been""","Marina del Rey, CA, USA",have2cruise
+"""been""","Scottsdale, AZ, USA",have2cruise
+"""been""","Fripp Island, SC, USA",have2cruise
+"""been""","Sedona, AZ, USA",have2cruise
+"""been""","Fort Belvoir, VA, USA",have2cruise
+"""want""","Ocho Rios, Jamaica",have2cruise
+"""want""","Cologne, Germany",have2cruise
+"""want""","Marseille, France",have2cruise
+"""been""","Germantown, MD, USA",have2cruise
+"""want""","Dusseldorf, Germany",have2cruise
+"""want""","Toledo, Spain",have2cruise
+"""been""","Renton, WA, USA",have2cruise
+"""been""","Charles Town, WV, USA",have2cruise
+"""been""","Clifton, VA, USA",have2cruise
+"""been""","La Jolla, CA, USA",have2cruise
+"""been""","Orlando, FL, USA",have2cruise
+"""want""","Monte-Carlo, Monaco",have2cruise
+"""been""","Haiti, Caribbean",have2cruise
+"""been""","Jamaica, Caribbean",have2cruise
+"""been""","Sanson, New Zealand",have2cruise
+"""want""","Freeport, Bahamas",have2cruise
+"""been""","Tryphena, New Zealand",have2cruise
+"""been""","Anaheim, CA, USA",have2cruise
+"""been""","Port Fitzroy, New Zealand",have2cruise
+"""been""","Charleston, SC, USA",have2cruise
+"""been""","Whangaparapara, New Zealand",have2cruise
+"""been""","Vienna, Austria",have2cruise
+"""been""","Buffalo, NY, USA",have2cruise
+"""been""","Flagstaff, AZ, USA",have2cruise
+"""been""","Bombay, New Zealand",have2cruise
+"""been""","Waikoloa, HI, USA",have2cruise
+"""been""","Jacksonville Beach, FL, USA",have2cruise
+"""been""","McLean, VA, USA",have2cruise
+"""been""","Greensboro, NC, USA",have2cruise
+"""want""","Dresden, Germany",have2cruise
+"""want""","Tacoma, WA, USA",have2cruise
+"""want""","Des Moines, IA, USA",have2cruise
+"""been""","Dulles, VA, USA",have2cruise
+"""been""","Budapest, Hungary",have2cruise
+"""been""","Rakaia, New Zealand",have2cruise
+"""been""","Luray, VA, USA",have2cruise
+"""been""","Harpers Ferry, WV, USA",have2cruise
+"""been""","Gatlinburg, TN, USA",have2cruise
+"""want""","Santa Fe, NM, USA",have2cruise
+"""been""","Punakaiki, New Zealand",have2cruise
+"""been""","San Francisco, CA, USA",have2cruise
+"""want""","Paris, France",have2cruise
+"""want""","San Antonio, TX, USA",have2cruise
+"""been""","Kansas City, KS, USA",have2cruise
+"""been""","Charlotte Amalie, U.S. Virgin Islands",have2cruise
+"""been""","Bakersfield, CA, USA",have2cruise
+"""been""","Dana Point, CA, USA",have2cruise
+"""been""","Burke, VA, USA",have2cruise
+"""been""","Knoxville, TN, USA",have2cruise
+"""been""","St. Thomas, U.S. Virgin Islands",have2cruise
+"""want""","Colorado Springs, CO, USA",have2cruise
+"""been""","Clyde, New Zealand",have2cruise
+"""been""","Kaiteriteri, New Zealand",have2cruise
+"""been""","Milton, New Zealand",have2cruise
+"""been""","Warkworth, New Zealand",have2cruise
+"""been""","Whakapapa, New Zealand",have2cruise
+"""been""","Tairua, New Zealand",have2cruise
+"""been""","Lower Hutt, New Zealand",have2cruise
+"""been""","National Park Village, New Zealand",have2cruise
+"""been""","Tucson, AZ, USA",have2cruise
+"""want""","Caen, France",have2cruise
+"""been""","Lumsden, New Zealand",have2cruise
+"""been""","Ranfurly, New Zealand",have2cruise
+"""been""","Brooklyn, NY, USA",have2cruise
+"""been""","Fredericksburg, VA, USA",have2cruise
+"""been""","Burbank, CA, USA",have2cruise
+"""been""","Panama City Beach, FL, USA",have2cruise
+"""been"",""fave""","Hilton Head, SC, USA",have2cruise
+"""been""","Great Falls, VA, USA",have2cruise
+"""been""","Fox Glacier, New Zealand",have2cruise
+"""been"",""fave""","Ketchikan, AK, USA",have2cruise
+"""been""","Renwick, New Zealand",have2cruise
+"""want""","Grand Junction, CO, USA",have2cruise
+"""been""","Westland National Park (Te Wahipounamu), New Zealand",have2cruise
+"""been""","Panama City, FL, USA",have2cruise
+"""been""","Murchison, New Zealand",have2cruise
+"""been""","Buena Park, CA, USA",have2cruise
+"""been""","Omarama, New Zealand",have2cruise
+"""been""","Waipu, New Zealand",have2cruise
+"""been""","Fiordland National Park, New Zealand",have2cruise
+"""been""","Coronado, CA, USA",have2cruise
+"""been""","Franz Josef, New Zealand",have2cruise
+"""been""","Havelock, New Zealand",have2cruise
+"""want""","Salzburg, Austria",have2cruise
+"""want""","Vancouver, WA, USA",have2cruise
+"""want""","Stuttgart, Germany",have2cruise
+"""been""","Carterton, New Zealand",have2cruise
+"""been""","Masterton, New Zealand",have2cruise
+"""been""","Fort Smith, AR, USA",have2cruise
+"""want""","Sonoma, CA, USA",have2cruise
+"""been""","Savannah, GA, USA",have2cruise
+"""been""","Miami, FL, USA",have2cruise
+"""been""","Miami Beach, FL, USA",have2cruise
+"""been""","Solvang, CA, USA",have2cruise
+"""been""","Melbourne Beach, FL, USA",have2cruise
+"""been""","Culpeper, VA, USA",have2cruise
+"""want""","Austin, TX, USA",have2cruise
+"""been""","Melbourne, FL, USA",have2cruise
+"""been""","Leesburg, VA, USA",have2cruise
+"""been""","Tampa, FL, USA",have2cruise
+"""been""","Albury, New Zealand",have2cruise
+"""want""","Kusadasi, Turkey",have2cruise
+"""been""","Abel Tasman National Park, New Zealand",have2cruise
+"""been""","Pensacola, FL, USA",have2cruise
+"""been""","Dale City, VA, USA",have2cruise
+"""been""","Costa Mesa, CA, USA",have2cruise
+"""been""","Solana Beach, CA, USA",have2cruise
+"""been""","Grand Canyon National Park, AZ, USA",have2cruise
+"""been""","Kumeu, New Zealand",have2cruise

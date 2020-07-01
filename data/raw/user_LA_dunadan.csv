@@ -1,0 +1,370 @@
+tag,place,user
+"""been""","Bellingham, WA, USA",dunadan
+"""been""","Federal Way, WA, USA",dunadan
+"""been""","Sandpoint, ID, USA",dunadan
+"""been""","Incline Village, NV, USA",dunadan
+"""been""","Grand Canyon National Park, AZ, USA",dunadan
+"""been""","West Yellowstone, MT, USA",dunadan
+"""been""","Dayville, OR, USA",dunadan
+"""been""","Depoe Bay, OR, USA",dunadan
+"""been""","Athol, ID, USA",dunadan
+"""been""","Glacier National Park, MT, USA",dunadan
+"""been""","Peoria, AZ, USA",dunadan
+"""been""","Crater Lake National Park, OR, USA",dunadan
+"""been""","Liberia, Costa Rica",dunadan
+"""been""","Warrenton, OR, USA",dunadan
+"""been""","Playa Flamingo, Costa Rica",dunadan
+"""been""","Arcata, CA, USA",dunadan
+"""been""","Geneva, Switzerland",dunadan
+"""been""","Bellevue, WA, USA",dunadan
+"""been""","Everett, WA, USA",dunadan
+"""been""","Sausalito, CA, USA",dunadan
+"""been""","Baring, WA, USA",dunadan
+"""been""","Bainbridge Island, WA, USA",dunadan
+"""been""","Drumnadrochit, UK",dunadan
+"""been""","Bothell, WA, USA",dunadan
+"""been""","Arco, ID, USA",dunadan
+"""been""","Reston, VA, USA",dunadan
+"""been""","Trinidad, CA, USA",dunadan
+"""been""","Freeland, WA, USA",dunadan
+"""been""","Broadway, UK",dunadan
+"""been""","Las Vegas, NV, USA",dunadan
+"""been""","Los Angeles, CA, USA",dunadan
+"""been""","Chicago, IL, USA",dunadan
+"""been""","Maui, HI, USA",dunadan
+"""want""","Madrid, Spain",dunadan
+"""been"",""fave""","Kauai, HI, USA",dunadan
+"""want""","Playa del Carmen, Mexico",dunadan
+"""been""","Orcas, WA, USA",dunadan
+"""been""","Dorena, OR, USA",dunadan
+"""been""","Island of Hawaii, HI, USA",dunadan
+"""been""","Pendleton, OR, USA",dunadan
+"""been""","Tulum, Mexico",dunadan
+"""been""","Arenal Volcano National Park, Costa Rica",dunadan
+"""want""","Venice, Italy",dunadan
+"""been""","Herndon, VA, USA",dunadan
+"""been""","Caherconnell, Ireland",dunadan
+"""want""","Bangkok, Thailand",dunadan
+"""been""","Forks, WA, USA",dunadan
+"""been""","Marysville, WA, USA",dunadan
+"""been""","Edmonds, WA, USA",dunadan
+"""been"",""want"",""fave""","London, UK",dunadan
+"""been""","Pullman, WA, USA",dunadan
+"""been""","Aberfoyle, UK",dunadan
+"""been""","Dingle, Ireland",dunadan
+"""been""","Cottage Grove, OR, USA",dunadan
+"""been""","Keflavik, Iceland",dunadan
+"""been""","Lolo, MT, USA",dunadan
+"""been""","Coos Bay, OR, USA",dunadan
+"""been""","La Pine, OR, USA",dunadan
+"""been""","Three Forks, MT, USA",dunadan
+"""been""","Cottonwood, AZ, USA",dunadan
+"""been""","Longview, WA, USA",dunadan
+"""been""","Eastsound, WA, USA",dunadan
+"""been""","Poulsbo, WA, USA",dunadan
+"""been""","Canas, Costa Rica",dunadan
+"""been""","Long Beach, WA, USA",dunadan
+"""been""","Port Townsend, WA, USA",dunadan
+"""been""","Port Orchard, WA, USA",dunadan
+"""been""","Duvall, WA, USA",dunadan
+"""been""","Dupont, WA, USA",dunadan
+"""been""","Dryden, WA, USA",dunadan
+"""been""","Port Gamble, WA, USA",dunadan
+"""been""","Keswick, UK",dunadan
+"""been""","Callander, UK",dunadan
+"""been""","Coulee Dam, WA, USA",dunadan
+"""been""","Santa Clara, CA, USA",dunadan
+"""been""","Cloghran, Ireland",dunadan
+"""been""","Santa Clarita, CA, USA",dunadan
+"""been"",""want""","New York City, NY, USA",dunadan
+"""been""","Santa Cruz, CA, USA",dunadan
+"""been""","Creswell, OR, USA",dunadan
+"""been""","Lincoln City, OR, USA",dunadan
+"""been""","East Glacier Park, MT, USA",dunadan
+"""been""","Wallowa, OR, USA",dunadan
+"""been""","Tamarindo, Costa Rica",dunadan
+"""been""","Heredia, Costa Rica",dunadan
+"""been""","Chilamate, Costa Rica",dunadan
+"""been""","Phoenix, AZ, USA",dunadan
+"""been""","Lynnwood, WA, USA",dunadan
+"""been""","Ellensburg, WA, USA",dunadan
+"""been""","Quinault, WA, USA",dunadan
+"""been""","Ashford, UK",dunadan
+"""been""","Santa Monica, CA, USA",dunadan
+"""been""","Lake Forest Park, WA, USA",dunadan
+"""been""","Tukwila, WA, USA",dunadan
+"""been""","West Hollywood, CA, USA",dunadan
+"""been""","Kailua-Kona, HI, USA",dunadan
+"""been""","Saanich, British Columbia, Canada",dunadan
+"""been""","San Diego, CA, USA",dunadan
+"""been""","Kihei, HI, USA",dunadan
+"""been""","Lahaina, HI, USA",dunadan
+"""been""","Choteau, MT, USA",dunadan
+"""been""","Fort Lauderdale, FL, USA",dunadan
+"""been""","Kalispell, MT, USA",dunadan
+"""want""","Berlin, Germany",dunadan
+"""been""","San Jose, Costa Rica",dunadan
+"""been""","Larkspur, CA, USA",dunadan
+"""been""","Dallas, TX, USA",dunadan
+"""been""","Thirsk, UK",dunadan
+"""been""","Lacey, WA, USA",dunadan
+"""been""","La Push, WA, USA",dunadan
+"""been""","Paia, HI, USA",dunadan
+"""been"",""fave""","Seattle, WA, USA",dunadan
+"""been""","Yellowstone National Park, WY, USA",dunadan
+"""been""","Makawao, HI, USA",dunadan
+"""been""","Pacific Beach, WA, USA",dunadan
+"""been""","Toutle, WA, USA",dunadan
+"""been""","La Conner, WA, USA",dunadan
+"""been""","Wailuku, HI, USA",dunadan
+"""been""","Kirkland, WA, USA",dunadan
+"""been""","Belley, France",dunadan
+"""been""","Kingston, WA, USA",dunadan
+"""been""","San Jose, CA, USA",dunadan
+"""want""","Prague, Czech Republic",dunadan
+"""been"",""fave""","Leavenworth, WA, USA",dunadan
+"""been""","San Isidro, Costa Rica",dunadan
+"""been""","York, UK",dunadan
+"""been""","Koloa, HI, USA",dunadan
+"""been""","Kilauea, HI, USA",dunadan
+"""been""","Denver, CO, USA",dunadan
+"""been""","Lihue, HI, USA",dunadan
+"""been""","Isle of Skye, UK",dunadan
+"""want""","New Orleans, LA, USA",dunadan
+"""been""","Isle of Mull, UK",dunadan
+"""been""","Columbia Falls, MT, USA",dunadan
+"""been""","John Day, OR, USA",dunadan
+"""been""","Monterey, CA, USA",dunadan
+"""been""","Joseph, OR, USA",dunadan
+"""been""","Santa Ana, Costa Rica",dunadan
+"""want""","Rome, Italy",dunadan
+"""been""","Poipu, HI, USA",dunadan
+"""been""","Plain, WA, USA",dunadan
+"""been""","Deer Harbor, WA, USA",dunadan
+"""been""","Langley, WA, USA",dunadan
+"""been""","Peshastin, WA, USA",dunadan
+"""want""","Boston, MA, USA",dunadan
+"""been""","Waimea, HI, USA",dunadan
+"""been""","Princeville, HI, USA",dunadan
+"""been""","Tumwater, WA, USA",dunadan
+"""been""","Lake Stevens, WA, USA",dunadan
+"""been""","Sultan, WA, USA",dunadan
+"""been""","Flagstaff, AZ, USA",dunadan
+"""been""","Eleele, HI, USA",dunadan
+"""been""","Hanalei, HI, USA",dunadan
+"""been""","Ieper (Ypres), Belgium",dunadan
+"""been""","Moscow, ID, USA",dunadan
+"""been""","Coeur d'Alene, ID, USA",dunadan
+"""been""","Helena, MT, USA",dunadan
+"""been""","Recess, Ireland",dunadan
+"""been""","Charlton Kings, UK",dunadan
+"""been""","Ballymoney, UK",dunadan
+"""been""","Williams, AZ, USA",dunadan
+"""been""","Colfax, WA, USA",dunadan
+"""been""","Grand Cayman, Cayman Islands",dunadan
+"""been""","Clinton, WA, USA",dunadan
+"""been""","Bruges, Belgium",dunadan
+"""been""","Ocean Shores, WA, USA",dunadan
+"""been""","Tulalip, WA, USA",dunadan
+"""been""","Cle Elum, WA, USA",dunadan
+"""been""","Hanapepe, HI, USA",dunadan
+"""been""","Kapaa, HI, USA",dunadan
+"""been""","Clallam Bay, WA, USA",dunadan
+"""been"",""fave""","Kalaheo, HI, USA",dunadan
+"""been""","Oak Harbor, WA, USA",dunadan
+"""been""","Startup, WA, USA",dunadan
+"""been""","Plano, TX, USA",dunadan
+"""been""","Bath, UK",dunadan
+"""been""","Humptulips, WA, USA",dunadan
+"""been""","Kekaha, HI, USA",dunadan
+"""been""","Sprague, WA, USA",dunadan
+"""been""","Cupertino, CA, USA",dunadan
+"""been""","Bynum, MT, USA",dunadan
+"""been""","Orick, CA, USA",dunadan
+"""been""","Redcrest, CA, USA",dunadan
+"""been""","Weott, CA, USA",dunadan
+"""been""","Saint Mary, MT, USA",dunadan
+"""been""","San Bernardino, CA, USA",dunadan
+"""been""","Ghent, Belgium",dunadan
+"""been""","Kinvara, Ireland",dunadan
+"""been""","Marrowstone Island, WA, USA",dunadan
+"""been""","Milpitas, CA, USA",dunadan
+"""been""","Stirling, UK",dunadan
+"""been""","Copalis Beach, WA, USA",dunadan
+"""been""","Anaconda, MT, USA",dunadan
+"""been""","Orcas Island, WA, USA",dunadan
+"""been""","Kenmore, WA, USA",dunadan
+"""been""","Kelso, WA, USA",dunadan
+"""been""","Oxford, UK",dunadan
+"""been""","Tacoma, WA, USA",dunadan
+"""been""","Volcano, HI, USA",dunadan
+"""been""","Olympia, WA, USA",dunadan
+"""been""","Olga, WA, USA",dunadan
+"""been""","Eureka, CA, USA",dunadan
+"""been""","The Dalles, OR, USA",dunadan
+"""been""","Burbank, CA, USA",dunadan
+"""been""","Ocean City, WA, USA",dunadan
+"""been""","Lewiston, ID, USA",dunadan
+"""been""","White Bird, ID, USA",dunadan
+"""been""","Cashel, Ireland",dunadan
+"""been""","Castleblayney, Ireland",dunadan
+"""been""","Donore, Ireland",dunadan
+"""been""","Snoqualmie, WA, USA",dunadan
+"""been""","Birdlip, UK",dunadan
+"""been""","Snohomish, WA, USA",dunadan
+"""been""","Mukilteo, WA, USA",dunadan
+"""been""","Navan, Ireland",dunadan
+"""been""","Chartres, France",dunadan
+"""been""","Cannon Beach, OR, USA",dunadan
+"""been""","San Francisco, CA, USA",dunadan
+"""been""","Skykomish, WA, USA",dunadan
+"""been""","Mountlake Terrace, WA, USA",dunadan
+"""been""","Friday Harbor, WA, USA",dunadan
+"""been""","Mount Vernon, WA, USA",dunadan
+"""been""","Granite Falls, WA, USA",dunadan
+"""been""","Dunfanaghy, Ireland",dunadan
+"""been""","Sumpter, OR, USA",dunadan
+"""been""","Juneau, AK, USA",dunadan
+"""been""","Shoreline, WA, USA",dunadan
+"""been""","Sunriver, OR, USA",dunadan
+"""been""","Guildford, UK",dunadan
+"""been""","Deer Lodge, MT, USA",dunadan
+"""been""","Morestel, France",dunadan
+"""been""","Stanton, UK",dunadan
+"""been""","Kawaihae, HI, USA",dunadan
+"""been""","Ferndale, CA, USA",dunadan
+"""been""","Vancouver, WA, USA",dunadan
+"""been""","Miami, FL, USA",dunadan
+"""been""","Amboise, France",dunadan
+"""been""","Portree, UK",dunadan
+"""been""","Hoquiam, WA, USA",dunadan
+"""been""","Carrick, Ireland",dunadan
+"""been""","Spokane, WA, USA",dunadan
+"""been""","Carlow, Ireland",dunadan
+"""been""","Crescent City, CA, USA",dunadan
+"""been""","Brooklyn, NY, USA",dunadan
+"""been""","Neah Bay, WA, USA",dunadan
+"""been""","Tillamook, OR, USA",dunadan
+"""been""","Silver Lake, WA, USA",dunadan
+"""been""","Anaheim, CA, USA",dunadan
+"""been"",""fave""","Paris, France",dunadan
+"""been""","Versailles, France",dunadan
+"""been""","Raleigh, NC, USA",dunadan
+"""been""","Brasilito, Costa Rica",dunadan
+"""been"",""want""","Amsterdam, The Netherlands",dunadan
+"""been""","Annecy, France",dunadan
+"""been""","North Vancouver, British Columbia, Canada",dunadan
+"""been""","Loch Awe, UK",dunadan
+"""been""","Richmond, British Columbia, Canada",dunadan
+"""been""","Lyon, France",dunadan
+"""been""","Kilfenora, Ireland",dunadan
+"""been""","Winchcombe, UK",dunadan
+"""been""","Seaside, OR, USA",dunadan
+"""been""","Austin, TX, USA",dunadan
+"""been""","Silverlake, WA, USA",dunadan
+"""been""","Stow-on-the-Wold, UK",dunadan
+"""been""","Painswick, UK",dunadan
+"""been""","Moreton-in-Marsh, UK",dunadan
+"""been""","Twin Falls, ID, USA",dunadan
+"""want""","Barcelona, Spain",dunadan
+"""been""","Galway, Ireland",dunadan
+"""been""","Carbost, UK",dunadan
+"""been""","Kooskia, ID, USA",dunadan
+"""been""","Dublin, Ireland",dunadan
+"""been""","Monroe, WA, USA",dunadan
+"""been""","Sequim, WA, USA",dunadan
+"""been""","Narin-Portnoo, Ireland",dunadan
+"""been""","Sekiu, WA, USA",dunadan
+"""been""","Moclips, WA, USA",dunadan
+"""been""","Hiouchi, CA, USA",dunadan
+"""been""","Sedro Woolley, WA, USA",dunadan
+"""been""","Salt Lake City, UT, USA",dunadan
+"""been""","Seaview, WA, USA",dunadan
+"""been""","Port Angeles, WA, USA",dunadan
+"""been""","Puerto Vallarta, Mexico",dunadan
+"""been""","SeaTac, WA, USA",dunadan
+"""been""","Mill Creek, WA, USA",dunadan
+"""been""","Cheltenham, UK",dunadan
+"""been""","Ketchikan, AK, USA",dunadan
+"""been""","Astoria, OR, USA",dunadan
+"""been""","Chelan, WA, USA",dunadan
+"""been""","Naalehu, HI, USA",dunadan
+"""been""","Centralia, WA, USA",dunadan
+"""been""","Marina del Rey, CA, USA",dunadan
+"""been""","Klamath, CA, USA",dunadan
+"""been""","Clifden, Ireland",dunadan
+"""been""","Kealakekua, HI, USA",dunadan
+"""been""","Bandon, OR, USA",dunadan
+"""been""","Reno, NV, USA",dunadan
+"""been""","Kilmore, UK",dunadan
+"""been""","Gardiner, OR, USA",dunadan
+"""want""","Tokyo, Japan",dunadan
+"""been""","Baker City, OR, USA",dunadan
+"""been""","Fossil, OR, USA",dunadan
+"""been""","Portrush, UK",dunadan
+"""been""","North Bend, OR, USA",dunadan
+"""been""","Renton, WA, USA",dunadan
+"""been""","La Virgen, Costa Rica",dunadan
+"""been""","Whidbey Island, WA, USA",dunadan
+"""been""","Redmond, WA, USA",dunadan
+"""been""","Rockaway Beach, OR, USA",dunadan
+"""been""","Aberdeen, WA, USA",dunadan
+"""been""","Wenatchee, WA, USA",dunadan
+"""been""","Roseburg, OR, USA",dunadan
+"""been""","Castle Rock, WA, USA",dunadan
+"""been""","Cashmere, WA, USA",dunadan
+"""been""","Hilo, HI, USA",dunadan
+"""been""","Oban, UK",dunadan
+"""been""","Waimea, HI, USA",dunadan
+"""been""","Ballintoy, UK",dunadan
+"""been""","Whitehall, MT, USA",dunadan
+"""been""","Whitefish, MT, USA",dunadan
+"""been""","Orlando, FL, USA",dunadan
+"""been""","Captain Cook, HI, USA",dunadan
+"""been""","Bushmills, UK",dunadan
+"""been""","Bend, OR, USA",dunadan
+"""been""","Bozeman, MT, USA",dunadan
+"""been""","Woodinville, WA, USA",dunadan
+"""been""","Roche Harbor, WA, USA",dunadan
+"""been""","Winthrop, WA, USA",dunadan
+"""been""","Kilrush, Ireland",dunadan
+"""been""","Chimacum, WA, USA",dunadan
+"""been""","Salem, OR, USA",dunadan
+"""been""","Jerome, ID, USA",dunadan
+"""been""","Gold Bar, WA, USA",dunadan
+"""been""","Gasquet, CA, USA",dunadan
+"""been""","Chipping Campden, UK",dunadan
+"""been""","Olympic National Park, WA, USA",dunadan
+"""been""","Newry, UK",dunadan
+"""been""","Victoria, British Columbia, Canada",dunadan
+"""been""","Huachuca City, AZ, USA",dunadan
+"""been""","Whistler, British Columbia, Canada",dunadan
+"""been""","Vader, WA, USA",dunadan
+"""been""","Alajuela, Costa Rica",dunadan
+"""been""","Poas Volcano National Park, Costa Rica",dunadan
+"""been""","Ardara, Ireland",dunadan
+"""been""","Ka'anapali, HI, USA",dunadan
+"""been""","Allen, TX, USA",dunadan
+"""been""","La Fortuna de San Carlos, Costa Rica",dunadan
+"""been""","Winchester Bay, OR, USA",dunadan
+"""been"",""want""","Vancouver, British Columbia, Canada",dunadan
+"""been""","Portland, OR, USA",dunadan
+"""been""","Glacier, WA, USA",dunadan
+"""been""","Brier, WA, USA",dunadan
+"""been""","Letterkenny, Ireland",dunadan
+"""been""","Bremerton, WA, USA",dunadan
+"""want""","Edinburgh, UK",dunadan
+"""been""","Cong, Ireland",dunadan
+"""been""","Howth, Ireland",dunadan
+"""been""","Hawaii Volcanoes National Park, HI, USA",dunadan
+"""been""","Florence, OR, USA",dunadan
+"""been""","Eugene, OR, USA",dunadan
+"""been""","Anacortes, WA, USA",dunadan
+"""been""","Paramus, NJ, USA",dunadan
+"""been""","Falls Church, VA, USA",dunadan
+"""been""","Reedsport, OR, USA",dunadan
+"""been""","Camano Island, WA, USA",dunadan
+"""been""","Sedona, AZ, USA",dunadan
+"""been""","Burlington, WA, USA",dunadan
+"""been""","Grand Coulee, WA, USA",dunadan
+"""been"",""want""","Boise, ID, USA",dunadan

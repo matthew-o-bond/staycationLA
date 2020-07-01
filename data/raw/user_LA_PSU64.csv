@@ -1,0 +1,371 @@
+tag,place,user
+"""been"",""fave""","Santorini, Greece",PSU64
+"""been"",""fave""","Guilin, China",PSU64
+"""been"",""fave""","Barcelona, Spain",PSU64
+"""been"",""fave""","Xi'an, China",PSU64
+"""been"",""fave""","Portree, UK",PSU64
+"""been"",""fave""","Mont-Saint-Michel, France",PSU64
+"""been"",""fave""","Saint Louis, MO, USA",PSU64
+"""been"",""want""","Dublin, Ireland",PSU64
+"""been"",""fave""","Kirkwall, UK",PSU64
+"""been""","Galway, Ireland",PSU64
+"""been"",""fave""","Los Angeles, CA, USA",PSU64
+"""been"",""want"",""fave""","Manchester, NH, USA",PSU64
+"""been"",""fave""","Annapolis, MD, USA",PSU64
+"""been"",""fave""","Chicago, IL, USA",PSU64
+"""been"",""fave""","Louisville, KY, USA",PSU64
+"""been"",""fave""","Svartsengi, Iceland",PSU64
+"""been"",""fave""","Mykonos, Greece",PSU64
+"""been"",""fave""","Lyon, France",PSU64
+"""been"",""fave""","Zurich, Switzerland",PSU64
+"""been"",""fave""","Hershey, PA, USA",PSU64
+"""been"",""fave""","Paris, France",PSU64
+"""been"",""fave""","Kyoto, Japan",PSU64
+"""been"",""fave""","Daytona Beach, FL, USA",PSU64
+"""been""","Tropic, UT, USA",PSU64
+"""been"",""fave""","Osaka, Japan",PSU64
+"""been"",""fave""","Taos, NM, USA",PSU64
+"""been"",""fave""","Genoa, Italy",PSU64
+"""want""","Palm - Eagle Beach, Aruba",PSU64
+"""been"",""fave""","Wildwood Crest, NJ, USA",PSU64
+"""been"",""fave""","Las Vegas, NV, USA",PSU64
+"""been"",""fave""","Wildwood, NJ, USA",PSU64
+"""been"",""fave""","San Pedro de Atacama, Chile",PSU64
+"""been""","Bridgeville, PA, USA",PSU64
+"""been""","Monroeville, PA, USA",PSU64
+"""been"",""want""","Washington DC, DC, USA",PSU64
+"""been"",""fave""","St. Petersburg, FL, USA",PSU64
+"""been"",""fave""","Amsterdam, The Netherlands",PSU64
+"""been"",""fave""","Chamonix, France",PSU64
+"""been"",""fave""","Arlington, VA, USA",PSU64
+"""been"",""fave""","Rehoboth Beach, DE, USA",PSU64
+"""been"",""fave""","Ankara, Turkey",PSU64
+"""been"",""fave""","Baden-Baden, Germany",PSU64
+"""been"",""fave""","Dresden, Germany",PSU64
+"""been"",""fave""","Salzburg, Austria",PSU64
+"""been"",""fave""","Agra, India",PSU64
+"""been"",""fave""","Victoria Falls, Zimbabwe",PSU64
+"""been"",""fave""","Corfu, Greece",PSU64
+"""been"",""fave""","Boise, ID, USA",PSU64
+"""been"",""fave""","Erie, PA, USA",PSU64
+"""been""","Belgrade, MT, USA",PSU64
+"""been"",""fave""","Philadelphia, PA, USA",PSU64
+"""been"",""fave""","Bratislava, Slovakia",PSU64
+"""been"",""fave""","Victoria Falls, Zambia",PSU64
+"""been"",""fave""","Nashua, NH, USA",PSU64
+"""been"",""fave""","Indianapolis, IN, USA",PSU64
+"""want""","Billings, MT, USA",PSU64
+"""been"",""fave""","Sarasota, FL, USA",PSU64
+"""been"",""fave""","Norfolk, VA, USA",PSU64
+"""been"",""fave""","Malibu, CA, USA",PSU64
+"""been""","Montpellier, France",PSU64
+"""been"",""fave""","West Palm Beach, FL, USA",PSU64
+"""been"",""fave""","Kansas City, MO, USA",PSU64
+"""been"",""fave""","Vienna, Austria",PSU64
+"""been"",""fave""","New Delhi, India",PSU64
+"""been"",""fave""","Mumbai, India",PSU64
+"""been"",""fave""","Jaipur, India",PSU64
+"""been"",""fave""","Ushuaia, Argentina",PSU64
+"""been""","Tierra del Fuego National Park, Argentina",PSU64
+"""been"",""fave""","Milan, Italy",PSU64
+"""been"",""fave""","Kruger National Park, South Africa",PSU64
+"""been"",""fave""","Minneapolis, MN, USA",PSU64
+"""been"",""fave""","Grindavik, Iceland",PSU64
+"""been""","Hella, Iceland",PSU64
+"""been"",""fave""","Merrimack, NH, USA",PSU64
+"""been"",""fave""","Scottsdale, AZ, USA",PSU64
+"""been""","Kolkata (Calcutta), India",PSU64
+"""been"",""fave""","Sedona, AZ, USA",PSU64
+"""been""","Washington, PA, USA",PSU64
+"""been""","Mariposa, CA, USA",PSU64
+"""been"",""fave""","Marina del Rey, CA, USA",PSU64
+"""been"",""fave""","Heidelberg, Germany",PSU64
+"""been"",""fave""","Sheffield, UK",PSU64
+"""been"",""fave""","Cambridge, MA, USA",PSU64
+"""been"",""fave""","Milwaukee, WI, USA",PSU64
+"""been"",""fave""","Frankfurt, Germany",PSU64
+"""been"",""fave""","Lima, Peru",PSU64
+"""been"",""fave""","Prague, Czech Republic",PSU64
+"""been"",""fave""","Richmond, VA, USA",PSU64
+"""been"",""fave""","Cusco, Peru",PSU64
+"""been"",""fave""","Cairns, Australia",PSU64
+"""been"",""fave""","Machu Picchu, Peru",PSU64
+"""been""","Monterey, CA, USA",PSU64
+"""been"",""fave""","Pasadena, CA, USA",PSU64
+"""been"",""fave""","Cambridge, OH, USA",PSU64
+"""been"",""fave""","Darwin, Australia",PSU64
+"""been""","Thingvellir, Iceland",PSU64
+"""been"",""fave""","Fort Walton Beach, FL, USA",PSU64
+"""been"",""fave""","Fort Myers Beach, FL, USA",PSU64
+"""been"",""fave""","New Hope, PA, USA",PSU64
+"""been"",""fave""","Cape Canaveral, FL, USA",PSU64
+"""been"",""fave""","Sydney, Australia",PSU64
+"""been"",""fave""","Denver, CO, USA",PSU64
+"""been"",""fave""","St. Augustine, FL, USA",PSU64
+"""been"",""fave""","Saint Paul, MN, USA",PSU64
+"""been"",""fave""","Athens, Greece",PSU64
+"""been"",""fave""","Beverly Hills, CA, USA",PSU64
+"""been"",""fave""","Giza, Egypt",PSU64
+"""been"",""fave""","Cairo, Egypt",PSU64
+"""been"",""fave""","Nairobi, Kenya",PSU64
+"""been"",""fave""","Siena, Italy",PSU64
+"""been"",""fave""","Aswan, Egypt",PSU64
+"""been"",""fave""","Ocean City, NJ, USA",PSU64
+"""been"",""fave""","Luxor, Egypt",PSU64
+"""been"",""fave""","Assisi, Italy",PSU64
+"""been"",""fave""","Death Valley Junction, CA, USA",PSU64
+"""been"",""fave""","Maasai Mara National Reserve, Kenya",PSU64
+"""been"",""fave""","Taipei, Taiwan",PSU64
+"""been"",""fave""","Cape May, NJ, USA",PSU64
+"""been"",""fave""","Durango, CO, USA",PSU64
+"""been"",""fave""","Williamsburg, VA, USA",PSU64
+"""been"",""fave""","Dijon, France",PSU64
+"""been"",""fave""","Nice, France",PSU64
+"""been"",""fave""","Seward, AK, USA",PSU64
+"""been"",""fave""","Cincinnati, OH, USA",PSU64
+"""been"",""fave""","San Diego, CA, USA",PSU64
+"""been"",""fave""","West Yellowstone, MT, USA",PSU64
+"""been""","Missoula, MT, USA",PSU64
+"""been""","Skagway, AK, USA",PSU64
+"""been"",""fave""","Henderson, NV, USA",PSU64
+"""been"",""fave""","Yellowstone National Park, WY, USA",PSU64
+"""been"",""fave""","Easter Island, Chile",PSU64
+"""been"",""fave""","Portland, ME, USA",PSU64
+"""been"",""fave""","St. George, Bermuda",PSU64
+"""been"",""fave""","Hamilton, Bermuda",PSU64
+"""been""","Jasper, Alberta, Canada",PSU64
+"""been""","Jasper National Park, Alberta, Canada",PSU64
+"""been""","Lake Louise, Alberta, Canada",PSU64
+"""been""","Haines Junction, Yukon, Canada",PSU64
+"""been""","Banff, Alberta, Canada",PSU64
+"""been""","Calgary, Alberta, Canada",PSU64
+"""been"",""want"",""fave""","Anchorage, AK, USA",PSU64
+"""been"",""fave""","Toledo, Spain",PSU64
+"""been"",""fave""","New York City, NY, USA",PSU64
+"""been"",""want""","Santiago, Chile",PSU64
+"""been"",""fave""","Bologna, Italy",PSU64
+"""been""","Puako, HI, USA",PSU64
+"""been"",""fave""","Guatemala City, Guatemala",PSU64
+"""been"",""fave""","Omaha, NE, USA",PSU64
+"""been"",""want"",""fave""","Quito, Ecuador",PSU64
+"""been"",""fave""","Deception Island, Antarctica",PSU64
+"""been""","Dingle, Ireland",PSU64
+"""been"",""fave""","Rapid City, SD, USA",PSU64
+"""been"",""fave""","Ventura, CA, USA",PSU64
+"""been"",""fave""","Alexandria, VA, USA",PSU64
+"""been"",""fave""","Long Beach, CA, USA",PSU64
+"""been"",""fave""","Cocoa Beach, FL, USA",PSU64
+"""been"",""want"",""fave""","Pittsburgh, PA, USA",PSU64
+"""been"",""want"",""fave""","Phoenix, AZ, USA",PSU64
+"""been"",""fave""","Copenhagen, Denmark",PSU64
+"""been"",""fave""","Plymouth, MA, USA",PSU64
+"""been"",""fave""","Lisbon, Portugal",PSU64
+"""been""","Goreme, Turkey",PSU64
+"""been"",""fave""","Florence, Italy",PSU64
+"""been"",""fave""","Nevsehir, Turkey",PSU64
+"""been""","Hawaii Volcanoes National Park, HI, USA",PSU64
+"""been"",""fave""","Pisa, Italy",PSU64
+"""been"",""fave""","Flagstaff, AZ, USA",PSU64
+"""been""","Charleston, SC, USA",PSU64
+"""been"",""fave""","Torres del Paine National Park, Chile",PSU64
+"""been"",""fave""","Buffalo, NY, USA",PSU64
+"""been"",""fave""","Madison, WI, USA",PSU64
+"""been""","Knoxville, TN, USA",PSU64
+"""been"",""fave""","Miami Beach, FL, USA",PSU64
+"""been"",""fave""","Newport, RI, USA",PSU64
+"""been"",""fave""","Halifax, Nova Scotia, Canada",PSU64
+"""been"",""fave""","Miami, FL, USA",PSU64
+"""been"",""fave""","Newark, NJ, USA",PSU64
+"""been"",""fave""","Charlotte, NC, USA",PSU64
+"""been"",""fave""","Cumberland, OH, USA",PSU64
+"""been"",""fave""","Pensacola, FL, USA",PSU64
+"""been"",""fave""","State College, PA, USA",PSU64
+"""been"",""fave""","Harrisburg, PA, USA",PSU64
+"""been"",""fave""","Anaheim, CA, USA",PSU64
+"""been"",""fave""","Tampa, FL, USA",PSU64
+"""been"",""fave""","Lucerne, Switzerland",PSU64
+"""been"",""fave""","Sorrento, Italy",PSU64
+"""been""","Capri, Italy",PSU64
+"""been"",""fave""","Rotterdam, The Netherlands",PSU64
+"""been"",""fave""","Naples, Italy",PSU64
+"""been"",""fave""","Ogunquit, ME, USA",PSU64
+"""been"",""fave""","Pompeii, Italy",PSU64
+"""been""","Kochi (Cochin), India",PSU64
+"""been"",""fave""","Dakar, Senegal",PSU64
+"""been"",""fave""","London, UK",PSU64
+"""been"",""want"",""fave""","Honolulu, HI, USA",PSU64
+"""been"",""fave""","Jersey City, NJ, USA",PSU64
+"""been"",""fave""","Munich, Germany",PSU64
+"""been""","Opatija, Croatia",PSU64
+"""been"",""fave""","Syracuse, NY, USA",PSU64
+"""been"",""fave""","Boston, MA, USA",PSU64
+"""been"",""fave""","Charlotte Amalie, U.S. Virgin Islands",PSU64
+"""been"",""fave""","New Orleans, LA, USA",PSU64
+"""been"",""fave""","Asheville, NC, USA",PSU64
+"""been""","Baltra, Ecuador",PSU64
+"""been"",""fave""","Warsaw, Poland",PSU64
+"""been""","Poipu, HI, USA",PSU64
+"""been"",""fave""","Toronto, Ontario, Canada",PSU64
+"""been"",""fave""","Stellenbosch, South Africa",PSU64
+"""been""","Ranthambore National Park, India",PSU64
+"""been"",""fave""","Portsmouth, NH, USA",PSU64
+"""been"",""fave""","Stockholm, Sweden",PSU64
+"""been""","Springdale, UT, USA",PSU64
+"""been""","Yosemite National Park, CA, USA",PSU64
+"""been""","Bryce Canyon National Park, UT, USA",PSU64
+"""been"",""fave""","Vik, Iceland",PSU64
+"""been"",""want""","Zagreb, Croatia",PSU64
+"""been"",""fave""","Antalya, Turkey",PSU64
+"""been"",""fave""","Beijing, China",PSU64
+"""been"",""fave""","Tucson, AZ, USA",PSU64
+"""been"",""fave""","Manuel Antonio, Costa Rica",PSU64
+"""been"",""fave""","Aberdare National Park, Kenya",PSU64
+"""been"",""fave""","Hong Kong, China",PSU64
+"""been"",""fave""","North Wildwood, NJ, USA",PSU64
+"""been"",""fave""","Rothenburg, Germany",PSU64
+"""been""","Gustavus, AK, USA",PSU64
+"""been"",""fave""","Bloomington, MN, USA",PSU64
+"""been"",""fave""","Salem, MA, USA",PSU64
+"""want""","Ho Chi Minh City, Vietnam",PSU64
+"""been"",""fave""","Rochester, NY, USA",PSU64
+"""want""","Hanoi, Vietnam",PSU64
+"""been"",""fave""","Santa Fe, NM, USA",PSU64
+"""been""","Churchill, Manitoba, Canada",PSU64
+"""want""","Bangkok, Thailand",PSU64
+"""been"",""fave""","San Antonio, TX, USA",PSU64
+"""been""","Winnipeg, Manitoba, Canada",PSU64
+"""been"",""want"",""fave""","San Francisco, CA, USA",PSU64
+"""been"",""fave""","Page, AZ, USA",PSU64
+"""been"",""fave""","Montauk, NY, USA",PSU64
+"""been"",""fave""","Acadia National Park, ME, USA",PSU64
+"""been"",""fave""","Samburu National Reserve, Kenya",PSU64
+"""been"",""fave""","Lexington, KY, USA",PSU64
+"""been"",""fave""","Sandusky, OH, USA",PSU64
+"""been"",""fave""","Reykjavik, Iceland",PSU64
+"""been"",""want"",""fave""","Rome, Italy",PSU64
+"""been"",""fave""","Bakersfield, CA, USA",PSU64
+"""been""","Dallas, TX, USA",PSU64
+"""been"",""fave""","Grand Teton National Park, WY, USA",PSU64
+"""been"",""fave""","Granada, Spain",PSU64
+"""been"",""fave""","Kennebunkport, ME, USA",PSU64
+"""been"",""fave""","Seville, Spain",PSU64
+"""been""","Ljubljana, Slovenia",PSU64
+"""been""","Grand Canyon National Park, AZ, USA",PSU64
+"""been"",""fave""","Johannesburg, South Africa",PSU64
+"""been"",""fave""","San Jose, CA, USA",PSU64
+"""been"",""fave""","Glacier National Park, MT, USA",PSU64
+"""been"",""fave""","Traverse City, MI, USA",PSU64
+"""been"",""fave""","Fort Myers, FL, USA",PSU64
+"""been"",""fave""","Carmel, CA, USA",PSU64
+"""been"",""fave""","Gatlinburg, TN, USA",PSU64
+"""been"",""fave""","Ann Arbor, MI, USA",PSU64
+"""been"",""fave""","San Jose, Costa Rica",PSU64
+"""been"",""fave""","St. Moritz, Switzerland",PSU64
+"""been"",""fave""","West Hollywood, CA, USA",PSU64
+"""been"",""fave""","Lugano, Switzerland",PSU64
+"""been"",""fave""","Fort Lauderdale, FL, USA",PSU64
+"""been"",""fave""","Naples, FL, USA",PSU64
+"""been"",""want"",""fave""","Jackson, WY, USA",PSU64
+"""been"",""fave""","Ithaca, NY, USA",PSU64
+"""been"",""fave""","Ocean City, MD, USA",PSU64
+"""been"",""fave""","Eilat, Israel",PSU64
+"""been"",""fave""","Antigua, Guatemala",PSU64
+"""been"",""fave""","Jerusalem, Israel",PSU64
+"""been"",""fave""","Turin, Italy",PSU64
+"""been"",""fave""","Haifa, Israel",PSU64
+"""been"",""fave""","North Myrtle Beach, SC, USA",PSU64
+"""been"",""fave""","Edinburgh, UK",PSU64
+"""been"",""fave""","Tel Aviv, Israel",PSU64
+"""been"",""fave""","Boothbay Harbor, ME, USA",PSU64
+"""been"",""fave""","Hurghada, Egypt",PSU64
+"""been"",""fave""","Baltimore, MD, USA",PSU64
+"""been"",""fave""","Auckland Central, New Zealand",PSU64
+"""been""","Haines, AK, USA",PSU64
+"""been"",""fave""","La Jolla, CA, USA",PSU64
+"""been"",""fave""","Savannah, GA, USA",PSU64
+"""been"",""fave""","Albuquerque, NM, USA",PSU64
+"""been"",""fave""","Orlando, FL, USA",PSU64
+"""been""","Farmington, PA, USA",PSU64
+"""been"",""fave""","Melbourne, Australia",PSU64
+"""been"",""fave""","Cleveland, OH, USA",PSU64
+"""been"",""fave""","Buenos Aires, Argentina",PSU64
+"""been"",""fave""","Luxembourg City, Luxembourg",PSU64
+"""been"",""fave""","Monument Valley, UT, USA",PSU64
+"""been"",""fave""","Detroit, MI, USA",PSU64
+"""been"",""fave""","Manchester, UK",PSU64
+"""been"",""fave""","Udaipur, India",PSU64
+"""been"",""fave""","Krakow, Poland",PSU64
+"""been"",""fave""","St. Andrews, UK",PSU64
+"""been"",""fave""","Glasgow, UK",PSU64
+"""been"",""fave""","Sharm El Sheikh, Egypt",PSU64
+"""been"",""fave""","Dearborn, MI, USA",PSU64
+"""been"",""fave""","Grand Rapids, MI, USA",PSU64
+"""been"",""fave""","Christchurch, New Zealand",PSU64
+"""been"",""fave""","Fairbanks, AK, USA",PSU64
+"""been"",""fave""","Lancaster, PA, USA",PSU64
+"""been"",""want"",""fave""","Providence, RI, USA",PSU64
+"""been"",""fave""","Bar Harbor, ME, USA",PSU64
+"""been"",""fave""","San Juan, Puerto Rico",PSU64
+"""been"",""fave""","Rotorua, New Zealand",PSU64
+"""been""","Bozeman, MT, USA",PSU64
+"""been"",""fave""","Brooklyn, NY, USA",PSU64
+"""been"",""fave""","Virginia Beach, VA, USA",PSU64
+"""been"",""fave""","Howard, PA, USA",PSU64
+"""been"",""fave""","Livingstone, Zambia",PSU64
+"""been""","Wellsboro, PA, USA",PSU64
+"""been"",""want""","Dubrovnik, Croatia",PSU64
+"""been""","Hoi An, Vietnam",PSU64
+"""been"",""fave""","Laguna Beach, CA, USA",PSU64
+"""been"",""fave""","Myrtle Beach, SC, USA",PSU64
+"""been""","Hvar, Croatia",PSU64
+"""been"",""fave""","Venice, Italy",PSU64
+"""been"",""fave""","Duluth, MN, USA",PSU64
+"""been"",""fave""","Arenal Volcano National Park, Costa Rica",PSU64
+"""been"",""fave""","Thurso, UK",PSU64
+"""been"",""fave""","Inverness, UK",PSU64
+"""been"",""fave""","Fort William, UK",PSU64
+"""been"",""fave""","Helsinki, Finland",PSU64
+"""been""","Zion National Park, UT, USA",PSU64
+"""been"",""fave""","Madrid, Spain",PSU64
+"""been"",""fave""","Nassau, Bahamas",PSU64
+"""been"",""fave""","Niagara Falls, Ontario, Canada",PSU64
+"""been"",""fave""","Atlantic City, NJ, USA",PSU64
+"""been""","Whitehorse, Yukon, Canada",PSU64
+"""been""","Doolin, Ireland",PSU64
+"""been"",""fave""","Queenstown, New Zealand",PSU64
+"""been"",""fave""","Lenox, MA, USA",PSU64
+"""been"",""fave""","Mount Kenya National Park, Kenya",PSU64
+"""been""","Juneau, AK, USA",PSU64
+"""been"",""fave""","Palm Beach, FL, USA",PSU64
+"""been"",""fave""","Columbus, OH, USA",PSU64
+"""been""","Chattanooga, TN, USA",PSU64
+"""been""","Sequoia and Kings Canyon National Park, CA, USA",PSU64
+"""been"",""fave""","Niagara-on-the-Lake, Ontario, Canada",PSU64
+"""been""","Sneem, Ireland",PSU64
+"""been""","Mont Tremblant, Quebec, Canada",PSU64
+"""been"",""fave""","Santa Cruz, Ecuador",PSU64
+"""been"",""fave""","Cape Town Central, South Africa",PSU64
+"""been"",""fave""","Geneva, Switzerland",PSU64
+"""been"",""fave""","Lake George, NY, USA",PSU64
+"""been"",""fave""","Montreal, Quebec, Canada",PSU64
+"""been"",""want"",""fave""","Istanbul, Turkey",PSU64
+"""been"",""fave""","Jamaica, NY, USA",PSU64
+"""been"",""fave""","Agadir, Morocco",PSU64
+"""been"",""fave""","Marrakech, Morocco",PSU64
+"""been"",""fave""","Quebec City, Quebec, Canada",PSU64
+"""been"",""fave""","Fes, Morocco",PSU64
+"""been"",""fave""","Shanghai, China",PSU64
+"""been"",""fave""","Rabat, Morocco",PSU64
+"""been"",""fave""","Port-au-Prince, Haiti",PSU64
+"""been"",""fave""","St. Petersburg, Russia",PSU64
+"""been"",""fave""","Tangier, Morocco",PSU64
+"""been"",""fave""","Niagara Falls, NY, USA",PSU64
+"""been"",""fave""","Big Sur, CA, USA",PSU64
+"""been"",""fave""","Huntsville, AL, USA",PSU64
+"""been"",""fave""","Salt Lake City, UT, USA",PSU64
+"""been"",""fave""","Lake Placid, NY, USA",PSU64
+"""been"",""fave""","Freeport, Bahamas",PSU64
+"""been"",""fave""","Jacksonville, FL, USA",PSU64
+"""been"",""fave""","Franschhoek, South Africa",PSU64
+"""been"",""fave""","Nashville, TN, USA",PSU64
+"""been"",""fave""","Tokyo, Japan",PSU64

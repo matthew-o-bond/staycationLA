@@ -1,0 +1,426 @@
+tag,place,user
+"""want""","Bremen, Germany",mona-isabella
+"""been""","Gulf Shores, AL, USA",mona-isabella
+"""been""","Wurzburg, Germany",mona-isabella
+"""want""","Granada, Spain",mona-isabella
+"""been"",""want"",""fave""","Berlin, Germany",mona-isabella
+"""been""","Phoenix, AZ, USA",mona-isabella
+"""want""","Seville, Spain",mona-isabella
+"""want""","Tangier, Morocco",mona-isabella
+"""been""","Johannesburg, South Africa",mona-isabella
+"""want""","Rabat, Morocco",mona-isabella
+"""want""","Fes, Morocco",mona-isabella
+"""want""","Marrakech, Morocco",mona-isabella
+"""been""","Selcuk, Turkey",mona-isabella
+"""want""","Portsmouth, Dominica",mona-isabella
+"""want""","Casablanca, Morocco",mona-isabella
+"""been"",""fave""","Istanbul, Turkey",mona-isabella
+"""want""","Melbourne, Australia",mona-isabella
+"""been""","Osage Beach, MO, USA",mona-isabella
+"""been""","Soweto, South Africa",mona-isabella
+"""been""","Saint James, MO, USA",mona-isabella
+"""been""","Saint Charles, MO, USA",mona-isabella
+"""been""","Potsdam, Germany",mona-isabella
+"""been""","Madinat Zayed, United Arab Emirates",mona-isabella
+"""been""","Frankfurt, Germany",mona-isabella
+"""want""","Hamburg, Germany",mona-isabella
+"""want""","Bilbao, Spain",mona-isabella
+"""been"",""fave""","Chicago, IL, USA",mona-isabella
+"""been""","Porretta Terme, Italy",mona-isabella
+"""want""","Dar es Salaam, Tanzania",mona-isabella
+"""been"",""fave""","Los Angeles, CA, USA",mona-isabella
+"""been""","Galveston, TX, USA",mona-isabella
+"""want""","Amman, Jordan",mona-isabella
+"""been"",""fave""","Hoi An, Vietnam",mona-isabella
+"""been""","Lafayette, LA, USA",mona-isabella
+"""been""","Da Nang, Vietnam",mona-isabella
+"""want""","Durban, South Africa",mona-isabella
+"""been""","Rolla, MO, USA",mona-isabella
+"""been""","Baton Rouge, LA, USA",mona-isabella
+"""want""","Bruges, Belgium",mona-isabella
+"""want""","Hopkins, Belize",mona-isabella
+"""want""","Guayaquil, Ecuador",mona-isabella
+"""want""","Vientiane, Laos",mona-isabella
+"""been""","Athens, Greece",mona-isabella
+"""want""","San Pedro Cholula, Mexico",mona-isabella
+"""want""","Christchurch, New Zealand",mona-isabella
+"""want""","Dakar, Senegal",mona-isabella
+"""been""","Gebze, Turkey",mona-isabella
+"""been""","Mudanya, Turkey",mona-isabella
+"""been""","Guthrie, OK, USA",mona-isabella
+"""been""","Hatta, United Arab Emirates",mona-isabella
+"""been""","Denton, TX, USA",mona-isabella
+"""want""","Nice, France",mona-isabella
+"""been""","Fort Worth, TX, USA",mona-isabella
+"""want""","Lusaka, Zambia",mona-isabella
+"""want""","Kampala, Uganda",mona-isabella
+"""want""","Colombo, Sri Lanka",mona-isabella
+"""been""","Al Ain, United Arab Emirates",mona-isabella
+"""want""","Tokyo, Japan",mona-isabella
+"""want""","Copenhagen, Denmark",mona-isabella
+"""been""","Kenner, LA, USA",mona-isabella
+"""want""","Kathmandu, Nepal",mona-isabella
+"""want""","Leipzig, Germany",mona-isabella
+"""been"",""fave""","Cape Town Central, South Africa",mona-isabella
+"""been""","Mannford, OK, USA",mona-isabella
+"""been""","Ridgeland, MS, USA",mona-isabella
+"""want""","Treasure Beach, Jamaica",mona-isabella
+"""want""","Santa Clara, Panama",mona-isabella
+"""want""","Lubeck, Germany",mona-isabella
+"""want""","Pisa, Italy",mona-isabella
+"""been""","Firostefani, Greece",mona-isabella
+"""want""","Lucca, Italy",mona-isabella
+"""want""","Reggio Calabria, Italy",mona-isabella
+"""been""","Perissa, Greece",mona-isabella
+"""want""","Florence, Italy",mona-isabella
+"""been""","Dallas, TX, USA",mona-isabella
+"""want""","Msida, Malta",mona-isabella
+"""been""","Leland, MS, USA",mona-isabella
+"""want""","Lalibela, Ethiopia",mona-isabella
+"""been""","Richland, MS, USA",mona-isabella
+"""want""","The Hague, The Netherlands",mona-isabella
+"""been""","Garmisch-Partenkirchen, Germany",mona-isabella
+"""been""","Erlangen, Germany",mona-isabella
+"""want""","Naples, Italy",mona-isabella
+"""want""","Fairhope, AL, USA",mona-isabella
+"""want""","Tehran, Iran",mona-isabella
+"""been""","Tunis, Tunisia",mona-isabella
+"""been""","London, UK",mona-isabella
+"""been""","Munich, Germany",mona-isabella
+"""been""","Clarksdale, MS, USA",mona-isabella
+"""want""","Reykjavik, Iceland",mona-isabella
+"""want""","Rome, Italy",mona-isabella
+"""been""","New Iberia, LA, USA",mona-isabella
+"""been""","Bulawayo, Zimbabwe",mona-isabella
+"""want""","Sao Paulo, Brazil",mona-isabella
+"""want""","Harare, Zimbabwe",mona-isabella
+"""been""","Victoria Falls, Zimbabwe",mona-isabella
+"""been""","Nuremberg, Germany",mona-isabella
+"""want""","Cordoba, Spain",mona-isabella
+"""been""","Muscat, Oman",mona-isabella
+"""been""","Legian, Indonesia",mona-isabella
+"""been""","Kos Town, Greece",mona-isabella
+"""been""","Fayetteville, NC, USA",mona-isabella
+"""been""","Tulsa, OK, USA",mona-isabella
+"""been""","Borobudur, Indonesia",mona-isabella
+"""want""","Rio de Janeiro, Brazil",mona-isabella
+"""been""","Jackson, MS, USA",mona-isabella
+"""been""","Springfield, MO, USA",mona-isabella
+"""want""","Mumbai, India",mona-isabella
+"""want""","Jaipur, India",mona-isabella
+"""want""","Chennai (Madras), India",mona-isabella
+"""want""","New Delhi, India",mona-isabella
+"""want""","Gan Island, Asia",mona-isabella
+"""want""","Nagoya, Japan",mona-isabella
+"""want""","Essaouira, Morocco",mona-isabella
+"""want""","Eskisehir, Turkey",mona-isabella
+"""want""","Zihuatanejo, Mexico",mona-isabella
+"""been""","Sikeston, MO, USA",mona-isabella
+"""been""","Pass Christian, MS, USA",mona-isabella
+"""been""","Oklahoma City, OK, USA",mona-isabella
+"""been""","Metairie, LA, USA",mona-isabella
+"""been""","Slidell, LA, USA",mona-isabella
+"""been""","Holly Springs, MS, USA",mona-isabella
+"""want""","Havana, Cuba",mona-isabella
+"""want""","Guanajuato, Mexico",mona-isabella
+"""want""","Cuernavaca, Mexico",mona-isabella
+"""want""","Ocean Springs, MS, USA",mona-isabella
+"""been""","Edirne, Turkey",mona-isabella
+"""been""","Orange Beach, AL, USA",mona-isabella
+"""been""","Kuta, Indonesia",mona-isabella
+"""want""","Edinburgh, UK",mona-isabella
+"""want""","Siem Reap, Cambodia",mona-isabella
+"""want""","Santo Domingo, Dominican Republic",mona-isabella
+"""want""","Belize City, Belize",mona-isabella
+"""want""","Moscow, Russia",mona-isabella
+"""been""","Oxford, MS, USA",mona-isabella
+"""want""","Brasilia, Brazil",mona-isabella
+"""want""","Glasgow, UK",mona-isabella
+"""want""","Cali, Colombia",mona-isabella
+"""want""","Kyoto, Japan",mona-isabella
+"""want""","Cartagena, Colombia",mona-isabella
+"""want""","Osaka, Japan",mona-isabella
+"""want""","Medellin, Colombia",mona-isabella
+"""been"",""fave""","Padua, Italy",mona-isabella
+"""been""","Norman, OK, USA",mona-isabella
+"""want""","Kuala Lumpur, Malaysia",mona-isabella
+"""want""","Manila, Philippines",mona-isabella
+"""been""","Valparaiso, IN, USA",mona-isabella
+"""been""","Grenada, MS, USA",mona-isabella
+"""been""","Gulfport, MS, USA",mona-isabella
+"""want""","Helsinki, Finland",mona-isabella
+"""want""","Madrid, Spain",mona-isabella
+"""been""","Mounds, IL, USA",mona-isabella
+"""been""","Mound City, IL, USA",mona-isabella
+"""been""","Venice, Italy",mona-isabella
+"""been""","Cleveland, OH, USA",mona-isabella
+"""want""","Port of Spain, Trinidad and Tobago",mona-isabella
+"""want""","Cebu City, Philippines",mona-isabella
+"""want""","Bamako, Mali",mona-isabella
+"""want""","Baku, Azerbaijan",mona-isabella
+"""been""","Bologna, Italy",mona-isabella
+"""want""","Lilongwe, Malawi",mona-isabella
+"""want""","Maputo, Mozambique",mona-isabella
+"""want""","Ajijic, Mexico",mona-isabella
+"""want""","Marmaris, Turkey",mona-isabella
+"""want""","Port Louis, Africa",mona-isabella
+"""want""","Morelia, Mexico",mona-isabella
+"""been""","San Juan Metro Region, Puerto Rico",mona-isabella
+"""want""","Puebla, Mexico",mona-isabella
+"""been""","Metropolis, IL, USA",mona-isabella
+"""want""","Windhoek, Namibia",mona-isabella
+"""want""","Trabzon, Turkey",mona-isabella
+"""been"",""want"",""fave""","Gili Air, Indonesia",mona-isabella
+"""been""","Montgomery, AL, USA",mona-isabella
+"""want""","Phnom Penh, Cambodia",mona-isabella
+"""want""","Gili Trawangan, Indonesia",mona-isabella
+"""want""","Dublin, Ireland",mona-isabella
+"""want""","Gili Meno, Indonesia",mona-isabella
+"""want""","Van, Turkey",mona-isabella
+"""want""","Kigali, Rwanda",mona-isabella
+"""been""","Yalova, Turkey",mona-isabella
+"""want""","Mobile, AL, USA",mona-isabella
+"""want""","Saint-Denis, Reunion Island",mona-isabella
+"""want""","Belmopan, Belize",mona-isabella
+"""want""","Alacati, Turkey",mona-isabella
+"""want""","Dangriga, Belize",mona-isabella
+"""been""","Izmir, Turkey",mona-isabella
+"""want""","Komodo National Park, Indonesia",mona-isabella
+"""want""","Chiang Mai, Thailand",mona-isabella
+"""want""","Jacmel, Haiti",mona-isabella
+"""want""","Bangkok, Thailand",mona-isabella
+"""want""","Puerto Plata, Dominican Republic",mona-isabella
+"""want""","Punta Cana, Dominican Republic",mona-isabella
+"""been""","Washington DC, DC, USA",mona-isabella
+"""been""","Hanoi, Vietnam",mona-isabella
+"""want""","Konya, Turkey",mona-isabella
+"""been""","Ho Chi Minh City, Vietnam",mona-isabella
+"""been""","Halong Bay, Vietnam",mona-isabella
+"""been""","Indianapolis, IN, USA",mona-isabella
+"""want""","Dolores Hidalgo, Mexico",mona-isabella
+"""been""","Hue, Vietnam",mona-isabella
+"""want""","Isla Grande, Panama",mona-isabella
+"""want""","Vancouver, British Columbia, Canada",mona-isabella
+"""want""","St. Petersburg, Russia",mona-isabella
+"""want""","Pago Pago, American Samoa",mona-isabella
+"""want""","Singapore, Singapore",mona-isabella
+"""been""","Cocoa Beach, FL, USA",mona-isabella
+"""want""","Philadelphia, PA, USA",mona-isabella
+"""want""","Krakow, Poland",mona-isabella
+"""want""","Port-au-Prince, Haiti",mona-isabella
+"""want""","Jamaica, Caribbean",mona-isabella
+"""want""","Kingston, Jamaica",mona-isabella
+"""want""","Montego Bay, Jamaica",mona-isabella
+"""want""","Ocho Rios, Jamaica",mona-isabella
+"""been""","Memphis, TN, USA",mona-isabella
+"""been""","Pulaski, IL, USA",mona-isabella
+"""been""","Odessa, Ukraine",mona-isabella
+"""been""","Coffeyville, KS, USA",mona-isabella
+"""been""","Paducah, KY, USA",mona-isabella
+"""been""","Louisville, KY, USA",mona-isabella
+"""been""","Seminyak, Indonesia",mona-isabella
+"""been"",""fave""","Budapest, Hungary",mona-isabella
+"""want""","San Miguel de Allende, Mexico",mona-isabella
+"""want""","Ponce, Puerto Rico",mona-isabella
+"""want""","Vasco da Gama, India",mona-isabella
+"""want""","Holbox Island, Mexico",mona-isabella
+"""want""","Dubrovnik, Croatia",mona-isabella
+"""want""","Tutuila, American Samoa",mona-isabella
+"""want""","Thiruvananthapuram (Trivandrum), India",mona-isabella
+"""want""","Atlanta, GA, USA",mona-isabella
+"""want""","Kuwait City, Kuwait",mona-isabella
+"""want""","Montreal, Quebec, Canada",mona-isabella
+"""want""","Baghdad, Iraq",mona-isabella
+"""want""","Chefchaouen, Morocco",mona-isabella
+"""want""","Nuevo Casas Grandes, Mexico",mona-isabella
+"""want""","Doha, Qatar",mona-isabella
+"""want""","Kochi (Cochin), India",mona-isabella
+"""want""","Siena, Italy",mona-isabella
+"""want""","Lecce, Italy",mona-isabella
+"""want""","Tulum, Mexico",mona-isabella
+"""want""","Playa del Carmen, Mexico",mona-isabella
+"""want""","Merida, Mexico",mona-isabella
+"""been""","Irving, TX, USA",mona-isabella
+"""been""","Springfield, IL, USA",mona-isabella
+"""been""","Abu Dhabi, United Arab Emirates",mona-isabella
+"""want""","Timbuktu, Mali",mona-isabella
+"""been""","New York City, NY, USA",mona-isabella
+"""want""","Salvador, Brazil",mona-isabella
+"""want""","Djenne, Mali",mona-isabella
+"""been""","Branson, MO, USA",mona-isabella
+"""want""","Seattle, WA, USA",mona-isabella
+"""been""","McKinney, TX, USA",mona-isabella
+"""been""","San Diego, CA, USA",mona-isabella
+"""been""","Sur, Oman",mona-isabella
+"""been""","Kuta, Indonesia",mona-isabella
+"""been""","Mount Vernon, IL, USA",mona-isabella
+"""want""","Saint-Louis, Senegal",mona-isabella
+"""want""","David, Panama",mona-isabella
+"""want""","Bogota, Colombia",mona-isabella
+"""want""","Tbilisi, Georgia",mona-isabella
+"""want""","La Paz, Bolivia",mona-isabella
+"""been""","Kyrenia, Cyprus",mona-isabella
+"""been""","Tupelo, MS, USA",mona-isabella
+"""been""","Lawrence, KS, USA",mona-isabella
+"""been"",""fave""","New Orleans, LA, USA",mona-isabella
+"""been""","Houston, TX, USA",mona-isabella
+"""want""","Boston, MA, USA",mona-isabella
+"""been""","Kissimmee, FL, USA",mona-isabella
+"""want""","Lisbon, Portugal",mona-isabella
+"""want""","Honolulu, HI, USA",mona-isabella
+"""want""","Castellana Grotte, Italy",mona-isabella
+"""want""","Denver, CO, USA",mona-isabella
+"""been""","Fort Walton Beach, FL, USA",mona-isabella
+"""want""","Seoul, South Korea",mona-isabella
+"""want""","Hyderabad, India",mona-isabella
+"""been"",""fave""","Cesky Krumlov, Czech Republic",mona-isabella
+"""been""","Leavenworth, KS, USA",mona-isabella
+"""want""","Petra - Wadi Musa, Jordan",mona-isabella
+"""want""","Paramaribo, Suriname",mona-isabella
+"""been""","Independence, KS, USA",mona-isabella
+"""been""","Padangbai, Indonesia",mona-isabella
+"""want""","Sharm El Sheikh, Egypt",mona-isabella
+"""been""","Columbia, MO, USA",mona-isabella
+"""been""","Kitzingen, Germany",mona-isabella
+"""been""","Greensboro, NC, USA",mona-isabella
+"""want""","Charleston, SC, USA",mona-isabella
+"""been""","Plano, TX, USA",mona-isabella
+"""been""","Nizwa, Oman",mona-isabella
+"""want""","Salalah, Oman",mona-isabella
+"""been""","Belleville, IL, USA",mona-isabella
+"""been"",""fave""","Oia, Greece",mona-isabella
+"""want""","Stone Town, Tanzania",mona-isabella
+"""want""","Taveuni Island, Fiji",mona-isabella
+"""want""","Agra, India",mona-isabella
+"""been""","Fira, Greece",mona-isabella
+"""been""","Hermann, MO, USA",mona-isabella
+"""been""","Kansas City, KS, USA",mona-isabella
+"""want""","Mykonos Town, Greece",mona-isabella
+"""been""","Bodrum City, Turkey",mona-isabella
+"""want""","Porto, Portugal",mona-isabella
+"""want""","Plovdiv, Bulgaria",mona-isabella
+"""want""","San Francisco, CA, USA",mona-isabella
+"""been""","San Antonio, TX, USA",mona-isabella
+"""been""","Panama City Beach, FL, USA",mona-isabella
+"""been""","Kruger National Park, South Africa",mona-isabella
+"""been""","Arlington, TX, USA",mona-isabella
+"""been""","West Memphis, AR, USA",mona-isabella
+"""been""","Panama City, FL, USA",mona-isabella
+"""want""","Cuenca, Ecuador",mona-isabella
+"""want""","Quito, Ecuador",mona-isabella
+"""want""","Santiago, Chile",mona-isabella
+"""want""","Guatemala City, Guatemala",mona-isabella
+"""want""","Brisbane, Australia",mona-isabella
+"""want""","Darwin, Australia",mona-isabella
+"""want""","Buenos Aires, Argentina",mona-isabella
+"""been""","Brooklyn, NY, USA",mona-isabella
+"""want""","Sydney, Australia",mona-isabella
+"""want""","Thessaloniki, Greece",mona-isabella
+"""been""","Stuttgart, Germany",mona-isabella
+"""want""","South Padre Island, TX, USA",mona-isabella
+"""been""","Austin, TX, USA",mona-isabella
+"""want""","Sousse, Tunisia",mona-isabella
+"""been""","Bratislava, Slovakia",mona-isabella
+"""been""","Carbondale, IL, USA",mona-isabella
+"""want""","Monastir, Tunisia",mona-isabella
+"""want""","Apia, Samoa",mona-isabella
+"""want""","Lima, Peru",mona-isabella
+"""been""","Hannibal, MO, USA",mona-isabella
+"""been""","Carlyle, IL, USA",mona-isabella
+"""been""","Miami, FL, USA",mona-isabella
+"""been"",""fave""","Miami Beach, FL, USA",mona-isabella
+"""been""","Hammamet, Tunisia",mona-isabella
+"""been"",""want"",""fave""","Ubud, Indonesia",mona-isabella
+"""been""","Coronado, CA, USA",mona-isabella
+"""been""","Albuquerque, NM, USA",mona-isabella
+"""want""","Savannah, GA, USA",mona-isabella
+"""want""","Banjul, Gambia",mona-isabella
+"""want""","Addis Ababa, Ethiopia",mona-isabella
+"""been""","Amarillo, TX, USA",mona-isabella
+"""want""","Puerto Escondido, Mexico",mona-isabella
+"""want""","Tallinn, Estonia",mona-isabella
+"""want""","Manchester, UK",mona-isabella
+"""been""","Loiza, Puerto Rico",mona-isabella
+"""want""","Accra, Ghana",mona-isabella
+"""want""","Vilnius, Lithuania",mona-isabella
+"""want""","Pondicherry, India",mona-isabella
+"""been""","Chobe National Park, Botswana",mona-isabella
+"""been""","Yas Island, United Arab Emirates",mona-isabella
+"""want""","Kutna Hora, Czech Republic",mona-isabella
+"""been"",""want"",""fave""","Prague, Czech Republic",mona-isabella
+"""want""","Auckland, New Zealand",mona-isabella
+"""been""","Cairo, IL, USA",mona-isabella
+"""want""","Hobart, Australia",mona-isabella
+"""been""","Cape Girardeau, MO, USA",mona-isabella
+"""been""","Lake Ozark, MO, USA",mona-isabella
+"""been""","Bursa, Turkey",mona-isabella
+"""been""","Ullin, IL, USA",mona-isabella
+"""been""","Natchez, MS, USA",mona-isabella
+"""want""","Warsaw, Poland",mona-isabella
+"""want""","Myrtle Beach, SC, USA",mona-isabella
+"""been""","Richardson, TX, USA",mona-isabella
+"""been""","Jakarta, Indonesia",mona-isabella
+"""want""","Grand Isle, LA, USA",mona-isabella
+"""want""","Lombok, Indonesia",mona-isabella
+"""been""","Grand Canyon National Park, AZ, USA",mona-isabella
+"""want""","Shanghai, China",mona-isabella
+"""been""","Gretna, LA, USA",mona-isabella
+"""want""","Naxos, Greece",mona-isabella
+"""want""","Marseille, France",mona-isabella
+"""want""","Detroit, MI, USA",mona-isabella
+"""want""","Riga, Latvia",mona-isabella
+"""been""","Bartlesville, OK, USA",mona-isabella
+"""want""","Managua, Nicaragua",mona-isabella
+"""want""","San Salvador, El Salvador",mona-isabella
+"""want""","Barcelona, Spain",mona-isabella
+"""want""","Zanzibar Island, Tanzania",mona-isabella
+"""been""","Kyiv (Kiev), Ukraine",mona-isabella
+"""been""","Yogyakarta, Indonesia",mona-isabella
+"""been""","La Jolla, CA, USA",mona-isabella
+"""been""","Goreme, Turkey",mona-isabella
+"""been""","Orlando, FL, USA",mona-isabella
+"""been""","Bamberg, Germany",mona-isabella
+"""been""","Buraimi, Oman",mona-isabella
+"""want""","Hvar, Croatia",mona-isabella
+"""want""","Panama City, Panama",mona-isabella
+"""want""","Taxco, Mexico",mona-isabella
+"""want""","Oaxaca, Mexico",mona-isabella
+"""want""","Mexico City, Mexico",mona-isabella
+"""want""","Toronto, Ontario, Canada",mona-isabella
+"""been"",""fave""","Amsterdam, The Netherlands",mona-isabella
+"""want""","Montevideo, Uruguay",mona-isabella
+"""want""","Giza, Egypt",mona-isabella
+"""been""","Versailles, France",mona-isabella
+"""want""","Cairo, Egypt",mona-isabella
+"""want""","Lyon, France",mona-isabella
+"""been""","Paris, France",mona-isabella
+"""been""","Edwardsville, IL, USA",mona-isabella
+"""want""","Port El Kantaoui, Tunisia",mona-isabella
+"""want""","Nairobi, Kenya",mona-isabella
+"""been"",""want"",""fave""","Ljubljana, Slovenia",mona-isabella
+"""want""","Tirana, Albania",mona-isabella
+"""want""","Luxor, Egypt",mona-isabella
+"""want""","Breaux Bridge, LA, USA",mona-isabella
+"""been""","Joplin, MO, USA",mona-isabella
+"""want""","Minneapolis, MN, USA",mona-isabella
+"""been""","Biloxi, MS, USA",mona-isabella
+"""been""","Kansas City, MO, USA",mona-isabella
+"""been""","Maun, Botswana",mona-isabella
+"""been""","Dubai, United Arab Emirates",mona-isabella
+"""been""","Zagreb, Croatia",mona-isabella
+"""been""","Anna, IL, USA",mona-isabella
+"""been"",""fave""","Sofia, Bulgaria",mona-isabella
+"""been""","Birmingham, AL, USA",mona-isabella
+"""want""","Dresden, Germany",mona-isabella
+"""been""","Bohinjska Bela, Slovenia",mona-isabella
+"""want""","Antalya, Turkey",mona-isabella
+"""want""","Hong Kong, China",mona-isabella
+"""been""","Bled, Slovenia",mona-isabella
+"""been""","Bucharest, Romania",mona-isabella
+"""want""","Suva, Fiji",mona-isabella
+"""been"",""fave""","Saint Louis, MO, USA",mona-isabella
+"""been""","Bay Saint Louis, MS, USA",mona-isabella
+"""been""","Jefferson City, MO, USA",mona-isabella
+"""want""","Portland, OR, USA",mona-isabella
+"""been""","Greenville, MS, USA",mona-isabella
+"""been""","Sainte Genevieve, MO, USA",mona-isabella

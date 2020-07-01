@@ -1,0 +1,588 @@
+tag,place,user
+"""been""","Ocean City, NJ, USA",O6378WFannag
+"""been""","Livingston, NJ, USA",O6378WFannag
+"""been""","Berwyn, IL, USA",O6378WFannag
+"""been""","Fox Lake, WI, USA",O6378WFannag
+"""been""","Beaumont, CA, USA",O6378WFannag
+"""been""","Williamsburg, VA, USA",O6378WFannag
+"""been""","Rewal, Poland",O6378WFannag
+"""been""","Winnetka, IL, USA",O6378WFannag
+"""been""","Twisp, WA, USA",O6378WFannag
+"""been""","Coolidge, AZ, USA",O6378WFannag
+"""been""","Denver, CO, USA",O6378WFannag
+"""been""","New York City, NY, USA",O6378WFannag
+"""been""","El Paso, TX, USA",O6378WFannag
+"""been""","Mundelein, IL, USA",O6378WFannag
+"""been""","Cape Canaveral, FL, USA",O6378WFannag
+"""been""","Springfield, IL, USA",O6378WFannag
+"""been""","Winthrop Harbor, IL, USA",O6378WFannag
+"""been""","San Marino, CA, USA",O6378WFannag
+"""been""","Boulder City, NV, USA",O6378WFannag
+"""been""","Corona, NY, USA",O6378WFannag
+"""been""","Freehold, NJ, USA",O6378WFannag
+"""been""","Brighton, UK",O6378WFannag
+"""been""","Bloomingdale, IL, USA",O6378WFannag
+"""been""","Longmire, WA, USA",O6378WFannag
+"""been""","Fontana, WI, USA",O6378WFannag
+"""been""","Bolingbrook, IL, USA",O6378WFannag
+"""been""","Naperville, IL, USA",O6378WFannag
+"""been""","Bystrzyca Klodzka, Poland",O6378WFannag
+"""been""","Seattle, WA, USA",O6378WFannag
+"""been""","Yellowstone National Park, WY, USA",O6378WFannag
+"""been""","Charlottesville, VA, USA",O6378WFannag
+"""been""","Nauvoo, IL, USA",O6378WFannag
+"""been""","San Diego, CA, USA",O6378WFannag
+"""been""","West Point, NY, USA",O6378WFannag
+"""been""","Oxford, UK",O6378WFannag
+"""been""","Copalis Beach, WA, USA",O6378WFannag
+"""been""","Tumacacori, AZ, USA",O6378WFannag
+"""been""","Madison, WI, USA",O6378WFannag
+"""been""","Casa Grande, AZ, USA",O6378WFannag
+"""been""","Culver City, CA, USA",O6378WFannag
+"""been""","Cave in Rock, IL, USA",O6378WFannag
+"""been""","Westchester, IL, USA",O6378WFannag
+"""been""","Westmont, IL, USA",O6378WFannag
+"""been""","Asheville, NC, USA",O6378WFannag
+"""been""","New Orleans, LA, USA",O6378WFannag
+"""been""","Belknap, IL, USA",O6378WFannag
+"""been""","Westville, IL, USA",O6378WFannag
+"""been""","Ozark, IL, USA",O6378WFannag
+"""been""","Porter, IN, USA",O6378WFannag
+"""been""","Palatine, IL, USA",O6378WFannag
+"""been""","Wheeling, IL, USA",O6378WFannag
+"""been""","Palos Heights, IL, USA",O6378WFannag
+"""been""","Wheaton, IL, USA",O6378WFannag
+"""been""","Charleston, SC, USA",O6378WFannag
+"""been""","Boston, MA, USA",O6378WFannag
+"""been""","Silverlake, WA, USA",O6378WFannag
+"""been""","Bath, UK",O6378WFannag
+"""been""","Clarkdale, AZ, USA",O6378WFannag
+"""been""","Lockport, IL, USA",O6378WFannag
+"""been""","Newark, NJ, USA",O6378WFannag
+"""been""","Newbury, UK",O6378WFannag
+"""been""","Sleepy Hollow, NY, USA",O6378WFannag
+"""been""","Garrison, NY, USA",O6378WFannag
+"""been""","Riverhead, NY, USA",O6378WFannag
+"""been""","Swiebodzin, Poland",O6378WFannag
+"""been""","Lagow, Poland",O6378WFannag
+"""been""","Berlin, MD, USA",O6378WFannag
+"""been""","Darlowo, Poland",O6378WFannag
+"""been""","Pacific Beach, WA, USA",O6378WFannag
+"""been""","Whittington, IL, USA",O6378WFannag
+"""been""","Belvidere, IL, USA",O6378WFannag
+"""been""","Key Largo, FL, USA",O6378WFannag
+"""been""","Willow Springs, IL, USA",O6378WFannag
+"""been""","Flagstaff, AZ, USA",O6378WFannag
+"""been""","Dubuque, IA, USA",O6378WFannag
+"""been""","Islamorada, FL, USA",O6378WFannag
+"""been""","Los Alamos, NM, USA",O6378WFannag
+"""been""","Bensenville, IL, USA",O6378WFannag
+"""been""","Key West, FL, USA",O6378WFannag
+"""been""","Mount Prospect, IL, USA",O6378WFannag
+"""been""","Marathon, FL, USA",O6378WFannag
+"""been""","Newport, RI, USA",O6378WFannag
+"""been""","Mount Morris, IL, USA",O6378WFannag
+"""been""","Willowbrook, IL, USA",O6378WFannag
+"""been""","Park Ridge, IL, USA",O6378WFannag
+"""been""","Wilmette, IL, USA",O6378WFannag
+"""been""","Hood River, OR, USA",O6378WFannag
+"""been""","West Baden Springs, IN, USA",O6378WFannag
+"""been""","Highland Falls, NY, USA",O6378WFannag
+"""been""","Jersey City, NJ, USA",O6378WFannag
+"""been""","Fort Montgomery, NY, USA",O6378WFannag
+"""been""","Dresden, Germany",O6378WFannag
+"""been""","Elizabeth, NJ, USA",O6378WFannag
+"""been""","Montpellier, France",O6378WFannag
+"""been""","Neptune, NJ, USA",O6378WFannag
+"""been""","East Elmhurst, NY, USA",O6378WFannag
+"""been""","Santa Fe, NM, USA",O6378WFannag
+"""been""","DeKalb, IL, USA",O6378WFannag
+"""been""","Neah Bay, WA, USA",O6378WFannag
+"""been""","Deerfield, IL, USA",O6378WFannag
+"""been""","Moab, UT, USA",O6378WFannag
+"""been""","Barrington, IL, USA",O6378WFannag
+"""been""","Des Plaines, IL, USA",O6378WFannag
+"""been""","Tampa, FL, USA",O6378WFannag
+"""been""","Elkhorn, WI, USA",O6378WFannag
+"""been""","Miami, FL, USA",O6378WFannag
+"""been""","Terrebonne, OR, USA",O6378WFannag
+"""been""","Miami Beach, FL, USA",O6378WFannag
+"""been""","New Brunswick, NJ, USA",O6378WFannag
+"""been""","Tarrytown, NY, USA",O6378WFannag
+"""been""","Vienna, Austria",O6378WFannag
+"""been""","Kodak, TN, USA",O6378WFannag
+"""been""","Brooklyn, NY, USA",O6378WFannag
+"""been""","Ocean Shores, WA, USA",O6378WFannag
+"""been""","Oyster Bay, NY, USA",O6378WFannag
+"""been""","Knoxville, TN, USA",O6378WFannag
+"""been""","Nogales, AZ, USA",O6378WFannag
+"""been""","Clallam Bay, WA, USA",O6378WFannag
+"""been""","Ilwaco, WA, USA",O6378WFannag
+"""been""","Bartlett, IL, USA",O6378WFannag
+"""been""","Carol Stream, IL, USA",O6378WFannag
+"""been""","Oregon, IL, USA",O6378WFannag
+"""been""","Batavia, IL, USA",O6378WFannag
+"""been""","West Chicago, IL, USA",O6378WFannag
+"""been""","Dolton, IL, USA",O6378WFannag
+"""been""","Silver City, NM, USA",O6378WFannag
+"""been""","Tucson, AZ, USA",O6378WFannag
+"""been""","Dixon, IL, USA",O6378WFannag
+"""been""","San Francisco, CA, USA",O6378WFannag
+"""been""","Page, AZ, USA",O6378WFannag
+"""been""","Orland Park, IL, USA",O6378WFannag
+"""been""","Beach Park, IL, USA",O6378WFannag
+"""want""","San Antonio, TX, USA",O6378WFannag
+"""been""","West Glacier, MT, USA",O6378WFannag
+"""been""","Cary, IL, USA",O6378WFannag
+"""been""","Salem, MA, USA",O6378WFannag
+"""been""","Lourdes, France",O6378WFannag
+"""been""","Ulm, Germany",O6378WFannag
+"""been""","Oswego, IL, USA",O6378WFannag
+"""been""","Charlotte, MI, USA",O6378WFannag
+"""been""","Ottawa, IL, USA",O6378WFannag
+"""been""","Stuttgart, Germany",O6378WFannag
+"""been""","Toulon, France",O6378WFannag
+"""been""","Lansing, MI, USA",O6378WFannag
+"""been""","Trenton, NJ, USA",O6378WFannag
+"""been""","Fishkill, NY, USA",O6378WFannag
+"""been""","Princeton, NJ, USA",O6378WFannag
+"""been""","Nashville, TN, USA",O6378WFannag
+"""been""","Union, NJ, USA",O6378WFannag
+"""been""","Hoboken, NJ, USA",O6378WFannag
+"""want""","Lima, Peru",O6378WFannag
+"""been""","Flushing, NY, USA",O6378WFannag
+"""been""","Tombstone, AZ, USA",O6378WFannag
+"""been""","Crystal Lake, IL, USA",O6378WFannag
+"""been""","Konstanz, Germany",O6378WFannag
+"""been""","Assateague Island, VA, USA",O6378WFannag
+"""been""","Lake Havasu City, AZ, USA",O6378WFannag
+"""been""","Lake Montezuma, AZ, USA",O6378WFannag
+"""been""","Burr Ridge, IL, USA",O6378WFannag
+"""been""","Cypress, IL, USA",O6378WFannag
+"""been""","Szczecinek, Poland",O6378WFannag
+"""been""","Glenwood Springs, CO, USA",O6378WFannag
+"""been""","Hawthorne, CA, USA",O6378WFannag
+"""been""","Boulder, CO, USA",O6378WFannag
+"""been""","Fort Washington, MD, USA",O6378WFannag
+"""been""","East Lansing, MI, USA",O6378WFannag
+"""been""","Harbert, MI, USA",O6378WFannag
+"""been""","Chamonix, France",O6378WFannag
+"""been""","Paris, France",O6378WFannag
+"""been""","Hannibal, MO, USA",O6378WFannag
+"""been""","Hampton Bays, NY, USA",O6378WFannag
+"""been""","Lyon, France",O6378WFannag
+"""been""","Mount Laurel, NJ, USA",O6378WFannag
+"""been""","Astoria, OR, USA",O6378WFannag
+"""been""","Mukilteo, WA, USA",O6378WFannag
+"""been""","Ajo, AZ, USA",O6378WFannag
+"""been""","Tuba City, AZ, USA",O6378WFannag
+"""been""","Tubac, AZ, USA",O6378WFannag
+"""been""","Grand Junction, CO, USA",O6378WFannag
+"""been""","Danville, IL, USA",O6378WFannag
+"""been""","Burlingame, CA, USA",O6378WFannag
+"""been""","Albuquerque, NM, USA",O6378WFannag
+"""been""","Darien, IL, USA",O6378WFannag
+"""been""","Petrified Forest National Park, AZ, USA",O6378WFannag
+"""been""","Carcassonne Center, France",O6378WFannag
+"""been""","Union City, NJ, USA",O6378WFannag
+"""been""","Winchester, UK",O6378WFannag
+"""been""","Poznan, Poland",O6378WFannag
+"""been""","Gdynia, Poland",O6378WFannag
+"""been""","Gdansk, Poland",O6378WFannag
+"""been""","Plock, Poland",O6378WFannag
+"""been""","Riga, Latvia",O6378WFannag
+"""been""","Venice, Italy",O6378WFannag
+"""been""","Koszalin, Poland",O6378WFannag
+"""been""","Rockport, WA, USA",O6378WFannag
+"""been""","Kolobrzeg, Poland",O6378WFannag
+"""been""","Kearney, NE, USA",O6378WFannag
+"""been""","Winthrop, WA, USA",O6378WFannag
+"""been""","Mount Pleasant, SC, USA",O6378WFannag
+"""been""","Brookport, IL, USA",O6378WFannag
+"""been""","Salt Lake City, UT, USA",O6378WFannag
+"""been""","Hyde Park, NY, USA",O6378WFannag
+"""been""","Beverly Shores, IN, USA",O6378WFannag
+"""been""","Rowy, Poland",O6378WFannag
+"""been""","Whistler, British Columbia, Canada",O6378WFannag
+"""been""","Antioch, IL, USA",O6378WFannag
+"""been""","Detroit, MI, USA",O6378WFannag
+"""been""","Orlando, FL, USA",O6378WFannag
+"""been""","Port Angeles, WA, USA",O6378WFannag
+"""been""","Grand Rapids, MI, USA",O6378WFannag
+"""been""","Rochester, MN, USA",O6378WFannag
+"""been""","Bridgman, MI, USA",O6378WFannag
+"""been""","Munising, MI, USA",O6378WFannag
+"""been""","Arlington Heights, IL, USA",O6378WFannag
+"""been""","Islip, NY, USA",O6378WFannag
+"""been""","Camp Verde, AZ, USA",O6378WFannag
+"""been""","Aberdeen, WA, USA",O6378WFannag
+"""been""","Mount Vernon, VA, USA",O6378WFannag
+"""been""","Morristown, NJ, USA",O6378WFannag
+"""been""","Vilnius, Lithuania",O6378WFannag
+"""been""","Ashford, WA, USA",O6378WFannag
+"""been""","El Portal, CA, USA",O6378WFannag
+"""been""","Magdeburg, Germany",O6378WFannag
+"""been""","Bloomingdale, IN, USA",O6378WFannag
+"""been""","Seaside, OR, USA",O6378WFannag
+"""been""","Jerome, AZ, USA",O6378WFannag
+"""been""","Buffalo Grove, IL, USA",O6378WFannag
+"""been""","Bloomington, IN, USA",O6378WFannag
+"""been""","Aspen, CO, USA",O6378WFannag
+"""been""","Evanston, IL, USA",O6378WFannag
+"""been""","Tempe, AZ, USA",O6378WFannag
+"""been""","Lake Powell, UT, USA",O6378WFannag
+"""been""","Vail, CO, USA",O6378WFannag
+"""been""","Palm Bay, FL, USA",O6378WFannag
+"""been""","Burbank, IL, USA",O6378WFannag
+"""been""","Green Bay, WI, USA",O6378WFannag
+"""been""","Ocean City, MD, USA",O6378WFannag
+"""been""","Lake Elmo, MN, USA",O6378WFannag
+"""been""","Bukowina Tatrzanska, Poland",O6378WFannag
+"""been""","Klodzko, Poland",O6378WFannag
+"""been""","Bydgoszcz, Poland",O6378WFannag
+"""been""","Gniezno, Poland",O6378WFannag
+"""been""","Assateague Island, MD, USA",O6378WFannag
+"""been""","Phnom Penh, Cambodia",O6378WFannag
+"""been""","Szczawnica, Poland",O6378WFannag
+"""been""","Prineville, OR, USA",O6378WFannag
+"""been""","Elizabethtown, IL, USA",O6378WFannag
+"""been""","Elk Grove Village, IL, USA",O6378WFannag
+"""been""","Woodstock, IL, USA",O6378WFannag
+"""been""","Elgin, IL, USA",O6378WFannag
+"""been""","Kalisz, Poland",O6378WFannag
+"""been""","Prague, Czech Republic",O6378WFannag
+"""been""","Gila Bend, AZ, USA",O6378WFannag
+"""been""","Bourbonnais, IL, USA",O6378WFannag
+"""been""","Minneapolis, MN, USA",O6378WFannag
+"""been""","Wisla, Poland",O6378WFannag
+"""been""","Aurora, IL, USA",O6378WFannag
+"""been""","Big Bear Lake, CA, USA",O6378WFannag
+"""been""","Wroclaw, Poland",O6378WFannag
+"""been""","Zielona Gora, Poland",O6378WFannag
+"""been""","Frankfurt (Oder), Germany",O6378WFannag
+"""been""","Roseburg, OR, USA",O6378WFannag
+"""been""","Windsor, UK",O6378WFannag
+"""been""","Kazimierz Dolny, Poland",O6378WFannag
+"""been""","Salisbury, UK",O6378WFannag
+"""been""","Scottsdale, AZ, USA",O6378WFannag
+"""been""","Gilbert, AZ, USA",O6378WFannag
+"""been""","Snowmass Village, CO, USA",O6378WFannag
+"""been""","Sedona, AZ, USA",O6378WFannag
+"""been""","Yorkville, IL, USA",O6378WFannag
+"""been""","Vinales, Cuba",O6378WFannag
+"""been""","Sells, AZ, USA",O6378WFannag
+"""been""","Show Low, AZ, USA",O6378WFannag
+"""been""","Elmwood Park, IL, USA",O6378WFannag
+"""been""","Green Valley, AZ, USA",O6378WFannag
+"""been""","Steamboat Springs, CO, USA",O6378WFannag
+"""been""","Elmhurst, IL, USA",O6378WFannag
+"""been""","Zion, IL, USA",O6378WFannag
+"""been""","Bridgeview, IL, USA",O6378WFannag
+"""been""","Lublin, Poland",O6378WFannag
+"""been""","Cambridge, MD, USA",O6378WFannag
+"""been""","Genoa City, WI, USA",O6378WFannag
+"""been""","Zamosc, Poland",O6378WFannag
+"""been""","Brookfield, IL, USA",O6378WFannag
+"""been""","Brussels, Belgium",O6378WFannag
+"""been""","Karpacz, Poland",O6378WFannag
+"""been""","Las Vegas, NV, USA",O6378WFannag
+"""been""","Legnica, Poland",O6378WFannag
+"""been""","Secaucus, NJ, USA",O6378WFannag
+"""been""","Hanceville, AL, USA",O6378WFannag
+"""been""","Alexandria, VA, USA",O6378WFannag
+"""been""","Cullman, AL, USA",O6378WFannag
+"""been""","Toledo, OH, USA",O6378WFannag
+"""been""","Keystone, CO, USA",O6378WFannag
+"""been""","Prescott, AZ, USA",O6378WFannag
+"""been""","Cornville, AZ, USA",O6378WFannag
+"""been""","East Dundee, IL, USA",O6378WFannag
+"""been""","Cottonwood, AZ, USA",O6378WFannag
+"""been""","Chicago, IL, USA",O6378WFannag
+"""been""","Addison, IL, USA",O6378WFannag
+"""been""","Szklarska Poreba, Poland",O6378WFannag
+"""been""","Deer Park, IL, USA",O6378WFannag
+"""been""","Berlin, Germany",O6378WFannag
+"""been""","Portland, OR, USA",O6378WFannag
+"""been""","Duszniki Zdroj, Poland",O6378WFannag
+"""been""","Somerset, NJ, USA",O6378WFannag
+"""been""","Yachats, OR, USA",O6378WFannag
+"""been""","Pulawy, Poland",O6378WFannag
+"""been""","Cottbus, Germany",O6378WFannag
+"""been""","Wolsztyn, Poland",O6378WFannag
+"""been""","Cicero, IL, USA",O6378WFannag
+"""been""","Clarendon Hills, IL, USA",O6378WFannag
+"""been""","Wood Dale, IL, USA",O6378WFannag
+"""been""","Bowie, MD, USA",O6378WFannag
+"""been""","Woodridge, IL, USA",O6378WFannag
+"""been""","Mississauga, Ontario, Canada",O6378WFannag
+"""been""","Pittsburgh, PA, USA",O6378WFannag
+"""been""","Cave City, KY, USA",O6378WFannag
+"""been""","Arlington, VA, USA",O6378WFannag
+"""been""","Parker, AZ, USA",O6378WFannag
+"""been""","Patagonia, AZ, USA",O6378WFannag
+"""been""","Downers Grove, IL, USA",O6378WFannag
+"""been""","Saint Joseph, MI, USA",O6378WFannag
+"""been""","Alsip, IL, USA",O6378WFannag
+"""been""","Welches, OR, USA",O6378WFannag
+"""been""","Sandy Hook, NJ, USA",O6378WFannag
+"""been""","Warrenton, OR, USA",O6378WFannag
+"""been""","London, UK",O6378WFannag
+"""been""","New Haven, CT, USA",O6378WFannag
+"""been""","Phoenix, AZ, USA",O6378WFannag
+"""been""","Baton Rouge, LA, USA",O6378WFannag
+"""been""","Algonquin, IL, USA",O6378WFannag
+"""been""","Milwaukee, WI, USA",O6378WFannag
+"""been""","Sawyer, MI, USA",O6378WFannag
+"""been""","Marquette, MI, USA",O6378WFannag
+"""been""","Hamilton, IL, USA",O6378WFannag
+"""been""","Hanover Park, IL, USA",O6378WFannag
+"""been""","Saint Paul, MN, USA",O6378WFannag
+"""been""","Union Pier, MI, USA",O6378WFannag
+"""been""","Pasadena, CA, USA",O6378WFannag
+"""been""","Window Rock, AZ, USA",O6378WFannag
+"""been""","Jelenia Gora, Poland",O6378WFannag
+"""been""","Zakopane, Poland",O6378WFannag
+"""been""","Troutdale, OR, USA",O6378WFannag
+"""been""","East Chicago, IN, USA",O6378WFannag
+"""been""","Gorzow Wielkopolski, Poland",O6378WFannag
+"""been""","Timberline Lodge, OR, USA",O6378WFannag
+"""been""","Glogow, Poland",O6378WFannag
+"""been""","Zywiec, Poland",O6378WFannag
+"""been""","Ustrzyki Gorne, Poland",O6378WFannag
+"""been""","Ustrzyki Dolne, Poland",O6378WFannag
+"""been""","Mackinac Island, MI, USA",O6378WFannag
+"""been""","Mackinaw City, MI, USA",O6378WFannag
+"""been""","Pleasant Prairie, WI, USA",O6378WFannag
+"""been""","Yuma, AZ, USA",O6378WFannag
+"""been""","Dziwnow, Poland",O6378WFannag
+"""been""","Sandomierz, Poland",O6378WFannag
+"""been""","Justice, IL, USA",O6378WFannag
+"""been""","Grayslake, IL, USA",O6378WFannag
+"""been""","Radzyn Podlaski, Poland",O6378WFannag
+"""been""","Przemysl, Poland",O6378WFannag
+"""been""","Karnak, IL, USA",O6378WFannag
+"""been""","New Troy, MI, USA",O6378WFannag
+"""been""","New Buffalo, MI, USA",O6378WFannag
+"""been""","Las Cruces, NM, USA",O6378WFannag
+"""been""","Hartford, CT, USA",O6378WFannag
+"""been""","Three Oaks, MI, USA",O6378WFannag
+"""been""","Opole, Poland",O6378WFannag
+"""been""","Hammond, IN, USA",O6378WFannag
+"""been""","Dallas, TX, USA",O6378WFannag
+"""been""","Gurnee, IL, USA",O6378WFannag
+"""been""","Marshall, IN, USA",O6378WFannag
+"""been""","Kielce, Poland",O6378WFannag
+"""been""","Krakow, Poland",O6378WFannag
+"""been""","Spring Green, WI, USA",O6378WFannag
+"""been""","Stamford, CT, USA",O6378WFannag
+"""been""","Palm Springs, CA, USA",O6378WFannag
+"""been""","Katowice, Poland",O6378WFannag
+"""been""","Glencoe, IL, USA",O6378WFannag
+"""been""","Itasca, IL, USA",O6378WFannag
+"""been""","Glendale Heights, IL, USA",O6378WFannag
+"""been""","Glenview, IL, USA",O6378WFannag
+"""been""","Czestochowa, Poland",O6378WFannag
+"""been""","Golconda, IL, USA",O6378WFannag
+"""been""","Golf, IL, USA",O6378WFannag
+"""been""","Roswell, NM, USA",O6378WFannag
+"""been""","Bielsko-Biala, Poland",O6378WFannag
+"""been""","Oswiecim, Poland",O6378WFannag
+"""been""","Asbury Park, NJ, USA",O6378WFannag
+"""been""","Joliet, IL, USA",O6378WFannag
+"""been""","Milan, Italy",O6378WFannag
+"""been""","Goreville, IL, USA",O6378WFannag
+"""been""","Naleczow, Poland",O6378WFannag
+"""been""","Grand Detour, IL, USA",O6378WFannag
+"""been""","East Berlin, PA, USA",O6378WFannag
+"""been""","Puerto Vallarta, Mexico",O6378WFannag
+"""been""","Banff, Alberta, Canada",O6378WFannag
+"""been""","Lake Louise, Alberta, Canada",O6378WFannag
+"""been""","Yosemite National Park, CA, USA",O6378WFannag
+"""been""","Williams Bay, WI, USA",O6378WFannag
+"""been""","Sturgis, SD, USA",O6378WFannag
+"""been""","Geneva, IL, USA",O6378WFannag
+"""been""","Ochla, Poland",O6378WFannag
+"""been""","Morris, IL, USA",O6378WFannag
+"""been""","Doylestown, PA, USA",O6378WFannag
+"""been""","Huntley, IL, USA",O6378WFannag
+"""been""","Morton Grove, IL, USA",O6378WFannag
+"""been""","Bialystok, Poland",O6378WFannag
+"""been""","Chesterton, IN, USA",O6378WFannag
+"""been""","Waynesboro, VA, USA",O6378WFannag
+"""been""","Poipet, Cambodia",O6378WFannag
+"""been""","Gallup, NM, USA",O6378WFannag
+"""been""","Peconic, NY, USA",O6378WFannag
+"""been""","Siem Reap, Cambodia",O6378WFannag
+"""been""","Lake Geneva, WI, USA",O6378WFannag
+"""been""","Torun, Poland",O6378WFannag
+"""been""","Miedzyzdroje, Poland",O6378WFannag
+"""been""","Gubin, Poland",O6378WFannag
+"""been""","Sopot, Poland",O6378WFannag
+"""been""","Warsaw, Poland",O6378WFannag
+"""been""","Leszno, Poland",O6378WFannag
+"""been""","Lombard, IL, USA",O6378WFannag
+"""been""","Szczecin, Poland",O6378WFannag
+"""been""","Long Grove, IL, USA",O6378WFannag
+"""been""","French Lick, IN, USA",O6378WFannag
+"""been""","Gary, IN, USA",O6378WFannag
+"""been""","Cannon Beach, OR, USA",O6378WFannag
+"""been""","Malbork, Poland",O6378WFannag
+"""been""","Ingleside, IL, USA",O6378WFannag
+"""been""","Chiang Mai, Thailand",O6378WFannag
+"""been""","Glen Ellyn, IL, USA",O6378WFannag
+"""been""","La Crosse, WI, USA",O6378WFannag
+"""been""","Bangkok, Thailand",O6378WFannag
+"""been""","Niagara Falls, NY, USA",O6378WFannag
+"""been""","Jackson, WY, USA",O6378WFannag
+"""been""","Alamogordo, NM, USA",O6378WFannag
+"""been""","Salem, WI, USA",O6378WFannag
+"""been""","Carlsbad Caverns National Park, NM, USA",O6378WFannag
+"""been""","Glide, OR, USA",O6378WFannag
+"""been""","Bend, OR, USA",O6378WFannag
+"""been""","Bordeaux, France",O6378WFannag
+"""been""","Badlands National Park, SD, USA",O6378WFannag
+"""been""","Acadia National Park, ME, USA",O6378WFannag
+"""been""","Arches National Park, UT, USA",O6378WFannag
+"""been""","Franklin Park, IL, USA",O6378WFannag
+"""been""","Sulechow, Poland",O6378WFannag
+"""been""","Lemont, IL, USA",O6378WFannag
+"""been""","Hillside, IL, USA",O6378WFannag
+"""been""","Hinsdale, IL, USA",O6378WFannag
+"""been""","Fulton, IL, USA",O6378WFannag
+"""been""","Salem, VA, USA",O6378WFannag
+"""been""","Virginia Beach, VA, USA",O6378WFannag
+"""been""","Kenosha, WI, USA",O6378WFannag
+"""been""","Crater Lake National Park, OR, USA",O6378WFannag
+"""been""","Mexican Hat, UT, USA",O6378WFannag
+"""been""","Washington Island, WI, USA",O6378WFannag
+"""been""","Beach Haven, NJ, USA",O6378WFannag
+"""been""","Organ, NM, USA",O6378WFannag
+"""been""","Sioux Falls, SD, USA",O6378WFannag
+"""been""","Cleveland, OH, USA",O6378WFannag
+"""been""","Grand Teton National Park, WY, USA",O6378WFannag
+"""been""","Third Lake, IL, USA",O6378WFannag
+"""been""","Hoffman Estates, IL, USA",O6378WFannag
+"""been""","Libertyville, IL, USA",O6378WFannag
+"""been""","Death Valley National Park, CA, USA",O6378WFannag
+"""been""","Big Pine Key, FL, USA",O6378WFannag
+"""been""","Lincolnwood, IL, USA",O6378WFannag
+"""been""","Grand Canyon National Park, AZ, USA",O6378WFannag
+"""been""","Galena, IL, USA",O6378WFannag
+"""been""","Glacier National Park, MT, USA",O6378WFannag
+"""been""","Lincolnshire, IL, USA",O6378WFannag
+"""been""","Lisle, IL, USA",O6378WFannag
+"""been""","Munster, IN, USA",O6378WFannag
+"""been""","Drezdenko, Poland",O6378WFannag
+"""been""","Miedzyrzecz, Poland",O6378WFannag
+"""been""","Niedzica, Poland",O6378WFannag
+"""been""","Monument Valley, UT, USA",O6378WFannag
+"""been""","Washington DC, DC, USA",O6378WFannag
+"""been""","Cancun, Mexico",O6378WFannag
+"""been""","Deming, NM, USA",O6378WFannag
+"""been""","Toulouse, France",O6378WFannag
+"""been""","Orient, NY, USA",O6378WFannag
+"""been""","Oak Park, IL, USA",O6378WFannag
+"""been""","Oakbrook Terrace, IL, USA",O6378WFannag
+"""been""","Melrose Park, IL, USA",O6378WFannag
+"""been""","Newport News, VA, USA",O6378WFannag
+"""been""","Lake Forest, IL, USA",O6378WFannag
+"""been""","Nysa, Poland",O6378WFannag
+"""been""","Joshua Tree National Park, CA, USA",O6378WFannag
+"""been""","Hawthorn Woods, IL, USA",O6378WFannag
+"""been""","Lake Bluff, IL, USA",O6378WFannag
+"""been""","Lake Zurich, IL, USA",O6378WFannag
+"""been""","Marion, KY, USA",O6378WFannag
+"""been""","Toronto, Ontario, Canada",O6378WFannag
+"""been""","Lake in the Hills, IL, USA",O6378WFannag
+"""been""","Lake Villa, IL, USA",O6378WFannag
+"""been""","Gardiner, MT, USA",O6378WFannag
+"""been""","Twin Lakes, WI, USA",O6378WFannag
+"""been""","Bandon, OR, USA",O6378WFannag
+"""been""","Newport, OR, USA",O6378WFannag
+"""been""","North Cascades National Park, WA, USA",O6378WFannag
+"""been""","Herod, IL, USA",O6378WFannag
+"""been""","Mount Rainier National Park, WA, USA",O6378WFannag
+"""been""","Metropolis, IL, USA",O6378WFannag
+"""been""","Olympic National Park, WA, USA",O6378WFannag
+"""been""","Forest Park, IL, USA",O6378WFannag
+"""been""","Castle Rock, WA, USA",O6378WFannag
+"""been""","Lansing, IL, USA",O6378WFannag
+"""been""","Fox Lake, IL, USA",O6378WFannag
+"""been""","Zagan, Poland",O6378WFannag
+"""been""","Theodore Roosevelt National Park, ND, USA",O6378WFannag
+"""been""","Racine, WI, USA",O6378WFannag
+"""been""","Trevor, WI, USA",O6378WFannag
+"""been""","Highland Park, IL, USA",O6378WFannag
+"""been""","Frankfort, IL, USA",O6378WFannag
+"""been""","Shenandoah National Park, VA, USA",O6378WFannag
+"""been""","Tulum, Mexico",O6378WFannag
+"""been""","Playa del Carmen, Mexico",O6378WFannag
+"""been""","Prairie du Chien, WI, USA",O6378WFannag
+"""been""","Zion National Park, UT, USA",O6378WFannag
+"""been""","Little Torch Key, FL, USA",O6378WFannag
+"""been""","Kildeer, IL, USA",O6378WFannag
+"""been""","Long Key, FL, USA",O6378WFannag
+"""been""","Hurricane, UT, USA",O6378WFannag
+"""been""","Normal, IL, USA",O6378WFannag
+"""been""","Prospect Heights, IL, USA",O6378WFannag
+"""been""","Norridge, IL, USA",O6378WFannag
+"""been""","North Aurora, IL, USA",O6378WFannag
+"""been""","Maywood, IL, USA",O6378WFannag
+"""been""","Teton Village, WY, USA",O6378WFannag
+"""been""","Cody, WY, USA",O6378WFannag
+"""been""","Port Washington, WI, USA",O6378WFannag
+"""been""","Magdalena, NM, USA",O6378WFannag
+"""been""","North Chicago, IL, USA",O6378WFannag
+"""been""","Quincy, IL, USA",O6378WFannag
+"""been""","La Grange, IL, USA",O6378WFannag
+"""been""","Northbrook, IL, USA",O6378WFannag
+"""been""","Harrisburg, IL, USA",O6378WFannag
+"""been""","McHenry, IL, USA",O6378WFannag
+"""been""","Northfield, IL, USA",O6378WFannag
+"""been""","Merrillville, IN, USA",O6378WFannag
+"""been""","Baraboo, WI, USA",O6378WFannag
+"""been""","Oak Brook, IL, USA",O6378WFannag
+"""been""","Dania Beach, FL, USA",O6378WFannag
+"""been""","Miedzylesie, Poland",O6378WFannag
+"""been""","Harvard, IL, USA",O6378WFannag
+"""been""","Sturgeon Bay, WI, USA",O6378WFannag
+"""been""","Michigan City, IN, USA",O6378WFannag
+"""been""","Northlake, IL, USA",O6378WFannag
+"""been""","Philadelphia, PA, USA",O6378WFannag
+"""been""","West Orange, NJ, USA",O6378WFannag
+"""been""","Harwood Heights, IL, USA",O6378WFannag
+"""been""","LaSalle, IL, USA",O6378WFannag
+"""been""","Harvey, IL, USA",O6378WFannag
+"""been""","Breezy Point, NY, USA",O6378WFannag
+"""been""","Devils Tower, WY, USA",O6378WFannag
+"""been""","Poughkeepsie, NY, USA",O6378WFannag
+"""been""","West Vancouver, British Columbia, Canada",O6378WFannag
+"""been""","Big Bear City, CA, USA",O6378WFannag
+"""been""","Stephens City, VA, USA",O6378WFannag
+"""been""","Quinault, WA, USA",O6378WFannag
+"""been""","Santa Barbara, CA, USA",O6378WFannag
+"""been""","Death Valley Junction, CA, USA",O6378WFannag
+"""been""","Plano, IL, USA",O6378WFannag
+"""been""","Plainfield, IL, USA",O6378WFannag
+"""been""","Marengo, IL, USA",O6378WFannag
+"""been""","Shoals, IN, USA",O6378WFannag
+"""been""","Shipshewana, IN, USA",O6378WFannag
+"""been""","Nowa Sol, Poland",O6378WFannag
+"""been""","Shiprock, NM, USA",O6378WFannag
+"""been""","West Yellowstone, MT, USA",O6378WFannag
+"""been""","Socorro, NM, USA",O6378WFannag
+"""been""","Santa Monica, CA, USA",O6378WFannag
+"""been""","Blue Jay, CA, USA",O6378WFannag
+"""been""","Clinton, IA, USA",O6378WFannag
+"""been""","New Lenox, IL, USA",O6378WFannag
+"""been""","Memphis, TN, USA",O6378WFannag
+"""been""","Kenilworth, IL, USA",O6378WFannag
+"""been""","Yorktown, VA, USA",O6378WFannag
+"""been""","South Bend, IN, USA",O6378WFannag
+"""been""","Enumclaw, WA, USA",O6378WFannag
+"""been""","Marseilles, IL, USA",O6378WFannag
+"""been""","Atlanta, GA, USA",O6378WFannag
+"""been""","Niles, IL, USA",O6378WFannag
+"""been""","Hackensack, NJ, USA",O6378WFannag
+"""been""","East Glacier Park, MT, USA",O6378WFannag
+"""been""","Cambridge, MA, USA",O6378WFannag

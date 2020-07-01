@@ -1,0 +1,453 @@
+tag,place,user
+"""been""","West Palm Beach, FL, USA",travellistics
+"""been""","Aspen, CO, USA",travellistics
+"""been""","Antwerp, Belgium",travellistics
+"""been""","Naples, Italy",travellistics
+"""been""","London, UK",travellistics
+"""been""","Rotterdam, The Netherlands",travellistics
+"""been""","Edwards, CO, USA",travellistics
+"""been""","Munich, Germany",travellistics
+"""been""","Malibu, CA, USA",travellistics
+"""been""","Reno, NV, USA",travellistics
+"""been""","El Alamo, Mexico",travellistics
+"""want""","Reykjavik, Iceland",travellistics
+"""been""","Change, France",travellistics
+"""been""","Rome, Italy",travellistics
+"""been""","Marina del Rey, CA, USA",travellistics
+"""been""","Sedona, AZ, USA",travellistics
+"""been""","Alpine, AZ, USA",travellistics
+"""been""","Florence, Italy",travellistics
+"""been""","Phnom Penh, Cambodia",travellistics
+"""been""","Snowmass Village, CO, USA",travellistics
+"""been""","Scottsdale, AZ, USA",travellistics
+"""been""","Pisa, Italy",travellistics
+"""been""","Show Low, AZ, USA",travellistics
+"""been""","Edinburg, TX, USA",travellistics
+"""been""","Minneapolis, MN, USA",travellistics
+"""been""","San Pedro Garza Garcia, Mexico",travellistics
+"""been""","Urayasu, Japan",travellistics
+"""been""","Irvine, CA, USA",travellistics
+"""been""","Eagle Pass, TX, USA",travellistics
+"""been""","Casablanca, Morocco",travellistics
+"""been""","Istanbul, Turkey",travellistics
+"""been""","Tangier, Morocco",travellistics
+"""been""","Orly, France",travellistics
+"""been""","Chicago, IL, USA",travellistics
+"""been""","Valencia, Spain",travellistics
+"""been""","Los Angeles, CA, USA",travellistics
+"""been""","Fes, Morocco",travellistics
+"""been""","Marrakech, Morocco",travellistics
+"""been""","Ios, Greece",travellistics
+"""been""","Selcuk, Turkey",travellistics
+"""been""","Shanghai, China",travellistics
+"""been""","Himeji, Japan",travellistics
+"""been""","Nara, Japan",travellistics
+"""been""","Palermo, Italy",travellistics
+"""been""","Helsinki, Finland",travellistics
+"""been""","Madrid, Spain",travellistics
+"""been""","Brunate, Italy",travellistics
+"""been""","Stretford, UK",travellistics
+"""been""","Las Vegas, NV, USA",travellistics
+"""been""","Sharjah, United Arab Emirates",travellistics
+"""been""","Tokyo, Japan",travellistics
+"""been""","Lake Forest, CA, USA",travellistics
+"""been""","Rennes, France",travellistics
+"""been""","Laguna Niguel, CA, USA",travellistics
+"""been""","Piraeus, Greece",travellistics
+"""been""","Progreso, Mexico",travellistics
+"""been""","Breckenridge, CO, USA",travellistics
+"""been""","Hawthorne, CA, USA",travellistics
+"""been""","Zinacantan, Mexico",travellistics
+"""been""","San Juan Chamula, Mexico",travellistics
+"""been""","Ixtapa, Mexico",travellistics
+"""been""","Albuquerque, NM, USA",travellistics
+"""been""","Dijon, France",travellistics
+"""been""","Marble Canyon, AZ, USA",travellistics
+"""been""","San Sebastian - Donostia, Spain",travellistics
+"""been""","Pearsall, TX, USA",travellistics
+"""been""","Carrizo Springs, TX, USA",travellistics
+"""been""","Juriquilla, Mexico",travellistics
+"""been""","Frankfurt, Germany",travellistics
+"""been""","Seuilly, France",travellistics
+"""been""","Vouvray, France",travellistics
+"""been""","San Antonio Las Alazanas, Mexico",travellistics
+"""been""","Nozay, France",travellistics
+"""been""","Brownsville, TX, USA",travellistics
+"""been""","Corpus Christi, TX, USA",travellistics
+"""been""","Flushing, NY, USA",travellistics
+"""been""","Bruges, Belgium",travellistics
+"""been""","Athens, Greece",travellistics
+"""been""","Salt Lake City, UT, USA",travellistics
+"""been"",""want""","Da Nang, Vietnam",travellistics
+"""been""","Berlin, Germany",travellistics
+"""been""","Chula Vista, CA, USA",travellistics
+"""been""","Kathmandu, Nepal",travellistics
+"""been""","Poitiers, France",travellistics
+"""been""","La Rochelle, France",travellistics
+"""been""","La Jolla, CA, USA",travellistics
+"""been""","Mission, TX, USA",travellistics
+"""been""","Orlando, FL, USA",travellistics
+"""been""","Lake Powell, UT, USA",travellistics
+"""been""","Hamburg, Germany",travellistics
+"""been"",""fave""","Beaver Creek, CO, USA",travellistics
+"""been""","Huisnes sur Mer, France",travellistics
+"""been""","Stockholm, Sweden",travellistics
+"""been""","Cotulla, TX, USA",travellistics
+"""been""","Malaga, Spain",travellistics
+"""been""","Brussels, Belgium",travellistics
+"""been""","Cheverny, France",travellistics
+"""been"",""fave""","Vail, CO, USA",travellistics
+"""been""","Somma Lombardo, Italy",travellistics
+"""been""","Granada, Spain",travellistics
+"""been""","Versailles, France",travellistics
+"""been"",""fave""","Paris, France",travellistics
+"""been""","Patmos, Greece",travellistics
+"""been""","Uvalde, TX, USA",travellistics
+"""been""","Puerto Escondido, Mexico",travellistics
+"""been""","Redlands, CA, USA",travellistics
+"""been""","Canmore, Alberta, Canada",travellistics
+"""been""","Dallas, TX, USA",travellistics
+"""been""","Bloomington, MN, USA",travellistics
+"""been""","Playa Mujeres, Mexico",travellistics
+"""been""","Reims, France",travellistics
+"""been""","Montreux, Switzerland",travellistics
+"""been""","Palm Desert, CA, USA",travellistics
+"""been""","Palm Springs, CA, USA",travellistics
+"""been""","Las Cruces, NM, USA",travellistics
+"""been""","Brecey, France",travellistics
+"""been""","Richmond, British Columbia, Canada",travellistics
+"""been""","North Vancouver, British Columbia, Canada",travellistics
+"""been""","San Luis Potosi, Mexico",travellistics
+"""been""","Bucerias, Mexico",travellistics
+"""been""","Zurich, Switzerland",travellistics
+"""been""","Fontainebleau, France",travellistics
+"""been""","Amsterdam, The Netherlands",travellistics
+"""been""","Langeais, France",travellistics
+"""been""","Huisseau-sur-Cosson, France",travellistics
+"""been""","Leon, Mexico",travellistics
+"""been""","Chinon, France",travellistics
+"""been""","Orleans, France",travellistics
+"""been""","Real de Catorce, Mexico",travellistics
+"""been""","Encinal, TX, USA",travellistics
+"""been""","Tours, France",travellistics
+"""been""","Mykonos, Greece",travellistics
+"""been""","Cologne, Germany",travellistics
+"""been""","Paros, Greece",travellistics
+"""been""","Santorini, Greece",travellistics
+"""been""","Barcelona, Spain",travellistics
+"""been""","Villandry, France",travellistics
+"""been""","Amboise, France",travellistics
+"""been""","Heraklion, Greece",travellistics
+"""been""","Nice, France",travellistics
+"""been""","Blois, France",travellistics
+"""been""","Prague, Czech Republic",travellistics
+"""been""","Azay-le-Rideau, France",travellistics
+"""been""","Rancho Mirage, CA, USA",travellistics
+"""been""","Queretaro City, Mexico",travellistics
+"""been""","Kanchanaburi, Thailand",travellistics
+"""been""","Tuxtla Gutierrez, Mexico",travellistics
+"""been""","Copenhagen, Denmark",travellistics
+"""been""","Chenonceaux, France",travellistics
+"""been""","Ejido El Porvenir, Mexico",travellistics
+"""been""","Avon, CO, USA",travellistics
+"""been""","Santander, Spain",travellistics
+"""been""","Chambord, France",travellistics
+"""been""","Montevideo, Uruguay",travellistics
+"""been""","Giza, Egypt",travellistics
+"""been""","Luxor, Egypt",travellistics
+"""been""","Manchester, UK",travellistics
+"""been""","Aswan, Egypt",travellistics
+"""been""","Oslo, Norway",travellistics
+"""been""","Cairo, Egypt",travellistics
+"""been""","Sayulita, Mexico",travellistics
+"""been""","Lac-Superieur, Quebec, Canada",travellistics
+"""been""","Rouen, France",travellistics
+"""been""","Le Havre, France",travellistics
+"""been""","Incline Village, NV, USA",travellistics
+"""been""","Le Mans, France",travellistics
+"""been""","Montepulciano, Italy",travellistics
+"""been""","Bordeaux, France",travellistics
+"""been""","Saumur, France",travellistics
+"""been""","Nantes, France",travellistics
+"""been""","Bayonne, France",travellistics
+"""been""","Angers, France",travellistics
+"""been""","Phoenix, AZ, USA",travellistics
+"""been""","Cusco, Peru",travellistics
+"""been""","Ubud, Indonesia",travellistics
+"""been""","Long Beach, CA, USA",travellistics
+"""been""","Eagle-Vail, CO, USA",travellistics
+"""been""","Chiyoda, Japan",travellistics
+"""been""","Lima, Peru",travellistics
+"""been""","Ollantaytambo, Peru",travellistics
+"""want""","Mandalay, Myanmar",travellistics
+"""been""","Machu Picchu, Peru",travellistics
+"""been""","Mestre, Italy",travellistics
+"""been""","Caen, France",travellistics
+"""been""","Viareggio, Italy",travellistics
+"""been""","Vienna, Austria",travellistics
+"""want""","Lhasa, China",travellistics
+"""been""","Kusadasi, Turkey",travellistics
+"""been""","Fort Stockton, TX, USA",travellistics
+"""been""","Fort Worth, TX, USA",travellistics
+"""been""","Grand Canyon National Park, AZ, USA",travellistics
+"""been""","Buenos Aires, Argentina",travellistics
+"""been""","Montauban, France",travellistics
+"""been""","Tlaquepaque, Mexico",travellistics
+"""been""","Toulouse, France",travellistics
+"""been""","Dubai, United Arab Emirates",travellistics
+"""been""","Limoges, France",travellistics
+"""been""","Harlingen, TX, USA",travellistics
+"""been""","Bucharest, Romania",travellistics
+"""been""","Toluca, Mexico",travellistics
+"""been""","Sofia, Bulgaria",travellistics
+"""been""","Beijing, China",travellistics
+"""been""","Hong Kong, China",travellistics
+"""been""","Van Horn, TX, USA",travellistics
+"""been""","Celaya, Mexico",travellistics
+"""been""","Nuevo Vallarta, Mexico",travellistics
+"""been""","Nancy, France",travellistics
+"""been""","Montreal, Quebec, Canada",travellistics
+"""been""","Chefchaouen, Morocco",travellistics
+"""been""","Washington DC, DC, USA",travellistics
+"""been""","Quebec City, Quebec, Canada",travellistics
+"""been""","Andorra la Vella, Andorra",travellistics
+"""been""","Playa del Carmen, Mexico",travellistics
+"""been""","Tulum, Mexico",travellistics
+"""been"",""fave""","Isla Mujeres, Mexico",travellistics
+"""been""","Merida, Mexico",travellistics
+"""been""","Nevsehir, Turkey",travellistics
+"""been""","Wilson, WY, USA",travellistics
+"""been""","Kayseri, Turkey",travellistics
+"""been""","Burnaby, British Columbia, Canada",travellistics
+"""been""","Cancun, Mexico",travellistics
+"""been""","West Vancouver, British Columbia, Canada",travellistics
+"""been""","Goreme, Turkey",travellistics
+"""been""","Budapest, Hungary",travellistics
+"""been""","Bhaktapur, Nepal",travellistics
+"""been""","Mer, France",travellistics
+"""been""","Jesolo, Italy",travellistics
+"""been""","Denizli, Turkey",travellistics
+"""been""","Pamukkale, Turkey",travellistics
+"""been""","Prato, Italy",travellistics
+"""been""","Oaxaca, Mexico",travellistics
+"""been""","San Cristobal de las Casas, Mexico",travellistics
+"""been""","Mexico City, Mexico",travellistics
+"""been""","Seal Beach, CA, USA",travellistics
+"""been""","Veuves, France",travellistics
+"""been""","Sumida, Japan",travellistics
+"""been""","Singapore, Singapore",travellistics
+"""been""","Teton Village, WY, USA",travellistics
+"""been""","Sentosa Island, Singapore",travellistics
+"""been""","Shinjuku, Japan",travellistics
+"""been""","Shibuya, Japan",travellistics
+"""been""","Coral Gables, FL, USA",travellistics
+"""been""","Delta, British Columbia, Canada",travellistics
+"""been""","Pushkar, India",travellistics
+"""been""","Playa Paraiso, Mexico",travellistics
+"""been""","St. Petersburg, Russia",travellistics
+"""been""","L'Hospitalet de Llobregat, Spain",travellistics
+"""been""","Bonita, CA, USA",travellistics
+"""been""","Tampico, Mexico",travellistics
+"""been""","Kanab, UT, USA",travellistics
+"""been""","Lucerne, Switzerland",travellistics
+"""been""","Atotonilco, Mexico",travellistics
+"""been""","Live Oak, TX, USA",travellistics
+"""been""","Philadelphia, PA, USA",travellistics
+"""been""","Kamakura, Japan",travellistics
+"""been""","Abu Dhabi, United Arab Emirates",travellistics
+"""been""","Nassau, Bahamas",travellistics
+"""been""","Taito, Japan",travellistics
+"""been""","Freeport, Bahamas",travellistics
+"""been""","Biarritz, France",travellistics
+"""been""","Orvieto, Italy",travellistics
+"""been""","Hatsukaichi, Japan",travellistics
+"""been""","Geneva, Switzerland",travellistics
+"""been""","Saint-Jean-de-Luz, France",travellistics
+"""been""","Cernobbio, Italy",travellistics
+"""been""","White Sands, NM, USA",travellistics
+"""been""","San Gimignano, Italy",travellistics
+"""been""","Assisi, Italy",travellistics
+"""been""","San Luis de la Paz, Mexico",travellistics
+"""been""","Siena, Italy",travellistics
+"""been""","Perugia, Italy",travellistics
+"""been""","Arezzo, Italy",travellistics
+"""been""","Agra, India",travellistics
+"""been""","Park City, UT, USA",travellistics
+"""been""","Pinetop-Lakeside, AZ, USA",travellistics
+"""been""","Chouzy-sur-Cisse, France",travellistics
+"""been""","Allende, Mexico",travellistics
+"""been""","Hurghada, Egypt",travellistics
+"""been""","Jackson, WY, USA",travellistics
+"""been""","Ayvali, Turkey",travellistics
+"""been""","Udaipur, India",travellistics
+"""been""","Gulfport, MS, USA",travellistics
+"""been""","Surfers Paradise, Australia",travellistics
+"""been""","Guaymas, Mexico",travellistics
+"""been""","San Miguel de Allende, Mexico",travellistics
+"""been""","Saint-Gilles, Belgium",travellistics
+"""been""","Aguas Calientes, Peru",travellistics
+"""been""","Putrajaya, Malaysia",travellistics
+"""been""","Santiago, Mexico",travellistics
+"""been""","Jimbaran, Indonesia",travellistics
+"""been""","Kuta, Indonesia",travellistics
+"""been""","Courtils, France",travellistics
+"""been""","Edfu, Egypt",travellistics
+"""been""","Karahayit, Turkey",travellistics
+"""been""","Brisbane, Australia",travellistics
+"""been"",""fave""","Mykonos Town, Greece",travellistics
+"""been""","Bogota, Colombia",travellistics
+"""want""","Chengdu, China",travellistics
+"""been""","Sydney, Australia",travellistics
+"""want""","Yangon (Rangoon), Myanmar",travellistics
+"""been""","Varanasi, India",travellistics
+"""been""","Denpasar, Indonesia",travellistics
+"""been""","Lugano, Switzerland",travellistics
+"""been""","Surrey, British Columbia, Canada",travellistics
+"""been""","New Orleans, LA, USA",travellistics
+"""been""","Houston, TX, USA",travellistics
+"""been""","Idaho Springs, CO, USA",travellistics
+"""been""","Fukuoka, Japan",travellistics
+"""been""","Cypress, CA, USA",travellistics
+"""been""","Pompano Beach, FL, USA",travellistics
+"""been""","Culver City, CA, USA",travellistics
+"""been""","Cadereyta Jimenez, Mexico",travellistics
+"""been""","Bahia Kino, Mexico",travellistics
+"""been""","Tijuana, Mexico",travellistics
+"""been""","Laval, France",travellistics
+"""been""","Rincon de Guayabitos, Mexico",travellistics
+"""been""","Amiens, France",travellistics
+"""been""","Longnes, France",travellistics
+"""want""","Manila, Philippines",travellistics
+"""been""","Beaumont, TX, USA",travellistics
+"""been""","Kuala Lumpur, Malaysia",travellistics
+"""been""","Flagstaff, AZ, USA",travellistics
+"""been""","West Hollywood, CA, USA",travellistics
+"""been""","New Braunfels, TX, USA",travellistics
+"""been""","Trieste, Italy",travellistics
+"""been""","West Covina, CA, USA",travellistics
+"""been""","Arteaga, Mexico",travellistics
+"""been""","Reynosa, Mexico",travellistics
+"""been""","Dublin, Ireland",travellistics
+"""been""","Port Isabel, TX, USA",travellistics
+"""been""","Punta de Mita, Mexico",travellistics
+"""been""","Driggs, ID, USA",travellistics
+"""been""","Fort Lauderdale, FL, USA",travellistics
+"""been""","Parras de la Fuente, Mexico",travellistics
+"""been""","Mont-Saint-Michel, France",travellistics
+"""been""","Galeana, Mexico",travellistics
+"""been""","Kyoto, Japan",travellistics
+"""been""","Puno, Peru",travellistics
+"""been""","Kobe, Japan",travellistics
+"""been""","Juliaca, Peru",travellistics
+"""been""","Hiroshima, Japan",travellistics
+"""been"",""fave""","Austin, TX, USA",travellistics
+"""been""","Mount Lemmon, AZ, USA",travellistics
+"""been""","Bologna, Italy",travellistics
+"""been""","Coronado, CA, USA",travellistics
+"""been""","Ramos Arizpe, Mexico",travellistics
+"""been""","Linares, Mexico",travellistics
+"""been""","Miami Beach, FL, USA",travellistics
+"""been""","Miami, FL, USA",travellistics
+"""been""","Tampa, FL, USA",travellistics
+"""been""","Rimini, Italy",travellistics
+"""been""","Calgary, Alberta, Canada",travellistics
+"""been""","Montemorelos, Mexico",travellistics
+"""been""","Cuernavaca, Mexico",travellistics
+"""been""","Guadalajara, Mexico",travellistics
+"""been""","Zihuatanejo, Mexico",travellistics
+"""been""","Puerto Vallarta, Mexico",travellistics
+"""been""","Playa del Secreto, Mexico",travellistics
+"""been""","Manzanillo, Mexico",travellistics
+"""been""","Mazatlan, Mexico",travellistics
+"""been""","Del Rio, TX, USA",travellistics
+"""been""","Santa Fe, NM, USA",travellistics
+"""been""","Ax-les-Thermes, France",travellistics
+"""been""","San Antonio, TX, USA",travellistics
+"""been""","San Francisco, CA, USA",travellistics
+"""been""","Banff National Park, Alberta, Canada",travellistics
+"""been""","Page, AZ, USA",travellistics
+"""been""","Banff, Alberta, Canada",travellistics
+"""been""","Guanajuato, Mexico",travellistics
+"""been""","Havana, Cuba",travellistics
+"""been""","Oro Valley, AZ, USA",travellistics
+"""been""","Tucson, AZ, USA",travellistics
+"""been""","Puigcerda, Spain",travellistics
+"""been""","Sasebo, Japan",travellistics
+"""been""","South Padre Island, TX, USA",travellistics
+"""been""","Pharr, TX, USA",travellistics
+"""been""","Santa Catarina, Mexico",travellistics
+"""been""","Anaheim, CA, USA",travellistics
+"""been""","Villa de Garcia, Mexico",travellistics
+"""been""","Acapulco, Mexico",travellistics
+"""been""","Nuevo Laredo, Mexico",travellistics
+"""been""","Saltillo, Mexico",travellistics
+"""been""","Monterrey, Mexico",travellistics
+"""been""","Brooklyn, NY, USA",travellistics
+"""been""","Anglet, France",travellistics
+"""been""","Hendaye, France",travellistics
+"""been""","Huatulco, Mexico",travellistics
+"""been""","Padua, Italy",travellistics
+"""been""","Izmir, Turkey",travellistics
+"""been""","Taipei, Taiwan",travellistics
+"""been""","Treviso, Italy",travellistics
+"""been""","Bangkok, Thailand",travellistics
+"""been"",""fave""","Chiang Mai, Thailand",travellistics
+"""been""","Puerto Nuevo, Mexico",travellistics
+"""been""","Konya, Turkey",travellistics
+"""been""","San Ysidro, CA, USA",travellistics
+"""been""","Beverly Hills, CA, USA",travellistics
+"""been""","Venice, Italy",travellistics
+"""been""","San Jose del Cabo, Mexico",travellistics
+"""been""","Cabo San Lucas, Mexico",travellistics
+"""been""","Atlanta, GA, USA",travellistics
+"""been""","Mont Tremblant, Quebec, Canada",travellistics
+"""been""","Mercedes, TX, USA",travellistics
+"""been""","Santa Monica, CA, USA",travellistics
+"""want""","Changde, China",travellistics
+"""been""","Vincennes, France",travellistics
+"""been"",""fave""","Siem Reap, Cambodia",travellistics
+"""been""","Issy-les-Moulineaux, France",travellistics
+"""been""","Santa Maria del Rio, Mexico",travellistics
+"""been"",""want""","Moscow, Russia",travellistics
+"""been""","El Paso, TX, USA",travellistics
+"""been""","Hondarribia, Spain",travellistics
+"""been""","Denver, CO, USA",travellistics
+"""been""","Jaipur, India",travellistics
+"""been""","Dillon, CO, USA",travellistics
+"""been"",""fave""","New York City, NY, USA",travellistics
+"""been""","Carson, CA, USA",travellistics
+"""been""","Kissimmee, FL, USA",travellistics
+"""been""","Milan, Italy",travellistics
+"""been""","Clichy, France",travellistics
+"""been""","Provins, France",travellistics
+"""been""","New Delhi, India",travellistics
+"""been""","Dolores Hidalgo, Mexico",travellistics
+"""been""","Valle de Guadalupe, Mexico",travellistics
+"""been""","Melbourne, Australia",travellistics
+"""been""","Chiapa de Corzo, Mexico",travellistics
+"""been""","Puebla, Mexico",travellistics
+"""been""","Zacatecas, Mexico",travellistics
+"""been""","Bagnolet, France",travellistics
+"""been""","Morelia, Mexico",travellistics
+"""been""","Carlsbad, CA, USA",travellistics
+"""been""","Seattle, WA, USA",travellistics
+"""been""","McAllen, TX, USA",travellistics
+"""been""","Laredo, TX, USA",travellistics
+"""been"",""fave""","San Diego, CA, USA",travellistics
+"""been""","Como, Italy",travellistics
+"""been""","Cathedral City, CA, USA",travellistics
+"""want""","Hanoi, Vietnam",travellistics
+"""been""","Ho Chi Minh City, Vietnam",travellistics
+"""been""","Patzcuaro, Mexico",travellistics
+"""want""","Phuket, Thailand",travellistics
+"""been""","Lagos de Moreno, Mexico",travellistics
+"""been""","Aguascalientes, Mexico",travellistics
+"""been""","Whistler, British Columbia, Canada",travellistics
+"""been""","Matehuala, Mexico",travellistics
+"""been""","Chiasso, Switzerland",travellistics
+"""been""","Nevers, France",travellistics
+"""been""","New Taipei, Taiwan",travellistics
+"""been""","Macau, China",travellistics
+"""been""","Vancouver, British Columbia, Canada",travellistics
+"""been""","Hermosillo, Mexico",travellistics
+"""been""","Boston, MA, USA",travellistics

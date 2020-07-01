@@ -1,0 +1,525 @@
+tag,place,user
+"""been""","Middlesbrough, UK",SATraveller
+"""been""","Vatican City, Vatican City",SATraveller
+"""been""","Cardiff, UK",SATraveller
+"""been""","Norwich, UK",SATraveller
+"""been""","Rome, Italy",SATraveller
+"""been""","Bristol, UK",SATraveller
+"""been""","Berwick upon Tweed, UK",SATraveller
+"""been""","Fort Lauderdale, FL, USA",SATraveller
+"""been""","Poole, UK",SATraveller
+"""been"",""want""","Malaga, Spain",SATraveller
+"""been""","Northampton, UK",SATraveller
+"""been""","Brussels, Belgium",SATraveller
+"""been"",""want""","Cadiz, Spain",SATraveller
+"""been""","Dumbarton, UK",SATraveller
+"""been""","York, UK",SATraveller
+"""been""","Cambridge, UK",SATraveller
+"""been""","Stockholm, Sweden",SATraveller
+"""been""","Bloemfontein, South Africa",SATraveller
+"""been""","Clydebank, UK",SATraveller
+"""been""","Swansea, UK",SATraveller
+"""been""","Whitby, UK",SATraveller
+"""been""","West Hollywood, CA, USA",SATraveller
+"""been"",""fave""","New York City, NY, USA",SATraveller
+"""been""","Key West, FL, USA",SATraveller
+"""been""","Hexham, UK",SATraveller
+"""been""","Belfast, UK",SATraveller
+"""been""","Carlisle, UK",SATraveller
+"""been""","Chipping Norton, UK",SATraveller
+"""been""","Istanbul, Turkey",SATraveller
+"""been""","Altrincham, UK",SATraveller
+"""been""","Farnham, UK",SATraveller
+"""been""","Boksburg, South Africa",SATraveller
+"""been""","Manly, Australia",SATraveller
+"""want""","Liege, Belgium",SATraveller
+"""been""","Berlin, Germany",SATraveller
+"""want""","Seville, Spain",SATraveller
+"""been""","Chester, UK",SATraveller
+"""been""","Johannesburg, South Africa",SATraveller
+"""been""","Blarney, Ireland",SATraveller
+"""been""","Nottingham, UK",SATraveller
+"""been""","San Diego, CA, USA",SATraveller
+"""want""","Seward, AK, USA",SATraveller
+"""been""","Midrand, South Africa",SATraveller
+"""been""","Aix-en-Provence, France",SATraveller
+"""been""","Marrakech, Morocco",SATraveller
+"""been""","Selcuk, Turkey",SATraveller
+"""been""","Consett, UK",SATraveller
+"""been""","Kinsale, Ireland",SATraveller
+"""been""","Bamburgh, UK",SATraveller
+"""been""","Blankenberge, Belgium",SATraveller
+"""been""","Seattle, WA, USA",SATraveller
+"""been""","Alnwick, UK",SATraveller
+"""been""","Newark, NJ, USA",SATraveller
+"""been""","Palermo, Italy",SATraveller
+"""been""","Oudtshoorn, South Africa",SATraveller
+"""been""","Kendal, UK",SATraveller
+"""been""","Kristianstad, Sweden",SATraveller
+"""been""","George, South Africa",SATraveller
+"""been""","Ouistreham, France",SATraveller
+"""been""","Lucca, Italy",SATraveller
+"""been""","Keswick, UK",SATraveller
+"""been""","Port-en-Bessin-Huppain, France",SATraveller
+"""been""","Pisa, Italy",SATraveller
+"""been""","Pitlochry, UK",SATraveller
+"""been""","Perth, UK",SATraveller
+"""been""","Florence, Italy",SATraveller
+"""been""","Charleston, SC, USA",SATraveller
+"""been""","Dar es Salaam, Tanzania",SATraveller
+"""been""","Santos, Brazil",SATraveller
+"""been""","Neath, UK",SATraveller
+"""want""","Honolulu, HI, USA",SATraveller
+"""been""","New Orleans, LA, USA",SATraveller
+"""been"",""want"",""fave""","Rio de Janeiro, Brazil",SATraveller
+"""want""","Amman, Jordan",SATraveller
+"""been"",""fave""","Hoi An, Vietnam",SATraveller
+"""been""","Boston, MA, USA",SATraveller
+"""been""","Port Elizabeth, South Africa",SATraveller
+"""been""","Paisley, UK",SATraveller
+"""been""","Leiden, The Netherlands",SATraveller
+"""been""","Capri, Italy",SATraveller
+"""been""","Windermere, UK",SATraveller
+"""been""","Durham, UK",SATraveller
+"""been""","Puntarenas, Costa Rica",SATraveller
+"""been""","Morpeth, UK",SATraveller
+"""been""","Aberfoyle, UK",SATraveller
+"""been""","Liverpool, UK",SATraveller
+"""been""","Da Nang, Vietnam",SATraveller
+"""been""","Lincoln, UK",SATraveller
+"""been""","Puerto de San Jose, Guatemala",SATraveller
+"""been""","North Berwick, UK",SATraveller
+"""been""","London, UK",SATraveller
+"""been""","Prestwick, UK",SATraveller
+"""want""","The Hague, The Netherlands",SATraveller
+"""been""","Livingstone, Zambia",SATraveller
+"""been""","Ayr, UK",SATraveller
+"""been""","Blackpool, UK",SATraveller
+"""been""","East London, South Africa",SATraveller
+"""been""","Nakuru, Kenya",SATraveller
+"""been""","Leicester, UK",SATraveller
+"""been"",""fave""","Carmel, CA, USA",SATraveller
+"""been""","Lundin Links, UK",SATraveller
+"""been""","Farnham, UK",SATraveller
+"""been""","San Jose, CA, USA",SATraveller
+"""been""","Epsom, UK",SATraveller
+"""been""","Victoria Falls, Zambia",SATraveller
+"""been""","Munich, Germany",SATraveller
+"""been""","Bulawayo, Zimbabwe",SATraveller
+"""been""","Denver, CO, USA",SATraveller
+"""been""","Guarulhos, Brazil",SATraveller
+"""been""","Seahouses, UK",SATraveller
+"""want""","Puerto Real, Spain",SATraveller
+"""been""","Lavenham, UK",SATraveller
+"""been""","Las Palmas de Gran Canaria, Spain",SATraveller
+"""been""","Bournemouth, UK",SATraveller
+"""been""","Bury St. Edmunds, UK",SATraveller
+"""been""","Wallingford, UK",SATraveller
+"""been""","Long Melford, UK",SATraveller
+"""want""","Dijon, France",SATraveller
+"""been""","Stockton-on-Tees, UK",SATraveller
+"""been""","Ballachulish, UK",SATraveller
+"""been""","Monte-Carlo, Monaco",SATraveller
+"""been""","Kelso, UK",SATraveller
+"""been"",""want""","Arnhem, The Netherlands",SATraveller
+"""been""","Nice, France",SATraveller
+"""been""","Harare, Zimbabwe",SATraveller
+"""been""","Northwich, UK",SATraveller
+"""been""","Nantwich, UK",SATraveller
+"""been""","Sandbach, UK",SATraveller
+"""been""","Lytham St Anne's, UK",SATraveller
+"""been""","Newcastle upon Tyne, UK",SATraveller
+"""been""","Brighton, UK",SATraveller
+"""been"",""want""","Maastricht, The Netherlands",SATraveller
+"""been""","Copenhagen, Denmark",SATraveller
+"""been""","Knutsford, UK",SATraveller
+"""been""","Guildford, UK",SATraveller
+"""been""","Stratford-upon-Avon, UK",SATraveller
+"""been""","Villefranche-sur-Mer, France",SATraveller
+"""been""","Vence, France",SATraveller
+"""been""","Bonifacio, France",SATraveller
+"""been"",""want""","Juneau, AK, USA",SATraveller
+"""been""","San Antonio, TX, USA",SATraveller
+"""been""","Bridge of Weir, UK",SATraveller
+"""been"",""fave""","San Francisco, CA, USA",SATraveller
+"""been""","Sao Paulo, Brazil",SATraveller
+"""been""","Crewe, UK",SATraveller
+"""been""","Derry, UK",SATraveller
+"""been""","Oxford, UK",SATraveller
+"""been""","Imota, Nigeria",SATraveller
+"""been""","Nashville, TN, USA",SATraveller
+"""been""","Slough, UK",SATraveller
+"""been""","Reading, UK",SATraveller
+"""been"",""want""","Hamburg, Germany",SATraveller
+"""been""","Henley-on-Thames, UK",SATraveller
+"""been""","Rivonia, South Africa",SATraveller
+"""been""","Market Harborough, UK",SATraveller
+"""been""","Pretoria, South Africa",SATraveller
+"""been""","Aberdeen, UK",SATraveller
+"""want""","Ghent, Belgium",SATraveller
+"""been""","Avignon, France",SATraveller
+"""been""","Chateauneuf-du-Pape, France",SATraveller
+"""been""","Sandton, South Africa",SATraveller
+"""been""","Oosterbeek, The Netherlands",SATraveller
+"""been""","Soweto, South Africa",SATraveller
+"""been""","Sisterdale, TX, USA",SATraveller
+"""been""","Kettering, UK",SATraveller
+"""been""","Stockport, UK",SATraveller
+"""been""","Brooklyn, NY, USA",SATraveller
+"""been""","Dunkeld, UK",SATraveller
+"""been""","Athens, Greece",SATraveller
+"""been""","Bruges, Belgium",SATraveller
+"""been""","Palma de Mallorca, Spain",SATraveller
+"""been""","Ostend, Belgium",SATraveller
+"""been""","Cannes, France",SATraveller
+"""been""","Rhodes Town, Greece",SATraveller
+"""been""","Auchterarder, UK",SATraveller
+"""been""","Crieff, UK",SATraveller
+"""been""","Bath, UK",SATraveller
+"""been""","Knaresborough, UK",SATraveller
+"""been""","Trentishoe, UK",SATraveller
+"""been""","Ashford, UK",SATraveller
+"""been""","Durban, South Africa",SATraveller
+"""been""","Miami, FL, USA",SATraveller
+"""been""","Exmouth, UK",SATraveller
+"""been""","Sonoma, CA, USA",SATraveller
+"""been""","Gairloch, UK",SATraveller
+"""been""","Aberfeldy, UK",SATraveller
+"""been""","Ruedesheim am Rhein, Germany",SATraveller
+"""been""","Piraeus, Greece",SATraveller
+"""been""","Miami Beach, FL, USA",SATraveller
+"""been""","Campbeltown, UK",SATraveller
+"""been""","Alnmouth, UK",SATraveller
+"""been""","Addis Ababa, Ethiopia",SATraveller
+"""been""","Anaheim, CA, USA",SATraveller
+"""been""","Emalahleni, South Africa",SATraveller
+"""want""","Savannah, GA, USA",SATraveller
+"""been""","Dunoon, UK",SATraveller
+"""been""","Pietermaritzburg, South Africa",SATraveller
+"""want""","Innsbruck, Austria",SATraveller
+"""been""","Chiang Rai, Thailand",SATraveller
+"""been""","Valletta, Malta",SATraveller
+"""been""","Bellshill, UK",SATraveller
+"""been""","Carmarthen, UK",SATraveller
+"""been""","Gillingham, UK",SATraveller
+"""been""","Corfu, Greece",SATraveller
+"""been""","Bryanston, South Africa",SATraveller
+"""been""","Congleton, UK",SATraveller
+"""want""","Salzburg, Austria",SATraveller
+"""been"",""want""","Heidelberg, Germany",SATraveller
+"""been""","Vienna, Austria",SATraveller
+"""been""","Richmond-upon-Thames, UK",SATraveller
+"""been""","Tierra del Fuego National Park, Argentina",SATraveller
+"""been""","Harrogate, UK",SATraveller
+"""been""","Corby, UK",SATraveller
+"""been""","Ushuaia, Argentina",SATraveller
+"""been""","Peterborough, UK",SATraveller
+"""been""","Dunblane, UK",SATraveller
+"""been""","Bracknell, UK",SATraveller
+"""been""","Swindon, UK",SATraveller
+"""been""","Sao Caetano do Sul, Brazil",SATraveller
+"""been""","Valparaiso, Chile",SATraveller
+"""been""","Santiago, Chile",SATraveller
+"""been""","Wokingham, UK",SATraveller
+"""been""","Ikeja, Nigeria",SATraveller
+"""been""","Marseille, France",SATraveller
+"""want""","Sanremo, Italy",SATraveller
+"""been""","Cheltenham, UK",SATraveller
+"""been""","Hayling Island, UK",SATraveller
+"""been"",""want""","Dusseldorf, Germany",SATraveller
+"""been""","Santorini, Greece",SATraveller
+"""been""","Barcelona, Spain",SATraveller
+"""been""","Salon-de-Provence, France",SATraveller
+"""been""","Thika, Kenya",SATraveller
+"""been""","Ubud, Indonesia",SATraveller
+"""been""","Orange, France",SATraveller
+"""been""","Corsica, France",SATraveller
+"""been""","Montreux, Switzerland",SATraveller
+"""been""","Moreton-in-Marsh, UK",SATraveller
+"""want""","Reims, France",SATraveller
+"""been""","Ripon, UK",SATraveller
+"""want""","Machu Picchu, Peru",SATraveller
+"""been""","Stow-on-the-Wold, UK",SATraveller
+"""been""","Corfu Town, Greece",SATraveller
+"""been""","Evian-les-Bains, France",SATraveller
+"""been""","Zurich, Switzerland",SATraveller
+"""been""","Puerto Madryn, Argentina",SATraveller
+"""been""","Portsmouth, UK",SATraveller
+"""been"",""fave""","Amsterdam, The Netherlands",SATraveller
+"""been""","Upper Slaughter, UK",SATraveller
+"""been""","Chamonix, France",SATraveller
+"""want""","Luxor, Egypt",SATraveller
+"""been"",""fave""","La Jolla, CA, USA",SATraveller
+"""been""","Montevideo, Uruguay",SATraveller
+"""been""","Sittingbourne, UK",SATraveller
+"""want""","Giza, Egypt",SATraveller
+"""been""","Rainham, UK",SATraveller
+"""been"",""fave""","Paris, France",SATraveller
+"""want""","Cairo, Egypt",SATraveller
+"""been""","Southampton, UK",SATraveller
+"""been""","Pantygelli, UK",SATraveller
+"""been""","Versailles, France",SATraveller
+"""been""","Nairobi, Kenya",SATraveller
+"""been""","Gateshead, UK",SATraveller
+"""been""","Nantes, France",SATraveller
+"""been""","Angers, France",SATraveller
+"""want""","Bordeaux, France",SATraveller
+"""been""","Saumur, France",SATraveller
+"""been""","Kalkan, Turkey",SATraveller
+"""been""","Dubai, United Arab Emirates",SATraveller
+"""been""","Napa, CA, USA",SATraveller
+"""been""","Long Beach, CA, USA",SATraveller
+"""been"",""fave""","Mombasa, Kenya",SATraveller
+"""been""","Hout Bay, South Africa",SATraveller
+"""been""","Hong Kong, China",SATraveller
+"""been""","Las Vegas, NV, USA",SATraveller
+"""been""","Festac Town, Nigeria",SATraveller
+"""been""","Marlow, UK",SATraveller
+"""been""","Geneva, Switzerland",SATraveller
+"""been"",""fave""","Cape Town Central, South Africa",SATraveller
+"""been""","Kusadasi, Turkey",SATraveller
+"""been""","Rochester, UK",SATraveller
+"""been""","Ystradgynlais, UK",SATraveller
+"""been""","Rustenburg, South Africa",SATraveller
+"""been""","Sun City, South Africa",SATraveller
+"""been""","Jakarta, Indonesia",SATraveller
+"""been""","Kristiansand, Norway",SATraveller
+"""been""","Abingdon, UK",SATraveller
+"""been""","Milton Keynes, UK",SATraveller
+"""want""","Algarve, Portugal",SATraveller
+"""been""","Maidstone, UK",SATraveller
+"""been""","Crawley, UK",SATraveller
+"""been""","Sankt Goarshausen, Germany",SATraveller
+"""been""","Abington, UK",SATraveller
+"""been""","Coatbridge, UK",SATraveller
+"""been"",""want""","St. Petersburg, FL, USA",SATraveller
+"""been"",""want"",""fave""","Buenos Aires, Argentina",SATraveller
+"""been""","Arlington, VA, USA",SATraveller
+"""been""","Bayeux, France",SATraveller
+"""been""","Porto Torres, Italy",SATraveller
+"""been""","Ikoyi, Nigeria",SATraveller
+"""been""","Monmouth, UK",SATraveller
+"""been""","Newport -Trefdraeth, UK",SATraveller
+"""been""","Chipping Campden, UK",SATraveller
+"""been""","Panama City, Panama",SATraveller
+"""been""","Oslo, Norway",SATraveller
+"""been""","Preston, UK",SATraveller
+"""been""","White River, South Africa",SATraveller
+"""been""","Los Angeles, CA, USA",SATraveller
+"""been""","Manchester, UK",SATraveller
+"""been""","Nelspruit, South Africa",SATraveller
+"""been""","Hazyview, South Africa",SATraveller
+"""been""","Chicago, IL, USA",SATraveller
+"""been""","Wantage, UK",SATraveller
+"""been""","Doha, Qatar",SATraveller
+"""been""","Port Stephens, Australia",SATraveller
+"""been""","Luss, UK",SATraveller
+"""been""","Bishop Auckland, UK",SATraveller
+"""been""","Pangbourne, UK",SATraveller
+"""been""","Punta Arenas, Chile",SATraveller
+"""been""","Rhu, UK",SATraveller
+"""been""","Sonning on Thames, UK",SATraveller
+"""been"",""want""","Les Gets, France",SATraveller
+"""been""","Budapest, Hungary",SATraveller
+"""been""","Palm Springs, CA, USA",SATraveller
+"""been""","Tenby, UK",SATraveller
+"""been""","Tarbet, UK",SATraveller
+"""been""","Balmaha, UK",SATraveller
+"""been""","Pontardawe, UK",SATraveller
+"""been""","Hounslow, UK",SATraveller
+"""been""","Crianlarich, UK",SATraveller
+"""been""","Milngavie, UK",SATraveller
+"""been""","Grimsby, UK",SATraveller
+"""been""","Fort Worth, TX, USA",SATraveller
+"""been""","Drymen, UK",SATraveller
+"""been""","Zermatt, Switzerland",SATraveller
+"""been""","Arrochar, UK",SATraveller
+"""been""","Lugano, Switzerland",SATraveller
+"""been""","Balloch, UK",SATraveller
+"""been""","Holt, UK",SATraveller
+"""been""","Singapore, Singapore",SATraveller
+"""been""","Twickenham, UK",SATraveller
+"""been""","St. Petersburg, Russia",SATraveller
+"""been""","Helensburgh, UK",SATraveller
+"""been""","Pontypridd, UK",SATraveller
+"""been""","Ouderkerk aan de Amstel, The Netherlands",SATraveller
+"""been""","Stirling, UK",SATraveller
+"""been""","Lisbon, Portugal",SATraveller
+"""been""","Tighnabruaich, UK",SATraveller
+"""been""","Rothesay, UK",SATraveller
+"""been""","Cascais, Portugal",SATraveller
+"""been""","Cala Ratjada, Spain",SATraveller
+"""been""","Limassol City, Cyprus",SATraveller
+"""been""","Porthcawl, UK",SATraveller
+"""been""","Carradale, UK",SATraveller
+"""been""","Dallas, TX, USA",SATraveller
+"""been""","Sintra, Portugal",SATraveller
+"""want""","Warsaw, Poland",SATraveller
+"""been""","Dubrovnik, Croatia",SATraveller
+"""been""","Monterey, CA, USA",SATraveller
+"""been""","Stoke Poges, UK",SATraveller
+"""been""","Gullane, UK",SATraveller
+"""been""","Lochgilphead, UK",SATraveller
+"""been""","Lagos, Nigeria",SATraveller
+"""been""","Alton, UK",SATraveller
+"""been""","Fleetwood, UK",SATraveller
+"""been""","Aldershot, UK",SATraveller
+"""been""","Patara, Turkey",SATraveller
+"""been""","Llanelli, UK",SATraveller
+"""been""","Poway, CA, USA",SATraveller
+"""been""","Adelaide, Australia",SATraveller
+"""been""","Alexandria, Egypt",SATraveller
+"""been""","Kuta, Indonesia",SATraveller
+"""been""","Pessac, France",SATraveller
+"""been""","Colon, Panama",SATraveller
+"""been""","Punta del Este, Uruguay",SATraveller
+"""been""","Parma, Italy",SATraveller
+"""been""","Tallinn, Estonia",SATraveller
+"""been""","Watermillock, UK",SATraveller
+"""want""","Cairns, Australia",SATraveller
+"""been""","Brisbane, Australia",SATraveller
+"""been""","Port Talbot, UK",SATraveller
+"""been""","Surfers Paradise, Australia",SATraveller
+"""been""","Sevenoaks, UK",SATraveller
+"""been""","Hartlepool, UK",SATraveller
+"""been""","Mangochi, Malawi",SATraveller
+"""been""","Prague, Czech Republic",SATraveller
+"""been""","Cartagena, Colombia",SATraveller
+"""been""","Rancho Bernardo, CA, USA",SATraveller
+"""been""","Havant, UK",SATraveller
+"""been""","Fleet, UK",SATraveller
+"""want""","Saint-Emilion, France",SATraveller
+"""been""","San Gimignano, Italy",SATraveller
+"""been""","Petersfield, UK",SATraveller
+"""want""","Niagara Falls, NY, USA",SATraveller
+"""been""","Ensenada, Mexico",SATraveller
+"""been""","Siena, Italy",SATraveller
+"""been"",""fave""","Bellagio, Italy",SATraveller
+"""been""","Oban, UK",SATraveller
+"""been""","Como, Italy",SATraveller
+"""been""","Victoria, Seychelles",SATraveller
+"""been""","Inveraray, UK",SATraveller
+"""been""","Melrose, UK",SATraveller
+"""been""","Hawick, UK",SATraveller
+"""been""","Tarbert, UK",SATraveller
+"""been""","Peebles, UK",SATraveller
+"""been""","Wilmslow, UK",SATraveller
+"""been""","Redcar, UK",SATraveller
+"""been""","Dumfries, UK",SATraveller
+"""been""","Largs, UK",SATraveller
+"""been""","Lower Slaughter, UK",SATraveller
+"""want""","Calgary, Alberta, Canada",SATraveller
+"""been""","Washington DC, DC, USA",SATraveller
+"""been""","Gretna Green, UK",SATraveller
+"""been""","Tarbert, UK",SATraveller
+"""been""","Puerto Vallarta, Mexico",SATraveller
+"""been"",""fave""","Sydney, Australia",SATraveller
+"""been""","Waterford, Ireland",SATraveller
+"""been""","Milan, Italy",SATraveller
+"""been""","Dundee, UK",SATraveller
+"""want""","Swakopmund, Namibia",SATraveller
+"""been""","Amstelveen, The Netherlands",SATraveller
+"""want""","Walvis Bay, Namibia",SATraveller
+"""been""","Billingham, UK",SATraveller
+"""been""","Cork, Ireland",SATraveller
+"""been""","Donegal Town, Ireland",SATraveller
+"""been""","Galway, Ireland",SATraveller
+"""been""","Dublin, Ireland",SATraveller
+"""been""","Pontypool, UK",SATraveller
+"""want""","Hella, Iceland",SATraveller
+"""been""","Lamlash, UK",SATraveller
+"""been""","North Queensferry, UK",SATraveller
+"""been""","Blackwaterfoot, UK",SATraveller
+"""been""","Brodick, UK",SATraveller
+"""been""","Shipston on Stour, UK",SATraveller
+"""been""","Headingley, UK",SATraveller
+"""been""","Killarney, Ireland",SATraveller
+"""been""","Cabo San Lucas, Mexico",SATraveller
+"""been""","La Spezia, Italy",SATraveller
+"""been""","Mallaig, UK",SATraveller
+"""been""","Bangkok, Thailand",SATraveller
+"""been""","Tarporley, UK",SATraveller
+"""been""","Cape Maclear, Malawi",SATraveller
+"""been""","Chiang Mai, Thailand",SATraveller
+"""been""","Crail, UK",SATraveller
+"""been"",""fave""","Venice, Italy",SATraveller
+"""been""","Verona, Italy",SATraveller
+"""been""","Callander, UK",SATraveller
+"""been""","Madrid, Spain",SATraveller
+"""been""","Margaret River, Australia",SATraveller
+"""been""","Fort William, UK",SATraveller
+"""been""","Worcester, UK",SATraveller
+"""been""","Shanklin, UK",SATraveller
+"""been""","Kyle of Lochalsh, UK",SATraveller
+"""been""","Musselburgh, UK",SATraveller
+"""been""","Helsinki, Finland",SATraveller
+"""been"",""want""","Gibraltar, Europe",SATraveller
+"""been""","Broadway, UK",SATraveller
+"""been""","Malindi, Kenya",SATraveller
+"""been""","Inverness, UK",SATraveller
+"""been""","Evesham, UK",SATraveller
+"""been""","Santa Monica, CA, USA",SATraveller
+"""been""","Hue, Vietnam",SATraveller
+"""been""","Ho Chi Minh City, Vietnam",SATraveller
+"""been""","Victoria, British Columbia, Canada",SATraveller
+"""been""","Aberystwyth, UK",SATraveller
+"""been""","Nairn, UK",SATraveller
+"""been"",""want""","Cartagena, Spain",SATraveller
+"""been""","Vancouver, British Columbia, Canada",SATraveller
+"""been""","Briton Ferry, UK",SATraveller
+"""been""","Alghero, Italy",SATraveller
+"""been""","Whitley Bay, UK",SATraveller
+"""been""","Jersey Marine, UK",SATraveller
+"""been""","Royal Tunbridge Wells, UK",SATraveller
+"""been""","Utrecht, The Netherlands",SATraveller
+"""been""","Weymouth, UK",SATraveller
+"""been""","Greenock, UK",SATraveller
+"""been""","Canterbury, UK",SATraveller
+"""been""","Dover, UK",SATraveller
+"""been""","Chatham, UK",SATraveller
+"""been""","Sudbury, UK",SATraveller
+"""been""","Temecula, CA, USA",SATraveller
+"""been""","Santa Barbara, CA, USA",SATraveller
+"""want""","Pos Chiquito, Aruba",SATraveller
+"""been""","Ambleside, UK",SATraveller
+"""been"",""want""","Valencia, Spain",SATraveller
+"""been""","Montsoreau, France",SATraveller
+"""been""","Lanark, UK",SATraveller
+"""been""","Beverly Hills, CA, USA",SATraveller
+"""been""","Bridge of Allan, UK",SATraveller
+"""been""","Ballymena, UK",SATraveller
+"""want""","Conil de la Frontera, Spain",SATraveller
+"""been""","Coventry, UK",SATraveller
+"""been""","Perth, Australia",SATraveller
+"""been""","Birmingham, UK",SATraveller
+"""been""","Blantyre, Malawi",SATraveller
+"""been""","Edinburgh, UK",SATraveller
+"""want""","Melbourne, Australia",SATraveller
+"""been""","Kilmarnock, UK",SATraveller
+"""been""","Zomba, Malawi",SATraveller
+"""been""","Jedburgh, UK",SATraveller
+"""been""","Warwick, UK",SATraveller
+"""been""","Chichester, UK",SATraveller
+"""want""","Windhoek, Namibia",SATraveller
+"""been""","Sale, UK",SATraveller
+"""been""","Schiphol, The Netherlands",SATraveller
+"""been""","Dollar, UK",SATraveller
+"""been""","Troon, UK",SATraveller
+"""been""","Hamburg, NJ, USA",SATraveller
+"""been""","Girvan, UK",SATraveller
+"""been""","Gillingham, UK",SATraveller
+"""been""","Glasgow, UK",SATraveller
+"""been""","Aviemore, UK",SATraveller
+"""been""","Ascot, UK",SATraveller
+"""been""","Ikotun, Nigeria",SATraveller
+"""been""","Dunfermline, UK",SATraveller
+"""been""","St. Andrews, UK",SATraveller
+"""been""","Leeds, UK",SATraveller
+"""been""","Cambridge, MA, USA",SATraveller
+"""been""","Whitehaven, UK",SATraveller
+"""been""","Maidenhead, UK",SATraveller
+"""been""","Windsor, UK",SATraveller
+"""been""","Atlanta, GA, USA",SATraveller
+"""been""","Memphis, TN, USA",SATraveller
+"""been""","Stranraer, UK",SATraveller
+"""been""","Sankt Goar, Germany",SATraveller

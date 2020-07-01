@@ -1,0 +1,661 @@
+tag,place,user
+"""been""","Saint Paul, MN, USA",HDcine
+"""want""","Limerick, Ireland",HDcine
+"""been""","Palm Springs, CA, USA",HDcine
+"""been""","Long Beach, NY, USA",HDcine
+"""been""","Ann Arbor, MI, USA",HDcine
+"""want""","Lake Louise, Alberta, Canada",HDcine
+"""been""","Pacifica, CA, USA",HDcine
+"""want""","Calgary, Alberta, Canada",HDcine
+"""been""","Long Island City, NY, USA",HDcine
+"""want""","Banff, Alberta, Canada",HDcine
+"""been""","Modesto, CA, USA",HDcine
+"""been""","Palm Desert, CA, USA",HDcine
+"""been""","Puerto Vallarta, Mexico",HDcine
+"""been""","Carson City, NV, USA",HDcine
+"""want""","Jasper, Alberta, Canada",HDcine
+"""want""","Edmonton, Alberta, Canada",HDcine
+"""want""","Fukuoka, Japan",HDcine
+"""been""","Saginaw, MI, USA",HDcine
+"""been""","Mackinaw City, MI, USA",HDcine
+"""want""","Genoa, Italy",HDcine
+"""been""","Milpitas, CA, USA",HDcine
+"""been""","Oxnard, CA, USA",HDcine
+"""been""","Albany, NY, USA",HDcine
+"""been""","Redding, CA, USA",HDcine
+"""want""","Red Deer, Alberta, Canada",HDcine
+"""been""","Redwood City, CA, USA",HDcine
+"""been""","Redondo Beach, CA, USA",HDcine
+"""want""","Oranjestad, Aruba",HDcine
+"""been""","Elko, NV, USA",HDcine
+"""been""","Fort Worth, TX, USA",HDcine
+"""been""","Canton, OH, USA",HDcine
+"""been""","Pajara, Spain",HDcine
+"""want""","Nagano, Japan",HDcine
+"""been""","New Hope, PA, USA",HDcine
+"""been""","Dublin, OH, USA",HDcine
+"""been""","Lexington, KY, USA",HDcine
+"""want""","Hiroshima, Japan",HDcine
+"""been""","Holland, MI, USA",HDcine
+"""been""","Xi'an, China",HDcine
+"""been""","Merced, CA, USA",HDcine
+"""been""","Menlo Park, CA, USA",HDcine
+"""been""","Orange, CA, USA",HDcine
+"""been"",""fave""","Jalalabad, Afghanistan",HDcine
+"""been""","Waco, TX, USA",HDcine
+"""been""","Rancho Palos Verdes, CA, USA",HDcine
+"""been""","Ontario, CA, USA",HDcine
+"""been""","Rancho Mirage, CA, USA",HDcine
+"""been""","Mendocino, CA, USA",HDcine
+"""been""","Olympic Valley, CA, USA",HDcine
+"""been""","Torre del Mar, Spain",HDcine
+"""been""","Pittsburgh, PA, USA",HDcine
+"""been""","Rapid City, SD, USA",HDcine
+"""been""","Marietta, GA, USA",HDcine
+"""been""","Henderson, NV, USA",HDcine
+"""been""","Incline Village, NV, USA",HDcine
+"""been""","Joliet, IL, USA",HDcine
+"""been""","Alexandria, Egypt",HDcine
+"""been""","Flint, MI, USA",HDcine
+"""want""","Grindavik, Iceland",HDcine
+"""been""","Milwaukee, WI, USA",HDcine
+"""want""","Milan, Italy",HDcine
+"""been""","Marquette, MI, USA",HDcine
+"""been""","Rockville, MD, USA",HDcine
+"""want""","Victoria, British Columbia, Canada",HDcine
+"""want""","Gros Islet, St. Lucia",HDcine
+"""want""","Vancouver, British Columbia, Canada",HDcine
+"""been""","Arenas de Cabrales, Spain",HDcine
+"""been""","El Quseir, Egypt",HDcine
+"""been""","Xian County, China",HDcine
+"""been""","Oakland, CA, USA",HDcine
+"""want""","Soufriere, St. Lucia",HDcine
+"""want""","Brasov, Romania",HDcine
+"""been""","Anshan, China",HDcine
+"""want""","Whistler, British Columbia, Canada",HDcine
+"""been""","Salina, KS, USA",HDcine
+"""been""","Carolina Beach, NC, USA",HDcine
+"""been""","Rocky Mount, NC, USA",HDcine
+"""been""","Indian Wells, CA, USA",HDcine
+"""been""","Phoenix, AZ, USA",HDcine
+"""been""","Oklahoma City, OK, USA",HDcine
+"""been""","Auburn, CA, USA",HDcine
+"""been""","Alexandria, VA, USA",HDcine
+"""been""","Long Beach, CA, USA",HDcine
+"""been""","Napa, CA, USA",HDcine
+"""been""","Lompoc, CA, USA",HDcine
+"""been""","Inglewood, CA, USA",HDcine
+"""been""","Clarksville, TN, USA",HDcine
+"""been""","Mountain View, CA, USA",HDcine
+"""been""","Evansville, IN, USA",HDcine
+"""been""","Idyllwild, CA, USA",HDcine
+"""want""","Placencia, Belize",HDcine
+"""been""","Arcata, CA, USA",HDcine
+"""been""","Petaluma, CA, USA",HDcine
+"""been""","Paradise Valley, AZ, USA",HDcine
+"""been""","Sacramento, CA, USA",HDcine
+"""want""","Charlotte, NC, USA",HDcine
+"""been""","Chapel Hill, NC, USA",HDcine
+"""been""","Mount Shasta, CA, USA",HDcine
+"""been""","Huntington Beach, CA, USA",HDcine
+"""been""","Mont-Saint-Michel, France",HDcine
+"""been""","Payson, AZ, USA",HDcine
+"""been""","Springfield, MO, USA",HDcine
+"""been""","Harrisburg, PA, USA",HDcine
+"""been""","Grapevine, TX, USA",HDcine
+"""been""","Moscow, Russia",HDcine
+"""been""","Wichita, KS, USA",HDcine
+"""want""","San Pedro, Belize",HDcine
+"""been""","Yuma, AZ, USA",HDcine
+"""been""","Las Cruces, NM, USA",HDcine
+"""been""","L'Estartit, Spain",HDcine
+"""want""","Belize City, Belize",HDcine
+"""been""","Augusta, GA, USA",HDcine
+"""been""","Paso Robles, CA, USA",HDcine
+"""been""","Tijuana, Mexico",HDcine
+"""been""","Pebble Beach, CA, USA",HDcine
+"""been""","Roseville, CA, USA",HDcine
+"""been""","Morro Bay, CA, USA",HDcine
+"""been""","Ensenada, Mexico",HDcine
+"""been""","Traverse City, MI, USA",HDcine
+"""been"",""fave""","Kelleys Island, OH, USA",HDcine
+"""been""","Troy, MI, USA",HDcine
+"""been""","Athens, GA, USA",HDcine
+"""been""","Williams, AZ, USA",HDcine
+"""been""","Monterey, CA, USA",HDcine
+"""been""","Lee Vining, CA, USA",HDcine
+"""been""","Pasadena, CA, USA",HDcine
+"""been""","Ciudad Juarez, Mexico",HDcine
+"""been""","Duluth, GA, USA",HDcine
+"""been""","Riverside, CA, USA",HDcine
+"""been""","Monterrey, Mexico",HDcine
+"""been""","Dallas, TX, USA",HDcine
+"""been""","Rochester, MN, USA",HDcine
+"""been""","Abu Dhabi, United Arab Emirates",HDcine
+"""been""","Detroit, MI, USA",HDcine
+"""been""","Tiberias, Israel",HDcine
+"""want""","Paradise Island, Bahamas",HDcine
+"""want""","Whitehorse, Yukon, Canada",HDcine
+"""been""","Green Bay, WI, USA",HDcine
+"""been""","Utica, IL, USA",HDcine
+"""want""","Nassau, Bahamas",HDcine
+"""been""","Dearborn, MI, USA",HDcine
+"""been""","Grand Haven, MI, USA",HDcine
+"""been""","Anacortes, WA, USA",HDcine
+"""been""","Salt Lake City, UT, USA",HDcine
+"""been""","Mount Pleasant, SC, USA",HDcine
+"""been""","Port Angeles, WA, USA",HDcine
+"""been""","Salem, OR, USA",HDcine
+"""been""","Allentown, PA, USA",HDcine
+"""been""","Astoria, OR, USA",HDcine
+"""been""","Wichita Falls, TX, USA",HDcine
+"""been""","Marina, CA, USA",HDcine
+"""been""","Marina del Rey, CA, USA",HDcine
+"""been""","Scottsdale, AZ, USA",HDcine
+"""been""","Sedona, AZ, USA",HDcine
+"""been""","Lake Ozark, MO, USA",HDcine
+"""want""","Port Elizabeth, South Africa",HDcine
+"""been""","Ithaca, NY, USA",HDcine
+"""been""","Sarasota, FL, USA",HDcine
+"""want""","Charlotte Amalie, U.S. Virgin Islands",HDcine
+"""been""","Malibu, CA, USA",HDcine
+"""been""","Wilkes-Barre, PA, USA",HDcine
+"""been""","Golf del Sur, Spain",HDcine
+"""been""","Seaside, OR, USA",HDcine
+"""been""","Goleta, CA, USA",HDcine
+"""been""","Fayetteville, AR, USA",HDcine
+"""been""","Columbus, GA, USA",HDcine
+"""been""","Manhattan Beach, CA, USA",HDcine
+"""want""","Krakow, Poland",HDcine
+"""been""","Eureka Springs, AR, USA",HDcine
+"""been""","Glendale, CA, USA",HDcine
+"""been""","Arenal d'en Castell, Spain",HDcine
+"""been""","Fishkill, NY, USA",HDcine
+"""been""","Princeton, NJ, USA",HDcine
+"""want""","Sao Paulo, Brazil",HDcine
+"""want""","Kyiv (Kiev), Ukraine",HDcine
+"""been""","Jamaica, NY, USA",HDcine
+"""been""","Crescent City, CA, USA",HDcine
+"""been""","Tyler, TX, USA",HDcine
+"""been""","Vancouver, WA, USA",HDcine
+"""want""","Aspen, CO, USA",HDcine
+"""been""","Brooklyn, NY, USA",HDcine
+"""been""","Gilroy, CA, USA",HDcine
+"""been""","North Charleston, SC, USA",HDcine
+"""want""","Providence, RI, USA",HDcine
+"""been""","Fredericksburg, VA, USA",HDcine
+"""want""","Bar Harbor, ME, USA",HDcine
+"""been""","Nashville, TN, USA",HDcine
+"""been""","Garden Grove, CA, USA",HDcine
+"""been""","Covington, KY, USA",HDcine
+"""been""","Newport Beach, CA, USA",HDcine
+"""been""","Arlington, VA, USA",HDcine
+"""been""","SeaTac, WA, USA",HDcine
+"""been""","Duluth, MN, USA",HDcine
+"""been""","Mount Laurel, NJ, USA",HDcine
+"""been"",""fave""","South Lake Tahoe, CA, USA",HDcine
+"""been""","Las Negras, Spain",HDcine
+"""been""","Avila Beach, CA, USA",HDcine
+"""been""","Albuquerque, NM, USA",HDcine
+"""been""","Los Angeles, CA, USA",HDcine
+"""been""","Baltimore, MD, USA",HDcine
+"""want""","St. Moritz, Switzerland",HDcine
+"""been""","Crater Lake National Park, OR, USA",HDcine
+"""been""","Pismo Beach, CA, USA",HDcine
+"""been""","Stowe, VT, USA",HDcine
+"""been""","Fremont, CA, USA",HDcine
+"""been""","Prescott, AZ, USA",HDcine
+"""been""","Annapolis, MD, USA",HDcine
+"""been""","Chicago, IL, USA",HDcine
+"""been""","Fresno, CA, USA",HDcine
+"""want""","Zermatt, Switzerland",HDcine
+"""want""","Kempton Park, South Africa",HDcine
+"""want""","Johannesburg, South Africa",HDcine
+"""been""","Lubbock, TX, USA",HDcine
+"""been""","Lexington, VA, USA",HDcine
+"""been""","Las Vegas, NV, USA",HDcine
+"""been""","Wildwood, NJ, USA",HDcine
+"""been""","Mansfield, MO, USA",HDcine
+"""been""","Saint Charles, MO, USA",HDcine
+"""been""","Secaucus, NJ, USA",HDcine
+"""been""","Laughlin, NV, USA",HDcine
+"""been""","Ottawa, Ontario, Canada",HDcine
+"""been""","Bethesda, MD, USA",HDcine
+"""been""","Fairfield, CA, USA",HDcine
+"""been""","Davenport, IA, USA",HDcine
+"""been""","Herndon, VA, USA",HDcine
+"""been""","Durham, NC, USA",HDcine
+"""been"",""fave""","Shanghai, China",HDcine
+"""been""","Costa Calma, Spain",HDcine
+"""been""","Healdsburg, CA, USA",HDcine
+"""been""","Toledo, OH, USA",HDcine
+"""been""","Arlington, TX, USA",HDcine
+"""been""","Lava Hot Springs, ID, USA",HDcine
+"""been""","Vallejo, CA, USA",HDcine
+"""been""","Burbank, CA, USA",HDcine
+"""been""","Buena Park, CA, USA",HDcine
+"""been""","Sharm El Sheikh, Egypt",HDcine
+"""want""","Luxembourg City, Luxembourg",HDcine
+"""want""","Lviv, Ukraine",HDcine
+"""want""","Yalta, Europe",HDcine
+"""want""","Marsa Alam, Egypt",HDcine
+"""want""","Oslo, Norway",HDcine
+"""been""","Stratford, Ontario, Canada",HDcine
+"""been""","Fairfax, VA, USA",HDcine
+"""been""","Saint Louis, MO, USA",HDcine
+"""been""","Silver Spring, MD, USA",HDcine
+"""been""","Encinitas, CA, USA",HDcine
+"""been""","Escondido, CA, USA",HDcine
+"""want""","Boulder, CO, USA",HDcine
+"""want""","San Juan, Puerto Rico",HDcine
+"""been""","Toronto, Ontario, Canada",HDcine
+"""been""","Alameda, CA, USA",HDcine
+"""been""","Sudbury, Ontario, Canada",HDcine
+"""been""","Yachats, OR, USA",HDcine
+"""been""","Tombstone, AZ, USA",HDcine
+"""want""","Cancun, Mexico",HDcine
+"""been""","Emeryville, CA, USA",HDcine
+"""been""","Lake Elsinore, CA, USA",HDcine
+"""been""","Worthington, OH, USA",HDcine
+"""been""","Lake Havasu City, AZ, USA",HDcine
+"""been""","Portland, OR, USA",HDcine
+"""want""","Kharkiv, Ukraine",HDcine
+"""been""","Minneapolis, MN, USA",HDcine
+"""been""","Kansas City, MO, USA",HDcine
+"""want""","Marigot Bay, St. Lucia",HDcine
+"""want""","Runaway Bay, Jamaica",HDcine
+"""been""","North Las Vegas, NV, USA",HDcine
+"""been""","Windsor, Ontario, Canada",HDcine
+"""been""","Laguna Beach, CA, USA",HDcine
+"""been""","Costa del Silencio, Spain",HDcine
+"""been""","Guerneville, CA, USA",HDcine
+"""been""","Vail, CO, USA",HDcine
+"""been""","Kingman, AZ, USA",HDcine
+"""been""","Frederick, MD, USA",HDcine
+"""been""","Barstow, CA, USA",HDcine
+"""been""","Keystone, SD, USA",HDcine
+"""been""","Morristown, NJ, USA",HDcine
+"""want""","Engelberg, Switzerland",HDcine
+"""been""","La Quinta, CA, USA",HDcine
+"""been""","Evanston, IL, USA",HDcine
+"""been""","Shenzhen, China",HDcine
+"""want""","St. Petersburg, Russia",HDcine
+"""been""","Shangri-La County, China",HDcine
+"""want""","Cape Town Central, South Africa",HDcine
+"""been""","Primm, NV, USA",HDcine
+"""been""","Reno, NV, USA",HDcine
+"""want""","Montreal, Quebec, Canada",HDcine
+"""been""","Red Wing, MN, USA",HDcine
+"""been""","La Jolla, CA, USA",HDcine
+"""been""","Telluride, CO, USA",HDcine
+"""been""","Aurora, IL, USA",HDcine
+"""been""","Big Sur, CA, USA",HDcine
+"""been""","Renton, WA, USA",HDcine
+"""been""","Charleston, WV, USA",HDcine
+"""want""","Les Eyzies-de-Tayac-Sireuil, France",HDcine
+"""been""","Orlando, FL, USA",HDcine
+"""been""","Mount Pocono, PA, USA",HDcine
+"""been""","Chula Vista, CA, USA",HDcine
+"""want""","Geneva, Switzerland",HDcine
+"""been""","Catskill, NY, USA",HDcine
+"""been""","Perrysburg, OH, USA",HDcine
+"""want""","Innsbruck, Austria",HDcine
+"""been""","Boulder City, NV, USA",HDcine
+"""want""","Salzburg, Austria",HDcine
+"""been""","Omaha, NE, USA",HDcine
+"""been""","New York City, NY, USA",HDcine
+"""been""","Porto Cristo, Spain",HDcine
+"""been""","Capitola, CA, USA",HDcine
+"""want""","Doolin, Ireland",HDcine
+"""been""","Little Rock, AR, USA",HDcine
+"""been""","Wisconsin Dells, WI, USA",HDcine
+"""been""","Ventura, CA, USA",HDcine
+"""been""","Branson, MO, USA",HDcine
+"""been""","Stockton, CA, USA",HDcine
+"""been""","San Bruno, CA, USA",HDcine
+"""been""","West Hollywood, CA, USA",HDcine
+"""been""","Montpellier, France",HDcine
+"""been""","Dubuque, IA, USA",HDcine
+"""been""","Davis, CA, USA",HDcine
+"""been""","Champaign, IL, USA",HDcine
+"""been""","Del Mar, CA, USA",HDcine
+"""been""","Wheeling, WV, USA",HDcine
+"""been""","Williamsburg, VA, USA",HDcine
+"""been""","San Clemente, CA, USA",HDcine
+"""been""","Paris, France",HDcine
+"""been"",""fave""","Versailles, France",HDcine
+"""been""","Klamath Falls, OR, USA",HDcine
+"""been""","Coos Bay, OR, USA",HDcine
+"""been""","Chandler, AZ, USA",HDcine
+"""been""","Kihei, HI, USA",HDcine
+"""been""","Kailua-Kona, HI, USA",HDcine
+"""been""","Cincinnati, OH, USA",HDcine
+"""been""","Walla Walla, WA, USA",HDcine
+"""been""","San Diego, CA, USA",HDcine
+"""been""","Seattle, WA, USA",HDcine
+"""been""","Bakersfield, CA, USA",HDcine
+"""been""","Dana Point, CA, USA",HDcine
+"""want""","Skagway, AK, USA",HDcine
+"""been""","Lahaina, HI, USA",HDcine
+"""been""","St. George, UT, USA",HDcine
+"""been""","Franklin, TN, USA",HDcine
+"""been""","Odessa, TX, USA",HDcine
+"""been""","Calella, Spain",HDcine
+"""want""","Amsterdam, The Netherlands",HDcine
+"""been""","San Bernardino, CA, USA",HDcine
+"""been""","Kansas City, KS, USA",HDcine
+"""been""","Charlottesville, VA, USA",HDcine
+"""been""","Puerto de Santiago, Spain",HDcine
+"""been""","Culver City, CA, USA",HDcine
+"""been""","Salinas, CA, USA",HDcine
+"""want""","Zurich, Switzerland",HDcine
+"""been""","Chesapeake, VA, USA",HDcine
+"""been""","Port Townsend, WA, USA",HDcine
+"""been""","St. Helena, CA, USA",HDcine
+"""want""","Colorado Springs, CO, USA",HDcine
+"""been""","Mason, OH, USA",HDcine
+"""been""","Hampton, NH, USA",HDcine
+"""been""","Dayton, OH, USA",HDcine
+"""been""","South San Francisco, CA, USA",HDcine
+"""been""","Camarillo, CA, USA",HDcine
+"""been""","Bethlehem, PA, USA",HDcine
+"""been""","Walnut Creek, CA, USA",HDcine
+"""been""","Cambria, CA, USA",HDcine
+"""want""","Stuttgart, Germany",HDcine
+"""been""","Coeur d'Alene, ID, USA",HDcine
+"""been""","Des Moines, IA, USA",HDcine
+"""been""","Visalia, CA, USA",HDcine
+"""been""","Bagram, Afghanistan",HDcine
+"""been""","Fish Camp, CA, USA",HDcine
+"""want""","Sydney, Australia",HDcine
+"""want""","Mumbai, India",HDcine
+"""been""","Bellingham, WA, USA",HDcine
+"""been""","Hawley, PA, USA",HDcine
+"""want""","East Glacier Park, MT, USA",HDcine
+"""been"",""fave""","Nuevo Vallarta, Mexico",HDcine
+"""want""","Cambridge, MA, USA",HDcine
+"""want""","Vienna, Austria",HDcine
+"""been""","Missoula, MT, USA",HDcine
+"""been""","West Yellowstone, MT, USA",HDcine
+"""been""","Richmond, VA, USA",HDcine
+"""been""","Tampa, FL, USA",HDcine
+"""been""","Baiona, Spain",HDcine
+"""been""","Bellevue, WA, USA",HDcine
+"""been""","Solvang, CA, USA",HDcine
+"""been""","Atlanta, GA, USA",HDcine
+"""want""","Portland, ME, USA",HDcine
+"""been""","Midland, TX, USA",HDcine
+"""been""","Memphis, TN, USA",HDcine
+"""been""","Sonoma, CA, USA",HDcine
+"""been""","Sonora, CA, USA",HDcine
+"""want""","Miami Beach, FL, USA",HDcine
+"""been""","Mesa, AZ, USA",HDcine
+"""been"",""fave""","Ouray, CO, USA",HDcine
+"""been""","Port Clinton, OH, USA",HDcine
+"""been""","Anaheim, CA, USA",HDcine
+"""been""","Bainbridge Island, WA, USA",HDcine
+"""been""","Hermosa Beach, CA, USA",HDcine
+"""been""","Coronado, CA, USA",HDcine
+"""been""","Costa Mesa, CA, USA",HDcine
+"""been""","Solana Beach, CA, USA",HDcine
+"""been""","Austin, TX, USA",HDcine
+"""want""","Kathmandu, Nepal",HDcine
+"""been""","Everett, WA, USA",HDcine
+"""been""","Dubai, United Arab Emirates",HDcine
+"""been""","Beijing, China",HDcine
+"""want""","Mombasa, Kenya",HDcine
+"""been""","Bodega Bay, CA, USA",HDcine
+"""want""","Hong Kong, China",HDcine
+"""been""","Torrance, CA, USA",HDcine
+"""been""","Columbia, MD, USA",HDcine
+"""been""","Akron, OH, USA",HDcine
+"""been""","Edison, NJ, USA",HDcine
+"""been""","Jersey City, NJ, USA",HDcine
+"""been""","Jackson, TN, USA",HDcine
+"""been""","Milford, PA, USA",HDcine
+"""been""","Luray, VA, USA",HDcine
+"""been""","Harpers Ferry, WV, USA",HDcine
+"""been""","Tillamook, OR, USA",HDcine
+"""been""","Three Rivers, CA, USA",HDcine
+"""been""","Gatlinburg, TN, USA",HDcine
+"""been""","Spokane, WA, USA",HDcine
+"""been""","Scranton, PA, USA",HDcine
+"""been""","McLean, VA, USA",HDcine
+"""been""","The Dalles, OR, USA",HDcine
+"""been""","Caceres, Spain",HDcine
+"""been""","Bishop, CA, USA",HDcine
+"""been""","Santa Maria, CA, USA",HDcine
+"""want""","Cayo Santa Maria, Cuba",HDcine
+"""been""","Santa Monica, CA, USA",HDcine
+"""been""","South Bend, IN, USA",HDcine
+"""been""","Santa Rosa, CA, USA",HDcine
+"""been""","Killington, VT, USA",HDcine
+"""been""","Giza, Egypt",HDcine
+"""want""","Warsaw, Poland",HDcine
+"""want""","Cairo, Egypt",HDcine
+"""want""","Nairobi, Kenya",HDcine
+"""been""","Tucson, AZ, USA",HDcine
+"""been""","Helena, MT, USA",HDcine
+"""been""","San Francisco, CA, USA",HDcine
+"""been""","Page, AZ, USA",HDcine
+"""been""","Santa Cruz, CA, USA",HDcine
+"""want""","Trinidad, Cuba",HDcine
+"""been""","Santa Fe, NM, USA",HDcine
+"""been""","Friday Harbor, WA, USA",HDcine
+"""been""","Santa Ana, CA, USA",HDcine
+"""want""","Bruges, Belgium",HDcine
+"""been""","Son Serra de Marina, Spain",HDcine
+"""been""","Santa Clara, CA, USA",HDcine
+"""been""","Plano, TX, USA",HDcine
+"""been""","Santa Clarita, CA, USA",HDcine
+"""been""","Knoxville, TN, USA",HDcine
+"""been""","Athens, Greece",HDcine
+"""been""","Temecula, CA, USA",HDcine
+"""been""","Santa Barbara, CA, USA",HDcine
+"""been""","Columbia, MO, USA",HDcine
+"""been""","Bismarck, ND, USA",HDcine
+"""want""","Lima, Peru",HDcine
+"""been""","Beverly Hills, CA, USA",HDcine
+"""been""","Cooperstown, NY, USA",HDcine
+"""been""","Pigeon Forge, TN, USA",HDcine
+"""been""","El Medano, Spain",HDcine
+"""been""","Newark, NJ, USA",HDcine
+"""want""","Prague, Czech Republic",HDcine
+"""been""","Honolulu, HI, USA",HDcine
+"""been""","Hood River, OR, USA",HDcine
+"""been""","Poipu, HI, USA",HDcine
+"""want""","North Vancouver, British Columbia, Canada",HDcine
+"""been""","San Simeon, CA, USA",HDcine
+"""been""","Schaumburg, IL, USA",HDcine
+"""want""","Boston, MA, USA",HDcine
+"""been""","Lihue, HI, USA",HDcine
+"""been""","Custer, SD, USA",HDcine
+"""want""","New Orleans, LA, USA",HDcine
+"""been""","Townsend, TN, USA",HDcine
+"""been""","Merida, Spain",HDcine
+"""been""","Topeka, KS, USA",HDcine
+"""been""","Charleston, SC, USA",HDcine
+"""been""","San Mateo, CA, USA",HDcine
+"""been""","Rota, Spain",HDcine
+"""been""","Segovia, Spain",HDcine
+"""been""","Bloomington, IL, USA",HDcine
+"""been""","Leon, Spain",HDcine
+"""been""","Berkeley, CA, USA",HDcine
+"""been""","Tahoe Vista, CA, USA",HDcine
+"""been""","Barcelona, Spain",HDcine
+"""been""","Olympia, WA, USA",HDcine
+"""been""","Burlington, VT, USA",HDcine
+"""been""","Tacoma, WA, USA",HDcine
+"""been""","Marseille, France",HDcine
+"""been""","Durango, CO, USA",HDcine
+"""been""","Rochester, NY, USA",HDcine
+"""been""","Villefranche-sur-Mer, France",HDcine
+"""been""","Puerto Escondido, Mexico",HDcine
+"""been""","Kalispell, MT, USA",HDcine
+"""been""","Flagstaff, AZ, USA",HDcine
+"""been""","Wailea, HI, USA",HDcine
+"""been""","Hot Springs, AR, USA",HDcine
+"""been""","Peoria, IL, USA",HDcine
+"""been""","Houston, TX, USA",HDcine
+"""been""","Cape Coral, FL, USA",HDcine
+"""been""","San Luis Obispo, CA, USA",HDcine
+"""been""","Buffalo, NY, USA",HDcine
+"""been""","Madison, WI, USA",HDcine
+"""been""","Columbia, SC, USA",HDcine
+"""been""","Kapaa, HI, USA",HDcine
+"""been""","Lawrence, KS, USA",HDcine
+"""been""","Carmel, CA, USA",HDcine
+"""been""","San Jose, CA, USA",HDcine
+"""been""","Desert Hot Springs, CA, USA",HDcine
+"""been""","Carlsbad, CA, USA",HDcine
+"""want""","Fort Myers Beach, FL, USA",HDcine
+"""been""","Kissimmee, FL, USA",HDcine
+"""been""","Cedar Rapids, IA, USA",HDcine
+"""been""","Kirkland, WA, USA",HDcine
+"""been""","Carmel Valley, CA, USA",HDcine
+"""been""","Sandusky, OH, USA",HDcine
+"""been""","Puerto de la Cruz, Spain",HDcine
+"""been""","Carpinteria, CA, USA",HDcine
+"""been""","Sunnyvale, CA, USA",HDcine
+"""been""","Denver, CO, USA",HDcine
+"""been""","Las Caletillas, Spain",HDcine
+"""want""","Copenhagen, Denmark",HDcine
+"""want""","Adelaide, Australia",HDcine
+"""want""","Islamabad, Pakistan",HDcine
+"""been"",""fave""","El Puerto de Santa Maria, Spain",HDcine
+"""want""","Brussels, Belgium",HDcine
+"""been""","Stone Mountain, GA, USA",HDcine
+"""been""","Marbella, Spain",HDcine
+"""been""","Monument Valley, UT, USA",HDcine
+"""been""","Malaga, Spain",HDcine
+"""been""","Billings, MT, USA",HDcine
+"""been""","Kingston, Ontario, Canada",HDcine
+"""been""","Mijas, Spain",HDcine
+"""been""","Ada, OK, USA",HDcine
+"""been""","Niagara Falls, Ontario, Canada",HDcine
+"""been""","Niagara-on-the-Lake, Ontario, Canada",HDcine
+"""been""","Battle Creek, MI, USA",HDcine
+"""been""","Mississauga, Ontario, Canada",HDcine
+"""been""","Bozeman, MT, USA",HDcine
+"""been""","London, Ontario, Canada",HDcine
+"""want""","Rome, Italy",HDcine
+"""been""","Bend, OR, USA",HDcine
+"""been""","Beaverton, OR, USA",HDcine
+"""been""","Boise, ID, USA",HDcine
+"""been""","Norcross, GA, USA",HDcine
+"""want""","Nuremberg, Germany",HDcine
+"""want""","Stockholm, Sweden",HDcine
+"""been""","Cadiz, Spain",HDcine
+"""been""","Terre Haute, IN, USA",HDcine
+"""been""","Lancaster, PA, USA",HDcine
+"""been""","Cordoba, Spain",HDcine
+"""want""","Naples, Italy",HDcine
+"""want""","The Hague, The Netherlands",HDcine
+"""want""","London, UK",HDcine
+"""been""","Sioux Falls, SD, USA",HDcine
+"""want""","Liverpool, UK",HDcine
+"""been""","Cleveland, OH, USA",HDcine
+"""been""","Cala Millor, Spain",HDcine
+"""want""","Munich, Germany",HDcine
+"""been""","Washington DC, DC, USA",HDcine
+"""been""","Cala d'Or, Spain",HDcine
+"""been""","Gallup, NM, USA",HDcine
+"""been""","Indianapolis, IN, USA",HDcine
+"""been""","S'Algar, Spain",HDcine
+"""been""","Murray, UT, USA",HDcine
+"""been""","Grants Pass, OR, USA",HDcine
+"""been""","Wilmington, DE, USA",HDcine
+"""want""","Frankfurt, Germany",HDcine
+"""been""","Norman, OK, USA",HDcine
+"""want""","Bergen, Norway",HDcine
+"""been""","Lake Geneva, WI, USA",HDcine
+"""been""","Raleigh, NC, USA",HDcine
+"""been""","Camp De Mar, Spain",HDcine
+"""been""","Can Pastilla, Spain",HDcine
+"""been""","Niagara Falls, NY, USA",HDcine
+"""want""","Melbourne, Australia",HDcine
+"""been""","Council Bluffs, IA, USA",HDcine
+"""been""","Bilbao, Spain",HDcine
+"""been""","Gijon, Spain",HDcine
+"""been""","Sioux City, IA, USA",HDcine
+"""want""","Hamburg, Germany",HDcine
+"""want""","Berlin, Germany",HDcine
+"""been""","Southfield, MI, USA",HDcine
+"""been""","Jackson, WY, USA",HDcine
+"""been""","Zaragoza, Spain",HDcine
+"""been""","Chattanooga, TN, USA",HDcine
+"""been""","La Crosse, WI, USA",HDcine
+"""been""","West Des Moines, IA, USA",HDcine
+"""want""","Antananarivo, Madagascar",HDcine
+"""been""","Louisville, KY, USA",HDcine
+"""been""","Roswell, NM, USA",HDcine
+"""been""","Park City, UT, USA",HDcine
+"""been""","Sausalito, CA, USA",HDcine
+"""been""","Columbus, OH, USA",HDcine
+"""been""","Manhattan, KS, USA",HDcine
+"""been""","Port Huron, MI, USA",HDcine
+"""been""","Seaside, CA, USA",HDcine
+"""been""","Helen, GA, USA",HDcine
+"""been"",""fave""","Seville, Spain",HDcine
+"""been""","Seal Beach, CA, USA",HDcine
+"""been""","Granada, Spain",HDcine
+"""been""","Hershey, PA, USA",HDcine
+"""been""","Ocracoke, NC, USA",HDcine
+"""been""","Medford, OR, USA",HDcine
+"""been""","Madrid, Spain",HDcine
+"""want""","Helsinki, Finland",HDcine
+"""been""","Teton Village, WY, USA",HDcine
+"""been""","Hartford, TN, USA",HDcine
+"""been""","Cody, WY, USA",HDcine
+"""been""","Taos, NM, USA",HDcine
+"""want""","Winnipeg, Manitoba, Canada",HDcine
+"""want""","Margaret River, Australia",HDcine
+"""been""","Cas Catala, Spain",HDcine
+"""been""","Put in Bay, OH, USA",HDcine
+"""been""","King of Prussia, PA, USA",HDcine
+"""want""","Venice, Italy",HDcine
+"""want""","Cap Estate, St. Lucia",HDcine
+"""been""","Staten Island, NY, USA",HDcine
+"""been""","Sheridan, WY, USA",HDcine
+"""been""","Philadelphia, PA, USA",HDcine
+"""been""","La Manga del Mar Menor, Spain",HDcine
+"""been""","Atlantic City, NJ, USA",HDcine
+"""want""","Hoi An, Vietnam",HDcine
+"""been""","Casper, WY, USA",HDcine
+"""want""","Yellowknife, Northwest Territories, Canada",HDcine
+"""been""","Gettysburg, PA, USA",HDcine
+"""been""","Cheyenne, WY, USA",HDcine
+"""been""","Pine Mountain, GA, USA",HDcine
+"""want""","Livingstone, Zambia",HDcine
+"""been""","Lafayette, IN, USA",HDcine
+"""been""","Haifa, Israel",HDcine
+"""want""","Florence, Italy",HDcine
+"""been"",""fave""","Eilat, Israel",HDcine
+"""been""","Conil de la Frontera, Spain",HDcine
+"""want""","Pisa, Italy",HDcine
+"""been""","Tel Aviv, Israel",HDcine
+"""been""","Jerusalem, Israel",HDcine
+"""been""","Pleasanton, CA, USA",HDcine
+"""been""","Fargo, ND, USA",HDcine
+"""been""","Gardiner, MT, USA",HDcine
+"""been""","Bronx, NY, USA",HDcine
+"""been""","Newport News, VA, USA",HDcine
+"""want""","Halifax, Nova Scotia, Canada",HDcine
+"""been""","Comillas, Spain",HDcine
+"""been""","Kabul, Afghanistan",HDcine
+"""want""","Sydney, Nova Scotia, Canada",HDcine
+"""been""","Fort Wayne, IN, USA",HDcine
+"""want""","Palermo, Italy",HDcine
+"""been""","Roanoke, VA, USA",HDcine
+"""been""","Erie, PA, USA",HDcine
+"""been""","Fes, Morocco",HDcine
+"""been""","Casablanca, Morocco",HDcine
+"""been""","Midvale, UT, USA",HDcine
+"""been""","Wilmington, NC, USA",HDcine
+"""been""","Barrie, Ontario, Canada",HDcine
+"""been""","Marrakech, Morocco",HDcine
+"""been""","Winston Salem, NC, USA",HDcine
+"""been""","Burlington, Ontario, Canada",HDcine
+"""been""","Arona, Spain",HDcine
+"""been""","Kandahar, Afghanistan",HDcine
+"""been""","Norfolk, VA, USA",HDcine

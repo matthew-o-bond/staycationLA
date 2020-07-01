@@ -1,0 +1,422 @@
+tag,place,user
+"""been""","Kyoto, Japan",wireless_in_CA
+"""been""","Nagano, Japan",wireless_in_CA
+"""been""","Osaka, Japan",wireless_in_CA
+"""been""","Milwaukee, WI, USA",wireless_in_CA
+"""been""","Tijuana, Mexico",wireless_in_CA
+"""been""","Cavite City, Philippines",wireless_in_CA
+"""been""","Shakopee, MN, USA",wireless_in_CA
+"""been""","San Juan, Philippines",wireless_in_CA
+"""been""","Taicang, China",wireless_in_CA
+"""been""","Yuma, AZ, USA",wireless_in_CA
+"""been""","Kuala Lumpur, Malaysia",wireless_in_CA
+"""been""","Roseville, CA, USA",wireless_in_CA
+"""been""","Makati, Philippines",wireless_in_CA
+"""been""","Morgan Hill, CA, USA",wireless_in_CA
+"""been""","Pittsburgh, PA, USA",wireless_in_CA
+"""been""","Manila, Philippines",wireless_in_CA
+"""been""","Seoul, South Korea",wireless_in_CA
+"""been""","Chengdu, China",wireless_in_CA
+"""been""","Mont-Saint-Michel, France",wireless_in_CA
+"""been""","Guangzhou, China",wireless_in_CA
+"""been""","Xi'an, China",wireless_in_CA
+"""been""","Douglasville, GA, USA",wireless_in_CA
+"""been""","Hangzhou, China",wireless_in_CA
+"""been""","Saint Paul, MN, USA",wireless_in_CA
+"""been""","Pasadena, CA, USA",wireless_in_CA
+"""been""","Monterey, CA, USA",wireless_in_CA
+"""been""","Dunwoody, GA, USA",wireless_in_CA
+"""want""","Ningbo, China",wireless_in_CA
+"""been""","Hiroshima, Japan",wireless_in_CA
+"""been""","Galveston, TX, USA",wireless_in_CA
+"""been""","South Lake Tahoe, CA, USA",wireless_in_CA
+"""been""","Nagoya, Japan",wireless_in_CA
+"""been""","Albany, NY, USA",wireless_in_CA
+"""been""","Palmdale, CA, USA",wireless_in_CA
+"""been""","Lancaster, CA, USA",wireless_in_CA
+"""been""","Palm Springs, CA, USA",wireless_in_CA
+"""been""","Toledo, OH, USA",wireless_in_CA
+"""been""","Kennebunkport, ME, USA",wireless_in_CA
+"""been""","Monterrey, Mexico",wireless_in_CA
+"""been""","Ann Arbor, MI, USA",wireless_in_CA
+"""been""","Ciudad Juarez, Mexico",wireless_in_CA
+"""been""","Portland, OR, USA",wireless_in_CA
+"""been""","Queretaro City, Mexico",wireless_in_CA
+"""been""","Fairfax, VA, USA",wireless_in_CA
+"""been""","Milpitas, CA, USA",wireless_in_CA
+"""been""","Hartford, CT, USA",wireless_in_CA
+"""been""","Redondo Beach, CA, USA",wireless_in_CA
+"""been""","Dorrington, CA, USA",wireless_in_CA
+"""been""","Plymouth, MA, USA",wireless_in_CA
+"""been""","Taroko National Park, Taiwan",wireless_in_CA
+"""been""","Provincetown, MA, USA",wireless_in_CA
+"""been""","Keelung, Taiwan",wireless_in_CA
+"""been""","Merced, CA, USA",wireless_in_CA
+"""been""","Orange, CA, USA",wireless_in_CA
+"""been""","Mendocino, CA, USA",wireless_in_CA
+"""been""","Ontario, CA, USA",wireless_in_CA
+"""been""","Cary, NC, USA",wireless_in_CA
+"""been""","Oradour-sur-Glane, France",wireless_in_CA
+"""been""","Talladega, AL, USA",wireless_in_CA
+"""been""","Assisi, Italy",wireless_in_CA
+"""been""","Redmond, WA, USA",wireless_in_CA
+"""been""","Perugia, Italy",wireless_in_CA
+"""been""","Tagaytay, Philippines",wireless_in_CA
+"""been""","San Gimignano, Italy",wireless_in_CA
+"""been""","Siena, Italy",wireless_in_CA
+"""been""","Oceanside, CA, USA",wireless_in_CA
+"""been""","San Juan, Puerto Rico",wireless_in_CA
+"""been""","Columbus, IN, USA",wireless_in_CA
+"""been""","Shinagawa, Japan",wireless_in_CA
+"""been""","Shreveport, LA, USA",wireless_in_CA
+"""been""","Barstow, CA, USA",wireless_in_CA
+"""been""","Cow Bay, Australia",wireless_in_CA
+"""been""","Ashford, WA, USA",wireless_in_CA
+"""been""","Gary, IN, USA",wireless_in_CA
+"""been""","Poway, CA, USA",wireless_in_CA
+"""been""","Suzhou, China",wireless_in_CA
+"""been""","Zhenjiang, China",wireless_in_CA
+"""been""","Blackheath, Australia",wireless_in_CA
+"""been""","Redditch, UK",wireless_in_CA
+"""been""","Lafayette, IN, USA",wireless_in_CA
+"""been""","Hyannis, MA, USA",wireless_in_CA
+"""been""","Atlantic City, NJ, USA",wireless_in_CA
+"""been""","Ettal, Germany",wireless_in_CA
+"""been""","Charlotte Amalie, U.S. Virgin Islands",wireless_in_CA
+"""been""","St. Thomas, U.S. Virgin Islands",wireless_in_CA
+"""been""","Freeport, ME, USA",wireless_in_CA
+"""want""","Quebec City, Quebec, Canada",wireless_in_CA
+"""been""","Baltimore, MD, USA",wireless_in_CA
+"""been""","Salt Lake City, UT, USA",wireless_in_CA
+"""been""","Roanoke, TX, USA",wireless_in_CA
+"""been""","Bedford, TX, USA",wireless_in_CA
+"""been""","Brownsville, TX, USA",wireless_in_CA
+"""been""","Pearland, TX, USA",wireless_in_CA
+"""been""","North Conway, NH, USA",wireless_in_CA
+"""been""","Fort Wayne, IN, USA",wireless_in_CA
+"""want""","Nashville, TN, USA",wireless_in_CA
+"""been""","Caticlan, Philippines",wireless_in_CA
+"""been""","Mexico City, Mexico",wireless_in_CA
+"""been""","Stone Mountain, GA, USA",wireless_in_CA
+"""been""","Budapest, Hungary",wireless_in_CA
+"""been""","Jenolan Caves, Australia",wireless_in_CA
+"""been""","Vancouver, WA, USA",wireless_in_CA
+"""been""","South Yarmouth, MA, USA",wireless_in_CA
+"""been""","North Chatham, MA, USA",wireless_in_CA
+"""been""","Toronto, Ontario, Canada",wireless_in_CA
+"""been""","Hutchinson, KS, USA",wireless_in_CA
+"""been""","Concord, NH, USA",wireless_in_CA
+"""been""","Boracay, Philippines",wireless_in_CA
+"""been""","Jabiru, Australia",wireless_in_CA
+"""been""","Dongguan, China",wireless_in_CA
+"""been""","Huizhou, China",wireless_in_CA
+"""been""","Shenzhen, China",wireless_in_CA
+"""been""","Shanghai, China",wireless_in_CA
+"""been""","South Padre Island, TX, USA",wireless_in_CA
+"""been""","Tucson, AZ, USA",wireless_in_CA
+"""been""","Wiscasset, ME, USA",wireless_in_CA
+"""been""","Salem, MA, USA",wireless_in_CA
+"""been""","Bangor, ME, USA",wireless_in_CA
+"""been""","Providence, RI, USA",wireless_in_CA
+"""been""","Washington DC, DC, USA",wireless_in_CA
+"""been""","Bar Harbor, ME, USA",wireless_in_CA
+"""been""","Orvieto, Italy",wireless_in_CA
+"""been""","Busan, South Korea",wireless_in_CA
+"""been""","Gyeongju, South Korea",wireless_in_CA
+"""been""","Incheon, South Korea",wireless_in_CA
+"""been""","Odawara, Japan",wireless_in_CA
+"""been""","Xiamen, China",wireless_in_CA
+"""been""","Plansee, Austria",wireless_in_CA
+"""been""","San Francisco, CA, USA",wireless_in_CA
+"""been""","Indianapolis, IN, USA",wireless_in_CA
+"""been""","San Antonio, TX, USA",wireless_in_CA
+"""been""","Wilmington, DE, USA",wireless_in_CA
+"""been""","Trinity Beach, Australia",wireless_in_CA
+"""been""","Oak Harbor, WA, USA",wireless_in_CA
+"""been""","Manchester, NH, USA",wireless_in_CA
+"""been""","Singapore, Singapore",wireless_in_CA
+"""been""","Mishawaka, IN, USA",wireless_in_CA
+"""been""","Bayeux, France",wireless_in_CA
+"""been""","Poughkeepsie, NY, USA",wireless_in_CA
+"""been""","Caen, France",wireless_in_CA
+"""been""","Nanning, China",wireless_in_CA
+"""been""","Batchelor, Australia",wireless_in_CA
+"""been""","Batam, Indonesia",wireless_in_CA
+"""been""","Truckee, CA, USA",wireless_in_CA
+"""been""","Montpelier, VT, USA",wireless_in_CA
+"""been""","Springfield, MA, USA",wireless_in_CA
+"""been""","Tacoma, WA, USA",wireless_in_CA
+"""been""","Tustin, CA, USA",wireless_in_CA
+"""been""","Cabot, VT, USA",wireless_in_CA
+"""been""","Northbrook, IL, USA",wireless_in_CA
+"""been""","Rouen, France",wireless_in_CA
+"""been""","Coral Springs, FL, USA",wireless_in_CA
+"""been""","Tracy, CA, USA",wireless_in_CA
+"""been""","Honolulu, HI, USA",wireless_in_CA
+"""been""","Sausalito, CA, USA",wireless_in_CA
+"""been""","Sandwich, MA, USA",wireless_in_CA
+"""been""","Torrance, CA, USA",wireless_in_CA
+"""been""","Chiyoda, Japan",wireless_in_CA
+"""been""","Lihue, HI, USA",wireless_in_CA
+"""been""","Chuo, Japan",wireless_in_CA
+"""been""","Boston, MA, USA",wireless_in_CA
+"""been""","Newport, RI, USA",wireless_in_CA
+"""been""","Portland, ME, USA",wireless_in_CA
+"""been""","Madison, WI, USA",wireless_in_CA
+"""been""","Mexicali, Mexico",wireless_in_CA
+"""been""","Houston, TX, USA",wireless_in_CA
+"""been""","Sandusky, OH, USA",wireless_in_CA
+"""been""","Louisville, KY, USA",wireless_in_CA
+"""been""","Tatabanya, Hungary",wireless_in_CA
+"""been""","Paju, South Korea",wireless_in_CA
+"""been""","Shinjuku, Japan",wireless_in_CA
+"""been""","Heidelberg, Germany",wireless_in_CA
+"""been""","Stateline, NV, USA",wireless_in_CA
+"""been""","Grand Canyon National Park, AZ, USA",wireless_in_CA
+"""been""","Tukwila, WA, USA",wireless_in_CA
+"""been""","Santa Monica, CA, USA",wireless_in_CA
+"""been""","San Diego, CA, USA",wireless_in_CA
+"""been""","North Richland Hills, TX, USA",wireless_in_CA
+"""been""","Clearwater, FL, USA",wireless_in_CA
+"""been""","Kailua-Kona, HI, USA",wireless_in_CA
+"""been""","Santa Maria, CA, USA",wireless_in_CA
+"""been""","Cincinnati, OH, USA",wireless_in_CA
+"""been""","Titusville, FL, USA",wireless_in_CA
+"""been""","Minato, Japan",wireless_in_CA
+"""been""","Ota, Japan",wireless_in_CA
+"""been""","Lahaina, HI, USA",wireless_in_CA
+"""been""","Skagway, AK, USA",wireless_in_CA
+"""been""","Shibuya, Japan",wireless_in_CA
+"""been""","Princeville, HI, USA",wireless_in_CA
+"""been""","Saratoga, CA, USA",wireless_in_CA
+"""been""","Hong Kong, China",wireless_in_CA
+"""been""","Mitaka, Japan",wireless_in_CA
+"""been""","Cocoa Beach, FL, USA",wireless_in_CA
+"""been""","Williamsburg, VA, USA",wireless_in_CA
+"""been""","White River Junction, VT, USA",wireless_in_CA
+"""been""","Tiburon, CA, USA",wireless_in_CA
+"""been""","Beijing, China",wireless_in_CA
+"""been""","South Bend, IN, USA",wireless_in_CA
+"""been""","Mannheim, Germany",wireless_in_CA
+"""been""","Crawley, UK",wireless_in_CA
+"""been""","Anchorage, AK, USA",wireless_in_CA
+"""been""","Charlottesville, VA, USA",wireless_in_CA
+"""been""","Taito, Japan",wireless_in_CA
+"""been""","New York City, NY, USA",wireless_in_CA
+"""been""","Omaha, NE, USA",wireless_in_CA
+"""been""","Aiea, HI, USA",wireless_in_CA
+"""been""","Seattle, WA, USA",wireless_in_CA
+"""been""","Santa Cruz, CA, USA",wireless_in_CA
+"""been""","Longview, WA, USA",wireless_in_CA
+"""been""","Santa Clara, CA, USA",wireless_in_CA
+"""been""","Santa Barbara, CA, USA",wireless_in_CA
+"""been""","Port Townsend, WA, USA",wireless_in_CA
+"""been""","Cerritos, CA, USA",wireless_in_CA
+"""been""","Santa Ana, CA, USA",wireless_in_CA
+"""been""","Nanjing, China",wireless_in_CA
+"""been""","Cahors, France",wireless_in_CA
+"""been""","Taichung, Taiwan",wireless_in_CA
+"""been""","North Vancouver, British Columbia, Canada",wireless_in_CA
+"""been""","San Mateo, CA, USA",wireless_in_CA
+"""been""","Richmond, VA, USA",wireless_in_CA
+"""been""","Taoyuan, Taiwan",wireless_in_CA
+"""been""","Kailua, HI, USA",wireless_in_CA
+"""been""","Richmond, British Columbia, Canada",wireless_in_CA
+"""been""","Atlanta, GA, USA",wireless_in_CA
+"""been""","El Paso, TX, USA",wireless_in_CA
+"""been""","Berkeley, CA, USA",wireless_in_CA
+"""been""","Tahoe City, CA, USA",wireless_in_CA
+"""been""","Naperville, IL, USA",wireless_in_CA
+"""been""","Barcelona, Spain",wireless_in_CA
+"""been""","Catskill, NY, USA",wireless_in_CA
+"""been""","Carcassonne Center, France",wireless_in_CA
+"""been""","Genting Highlands, Malaysia",wireless_in_CA
+"""been""","San Juan, Philippines",wireless_in_CA
+"""been""","Carmel, CA, USA",wireless_in_CA
+"""been""","San Jose, CA, USA",wireless_in_CA
+"""been""","Matamoros, Mexico",wireless_in_CA
+"""been""","Mossman, Australia",wireless_in_CA
+"""been""","Carlsbad, CA, USA",wireless_in_CA
+"""been""","Guam, Mariana Islands",wireless_in_CA
+"""been""","San Marcos, CA, USA",wireless_in_CA
+"""been""","Cape Canaveral, FL, USA",wireless_in_CA
+"""been""","Labadee, Haiti",wireless_in_CA
+"""been""","San Luis Obispo, CA, USA",wireless_in_CA
+"""been""","Bellevue, WA, USA",wireless_in_CA
+"""been""","Sunnyvale, CA, USA",wireless_in_CA
+"""been""","Denver, CO, USA",wireless_in_CA
+"""been""","Memphis, TN, USA",wireless_in_CA
+"""been""","San Juan Capistrano, CA, USA",wireless_in_CA
+"""been""","Everett, WA, USA",wireless_in_CA
+"""been""","Diamond Bar, CA, USA",wireless_in_CA
+"""been""","Kissimmee, FL, USA",wireless_in_CA
+"""been""","West Lafayette, IN, USA",wireless_in_CA
+"""been""","Paris, France",wireless_in_CA
+"""been""","Southaven, MS, USA",wireless_in_CA
+"""been""","Stockton, CA, USA",wireless_in_CA
+"""been""","Bellingham, WA, USA",wireless_in_CA
+"""been""","West Covina, CA, USA",wireless_in_CA
+"""been""","Philadelphia, PA, USA",wireless_in_CA
+"""been""","Portsmouth, NH, USA",wireless_in_CA
+"""been""","Gettysburg, PA, USA",wireless_in_CA
+"""been""","Wuhu, China",wireless_in_CA
+"""been""","Fort Lauderdale, FL, USA",wireless_in_CA
+"""been""","Bear Valley, CA, USA",wireless_in_CA
+"""been""","Amboise, France",wireless_in_CA
+"""been""","Hershey, PA, USA",wireless_in_CA
+"""been""","Culver City, CA, USA",wireless_in_CA
+"""been""","Prague, Czech Republic",wireless_in_CA
+"""been""","Taguig City, Philippines",wireless_in_CA
+"""been""","Troy, NY, USA",wireless_in_CA
+"""been""","Bakersfield, CA, USA",wireless_in_CA
+"""been""","Cheyenne, WY, USA",wireless_in_CA
+"""been""","Kansas City, KS, USA",wireless_in_CA
+"""been""","New Taipei, Taiwan",wireless_in_CA
+"""been""","Wawona, CA, USA",wireless_in_CA
+"""been""","Colorado Springs, CO, USA",wireless_in_CA
+"""been""","Cupertino, CA, USA",wireless_in_CA
+"""been""","Rosemont, IL, USA",wireless_in_CA
+"""been""","Newark, NJ, USA",wireless_in_CA
+"""been""","Chenonceaux, France",wireless_in_CA
+"""been""","Longview, TX, USA",wireless_in_CA
+"""been""","South San Francisco, CA, USA",wireless_in_CA
+"""been""","Walnut, CA, USA",wireless_in_CA
+"""been""","Batu Ampar, Indonesia",wireless_in_CA
+"""been""","Frankfurt, Germany",wireless_in_CA
+"""been""","Arles, France",wireless_in_CA
+"""been""","Cairns, Australia",wireless_in_CA
+"""been""","Hilo, HI, USA",wireless_in_CA
+"""been""","Eden Prairie, MN, USA",wireless_in_CA
+"""been""","Tampa, FL, USA",wireless_in_CA
+"""been""","Port Douglas, Australia",wireless_in_CA
+"""been""","Calexico, CA, USA",wireless_in_CA
+"""been""","Leavesden, UK",wireless_in_CA
+"""been""","Solvang, CA, USA",wireless_in_CA
+"""been""","Melbourne, FL, USA",wireless_in_CA
+"""been""","Costa Mesa, CA, USA",wireless_in_CA
+"""been""","Riyadh, Saudi Arabia",wireless_in_CA
+"""been""","Austin, TX, USA",wireless_in_CA
+"""been""","Anaheim, CA, USA",wireless_in_CA
+"""been""","Miami Beach, FL, USA",wireless_in_CA
+"""been""","Sonoma, CA, USA",wireless_in_CA
+"""been""","Miami, FL, USA",wireless_in_CA
+"""been""","Ginza, Japan",wireless_in_CA
+"""been""","Steingaden, Germany",wireless_in_CA
+"""been""","West Memphis, AR, USA",wireless_in_CA
+"""been""","Sydney, Australia",wireless_in_CA
+"""been""","Burbank, CA, USA",wireless_in_CA
+"""been""","Burlingame, CA, USA",wireless_in_CA
+"""been""","Buena Park, CA, USA",wireless_in_CA
+"""been""","Lancaster, PA, USA",wireless_in_CA
+"""been""","Ketchikan, AK, USA",wireless_in_CA
+"""been""","Fussen, Germany",wireless_in_CA
+"""been""","Darwin, Australia",wireless_in_CA
+"""been""","Bristol, UK",wireless_in_CA
+"""been""","Katoomba, Australia",wireless_in_CA
+"""been""","Bend, OR, USA",wireless_in_CA
+"""been""","Trenton, NJ, USA",wireless_in_CA
+"""been""","Dachau, Germany",wireless_in_CA
+"""been""","Schwangau, Germany",wireless_in_CA
+"""been""","Juneau, AK, USA",wireless_in_CA
+"""been""","Bridal Veil, OR, USA",wireless_in_CA
+"""been""","Vacaville, CA, USA",wireless_in_CA
+"""been""","Escondido, CA, USA",wireless_in_CA
+"""been""","Cleveland, OH, USA",wireless_in_CA
+"""been""","Golden, CO, USA",wireless_in_CA
+"""been""","La Mirada, CA, USA",wireless_in_CA
+"""been""","El Portal, CA, USA",wireless_in_CA
+"""been""","Hakone-machi, Japan",wireless_in_CA
+"""been""","Pisa, Italy",wireless_in_CA
+"""been""","Yiwu, China",wireless_in_CA
+"""been""","Yokohama, Japan",wireless_in_CA
+"""been""","Brea, CA, USA",wireless_in_CA
+"""been""","Hacienda Heights, CA, USA",wireless_in_CA
+"""been""","Florence, Italy",wireless_in_CA
+"""been""","Bac Ninh, Vietnam",wireless_in_CA
+"""been""","Rome, Italy",wireless_in_CA
+"""been""","Kunshan, China",wireless_in_CA
+"""been""","Dearborn, MI, USA",wireless_in_CA
+"""been""","Detroit, MI, USA",wireless_in_CA
+"""been""","Altoona, PA, USA",wireless_in_CA
+"""been""","City of Industry, CA, USA",wireless_in_CA
+"""been""","El Centro, CA, USA",wireless_in_CA
+"""been""","London, UK",wireless_in_CA
+"""been"",""fave""","Hohenschwangau, Germany",wireless_in_CA
+"""been""","Munich, Germany",wireless_in_CA
+"""been""","Narita, Japan",wireless_in_CA
+"""been""","Columbus, OH, USA",wireless_in_CA
+"""been""","Orlando, FL, USA",wireless_in_CA
+"""been""","Oberammergau, Germany",wireless_in_CA
+"""been""","Reno, NV, USA",wireless_in_CA
+"""been""","Yosemite National Park, CA, USA",wireless_in_CA
+"""been""","Sedona, AZ, USA",wireless_in_CA
+"""been""","Oklahoma City, OK, USA",wireless_in_CA
+"""been""","Niagara Falls, Ontario, Canada",wireless_in_CA
+"""been""","Marunouchi, Japan",wireless_in_CA
+"""want""","Madrid, Spain",wireless_in_CA
+"""been""","Verona, Italy",wireless_in_CA
+"""been""","Venice, Italy",wireless_in_CA
+"""been""","Nara, Japan",wireless_in_CA
+"""been""","Chino, CA, USA",wireless_in_CA
+"""been""","Kalamazoo, MI, USA",wireless_in_CA
+"""been""","Minneapolis, MN, USA",wireless_in_CA
+"""been""","North Las Vegas, NV, USA",wireless_in_CA
+"""been""","Nagoya, Indonesia",wireless_in_CA
+"""been""","Kansas City, MO, USA",wireless_in_CA
+"""been""","Birmingham, AL, USA",wireless_in_CA
+"""been""","Dublin, CA, USA",wireless_in_CA
+"""been""","Malibu, CA, USA",wireless_in_CA
+"""been""","Glendale, CA, USA",wireless_in_CA
+"""been""","Grapevine, TX, USA",wireless_in_CA
+"""been""","Harrisburg, PA, USA",wireless_in_CA
+"""been""","State College, PA, USA",wireless_in_CA
+"""want""","Nikko, Japan",wireless_in_CA
+"""been""","Tokyo, Japan",wireless_in_CA
+"""been""","Linderhof, Germany",wireless_in_CA
+"""been""","Katherine, Australia",wireless_in_CA
+"""been""","Saint Louis, MO, USA",wireless_in_CA
+"""been""","Kakadu National Park, Australia",wireless_in_CA
+"""been""","Melaka, Malaysia",wireless_in_CA
+"""been""","Chatham, MA, USA",wireless_in_CA
+"""been""","Augusta, ME, USA",wireless_in_CA
+"""been""","Chihuahua, Mexico",wireless_in_CA
+"""been""","Edinburgh, UK",wireless_in_CA
+"""been""","St. Petersburg, FL, USA",wireless_in_CA
+"""been""","Birmingham, UK",wireless_in_CA
+"""been""","Downey, CA, USA",wireless_in_CA
+"""been""","Las Vegas, NV, USA",wireless_in_CA
+"""been""","Heyuan, China",wireless_in_CA
+"""been""","Cape Tribulation, Australia",wireless_in_CA
+"""been""","Windsor, UK",wireless_in_CA
+"""been""","Taipei, Taiwan",wireless_in_CA
+"""been""","Irvine, CA, USA",wireless_in_CA
+"""been""","Annapolis, MD, USA",wireless_in_CA
+"""been""","Pismo Beach, CA, USA",wireless_in_CA
+"""been""","Chicago, IL, USA",wireless_in_CA
+"""want""","Siem Reap, Cambodia",wireless_in_CA
+"""been""","Dallas, TX, USA",wireless_in_CA
+"""been""","Los Angeles, CA, USA",wireless_in_CA
+"""been""","Los Banos, CA, USA",wireless_in_CA
+"""been""","Fresno, CA, USA",wireless_in_CA
+"""been""","Brewster, MA, USA",wireless_in_CA
+"""been""","Reutte, Austria",wireless_in_CA
+"""been""","San Juan, Philippines",wireless_in_CA
+"""been""","Arnold, CA, USA",wireless_in_CA
+"""been""","Murphys, CA, USA",wireless_in_CA
+"""been""","Hanoi, Vietnam",wireless_in_CA
+"""been""","Mountain View, CA, USA",wireless_in_CA
+"""been""","Phoenix, AZ, USA",wireless_in_CA
+"""been""","Halong Bay, Vietnam",wireless_in_CA
+"""been""","Oahu, HI, USA",wireless_in_CA
+"""been""","Long Beach, CA, USA",wireless_in_CA
+"""been""","Alexandria, VA, USA",wireless_in_CA
+"""been""","Wichita, KS, USA",wireless_in_CA
+"""been""","Mount Hermon, CA, USA",wireless_in_CA
+"""been""","Milan, Italy",wireless_in_CA
+"""been""","Rowland Heights, CA, USA",wireless_in_CA
+"""been""","Macau, China",wireless_in_CA
+"""been""","Vancouver, British Columbia, Canada",wireless_in_CA
+"""been""","Victoria, British Columbia, Canada",wireless_in_CA
+"""been""","Sacramento, CA, USA",wireless_in_CA
+"""been""","Mystic, CT, USA",wireless_in_CA
+"""been""","Fort Worth, TX, USA",wireless_in_CA

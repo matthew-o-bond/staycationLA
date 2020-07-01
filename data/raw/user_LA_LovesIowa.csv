@@ -1,0 +1,786 @@
+tag,place,user
+"""been""","Portland, OR, USA",LovesIowa
+"""want""","Val d'Isere, France",LovesIowa
+"""been""","Durham, NC, USA",LovesIowa
+"""been""","Keystone, CO, USA",LovesIowa
+"""been""","Los Angeles, CA, USA",LovesIowa
+"""been""","North Platte, NE, USA",LovesIowa
+"""been""","Toshima, Japan",LovesIowa
+"""been""","Saint Louis, MO, USA",LovesIowa
+"""want""","Zurich, Switzerland",LovesIowa
+"""want""","Lyon, France",LovesIowa
+"""been""","Monticello, IA, USA",LovesIowa
+"""been""","Montour, IA, USA",LovesIowa
+"""been""","Alexandria, VA, USA",LovesIowa
+"""been""","Long Beach, CA, USA",LovesIowa
+"""been""","Germantown, WI, USA",LovesIowa
+"""been""","Phoenix, AZ, USA",LovesIowa
+"""been""","Fort Bragg, CA, USA",LovesIowa
+"""been""","Montezuma, IA, USA",LovesIowa
+"""been""","Minneapolis, MN, USA",LovesIowa
+"""been""","Monona, IA, USA",LovesIowa
+"""been""","Evansville, IN, USA",LovesIowa
+"""been""","Oahu, HI, USA",LovesIowa
+"""been""","Keystone, SD, USA",LovesIowa
+"""want""","Diani Beach, Kenya",LovesIowa
+"""been""","Moorhead, MN, USA",LovesIowa
+"""been""","Reno, NV, USA",LovesIowa
+"""been""","Green Bay, WI, USA",LovesIowa
+"""been""","Augusta, GA, USA",LovesIowa
+"""been""","Folly Beach, SC, USA",LovesIowa
+"""been""","Sevierville, TN, USA",LovesIowa
+"""been""","Muskegon, MI, USA",LovesIowa
+"""been""","Grand Rapids, MI, USA",LovesIowa
+"""been""","Melcher, IA, USA",LovesIowa
+"""been""","Munising, MI, USA",LovesIowa
+"""been""","Mediapolis, IA, USA",LovesIowa
+"""been""","Floyd, IA, USA",LovesIowa
+"""been""","Yountville, CA, USA",LovesIowa
+"""been""","Fayette, IA, USA",LovesIowa
+"""want""","Monte Verde, Brazil",LovesIowa
+"""been""","Milton, WI, USA",LovesIowa
+"""been""","Mackinaw City, MI, USA",LovesIowa
+"""been""","Milwaukee, WI, USA",LovesIowa
+"""been""","Mineral Point, WI, USA",LovesIowa
+"""want""","Monte-Carlo, Monaco",LovesIowa
+"""want""","Cannes, France",LovesIowa
+"""been""","Waco, TX, USA",LovesIowa
+"""want""","Athens, Greece",LovesIowa
+"""want""","Longyearbyen, Norway",LovesIowa
+"""want""","Cairo, Egypt",LovesIowa
+"""been""","Gloucester, MA, USA",LovesIowa
+"""want""","Giza, Egypt",LovesIowa
+"""been"",""fave""","Sedona, AZ, USA",LovesIowa
+"""been""","Marina del Rey, CA, USA",LovesIowa
+"""been""","Menomonee Falls, WI, USA",LovesIowa
+"""been""","Scottsdale, AZ, USA",LovesIowa
+"""been""","Merrimac, WI, USA",LovesIowa
+"""want""","St-Jean-Cap-Ferrat, France",LovesIowa
+"""want""","Nice, France",LovesIowa
+"""been""","Malibu, CA, USA",LovesIowa
+"""been""","Manhattan Beach, CA, USA",LovesIowa
+"""been""","Macon, MO, USA",LovesIowa
+"""been""","Baton Rouge, LA, USA",LovesIowa
+"""been""","Sault Ste. Marie, MI, USA",LovesIowa
+"""been""","Marquette, MI, USA",LovesIowa
+"""been""","Saugatuck, MI, USA",LovesIowa
+"""been""","Lafayette, LA, USA",LovesIowa
+"""want""","Maastricht, The Netherlands",LovesIowa
+"""been""","Henderson, NV, USA",LovesIowa
+"""want""","Hopkins, Belize",LovesIowa
+"""been""","St. Pete Beach, FL, USA",LovesIowa
+"""been""","St. Petersburg, FL, USA",LovesIowa
+"""want""","Chamonix, France",LovesIowa
+"""want""","Amsterdam, The Netherlands",LovesIowa
+"""been""","Annapolis, MD, USA",LovesIowa
+"""been""","Arlington, VA, USA",LovesIowa
+"""been""","Lakewood, CO, USA",LovesIowa
+"""been""","Bethany Beach, DE, USA",LovesIowa
+"""want""","Toulon, France",LovesIowa
+"""want""","Saint-Remy-de-Provence, France",LovesIowa
+"""been""","Las Vegas, NV, USA",LovesIowa
+"""want""","Barcelona, Spain",LovesIowa
+"""been""","Laughlin, NV, USA",LovesIowa
+"""been""","Medford, MN, USA",LovesIowa
+"""been""","Saint Charles, MO, USA",LovesIowa
+"""want""","Marseille, France",LovesIowa
+"""been""","Rockford, IL, USA",LovesIowa
+"""been""","Miami Beach, FL, USA",LovesIowa
+"""been""","Springfield, MA, USA",LovesIowa
+"""been""","Rock Island, IL, USA",LovesIowa
+"""been""","Knoxville, TN, USA",LovesIowa
+"""been""","York, PA, USA",LovesIowa
+"""been""","Manchester, VT, USA",LovesIowa
+"""been""","Melbourne, FL, USA",LovesIowa
+"""been""","Melbourne Beach, FL, USA",LovesIowa
+"""been""","Brookfield, WI, USA",LovesIowa
+"""been""","Rock Falls, IL, USA",LovesIowa
+"""been""","Miami, FL, USA",LovesIowa
+"""want""","Sonoma, CA, USA",LovesIowa
+"""been""","Tampa, FL, USA",LovesIowa
+"""been"",""fave""","Hermosa Beach, CA, USA",LovesIowa
+"""been"",""fave""","London, UK",LovesIowa
+"""been""","Murfreesboro, TN, USA",LovesIowa
+"""been""","Liverpool, UK",LovesIowa
+"""been""","Flagstaff, AZ, USA",LovesIowa
+"""been""","Isle of Palms, SC, USA",LovesIowa
+"""been""","Newport, RI, USA",LovesIowa
+"""been"",""fave""","Tokyo, Japan",LovesIowa
+"""been""","Santa Fe, NM, USA",LovesIowa
+"""been""","Newark, NJ, USA",LovesIowa
+"""been""","Janesville, WI, USA",LovesIowa
+"""been"",""fave""","Cable, WI, USA",LovesIowa
+"""been""","Christmas, MI, USA",LovesIowa
+"""been""","Healdsburg, CA, USA",LovesIowa
+"""been""","Bayfield, WI, USA",LovesIowa
+"""been""","Kiawah Island, SC, USA",LovesIowa
+"""been""","Columbia, MO, USA",LovesIowa
+"""want""","Moab, UT, USA",LovesIowa
+"""been""","Kawasaki, Japan",LovesIowa
+"""been"",""fave""","Yokohama, Japan",LovesIowa
+"""been""","Wembley, UK",LovesIowa
+"""been""","Grand Island, NE, USA",LovesIowa
+"""been""","Houston, TX, USA",LovesIowa
+"""been""","Boulder, CO, USA",LovesIowa
+"""been""","Sandusky, OH, USA",LovesIowa
+"""been""","Breckenridge, CO, USA",LovesIowa
+"""been""","Portsmouth, NH, USA",LovesIowa
+"""been""","Walla Walla, WA, USA",LovesIowa
+"""been""","San Diego, CA, USA",LovesIowa
+"""been""","Cincinnati, OH, USA",LovesIowa
+"""been"",""fave""","Yellowstone National Park, WY, USA",LovesIowa
+"""been""","Bath, UK",LovesIowa
+"""been""","Fredericksburg, IA, USA",LovesIowa
+"""been""","Evanston, IL, USA",LovesIowa
+"""been""","Fort Madison, IA, USA",LovesIowa
+"""been""","Fort Dodge, IA, USA",LovesIowa
+"""been""","Half Moon Bay, CA, USA",LovesIowa
+"""been""","Forest City, IA, USA",LovesIowa
+"""want""","Chessy, France",LovesIowa
+"""want""","Antibes, France",LovesIowa
+"""been""","Asheville, NC, USA",LovesIowa
+"""been"",""want""","Honolulu, HI, USA",LovesIowa
+"""been""","Cuba, MO, USA",LovesIowa
+"""want""","Avignon, France",LovesIowa
+"""been""","Tupelo, MS, USA",LovesIowa
+"""been""","Topeka, KS, USA",LovesIowa
+"""been""","Laramie, WY, USA",LovesIowa
+"""been""","Boston, MA, USA",LovesIowa
+"""been""","Haverhill, IA, USA",LovesIowa
+"""been""","Center Point, IA, USA",LovesIowa
+"""been""","Cedar Rapids, IA, USA",LovesIowa
+"""want""","Roissy-en-France, France",LovesIowa
+"""been""","Denver, CO, USA",LovesIowa
+"""been""","Cedar Falls, IA, USA",LovesIowa
+"""been""","Chariton, IA, USA",LovesIowa
+"""been""","Centerville, IA, USA",LovesIowa
+"""been""","Cape Girardeau, MO, USA",LovesIowa
+"""been""","Fort Myers Beach, FL, USA",LovesIowa
+"""been""","Glasgow, UK",LovesIowa
+"""been""","Fort Myers, FL, USA",LovesIowa
+"""want""","Courmayeur, Italy",LovesIowa
+"""been""","Seaside, OR, USA",LovesIowa
+"""been""","Camdenton, MO, USA",LovesIowa
+"""been""","Albuquerque, NM, USA",LovesIowa
+"""been""","Petrified Forest National Park, AZ, USA",LovesIowa
+"""been""","Greenville, SC, USA",LovesIowa
+"""been""","Naples, FL, USA",LovesIowa
+"""been""","Hampton, IA, USA",LovesIowa
+"""been""","Cascade, IA, USA",LovesIowa
+"""been""","Harlan, IA, USA",LovesIowa
+"""been""","Carroll, IA, USA",LovesIowa
+"""been""","Chandler, AZ, USA",LovesIowa
+"""been""","Champaign, IL, USA",LovesIowa
+"""been""","Salt Lake City, UT, USA",LovesIowa
+"""want""","Venice, Italy",LovesIowa
+"""been""","Macon, GA, USA",LovesIowa
+"""been""","Providence, RI, USA",LovesIowa
+"""been""","Camanche, IA, USA",LovesIowa
+"""been""","Maho, St Martin \u002F St Maarten",LovesIowa
+"""want""","Blaavand, Denmark",LovesIowa
+"""been""","Colorado Springs, CO, USA",LovesIowa
+"""been""","Hayward, WI, USA",LovesIowa
+"""want""","Jerusalem, Israel",LovesIowa
+"""been""","Kansas City, KS, USA",LovesIowa
+"""been""","Grundy Center, IA, USA",LovesIowa
+"""want""","Amman, Jordan",LovesIowa
+"""been""","Dana Point, CA, USA",LovesIowa
+"""been""","Calmar, IA, USA",LovesIowa
+"""want""","Malmo, Sweden",LovesIowa
+"""been""","Lubbock, TX, USA",LovesIowa
+"""been""","Calamus, IA, USA",LovesIowa
+"""been""","Culver City, CA, USA",LovesIowa
+"""been""","Grinnell, IA, USA",LovesIowa
+"""been""","Rosemont, IL, USA",LovesIowa
+"""been""","North Mankato, MN, USA",LovesIowa
+"""been""","Tucson, AZ, USA",LovesIowa
+"""want""","San Francisco, CA, USA",LovesIowa
+"""been""","San Antonio, TX, USA",LovesIowa
+"""been""","Salem, MA, USA",LovesIowa
+"""been""","Burlington, IA, USA",LovesIowa
+"""been""","Johnson City, TN, USA",LovesIowa
+"""been""","Roscoe, IL, USA",LovesIowa
+"""want""","Casablanca, Morocco",LovesIowa
+"""been""","South San Francisco, CA, USA",LovesIowa
+"""been""","Anaheim, CA, USA",LovesIowa
+"""been""","Hilton Head, SC, USA",LovesIowa
+"""want""","Niagara Falls, Ontario, Canada",LovesIowa
+"""want""","Florence, Italy",LovesIowa
+"""been""","Chillicothe, MO, USA",LovesIowa
+"""been""","Estes Park, CO, USA",LovesIowa
+"""been""","Kagoshima, Japan",LovesIowa
+"""been""","Conrad, IA, USA",LovesIowa
+"""been""","Paducah, KY, USA",LovesIowa
+"""been""","Colo, IA, USA",LovesIowa
+"""been""","Ironshore, Jamaica",LovesIowa
+"""been""","Bodega Bay, CA, USA",LovesIowa
+"""been""","Tomah, WI, USA",LovesIowa
+"""been""","Columbus Junction, IA, USA",LovesIowa
+"""been""","Ciudad Juarez, Mexico",LovesIowa
+"""been""","Columbus City, IA, USA",LovesIowa
+"""been""","Eugene, OR, USA",LovesIowa
+"""been""","Sun Prairie, WI, USA",LovesIowa
+"""been""","Fargo, ND, USA",LovesIowa
+"""been""","Seven Mile Beach, Cayman Islands",LovesIowa
+"""been""","Colfax, IA, USA",LovesIowa
+"""been""","South Bend, IN, USA",LovesIowa
+"""been""","Lewes, DE, USA",LovesIowa
+"""been""","Teton Village, WY, USA",LovesIowa
+"""been""","Clive, IA, USA",LovesIowa
+"""want""","Bellagio, Italy",LovesIowa
+"""been""","Clinton, IA, USA",LovesIowa
+"""been""","Tijuana, Mexico",LovesIowa
+"""want""","Basseterre, St. Kitts and Nevis",LovesIowa
+"""been""","Bronx, NY, USA",LovesIowa
+"""been""","Clear Lake, IA, USA",LovesIowa
+"""been""","Beverly Hills, CA, USA",LovesIowa
+"""want""","Milan, Italy",LovesIowa
+"""been""","Clarion, IA, USA",LovesIowa
+"""been""","Clarence, IA, USA",LovesIowa
+"""been""","Viroqua, WI, USA",LovesIowa
+"""want""","Bangor, ME, USA",LovesIowa
+"""been""","Orient Bay, St Martin \u002F St Maarten",LovesIowa
+"""been""","Marigot, St Martin \u002F St Maarten",LovesIowa
+"""been""","Philipsburg, St Martin \u002F St Maarten",LovesIowa
+"""been""","Durango, CO, USA",LovesIowa
+"""been""","Hills, IA, USA",LovesIowa
+"""been""","Naperville, IL, USA",LovesIowa
+"""been""","Dewey Beach, DE, USA",LovesIowa
+"""been""","Dover, DE, USA",LovesIowa
+"""been""","Schaumburg, IL, USA",LovesIowa
+"""been""","Chillicothe, IA, USA",LovesIowa
+"""been""","Minocqua, WI, USA",LovesIowa
+"""been""","Charles City, IA, USA",LovesIowa
+"""want""","Virginia Beach, VA, USA",LovesIowa
+"""want""","Hilo, HI, USA",LovesIowa
+"""been""","Hazleton, IA, USA",LovesIowa
+"""been""","Grand Case, St Martin \u002F St Maarten",LovesIowa
+"""been"",""fave""","Simpson Bay, St Martin \u002F St Maarten",LovesIowa
+"""been""","Montgomery, AL, USA",LovesIowa
+"""been""","Chesapeake, VA, USA",LovesIowa
+"""been""","Swea City, IA, USA",LovesIowa
+"""been""","Swaledale, IA, USA",LovesIowa
+"""been""","Sully, IA, USA",LovesIowa
+"""been""","Sumner, IA, USA",LovesIowa
+"""want""","Ayia Napa, Cyprus",LovesIowa
+"""been""","Strawberry Point, IA, USA",LovesIowa
+"""been""","Chippewa Falls, WI, USA",LovesIowa
+"""been""","Victoria, British Columbia, Canada",LovesIowa
+"""been""","Charlottesville, VA, USA",LovesIowa
+"""been""","Storm Lake, IA, USA",LovesIowa
+"""been""","Story City, IA, USA",LovesIowa
+"""want""","Boise, ID, USA",LovesIowa
+"""been""","State Center, IA, USA",LovesIowa
+"""been""","Carlsbad, NM, USA",LovesIowa
+"""been""","Terre Haute, IN, USA",LovesIowa
+"""been""","Middletown, RI, USA",LovesIowa
+"""been""","New York City, NY, USA",LovesIowa
+"""been""","El Paso, TX, USA",LovesIowa
+"""want""","Almaty, Kazakhstan",LovesIowa
+"""been"",""fave""","Cabo San Lucas, Mexico",LovesIowa
+"""been""","Little Rock, AR, USA",LovesIowa
+"""been"",""fave""","San Jose del Cabo, Mexico",LovesIowa
+"""been""","Wilmington, DE, USA",LovesIowa
+"""been""","Spirit Lake, IA, USA",LovesIowa
+"""been""","Spencer, IA, USA",LovesIowa
+"""been""","Sperry, IA, USA",LovesIowa
+"""been""","Hollywood, FL, USA",LovesIowa
+"""been""","Midland, TX, USA",LovesIowa
+"""been""","Memphis, TN, USA",LovesIowa
+"""been"",""fave""","West Yellowstone, MT, USA",LovesIowa
+"""been""","Sturgeon Bay, WI, USA",LovesIowa
+"""been""","Philadelphia, PA, USA",LovesIowa
+"""been""","Asahikawa, Japan",LovesIowa
+"""been""","Ishigaki, Japan",LovesIowa
+"""been""","Naha, Japan",LovesIowa
+"""been""","Okinawa City, Japan",LovesIowa
+"""been""","Solon, IA, USA",LovesIowa
+"""been""","Rehoboth Beach, DE, USA",LovesIowa
+"""been""","Michigan City, IN, USA",LovesIowa
+"""been""","Council Bluffs, IA, USA",LovesIowa
+"""been""","King of Prussia, PA, USA",LovesIowa
+"""been""","Coralville, IA, USA",LovesIowa
+"""been""","Sioux City, IA, USA",LovesIowa
+"""been""","Corydon, IA, USA",LovesIowa
+"""want""","Banff, Alberta, Canada",LovesIowa
+"""been""","Dayton, OH, USA",LovesIowa
+"""been""","Edmonton, Alberta, Canada",LovesIowa
+"""been""","Stevens Point, WI, USA",LovesIowa
+"""been""","Tulsa, OK, USA",LovesIowa
+"""want""","Grindelwald, Switzerland",LovesIowa
+"""been""","North English, IA, USA",LovesIowa
+"""been""","North Liberty, IA, USA",LovesIowa
+"""been""","Pardeeville, WI, USA",LovesIowa
+"""been""","Springfield, MO, USA",LovesIowa
+"""been""","Nora Springs, IA, USA",LovesIowa
+"""been""","Jackson, MS, USA",LovesIowa
+"""want""","St. Moritz, Switzerland",LovesIowa
+"""want""","Maharepa, French Polynesia",LovesIowa
+"""been""","Newton, IA, USA",LovesIowa
+"""been""","New Sharon, IA, USA",LovesIowa
+"""been""","Truro, IA, USA",LovesIowa
+"""been""","Traer, IA, USA",LovesIowa
+"""been""","New London, IA, USA",LovesIowa
+"""been""","Oshkosh, WI, USA",LovesIowa
+"""been""","Traverse City, MI, USA",LovesIowa
+"""want""","Sandton, South Africa",LovesIowa
+"""been""","Nevada, IA, USA",LovesIowa
+"""been""","Toledo, IA, USA",LovesIowa
+"""been""","New Hampton, IA, USA",LovesIowa
+"""want""","Canela, Brazil",LovesIowa
+"""been""","Nashua, IA, USA",LovesIowa
+"""been""","Platteville, WI, USA",LovesIowa
+"""been""","Troy, MI, USA",LovesIowa
+"""been""","Tipton, IA, USA",LovesIowa
+"""been""","Pleasant Prairie, WI, USA",LovesIowa
+"""been""","Muscatine, IA, USA",LovesIowa
+"""want""","Val Thorens, France",LovesIowa
+"""been""","Mount Pleasant, IA, USA",LovesIowa
+"""been""","Mount Vernon, IA, USA",LovesIowa
+"""been"",""want""","Mount Ayr, IA, USA",LovesIowa
+"""been""","Fort Wayne, IN, USA",LovesIowa
+"""been""","Boca Raton, FL, USA",LovesIowa
+"""been""","Galena, IL, USA",LovesIowa
+"""been""","Monterey, CA, USA",LovesIowa
+"""want""","Cordoba, Argentina",LovesIowa
+"""been""","Riverside, CA, USA",LovesIowa
+"""been""","Panama, IA, USA",LovesIowa
+"""been""","New Berlin, WI, USA",LovesIowa
+"""been""","Panora, IA, USA",LovesIowa
+"""been""","Parkersburg, IA, USA",LovesIowa
+"""been""","Kalona, IA, USA",LovesIowa
+"""been""","Kamrar, IA, USA",LovesIowa
+"""want""","Boothbay Harbor, ME, USA",LovesIowa
+"""want""","Trouville-sur-Mer, France",LovesIowa
+"""been""","Ann Arbor, MI, USA",LovesIowa
+"""want""","Trois-Ilets, Martinique",LovesIowa
+"""want""","South Lake Tahoe, CA, USA",LovesIowa
+"""been""","Jewell, IA, USA",LovesIowa
+"""been""","Gurnee, IL, USA",LovesIowa
+"""been""","Janesville, IA, USA",LovesIowa
+"""been""","Jefferson, IA, USA",LovesIowa
+"""been""","Iowa City, IA, USA",LovesIowa
+"""been""","Iowa Falls, IA, USA",LovesIowa
+"""been""","Waukesha, WI, USA",LovesIowa
+"""been""","Ottumwa, IA, USA",LovesIowa
+"""been""","Waupaca, WI, USA",LovesIowa
+"""want""","Sainte-Anne, Martinique",LovesIowa
+"""been""","Redondo Beach, CA, USA",LovesIowa
+"""been""","Runaway Bay, Jamaica",LovesIowa
+"""want""","Niagara Falls, NY, USA",LovesIowa
+"""want""","Hartford, CT, USA",LovesIowa
+"""been""","Emerald Isle, NC, USA",LovesIowa
+"""been""","Indianola, IA, USA",LovesIowa
+"""been""","Oskaloosa, IA, USA",LovesIowa
+"""been""","Chattanooga, TN, USA",LovesIowa
+"""been""","Ida Grove, IA, USA",LovesIowa
+"""been""","Orient, IA, USA",LovesIowa
+"""been""","Washington, IA, USA",LovesIowa
+"""been""","Osage, IA, USA",LovesIowa
+"""been""","Lexington, KY, USA",LovesIowa
+"""been""","Osceola, IA, USA",LovesIowa
+"""been""","Independence, IA, USA",LovesIowa
+"""been""","Wall Lake, IA, USA",LovesIowa
+"""been""","Humboldt, IA, USA",LovesIowa
+"""been""","Orange City, IA, USA",LovesIowa
+"""been""","Wapello, IA, USA",LovesIowa
+"""been""","San Juan, Puerto Rico",LovesIowa
+"""been""","Mendocino, CA, USA",LovesIowa
+"""been""","Vinton, IA, USA",LovesIowa
+"""been""","Oelwein, IA, USA",LovesIowa
+"""been""","Ogden, IA, USA",LovesIowa
+"""been""","Okoboji, IA, USA",LovesIowa
+"""want""","Old Orchard Beach, ME, USA",LovesIowa
+"""been"",""fave""","Camden, ME, USA",LovesIowa
+"""been"",""fave""","Ogunquit, ME, USA",LovesIowa
+"""been""","Chicago, IL, USA",LovesIowa
+"""been""","Ankeny, IA, USA",LovesIowa
+"""want""","Kapalua, HI, USA",LovesIowa
+"""been""","Jefferson City, MO, USA",LovesIowa
+"""want""","Bel Ombre, Africa",LovesIowa
+"""want""","Paris, France",LovesIowa
+"""been""","Deadwood, SD, USA",LovesIowa
+"""been""","Anamosa, IA, USA",LovesIowa
+"""been""","Amana, IA, USA",LovesIowa
+"""been""","Vero Beach, FL, USA",LovesIowa
+"""been""","Ames, IA, USA",LovesIowa
+"""been""","New Haven, CT, USA",LovesIowa
+"""want""","Napa, CA, USA",LovesIowa
+"""been""","Biloxi, MS, USA",LovesIowa
+"""been""","Kalamazoo, MI, USA",LovesIowa
+"""been""","Lake City, IA, USA",LovesIowa
+"""been""","Lake Mills, IA, USA",LovesIowa
+"""want""","Limoges, France",LovesIowa
+"""been""","Joplin, MO, USA",LovesIowa
+"""been""","Kansas City, MO, USA",LovesIowa
+"""been""","Sacramento, CA, USA",LovesIowa
+"""been""","Allison, IA, USA",LovesIowa
+"""want""","Mystic, CT, USA",LovesIowa
+"""been""","Pueblo, CO, USA",LovesIowa
+"""been""","Algona, IA, USA",LovesIowa
+"""been""","Albert Lea, MN, USA",LovesIowa
+"""been""","Appleton, WI, USA",LovesIowa
+"""want""","Mykonos Town, Greece",LovesIowa
+"""been""","Huntington Beach, CA, USA",LovesIowa
+"""been""","Wichita, KS, USA",LovesIowa
+"""want""","Bonito, Brazil",LovesIowa
+"""been""","Knoxville, IA, USA",LovesIowa
+"""been""","Red Wing, MN, USA",LovesIowa
+"""been""","Plainfield, IA, USA",LovesIowa
+"""want""","Myrtle Beach, SC, USA",LovesIowa
+"""want""","Katoomba, Australia",LovesIowa
+"""been""","Adair, IA, USA",LovesIowa
+"""been""","Kirksville, MO, USA",LovesIowa
+"""been""","Dearborn, MI, USA",LovesIowa
+"""been""","Killduff, IA, USA",LovesIowa
+"""been""","Kearney, NE, USA",LovesIowa
+"""been""","Rochester, MN, USA",LovesIowa
+"""been""","Keota, IA, USA",LovesIowa
+"""been""","Pella, IA, USA",LovesIowa
+"""been""","Keokuk, IA, USA",LovesIowa
+"""been""","Perry, IA, USA",LovesIowa
+"""been""","Keosauqua, IA, USA",LovesIowa
+"""been""","Albia, IA, USA",LovesIowa
+"""been""","Detroit, MI, USA",LovesIowa
+"""been""","Long Island City, NY, USA",LovesIowa
+"""want""","Sigatoka, Fiji",LovesIowa
+"""want""","Ka'anapali, HI, USA",LovesIowa
+"""been""","Fort Collins, CO, USA",LovesIowa
+"""been""","Orlando, FL, USA",LovesIowa
+"""been""","Fort Worth, TX, USA",LovesIowa
+"""been""","La Jolla, CA, USA",LovesIowa
+"""been"",""fave""","Telluride, CO, USA",LovesIowa
+"""been""","Rapid City, SD, USA",LovesIowa
+"""want""","Stavanger, Norway",LovesIowa
+"""been""","Pittsburgh, PA, USA",LovesIowa
+"""want""","Wailea, HI, USA",LovesIowa
+"""been""","Winter Haven, FL, USA",LovesIowa
+"""been"",""fave""","Steamboat Springs, CO, USA",LovesIowa
+"""been""","Owatonna, MN, USA",LovesIowa
+"""been""","Winona, MN, USA",LovesIowa
+"""been""","Aurora, CO, USA",LovesIowa
+"""been""","Aspen, CO, USA",LovesIowa
+"""been""","Birmingham, AL, USA",LovesIowa
+"""been""","Galveston, TX, USA",LovesIowa
+"""want""","Mae Nam, Thailand",LovesIowa
+"""been""","Lisbon, IA, USA",LovesIowa
+"""want""","Sant'Agnello, Italy",LovesIowa
+"""been""","Lime Springs, IA, USA",LovesIowa
+"""been""","Toledo, OH, USA",LovesIowa
+"""been""","Atalissa, IA, USA",LovesIowa
+"""been""","Joshua Tree, CA, USA",LovesIowa
+"""been""","Bethesda, MD, USA",LovesIowa
+"""want""","Reims, France",LovesIowa
+"""been""","Lenox, IA, USA",LovesIowa
+"""been""","Utica, MO, USA",LovesIowa
+"""been""","Osage Beach, MO, USA",LovesIowa
+"""been""","Leon, IA, USA",LovesIowa
+"""been""","Iron Mountain, MI, USA",LovesIowa
+"""been""","Wildwood, NJ, USA",LovesIowa
+"""been""","Delhi, IA, USA",LovesIowa
+"""been""","Austin, TX, USA",LovesIowa
+"""been""","Decorah, IA, USA",LovesIowa
+"""been""","De Soto, IA, USA",LovesIowa
+"""been""","Delaware, IA, USA",LovesIowa
+"""been""","Sterling, IL, USA",LovesIowa
+"""been""","Armstrong, IA, USA",LovesIowa
+"""been""","Mesa, AZ, USA",LovesIowa
+"""been""","Egg Harbor, WI, USA",LovesIowa
+"""want""","Rotterdam, The Netherlands",LovesIowa
+"""want""","Naples, Italy",LovesIowa
+"""been""","West Branch, IA, USA",LovesIowa
+"""want""","Hanalei, HI, USA",LovesIowa
+"""been""","Davenport, IA, USA",LovesIowa
+"""want""","Burlington, VT, USA",LovesIowa
+"""been""","Dallas, IA, USA",LovesIowa
+"""been""","Burbank, CA, USA",LovesIowa
+"""been""","Ephraim, WI, USA",LovesIowa
+"""been""","Ketchikan, AK, USA",LovesIowa
+"""been"",""fave""","Grand Lake, CO, USA",LovesIowa
+"""been""","Grand Junction, CO, USA",LovesIowa
+"""been""","Mankato, MN, USA",LovesIowa
+"""been""","Gatlinburg, TN, USA",LovesIowa
+"""been""","Greensboro, NC, USA",LovesIowa
+"""been"",""fave""","Charleston, SC, USA",LovesIowa
+"""want""","Rome, Italy",LovesIowa
+"""been""","Victor, ID, USA",LovesIowa
+"""been""","Palm Beach, FL, USA",LovesIowa
+"""want""","Broome, Australia",LovesIowa
+"""been""","Creston, IA, USA",LovesIowa
+"""been""","Golden, CO, USA",LovesIowa
+"""been""","Cresco, IA, USA",LovesIowa
+"""been""","Juneau, AK, USA",LovesIowa
+"""been""","Kailua-Kona, HI, USA",LovesIowa
+"""want""","Hana, HI, USA",LovesIowa
+"""want""","Bergen, Norway",LovesIowa
+"""want""","Kahului, HI, USA",LovesIowa
+"""been""","Columbia, SC, USA",LovesIowa
+"""been"",""fave""","Seattle, WA, USA",LovesIowa
+"""been""","Pigeon Forge, TN, USA",LovesIowa
+"""been""","Lahaina, HI, USA",LovesIowa
+"""been""","Skagway, AK, USA",LovesIowa
+"""been""","Madison, WI, USA",LovesIowa
+"""been""","Laredo, TX, USA",LovesIowa
+"""want""","Sainte-Luce, Martinique",LovesIowa
+"""been"",""fave""","La Quinta, CA, USA",LovesIowa
+"""been""","Bloomington, IN, USA",LovesIowa
+"""been""","Williamsburg, VA, USA",LovesIowa
+"""been""","Frisco, CO, USA",LovesIowa
+"""been""","Amarillo, TX, USA",LovesIowa
+"""been""","Laguna Beach, CA, USA",LovesIowa
+"""been""","Vail, CO, USA",LovesIowa
+"""been""","Fish Creek, WI, USA",LovesIowa
+"""been""","Fond du Lac, WI, USA",LovesIowa
+"""want""","New Orleans, LA, USA",LovesIowa
+"""been""","Custer, SD, USA",LovesIowa
+"""been""","Peoria, IL, USA",LovesIowa
+"""been""","Eddyville, IA, USA",LovesIowa
+"""been""","Windsor, UK",LovesIowa
+"""been""","Carlsbad, CA, USA",LovesIowa
+"""been""","San Jose, CA, USA",LovesIowa
+"""been""","Dysart, IA, USA",LovesIowa
+"""been""","Kissimmee, FL, USA",LovesIowa
+"""been""","Dyersville, IA, USA",LovesIowa
+"""been""","Leeds, UK",LovesIowa
+"""been""","Lake Ozark, MO, USA",LovesIowa
+"""been""","Baltimore, MD, USA",LovesIowa
+"""been""","Dodgeville, WI, USA",LovesIowa
+"""want""","Beaufort, SC, USA",LovesIowa
+"""been"",""fave""","Key West, FL, USA",LovesIowa
+"""been""","SeaTac, WA, USA",LovesIowa
+"""been""","Dubuque, IA, USA",LovesIowa
+"""been""","Lansing, MI, USA",LovesIowa
+"""been""","Nashville, TN, USA",LovesIowa
+"""want""","Christchurch, New Zealand",LovesIowa
+"""been""","Driggs, ID, USA",LovesIowa
+"""been""","Dows, IA, USA",LovesIowa
+"""want""","Madrid, Spain",LovesIowa
+"""been""","West Hollywood, CA, USA",LovesIowa
+"""been""","Princeton, NJ, USA",LovesIowa
+"""been""","Lincoln, NE, USA",LovesIowa
+"""been""","Brooklyn, NY, USA",LovesIowa
+"""been""","Eagle River, WI, USA",LovesIowa
+"""want""","Stowe, VT, USA",LovesIowa
+"""want""","Fairbanks, AK, USA",LovesIowa
+"""been""","Saint Cloud, MN, USA",LovesIowa
+"""been""","Jupiter, FL, USA",LovesIowa
+"""want""","Cala d'Or, Spain",LovesIowa
+"""want""","St. Lawrence Gap, Barbados",LovesIowa
+"""been""","Anse Marcel, St Martin \u002F St Maarten",LovesIowa
+"""been""","Donnellson, IA, USA",LovesIowa
+"""been""","Duluth, MN, USA",LovesIowa
+"""been""","St. Helena, CA, USA",LovesIowa
+"""been""","Page, AZ, USA",LovesIowa
+"""want""","Petra - Wadi Musa, Jordan",LovesIowa
+"""been""","Coeur d'Alene, ID, USA",LovesIowa
+"""been""","Diagonal, IA, USA",LovesIowa
+"""been""","Savannah, GA, USA",LovesIowa
+"""been""","Denver, IA, USA",LovesIowa
+"""been""","Calistoga, CA, USA",LovesIowa
+"""been""","Denison, IA, USA",LovesIowa
+"""been""","Eau Claire, WI, USA",LovesIowa
+"""been""","DeWitt, IA, USA",LovesIowa
+"""been""","Eden, WI, USA",LovesIowa
+"""been""","Des Moines, IA, USA",LovesIowa
+"""been""","Fujikawaguchiko-machi, Japan",LovesIowa
+"""want""","San Martin de los Andes, Argentina",LovesIowa
+"""been""","West Bend, IA, USA",LovesIowa
+"""been""","Belmont, WI, USA",LovesIowa
+"""been""","Battle Creek, IA, USA",LovesIowa
+"""been""","Beloit, WI, USA",LovesIowa
+"""want""","Anse Volbert, Seychelles",LovesIowa
+"""been""","West Des Moines, IA, USA",LovesIowa
+"""been""","Wellman, IA, USA",LovesIowa
+"""been""","Louisville, KY, USA",LovesIowa
+"""want""","Umhlanga Rocks, South Africa",LovesIowa
+"""been""","Webster City, IA, USA",LovesIowa
+"""want""","Kilkenny, Ireland",LovesIowa
+"""been""","Coral Gables, FL, USA",LovesIowa
+"""been""","Hershey, PA, USA",LovesIowa
+"""want""","Bridgetown, Barbados",LovesIowa
+"""been""","Racine, WI, USA",LovesIowa
+"""been""","Kyoto, Japan",LovesIowa
+"""been""","Manchester, NH, USA",LovesIowa
+"""want""","Palm - Eagle Beach, Aruba",LovesIowa
+"""been""","Nagasaki, Japan",LovesIowa
+"""been""","Osaka, Japan",LovesIowa
+"""been""","Waukon, IA, USA",LovesIowa
+"""been""","Waverly, IA, USA",LovesIowa
+"""been""","Fairfield, IA, USA",LovesIowa
+"""been""","Wayland, IA, USA",LovesIowa
+"""been""","Cocoa Beach, FL, USA",LovesIowa
+"""been""","Williamstown, MA, USA",LovesIowa
+"""been""","Estherville, IA, USA",LovesIowa
+"""been""","Waterloo, IA, USA",LovesIowa
+"""been""","Marion, IL, USA",LovesIowa
+"""been""","Santa Monica, CA, USA",LovesIowa
+"""been""","Cody, WY, USA",LovesIowa
+"""been""","Santa Rosa, CA, USA",LovesIowa
+"""been""","Clearwater, FL, USA",LovesIowa
+"""been""","Portage, WI, USA",LovesIowa
+"""been""","Newport, OR, USA",LovesIowa
+"""been""","Santa Barbara, CA, USA",LovesIowa
+"""been""","Emmetsburg, IA, USA",LovesIowa
+"""been""","Santa Cruz, CA, USA",LovesIowa
+"""want""","Saintes-Maries-de-la-Mer, France",LovesIowa
+"""been""","Richland Center, WI, USA",LovesIowa
+"""been""","Ellsworth, IA, USA",LovesIowa
+"""been""","Santa Ana, CA, USA",LovesIowa
+"""been""","St. John's, Antigua and Barbuda",LovesIowa
+"""been""","Sapporo, Japan",LovesIowa
+"""been""","Ripon, WI, USA",LovesIowa
+"""been""","Big Sky, MT, USA",LovesIowa
+"""been""","Winston Salem, NC, USA",LovesIowa
+"""been""","Billings, MT, USA",LovesIowa
+"""been""","Elkader, IA, USA",LovesIowa
+"""want""","Cassis, France",LovesIowa
+"""been""","Overland Park, KS, USA",LovesIowa
+"""been""","Macomb, IL, USA",LovesIowa
+"""been""","Celebration, FL, USA",LovesIowa
+"""been""","Bend, OR, USA",LovesIowa
+"""been""","Bloomington, IL, USA",LovesIowa
+"""been""","Eldora, IA, USA",LovesIowa
+"""been""","Reedsburg, WI, USA",LovesIowa
+"""been""","Rhinelander, WI, USA",LovesIowa
+"""been""","Okayama, Japan",LovesIowa
+"""been""","Williamson, WV, USA",LovesIowa
+"""been""","Quasqueton, IA, USA",LovesIowa
+"""want""","Placencia, Belize",LovesIowa
+"""been""","Kahuku, HI, USA",LovesIowa
+"""want""","San Ignacio, Belize",LovesIowa
+"""been""","Cambridge, MA, USA",LovesIowa
+"""want""","Kailua, HI, USA",LovesIowa
+"""been""","Atlanta, GA, USA",LovesIowa
+"""want""","Wailuku, HI, USA",LovesIowa
+"""want""","Santo Domingo, Dominican Republic",LovesIowa
+"""been""","Wyoming, IA, USA",LovesIowa
+"""been""","Lincoln City, OR, USA",LovesIowa
+"""been""","Postville, IA, USA",LovesIowa
+"""been""","Prairie City, IA, USA",LovesIowa
+"""been""","Winthrop, IA, USA",LovesIowa
+"""been""","Bloomfield, IA, USA",LovesIowa
+"""been""","Boone, IA, USA",LovesIowa
+"""been""","Winterset, IA, USA",LovesIowa
+"""been""","Omaha, NE, USA",LovesIowa
+"""want""","Haleiwa, HI, USA",LovesIowa
+"""want""","Big Bear Lake, CA, USA",LovesIowa
+"""been""","Wisconsin Dells, WI, USA",LovesIowa
+"""been""","Springfield, IL, USA",LovesIowa
+"""been""","Wisconsin Rapids, WI, USA",LovesIowa
+"""been""","Takayama, Japan",LovesIowa
+"""been"",""fave""","Washington DC, DC, USA",LovesIowa
+"""want""","Mont-Saint-Michel, France",LovesIowa
+"""been""","Kanazawa, Japan",LovesIowa
+"""been""","Williamsburg, IA, USA",LovesIowa
+"""been""","Indianapolis, IN, USA",LovesIowa
+"""been""","Wheatland, IA, USA",LovesIowa
+"""been""","Bettendorf, IA, USA",LovesIowa
+"""been""","Daytona Beach, FL, USA",LovesIowa
+"""been""","Cheyenne, WY, USA",LovesIowa
+"""want""","Flic En Flac, Africa",LovesIowa
+"""want""","Pointe Aux Piments, Africa",LovesIowa
+"""been""","Portland, ME, USA",LovesIowa
+"""been""","Benton, IA, USA",LovesIowa
+"""been""","What Cheer, IA, USA",LovesIowa
+"""been""","West Union, IA, USA",LovesIowa
+"""want""","Belize City, Belize",LovesIowa
+"""been""","Medford, OR, USA",LovesIowa
+"""been""","West Liberty, IA, USA",LovesIowa
+"""want""","San Pedro, Belize",LovesIowa
+"""want""","Waianae, HI, USA",LovesIowa
+"""been""","Bellevue, IA, USA",LovesIowa
+"""been""","Belle Plaine, IA, USA",LovesIowa
+"""been""","Oyster Pond, St Martin \u002F St Maarten",LovesIowa
+"""been""","Baraboo, WI, USA",LovesIowa
+"""been""","Paradise Island, Bahamas",LovesIowa
+"""been""","Nassau, Bahamas",LovesIowa
+"""been""","Caneel Bay, U.S. Virgin Islands",LovesIowa
+"""been""","Oceanside, CA, USA",LovesIowa
+"""been""","Zion National Park, UT, USA",LovesIowa
+"""want""","Saskatoon, Saskatchewan, Canada",LovesIowa
+"""been""","State College, PA, USA",LovesIowa
+"""been""","Plymouth, MA, USA",LovesIowa
+"""been""","Manitowoc, WI, USA",LovesIowa
+"""been""","Freeport, Bahamas",LovesIowa
+"""been""","Charlotte, NC, USA",LovesIowa
+"""been""","St. Thomas, U.S. Virgin Islands",LovesIowa
+"""been""","Chapel Hill, NC, USA",LovesIowa
+"""been""","St. Croix, U.S. Virgin Islands",LovesIowa
+"""want""","Montreal, Quebec, Canada",LovesIowa
+"""been""","Kennebunkport, ME, USA",LovesIowa
+"""been""","Sister Bay, WI, USA",LovesIowa
+"""been"",""fave""","Kennebunk, ME, USA",LovesIowa
+"""been""","Riverside, IA, USA",LovesIowa
+"""been""","Kittery, ME, USA",LovesIowa
+"""been""","Dallas, TX, USA",LovesIowa
+"""been""","Cancun, Mexico",LovesIowa
+"""want""","San Jose, Costa Rica",LovesIowa
+"""been""","Riceville, IA, USA",LovesIowa
+"""been""","Bloomington, MN, USA",LovesIowa
+"""been""","Sault Ste. Marie, Ontario, Canada",LovesIowa
+"""been""","Toronto, Ontario, Canada",LovesIowa
+"""been""","Grand Canyon National Park, AZ, USA",LovesIowa
+"""been""","Death Valley National Park, CA, USA",LovesIowa
+"""been""","West Fargo, ND, USA",LovesIowa
+"""been""","Reinbeck, IA, USA",LovesIowa
+"""been""","Grand Teton National Park, WY, USA",LovesIowa
+"""been""","Red Oak, IA, USA",LovesIowa
+"""been""","Saint Paul, MN, USA",LovesIowa
+"""been""","Moline, IL, USA",LovesIowa
+"""been""","Carson City, NV, USA",LovesIowa
+"""been""","Blue Diamond, NV, USA",LovesIowa
+"""been""","Saint Peter, MN, USA",LovesIowa
+"""been""","Pasadena, CA, USA",LovesIowa
+"""been""","Cleveland, OH, USA",LovesIowa
+"""been""","Sioux Falls, SD, USA",LovesIowa
+"""been""","Winter Park, CO, USA",LovesIowa
+"""been""","Sioux Center, IA, USA",LovesIowa
+"""been""","Jackson, WY, USA",LovesIowa
+"""been""","McGregor, IA, USA",LovesIowa
+"""been""","Maxwell, IA, USA",LovesIowa
+"""been""","Sigourney, IA, USA",LovesIowa
+"""been""","Sheldon, IA, USA",LovesIowa
+"""been""","La Crosse, WI, USA",LovesIowa
+"""been""","Freeport, ME, USA",LovesIowa
+"""been""","Raleigh, NC, USA",LovesIowa
+"""want""","Tromso, Norway",LovesIowa
+"""been"",""fave""","Palm Springs, CA, USA",LovesIowa
+"""been""","Palm Desert, CA, USA",LovesIowa
+"""want""","Playa Samara, Costa Rica",LovesIowa
+"""want""","Oslo, Norway",LovesIowa
+"""want""","Biarritz, France",LovesIowa
+"""been""","Martensdale, IA, USA",LovesIowa
+"""been""","Sheffield, IA, USA",LovesIowa
+"""been""","Mason City, IA, USA",LovesIowa
+"""been""","Seymour, IA, USA",LovesIowa
+"""been""","Rock Springs, WI, USA",LovesIowa
+"""been""","Marshalltown, IA, USA",LovesIowa
+"""been""","Kenosha, WI, USA",LovesIowa
+"""been""","Marion, IA, USA",LovesIowa
+"""been""","Cannon Beach, OR, USA",LovesIowa
+"""want""","Vichy, France",LovesIowa
+"""been""","Marengo, IA, USA",LovesIowa
+"""been""","Columbus, OH, USA",LovesIowa
+"""been""","Maquoketa, IA, USA",LovesIowa
+"""been"",""fave""","Sheboygan, WI, USA",LovesIowa
+"""been""","Ogden, UT, USA",LovesIowa
+"""been""","Kankakee, IL, USA",LovesIowa
+"""want""","Ninh Binh, Vietnam",LovesIowa
+"""been""","Big Sur, CA, USA",LovesIowa
+"""been""","Manly, IA, USA",LovesIowa
+"""want""","Denarau Island, Fiji",LovesIowa
+"""want""","Stellenbosch, South Africa",LovesIowa
+"""want""","Saint-Jean-de-Luz, France",LovesIowa
+"""been""","Shreveport, LA, USA",LovesIowa
+"""been""","Orange, CA, USA",LovesIowa
+"""been""","Tuscaloosa, AL, USA",LovesIowa
+"""been""","Oklahoma City, OK, USA",LovesIowa
+"""want""","Trondheim, Norway",LovesIowa
+"""been""","Manchester, IA, USA",LovesIowa
+"""been""","Macksburg, IA, USA",LovesIowa
+"""been""","Saint Ansgar, IA, USA",LovesIowa
+"""been""","Joliet, IL, USA",LovesIowa
+"""been""","Bowling Green, KY, USA",LovesIowa
+"""been""","Lynnville, IA, USA",LovesIowa
+"""been""","Sac City, IA, USA",LovesIowa
+"""been""","Lake Geneva, WI, USA",LovesIowa

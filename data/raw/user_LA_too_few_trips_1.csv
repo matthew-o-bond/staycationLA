@@ -1,0 +1,414 @@
+tag,place,user
+"""been""","Templeton, CA, USA",too_few_trips_1
+"""been""","Santa Barbara, CA, USA",too_few_trips_1
+"""been""","Santa Cruz, CA, USA",too_few_trips_1
+"""been""","Beverly Hills, CA, USA",too_few_trips_1
+"""been""","Temecula, CA, USA",too_few_trips_1
+"""been""","San Miguel de Allende, Mexico",too_few_trips_1
+"""been""","Santa Ana, CA, USA",too_few_trips_1
+"""been""","Stateline, NV, USA",too_few_trips_1
+"""been""","Macau, China",too_few_trips_1
+"""been""","Campeche, Mexico",too_few_trips_1
+"""been""","Kapolei, HI, USA",too_few_trips_1
+"""been""","Junction, TX, USA",too_few_trips_1
+"""been""","Berkeley, CA, USA",too_few_trips_1
+"""been""","Kailua, HI, USA",too_few_trips_1
+"""been""","El Yunque National Forest, Puerto Rico",too_few_trips_1
+"""been""","Atlanta, GA, USA",too_few_trips_1
+"""been""","Mililani, HI, USA",too_few_trips_1
+"""been""","Schaumburg, IL, USA",too_few_trips_1
+"""been""","San Juan, Puerto Rico",too_few_trips_1
+"""been""","Bloomington, IL, USA",too_few_trips_1
+"""been""","Gainesville, FL, USA",too_few_trips_1
+"""been""","Portland, ME, USA",too_few_trips_1
+"""been""","Dayton, OR, USA",too_few_trips_1
+"""been""","Deer Park, IL, USA",too_few_trips_1
+"""been""","Ocracoke, NC, USA",too_few_trips_1
+"""been""","Waianae, HI, USA",too_few_trips_1
+"""want""","Budapest, Hungary",too_few_trips_1
+"""been""","San Luis Obispo, CA, USA",too_few_trips_1
+"""been""","Denver, CO, USA",too_few_trips_1
+"""been""","Lockhart, TX, USA",too_few_trips_1
+"""been""","Carlsbad, CA, USA",too_few_trips_1
+"""been""","San Jose, CA, USA",too_few_trips_1
+"""been""","San Juan Capistrano, CA, USA",too_few_trips_1
+"""been""","Siena, Italy",too_few_trips_1
+"""been""","McMinnville, OR, USA",too_few_trips_1
+"""been""","King of Prussia, PA, USA",too_few_trips_1
+"""been""","Maipu, Argentina",too_few_trips_1
+"""been""","Staten Island, NY, USA",too_few_trips_1
+"""been""","Dundee, OR, USA",too_few_trips_1
+"""been""","Queretaro City, Mexico",too_few_trips_1
+"""been""","Hershey, PA, USA",too_few_trips_1
+"""been""","San Clemente, CA, USA",too_few_trips_1
+"""been""","Del Mar, CA, USA",too_few_trips_1
+"""been""","Gettysburg, PA, USA",too_few_trips_1
+"""been""","Philadelphia, PA, USA",too_few_trips_1
+"""been""","Sancerre, France",too_few_trips_1
+"""been""","Champaign, IL, USA",too_few_trips_1
+"""been""","Eugene, OR, USA",too_few_trips_1
+"""been""","Newport News, VA, USA",too_few_trips_1
+"""been""","Davis, CA, USA",too_few_trips_1
+"""been""","Merida, Mexico",too_few_trips_1
+"""been""","Tulum, Mexico",too_few_trips_1
+"""been""","West Hollywood, CA, USA",too_few_trips_1
+"""been""","Playa del Carmen, Mexico",too_few_trips_1
+"""been""","Bronx, NY, USA",too_few_trips_1
+"""been""","Koror, Palau",too_few_trips_1
+"""been""","Williamstown, MA, USA",too_few_trips_1
+"""been""","Montreal, Quebec, Canada",too_few_trips_1
+"""been""","Waimea, HI, USA",too_few_trips_1
+"""been""","Veracruz, Mexico",too_few_trips_1
+"""been""","Campbell, CA, USA",too_few_trips_1
+"""been""","Joshua Tree National Park, CA, USA",too_few_trips_1
+"""been""","Stanton, CA, USA",too_few_trips_1
+"""been""","Chichen Itza, Mexico",too_few_trips_1
+"""been""","Dana Point, CA, USA",too_few_trips_1
+"""been""","Cancun, Mexico",too_few_trips_1
+"""been""","San Salvador, El Salvador",too_few_trips_1
+"""been""","Toronto, Ontario, Canada",too_few_trips_1
+"""been""","Mexico City, Mexico",too_few_trips_1
+"""been""","San Cristobal de las Casas, Mexico",too_few_trips_1
+"""been""","Cupertino, CA, USA",too_few_trips_1
+"""been""","Oaxaca, Mexico",too_few_trips_1
+"""been""","Bologna, Italy",too_few_trips_1
+"""been""","Naalehu, HI, USA",too_few_trips_1
+"""been""","Charlotte Amalie, U.S. Virgin Islands",too_few_trips_1
+"""been""","St. Thomas, U.S. Virgin Islands",too_few_trips_1
+"""been""","Bangor, ME, USA",too_few_trips_1
+"""been""","Worcester, MA, USA",too_few_trips_1
+"""been""","Anaheim, CA, USA",too_few_trips_1
+"""been""","Dublin, Ireland",too_few_trips_1
+"""been""","Captain Cook, HI, USA",too_few_trips_1
+"""been""","Rockford, IL, USA",too_few_trips_1
+"""been""","Managua, Nicaragua",too_few_trips_1
+"""been""","Beach Haven, NJ, USA",too_few_trips_1
+"""been""","Miami Beach, FL, USA",too_few_trips_1
+"""been""","Hilo, HI, USA",too_few_trips_1
+"""been""","Galway, Ireland",too_few_trips_1
+"""been""","Austin, TX, USA",too_few_trips_1
+"""been""","Tallahassee, FL, USA",too_few_trips_1
+"""been""","Costa Mesa, CA, USA",too_few_trips_1
+"""been""","Hollister, CA, USA",too_few_trips_1
+"""been""","Solvang, CA, USA",too_few_trips_1
+"""been""","Miami, FL, USA",too_few_trips_1
+"""been""","Sonoma, CA, USA",too_few_trips_1
+"""been""","Tampa, FL, USA",too_few_trips_1
+"""been""","Hermosa Beach, CA, USA",too_few_trips_1
+"""been""","Fairborn, OH, USA",too_few_trips_1
+"""been""","Coronado, CA, USA",too_few_trips_1
+"""been""","Howth, Ireland",too_few_trips_1
+"""been""","Genoa, Italy",too_few_trips_1
+"""been""","Rio Grande, Puerto Rico",too_few_trips_1
+"""been""","Buena Park, CA, USA",too_few_trips_1
+"""been""","Buellton, CA, USA",too_few_trips_1
+"""been""","Balboa Island, CA, USA",too_few_trips_1
+"""been""","Banos, Ecuador",too_few_trips_1
+"""been""","Corona del Mar, CA, USA",too_few_trips_1
+"""been""","Freeport, ME, USA",too_few_trips_1
+"""been""","Healdsburg, CA, USA",too_few_trips_1
+"""been""","Cleveland, OH, USA",too_few_trips_1
+"""been""","Bellagio, Italy",too_few_trips_1
+"""been""","Nuevo Vallarta, Mexico",too_few_trips_1
+"""been""","Raleigh, NC, USA",too_few_trips_1
+"""been""","Ka'anapali, HI, USA",too_few_trips_1
+"""been""","Hong Kong, China",too_few_trips_1
+"""been""","Chicopee, MA, USA",too_few_trips_1
+"""been""","Palm Beach, FL, USA",too_few_trips_1
+"""been""","Colfax, CA, USA",too_few_trips_1
+"""been""","Lake Forest, CA, USA",too_few_trips_1
+"""been""","Turners Falls, MA, USA",too_few_trips_1
+"""been""","Park City, UT, USA",too_few_trips_1
+"""been""","Boulder, CO, USA",too_few_trips_1
+"""been""","Upland, CA, USA",too_few_trips_1
+"""been""","Escondido, CA, USA",too_few_trips_1
+"""been""","Warwick, UK",too_few_trips_1
+"""been""","Laguna Niguel, CA, USA",too_few_trips_1
+"""been""","Cuenca, Ecuador",too_few_trips_1
+"""been""","Milan, Italy",too_few_trips_1
+"""been""","Udon Thani, Thailand",too_few_trips_1
+"""been""","Santiago, Chile",too_few_trips_1
+"""been""","Agoura Hills, CA, USA",too_few_trips_1
+"""been""","Flamingos, Mexico",too_few_trips_1
+"""been""","Quito, Ecuador",too_few_trips_1
+"""been""","Laguna Beach, CA, USA",too_few_trips_1
+"""been""","Vail, CO, USA",too_few_trips_1
+"""been""","Orange, MA, USA",too_few_trips_1
+"""been""","Laguna Hills, CA, USA",too_few_trips_1
+"""been""","Kilfenora, Ireland",too_few_trips_1
+"""been""","Edinburgh, UK",too_few_trips_1
+"""been""","Turin, Italy",too_few_trips_1
+"""been""","Coventry, UK",too_few_trips_1
+"""been""","Deerfield, MA, USA",too_few_trips_1
+"""been""","Arequipa, Peru",too_few_trips_1
+"""been""","Cusco, Peru",too_few_trips_1
+"""been""","Carolina Beach, NC, USA",too_few_trips_1
+"""been""","Lima, Peru",too_few_trips_1
+"""been""","Machu Picchu, Peru",too_few_trips_1
+"""been""","Ogunquit, ME, USA",too_few_trips_1
+"""been""","Orlando, FL, USA",too_few_trips_1
+"""been""","Alpine, TX, USA",too_few_trips_1
+"""been""","La Jolla, CA, USA",too_few_trips_1
+"""been""","Brindisi, Italy",too_few_trips_1
+"""been""","Venice, Italy",too_few_trips_1
+"""been""","Surat Thani, Thailand",too_few_trips_1
+"""been""","Doolin, Ireland",too_few_trips_1
+"""been""","Akumal, Mexico",too_few_trips_1
+"""been""","Kill Devil Hills, NC, USA",too_few_trips_1
+"""been""","Marina del Rey, CA, USA",too_few_trips_1
+"""been""","Provincetown, MA, USA",too_few_trips_1
+"""been""","Nags Head, NC, USA",too_few_trips_1
+"""been""","Puerto Escondido, Mexico",too_few_trips_1
+"""been""","Harrisburg, PA, USA",too_few_trips_1
+"""been""","Madrid, Spain",too_few_trips_1
+"""been""","Goleta, CA, USA",too_few_trips_1
+"""been""","Las Cruces, NM, USA",too_few_trips_1
+"""been""","Kitty Hawk, NC, USA",too_few_trips_1
+"""been""","Kennebunkport, ME, USA",too_few_trips_1
+"""been""","Hat Yai, Thailand",too_few_trips_1
+"""been""","Kennebunk, ME, USA",too_few_trips_1
+"""been""","Liscannor, Ireland",too_few_trips_1
+"""been""","Malibu, CA, USA",too_few_trips_1
+"""been""","Manhattan Beach, CA, USA",too_few_trips_1
+"""been""","Dallas, TX, USA",too_few_trips_1
+"""been""","Florence, Italy",too_few_trips_1
+"""been""","Palermo, Italy",too_few_trips_1
+"""been""","St. Petersburg, FL, USA",too_few_trips_1
+"""been""","Rockport, MA, USA",too_few_trips_1
+"""been""","Los Olivos, CA, USA",too_few_trips_1
+"""been""","Annapolis, MD, USA",too_few_trips_1
+"""been""","Arlington, VA, USA",too_few_trips_1
+"""been""","Garden Grove, CA, USA",too_few_trips_1
+"""been""","Naples, Italy",too_few_trips_1
+"""been""","Newport Beach, CA, USA",too_few_trips_1
+"""been""","Pisa, Italy",too_few_trips_1
+"""been""","Lucca, Italy",too_few_trips_1
+"""been""","Chicago, IL, USA",too_few_trips_1
+"""been""","Pismo Beach, CA, USA",too_few_trips_1
+"""been""","Long Island City, NY, USA",too_few_trips_1
+"""been""","Irvine, CA, USA",too_few_trips_1
+"""been""","Stockholm, Sweden",too_few_trips_1
+"""been""","Fresno, CA, USA",too_few_trips_1
+"""been""","Windsor Locks, CT, USA",too_few_trips_1
+"""been""","Kinvara, Ireland",too_few_trips_1
+"""been""","Los Angeles, CA, USA",too_few_trips_1
+"""been""","Cambridge, UK",too_few_trips_1
+"""been""","Brussels, Belgium",too_few_trips_1
+"""been""","Cardiff, UK",too_few_trips_1
+"""been""","Rome, Italy",too_few_trips_1
+"""been""","Alcala De Henares, Spain",too_few_trips_1
+"""been""","London, UK",too_few_trips_1
+"""been""","Alexandria, VA, USA",too_few_trips_1
+"""been""","Inglewood, CA, USA",too_few_trips_1
+"""been""","Milwaukee, WI, USA",too_few_trips_1
+"""been""","Long Beach, CA, USA",too_few_trips_1
+"""been""","Avalon, CA, USA",too_few_trips_1
+"""been""","Palenque, Mexico",too_few_trips_1
+"""been""","New Haven, CT, USA",too_few_trips_1
+"""been""","Phoenix, AZ, USA",too_few_trips_1
+"""been""","Imperial Beach, CA, USA",too_few_trips_1
+"""been""","Napa, CA, USA",too_few_trips_1
+"""been""","Lompoc, CA, USA",too_few_trips_1
+"""been""","Waco, TX, USA",too_few_trips_1
+"""been""","Fredericksburg, TX, USA",too_few_trips_1
+"""been""","Berlin, Germany",too_few_trips_1
+"""want""","South Lake Tahoe, CA, USA",too_few_trips_1
+"""been""","Seville, Spain",too_few_trips_1
+"""want""","Marbella, Spain",too_few_trips_1
+"""been""","Fort Worth, TX, USA",too_few_trips_1
+"""been""","Sacramento, CA, USA",too_few_trips_1
+"""been""","Aguas Calientes, Peru",too_few_trips_1
+"""been""","Arroyo Grande, CA, USA",too_few_trips_1
+"""been""","Huntington Beach, CA, USA",too_few_trips_1
+"""been""","Greenfield, MA, USA",too_few_trips_1
+"""been""","Tlaquepaque, Mexico",too_few_trips_1
+"""been""","Wichita, KS, USA",too_few_trips_1
+"""been""","Oxford, UK",too_few_trips_1
+"""been""","Ixtapa, Mexico",too_few_trips_1
+"""been""","Pittsburgh, PA, USA",too_few_trips_1
+"""been""","Morro Bay, CA, USA",too_few_trips_1
+"""been""","San Jose, Costa Rica",too_few_trips_1
+"""been""","Oahu, HI, USA",too_few_trips_1
+"""been""","Rockville, MD, USA",too_few_trips_1
+"""been""","Linthicum Heights, MD, USA",too_few_trips_1
+"""been""","Hadley, MA, USA",too_few_trips_1
+"""been""","Paso Robles, CA, USA",too_few_trips_1
+"""been""","Athens, Greece",too_few_trips_1
+"""been""","Brenham, TX, USA",too_few_trips_1
+"""been""","Driftwood, TX, USA",too_few_trips_1
+"""been""","Cannes, France",too_few_trips_1
+"""been""","Las Vegas, NV, USA",too_few_trips_1
+"""been""","Wildwood Crest, NJ, USA",too_few_trips_1
+"""been""","Wildwood, NJ, USA",too_few_trips_1
+"""been""","Island of Hawaii, HI, USA",too_few_trips_1
+"""been""","Kauai, HI, USA",too_few_trips_1
+"""been""","Galveston, TX, USA",too_few_trips_1
+"""been""","Frankfurt, Germany",too_few_trips_1
+"""been""","Monterey, CA, USA",too_few_trips_1
+"""been""","Riverside, CA, USA",too_few_trips_1
+"""been""","Bethesda, MD, USA",too_few_trips_1
+"""been""","St. Michaels, MD, USA",too_few_trips_1
+"""been""","Durham, NC, USA",too_few_trips_1
+"""been""","Portland, OR, USA",too_few_trips_1
+"""been""","Nice, France",too_few_trips_1
+"""been""","Puako, HI, USA",too_few_trips_1
+"""been""","San Marcos, TX, USA",too_few_trips_1
+"""been""","College Station, TX, USA",too_few_trips_1
+"""been""","Silver Spring, MD, USA",too_few_trips_1
+"""been""","Palm Springs, CA, USA",too_few_trips_1
+"""been""","Palm Desert, CA, USA",too_few_trips_1
+"""been""","Palo Alto, CA, USA",too_few_trips_1
+"""been""","Palmdale, CA, USA",too_few_trips_1
+"""been""","Colonia del Sacramento, Uruguay",too_few_trips_1
+"""been""","Mission Viejo, CA, USA",too_few_trips_1
+"""been""","Toledo, Spain",too_few_trips_1
+"""been""","Tokyo, Japan",too_few_trips_1
+"""been""","Fairfax, VA, USA",too_few_trips_1
+"""been""","Ann Arbor, MI, USA",too_few_trips_1
+"""been""","Redondo Beach, CA, USA",too_few_trips_1
+"""been""","Hartford, CT, USA",too_few_trips_1
+"""been""","Wailea, HI, USA",too_few_trips_1
+"""been""","Oxnard, CA, USA",too_few_trips_1
+"""been""","Cologne, Germany",too_few_trips_1
+"""been""","Lexington, KY, USA",too_few_trips_1
+"""been""","Frederick, MD, USA",too_few_trips_1
+"""been""","Barcelona, Spain",too_few_trips_1
+"""been""","Marseille, France",too_few_trips_1
+"""been""","Reno, NV, USA",too_few_trips_1
+"""been""","Ontario, CA, USA",too_few_trips_1
+"""been""","Orange, CA, USA",too_few_trips_1
+"""been""","Albany, NY, USA",too_few_trips_1
+"""been""","Gaithersburg, MD, USA",too_few_trips_1
+"""been""","Orcutt, CA, USA",too_few_trips_1
+"""been""","Haarlem, The Netherlands",too_few_trips_1
+"""been""","Amsterdam, The Netherlands",too_few_trips_1
+"""been""","Rancho Mirage, CA, USA",too_few_trips_1
+"""been""","Paris, France",too_few_trips_1
+"""been""","Zurich, Switzerland",too_few_trips_1
+"""been""","Oceanside, CA, USA",too_few_trips_1
+"""been""","Salt Lake City, UT, USA",too_few_trips_1
+"""been""","Oakland, CA, USA",too_few_trips_1
+"""been""","Detroit, MI, USA",too_few_trips_1
+"""want""","Victoria, British Columbia, Canada",too_few_trips_1
+"""been""","Jacksonville, FL, USA",too_few_trips_1
+"""been""","Corpus Christi, TX, USA",too_few_trips_1
+"""been""","Vancouver, British Columbia, Canada",too_few_trips_1
+"""been""","Oxon Hill, MD, USA",too_few_trips_1
+"""been""","Lujan de Cuyo, Argentina",too_few_trips_1
+"""been""","Carolina, Puerto Rico",too_few_trips_1
+"""been""","Bangkok, Thailand",too_few_trips_1
+"""been""","Chiang Mai, Thailand",too_few_trips_1
+"""been""","Zacatecas, Mexico",too_few_trips_1
+"""been""","Ocean City, MD, USA",too_few_trips_1
+"""been""","Schiphol, The Netherlands",too_few_trips_1
+"""been""","SeaTac, WA, USA",too_few_trips_1
+"""been""","Playa Mujeres, Mexico",too_few_trips_1
+"""been""","Beckley, WV, USA",too_few_trips_1
+"""been""","Ithaca, NY, USA",too_few_trips_1
+"""been""","Cabo San Lucas, Mexico",too_few_trips_1
+"""been""","San Jose del Cabo, Mexico",too_few_trips_1
+"""been""","Hagerstown, MD, USA",too_few_trips_1
+"""been""","Princeton, NJ, USA",too_few_trips_1
+"""been""","Atlantic City, NJ, USA",too_few_trips_1
+"""been""","Hanover, MD, USA",too_few_trips_1
+"""been""","Buenos Aires, Argentina",too_few_trips_1
+"""been""","Mestre, Italy",too_few_trips_1
+"""been""","Brooklyn, NY, USA",too_few_trips_1
+"""been""","Nashville, IN, USA",too_few_trips_1
+"""been""","Providence, RI, USA",too_few_trips_1
+"""been""","Sonora, TX, USA",too_few_trips_1
+"""been""","Lille, France",too_few_trips_1
+"""been""","Berchtesgaden, Germany",too_few_trips_1
+"""been""","Plymouth, CA, USA",too_few_trips_1
+"""been""","Bucerias, Mexico",too_few_trips_1
+"""been""","Albuquerque, NM, USA",too_few_trips_1
+"""been""","Vienna, Austria",too_few_trips_1
+"""been""","Baltimore, MD, USA",too_few_trips_1
+"""been""","Zihuatanejo, Mexico",too_few_trips_1
+"""been""","Guadalajara, Mexico",too_few_trips_1
+"""been""","Savannah, GA, USA",too_few_trips_1
+"""been""","Cuernavaca, Mexico",too_few_trips_1
+"""been""","Manchester, UK",too_few_trips_1
+"""been""","Luling, TX, USA",too_few_trips_1
+"""been""","Jersey City, NJ, USA",too_few_trips_1
+"""been""","Belize City, Belize",too_few_trips_1
+"""been""","Round Rock, TX, USA",too_few_trips_1
+"""been""","Manila, Philippines",too_few_trips_1
+"""been""","Harpers Ferry, WV, USA",too_few_trips_1
+"""want""","Acapulco, Mexico",too_few_trips_1
+"""been""","Knoxville, TN, USA",too_few_trips_1
+"""been""","Huatulco, Mexico",too_few_trips_1
+"""been""","Kuala Lumpur, Malaysia",too_few_trips_1
+"""been""","Puerto Vallarta, Mexico",too_few_trips_1
+"""been""","Tucson, AZ, USA",too_few_trips_1
+"""been""","New Braunfels, TX, USA",too_few_trips_1
+"""been""","San Francisco, CA, USA",too_few_trips_1
+"""been""","San Antonio, TX, USA",too_few_trips_1
+"""been""","Oslo, Norway",too_few_trips_1
+"""been""","Nagoya, Japan",too_few_trips_1
+"""been""","Tijuana, Mexico",too_few_trips_1
+"""been""","Santa Fe, NM, USA",too_few_trips_1
+"""been""","Geneva, Switzerland",too_few_trips_1
+"""been""","Port Aransas, TX, USA",too_few_trips_1
+"""been""","Monterrey, Mexico",too_few_trips_1
+"""been""","Liberia, Costa Rica",too_few_trips_1
+"""been""","Newark, NJ, USA",too_few_trips_1
+"""been""","Koloa, HI, USA",too_few_trips_1
+"""been""","New Orleans, LA, USA",too_few_trips_1
+"""been""","Honolulu, HI, USA",too_few_trips_1
+"""been""","Kilauea, HI, USA",too_few_trips_1
+"""been""","Lisbon, Portugal",too_few_trips_1
+"""been""","Seoul, South Korea",too_few_trips_1
+"""been""","Poipu, HI, USA",too_few_trips_1
+"""been""","Princeville, HI, USA",too_few_trips_1
+"""been""","Indianapolis, IN, USA",too_few_trips_1
+"""been""","Lihue, HI, USA",too_few_trips_1
+"""been""","Boston, MA, USA",too_few_trips_1
+"""been""","Waimea, HI, USA",too_few_trips_1
+"""been""","Houston, TX, USA",too_few_trips_1
+"""been""","Mendoza, Argentina",too_few_trips_1
+"""been""","La Paz, Bolivia",too_few_trips_1
+"""been""","Agrelo, Argentina",too_few_trips_1
+"""been""","Big Sur, CA, USA",too_few_trips_1
+"""been""","San Diego, CA, USA",too_few_trips_1
+"""been""","Washington DC, DC, USA",too_few_trips_1
+"""been""","Puno, Peru",too_few_trips_1
+"""been""","Williamsburg, VA, USA",too_few_trips_1
+"""been""","Rehoboth Beach, DE, USA",too_few_trips_1
+"""been""","Hanapepe, HI, USA",too_few_trips_1
+"""been""","Newport, RI, USA",too_few_trips_1
+"""been""","Winchester, VA, USA",too_few_trips_1
+"""been""","Kapaa, HI, USA",too_few_trips_1
+"""been""","Laredo, TX, USA",too_few_trips_1
+"""been""","Tustin, CA, USA",too_few_trips_1
+"""been""","McAllen, TX, USA",too_few_trips_1
+"""been""","Ocean City, NJ, USA",too_few_trips_1
+"""been""","Guayaquil, Ecuador",too_few_trips_1
+"""been""","Omaha, NE, USA",too_few_trips_1
+"""been""","Seal Beach, CA, USA",too_few_trips_1
+"""been""","New York City, NY, USA",too_few_trips_1
+"""been""","Haleiwa, HI, USA",too_few_trips_1
+"""been""","El Paso, TX, USA",too_few_trips_1
+"""been""","Charlottesville, VA, USA",too_few_trips_1
+"""been""","Ventura, CA, USA",too_few_trips_1
+"""been""","Springfield, IL, USA",too_few_trips_1
+"""been""","Sausalito, CA, USA",too_few_trips_1
+"""been""","Coral Gables, FL, USA",too_few_trips_1
+"""been""","Cape May, NJ, USA",too_few_trips_1
+"""been""","Cambridge, MA, USA",too_few_trips_1
+"""been""","Santa Ynez, CA, USA",too_few_trips_1
+"""been""","South Bend, IN, USA",too_few_trips_1
+"""been""","Kailua-Kona, HI, USA",too_few_trips_1
+"""been""","Cincinnati, OH, USA",too_few_trips_1
+"""been""","Seattle, WA, USA",too_few_trips_1
+"""been""","Lewes, DE, USA",too_few_trips_1
+"""been""","Lahaina, HI, USA",too_few_trips_1
+"""been""","Manteo, NC, USA",too_few_trips_1
+"""been""","Woodland, CA, USA",too_few_trips_1
+"""been""","Santa Maria, CA, USA",too_few_trips_1
+"""been""","Santa Monica, CA, USA",too_few_trips_1
+"""been""","Clearwater, FL, USA",too_few_trips_1
+"""been""","Santa Rosa, CA, USA",too_few_trips_1
+"""been""","Akron, OH, USA",too_few_trips_1
+"""been""","Carlsbad, NM, USA",too_few_trips_1
+"""been""","Cherry Hill, NJ, USA",too_few_trips_1

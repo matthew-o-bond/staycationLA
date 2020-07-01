@@ -1,0 +1,512 @@
+tag,place,user
+"""been""","Seville, Spain",Rockdoc7
+"""been""","Tyler, TX, USA",Rockdoc7
+"""been""","Torremolinos, Spain",Rockdoc7
+"""been""","Granada, Spain",Rockdoc7
+"""been""","Montgomery, TX, USA",Rockdoc7
+"""been""","Johannesburg, South Africa",Rockdoc7
+"""been""","Berlin, Germany",Rockdoc7
+"""been""","Bellaire, TX, USA",Rockdoc7
+"""been""","El Portal, CA, USA",Rockdoc7
+"""been""","El Segundo, CA, USA",Rockdoc7
+"""been""","Puntarenas, Costa Rica",Rockdoc7
+"""been""","Casablanca, Morocco",Rockdoc7
+"""been""","Istanbul, Turkey",Rockdoc7
+"""been""","Lake Myvatn, Iceland",Rockdoc7
+"""been""","Nashville, TN, USA",Rockdoc7
+"""been""","Tangier, Morocco",Rockdoc7
+"""been""","Vail, CO, USA",Rockdoc7
+"""been""","Bethlehem, Palestinian Territories",Rockdoc7
+"""been""","Tokyo, Japan",Rockdoc7
+"""been""","Teaneck, NJ, USA",Rockdoc7
+"""been"",""fave""","Kinigi, Rwanda",Rockdoc7
+"""been""","Yonkers, NY, USA",Rockdoc7
+"""want""","Rio de Janeiro, Brazil",Rockdoc7
+"""been""","Albuquerque, NM, USA",Rockdoc7
+"""been""","Baltimore, MD, USA",Rockdoc7
+"""been""","Breckenridge, CO, USA",Rockdoc7
+"""been""","Missouri City, TX, USA",Rockdoc7
+"""been""","Nuremberg, Germany",Rockdoc7
+"""been""","Stockholm, Sweden",Rockdoc7
+"""been""","Danville, CA, USA",Rockdoc7
+"""been""","Passau, Germany",Rockdoc7
+"""been""","Mount Vernon, VA, USA",Rockdoc7
+"""been"",""fave""","Reykjavik, Iceland",Rockdoc7
+"""been""","Cordoba, Spain",Rockdoc7
+"""been""","Richmond, TX, USA",Rockdoc7
+"""want""","Vestmannaeyjar, Iceland",Rockdoc7
+"""been""","Corpus Christi, TX, USA",Rockdoc7
+"""been""","Bastrop, TX, USA",Rockdoc7
+"""been"",""want"",""fave""","Heimaey Island, Iceland",Rockdoc7
+"""been""","Juneau, AK, USA",Rockdoc7
+"""been""","Harmony, CA, USA",Rockdoc7
+"""been""","Kenai, AK, USA",Rockdoc7
+"""been""","Ixtapa, Mexico",Rockdoc7
+"""been""","Montclair, NJ, USA",Rockdoc7
+"""been""","Flushing, NY, USA",Rockdoc7
+"""been""","Healdsburg, CA, USA",Rockdoc7
+"""been""","Ketchikan, AK, USA",Rockdoc7
+"""been""","Yokohama, Japan",Rockdoc7
+"""been""","Jamaica, NY, USA",Rockdoc7
+"""been""","Rome, Italy",Rockdoc7
+"""been""","Salt Lake City, UT, USA",Rockdoc7
+"""been""","Hyde Park, NY, USA",Rockdoc7
+"""been""","Watervliet, NY, USA",Rockdoc7
+"""been"",""fave""","Capri, Italy",Rockdoc7
+"""been""","San Antonio, TX, USA",Rockdoc7
+"""been""","Thousand Oaks, CA, USA",Rockdoc7
+"""been""","Nacogdoches, TX, USA",Rockdoc7
+"""want""","Salerno, Italy",Rockdoc7
+"""been""","Santa Fe, NM, USA",Rockdoc7
+"""been"",""want"",""fave""","Serengeti National Park, Tanzania",Rockdoc7
+"""been""","Marble Canyon, AZ, USA",Rockdoc7
+"""been""","Azeitao, Portugal",Rockdoc7
+"""been""","Livingstone, Zambia",Rockdoc7
+"""been""","Naples, Italy",Rockdoc7
+"""been""","Lufkin, TX, USA",Rockdoc7
+"""been"",""fave""","Pompeii, Italy",Rockdoc7
+"""been""","London, UK",Rockdoc7
+"""been"",""fave""","Isafjordur, Iceland",Rockdoc7
+"""been""","Beit She'an, Israel",Rockdoc7
+"""been""","Johnson City, TN, USA",Rockdoc7
+"""been"",""fave""","Munich, Germany",Rockdoc7
+"""been"",""fave""","Skalafell, Iceland",Rockdoc7
+"""been""","Magnolia, TX, USA",Rockdoc7
+"""been""","Guayaquil, Ecuador",Rockdoc7
+"""been""","Tucson, AZ, USA",Rockdoc7
+"""been""","Mitspe Ramon, Israel",Rockdoc7
+"""been""","Mount Vernon, NY, USA",Rockdoc7
+"""been"",""want"",""fave""","San Francisco, CA, USA",Rockdoc7
+"""been""","Sonoma, CA, USA",Rockdoc7
+"""been""","Miami Beach, FL, USA",Rockdoc7
+"""been""","Providence, RI, USA",Rockdoc7
+"""been""","Miami, FL, USA",Rockdoc7
+"""been""","Louise, TX, USA",Rockdoc7
+"""been""","Brooklyn, NY, USA",Rockdoc7
+"""been""","Fairbanks, AK, USA",Rockdoc7
+"""been""","Rockwall, TX, USA",Rockdoc7
+"""been""","Vallon-Pont-d'Arc, France",Rockdoc7
+"""been""","Cedar Creek, TX, USA",Rockdoc7
+"""been""","Rockport, TX, USA",Rockdoc7
+"""been"",""want"",""fave""","Akureyri, Iceland",Rockdoc7
+"""been""","Skaftafell, Iceland",Rockdoc7
+"""been""","Austin, TX, USA",Rockdoc7
+"""been""","Florence, Italy",Rockdoc7
+"""been""","Eilat, Israel",Rockdoc7
+"""been"",""fave""","Bar Harbor, ME, USA",Rockdoc7
+"""been""","Amman, Jordan",Rockdoc7
+"""been""","Pisa, Italy",Rockdoc7
+"""been"",""want"",""fave""","Tel Aviv, Israel",Rockdoc7
+"""been"",""fave""","Jerusalem, Israel",Rockdoc7
+"""been""","Hartsdale, NY, USA",Rockdoc7
+"""been""","The Dalles, OR, USA",Rockdoc7
+"""been""","Jersey City, NJ, USA",Rockdoc7
+"""been"",""fave""","Nara, Japan",Rockdoc7
+"""been""","Rovinj, Croatia",Rockdoc7
+"""been""","Coeymans, NY, USA",Rockdoc7
+"""want""","Palermo, Italy",Rockdoc7
+"""been""","Niagara Falls, Ontario, Canada",Rockdoc7
+"""been""","Edna, TX, USA",Rockdoc7
+"""been""","Conroe, TX, USA",Rockdoc7
+"""been""","Copenhagen, Denmark",Rockdoc7
+"""been""","Toledo, Spain",Rockdoc7
+"""been""","Jenner, CA, USA",Rockdoc7
+"""been""","Breaux Bridge, LA, USA",Rockdoc7
+"""been""","Discovery Bay, CA, USA",Rockdoc7
+"""been""","Anaheim, CA, USA",Rockdoc7
+"""been""","Saint Louis, MO, USA",Rockdoc7
+"""been""","Monte-Carlo, Monaco",Rockdoc7
+"""been""","El Campo, TX, USA",Rockdoc7
+"""been""","Sainte-Luce, Martinique",Rockdoc7
+"""been""","Brighton, UK",Rockdoc7
+"""been"",""want""","Portland, OR, USA",Rockdoc7
+"""been""","Nice, France",Rockdoc7
+"""been""","Saint-Remeze, France",Rockdoc7
+"""been"",""fave""","Victoria Falls, Zimbabwe",Rockdoc7
+"""been""","Heraklion, Greece",Rockdoc7
+"""been""","Crazy Horse, SD, USA",Rockdoc7
+"""been"",""fave""","Malibu, CA, USA",Rockdoc7
+"""been""","Kansas City, MO, USA",Rockdoc7
+"""been""","Pahrump, NV, USA",Rockdoc7
+"""been"",""fave""","Grundarfjorour, Iceland",Rockdoc7
+"""been""","Palisades Park, NJ, USA",Rockdoc7
+"""been""","Topanga, CA, USA",Rockdoc7
+"""been""","Manitou Springs, CO, USA",Rockdoc7
+"""been""","Athens, Greece",Rockdoc7
+"""been""","Rhodes Town, Greece",Rockdoc7
+"""been""","Willis, TX, USA",Rockdoc7
+"""been""","Piraeus, Greece",Rockdoc7
+"""been""","Scottsdale, AZ, USA",Rockdoc7
+"""been""","Marina, CA, USA",Rockdoc7
+"""been""","Allentown, PA, USA",Rockdoc7
+"""been""","Arusha, Tanzania",Rockdoc7
+"""been""","Tomball, TX, USA",Rockdoc7
+"""been""","Bath, UK",Rockdoc7
+"""been""","Carnoustie, UK",Rockdoc7
+"""been""","Haines, AK, USA",Rockdoc7
+"""been""","Arles, France",Rockdoc7
+"""been""","Orlando, FL, USA",Rockdoc7
+"""been""","Avignon, France",Rockdoc7
+"""been""","The Woodlands, TX, USA",Rockdoc7
+"""been""","Potsdam, Germany",Rockdoc7
+"""been""","Ellinger, TX, USA",Rockdoc7
+"""been""","Frankfurt, Germany",Rockdoc7
+"""been""","Keystone, SD, USA",Rockdoc7
+"""been""","Mill Valley, CA, USA",Rockdoc7
+"""been""","Yountville, CA, USA",Rockdoc7
+"""been""","San Jose, Costa Rica",Rockdoc7
+"""been""","Healy, AK, USA",Rockdoc7
+"""been""","White Salmon, WA, USA",Rockdoc7
+"""been""","La Jolla, CA, USA",Rockdoc7
+"""been""","Laugarvatn, Iceland",Rockdoc7
+"""been"",""fave""","Selfoss, Iceland",Rockdoc7
+"""been"",""fave""","Thingvellir, Iceland",Rockdoc7
+"""been""","Far Rockaway, NY, USA",Rockdoc7
+"""been""","Oxford, UK",Rockdoc7
+"""been""","Rapid City, SD, USA",Rockdoc7
+"""been""","Waco, TX, USA",Rockdoc7
+"""been""","Pebble Beach, CA, USA",Rockdoc7
+"""been""","Morro Bay, CA, USA",Rockdoc7
+"""been""","Fredericksburg, TX, USA",Rockdoc7
+"""been""","Ushuaia, Argentina",Rockdoc7
+"""been""","Vienna, Austria",Rockdoc7
+"""been"",""fave""","Santiago, Chile",Rockdoc7
+"""been""","Les Baux de Provence, France",Rockdoc7
+"""been""","Paso Robles, CA, USA",Rockdoc7
+"""been""","Quito, Ecuador",Rockdoc7
+"""been""","Valparaiso, Chile",Rockdoc7
+"""been"",""fave""","Kisumu, Kenya",Rockdoc7
+"""been"",""fave""","San Alfonso, Chile",Rockdoc7
+"""been""","Huntington Beach, CA, USA",Rockdoc7
+"""been""","Bristol, CT, USA",Rockdoc7
+"""been""","Prague, Czech Republic",Rockdoc7
+"""been""","Mykonos Town, Greece",Rockdoc7
+"""been""","Stafford, TX, USA",Rockdoc7
+"""been""","Troutdale, OR, USA",Rockdoc7
+"""been""","Fort Worth, TX, USA",Rockdoc7
+"""been""","Victoria, TX, USA",Rockdoc7
+"""been""","Hempstead, TX, USA",Rockdoc7
+"""been""","Vidor, TX, USA",Rockdoc7
+"""been""","Vienne, France",Rockdoc7
+"""been""","Napa, CA, USA",Rockdoc7
+"""been""","Zurich, Switzerland",Rockdoc7
+"""been""","Perouges, France",Rockdoc7
+"""been""","Inverness, CA, USA",Rockdoc7
+"""been""","Foster City, CA, USA",Rockdoc7
+"""been""","Parkdale, OR, USA",Rockdoc7
+"""been""","Long Beach, CA, USA",Rockdoc7
+"""been""","Phoenix, AZ, USA",Rockdoc7
+"""been""","Herndon, VA, USA",Rockdoc7
+"""been""","Lyon, France",Rockdoc7
+"""been""","Montevideo, Uruguay",Rockdoc7
+"""been""","Rhodes, Greece",Rockdoc7
+"""been""","Ganado, TX, USA",Rockdoc7
+"""been""","Paris, France",Rockdoc7
+"""been"",""fave""","Versailles, France",Rockdoc7
+"""been""","San Marcos, TX, USA",Rockdoc7
+"""been""","Tallinn, Estonia",Rockdoc7
+"""been""","North Vancouver, British Columbia, Canada",Rockdoc7
+"""been""","Muir Beach, CA, USA",Rockdoc7
+"""been""","Maasai Mara National Reserve, Kenya",Rockdoc7
+"""been""","Brenham, TX, USA",Rockdoc7
+"""been""","Nairobi, Kenya",Rockdoc7
+"""been""","Lake Charles, LA, USA",Rockdoc7
+"""been""","Central Kalahari Game Reserve, Botswana",Rockdoc7
+"""been""","Baton Rouge, LA, USA",Rockdoc7
+"""been""","Lafayette, LA, USA",Rockdoc7
+"""been""","Linz, Austria",Rockdoc7
+"""been""","Hockley, TX, USA",Rockdoc7
+"""been""","Barcelona, Spain",Rockdoc7
+"""been""","Sugar Land, TX, USA",Rockdoc7
+"""been""","Santorini, Greece",Rockdoc7
+"""been""","Chicago, IL, USA",Rockdoc7
+"""been""","Melk, Austria",Rockdoc7
+"""been""","Odell, OR, USA",Rockdoc7
+"""been""","Albany, NY, USA",Rockdoc7
+"""been""","Girona, Spain",Rockdoc7
+"""been""","Lima, Peru",Rockdoc7
+"""been""","Galveston, TX, USA",Rockdoc7
+"""been""","Los Angeles, CA, USA",Rockdoc7
+"""been""","Las Vegas, NV, USA",Rockdoc7
+"""been""","Galapagar, Spain",Rockdoc7
+"""been""","Mykonos, Greece",Rockdoc7
+"""been"",""fave""","Cape Town Central, South Africa",Rockdoc7
+"""been"",""fave""","Grand Canyon National Park, AZ, USA",Rockdoc7
+"""been"",""fave""","Kusadasi, Turkey",Rockdoc7
+"""been"",""fave""","Glacier National Park, MT, USA",Rockdoc7
+"""been""","Geneva, Switzerland",Rockdoc7
+"""been""","Denali National Park and Preserve, AK, USA",Rockdoc7
+"""been"",""fave""","Figueres, Spain",Rockdoc7
+"""been""","Shanghai, China",Rockdoc7
+"""been""","Cypress, TX, USA",Rockdoc7
+"""been""","Rancho Cucamonga, CA, USA",Rockdoc7
+"""been""","Acre, Israel",Rockdoc7
+"""been""","Toronto, Ontario, Canada",Rockdoc7
+"""been""","Sudbury, Ontario, Canada",Rockdoc7
+"""been""","Thunder Bay, Ontario, Canada",Rockdoc7
+"""been"",""fave""","Big Sur, CA, USA",Rockdoc7
+"""been"",""fave""","Death Valley National Park, CA, USA",Rockdoc7
+"""been""","Mexico City, Mexico",Rockdoc7
+"""been""","Boca Arenal, Costa Rica",Rockdoc7
+"""been""","Provincetown, MA, USA",Rockdoc7
+"""been"",""fave""","Bordeaux, France",Rockdoc7
+"""been"",""fave""","Bled, Slovenia",Rockdoc7
+"""been""","Redwood City, CA, USA",Rockdoc7
+"""been""","Avalon, CA, USA",Rockdoc7
+"""been""","Hartford, CT, USA",Rockdoc7
+"""been""","Oxnard, CA, USA",Rockdoc7
+"""been""","Beijing, China",Rockdoc7
+"""been""","Tulsa, OK, USA",Rockdoc7
+"""been"",""fave""","Vina del Mar, Chile",Rockdoc7
+"""been""","Tulum, Mexico",Rockdoc7
+"""been""","Henderson, LA, USA",Rockdoc7
+"""been""","New Iberia, LA, USA",Rockdoc7
+"""been""","Ames, IA, USA",Rockdoc7
+"""been""","Manchester, UK",Rockdoc7
+"""been""","Luxembourg City, Luxembourg",Rockdoc7
+"""been""","Patras, Greece",Rockdoc7
+"""been""","Ljubljana, Slovenia",Rockdoc7
+"""been"",""fave""","Olympia, Greece",Rockdoc7
+"""been""","Oslo, Norway",Rockdoc7
+"""been""","Mycenae, Greece",Rockdoc7
+"""want""","Palm Springs, CA, USA",Rockdoc7
+"""been""","Palo Alto, CA, USA",Rockdoc7
+"""been""","St. Croix, U.S. Virgin Islands",Rockdoc7
+"""been""","Ra'anana, Israel",Rockdoc7
+"""been""","Capernaum, Israel",Rockdoc7
+"""been""","Opatija, Croatia",Rockdoc7
+"""been""","Pacific Grove, CA, USA",Rockdoc7
+"""been""","Deep River, Ontario, Canada",Rockdoc7
+"""been""","Postojna, Slovenia",Rockdoc7
+"""been""","Center, TX, USA",Rockdoc7
+"""been""","Houma, LA, USA",Rockdoc7
+"""been""","Larkspur, CA, USA",Rockdoc7
+"""been""","Corinth, Greece",Rockdoc7
+"""been"",""want"",""fave""","Ngorongoro Conservation Area, Tanzania",Rockdoc7
+"""been"",""fave""","Eyvindarholar, Iceland",Rockdoc7
+"""been""","Caesarea, Israel",Rockdoc7
+"""been""","Dallas, TX, USA",Rockdoc7
+"""been""","Beersheba, Israel",Rockdoc7
+"""been""","Ein Gedi, Israel",Rockdoc7
+"""want""","Joshua Tree National Park, CA, USA",Rockdoc7
+"""been""","Milano Marittima, Italy",Rockdoc7
+"""been"",""fave""","Monterey, CA, USA",Rockdoc7
+"""been""","Jaffa, Israel",Rockdoc7
+"""been""","Krk, Croatia",Rockdoc7
+"""been"",""fave""","Budapest, Hungary",Rockdoc7
+"""been""","Blue Diamond, NV, USA",Rockdoc7
+"""been"",""fave""","Los Andes, Chile",Rockdoc7
+"""been""","Ruhengeri, Rwanda",Rockdoc7
+"""been""","Vinton, LA, USA",Rockdoc7
+"""been""","Thessaloniki, Greece",Rockdoc7
+"""been"",""fave""","Puerto Ayora, Ecuador",Rockdoc7
+"""been"",""fave""","Santa Cruz, Ecuador",Rockdoc7
+"""been""","Santiago, Ecuador",Rockdoc7
+"""been""","Newburgh, NY, USA",Rockdoc7
+"""been""","Stirling, UK",Rockdoc7
+"""been""","Peekskill, NY, USA",Rockdoc7
+"""been""","Pleasanton, CA, USA",Rockdoc7
+"""been""","Pelham Manor, NY, USA",Rockdoc7
+"""been""","Vecchiano, Italy",Rockdoc7
+"""been""","Sainte-Anne, Guadeloupe",Rockdoc7
+"""been"",""fave""","St. Petersburg, Russia",Rockdoc7
+"""been"",""fave""","Small Point, ME, USA",Rockdoc7
+"""been""","Jackson, WY, USA",Rockdoc7
+"""been""","Freeport, Bahamas",Rockdoc7
+"""been""","Point Reyes Station, CA, USA",Rockdoc7
+"""been""","Park City, UT, USA",Rockdoc7
+"""been"",""fave""","Zermatt, Switzerland",Rockdoc7
+"""been""","Ein Bokek, Israel",Rockdoc7
+"""been""","Waternish, UK",Rockdoc7
+"""been""","Fernandina, Ecuador",Rockdoc7
+"""been""","Niagara Falls, NY, USA",Rockdoc7
+"""been""","Bear Mountain, NY, USA",Rockdoc7
+"""been""","Punta Arenas, Chile",Rockdoc7
+"""been""","Safed, Israel",Rockdoc7
+"""been""","Tiberias, Israel",Rockdoc7
+"""been"",""fave""","San Gabriel, Chile",Rockdoc7
+"""been""","Bridal Veil, OR, USA",Rockdoc7
+"""been""","Isabela, Ecuador",Rockdoc7
+"""been""","Hyannis, MA, USA",Rockdoc7
+"""been""","Masad, Israel",Rockdoc7
+"""been""","Oklahoma City, OK, USA",Rockdoc7
+"""been""","Montreal, Quebec, Canada",Rockdoc7
+"""been""","Quebec City, Quebec, Canada",Rockdoc7
+"""been"",""fave""","Petra - Wadi Musa, Jordan",Rockdoc7
+"""been""","Yosemite National Park, CA, USA",Rockdoc7
+"""been""","Sintra, Portugal",Rockdoc7
+"""been""","Shreveport, LA, USA",Rockdoc7
+"""been""","Lindos, Greece",Rockdoc7
+"""been""","Oakland, CA, USA",Rockdoc7
+"""been""","Washington DC, DC, USA",Rockdoc7
+"""been"",""want""","Lisbon, Portugal",Rockdoc7
+"""been""","Cascade Locks, OR, USA",Rockdoc7
+"""been""","Fayetteville, NC, USA",Rockdoc7
+"""want""","Positano, Italy",Rockdoc7
+"""been""","Ocho Rios, Jamaica",Rockdoc7
+"""been""","Regina, Saskatchewan, Canada",Rockdoc7
+"""been""","Moose Jaw, Saskatchewan, Canada",Rockdoc7
+"""been"",""fave""","Camden, ME, USA",Rockdoc7
+"""been""","Montego Bay, Jamaica",Rockdoc7
+"""been""","Colares, Portugal",Rockdoc7
+"""been""","Cascais, Portugal",Rockdoc7
+"""been"",""fave""","Lucerne, Switzerland",Rockdoc7
+"""been""","Scarsdale, NY, USA",Rockdoc7
+"""been""","Schenectady, NY, USA",Rockdoc7
+"""been""","Broadford, UK",Rockdoc7
+"""been""","Philipsburg, St Martin \u002F St Maarten",Rockdoc7
+"""been""","Bologna, Italy",Rockdoc7
+"""been""","Breezy Point, NY, USA",Rockdoc7
+"""been""","Kilgore, TX, USA",Rockdoc7
+"""been"",""fave""","Lake Manyara National Park, Tanzania",Rockdoc7
+"""been"",""fave""","Ucluelet, British Columbia, Canada",Rockdoc7
+"""been""","Portree, UK",Rockdoc7
+"""been""","Simi Valley, CA, USA",Rockdoc7
+"""been""","Cody, WY, USA",Rockdoc7
+"""been""","Longview, TX, USA",Rockdoc7
+"""been""","Osaka, Japan",Rockdoc7
+"""been""","Stanford, CA, USA",Rockdoc7
+"""been""","Atlantic City, NJ, USA",Rockdoc7
+"""been""","Babylon, NY, USA",Rockdoc7
+"""been""","Kyoto, Japan",Rockdoc7
+"""been""","Government Camp, OR, USA",Rockdoc7
+"""been""","Seven Mile Beach, Cayman Islands",Rockdoc7
+"""been""","Siena, Italy",Rockdoc7
+"""been""","Oranjestad, Aruba",Rockdoc7
+"""want""","Gold Beach, OR, USA",Rockdoc7
+"""been""","Grand Cayman, Cayman Islands",Rockdoc7
+"""been""","Asbury Park, NJ, USA",Rockdoc7
+"""been""","Yarmouth Port, MA, USA",Rockdoc7
+"""been""","Seal Cove, ME, USA",Rockdoc7
+"""been""","Nafplio, Greece",Rockdoc7
+"""been"",""fave""","Landmannalaugar, Iceland",Rockdoc7
+"""been""","Delos, Greece",Rockdoc7
+"""been""","Castle Rock, WA, USA",Rockdoc7
+"""been""","Kountze, TX, USA",Rockdoc7
+"""been""","Galveston Island, TX, USA",Rockdoc7
+"""been""","Villahermosa, Mexico",Rockdoc7
+"""been""","Jasper, Alberta, Canada",Rockdoc7
+"""been""","Cayucos, CA, USA",Rockdoc7
+"""been""","San Simeon, CA, USA",Rockdoc7
+"""been""","Milan, Italy",Rockdoc7
+"""been""","Medicine Hat, Alberta, Canada",Rockdoc7
+"""been""","Beverly Hills, CA, USA",Rockdoc7
+"""been""","Bridgetown, Barbados",Rockdoc7
+"""been""","Memphis, TN, USA",Rockdoc7
+"""been""","Atlanta, GA, USA",Rockdoc7
+"""been""","Ventura, CA, USA",Rockdoc7
+"""been""","Santa Barbara, CA, USA",Rockdoc7
+"""been"",""fave""","Bellagio, Italy",Rockdoc7
+"""been""","Beit Shemesh, Israel",Rockdoc7
+"""been""","Santa Cruz, CA, USA",Rockdoc7
+"""been""","Cola, Italy",Rockdoc7
+"""been""","Corbett, OR, USA",Rockdoc7
+"""been""","Santa Maria, CA, USA",Rockdoc7
+"""been""","Santa Monica, CA, USA",Rockdoc7
+"""been""","Anchorage, AK, USA",Rockdoc7
+"""been""","Tiburon, CA, USA",Rockdoc7
+"""been""","Irving, TX, USA",Rockdoc7
+"""been"",""want""","New York City, NY, USA",Rockdoc7
+"""been""","Kamloops, British Columbia, Canada",Rockdoc7
+"""been""","Portland, ME, USA",Rockdoc7
+"""been""","Monterosso al Mare, Italy",Rockdoc7
+"""been""","Bingen, WA, USA",Rockdoc7
+"""been""","Yorba Linda, CA, USA",Rockdoc7
+"""been""","Bodega Bay, CA, USA",Rockdoc7
+"""been""","Monterrey, Mexico",Rockdoc7
+"""been"",""fave""","Sausalito, CA, USA",Rockdoc7
+"""been""","Sheridan, WY, USA",Rockdoc7
+"""been""","Philadelphia, PA, USA",Rockdoc7
+"""been""","Acapulco, Mexico",Rockdoc7
+"""been""","Saratoga Springs, NY, USA",Rockdoc7
+"""been""","Staten Island, NY, USA",Rockdoc7
+"""been""","Jersey Village, TX, USA",Rockdoc7
+"""been""","Vogue, France",Rockdoc7
+"""been""","Sapelo Island, GA, USA",Rockdoc7
+"""been""","Karatu, Tanzania",Rockdoc7
+"""been""","Seaside, CA, USA",Rockdoc7
+"""been""","Puerto Vallarta, Mexico",Rockdoc7
+"""been""","Havana, Cuba",Rockdoc7
+"""been"",""fave""","Jasper National Park, Alberta, Canada",Rockdoc7
+"""been""","Edmonton, Alberta, Canada",Rockdoc7
+"""been""","Lake Louise, Alberta, Canada",Rockdoc7
+"""been""","Death Valley Junction, CA, USA",Rockdoc7
+"""been""","Calgary, Alberta, Canada",Rockdoc7
+"""been"",""fave""","Banff National Park, Alberta, Canada",Rockdoc7
+"""been""","Guadalajara, Mexico",Rockdoc7
+"""been""","Cuba, Caribbean",Rockdoc7
+"""been"",""fave""","Banff, Alberta, Canada",Rockdoc7
+"""been""","Beaumont, TX, USA",Rockdoc7
+"""been""","Newport, RI, USA",Rockdoc7
+"""been""","Marshall, TX, USA",Rockdoc7
+"""been""","Port Aransas, TX, USA",Rockdoc7
+"""been""","Newark, NJ, USA",Rockdoc7
+"""want""","Catania, Italy",Rockdoc7
+"""been""","Kiryat Shmona, Israel",Rockdoc7
+"""been""","Walnut Creek, CA, USA",Rockdoc7
+"""been""","Cambria, CA, USA",Rockdoc7
+"""been""","Valencia, Spain",Rockdoc7
+"""been""","Hood River, OR, USA",Rockdoc7
+"""been""","Clayton, MO, USA",Rockdoc7
+"""been""","Port O'Connor, TX, USA",Rockdoc7
+"""been""","Bergenfield, NJ, USA",Rockdoc7
+"""been""","Port Lavaca, TX, USA",Rockdoc7
+"""been""","Point Comfort, TX, USA",Rockdoc7
+"""been""","La Grange, TX, USA",Rockdoc7
+"""been""","Venice, Italy",Rockdoc7
+"""been""","Manchester, VT, USA",Rockdoc7
+"""been""","Plano, TX, USA",Rockdoc7
+"""been""","Gibraltar, Europe",Rockdoc7
+"""been""","North Bonneville, WA, USA",Rockdoc7
+"""been""","St. Helena, CA, USA",Rockdoc7
+"""been""","Salinas, CA, USA",Rockdoc7
+"""been""","Madrid, Spain",Rockdoc7
+"""been""","Helsinki, Finland",Rockdoc7
+"""been""","Stinson Beach, CA, USA",Rockdoc7
+"""been""","Troy, NY, USA",Rockdoc7
+"""been""","Cooperstown, NY, USA",Rockdoc7
+"""been""","West Hollywood, CA, USA",Rockdoc7
+"""been""","Charleston, SC, USA",Rockdoc7
+"""been""","Herkimer, NY, USA",Rockdoc7
+"""been""","New Braunfels, TX, USA",Rockdoc7
+"""been""","West Point, NY, USA",Rockdoc7
+"""been""","Sitka, AK, USA",Rockdoc7
+"""been"",""fave""","Halifax, Nova Scotia, Canada",Rockdoc7
+"""been""","Hella, Iceland",Rockdoc7
+"""been""","Hvolsvollur, Iceland",Rockdoc7
+"""been""","Huntsville, TX, USA",Rockdoc7
+"""been""","Williamsburg, VA, USA",Rockdoc7
+"""been""","Prairie View, TX, USA",Rockdoc7
+"""been""","Glasgow, UK",Rockdoc7
+"""been""","St. Andrews, UK",Rockdoc7
+"""been""","Naples, FL, USA",Rockdoc7
+"""been"",""fave""","Grindavik, Iceland",Rockdoc7
+"""been""","Kigali, Rwanda",Rockdoc7
+"""been""","Tofino, British Columbia, Canada",Rockdoc7
+"""been"",""fave""","Carmel, CA, USA",Rockdoc7
+"""been""","San Jose, CA, USA",Rockdoc7
+"""been""","Diablo, CA, USA",Rockdoc7
+"""been""","Entebbe, Uganda",Rockdoc7
+"""been"",""fave""","Victoria, British Columbia, Canada",Rockdoc7
+"""been""","Geneva, NY, USA",Rockdoc7
+"""been"",""fave""","Vancouver, British Columbia, Canada",Rockdoc7
+"""want""","Seattle, WA, USA",Rockdoc7
+"""been""","Yellowstone National Park, WY, USA",Rockdoc7
+"""been""","Eastchester, NY, USA",Rockdoc7
+"""been""","Skagway, AK, USA",Rockdoc7
+"""been""","Toutle, WA, USA",Rockdoc7
+"""been""","Houston, TX, USA",Rockdoc7
+"""been""","Edinburgh, UK",Rockdoc7
+"""been""","Carpinteria, CA, USA",Rockdoc7
+"""been""","San Lorenzo, CA, USA",Rockdoc7
+"""been""","Cooke City, MT, USA",Rockdoc7
+"""been""","Denver, CO, USA",Rockdoc7
+"""been""","Skogar, Iceland",Rockdoc7
+"""been""","Belmont, CA, USA",Rockdoc7
+"""been""","Belvedere, CA, USA",Rockdoc7
+"""been"",""fave""","Honolulu, HI, USA",Rockdoc7
+"""been""","Belle Harbor, NY, USA",Rockdoc7
+"""been""","New Orleans, LA, USA",Rockdoc7
+"""been""","Winnipeg, Manitoba, Canada",Rockdoc7
+"""been""","Coxsackie, NY, USA",Rockdoc7
+"""been""","Boston, MA, USA",Rockdoc7

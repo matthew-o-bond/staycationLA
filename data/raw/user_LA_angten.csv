@@ -1,0 +1,378 @@
+tag,place,user
+"""been""","Brooklyn, NY, USA",angten
+"""been""","Athens, Greece",angten
+"""been""","Bruges, Belgium",angten
+"""been""","Dartmouth, UK",angten
+"""been""","Palma de Mallorca, Spain",angten
+"""been""","Dubrovnik, Croatia",angten
+"""been""","Plymouth, UK",angten
+"""been""","Cannon Beach, OR, USA",angten
+"""been""","Villa de Leyva, Colombia",angten
+"""been""","Miranda do Douro, Portugal",angten
+"""been""","Tinerhir, Morocco",angten
+"""been""","Split, Croatia",angten
+"""been""","Buxton, UK",angten
+"""been""","Hoi An, Vietnam",angten
+"""been""","Duluth, MN, USA",angten
+"""been""","Flores, Guatemala",angten
+"""been""","Bath, UK",angten
+"""been""","Hyannis, MA, USA",angten
+"""been""","Soller, Spain",angten
+"""been""","Queenstown, New Zealand",angten
+"""been""","Raleigh, NC, USA",angten
+"""been""","Bournemouth, UK",angten
+"""been""","Santa Fe, NM, USA",angten
+"""been""","Campeche, Mexico",angten
+"""been""","Ankara, Turkey",angten
+"""been""","Friday Harbor, WA, USA",angten
+"""been""","Suceava, Romania",angten
+"""been""","Atlantic City, NJ, USA",angten
+"""been""","Puerto Varas, Chile",angten
+"""been""","Mostar, Bosnia and Herzegovina",angten
+"""been""","Chania Town, Greece",angten
+"""been""","Skokie, IL, USA",angten
+"""been""","Veliko Tarnovo, Bulgaria",angten
+"""been""","Tucson, AZ, USA",angten
+"""been""","Berat, Albania",angten
+"""been""","Bergen, Norway",angten
+"""been""","Nafplio, Greece",angten
+"""been""","San Francisco, CA, USA",angten
+"""been""","Morton Grove, IL, USA",angten
+"""been""","Torquay, UK",angten
+"""been""","Delphi, Greece",angten
+"""been""","San Gimignano, Italy",angten
+"""been""","Palm Beach, FL, USA",angten
+"""been""","Rotorua, New Zealand",angten
+"""been""","Christchurch, New Zealand",angten
+"""been""","Siena, Italy",angten
+"""been""","Assisi, Italy",angten
+"""been""","Piatra Neamt, Romania",angten
+"""been""","Waikoloa, HI, USA",angten
+"""been""","Hounslow, UK",angten
+"""been""","Taunton, UK",angten
+"""been""","Pickering, UK",angten
+"""been""","Egilsstadir, Iceland",angten
+"""been""","Brasov, Romania",angten
+"""been""","Granada, Spain",angten
+"""been""","Krakow, Poland",angten
+"""been""","Sibiu, Romania",angten
+"""been""","Aguas Calientes, Peru",angten
+"""been""","Lake Myvatn, Iceland",angten
+"""been""","Geilo, Norway",angten
+"""been""","Seville, Spain",angten
+"""been""","Chester, UK",angten
+"""been""","Horley, UK",angten
+"""been""","Eger, Hungary",angten
+"""been""","Kalambaka, Greece",angten
+"""been""","Matlock Bath, UK",angten
+"""been""","Ohrid, Republic of North Macedonia",angten
+"""want""","Porto, Portugal",angten
+"""been""","Plovdiv, Bulgaria",angten
+"""been""","Chimaltenango, Guatemala",angten
+"""been""","Viana do Castelo, Portugal",angten
+"""been""","Barichara, Colombia",angten
+"""been""","Perth, Australia",angten
+"""been""","Agrigento, Italy",angten
+"""been""","Launceston, Australia",angten
+"""been""","Evanston, IL, USA",angten
+"""been""","La Quinta, CA, USA",angten
+"""been""","Vik, Iceland",angten
+"""been""","Malaga, Spain",angten
+"""been""","Melbourne, Australia",angten
+"""been""","Bend, OR, USA",angten
+"""been""","Kuressaare, Estonia",angten
+"""been""","Auckland Central, New Zealand",angten
+"""been""","Budapest, Hungary",angten
+"""been""","Penzance, UK",angten
+"""been""","Oxford, UK",angten
+"""been""","Madison, WI, USA",angten
+"""been""","Bogota, Colombia",angten
+"""been""","Sheffield, UK",angten
+"""been""","Nazca, Peru",angten
+"""been""","Hugh Town, UK",angten
+"""been""","Reading, UK",angten
+"""been""","Tintagel, UK",angten
+"""been""","Aberdeen, UK",angten
+"""been""","Avignon, France",angten
+"""been""","Southport, UK",angten
+"""been""","Old Hunstanton, UK",angten
+"""been""","Poole, UK",angten
+"""been""","Grand Rapids, MI, USA",angten
+"""been""","Whitefish, MT, USA",angten
+"""been""","San Jose, Costa Rica",angten
+"""been""","Newquay, UK",angten
+"""been""","La Jolla, CA, USA",angten
+"""been""","Piran, Slovenia",angten
+"""been""","Hartford, CT, USA",angten
+"""been""","Hofn, Iceland",angten
+"""been""","Padstow, UK",angten
+"""been""","Sorrento, Italy",angten
+"""been""","Saranda, Albania",angten
+"""been""","The Hague, The Netherlands",angten
+"""been""","Naples, Italy",angten
+"""been""","Rotterdam, The Netherlands",angten
+"""been""","Pompeii, Italy",angten
+"""been""","Waimea, HI, USA",angten
+"""been""","Calakmul, Mexico",angten
+"""been""","Playa del Carmen, Mexico",angten
+"""been""","Tulum, Mexico",angten
+"""been""","Sintra, Portugal",angten
+"""been""","Hood River, OR, USA",angten
+"""been""","Oia, Greece",angten
+"""been""","Platys Gialos, Greece",angten
+"""been""","Fira, Greece",angten
+"""been""","Naples, FL, USA",angten
+"""been""","Pisa, Italy",angten
+"""been""","Phnom Penh, Cambodia",angten
+"""been""","Montreal, Quebec, Canada",angten
+"""been""","Lucca, Italy",angten
+"""been""","Penrith, UK",angten
+"""been""","Ilfracombe, UK",angten
+"""been""","Fort Lauderdale, FL, USA",angten
+"""been""","Chichen Itza, Mexico",angten
+"""been""","Ann Arbor, MI, USA",angten
+"""been""","Rome, Italy",angten
+"""been""","Mendocino, CA, USA",angten
+"""been""","Newport, UK",angten
+"""been""","Norwich, UK",angten
+"""been""","Reykjavik, Iceland",angten
+"""been""","Vatican City, Vatican City",angten
+"""been""","Brussels, Belgium",angten
+"""been""","Positano, Italy",angten
+"""been""","York, UK",angten
+"""been""","Whitby, UK",angten
+"""been""","Oaxaca, Mexico",angten
+"""been""","Toronto, Ontario, Canada",angten
+"""been""","Guimaraes, Portugal",angten
+"""been""","London, UK",angten
+"""been""","Opatija, Croatia",angten
+"""been""","South Brent, UK",angten
+"""been""","Miami Beach, FL, USA",angten
+"""been""","Geneva, Switzerland",angten
+"""been""","Canterbury, UK",angten
+"""been""","Kamari, Greece",angten
+"""been""","Dover, UK",angten
+"""been""","Viseu, Portugal",angten
+"""been""","Can Tho, Vietnam",angten
+"""been""","Niagara-on-the-Lake, Ontario, Canada",angten
+"""been""","Coimbra, Portugal",angten
+"""been""","Niagara Falls, Ontario, Canada",angten
+"""been""","Uxmal, Mexico",angten
+"""been""","Jackson, WY, USA",angten
+"""been""","Des Moines, IA, USA",angten
+"""been""","Fort William, UK",angten
+"""been""","Helsinki, Finland",angten
+"""been""","Rancho Mirage, CA, USA",angten
+"""been""","Nerja, Spain",angten
+"""been""","Speightstown, Barbados",angten
+"""been""","Cesky Krumlov, Czech Republic",angten
+"""want""","Lisbon, Portugal",angten
+"""been""","Palermo, Italy",angten
+"""been""","Savannah, GA, USA",angten
+"""been""","Florence, Italy",angten
+"""been""","Antigua, Guatemala",angten
+"""been""","Akureyri, Iceland",angten
+"""been""","Pitlochry, UK",angten
+"""been""","Bakewell, UK",angten
+"""been""","Mendoza, Argentina",angten
+"""been""","Rovinj, Croatia",angten
+"""been""","Albuquerque, NM, USA",angten
+"""been""","Syracuse, NY, USA",angten
+"""been""","Plitvice Lakes National Park, Croatia",angten
+"""been""","Porec, Croatia",angten
+"""been""","Lake Geneva, WI, USA",angten
+"""been""","Big Sur, CA, USA",angten
+"""been""","Tayrona National Park, Colombia",angten
+"""been""","Casablanca, Morocco",angten
+"""been""","Istanbul, Turkey",angten
+"""been""","Miami, FL, USA",angten
+"""been""","Oakland, CA, USA",angten
+"""been""","Rabat, Morocco",angten
+"""been""","Fes, Morocco",angten
+"""been""","Baska Voda, Croatia",angten
+"""been""","Marrakech, Morocco",angten
+"""been""","Olympia, Greece",angten
+"""been""","Vilnius, Lithuania",angten
+"""been""","Mystic, CT, USA",angten
+"""been""","Oslo, Norway",angten
+"""been""","Montepulciano, Italy",angten
+"""been""","Copan Ruinas, Honduras",angten
+"""been""","Manchester, UK",angten
+"""been""","Sparta, Greece",angten
+"""been""","Leeds, UK",angten
+"""been""","Penticton, British Columbia, Canada",angten
+"""been""","Kelowna, British Columbia, Canada",angten
+"""been""","Lancaster, UK",angten
+"""been""","Matlock, UK",angten
+"""been""","Leamington Spa, UK",angten
+"""been""","Siem Reap, Cambodia",angten
+"""been""","Bellingham, WA, USA",angten
+"""been""","Santa Monica, CA, USA",angten
+"""been""","Durres, Albania",angten
+"""been""","Prague, Czech Republic",angten
+"""been""","Klaipeda, Lithuania",angten
+"""been""","New Haven, CT, USA",angten
+"""been""","Korce, Albania",angten
+"""been""","Lincoln City, OR, USA",angten
+"""been""","Cusco, Peru",angten
+"""been""","Arequipa, Peru",angten
+"""been""","Edinburgh, UK",angten
+"""been""","Ollantaytambo, Peru",angten
+"""been""","Napa, CA, USA",angten
+"""been""","Ivalo, Finland",angten
+"""been""","Lima, Peru",angten
+"""been""","Oliver, British Columbia, Canada",angten
+"""been""","Middletown, CT, USA",angten
+"""been""","Antalya, Turkey",angten
+"""been""","Zagreb, Croatia",angten
+"""been""","Tigre, Argentina",angten
+"""been""","Sofia, Bulgaria",angten
+"""been""","Inverness, UK",angten
+"""been""","Philadelphia, PA, USA",angten
+"""been""","Hellissandur, Iceland",angten
+"""been""","Surfers Paradise, Australia",angten
+"""been""","Hvar, Croatia",angten
+"""been""","Cody, WY, USA",angten
+"""been""","Cajamarca, Peru",angten
+"""been""","Salisbury, UK",angten
+"""been""","Santa Cruz, CA, USA",angten
+"""been""","Popayan, Colombia",angten
+"""been""","Glasgow, UK",angten
+"""been""","Tirana, Albania",angten
+"""been""","Santa Barbara, CA, USA",angten
+"""been""","Sighisoara, Romania",angten
+"""been""","Vienna, Austria",angten
+"""been""","Monterey, CA, USA",angten
+"""been""","Palenque, Mexico",angten
+"""been""","St Mary's, UK",angten
+"""been""","Kusadasi, Turkey",angten
+"""been""","Ushuaia, Argentina",angten
+"""been""","Evora, Portugal",angten
+"""been""","Marvao, Portugal",angten
+"""been""","Xpujil Town, Mexico",angten
+"""been""","Cape May, NJ, USA",angten
+"""been""","El Calafate, Argentina",angten
+"""been""","Erfoud, Morocco",angten
+"""been""","Ronda, Spain",angten
+"""been""","Paracas, Peru",angten
+"""been""","San Agustin, Colombia",angten
+"""been""","Hue, Vietnam",angten
+"""been""","Hanoi, Vietnam",angten
+"""been""","Sydney, Australia",angten
+"""been""","Ho Chi Minh City, Vietnam",angten
+"""been""","Darwin, Australia",angten
+"""been""","Bucharest, Romania",angten
+"""been""","Vina del Mar, Chile",angten
+"""been""","Cairns, Australia",angten
+"""been""","Berkeley, CA, USA",angten
+"""been""","Bratislava, Slovakia",angten
+"""been""","Brisbane, Australia",angten
+"""been""","Dartington, UK",angten
+"""been""","Westport, Ireland",angten
+"""been""","San Carlos de Bariloche, Argentina",angten
+"""been""","Palm Desert, CA, USA",angten
+"""been""","Palm Springs, CA, USA",angten
+"""been""","Hvar Island, Croatia",angten
+"""been""","Goreme, Turkey",angten
+"""been""","Lille, France",angten
+"""been""","Mosta, Malta",angten
+"""been""","Marmaris, Turkey",angten
+"""been""","Celestun, Mexico",angten
+"""been""","Buenos Aires, Argentina",angten
+"""been""","Fethiye, Turkey",angten
+"""been""","Victoria, British Columbia, Canada",angten
+"""been""","Sliema, Malta",angten
+"""been""","Vancouver, British Columbia, Canada",angten
+"""been""","Puerto Narino, Colombia",angten
+"""been""","Ottawa, Ontario, Canada",angten
+"""been""","Portsmouth, NH, USA",angten
+"""been""","Fort Myers Beach, FL, USA",angten
+"""been""","Hilo, HI, USA",angten
+"""been""","Carmel, CA, USA",angten
+"""been""","Fort Myers, FL, USA",angten
+"""been""","Holetown, Barbados",angten
+"""been""","Hawi, HI, USA",angten
+"""been""","St. Augustine, FL, USA",angten
+"""been""","Canakkale, Turkey",angten
+"""been""","Waterford, Ireland",angten
+"""been""","Winnetka, IL, USA",angten
+"""been""","Sarasota, FL, USA",angten
+"""been""","Trujillo, Peru",angten
+"""been""","Cartagena, Colombia",angten
+"""been""","Grenoble, France",angten
+"""been""","Ljubljana, Slovenia",angten
+"""been""","Newport, OR, USA",angten
+"""been""","Pereira, Colombia",angten
+"""been""","Hvolsvollur, Iceland",angten
+"""been""","Lyon, France",angten
+"""been""","Washington DC, DC, USA",angten
+"""been""","Paris, France",angten
+"""been""","Bucaramanga, Colombia",angten
+"""been""","Puno, Peru",angten
+"""been""","Fowey, UK",angten
+"""been""","Glen Arbor, MI, USA",angten
+"""been""","Koloa, HI, USA",angten
+"""been""","Asheville, NC, USA",angten
+"""been""","Honolulu, HI, USA",angten
+"""been""","Annecy, France",angten
+"""been""","Poipu, HI, USA",angten
+"""been""","Boston, MA, USA",angten
+"""been""","Amsterdam, The Netherlands",angten
+"""been""","Lihue, HI, USA",angten
+"""been""","Holt, UK",angten
+"""been""","Galway, Ireland",angten
+"""been""","Monterrey, Mexico",angten
+"""been""","Dingle, Ireland",angten
+"""been""","San Diego, CA, USA",angten
+"""been""","Scottsdale, AZ, USA",angten
+"""been""","Sedona, AZ, USA",angten
+"""been""","Dublin, Ireland",angten
+"""been""","Bovec, Slovenia",angten
+"""been""","Chiclayo, Peru",angten
+"""been""","Bled, Slovenia",angten
+"""been""","Eugene, OR, USA",angten
+"""been""","Limerick, Ireland",angten
+"""been""","Sant'Agnello, Italy",angten
+"""been""","Seattle, WA, USA",angten
+"""been""","Minneapolis, MN, USA",angten
+"""been""","Charlottesville, VA, USA",angten
+"""been""","Port Townsend, WA, USA",angten
+"""been""","West Palm Beach, FL, USA",angten
+"""been""","Killarney, Ireland",angten
+"""been""","Warsaw, Poland",angten
+"""been""","Chicago, IL, USA",angten
+"""been""","Newcastle upon Tyne, UK",angten
+"""been""","Brighton, UK",angten
+"""been""","Portland, OR, USA",angten
+"""been""","Jasper, Alberta, Canada",angten
+"""been""","Thornham, UK",angten
+"""been""","Calgary, Alberta, Canada",angten
+"""been""","New York City, NY, USA",angten
+"""been""","Banff, Alberta, Canada",angten
+"""been""","Lake Louise, Alberta, Canada",angten
+"""been""","Wisconsin Dells, WI, USA",angten
+"""been""","Northbrook, IL, USA",angten
+"""been""","Hershey, PA, USA",angten
+"""been""","Leticia, Colombia",angten
+"""been""","Auckland, New Zealand",angten
+"""been""","Cromwell, CT, USA",angten
+"""want""","Providenciales, Turks and Caicos",angten
+"""been""","Riga, Latvia",angten
+"""been""","Heraklion, Greece",angten
+"""been""","Old Lyme, CT, USA",angten
+"""been""","Puerto Iguazu, Argentina",angten
+"""been""","Budva, Montenegro",angten
+"""been""","McMinnville, OR, USA",angten
+"""been""","Barcelona, Spain",angten
+"""been""","Torres del Paine National Park, Chile",angten
+"""been""","Livingston, Guatemala",angten
+"""been""","Taos, NM, USA",angten
+"""been""","Tours, France",angten
+"""been""","Chivay, Peru",angten
+"""been""","Adelaide, Australia",angten
+"""been""","Bridgetown, Barbados",angten
+"""been""","Hobart, Australia",angten
+"""been""","Tallinn, Estonia",angten
+"""been""","Los Angeles, CA, USA",angten
+"""been""","Panajachel, Guatemala",angten
+"""been""","Santiago, Chile",angten

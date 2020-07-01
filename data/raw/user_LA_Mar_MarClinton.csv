@@ -1,0 +1,530 @@
+tag,place,user
+"""want""","Napa, CA, USA",Mar_MarClinton
+"""want""","Zurich, Switzerland",Mar_MarClinton
+"""want""","Needles, CA, USA",Mar_MarClinton
+"""been""","Gulf Shores, AL, USA",Mar_MarClinton
+"""been""","Vero Beach, FL, USA",Mar_MarClinton
+"""want""","Paris, France",Mar_MarClinton
+"""been""","Toledo, OH, USA",Mar_MarClinton
+"""been""","Hope, AR, USA",Mar_MarClinton
+"""been""","Salina, KS, USA",Mar_MarClinton
+"""been""","Rolla, MO, USA",Mar_MarClinton
+"""want""","Baton Rouge, LA, USA",Mar_MarClinton
+"""want""","Amsterdam, The Netherlands",Mar_MarClinton
+"""been""","Henderson, NV, USA",Mar_MarClinton
+"""been""","Huntsville, AR, USA",Mar_MarClinton
+"""want""","Barcelona, Spain",Mar_MarClinton
+"""want""","Marseille, France",Mar_MarClinton
+"""been""","Maui, HI, USA",Mar_MarClinton
+"""been""","Bentonville, AR, USA",Mar_MarClinton
+"""been""","Rifle, CO, USA",Mar_MarClinton
+"""want""","Prescott, AZ, USA",Mar_MarClinton
+"""been"",""want""","Los Angeles, CA, USA",Mar_MarClinton
+"""been""","Mansfield, MO, USA",Mar_MarClinton
+"""been""","Saint Charles, MO, USA",Mar_MarClinton
+"""been""","Osage Beach, MO, USA",Mar_MarClinton
+"""been""","Jackson, MO, USA",Mar_MarClinton
+"""want""","Dusseldorf, Germany",Mar_MarClinton
+"""been""","Las Vegas, NV, USA",Mar_MarClinton
+"""been""","Ozark, MO, USA",Mar_MarClinton
+"""want""","Augusta, GA, USA",Mar_MarClinton
+"""want""","Deadwood, SD, USA",Mar_MarClinton
+"""been""","Glendale, UT, USA",Mar_MarClinton
+"""want""","Saint-Tropez, France",Mar_MarClinton
+"""want""","Arlington, VA, USA",Mar_MarClinton
+"""want""","Copenhagen, Denmark",Mar_MarClinton
+"""been""","St. Petersburg, FL, USA",Mar_MarClinton
+"""been""","Saint Augustine Beach, FL, USA",Mar_MarClinton
+"""been"",""fave""","St. George Island, FL, USA",Mar_MarClinton
+"""want""","Santiago, Chile",Mar_MarClinton
+"""been""","Saint Robert, MO, USA",Mar_MarClinton
+"""been""","Saint Peters, MO, USA",Mar_MarClinton
+"""been""","Pensacola Beach, FL, USA",Mar_MarClinton
+"""been""","Saint Louis, MO, USA",Mar_MarClinton
+"""been""","Saint Joseph, MO, USA",Mar_MarClinton
+"""been""","Bartlesville, OK, USA",Mar_MarClinton
+"""want""","Monte-Carlo, Monaco",Mar_MarClinton
+"""been""","Mesquite, NV, USA",Mar_MarClinton
+"""been""","North Platte, NE, USA",Mar_MarClinton
+"""been""","Jefferson City, MO, USA",Mar_MarClinton
+"""been""","Sainte Genevieve, MO, USA",Mar_MarClinton
+"""been""","Silverton, CO, USA",Mar_MarClinton
+"""been""","Fayetteville, AR, USA",Mar_MarClinton
+"""been""","Wewahitchka, FL, USA",Mar_MarClinton
+"""want""","Nice, France",Mar_MarClinton
+"""want""","Portland, OR, USA",Mar_MarClinton
+"""been""","Birmingham, AL, USA",Mar_MarClinton
+"""been""","Sarasota, FL, USA",Mar_MarClinton
+"""been""","Escalante, UT, USA",Mar_MarClinton
+"""want""","Prague, Czech Republic",Mar_MarClinton
+"""been""","Tahlequah, OK, USA",Mar_MarClinton
+"""been""","Eureka Springs, AR, USA",Mar_MarClinton
+"""been""","West Palm Beach, FL, USA",Mar_MarClinton
+"""been""","Kansas City, MO, USA",Mar_MarClinton
+"""been""","Minneapolis, MN, USA",Mar_MarClinton
+"""been""","Biloxi, MS, USA",Mar_MarClinton
+"""been""","Joplin, MO, USA",Mar_MarClinton
+"""want""","Queenstown, New Zealand",Mar_MarClinton
+"""been""","North Las Vegas, NV, USA",Mar_MarClinton
+"""been""","Overton, NV, USA",Mar_MarClinton
+"""want""","Hannover, Germany",Mar_MarClinton
+"""been""","Pahrump, NV, USA",Mar_MarClinton
+"""been""","Sedalia, MO, USA",Mar_MarClinton
+"""want""","Oslo, Norway",Mar_MarClinton
+"""been""","Wailea, HI, USA",Mar_MarClinton
+"""want""","Cairo, Egypt",Mar_MarClinton
+"""want""","Tallinn, Estonia",Mar_MarClinton
+"""been""","Neosho, MO, USA",Mar_MarClinton
+"""been""","Boulder, UT, USA",Mar_MarClinton
+"""been""","Big Water, UT, USA",Mar_MarClinton
+"""want""","Luxor, Egypt",Mar_MarClinton
+"""want""","Wellington, New Zealand",Mar_MarClinton
+"""been""","Dallas, TX, USA",Mar_MarClinton
+"""want""","Monterey, CA, USA",Mar_MarClinton
+"""been""","Abilene, KS, USA",Mar_MarClinton
+"""want""","Machu Picchu, Peru",Mar_MarClinton
+"""want""","Auckland Central, New Zealand",Mar_MarClinton
+"""been""","Aspen, CO, USA",Mar_MarClinton
+"""want""","Kangerlussuaq, Greenland",Mar_MarClinton
+"""want""","Hammamet, Tunisia",Mar_MarClinton
+"""been""","Conway, AR, USA",Mar_MarClinton
+"""want""","Lima, Peru",Mar_MarClinton
+"""been""","Bunkerville, NV, USA",Mar_MarClinton
+"""want""","Melbourne, Australia",Mar_MarClinton
+"""been""","Carson City, NV, USA",Mar_MarClinton
+"""want""","Lourdes, France",Mar_MarClinton
+"""been""","Ulm, Germany",Mar_MarClinton
+"""been""","Stuttgart, Germany",Mar_MarClinton
+"""been""","Mannheim, Germany",Mar_MarClinton
+"""want""","Rapid City, SD, USA",Mar_MarClinton
+"""been""","Alton, IL, USA",Mar_MarClinton
+"""want""","Warsaw, Poland",Mar_MarClinton
+"""been""","Fredericksburg, TX, USA",Mar_MarClinton
+"""been""","Claremore, OK, USA",Mar_MarClinton
+"""been"",""fave""","Heidelberg, Germany",Mar_MarClinton
+"""want""","Annapolis, MD, USA",Mar_MarClinton
+"""want""","Vienna, Austria",Mar_MarClinton
+"""been""","Allenspark, CO, USA",Mar_MarClinton
+"""been""","Rogers, AR, USA",Mar_MarClinton
+"""been""","Grand Canyon National Park, AZ, USA",Mar_MarClinton
+"""want""","Winslow, AZ, USA",Mar_MarClinton
+"""want""","Pittsburgh, PA, USA",Mar_MarClinton
+"""been""","Wichita, KS, USA",Mar_MarClinton
+"""been""","Liberty, MO, USA",Mar_MarClinton
+"""been""","Ely, NV, USA",Mar_MarClinton
+"""been""","Freiburg im Breisgau, Germany",Mar_MarClinton
+"""want""","Baden-Baden, Germany",Mar_MarClinton
+"""want""","Dresden, Germany",Mar_MarClinton
+"""been""","Bryce, UT, USA",Mar_MarClinton
+"""want""","Mystic, CT, USA",Mar_MarClinton
+"""been""","Ramrod Key, FL, USA",Mar_MarClinton
+"""want""","Beijing, China",Mar_MarClinton
+"""been""","Saarbrucken, Germany",Mar_MarClinton
+"""want""","Innsbruck, Austria",Mar_MarClinton
+"""want""","Pueblo, CO, USA",Mar_MarClinton
+"""want""","Salzburg, Austria",Mar_MarClinton
+"""been""","Canton, OH, USA",Mar_MarClinton
+"""been""","Bryce Canyon National Park, UT, USA",Mar_MarClinton
+"""want""","Nadi, Fiji",Mar_MarClinton
+"""want""","Hong Kong, China",Mar_MarClinton
+"""been""","North Kansas City, MO, USA",Mar_MarClinton
+"""been""","Rocheport, MO, USA",Mar_MarClinton
+"""want""","Koblenz, Germany",Mar_MarClinton
+"""been""","Kaiserslautern, Germany",Mar_MarClinton
+"""been""","O'Fallon, MO, USA",Mar_MarClinton
+"""want""","Roswell, NM, USA",Mar_MarClinton
+"""been""","Huntsville, AL, USA",Mar_MarClinton
+"""been""","Texarkana, AR, USA",Mar_MarClinton
+"""been""","Jacksonville, NC, USA",Mar_MarClinton
+"""been""","Ozark, AR, USA",Mar_MarClinton
+"""been""","Oklahoma City, OK, USA",Mar_MarClinton
+"""want""","Montreal, Quebec, Canada",Mar_MarClinton
+"""want""","Port Elizabeth, South Africa",Mar_MarClinton
+"""been""","Shreveport, LA, USA",Mar_MarClinton
+"""want""","Budapest, Hungary",Mar_MarClinton
+"""want""","Kyiv (Kiev), Ukraine",Mar_MarClinton
+"""want""","Lisbon, Portugal",Mar_MarClinton
+"""been""","Columbus, OH, USA",Mar_MarClinton
+"""been""","Chattanooga, TN, USA",Mar_MarClinton
+"""want""","Joshua Tree National Park, CA, USA",Mar_MarClinton
+"""want""","Villa Mercedes, Argentina",Mar_MarClinton
+"""been""","Bowling Green, KY, USA",Mar_MarClinton
+"""been""","Ardmore, OK, USA",Mar_MarClinton
+"""been""","Sikeston, MO, USA",Mar_MarClinton
+"""want""","Lucerne, Switzerland",Mar_MarClinton
+"""want""","Singapore, Singapore",Mar_MarClinton
+"""want""","Charlotte, NC, USA",Mar_MarClinton
+"""want""","Geneva, Switzerland",Mar_MarClinton
+"""want""","Honiara, Solomon Islands",Mar_MarClinton
+"""been""","Pine Bluff, AR, USA",Mar_MarClinton
+"""want""","Krakow, Poland",Mar_MarClinton
+"""been""","Broken Arrow, OK, USA",Mar_MarClinton
+"""been""","Broken Bow, OK, USA",Mar_MarClinton
+"""want""","St. Petersburg, Russia",Mar_MarClinton
+"""been""","Playa Paraiso, Mexico",Mar_MarClinton
+"""want""","Cape Town Central, South Africa",Mar_MarClinton
+"""been""","Toronto, Ontario, Canada",Mar_MarClinton
+"""been""","Lexington, KY, USA",Mar_MarClinton
+"""been""","Freeport, Bahamas",Mar_MarClinton
+"""been""","Potosi, MO, USA",Mar_MarClinton
+"""been""","Springfield, MO, USA",Mar_MarClinton
+"""want""","Hersonissos, Greece",Mar_MarClinton
+"""been""","Poplar Bluff, MO, USA",Mar_MarClinton
+"""been""","Jackson, MS, USA",Mar_MarClinton
+"""been""","Ramstein-Miesenbach, Germany",Mar_MarClinton
+"""want""","Bern, Switzerland",Mar_MarClinton
+"""been"",""fave""","Cozumel, Mexico",Mar_MarClinton
+"""want""","Bordeaux, France",Mar_MarClinton
+"""been""","Cancun, Mexico",Mar_MarClinton
+"""want""","South Pole, Antarctica",Mar_MarClinton
+"""been""","Zion National Park, UT, USA",Mar_MarClinton
+"""been""","Tulsa, OK, USA",Mar_MarClinton
+"""been""","Nassau, Bahamas",Mar_MarClinton
+"""been""","Playa del Carmen, Mexico",Mar_MarClinton
+"""been"",""fave""","Strasbourg, France",Mar_MarClinton
+"""want""","Winston Salem, NC, USA",Mar_MarClinton
+"""want""","Lancaster, PA, USA",Mar_MarClinton
+"""been""","Ann Arbor, MI, USA",Mar_MarClinton
+"""want""","Sharm El Sheikh, Egypt",Mar_MarClinton
+"""been""","Ava, MO, USA",Mar_MarClinton
+"""been""","Dodge City, KS, USA",Mar_MarClinton
+"""want""","Billings, MT, USA",Mar_MarClinton
+"""want""","Big Sky, MT, USA",Mar_MarClinton
+"""want""","Central Kalahari Game Reserve, Botswana",Mar_MarClinton
+"""been""","Mobile, AL, USA",Mar_MarClinton
+"""been""","Mount Carmel, UT, USA",Mar_MarClinton
+"""want""","Monument Valley, UT, USA",Mar_MarClinton
+"""been""","Mountain Home, AR, USA",Mar_MarClinton
+"""want""","Albany, NY, USA",Mar_MarClinton
+"""been""","Mountain View, AR, USA",Mar_MarClinton
+"""been""","Sandy Bay, Honduras",Mar_MarClinton
+"""want""","Norfolk, VA, USA",Mar_MarClinton
+"""been""","Murfreesboro, AR, USA",Mar_MarClinton
+"""been""","Hutchinson, KS, USA",Mar_MarClinton
+"""want""","Ocho Rios, Jamaica",Mar_MarClinton
+"""been""","Montgomery, AL, USA",Mar_MarClinton
+"""want""","Hurghada, Egypt",Mar_MarClinton
+"""been""","Big Pine Key, FL, USA",Mar_MarClinton
+"""been""","Boca Raton, FL, USA",Mar_MarClinton
+"""want""","Virginia Beach, VA, USA",Mar_MarClinton
+"""want""","Mexican Hat, UT, USA",Mar_MarClinton
+"""been""","Springdale, AR, USA",Mar_MarClinton
+"""been""","Atchison, KS, USA",Mar_MarClinton
+"""want""","Raleigh, NC, USA",Mar_MarClinton
+"""want""","Brasov, Romania",Mar_MarClinton
+"""been""","Norman, OK, USA",Mar_MarClinton
+"""been""","Stillwater, OK, USA",Mar_MarClinton
+"""been""","Orderville, UT, USA",Mar_MarClinton
+"""want""","Jackson, WY, USA",Mar_MarClinton
+"""want""","Castries, St. Lucia",Mar_MarClinton
+"""been""","North Little Rock, AR, USA",Mar_MarClinton
+"""want""","Taos Ski Valley, NM, USA",Mar_MarClinton
+"""been""","Panguitch, UT, USA",Mar_MarClinton
+"""want""","Rio de Janeiro, Brazil",Mar_MarClinton
+"""want""","Niagara Falls, NY, USA",Mar_MarClinton
+"""want""","Puerto Varas, Chile",Mar_MarClinton
+"""been""","Alamogordo, NM, USA",Mar_MarClinton
+"""been""","Jonesboro, AR, USA",Mar_MarClinton
+"""been""","Cleveland, OH, USA",Mar_MarClinton
+"""been""","Muskogee, OK, USA",Mar_MarClinton
+"""been""","Gulfport, MS, USA",Mar_MarClinton
+"""want""","Cheyenne, WY, USA",Mar_MarClinton
+"""want""","Portland, ME, USA",Mar_MarClinton
+"""want""","Sandpoint, ID, USA",Mar_MarClinton
+"""been""","Cocoa Beach, FL, USA",Mar_MarClinton
+"""been""","Goodland, KS, USA",Mar_MarClinton
+"""been""","Marion, IL, USA",Mar_MarClinton
+"""been""","Seven Mile Beach, Cayman Islands",Mar_MarClinton
+"""want""","Killarney, Ireland",Mar_MarClinton
+"""want""","Genoa, Italy",Mar_MarClinton
+"""want""","Galway, Ireland",Mar_MarClinton
+"""want""","Mammoth Lakes, CA, USA",Mar_MarClinton
+"""want""","West Yellowstone, MT, USA",Mar_MarClinton
+"""been""","Butler, MO, USA",Mar_MarClinton
+"""been""","West Plains, MO, USA",Mar_MarClinton
+"""been""","Little Torch Key, FL, USA",Mar_MarClinton
+"""want""","St. John's, Antigua and Barbuda",Mar_MarClinton
+"""been""","Tropic, UT, USA",Mar_MarClinton
+"""want""","Philadelphia, PA, USA",Mar_MarClinton
+"""been""","Socorro, NM, USA",Mar_MarClinton
+"""been""","Kanab, UT, USA",Mar_MarClinton
+"""want""","Gettysburg, PA, USA",Mar_MarClinton
+"""want""","Acapulco, Mexico",Mar_MarClinton
+"""want""","Madang, Papua New Guinea",Mar_MarClinton
+"""been""","Long Key, FL, USA",Mar_MarClinton
+"""been""","Dublin, Ireland",Mar_MarClinton
+"""been""","Paducah, KY, USA",Mar_MarClinton
+"""been""","Louisville, KY, USA",Mar_MarClinton
+"""want""","Puerto Vallarta, Mexico",Mar_MarClinton
+"""been""","Quincy, IL, USA",Mar_MarClinton
+"""want""","Mazatlan, Mexico",Mar_MarClinton
+"""want""","Caracas, Venezuela",Mar_MarClinton
+"""want""","Manzanillo, Mexico",Mar_MarClinton
+"""been""","Cudjoe Key, FL, USA",Mar_MarClinton
+"""been""","Hurricane, UT, USA",Mar_MarClinton
+"""want""","Taos, NM, USA",Mar_MarClinton
+"""been""","Dayton, OH, USA",Mar_MarClinton
+"""want""","Death Valley Junction, CA, USA",Mar_MarClinton
+"""want""","Fargo, ND, USA",Mar_MarClinton
+"""been""","O'Fallon, IL, USA",Mar_MarClinton
+"""want""","Big Sur, CA, USA",Mar_MarClinton
+"""been""","Daytona Beach, FL, USA",Mar_MarClinton
+"""want""","Puerto Morelos, Mexico",Mar_MarClinton
+"""been""","Hays, KS, USA",Mar_MarClinton
+"""been""","Hollywood, FL, USA",Mar_MarClinton
+"""want""","South Lake Tahoe, CA, USA",Mar_MarClinton
+"""want""","Wilmington, NC, USA",Mar_MarClinton
+"""been""","Russellville, AR, USA",Mar_MarClinton
+"""want""","Great Falls, MT, USA",Mar_MarClinton
+"""want""","Ensenada, Mexico",Mar_MarClinton
+"""been""","Duck Key, FL, USA",Mar_MarClinton
+"""want""","Boise, ID, USA",Mar_MarClinton
+"""want""","Teton Village, WY, USA",Mar_MarClinton
+"""want""","Roanoke, VA, USA",Mar_MarClinton
+"""want""","Cody, WY, USA",Mar_MarClinton
+"""been""","Pukalani, HI, USA",Mar_MarClinton
+"""been""","Wailuku, HI, USA",Mar_MarClinton
+"""want""","Williamsburg, VA, USA",Mar_MarClinton
+"""want""","Glasgow, UK",Mar_MarClinton
+"""been""","Key Colony Beach, FL, USA",Mar_MarClinton
+"""been""","Boonville, MO, USA",Mar_MarClinton
+"""been""","Key West, FL, USA",Mar_MarClinton
+"""want""","Crested Butte, CO, USA",Mar_MarClinton
+"""been""","Navarre, FL, USA",Mar_MarClinton
+"""been""","Naples, FL, USA",Mar_MarClinton
+"""been""","Florida City, FL, USA",Mar_MarClinton
+"""want""","Arvayheer, Mongolia",Mar_MarClinton
+"""been""","Taylorville, IL, USA",Mar_MarClinton
+"""been""","Fort Lauderdale, FL, USA",Mar_MarClinton
+"""been""","Belize City, Belize",Mar_MarClinton
+"""want""","Carlsbad, CA, USA",Mar_MarClinton
+"""want""","Carmel, CA, USA",Mar_MarClinton
+"""been""","Fort Myers Beach, FL, USA",Mar_MarClinton
+"""been""","Kissimmee, FL, USA",Mar_MarClinton
+"""been""","Fort Myers, FL, USA",Mar_MarClinton
+"""been""","Cincinnati, OH, USA",Mar_MarClinton
+"""want""","San Diego, CA, USA",Mar_MarClinton
+"""want""","Moscow, Russia",Mar_MarClinton
+"""been""","Kihei, HI, USA",Mar_MarClinton
+"""been""","Lahaina, HI, USA",Mar_MarClinton
+"""been""","Kula, HI, USA",Mar_MarClinton
+"""been""","Paia, HI, USA",Mar_MarClinton
+"""want""","Seattle, WA, USA",Mar_MarClinton
+"""been""","Makawao, HI, USA",Mar_MarClinton
+"""want""","Skagway, AK, USA",Mar_MarClinton
+"""want""","Mar del Plata, Argentina",Mar_MarClinton
+"""been""","Topeka, KS, USA",Mar_MarClinton
+"""want""","Washington DC, DC, USA",Mar_MarClinton
+"""been""","Lanai City, HI, USA",Mar_MarClinton
+"""been""","Harrison, AR, USA",Mar_MarClinton
+"""been""","Houston, TX, USA",Mar_MarClinton
+"""been""","Olathe, KS, USA",Mar_MarClinton
+"""been""","San Pedro, Belize",Mar_MarClinton
+"""been""","Sandusky, OH, USA",Mar_MarClinton
+"""been""","Denver, CO, USA",Mar_MarClinton
+"""been""","Branson West, MO, USA",Mar_MarClinton
+"""been""","Fort Walton Beach, FL, USA",Mar_MarClinton
+"""been"",""fave""","Wicklow, Ireland",Mar_MarClinton
+"""want""","Edinburgh, UK",Mar_MarClinton
+"""been""","Branson, MO, USA",Mar_MarClinton
+"""been""","Lawrence, KS, USA",Mar_MarClinton
+"""been""","Peoria, IL, USA",Mar_MarClinton
+"""been""","St. Augustine, FL, USA",Mar_MarClinton
+"""been""","Cape Canaveral, FL, USA",Mar_MarClinton
+"""want""","Thompson, Manitoba, Canada",Mar_MarClinton
+"""been""","Cuba, MO, USA",Mar_MarClinton
+"""been""","Gainesville, FL, USA",Mar_MarClinton
+"""want""","Varadero, Cuba",Mar_MarClinton
+"""been""","Creve Coeur, MO, USA",Mar_MarClinton
+"""been"",""want""","Honolulu, HI, USA",Mar_MarClinton
+"""been""","Gunnison, CO, USA",Mar_MarClinton
+"""want""","Custer, SD, USA",Mar_MarClinton
+"""been""","Topsail Beach, NC, USA",Mar_MarClinton
+"""want""","Vicksburg, MS, USA",Mar_MarClinton
+"""been""","New Orleans, LA, USA",Mar_MarClinton
+"""want""","Boston, MA, USA",Mar_MarClinton
+"""been""","Hatch, UT, USA",Mar_MarClinton
+"""been""","Lenexa, KS, USA",Mar_MarClinton
+"""been""","Durango, CO, USA",Mar_MarClinton
+"""been""","Overland Park, KS, USA",Mar_MarClinton
+"""been""","Garden City, KS, USA",Mar_MarClinton
+"""been""","Milan, Italy",Mar_MarClinton
+"""want""","Antananarivo, Madagascar",Mar_MarClinton
+"""been""","Beverly Hills, CA, USA",Mar_MarClinton
+"""been""","Warrensburg, MO, USA",Mar_MarClinton
+"""been""","Bridgeton, MO, USA",Mar_MarClinton
+"""been""","Henrieville, UT, USA",Mar_MarClinton
+"""been""","Richmond, VA, USA",Mar_MarClinton
+"""been""","Memphis, TN, USA",Mar_MarClinton
+"""been""","Atlanta, GA, USA",Mar_MarClinton
+"""been""","St. George, UT, USA",Mar_MarClinton
+"""been""","Bergamo, Italy",Mar_MarClinton
+"""want""","Santa Barbara, CA, USA",Mar_MarClinton
+"""been""","Bellagio, Italy",Mar_MarClinton
+"""been""","Clearwater, FL, USA",Mar_MarClinton
+"""want""","Bangkok, Thailand",Mar_MarClinton
+"""want""","Anchorage, AK, USA",Mar_MarClinton
+"""been""","Salina, UT, USA",Mar_MarClinton
+"""want""","Carlsbad, NM, USA",Mar_MarClinton
+"""been""","Omaha, NE, USA",Mar_MarClinton
+"""been""","Little Rock, AR, USA",Mar_MarClinton
+"""been""","Wisconsin Dells, WI, USA",Mar_MarClinton
+"""been""","Springfield, IL, USA",Mar_MarClinton
+"""been""","Cedar City, UT, USA",Mar_MarClinton
+"""want""","Cabo San Lucas, Mexico",Mar_MarClinton
+"""been"",""fave""","San Antonio, TX, USA",Mar_MarClinton
+"""want""","Sorrento, Italy",Mar_MarClinton
+"""want""","Santa Fe, NM, USA",Mar_MarClinton
+"""been""","Davenport, IA, USA",Mar_MarClinton
+"""want""","Garmisch-Partenkirchen, Germany",Mar_MarClinton
+"""want""","Pompeii, Italy",Mar_MarClinton
+"""been"",""fave""","Landstuhl, Germany",Mar_MarClinton
+"""want""","Naples, Italy",Mar_MarClinton
+"""been""","Summerland Key, FL, USA",Mar_MarClinton
+"""been""","Eureka, MO, USA",Mar_MarClinton
+"""want""","Marble Canyon, AZ, USA",Mar_MarClinton
+"""been""","Panama City Beach, FL, USA",Mar_MarClinton
+"""been""","Burbank, CA, USA",Mar_MarClinton
+"""been""","Panama City, FL, USA",Mar_MarClinton
+"""been""","London, UK",Mar_MarClinton
+"""want""","Spokane, WA, USA",Mar_MarClinton
+"""been""","Munich, Germany",Mar_MarClinton
+"""been""","Lee's Summit, MO, USA",Mar_MarClinton
+"""been""","Harrisonville, MO, USA",Mar_MarClinton
+"""been""","Lebanon, MO, USA",Mar_MarClinton
+"""been""","Pensacola, FL, USA",Mar_MarClinton
+"""want""","Tucson, AZ, USA",Mar_MarClinton
+"""want""","Amalfi, Italy",Mar_MarClinton
+"""been""","Page, AZ, USA",Mar_MarClinton
+"""been""","Duluth, MN, USA",Mar_MarClinton
+"""been""","Miami Beach, FL, USA",Mar_MarClinton
+"""been""","Estes Park, CO, USA",Mar_MarClinton
+"""been""","Miami, FL, USA",Mar_MarClinton
+"""want""","Fredericksburg, VA, USA",Mar_MarClinton
+"""want""","Brooklyn, NY, USA",Mar_MarClinton
+"""want""","Fairbanks, AK, USA",Mar_MarClinton
+"""want""","Bar Harbor, ME, USA",Mar_MarClinton
+"""want""","Florence, Italy",Mar_MarClinton
+"""want""","Nur-Sultan, Kazakhstan",Mar_MarClinton
+"""been""","Hermann, MO, USA",Mar_MarClinton
+"""been""","Tallahassee, FL, USA",Mar_MarClinton
+"""want""","Pisa, Italy",Mar_MarClinton
+"""been""","Carbondale, IL, USA",Mar_MarClinton
+"""been""","Parachute, CO, USA",Mar_MarClinton
+"""been""","Tampa, FL, USA",Mar_MarClinton
+"""been""","Belton, MO, USA",Mar_MarClinton
+"""want""","Excelsior Springs, MO, USA",Mar_MarClinton
+"""been""","Chesterfield, MO, USA",Mar_MarClinton
+"""want""","Palermo, Italy",Mar_MarClinton
+"""want""","Niagara-on-the-Lake, Ontario, Canada",Mar_MarClinton
+"""want""","Niagara Falls, Ontario, Canada",Mar_MarClinton
+"""been""","Kapaa, HI, USA",Mar_MarClinton
+"""been""","Jacksonville Beach, FL, USA",Mar_MarClinton
+"""been""","Homestead, FL, USA",Mar_MarClinton
+"""been""","Madison, WI, USA",Mar_MarClinton
+"""want""","Marrakech, Morocco",Mar_MarClinton
+"""been""","Clinton, MO, USA",Mar_MarClinton
+"""been""","Fenton, MO, USA",Mar_MarClinton
+"""been""","Des Moines, IA, USA",Mar_MarClinton
+"""want""","Agadir, Morocco",Mar_MarClinton
+"""want""","Casablanca, Morocco",Mar_MarClinton
+"""want""","Puerto Aventuras, Mexico",Mar_MarClinton
+"""been""","Farmington, MO, USA",Mar_MarClinton
+"""want""","Saint John, New Brunswick, Canada",Mar_MarClinton
+"""been""","Clayton, MO, USA",Mar_MarClinton
+"""been"",""want""","Murfreesboro, TN, USA",Mar_MarClinton
+"""want""","Tokyo, Japan",Mar_MarClinton
+"""want""","Los Alamos, NM, USA",Mar_MarClinton
+"""been""","Hanalei, HI, USA",Mar_MarClinton
+"""been""","Pigeon Forge, TN, USA",Mar_MarClinton
+"""been""","Hot Springs, AR, USA",Mar_MarClinton
+"""been""","Pana, IL, USA",Mar_MarClinton
+"""been""","Independence, MO, USA",Mar_MarClinton
+"""want""","Venice, Italy",Mar_MarClinton
+"""been""","Knoxville, TN, USA",Mar_MarClinton
+"""been""","Maalaea, HI, USA",Mar_MarClinton
+"""want""","St. Helena, CA, USA",Mar_MarClinton
+"""been""","Blue Springs, MO, USA",Mar_MarClinton
+"""been""","Colorado Springs, CO, USA",Mar_MarClinton
+"""want""","Madrid, Spain",Mar_MarClinton
+"""been""","Kansas City, KS, USA",Mar_MarClinton
+"""want""","Helsinki, Finland",Mar_MarClinton
+"""want""","Bismarck, ND, USA",Mar_MarClinton
+"""been""","Homburg, Germany",Mar_MarClinton
+"""been""","Columbia, MO, USA",Mar_MarClinton
+"""been""","Champaign, IL, USA",Mar_MarClinton
+"""been""","Hollister, MO, USA",Mar_MarClinton
+"""want""","Charleston, SC, USA",Mar_MarClinton
+"""want""","Gatlinburg, TN, USA",Mar_MarClinton
+"""want""","Sitka, AK, USA",Mar_MarClinton
+"""been"",""want""","Moab, UT, USA",Mar_MarClinton
+"""want""","Greensboro, NC, USA",Mar_MarClinton
+"""want""","Halifax, Nova Scotia, Canada",Mar_MarClinton
+"""been""","Steamboat Springs, CO, USA",Mar_MarClinton
+"""want""","Athens, Greece",Mar_MarClinton
+"""been""","Sedona, AZ, USA",Mar_MarClinton
+"""been""","Loveland, CO, USA",Mar_MarClinton
+"""want""","Myrtle Beach, SC, USA",Mar_MarClinton
+"""been""","Kimberling City, MO, USA",Mar_MarClinton
+"""been""","Reno, NV, USA",Mar_MarClinton
+"""want""","Bruges, Belgium",Mar_MarClinton
+"""been""","Lake Powell, UT, USA",Mar_MarClinton
+"""been""","Natchez, MS, USA",Mar_MarClinton
+"""want""","Bath, UK",Mar_MarClinton
+"""been""","Siesta Key, FL, USA",Mar_MarClinton
+"""been""","Orlando, FL, USA",Mar_MarClinton
+"""want""","Hamburg, Germany",Mar_MarClinton
+"""been""","Frankfurt, Germany",Mar_MarClinton
+"""want""","Doume, Cameroon",Mar_MarClinton
+"""been""","Flagler, CO, USA",Mar_MarClinton
+"""want""","Charleston, WV, USA",Mar_MarClinton
+"""been""","Muskegon, MI, USA",Mar_MarClinton
+"""want""","Sydney, Australia",Mar_MarClinton
+"""been""","Dearborn, MI, USA",Mar_MarClinton
+"""want""","Supai, AZ, USA",Mar_MarClinton
+"""been""","Detroit, MI, USA",Mar_MarClinton
+"""been""","Savannah, GA, USA",Mar_MarClinton
+"""been""","Beaufort, SC, USA",Mar_MarClinton
+"""been""","Fort Smith, AR, USA",Mar_MarClinton
+"""been""","Fredonia, AZ, USA",Mar_MarClinton
+"""been""","Fort Scott, KS, USA",Mar_MarClinton
+"""want""","Bremen, Germany",Mar_MarClinton
+"""want""","Nottingham, UK",Mar_MarClinton
+"""been""","Berlin, Germany",Mar_MarClinton
+"""been""","Mesa (Mesa County), CO, USA",Mar_MarClinton
+"""been""","Jacob Lake, AZ, USA",Mar_MarClinton
+"""been""","Vail, CO, USA",Mar_MarClinton
+"""been""","Nashville, TN, USA",Mar_MarClinton
+"""been""","Earth City, MO, USA",Mar_MarClinton
+"""want""","Tombstone, AZ, USA",Mar_MarClinton
+"""been""","Albuquerque, NM, USA",Mar_MarClinton
+"""want""","Cape Girardeau, MO, USA",Mar_MarClinton
+"""want""","Petrified Forest National Park, AZ, USA",Mar_MarClinton
+"""been""","Lake Ozark, MO, USA",Mar_MarClinton
+"""want""","Baltimore, MD, USA",Mar_MarClinton
+"""been""","Breckenridge, CO, USA",Mar_MarClinton
+"""been""","Sugarloaf Key, FL, USA",Mar_MarClinton
+"""been""","Granby, CO, USA",Mar_MarClinton
+"""been""","Sugarloaf, FL, USA",Mar_MarClinton
+"""been""","Nuremberg, Germany",Mar_MarClinton
+"""been""","Jacksonville, FL, USA",Mar_MarClinton
+"""want""","Reykjavik, Iceland",Mar_MarClinton
+"""want""","Corpus Christi, TX, USA",Mar_MarClinton
+"""been""","Augsburg, Germany",Mar_MarClinton
+"""want""","Brussels, Belgium",Mar_MarClinton
+"""want""","Juneau, AK, USA",Mar_MarClinton
+"""want""","Stockholm, Sweden",Mar_MarClinton
+"""want""","Lake Havasu City, AZ, USA",Mar_MarClinton
+"""been""","Hannibal, MO, USA",Mar_MarClinton
+"""been""","Fussen, Germany",Mar_MarClinton
+"""been""","Boulder, CO, USA",Mar_MarClinton
+"""been""","Glenwood Springs, CO, USA",Mar_MarClinton
+"""been""","Golden, CO, USA",Mar_MarClinton
+"""been""","Cassville, MO, USA",Mar_MarClinton
+"""been""","Carthage, MO, USA",Mar_MarClinton
+"""been""","Lamar, MO, USA",Mar_MarClinton
+"""been"",""fave""","Grand Junction, CO, USA",Mar_MarClinton
+"""want""","Ketchikan, AK, USA",Mar_MarClinton
+"""want""","North Myrtle Beach, SC, USA",Mar_MarClinton
+"""want""","Rome, Italy",Mar_MarClinton
+"""want""","Salt Lake City, UT, USA",Mar_MarClinton

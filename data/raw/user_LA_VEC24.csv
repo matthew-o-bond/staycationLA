@@ -1,0 +1,499 @@
+tag,place,user
+"""been""","Paramount, CA, USA",VEC24
+"""been""","Louisa, VA, USA",VEC24
+"""been""","Montclair, CA, USA",VEC24
+"""been""","Lovettsville, VA, USA",VEC24
+"""been""","Fort Worth, TX, USA",VEC24
+"""been""","Pasadena, CA, USA",VEC24
+"""been""","Riverside, CA, USA",VEC24
+"""been""","Williams, AZ, USA",VEC24
+"""been""","Monrovia, CA, USA",VEC24
+"""been""","Westlake, OH, USA",VEC24
+"""been""","Strongsville, OH, USA",VEC24
+"""been""","Philipsburg, PA, USA",VEC24
+"""want""","Bury St. Edmunds, UK",VEC24
+"""been""","Belchertown, MA, USA",VEC24
+"""been""","La Linea de la Concepcion, Spain",VEC24
+"""been""","La Plata, MD, USA",VEC24
+"""been""","Milwaukee, WI, USA",VEC24
+"""been""","Manassas Park, VA, USA",VEC24
+"""been""","Palm Springs, CA, USA",VEC24
+"""been""","Disraeli, Quebec, Canada",VEC24
+"""been""","Pittsburgh, PA, USA",VEC24
+"""been""","Granby, MA, USA",VEC24
+"""been""","Ann Arbor, MI, USA",VEC24
+"""been""","Copenhagen, Denmark",VEC24
+"""been""","Laurel, MD, USA",VEC24
+"""been""","Gurnee, IL, USA",VEC24
+"""been""","Greenfield, MA, USA",VEC24
+"""been""","Lexington Park, MD, USA",VEC24
+"""been""","Orleans, France",VEC24
+"""been""","Tangier, Morocco",VEC24
+"""been""","Mystic, CT, USA",VEC24
+"""been""","Sacramento, CA, USA",VEC24
+"""been""","Huntington Beach, CA, USA",VEC24
+"""been""","Bristol, CT, USA",VEC24
+"""been""","Idyllwild, CA, USA",VEC24
+"""been""","Pueblo, CO, USA",VEC24
+"""been""","New Britain, CT, USA",VEC24
+"""been""","Rowe, MA, USA",VEC24
+"""been""","Stoutsville, MO, USA",VEC24
+"""been""","Arcadia, CA, USA",VEC24
+"""been""","Easthampton, MA, USA",VEC24
+"""want""","Eindhoven, The Netherlands",VEC24
+"""been""","White Marsh, MD, USA",VEC24
+"""been""","Tel Aviv, Israel",VEC24
+"""been""","Amman, Jordan",VEC24
+"""been""","Moreno Valley, CA, USA",VEC24
+"""been""","Locust Grove, VA, USA",VEC24
+"""been""","Haifa, Israel",VEC24
+"""been""","Indian Head, MD, USA",VEC24
+"""been""","Poolesville, MD, USA",VEC24
+"""been""","Feeding Hills, MA, USA",VEC24
+"""been""","Potomac, MD, USA",VEC24
+"""been""","Amsterdam, The Netherlands",VEC24
+"""want""","Antwerp, Belgium",VEC24
+"""been""","Coaticook, Quebec, Canada",VEC24
+"""been""","London, UK",VEC24
+"""been""","Harrisburg, PA, USA",VEC24
+"""want""","Reykjavik, Iceland",VEC24
+"""been""","Itasca, IL, USA",VEC24
+"""been""","Jacksonville, IL, USA",VEC24
+"""been""","Taylor, MI, USA",VEC24
+"""want""","Cambridge, UK",VEC24
+"""been"",""fave""","Cadiz, Spain",VEC24
+"""been""","Amherst, MA, USA",VEC24
+"""been""","Atlantic City, NJ, USA",VEC24
+"""been""","Oak Glen, CA, USA",VEC24
+"""been""","Charlotte, NC, USA",VEC24
+"""been""","Malaga, Spain",VEC24
+"""been""","Dingle, Ireland",VEC24
+"""been""","Quantico, VA, USA",VEC24
+"""been""","Cuyahoga Falls, OH, USA",VEC24
+"""been""","Purcellville, VA, USA",VEC24
+"""been""","South Lyon, MI, USA",VEC24
+"""been""","Chicopee, MA, USA",VEC24
+"""been""","Lexington, KY, USA",VEC24
+"""been"",""fave""","Seville, Spain",VEC24
+"""been""","Albany, NY, USA",VEC24
+"""been""","Niagara Falls, NY, USA",VEC24
+"""been""","Redlands, CA, USA",VEC24
+"""been""","Franconia, NH, USA",VEC24
+"""been""","Aix-en-Provence, France",VEC24
+"""been""","San Jose, Costa Rica",VEC24
+"""been""","Hartford, CT, USA",VEC24
+"""been""","Columbus, OH, USA",VEC24
+"""been""","Ogden, UT, USA",VEC24
+"""been""","Columbia Station, OH, USA",VEC24
+"""been""","Intercourse, PA, USA",VEC24
+"""been""","Plymouth, MI, USA",VEC24
+"""been""","Pembroke, VA, USA",VEC24
+"""been""","Rancho Cucamonga, CA, USA",VEC24
+"""been""","Reading, UK",VEC24
+"""been""","Rancho Palos Verdes, CA, USA",VEC24
+"""been""","Ontario, CA, USA",VEC24
+"""been""","Mentone, CA, USA",VEC24
+"""been""","Piopolis, Quebec, Canada",VEC24
+"""been""","Deerfield, MA, USA",VEC24
+"""been""","Independence, OH, USA",VEC24
+"""been""","Skowhegan, ME, USA",VEC24
+"""been""","Warrenton, VA, USA",VEC24
+"""been""","Bethel, ME, USA",VEC24
+"""been""","Orange, VA, USA",VEC24
+"""been""","Beaulac-Garthby, Quebec, Canada",VEC24
+"""been""","North Conway, NH, USA",VEC24
+"""been""","Matthews, NC, USA",VEC24
+"""been""","Cleveland, OH, USA",VEC24
+"""been""","Brattleboro, VT, USA",VEC24
+"""been""","Occoquan, VA, USA",VEC24
+"""been""","Ferdinand, IN, USA",VEC24
+"""been""","Balboa Island, CA, USA",VEC24
+"""been""","Holyoke, MA, USA",VEC24
+"""been""","Stone Mountain, GA, USA",VEC24
+"""been""","Madrid, Spain",VEC24
+"""been""","Gibraltar, Europe",VEC24
+"""been""","Avon Lake, OH, USA",VEC24
+"""been""","Avon, OH, USA",VEC24
+"""been""","Raleigh, NC, USA",VEC24
+"""been""","Mayville, NY, USA",VEC24
+"""been""","Eastman, Quebec, Canada",VEC24
+"""been""","Waterford, VA, USA",VEC24
+"""been""","Lorain, OH, USA",VEC24
+"""been""","Northampton, MA, USA",VEC24
+"""been""","Seven Corners, VA, USA",VEC24
+"""been""","Boise, ID, USA",VEC24
+"""been""","Ypsilanti, MI, USA",VEC24
+"""been""","Barton, VT, USA",VEC24
+"""been""","Nokesville, VA, USA",VEC24
+"""been""","Newburyport, MA, USA",VEC24
+"""been""","Norfolk, VA, USA",VEC24
+"""been""","Monona, WI, USA",VEC24
+"""been""","Clifton Park, NY, USA",VEC24
+"""been""","Pomona, CA, USA",VEC24
+"""been""","Sainte Anne de Beaupre, Quebec, Canada",VEC24
+"""want""","Utrecht, The Netherlands",VEC24
+"""been""","Agawam, MA, USA",VEC24
+"""been""","Island Pond, VT, USA",VEC24
+"""been""","South Hadley, MA, USA",VEC24
+"""been""","Worcester, MA, USA",VEC24
+"""been""","Bonita Springs, FL, USA",VEC24
+"""been""","Rincon, Puerto Rico",VEC24
+"""been""","North Adams, MA, USA",VEC24
+"""been""","Amesbury, MA, USA",VEC24
+"""been""","Virginia Beach, VA, USA",VEC24
+"""been""","Fort Wayne, IN, USA",VEC24
+"""been""","Oakton, VA, USA",VEC24
+"""been""","Colebrook, NH, USA",VEC24
+"""been""","Douala, Cameroon",VEC24
+"""been""","Petra - Wadi Musa, Jordan",VEC24
+"""been""","Bellows Falls, VT, USA",VEC24
+"""been""","Mbour, Senegal",VEC24
+"""been""","Oak Harbor, OH, USA",VEC24
+"""been""","Southampton, MA, USA",VEC24
+"""been""","Bennington, VT, USA",VEC24
+"""been""","Hatfield, MA, USA",VEC24
+"""been""","Vallee-Jonction, Quebec, Canada",VEC24
+"""been""","Richmond, IN, USA",VEC24
+"""been""","Louisville, KY, USA",VEC24
+"""been""","The Plains, VA, USA",VEC24
+"""been""","Dakar, Senegal",VEC24
+"""been""","Hershey, PA, USA",VEC24
+"""been""","Kilkenny, Ireland",VEC24
+"""been""","Tralee, Ireland",VEC24
+"""been""","Bethlehem, NH, USA",VEC24
+"""been""","Sun Prairie, WI, USA",VEC24
+"""been""","Cheyenne, WY, USA",VEC24
+"""been""","Reston, VA, USA",VEC24
+"""been""","Portland, ME, USA",VEC24
+"""been""","Bremerton, WA, USA",VEC24
+"""been""","Yorba Linda, CA, USA",VEC24
+"""been""","South Bend, IN, USA",VEC24
+"""want""","Perce, Quebec, Canada",VEC24
+"""been""","Tysons Corner, VA, USA",VEC24
+"""been""","Santa Rosa, CA, USA",VEC24
+"""been""","Somerville, MA, USA",VEC24
+"""been""","Limoux, France",VEC24
+"""been""","Magog, Quebec, Canada",VEC24
+"""been""","Warren, PA, USA",VEC24
+"""been""","Riviere du Loup, Quebec, Canada",VEC24
+"""been""","Manchester, NH, USA",VEC24
+"""been""","North Olmsted, OH, USA",VEC24
+"""been""","Speightstown, Barbados",VEC24
+"""been""","North Ridgeville, OH, USA",VEC24
+"""been""","Williamstown, MA, USA",VEC24
+"""been""","Winchendon, MA, USA",VEC24
+"""been""","Santa Monica, CA, USA",VEC24
+"""been""","Santa Paula, CA, USA",VEC24
+"""been""","Brecksville, OH, USA",VEC24
+"""been""","Radford, VA, USA",VEC24
+"""been""","Essex, VT, USA",VEC24
+"""been""","Everett, WA, USA",VEC24
+"""been""","Nouakchott, Mauritania",VEC24
+"""been""","Washington DC, DC, USA",VEC24
+"""been""","Indianapolis, IN, USA",VEC24
+"""been""","Chautauqua, NY, USA",VEC24
+"""been""","Waterford, Ireland",VEC24
+"""been""","Kane, PA, USA",VEC24
+"""been""","Jaffrey, NH, USA",VEC24
+"""been""","Port Clinton, OH, USA",VEC24
+"""been""","Stratford, VA, USA",VEC24
+"""been""","Granby, Quebec, Canada",VEC24
+"""been""","Philadelphia, PA, USA",VEC24
+"""been""","Saint Johnsbury, VT, USA",VEC24
+"""been""","West Springfield, MA, USA",VEC24
+"""been""","Levis, Quebec, Canada",VEC24
+"""been""","Tappahannock, VA, USA",VEC24
+"""been""","Rehoboth Beach, DE, USA",VEC24
+"""been""","Beaupre, Quebec, Canada",VEC24
+"""been""","Keene, NH, USA",VEC24
+"""been""","King of Prussia, PA, USA",VEC24
+"""been""","Waxhaw, NC, USA",VEC24
+"""been""","Thetford Mines, Quebec, Canada",VEC24
+"""been""","Bellingham, WA, USA",VEC24
+"""been""","Rutland, VT, USA",VEC24
+"""been""","Westfield, MA, USA",VEC24
+"""been""","New York City, NY, USA",VEC24
+"""been""","Orleans, VT, USA",VEC24
+"""been""","Port Orchard, WA, USA",VEC24
+"""been""","San Juan Capistrano, CA, USA",VEC24
+"""been""","Springfield, VA, USA",VEC24
+"""been""","East Burke, VT, USA",VEC24
+"""been""","Bellflower, CA, USA",VEC24
+"""been""","Cape Canaveral, FL, USA",VEC24
+"""been""","Poulsbo, WA, USA",VEC24
+"""want""","Little Rock, AR, USA",VEC24
+"""been""","Springfield, IL, USA",VEC24
+"""been""","Stafford, VA, USA",VEC24
+"""been""","Denver, CO, USA",VEC24
+"""been""","St. Augustine, FL, USA",VEC24
+"""been""","Whittier, CA, USA",VEC24
+"""been""","Thurmont, MD, USA",VEC24
+"""been""","San Marino, CA, USA",VEC24
+"""been""","White Plains, NY, USA",VEC24
+"""been""","Seattle, WA, USA",VEC24
+"""been""","Fort Myers, FL, USA",VEC24
+"""been""","San Jose, CA, USA",VEC24
+"""been""","Charlottesville, VA, USA",VEC24
+"""been""","Port Gamble, WA, USA",VEC24
+"""been""","San Clemente, CA, USA",VEC24
+"""been""","Manassas, VA, USA",VEC24
+"""been""","Richmond, VA, USA",VEC24
+"""been""","Sterling, VA, USA",VEC24
+"""been""","Atlanta, GA, USA",VEC24
+"""been""","Naples, FL, USA",VEC24
+"""been""","San Gabriel, CA, USA",VEC24
+"""been""","Dubuque, IA, USA",VEC24
+"""been""","Sheffield Lake, OH, USA",VEC24
+"""been""","Cambridge, MA, USA",VEC24
+"""been""","Plattsburgh, NY, USA",VEC24
+"""want""","Gaspe, Quebec, Canada",VEC24
+"""been""","Baileys Crossroads, VA, USA",VEC24
+"""been""","Banning, CA, USA",VEC24
+"""been""","Champaign, IL, USA",VEC24
+"""been""","Santa Barbara, CA, USA",VEC24
+"""been""","Cerritos, CA, USA",VEC24
+"""been""","Santa Ana, CA, USA",VEC24
+"""been""","Temecula, CA, USA",VEC24
+"""been""","Santa Fe Springs, CA, USA",VEC24
+"""been""","Laramie, WY, USA",VEC24
+"""been""","Newport, VT, USA",VEC24
+"""been""","Boston, MA, USA",VEC24
+"""been""","New Orleans, LA, USA",VEC24
+"""been""","Hood River, OR, USA",VEC24
+"""been""","Big Sur, CA, USA",VEC24
+"""been""","Sandusky, OH, USA",VEC24
+"""been""","Rochester, NY, USA",VEC24
+"""been""","Madison, WI, USA",VEC24
+"""been""","Beverly Hills, CA, USA",VEC24
+"""been""","Cortez, CO, USA",VEC24
+"""been""","Westfield, NY, USA",VEC24
+"""been""","Big Bear City, CA, USA",VEC24
+"""been""","Kingston, WA, USA",VEC24
+"""been""","Durango, CO, USA",VEC24
+"""been""","Cork, Ireland",VEC24
+"""been""","Titusville, FL, USA",VEC24
+"""been""","San Diego, CA, USA",VEC24
+"""been""","Centreville, VA, USA",VEC24
+"""been""","Williamsburg, VA, USA",VEC24
+"""been""","White River Junction, VT, USA",VEC24
+"""been""","Chantilly, VA, USA",VEC24
+"""been""","Derby, VT, USA",VEC24
+"""been""","Vienna, VA, USA",VEC24
+"""been""","Derby Line, VT, USA",VEC24
+"""been""","Winchester, VA, USA",VEC24
+"""been""","Galway, Ireland",VEC24
+"""been""","Donegal Town, Ireland",VEC24
+"""been""","Rindge, NH, USA",VEC24
+"""been""","San Juan, Puerto Rico",VEC24
+"""been""","Salem, NH, USA",VEC24
+"""been""","Pagosa Springs, CO, USA",VEC24
+"""been""","Decatur, IL, USA",VEC24
+"""been""","Buchanan, VA, USA",VEC24
+"""been""","Lyndon Center, VT, USA",VEC24
+"""been""","Lyndonville, VT, USA",VEC24
+"""been""","Highland, CA, USA",VEC24
+"""been""","Tampa, FL, USA",VEC24
+"""been""","Merritt Island, FL, USA",VEC24
+"""been""","Luray, VA, USA",VEC24
+"""been""","Bumpass, VA, USA",VEC24
+"""been""","Burke, VA, USA",VEC24
+"""been""","Foumban, Cameroon",VEC24
+"""been""","Buea, Cameroon",VEC24
+"""been""","Tijuana, Mexico",VEC24
+"""been""","Sainte-Marie, Quebec, Canada",VEC24
+"""been""","Hamilton, Bermuda",VEC24
+"""been""","Columbia, MD, USA",VEC24
+"""been""","Santa Fe, NM, USA",VEC24
+"""been""","Brigham City, UT, USA",VEC24
+"""been""","San Francisco, CA, USA",VEC24
+"""been""","Buena Park, CA, USA",VEC24
+"""been""","Tacoma, WA, USA",VEC24
+"""been""","Burlington, VT, USA",VEC24
+"""been""","Wells River, VT, USA",VEC24
+"""been""","Olympia, WA, USA",VEC24
+"""been""","Dulles, VA, USA",VEC24
+"""been""","Port Tobacco, MD, USA",VEC24
+"""been""","Burbank, CA, USA",VEC24
+"""been""","Burlingame, CA, USA",VEC24
+"""been""","College Park, MD, USA",VEC24
+"""been""","Alhambra, CA, USA",VEC24
+"""been""","Olmsted Falls, OH, USA",VEC24
+"""been""","Chelsea, MI, USA",VEC24
+"""been""","Columbia, MO, USA",VEC24
+"""been""","Stratford, Quebec, Canada",VEC24
+"""been""","Saint Pierre d'Orleans, Quebec, Canada",VEC24
+"""been""","Bridgetown, Barbados",VEC24
+"""been""","McLean, VA, USA",VEC24
+"""been""","Springfield, MA, USA",VEC24
+"""been""","Bamenda, Cameroon",VEC24
+"""been""","Colorado Springs, CO, USA",VEC24
+"""been""","Leesburg, VA, USA",VEC24
+"""been""","Culpeper, VA, USA",VEC24
+"""been""","Jerez De La Frontera, Spain",VEC24
+"""been""","Silverdale, WA, USA",VEC24
+"""been""","Dahlgren, VA, USA",VEC24
+"""been""","Fort Washington, MD, USA",VEC24
+"""been""","Dale City, VA, USA",VEC24
+"""been""","Triangle, VA, USA",VEC24
+"""been""","San Bernardino, CA, USA",VEC24
+"""been""","Hannibal, MO, USA",VEC24
+"""been""","Canton, MI, USA",VEC24
+"""been""","Plessisville, Quebec, Canada",VEC24
+"""been""","Centralia, MO, USA",VEC24
+"""been""","Savannah, GA, USA",VEC24
+"""been""","Albuquerque, NM, USA",VEC24
+"""been""","Woodland, PA, USA",VEC24
+"""been""","Fontana, CA, USA",VEC24
+"""been""","Faa'a, French Polynesia",VEC24
+"""been""","The Dalles, OR, USA",VEC24
+"""been""","Crestline, CA, USA",VEC24
+"""been""","Angelus Oaks, CA, USA",VEC24
+"""been""","Bristow, VA, USA",VEC24
+"""been""","Great Falls, VA, USA",VEC24
+"""been""","Anaheim, CA, USA",VEC24
+"""been""","Seoul, South Korea",VEC24
+"""been""","Damascus, MD, USA",VEC24
+"""been""","Cumberland, MD, USA",VEC24
+"""been""","Seven Mile Beach, Cayman Islands",VEC24
+"""been""","Cobleskill, NY, USA",VEC24
+"""been""","Lac-Megantic, Quebec, Canada",VEC24
+"""been""","Fredericksburg, VA, USA",VEC24
+"""been""","Covina, CA, USA",VEC24
+"""been""","Fillmore, CA, USA",VEC24
+"""been""","Ronda, Spain",VEC24
+"""been""","Farmington, CT, USA",VEC24
+"""been""","La Canada Flintridge, CA, USA",VEC24
+"""been""","La Habra, CA, USA",VEC24
+"""been""","Altoona, PA, USA",VEC24
+"""been""","Yucaipa, CA, USA",VEC24
+"""been""","Blacksburg, VA, USA",VEC24
+"""been""","Front Royal, VA, USA",VEC24
+"""been""","La Jolla, CA, USA",VEC24
+"""been""","Yucca Valley, CA, USA",VEC24
+"""been""","Monroe City, MO, USA",VEC24
+"""been""","North Bethesda, MD, USA",VEC24
+"""been""","Ocean City, MD, USA",VEC24
+"""been""","Williamsport, PA, USA",VEC24
+"""been""","Scottsdale, AZ, USA",VEC24
+"""been""","Lake Ridge, VA, USA",VEC24
+"""been""","Baltimore, MD, USA",VEC24
+"""been""","South Burlington, VT, USA",VEC24
+"""been""","Glen Allen, VA, USA",VEC24
+"""been""","Lansing, MI, USA",VEC24
+"""been""","Hagerstown, MD, USA",VEC24
+"""been""","Lincoln, NE, USA",VEC24
+"""been""","Jamestown, NY, USA",VEC24
+"""been""","Oxon Hill, MD, USA",VEC24
+"""been""","Arcos de la Frontera, Spain",VEC24
+"""been""","Jacksonville, FL, USA",VEC24
+"""been""","Walsenburg, CO, USA",VEC24
+"""been""","Lake Arrowhead, CA, USA",VEC24
+"""been""","Mineral, VA, USA",VEC24
+"""been""","Clifton, VA, USA",VEC24
+"""been""","Upland, CA, USA",VEC24
+"""been""","Charleston, WV, USA",VEC24
+"""been""","Chevy Chase, MD, USA",VEC24
+"""been""","Mount Airy, MD, USA",VEC24
+"""been""","Kyrenia, Cyprus",VEC24
+"""been""","Larnaca, Cyprus",VEC24
+"""been""","Oaks, PA, USA",VEC24
+"""been""","Teec Nos Pos, AZ, USA",VEC24
+"""been""","Fort Belvoir, VA, USA",VEC24
+"""been""","Tempe, AZ, USA",VEC24
+"""been""","Brea, CA, USA",VEC24
+"""been""","Kingman, AZ, USA",VEC24
+"""been""","Franconia, VA, USA",VEC24
+"""been""","Colonial Beach, VA, USA",VEC24
+"""been""","Dearborn, MI, USA",VEC24
+"""been""","Frederick, MD, USA",VEC24
+"""been""","Stornoway, Quebec, Canada",VEC24
+"""been""","Kearney, NE, USA",VEC24
+"""been""","Detroit, MI, USA",VEC24
+"""been""","La Mirada, CA, USA",VEC24
+"""been""","Santa Elena, Costa Rica",VEC24
+"""been"",""fave""","Paris, France",VEC24
+"""been""","Quebec City, Quebec, Canada",VEC24
+"""been""","Los Alamitos, CA, USA",VEC24
+"""been""","Montreal, Quebec, Canada",VEC24
+"""been""","Pismo Beach, CA, USA",VEC24
+"""been""","Bethesda, MD, USA",VEC24
+"""been""","Fullerton, CA, USA",VEC24
+"""been""","Los Angeles, CA, USA",VEC24
+"""been""","Charlotte Amalie, U.S. Virgin Islands",VEC24
+"""been""","Annandale, VA, USA",VEC24
+"""been""","Abidjan, Ivory Coast",VEC24
+"""been""","Avalon, CA, USA",VEC24
+"""been""","Fairfax, VA, USA",VEC24
+"""been""","St. Thomas, U.S. Virgin Islands",VEC24
+"""been""","Fairfax Station, VA, USA",VEC24
+"""been""","Chicago, IL, USA",VEC24
+"""been""","Saint Joseph, MO, USA",VEC24
+"""been""","Cruz Bay, U.S. Virgin Islands",VEC24
+"""been""","Severna Park, MD, USA",VEC24
+"""been""","Saint Louis, MO, USA",VEC24
+"""been""","Emmitsburg, MD, USA",VEC24
+"""been""","Paris, MO, USA",VEC24
+"""been""","Portland, OR, USA",VEC24
+"""been""","Montpellier, France",VEC24
+"""been""","North Platte, NE, USA",VEC24
+"""been"",""fave""","Carcassonne Center, France",VEC24
+"""been""","Berea, OH, USA",VEC24
+"""been""","Loma Linda, CA, USA",VEC24
+"""been""","Phoenix, AZ, USA",VEC24
+"""been""","Falls Church, VA, USA",VEC24
+"""been""","New Haven, CT, USA",VEC24
+"""been""","Ham-Nord, Quebec, Canada",VEC24
+"""been""","Aldie, VA, USA",VEC24
+"""been""","Christiansburg, VA, USA",VEC24
+"""been""","Napa, CA, USA",VEC24
+"""been""","Indio, CA, USA",VEC24
+"""been""","Amana, IA, USA",VEC24
+"""been""","Alexandria, VA, USA",VEC24
+"""been""","Long Beach, CA, USA",VEC24
+"""been""","East Angus, Quebec, Canada",VEC24
+"""been""","Caneel Bay, U.S. Virgin Islands",VEC24
+"""been""","Scott, Quebec, Canada",VEC24
+"""been""","Moorea, French Polynesia",VEC24
+"""been""","Lambton, Quebec, Canada",VEC24
+"""been""","Sherbrooke, Quebec, Canada",VEC24
+"""been""","Norwalk, CA, USA",VEC24
+"""been""","Malibu, CA, USA",VEC24
+"""been""","Plainville, CT, USA",VEC24
+"""been""","Grand Canyon National Park, AZ, USA",VEC24
+"""been""","Sanford, FL, USA",VEC24
+"""been""","Haymarket, VA, USA",VEC24
+"""been""","Sarasota, FL, USA",VEC24
+"""been""","Raiatea, French Polynesia",VEC24
+"""been""","Harrisonburg, VA, USA",VEC24
+"""been""","Hadley, MA, USA",VEC24
+"""been""","Huahine, French Polynesia",VEC24
+"""been""","Rockville, MD, USA",VEC24
+"""been""","Vienna, Austria",VEC24
+"""been""","Ottawa, Ontario, Canada",VEC24
+"""been""","Toulouse, France",VEC24
+"""been""","Flint, MI, USA",VEC24
+"""been""","Newport Beach, CA, USA",VEC24
+"""been""","Danbury, CT, USA",VEC24
+"""been""","Joshua Tree, CA, USA",VEC24
+"""been""","Saint Augustine Beach, FL, USA",VEC24
+"""been""","Arlington, VA, USA",VEC24
+"""been""","Herndon, VA, USA",VEC24
+"""been""","Ashland, VA, USA",VEC24
+"""been""","Bowie, MD, USA",VEC24
+"""been""","Ashburn, VA, USA",VEC24
+"""been""","Papeete, French Polynesia",VEC24
+"""been""","Bethany Beach, DE, USA",VEC24
+"""been""","St. Petersburg, FL, USA",VEC24
+"""been""","Annapolis, MD, USA",VEC24
+"""been""","Downey, CA, USA",VEC24
+"""been""","Weedon, Quebec, Canada",VEC24
+"""been""","Castellar de la Frontera, Spain",VEC24
+"""been""","Saint Mary's City, MD, USA",VEC24
+"""been""","Saint Ann, MO, USA",VEC24
+"""been""","Panama City, Panama",VEC24
+"""been""","Salisbury, MD, USA",VEC24
+"""been""","Pendleton, OR, USA",VEC24
+"""been""","Alajuela, Costa Rica",VEC24
+"""been""","Toledo, OH, USA",VEC24
+"""been""","La Fortuna de San Carlos, Costa Rica",VEC24
+"""been""","Toronto, Ontario, Canada",VEC24

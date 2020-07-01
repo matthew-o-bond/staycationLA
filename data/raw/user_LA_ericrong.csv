@@ -1,0 +1,496 @@
+tag,place,user
+"""been""","Jackson, MS, USA",ericrong
+"""been""","Provincetown, MA, USA",ericrong
+"""been""","Ojai, CA, USA",ericrong
+"""been""","Wall, SD, USA",ericrong
+"""been""","Oceanside, CA, USA",ericrong
+"""been""","Las Cruces, NM, USA",ericrong
+"""been""","Oakland, CA, USA",ericrong
+"""want""","Cannes, France",ericrong
+"""want""","Athens, Greece",ericrong
+"""been""","Redding, CA, USA",ericrong
+"""been""","Shangrao, China",ericrong
+"""been""","Merced, CA, USA",ericrong
+"""been""","Menlo Park, CA, USA",ericrong
+"""been""","Rancho Palos Verdes, CA, USA",ericrong
+"""been""","Rancho Mirage, CA, USA",ericrong
+"""been""","Mecca, CA, USA",ericrong
+"""want""","Tel Aviv, Israel",ericrong
+"""want""","Jerusalem, Israel",ericrong
+"""been""","Pingyao County, China",ericrong
+"""been""","Hattiesburg, MS, USA",ericrong
+"""want""","Frankfurt, Germany",ericrong
+"""want""","Sao Paulo, Brazil",ericrong
+"""been""","Oklahoma City, OK, USA",ericrong
+"""want""","Oxford, UK",ericrong
+"""been""","Port Hueneme, CA, USA",ericrong
+"""been""","Ashland, OR, USA",ericrong
+"""been""","Arch Cape, OR, USA",ericrong
+"""want""","Berlin, Germany",ericrong
+"""been""","Santa Barbara Island, CA, USA",ericrong
+"""want""","Rio de Janeiro, Brazil",ericrong
+"""been""","Poway, CA, USA",ericrong
+"""been""","Niagara Falls, NY, USA",ericrong
+"""been""","Jackson, AL, USA",ericrong
+"""been""","Oak View, CA, USA",ericrong
+"""been""","Dunhuang, China",ericrong
+"""been""","Rolling Hills Estates, CA, USA",ericrong
+"""been""","Rolling Hills, CA, USA",ericrong
+"""been""","Rohnert Park, CA, USA",ericrong
+"""been""","North Port, Ontario, Canada",ericrong
+"""been""","Lee Vining, CA, USA",ericrong
+"""been""","Monterey, CA, USA",ericrong
+"""been""","Lebec, CA, USA",ericrong
+"""been""","Parker Dam, CA, USA",ericrong
+"""been""","Taichung, Taiwan",ericrong
+"""been""","Canmore, Alberta, Canada",ericrong
+"""been""","Taoyuan, Taiwan",ericrong
+"""want""","Zurich, Switzerland",ericrong
+"""want""","Paris, France",ericrong
+"""want""","Amsterdam, The Netherlands",ericrong
+"""been""","Long Island City, NY, USA",ericrong
+"""been""","Hopland, CA, USA",ericrong
+"""been""","Yuma, AZ, USA",ericrong
+"""want""","Sydney, Australia",ericrong
+"""been""","Arcata, CA, USA",ericrong
+"""been""","Morro Bay, CA, USA",ericrong
+"""been""","Big Water, UT, USA",ericrong
+"""been""","Philip, SD, USA",ericrong
+"""been""","Kaohsiung, Taiwan",ericrong
+"""been""","Rosemead, CA, USA",ericrong
+"""been""","Morongo Valley, CA, USA",ericrong
+"""been""","Morgan Hill, CA, USA",ericrong
+"""been""","Chiayi, Taiwan",ericrong
+"""want""","Cairns, Australia",ericrong
+"""been""","Britannia Beach, British Columbia, Canada",ericrong
+"""been""","Arcadia, CA, USA",ericrong
+"""been""","Hsinchu, Taiwan",ericrong
+"""been""","North Vancouver, British Columbia, Canada",ericrong
+"""been""","Yosemite National Park, CA, USA",ericrong
+"""been""","Apple Valley, CA, USA",ericrong
+"""want""","Barcelona, Spain",ericrong
+"""been""","Tianjin, China",ericrong
+"""been""","Oxnard, CA, USA",ericrong
+"""been""","Redwood City, CA, USA",ericrong
+"""been""","Redlands, CA, USA",ericrong
+"""been""","Santiago, Chile",ericrong
+"""been""","Napanee, Ontario, Canada",ericrong
+"""been""","Benxi, China",ericrong
+"""want""","Copenhagen, Denmark",ericrong
+"""been""","Wailea, HI, USA",ericrong
+"""been""","Jingzhou, China",ericrong
+"""been""","Palos Verdes Estates, CA, USA",ericrong
+"""been""","Montague, CA, USA",ericrong
+"""been""","Dallas, TX, USA",ericrong
+"""been""","Palo Alto, CA, USA",ericrong
+"""been""","Lancaster, CA, USA",ericrong
+"""been""","Palm Springs, CA, USA",ericrong
+"""been""","Lakeside, CA, USA",ericrong
+"""been""","Ridgecrest, CA, USA",ericrong
+"""been""","Mission Viejo, CA, USA",ericrong
+"""want""","Prague, Czech Republic",ericrong
+"""been""","Hongdong County, China",ericrong
+"""been""","Yueyang, China",ericrong
+"""been""","Chongqing, China",ericrong
+"""been""","Beijing, China",ericrong
+"""been""","Truckee, CA, USA",ericrong
+"""been""","Shuangliu County, China",ericrong
+"""been""","Washington, UT, USA",ericrong
+"""been""","Arches National Park, UT, USA",ericrong
+"""been""","Squamish, British Columbia, Canada",ericrong
+"""been""","Shasta Lake, CA, USA",ericrong
+"""been""","Burlington, WA, USA",ericrong
+"""been""","Cudjoe Key, FL, USA",ericrong
+"""been""","Isla Blanca, Mexico",ericrong
+"""been""","Guixi, China",ericrong
+"""been""","Ottawa, Ontario, Canada",ericrong
+"""been""","Bremerton, WA, USA",ericrong
+"""been""","Wuyuan County, China",ericrong
+"""been""","Tropic, UT, USA",ericrong
+"""been""","Wilmington, DE, USA",ericrong
+"""want""","Cairo, Egypt",ericrong
+"""been""","Toronto, Ontario, Canada",ericrong
+"""want""","Cusco, Peru",ericrong
+"""been""","Mesilla, NM, USA",ericrong
+"""want""","Machu Picchu, Peru",ericrong
+"""been""","Washington DC, DC, USA",ericrong
+"""been""","Maidstone, UK",ericrong
+"""been""","Bishop, CA, USA",ericrong
+"""been""","Hurricane, UT, USA",ericrong
+"""been""","Woodside, CA, USA",ericrong
+"""been""","Bellingham, WA, USA",ericrong
+"""want""","Buenos Aires, Argentina",ericrong
+"""been""","Blue Lake, CA, USA",ericrong
+"""been""","Santa Ynez, CA, USA",ericrong
+"""been""","Santa Rosa, CA, USA",ericrong
+"""been""","Manzanita, OR, USA",ericrong
+"""been""","Dengfeng, China",ericrong
+"""been""","Zephyr Cove, NV, USA",ericrong
+"""been""","Nanjing, China",ericrong
+"""been""","Long Key, FL, USA",ericrong
+"""been""","Tracy, CA, USA",ericrong
+"""been""","Memphis, TN, USA",ericrong
+"""been""","Louisville, KY, USA",ericrong
+"""been""","Death Valley National Park, CA, USA",ericrong
+"""been""","Sebastopol, CA, USA",ericrong
+"""been""","New Taipei, Taiwan",ericrong
+"""been""","Linfen, China",ericrong
+"""been""","Ji County, China",ericrong
+"""been""","Hong Kong, China",ericrong
+"""been""","Jackson, WY, USA",ericrong
+"""been""","Qi County, China",ericrong
+"""want""","Dubai, United Arab Emirates",ericrong
+"""been""","West Yellowstone, MT, USA",ericrong
+"""been""","Sparks, NV, USA",ericrong
+"""been""","Channel Islands National Park, CA, USA",ericrong
+"""been""","Atlanta, GA, USA",ericrong
+"""been""","Luoyang, China",ericrong
+"""been""","Wind Cave National Park, SD, USA",ericrong
+"""been""","Brookings, OR, USA",ericrong
+"""been""","Spuzzum, British Columbia, Canada",ericrong
+"""been""","Boca Grande, FL, USA",ericrong
+"""been""","Gallup, NM, USA",ericrong
+"""been""","Harbor, OR, USA",ericrong
+"""been""","Raton, NM, USA",ericrong
+"""want""","Vienna, Austria",ericrong
+"""been""","Cooper Landing, AK, USA",ericrong
+"""been""","Beaverton, OR, USA",ericrong
+"""been""","Pleasanton, CA, USA",ericrong
+"""been""","Honghu, China",ericrong
+"""been""","Chibi, China",ericrong
+"""been""","Mammoth Lakes, CA, USA",ericrong
+"""been""","Pemberton, British Columbia, Canada",ericrong
+"""been""","Devils Tower, WY, USA",ericrong
+"""want""","Budapest, Hungary",ericrong
+"""been""","Coupeville, WA, USA",ericrong
+"""been""","Philadelphia, PA, USA",ericrong
+"""been""","Grants, NM, USA",ericrong
+"""been""","Cancun, Mexico",ericrong
+"""want""","Mexico City, Mexico",ericrong
+"""been""","Hope, British Columbia, Canada",ericrong
+"""been""","Big Sur, CA, USA",ericrong
+"""been""","Farmington, NM, USA",ericrong
+"""been""","Shenzhen, China",ericrong
+"""been""","Fengdu County, China",ericrong
+"""been""","Fengjie County, China",ericrong
+"""been""","Zhongshan, China",ericrong
+"""been""","Espanola, NM, USA",ericrong
+"""been""","Zhuhai, China",ericrong
+"""want""","Cape Town Central, South Africa",ericrong
+"""been""","Dongguan, China",ericrong
+"""want""","Geneva, Switzerland",ericrong
+"""want""","Singapore, Singapore",ericrong
+"""been""","Taiyuan, China",ericrong
+"""been""","Newport, OR, USA",ericrong
+"""been""","Eugene, OR, USA",ericrong
+"""been""","Revelstoke, British Columbia, Canada",ericrong
+"""been""","Rogers Pass, British Columbia, Canada",ericrong
+"""been""","Utqiagvik, AK, USA",ericrong
+"""been""","Montreal, Quebec, Canada",ericrong
+"""been""","Quebec City, Quebec, Canada",ericrong
+"""been""","Shanghai, China",ericrong
+"""been""","Mobile, AL, USA",ericrong
+"""been""","Visalia, CA, USA",ericrong
+"""been""","Flagstaff, AZ, USA",ericrong
+"""been""","Placida, FL, USA",ericrong
+"""been""","Benson, AZ, USA",ericrong
+"""been""","Nanchang, China",ericrong
+"""been""","Buffalo, NY, USA",ericrong
+"""been""","Anaheim, CA, USA",ericrong
+"""been""","Ochopee, FL, USA",ericrong
+"""been""","Suzhou, China",ericrong
+"""been""","Wuxi, China",ericrong
+"""been""","Kent, WA, USA",ericrong
+"""been""","Wasco, CA, USA",ericrong
+"""been""","Newport, RI, USA",ericrong
+"""been""","South San Francisco, CA, USA",ericrong
+"""been""","Camarillo, CA, USA",ericrong
+"""been""","Vista, CA, USA",ericrong
+"""been""","Calipatria, CA, USA",ericrong
+"""been""","Tavernier, FL, USA",ericrong
+"""been""","Soquel, CA, USA",ericrong
+"""been""","Miami, FL, USA",ericrong
+"""been""","Miami Beach, FL, USA",ericrong
+"""been""","Wuhan, China",ericrong
+"""been""","Yichang, China",ericrong
+"""been""","Everglades City, FL, USA",ericrong
+"""been""","Honolulu, HI, USA",ericrong
+"""been""","Zhengzhou, China",ericrong
+"""been""","Fontana, CA, USA",ericrong
+"""been""","Boston, MA, USA",ericrong
+"""been""","Ocean Shores, WA, USA",ericrong
+"""been""","Baldwin Park, CA, USA",ericrong
+"""been""","Bakersfield, CA, USA",ericrong
+"""been""","Daly City, CA, USA",ericrong
+"""been""","Oak Harbor, WA, USA",ericrong
+"""been""","Salinas, CA, USA",ericrong
+"""been""","Campbell, CA, USA",ericrong
+"""been""","Squaw Valley, CA, USA",ericrong
+"""been""","San Diego, CA, USA",ericrong
+"""been""","Kailua-Kona, HI, USA",ericrong
+"""been""","Arlington, TX, USA",ericrong
+"""been""","Cincinnati, OH, USA",ericrong
+"""been""","Guangzhou, China",ericrong
+"""been""","Seward, AK, USA",ericrong
+"""been""","Hayward, CA, USA",ericrong
+"""been""","Xi'an, China",ericrong
+"""been""","Chengdu, China",ericrong
+"""been""","Jiulong County, China",ericrong
+"""been""","Seattle, WA, USA",ericrong
+"""been""","Yellowstone National Park, WY, USA",ericrong
+"""been""","Datong, China",ericrong
+"""been""","Hemet, CA, USA",ericrong
+"""been""","Eureka, CA, USA",ericrong
+"""been""","Valentine, AZ, USA",ericrong
+"""been""","Macau, China",ericrong
+"""been""","Walmer, UK",ericrong
+"""been""","Vacaville, CA, USA",ericrong
+"""been""","Sugarloaf, FL, USA",ericrong
+"""been""","Sugarloaf Key, FL, USA",ericrong
+"""been""","Anchorage, AK, USA",ericrong
+"""been""","Coronado, CA, USA",ericrong
+"""been""","Mohave Valley, AZ, USA",ericrong
+"""been""","New York City, NY, USA",ericrong
+"""been""","Mesa, AZ, USA",ericrong
+"""been""","Qingdao, China",ericrong
+"""been""","Little Rock, AR, USA",ericrong
+"""been""","Tampa, FL, USA",ericrong
+"""been""","Mukilteo, WA, USA",ericrong
+"""been""","Ventura, CA, USA",ericrong
+"""been""","Skamokawa, WA, USA",ericrong
+"""been""","Calabasas, CA, USA",ericrong
+"""been""","Solvang, CA, USA",ericrong
+"""been""","Victorville, CA, USA",ericrong
+"""been""","Mount Vernon, WA, USA",ericrong
+"""been""","Solana Beach, CA, USA",ericrong
+"""been""","Buttonwillow, CA, USA",ericrong
+"""been""","Highland, CA, USA",ericrong
+"""been""","Austin, TX, USA",ericrong
+"""been""","Nashville, TN, USA",ericrong
+"""been""","Cambridge, MA, USA",ericrong
+"""been""","San Miguel, CA, USA",ericrong
+"""been""","Belmont Shore, CA, USA",ericrong
+"""been""","Salina, UT, USA",ericrong
+"""been""","Irving, TX, USA",ericrong
+"""been""","Petrified Forest National Park, AZ, USA",ericrong
+"""been""","Baltimore, MD, USA",ericrong
+"""been""","Albuquerque, NM, USA",ericrong
+"""been""","San Simeon, CA, USA",ericrong
+"""been""","Port Alsworth, AK, USA",ericrong
+"""been""","Tahoe Vista, CA, USA",ericrong
+"""been""","Berkeley, CA, USA",ericrong
+"""been""","San Onofre, CA, USA",ericrong
+"""been""","Cathedral City, CA, USA",ericrong
+"""been""","Coos Bay, OR, USA",ericrong
+"""want""","Fukuoka, Japan",ericrong
+"""been""","Cerritos, CA, USA",ericrong
+"""want""","Osaka, Japan",ericrong
+"""been""","Winters, CA, USA",ericrong
+"""been""","Leavenworth, WA, USA",ericrong
+"""been""","Big Bear City, CA, USA",ericrong
+"""been""","Big Bar, CA, USA",ericrong
+"""been""","San Ysidro, CA, USA",ericrong
+"""been""","Vancouver, WA, USA",ericrong
+"""been""","Beverly Hills, CA, USA",ericrong
+"""want""","Kobe, Japan",ericrong
+"""been""","Jasper, Alberta, Canada",ericrong
+"""want""","Kyoto, Japan",ericrong
+"""been""","Jasper National Park, Alberta, Canada",ericrong
+"""been""","Providence, RI, USA",ericrong
+"""been""","Fairbanks, AK, USA",ericrong
+"""been""","St. George, UT, USA",ericrong
+"""been""","Edmonton, Alberta, Canada",ericrong
+"""been""","Santa Cruz, CA, USA",ericrong
+"""been""","Brooklyn, NY, USA",ericrong
+"""been""","Long Beach, WA, USA",ericrong
+"""been""","Woodlake, CA, USA",ericrong
+"""been""","Santa Clarita, CA, USA",ericrong
+"""been""","Lake Louise, Alberta, Canada",ericrong
+"""been""","Santa Clara, CA, USA",ericrong
+"""been""","Big Pine, CA, USA",ericrong
+"""been""","Calgary, Alberta, Canada",ericrong
+"""been""","Temple City, CA, USA",ericrong
+"""been""","Banff National Park, Alberta, Canada",ericrong
+"""been""","Goodland, FL, USA",ericrong
+"""been""","Banff, Alberta, Canada",ericrong
+"""been""","Cape May, NJ, USA",ericrong
+"""been""","Charleston, OR, USA",ericrong
+"""been""","Hangzhou, China",ericrong
+"""been""","West Hollywood, CA, USA",ericrong
+"""been""","Key Colony Beach, FL, USA",ericrong
+"""been""","Flamingo, FL, USA",ericrong
+"""been""","Tucson, AZ, USA",ericrong
+"""been""","Key West, FL, USA",ericrong
+"""been""","King Salmon, AK, USA",ericrong
+"""been""","Fort Lauderdale, FL, USA",ericrong
+"""been""","Page, AZ, USA",ericrong
+"""been""","San Jacinto, CA, USA",ericrong
+"""been""","Provo, UT, USA",ericrong
+"""been""","San Antonio, TX, USA",ericrong
+"""been""","North Pole, AK, USA",ericrong
+"""been""","Westlake Village, CA, USA",ericrong
+"""been""","Santa Fe, NM, USA",ericrong
+"""been""","San Gabriel, CA, USA",ericrong
+"""been""","San Fernando, CA, USA",ericrong
+"""been""","West Sacramento, CA, USA",ericrong
+"""been""","San Clemente, CA, USA",ericrong
+"""been""","Del Mar, CA, USA",ericrong
+"""been""","Ensenada, Mexico",ericrong
+"""been""","Topanga, CA, USA",ericrong
+"""been""","San Jose, CA, USA",ericrong
+"""been""","Carmel, CA, USA",ericrong
+"""been""","Three Rivers, CA, USA",ericrong
+"""been""","Descanso, CA, USA",ericrong
+"""been""","Moab, UT, USA",ericrong
+"""been""","San Marino, CA, USA",ericrong
+"""been""","Bella Vista, CA, USA",ericrong
+"""been""","Stanford, CA, USA",ericrong
+"""been""","Sunol, CA, USA",ericrong
+"""been""","San Luis Obispo, CA, USA",ericrong
+"""been""","Casmalia, CA, USA",ericrong
+"""been""","Aztec, NM, USA",ericrong
+"""been""","Interior, SD, USA",ericrong
+"""been""","Carpinteria, CA, USA",ericrong
+"""been""","Tijuana, Mexico",ericrong
+"""been""","Houston, TX, USA",ericrong
+"""want""","Shinjuku, Japan",ericrong
+"""been""","Ciudad Juarez, Mexico",ericrong
+"""been""","Lillooet, British Columbia, Canada",ericrong
+"""want""","Venice, Italy",ericrong
+"""been""","Julian, CA, USA",ericrong
+"""been""","Dixon, CA, USA",ericrong
+"""been""","Whistler, British Columbia, Canada",ericrong
+"""been""","Niland, CA, USA",ericrong
+"""been""","Victoria, British Columbia, Canada",ericrong
+"""been""","Lost Hills, CA, USA",ericrong
+"""been""","Garden Grove, CA, USA",ericrong
+"""been""","Arlington, VA, USA",ericrong
+"""been""","Norwalk, CT, USA",ericrong
+"""been""","Vancouver, British Columbia, Canada",ericrong
+"""been""","Yuncheng, China",ericrong
+"""want""","Chiang Mai, Thailand",ericrong
+"""want""","Bangkok, Thailand",ericrong
+"""been""","Cottonwood, AZ, USA",ericrong
+"""want""","Pattaya, Thailand",ericrong
+"""been""","Fresno, CA, USA",ericrong
+"""been""","Bluewater, NM, USA",ericrong
+"""been""","Bloomfield, NM, USA",ericrong
+"""want""","Chicago, IL, USA",ericrong
+"""been""","Windsor, UK",ericrong
+"""been""","Taipei, Taiwan",ericrong
+"""been""","Tainan, Taiwan",ericrong
+"""been""","Badong County, China",ericrong
+"""been""","Malibu, CA, USA",ericrong
+"""been""","Barstow, CA, USA",ericrong
+"""been""","Fillmore, UT, USA",ericrong
+"""want""","Moscow, Russia",ericrong
+"""been""","Escalante, UT, USA",ericrong
+"""been""","Portland, OR, USA",ericrong
+"""been""","Port Orford, OR, USA",ericrong
+"""been""","Keystone, SD, USA",ericrong
+"""been""","Zigui County, China",ericrong
+"""been""","Beavermouth, British Columbia, Canada",ericrong
+"""been""","June Lake, CA, USA",ericrong
+"""been""","Junction City, CA, USA",ericrong
+"""been"",""want""","Edinburgh, UK",ericrong
+"""been""","St. Pete Beach, FL, USA",ericrong
+"""been""","St. Petersburg, FL, USA",ericrong
+"""been""","Warwick, UK",ericrong
+"""been""","Duncan, British Columbia, Canada",ericrong
+"""been""","Lomita, CA, USA",ericrong
+"""been""","Pine Valley, CA, USA",ericrong
+"""been""","Otter Rock, OR, USA",ericrong
+"""been""","Phoenix, AZ, USA",ericrong
+"""been""","Pueblo, CO, USA",ericrong
+"""been""","Sacramento, CA, USA",ericrong
+"""been""","Livermore, CA, USA",ericrong
+"""been""","Mount Shasta, CA, USA",ericrong
+"""been""","Saint Charles, MO, USA",ericrong
+"""been""","Kaifeng, China",ericrong
+"""been""","Las Vegas, NV, USA",ericrong
+"""want""","Milan, Italy",ericrong
+"""been""","Sicamous, British Columbia, Canada",ericrong
+"""been""","Artesia, CA, USA",ericrong
+"""been""","Port Angeles, WA, USA",ericrong
+"""been""","Salt Lake City, UT, USA",ericrong
+"""been""","Stevenson Ranch, CA, USA",ericrong
+"""been""","Los Angeles, CA, USA",ericrong
+"""been""","Newark, CA, USA",ericrong
+"""been""","Fremont, CA, USA",ericrong
+"""been""","Pismo Beach, CA, USA",ericrong
+"""been""","Irvine, CA, USA",ericrong
+"""been""","Frazier Park, CA, USA",ericrong
+"""want""","Ho Chi Minh City, Vietnam",ericrong
+"""been""","Long Beach, CA, USA",ericrong
+"""been""","Needles, CA, USA",ericrong
+"""been""","Alamosa, CO, USA",ericrong
+"""been""","Pinedale, CA, USA",ericrong
+"""been""","Inglewood, CA, USA",ericrong
+"""been""","Lone Pine, CA, USA",ericrong
+"""been""","National City, CA, USA",ericrong
+"""been""","Lompoc, CA, USA",ericrong
+"""been""","Alexandria, VA, USA",ericrong
+"""been""","Sun Valley, AZ, USA",ericrong
+"""been""","York, UK",ericrong
+"""been""","Cambridge, UK",ericrong
+"""been""","Temple Bar Marina, AZ, USA",ericrong
+"""want""","Yokohama, Japan",ericrong
+"""been""","Seaview, WA, USA",ericrong
+"""been""","South Beach, OR, USA",ericrong
+"""been""","Tempe, AZ, USA",ericrong
+"""been""","Amarillo, TX, USA",ericrong
+"""been""","El Segundo, CA, USA",ericrong
+"""been""","Mesa (Pueblo County), CO, USA",ericrong
+"""want""","Rome, Italy",ericrong
+"""been""","Grover Beach, CA, USA",ericrong
+"""been""","Gong County, China",ericrong
+"""been""","Clearlake Oaks, CA, USA",ericrong
+"""been""","El Monte, CA, USA",ericrong
+"""been""","Orlando, FL, USA",ericrong
+"""been"",""want""","London, UK",ericrong
+"""want""","Munich, Germany",ericrong
+"""been""","Windermere, UK",ericrong
+"""been""","Escondido, CA, USA",ericrong
+"""been""","Union City, CA, USA",ericrong
+"""been""","Encinitas, CA, USA",ericrong
+"""been""","Twin Peaks, CA, USA",ericrong
+"""been""","Williamsport, PA, USA",ericrong
+"""been""","Lake Forest, CA, USA",ericrong
+"""been""","Lake Elsinore, CA, USA",ericrong
+"""been""","Bridgeport, CA, USA",ericrong
+"""been""","Lake Havasu City, AZ, USA",ericrong
+"""been""","Niagara Falls, Ontario, Canada",ericrong
+"""been""","South Lake Tahoe, CA, USA",ericrong
+"""been""","Coalinga, CA, USA",ericrong
+"""been""","Brawley, CA, USA",ericrong
+"""been""","Agoura Hills, CA, USA",ericrong
+"""want""","Pisa, Italy",ericrong
+"""been""","Auckland Central, New Zealand",ericrong
+"""been""","Santa Nella, CA, USA",ericrong
+"""been""","China Lake, CA, USA",ericrong
+"""been""","Marina del Rey, CA, USA",ericrong
+"""been""","Sedona, AZ, USA",ericrong
+"""been""","Gorman, CA, USA",ericrong
+"""been""","Seligman, AZ, USA",ericrong
+"""been""","Scottsdale, AZ, USA",ericrong
+"""been""","Kings Beach, CA, USA",ericrong
+"""been""","Dunsmuir, CA, USA",ericrong
+"""been""","Goleta, CA, USA",ericrong
+"""been""","Sanders, AZ, USA",ericrong
+"""been""","Kettleman City, CA, USA",ericrong
+"""want""","Istanbul, Turkey",ericrong
+"""been""","Columbus, GA, USA",ericrong
+"""want""","Marrakech, Morocco",ericrong
+"""been""","Dover, UK",ericrong
+"""been""","La Jolla, CA, USA",ericrong
+"""been""","Rockaway Beach, OR, USA",ericrong
+"""been""","City of Industry, CA, USA",ericrong
+"""been""","The Woodlands, TX, USA",ericrong
+"""been""","Tokyo, Japan",ericrong
+"""been""","Raymond, WA, USA",ericrong
+"""been""","Yunyang County, China",ericrong
+"""been""","Chula Vista, CA, USA",ericrong
+"""been""","El Cajon, CA, USA",ericrong
+"""want""","Madrid, Spain",ericrong
+"""been""","Reno, NV, USA",ericrong
+"""been""","Baddeck, Nova Scotia, Canada",ericrong

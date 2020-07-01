@@ -1,0 +1,390 @@
+tag,place,user
+"""been""","Arlington, TX, USA",LV_Lee
+"""been""","Burbank, CA, USA",LV_Lee
+"""been""","Maricopa, AZ, USA",LV_Lee
+"""been""","Buena Park, CA, USA",LV_Lee
+"""been""","Corona, CA, USA",LV_Lee
+"""been""","Fallbrook, CA, USA",LV_Lee
+"""want""","Calais, France",LV_Lee
+"""want""","Rosarito, Mexico",LV_Lee
+"""been"",""want""","Hannibal, MO, USA",LV_Lee
+"""been""","Santa Barbara de Samana, Dominican Republic",LV_Lee
+"""been""","San Antonio, TX, USA",LV_Lee
+"""been""","San Francisco, CA, USA",LV_Lee
+"""been""","Cartagena, Colombia",LV_Lee
+"""been""","St. John's, Antigua and Barbuda",LV_Lee
+"""been""","Hesperia, CA, USA",LV_Lee
+"""been""","Mesa, AZ, USA",LV_Lee
+"""been""","Del Rio, TX, USA",LV_Lee
+"""been""","Hermosa Beach, CA, USA",LV_Lee
+"""been"",""want""","Santa Fe, NM, USA",LV_Lee
+"""want""","Manila, Philippines",LV_Lee
+"""want""","Juneau, AK, USA",LV_Lee
+"""been""","Lake Havasu City, AZ, USA",LV_Lee
+"""been""","Boulder, CO, USA",LV_Lee
+"""been""","Palm Coast, FL, USA",LV_Lee
+"""been""","Kuala Lumpur, Malaysia",LV_Lee
+"""been""","Escondido, CA, USA",LV_Lee
+"""been""","Waterbury, VT, USA",LV_Lee
+"""been"",""want""","Como, Italy",LV_Lee
+"""been""","Varenna, Italy",LV_Lee
+"""want""","Nashville, TN, USA",LV_Lee
+"""want""","Trenton, NJ, USA",LV_Lee
+"""been""","Jamaica, NY, USA",LV_Lee
+"""want""","Lincoln, NE, USA",LV_Lee
+"""been""","Pearland, TX, USA",LV_Lee
+"""been""","Basseterre, St. Kitts and Nevis",LV_Lee
+"""been""","El Segundo, CA, USA",LV_Lee
+"""been""","Surprise, AZ, USA",LV_Lee
+"""want""","Olympia, WA, USA",LV_Lee
+"""been""","Burlington, VT, USA",LV_Lee
+"""been""","Jerome, AZ, USA",LV_Lee
+"""want""","Montpelier, VT, USA",LV_Lee
+"""been""","Tempe, AZ, USA",LV_Lee
+"""been""","Edmonton, Alberta, Canada",LV_Lee
+"""been""","Puerto Vallarta, Mexico",LV_Lee
+"""been""","Laguna Beach, CA, USA",LV_Lee
+"""want""","Mazatlan, Mexico",LV_Lee
+"""been""","Half Moon Bay, CA, USA",LV_Lee
+"""been""","Kingman, AZ, USA",LV_Lee
+"""want""","Lansing, MI, USA",LV_Lee
+"""been""","Chevy Chase, MD, USA",LV_Lee
+"""been""","Cameron, MO, USA",LV_Lee
+"""been""","Fiumicino, Italy",LV_Lee
+"""been""","Bridgetown, Barbados",LV_Lee
+"""want""","Madison, WI, USA",LV_Lee
+"""want""","Honolulu, HI, USA",LV_Lee
+"""been""","Vicksburg, MS, USA",LV_Lee
+"""been""","New Orleans, LA, USA",LV_Lee
+"""been""","La Jolla, CA, USA",LV_Lee
+"""been""","Orlando, FL, USA",LV_Lee
+"""want""","Dublin, Ireland",LV_Lee
+"""want""","Myrtle Beach, SC, USA",LV_Lee
+"""want""","Topeka, KS, USA",LV_Lee
+"""been""","Detroit, MI, USA",LV_Lee
+"""been""","Boston, MA, USA",LV_Lee
+"""want""","Salem, OR, USA",LV_Lee
+"""been""","San Clemente, CA, USA",LV_Lee
+"""been""","San Dimas, CA, USA",LV_Lee
+"""been""","Key West, FL, USA",LV_Lee
+"""been""","Fort Lauderdale, FL, USA",LV_Lee
+"""want""","Green Bay, WI, USA",LV_Lee
+"""been""","Houston, TX, USA",LV_Lee
+"""been""","Carlsbad, CA, USA",LV_Lee
+"""want""","Columbia, SC, USA",LV_Lee
+"""been""","Culver City, CA, USA",LV_Lee
+"""been""","Colorado Springs, CO, USA",LV_Lee
+"""been""","Camp Pendleton, CA, USA",LV_Lee
+"""been""","Baker, CA, USA",LV_Lee
+"""been""","San Bernardino, CA, USA",LV_Lee
+"""been""","Kansas City, KS, USA",LV_Lee
+"""been""","Puerto Iguazu, Argentina",LV_Lee
+"""been""","Columbia, MO, USA",LV_Lee
+"""been"",""want""","Salt Lake City, UT, USA",LV_Lee
+"""want""","Bismarck, ND, USA",LV_Lee
+"""been""","Jacksonville, FL, USA",LV_Lee
+"""been""","Vista, CA, USA",LV_Lee
+"""been""","Philipsburg, St Martin \u002F St Maarten",LV_Lee
+"""want""","Charleston, SC, USA",LV_Lee
+"""been""","Anaheim, CA, USA",LV_Lee
+"""been""","SeaTac, WA, USA",LV_Lee
+"""been""","South San Francisco, CA, USA",LV_Lee
+"""been""","Des Moines, IA, USA",LV_Lee
+"""been""","Central Saanich, British Columbia, Canada",LV_Lee
+"""want""","Helena, MT, USA",LV_Lee
+"""been"",""want""","Savannah, GA, USA",LV_Lee
+"""been""","Albuquerque, NM, USA",LV_Lee
+"""been""","Petrified Forest National Park, AZ, USA",LV_Lee
+"""been""","Baltimore, MD, USA",LV_Lee
+"""been""","Plano, TX, USA",LV_Lee
+"""been""","Coronado, CA, USA",LV_Lee
+"""been""","Austin, TX, USA",LV_Lee
+"""been""","Victorville, CA, USA",LV_Lee
+"""been""","Calabasas, CA, USA",LV_Lee
+"""want""","Tallahassee, FL, USA",LV_Lee
+"""been""","Miami, FL, USA",LV_Lee
+"""been""","Stowe, VT, USA",LV_Lee
+"""been""","Miami Beach, FL, USA",LV_Lee
+"""want""","Tampa, FL, USA",LV_Lee
+"""been""","Rio Grande, Puerto Rico",LV_Lee
+"""want""","Bar Harbor, ME, USA",LV_Lee
+"""been""","Providence, RI, USA",LV_Lee
+"""been""","Estes Park, CO, USA",LV_Lee
+"""been""","Tortola, British Virgin Islands",LV_Lee
+"""been""","Hilton Head, SC, USA",LV_Lee
+"""been""","Brooklyn, NY, USA",LV_Lee
+"""want""","Playa del Carmen, Mexico",LV_Lee
+"""been""","Phoenix, AZ, USA",LV_Lee
+"""want""","Baton Rouge, LA, USA",LV_Lee
+"""been""","Panama City, Panama",LV_Lee
+"""been""","Napa, CA, USA",LV_Lee
+"""been""","Lake Charles, LA, USA",LV_Lee
+"""been""","Rockville, MD, USA",LV_Lee
+"""been""","Long Beach, CA, USA",LV_Lee
+"""been""","Galveston, TX, USA",LV_Lee
+"""been""","Vero Beach, FL, USA",LV_Lee
+"""been""","Henderson, NV, USA",LV_Lee
+"""been""","Incline Village, NV, USA",LV_Lee
+"""want""","Cancun, Mexico",LV_Lee
+"""been""","Rocky Mountain National Park, CO, USA",LV_Lee
+"""been""","North Berwick, UK",LV_Lee
+"""want""","Nassau, Bahamas",LV_Lee
+"""been""","Littlerock, CA, USA",LV_Lee
+"""been""","Azusa, CA, USA",LV_Lee
+"""been""","Fillmore, UT, USA",LV_Lee
+"""been""","Livermore, CA, USA",LV_Lee
+"""been""","Huntington Beach, CA, USA",LV_Lee
+"""want""","Augusta, ME, USA",LV_Lee
+"""been""","Avalon, CA, USA",LV_Lee
+"""been""","Sacramento, CA, USA",LV_Lee
+"""been""","Peoria, AZ, USA",LV_Lee
+"""want""","Quebec City, Quebec, Canada",LV_Lee
+"""been"",""want""","Montreal, Quebec, Canada",LV_Lee
+"""want""","Pittsburgh, PA, USA",LV_Lee
+"""want""","Rapid City, SD, USA",LV_Lee
+"""been""","Rock Port, MO, USA",LV_Lee
+"""been""","Zion National Park, UT, USA",LV_Lee
+"""been""","Winslow, AZ, USA",LV_Lee
+"""been""","Moreno Valley, CA, USA",LV_Lee
+"""want""","Pebble Beach, CA, USA",LV_Lee
+"""been"",""want""","Singapore, Singapore",LV_Lee
+"""been""","Hobart, Australia",LV_Lee
+"""want""","Cape Town Central, South Africa",LV_Lee
+"""want""","Pierre, SD, USA",LV_Lee
+"""been""","Kingsbarns, UK",LV_Lee
+"""been""","Wenatchee, WA, USA",LV_Lee
+"""been""","Puerto Rico, Caribbean",LV_Lee
+"""want""","Charleston, WV, USA",LV_Lee
+"""been""","Maui, HI, USA",LV_Lee
+"""been""","Monterey, CA, USA",LV_Lee
+"""been""","Anacoco, LA, USA",LV_Lee
+"""been""","Pasadena, CA, USA",LV_Lee
+"""been""","Westwood, CA, USA",LV_Lee
+"""been""","Williams, AZ, USA",LV_Lee
+"""been""","Riverside, CA, USA",LV_Lee
+"""been""","Alexandria, LA, USA",LV_Lee
+"""been""","Barstow, CA, USA",LV_Lee
+"""want""","Saint Paul, MN, USA",LV_Lee
+"""want""","Lisbon, Portugal",LV_Lee
+"""been""","Lido di Venezia, Italy",LV_Lee
+"""been""","Montego Bay, Jamaica",LV_Lee
+"""want""","Carson City, NV, USA",LV_Lee
+"""been""","Scottsdale, AZ, USA",LV_Lee
+"""been""","Marina del Rey, CA, USA",LV_Lee
+"""been""","Glendale, AZ, USA",LV_Lee
+"""been"",""want""","Sedona, AZ, USA",LV_Lee
+"""been""","Goodyear, AZ, USA",LV_Lee
+"""been""","Oslo, Norway",LV_Lee
+"""been""","Primm, NV, USA",LV_Lee
+"""been""","Reno, NV, USA",LV_Lee
+"""want""","Cairo, Egypt",LV_Lee
+"""been""","Altamonte Springs, FL, USA",LV_Lee
+"""been""","Glendale, CA, USA",LV_Lee
+"""been""","Many, LA, USA",LV_Lee
+"""been""","Malibu, CA, USA",LV_Lee
+"""been""","Mansfield, LA, USA",LV_Lee
+"""been""","Manhattan Beach, CA, USA",LV_Lee
+"""been""","King City, CA, USA",LV_Lee
+"""been""","North Las Vegas, NV, USA",LV_Lee
+"""been"",""want""","Hong Kong, China",LV_Lee
+"""been""","Avondale, AZ, USA",LV_Lee
+"""want""","Minneapolis, MN, USA",LV_Lee
+"""been""","Biloxi, MS, USA",LV_Lee
+"""been""","Kansas City, MO, USA",LV_Lee
+"""been""","Newport Beach, CA, USA",LV_Lee
+"""been""","Death Valley National Park, CA, USA",LV_Lee
+"""been""","Arlington, VA, USA",LV_Lee
+"""been""","Silver Spring, MD, USA",LV_Lee
+"""been""","Bossier City, LA, USA",LV_Lee
+"""been""","Vienna, Austria",LV_Lee
+"""been""","Gilroy, CA, USA",LV_Lee
+"""been""","Fort Polk, LA, USA",LV_Lee
+"""been"",""want""","St. Petersburg, FL, USA",LV_Lee
+"""been""","Milwaukee, WI, USA",LV_Lee
+"""want""","Annapolis, MD, USA",LV_Lee
+"""been""","Saint Louis, MO, USA",LV_Lee
+"""been""","Saint Joseph, MO, USA",LV_Lee
+"""been""","Portland, OR, USA",LV_Lee
+"""been""","Catalina Island, CA, USA",LV_Lee
+"""been""","Mount Charleston, NV, USA",LV_Lee
+"""been""","Grand Canyon National Park, AZ, USA",LV_Lee
+"""want""","Jefferson City, MO, USA",LV_Lee
+"""been""","Buenos Aires, Argentina",LV_Lee
+"""been""","Irvine, CA, USA",LV_Lee
+"""been""","Los Angeles, CA, USA",LV_Lee
+"""been"",""want""","Toronto, Ontario, Canada",LV_Lee
+"""been""","Sugar Land, TX, USA",LV_Lee
+"""been""","Florien, LA, USA",LV_Lee
+"""been""","Fresno, CA, USA",LV_Lee
+"""been""","Leesville, LA, USA",LV_Lee
+"""been""","Chicago, IL, USA",LV_Lee
+"""want""","Bengaluru, India",LV_Lee
+"""been"",""fave""","Las Vegas, NV, USA",LV_Lee
+"""been""","Budapest, Hungary",LV_Lee
+"""been""","Laughlin, NV, USA",LV_Lee
+"""been""","Brighton, Australia",LV_Lee
+"""been""","Amsterdam, The Netherlands",LV_Lee
+"""been""","Springdale, UT, USA",LV_Lee
+"""been""","Shreveport, LA, USA",LV_Lee
+"""been""","North Vancouver, British Columbia, Canada",LV_Lee
+"""want""","Columbus, OH, USA",LV_Lee
+"""been""","Southampton, UK",LV_Lee
+"""want""","Zurich, Switzerland",LV_Lee
+"""been""","Paris, France",LV_Lee
+"""want""","Frankfort, KY, USA",LV_Lee
+"""been""","Salzburg, Austria",LV_Lee
+"""been""","Niagara Falls, NY, USA",LV_Lee
+"""been""","Bondi, Australia",LV_Lee
+"""been""","Copenhagen, Denmark",LV_Lee
+"""been""","Woking, UK",LV_Lee
+"""been""","Cleveland, OH, USA",LV_Lee
+"""want""","Raleigh, NC, USA",LV_Lee
+"""been""","Pleasanton, CA, USA",LV_Lee
+"""been""","Pojoaque, NM, USA",LV_Lee
+"""been""","Sandwich, UK",LV_Lee
+"""been""","Ruston, LA, USA",LV_Lee
+"""want""","Montgomery, AL, USA",LV_Lee
+"""been""","Sihanoukville, Cambodia",LV_Lee
+"""want""","Barcelona, Spain",LV_Lee
+"""been""","Picton, New Zealand",LV_Lee
+"""been""","Bruges, Belgium",LV_Lee
+"""been""","Carnoustie, UK",LV_Lee
+"""been""","Akaroa, New Zealand",LV_Lee
+"""been""","Pala, CA, USA",LV_Lee
+"""been""","Rocca di Papa, Italy",LV_Lee
+"""been""","Palo Alto, CA, USA",LV_Lee
+"""been""","Dallas, TX, USA",LV_Lee
+"""want""","Albany, NY, USA",LV_Lee
+"""want""","Athens, Greece",LV_Lee
+"""want""","Monument Valley, UT, USA",LV_Lee
+"""been""","Zeebrugge, Belgium",LV_Lee
+"""been""","DeRidder, LA, USA",LV_Lee
+"""been""","Natchitoches, LA, USA",LV_Lee
+"""been""","Redlands, CA, USA",LV_Lee
+"""been""","Kennebunkport, ME, USA",LV_Lee
+"""been""","Redondo Beach, CA, USA",LV_Lee
+"""want""","Hartford, CT, USA",LV_Lee
+"""been""","Milpitas, CA, USA",LV_Lee
+"""want""","Belfast, UK",LV_Lee
+"""been""","Rancho Cucamonga, CA, USA",LV_Lee
+"""been""","Orange, CA, USA",LV_Lee
+"""been""","Las Vegas, NM, USA",LV_Lee
+"""been""","Niteroi, Brazil",LV_Lee
+"""been""","Ontario, CA, USA",LV_Lee
+"""been""","Rio de Janeiro, Brazil",LV_Lee
+"""want""","Harrisburg, PA, USA",LV_Lee
+"""been"",""want""","Berlin, Germany",LV_Lee
+"""been""","Jackson, MS, USA",LV_Lee
+"""been""","Park City, UT, USA",LV_Lee
+"""been""","Oakland, CA, USA",LV_Lee
+"""been""","Ogunquit, ME, USA",LV_Lee
+"""been""","Oceanside, CA, USA",LV_Lee
+"""been""","Bratislava, Slovakia",LV_Lee
+"""been"",""want""","Sydney, Australia",LV_Lee
+"""want""","Oklahoma City, OK, USA",LV_Lee
+"""want""","Frankfurt, Germany",LV_Lee
+"""been""","Monroe, LA, USA",LV_Lee
+"""want""","Philadelphia, PA, USA",LV_Lee
+"""been""","Saint Albans, VT, USA",LV_Lee
+"""been""","Yorba Linda, CA, USA",LV_Lee
+"""want""","Halifax, Nova Scotia, Canada",LV_Lee
+"""been""","Cheektowaga, NY, USA",LV_Lee
+"""been""","Munich, Germany",LV_Lee
+"""been""","Stateline, NV, USA",LV_Lee
+"""want""","Cheyenne, WY, USA",LV_Lee
+"""want""","Bodega Bay, CA, USA",LV_Lee
+"""been""","The Hague, The Netherlands",LV_Lee
+"""been""","Portland, ME, USA",LV_Lee
+"""been""","Tracy, CA, USA",LV_Lee
+"""want""","Memphis, TN, USA",LV_Lee
+"""been""","Torrance, CA, USA",LV_Lee
+"""been""","London, UK",LV_Lee
+"""been""","Temecula, CA, USA",LV_Lee
+"""been""","McDonough, GA, USA",LV_Lee
+"""been"",""want""","Santa Barbara, CA, USA",LV_Lee
+"""been""","Rome, Italy",LV_Lee
+"""been""","Santa Clara, CA, USA",LV_Lee
+"""been""","Vatican City, Vatican City",LV_Lee
+"""been""","Williamsville, NY, USA",LV_Lee
+"""want""","Brussels, Belgium",LV_Lee
+"""been""","Santa Monica, CA, USA",LV_Lee
+"""been""","Irving, TX, USA",LV_Lee
+"""been""","Berkeley, CA, USA",LV_Lee
+"""been""","Tokyo, Japan",LV_Lee
+"""want""","Dover, DE, USA",LV_Lee
+"""been""","Corvallis, OR, USA",LV_Lee
+"""been""","San Simeon, CA, USA",LV_Lee
+"""want""","Douglas, UK",LV_Lee
+"""want""","Dover, UK",LV_Lee
+"""been""","Beverly Hills, CA, USA",LV_Lee
+"""want""","Agadir, Morocco",LV_Lee
+"""been""","Olathe, KS, USA",LV_Lee
+"""been""","San Jose, CA, USA",LV_Lee
+"""been""","Fort Walton Beach, FL, USA",LV_Lee
+"""been""","Denver, CO, USA",LV_Lee
+"""been""","Clackamas, OR, USA",LV_Lee
+"""been""","Cape Canaveral, FL, USA",LV_Lee
+"""been""","Florence, Italy",LV_Lee
+"""want""","Pisa, Italy",LV_Lee
+"""been""","Helsingborg, Sweden",LV_Lee
+"""been""","San Diego, CA, USA",LV_Lee
+"""want""","Moscow, Russia",LV_Lee
+"""want""","Wellington, New Zealand",LV_Lee
+"""been""","Lahaina, HI, USA",LV_Lee
+"""been""","Dunedin, New Zealand",LV_Lee
+"""want""","Big Sky, MT, USA",LV_Lee
+"""want""","Concord, NH, USA",LV_Lee
+"""want""","Bandon, OR, USA",LV_Lee
+"""been""","Seattle, WA, USA",LV_Lee
+"""want""","Yellowstone National Park, WY, USA",LV_Lee
+"""been""","St. Andrews, UK",LV_Lee
+"""been""","Cold Lake, Alberta, Canada",LV_Lee
+"""been""","Leavenworth, WA, USA",LV_Lee
+"""been""","York, ME, USA",LV_Lee
+"""been""","Boulder City, NV, USA",LV_Lee
+"""want""","Anchorage, AK, USA",LV_Lee
+"""been""","Little Rock, AR, USA",LV_Lee
+"""want""","Springfield, IL, USA",LV_Lee
+"""been""","Victoria, British Columbia, Canada",LV_Lee
+"""been""","Cedar City, UT, USA",LV_Lee
+"""want""","Whistler, British Columbia, Canada",LV_Lee
+"""been""","Omaha, NE, USA",LV_Lee
+"""been""","New York City, NY, USA",LV_Lee
+"""been"",""want""","Venice, Italy",LV_Lee
+"""been""","St. George, UT, USA",LV_Lee
+"""been""","Bangkok, Thailand",LV_Lee
+"""been"",""fave""","Vancouver, British Columbia, Canada",LV_Lee
+"""want""","Indianapolis, IN, USA",LV_Lee
+"""been""","Ho Chi Minh City, Vietnam",LV_Lee
+"""been""","Deltona, FL, USA",LV_Lee
+"""been""","Newton, MA, USA",LV_Lee
+"""want""","Boise, ID, USA",LV_Lee
+"""been""","Norcross, GA, USA",LV_Lee
+"""want""","Madrid, Spain",LV_Lee
+"""been""","West Byfleet, UK",LV_Lee
+"""want""","Helsinki, Finland",LV_Lee
+"""want""","Richmond, VA, USA",LV_Lee
+"""been""","Weymouth, MA, USA",LV_Lee
+"""been"",""want""","Atlanta, GA, USA",LV_Lee
+"""been""","Rockland, ME, USA",LV_Lee
+"""want""","Winnipeg, Manitoba, Canada",LV_Lee
+"""want""","Jaipur, India",LV_Lee
+"""been""","Jurupa Valley, CA, USA",LV_Lee
+"""been""","Manchester, NH, USA",LV_Lee
+"""been""","Milan, Italy",LV_Lee
+"""been""","South Lake Tahoe, CA, USA",LV_Lee
+"""been""","Kemah, TX, USA",LV_Lee
+"""been""","Daytona Beach, FL, USA",LV_Lee
+"""been""","Sandy Springs, GA, USA",LV_Lee
+"""want""","Auckland Central, New Zealand",LV_Lee
+"""been""","Louisville, KY, USA",LV_Lee
+"""been""","Napier, New Zealand",LV_Lee
+"""been""","Death Valley Junction, CA, USA",LV_Lee
+"""been""","Bellevue, WA, USA",LV_Lee
+"""been""","Dayton, OH, USA",LV_Lee
+"""been""","Washington DC, DC, USA",LV_Lee
+"""been""","Bandar Seri Begawan, Brunei Darussalam",LV_Lee
+"""been""","Hershey, PA, USA",LV_Lee
+"""been""","Taos, NM, USA",LV_Lee
+"""been""","Warwick, UK",LV_Lee
+"""been""","Edinburgh, UK",LV_Lee
