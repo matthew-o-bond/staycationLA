@@ -40,7 +40,7 @@ def result():
         citywords = pickle.load(open('city_' + cityname + '_keyword_list.pkl', 'rb'))
 
 
-        return render_template('result.html', send_name= cityname, senddf=table_to_print, keyword1=citywords[0], keyword2 = citywords[1], keyword3=citywords[2]) 
+        return render_template('result.html', send_name= cityname, senddf=table_to_print, keyword1=citywords[0], keyword2 = citywords[1], keyword3=citywords[2], keyword4=citywords[3], keyword5=citywords[4]) 
         #return render_template('result.html', sendtext=cityname)
         #return render_template('result.html')
         
